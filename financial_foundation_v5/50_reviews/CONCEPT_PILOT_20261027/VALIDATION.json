@@ -1,0 +1,66 @@
+{
+  "version": "v5",
+  "date": "2026-10-27",
+  "maintenance_revision": "gold_concepts_pilot_20261027",
+  "objects": 163,
+  "mechanisms": 71,
+  "initial_build_nodes": 234,
+  "complete_nodes": 6,
+  "pending_nodes": 228,
+  "complete_concepts": 4,
+  "complete_mechanisms": 2,
+  "new_complete_ids": [
+    "C-IR-POLICY",
+    "C-ASSET-GOLD"
+  ],
+  "gold_mechanism_concept_ids": [
+    "C-IR-REAL",
+    "C-ASSET-GOLD",
+    "C-IR-POLICY"
+  ],
+  "gold_mechanism_concepts_complete": 3,
+  "selection_names_ids_order_and_associations_unchanged": true,
+  "baseline_preserved": true,
+  "unchanged_trees": {
+    "30_events": {
+      "files": 10,
+      "byte_identical": true
+    },
+    "40_sources": {
+      "files": 8,
+      "byte_identical": true
+    },
+    "assets": {
+      "files": 47,
+      "byte_identical": true
+    }
+  },
+  "original_four_economic_documents_unchanged_except_navigation": {
+    "10_concepts/C-IR-TERM_term_premium.md": true,
+    "10_concepts/C-IR-REAL_real_interest_rate.md": true,
+    "20_mechanisms/R-FISCAL-LONGYIELD_fiscal_long_yields.md": true,
+    "20_mechanisms/R-GOLD-REALRATES_real_rates_gold.md": true
+  },
+  "policy_first_draft_economic_text_retained": true,
+  "source_counts": {
+    "C-ASSET-GOLD_gold.md": 16,
+    "C-IR-POLICY_policy_rate_target_range.md": 18
+  },
+  "input_hashes_verified": 19,
+  "live_markdown_pages_checked": 43,
+  "local_links_checked": 917,
+  "local_anchors_checked": 613,
+  "link_check_exclusions": [
+    "historical review snapshots",
+    "POLICY_FIRST_DRAFT.md (byte-preserved original path context)",
+    "code examples"
+  ],
+  "editorial_review": "50_reviews/CONCEPT_PILOT_20261027/MAIN_REVIEW.md",
+  "limitations": [
+    "228 selected node documents remain to be authored.",
+    "Automated checks verify structure and preservation, not every external factual statement.",
+    "Main reviewed both new pages and selected primary evidence; policy page history ends 2024-12-18, gold market evidence ends 2026-07-30.",
+    "This pilot used one subagent for one new concept; simultaneous multi-agent scale is not yet tested."
+  ],
+  "errors": []
+}

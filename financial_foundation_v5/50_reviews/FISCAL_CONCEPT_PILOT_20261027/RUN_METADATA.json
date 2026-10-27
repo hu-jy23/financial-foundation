@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-27",
+  "task": "国债供给的定价机制关联Concepts试产",
+  "mechanism_id": "R-FISCAL-LONGYIELD",
+  "requested_max_concepts_per_subagent": 3,
+  "main_authored_concept_ids": [
+    "C-LIQ-FUND"
+  ],
+  "existing_complete_concept_ids": [
+    "C-IR-REAL",
+    "C-IR-TERM"
+  ],
+  "agents": [
+    {
+      "agent": "/root/fiscal_tga_concepts",
+      "model": "gpt-6-astra",
+      "reasoning_effort": "medium",
+      "fork_turns": "none",
+      "concept_ids": [
+        "C-FISCAL-DEFICIT",
+        "C-MONEY-13"
+      ],
+      "first_draft_sha256": {
+        "C-FISCAL-DEFICIT": "4370fff5b913626222d372caa23ba720f1862d3d257d55b1c0f5e4ef9c50b24a",
+        "C-MONEY-13": "1cff115b9d880f08fd6539349ebf7f142cb1a645bab93e5e5e12c5d649d9cedb"
+      },
+      "result": "accepted_after_main_full_read_and_selected_primary_source_checks",
+      "economic_text_rewritten_by_main": false
+    },
+    {
+      "agent": "/root/cbbs_qe_qt_concepts",
+      "model": "gpt-6-astra",
+      "reasoning_effort": "medium",
+      "fork_turns": "none",
+      "concept_ids": [
+        "C-MONEY-CBBS",
+        "C-POL-QE",
+        "C-POL-QT"
+      ],
+      "first_draft_sha256": {
+        "C-MONEY-CBBS": "2cc17162efae03a7863e257a4a3ae67f69d018dfdc2c70cc9357cb981b239fdd",
+        "C-POL-QE": "40f8964b86dd415a88835ce86975965e173415aaa342145aac4fa3355b143c22",
+        "C-POL-QT": "e77fbd7a31e102eede055b7567203e5385bb26a53469c3a36c7b5f74c56fa574"
+      },
+      "result": "accepted_after_main_full_read_and_selected_primary_source_checks",
+      "economic_text_rewritten_by_main": false
+    }
+  ],
+  "new_concept_ids": [
+    "C-FISCAL-DEFICIT",
+    "C-MONEY-13",
+    "C-LIQ-FUND",
+    "C-MONEY-CBBS",
+    "C-POL-QE",
+    "C-POL-QT"
+  ],
+  "main_review": "MAIN_REVIEW.md",
+  "scope": "existing selected concept IDs only; no Event/Source production"
+}

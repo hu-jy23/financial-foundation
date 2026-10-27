@@ -1,0 +1,2445 @@
+[
+  {
+    "number": 1,
+    "id": "C-BASIC-NOMREAL",
+    "name": "名义量与实际量",
+    "keep": false,
+    "reason": "通用价格调整口径，应作为具体指标的属性而非金融节点。"
+  },
+  {
+    "number": 2,
+    "id": "C-FOUND-02",
+    "name": "存量与流量",
+    "keep": false,
+    "reason": "通用时点与期间分类，无法形成有边界的金融邻接关系。"
+  },
+  {
+    "number": 3,
+    "id": "C-FOUND-03",
+    "name": "水平、变化与增长率",
+    "keep": false,
+    "reason": "基础数量表达，知识内容主要是一句定义与换算。"
+  },
+  {
+    "number": 4,
+    "id": "C-FOUND-04",
+    "name": "同比、环比与年化",
+    "keep": false,
+    "reason": "通用时间比较口径，适合数据规范。"
+  },
+  {
+    "number": 5,
+    "id": "C-FOUND-05",
+    "name": "季节调整与基数效应",
+    "keep": false,
+    "reason": "数据处理与比较注意事项，不是独立金融对象。"
+  },
+  {
+    "number": 6,
+    "id": "C-FOUND-06",
+    "name": "价格指数与权重",
+    "keep": false,
+    "reason": "泛化指数编制知识，应归入CPI等具体指数。"
+  },
+  {
+    "number": 7,
+    "id": "C-BASIC-RETURN",
+    "name": "收益率与总回报",
+    "keep": false,
+    "reason": "通用回报计算口径，留在资产收益字段即可。"
+  },
+  {
+    "number": 8,
+    "id": "C-BASIC-DISCOUNT",
+    "name": "折现与现值",
+    "keep": false,
+    "reason": "普遍估值运算，关系覆盖几乎全部资产而缺少对象边界。"
+  },
+  {
+    "number": 9,
+    "id": "C-FOUND-09",
+    "name": "复利与连续复利",
+    "keep": false,
+    "reason": "基础计息数学，不构成有意义的金融知识节点。"
+  },
+  {
+    "number": 10,
+    "id": "C-FOUND-10",
+    "name": "基点与百分点",
+    "keep": false,
+    "reason": "单位换算常识，不值得独立立项。"
+  },
+  {
+    "number": 11,
+    "id": "C-FOUND-11",
+    "name": "市场价格与估计价值",
+    "keep": false,
+    "reason": "泛化观察值与估计值区别，应属于估值方法说明。"
+  },
+  {
+    "number": 12,
+    "id": "C-BASIC-IDENTITY",
+    "name": "会计恒等式与行为关系",
+    "keep": false,
+    "reason": "推理类别的区分，是关系书写规则。"
+  },
+  {
+    "number": 13,
+    "id": "C-FOUND-13",
+    "name": "内生变量与外生冲击",
+    "keep": false,
+    "reason": "因果分析用语，不指向特定金融对象。"
+  },
+  {
+    "number": 14,
+    "id": "C-FOUND-14",
+    "name": "经济状态与制度状态",
+    "keep": false,
+    "reason": "状态分类框架过宽，需落到具体周期或制度。"
+  },
+  {
+    "number": 15,
+    "id": "C-FOUND-15",
+    "name": "风险与不确定性",
+    "keep": false,
+    "reason": "普遍认识论区分，缺乏限定的金融内容。"
+  },
+  {
+    "number": 16,
+    "id": "C-EXPECT-INFO",
+    "name": "信息集与可得时间",
+    "keep": false,
+    "reason": "数据时间元信息，应进入来源与时间字段。"
+  },
+  {
+    "number": 17,
+    "id": "C-EXPECT-MARKET",
+    "name": "市场预期",
+    "keep": false,
+    "reason": "未限定预期变量与主体，几乎能连接任何金融对象。"
+  },
+  {
+    "number": 18,
+    "id": "C-EXPECT-03",
+    "name": "专业调查预期",
+    "keep": false,
+    "reason": "调查采集方式类别，应附着于具体预期指标。"
+  },
+  {
+    "number": 19,
+    "id": "C-EXPECT-04",
+    "name": "价格隐含预期",
+    "keep": false,
+    "reason": "从价格推断判断的通用方式，应附着具体合约。"
+  },
+  {
+    "number": 20,
+    "id": "C-EXPECT-05",
+    "name": "主观概率与风险中性概率",
+    "keep": true,
+    "reason": "风险中性测度有独特定价含义，可连接期权、隐含分布和风险溢价。"
+  },
+  {
+    "number": 21,
+    "id": "C-EXPECT-06",
+    "name": "预期分歧",
+    "keep": false,
+    "reason": "泛化的意见差异，未限定金融变量，不足以独立成节点。"
+  },
+  {
+    "number": 22,
+    "id": "C-EXPECT-07",
+    "name": "预期不确定性",
+    "keep": false,
+    "reason": "泛化预测分布宽度，属于预期描述属性。"
+  },
+  {
+    "number": 23,
+    "id": "C-EXPECT-SURPRISE",
+    "name": "预期差与意外成分",
+    "keep": false,
+    "reason": "实际相对预期的比较关系，不宜将关系包装成对象。"
+  },
+  {
+    "number": 24,
+    "id": "C-EXPECT-09",
+    "name": "预期修正",
+    "keep": false,
+    "reason": "判断变化的普通描述，应记录在具体预期的时间序列。"
+  },
+  {
+    "number": 25,
+    "id": "C-POL-REACTION",
+    "name": "政策反应函数",
+    "keep": false,
+    "reason": "政策对状态的条件反应本身是关系，宜写在政策与经济变量之间。"
+  },
+  {
+    "number": 26,
+    "id": "C-EXPECT-11",
+    "name": "预期锚定",
+    "keep": false,
+    "reason": "未限定通胀等具体变量，属于预期敏感关系的描述。"
+  },
+  {
+    "number": 27,
+    "id": "C-POL-CREDIBILITY",
+    "name": "央行可信度",
+    "keep": true,
+    "reason": "制度承诺的可信程度具有历史与行为基础，关联通胀预期和政策传导。"
+  },
+  {
+    "number": 28,
+    "id": "C-EXPECT-13",
+    "name": "前瞻指引",
+    "keep": false,
+    "reason": "本轮用户明确要求该组收紧；沟通内容可记入央行工具与政策事件。"
+  },
+  {
+    "number": 29,
+    "id": "C-EXPECT-14",
+    "name": "市场叙事",
+    "keep": false,
+    "reason": "泛化解释框架，无稳定对象边界，容易吸收任意市场故事。"
+  },
+  {
+    "number": 30,
+    "id": "C-EXPECT-15",
+    "name": "投资者注意力",
+    "keep": true,
+    "reason": "注意力稀缺有可观测分配与交易影响，可连接信息覆盖、资金和价格反应。"
+  },
+  {
+    "number": 31,
+    "id": "C-EXPECT-16",
+    "name": "共识与拥挤",
+    "keep": false,
+    "reason": "将认知共识与持仓状态混合，具体持仓拥挤另有专项。"
+  },
+  {
+    "number": 32,
+    "id": "C-EXPECT-17",
+    "name": "数据修订与实时版本",
+    "keep": false,
+    "reason": "数据版本治理内容，应进入指标元数据而非对象目录。"
+  },
+  {
+    "number": 33,
+    "id": "C-EXPECT-18",
+    "name": "预测、解释与因果归因",
+    "keep": false,
+    "reason": "分析任务分类，不是金融世界中的对象。"
+  },
+  {
+    "number": 34,
+    "id": "C-MACRO-01",
+    "name": "名义GDP与实际GDP",
+    "keep": true,
+    "reason": "国民产出具有明确统计体系，可承载增长、财政和需求相关知识。"
+  },
+  {
+    "number": 35,
+    "id": "C-MACRO-02",
+    "name": "GDP平减指数",
+    "keep": true,
+    "reason": "特定产出价格指标，构成与消费价格不同并影响名义增长解释。"
+  },
+  {
+    "number": 36,
+    "id": "C-MACRO-03",
+    "name": "潜在产出",
+    "keep": true,
+    "reason": "可持续供给能力是有约束的宏观估计对象，连接生产率、劳动力与政策。"
+  },
+  {
+    "number": 37,
+    "id": "C-MAC-OUTPUTGAP",
+    "name": "产出缺口",
+    "keep": true,
+    "reason": "特定宏观松紧指标，估计误差和通胀政策关联具有实质内容。"
+  },
+  {
+    "number": 38,
+    "id": "C-MACRO-05",
+    "name": "总需求",
+    "keep": false,
+    "reason": "总括全部支出端，边界过宽且主要复述组成恒等式。"
+  },
+  {
+    "number": 39,
+    "id": "C-MACRO-06",
+    "name": "家庭消费",
+    "keep": true,
+    "reason": "居民实际支出行为有收入、财富和信贷驱动，可形成具体机制。"
+  },
+  {
+    "number": 40,
+    "id": "C-MACRO-07",
+    "name": "储蓄率",
+    "keep": true,
+    "reason": "具备主体与收入口径的经济指标，关联消费和资金积累。"
+  },
+  {
+    "number": 41,
+    "id": "C-MACRO-08",
+    "name": "企业投资与资本开支",
+    "keep": true,
+    "reason": "真实资本配置活动，具有融资、回报与供给形成机制。"
+  },
+  {
+    "number": 42,
+    "id": "C-MACRO-09",
+    "name": "库存与库存周期",
+    "keep": true,
+    "reason": "实物库存状态及补库去库过程，连接订单、生产和价格。"
+  },
+  {
+    "number": 43,
+    "id": "C-MACRO-10",
+    "name": "工业生产与产能利用率",
+    "keep": true,
+    "reason": "具体生产与产能指标，能约束供需压力判断。"
+  },
+  {
+    "number": 44,
+    "id": "C-MACRO-11",
+    "name": "PMI与景气调查",
+    "keep": true,
+    "reason": "有明确调查方法和分项的景气指标，具有金融定价用途。"
+  },
+  {
+    "number": 45,
+    "id": "C-MACRO-12",
+    "name": "经济衰退与软着陆",
+    "keep": true,
+    "reason": "真实宏观运行状态，具有就业、信用和政策条件的实质内容。"
+  },
+  {
+    "number": 46,
+    "id": "C-MACRO-13",
+    "name": "生产率与全要素生产率",
+    "keep": true,
+    "reason": "供给效率指标影响增长和成本，测量与周期问题不止定义。"
+  },
+  {
+    "number": 47,
+    "id": "C-MACRO-14",
+    "name": "人口与劳动供给",
+    "keep": true,
+    "reason": "人口结构及劳动参与形成供给约束，金融联系有明确路径。"
+  },
+  {
+    "number": 48,
+    "id": "C-MACRO-15",
+    "name": "贸易余额与净出口",
+    "keep": true,
+    "reason": "跨境贸易收支指标，连接增长、汇率和外部需求。"
+  },
+  {
+    "number": 49,
+    "id": "C-MACRO-16",
+    "name": "收入分配与边际消费倾向",
+    "keep": true,
+    "reason": "收入分配状态与消费响应异质性可解释财政和需求效果。"
+  },
+  {
+    "number": 50,
+    "id": "C-MACRO-17",
+    "name": "住房价格与家庭净财富",
+    "keep": true,
+    "reason": "居民资产负债的重要存量与价格，连接消费、抵押与信用。"
+  },
+  {
+    "number": 51,
+    "id": "C-INF-INFLATION",
+    "name": "通货膨胀",
+    "keep": true,
+    "reason": "核心宏观状态，具有分项、持续性和货币信用关系。"
+  },
+  {
+    "number": 52,
+    "id": "C-INFLATION-02",
+    "name": "通缩与去通胀",
+    "keep": true,
+    "reason": "价格下行及减速是不同经济状态，债务与政策后果有具体内容。"
+  },
+  {
+    "number": 53,
+    "id": "C-INFLATION-03",
+    "name": "消费者价格指数CPI",
+    "keep": true,
+    "reason": "具体统计对象，篮子和租金口径影响通胀判断与资产定价。"
+  },
+  {
+    "number": 54,
+    "id": "C-INFLATION-04",
+    "name": "个人消费支出价格指数PCE",
+    "keep": true,
+    "reason": "明确消费价格指标，权重及政策用途值得专门知识。"
+  },
+  {
+    "number": 55,
+    "id": "C-INFLATION-05",
+    "name": "生产者价格指数PPI",
+    "keep": true,
+    "reason": "生产环节价格指标，连接成本、利润和消费端传导。"
+  },
+  {
+    "number": 56,
+    "id": "C-INFLATION-06",
+    "name": "核心通胀",
+    "keep": true,
+    "reason": "可识别的通胀指标族，剔除口径及持续性判断有金融意义。"
+  },
+  {
+    "number": 57,
+    "id": "C-INFLATION-07",
+    "name": "服务、商品与住房通胀",
+    "keep": true,
+    "reason": "不同价格部门有不同粘性与供给约束，可支撑具体通胀关系。"
+  },
+  {
+    "number": 58,
+    "id": "C-INF-EXPECT",
+    "name": "通胀预期",
+    "keep": true,
+    "reason": "变量被限定为通胀，具有工资定价、利率与央行可信度联系。"
+  },
+  {
+    "number": 59,
+    "id": "C-INFLATION-09",
+    "name": "通胀风险溢价",
+    "keep": true,
+    "reason": "可识别的风险补偿成分，影响名义债与TIPS的相对定价。"
+  },
+  {
+    "number": 60,
+    "id": "C-INFLATION-10",
+    "name": "工资增长",
+    "keep": true,
+    "reason": "劳动力价格变化是实际收入与成本对象，有组成和粘性问题。"
+  },
+  {
+    "number": 61,
+    "id": "C-INFLATION-11",
+    "name": "失业率与劳动参与率",
+    "keep": true,
+    "reason": "明确劳动力统计指标，分母变化与闲置产能判断具有实质意义。"
+  },
+  {
+    "number": 62,
+    "id": "C-INFLATION-12",
+    "name": "非农就业与职位空缺",
+    "keep": true,
+    "reason": "具体就业和招聘指标，发布修订及职位匹配有金融影响。"
+  },
+  {
+    "number": 63,
+    "id": "C-INFLATION-13",
+    "name": "单位劳动成本",
+    "keep": true,
+    "reason": "单位产出劳动成本是工资与生产率共同作用的特定指标。"
+  },
+  {
+    "number": 64,
+    "id": "C-INFLATION-14",
+    "name": "劳动力市场紧张度",
+    "keep": true,
+    "reason": "具体劳动供求状态，可连接工资议价、空缺和政策。"
+  },
+  {
+    "number": 65,
+    "id": "C-INFLATION-15",
+    "name": "市场租金与统计租金",
+    "keep": true,
+    "reason": "租金市场与统计口径之间存在实际滞后，影响住房通胀。"
+  },
+  {
+    "number": 66,
+    "id": "C-IR-NOMINAL",
+    "name": "名义利率",
+    "keep": true,
+    "reason": "金融合约直接使用的资金价格，币种、信用和期限结构具备实质内容。"
+  },
+  {
+    "number": 67,
+    "id": "C-IR-REAL",
+    "name": "实际利率",
+    "keep": true,
+    "reason": "购买力口径资金成本，连接通胀预期、投资与实际债券。"
+  },
+  {
+    "number": 68,
+    "id": "C-IR-RSTAR",
+    "name": "自然利率r*",
+    "keep": true,
+    "reason": "特定均衡利率估计对象，金融政策用途和估计局限明确。"
+  },
+  {
+    "number": 69,
+    "id": "C-IR-POLICY",
+    "name": "政策利率与目标区间",
+    "keep": true,
+    "reason": "央行可操作的利率目标，传导和执行机制具体。"
+  },
+  {
+    "number": 70,
+    "id": "C-RATE-05",
+    "name": "有效联邦基金利率EFFR",
+    "keep": true,
+    "reason": "具体美国货币市场基准，交易样本和政策执行关系明确。"
+  },
+  {
+    "number": 71,
+    "id": "C-RATE-06",
+    "name": "SOFR与担保融资基准",
+    "keep": true,
+    "reason": "实际担保融资基准，抵押品与市场结构具有专门知识。"
+  },
+  {
+    "number": 72,
+    "id": "C-RATE-07",
+    "name": "隔夜指数掉期OIS",
+    "keep": true,
+    "reason": "真实利率互换工具，现金流与政策路径暴露可明确描述。"
+  },
+  {
+    "number": 73,
+    "id": "C-RATE-08",
+    "name": "联邦基金期货",
+    "keep": true,
+    "reason": "真实期货合约，结算方式决定其政策预期含义。"
+  },
+  {
+    "number": 74,
+    "id": "C-IR-CURVE",
+    "name": "收益率曲线",
+    "keep": true,
+    "reason": "有具体期限与市场的价格结构，反映融资、风险与政策信息。"
+  },
+  {
+    "number": 75,
+    "id": "C-RATE-10",
+    "name": "即期利率与远期利率",
+    "keep": true,
+    "reason": "可由债券和远期合约观测的期限价格对象，具有套利约束。"
+  },
+  {
+    "number": 76,
+    "id": "C-RATE-11",
+    "name": "到期收益率",
+    "keep": true,
+    "reason": "重要债券报价指标，其再投资假设和现金流约束超过简单换算。"
+  },
+  {
+    "number": 77,
+    "id": "C-IR-TERM",
+    "name": "期限溢价",
+    "keep": true,
+    "reason": "债券期限风险的具体定价成分，连接久期供给和避险需求。"
+  },
+  {
+    "number": 78,
+    "id": "C-IR-BEI",
+    "name": "盈亏平衡通胀率BEI",
+    "keep": true,
+    "reason": "具体跨券种利差，通胀补偿与流动性污染均需知识支撑。"
+  },
+  {
+    "number": 79,
+    "id": "C-RATE-14",
+    "name": "实际期限溢价",
+    "keep": true,
+    "reason": "实际债券久期风险补偿，区别于通胀风险而有独立内容。"
+  },
+  {
+    "number": 80,
+    "id": "C-RATE-15",
+    "name": "利率期限结构模型",
+    "keep": false,
+    "reason": "模型方法族应作为曲线和期限溢价的估计方法，不是金融对象。"
+  },
+  {
+    "number": 81,
+    "id": "C-RATE-16",
+    "name": "利率波动率",
+    "keep": true,
+    "reason": "真实利率风险状态及衍生品报价对象，具有期限与市场结构。"
+  },
+  {
+    "number": 82,
+    "id": "C-MONEY-01",
+    "name": "基础货币",
+    "keep": true,
+    "reason": "央行负债的具体货币集合，制度构成与银行准备金关系明确。"
+  },
+  {
+    "number": 83,
+    "id": "C-MONEY-RESERVES",
+    "name": "银行准备金",
+    "keep": true,
+    "reason": "银行持有的央行结算资产，数量分布和约束具有金融作用。"
+  },
+  {
+    "number": 84,
+    "id": "C-MONEY-03",
+    "name": "广义货币与存款",
+    "keep": true,
+    "reason": "实际货币与存款集合，构成变化和信贷关系可明确描述。"
+  },
+  {
+    "number": 85,
+    "id": "C-MONEY-04",
+    "name": "货币创造与银行贷款",
+    "keep": false,
+    "reason": "标题主要表达贷款创造货币的记账机制，宜作为银行、存款间关系。"
+  },
+  {
+    "number": 86,
+    "id": "C-MONEY-CBBS",
+    "name": "央行资产负债表",
+    "keep": true,
+    "reason": "央行真实资产负债结构，是资产购买与资金市场联系的载体。"
+  },
+  {
+    "number": 87,
+    "id": "C-MONEY-06",
+    "name": "公开市场操作",
+    "keep": true,
+    "reason": "具体市场操作活动，工具、期限和交易对手具有制度内容。"
+  },
+  {
+    "number": 88,
+    "id": "C-MONEY-07",
+    "name": "准备金利率与利率走廊",
+    "keep": true,
+    "reason": "货币政策执行制度与价格工具，连接准备金和隔夜利率。"
+  },
+  {
+    "number": 89,
+    "id": "C-POL-QE",
+    "name": "量化宽松QE",
+    "keep": true,
+    "reason": "真实央行购买计划，规模、标的和久期移转有明确内容。"
+  },
+  {
+    "number": 90,
+    "id": "C-POL-QT",
+    "name": "量化紧缩QT",
+    "keep": true,
+    "reason": "真实央行缩表活动，负债调整及融资市场影响具体。"
+  },
+  {
+    "number": 91,
+    "id": "C-MONEY-10",
+    "name": "回购与逆回购",
+    "keep": true,
+    "reason": "抵押融资交易具有实际合约、抵押品和对手方约束。"
+  },
+  {
+    "number": 92,
+    "id": "C-MONEY-11",
+    "name": "常备工具与最后贷款人",
+    "keep": true,
+    "reason": "央行流动性支持安排，准入和抵押条件决定金融稳定作用。"
+  },
+  {
+    "number": 93,
+    "id": "C-MONEY-12",
+    "name": "美元互换额度",
+    "keep": true,
+    "reason": "实际跨央行美元融资安排，网络和期限有专门内容。"
+  },
+  {
+    "number": 94,
+    "id": "C-MONEY-13",
+    "name": "财政部一般账户TGA",
+    "keep": true,
+    "reason": "实际财政现金账户，余额变化连接准备金与国债发行。"
+  },
+  {
+    "number": 95,
+    "id": "C-MONEY-14",
+    "name": "隔夜逆回购ONRRP",
+    "keep": true,
+    "reason": "具体央行工具，参与者与替代投资决定使用量。"
+  },
+  {
+    "number": 96,
+    "id": "C-LIQ-FUND",
+    "name": "融资流动性",
+    "keep": true,
+    "reason": "主体获得融资的实际能力，成本、抵押和额度构成明确约束。"
+  },
+  {
+    "number": 97,
+    "id": "C-LIQ-MARKET",
+    "name": "市场流动性",
+    "keep": true,
+    "reason": "资产交易能力的真实属性，深度和冲击成本具有有限具体联系。"
+  },
+  {
+    "number": 98,
+    "id": "C-MONEY-17",
+    "name": "货币流动性与信用可得性",
+    "keep": false,
+    "reason": "将两种宽泛流动性含义并列，重复准备金、融资流动性和贷款条件。"
+  },
+  {
+    "number": 99,
+    "id": "C-MONEY-18",
+    "name": "金融条件指数FCI",
+    "keep": true,
+    "reason": "有明确成分的综合金融指标，权重和传导解释具有独立价值。"
+  },
+  {
+    "number": 100,
+    "id": "C-MONEY-19",
+    "name": "货币市场基金",
+    "keep": true,
+    "reason": "实际投资中介，资产配置及赎回制度影响短端市场。"
+  },
+  {
+    "number": 101,
+    "id": "C-FISCAL-01",
+    "name": "财政收入与税收",
+    "keep": true,
+    "reason": "真实政府收入来源，税基、税率与周期决定财政资源。"
+  },
+  {
+    "number": 102,
+    "id": "C-FISCAL-02",
+    "name": "政府支出与转移支付",
+    "keep": true,
+    "reason": "真实财政支付活动，购买与转移的需求和分配作用不同。"
+  },
+  {
+    "number": 103,
+    "id": "C-FISCAL-DEFICIT",
+    "name": "财政赤字与初级赤字",
+    "keep": true,
+    "reason": "具体财政余额指标，利息剔除影响债务动力学。"
+  },
+  {
+    "number": 104,
+    "id": "C-FISCAL-04",
+    "name": "政府债务存量",
+    "keep": true,
+    "reason": "实际政府债权债务存量，持有部门与偿付结构重要。"
+  },
+  {
+    "number": 105,
+    "id": "C-FISCAL-05",
+    "name": "债务占GDP比率",
+    "keep": true,
+    "reason": "主权杠杆的特定衡量，名义增长和债务估值影响判断。"
+  },
+  {
+    "number": 106,
+    "id": "C-FISCAL-06",
+    "name": "政府利息负担",
+    "keep": true,
+    "reason": "真实预算支付负担，重定价与到期结构决定压力。"
+  },
+  {
+    "number": 107,
+    "id": "C-FISCAL-07",
+    "name": "国债总发行与净发行",
+    "keep": true,
+    "reason": "真实国债供给活动，滚动偿还与新增资金需求需分别理解。"
+  },
+  {
+    "number": 108,
+    "id": "C-FISCAL-DURATION",
+    "name": "债务期限结构与净久期供给",
+    "keep": true,
+    "reason": "主权债务到期及市场风险供给，连接期限溢价与投资者吸收能力。"
+  },
+  {
+    "number": 109,
+    "id": "C-FISCAL-09",
+    "name": "财政乘数",
+    "keep": false,
+    "reason": "是财政支出到产出的效应参数，宜放在财政政策的关系与证据中。"
+  },
+  {
+    "number": 110,
+    "id": "C-FISCAL-10",
+    "name": "自动稳定器",
+    "keep": true,
+    "reason": "实际税收和福利制度的自动响应机制，有确定实施载体。"
+  },
+  {
+    "number": 111,
+    "id": "C-FISCAL-11",
+    "name": "债务可持续性",
+    "keep": true,
+    "reason": "主权偿债能力的具体约束状态，增长和融资结构使其非平凡。"
+  },
+  {
+    "number": 112,
+    "id": "C-FISCAL-12",
+    "name": "财政空间",
+    "keep": false,
+    "reason": "宽泛的政策余地标签，核心内容已落在债务、负担和融资约束。"
+  },
+  {
+    "number": 113,
+    "id": "C-FISCAL-13",
+    "name": "财政主导",
+    "keep": true,
+    "reason": "财政约束支配货币政策的制度状态，具有可辨认历史与定价作用。"
+  },
+  {
+    "number": 114,
+    "id": "C-FISCAL-14",
+    "name": "主权信用风险与CDS",
+    "keep": true,
+    "reason": "主权违约风险及保险合约有真实损失与市场报价。"
+  },
+  {
+    "number": 115,
+    "id": "C-FISCAL-15",
+    "name": "债务上限与政府停摆",
+    "keep": true,
+    "reason": "具体美国制度约束和事件，触发条件及支付后果需专门知识。"
+  },
+  {
+    "number": 116,
+    "id": "C-FISCAL-16",
+    "name": "预算、拨款与执行",
+    "keep": true,
+    "reason": "实际财政决策与执行程序，法律授权与现金流时差具有金融作用。"
+  },
+  {
+    "number": 117,
+    "id": "C-CREDIT-01",
+    "name": "商业银行资产负债表",
+    "keep": true,
+    "reason": "银行真实资产负债结构，可连接资产损失、融资和资本约束。"
+  },
+  {
+    "number": 118,
+    "id": "C-CREDIT-02",
+    "name": "银行资本与杠杆率",
+    "keep": true,
+    "reason": "实际损失吸收资源及监管指标，影响信贷与风险承担。"
+  },
+  {
+    "number": 119,
+    "id": "C-CREDIT-03",
+    "name": "银行流动性覆盖与稳定融资",
+    "keep": true,
+    "reason": "具体流动性监管约束，资产资格与资金稳定性影响银行配置。"
+  },
+  {
+    "number": 120,
+    "id": "C-CREDIT-04",
+    "name": "净息差NIM",
+    "keep": true,
+    "reason": "银行盈利核心指标，资产负债重定价与存款成本关系明确。"
+  },
+  {
+    "number": 121,
+    "id": "C-CREDIT-05",
+    "name": "贷款标准与贷款需求",
+    "keep": true,
+    "reason": "真实银行放贷条件与借款需求，可识别信用供需变化。"
+  },
+  {
+    "number": 122,
+    "id": "C-CREDIT-SPREAD",
+    "name": "信用利差",
+    "keep": true,
+    "reason": "可交易信用补偿指标，违约、流动性与风险偏好共同决定。"
+  },
+  {
+    "number": 123,
+    "id": "C-CREDIT-07",
+    "name": "违约概率与回收率",
+    "keep": true,
+    "reason": "信用损失的具体风险参数，估计、周期和合同优先级具有实质内容。"
+  },
+  {
+    "number": 124,
+    "id": "C-CREDIT-08",
+    "name": "信用评级与迁移",
+    "keep": true,
+    "reason": "实际评级制度及变化，投资资格和融资成本受到影响。"
+  },
+  {
+    "number": 125,
+    "id": "C-CREDIT-09",
+    "name": "再融资风险",
+    "keep": true,
+    "reason": "债务续接的具体脆弱性，到期与资金条件决定风险。"
+  },
+  {
+    "number": 126,
+    "id": "C-CREDIT-10",
+    "name": "抵押品与折扣率haircut",
+    "keep": true,
+    "reason": "实际融资担保资产与折扣规则，直接限制借款能力。"
+  },
+  {
+    "number": 127,
+    "id": "C-CREDIT-LEVERAGE",
+    "name": "杠杆与去杠杆",
+    "keep": true,
+    "reason": "实际资产负债风险结构及调整行为，连接抛售与信用收缩。"
+  },
+  {
+    "number": 128,
+    "id": "C-CREDIT-12",
+    "name": "影子银行与非银金融",
+    "keep": true,
+    "reason": "真实非银信用中介体系，融资结构与监管边界有明确金融意义。"
+  },
+  {
+    "number": 129,
+    "id": "C-CREDIT-13",
+    "name": "证券化与资产支持证券",
+    "keep": true,
+    "reason": "实际现金流证券化工具，分层、增信和风险转移需专门知识。"
+  },
+  {
+    "number": 130,
+    "id": "C-CREDIT-14",
+    "name": "不良贷款与拨备",
+    "keep": true,
+    "reason": "银行资产损失状态和会计缓冲，影响资本与放贷。"
+  },
+  {
+    "number": 131,
+    "id": "C-CREDIT-15",
+    "name": "挤兑与存款迁移",
+    "keep": true,
+    "reason": "实际存款退出行为，集中度与保险制度决定金融稳定影响。"
+  },
+  {
+    "number": 132,
+    "id": "C-CREDIT-16",
+    "name": "金融周期与系统性风险",
+    "keep": true,
+    "reason": "信用资产共同扩张与系统关联风险，有明确金融危机知识。"
+  },
+  {
+    "number": 133,
+    "id": "C-FX-USD",
+    "name": "美元",
+    "keep": true,
+    "reason": "具体货币及融资资产，支付和储备网络有独立内容。"
+  },
+  {
+    "number": 134,
+    "id": "C-FX-02",
+    "name": "人民币与离岸人民币",
+    "keep": true,
+    "reason": "具体货币的在岸离岸市场，准入和流动性边界重要。"
+  },
+  {
+    "number": 135,
+    "id": "C-FX-03",
+    "name": "日元",
+    "keep": true,
+    "reason": "具体融资货币，利率制度和海外配置形成独特金融关系。"
+  },
+  {
+    "number": 136,
+    "id": "C-FX-04",
+    "name": "欧元与欧元体系",
+    "keep": true,
+    "reason": "真实共同货币体系，跨国财政与结算结构需专门知识。"
+  },
+  {
+    "number": 137,
+    "id": "C-FX-05",
+    "name": "港元联系汇率",
+    "keep": true,
+    "reason": "真实汇率制度，兑换承诺和货币基础变化影响利率。"
+  },
+  {
+    "number": 138,
+    "id": "C-FX-06",
+    "name": "名义汇率与实际汇率",
+    "keep": true,
+    "reason": "实际跨币种价格和竞争力指标，报价及物价结构重要。"
+  },
+  {
+    "number": 139,
+    "id": "C-FX-07",
+    "name": "美元指数DXY与广义美元指数",
+    "keep": true,
+    "reason": "具体汇率指数，权重差异影响美元强弱判断。"
+  },
+  {
+    "number": 140,
+    "id": "C-FX-08",
+    "name": "利差与汇率对冲成本",
+    "keep": true,
+    "reason": "实际跨币种融资价差与对冲费用，影响国际资产配置。"
+  },
+  {
+    "number": 141,
+    "id": "C-FX-09",
+    "name": "远期汇率与掉期点",
+    "keep": true,
+    "reason": "可交易期限汇率价格，资金利率和基差构成明确。"
+  },
+  {
+    "number": 142,
+    "id": "C-FX-10",
+    "name": "跨币种基差",
+    "keep": true,
+    "reason": "实际跨币融资偏离价格，美元供需和资产负债约束具有解释力。"
+  },
+  {
+    "number": 143,
+    "id": "C-FX-11",
+    "name": "国际收支",
+    "keep": true,
+    "reason": "具体跨境交易统计体系，账户构成与融资方式重要。"
+  },
+  {
+    "number": 144,
+    "id": "C-FX-12",
+    "name": "国际投资头寸NIIP",
+    "keep": true,
+    "reason": "实际对外资产负债存量，币种与估值影响外部脆弱性。"
+  },
+  {
+    "number": 145,
+    "id": "C-FX-13",
+    "name": "资本流动与资本管制",
+    "keep": true,
+    "reason": "真实跨境资金活动和限制制度，决定融资与汇率压力。"
+  },
+  {
+    "number": 146,
+    "id": "C-FX-14",
+    "name": "外汇储备",
+    "keep": true,
+    "reason": "实际官方外币资产，配置、可用性与干预能力有专门内容。"
+  },
+  {
+    "number": 147,
+    "id": "C-FX-15",
+    "name": "美元融资依赖",
+    "keep": true,
+    "reason": "实际融资币种依赖与收入错配，构成可识别金融脆弱性。"
+  },
+  {
+    "number": 148,
+    "id": "C-FX-16",
+    "name": "全球美元体系与美元主导地位",
+    "keep": true,
+    "reason": "真实国际货币网络，融资和储备职能具有制度性联系。"
+  },
+  {
+    "number": 149,
+    "id": "C-FX-17",
+    "name": "套息交易",
+    "keep": true,
+    "reason": "真实交易策略，融资币、杠杆和汇率风险决定收益与平仓。"
+  },
+  {
+    "number": 150,
+    "id": "C-FX-18",
+    "name": "外汇干预",
+    "keep": true,
+    "reason": "真实官方外汇交易活动，冲销及储备限制形成具体机制。"
+  },
+  {
+    "number": 151,
+    "id": "C-ASSET-UST",
+    "name": "美国国债",
+    "keep": true,
+    "reason": "特定主权证券，发行、交易和抵押用途有丰富独立内容。"
+  },
+  {
+    "number": 152,
+    "id": "C-IR-TIPS",
+    "name": "美国通胀保值国债TIPS",
+    "keep": true,
+    "reason": "特定通胀挂钩债券，本金规则与流动性影响实际收益率。"
+  },
+  {
+    "number": 153,
+    "id": "C-BOND-03",
+    "name": "中国国债与政策性金融债",
+    "keep": true,
+    "reason": "实际中国债券品种，税收和投资者结构造成定价区别。"
+  },
+  {
+    "number": 154,
+    "id": "C-BOND-04",
+    "name": "地方政府债",
+    "keep": true,
+    "reason": "真实地方政府融资工具，偿债来源与制度约束明确。"
+  },
+  {
+    "number": 155,
+    "id": "C-BOND-05",
+    "name": "投资级公司债",
+    "keep": true,
+    "reason": "具体信用债类别，评级约束和投资需求具有金融作用。"
+  },
+  {
+    "number": 156,
+    "id": "C-BOND-06",
+    "name": "高收益债",
+    "keep": true,
+    "reason": "具体高信用风险证券，违约周期与市场流动性重要。"
+  },
+  {
+    "number": 157,
+    "id": "C-BOND-07",
+    "name": "机构MBS",
+    "keep": true,
+    "reason": "实际按揭证券，提前偿还和负凸性有独特风险。"
+  },
+  {
+    "number": 158,
+    "id": "C-BOND-08",
+    "name": "浮息债FRN",
+    "keep": true,
+    "reason": "实际浮息债工具，重置与利差风险不同于固定息债。"
+  },
+  {
+    "number": 159,
+    "id": "C-BOND-09",
+    "name": "可转债",
+    "keep": true,
+    "reason": "真实复合证券，转股及赎回条款决定非线性风险。"
+  },
+  {
+    "number": 160,
+    "id": "C-BOND-DURATION",
+    "name": "久期、修正久期与DV01",
+    "keep": true,
+    "reason": "利率风险的具体头寸属性，现金流与对冲需求赋予实质内容。"
+  },
+  {
+    "number": 161,
+    "id": "C-BOND-11",
+    "name": "凸性与负凸性",
+    "keep": true,
+    "reason": "债券二阶风险属性，MBS对冲及大幅利率变动使其重要。"
+  },
+  {
+    "number": 162,
+    "id": "C-BOND-12",
+    "name": "收益率曲线陡峭化与平坦化",
+    "keep": false,
+    "reason": "曲线形状变化是已有曲线对象的状态与关系描述。"
+  },
+  {
+    "number": 163,
+    "id": "C-BOND-13",
+    "name": "债券持有收益carry与滚降roll-down",
+    "keep": true,
+    "reason": "实际持债回报来源与策略，融资和曲线条件决定其可实现性。"
+  },
+  {
+    "number": 164,
+    "id": "C-BOND-14",
+    "name": "拍卖、投标倍数与尾差",
+    "keep": true,
+    "reason": "真实国债发行机制及需求指标，参与和结算结构影响定价。"
+  },
+  {
+    "number": 165,
+    "id": "C-BOND-15",
+    "name": "在券与老券on/off-the-run",
+    "keep": true,
+    "reason": "实际债券新旧券分类，流动性和抵押稀缺性形成价差。"
+  },
+  {
+    "number": 166,
+    "id": "C-EQUITY-01",
+    "name": "股票与股权索取权",
+    "keep": true,
+    "reason": "真实资产权利类别，剩余索取权和治理内容构成金融基础。"
+  },
+  {
+    "number": 167,
+    "id": "C-EQUITY-02",
+    "name": "市值、自由流通市值与企业价值",
+    "keep": true,
+    "reason": "企业证券价值与流通规模的具体衡量，影响估值和指数资金。"
+  },
+  {
+    "number": 168,
+    "id": "C-EQ-EARNINGS",
+    "name": "盈利、收入与利润率",
+    "keep": true,
+    "reason": "企业实际经营成果，确认、成本与业务结构有专门知识。"
+  },
+  {
+    "number": 169,
+    "id": "C-EQUITY-04",
+    "name": "经营现金流、资本开支与自由现金流",
+    "keep": true,
+    "reason": "实际企业现金流和投资支出，决定偿债与股东可得现金。"
+  },
+  {
+    "number": 170,
+    "id": "C-EQUITY-05",
+    "name": "净资产与资本回报率ROE/ROIC",
+    "keep": true,
+    "reason": "资本存量及回报指标，杠杆和经营效率影响资产价值。"
+  },
+  {
+    "number": 171,
+    "id": "C-EQUITY-06",
+    "name": "估值倍数PE/PB/EV-EBITDA",
+    "keep": true,
+    "reason": "实际市场估值指标族，盈利周期及行业差异限制可比性。"
+  },
+  {
+    "number": 172,
+    "id": "C-EQ-ERP",
+    "name": "股权风险溢价ERP",
+    "keep": true,
+    "reason": "具体权益风险补偿，估计和利率关系具有定价内容。"
+  },
+  {
+    "number": 173,
+    "id": "C-EQUITY-08",
+    "name": "股息、分红率与回购",
+    "keep": true,
+    "reason": "实际股东支付与回购行为，资本配置和股数变化重要。"
+  },
+  {
+    "number": 174,
+    "id": "C-EQUITY-09",
+    "name": "盈利预期与分析师修正",
+    "keep": true,
+    "reason": "限定为企业盈利预测的可观测对象，覆盖和修正影响定价。"
+  },
+  {
+    "number": 175,
+    "id": "C-EQUITY-10",
+    "name": "成长股与价值股",
+    "keep": true,
+    "reason": "真实投资风格与组合，估值特征和因子暴露有明确边界。"
+  },
+  {
+    "number": 176,
+    "id": "C-EQUITY-11",
+    "name": "股票久期",
+    "keep": true,
+    "reason": "股票现金流期限属性，利率敏感性与估计方式值得独立承载。"
+  },
+  {
+    "number": 177,
+    "id": "C-EQUITY-12",
+    "name": "大小盘与流动性暴露",
+    "keep": true,
+    "reason": "真实股票规模类别及流动性属性，投资者约束与风险不同。"
+  },
+  {
+    "number": 178,
+    "id": "C-EQUITY-13",
+    "name": "周期股与防御股",
+    "keep": true,
+    "reason": "真实盈利周期暴露分类，需求和利润弹性形成具体关系。"
+  },
+  {
+    "number": 179,
+    "id": "C-EQUITY-14",
+    "name": "股票指数与权重方法",
+    "keep": true,
+    "reason": "实际证券指数与编制规则，权重调整产生真实资金交易。"
+  },
+  {
+    "number": 180,
+    "id": "C-EQUITY-15",
+    "name": "股权融资与稀释",
+    "keep": true,
+    "reason": "实际股权发行活动，股数与控制权变化影响原股东权益。"
+  },
+  {
+    "number": 181,
+    "id": "C-EQUITY-16",
+    "name": "公司治理与控制权",
+    "keep": true,
+    "reason": "真实企业权利安排，投票和关联交易影响资本回报。"
+  },
+  {
+    "number": 182,
+    "id": "C-EQUITY-17",
+    "name": "经营杠杆与成本结构",
+    "keep": true,
+    "reason": "企业实际成本结构与利润敏感性，区别于泛化数学杠杆。"
+  },
+  {
+    "number": 183,
+    "id": "C-EQUITY-18",
+    "name": "并购交易与交易条款",
+    "keep": true,
+    "reason": "真实公司交易，支付和交割条款决定事件风险与套利价格。"
+  },
+  {
+    "number": 184,
+    "id": "C-DERIV-01",
+    "name": "期货与远期",
+    "keep": true,
+    "reason": "真实衍生合约，清算、保证金与对手方结构有实质差异。"
+  },
+  {
+    "number": 185,
+    "id": "C-DERIV-02",
+    "name": "期权与权利金",
+    "keep": true,
+    "reason": "真实非线性金融权利，行权和期限条款决定价值。"
+  },
+  {
+    "number": 186,
+    "id": "C-VOL-IVRV",
+    "name": "隐含波动率与实现波动率",
+    "keep": true,
+    "reason": "具体资产风险与期权价格参数，测度差异具有交易意义。"
+  },
+  {
+    "number": 187,
+    "id": "C-DERIV-04",
+    "name": "波动率风险溢价",
+    "keep": true,
+    "reason": "可交易的波动风险补偿，尾部损失与期权供需决定回报。"
+  },
+  {
+    "number": 188,
+    "id": "C-DERIV-05",
+    "name": "波动率期限结构",
+    "keep": true,
+    "reason": "真实期权期限价格结构，事件风险和对冲需求影响形状。"
+  },
+  {
+    "number": 189,
+    "id": "C-DERIV-06",
+    "name": "偏斜skew与微笑smile",
+    "keep": true,
+    "reason": "真实跨执行价波动报价形态，反映尾部保险供需。"
+  },
+  {
+    "number": 190,
+    "id": "C-DERIV-07",
+    "name": "Delta与Gamma",
+    "keep": true,
+    "reason": "具体期权头寸风险属性，做市对冲形成实际资金行为。"
+  },
+  {
+    "number": 191,
+    "id": "C-DERIV-08",
+    "name": "Vega与Theta",
+    "keep": true,
+    "reason": "期权波动与时间风险属性，决定策略持有及对冲损益。"
+  },
+  {
+    "number": 192,
+    "id": "C-DERIV-09",
+    "name": "Vanna与Charm",
+    "keep": true,
+    "reason": "对冲头寸变化的特定风险属性，可解释波动和临近到期交易。"
+  },
+  {
+    "number": 193,
+    "id": "C-DERIV-10",
+    "name": "利率敏感度Rho",
+    "keep": true,
+    "reason": "期权利率风险属性，对长期合约和利率变动有明确作用。"
+  },
+  {
+    "number": 194,
+    "id": "C-DERIV-11",
+    "name": "风险逆转与蝶式结构",
+    "keep": true,
+    "reason": "实际期权组合工具，偏斜和曲率暴露有特定交易用途。"
+  },
+  {
+    "number": 195,
+    "id": "C-DERIV-12",
+    "name": "跨式、宽跨式与日历价差",
+    "keep": true,
+    "reason": "实际波动交易组合，腿间期限与执行价决定损益结构。"
+  },
+  {
+    "number": 196,
+    "id": "C-DERIV-13",
+    "name": "隐含分布与尾部概率",
+    "keep": true,
+    "reason": "期权市场隐含概率对象，尾部定价与测度限制具有独立内容。"
+  },
+  {
+    "number": 197,
+    "id": "C-DERIV-14",
+    "name": "保证金与追加保证金",
+    "keep": true,
+    "reason": "实际担保与追缴制度，强制减仓和融资压力路径明确。"
+  },
+  {
+    "number": 198,
+    "id": "C-DERIV-15",
+    "name": "基差与基差交易",
+    "keep": true,
+    "reason": "真实现期价差及套利交易，交割融资约束决定风险。"
+  },
+  {
+    "number": 199,
+    "id": "C-DERIV-16",
+    "name": "持仓量与成交量",
+    "keep": true,
+    "reason": "具体合约持有与交易统计，换月和开平仓使其解释非平凡。"
+  },
+  {
+    "number": 200,
+    "id": "C-DERIV-17",
+    "name": "动态对冲与对冲误差",
+    "keep": true,
+    "reason": "真实交易执行策略，跳跃和离散再平衡产生可识别风险。"
+  },
+  {
+    "number": 201,
+    "id": "C-FLOW-01",
+    "name": "买卖价差与订单簿深度",
+    "keep": true,
+    "reason": "可观测盘口状态，报价与深度约束交易执行。"
+  },
+  {
+    "number": 202,
+    "id": "C-FLOW-02",
+    "name": "订单流失衡",
+    "keep": true,
+    "reason": "真实交易方向失衡指标，订单簿供需连接短期价格。"
+  },
+  {
+    "number": 203,
+    "id": "C-FLOW-03",
+    "name": "价格冲击与市场容量",
+    "keep": true,
+    "reason": "实际规模交易的成本与承载能力，流动性约束具体。"
+  },
+  {
+    "number": 204,
+    "id": "C-FLOW-04",
+    "name": "成交量、换手率与量比",
+    "keep": true,
+    "reason": "真实交易活跃度指标，流通盘和时段影响解释。"
+  },
+  {
+    "number": 205,
+    "id": "C-FLOW-05",
+    "name": "ETF申赎与二级市场交易",
+    "keep": true,
+    "reason": "实际ETF一级与二级交易机制，套利和份额变化影响资产需求。"
+  },
+  {
+    "number": 206,
+    "id": "C-FLOW-GOLDETF",
+    "name": "黄金ETF持仓与流量",
+    "keep": true,
+    "reason": "黄金投资载体的实际持仓与申赎，连接实物和金融需求。"
+  },
+  {
+    "number": 207,
+    "id": "C-FLOW-07",
+    "name": "基金流量与资产配置",
+    "keep": true,
+    "reason": "真实基金资金变动与配置行为，投资者和赎回结构决定交易。"
+  },
+  {
+    "number": 208,
+    "id": "C-FLOW-08",
+    "name": "持仓拥挤与集中度",
+    "keep": true,
+    "reason": "真实持仓集中状态，共同退出与流动性压力有明确联系。"
+  },
+  {
+    "number": 209,
+    "id": "C-FLOW-09",
+    "name": "融资融券与借券成本",
+    "keep": true,
+    "reason": "实际杠杆及卖空融资机制，借券可得性影响策略执行。"
+  },
+  {
+    "number": 210,
+    "id": "C-FLOW-10",
+    "name": "程序化交易与做市",
+    "keep": true,
+    "reason": "真实交易中介与执行活动，库存和报价机制影响市场。"
+  },
+  {
+    "number": 211,
+    "id": "C-FLOW-11",
+    "name": "趋势跟随与CTA",
+    "keep": true,
+    "reason": "真实规则化投资策略，信号和波动控制产生实际资金流。"
+  },
+  {
+    "number": 212,
+    "id": "C-FLOW-12",
+    "name": "风险平价与波动率目标",
+    "keep": true,
+    "reason": "真实组合管理策略，目标风险触发有条件的再平衡。"
+  },
+  {
+    "number": 213,
+    "id": "C-FLOW-13",
+    "name": "动量、反转与均值回归",
+    "keep": true,
+    "reason": "实际市场策略及收益现象，形成期、持有期和拥挤有专门知识。"
+  },
+  {
+    "number": 214,
+    "id": "C-FLOW-14",
+    "name": "风险偏好与避险需求",
+    "keep": false,
+    "reason": "宽泛动机与潜在状态标签，易解释任何涨跌，宜落到具体资产需求。"
+  },
+  {
+    "number": 215,
+    "id": "C-FLOW-15",
+    "name": "流动性风险溢价",
+    "keep": true,
+    "reason": "特定交易困难的定价补偿，连接市场深度与资产价差。"
+  },
+  {
+    "number": 216,
+    "id": "C-FLOW-16",
+    "name": "市场情绪与新闻热度",
+    "keep": false,
+    "reason": "情绪与新闻关注混合且边界模糊，具体注意力另有独立条目。"
+  },
+  {
+    "number": 217,
+    "id": "C-ASSET-GOLD",
+    "name": "黄金",
+    "keep": true,
+    "reason": "真实贵金属资产，储备、实物和投资需求具有独特金融联系。"
+  },
+  {
+    "number": 218,
+    "id": "C-COMMOD-02",
+    "name": "白银与贵金属",
+    "keep": true,
+    "reason": "真实贵金属品种，工业与投资需求使其不同于黄金。"
+  },
+  {
+    "number": 219,
+    "id": "C-COMMOD-03",
+    "name": "原油与Brent/WTI",
+    "keep": true,
+    "reason": "实际能源商品和基准，交割地点与供需结构影响价格。"
+  },
+  {
+    "number": 220,
+    "id": "C-COMMOD-04",
+    "name": "天然气与LNG",
+    "keep": true,
+    "reason": "实际能源及运输形态，区域约束形成独特价格关系。"
+  },
+  {
+    "number": 221,
+    "id": "C-COMMOD-05",
+    "name": "煤炭与焦煤",
+    "keep": true,
+    "reason": "实际燃料和冶金原料，终端需求与供给制度不同。"
+  },
+  {
+    "number": 222,
+    "id": "C-COMMOD-06",
+    "name": "铜与工业金属",
+    "keep": true,
+    "reason": "实际工业原料，库存与终端需求具有明确金融定价意义。"
+  },
+  {
+    "number": 223,
+    "id": "C-COMMOD-07",
+    "name": "铝与电力成本",
+    "keep": true,
+    "reason": "实际高耗能金属，电力和冶炼产能形成具体成本约束。"
+  },
+  {
+    "number": 224,
+    "id": "C-COMMOD-08",
+    "name": "铁矿石与钢铁",
+    "keep": true,
+    "reason": "实际产业链原料与产品，地产需求和钢产量决定价格联系。"
+  },
+  {
+    "number": 225,
+    "id": "C-COMMOD-09",
+    "name": "农产品",
+    "keep": false,
+    "reason": "跨作物和用途的总类过宽，需具体商品才能获得有限的供需邻接。"
+  },
+  {
+    "number": 226,
+    "id": "C-COMMOD-10",
+    "name": "商品库存与库存消费比",
+    "keep": true,
+    "reason": "实际商品供给缓冲指标，可用性与消费口径影响价格弹性。"
+  },
+  {
+    "number": 227,
+    "id": "C-COMMOD-11",
+    "name": "便利收益与储存成本",
+    "keep": true,
+    "reason": "实物持有服务和费用，具有库存约束与期货定价内容。"
+  },
+  {
+    "number": 228,
+    "id": "C-COMMOD-12",
+    "name": "升水、贴水与期货曲线",
+    "keep": true,
+    "reason": "真实商品现期及跨期价差，交割、库存和融资决定形态。"
+  },
+  {
+    "number": 229,
+    "id": "C-COMMOD-13",
+    "name": "OPEC与闲置产能",
+    "keep": true,
+    "reason": "真实产油组织和产能缓冲，执行能力直接影响供给。"
+  },
+  {
+    "number": 230,
+    "id": "C-COMMOD-14",
+    "name": "战略储备与能源安全",
+    "keep": true,
+    "reason": "真实政府库存及释放安排，能源供给中断时具有金融作用。"
+  },
+  {
+    "number": 231,
+    "id": "C-COMMOD-15",
+    "name": "矿业资本开支与供给弹性",
+    "keep": true,
+    "reason": "真实资源投资活动，建设时滞和品位形成供给响应约束。"
+  },
+  {
+    "number": 232,
+    "id": "C-COMMOD-16",
+    "name": "碳排放权与碳价格",
+    "keep": true,
+    "reason": "真实排放配额资产，制度供给与企业履约需求决定价格。"
+  },
+  {
+    "number": 233,
+    "id": "C-CHINA-01",
+    "name": "中国人民银行",
+    "keep": true,
+    "reason": "具体货币与金融管理机构，工具与职责有独立制度内容。"
+  },
+  {
+    "number": 234,
+    "id": "C-CHINA-02",
+    "name": "财政部与地方财政",
+    "keep": true,
+    "reason": "实际财政管理主体及央地关系，收入和支出权限影响融资。"
+  },
+  {
+    "number": 235,
+    "id": "C-CN-TSF",
+    "name": "社会融资规模",
+    "keep": true,
+    "reason": "特定中国融资统计，分项与口径影响信用周期解释。"
+  },
+  {
+    "number": 236,
+    "id": "C-CHINA-04",
+    "name": "信用脉冲",
+    "keep": true,
+    "reason": "特定信用变化指标，构造和领先关系需明确限定。"
+  },
+  {
+    "number": 237,
+    "id": "C-CHINA-05",
+    "name": "人民币贷款与票据融资",
+    "keep": true,
+    "reason": "实际银行融资品种，期限和票据替代影响需求判断。"
+  },
+  {
+    "number": 238,
+    "id": "C-CHINA-06",
+    "name": "存款准备金率与降准",
+    "keep": true,
+    "reason": "实际准备金制度及调整工具，约束和资金释放机制明确。"
+  },
+  {
+    "number": 239,
+    "id": "C-CHINA-07",
+    "name": "MLF、逆回购与结构性工具",
+    "keep": true,
+    "reason": "具体央行融资工具，期限、准入和抵押规则具有专门内容。"
+  },
+  {
+    "number": 240,
+    "id": "C-CHINA-08",
+    "name": "LPR与贷款定价",
+    "keep": true,
+    "reason": "实际贷款报价制度，重定价与银行负债成本关系明确。"
+  },
+  {
+    "number": 241,
+    "id": "C-CHINA-09",
+    "name": "DR007、R007与同业存单",
+    "keep": true,
+    "reason": "具体资金市场价格与债务工具，交易主体差异影响利率。"
+  },
+  {
+    "number": 242,
+    "id": "C-CHINA-10",
+    "name": "汇率中间价与跨境宏观审慎",
+    "keep": true,
+    "reason": "实际汇率管理工具，报价规则与跨境融资参数影响市场。"
+  },
+  {
+    "number": 243,
+    "id": "C-CHINA-11",
+    "name": "土地财政",
+    "keep": true,
+    "reason": "真实地方财政收入模式，土地交易和支出融资紧密相连。"
+  },
+  {
+    "number": 244,
+    "id": "C-CHINA-12",
+    "name": "地方融资平台LGFV",
+    "keep": true,
+    "reason": "真实地方融资主体，隐性担保和偿债资源具有独立信用内容。"
+  },
+  {
+    "number": 245,
+    "id": "C-CHINA-13",
+    "name": "地方债务置换与化债",
+    "keep": true,
+    "reason": "实际地方债务重组操作，期限与利息变化影响财政金融风险。"
+  },
+  {
+    "number": 246,
+    "id": "C-CHINA-14",
+    "name": "房地产预售与保交楼",
+    "keep": true,
+    "reason": "实际地产收款和交付制度，预售资金与信用链形成特殊约束。"
+  },
+  {
+    "number": 247,
+    "id": "C-CHINA-15",
+    "name": "房地产融资与住房按揭",
+    "keep": true,
+    "reason": "实际住房开发及居民信贷，融资条件影响供需两端。"
+  },
+  {
+    "number": 248,
+    "id": "C-CHINA-16",
+    "name": "地产销售、库存与土地购置",
+    "keep": true,
+    "reason": "实际地产交易、存量和拿地活动，现金流与建设周期联系明确。"
+  },
+  {
+    "number": 249,
+    "id": "C-CHINA-17",
+    "name": "保障房与城中村改造",
+    "keep": true,
+    "reason": "具体公共住房与改造活动，资金来源和实施节奏影响投资。"
+  },
+  {
+    "number": 250,
+    "id": "C-CHINA-18",
+    "name": "产业政策与政府引导基金",
+    "keep": true,
+    "reason": "真实政府资源配置工具，基金和补贴具有实际资本流向。"
+  },
+  {
+    "number": 251,
+    "id": "C-CHINA-19",
+    "name": "国企央企与资本回报考核",
+    "keep": true,
+    "reason": "真实国有企业群体及考核制度，分红和投资目标影响资本回报。"
+  },
+  {
+    "number": 252,
+    "id": "C-CHINA-20",
+    "name": "稳增长、去杠杆与高质量发展",
+    "keep": false,
+    "reason": "将宽泛政策目标口号并列，不能形成有边界的独立对象。"
+  },
+  {
+    "number": 253,
+    "id": "C-ASIA-01",
+    "name": "A股市场",
+    "keep": true,
+    "reason": "具体股票市场，准入和交易制度形成独特定价条件。"
+  },
+  {
+    "number": 254,
+    "id": "C-ASIA-02",
+    "name": "港股市场",
+    "keep": true,
+    "reason": "具体离岸股票市场，资金来源与上市结构具有独立内容。"
+  },
+  {
+    "number": 255,
+    "id": "C-ASIA-03",
+    "name": "沪深港通与南北向资金",
+    "keep": true,
+    "reason": "实际跨境投资渠道，准入和交易流量连接两个市场。"
+  },
+  {
+    "number": 256,
+    "id": "C-ASIA-04",
+    "name": "宽基ETF与行业ETF",
+    "keep": true,
+    "reason": "真实指数基金工具，申赎与指数暴露决定资产需求。"
+  },
+  {
+    "number": 257,
+    "id": "C-ASIA-05",
+    "name": "红利资产与高股息指数",
+    "keep": true,
+    "reason": "实际投资资产类别与指数，分红规则和可持续性影响回报。"
+  },
+  {
+    "number": 258,
+    "id": "C-ASIA-06",
+    "name": "保险资金与长期资金",
+    "keep": true,
+    "reason": "实际机构资金，负债和监管约束形成特定配置行为。"
+  },
+  {
+    "number": 259,
+    "id": "C-ASIA-07",
+    "name": "社保基金与政策性持有主体",
+    "keep": true,
+    "reason": "实际公共投资主体，目标和持有约束有独立金融意义。"
+  },
+  {
+    "number": 260,
+    "id": "C-ASIA-08",
+    "name": "涨跌停、T+1与停复牌",
+    "keep": true,
+    "reason": "真实市场交易制度，执行与流动性影响明确。"
+  },
+  {
+    "number": 261,
+    "id": "C-ASIA-09",
+    "name": "IPO、再融资与退市",
+    "keep": true,
+    "reason": "实际上市资本进入退出机制，融资供给和投资资格受到影响。"
+  },
+  {
+    "number": 262,
+    "id": "C-ASIA-10",
+    "name": "A/H溢价",
+    "keep": true,
+    "reason": "实际同公司跨市场价差，分割和资金约束形成特定定价现象。"
+  },
+  {
+    "number": 263,
+    "id": "C-ASIA-11",
+    "name": "恒生指数与恒生科技指数",
+    "keep": true,
+    "reason": "具体股票指数，成分与权重决定风险暴露和资金跟踪。"
+  },
+  {
+    "number": 264,
+    "id": "C-ASIA-12",
+    "name": "日本银行与YCC",
+    "keep": true,
+    "reason": "实际央行及收益率控制制度，购债和利率约束影响跨境配置。"
+  },
+  {
+    "number": 265,
+    "id": "C-ASIA-13",
+    "name": "日本投资者海外资产配置",
+    "keep": true,
+    "reason": "实际跨境投资行为，负债与对冲成本形成明确资金机制。"
+  },
+  {
+    "number": 266,
+    "id": "C-ASIA-14",
+    "name": "人民币国际化",
+    "keep": true,
+    "reason": "真实货币使用结构变化，跨境结算和储备角色可分别观察。"
+  },
+  {
+    "number": 267,
+    "id": "C-GLOBAL-01",
+    "name": "美联储与FOMC",
+    "keep": true,
+    "reason": "具体政策机构及决策委员会，职责和投票程序影响货币政策。"
+  },
+  {
+    "number": 268,
+    "id": "C-GLOBAL-02",
+    "name": "美国财政部",
+    "keep": true,
+    "reason": "具体财政机构，债务发行和现金管理具有直接市场作用。"
+  },
+  {
+    "number": 269,
+    "id": "C-GLOBAL-03",
+    "name": "美国国会与行政部门",
+    "keep": true,
+    "reason": "具体立法执行主体，预算权限与政策落地约束具有金融意义。"
+  },
+  {
+    "number": 270,
+    "id": "C-GLOBAL-04",
+    "name": "民主党与共和党",
+    "keep": false,
+    "reason": "政党并列过于宽泛，具体经济政策与执行主体比政党百科更适合作节点。"
+  },
+  {
+    "number": 271,
+    "id": "C-GLOBAL-05",
+    "name": "欧洲央行与欧元区成员国",
+    "keep": true,
+    "reason": "实际货币财政制度组合，政策分工和主权风险联系重要。"
+  },
+  {
+    "number": 272,
+    "id": "C-ACTOR-CB",
+    "name": "央行与储备管理者",
+    "keep": true,
+    "reason": "实际官方资产持有主体，目标与储备配置影响金融需求。"
+  },
+  {
+    "number": 273,
+    "id": "C-GLOBAL-07",
+    "name": "IMF、世界银行与BIS",
+    "keep": true,
+    "reason": "真实国际金融机构，救助、融资与监管协调各有实际作用。"
+  },
+  {
+    "number": 274,
+    "id": "C-GLOBAL-08",
+    "name": "关税、配额与贸易壁垒",
+    "keep": true,
+    "reason": "真实贸易政策工具，税率和约束影响成本、利润与跨境需求。"
+  },
+  {
+    "number": 275,
+    "id": "C-GLOBAL-09",
+    "name": "出口管制与技术限制",
+    "keep": true,
+    "reason": "实际技术贸易限制，许可和产品范围影响企业供给。"
+  },
+  {
+    "number": 276,
+    "id": "C-GLOBAL-10",
+    "name": "制裁与资产冻结",
+    "keep": true,
+    "reason": "真实金融与法律限制，支付和资产可得性受到直接影响。"
+  },
+  {
+    "number": 277,
+    "id": "C-GLOBAL-11",
+    "name": "地缘风险与战争风险",
+    "keep": false,
+    "reason": "未限定事件与风险载体的总标签，可任意连接资产而缺少节点边界。"
+  },
+  {
+    "number": 278,
+    "id": "C-GLOBAL-12",
+    "name": "供应链安全与友岸外包",
+    "keep": true,
+    "reason": "实际生产布局和采购调整，资本开支与成本变化有明确路径。"
+  },
+  {
+    "number": 279,
+    "id": "C-GLOBAL-13",
+    "name": "国际支付与清算体系",
+    "keep": true,
+    "reason": "真实金融基础设施，结算和币种流动性约束影响跨境交易。"
+  },
+  {
+    "number": 280,
+    "id": "C-GLOBAL-14",
+    "name": "美元信用与储备多元化",
+    "keep": false,
+    "reason": "将泛化美元信用与储备调整混合，已有美元体系和外储足以承载。"
+  },
+  {
+    "number": 281,
+    "id": "C-GLOBAL-15",
+    "name": "选举概率与政策情景",
+    "keep": false,
+    "reason": "是情景分析的概率树结构，应附着具体选举及政策事件。"
+  },
+  {
+    "number": 282,
+    "id": "C-TECH-01",
+    "name": "人工智能算力",
+    "keep": true,
+    "reason": "实际计算资源，供给与使用成本影响科技投资和收入。"
+  },
+  {
+    "number": 283,
+    "id": "C-TECH-02",
+    "name": "GPU与AI加速器",
+    "keep": true,
+    "reason": "实际关键设备，产能、定价和供货关系影响企业价值。"
+  },
+  {
+    "number": 284,
+    "id": "C-TECH-03",
+    "name": "云服务与超大规模云厂商",
+    "keep": true,
+    "reason": "实际服务市场与供应主体，资本开支和客户需求具有金融意义。"
+  },
+  {
+    "number": 285,
+    "id": "C-TECH-04",
+    "name": "数据中心",
+    "keep": true,
+    "reason": "实际资本密集基础设施，建设与资源瓶颈影响投资回报。"
+  },
+  {
+    "number": 286,
+    "id": "C-TECH-05",
+    "name": "电力、电网与发电容量",
+    "keep": true,
+    "reason": "实际基础设施与供给容量，接入限制和资本支出有具体联系。"
+  },
+  {
+    "number": 287,
+    "id": "C-TECH-06",
+    "name": "HBM与存储芯片",
+    "keep": true,
+    "reason": "实际关键存储产品，产能和技术代际影响供给利润。"
+  },
+  {
+    "number": 288,
+    "id": "C-TECH-07",
+    "name": "晶圆制造与先进制程",
+    "keep": true,
+    "reason": "实际制造环节，良率与资本开支决定产业链供给能力。"
+  },
+  {
+    "number": 289,
+    "id": "C-TECH-08",
+    "name": "先进封装与CoWoS",
+    "keep": true,
+    "reason": "实际制造工艺及产能，瓶颈会限制高价值产品交付。"
+  },
+  {
+    "number": 290,
+    "id": "C-TECH-09",
+    "name": "半导体设备与材料",
+    "keep": true,
+    "reason": "实际产业资本品与耗材，订单和技术限制影响供给。"
+  },
+  {
+    "number": 291,
+    "id": "C-TECH-10",
+    "name": "光模块、交换机与网络互联",
+    "keep": true,
+    "reason": "实际网络设备，集群建设形成可识别采购与收入。"
+  },
+  {
+    "number": 292,
+    "id": "C-TECH-11",
+    "name": "散热与液冷",
+    "keep": true,
+    "reason": "实际散热设备和方案，功耗密度驱动资本开支与成本。"
+  },
+  {
+    "number": 293,
+    "id": "C-TECH-12",
+    "name": "AI模型能力与推理成本",
+    "keep": true,
+    "reason": "实际模型生产能力与单位成本，影响服务定价和需求。"
+  },
+  {
+    "number": 294,
+    "id": "C-TECH-13",
+    "name": "AI应用收入与商业化",
+    "keep": true,
+    "reason": "实际商业收入形成过程，付费和利润约束决定投资可持续性。"
+  },
+  {
+    "number": 295,
+    "id": "C-TECH-14",
+    "name": "AI研发与私募融资",
+    "keep": true,
+    "reason": "实际研发和私募资本活动，现金消耗与融资条件影响企业持续经营。"
+  },
+  {
+    "number": 296,
+    "id": "C-TECH-15",
+    "name": "科技资本开支周期",
+    "keep": true,
+    "reason": "实际科技行业投资周期，订单交付与折旧形成金融反馈。"
+  },
+  {
+    "number": 297,
+    "id": "C-TECH-16",
+    "name": "平台竞争与网络效应",
+    "keep": false,
+    "reason": "平台竞争过宽且网络效应主要是企业间关系机制，宜写入具体公司关系。"
+  },
+  {
+    "number": 298,
+    "id": "C-TECH-17",
+    "name": "NVIDIA",
+    "keep": true,
+    "reason": "具体上市公司，其产品供给和财务暴露可独立建档。"
+  },
+  {
+    "number": 299,
+    "id": "C-TECH-18",
+    "name": "AMD",
+    "keep": true,
+    "reason": "具体芯片企业，产品竞争与盈利结构有独立资产定价内容。"
+  },
+  {
+    "number": 300,
+    "id": "C-TECH-19",
+    "name": "Microsoft",
+    "keep": true,
+    "reason": "具体软件云企业，收入和资本投入构成明确金融对象。"
+  },
+  {
+    "number": 301,
+    "id": "C-TECH-20",
+    "name": "Amazon",
+    "keep": true,
+    "reason": "具体零售云企业，多业务现金流与投资关系可独立记录。"
+  },
+  {
+    "number": 302,
+    "id": "C-TECH-21",
+    "name": "Alphabet",
+    "keep": true,
+    "reason": "具体广告云企业，市场地位与成本结构影响证券价值。"
+  },
+  {
+    "number": 303,
+    "id": "C-TECH-22",
+    "name": "Meta",
+    "keep": true,
+    "reason": "具体社交平台企业，广告现金流和AI投入具有独立暴露。"
+  },
+  {
+    "number": 304,
+    "id": "C-TECH-23",
+    "name": "Apple",
+    "keep": true,
+    "reason": "具体硬件服务企业，终端需求与生态收入形成专属财务关系。"
+  },
+  {
+    "number": 305,
+    "id": "C-TECH-24",
+    "name": "Tesla",
+    "keep": true,
+    "reason": "具体汽车能源企业，产销、投资和利润结构值得独立节点。"
+  },
+  {
+    "number": 306,
+    "id": "C-TECH-25",
+    "name": "TSMC",
+    "keep": true,
+    "reason": "具体代工企业，制造产能与客户资本开支存在明确联系。"
+  },
+  {
+    "number": 307,
+    "id": "C-TECH-26",
+    "name": "ASML",
+    "keep": true,
+    "reason": "具体设备企业，技术供给和出口限制具有独立金融影响。"
+  },
+  {
+    "number": 308,
+    "id": "C-TECH-27",
+    "name": "Samsung Electronics",
+    "keep": true,
+    "reason": "具体综合电子企业，存储及代工业务构成可识别财务暴露。"
+  },
+  {
+    "number": 309,
+    "id": "C-TECH-28",
+    "name": "SK hynix",
+    "keep": true,
+    "reason": "具体存储企业，HBM产能和客户需求影响盈利与投资。"
+  },
+  {
+    "number": 310,
+    "id": "C-TECH-29",
+    "name": "Micron",
+    "keep": true,
+    "reason": "具体存储企业，产品周期和资本开支可形成独立公司知识。"
+  },
+  {
+    "number": 311,
+    "id": "C-TECH-30",
+    "name": "腾讯",
+    "keep": true,
+    "reason": "具体互联网企业，业务现金流及资本分配具有独立内容。"
+  },
+  {
+    "number": 312,
+    "id": "C-TECH-31",
+    "name": "阿里巴巴",
+    "keep": true,
+    "reason": "具体电商云企业，分部盈利和投资形成可识别金融暴露。"
+  },
+  {
+    "number": 313,
+    "id": "C-TECH-32",
+    "name": "百度",
+    "keep": true,
+    "reason": "具体搜索AI企业，业务转型和成本结构影响公司价值。"
+  },
+  {
+    "number": 314,
+    "id": "C-TECH-33",
+    "name": "中芯国际",
+    "keep": true,
+    "reason": "具体晶圆制造企业，产能与技术约束影响盈利和融资。"
+  },
+  {
+    "number": 315,
+    "id": "C-TECH-34",
+    "name": "寒武纪",
+    "keep": true,
+    "reason": "具体芯片企业，客户、供给及研发支出构成独立投资对象。"
+  },
+  {
+    "number": 316,
+    "id": "C-SECTOR-01",
+    "name": "商业银行业",
+    "keep": true,
+    "reason": "具有专门资产负债结构的实际行业，资本监管与息差机制明确。"
+  },
+  {
+    "number": 317,
+    "id": "C-SECTOR-02",
+    "name": "保险业",
+    "keep": true,
+    "reason": "具有专门负债和资本约束的实际行业，利率与资产配置关系突出。"
+  },
+  {
+    "number": 318,
+    "id": "C-SECTOR-03",
+    "name": "证券与资管业",
+    "keep": true,
+    "reason": "实际金融服务行业，交易和管理资产构成清晰收入驱动。"
+  },
+  {
+    "number": 319,
+    "id": "C-SECTOR-04",
+    "name": "电力与公用事业",
+    "keep": true,
+    "reason": "实际受监管基础服务行业，电价和燃料成本形成具体现金流机制。"
+  },
+  {
+    "number": 320,
+    "id": "C-SECTOR-05",
+    "name": "煤炭、石油与天然气企业",
+    "keep": true,
+    "reason": "实际资源生产企业类别，储量和成本形成商品价格到盈利的关系。"
+  },
+  {
+    "number": 321,
+    "id": "C-SECTOR-06",
+    "name": "房地产开发与物业",
+    "keep": false,
+    "reason": "开发与物业资产模式差别大，当前合并名过宽，地产链对象已有更具体条目。"
+  },
+  {
+    "number": 322,
+    "id": "C-SECTOR-07",
+    "name": "建筑、建材与基建",
+    "keep": false,
+    "reason": "同时装入施工、材料与基础设施，主体和现金流模式不统一。"
+  },
+  {
+    "number": 323,
+    "id": "C-SECTOR-08",
+    "name": "消费与零售",
+    "keep": false,
+    "reason": "覆盖几乎所有消费品与渠道，难形成有边界的行业知识对象。"
+  },
+  {
+    "number": 324,
+    "id": "C-SECTOR-09",
+    "name": "汽车与新能源产业",
+    "keep": false,
+    "reason": "汽车与新能源合并跨越多类产品和产业链，范围不足以独立成节点。"
+  },
+  {
+    "number": 325,
+    "id": "C-SECTOR-10",
+    "name": "医药与医疗服务",
+    "keep": false,
+    "reason": "药品研发制造与医疗服务支付模式不同，当前大类过宽。"
+  },
+  {
+    "number": 326,
+    "id": "C-SECTOR-11",
+    "name": "出口制造与航运",
+    "keep": false,
+    "reason": "泛化出口制造与航运只是暴露关联，适合关系而非一个对象。"
+  },
+  {
+    "number": 327,
+    "id": "C-SECTOR-12",
+    "name": "REITs与基础设施资产",
+    "keep": true,
+    "reason": "实际收益型资产和证券化载体，运营现金流与分配制度有独立内容。"
+  },
+  {
+    "number": 328,
+    "id": "C-SECTOR-13",
+    "name": "养老金与退休负债",
+    "keep": true,
+    "reason": "实际养老负债与资金安排，久期和支付结构驱动资产配置。"
+  },
+  {
+    "number": 329,
+    "id": "C-CRYPTO-01",
+    "name": "比特币",
+    "keep": true,
+    "reason": "具体数字资产，供给和交易需求构成独立金融对象。"
+  },
+  {
+    "number": 330,
+    "id": "C-CRYPTO-02",
+    "name": "以太坊与智能合约平台",
+    "keep": true,
+    "reason": "实际网络与资产，使用费用和验证机制关联价值。"
+  },
+  {
+    "number": 331,
+    "id": "C-CRYPTO-03",
+    "name": "稳定币",
+    "keep": true,
+    "reason": "实际赎回型数字货币工具，储备和支付功能影响短端资产需求。"
+  },
+  {
+    "number": 332,
+    "id": "C-CRYPTO-04",
+    "name": "数字资产交易所与托管",
+    "keep": true,
+    "reason": "真实交易托管中介，资产控制和对手方风险具有专门内容。"
+  },
+  {
+    "number": 333,
+    "id": "C-CRYPTO-05",
+    "name": "加密资产杠杆与永续合约",
+    "keep": true,
+    "reason": "实际杠杆工具，资金费率和强平机制决定风险传播。"
+  },
+  {
+    "number": 334,
+    "id": "C-CRYPTO-06",
+    "name": "现货加密ETF",
+    "keep": true,
+    "reason": "实际证券投资工具，申赎和托管连接传统资金与加密资产。"
+  },
+  {
+    "number": 335,
+    "id": "C-CRYPTO-07",
+    "name": "链上活动与代币经济",
+    "keep": false,
+    "reason": "将广泛链上行为和激励设计混合，缺少特定网络或资产边界。"
+  },
+  {
+    "number": 336,
+    "id": "C-CRYPTO-08",
+    "name": "代币化国债与现实资产RWA",
+    "keep": true,
+    "reason": "实际资产权利的代币化工具，托管、赎回及法律结构值得独立知识。"
+  },
+  {
+    "number": 337,
+    "id": "C-CRYPTO-09",
+    "name": "比特币挖矿、区块奖励与矿工",
+    "keep": true,
+    "reason": "实际比特币生产与收入机制，奖励和算力成本影响矿工行为。"
+  },
+  {
+    "number": 338,
+    "id": "C-METHOD-01",
+    "name": "基准、超额收益与Alpha",
+    "keep": false,
+    "reason": "比较基准及残差收益的通用评价框架，宜作为组合评价属性。"
+  },
+  {
+    "number": 339,
+    "id": "C-METHOD-02",
+    "name": "Beta与因子暴露",
+    "keep": true,
+    "reason": "具体投资组合风险属性，因子载荷决定对冲与共同波动。"
+  },
+  {
+    "number": 340,
+    "id": "C-METHOD-03",
+    "name": "相关性、协整与因果关系",
+    "keep": false,
+    "reason": "通用统计和因果概念，是分析纪律而非金融对象。"
+  },
+  {
+    "number": 341,
+    "id": "C-METHOD-04",
+    "name": "事件研究与事件窗口",
+    "keep": false,
+    "reason": "研究方法与窗口选择，属于证据检验流程。"
+  },
+  {
+    "number": 342,
+    "id": "C-METHOD-05",
+    "name": "局部投影、VAR与结构识别",
+    "keep": false,
+    "reason": "计量模型和识别技术，属于关系验证方法。"
+  },
+  {
+    "number": 343,
+    "id": "C-METHOD-06",
+    "name": "预测校准与概率评分",
+    "keep": false,
+    "reason": "概率预测的评价方法，不是金融对象。"
+  },
+  {
+    "number": 344,
+    "id": "C-METHOD-07",
+    "name": "样本外检验与时间切分",
+    "keep": false,
+    "reason": "模型验证和防泄漏规范，不应占用对象节点。"
+  },
+  {
+    "number": 345,
+    "id": "C-METHOD-08",
+    "name": "多重检验与选择偏差",
+    "keep": false,
+    "reason": "通用统计偏误问题，应进入研究质量规范。"
+  },
+  {
+    "number": 346,
+    "id": "C-METHOD-09",
+    "name": "交易成本与可执行性",
+    "keep": true,
+    "reason": "实际交易费用和执行约束，直接决定策略可实现收益。"
+  },
+  {
+    "number": 347,
+    "id": "C-METHOD-10",
+    "name": "风险预算与仓位",
+    "keep": true,
+    "reason": "实际投资风险分配与头寸，约束和再平衡有具体金融作用。"
+  },
+  {
+    "number": 348,
+    "id": "C-METHOD-11",
+    "name": "回撤、尾部风险与破产风险",
+    "keep": true,
+    "reason": "实际组合损失与存续风险，路径和杠杆使内容超过基础定义。"
+  },
+  {
+    "number": 349,
+    "id": "C-METHOD-12",
+    "name": "反事实与竞争解释",
+    "keep": false,
+    "reason": "通用因果推理要求，应成为关系论证规则。"
+  }
+]

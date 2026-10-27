@@ -1,0 +1,772 @@
+{
+  "version": "v5",
+  "date": "2026-10-27",
+  "release_revision": "initial_build_baseline",
+  "maintenance_revision": "fiscal_concepts_pilot_20261027",
+  "hash_algorithm": "SHA-256",
+  "excludes": [
+    "50_reviews/PACKAGE_MANIFEST.json"
+  ],
+  "files": [
+    {
+      "path": "00_start/AUTHORING_STANDARD.md",
+      "size": 17252,
+      "sha256": "78f8c99fa0ce412000487bf3274fdf6785cafa2f4abf42298437e272cb97de46"
+    },
+    {
+      "path": "00_start/BATCH_TASK.md",
+      "size": 6355,
+      "sha256": "64cda196d0872fab2c61c8610cc96fea2f5d4211fc2994539b298cd07f61953c"
+    },
+    {
+      "path": "00_start/CONCEPT_CONTEXT_TERMS.md",
+      "size": 19794,
+      "sha256": "df93a4ca687d3d8a176008cd8710810eacf16a4222e6810be89324cf2ea627f3"
+    },
+    {
+      "path": "00_start/CONCEPT_IMPORT_LIST.md",
+      "size": 24694,
+      "sha256": "eb71e86c3d8261b97f80323408119c08e3e6851325107516f453521e1ce5ff88"
+    },
+    {
+      "path": "00_start/CONVERSATION_MEMORY.md",
+      "size": 8056,
+      "sha256": "63bde90b726d8cb34c52f35164dc67ac356a4d20f0d3cb25ce9630bfcb51b771"
+    },
+    {
+      "path": "00_start/EVENT_SOURCE_GUIDE.md",
+      "size": 4292,
+      "sha256": "3332373c6ec4885f1d5434049976ba96dc56486a4f1bce5ab952a7e54bc52f15"
+    },
+    {
+      "path": "00_start/MECHANISM_ARCHIVE.md",
+      "size": 18703,
+      "sha256": "aa39b8764194821d502dbd2161d92f4c8c5cab2c76e9fff672f9f667eb0fe2eb"
+    },
+    {
+      "path": "00_start/MECHANISM_IMPORT_LIST.md",
+      "size": 46071,
+      "sha256": "1bb504f790e7b52eba18568dd7697b0820ebf585e9ed8afd0984970ac0feb8f7"
+    },
+    {
+      "path": "00_start/NODE_SELECTION_GUIDE.md",
+      "size": 4320,
+      "sha256": "f143df64bccddf5ad35124707125d39431d41c9cd0c65cdfb05029a43f50a0fa"
+    },
+    {
+      "path": "00_start/README.md",
+      "size": 3452,
+      "sha256": "38996e05beb1b5ee2c2db040299bc2e741f7a8a3814d070265d7de0fde7e5677"
+    },
+    {
+      "path": "00_start/REVIEW_CHECKLIST.md",
+      "size": 3695,
+      "sha256": "7d24a21e1ddecd3c58726544283e072268e388a71c1955da1211c3fe9e5422ee"
+    },
+    {
+      "path": "00_start/catalog_index.json",
+      "size": 422038,
+      "sha256": "88332b41c3e49b56d13fe476536dd3055e74137a5e9bfd89517fe21c794dbe9d"
+    },
+    {
+      "path": "00_start/templates/CONCEPT_TEMPLATE.md",
+      "size": 1908,
+      "sha256": "90b2bf37e8525eb8946f4feb1643ea889b8b7732817db69e6cf2a62f0364ac5a"
+    },
+    {
+      "path": "00_start/templates/EVENT_TEMPLATE.md",
+      "size": 1501,
+      "sha256": "a022a85f072d3064e9ecbb580ab403fb70fe429cdac6b3f8218f290e24e08ccd"
+    },
+    {
+      "path": "00_start/templates/MECHANISM_TEMPLATE.md",
+      "size": 2872,
+      "sha256": "e97832999692245ad160773432fceca4e5dae219daca40d063ba8898ce9afee3"
+    },
+    {
+      "path": "00_start/templates/SOURCE_NOTE_TEMPLATE.md",
+      "size": 1356,
+      "sha256": "b2586fe533a9895152f5cf2bf1d60658416ff87fce0dea132b258698f0af7d19"
+    },
+    {
+      "path": "10_concepts/C-ASSET-GOLD_gold.md",
+      "size": 20273,
+      "sha256": "fdfd5047a06c2b8ca6c981efa9873173060e634d8b79fe319e8245393914576a"
+    },
+    {
+      "path": "10_concepts/C-FISCAL-DEFICIT_fiscal_primary_deficit.md",
+      "size": 18743,
+      "sha256": "6d5d77ef96c1cbe46e4c86f7e620f485316a54a6dcc5ea8334601dc305e11bb2"
+    },
+    {
+      "path": "10_concepts/C-IR-POLICY_policy_rate_target_range.md",
+      "size": 29689,
+      "sha256": "169f200583909fb3e5f32ed07bf64e6200f0b1b784d75c9cf1b08506e28944cd"
+    },
+    {
+      "path": "10_concepts/C-IR-REAL_real_interest_rate.md",
+      "size": 12854,
+      "sha256": "b6067a0e4cbba0e425bedb0ef04a77a8d98baa4f38e8a860620329a497ced7ad"
+    },
+    {
+      "path": "10_concepts/C-IR-TERM_term_premium.md",
+      "size": 15007,
+      "sha256": "54163ad222e8212e3a40339e87fdb58a3d58252522ebc8719225ab61c7d4f842"
+    },
+    {
+      "path": "10_concepts/C-LIQ-FUND_funding_liquidity.md",
+      "size": 23536,
+      "sha256": "ac6868fd0a17668bd3c4fcfd35a81c21b6c5d27ae5f36d24f9ad82a331da0e7e"
+    },
+    {
+      "path": "10_concepts/C-MONEY-13_treasury_general_account.md",
+      "size": 21191,
+      "sha256": "c270f11409d7c3879fe17502d935695e473f4ed9955935eb70629ca7dabaa27f"
+    },
+    {
+      "path": "10_concepts/C-MONEY-CBBS_central_bank_balance_sheet.md",
+      "size": 19340,
+      "sha256": "63cc7f678bd78a89401cd02cc1e15ef3101eef1427bf7cf941062ee37514cf1a"
+    },
+    {
+      "path": "10_concepts/C-POL-QE_quantitative_easing.md",
+      "size": 19907,
+      "sha256": "9bcf8231c248c4e91045cad372a2d369574d41d03a567f35af015bf02210e381"
+    },
+    {
+      "path": "10_concepts/C-POL-QT_quantitative_tightening.md",
+      "size": 21708,
+      "sha256": "27db7261b8f1e43220b6c8e9123233eab6a964f53ca02309fa211547f6434131"
+    },
+    {
+      "path": "20_mechanisms/R-FISCAL-LONGYIELD_fiscal_long_yields.md",
+      "size": 28457,
+      "sha256": "461365ecbcc9f14e44b12343361b2d789cf6b5f52542fbfe8df3bff6605a8f68"
+    },
+    {
+      "path": "20_mechanisms/R-GOLD-REALRATES_real_rates_gold.md",
+      "size": 15636,
+      "sha256": "198554c85a21b308b3cc3e531a754d028cbb4083ad3f12b2b52f1ff4f40a774e"
+    },
+    {
+      "path": "30_events/README.md",
+      "size": 2034,
+      "sha256": "e707fd2bf7afae243b1a1fb73e963008351548b84fa66de095928f96c539c1b4"
+    },
+    {
+      "path": "30_events/concepts/E-C-20200315-FOMC.md",
+      "size": 2046,
+      "sha256": "e82d6c4d1122d874cac2ccb3235609861317b78d60ae6cdba70f974b9bf6e7e1"
+    },
+    {
+      "path": "30_events/concepts/E-C-20220921-FOMC.md",
+      "size": 1527,
+      "sha256": "d39be6cff1a6f7b216c92fda634c30515bc9c771497890cbcb827ea4016299cf"
+    },
+    {
+      "path": "30_events/concepts/O-C-20240918-REAL-INPUTS.md",
+      "size": 2476,
+      "sha256": "902e97aeec8fa8d2bceea29168e726c22555857dbbb763b25dd6a4f593e6afad"
+    },
+    {
+      "path": "30_events/concepts/TERM_PREMIUM_HISTORY.md",
+      "size": 4566,
+      "sha256": "7ffe2da9d7528035834ff7ad20e9e595844d2354f866483d7a1a26861683c29a"
+    },
+    {
+      "path": "30_events/course/MACRO_20250330.md",
+      "size": 8478,
+      "sha256": "a911a935909f6e2d512596f9e39f1c7e2c8df2c9d9e77571cc11c0544621df06"
+    },
+    {
+      "path": "30_events/fiscal/E-20090318-LSAP.md",
+      "size": 2004,
+      "sha256": "1d46062945811357bc6dcf89a72605a1f0ff12eea9aa11de50526cf4dfd04c50"
+    },
+    {
+      "path": "30_events/fiscal/FOMC_QT_2024_2025.md",
+      "size": 5472,
+      "sha256": "320e541bdcd7dfe8d8bf362248a95c57ff1862c4972ff8bf1b74aac0ca8a1c55"
+    },
+    {
+      "path": "30_events/fiscal/TREASURY_ISSUANCE_2023_2025.md",
+      "size": 5561,
+      "sha256": "5b65b953d23107505fc9dce43615ac79e70dfcfcb0cbc6e64ff80674f7670b2b"
+    },
+    {
+      "path": "30_events/gold/GOLD_DEMAND_OUTLOOK_2024_2026.md",
+      "size": 6670,
+      "sha256": "a45c997915a8e5f3ac214461baa06148d170667a9fe1744a3d10daf9ec2e59c5"
+    },
+    {
+      "path": "40_sources/ACQUISITION_SHORTLIST.md",
+      "size": 29065,
+      "sha256": "c0c4964479be518eee09d08116b90416e66fd8d60d49004ad54c8c94a7effa9b"
+    },
+    {
+      "path": "40_sources/README.md",
+      "size": 2114,
+      "sha256": "ae7e69096c81d4a8c940fee73f50675dc88fc8b3970af3b8ce52142843032a78"
+    },
+    {
+      "path": "40_sources/S-COURSE-MACRO-20250330.md",
+      "size": 4683,
+      "sha256": "1e42235f5c9d3e938d58a018f5d0007e365587ef9219bc5d7a2813e7e36a87e9"
+    },
+    {
+      "path": "40_sources/SOURCES_CONCEPTS.md",
+      "size": 14638,
+      "sha256": "133ca47a161a2e93c01d2b7bcfe6b73abf7d9622090c9666308860fde1f7ea6d"
+    },
+    {
+      "path": "40_sources/SOURCES_FISCAL.md",
+      "size": 12755,
+      "sha256": "05158ece98178b262aee624ea3b67bf069de53cff0eb466639bafacc9f0b60be"
+    },
+    {
+      "path": "40_sources/SOURCES_GOLD.md",
+      "size": 8122,
+      "sha256": "1891a909cd224b89d00e085cbe1f6038a8e6560d94bc320fba05ea181fe5fcc1"
+    },
+    {
+      "path": "40_sources/originals/macro_course_20250330.pdf",
+      "size": 3870537,
+      "sha256": "0ad0e9f01e9758dde909c01815de17899532e213683ced20ce68951fe08e1b42"
+    },
+    {
+      "path": "40_sources/transcripts/macro_course_20250330.txt",
+      "size": 37215,
+      "sha256": "f918291fd584b3edbf4fae0dcea65806e244c56c3bf2579638373c66f9fcca67"
+    },
+    {
+      "path": "50_reviews/ASTRA_RUN_METADATA.json",
+      "size": 330,
+      "sha256": "b2bdcb20cfe96e3058397679cd933fded808c1e0b64f50b013abfeafeb3b257f"
+    },
+    {
+      "path": "50_reviews/ASTRA_RUN_NOTES.md",
+      "size": 9998,
+      "sha256": "8f929f52bdea9375fb269132a650d9dc938dea876857e5388fa71b102973393f"
+    },
+    {
+      "path": "50_reviews/ASTRA_RUN_TASK.md",
+      "size": 3859,
+      "sha256": "786b6b785a3561acfbb48eb6c2e2722c2b4ecd4aa5d24450c187dea63a0838bd"
+    },
+    {
+      "path": "50_reviews/CATALOG_MIGRATION.json",
+      "size": 6775,
+      "sha256": "cc8a80b0add225417409fe4e43b99ebbc6b0d583e134c9e66b0618ccb00dc1a4"
+    },
+    {
+      "path": "50_reviews/COMPARISON.md",
+      "size": 2982,
+      "sha256": "33b002c241662a752cd17561e0d495feea6f11a6e96630a8407d9ba045f3d8f5"
+    },
+    {
+      "path": "50_reviews/CONCEPT_PILOT_20261027/GOLD_MAIN_NOTES.md",
+      "size": 3484,
+      "sha256": "d27327dd10db672acab78f5f435551ae1af007a1d7e0ebdda10db7d28196f8ad"
+    },
+    {
+      "path": "50_reviews/CONCEPT_PILOT_20261027/INPUT_HASHES.json",
+      "size": 2037,
+      "sha256": "e784ff3b73a5c2a0f4579cd7e439506f7f4602c5ee272cd8b852d759c8cb6217"
+    },
+    {
+      "path": "50_reviews/CONCEPT_PILOT_20261027/MAIN_REVIEW.md",
+      "size": 7467,
+      "sha256": "06781867a0cea7e99c7271d2286b7bff1603960132c62e8b0c45c4fe5ab6e0e0"
+    },
+    {
+      "path": "50_reviews/CONCEPT_PILOT_20261027/POLICY_AGENT_NOTES.md",
+      "size": 6350,
+      "sha256": "28f14eddf4f4c4fd54a1a712578f255582f5b9602fef490fc86a8bbfe3dd1981"
+    },
+    {
+      "path": "50_reviews/CONCEPT_PILOT_20261027/POLICY_FIRST_DRAFT.md",
+      "size": 29595,
+      "sha256": "e5571fe491cb1718093694b4eec377dabd51d449f95575225d0d2455d92f1eab"
+    },
+    {
+      "path": "50_reviews/CONCEPT_PILOT_20261027/POLICY_TASK.md",
+      "size": 4186,
+      "sha256": "35c7b1fd442e99c1537a65198e8010c6393baf41938917889b4ba92b8b9c2c98"
+    },
+    {
+      "path": "50_reviews/CONCEPT_PILOT_20261027/RUN_METADATA.json",
+      "size": 1350,
+      "sha256": "019f46d720cbea1b4c1e5f9fa1949479e2d641473a213dafe93f905f28484a7d"
+    },
+    {
+      "path": "50_reviews/CONCEPT_PILOT_20261027/VALIDATION.json",
+      "size": 2091,
+      "sha256": "fe115c2ba8f68b5505dbc7691980a1d799b65d9196eca0f85258f903c8290b3a"
+    },
+    {
+      "path": "50_reviews/CONCEPT_SELECTION_349.json",
+      "size": 146104,
+      "sha256": "4c2997d4ce0d8c8737e0d899b18ce65b1f17f3e478fff6714724afb020c5f3d2"
+    },
+    {
+      "path": "50_reviews/CONCEPT_SELECTION_349.md",
+      "size": 11180,
+      "sha256": "15fdfe048e313f8a94df7f50378cf93b3b8a6994dacc7280eafaea1774e1bdce"
+    },
+    {
+      "path": "50_reviews/DOCUMENTATION_REVIEW_20261025.md",
+      "size": 3967,
+      "sha256": "e2b9a97b9cb3ce7e16ec5153c37948a7a11224b932ccd37c6d4317e341606a1b"
+    },
+    {
+      "path": "50_reviews/DOCUMENTATION_VALIDATION_20261025.json",
+      "size": 4408,
+      "sha256": "6c2c625e7f13f77e685c69a87ab26bcc197ce893db1a576650c1a413f5244e30"
+    },
+    {
+      "path": "50_reviews/EVENT_MIGRATION.json",
+      "size": 1914,
+      "sha256": "8f4d304ce80e9fc03ee3e2593904e73e4bba892abd33624a6cb5b8955755dc4c"
+    },
+    {
+      "path": "50_reviews/EVENT_SOURCE_WORKING_REVIEW.md",
+      "size": 2227,
+      "sha256": "659e551f44dc4191573baf6eb3d1d2c7c9c0767f607263a54de952e90a1d83ef"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/C-FISCAL-DEFICIT_FIRST_DRAFT.md",
+      "size": 18732,
+      "sha256": "4370fff5b913626222d372caa23ba720f1862d3d257d55b1c0f5e4ef9c50b24a"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/C-MONEY-13_FIRST_DRAFT.md",
+      "size": 21180,
+      "sha256": "1cff115b9d880f08fd6539349ebf7f142cb1a645bab93e5e5e12c5d649d9cedb"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/C-MONEY-CBBS_FIRST_DRAFT.md",
+      "size": 19329,
+      "sha256": "2cc17162efae03a7863e257a4a3ae67f69d018dfdc2c70cc9357cb981b239fdd"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/C-POL-QE_FIRST_DRAFT.md",
+      "size": 19896,
+      "sha256": "40f8964b86dd415a88835ce86975965e173415aaa342145aac4fa3355b143c22"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/C-POL-QT_FIRST_DRAFT.md",
+      "size": 21697,
+      "sha256": "e77fbd7a31e102eede055b7567203e5385bb26a53469c3a36c7b5f74c56fa574"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/CBBS_QE_QT_AGENT_NOTES.md",
+      "size": 8682,
+      "sha256": "19463159c0d9aa1be74fab29e55665dec57f1432bd8bc6a58ccc3728b2628bcf"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/CBBS_QE_QT_TASK.md",
+      "size": 4169,
+      "sha256": "e6dc3788f910fa26b828c2d8c659a2336e1558622fa159a7483c5de2024accc8"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/FISCAL_TGA_AGENT_NOTES.md",
+      "size": 7192,
+      "sha256": "fbc27f8091e7163f6038bff4fd6cbd95898681835736a7cbcda4a0433af2af56"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/FISCAL_TGA_TASK.md",
+      "size": 3881,
+      "sha256": "f190abeecd7c0f376ff11ca3bbe54934fbe743d0bca03796f321f0b2bddc445a"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/FUNDING_MAIN_NOTES.md",
+      "size": 3733,
+      "sha256": "93fd60a2a23cd8c4a98ae8cf8db88a925298b1aa7954441dbe37c6617976a1ca"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/FUNDING_MAIN_SUBMISSION.md",
+      "size": 23525,
+      "sha256": "88d426aca72564a375cdb5b4c11c7edabe2263469012e0c0bce073a83cbe8654"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/INPUT_HASHES.json",
+      "size": 2485,
+      "sha256": "c70da9f8f61f898a5ceecd9c43e78f807069817534089dd7f80e07caad568163"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/MAIN_REVIEW.md",
+      "size": 9030,
+      "sha256": "be12269a3d9d4975bb2e3aaa68eee70032a6334f951313b876f1336104a7c93a"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/OUTPUT_PATHS.json",
+      "size": 346,
+      "sha256": "3f2a2b694f9fb581795216feebaabe901442eb6d4b6460725caea3d59fcc4a9a"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/RUN_METADATA.json",
+      "size": 1841,
+      "sha256": "cb067680e725714699c674c6ec0f5eb467a34ef160452c582714e0a98f001a0a"
+    },
+    {
+      "path": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/VALIDATION.json",
+      "size": 3346,
+      "sha256": "ae74d9e3d8a66553c35afcb54ebd386e02c81468e29fe34f8f80310411d4dbe6"
+    },
+    {
+      "path": "50_reviews/MECHANISM_NAME_DECISIONS.json",
+      "size": 55111,
+      "sha256": "5d27006ffa97a96d3138cb1dd084ff3ee885e13b9fc9819993996ef2d7a65cb5"
+    },
+    {
+      "path": "50_reviews/MECHANISM_SELECTION_177.json",
+      "size": 113503,
+      "sha256": "eb899ad4eb0daa098dd7bc9f3da56b8e76dbe81ea3ac0793032b82330b722242"
+    },
+    {
+      "path": "50_reviews/MECHANISM_SELECTION_177.md",
+      "size": 17656,
+      "sha256": "2b2531177fe79787c90a17130421700feb431506639c201e903f08ab9d941f2a"
+    },
+    {
+      "path": "50_reviews/NODE_MAPPING_UPDATES.json",
+      "size": 1928,
+      "sha256": "9792e8edc965e317df212305b47c546f465e967f80ab4f87946d62fa0fa687b1"
+    },
+    {
+      "path": "50_reviews/README.md",
+      "size": 2262,
+      "sha256": "2dfabedf4c3b50fda10f0ed4356bca35a32f7e202b90edeb77fa27c5454bb0e5"
+    },
+    {
+      "path": "50_reviews/V5_CHANGES.md",
+      "size": 3068,
+      "sha256": "acf14fec632a1887c77f15b3a422c8dcb6478f5c9af4ac1f122b2e7a255305d9"
+    },
+    {
+      "path": "50_reviews/VALIDATION.json",
+      "size": 3346,
+      "sha256": "ae74d9e3d8a66553c35afcb54ebd386e02c81468e29fe34f8f80310411d4dbe6"
+    },
+    {
+      "path": "50_reviews/VALIDATION_20261024.json",
+      "size": 1032,
+      "sha256": "46584d664037afd8305309766fc3f53eaef7e827ec842661eb96b9c28d6eaf32"
+    },
+    {
+      "path": "50_reviews/VALIDATION_EVENT_SOURCE_20261023.json",
+      "size": 739,
+      "sha256": "29adec46b9c7ae6ca72c2f968848d0801624caad2e204da9eafdab80aeb63e6c"
+    },
+    {
+      "path": "50_reviews/history/SELECTION_BASELINE_159.json",
+      "size": 113386,
+      "sha256": "970762b619a87c9de8841891ad8ec34c114aaef3116db2a6837fca081c033bd5"
+    },
+    {
+      "path": "50_reviews/history/VALIDATION_BEFORE_CONCEPT_PILOT_20261027.json",
+      "size": 1285,
+      "sha256": "cc8f0205534d38c7cf3d9cebcc9a7fc1d4dced562b46305b7663496cbb9654eb"
+    },
+    {
+      "path": "50_reviews/history/VALIDATION_BEFORE_FISCAL_CONCEPT_PILOT_20261027.json",
+      "size": 2091,
+      "sha256": "fe115c2ba8f68b5505dbc7691980a1d799b65d9196eca0f85258f903c8290b3a"
+    },
+    {
+      "path": "50_reviews/history/VALIDATION_V4_20261023.json",
+      "size": 952,
+      "sha256": "9c9d032f6da0b57ef0c748619977a8538f8e7b57001259e13ddecd8cfd0450ef"
+    },
+    {
+      "path": "50_reviews/history/astra_low_independent_selection/AGENT_NOTES.md",
+      "size": 2132,
+      "sha256": "f0906e305b8f7afc403cede5f80c11ab46a718beffdbd060c03e4491f31859ac"
+    },
+    {
+      "path": "50_reviews/history/astra_low_independent_selection/README.md",
+      "size": 302,
+      "sha256": "94d2125c50e0ce91eefb8461faed379238617c60cde65dadc9decc16497b397f"
+    },
+    {
+      "path": "50_reviews/history/astra_low_independent_selection/RUN_METADATA.json",
+      "size": 1225,
+      "sha256": "0a3f8fa129331465c384821910814f9ac568df31b8b57927feb4b0378b51ee92"
+    },
+    {
+      "path": "50_reviews/history/astra_low_independent_selection/astra_independent_decisions.json",
+      "size": 69722,
+      "sha256": "3e5ee8efc96a26e58f584f32db01b875af8de3e0e2b778014ef54bc6bf5f1c62"
+    },
+    {
+      "path": "50_reviews/history/astra_low_independent_selection/candidates_unmarked.json",
+      "size": 61877,
+      "sha256": "17f0610ad712128503303bdc062205a9415c9c84c2cf964d6c8793ff15b135d9"
+    },
+    {
+      "path": "50_reviews/history/astra_low_independent_selection/概念对象候选_Astra独立审阅_349项_20261024.md",
+      "size": 10888,
+      "sha256": "4725ab78c02032c721d010cec84c47de44f14534e7b04420e9ae640f5b0a9214"
+    },
+    {
+      "path": "50_reviews/history/catalog_before_mechanism_selection_20261025.json",
+      "size": 369454,
+      "sha256": "6f9d8ac1a31985958b51119ae79b542ce4db1f2c1a96b219301118b8b16f9a6b"
+    },
+    {
+      "path": "50_reviews/history/catalog_before_v5_selection.json",
+      "size": 235139,
+      "sha256": "10230f3a1db807f1a3b9d5ff741b6e478a43f861cc18782284ba75c39521d16f"
+    },
+    {
+      "path": "50_reviews/history/mechanism_name_revision_first_pass_20261025.json",
+      "size": 69154,
+      "sha256": "007b04beaa45eaf65026f49679229be631b97783c4a436757726c1d77b6ff53a"
+    },
+    {
+      "path": "50_reviews/history/mechanism_review_before_final_names_20261025.json",
+      "size": 74626,
+      "sha256": "f74ccab287cdf3051c0217d761950f4d0a406d1a791026361bb401a1f1e905b5"
+    },
+    {
+      "path": "README.md",
+      "size": 5342,
+      "sha256": "d3b77025eebeb655a0aa8a5905e8e28619f3a02fe6e096ec7f1c08fcb2f6044c"
+    },
+    {
+      "path": "assets/macro_course_20250330/manifest.json",
+      "size": 10096,
+      "sha256": "77245ffd7c734e706cd3c2e5f158348e9f1ce04957ebe5db7b5ba6e63f902da7"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-01.png",
+      "size": 228318,
+      "sha256": "ad691b23a22be3907fd604e35569b0d6d52ff904e2e716aa0a4517a61cecdc99"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-02.png",
+      "size": 527692,
+      "sha256": "51d8a6583b182e15af04e43042bb60d96ec707872b11b41be1086df19cde3bd5"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-03.png",
+      "size": 523915,
+      "sha256": "3a2edaeffd5bc7d6f8f1688c6790e334b1e14f301c0da3b0fea9f89b5a717a7b"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-04.png",
+      "size": 479073,
+      "sha256": "4dcbf427ed84ff06b3eba97affce6b2ddf9b173524d2140b27661d89312a3b63"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-05.png",
+      "size": 462030,
+      "sha256": "502c08a67353ff299404cae1999771bceb5c87409d1d4e71eaf6a7eaa59ea5cc"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-06.png",
+      "size": 442153,
+      "sha256": "df32153af1949446fb9b6deb0c6d23c579e79f5210ae7512d2527aeb3c15f88f"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-07.png",
+      "size": 292553,
+      "sha256": "cb9e97bde7fa70af4076a9445f4c989038c2d51d789683fd19ef2c37b835175b"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-08.png",
+      "size": 517647,
+      "sha256": "3594013244cd5e29a9d0b04952536add5b9443e18f3b50da2be9c4446b76235e"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-09.png",
+      "size": 480467,
+      "sha256": "64229aed95f5e11364ba6e94e60fa298dcf3c7df54aa672f65dd7ee6d1579e45"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-10.png",
+      "size": 433137,
+      "sha256": "1818fb631d365567674112b2c74361705f04afc37ccd9cf4db05d8476dc2d412"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-11.png",
+      "size": 451646,
+      "sha256": "8dcff3011bedbf538f6e34c40504d5c5860609bef6b252f85c8677d3fc314eb1"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-12.png",
+      "size": 499346,
+      "sha256": "f457a79af620dee0cf64d248654cba10924aefb6e7c58bc42671d3c0834e832c"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-13.png",
+      "size": 525324,
+      "sha256": "b7b6b22b1e8d5d28cbaefa473a9ac0e4d6d35e9d651364e6c5e61776d5ec26a6"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-14.png",
+      "size": 1122630,
+      "sha256": "64c25e5a8165a24fca29c87c9beacf7d69a466594db7e685172f8626a0e0d27c"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-15.png",
+      "size": 484057,
+      "sha256": "4e09ed42b2d6bf916f98cab6e9b7e153307f3562a7470d44d28b245cf9a1b06b"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-16.png",
+      "size": 1724760,
+      "sha256": "c176dbd5bc636e79144ecf6888ca26c28138e7e84f16d98cdb47856e5dccd40f"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-17.png",
+      "size": 427111,
+      "sha256": "cc2f1dee71f987cf5b10aa30fd6c012c0c6e333195284d898e4d9b2f7ee6361d"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-18.png",
+      "size": 593957,
+      "sha256": "931b554b117ee48f7280cf62fad92fbe663ad64a98132056f2cc22b14342e8c0"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-19.png",
+      "size": 491772,
+      "sha256": "2f4f9e5eda3f78d1181454bc9f28ce332c5e4a3da43ba85ce21dbe1fd45ce0ce"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-20.png",
+      "size": 476768,
+      "sha256": "554d27ebd6a4ab7711b6632ae7ede74de8a10f69c45656ba14294bcb0ff7c26d"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-21.png",
+      "size": 511541,
+      "sha256": "383c1f30d3ff7916b990c783d0bb4208c8fccd1b8e21930c0a9d254f76216e71"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-22.png",
+      "size": 674103,
+      "sha256": "a1860fe1d02c5c42cb48f95d5b1a714259cd66943d1aeac6597013f61c20e7ce"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-23.png",
+      "size": 467839,
+      "sha256": "045cfa886c39eb478caff1d11967af3fb8225a195073203388b22cbec113124b"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-24.png",
+      "size": 600004,
+      "sha256": "d319b2e0b1f7dd9d35bafaf20e84556dcab165e45baae2a9bbc42925772a1410"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-25.png",
+      "size": 478432,
+      "sha256": "7801166dc1fd3bbb74271d1a984e6af5c49c166af0d9991dbc9cdfedd8eee49d"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-26.png",
+      "size": 479171,
+      "sha256": "7bf089099937e11aee3a662a1918c781362d0e989cf2f77fcdae0db86a2a106e"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-27.png",
+      "size": 599167,
+      "sha256": "a712f6022425fa62a3370d7836ff87554f59f55ec57deef86988c2815435432d"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-28.png",
+      "size": 438641,
+      "sha256": "ec75e39a660897cdede6f9946a9dc83c934644f3009096640bd925000798d6ec"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-29.png",
+      "size": 580646,
+      "sha256": "a7d5a7049891928a6a5afe41c6f4d9fcd414545a90a1814ded5075fa37259f13"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-30.png",
+      "size": 493201,
+      "sha256": "bce0b0598e7b10636b054aabb12d042d1d66e68db0de0db074ee0858e56cd33a"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-31.png",
+      "size": 327403,
+      "sha256": "e21f6d32ac1cd0d6687841f4df94a5ad7069328078c1b78363fa932553211bac"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-32.png",
+      "size": 495370,
+      "sha256": "57e3d73bf4a2da082d5522d26f8497e7da351df75c7ef97aa95a2b01463c44f9"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-33.png",
+      "size": 474143,
+      "sha256": "1fda1b780cb255b440087922a0e76c921286c4e29dd90c57b9ca86fcf6622477"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-34.png",
+      "size": 469666,
+      "sha256": "149144a13a841cbf1ad761c248c13d38c4fe367308e1b020873a03f527f61196"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-35.png",
+      "size": 430293,
+      "sha256": "2cc4f0659a351df7d6a2ca182b8ba73836dd122297ccbc374900dbf32fb248d9"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-36.png",
+      "size": 620620,
+      "sha256": "a9aa229a07a1c37a36d180e33eb4ca616bf95b1af939e0ba546e4df8ab0b6382"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-37.png",
+      "size": 490471,
+      "sha256": "4b70c0f6c2d01a29ae63d3c05db83eb3e9b7db5471357578052192d90fb52e55"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-38.png",
+      "size": 537550,
+      "sha256": "160a70969348d6d5c5a8b3bece72f902dfe87e3f8813ca9ae958c7bd8e1d7666"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-39.png",
+      "size": 497577,
+      "sha256": "43c6783db705e76bd6709476193f853dbf4969f0369b68c61c783be2542ed25d"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-40.png",
+      "size": 555369,
+      "sha256": "83b9b0fd6bf3afefdef18918f052f4c739e3a2c46c73e30d9ad88df3fd3901ba"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-41.png",
+      "size": 560968,
+      "sha256": "4f655af593e862e564578d13a043698ad72455bca3fa97994d80dc9f1826462e"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-42.png",
+      "size": 467203,
+      "sha256": "0cf60e67a6de49abd57fa7f36821cbe57f83706cf518b92a40f2f87407c315d2"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-43.png",
+      "size": 556002,
+      "sha256": "b62ea9b0a15d7d5fd9c2569c8bb66ede77cfab2bfeac9b17b2d389ebf175d349"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-44.png",
+      "size": 325030,
+      "sha256": "e6a406c54bd2491858265d57d837e17308dbc96c79f0bf4c01a9feadda8de70d"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-45.png",
+      "size": 387768,
+      "sha256": "0016c29cf3611eb5b639f36efb6426ba13ac12f4bef18097b18778b6bc9b5a39"
+    },
+    {
+      "path": "assets/macro_course_20250330/page-46.png",
+      "size": 1258906,
+      "sha256": "3042c08efc68dd71d622656ab6ec03024132d271f5098c28e12c966ba1ecc436"
+    }
+  ]
+}

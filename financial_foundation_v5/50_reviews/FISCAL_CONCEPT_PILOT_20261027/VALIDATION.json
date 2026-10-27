@@ -1,0 +1,118 @@
+{
+  "version": "v5",
+  "date": "2026-10-27",
+  "maintenance_revision": "fiscal_concepts_pilot_20261027",
+  "objects": 163,
+  "mechanisms": 71,
+  "initial_build_nodes": 234,
+  "complete_nodes": 12,
+  "pending_nodes": 222,
+  "complete_concepts": 10,
+  "complete_mechanisms": 2,
+  "new_complete_ids": [
+    "C-MONEY-CBBS",
+    "C-POL-QE",
+    "C-POL-QT",
+    "C-MONEY-13",
+    "C-LIQ-FUND",
+    "C-FISCAL-DEFICIT"
+  ],
+  "fiscal_mechanism_concept_ids": [
+    "C-FISCAL-DEFICIT",
+    "C-MONEY-13",
+    "C-LIQ-FUND",
+    "C-IR-TERM",
+    "C-MONEY-CBBS",
+    "C-POL-QE",
+    "C-POL-QT",
+    "C-IR-REAL"
+  ],
+  "selected_concepts_found_in_actual_mechanism_body": [
+    "C-FISCAL-DEFICIT",
+    "C-IR-REAL",
+    "C-IR-TERM",
+    "C-LIQ-FUND",
+    "C-MONEY-13",
+    "C-MONEY-CBBS",
+    "C-POL-QE",
+    "C-POL-QT"
+  ],
+  "fiscal_mechanism_concepts_complete": 8,
+  "unchanged_trees": {
+    "30_events": {
+      "files": 10,
+      "byte_identical": true
+    },
+    "40_sources": {
+      "files": 8,
+      "byte_identical": true
+    },
+    "assets": {
+      "files": 47,
+      "byte_identical": true
+    }
+  },
+  "original_six_economic_documents_unchanged_except_navigation": {
+    "10_concepts/C-IR-POLICY_policy_rate_target_range.md": true,
+    "10_concepts/C-IR-TERM_term_premium.md": true,
+    "10_concepts/C-IR-REAL_real_interest_rate.md": true,
+    "10_concepts/C-ASSET-GOLD_gold.md": true,
+    "20_mechanisms/R-FISCAL-LONGYIELD_fiscal_long_yields.md": true,
+    "20_mechanisms/R-GOLD-REALRATES_real_rates_gold.md": true
+  },
+  "subagent_first_draft_text_retained_except_metadata_and_navigation": {
+    "C-FISCAL-DEFICIT": true,
+    "C-MONEY-13": true,
+    "C-MONEY-CBBS": true,
+    "C-POL-QE": true,
+    "C-POL-QT": true
+  },
+  "subagent_authorship": {
+    "C-FISCAL-DEFICIT": "/root/fiscal_tga_concepts",
+    "C-MONEY-13": "/root/fiscal_tga_concepts",
+    "C-MONEY-CBBS": "/root/cbbs_qe_qt_concepts",
+    "C-POL-QE": "/root/cbbs_qe_qt_concepts",
+    "C-POL-QT": "/root/cbbs_qe_qt_concepts"
+  },
+  "main_new_concept_ids": [
+    "C-LIQ-FUND"
+  ],
+  "source_counts": {
+    "C-FISCAL-DEFICIT": 7,
+    "C-MONEY-13": 8,
+    "C-LIQ-FUND": 11,
+    "C-MONEY-CBBS": 7,
+    "C-POL-QE": 11,
+    "C-POL-QT": 13
+  },
+  "arithmetic_checks": {
+    "FY2024_financing": true,
+    "FY2024_primary": true,
+    "FY2023_primary": true,
+    "TGA_week_mean_vs_point": true,
+    "funding_loan_limit": true,
+    "funding_cash_gap": true,
+    "funding_required_sale_rounded": true,
+    "CBBS_net_interest": true,
+    "CBBS_deferred_asset_increase": true,
+    "QE_gross_net": true,
+    "QT_cap_examples": true
+  },
+  "input_hashes_verified": 23,
+  "live_markdown_pages_checked": 51,
+  "local_links_checked": 1113,
+  "local_anchors_checked": 741,
+  "link_check_exclusions": [
+    "historical review snapshots",
+    "byte-preserved submitted drafts with original relative-path context",
+    "code examples"
+  ],
+  "editorial_review": "50_reviews/FISCAL_CONCEPT_PILOT_20261027/MAIN_REVIEW.md",
+  "limitations": [
+    "222 selected node documents remain to be authored.",
+    "Structure checks do not independently verify all external factual statements.",
+    "Historical evidence cutoffs differ by page; editing date is not a current-market cutoff.",
+    "This pilot used two simultaneous subagents for 2 and 3 concepts; larger concurrency is not yet tested."
+  ],
+  "errors": []
+}

@@ -1,0 +1,10 @@
+{
+  "task_date": "2026-10-23",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "agent_path": "/root/astra_medium_rewrite",
+  "context_mode": "fork_turns=none",
+  "task_file": "comparison/RUN_TASK.md",
+  "original_package": "financial_foundation_v3_20261023.zip",
+  "prior_model": "not recorded in available package"
+}

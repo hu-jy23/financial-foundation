@@ -1,0 +1,26 @@
+{
+  "state": "working_draft",
+  "base": "v4",
+  "date": "2026-10-23",
+  "local_links": 1284,
+  "embedded_images": 45,
+  "original_pdf_pages": 46,
+  "legacy_ids_resolve": 18,
+  "existing_material_bodies": 8,
+  "course_collections": 1,
+  "yaml_documents": 20,
+  "catalogue_entries_unchanged": true,
+  "concept_and_mechanism_bodies_unchanged_except_links": true,
+  "source_pdf_hash_verified": true,
+  "image_hashes_verified": 46,
+  "image_resolution": [
+    1920,
+    1080
+  ],
+  "errors": [],
+  "limitations": [
+    "No new external factual research in this reorganization.",
+    "Course claims preserved as source material; not all independently verified.",
+    "Source inventories retain previously recorded access and read ranges."
+  ]
+}

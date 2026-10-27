@@ -1,0 +1,60 @@
+{
+  "date": "2026-10-25",
+  "basis": "既有入选对象中的目录关联整理；不新增对象或关系。",
+  "updates": [
+    {
+      "id": "R-GROWTH-04",
+      "name": "工资—价格反馈",
+      "old_node_ids": [],
+      "new_node_ids": [
+        "C-INF-INFLATION",
+        "C-POL-CREDIBILITY"
+      ],
+      "reason": "通货膨胀为解释对象；央行可信度承接预期锚定。工资与单位劳动成本继续作为正文变量。"
+    },
+    {
+      "id": "R-DEBT-DEFLATION",
+      "name": "债务通缩",
+      "old_node_ids": [],
+      "new_node_ids": [
+        "C-INF-INFLATION",
+        "C-CREDIT-16",
+        "C-CREDIT-10"
+      ],
+      "reason": "以物价变化、金融周期与抵押品连接债务通缩；名义债务、收入和实际负担留在正文。"
+    },
+    {
+      "id": "R-DERIVATIVES-07",
+      "name": "偏斜与尾部保险需求",
+      "old_node_ids": [],
+      "new_node_ids": [
+        "C-VOL-IVRV",
+        "C-DERIV-04"
+      ],
+      "reason": "用已入选的波动率对象连接期权定价；偏斜和尾部保险需求继续在机制中解释。"
+    },
+    {
+      "id": "R-COMMODITY-03",
+      "name": "库存与便利收益、期货曲线",
+      "old_node_ids": [],
+      "new_node_ids": [
+        "C-COMMOD-03",
+        "C-COMMOD-04",
+        "C-COMMOD-06",
+        "C-COMMOD-09"
+      ],
+      "reason": "以原油、天然气、工业金属和农产品作为可储存商品的研究入口；库存、便利收益和期货曲线保留为正文变量。具体适用性随材料展开。"
+    },
+    {
+      "id": "R-GEOPOLITICS-02",
+      "name": "关税的跨境成本分担",
+      "old_node_ids": [],
+      "new_node_ids": [
+        "C-INF-INFLATION",
+        "C-FX-USD",
+        "C-FX-02"
+      ],
+      "reason": "关联物价与已入选货币对象；关税、成本分担、利润和贸易量在正文解释。币种是初始研究入口。"
+    }
+  ]
+}

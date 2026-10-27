@@ -1,0 +1,21 @@
+{
+  "task_name": "/root/astra_low_independent_selection",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "low",
+  "fork_turns": "none",
+  "date": "2026-10-24",
+  "input": "candidates_unmarked.json",
+  "input_sha256": "17f0610ad712128503303bdc062205a9415c9c84c2cf964d6c8793ff15b135d9",
+  "input_contents": "Original names, groups, IDs, order and scope descriptions only; no existing verdicts or review counts.",
+  "instructions": "User original selection criteria supplied verbatim; agent instructed to read only candidates_unmarked.json, make all 349 decisions independently, and never inspect other project files or prior reviews.",
+  "author": "subagent /root/astra_low_independent_selection",
+  "parent_review_scope": "Completeness, unchanged names/order, count consistency and format only; no substitution of the parent agent verdicts.",
+  "status": "complete",
+  "total": 349,
+  "keep": 288,
+  "exclude": 61,
+  "parent_validation": "349 unique IDs; all names, order, groups, marks, counts and nonempty reasons match.",
+  "parent_edits_to_agent_verdicts": false,
+  "output_md_sha256": "4725ab78c02032c721d010cec84c47de44f14534e7b04420e9ae640f5b0a9214",
+  "archive_status": "historical_only_superseded_by_v5_selection"
+}

@@ -1,0 +1,1681 @@
+{
+  "date": "2026-10-25",
+  "status": "confirmed",
+  "original_names_restored_indices": [
+    3,
+    4,
+    7,
+    14,
+    18,
+    24,
+    40,
+    43,
+    44,
+    47,
+    52,
+    56,
+    59,
+    66,
+    71,
+    75,
+    89,
+    94,
+    96,
+    97,
+    105,
+    106,
+    107,
+    112,
+    117,
+    118,
+    122,
+    123,
+    132,
+    147,
+    149,
+    154,
+    157,
+    159,
+    160,
+    164
+  ],
+  "original_names_restored_ids": [
+    "R-IR-DECOMP",
+    "R-INFO-SURPRISE",
+    "R-MEASURE-07",
+    "R-QT-LIQ",
+    "R-MONETARY-10",
+    "R-GROWTH-03",
+    "R-FISCAL-07",
+    "R-FISCAL-10",
+    "R-FISCAL-11",
+    "R-BANKING-02",
+    "R-BANKING-07",
+    "R-BANKING-11",
+    "R-FX-REALDIFF",
+    "R-INTERNATIONAL-09",
+    "R-INTERNATIONAL-14",
+    "R-EQUITY-03",
+    "R-FLOW-VOLSURGE",
+    "R-MARKET-08",
+    "R-MARKET-10",
+    "R-MARKET-11",
+    "R-DERIVATIVES-06",
+    "R-DERIVATIVES-07",
+    "R-DERIVATIVES-08",
+    "R-GOLD-03",
+    "R-GOLD-08",
+    "R-ASSET-STOCKBOND",
+    "R-COMMODITY-03",
+    "R-COMMODITY-04",
+    "R-CN-CREDIT",
+    "R-CHINA_MARKET-06",
+    "R-CHINA_MARKET-08",
+    "R-TECH-03",
+    "R-TECH-06",
+    "R-TECH-08",
+    "R-TECH-09",
+    "R-GEOPOLITICS-01"
+  ],
+  "counts": {
+    "total": 177,
+    "renamed_from_original": 128,
+    "original_names_final": 49,
+    "restored_after_first_revision": 36
+  },
+  "rows": [
+    {
+      "index": 1,
+      "id": "R-MEAS-FISHER",
+      "original_name": "费雪关系：名义利率、实际利率与通胀预期",
+      "first_revised_name": "费雪关系",
+      "final_name": "费雪关系",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 2,
+      "id": "R-MEAS-BEI",
+      "original_name": "名义/实际收益率与通胀补偿分解",
+      "first_revised_name": "通胀补偿的定价分解",
+      "final_name": "通胀补偿的定价分解",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 3,
+      "id": "R-IR-DECOMP",
+      "original_name": "长期收益率：预期短端路径与期限溢价",
+      "first_revised_name": "长期收益率分解",
+      "final_name": "长期收益率：预期短端路径与期限溢价",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 4,
+      "id": "R-INFO-SURPRISE",
+      "original_name": "数据意外、修订与利率重定价",
+      "first_revised_name": "宏观数据更新后的利率重定价",
+      "final_name": "数据意外、修订与利率重定价",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 5,
+      "id": "R-MEASURE-05",
+      "original_name": "调查预期与价格隐含通胀预期的分化",
+      "first_revised_name": "调查预期与价格隐含通胀预期的分化",
+      "final_name": "调查预期与价格隐含通胀预期的分化",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 6,
+      "id": "R-MEASURE-06",
+      "original_name": "预期分歧、风险承担与成交",
+      "first_revised_name": "预期分歧、风险承担",
+      "final_name": "预期分歧、风险承担",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 7,
+      "id": "R-MEASURE-07",
+      "original_name": "预期锚定与政策可信度",
+      "first_revised_name": "通胀预期锚定",
+      "final_name": "预期锚定与政策可信度",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 8,
+      "id": "R-MEASURE-09",
+      "original_name": "市场叙事变化与股票估值重估",
+      "first_revised_name": "市场叙事与股价的相互作用",
+      "final_name": "市场叙事与股价的相互作用",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 9,
+      "id": "R-POL-REALSTANCE",
+      "original_name": "实际政策立场与总需求",
+      "first_revised_name": "货币政策的实际利率渠道",
+      "final_name": "货币政策的实际利率渠道",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 10,
+      "id": "R-POL-CURVE",
+      "original_name": "货币政策意外与收益率曲线",
+      "first_revised_name": "货币政策冲击的期限结构传导",
+      "final_name": "货币政策冲击的期限结构传导",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 11,
+      "id": "R-POL-INFORMATION",
+      "original_name": "央行信息效应与政策冲击",
+      "first_revised_name": "央行公告的政策效应与信息效应",
+      "final_name": "央行公告的政策效应与信息效应",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 12,
+      "id": "R-MONETARY-04",
+      "original_name": "前瞻指引与政策路径预期",
+      "first_revised_name": "前瞻指引",
+      "final_name": "前瞻指引",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 13,
+      "id": "R-QE-DURATION",
+      "original_name": "QE与久期风险转移",
+      "first_revised_name": "QE的久期风险转移",
+      "final_name": "QE的久期风险转移",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 14,
+      "id": "R-QT-LIQ",
+      "original_name": "QT与准备金、ONRRP及资金市场",
+      "first_revised_name": "QT的流动性传导",
+      "final_name": "QT与准备金、ONRRP及资金市场",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 15,
+      "id": "R-MONETARY-07",
+      "original_name": "利率走廊与隔夜利率传导",
+      "first_revised_name": "利率走廊",
+      "final_name": "利率走廊",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 16,
+      "id": "R-TGA-RESERVES",
+      "original_name": "TGA收支与准备金变化",
+      "first_revised_name": "TGA收支对准备金的影响",
+      "final_name": "TGA收支对准备金的影响",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 17,
+      "id": "R-MONETARY-09",
+      "original_name": "ONRRP流出与国库券需求",
+      "first_revised_name": "货币基金在ONRRP与国库券之间的配置",
+      "final_name": "货币基金在ONRRP与国库券之间的配置",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 18,
+      "id": "R-MONETARY-10",
+      "original_name": "利率上调与存款迁移",
+      "first_revised_name": "加息期间的存款迁移",
+      "final_name": "利率上调与存款迁移",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 19,
+      "id": "R-MONETARY-11",
+      "original_name": "政策沟通与不确定性溢价",
+      "first_revised_name": "政策沟通对不确定性溢价的影响",
+      "final_name": "政策沟通对不确定性溢价的影响",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 20,
+      "id": "R-MONETARY-12",
+      "original_name": "政策利率下限与非常规宽松传导",
+      "first_revised_name": "利率下限下的非常规宽松传导",
+      "final_name": "利率下限下的非常规宽松传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 21,
+      "id": "R-IR-CURVE-SHAPE",
+      "original_name": "收益率曲线陡峭化与平坦化",
+      "first_revised_name": "收益率曲线陡峭化与平坦化",
+      "final_name": "收益率曲线陡峭化与平坦化",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 22,
+      "id": "R-MAC-DEMANDINF",
+      "original_name": "需求扩张、产出缺口与通胀",
+      "first_revised_name": "需求拉动型通胀",
+      "final_name": "需求拉动型通胀",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 23,
+      "id": "R-MAC-SUPPLY",
+      "original_name": "供给冲击、通胀与增长权衡",
+      "first_revised_name": "供给冲击下的通胀—增长权衡",
+      "final_name": "供给冲击下的通胀—增长权衡",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 24,
+      "id": "R-GROWTH-03",
+      "original_name": "劳动力紧张、工资与服务通胀",
+      "first_revised_name": "工资向服务价格的传导",
+      "final_name": "劳动力紧张、工资与服务通胀",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 25,
+      "id": "R-GROWTH-04",
+      "original_name": "工资—价格反馈",
+      "first_revised_name": "工资—价格反馈",
+      "final_name": "工资—价格反馈",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 26,
+      "id": "R-GROWTH-05",
+      "original_name": "能源价格向CPI/PPI传导",
+      "first_revised_name": "能源价格向CPI/PPI传导",
+      "final_name": "能源价格向CPI/PPI传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 27,
+      "id": "R-GROWTH-06",
+      "original_name": "住房租金向通胀指标传导",
+      "first_revised_name": "住房租金向通胀指标传导",
+      "final_name": "住房租金向通胀指标传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 28,
+      "id": "R-GROWTH-07",
+      "original_name": "生产率提升与潜在增长、实际利率",
+      "first_revised_name": "生产率提升的增长与利率效应",
+      "final_name": "生产率提升的增长与利率效应",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 29,
+      "id": "R-GROWTH-08",
+      "original_name": "人口老龄化、储蓄与r*",
+      "first_revised_name": "人口老龄化对自然利率的影响",
+      "final_name": "人口老龄化对自然利率的影响",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 30,
+      "id": "R-GROWTH-09",
+      "original_name": "库存周期与生产、利润、商品需求",
+      "first_revised_name": "库存周期",
+      "final_name": "库存周期",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 31,
+      "id": "R-GROWTH-10",
+      "original_name": "财富效应与消费",
+      "first_revised_name": "财富效应",
+      "final_name": "财富效应",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 32,
+      "id": "R-GROWTH-11",
+      "original_name": "失业、收入风险与预防性储蓄",
+      "first_revised_name": "预防性储蓄",
+      "final_name": "预防性储蓄",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 33,
+      "id": "R-GROWTH-12",
+      "original_name": "外需变化与出口、制造投资",
+      "first_revised_name": "外需向制造业投资的传导",
+      "final_name": "外需向制造业投资的传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 34,
+      "id": "R-FISCAL-LONGYIELD",
+      "original_name": "国债供给的定价机制",
+      "first_revised_name": "国债供给的定价机制",
+      "final_name": "国债供给的定价机制",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 35,
+      "id": "R-FISCAL-02",
+      "original_name": "财政支出与总需求乘数",
+      "first_revised_name": "财政乘数",
+      "final_name": "财政乘数",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 36,
+      "id": "R-FISCAL-03",
+      "original_name": "减税与消费、投资及资本分配",
+      "first_revised_name": "减税对消费和投资的影响",
+      "final_name": "减税对消费和投资的影响",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 37,
+      "id": "R-FISCAL-DEBTDYN",
+      "original_name": "债务动态：利率、增长与初级余额",
+      "first_revised_name": "政府债务动态",
+      "final_name": "政府债务动态",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 38,
+      "id": "R-FISCAL-05",
+      "original_name": "净发行到私人部门久期承担的转换",
+      "first_revised_name": "私人部门的国债久期承接",
+      "final_name": "私人部门的国债久期承接",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 39,
+      "id": "R-FISCAL-06",
+      "original_name": "财政赤字、国民储蓄与经常账户",
+      "first_revised_name": "财政赤字与经常账户的联动",
+      "final_name": "财政赤字与经常账户的联动",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 40,
+      "id": "R-FISCAL-07",
+      "original_name": "国债供给与抵押品便利收益定价",
+      "first_revised_name": "国债抵押品便利收益的定价",
+      "final_name": "国债供给与抵押品便利收益定价",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 41,
+      "id": "R-FISCAL-08",
+      "original_name": "债务上限事件与短券局部溢价",
+      "first_revised_name": "债务上限风险的短券定价",
+      "final_name": "债务上限风险的短券定价",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 42,
+      "id": "R-FISCAL-09",
+      "original_name": "政府停摆与数据发布、需求",
+      "first_revised_name": "政府停摆的需求影响与数据缺口",
+      "final_name": "政府停摆的需求影响与数据缺口",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 43,
+      "id": "R-FISCAL-10",
+      "original_name": "财政主导与通胀预期",
+      "first_revised_name": "财政主导的通胀传导",
+      "final_name": "财政主导与通胀预期",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 44,
+      "id": "R-FISCAL-11",
+      "original_name": "主权信用与银行资产负债表反馈",
+      "first_revised_name": "主权—银行风险反馈",
+      "final_name": "主权信用与银行资产负债表反馈",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 45,
+      "id": "R-FISCAL-12",
+      "original_name": "公共投资与生产率、私人投资",
+      "first_revised_name": "公共投资对生产率和私人投资的影响",
+      "final_name": "公共投资对生产率和私人投资的影响",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 46,
+      "id": "R-BANKING-01",
+      "original_name": "银行资本约束与信贷供给",
+      "first_revised_name": "银行信贷的资本约束",
+      "final_name": "银行信贷的资本约束",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 47,
+      "id": "R-BANKING-02",
+      "original_name": "银行负债成本、资产重定价与息差",
+      "first_revised_name": "银行净息差的重定价机制",
+      "final_name": "银行负债成本、资产重定价与息差",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 48,
+      "id": "R-CREDIT-COLLATERAL",
+      "original_name": "资产价格、抵押品与信用扩张",
+      "first_revised_name": "金融加速器",
+      "final_name": "金融加速器",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 49,
+      "id": "R-LIQ-SPIRAL",
+      "original_name": "保证金提高、去杠杆与价格冲击",
+      "first_revised_name": "保证金驱动的流动性螺旋",
+      "final_name": "保证金驱动的流动性螺旋",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 50,
+      "id": "R-BANKING-05",
+      "original_name": "流动性错配与挤兑",
+      "first_revised_name": "流动性错配下的挤兑机制",
+      "final_name": "流动性错配下的挤兑机制",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 51,
+      "id": "R-BANKING-06",
+      "original_name": "信用利差、违约与风险偏好",
+      "first_revised_name": "信用利差的定价分解",
+      "final_name": "信用利差的定价分解",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 52,
+      "id": "R-BANKING-07",
+      "original_name": "利率上升与再融资到期墙",
+      "first_revised_name": "再融资到期墙",
+      "final_name": "利率上升与再融资到期墙",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 53,
+      "id": "R-DEBT-DEFLATION",
+      "original_name": "债务通缩与实际债务负担",
+      "first_revised_name": "债务通缩",
+      "final_name": "债务通缩",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 54,
+      "id": "R-BANKING-09",
+      "original_name": "证券化与风险转移、激励变化",
+      "first_revised_name": "证券化中的风险转移与激励",
+      "final_name": "证券化中的风险转移与激励",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 55,
+      "id": "R-BANKING-10",
+      "original_name": "最后贷款人与恐慌缓解",
+      "first_revised_name": "最后贷款人的危机干预",
+      "final_name": "最后贷款人的危机干预",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 56,
+      "id": "R-BANKING-11",
+      "original_name": "地产下行与银行不良、信贷收缩",
+      "first_revised_name": "地产下行的银行信贷传导",
+      "final_name": "地产下行与银行不良、信贷收缩",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 57,
+      "id": "R-BANKING-12",
+      "original_name": "金融周期与系统性风险的积累、扩散",
+      "first_revised_name": "金融周期中的系统性风险积累与扩散",
+      "final_name": "金融周期中的系统性风险积累与扩散",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 58,
+      "id": "R-FX-PARITY",
+      "original_name": "利率平价与远期汇率",
+      "first_revised_name": "利率平价",
+      "final_name": "利率平价",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 59,
+      "id": "R-FX-REALDIFF",
+      "original_name": "实际利差与汇率变化",
+      "first_revised_name": "实际利差的汇率传导",
+      "final_name": "实际利差与汇率变化",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 60,
+      "id": "R-USD-DEBT",
+      "original_name": "美元升值与美元债务负担",
+      "first_revised_name": "美元升值的债务负担效应",
+      "final_name": "美元升值的债务负担效应",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 61,
+      "id": "R-USD-GLOBAL",
+      "original_name": "美元融资依赖的传导机制",
+      "first_revised_name": "美元融资依赖的传导机制",
+      "final_name": "美元融资依赖的传导机制",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 62,
+      "id": "R-INTERNATIONAL-05",
+      "original_name": "美元互换额度与跨币种基差",
+      "first_revised_name": "美元互换额度对跨币种基差的影响",
+      "final_name": "美元互换额度对跨币种基差的影响",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 63,
+      "id": "R-JPY-CARRY",
+      "original_name": "日元套息与平仓反馈",
+      "first_revised_name": "日元套息交易的平仓反馈",
+      "final_name": "日元套息交易的平仓反馈",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 64,
+      "id": "R-INTERNATIONAL-07",
+      "original_name": "汇率对冲成本与跨境债券配置",
+      "first_revised_name": "汇率对冲成本对跨境债券配置的影响",
+      "final_name": "汇率对冲成本对跨境债券配置的影响",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 65,
+      "id": "R-INTERNATIONAL-08",
+      "original_name": "出口竞争力与汇率传导",
+      "first_revised_name": "汇率变动的出口传导",
+      "final_name": "汇率变动的出口传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 66,
+      "id": "R-INTERNATIONAL-09",
+      "original_name": "资本流出、储备干预与本币流动性",
+      "first_revised_name": "外汇干预的本币流动性效应",
+      "final_name": "资本流出、储备干预与本币流动性",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 67,
+      "id": "R-INTERNATIONAL-10",
+      "original_name": "全球风险偏好与新兴市场资本流动",
+      "first_revised_name": "全球风险偏好对新兴市场资本流动的影响",
+      "final_name": "全球风险偏好对新兴市场资本流动的影响",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 68,
+      "id": "R-INTERNATIONAL-11",
+      "original_name": "经常账户、国际资产配置与汇率",
+      "first_revised_name": "国际收支与资产配置视角下的汇率定价",
+      "final_name": "国际收支与资产配置视角下的汇率定价",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 69,
+      "id": "R-INTERNATIONAL-12",
+      "original_name": "全球美元体系与美元主导地位",
+      "first_revised_name": "美元主导地位的形成与维持",
+      "final_name": "美元主导地位的形成与维持",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 70,
+      "id": "R-INTERNATIONAL-13",
+      "original_name": "美元信用与储备多元化",
+      "first_revised_name": "美元信用与储备多元化",
+      "final_name": "美元信用与储备多元化",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 71,
+      "id": "R-INTERNATIONAL-14",
+      "original_name": "港元联系汇率与HIBOR传导",
+      "first_revised_name": "联系汇率制度下的港元利率传导",
+      "final_name": "港元联系汇率与HIBOR传导",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 72,
+      "id": "R-RMB-INTERNATIONALIZATION",
+      "original_name": "人民币国际化",
+      "first_revised_name": "人民币国际化",
+      "final_name": "人民币国际化",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 73,
+      "id": "R-EQ-DISCOUNT",
+      "original_name": "折现率与股票估值",
+      "first_revised_name": "股票估值的折现率渠道",
+      "final_name": "股票估值的折现率渠道",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 74,
+      "id": "R-EQUITY-02",
+      "original_name": "增长消息、盈利修正与股价",
+      "first_revised_name": "增长消息的股票定价传导",
+      "final_name": "增长消息的股票定价传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 75,
+      "id": "R-EQUITY-03",
+      "original_name": "远期现金流与成长股利率敏感度",
+      "first_revised_name": "成长股的利率敏感性",
+      "final_name": "远期现金流与成长股利率敏感度",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 76,
+      "id": "R-EQUITY-04",
+      "original_name": "通胀、提价能力与利润率",
+      "first_revised_name": "通胀下的成本转嫁",
+      "final_name": "通胀下的成本转嫁",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 77,
+      "id": "R-EQUITY-05",
+      "original_name": "经营杠杆与盈利周期",
+      "first_revised_name": "经营杠杆",
+      "final_name": "经营杠杆",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 78,
+      "id": "R-EQUITY-06",
+      "original_name": "财务杠杆与股权风险",
+      "first_revised_name": "财务杠杆",
+      "final_name": "财务杠杆",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 79,
+      "id": "R-EQUITY-07",
+      "original_name": "分红、回购与资本分配",
+      "first_revised_name": "企业资本分配",
+      "final_name": "企业资本分配",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 80,
+      "id": "R-EQ-DIVIDEND",
+      "original_name": "高股息资产与债券替代需求",
+      "first_revised_name": "高股息资产的债券替代效应",
+      "final_name": "高股息资产的债券替代效应",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 81,
+      "id": "R-EQUITY-09",
+      "original_name": "盈利意外与公告后漂移",
+      "first_revised_name": "盈利公告后漂移",
+      "final_name": "盈利公告后漂移",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 82,
+      "id": "R-EQUITY-10",
+      "original_name": "分析师预期修正与价格反应",
+      "first_revised_name": "分析师预期修正与股价的相互作用",
+      "final_name": "分析师预期修正与股价的相互作用",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 83,
+      "id": "R-EQUITY-11",
+      "original_name": "融资稀释与投资回报",
+      "first_revised_name": "股权融资的稀释与价值创造",
+      "final_name": "股权融资的稀释与价值创造",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 84,
+      "id": "R-EQUITY-12",
+      "original_name": "客户订单信息向供应商盈利预期传导",
+      "first_revised_name": "客户订单信息向供应商盈利预期传导",
+      "final_name": "客户订单信息向供应商盈利预期传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 85,
+      "id": "R-EQUITY-13",
+      "original_name": "竞争者冲击与市场份额、利润转移",
+      "first_revised_name": "竞争冲击下的份额与利润再分配",
+      "final_name": "竞争冲击下的份额与利润再分配",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 86,
+      "id": "R-EQUITY-14",
+      "original_name": "并购、监管审批与事件价差",
+      "first_revised_name": "并购价差定价",
+      "final_name": "并购价差定价",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 87,
+      "id": "R-MARKET-01",
+      "original_name": "订单流失衡与短期价格冲击",
+      "first_revised_name": "订单流失衡的短期价格冲击",
+      "final_name": "订单流失衡的短期价格冲击",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 88,
+      "id": "R-MARKET-02",
+      "original_name": "流动性降低与冲击非线性",
+      "first_revised_name": "低流动性下的非线性价格冲击",
+      "final_name": "低流动性下的非线性价格冲击",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 89,
+      "id": "R-FLOW-VOLSURGE",
+      "original_name": "成交量激增与信息/流动性事件",
+      "first_revised_name": "成交量激增的成因",
+      "final_name": "成交量激增与信息/流动性事件",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 90,
+      "id": "R-MARKET-04",
+      "original_name": "ETF申赎套利与基础资产价格",
+      "first_revised_name": "ETF申赎套利",
+      "final_name": "ETF申赎套利",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 91,
+      "id": "R-MARKET-05",
+      "original_name": "指数调整与被动资金交易",
+      "first_revised_name": "指数调整的被动资金效应",
+      "final_name": "指数调整的被动资金效应",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 92,
+      "id": "R-MARKET-06",
+      "original_name": "基金赎回与被迫卖出",
+      "first_revised_name": "基金赎回引发的被迫卖出",
+      "final_name": "基金赎回引发的被迫卖出",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 93,
+      "id": "R-MARKET-07",
+      "original_name": "波动率目标策略与顺周期调仓",
+      "first_revised_name": "波动率目标策略的顺周期反馈",
+      "final_name": "波动率目标策略的顺周期反馈",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 94,
+      "id": "R-MARKET-08",
+      "original_name": "风险平价与股债相关性变化",
+      "first_revised_name": "股债相关性变化下的风险平价调仓",
+      "final_name": "风险平价与股债相关性变化",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 95,
+      "id": "R-MARKET-09",
+      "original_name": "CTA趋势跟随与行情反馈",
+      "first_revised_name": "CTA趋势跟随的价格反馈",
+      "final_name": "CTA趋势跟随的价格反馈",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 96,
+      "id": "R-MARKET-10",
+      "original_name": "拥挤交易与踩踏风险",
+      "first_revised_name": "拥挤交易的退出风险",
+      "final_name": "拥挤交易与踩踏风险",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 97,
+      "id": "R-MARKET-11",
+      "original_name": "新闻传播、投资者注意力与价格延迟反应",
+      "first_revised_name": "有限注意力下的价格发现",
+      "final_name": "新闻传播、投资者注意力与价格延迟反应",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 98,
+      "id": "R-MARKET-12",
+      "original_name": "反应过度、反转与流动性供给",
+      "first_revised_name": "价格反转的行为与流动性解释",
+      "final_name": "价格反转的行为与流动性解释",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 99,
+      "id": "R-MARKET-13",
+      "original_name": "涨跌停与跨日价格发现",
+      "first_revised_name": "涨跌停制度下的跨日价格发现",
+      "final_name": "涨跌停制度下的跨日价格发现",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 100,
+      "id": "R-DERIV-CARRY",
+      "original_name": "现货期货持有成本定价",
+      "first_revised_name": "现货期货持有成本定价",
+      "final_name": "现货期货持有成本定价",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 101,
+      "id": "R-DERIVATIVES-02",
+      "original_name": "基差交易与融资压力",
+      "first_revised_name": "基差交易",
+      "final_name": "基差交易",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 102,
+      "id": "R-DERIVATIVES-03",
+      "original_name": "做市商Gamma对冲与价格反馈",
+      "first_revised_name": "做市商Gamma对冲的价格反馈",
+      "final_name": "做市商Gamma对冲的价格反馈",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 103,
+      "id": "R-DERIVATIVES-04",
+      "original_name": "Vanna/Charm对冲与价格变化",
+      "first_revised_name": "Vanna/Charm对冲的价格反馈",
+      "final_name": "Vanna/Charm对冲的价格反馈",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 104,
+      "id": "R-DERIVATIVES-05",
+      "original_name": "事件到期与隐含波动率变化",
+      "first_revised_name": "事件落地后的隐含波动率重定价",
+      "final_name": "事件落地后的隐含波动率重定价",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 105,
+      "id": "R-DERIVATIVES-06",
+      "original_name": "波动率风险溢价与卖波收益风险",
+      "first_revised_name": "卖出波动率的风险补偿",
+      "final_name": "波动率风险溢价与卖波收益风险",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 106,
+      "id": "R-DERIVATIVES-07",
+      "original_name": "偏斜与尾部保险需求",
+      "first_revised_name": "尾部保险需求对波动率偏斜的影响",
+      "final_name": "偏斜与尾部保险需求",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 107,
+      "id": "R-DERIVATIVES-08",
+      "original_name": "期权成交信息与未来价格",
+      "first_revised_name": "期权成交的信息含量",
+      "final_name": "期权成交信息与未来价格",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 108,
+      "id": "R-DERIVATIVES-09",
+      "original_name": "期权到期与pin风险",
+      "first_revised_name": "期权到期的Pin风险",
+      "final_name": "期权到期的Pin风险",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 109,
+      "id": "R-DERIVATIVES-10",
+      "original_name": "MBS负凸性与利率对冲反馈",
+      "first_revised_name": "MBS负凸性引发的利率对冲反馈",
+      "final_name": "MBS负凸性引发的利率对冲反馈",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 110,
+      "id": "R-GOLD-REALRATES",
+      "original_name": "黄金的机会成本机制",
+      "first_revised_name": "黄金的机会成本机制",
+      "final_name": "黄金的机会成本机制",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 111,
+      "id": "R-GOLD-02",
+      "original_name": "美元变化与各币种黄金价格",
+      "first_revised_name": "黄金价格的美元效应与币种换算",
+      "final_name": "黄金价格的美元效应与币种换算",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 112,
+      "id": "R-GOLD-03",
+      "original_name": "央行购金与黄金需求结构",
+      "first_revised_name": "央行购金",
+      "final_name": "央行购金与黄金需求结构",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 113,
+      "id": "R-GOLD-04",
+      "original_name": "地缘风险与避险溢价",
+      "first_revised_name": "地缘风险的避险定价",
+      "final_name": "地缘风险的避险定价",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 114,
+      "id": "R-GOLD-05",
+      "original_name": "通胀风险、制度信任与黄金需求",
+      "first_revised_name": "通胀与制度信任对黄金需求的影响",
+      "final_name": "通胀与制度信任对黄金需求的影响",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 115,
+      "id": "R-GOLD-06",
+      "original_name": "融资紧缩与黄金被动出售",
+      "first_revised_name": "融资紧缩中的黄金被动出售",
+      "final_name": "融资紧缩中的黄金被动出售",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 116,
+      "id": "R-GOLD-07",
+      "original_name": "黄金ETF流量与价格反馈",
+      "first_revised_name": "黄金ETF资金流与金价的相互作用",
+      "final_name": "黄金ETF资金流与金价的相互作用",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 117,
+      "id": "R-GOLD-08",
+      "original_name": "金银比与工业/避险需求分化",
+      "first_revised_name": "金银比的需求驱动",
+      "final_name": "金银比与工业/避险需求分化",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 118,
+      "id": "R-ASSET-STOCKBOND",
+      "original_name": "股债相关性与通胀/增长主导状态",
+      "first_revised_name": "股债相关性的宏观驱动",
+      "final_name": "股债相关性与通胀/增长主导状态",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 119,
+      "id": "R-GOLD-10",
+      "original_name": "风险偏好变化与股票、信用债共同定价",
+      "first_revised_name": "股票与信用债的共同风险定价",
+      "final_name": "股票与信用债的共同风险定价",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 120,
+      "id": "R-OIL-SHOCK",
+      "original_name": "原油供给中断与价格、通胀、增长",
+      "first_revised_name": "原油供给冲击的宏观传导",
+      "final_name": "原油供给冲击的宏观传导",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 121,
+      "id": "R-COMMODITY-02",
+      "original_name": "OPEC减产与供给预期",
+      "first_revised_name": "OPEC减产对供给预期的影响",
+      "final_name": "OPEC减产对供给预期的影响",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 122,
+      "id": "R-COMMODITY-03",
+      "original_name": "库存与便利收益、期货曲线",
+      "first_revised_name": "商品库存的跨期定价",
+      "final_name": "库存与便利收益、期货曲线",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 123,
+      "id": "R-COMMODITY-04",
+      "original_name": "商品期限结构与滚动收益",
+      "first_revised_name": "商品期货的滚动收益",
+      "final_name": "商品期限结构与滚动收益",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 124,
+      "id": "R-COMMODITY-05",
+      "original_name": "中国地产基建与金属需求",
+      "first_revised_name": "中国地产基建对金属需求的拉动",
+      "final_name": "中国地产基建对金属需求的拉动",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 125,
+      "id": "R-COMMODITY-06",
+      "original_name": "能源成本与冶炼供给",
+      "first_revised_name": "能源成本对冶炼供给的约束",
+      "final_name": "能源成本对冶炼供给的约束",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 126,
+      "id": "R-COMMODITY-07",
+      "original_name": "航运瓶颈与运费、交货、库存",
+      "first_revised_name": "航运瓶颈的供应链传导",
+      "final_name": "航运瓶颈的供应链传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 127,
+      "id": "R-COMMODITY-08",
+      "original_name": "矿业资本开支与长期供给周期",
+      "first_revised_name": "矿业投资与供给的周期反馈",
+      "final_name": "矿业投资与供给的周期反馈",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 128,
+      "id": "R-COMMODITY-09",
+      "original_name": "天气冲击与农产品/电力价格",
+      "first_revised_name": "天气冲击的农产品与电力价格效应",
+      "final_name": "天气冲击的农产品与电力价格效应",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 129,
+      "id": "R-COMMODITY-10",
+      "original_name": "碳价格与企业成本、技术替代",
+      "first_revised_name": "碳定价的成本与替代效应",
+      "final_name": "碳定价的成本与替代效应",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 130,
+      "id": "R-CHINA-01",
+      "original_name": "降准与银行信贷、资金价格",
+      "first_revised_name": "降准的资金与信贷传导",
+      "final_name": "降准的资金与信贷传导",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 131,
+      "id": "R-CHINA-02",
+      "original_name": "政策利率、LPR与实体融资成本",
+      "first_revised_name": "政策利率的LPR传导渠道",
+      "final_name": "政策利率的LPR传导渠道",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 132,
+      "id": "R-CN-CREDIT",
+      "original_name": "社融结构、信用脉冲与实体需求",
+      "first_revised_name": "信用扩张的实体需求传导",
+      "final_name": "社融结构、信用脉冲与实体需求",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 133,
+      "id": "R-CN-PROPERTY",
+      "original_name": "地产销售、现金流与土地购置",
+      "first_revised_name": "房地产开发的现金流循环",
+      "final_name": "房地产开发的现金流循环",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 134,
+      "id": "R-CHINA-05",
+      "original_name": "土地收入、地方财政与基建",
+      "first_revised_name": "土地财政的基建融资机制",
+      "final_name": "土地财政的基建融资机制",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 135,
+      "id": "R-CHINA-06",
+      "original_name": "地方化债与银行、城投及企业回款",
+      "first_revised_name": "地方化债的资产负债表传导",
+      "final_name": "地方化债的资产负债表传导",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 136,
+      "id": "R-CHINA-07",
+      "original_name": "专项债发行到实物工作量",
+      "first_revised_name": "专项债资金向实物工作量的转化",
+      "final_name": "专项债资金向实物工作量的转化",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 137,
+      "id": "R-CHINA-08",
+      "original_name": "房地产财富效应与居民消费",
+      "first_revised_name": "房地产财富效应",
+      "final_name": "房地产财富效应",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 138,
+      "id": "R-CHINA-09",
+      "original_name": "保交楼、信用修复与销售预期",
+      "first_revised_name": "保交楼的信用修复机制",
+      "final_name": "保交楼的信用修复机制",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 139,
+      "id": "R-CHINA-10",
+      "original_name": "产能扩张、价格竞争与PPI利润",
+      "first_revised_name": "产能扩张下的价格竞争",
+      "final_name": "产能扩张下的价格竞争",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 140,
+      "id": "R-CHINA-11",
+      "original_name": "出口、结售汇与人民币流动性",
+      "first_revised_name": "出口结售汇的人民币流动性传导",
+      "final_name": "出口结售汇的人民币流动性传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 141,
+      "id": "R-CHINA-12",
+      "original_name": "存款搬家、资管需求与债市",
+      "first_revised_name": "存款迁移的债市传导",
+      "final_name": "存款迁移的债市传导",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 142,
+      "id": "R-CHINA_MARKET-01",
+      "original_name": "稳增长政策向基建盈利预期的传导",
+      "first_revised_name": "稳增长政策向基建盈利预期的传导",
+      "final_name": "稳增长政策向基建盈利预期的传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 143,
+      "id": "R-CHINA_MARKET-02",
+      "original_name": "国企资本回报与分红重估",
+      "first_revised_name": "国企资本回报考核的分红与估值效应",
+      "final_name": "国企资本回报考核的分红与估值效应",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 144,
+      "id": "R-CHINA_MARKET-03",
+      "original_name": "长期资金配置与红利风格",
+      "first_revised_name": "长期资金的红利配置需求",
+      "final_name": "长期资金的红利配置需求",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 145,
+      "id": "R-CHINA_MARKET-04",
+      "original_name": "电价、燃料成本与电力企业利润",
+      "first_revised_name": "电价与燃料成本对电企利润的影响",
+      "final_name": "电价与燃料成本对电企利润的影响",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 146,
+      "id": "R-CHINA_MARKET-05",
+      "original_name": "银行息差、资产质量与分红能力",
+      "first_revised_name": "银行分红的盈利与资本约束",
+      "final_name": "银行分红的盈利与资本约束",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 147,
+      "id": "R-CHINA_MARKET-06",
+      "original_name": "南向资金与港股估值、流动性",
+      "first_revised_name": "南向资金的港股定价影响",
+      "final_name": "南向资金与港股估值、流动性",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 148,
+      "id": "R-CHINA_MARKET-07",
+      "original_name": "A/H分割与相对估值",
+      "first_revised_name": "A/H溢价的市场分割机制",
+      "final_name": "A/H溢价的市场分割机制",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 149,
+      "id": "R-CHINA_MARKET-08",
+      "original_name": "宽基ETF份额变化与市场支撑",
+      "first_revised_name": "宽基ETF资金流的市场影响",
+      "final_name": "宽基ETF份额变化与市场支撑",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 150,
+      "id": "R-CHINA_MARKET-09",
+      "original_name": "政策信息、预期管理与主题行情",
+      "first_revised_name": "政策驱动的主题行情",
+      "final_name": "政策驱动的主题行情",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 151,
+      "id": "R-CHINA_MARKET-10",
+      "original_name": "产业支持退出与产能、盈利再平衡",
+      "first_revised_name": "产业支持退出后的产能调整",
+      "final_name": "产业支持退出后的产能调整",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 152,
+      "id": "R-AI-CAPEX",
+      "original_name": "AI资本开支到产业链订单",
+      "first_revised_name": "AI资本开支的订单传导",
+      "final_name": "AI资本开支的订单传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 153,
+      "id": "R-AI-POWER",
+      "original_name": "算力需求与电力/电网瓶颈",
+      "first_revised_name": "算力扩张的电力约束",
+      "final_name": "算力扩张的电力约束",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 154,
+      "id": "R-TECH-03",
+      "original_name": "模型效率、推理成本与总算力需求",
+      "first_revised_name": "模型效率提升的算力需求效应",
+      "final_name": "模型效率、推理成本与总算力需求",
+      "restored_original_name": true,
+      "mark": "✓"
+    },
+    {
+      "index": 155,
+      "id": "R-TECH-04",
+      "original_name": "GPU供给、价格与云服务利润",
+      "first_revised_name": "GPU供需向云服务利润的传导",
+      "final_name": "GPU供需向云服务利润的传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 156,
+      "id": "R-TECH-05",
+      "original_name": "HBM/先进封装瓶颈与价值分配",
+      "first_revised_name": "HBM与先进封装的瓶颈定价",
+      "final_name": "HBM与先进封装的瓶颈定价",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 157,
+      "id": "R-TECH-06",
+      "original_name": "数据中心扩张与光互联、液冷需求",
+      "first_revised_name": "数据中心扩张的配套设备需求",
+      "final_name": "数据中心扩张与光互联、液冷需求",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 158,
+      "id": "R-TECH-07",
+      "original_name": "AI应用收入与上游投资回报",
+      "first_revised_name": "AI应用变现对上游投资回报的影响",
+      "final_name": "AI应用变现对上游投资回报的影响",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 159,
+      "id": "R-TECH-08",
+      "original_name": "私募融资冷暖与AI企业支出",
+      "first_revised_name": "AI企业支出的融资约束",
+      "final_name": "私募融资冷暖与AI企业支出",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 160,
+      "id": "R-TECH-09",
+      "original_name": "技术替代与算力资产减值",
+      "first_revised_name": "算力资产的技术淘汰风险",
+      "final_name": "技术替代与算力资产减值",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 161,
+      "id": "R-TECH-10",
+      "original_name": "出口管制与供给链重构",
+      "first_revised_name": "出口管制下的供应链重构",
+      "final_name": "出口管制下的供应链重构",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 162,
+      "id": "R-TECH-11",
+      "original_name": "科技资本开支与折旧利润压力",
+      "first_revised_name": "科技资本开支的折旧负担",
+      "final_name": "科技资本开支的折旧负担",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 163,
+      "id": "R-TECH-12",
+      "original_name": "平台网络效应、竞争与定价权",
+      "first_revised_name": "平台网络效应",
+      "final_name": "平台网络效应",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 164,
+      "id": "R-GEOPOLITICS-01",
+      "original_name": "选举结果与政策落地概率",
+      "first_revised_name": "从选举结果到政策落地",
+      "final_name": "选举结果与政策落地概率",
+      "restored_original_name": true,
+      "mark": "✗"
+    },
+    {
+      "index": 165,
+      "id": "R-GEOPOLITICS-02",
+      "original_name": "关税与进口价格、利润及汇率",
+      "first_revised_name": "关税的跨境成本分担",
+      "final_name": "关税的跨境成本分担",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 166,
+      "id": "R-GEOPOLITICS-03",
+      "original_name": "制裁、支付限制与贸易融资",
+      "first_revised_name": "金融制裁的支付与贸易融资传导",
+      "final_name": "金融制裁的支付与贸易融资传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 167,
+      "id": "R-GEOPOLITICS-04",
+      "original_name": "产业补贴与产能迁移",
+      "first_revised_name": "产业补贴的产能布局效应",
+      "final_name": "产业补贴的产能布局效应",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 168,
+      "id": "R-GEOPOLITICS-05",
+      "original_name": "全球化逆转与成本、冗余及通胀",
+      "first_revised_name": "去全球化的供应链重构",
+      "final_name": "去全球化的供应链重构",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 169,
+      "id": "R-GEOPOLITICS-06",
+      "original_name": "主权信任变化与资本配置",
+      "first_revised_name": "主权信任变化的资本配置效应",
+      "final_name": "主权信任变化的资本配置效应",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 170,
+      "id": "R-GEOPOLITICS-07",
+      "original_name": "人口结构与养老金资产配置",
+      "first_revised_name": "养老金资产配置的人口结构约束",
+      "final_name": "养老金资产配置的人口结构约束",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 171,
+      "id": "R-GEOPOLITICS-08",
+      "original_name": "气候转型与搁浅资产风险",
+      "first_revised_name": "气候转型中的资产搁浅",
+      "final_name": "气候转型中的资产搁浅",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 172,
+      "id": "R-CRYPTO-01",
+      "original_name": "美元流动性与加密风险偏好",
+      "first_revised_name": "美元流动性的加密市场传导",
+      "final_name": "美元流动性的加密市场传导",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 173,
+      "id": "R-CRYPTO-02",
+      "original_name": "稳定币发行赎回与短券需求",
+      "first_revised_name": "稳定币发行赎回对短券需求的影响",
+      "final_name": "稳定币发行赎回对短券需求的影响",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 174,
+      "id": "R-CRYPTO-03",
+      "original_name": "现货ETF流量与比特币定价",
+      "first_revised_name": "现货ETF资金流的比特币定价影响",
+      "final_name": "现货ETF资金流的比特币定价影响",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 175,
+      "id": "R-CRYPTO-04",
+      "original_name": "永续合约杠杆与强平瀑布",
+      "first_revised_name": "永续合约的强平瀑布",
+      "final_name": "永续合约的强平瀑布",
+      "restored_original_name": false,
+      "mark": "✓"
+    },
+    {
+      "index": 176,
+      "id": "R-CRYPTO-05",
+      "original_name": "区块奖励变化与矿工现金流",
+      "first_revised_name": "区块奖励变化对矿工现金流的影响",
+      "final_name": "区块奖励变化对矿工现金流的影响",
+      "restored_original_name": false,
+      "mark": "✗"
+    },
+    {
+      "index": 177,
+      "id": "R-CRYPTO-06",
+      "original_name": "链上活动与代币价值捕获",
+      "first_revised_name": "代币价值捕获",
+      "final_name": "代币价值捕获",
+      "restored_original_name": false,
+      "mark": "✗"
+    }
+  ]
+}

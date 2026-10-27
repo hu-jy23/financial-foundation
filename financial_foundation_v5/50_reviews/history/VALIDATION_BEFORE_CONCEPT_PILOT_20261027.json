@@ -1,0 +1,39 @@
+{
+  "version": "v5",
+  "date": "2026-10-25",
+  "release_revision": "initial_build_baseline",
+  "objects": 163,
+  "mechanisms": 71,
+  "initial_build_nodes": 234,
+  "complete_nodes": 4,
+  "pending_nodes": 230,
+  "original_object_ids_preserved": 349,
+  "original_mechanism_ids_preserved": 177,
+  "all_177_marks_unchanged": true,
+  "restored_original_names": 36,
+  "selection_and_final_names_verified": true,
+  "local_links_checked": 861,
+  "embedded_images": 45,
+  "original_pdf_pages": 46,
+  "image_hashes_verified": 46,
+  "image_resolution": [
+    1920,
+    1080
+  ],
+  "legacy_event_ids_resolve": 18,
+  "event_migrations_checked": 14,
+  "yaml_documents": 21,
+  "economic_body_checks_excluding_navigation_edits": {
+    "C-IR-REAL_real_interest_rate.md": true,
+    "C-IR-TERM_term_premium.md": true,
+    "R-FISCAL-LONGYIELD_fiscal_long_yields.md": true,
+    "R-GOLD-REALRATES_real_rates_gold.md": true
+  },
+  "initial_node_mappings_completed": 5,
+  "errors": [],
+  "limitations": [
+    "230 selected node documents remain to be authored.",
+    "Associations for unwritten mechanisms are initial research entry points; detailed logic groups require source-based authoring.",
+    "No new external factual research; existing evidence dates and course-provenance limits are retained."
+  ]
+}

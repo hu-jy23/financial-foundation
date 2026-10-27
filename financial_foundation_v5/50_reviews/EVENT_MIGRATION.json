@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-23",
+  "base": "v4",
+  "mappings": {
+    "30_events/concepts/O-C-20130926-STEIN.md": "30_events/concepts/TERM_PREMIUM_HISTORY.md#O-C-20130926-STEIN",
+    "30_events/concepts/O-C-20240903-2023TERM.md": "30_events/concepts/TERM_PREMIUM_HISTORY.md#O-C-20240903-2023TERM",
+    "30_events/concepts/O-C-20250528-TERM-MINUTES.md": "30_events/concepts/TERM_PREMIUM_HISTORY.md#O-C-20250528-TERM-MINUTES",
+    "30_events/fiscal/E-2023Q3-REFUNDING.md": "30_events/fiscal/TREASURY_ISSUANCE_2023_2025.md#E-2023Q3-REFUNDING",
+    "30_events/fiscal/E-2024-2025-REFUNDING.md": "30_events/fiscal/TREASURY_ISSUANCE_2023_2025.md#E-2024-2025-REFUNDING",
+    "30_events/fiscal/E-2024-2025-SOMA.md": "30_events/fiscal/FOMC_QT_2024_2025.md#E-2024-2025-SOMA",
+    "30_events/fiscal/E-2024-2025-POLICYPATH.md": "30_events/fiscal/FOMC_QT_2024_2025.md#E-2024-2025-POLICYPATH",
+    "30_events/gold/E-GOLD-20250319.md": "30_events/fiscal/FOMC_QT_2024_2025.md#E-GOLD-20250319",
+    "30_events/gold/O-GOLD-20250205.md": "30_events/gold/GOLD_DEMAND_OUTLOOK_2024_2026.md#O-GOLD-20250205",
+    "30_events/gold/O-GOLD-20250430.md": "30_events/gold/GOLD_DEMAND_OUTLOOK_2024_2026.md#O-GOLD-20250430",
+    "30_events/gold/O-GOLD-20250617.md": "30_events/gold/GOLD_DEMAND_OUTLOOK_2024_2026.md#O-GOLD-20250617",
+    "30_events/gold/O-GOLD-20250715.md": "30_events/gold/GOLD_DEMAND_OUTLOOK_2024_2026.md#O-GOLD-20250715",
+    "30_events/gold/O-GOLD-20260429.md": "30_events/gold/GOLD_DEMAND_OUTLOOK_2024_2026.md#O-GOLD-20260429",
+    "30_events/gold/O-GOLD-20260701.md": "30_events/gold/GOLD_DEMAND_OUTLOOK_2024_2026.md#O-GOLD-20260701"
+  },
+  "unchanged_paths": [
+    "30_events/concepts/E-C-20200315-FOMC.md",
+    "30_events/concepts/E-C-20220921-FOMC.md",
+    "30_events/concepts/O-C-20240918-REAL-INPUTS.md",
+    "30_events/fiscal/E-20090318-LSAP.md"
+  ],
+  "legacy_observation_count": 18,
+  "current_existing_material_files": 8
+}

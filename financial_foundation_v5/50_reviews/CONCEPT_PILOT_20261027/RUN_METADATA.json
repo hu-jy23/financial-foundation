@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-27",
+  "scope": "R-GOLD-REALRATES associated selected concepts",
+  "input_library_file_id": "libfile_6d7e648dbfc881918f147eaf6efeafd7",
+  "input_library_version": 2,
+  "source_package_sha256": "8ec51dae75c5c6532d62d7a148a22d980a9acec8454b9e36c4c26c32fa3be267",
+  "main_new_ids": [
+    "C-ASSET-GOLD"
+  ],
+  "kept_existing_ids": [
+    "C-IR-REAL"
+  ],
+  "agents": [
+    {
+      "agent_path": "/root/policy_concept",
+      "model": "gpt-6-astra",
+      "reasoning_effort": "medium",
+      "context_mode": "fork_turns=none",
+      "assigned_ids": [
+        "C-IR-POLICY"
+      ],
+      "max_items": 3,
+      "task_file": "POLICY_TASK.md",
+      "task_sha256": "35c7b1fd442e99c1537a65198e8010c6393baf41938917889b4ba92b8b9c2c98",
+      "first_draft": "POLICY_FIRST_DRAFT.md",
+      "first_draft_sha256": "e5571fe491cb1718093694b4eec377dabd51d449f95575225d0d2455d92f1eab",
+      "decision": "accepted",
+      "reviewed_by": "/root",
+      "substantive_rewrite_requested": false,
+      "main_edits": [
+        "review status",
+        "reviewer metadata",
+        "authorship review note"
+      ]
+    }
+  ],
+  "main_review": "MAIN_REVIEW.md",
+  "not_in_scope": [
+    "fiscal mechanism concept batch",
+    "Event files",
+    "Source files",
+    "new or renamed nodes"
+  ],
+  "current_complete_nodes": 6,
+  "current_pending_nodes": 228
+}
