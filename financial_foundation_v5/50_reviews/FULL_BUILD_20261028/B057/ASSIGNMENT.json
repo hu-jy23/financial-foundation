@@ -1,0 +1,44 @@
+{
+  "batch": "B057",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-FISCAL-11",
+      "name": "主权信用与银行资产负债表反馈",
+      "scope": "本国债持仓及救助预期",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-FISCAL-11.md",
+      "node_ids": [
+        "C-FISCAL-14",
+        "C-CREDIT-02",
+        "C-CREDIT-15"
+      ],
+      "group": "财政与债务机制"
+    },
+    {
+      "id": "R-BANKING-01",
+      "name": "银行信贷的资本约束",
+      "scope": "资本损失、风险权重和融资",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-BANKING-01.md",
+      "node_ids": [
+        "C-CREDIT-02"
+      ],
+      "group": "信用与金融稳定机制"
+    },
+    {
+      "id": "R-BANKING-02",
+      "name": "银行负债成本、资产重定价与息差",
+      "scope": "固定/浮动、久期和存款beta",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-BANKING-02.md",
+      "node_ids": [
+        "C-CREDIT-04",
+        "C-IR-POLICY"
+      ],
+      "group": "信用与金融稳定机制"
+    }
+  ]
+}

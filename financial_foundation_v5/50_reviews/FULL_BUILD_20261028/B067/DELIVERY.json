@@ -1,0 +1,51 @@
+{
+  "batch": "B067",
+  "author": "/root/full_b067",
+  "status": "draft_for_main_review",
+  "items": [
+    {
+      "id": "R-DERIVATIVES-03",
+      "path": "20_mechanisms/R-DERIVATIVES-03.md",
+      "evidence_as_of": "2025-05-02",
+      "source_urls": [
+        "https://cdn.cboe.com/resources/education/research_publications/gammasqueezes.pdf",
+        "https://www.cboe.com/insights/posts/0-dt-es-decoded-positioning-trends-and-market-impact/"
+      ],
+      "review_points": [
+        "Gamma单位与符号；0.2%仅公开摘要，完整分母缺失；反事实估计不是确定因果上限"
+      ],
+      "node_ids_refined": false,
+      "refinement_reason": null
+    },
+    {
+      "id": "R-DERIVATIVES-06",
+      "path": "20_mechanisms/R-DERIVATIVES-06.md",
+      "evidence_as_of": "2025-09-04",
+      "source_urls": [
+        "https://www.chicagofed.org/-/media/publications/working-papers/2025/wp2025-17.pdf?sc_lang=en",
+        "https://www.bis.org/publications/equity-market-turbulence-5-february-role-exchange-traded-volatility-products",
+        "https://www.cmegroup.com/education/articles-and-reports/understanding-margin-changes"
+      ],
+      "review_points": [
+        "方差执行价与现实预期分解；CAPM alpha不等于全部VRP；VIX ETP与普通卖期权区分；样本终点正文2022与结论泛称2023的差异"
+      ],
+      "node_ids_refined": false,
+      "refinement_reason": null
+    },
+    {
+      "id": "R-DERIVATIVES-07",
+      "path": "20_mechanisms/R-DERIVATIVES-07.md",
+      "evidence_as_of": "2025-09-04",
+      "source_urls": [
+        "https://users.nber.org/~confer/2005/URCs05/pedersen.pdf",
+        "https://cdn.cboe.com/resources/indices/documents/SKEWwhitepaperjan2011.pdf",
+        "https://www.chicagofed.org/-/media/publications/working-papers/2025/wp2025-17.pdf?sc_lang=en"
+      ],
+      "review_points": [
+        "2005稿与2009刊本区分；净需求存量非成交；SKEW风险调整概率不能充当客观概率"
+      ],
+      "node_ids_refined": false,
+      "refinement_reason": null
+    }
+  ]
+}

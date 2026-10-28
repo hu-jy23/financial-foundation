@@ -1,0 +1,37 @@
+# 全量制作共同任务：2026-10-28
+
+用户要求完成当前正式目录全部Concept与Mechanism，main仅新写两篇（Concept／Mechanism各一），其余由GPT-6-Astra、medium分工；每名subagent一生最多承担本批指定的三篇，不能继续接新节点。本次不生产Event／Source文件。你只执行自己TASK.md列出的路径，不派新agent，不提交Git，不上传，不改共享文件。
+
+## 必读输入
+
+工作根目录是 `/workspace/scratch/d173ad0a8827/financial-foundation/financial_foundation_v5`。
+
+1. 完整读`00_start/README.md`、`AUTHORING_STANDARD.md`、`REVIEW_CHECKLIST.md`、`NODE_SELECTION_GUIDE.md`及对应模板；沿用已确认的ID、名字、对象边界，禁止扩大或拆分目录。
+2. Concept作者完整读`10_concepts/C-IR-TERM_term_premium.md`及`C-LIQ-FUND_funding_liquidity.md`，Mechanism作者完整读`20_mechanisms/R-GOLD-REALRATES_real_rates_gold.md`和`R-FISCAL-LONGYIELD_fiscal_long_yields.md`。样例用于理解解释深度与组织方式，不机械照抄段落、篇幅或历史窗口。
+3. 从`00_start/catalog_index.json`读负责对象及其关联机制（或负责机制及其关联对象）；读`40_sources/ACQUISITION_SHORTLIST.md`和与主题直接相关的已有材料。任何工具长输出截断后须分段补读。
+4. 先提出少量针对此对象／机制的研究问题，再搜集原文。不能先套通用段落再补几个链接。
+
+## 解释与研究标准
+
+- 每篇是可独立学习的完整正文。Concept解释定义、组成与重要难点、必要公式／算例、容易混淆的边界、观测口径、自身历史与带归属的判断、涉及关系及角色。重要基础概念允许简洁，但仅列定义和风险清单不合格。
+- Mechanism按真实因果分逻辑组，通常两至三组足够，复杂性由对象决定；每组有稳定`logic-N`锚点、关联节点、适用时期、充分的详细逻辑、**紧跟自己的时间线和预期**。明确谁受到什么约束／收益变化、如何行动、结果如何形成；不能以箭头或罗列节点替代论证。公式讲清变量、单位、期限和假设。
+- 主动browse并打开实际原文，制度事实、数据及技术理论用官方机构、交易所、大学原论文、公司IR／年报等一手来源。研究者分析保留作者与条件；适用时用有实质差异的解释。资料读取到支持实际判断的章节／表格，搜索摘要、标题、目录不算阅读正文。你可复用已读来源，但须亲自核读其实际用于本稿的部分。
+- 历史应使读者理解制度、状态或逻辑怎样演变。近年变化优先核2024—2026及必要早期历史；以实际取得原文确定截止，明确旧信息集、较晚结果、制作日。公司页核清财年／自然年、业务结构、收入和现金／资本开支口径，保存有意义的已核财务与经营数字；不补造最新数据。
+- 按条目自身需要选择关键数字，保存原含义、单位、主体、时期、比较基准。重要预测应写出谁在何时对什么期限怎样判断。存在公开数量却只写方向不合格；缺口具体说明已查何处、哪些未取得。假设算例显式标明。不能把研究拟合当成确定因果，也不能把调查回答比例改成事件发生概率。
+- 预期包括专业判断和明确标注的本库条件推演。历史性预期按当时信息重建；后来结果另列。未取得当时调查或高频价格时标明，不能用先验补造。不要以大量通用免责声明替代内容。
+- 不设统一篇幅。目标是达到现有成品的解释质量；每篇有自己的实质难点、具体历史、来源及边界，不生成通用流水模板、空节或待填正文。
+
+## 路径、来源、元数据
+
+- 本目录`PATHS.json`给出234个节点最终路径。引用新节点可直接使用其中计划路径（合并时由main校验存在），引用已有文件使用实际路径；正文位于10／20时，链接统一`../10_concepts/...`或`../20_mechanisms/...`。不要建立新Event／Source。
+- 页内登记独立来源ID，建议`S-<节点ID>-01`；每个ID有`<a id="...">`和正文引用`[ID](#ID)`。列正式标题、作者／机构、公开日期或已知粒度、原始URL、实际阅读章节／表格及具体未读范围。来源可组合相关原始页，但不要只写机构首页。
+- YAML必须：id,type（concept或mechanism）,title,status:draft,draft_author（实际agent路径）,model:gpt-6-astra,reasoning_effort:medium,reviewed_by:null,updated:2026-10-28,evidence_as_of,source_ids。标题后写实际作者和资料截止。Mechanism另写node_ids、related_mechanism_ids、logic_groups（每项anchor/node_ids/related_mechanism_ids）；以实际正文为准，仅用入选对象／机制。原则上沿用分派的node_ids；若实质需要细化，在DELIVERY中说明理由，不改共享索引。
+- `evidence_as_of`表示实际资料截止，不冒充制作日最新状态；月份精度明确字符串。术语首次需要时适度解释，中文自然行文。
+
+## 交审与保留
+
+每篇完成自查后，把完整首个交审稿逐字复制到本批目录`<ID>_FIRST_DRAFT.md`，此后绝不覆盖；正文仍status:draft，由main审阅后改状态。
+
+本批`NOTES.md`记录问题、原文阅读范围、访问失败与替代、关键数字及计算、需主审的实质点。`DELIVERY.json`记每篇id/path、evidence_as_of、source_urls、关键复核点、是否有node_ids细化及理由。源链接清单应方便main复核，不能以清单代替正文来源登记。
+
+先完成实际研究和正文，再写交付声明。最终只汇报文件路径、具体缺口和需要主审的点；不要粘贴全文。各篇提交后main会通读，必要时要求你只退修本批原条目。

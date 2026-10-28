@@ -1,0 +1,69 @@
+{
+  "batch": "B030",
+  "author": "/root/full_b030",
+  "status": "draft_ready_for_main_review",
+  "articles": [
+    {
+      "id": "C-CHINA-19",
+      "path": "10_concepts/C-CHINA-19.md",
+      "evidence_as_of": "2026-09-29",
+      "source_urls": [
+        "https://wap.sasac.gov.cn/n2588035/c32377016/content.html",
+        "https://www.hunan.gov.cn/zqt/zcsd/202412/t20241220_33531846.html",
+        "https://www.fujian.gov.cn/hdjl/hdjlzsk/gzw/khfp/202306/t20230607_6183461.htm",
+        "https://gzw.wuxi.gov.cn/doc/2023/03/17/3992000.shtml",
+        "https://public.zhengzhou.gov.cn/D3402Y/10274847.jhtml"
+      ],
+      "node_ids_refined": false,
+      "reason": null,
+      "review_points": [
+        "2023营业现金比率与2026营业收现率分开；未取得后者细则",
+        "官方转载的原始问答日期不一致已明确",
+        "集团考核与上市公司股东利益、资本回报与战略投入边界"
+      ]
+    },
+    {
+      "id": "C-ASIA-01",
+      "path": "10_concepts/C-ASIA-01.md",
+      "evidence_as_of": "2026-07-06",
+      "source_urls": [
+        "https://www.csrc.gov.cn/csrc/c100028/c7123213/content.shtml",
+        "https://docs.static.szse.cn/www/lawrules/rule/trade/current/W020260424690713155663.pdf",
+        "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20260424_10816474.shtml",
+        "https://www.sse.com.cn/lawandrules/sselawsrules2025/stocks/exchange/c/c_20260424_10816482.shtml",
+        "https://www.sse.com.cn/lawandrules/sselawsrules2025/stocks/exchange/c/10816482/files/e3a3b98e36894edca77841837936e006.docx",
+        "https://m.chinaclear.cn/zdjs/tjnb/202506/542ecc4ea6e14595ac34be6843c7ebb5/files/2024%E5%B9%B4%E7%BB%9F%E8%AE%A1%E5%B9%B4%E6%8A%A5.pdf",
+        "https://docs.static.szse.cn/www/market/periodical/month/W020250106352903321350.html"
+      ],
+      "node_ids_refined": false,
+      "reason": null,
+      "review_points": [
+        "2026主板风险警示股票10%新规，不沿用5%",
+        "深圳行业表明确含股票总体、不可当全国纯A股权重",
+        "投资者人数与持仓成交比例分开"
+      ],
+      "post_first_draft_change": "仅来源03登记补入亲核上交所附件1范围；正文经济解释无变更；首稿未覆盖"
+    },
+    {
+      "id": "C-ASIA-02",
+      "path": "10_concepts/C-ASIA-02.md",
+      "evidence_as_of": "2026-10-16",
+      "source_urls": [
+        "https://www.hkex.com.hk/Market-Data/Statistics/Consolidated-Reports/Annual-Market-Statistics/2025-Annual-Market-Statistics?sc_lang=en",
+        "https://www.hkma.gov.hk/eng/key-functions/money/linked-exchange-rate-system/",
+        "https://www.hkex.com.hk/News/News-Release/2020/2011253news?sc_lang=en",
+        "https://www.hkex.com.hk/Global/Exchange/FAQ/Securities-Market/Trading/Securities-Market-Operations?sc_lang=en",
+        "https://www.hkex.com.hk/services/settlement-and-depository/settlement?sc_lang=en",
+        "https://www.hkex.com.hk/News/Market-Communications/2026/260417news?sc_lang=en",
+        "https://www.hkex.com.hk/News/Market-Communications/2026/261016news?sc_lang=en"
+      ],
+      "node_ids_refined": false,
+      "reason": null,
+      "review_points": [
+        "2026年T+1目标由2027Q4改2028H2，非已实施",
+        "2019海外投资者调查明确旧样本",
+        "南向买卖总值为双边、非净流入及股市总成交分母不同"
+      ]
+    }
+  ]
+}

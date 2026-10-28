@@ -1,0 +1,48 @@
+{
+  "batch": "B056",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-FISCAL-07",
+      "name": "国债供给与抵押品便利收益定价",
+      "scope": "安全资产的抵押服务与流动性价值须同商品的物理便利收益区分",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-FISCAL-07.md",
+      "node_ids": [
+        "C-ASSET-UST",
+        "C-CREDIT-10",
+        "C-MONEY-10"
+      ],
+      "group": "财政与债务机制"
+    },
+    {
+      "id": "R-FISCAL-08",
+      "name": "债务上限风险的短券定价",
+      "scope": "到期时点和支付风险",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-FISCAL-08.md",
+      "node_ids": [
+        "C-FISCAL-15",
+        "C-MONEY-13",
+        "C-ASSET-UST",
+        "C-FISCAL-14",
+        "C-MONEY-19"
+      ],
+      "group": "财政与债务机制"
+    },
+    {
+      "id": "R-FISCAL-10",
+      "name": "财政主导与通胀预期",
+      "scope": "制度、债务期限与央行约束",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-FISCAL-10.md",
+      "node_ids": [
+        "C-FISCAL-13",
+        "C-POL-CREDIBILITY"
+      ],
+      "group": "财政与债务机制"
+    }
+  ]
+}

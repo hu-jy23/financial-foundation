@@ -1,0 +1,45 @@
+{
+  "batch": "B065",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-MARKET-07",
+      "name": "波动率目标策略的顺周期反馈",
+      "scope": "目标波动、估计滞后和杠杆",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-MARKET-07.md",
+      "node_ids": [
+        "C-FLOW-12",
+        "C-VOL-IVRV"
+      ],
+      "group": "资金流与市场微观结构"
+    },
+    {
+      "id": "R-MARKET-08",
+      "name": "风险平价与股债相关性变化",
+      "scope": "风险预算与联合冲击",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-MARKET-08.md",
+      "node_ids": [
+        "C-FLOW-12",
+        "C-ASSET-UST",
+        "C-INF-INFLATION",
+        "C-VOL-IVRV"
+      ],
+      "group": "资金流与市场微观结构"
+    },
+    {
+      "id": "R-MARKET-09",
+      "name": "CTA趋势跟随的价格反馈",
+      "scope": "持仓、触发区间和市场容量",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-MARKET-09.md",
+      "node_ids": [
+        "C-FLOW-11"
+      ],
+      "group": "资金流与市场微观结构"
+    }
+  ]
+}

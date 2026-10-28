@@ -1,0 +1,68 @@
+{
+  "batch": "B056",
+  "draft_author": "/root/full_b056",
+  "updated": "2026-10-28",
+  "items": [
+    {
+      "id": "R-FISCAL-07",
+      "path": "20_mechanisms/R-FISCAL-07.md",
+      "evidence_as_of": "2025-10-14",
+      "source_urls": [
+        "https://www.stlouisfed.org/on-the-economy/2025/oct/are-u-s-treasuries-still-convenient",
+        "https://www.icmagroup.org/market-practice-and-regulatory-policy/repo-and-collateral-markets/icma-ercc-publications/frequently-asked-questions-on-repo/9-what-is-a-special-in-the-repo-market/",
+        "https://www.newyorkfed.org/medialibrary/media/markets/omo/omo2024-pdf.pdf"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B056/R-FISCAL-07_FIRST_DRAFT.md",
+      "first_draft_sha256": "88808b59c935698c636668aa0f5707131d22b1804eec1eb86942563b69e86829",
+      "node_ids_refined": false,
+      "node_ids_reason": "沿用分派对象；普通变量仅在正文解释",
+      "review_status": "awaiting_main_review",
+      "key_review_points": [
+        "总体便利收益与特殊券回购利差不同",
+        "2025代理量非全年且截止日不同",
+        "2024证券出借费不是全市场抵押价值"
+      ]
+    },
+    {
+      "id": "R-FISCAL-08",
+      "path": "20_mechanisms/R-FISCAL-08.md",
+      "evidence_as_of": "2026-03-25",
+      "source_urls": [
+        "https://home.treasury.gov/news/press-releases/jy1506",
+        "https://files.gao.gov/reports/GAO-26-107872/index.html"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B056/R-FISCAL-08_FIRST_DRAFT.md",
+      "first_draft_sha256": "67c2abbe789de6449a203f7f13da254a86bcde57d71fb5fc8ec76823c6c52cff",
+      "node_ids_refined": false,
+      "node_ids_reason": "沿用分派对象；普通变量仅在正文解释",
+      "review_status": "awaiting_main_review",
+      "key_review_points": [
+        "延付概率为假设风险中性权重",
+        "GAO107—161m范围不是全部社会成本",
+        "TGA补库不等于同额准备金下降"
+      ]
+    },
+    {
+      "id": "R-FISCAL-10",
+      "path": "20_mechanisms/R-FISCAL-10.md",
+      "evidence_as_of": "2026-06-28",
+      "source_urls": [
+        "https://www.johnhcochrane.com/s/JEP_revision.pdf",
+        "https://economics.mit.edu/sites/default/files/publications/SargentWallaceNote.pdf",
+        "https://www.federalreserve.gov/newsevents/speech/waller20250601a.htm",
+        "https://www.bis.org/publications/aer-2026/high-public-debt-shifting-financial-markets",
+        "https://www.bis.org/events/20260628-96th-annual-general-meeting"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B056/R-FISCAL-10_FIRST_DRAFT.md",
+      "first_draft_sha256": "0cfa686f98d63d75c1f5920574e2e5242a4103259ed3fad4582b970fbeb4f39d",
+      "node_ids_refined": false,
+      "node_ids_reason": "沿用分派对象；普通变量仅在正文解释",
+      "review_status": "awaiting_main_review",
+      "key_review_points": [
+        "现值关系需要政策闭合才确定因果",
+        "期限决定财政再定价速度而非净通胀方向",
+        "BIS欧洲反事实不是全球阈值"
+      ]
+    }
+  ]
+}

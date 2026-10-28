@@ -1,0 +1,35 @@
+{
+  "batch": "B011",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-FX-02",
+      "name": "人民币与离岸人民币",
+      "scope": "CNY/CNH市场与制度边界",
+      "kind": "concepts",
+      "path": "10_concepts/C-FX-02.md",
+      "node_ids": [],
+      "group": "外汇与国际金融"
+    },
+    {
+      "id": "C-FX-03",
+      "name": "日元",
+      "scope": "融资与国际资产配置角色",
+      "kind": "concepts",
+      "path": "10_concepts/C-FX-03.md",
+      "node_ids": [],
+      "group": "外汇与国际金融"
+    },
+    {
+      "id": "C-FX-04",
+      "name": "欧元与欧元体系",
+      "scope": "共同货币和分散财政",
+      "kind": "concepts",
+      "path": "10_concepts/C-FX-04.md",
+      "node_ids": [],
+      "group": "外汇与国际金融"
+    }
+  ]
+}

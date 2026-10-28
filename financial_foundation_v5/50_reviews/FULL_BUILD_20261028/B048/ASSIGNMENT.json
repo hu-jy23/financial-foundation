@@ -1,0 +1,35 @@
+{
+  "batch": "B048",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-SECTOR-06",
+      "name": "房地产开发与物业",
+      "scope": "销售、融资、交付与现金流",
+      "kind": "concepts",
+      "path": "10_concepts/C-SECTOR-06.md",
+      "node_ids": [],
+      "group": "行业与经营暴露"
+    },
+    {
+      "id": "C-SECTOR-12",
+      "name": "REITs与基础设施资产",
+      "scope": "运营现金流、利率与制度",
+      "kind": "concepts",
+      "path": "10_concepts/C-SECTOR-12.md",
+      "node_ids": [],
+      "group": "行业与经营暴露"
+    },
+    {
+      "id": "C-SECTOR-13",
+      "name": "养老金与退休负债",
+      "scope": "缴费、待遇支付、资金积累和负债久期；区分现收现付与积累制",
+      "kind": "concepts",
+      "path": "10_concepts/C-SECTOR-13.md",
+      "node_ids": [],
+      "group": "行业与经营暴露"
+    }
+  ]
+}

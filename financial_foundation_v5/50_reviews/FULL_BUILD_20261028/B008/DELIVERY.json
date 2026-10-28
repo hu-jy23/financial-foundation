@@ -1,0 +1,74 @@
+{
+  "batch": "B008",
+  "draft_author": "/root/full_b008",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "updated": "2026-10-28",
+  "items": [
+    {
+      "id": "C-CREDIT-04",
+      "path": "10_concepts/C-CREDIT-04.md",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B008/C-CREDIT-04_FIRST_DRAFT.md",
+      "evidence_as_of": "2026-08-25",
+      "source_urls": [
+        "https://www.federalreserve.gov/econres/notes/feds-notes/is-this-time-different-how-are-banks-performing-during-the-rir-increases-compared-to-2004-2006-20240412.html",
+        "https://www.comptrollerofthecurrency.gov/publications-and-resources/publications/comptrollers-handbook/files/earnings/pub-ch-earnings.pdf",
+        "https://www.federalreserve.gov/publications/2024-november-supervision-and-regulation-report-banking-system-conditions.htm",
+        "https://www.federalreserve.gov/publications/2026-june-supervision-and-regulation-report-report-banking-system-conditions.htm",
+        "https://content.govdelivery.com/accounts/USFDIC/bulletins/426aa10"
+      ],
+      "review_points": [
+        "NIM计息负债成本分母与平均生息资产分母的转换",
+        "FDIC官方邮件渠道替代403站点；2026Q2资料日期边界",
+        "两端重定价条件推演不作统一政策方向判断"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft",
+      "first_draft_sha256": "38df386fa51c3bd53634f1941dc529facb2dae8353b9b0b5c79f3146de824909"
+    },
+    {
+      "id": "C-CREDIT-SPREAD",
+      "path": "10_concepts/C-CREDIT-SPREAD.md",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B008/C-CREDIT-SPREAD_FIRST_DRAFT.md",
+      "evidence_as_of": "2026-10-27",
+      "source_urls": [
+        "https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/recession-risk-and-the-excess-bond-premium-20160408.html",
+        "https://fred.stlouisfed.org/series/BAMLC0A0CM",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/updating-the-recession-risk-and-the-excess-bond-premium-20161006.html",
+        "https://www.federalreserve.gov/publications/April-2025-financial-stability-report-Asset-Valuations.htm",
+        "https://www.federalreserve.gov/publications/november-2025-financial-stability-report-asset-valuations.htm"
+      ],
+      "review_points": [
+        "70/160bp是2025年11月相对历史中位数差",
+        "90bp为2026-10-26投资级总指数，不与BBB子指数相减",
+        "EBP模型残差及历史版本；测度／持有期回报边界"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft",
+      "first_draft_sha256": "258ea64c5e882ebcb28b94b9b10f766961fd32df6b0071f926fe4bfb5decae85"
+    },
+    {
+      "id": "C-CREDIT-08",
+      "path": "10_concepts/C-CREDIT-08.md",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B008/C-CREDIT-08_FIRST_DRAFT.md",
+      "evidence_as_of": "2025-03-27",
+      "source_urls": [
+        "https://www.spglobal.com/_assets/documents/guide-to-credit-rating-essentials_2024.pdf",
+        "https://www.maalot.co.il/Publications/FTS20250331162126.pdf",
+        "https://www.oecd.org/en/publications/global-debt-report-2024_91844ea2-en/full-report/component-8.html"
+      ],
+      "review_points": [
+        "原报告页49与50的A级保持率不一致，已避用",
+        "表20选列与表24累计法、NR分母及期初期末路径",
+        "未取得2025完整全球公司矩阵；2026简介不替代原报告"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft",
+      "first_draft_sha256": "e2d6abafc33277aece3fd0de285ec06a81b50714a499e4fe4847d70d85cca9d1"
+    }
+  ],
+  "notes_path": "50_reviews/FULL_BUILD_20261028/B008/NOTES.md"
+}

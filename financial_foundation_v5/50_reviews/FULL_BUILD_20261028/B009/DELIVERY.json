@@ -1,0 +1,82 @@
+{
+  "batch": "B009",
+  "author": "/root/full_b009",
+  "updated": "2026-10-28",
+  "items": [
+    {
+      "id": "C-CREDIT-10",
+      "path": "10_concepts/C-CREDIT-10.md",
+      "evidence_as_of": "2026-06-11",
+      "source_urls": [
+        "https://www.icmagroup.org/market-practice-and-regulatory-policy/repo-and-collateral-markets/icma-ercc-publications/frequently-asked-questions-on-repo/21-what-is-a-haircut/",
+        "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/haircuts.en.html",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/hedge-fund-treasury-exposures-repo-and-margining-20230908.html",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/proportionate-margining-for-repo-transactions-20250214.html",
+        "https://www.bis.org/publications/bulletin-117-unpacking-repo-haircuts-and-their-implications-leverage.pdf",
+        "https://www.fsb.org/uploads/P101224-1.pdf",
+        "https://www.bankofengland.co.uk/markets/market-notices/2026/june/collateral-eligibility-in-the-smf-11-june-2026"
+      ],
+      "key_review_points": [
+        "haircut与initial margin分母；借款/权益与资产/权益区别",
+        "零折扣组合解释及BIS剔除净额后的证据",
+        "BoE6月公告安排与10月31未来实施分开"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B009/C-CREDIT-10_FIRST_DRAFT.md",
+      "first_draft_sha256": "5bc52a554f0bb1be2952d6707f1a981c98d83fdb4977c48930de72b1d8f6f23e",
+      "status": "draft"
+    },
+    {
+      "id": "C-CREDIT-12",
+      "path": "10_concepts/C-CREDIT-12.md",
+      "evidence_as_of": "2025-12-16",
+      "source_urls": [
+        "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr458.pdf",
+        "https://www.newyorkfed.org/newsevents/speeches/2010/tra100625.html",
+        "https://www.fsb.org/2025/12/fsb-reports-continued-growth-in-nonbank-financial-intermediation-in-2024-to-256-8-trillion/",
+        "https://www.fsb.org/uploads/P161225.pdf",
+        "https://www.fsb.org/uploads/P101224-1.pdf",
+        "https://www.fsb.org/uploads/P090725-1.pdf",
+        "https://www.fsb.org/2025/07/fsb-workplan-to-address-nonbank-data-challenges/"
+      ],
+      "key_review_points": [
+        "广义/狭义NBFI范围及2024年末数据",
+        "Tracy演讲事后解释而非当时预测",
+        "FSB续页未读及数据试点后续未取得"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B009/C-CREDIT-12_FIRST_DRAFT.md",
+      "first_draft_sha256": "dcca569ed65ddab7ac47e3f4bd1c3b5291049f68dc2b18f5e730860b35e64ae6",
+      "status": "draft"
+    },
+    {
+      "id": "C-CREDIT-13",
+      "path": "10_concepts/C-CREDIT-13.md",
+      "evidence_as_of": "2026-10-21",
+      "source_urls": [
+        "https://www.federalreserve.gov/boarddocs/rptcongress/securitization/riskretention.html",
+        "https://www.bundesbank.de/en/tasks/financial-supervision/individual-aspects/own-funds-requirements/credit-risk/securitisations-622842",
+        "https://www.bis.org/committees/bcbs/basel-framework/standard/cre/40/inforce/2019-12-15/published/2019-12-15",
+        "https://www.bis.org/publications/securitisations-tranching-concentrates-uncertainty_1.pdf",
+        "https://www.occ.treas.gov/news-issuances/news-releases/2014/nr-ia-2014-140.html",
+        "https://www.consilium.europa.eu/en/press/press-releases/2025/12/19/savings-and-investment-union-council-agrees-position-on-revitalising-the-eu-s-securitisation-market/",
+        "https://www.consilium.europa.eu/en/press/press-releases/2026/10/21/savings-and-investments-union-council-and-parliament-strike-deal-to-revitalise-the-eu-s-securitisation-market/",
+        "https://www.afme.eu/publications/data-research/securitisation-report-2025-full-year-q4-2025/",
+        "https://www.afme.eu/publications/data-research/securitisation-data-report-q2-2026/",
+        "https://www.afme.eu/publications/data-research/securitisation-data-snapshot-q2-2026/"
+      ],
+      "key_review_points": [
+        "真实出售、经济风险转移、资本确认边界",
+        "2025欧盟谈判比例不冒充2026最终规则",
+        "AFME Q2两版数据差异；正式报告与快照分开"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B009/C-CREDIT-13_FIRST_DRAFT.md",
+      "first_draft_sha256": "6f1d1e3458a841c72cd57de1cd59194d069c28fe10da78aa3afebceabe4d314e",
+      "status": "draft"
+    }
+  ]
+}

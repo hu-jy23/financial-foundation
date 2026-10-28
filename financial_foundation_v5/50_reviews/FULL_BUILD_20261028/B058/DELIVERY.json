@@ -1,0 +1,73 @@
+{
+  "batch": "B058",
+  "author": "/root/full_b058",
+  "completed_on": "2026-10-28",
+  "items": [
+    {
+      "id": "R-CREDIT-COLLATERAL",
+      "path": "20_mechanisms/R-CREDIT-COLLATERAL.md",
+      "evidence_as_of": "2026-05-28",
+      "source_urls": [
+        "https://www.federalreserve.gov/newsevents/speech/bernanke20070615a.htm",
+        "https://www-users.york.ac.uk/~psm509/ULB2012/KiyotakiMooreJPE1997.pdf",
+        "https://www.federalreserve.gov/publications/April-2025-financial-stability-report-Asset-Valuations.htm",
+        "https://www.federalreserve.gov/publications/2026-may-financial-stability-report-asset-valuations.htm",
+        "https://www.federalreserve.gov/publications/2026-may-financial-stability-report-overview.htm"
+      ],
+      "review_points": [
+        "外部融资溢价与抵押额度的分工",
+        "CRE实际价格不可直接计算名义贷款缺口",
+        "2026报告预测与本库推演分开"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B058/R-CREDIT-COLLATERAL_FIRST_DRAFT.md",
+      "sha256": "4307d53a3acab936cad71646c1c58d3a9d709d68cded368b57507f7eda0ec0fe",
+      "status": "draft_for_main_full_review"
+    },
+    {
+      "id": "R-LIQ-SPIRAL",
+      "path": "20_mechanisms/R-LIQ-SPIRAL.md",
+      "evidence_as_of": "2026-05-28",
+      "source_urls": [
+        "https://markus.scholar.princeton.edu/document/98",
+        "https://www.bankofengland.co.uk/financial-stability-report/2022/december-2022",
+        "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/boe-swes-exercise-final-report",
+        "https://www.newyorkfed.org/newsevents/speeches/2025/per250509",
+        "https://www.federalreserve.gov/publications/2026-may-financial-stability-report-overview.htm"
+      ],
+      "review_points": [
+        "保证金现金需求不等于损失",
+        "2024 SWES是假设演练",
+        "2025融资稳定构成条件反例"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B058/R-LIQ-SPIRAL_FIRST_DRAFT.md",
+      "sha256": "79ca1cf4da85188bf2a16c5fcdc3e2237da24908bb47fce2770696ad9622ef95",
+      "status": "draft_for_main_full_review"
+    },
+    {
+      "id": "R-BANKING-05",
+      "path": "20_mechanisms/R-BANKING-05.md",
+      "evidence_as_of": "2026-05-28",
+      "source_urls": [
+        "https://www.bu.edu/econ/files/2012/01/DD83jpe.pdf",
+        "https://www.federalreserve.gov/publications/2023-april-svb-executive-summary.htm",
+        "https://www.bis.org/publications/2023-banking-turmoil-and-liquidity-risk-progress-report.pdf",
+        "https://www.federalreserve.gov/publications/2026-may-financial-stability-report-funding-risks.htm"
+      ],
+      "review_points": [
+        "SVB实际400亿与预期1000亿分开",
+        "85%包含预期流出",
+        "LCR覆盖与可执行现金路径的区分"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B058/R-BANKING-05_FIRST_DRAFT.md",
+      "sha256": "61daeecd612b1204831e7c9c33be5cfbfe998a3e75f28a67af69721e011fe8a3",
+      "status": "draft_for_main_full_review"
+    }
+  ],
+  "remaining_gaps": "2026-05-28之后未核；无逐借款人贷款/抵押合同、逐基金日内保证金、逐银行现金梯队数据。"
+}

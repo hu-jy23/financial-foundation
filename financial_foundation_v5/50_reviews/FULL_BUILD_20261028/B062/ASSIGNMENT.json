@@ -1,0 +1,52 @@
+{
+  "batch": "B062",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-INTERNATIONAL-09",
+      "name": "资本流出、储备干预与本币流动性",
+      "scope": "是否冲销及资本管制",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-INTERNATIONAL-09.md",
+      "node_ids": [
+        "C-FX-13",
+        "C-FX-14",
+        "C-FX-18",
+        "C-MONEY-RESERVES"
+      ],
+      "group": "跨境、美元与汇率机制"
+    },
+    {
+      "id": "R-INTERNATIONAL-12",
+      "name": "美元主导地位的形成与维持",
+      "scope": "支付、计价、融资与储备使用之间的联系，以及网络效应和路径依赖。",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-INTERNATIONAL-12.md",
+      "node_ids": [
+        "C-FX-USD",
+        "C-GLOBAL-13",
+        "C-FX-14",
+        "C-ASSET-UST",
+        "C-MONEY-12"
+      ],
+      "group": "跨境、美元与汇率机制"
+    },
+    {
+      "id": "R-INTERNATIONAL-13",
+      "name": "美元信用与储备多元化",
+      "scope": "美元信用、资产权利与储备配置变化；替代资产的流动性、收益和托管约束。",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-INTERNATIONAL-13.md",
+      "node_ids": [
+        "C-FX-USD",
+        "C-FX-14",
+        "C-ASSET-UST",
+        "C-ASSET-GOLD",
+        "C-GLOBAL-13"
+      ],
+      "group": "跨境、美元与汇率机制"
+    }
+  ]
+}

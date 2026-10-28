@@ -1,0 +1,45 @@
+{
+  "batch": "B066",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-MARKET-11",
+      "name": "新闻传播、投资者注意力与价格延迟反应",
+      "scope": "区分新增事实和重复传播的注意力效应，不把报道数量当作独立信息",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-MARKET-11.md",
+      "node_ids": [
+        "C-EXPECT-15"
+      ],
+      "group": "资金流与市场微观结构"
+    },
+    {
+      "id": "R-MARKET-13",
+      "name": "涨跌停制度下的跨日价格发现",
+      "scope": "约束、排队和不可成交样本",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-MARKET-13.md",
+      "node_ids": [
+        "C-ASIA-08"
+      ],
+      "group": "资金流与市场微观结构"
+    },
+    {
+      "id": "R-DERIVATIVES-02",
+      "name": "基差交易",
+      "scope": "基差交易的现货与期货头寸、融资、抵押、保证金、收敛及退出过程。",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-DERIVATIVES-02.md",
+      "node_ids": [
+        "C-DERIV-15",
+        "C-DERIV-14",
+        "C-CREDIT-10",
+        "C-MONEY-10",
+        "C-LIQ-FUND"
+      ],
+      "group": "衍生品与波动机制"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "batch": "B066",
+  "draft_author": "/root/full_b066",
+  "status": "ready_for_main_review",
+  "updated": "2026-10-28",
+  "articles": [
+    {
+      "id": "R-MARKET-11",
+      "path": "20_mechanisms/R-MARKET-11.md",
+      "evidence_as_of": "2025-03",
+      "source_urls": [
+        "https://sdellavi.com/pdf/earnfr080204.pdf",
+        "https://www.columbia.edu/~pt2238/papers/Tetlock_SSRN_Fit_to_Reprint.pdf",
+        "https://business.columbia.edu/faculty/research/all-news-thats-fit-reprint-do-investors-react-stale-information",
+        "https://www.federalreserve.gov/econres/feds/files/2025022pap.pdf",
+        "https://www.federalreserve.gov/econres/feds/how-markets-process-macro-news-the-importance-of-investor-attention.htm"
+      ],
+      "key_review_points": [
+        "正式2011全文未取得，已用2008工作稿且不混版本",
+        "2025新论文数据只至2023-07",
+        "未取得2024—2026公司联合样本"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B066/R-MARKET-11_FIRST_DRAFT.md",
+      "first_draft_sha256": "35d6a7141af7ef68492a41520d703f35220df459b23e5c2c4f850482db10d9c9"
+    },
+    {
+      "id": "R-MARKET-13",
+      "path": "20_mechanisms/R-MARKET-13.md",
+      "evidence_as_of": "2026-07-06",
+      "source_urls": [
+        "https://www.sse.com.cn/lawandrules/sselawsrules2025/stocks/exchange/c/c_20260424_10816482.shtml",
+        "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20260424_10816474.shtml",
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0287548"
+      ],
+      "key_review_points": [
+        "2026-07-06生效与主板风险警示5%改10%",
+        "日度研究前后事件非随机可比",
+        "逐笔排队与撤单数据未取得"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B066/R-MARKET-13_FIRST_DRAFT.md",
+      "first_draft_sha256": "119ffdfbca2622e283a8dc3edddd24672a6ac1cebadea98a328a9f4e39c30c78"
+    },
+    {
+      "id": "R-DERIVATIVES-02",
+      "path": "20_mechanisms/R-DERIVATIVES-02.md",
+      "evidence_as_of": "2026-06-22",
+      "source_urls": [
+        "https://www.federalreserve.gov/econres/notes/feds-notes/quantifying-treasury-cash-futures-basis-trades-20240308.html",
+        "https://www.cftc.gov/media/11671/mrac121024_TreasuryCashFuturesBasisTradeReport/download",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/decomposing-hedge-funds-u-s-treasury-exposures-20260622.html",
+        "https://www.chicagofed.org/publications/chicago-fed-letter/2026/516"
+      ],
+      "key_review_points": [
+        "含息价、票息与累计期货结算不重复计账",
+        "2025-09约8300亿为分类估计而非2026余额",
+        "2025-04约600亿退出属于掉期利差策略"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B066/R-DERIVATIVES-02_FIRST_DRAFT.md",
+      "first_draft_sha256": "3f2dac865fe3095ae10299a9f244d663ad3b699fa60ba01fbbd22a8fee7b6fd9"
+    }
+  ],
+  "changes_after_main_preliminary_read": "R-MARKET-11 and R-MARKET-13 unchanged; R-DERIVATIVES-02 first submission"
+}

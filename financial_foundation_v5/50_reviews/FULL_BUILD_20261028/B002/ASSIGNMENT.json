@@ -1,0 +1,35 @@
+{
+  "batch": "B002",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-RATE-05",
+      "name": "有效联邦基金利率EFFR",
+      "scope": "美国实际隔夜无担保市场利率",
+      "kind": "concepts",
+      "path": "10_concepts/C-RATE-05.md",
+      "node_ids": [],
+      "group": "利率与收益率曲线"
+    },
+    {
+      "id": "C-RATE-06",
+      "name": "SOFR与担保融资基准",
+      "scope": "担保隔夜资金价格",
+      "kind": "concepts",
+      "path": "10_concepts/C-RATE-06.md",
+      "node_ids": [],
+      "group": "利率与收益率曲线"
+    },
+    {
+      "id": "C-RATE-07",
+      "name": "隔夜指数掉期OIS",
+      "scope": "浮动隔夜复利与固定利率互换",
+      "kind": "concepts",
+      "path": "10_concepts/C-RATE-07.md",
+      "node_ids": [],
+      "group": "利率与收益率曲线"
+    }
+  ]
+}

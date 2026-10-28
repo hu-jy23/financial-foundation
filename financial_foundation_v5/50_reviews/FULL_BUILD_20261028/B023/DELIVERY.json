@@ -1,0 +1,72 @@
+{
+  "batch": "B023",
+  "author": "/root/full_b023",
+  "date": "2026-10-28",
+  "files": [
+    {
+      "id": "C-COMMOD-07",
+      "path": "10_concepts/C-COMMOD-07.md",
+      "evidence_as_of": "2026-02",
+      "source_urls": [
+        "https://international-aluminium.org/statistics/primary-aluminium-smelting-energy-intensity/",
+        "https://alustory.international-aluminium.org/primary-production/",
+        "https://alustory.international-aluminium.org/primary-production/reduction/",
+        "https://www.sec.gov/Archives/edgar/data/1675149/000119312526077167/aa-20251231.htm",
+        "https://alustory.international-aluminium.org/recycling/processes/",
+        "https://alustory.international-aluminium.org/primary-production/energy-water/"
+      ],
+      "review_points": [
+        "电耗14MWh/吨仅是假设，不是IAI未能提取的年度平均",
+        "Alcoa电力成本24%仅为公司2025年原铝成本口径",
+        "San Ciprian 65%乘228000为年化运行规模，不是2025产量；2026年中目标未核后续",
+        "无显式目录机制关联，给R-COMMODITY-03阅读入口"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B023/C-COMMOD-07_FIRST_DRAFT.md",
+      "sha256": "3af04d4f8463e3f81aa64607ad50f9176f4fbf684c394b1abaf4ac1968e6e742",
+      "status": "draft"
+    },
+    {
+      "id": "C-COMMOD-08",
+      "path": "10_concepts/C-COMMOD-08.md",
+      "evidence_as_of": "2026-10-12",
+      "source_urls": [
+        "https://worldsteel.org/wp-content/uploads/Fact-sheet-raw-materials-2023-1.pdf",
+        "https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2026/",
+        "https://worldsteel.org/media/press-releases/2026/worldsteel-short-range-outlook-october-2026/"
+      ],
+      "review_points": [
+        "worldsteel 2026版2024/2025粗钢历史数据不能与10月成品钢需求预测混算",
+        "铁矿表中国生产已作含铁量调整，未使用其原矿量",
+        "高炉物料算例为自拟且忽略其他含铁炉料",
+        "未提取高频铁水与库存，相关段落为分析框架"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B023/C-COMMOD-08_FIRST_DRAFT.md",
+      "sha256": "0e5e73fa8c097d1fa6c81fd984110d53c13d593bbf7a9c590fa07ffad20b4704",
+      "status": "draft"
+    },
+    {
+      "id": "C-COMMOD-09",
+      "path": "10_concepts/C-COMMOD-09.md",
+      "evidence_as_of": "2026-10-02",
+      "source_urls": [
+        "https://esmis.nal.usda.gov/usda-esmis/files/3t945q76s/z890tt821/r494xm02f/wasde0925.pdf",
+        "https://www.fao.org/worldfoodsituation/csdb/en/"
+      ],
+      "review_points": [
+        "USDA 2025-09当时预测未取得最终版与事前调查",
+        "2110/16055=13.1423%；面积单产展示值相乘比官方产量少11百万蒲式耳",
+        "FAO动态页2026-10-02版本；31.7%分母未核说明，未按当季使用量擅自重算",
+        "玉米乙醇子项已含在食品种用工业总量，避免重复加总"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B023/C-COMMOD-09_FIRST_DRAFT.md",
+      "sha256": "f256783ceb1c182befb37490a0ca54df8c7420b0a0be238dcc1b320fa53bd5ba",
+      "status": "draft"
+    }
+  ]
+}

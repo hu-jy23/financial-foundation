@@ -1,0 +1,74 @@
+{
+  "batch": "B025",
+  "author": "/root/full_b025",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "date": "2026-10-28",
+  "items": [
+    {
+      "id": "C-CHINA-01",
+      "path": "10_concepts/C-CHINA-01.md",
+      "evidence_as_of": "2026-02-10",
+      "source_urls": [
+        "https://www.mofcom.gov.cn/zcfb/zgdwjjmywg/art/2004/art_cac18b9f7084439496123bbaed27762b.html",
+        "https://www.pbc.gov.cn/zhengcehuobisi/125207/125227/125957/5347949/2025100917195573922/2025081217013923839.pdf",
+        "https://cif.mofcom.gov.cn/cif/html/upload/20260211143114167_2025%E5%B9%B4%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BD%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E6%89%A7%E8%A1%8C%E6%8A%A5%E5%91%8A.pdf",
+        "https://app.www.gov.cn/govdata/gov/202303/16/498041/article.html"
+      ],
+      "key_review_points": [
+        "法律第5/7条决策执行边界；第23/29条公开市场买债与直接财政融资区别",
+        "2024Q2专栏2：1.8%至1.7%、固定利率数量招标；2025Q4：1.5%至1.4%、MLF多价位",
+        "2025年10/11/12月国债净买入200/500/500亿元与工具替代"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B025/C-CHINA-01_FIRST_DRAFT.md",
+      "first_draft_sha256": "44b4ddf7d23c12ac120447a909e37c192c5c2288b0a4c30484b2df3f1e9930be",
+      "status": "draft"
+    },
+    {
+      "id": "C-CHINA-02",
+      "path": "10_concepts/C-CHINA-02.md",
+      "evidence_as_of": "2026-03-16",
+      "source_urls": [
+        "https://jdjc.mof.gov.cn/fgzd/202111/t20211111_3765227.htm",
+        "https://yss.mof.gov.cn/zhuantilanmu/cztzgg/zcgz/200806/t20080627_54328.htm",
+        "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202603/t20260316_3985331.htm",
+        "https://m.mof.gov.cn/czxw/202411/t20241109_3947230.htm",
+        "https://m.mof.gov.cn/czxw/202601/t20260130_3982923.htm"
+      ],
+      "key_review_points": [
+        "2025年全国赤字5.66万亿元的调入/基金补充对账",
+        "地方本级收入+中央转移支付+调入及结转与地方赤字0.8万亿元",
+        "2024化债五年节息6000亿元是蓝佛安当时估计，2026数字为预算/地方代编"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B025/C-CHINA-02_FIRST_DRAFT.md",
+      "first_draft_sha256": "a04cbc3e438cc6e6e692f455ed575625852ef6b869f694095e42529289c5afda",
+      "status": "draft"
+    },
+    {
+      "id": "C-CN-TSF",
+      "path": "10_concepts/C-CN-TSF.md",
+      "evidence_as_of": "2026-02-10",
+      "source_urls": [
+        "https://cif.mofcom.gov.cn/cif/html/upload/20260211143114167_2025%E5%B9%B4%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E4%B8%AD%E5%9B%BD%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E6%89%A7%E8%A1%8C%E6%8A%A5%E5%91%8A.pdf",
+        "https://app.www.gov.cn/govdata/gov/202212/14/495284/article.html",
+        "https://app.www.gov.cn/govdata/gov/202507/14/532757/article.html",
+        "https://xining.pbc.gov.cn/eportal/fileDir/image_public/UserFiles/chubanwu/upload/File/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E9%93%B6%E8%A1%8C%E5%B9%B4%E6%8A%A52014%EF%BC%8D%E6%9C%80%E7%BB%88%E5%AE%9A%E7%A8%BF.pdf"
+      ],
+      "key_review_points": [
+        "2025Q4表7各分项、其他融资及核销不可重复求和",
+        "社融人民币贷款15.9147万亿与各项贷款16.2744万亿不同口径",
+        "核销存量不等于可收回债权；存量差对账项是框架而非发布序列",
+        "政府债占全年增量38.9%、人民币贷款44.7%为自行计算构成"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B025/C-CN-TSF_FIRST_DRAFT.md",
+      "first_draft_sha256": "ed6df4f0d365ad143f357afcc2ac2a331e35a74d4eeb7b370d6ce65aabd5ed4f",
+      "status": "draft"
+    }
+  ]
+}

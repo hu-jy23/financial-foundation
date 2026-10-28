@@ -1,0 +1,62 @@
+{
+  "batch": "B031",
+  "draft_author": "/root/full_b031",
+  "status": "ready_for_main_review",
+  "items": [
+    {
+      "id": "C-ASIA-03",
+      "path": "10_concepts/C-ASIA-03.md",
+      "evidence_as_of": "2026-07-06",
+      "source_urls": [
+        "https://www.hkex.com.hk/-/media/HKEX-Market/Mutual-Market/Stock-Connect/Getting-Started/Information-Booklet-and-FAQ/Information-Book-for-Market-Participants/EP_CP_Book_En.pdf",
+        "https://www.hkex.com.hk/News/Market-Communications/2024/2404122news?sc_lang=zh-cn",
+        "https://www.sse.com.cn/lawandrules/sselawsrules2025/global/hkexsc/c/c_20250613_10781806.shtml",
+        "https://english.sse.com.cn/access/stockconnect/introduction/",
+        "https://www.hkexgroup.com/Media-Centre/Insight/Insight/2025/HKEX-Insight/Top10-questions-HKEX-Stock-Connect-2025-FAQ?sc_lang=en",
+        "https://www.hkex.com.hk/Mutual-Market/Stock-Connect/Reference-Materials/Northbound-Program-Trading-Reporting?sc_lang=en"
+      ],
+      "review_points": [
+        "2026-07-06版手册与2024披露制度；首阶段5月13日未取得上线完成通告，已限定",
+        "成交总额/净买入/额度/持仓市值区别；2024日均成交人民币与港币不混合"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null
+    },
+    {
+      "id": "C-ASIA-04",
+      "path": "10_concepts/C-ASIA-04.md",
+      "evidence_as_of": "2025-03-31",
+      "source_urls": [
+        "https://www.sse.com.cn/assortment/fund/etf/question/",
+        "https://www.sse.com.cn/disclosure/fund/announcement/c/new/2025-03-31/510300_20250331_07Z1.pdf",
+        "https://etf.sse.com.cn/fundtrends/c/10770698/files/69a55dcfb84b4e8e87dc6cf396c628f7.pdf"
+      ],
+      "review_points": [
+        "2024审计年报净资产变化恒等式；总资产与净资产分母",
+        "机构83.06%、个人16.32%、联接0.62%为原报告三列；不可推全市场",
+        "基金净值收益与价格指数差额不等于选股alpha"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null
+    },
+    {
+      "id": "C-ASIA-05",
+      "path": "10_concepts/C-ASIA-05.md",
+      "evidence_as_of": "2025-01-23",
+      "source_urls": [
+        "https://www.sse.com.cn/disclosure/fund/announcement/c/new/2022-11-26/515180_20221126_1VHU.pdf",
+        "https://www.sse.com.cn/market/sseindex/diclosure/c/c_20220327_5700336.shtml",
+        "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20221013_5710015.shtml",
+        "https://www.sse.com.cn/disclosure/fund/announcement/c/new/2024-03-19/515080_20240319_H2SO.pdf",
+        "https://www.sse.com.cn/market/sseindex/diclosure/c/c_20250123_10770595.shtml"
+      ],
+      "review_points": [
+        "2022规则不是2026最新全量方法；基金落实公告为一手替代",
+        "9.3%与10.2%为2022回测，区间及成本缺失",
+        "2024招募书组合实际截至2023-09-30；2025发布公告属于计划日期"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null
+    }
+  ]
+}

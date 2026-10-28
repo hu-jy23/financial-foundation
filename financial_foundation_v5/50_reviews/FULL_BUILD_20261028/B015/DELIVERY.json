@@ -1,0 +1,76 @@
+{
+  "batch": "B015",
+  "author": "/root/full_b015",
+  "status": "submitted_for_review",
+  "pages": [
+    {
+      "id": "C-BOND-03",
+      "path": "10_concepts/C-BOND-03.md",
+      "evidence_as_of": "2026-03-16",
+      "source_urls": [
+        "https://mfr.uchicago.cn/wp-content/uploads/sites/3/2019/11/BFI-WP-2019-Handbook.pdf",
+        "https://www.cdb.com.cn/ywgl/zjyw1/fzgg_1/202007/P020200727326474476409.pdf",
+        "https://www.hunan.gov.cn/zqt/zcsd/202311/t20231102_31809282.html",
+        "https://www.chinatax.gov.cn/chinatax/n810341/n810765/n812156/201106/c1186784/content.html",
+        "https://m.mof.gov.cn/zcfb/202508/t20250801_3969257.htm",
+        "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202603/t20260316_3985331.htm"
+      ],
+      "key_review_points": [
+        "2025增值税新旧券含续发分界；不能等同所得税取消",
+        "政金债发行人责任与国家支持、0风险权重分开",
+        "2018托管分母为银行间全部债券，非国开债"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B015/C-BOND-03_FIRST_DRAFT.md",
+      "sha256": "bae5b4ba3ad9e8001f38e798d84b7e3927f618967a97815da8a186f2657ba814"
+    },
+    {
+      "id": "C-BOND-04",
+      "path": "10_concepts/C-BOND-04.md",
+      "evidence_as_of": "2026-03-16",
+      "source_urls": [
+        "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/201410/t20141008_1146374.htm",
+        "https://www.mof.gov.cn/gp/xxgkml/yss/201612/t20161202_2510870.htm",
+        "https://bomi.gov.cn/bmx/xwzx/202412/85ec12202e4b4912a74ee1a10c341c25.shtml",
+        "https://www.hunan.gov.cn/zqt/zcsd/202311/t20231102_31809282.html",
+        "https://yss.mof.gov.cn/2024zyjs/202507/t20250715_3967882.htm",
+        "https://czj.huangshi.gov.cn/xwlm/tpxw/202411/t20241111_1165003.html",
+        "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202603/t20260316_3985331.htm",
+        "https://m.mof.gov.cn/zcfb/202508/t20250801_3969257.htm"
+      ],
+      "key_review_points": [
+        "2024国办52补充专项债偿债来源与省级责任",
+        "2024决算与2025执行版本分开",
+        "6000亿为五年节息预测，2.5个百分点是后续相关成本变化"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B015/C-BOND-04_FIRST_DRAFT.md",
+      "sha256": "1b3ab26b2b464fa3992ff000c39e04eab1a60034d14eb1ad82b85bf0a7068010"
+    },
+    {
+      "id": "C-BOND-05",
+      "path": "10_concepts/C-BOND-05.md",
+      "evidence_as_of": "2025-11",
+      "source_urls": [
+        "https://www.investor.gov/introduction-investing/investing-basics/glossary/investment-grade-bond-or-high-grade-bond",
+        "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-8",
+        "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/what-are",
+        "https://mfr.uchicago.cn/wp-content/uploads/sites/3/2019/11/BFI-WP-2019-Handbook.pdf",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/the-corporate-bond-market-crises-and-the-government-response-20201007.html",
+        "https://www.ecb.europa.eu/press/economic-bulletin/focus/2025/html/ecb.ebbox202503_01~77cc87aa1f.cs.html",
+        "https://www.federalreserve.gov/publications/november-2025-financial-stability-report-asset-valuations.htm"
+      ],
+      "key_review_points": [
+        "基准/利差双久期假设模型",
+        "85%再融资模拟公司债样本及到期分母",
+        "BBB低中位数70bp非绝对OAS；8156十亿美元账面存量"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B015/C-BOND-05_FIRST_DRAFT.md",
+      "sha256": "8b6031a320a8be4608a99cf029deac35c66da2b1e478fc8167334e63fd5a83c9"
+    }
+  ]
+}

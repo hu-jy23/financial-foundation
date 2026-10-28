@@ -1,0 +1,76 @@
+{
+  "batch": "B004",
+  "author": "/root/full_b004",
+  "date": "2026-10-28",
+  "articles": [
+    {
+      "id": "C-MONEY-07",
+      "path": "10_concepts/C-MONEY-07.md",
+      "evidence_as_of": "2026-09-16",
+      "source_urls": [
+        "https://www.federalreserve.gov/monetarypolicy/iorb-faqs.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a1.htm",
+        "https://www.ecb.europa.eu/press/pr/date/2024/html/ecb.pr240313~807e240020.en.html",
+        "https://www.ecb.europa.eu/press/pr/date/2014/html/pr140605_3.en.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm"
+      ],
+      "review_points": [
+        "分层平均与边际利率",
+        "中国计息缺口与ECB2026复核未取得"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft_ready_for_review",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B004/C-MONEY-07_FIRST_DRAFT.md"
+    },
+    {
+      "id": "C-MONEY-10",
+      "path": "10_concepts/C-MONEY-10.md",
+      "evidence_as_of": "2026-09-16",
+      "source_urls": [
+        "https://www.icmagroup.org/market-practice-and-regulatory-policy/repo-and-collateral-markets/icma-ercc-publications/frequently-asked-questions-on-repo/1-what-is-a-repo/",
+        "https://sites.bu.edu/perry/files/2019/01/Lec-07-Repos-Postponing-Settlement.pdf",
+        "https://www.newyorkfed.org/markets/rrp_faq",
+        "https://www.newyorkfed.org/markets/repo-agreement-ops-faq-251210",
+        "https://www.newyorkfed.org/markets/reference-rates/sofr",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/what-happened-in-money-markets-in-september-2019-20200227.html",
+        "https://jrj.sh.gov.cn/SCGK194/20241028/ac89951bbfa44df78bd44b5532da5341.html"
+      ],
+      "review_points": [
+        "中美央行命名现金方向",
+        "三方与中央清算区分",
+        "中国公告政府全文转载"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft_ready_for_review",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B004/C-MONEY-10_FIRST_DRAFT.md"
+    },
+    {
+      "id": "C-MONEY-11",
+      "path": "10_concepts/C-MONEY-11.md",
+      "evidence_as_of": "2026-09-16",
+      "source_urls": [
+        "https://www.federalreserve.gov/monetarypolicy/discountrate.htm",
+        "https://www.newyorkfed.org/markets/repo-agreement-ops-faq-251210",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20151130a.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240124a.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/files/monetary20240124a1.pdf",
+        "https://www.newyorkfed.org/markets/opolicy/operating_policy_251210",
+        "https://sites.bu.edu/perry/files/2019/01/Lec-12-Lender-or-Dealer-of-Last-Resort.pdf",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a1.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm"
+      ],
+      "review_points": [
+        "SRF全额配给仍有限额",
+        "BTFP面值融资不等于资本修复",
+        "2025停止QT后的准备金管理购买非QE"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft_ready_for_review",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B004/C-MONEY-11_FIRST_DRAFT.md"
+    }
+  ]
+}

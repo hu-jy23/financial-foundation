@@ -1,0 +1,35 @@
+{
+  "batch": "B021",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-FLOW-12",
+      "name": "风险平价与波动率目标",
+      "scope": "风险预算与再平衡",
+      "kind": "concepts",
+      "path": "10_concepts/C-FLOW-12.md",
+      "node_ids": [],
+      "group": "交易结构、资金与行为"
+    },
+    {
+      "id": "C-COMMOD-02",
+      "name": "白银与贵金属",
+      "scope": "工业与投资需求权重",
+      "kind": "concepts",
+      "path": "10_concepts/C-COMMOD-02.md",
+      "node_ids": [],
+      "group": "黄金、能源与大宗商品"
+    },
+    {
+      "id": "C-COMMOD-03",
+      "name": "原油与Brent/WTI",
+      "scope": "品质、交割地与基准",
+      "kind": "concepts",
+      "path": "10_concepts/C-COMMOD-03.md",
+      "node_ids": [],
+      "group": "黄金、能源与大宗商品"
+    }
+  ]
+}

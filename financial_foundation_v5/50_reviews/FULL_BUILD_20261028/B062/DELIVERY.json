@@ -1,0 +1,82 @@
+{
+  "batch_id": "B062",
+  "draft_author": "/root/full_b062",
+  "completed_at": "2026-10-28",
+  "status": "ready_for_review",
+  "files": [
+    {
+      "id": "R-INTERNATIONAL-09",
+      "path": "20_mechanisms/R-INTERNATIONAL-09.md",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B062/R-INTERNATIONAL-09_FIRST_DRAFT.md",
+      "evidence_as_of": "2025-11-28",
+      "source_urls": [
+        "https://www.imf.org/-/media/files/publications/pp/2023/english/ppea2023061.pdf",
+        "https://www.info.gov.hk/gia/general/202506/26/P2025062600339p.htm",
+        "https://www.info.gov.hk/gia/general/202511/28/P2025112800483p.htm",
+        "https://www.imf.org/-/media/files/publications/cr/2025/english/1indea2025001-print-pdf.pdf",
+        "https://www.imf.org/-/media/files/publications/pp/2022/english/ppea2022008.pdf"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_status": "awaiting_main_review",
+      "first_draft_sha256": "d2d45c3971d25410dc97d1adcb33dce9f5be2c87da987e7d2044063dd4a0207a",
+      "key_review_points": [
+        "售汇回收准备金与冲销投放方向",
+        "降准需求变化与数量冲销不同",
+        "香港事前判断与后来结果",
+        "管制组为制度历史，未作单国微观识别"
+      ]
+    },
+    {
+      "id": "R-INTERNATIONAL-12",
+      "path": "20_mechanisms/R-INTERNATIONAL-12.md",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B062/R-INTERNATIONAL-12_FIRST_DRAFT.md",
+      "evidence_as_of": "2025-07-18",
+      "source_urls": [
+        "https://www.imf.org/-/media/files/publications/wp/2017/wp17264.pdf",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/the-international-role-of-the-u-s-dollar-2025-edition-20250718.html",
+        "https://www.federalreservehistory.org/essays/bretton-woods-created",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200331a.htm",
+        "https://www.federalreserve.gov/monetarypolicy/bsd-recent-developments-202008.htm"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_status": "awaiting_main_review",
+      "first_draft_sha256": "7fce11c9fc6acdeb54d18c782694fb25a514e6380131267b3dfcf5fb757a3fac",
+      "key_review_points": [
+        "计价传导模型不证明初始选择",
+        "历史形成与现代网络维持的区别",
+        "外国国债持有含私人",
+        "互换与FIMA及余额口径分开"
+      ]
+    },
+    {
+      "id": "R-INTERNATIONAL-13",
+      "path": "20_mechanisms/R-INTERNATIONAL-13.md",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B062/R-INTERNATIONAL-13_FIRST_DRAFT.md",
+      "evidence_as_of": "2026-07-01",
+      "source_urls": [
+        "https://home.treasury.gov/news/press-releases/jy0612/",
+        "https://www.imf.org/en/Blogs/Articles/2024/06/11/Dollar-Dominance-in-the-International-Reserve-System-An-Update",
+        "https://www.ecb.europa.eu/press/other-publications/ire/html/ecb.ire202506.fi.html",
+        "https://www.lbma.org.uk/publications/the-otc-guide/precious-metal-accounts",
+        "https://www.lbma.org.uk/publications/the-otc-guide/lending-and-borrowing-metal",
+        "https://www.gold.org/goldhub/research/central-bank-gold-reserves-survey-2025/technical-and-operational-considerations-of-reserves-management",
+        "https://www.gold.org/goldhub/research/central-bank-gold-reserve-survey-2025/perspectives-on-gold-reserves",
+        "https://www.gold.org/goldhub/research/central-bank-gold-reserves-survey-2025/methodology",
+        "https://data.imf.org/en/news/imf%20data%20brief%20july%20"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_status": "awaiting_main_review",
+      "first_draft_sha256": "f87d1f7199ec936a251f6422fee8f3e444127042e170c6627e538ce1402d62b7",
+      "key_review_points": [
+        "信用、使用权、托管风险区分",
+        "WGC各题样本与分母不同",
+        "黄金涨价与净购买分开",
+        "COFER 2026Q1为2026-07-01修订版"
+      ]
+    }
+  ],
+  "notes_path": "50_reviews/FULL_BUILD_20261028/B062/NOTES.md"
+}

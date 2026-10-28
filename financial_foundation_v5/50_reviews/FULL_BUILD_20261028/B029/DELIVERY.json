@@ -1,0 +1,78 @@
+{
+  "batch": "B029",
+  "author": "/root/full_b029",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "delivered_at": "2026-10-28",
+  "status": "draft_for_main_review",
+  "body_changed_after_main_pre_review_notice": false,
+  "items": [
+    {
+      "id": "C-CHINA-14",
+      "path": "10_concepts/C-CHINA-14.md",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B029/C-CHINA-14_FIRST_DRAFT.md",
+      "evidence_as_of": "2026-01-19",
+      "source_urls": [
+        "https://www.mohurd.gov.cn/gongkai/zhengce/gzk/art/2022/art_17337_763945.html",
+        "https://www.imf.org/-/media/files/publications/cr/2024/english/1chnea2024002.pdf",
+        "https://www.mohurd.gov.cn/xinwen/gzdt/art/2025/art_d2636e831405440e8070089fdaa9f6d3.html",
+        "https://www.mee.gov.cn/zcwj/zclcfh/202410/t20241018_1089575.shtml",
+        "https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958328.html",
+        "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962324.html"
+      ],
+      "sha256_first_draft": "1b3b6ff00e59ccb86f132cb03943b62dfe1a3a2ff3627979bff3303f8a289423",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "专项交付套数/行业竣工面积分开",
+        "批准/发放/支付区分",
+        "项目与集团现金及IMF建议归属",
+        "2025专项结果未搜齐"
+      ]
+    },
+    {
+      "id": "C-CHINA-15",
+      "path": "10_concepts/C-CHINA-15.md",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B029/C-CHINA-15_FIRST_DRAFT.md",
+      "evidence_as_of": "2026-01-19",
+      "source_urls": [
+        "https://zzz.gov.cn/html/xwzx/dtyw/18015.html",
+        "https://www.mee.gov.cn/zcwj/zclcfh/202410/t20241018_1089575.shtml",
+        "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5587716/2025022618190099812.pdf",
+        "https://www.stats.gov.cn/sj/zxfb/202501/t20250117_1958328.html",
+        "https://www.stats.gov.cn/sj/zxfb/202601/t20260119_1962324.html"
+      ],
+      "sha256_first_draft": "65f8ac77980eb3b1483455631f191001d126a3a2af4d67988fa676529574b6bf",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "新发放利率/存量利息区分",
+        "首付和月供算例",
+        "到位流量不替代银行存量",
+        "原始贷款投向页访问403，余额留缺口"
+      ]
+    },
+    {
+      "id": "C-CHINA-18",
+      "path": "10_concepts/C-CHINA-18.md",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B029/C-CHINA-18_FIRST_DRAFT.md",
+      "evidence_as_of": "2026-01-12",
+      "source_urls": [
+        "https://www.mof.gov.cn/zcsjtsgb/gfxwj/201511/t20151112_3583393.htm",
+        "https://app.www.gov.cn/govdata/gov/202501/07/523418/article.html",
+        "https://www.ndrc.gov.cn/xwdt/wszb/cytzyd/wzsl/202512/t20251226_1402642.html",
+        "https://www.ndrc.gov.cn/xxgk/zcfb/ghxwj/202601/t20260112_1403192.html",
+        "https://zfxxgk.ndrc.gov.cn/wap/iteminfo.jsp?id=20589"
+      ],
+      "sha256_first_draft": "8d6cec9cd480d19bb2f6d3366805e85a8423252583b97f2919bf6630e4311684",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "认缴/实缴/层级去重与额外性",
+        "1000亿元仅安排非实现",
+        "2026-01-12公开与2025-12-31成文区分",
+        "金融加速器补充入口是否保留"
+      ]
+    }
+  ]
+}

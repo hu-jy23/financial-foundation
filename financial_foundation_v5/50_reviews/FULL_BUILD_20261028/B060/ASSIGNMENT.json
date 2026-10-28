@@ -1,0 +1,49 @@
+{
+  "batch": "B060",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-BANKING-12",
+      "name": "金融周期中的系统性风险积累与扩散",
+      "scope": "信用扩张、杠杆和资产价格反馈；抵押、融资及银行约束如何促成风险积累与扩散。",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-BANKING-12.md",
+      "node_ids": [
+        "C-CREDIT-16",
+        "C-CREDIT-10",
+        "C-LIQ-FUND",
+        "C-LIQ-MARKET",
+        "C-CREDIT-02"
+      ],
+      "group": "信用与金融稳定机制"
+    },
+    {
+      "id": "R-FX-PARITY",
+      "name": "利率平价",
+      "scope": "有担保/无担保条件分开",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-FX-PARITY.md",
+      "node_ids": [
+        "C-FX-10"
+      ],
+      "group": "跨境、美元与汇率机制"
+    },
+    {
+      "id": "R-USD-GLOBAL",
+      "name": "美元融资依赖的传导机制",
+      "scope": "美元负债与收入币种错配、融资可得性及跨境资产定价；解释依赖如何形成并在融资收紧时传导。",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-USD-GLOBAL.md",
+      "node_ids": [
+        "C-FX-USD",
+        "C-LIQ-FUND",
+        "C-FX-10",
+        "C-CREDIT-SPREAD",
+        "C-EQ-ERP"
+      ],
+      "group": "跨境、美元与汇率机制"
+    }
+  ]
+}

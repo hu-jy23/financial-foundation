@@ -1,0 +1,35 @@
+{
+  "batch": "B074",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-CRYPTO-02",
+      "name": "稳定币发行赎回对短券需求的影响",
+      "scope": "储备结构和资金来源",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-CRYPTO-02.md",
+      "node_ids": [
+        "C-CRYPTO-03",
+        "C-ASSET-UST",
+        "C-MONEY-19"
+      ],
+      "group": "数字资产传导"
+    },
+    {
+      "id": "R-CRYPTO-04",
+      "name": "永续合约的强平瀑布",
+      "scope": "资金费率、保证金和深度",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-CRYPTO-04.md",
+      "node_ids": [
+        "C-CRYPTO-05",
+        "C-DERIV-14",
+        "C-LIQ-MARKET",
+        "C-CRYPTO-01"
+      ],
+      "group": "数字资产传导"
+    }
+  ]
+}

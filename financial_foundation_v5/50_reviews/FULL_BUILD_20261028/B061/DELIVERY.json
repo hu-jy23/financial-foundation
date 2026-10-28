@@ -1,0 +1,66 @@
+{
+  "batch": "B061",
+  "author": "/root/full_b061",
+  "status": "submitted_for_review",
+  "updated": "2026-10-28",
+  "items": [
+    {
+      "id": "R-INTERNATIONAL-05",
+      "path": "20_mechanisms/R-INTERNATIONAL-05.md",
+      "evidence_as_of": "2025-12",
+      "source_urls": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/swap-lines-faqs.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315c.htm",
+        "https://www.bis.org/publications/bulletin-1-dollar-funding-costs-during-covid-19-crisis-through-lens-fx-swap-market.pdf",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230319a.htm",
+        "https://www.bis.org/publications/qr-201609/covered-interest-parity-lost-understanding-cross-currency-basis",
+        "https://www.bis.org/publications/qr-202512/global-fx-markets-when-hedging-takes-centre-stage"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B061/R-INTERNATIONAL-05_FIRST_DRAFT.md",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "基差符号与有条件利率约束",
+        "流动性供给不等同资本与客户额度",
+        "2025需求退出竞争解释；未核2026实况"
+      ]
+    },
+    {
+      "id": "R-JPY-CARRY",
+      "path": "20_mechanisms/R-JPY-CARRY.md",
+      "evidence_as_of": "2025-06",
+      "source_urls": [
+        "https://www.bis.org/publications/bulletin-90-market-turbulence-and-carry-trade-unwind-august-2024.pdf",
+        "https://www.boj.or.jp/en/about/press/koen_2024/ko240807a.htm",
+        "https://www.bis.org/publications/aer-2025/financial-conditions-changing-global-financial-system"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B061/R-JPY-CARRY_FIRST_DRAFT.md",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "合成套息净空头与现金杠杆算例",
+        "期货统计不代表全市场；不加总重叠指标",
+        "VIX与汇率波动分开；2025复盘不回填当时"
+      ]
+    },
+    {
+      "id": "R-INTERNATIONAL-07",
+      "path": "20_mechanisms/R-INTERNATIONAL-07.md",
+      "evidence_as_of": "2025-12",
+      "source_urls": [
+        "https://www.bis.org/publications/qr-201609/covered-interest-parity-lost-understanding-cross-currency-basis",
+        "https://www.bis.org/publications/qr-202512/global-fx-markets-when-hedging-takes-centre-stage",
+        "https://www.boj.or.jp/en/research/brp/fsr/data/fsr251023a.pdf",
+        "https://www.bis.org/publications/aer-2025/financial-conditions-changing-global-financial-system"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B061/R-INTERNATIONAL-07_FIRST_DRAFT.md",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "年化对冲收益比较非持有期回报",
+        "对冲比例与外币负债自然匹配",
+        "BOJ财年／九家一般账户口径；未核2026实施"
+      ]
+    }
+  ]
+}

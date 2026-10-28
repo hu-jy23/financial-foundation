@@ -1,0 +1,72 @@
+{
+  "batch": "B018",
+  "author": "/root/full_b018",
+  "updated": "2026-10-28",
+  "entries": [
+    {
+      "id": "C-EQUITY-18",
+      "path": "10_concepts/C-EQUITY-18.md",
+      "evidence_as_of": "2024-05-03",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/718877/000110465922036155/tm225196-4_defm14a.htm",
+        "https://www.sec.gov/Archives/edgar/data/718877/000162828023026269/atvi-20230630.htm",
+        "https://newsroom.activisionblizzard.com/p/deadline-extended-an-update-on-the",
+        "https://www.sec.gov/Archives/edgar/data/718877/000110465923108985/tm2328253d1_8k.htm",
+        "https://corporate.exxonmobil.com/news/news-releases/2023/1011_exxonmobil-announces-merger-with-pioneer-natural-resources-in-an-all-stock-transaction",
+        "https://investor.exxonmobil.com/sec-filings/all-sec-filings/content/0000950103-24-006322/dp210867_8k.htm"
+      ],
+      "review_points": [
+        "现金与固定换股量纲；595/645亿美元区别",
+        "原协议最迟日期与延期，终止费触发非自动支付",
+        "公司7月预期、较晚10-Q披露和10月完成结果分开"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B018/C-EQUITY-18_FIRST_DRAFT.md",
+      "sha256": "e63fee607933ae3c2e0abf51ac145938de6fd64f6d48940e193fe790b5566cdd",
+      "status": "draft_ready_for_main_review"
+    },
+    {
+      "id": "C-VOL-IVRV",
+      "path": "10_concepts/C-VOL-IVRV.md",
+      "evidence_as_of": "2026-02-26",
+      "source_urls": [
+        "https://www.cmegroup.com/education/files/time-and-volatility-2013-08-14.pdf",
+        "https://cdn.cboe.com/resources/vix/VIX_Methodology.pdf",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1675.pdf",
+        "https://www.bis.org/publications/bulletin-95-anatomy-vix-spike-august-2024.pdf"
+      ],
+      "review_points": [
+        "小数收益/方差/波动率单位和252日或365日年化",
+        "VIX方法v6.0截至2026-02-26但行情案例仅2024",
+        "BIS 85%以上指尖峰贡献，非概率"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B018/C-VOL-IVRV_FIRST_DRAFT.md",
+      "sha256": "3fab39cadedeee866c0ab435bda2c9959ac47f14b22240a6cbd00ae08cc5f636",
+      "status": "draft_ready_for_main_review"
+    },
+    {
+      "id": "C-DERIV-04",
+      "path": "10_concepts/C-DERIV-04.md",
+      "evidence_as_of": "2024-10-29",
+      "source_urls": [
+        "https://www.federalreserve.gov/pubs/feds/2007/200711/",
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1675.pdf",
+        "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr867.pdf",
+        "https://www.bis.org/publications/bulletin-95-anatomy-vix-spike-august-2024.pdf"
+      ],
+      "review_points": [
+        "正号为卖方方差补偿，P/Q与未来同窗口",
+        "2007稿是Bollerslev-Zhou，非2009三作者版本",
+        "表1均值采用波动率单位，不能先平均后平方得到方差溢价"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B018/C-DERIV-04_FIRST_DRAFT.md",
+      "sha256": "56338653fabd838a60a6be0e2f1e120aa90cc7e3f233e89a5090e76e2c17a997",
+      "status": "draft_ready_for_main_review"
+    }
+  ]
+}

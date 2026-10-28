@@ -1,0 +1,79 @@
+{
+  "batch": "B007",
+  "author": "/root/full_b007",
+  "status": "ready_for_main_review",
+  "items": [
+    {
+      "id": "C-FISCAL-15",
+      "path": "10_concepts/C-FISCAL-15.md",
+      "evidence_as_of": "2026-03-25",
+      "source_urls": [
+        "https://www.cbo.gov/publication/61265",
+        "https://www.gao.gov/legal/appropriations-law/lapses-in-appropriations",
+        "https://www.congress.gov/crs_external_products/IN/PDF/IN12045/IN12045.6.pdf",
+        "https://www.cbo.gov/publication/54937",
+        "https://www.cbo.gov/system/files/2025-10/61823-Shutdown.pdf",
+        "https://www.congress.gov/crs_external_products/R/PDF/R48832/R48832.2.pdf",
+        "https://files.gao.gov/reports/GAO-26-107872/index.html"
+      ],
+      "key_review_points": [
+        "X-date预测不是法定违约日期",
+        "CBO停摆情景与后来结束日分离",
+        "2026年后续拨款事件未纳入"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B007/C-FISCAL-15_FIRST_DRAFT.md",
+      "first_draft_sha256": "3e08e198f2bc91d4dc65db9fb1018efc56eeed4a4bf43968a8e9380019acd59f"
+    },
+    {
+      "id": "C-CREDIT-02",
+      "path": "10_concepts/C-CREDIT-02.md",
+      "evidence_as_of": "2026-09-23",
+      "source_urls": [
+        "https://www.bis.org/publications/fsi-summary-definition-capital-basel-iii-executive-summary",
+        "https://www.bis.org/committees/bcbs/basel-framework/standard/rbc/20/inforce/2023-01-01/published/2020-11-26",
+        "https://www.bis.org/committees/bcbs/basel-framework/standard/lev?allChapters=true",
+        "https://www.federalreserve.gov/publications/2023-April-SVB-Federal-Reserve-Regulation.htm",
+        "https://www.federalreserve.gov/publications/2023-april-svb-executive-summary.htm",
+        "https://www.occ.gov/news-issuances/bulletins/2025/bulletin-2025-41.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20251125b.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/barr-statement-20251125b.htm",
+        "https://www.bis.org/publications/202609-qis-basel-iii-monitoring-report"
+      ],
+      "key_review_points": [
+        "美国eSLR最终规则实施日和子银行缓冲形式",
+        "SVB AOCI反事实范围",
+        "Barr与监管机构政策效果预期分歧"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B007/C-CREDIT-02_FIRST_DRAFT.md",
+      "first_draft_sha256": "fb05ec71c42022687ed5754e68ae58003409f3462609a0976998ea3cd05148d7"
+    },
+    {
+      "id": "C-CREDIT-03",
+      "path": "10_concepts/C-CREDIT-03.md",
+      "evidence_as_of": "2026-09-23",
+      "source_urls": [
+        "https://www.bis.org/publications/fsi-summary-liquidity-coverage-ratio-lcr-executive-summary",
+        "https://www.bis.org/committees/bcbs/basel-framework/standard/lcr/40/inforce/2019-12-15/published/2019-12-15",
+        "https://www.bis.org/publications/fsi-summary-net-stable-funding-ratio-nsfr-executive-summary",
+        "https://www.bis.org/committees/bcbs/basel-framework/standard/nsf?allChapters=true",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20201020b.htm",
+        "https://www.federalreserve.gov/publications/2023-April-SVB-Federal-Reserve-Regulation.htm",
+        "https://www.federalreserve.gov/publications/2023-april-svb-executive-summary.htm",
+        "https://www.bis.org/publications/202609-qis-basel-iii-monitoring-report"
+      ],
+      "key_review_points": [
+        "SVB缩减与全额LCR及当时尚未适用",
+        "国际NSFR与美国生效日不同",
+        "2025年底跨国监测平衡/非平衡样本"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B007/C-CREDIT-03_FIRST_DRAFT.md",
+      "first_draft_sha256": "8439796215a43d22f9bd8d25a562f0e251de051af0ba6a4abf1de9fece125ac2"
+    }
+  ]
+}

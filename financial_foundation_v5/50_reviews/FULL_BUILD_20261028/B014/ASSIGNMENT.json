@@ -1,0 +1,35 @@
+{
+  "batch": "B014",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-FX-18",
+      "name": "外汇干预",
+      "scope": "数量、冲销和信号渠道",
+      "kind": "concepts",
+      "path": "10_concepts/C-FX-18.md",
+      "node_ids": [],
+      "group": "外汇与国际金融"
+    },
+    {
+      "id": "C-ASSET-UST",
+      "name": "美国国债",
+      "scope": "财政部信用、期限与市场结构",
+      "kind": "concepts",
+      "path": "10_concepts/C-ASSET-UST.md",
+      "node_ids": [],
+      "group": "债券与固定收益工具"
+    },
+    {
+      "id": "C-IR-TIPS",
+      "name": "美国通胀保值国债TIPS",
+      "scope": "指数化本金与实际收益率",
+      "kind": "concepts",
+      "path": "10_concepts/C-IR-TIPS.md",
+      "node_ids": [],
+      "group": "债券与固定收益工具"
+    }
+  ]
+}

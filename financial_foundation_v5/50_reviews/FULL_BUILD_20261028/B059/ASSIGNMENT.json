@@ -1,0 +1,48 @@
+{
+  "batch": "B059",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-DEBT-DEFLATION",
+      "name": "债务通缩",
+      "scope": "收入价格下降、名义债固定",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-DEBT-DEFLATION.md",
+      "node_ids": [
+        "C-INF-INFLATION",
+        "C-CREDIT-16",
+        "C-CREDIT-10"
+      ],
+      "group": "信用与金融稳定机制"
+    },
+    {
+      "id": "R-BANKING-09",
+      "name": "证券化中的风险转移与激励",
+      "scope": "分层、信息和监管",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-BANKING-09.md",
+      "node_ids": [
+        "C-CREDIT-13",
+        "C-CREDIT-02",
+        "C-CREDIT-12"
+      ],
+      "group": "信用与金融稳定机制"
+    },
+    {
+      "id": "R-BANKING-10",
+      "name": "最后贷款人的危机干预",
+      "scope": "抵押、可得性和道德风险",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-BANKING-10.md",
+      "node_ids": [
+        "C-MONEY-11",
+        "C-CREDIT-10",
+        "C-CREDIT-15",
+        "C-LIQ-FUND"
+      ],
+      "group": "信用与金融稳定机制"
+    }
+  ]
+}

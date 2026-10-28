@@ -1,0 +1,84 @@
+{
+  "batch": "B002",
+  "author": "/root/full_b002",
+  "updated": "2026-10-28",
+  "entries": [
+    {
+      "id": "C-RATE-05",
+      "path": "10_concepts/C-RATE-05.md",
+      "evidence_as_of": "2026-10-05",
+      "source_urls": [
+        "https://www.newyorkfed.org/markets/reference-rates/effr",
+        "https://www.newyorkfed.org/markets/reference-rates/additional-information-about-reference-rates",
+        "https://www.newyorkfed.org/markets/effr-obfr-data",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/the-recent-evolution-of-the-federal-funds-market-and-its-dynamics-during-reductions-of-fr-balance-sheet-20240711.html",
+        "https://tellerwindow.newyorkfed.org/2026/01/16/how-monetary-policy-tools-helped-limit-money-market-pressures-at-year-end/"
+      ],
+      "review_points": [
+        "实际行情截止与方法资料截止区分",
+        "来源逐字首稿已保留",
+        "公式/算例与历史事实分开",
+        "2024制度断点与2025年末官方回顾"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B002/C-RATE-05_FIRST_DRAFT.md"
+    },
+    {
+      "id": "C-RATE-06",
+      "path": "10_concepts/C-RATE-06.md",
+      "evidence_as_of": "2026-10-05",
+      "source_urls": [
+        "https://www.newyorkfed.org/markets/reference-rates/sofr",
+        "https://www.newyorkfed.org/markets/reference-rates/additional-information-about-reference-rates",
+        "https://www.newyorkfed.org/markets/opolicy/operating_policy_241023",
+        "https://www.newyorkfed.org/markets/opolicy/operating_policy_241125",
+        "https://www.newyorkfed.org/arrc/sofr-transition",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/the-recent-evolution-of-the-federal-funds-market-and-its-dynamics-during-reductions-of-fr-balance-sheet-20240711.html",
+        "https://tellerwindow.newyorkfed.org/2026/01/16/how-monetary-policy-tools-helped-limit-money-market-pressures-at-year-end/"
+      ],
+      "review_points": [
+        "实际行情截止与方法资料截止区分",
+        "来源逐字首稿已保留",
+        "公式/算例与历史事实分开",
+        "2024制度断点与2025年末官方回顾"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B002/C-RATE-06_FIRST_DRAFT.md"
+    },
+    {
+      "id": "C-RATE-07",
+      "path": "10_concepts/C-RATE-07.md",
+      "evidence_as_of": "2025",
+      "source_urls": [
+        "https://www.cftc.gov/MarketReports/SwapsReports/DataDictionary/index.htm",
+        "https://idd.ice.com/IRHelp/Content/FM/Overnight_Index_Swap.htm",
+        "https://www.cmegroup.com/articles/2025/price-and-hedging-usd-sofr-interest-swaps-with-sofr-futures.html",
+        "https://www.chicagofed.org/publications/chicago-fed-letter/2020/432",
+        "https://www.bis.org/publications/working-paper-996-monetary-policy-expectation-errors.pdf",
+        "https://www.cmegroup.com/notices/clearing/2020/10/Chadv20-402.html",
+        "https://www.newyorkfed.org/arrc/sofr-transition"
+      ],
+      "review_points": [
+        "实际行情截止与方法资料截止区分",
+        "来源逐字首稿已保留",
+        "公式/算例与历史事实分开",
+        "OIS预测/贴现公式条件",
+        "R-POL-CURVE仅观测用途入口"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B002/C-RATE-07_FIRST_DRAFT.md"
+    }
+  ],
+  "gaps": [
+    "未取得2025年末和2026年10月完整同日利率/分位数窗口",
+    "未取得2019实时OIS和Blue Chip原表",
+    "未下载2024新旧SOFR指示性数据差异序列"
+  ],
+  "git_committed": false
+}

@@ -1,0 +1,35 @@
+{
+  "batch": "B033",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-ASIA-09",
+      "name": "IPO、再融资与退市",
+      "scope": "权益供求和制度事件",
+      "kind": "concepts",
+      "path": "10_concepts/C-ASIA-09.md",
+      "node_ids": [],
+      "group": "A股、港股与区域市场制度"
+    },
+    {
+      "id": "C-ASIA-10",
+      "name": "A/H溢价",
+      "scope": "分割市场与定价差异",
+      "kind": "concepts",
+      "path": "10_concepts/C-ASIA-10.md",
+      "node_ids": [],
+      "group": "A股、港股与区域市场制度"
+    },
+    {
+      "id": "C-ASIA-11",
+      "name": "恒生指数与恒生科技指数",
+      "scope": "成分、权重和行业敞口",
+      "kind": "concepts",
+      "path": "10_concepts/C-ASIA-11.md",
+      "node_ids": [],
+      "group": "A股、港股与区域市场制度"
+    }
+  ]
+}

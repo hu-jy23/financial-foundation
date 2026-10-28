@@ -1,0 +1,70 @@
+{
+  "batch": "B057",
+  "author": "/root/full_b057",
+  "status": "ready_for_main_review",
+  "updated": "2026-10-28",
+  "items": [
+    {
+      "id": "R-FISCAL-11",
+      "path": "20_mechanisms/R-FISCAL-11.md",
+      "evidence_as_of": "2026-05-19",
+      "source_urls": [
+        "https://www.bankingsupervision.europa.eu/press/speeches/date/2026/html/ssm.sp260519~eb90c081f4.en.html",
+        "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202505~0cde5244f6.en.html",
+        "https://www.ecb.europa.eu/press/html/irish-letters.en.html"
+      ],
+      "key_review_points": [
+        "2014与2025持仓样本不完全相同",
+        "爱尔兰€140bn为含ELA流动性余额，不是财政成本",
+        "ECB历史政策解释非唯一因果"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B057/R-FISCAL-11_FIRST_DRAFT.md",
+      "first_draft_sha256": "33f75824d2704a8885da514f2c3a0b3108fc02a51d3d63a30ecd012e73fa8464"
+    },
+    {
+      "id": "R-BANKING-01",
+      "path": "20_mechanisms/R-BANKING-01.md",
+      "evidence_as_of": "2026-07-07",
+      "source_urls": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf",
+        "https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2014/the-impact-of-capital-requirements-on-bank-lending.pdf",
+        "https://www.bankofengland.co.uk/financial-policy-summary-and-record/2024/november-2024",
+        "https://www.bankofengland.co.uk/financial-stability-in-focus/2026/fsif-the-bank-capital-framework"
+      ],
+      "key_review_points": [
+        "WP486第一年响应为贷款增速百分点、68%区间",
+        "英国2026年7月措施为提案",
+        "资本、流动性、风险权重和杠杆约束分别解释"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B057/R-BANKING-01_FIRST_DRAFT.md",
+      "first_draft_sha256": "12fbbe8c8bec62dbdad887de9c1f256b5a76c9bbe9097620a4629c473bef2735"
+    },
+    {
+      "id": "R-BANKING-02",
+      "path": "20_mechanisms/R-BANKING-02.md",
+      "evidence_as_of": "2025-05",
+      "source_urls": [
+        "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/html/ecb.fsr202505~0cde5244f6.en.html",
+        "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2025/html/ecb.fsrbox202505_03~291d8e8f0c.en.html",
+        "https://www.federalreserve.gov/publications/2023-April-SVB-Executive-Summary.htm",
+        "https://www.federalreserve.gov/publications/2023-April-SVB-Supervision-of-SVBFG-by-Critical-Risk-Areas.htm"
+      ],
+      "key_review_points": [
+        "资料只覆盖至2025年5月",
+        "−11%为−200bp冲击下NII敏感性，不是预测",
+        "SVB模型和对冲历史来自2023年事后披露"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B057/R-BANKING-02_FIRST_DRAFT.md",
+      "first_draft_sha256": "515972de23f5ba4003784de37491a00222c1e9e60e83856bce978a5c447e818e"
+    }
+  ],
+  "notes": "NOTES.md",
+  "shared_indexes_modified": false,
+  "git_write_operations": false
+}

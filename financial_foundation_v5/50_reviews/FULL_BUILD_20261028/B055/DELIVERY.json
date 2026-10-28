@@ -1,0 +1,69 @@
+{
+  "batch": "B055",
+  "author": "/root/full_b055",
+  "date": "2026-10-28",
+  "entries": [
+    {
+      "id": "R-IR-CURVE-SHAPE",
+      "path": "20_mechanisms/R-IR-CURVE-SHAPE.md",
+      "evidence_as_of": "2025-10-09",
+      "source_urls": [
+        "https://libertystreeteconomics.newyorkfed.org/2014/05/treasury-term-premia-1961-present/",
+        "https://www.stlouisfed.org/on-the-economy/2025/oct/understanding-swoosh-shaped-yield-curve-treasuries",
+        "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20250917.htm"
+      ],
+      "key_review_points": [
+        "核对实际收益率周期口径与牛熊形状",
+        "原文快照日期冲突与term premium误称已隔离",
+        "缺会前政策价格及ACM实时数量分解"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B055/R-IR-CURVE-SHAPE_FIRST_DRAFT.md",
+      "first_draft_sha256": "b50b31121117b580eedbe79b776ca97a08c2d485579bd2bee963ca63eb1a838e",
+      "status": "draft"
+    },
+    {
+      "id": "R-GROWTH-04",
+      "path": "20_mechanisms/R-GROWTH-04.md",
+      "evidence_as_of": "2026-09-22",
+      "source_urls": [
+        "https://www.brookings.edu/wp-content/uploads/2023/04/bernanke-blanchard-conference-draft_5.23.23.pdf",
+        "https://www.rba.gov.au/speeches/2026/sp-mpb-2026-09-22.html",
+        "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr251219_1~680ae819a9.en.html",
+        "https://www.imf.org/-/media/files/publications/wp/2022/english/wpiea2022221-print-pdf.pdf"
+      ],
+      "key_review_points": [
+        "79例样本按2022原文Table3.2",
+        "合同追踪器及人均报酬预测区分",
+        "澳洲演讲个人判断与未核数值表边界"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B055/R-GROWTH-04_FIRST_DRAFT.md",
+      "first_draft_sha256": "6cf90e1e598609c0df027eecb6556dc41631b3a26d9ca42814f738cba675d3de",
+      "status": "draft"
+    },
+    {
+      "id": "R-FISCAL-DEBTDYN",
+      "path": "20_mechanisms/R-FISCAL-DEBTDYN.md",
+      "evidence_as_of": "2026-02-11",
+      "source_urls": [
+        "https://www.imf.org/-/media/files/publications/fiscal-monitor/2024/october/english/onlineannexes.pdf",
+        "https://www.cbo.gov/publication/61270",
+        "https://www.cbo.gov/publication/61882",
+        "https://www.cbo.gov/publication/61332"
+      ],
+      "key_review_points": [
+        "名义实际债务恒等式与平均利率口径",
+        "CBO每年5bp递增偏离条件",
+        "旧情景和2026新基线分离，债务桥未逐年复算"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B055/R-FISCAL-DEBTDYN_FIRST_DRAFT.md",
+      "first_draft_sha256": "c34a08d22abbfa2c63e2d0bdfb593012394dd47de89b2483e6108bbf638693e4",
+      "status": "draft"
+    }
+  ]
+}

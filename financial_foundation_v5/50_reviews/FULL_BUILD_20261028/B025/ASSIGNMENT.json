@@ -1,0 +1,35 @@
+{
+  "batch": "B025",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-CHINA-01",
+      "name": "中国人民银行",
+      "scope": "货币、金融稳定与政策执行",
+      "kind": "concepts",
+      "path": "10_concepts/C-CHINA-01.md",
+      "node_ids": [],
+      "group": "中国宏观制度与政策工具"
+    },
+    {
+      "id": "C-CHINA-02",
+      "name": "财政部与地方财政",
+      "scope": "央地分工和预算体系",
+      "kind": "concepts",
+      "path": "10_concepts/C-CHINA-02.md",
+      "node_ids": [],
+      "group": "中国宏观制度与政策工具"
+    },
+    {
+      "id": "C-CN-TSF",
+      "name": "社会融资规模",
+      "scope": "统计范围、存量与增量",
+      "kind": "concepts",
+      "path": "10_concepts/C-CN-TSF.md",
+      "node_ids": [],
+      "group": "中国宏观制度与政策工具"
+    }
+  ]
+}

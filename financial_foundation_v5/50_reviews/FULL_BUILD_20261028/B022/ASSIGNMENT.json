@@ -1,0 +1,35 @@
+{
+  "batch": "B022",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-COMMOD-04",
+      "name": "天然气与LNG",
+      "scope": "区域市场、运输和季节",
+      "kind": "concepts",
+      "path": "10_concepts/C-COMMOD-04.md",
+      "node_ids": [],
+      "group": "黄金、能源与大宗商品"
+    },
+    {
+      "id": "C-COMMOD-05",
+      "name": "煤炭与焦煤",
+      "scope": "能源和冶金需求区别",
+      "kind": "concepts",
+      "path": "10_concepts/C-COMMOD-05.md",
+      "node_ids": [],
+      "group": "黄金、能源与大宗商品"
+    },
+    {
+      "id": "C-COMMOD-06",
+      "name": "铜与工业金属",
+      "scope": "终端需求、库存和供给",
+      "kind": "concepts",
+      "path": "10_concepts/C-COMMOD-06.md",
+      "node_ids": [],
+      "group": "黄金、能源与大宗商品"
+    }
+  ]
+}

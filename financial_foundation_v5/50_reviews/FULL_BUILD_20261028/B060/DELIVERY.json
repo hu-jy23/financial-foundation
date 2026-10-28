@@ -1,0 +1,83 @@
+{
+  "batch": "B060",
+  "draft_author": "/root/full_b060",
+  "completed_at": "2026-10-28",
+  "files": [
+    {
+      "id": "R-BANKING-12",
+      "path": "20_mechanisms/R-BANKING-12.md",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B060/R-BANKING-12_FIRST_DRAFT.md",
+      "evidence_as_of": "2026-05-28",
+      "source_urls": [
+        "https://www.bis.org/publications/working-paper-395-financial-cycle-and-macroeconomics-what-have-we-learnt.pdf",
+        "https://markus.scholar.princeton.edu/document/98",
+        "https://www.federalreserve.gov/publications/2026-may-financial-stability-report-leverage.htm",
+        "https://www.bis.org/publications/qr-202409/carry-off-carry-on"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "2025Q3基金资产与2025年末银行数据时点不同",
+        "承诺额度及公允价值缺口不等于净损失",
+        "金融周期积累与数日流动性扩散时间尺度"
+      ],
+      "sha256_first_draft": "c04edbddf00ff5bca4c381dd3d076da5252c616213e083ef94a73ece852359f3",
+      "status": "draft",
+      "author_self_read_complete": true
+    },
+    {
+      "id": "R-FX-PARITY",
+      "path": "20_mechanisms/R-FX-PARITY.md",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B060/R-FX-PARITY_FIRST_DRAFT.md",
+      "evidence_as_of": "2025-12",
+      "source_urls": [
+        "https://www.bis.org/publications/qr-201609/covered-interest-parity-lost-understanding-cross-currency-basis",
+        "https://www.federalreserve.gov/pubs/ifdp/2003/752/revision/ifdp752r.pdf",
+        "https://www.bis.org/publications/qr-202512/global-fx-markets-when-hedging-takes-centre-stage",
+        "https://www.bis.org/publications/qr-202409/carry-off-carry-on"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "S为本币/外币，CIP及UIP方向一致",
+        "b_d为本文自定义合成利差，不等于任一市场腿报价",
+        "UIP组只借C-FX-10辨析边界，未扩节点"
+      ],
+      "sha256_first_draft": "2c17a22621c5e08bf673ef625d2aef26dd12293de6fad9b86cee9daa79c06690",
+      "status": "draft",
+      "author_self_read_complete": true
+    },
+    {
+      "id": "R-USD-GLOBAL",
+      "path": "20_mechanisms/R-USD-GLOBAL.md",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B060/R-USD-GLOBAL_FIRST_DRAFT.md",
+      "evidence_as_of": "2025-12",
+      "source_urls": [
+        "https://www.bis.org/publications/working-paper-695-dollar-exchange-rate-global-risk-factor-evidence-investment.pdf",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/the-international-role-of-the-u-s-dollar-2025-edition-20250718.html",
+        "https://www.bis.org/publications/qr-202212/dollar-debt-fx-swaps-and-forwards-huge-missing-and-growing",
+        "https://www.bis.org/publications/aer-2025/financial-conditions-changing-global-financial-system",
+        "https://www.bis.org/publications/qr-202512/global-fx-markets-when-hedging-takes-centre-stage"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "WP695正文Q4与Figure1/Table1 Q3截止差异已披露",
+        "97/85/26/39及111万亿美元为不同主体/时期/总额口径",
+        "2025年4月BIS明确未见美元融资压力，ERP量化缺口保留"
+      ],
+      "sha256_first_draft": "8b39210463d7a4cf256999873a741ac81f9ba4b2ba83b7d4a70aa9d274b77381",
+      "status": "draft",
+      "author_self_read_complete": true
+    }
+  ],
+  "notes_path": "50_reviews/FULL_BUILD_20261028/B060/NOTES.md",
+  "remaining_gaps": [
+    "两外汇机制尚未系统更新2026年市场",
+    "缺事件前专业汇率调查与同步可执行报价",
+    "缺银行非银网络、掉期到期结构及净币种错配数据",
+    "缺美元融资对ERP独立识别值"
+  ],
+  "shared_files_modified": false,
+  "git_operations": false
+}

@@ -1,0 +1,35 @@
+{
+  "batch": "B035",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-GLOBAL-03",
+      "name": "美国国会与行政部门",
+      "scope": "预算、立法与执行分工",
+      "kind": "concepts",
+      "path": "10_concepts/C-GLOBAL-03.md",
+      "node_ids": [],
+      "group": "国际制度、政治与地缘"
+    },
+    {
+      "id": "C-GLOBAL-04",
+      "name": "民主党与共和党",
+      "scope": "实体及具体政策主张的版本",
+      "kind": "concepts",
+      "path": "10_concepts/C-GLOBAL-04.md",
+      "node_ids": [],
+      "group": "国际制度、政治与地缘"
+    },
+    {
+      "id": "C-GLOBAL-05",
+      "name": "欧洲央行与欧元区成员国",
+      "scope": "货币与财政分工",
+      "kind": "concepts",
+      "path": "10_concepts/C-GLOBAL-05.md",
+      "node_ids": [],
+      "group": "国际制度、政治与地缘"
+    }
+  ]
+}

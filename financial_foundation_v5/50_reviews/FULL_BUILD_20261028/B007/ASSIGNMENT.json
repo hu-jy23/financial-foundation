@@ -1,0 +1,35 @@
+{
+  "batch": "B007",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-FISCAL-15",
+      "name": "债务上限与政府停摆",
+      "scope": "美国两类不同制度事件",
+      "kind": "concepts",
+      "path": "10_concepts/C-FISCAL-15.md",
+      "node_ids": [],
+      "group": "财政、政府债务与主权信用"
+    },
+    {
+      "id": "C-CREDIT-02",
+      "name": "银行资本与杠杆率",
+      "scope": "损失吸收与监管约束",
+      "kind": "concepts",
+      "path": "10_concepts/C-CREDIT-02.md",
+      "node_ids": [],
+      "group": "银行、信用与金融稳定"
+    },
+    {
+      "id": "C-CREDIT-03",
+      "name": "银行流动性覆盖与稳定融资",
+      "scope": "期限错配约束",
+      "kind": "concepts",
+      "path": "10_concepts/C-CREDIT-03.md",
+      "node_ids": [],
+      "group": "银行、信用与金融稳定"
+    }
+  ]
+}

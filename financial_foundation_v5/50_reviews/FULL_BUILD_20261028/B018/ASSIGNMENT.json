@@ -1,0 +1,35 @@
+{
+  "batch": "B018",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-EQUITY-18",
+      "name": "并购交易与交易条款",
+      "scope": "现金或换股对价、交割条件、终止条款和审批程序",
+      "kind": "concepts",
+      "path": "10_concepts/C-EQUITY-18.md",
+      "node_ids": [],
+      "group": "股票、估值与公司财务"
+    },
+    {
+      "id": "C-VOL-IVRV",
+      "name": "隐含波动率与实现波动率",
+      "scope": "定价参数和统计量",
+      "kind": "concepts",
+      "path": "10_concepts/C-VOL-IVRV.md",
+      "node_ids": [],
+      "group": "衍生品、波动与对冲"
+    },
+    {
+      "id": "C-DERIV-04",
+      "name": "波动率风险溢价",
+      "scope": "测度、期限与收益标签",
+      "kind": "concepts",
+      "path": "10_concepts/C-DERIV-04.md",
+      "node_ids": [],
+      "group": "衍生品、波动与对冲"
+    }
+  ]
+}

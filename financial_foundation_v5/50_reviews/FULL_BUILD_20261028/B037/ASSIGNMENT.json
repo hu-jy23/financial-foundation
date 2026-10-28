@@ -1,0 +1,35 @@
+{
+  "batch": "B037",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-TECH-01",
+      "name": "人工智能算力",
+      "scope": "训练、推理与计量口径",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-01.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    },
+    {
+      "id": "C-TECH-02",
+      "name": "GPU与AI加速器",
+      "scope": "性能、供给、定价和使用率",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-02.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    },
+    {
+      "id": "C-TECH-03",
+      "name": "云服务与超大规模云厂商",
+      "scope": "资本开支、收入与客户",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-03.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    }
+  ]
+}

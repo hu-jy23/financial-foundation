@@ -1,0 +1,35 @@
+{
+  "batch": "B013",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-FX-13",
+      "name": "资本流动与资本管制",
+      "scope": "流量、方向、主体与规则",
+      "kind": "concepts",
+      "path": "10_concepts/C-FX-13.md",
+      "node_ids": [],
+      "group": "外汇与国际金融"
+    },
+    {
+      "id": "C-FX-14",
+      "name": "外汇储备",
+      "scope": "币种、流动性与估值变化",
+      "kind": "concepts",
+      "path": "10_concepts/C-FX-14.md",
+      "node_ids": [],
+      "group": "外汇与国际金融"
+    },
+    {
+      "id": "C-FX-17",
+      "name": "套息交易",
+      "scope": "融资币、投资币、杠杆和对冲",
+      "kind": "concepts",
+      "path": "10_concepts/C-FX-17.md",
+      "node_ids": [],
+      "group": "外汇与国际金融"
+    }
+  ]
+}

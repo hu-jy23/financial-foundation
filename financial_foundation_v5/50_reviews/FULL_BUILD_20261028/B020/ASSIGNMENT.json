@@ -1,0 +1,35 @@
+{
+  "batch": "B020",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-FLOW-09",
+      "name": "融资融券与借券成本",
+      "scope": "杠杆、多空实施约束",
+      "kind": "concepts",
+      "path": "10_concepts/C-FLOW-09.md",
+      "node_ids": [],
+      "group": "交易结构、资金与行为"
+    },
+    {
+      "id": "C-FLOW-10",
+      "name": "程序化交易与做市",
+      "scope": "策略类型和库存管理",
+      "kind": "concepts",
+      "path": "10_concepts/C-FLOW-10.md",
+      "node_ids": [],
+      "group": "交易结构、资金与行为"
+    },
+    {
+      "id": "C-FLOW-11",
+      "name": "趋势跟随与CTA",
+      "scope": "信号规则、杠杆和市场暴露",
+      "kind": "concepts",
+      "path": "10_concepts/C-FLOW-11.md",
+      "node_ids": [],
+      "group": "交易结构、资金与行为"
+    }
+  ]
+}

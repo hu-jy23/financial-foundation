@@ -1,0 +1,76 @@
+{
+  "batch": "B027",
+  "author": "/root/full_b027",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "articles": [
+    {
+      "id": "C-CHINA-08",
+      "path": "10_concepts/C-CHINA-08.md",
+      "evidence_as_of": "2026-10-20",
+      "source_urls": [
+        "https://www.chinamoney.com.cn/chinese/bklpr/",
+        "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5427706/2024080916563291755.pdf",
+        "https://www.chinamoney.com.cn/chinese/rdgz/20250520/3116857.html",
+        "https://www.chinamoney.com.cn/chinese/rdgz/20261020/3433485.html",
+        "https://finance.cctv.cn/2026/10/19/ARTIBYippL1IaMoqJdac8HkC261019.shtml"
+      ],
+      "key_review_points": [
+        "LPR与实际新贷款/存量合同分开",
+        "2026多基准贷款讲话的计划性质",
+        "2024贷款均价不能冒充2026"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B027/C-CHINA-08_FIRST_DRAFT.md"
+    },
+    {
+      "id": "C-CHINA-09",
+      "path": "10_concepts/C-CHINA-09.md",
+      "evidence_as_of": "2026-10-19",
+      "source_urls": [
+        "https://www.chinamoney.com.cn/chinese/bkfrr/",
+        "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5427706/2024080916563291755.pdf",
+        "https://www.cnafc.org/cnafc/front/detail.action?id=7955329cd36742ef87d6d0a305cc12d2&tag=",
+        "https://i.ifeng.com/c/8uH56G6bTGu",
+        "https://finance.cctv.cn/2026/10/19/ARTIBYippL1IaMoqJdac8HkC261019.shtml"
+      ],
+      "key_review_points": [
+        "R/DR样本与FR/FDR算法分开",
+        "2026存单草案未核最终生效文本",
+        "缺全日频与发行量，2024数据边界"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B027/C-CHINA-09_FIRST_DRAFT.md"
+    },
+    {
+      "id": "C-CHINA-10",
+      "path": "10_concepts/C-CHINA-10.md",
+      "evidence_as_of": "2026-10-19",
+      "source_urls": [
+        "https://www.chinamoney.com.cn/chinese/bkccpr/?tab=2",
+        "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=48733",
+        "https://policy.mofcom.gov.cn/claw/clawContent.shtml?id=50777",
+        "https://desk.sh.gov.cn/zxfw/zcfg/kjjrfw/20250826/0eeefb8f5183420c9e12ff88758d211f.html",
+        "https://www.cnafc.org/cnafc/front/detail.action?id=f1b3a5d59ffd4bec844a7044e6ea090f",
+        "https://www.safe.gov.cn/guangdong/2017/0914/541.html",
+        "https://www.safe.gov.cn/safe/2025/0113/25639.html",
+        "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5427706/2024080916563291755.pdf",
+        "https://www.shanghai.gov.cn/rzfwgj/20260319/59f5739e0d51427a9b9595f6aa08b987.html",
+        "https://finance.cctv.cn/2026/10/19/ARTIBYippL1IaMoqJdac8HkC261019.shtml"
+      ],
+      "key_review_points": [
+        "融资流入参数与净融出规则分开",
+        "2017历史参数及2025变更，不穷尽后续特例",
+        "2026附件参数未读，不补造"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B027/C-CHINA-10_FIRST_DRAFT.md"
+    }
+  ]
+}

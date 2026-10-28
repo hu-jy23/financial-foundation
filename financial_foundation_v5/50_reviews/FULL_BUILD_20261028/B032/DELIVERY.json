@@ -1,0 +1,78 @@
+{
+  "batch": "B032",
+  "author": "/root/full_b032",
+  "completed_at": "2026-10-28",
+  "status": "ready_for_main_review",
+  "items": [
+    {
+      "id": "C-ASIA-06",
+      "path": "10_concepts/C-ASIA-06.md",
+      "evidence_as_of": "2026-02-12",
+      "source_urls": [
+        "https://www.hengqin.gov.cn/lab/flfg/bmgz/content/post_3645310.html",
+        "https://www.nfra.gov.cn/cn/view/pages/rulesDetail.html?docId=1024949&itemId=4214",
+        "https://www.nfra.gov.cn/cn/view/pages/governmentDetail.html?docId=1203998&generaltype=1&itemId=861",
+        "https://www.shanghai.gov.cn/gwk/search/content/2d9f79775c814b41b06d0f6c4bd8656e",
+        "https://www.nfra.gov.cn/cn/static/data/DocInfo/SelectByDocId/data_docId=1203998.json",
+        "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202501/t20250122_3954850.htm",
+        "https://hq.mof.gov.cn/tongzhitonggao/202507/t20250722_3968261.htm",
+        "https://www.nfra.gov.cn/cn/view/pages/ItemDetail.html?docId=1249433&generaltype=0&itemId=954",
+        "https://www.nfra.gov.cn/chinese/docfile/2026/ca2dc19185f0404fa79ba1df2ac3e77a.xls"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B032/C-ASIA-06_FIRST_DRAFT.md",
+      "first_draft_sha256": "f0d2ae538bf44e0117a104f543ea0bfa3b404829dffbb5a0dde5363a1abf2193",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "2025Q4统计原XLS口径与不发布整体收益率注释",
+        "监管权益上限不等于实际入市流量",
+        "缺2026季度与法人现金流"
+      ]
+    },
+    {
+      "id": "C-ASIA-07",
+      "path": "10_concepts/C-ASIA-07.md",
+      "evidence_as_of": "2026-09-02",
+      "source_urls": [
+        "https://app.www.gov.cn/govdata/gov/201603/28/376174/article.html",
+        "https://www.ssf.gov.cn/portal/xxgk/fdzdgknr/cwbg/sbjjndbg/webinfo/2025/09/1760860383866623.htm",
+        "https://www.fund001.com/news/2025/10/20/68251/1.shtml",
+        "https://www.huijin-inv.cn/huijin-inv/SC20252/2025-04/1002841.shtml",
+        "https://www.huijin-inv.cn/huijin-inv/SC20252/2025-04/1002847.shtml",
+        "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202501/t20250122_3954850.htm",
+        "https://www.ssf.gov.cn/portal/xxgk/fdzdgknr/cwbg/sbjjndbg/webinfo/2026/08/1789929114448986.htm",
+        "https://www.fund001.com/news/2026/09/02/72396/1.shtml"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B032/C-ASIA-07_FIRST_DRAFT.md",
+      "first_draft_sha256": "476b26eaff1dc9f14e7b4843e8191b83e7bb90aeb45798fc120bbb3fe4863735",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "社保原站失败，财务数字采用明确标注的基金管理公司所载年报节录",
+        "未取得完整审计附注、重述比较数及每日交易",
+        "汇金原文不披露增持金额"
+      ]
+    },
+    {
+      "id": "C-ASIA-08",
+      "path": "10_concepts/C-ASIA-08.md",
+      "evidence_as_of": "2026-07-06",
+      "source_urls": [
+        "https://www.sse.com.cn/lawandrules/sselawsrules2025/stocks/exchange/c/c_20260424_10816482.shtml",
+        "https://www.sse.com.cn/lawandrules/sselawsrules2025/stocks/exchange/c/10816482/files/e3a3b98e36894edca77841837936e006.docx",
+        "https://www.sse.com.cn/lawandrules/sselawsrules2025/stocks/exchange/c/10816482/files/e1714f2ce19948ce8917d5c86257205c.docx",
+        "https://www.sse.com.cn/lawandrules/sselawsrules2025/stocks/exchange/c/10816482/files/c4510656662e48dc9d8d0deb8cc864b3.docx",
+        "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20181121_4680428.shtml"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B032/C-ASIA-08_FIRST_DRAFT.md",
+      "first_draft_sha256": "e10b9207f16e21bf1dd1cbff2e6e06922452ecc49593f56b9a141bcefd9aadbc",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "2026-07-06上交所主板风险警示5%改10%",
+        "2018问答是征求意见稿说明",
+        "制度参数样本限上交所、深北尚未核完"
+      ]
+    }
+  ]
+}

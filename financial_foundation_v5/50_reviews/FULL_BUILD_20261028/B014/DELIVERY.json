@@ -1,0 +1,79 @@
+{
+  "batch": "B014",
+  "author": "/root/full_b014",
+  "status": "ready_for_main_review",
+  "updated": "2026-10-28",
+  "items": [
+    {
+      "id": "C-FX-18",
+      "path": "10_concepts/C-FX-18.md",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B014/C-FX-18_FIRST_DRAFT.md",
+      "evidence_as_of": "2026-09-30",
+      "source_urls": [
+        "https://www.imf.org/-/media/files/publications/pp/2023/english/ppea2023061.pdf",
+        "https://www.boj.or.jp/en/about/education/oshiete/intl/g19.htm",
+        "https://www.mof.go.jp/english/policy/international_policy/reference/feio/quarter/2024_2Qe.html",
+        "https://www.mof.go.jp/english/policy/international_policy/reference/feio/quarter/2024_3Qe.html",
+        "https://www.mof.go.jp/english/policy/international_policy/reference/feio/monthly/20260930e.html"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "冲销数量与利率口径",
+        "日本FEFSA/BOJ主体区分",
+        "2026最近月零值不代表全年"
+      ],
+      "first_draft_sha256": "d2e83610c093705e8a73e7a7c326b2cea5fb2b0ce7400b11ca8e4725370b7878"
+    },
+    {
+      "id": "C-ASSET-UST",
+      "path": "10_concepts/C-ASSET-UST.md",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B014/C-ASSET-UST_FIRST_DRAFT.md",
+      "evidence_as_of": "2026-09-23",
+      "source_urls": [
+        "https://www.treasurydirect.gov/marketable-securities/",
+        "https://www.treasurydirect.gov/auctions/how-auctions-work/",
+        "https://www.treasurydirect.gov/marketable-securities/understanding-pricing/",
+        "https://home.treasury.gov/news/press-releases/sb0590",
+        "https://libertystreeteconomics.newyorkfed.org/2026/06/liquidity-fades-as-treasuries-age/",
+        "https://www.newyorkfed.org/newsevents/speeches/2025/per250509",
+        "https://www.sec.gov/featured-topics/treasury-clearing-implementation",
+        "https://home.treasury.gov/policy-issues/financial-markets-financial-institutions-and-fiscal-service/debt-limit"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "实际样本2024H1与2026发表日",
+        "1250/963/287亿美元口径",
+        "2026/2027集中清算期限为合规日期"
+      ],
+      "first_draft_sha256": "5f2660f213559a5eb79b7254db99f0a1274397bb633ed6f4916c3316048f69ce"
+    },
+    {
+      "id": "C-IR-TIPS",
+      "path": "10_concepts/C-IR-TIPS.md",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B014/C-IR-TIPS_FIRST_DRAFT.md",
+      "evidence_as_of": "2026-08-05",
+      "source_urls": [
+        "https://www.treasurydirect.gov/marketable-securities/tips/",
+        "https://www.treasurydirect.gov/files/laws-and-regulations/07-28-2004-final-rule.pdf",
+        "https://treasurydirect.gov/laws-and-regulations/auction-regulations-uoc/inflation-protected-securities/",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/tips-from-tips-update-and-discussions-20190521.html",
+        "https://www.federalreserve.gov/data/tips-yield-curve-and-inflation-compensation.htm",
+        "https://treasurydirect.gov/research-center/timeline/tips/",
+        "https://www.newyorkfed.org/newsevents/speeches/2025/per250509",
+        "https://home.treasury.gov/news/press-releases/sb0590",
+        "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2010/R_20101025_3.pdf"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "原本金下限不是买入成本下限",
+        "2010负收益率与正票息/指数化价",
+        "2004算法与现行条款边界",
+        "30bp为模型流动性成分"
+      ],
+      "first_draft_sha256": "57c1df9eb78ecba36f931bffb593c28646590d766dec55d38eb2647a2c35389c"
+    }
+  ]
+}

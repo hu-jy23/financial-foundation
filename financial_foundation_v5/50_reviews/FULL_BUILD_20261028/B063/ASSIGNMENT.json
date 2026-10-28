@@ -1,0 +1,51 @@
+{
+  "batch": "B063",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-INTERNATIONAL-14",
+      "name": "港元联系汇率与HIBOR传导",
+      "scope": "资金流和货币发行局",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-INTERNATIONAL-14.md",
+      "node_ids": [
+        "C-FX-05",
+        "C-FX-13",
+        "C-MONEY-RESERVES",
+        "C-IR-POLICY",
+        "C-LIQ-FUND"
+      ],
+      "group": "跨境、美元与汇率机制"
+    },
+    {
+      "id": "R-RMB-INTERNATIONALIZATION",
+      "name": "人民币国际化",
+      "scope": "人民币跨境结算、融资和储备使用的联系，以及支付渠道、资本流动制度与资产供给约束。",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-RMB-INTERNATIONALIZATION.md",
+      "node_ids": [
+        "C-FX-02",
+        "C-FX-13",
+        "C-FX-14",
+        "C-GLOBAL-13",
+        "C-BOND-03"
+      ],
+      "group": "跨境、美元与汇率机制"
+    },
+    {
+      "id": "R-EQ-DIVIDEND",
+      "name": "高股息资产的债券替代效应",
+      "scope": "股息可持续性和利率",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-EQ-DIVIDEND.md",
+      "node_ids": [
+        "C-ASIA-05",
+        "C-BOND-05",
+        "C-ASIA-06"
+      ],
+      "group": "股票与公司定价机制"
+    }
+  ]
+}

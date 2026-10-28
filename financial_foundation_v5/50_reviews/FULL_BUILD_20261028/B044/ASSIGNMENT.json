@@ -1,0 +1,35 @@
+{
+  "batch": "B044",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-TECH-27",
+      "name": "Samsung Electronics",
+      "scope": "存储、逻辑代工与终端业务",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-27.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    },
+    {
+      "id": "C-TECH-28",
+      "name": "SK hynix",
+      "scope": "存储与HBM业务",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-28.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    },
+    {
+      "id": "C-TECH-29",
+      "name": "Micron",
+      "scope": "存储与HBM业务",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-29.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    }
+  ]
+}

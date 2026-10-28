@@ -1,0 +1,62 @@
+{
+  "batch": "B054",
+  "draft_author": "/root/full_b054",
+  "status": "ready_for_main_review",
+  "items": [
+    {
+      "id": "R-TGA-RESERVES",
+      "path": "20_mechanisms/R-TGA-RESERVES.md",
+      "evidence_as_of": "2026-03-26",
+      "source_urls": [
+        "https://www.federalreserve.gov/monetarypolicy/bst_frliabilities.htm",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/fluctuations-in-the-treasury-general-account-and-their-effect-on-the-feds-balance-sheet-20250806.html",
+        "https://www.federalreserve.gov/publications/files/balance_sheet_developments_report_202505.pdf",
+        "https://www.newyorkfed.org/newsevents/speeches/2026/per260326"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "账户与期限口径是否清楚；各logic时间线与预期相邻",
+        "研究系数、历史预测、条件算例不可混用",
+        "保留实际截止及逐日/逐基金/逐银行数据缺口"
+      ],
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B054/R-TGA-RESERVES_FIRST_DRAFT.md"
+    },
+    {
+      "id": "R-MONETARY-09",
+      "path": "20_mechanisms/R-MONETARY-09.md",
+      "evidence_as_of": "2025-05-22",
+      "source_urls": [
+        "https://libertystreeteconomics.newyorkfed.org/2023/11/treasury-bill-supply-and-on-rrp-investment/",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/insights-from-mmf-portfolio-allocations-amid-balance-sheet-normalization-20250303.html",
+        "https://www.financialresearch.gov/the-ofr-blog/2025/05/22/ofr-mmfm-shows-reduced-federal-reserve-on-rrp-use/"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "账户与期限口径是否清楚；各logic时间线与预期相邻",
+        "研究系数、历史预测、条件算例不可混用",
+        "保留实际截止及逐日/逐基金/逐银行数据缺口"
+      ],
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B054/R-MONETARY-09_FIRST_DRAFT.md"
+    },
+    {
+      "id": "R-MONETARY-10",
+      "path": "20_mechanisms/R-MONETARY-10.md",
+      "evidence_as_of": "2025-11-06",
+      "source_urls": [
+        "https://libertystreeteconomics.newyorkfed.org/2023/04/monetary-policy-transmission-and-the-size-of-the-money-market-fund-industry-an-update/",
+        "https://libertystreeteconomics.newyorkfed.org/2024/03/deposits-and-the-march-2023-banking-crisis-a-retrospective/",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/what-drives-the-substitution-between-bank-deposits-and-money-market-funds-20251106.html"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "账户与期限口径是否清楚；各logic时间线与预期相邻",
+        "研究系数、历史预测、条件算例不可混用",
+        "保留实际截止及逐日/逐基金/逐银行数据缺口"
+      ],
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B054/R-MONETARY-10_FIRST_DRAFT.md"
+    }
+  ]
+}

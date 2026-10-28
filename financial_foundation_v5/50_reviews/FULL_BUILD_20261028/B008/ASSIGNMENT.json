@@ -1,0 +1,35 @@
+{
+  "batch": "B008",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-CREDIT-04",
+      "name": "净息差NIM",
+      "scope": "资产收益与负债成本",
+      "kind": "concepts",
+      "path": "10_concepts/C-CREDIT-04.md",
+      "node_ids": [],
+      "group": "银行、信用与金融稳定"
+    },
+    {
+      "id": "C-CREDIT-SPREAD",
+      "name": "信用利差",
+      "scope": "无风险曲线外的补偿",
+      "kind": "concepts",
+      "path": "10_concepts/C-CREDIT-SPREAD.md",
+      "node_ids": [],
+      "group": "银行、信用与金融稳定"
+    },
+    {
+      "id": "C-CREDIT-08",
+      "name": "信用评级与迁移",
+      "scope": "评级行动和滞后",
+      "kind": "concepts",
+      "path": "10_concepts/C-CREDIT-08.md",
+      "node_ids": [],
+      "group": "银行、信用与金融稳定"
+    }
+  ]
+}

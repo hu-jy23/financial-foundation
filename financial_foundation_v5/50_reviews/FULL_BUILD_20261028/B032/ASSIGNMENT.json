@@ -1,0 +1,35 @@
+{
+  "batch": "B032",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-ASIA-06",
+      "name": "保险资金与长期资金",
+      "scope": "负债期限与配置约束",
+      "kind": "concepts",
+      "path": "10_concepts/C-ASIA-06.md",
+      "node_ids": [],
+      "group": "A股、港股与区域市场制度"
+    },
+    {
+      "id": "C-ASIA-07",
+      "name": "社保基金与政策性持有主体",
+      "scope": "公开持仓与不可见交易",
+      "kind": "concepts",
+      "path": "10_concepts/C-ASIA-07.md",
+      "node_ids": [],
+      "group": "A股、港股与区域市场制度"
+    },
+    {
+      "id": "C-ASIA-08",
+      "name": "涨跌停、T+1与停复牌",
+      "scope": "执行约束与价格发现",
+      "kind": "concepts",
+      "path": "10_concepts/C-ASIA-08.md",
+      "node_ids": [],
+      "group": "A股、港股与区域市场制度"
+    }
+  ]
+}

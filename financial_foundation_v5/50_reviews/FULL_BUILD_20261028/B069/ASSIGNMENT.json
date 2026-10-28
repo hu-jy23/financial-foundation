@@ -1,0 +1,46 @@
+{
+  "batch": "B069",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-OIL-SHOCK",
+      "name": "原油供给冲击的宏观传导",
+      "scope": "库存和需求弹性",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-OIL-SHOCK.md",
+      "node_ids": [
+        "C-COMMOD-03",
+        "C-COMMOD-13",
+        "C-INF-INFLATION"
+      ],
+      "group": "能源与商品机制"
+    },
+    {
+      "id": "R-COMMODITY-03",
+      "name": "库存与便利收益、期货曲线",
+      "scope": "交割地和可用库存",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-COMMODITY-03.md",
+      "node_ids": [
+        "C-COMMOD-03",
+        "C-COMMOD-04",
+        "C-COMMOD-06",
+        "C-COMMOD-09"
+      ],
+      "group": "能源与商品机制"
+    },
+    {
+      "id": "R-COMMODITY-08",
+      "name": "矿业投资与供给的周期反馈",
+      "scope": "建设时滞、品位和需求",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-COMMODITY-08.md",
+      "node_ids": [
+        "C-COMMOD-06"
+      ],
+      "group": "能源与商品机制"
+    }
+  ]
+}

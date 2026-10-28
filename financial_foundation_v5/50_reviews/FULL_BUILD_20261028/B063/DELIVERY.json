@@ -1,0 +1,58 @@
+[
+  {
+    "id": "R-INTERNATIONAL-14",
+    "path": "20_mechanisms/R-INTERNATIONAL-14.md",
+    "evidence_as_of": "2026-05",
+    "source_urls": [
+      "https://www.hkma.gov.hk/eng/data-publications-and-research/guide-to-monetary-banking-and-financial-terms/",
+      "https://www.info.gov.hk/gia/general/202508/13/P2025081300548p.htm",
+      "https://www.info.gov.hk/gia/general/202506/26/P2025062600339p.htm",
+      "https://www.fstb.gov.hk/fsb/en/publication/report/docs/2026_Staff%20Report.pdf",
+      "https://www.hkma.gov.hk/media/eng/doc/key-information/press-release/2025/20250219e4a1.pdf"
+    ],
+    "node_ids_refined": false,
+    "node_ids_refinement_reason": null,
+    "key_review_points": [
+      "2025-06-26预计交割余额与2026年5月事后复盘的界限",
+      "基本利率公式与2024年HIBOR反向变化",
+      "无每日利率弹性估计"
+    ]
+  },
+  {
+    "id": "R-RMB-INTERNATIONALIZATION",
+    "path": "20_mechanisms/R-RMB-INTERNATIONALIZATION.md",
+    "evidence_as_of": "2026-03-27",
+    "source_urls": [
+      "https://www.pbc.gov.cn/huobizhengceersi/214481/3871621/5885243/2025122616492523798.pdf",
+      "https://data.imf.org/en/news/october-1-2025-cofer",
+      "https://www.imf.org/-/media/files/publications/tnm/2025/english/tnmea2025014.pdf",
+      "https://data.imf.org/en/news/imf%20data%20brief%20march%2027"
+    ],
+    "node_ids_refined": false,
+    "node_ids_refinement_reason": null,
+    "key_review_points": [
+      "官方排版报告42家互换对手方，与转载43家不同",
+      "COFER旧2.12%和新1.98%为同一2025Q2版本差，不是跨期出售",
+      "支付、收付、发行、额度、余额严格区分"
+    ]
+  },
+  {
+    "id": "R-EQ-DIVIDEND",
+    "path": "20_mechanisms/R-EQ-DIVIDEND.md",
+    "evidence_as_of": "2026-03-26",
+    "source_urls": [
+      "https://pages.stern.nyu.edu/adamodar/New_Home_Page/lectures/ddm.html",
+      "https://www.chinamobileltd.com/en/ir/reports/ar2024.pdf",
+      "https://www.chinamobileltd.com/en/ir/reports/ar2025.pdf",
+      "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202501/t20250122_3954850.htm",
+      "https://www.csrc.gov.cn/csrc/c106311/c7535350/content.shtml"
+    ],
+    "node_ids_refined": false,
+    "node_ids_refinement_reason": null,
+    "key_review_points": [
+      "2025自由现金流下降45.9%而股息增长，公司口径与币种",
+      "年报建议股息与已付股息区分",
+      "新增保费30%及1000亿元为2025政策目标，非已实现红利流入"
+    ]
+  }
+]

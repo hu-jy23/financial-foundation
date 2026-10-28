@@ -1,0 +1,76 @@
+{
+  "batch": "B064",
+  "author": "/root/full_b064",
+  "status": "submitted_for_full_text_review",
+  "updated": "2026-10-28",
+  "articles": [
+    {
+      "id": "R-EQUITY-14",
+      "path": "20_mechanisms/R-EQUITY-14.md",
+      "evidence_as_of": "2024-05-03",
+      "source_urls": [
+        "https://news.microsoft.com/source/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/",
+        "https://newsroom.activisionblizzard.com/p/deadline-extended-an-update-on-the",
+        "https://blogs.microsoft.com/on-the-issues/2023/08/21/microsoft-activision-restructure-acquisition/",
+        "https://www.gov.uk/cma-cases/microsoft-slash-activision-blizzard-merger-inquiry",
+        "https://www.sec.gov/Archives/edgar/data/789019/000119312523255762/d537928d8k.htm",
+        "https://investor.exxonmobil.com/sec-filings/all-sec-filings/content/0001193125-24-003809/d558467d424b3.htm",
+        "https://corporate.exxonmobil.com/news/news-releases/2024/0503_ExxonMobil-completes-acquisition-of-Pioneer-Natural-Resources",
+        "https://www.aqr.com/insights/research/journal-article/characteristics-of-risk-and-return-in-risk-arbitrage"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B064/R-EQUITY-14_FIRST_DRAFT.md",
+      "first_draft_sha256": "30554efc0c5804666681584a2c4399288a56b711cddf8b3c4d933da73aaf8ffb",
+      "review_points": [
+        "现金模型q为风险调整权重，假设例不得作为成交概率",
+        "换股2024-01-05原文三价格和8.37美元/3.64%计算",
+        "7月延期与8月CMA重组日期，利益相关者预期不能当市场共识",
+        "AQR作者机构说明非原论文全文，未使用未读模型回报系数"
+      ]
+    },
+    {
+      "id": "R-MARKET-04",
+      "path": "20_mechanisms/R-MARKET-04.md",
+      "evidence_as_of": "2024-05-28",
+      "source_urls": [
+        "https://www.sec.gov/investment/exchange-traded-funds-small-entity-compliance-guide",
+        "https://etf.sse.com.cn/fund/learning/strategy/c/5704303.shtml",
+        "https://www.bis.org/publications/anatomy-bond-etf-arbitrage",
+        "https://www.sec.gov/Archives/edgar/data/1064642/000119312524146804/d823057d497.htm"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B064/R-MARKET-04_FIRST_DRAFT.md",
+      "first_draft_sha256": "cd38110e5a917f0044e18d8ff34795bb10eafcd200d72dfa268ad2c9623fd3b4",
+      "review_points": [
+        "美国AP与中国申赎渠道不能混同；篮子/现金差额避免双计",
+        "成本算例均假设；PCF和盘口未取",
+        "BIS篮子不足3%不是兑付比例；融资和价格发现保留竞争解释",
+        "2024T+1仅SPDR所涉系列，一般安排及跨境例外"
+      ]
+    },
+    {
+      "id": "R-MARKET-05",
+      "path": "20_mechanisms/R-MARKET-05.md",
+      "evidence_as_of": "2026-10-28",
+      "source_urls": [
+        "https://press.spglobal.com/2024-11-01-NVIDIA-and-Sherwin-Williams-Set-to-Join-Dow-Jones-Industrial-Average-Vistra-to-Join-Dow-Jones-Utility-Average",
+        "https://www.lseg.com/en/media-centre/press-releases/ftse-russell/2025/russell-us-indexes-move-to-semi-annual-reconstitution",
+        "https://www.lseg.com/content/dam/ftse-russell/en_us/documents/announcement/russell-us-indexes-move-to-semi-annual-reconstitution.pdf",
+        "https://www.lseg.com/en/ftse-russell/russell-reconstitution",
+        "https://www.spglobal.com/spdji/en/documents/research/research-what-happened-to-the-index-effect.pdf"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B064/R-MARKET-05_FIRST_DRAFT.md",
+      "first_draft_sha256": "86fd730cd222a9093a905e7ce53d287a9e4d0171b4b1973ad6c441473c230982",
+      "review_points": [
+        "S&P历史样本576加入223删除，删除覆盖31%，中位数与公告至实施收盘窗口",
+        "Russell原2025年1月11月计划已被12月17日文件改为12月",
+        "动态日历截至2026-10-28，12月未来事件非已发生",
+        "交易所收盘成交不是被动净流入，AUM基准与被动口径区别"
+      ]
+    }
+  ]
+}

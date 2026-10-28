@@ -1,0 +1,47 @@
+{
+  "batch": "B052",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-MEAS-BEI",
+      "name": "通胀补偿的定价分解",
+      "scope": "溢价和流动性成分",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-MEAS-BEI.md",
+      "node_ids": [
+        "C-IR-TIPS",
+        "C-LIQ-MARKET"
+      ],
+      "group": "测量、恒等式与预期"
+    },
+    {
+      "id": "R-POL-CURVE",
+      "name": "货币政策冲击的期限结构传导",
+      "scope": "目标利率、路径、资产购买分别识别",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-POL-CURVE.md",
+      "node_ids": [
+        "C-IR-POLICY",
+        "C-POL-QE",
+        "C-IR-CURVE",
+        "C-IR-TERM"
+      ],
+      "group": "货币政策与利率传导"
+    },
+    {
+      "id": "R-POL-INFORMATION",
+      "name": "央行公告的政策效应与信息效应",
+      "scope": "增长信息和政策动作共同出现",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-POL-INFORMATION.md",
+      "node_ids": [
+        "C-GLOBAL-01",
+        "C-IR-POLICY",
+        "C-IR-CURVE"
+      ],
+      "group": "货币政策与利率传导"
+    }
+  ]
+}

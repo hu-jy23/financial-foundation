@@ -1,0 +1,26 @@
+{
+  "batch": "B051",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-CRYPTO-08",
+      "name": "代币化国债与现实资产RWA",
+      "scope": "法律权利、托管和流动性",
+      "kind": "concepts",
+      "path": "10_concepts/C-CRYPTO-08.md",
+      "node_ids": [],
+      "group": "数字资产与新型金融"
+    },
+    {
+      "id": "C-CRYPTO-09",
+      "name": "比特币挖矿、区块奖励与矿工",
+      "scope": "工作量证明、难度、区块补贴、手续费与算力成本",
+      "kind": "concepts",
+      "path": "10_concepts/C-CRYPTO-09.md",
+      "node_ids": [],
+      "group": "数字资产与新型金融"
+    }
+  ]
+}

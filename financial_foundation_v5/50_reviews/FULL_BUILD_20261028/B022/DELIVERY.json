@@ -1,0 +1,89 @@
+{
+  "batch": "B022",
+  "author": "/root/full_b022",
+  "updated": "2026-10-28",
+  "files": [
+    {
+      "id": "C-COMMOD-04",
+      "path": "10_concepts/C-COMMOD-04.md",
+      "evidence_as_of": "2026-07-07",
+      "source_urls": [
+        "https://www.eia.gov/energyexplained/natural-gas/liquefied-natural-gas.php",
+        "https://www.eia.gov/energyexplained/natural-gas/",
+        "https://www.eia.gov/energyexplained/natural-gas/factors-affecting-natural-gas-prices.php",
+        "https://www.eia.gov/energyexplained/natural-gas/delivery-and-storage.php",
+        "https://www.ice.com/products/27996665/Dutch-TTF-Gas-Futures/",
+        "https://www.cmegroup.com/markets/energy/natural-gas/natural-gas.timeAndSales.html?gad=1",
+        "https://www.spglobal.com/energy/en/pricing-benchmarks/assessments/lng/jkm-japan-korea-marker-gas-price-explained",
+        "https://www.eia.gov/naturalgas/storage/basics/",
+        "https://www.iea.org/reports/gas-market-report-q1-2026/executive-summary",
+        "https://www.iea.org/reports/gas-market-report-q3-2026/executive-summary"
+      ],
+      "key_review_points": [
+        "气价单位与目的地净回值假设",
+        "2026Q1预测与Q3更新分开",
+        "7月以后恢复未核"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B022/C-COMMOD-04_FIRST_DRAFT.md",
+      "first_draft_sha256": "c5aa8eedbee6b80a9a5913d39b678a6b5582d1ada65233b72afa365af5788df0",
+      "status": "draft"
+    },
+    {
+      "id": "C-COMMOD-05",
+      "path": "10_concepts/C-COMMOD-05.md",
+      "evidence_as_of": "2026-09-10",
+      "source_urls": [
+        "https://www.eia.gov/energyexplained/coal/",
+        "https://worldsteel.org/about-steel/raw-materials/",
+        "https://worldsteel.org/about-steel/energy-use-in-the-steel-industry/",
+        "https://www.eia.gov/coal/markets/",
+        "https://www.iea.org/reports/global-energy-review-2025/coal",
+        "https://www.iea.org/reports/coal-2025/executive-summary",
+        "https://www.iea.org/reports/coal-mid-year-update-2026/demand",
+        "https://www.iea.org/reports/coal-mid-year-update-2026",
+        "https://www.iea.org/reports/coal-mid-year-update-2026/prices"
+      ],
+      "key_review_points": [
+        "冶金煤不等于焦煤",
+        "780kg为粗钢路线平均冶金煤投入",
+        "2025修订与2026—2027预测口径"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B022/C-COMMOD-05_FIRST_DRAFT.md",
+      "first_draft_sha256": "f6dfcf34fbd9104f38dea4939c88fab34833f8f7f13bbf267383e3d7515efd36",
+      "status": "draft"
+    },
+    {
+      "id": "C-COMMOD-06",
+      "path": "10_concepts/C-COMMOD-06.md",
+      "evidence_as_of": "2026-10-14",
+      "source_urls": [
+        "https://www.gov.uk/government/publications/copper-properties-and-incident-management/copper-general-information--2",
+        "https://internationalcopper.org/sustainable-copper/about-copper/copper-life-cycle/",
+        "https://help.copper.fyi/hc/en-us/articles/4410220711826-How-is-copper-produced",
+        "https://www.lme.com/metals/non-ferrous/lme-copper/contract-specifications",
+        "https://www.lme.com/market-data/reports-and-data/warehouse-and-stocks-reports",
+        "https://www.iea.org/commentaries/copper-prices-have-hit-record-highs-but-smelters-face-mounting-strategic-pressures",
+        "https://icsg.org/download/2026-10-14-press-release-icsg-copper-market-forecast-2026-2027/",
+        "https://www.iea.org/reports/global-critical-minerals-outlook-2025/overview-of-outlook-for-key-minerals",
+        "https://www.iea.org/reports/global-critical-minerals-outlook-2026/executive-summary",
+        "https://www.iea.org/reports/global-critical-minerals-outlook-2026"
+      ],
+      "key_review_points": [
+        "ICSG adjusted而非TOTAL",
+        "103千吨显示差与原表104保留",
+        "长期项目缺口不同于短期精炼剩余"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B022/C-COMMOD-06_FIRST_DRAFT.md",
+      "first_draft_sha256": "c09862c8f77f705f37ce6335d5820b6d2cf88024cfe845541d9421df2f2d24e9",
+      "status": "draft"
+    }
+  ],
+  "notes_path": "50_reviews/FULL_BUILD_20261028/B022/NOTES.md",
+  "review_status": "awaiting_main_full_text_review"
+}

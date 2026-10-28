@@ -1,0 +1,162 @@
+{
+  "batch": "B052",
+  "author": "/root/full_b052",
+  "date": "2026-10-28",
+  "git_committed": false,
+  "documents": [
+    {
+      "id": "R-MEAS-BEI",
+      "path": "/workspace/scratch/d173ad0a8827/financial-foundation/financial_foundation_v5/20_mechanisms/R-MEAS-BEI.md",
+      "evidence_as_of": "2026-03-31",
+      "source_urls": [
+        "https://www.federalreserve.gov/econres/notes/feds-notes/tips-from-tips-update-and-discussions-20190521.html",
+        "https://www.frbsf.org/research-and-insights/publications/economic-letter/2016/11/tips-liquidity-and-the-outlook-for-inflation/",
+        "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/03/fed-communications-and-inflation-expectations/"
+      ],
+      "node_ids": [
+        "C-IR-TIPS",
+        "C-LIQ-MARKET"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-IR-TIPS"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-IR-TIPS",
+            "C-LIQ-MARKET"
+          ],
+          "related_mechanism_ids": []
+        }
+      ],
+      "review_status": "awaiting_main_full_read",
+      "first_draft_path": "/workspace/scratch/d173ad0a8827/financial-foundation/financial_foundation_v5/50_reviews/FULL_BUILD_20261028/B052/R-MEAS-BEI_FIRST_DRAFT.md",
+      "first_draft_sha256": "360547509f0a649ad355312d8741bd75e2709118c3bef75b9e4995ff9bbebe29",
+      "key_review_points": [
+        "IRP可以正负，LP在公式中为负号；LP是相对价格楔子",
+        "75bp为全样本模型差异，不能固定修正实时BEI",
+        "2026研究价格至3月13，未下载最新DKW分解"
+      ]
+    },
+    {
+      "id": "R-POL-CURVE",
+      "path": "/workspace/scratch/d173ad0a8827/financial-foundation/financial_foundation_v5/20_mechanisms/R-POL-CURVE.md",
+      "evidence_as_of": "2026-03-31",
+      "source_urls": [
+        "https://www.federalreserve.gov/pubs/feds/2004/200466/200466pap.pdf",
+        "https://sites.socsci.uci.edu/~swanson2/papers/facts3.pdf",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20090318a.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240918a.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250319a.htm",
+        "https://www.frbsf.org/research-and-insights/publications/economic-letter/2026/03/fed-communications-and-inflation-expectations/"
+      ],
+      "node_ids": [
+        "C-IR-POLICY",
+        "C-POL-QE",
+        "C-IR-CURVE",
+        "C-IR-TERM"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-IR-POLICY",
+            "C-IR-CURVE"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-IR-POLICY",
+            "C-IR-CURVE",
+            "C-IR-TERM"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-POL-QE",
+            "C-IR-CURVE",
+            "C-IR-TERM"
+          ],
+          "related_mechanism_ids": []
+        }
+      ],
+      "review_status": "awaiting_main_full_read",
+      "first_draft_path": "/workspace/scratch/d173ad0a8827/financial-foundation/financial_foundation_v5/50_reviews/FULL_BUILD_20261028/B052/R-POL-CURVE_FIRST_DRAFT.md",
+      "first_draft_sha256": "20c5e78fe6b43f69748cd0f9e8d6eda30025bcd6c027996731c9436c53271da9",
+      "key_review_points": [
+        "目标/路径/购买是工具维度，并不等于纯政策/信息来源分类",
+        "94%为统计解释度而非政策因果占比",
+        "未取得2024/2025公告前高频截面，不把政策动作当意外"
+      ]
+    },
+    {
+      "id": "R-POL-INFORMATION",
+      "path": "/workspace/scratch/d173ad0a8827/financial-foundation/financial_foundation_v5/20_mechanisms/R-POL-INFORMATION.md",
+      "evidence_as_of": "2026-07-08",
+      "source_urls": [
+        "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp2133.en.pdf",
+        "https://www.frbsf.org/wp-content/uploads/wp2020-06.pdf",
+        "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20250319.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250319a.htm",
+        "https://peterkaradi.github.io/website/WorkInProgress/JarocinskiKaradiMPFRNCBI.pdf"
+      ],
+      "node_ids": [
+        "C-GLOBAL-01",
+        "C-IR-POLICY",
+        "C-IR-CURVE"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-GLOBAL-01",
+            "C-IR-POLICY",
+            "C-IR-CURVE"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-GLOBAL-01",
+            "C-IR-POLICY",
+            "C-IR-CURVE"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-GLOBAL-01",
+            "C-IR-POLICY",
+            "C-IR-CURVE"
+          ],
+          "related_mechanism_ids": []
+        }
+      ],
+      "review_status": "awaiting_main_full_read",
+      "first_draft_path": "/workspace/scratch/d173ad0a8827/financial-foundation/financial_foundation_v5/50_reviews/FULL_BUILD_20261028/B052/R-POL-INFORMATION_FIRST_DRAFT.md",
+      "first_draft_sha256": "5fce4a8c8a85ac7cc9a3039e70317180cc6198588e45f0db8f87407a90ea6ff8",
+      "key_review_points": [
+        "2018/2021/2026竞争观点保留作者与识别条件",
+        "SEP修订相对上期不等于相对会前市场预期",
+        "实际采用2026-07-08作者版，10月ECB PDF失败且未采用"
+      ]
+    }
+  ]
+}

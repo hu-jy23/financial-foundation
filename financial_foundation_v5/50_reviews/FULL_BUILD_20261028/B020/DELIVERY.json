@@ -1,0 +1,79 @@
+{
+  "batch": "B020",
+  "author": "/root/full_b020",
+  "status": "ready_for_main_review",
+  "updated": "2026-10-28",
+  "items": [
+    {
+      "id": "C-FLOW-09",
+      "path": "10_concepts/C-FLOW-09.md",
+      "evidence_as_of": "2026-09-09",
+      "source_urls": [
+        "https://www.csrc.gov.cn/csrc/c106256/c1654005/content.shtml",
+        "https://www.csrc.gov.cn/shanghai/c105564/c1270088/content.shtml",
+        "https://www.csrc.gov.cn/csrc/c100028/c7493852/content.shtml",
+        "https://www.sse.com.cn/lawandrules/sselawsrules2025/trade/specific/margin/c/c_20260114_10805174.shtml",
+        "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-51",
+        "https://www.interactivebrokers.com/en/pricing/short-sale-cost.php",
+        "https://www.interactivebrokers.co.uk/Universal/Application?action=formSampleView&formdb=1005&preferredFormat=html",
+        "https://www.federalreserve.gov/frrs/regulations/section-22012-supplement-margin-requirements.htm"
+      ],
+      "key_review_points": [
+        "中国保证金100%分母与资产杠杆/股票敞口区别",
+        "2024政策统计比较基准仅为公告阶段口径",
+        "2026新老融资合约不同处理",
+        "借券成本恒定基数及360计日是假设"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B020/C-FLOW-09_FIRST_DRAFT.md",
+      "sha256": "524e01fd7f4f5441269bf315732ebda4b8716037f3e2fcd2a5bfaedcee3b04b7"
+    },
+    {
+      "id": "C-FLOW-10",
+      "path": "10_concepts/C-FLOW-10.md",
+      "evidence_as_of": "2025-06-13",
+      "source_urls": [
+        "https://www.csrc.gov.cn/csrc/c101954/c7480579/content.shtml",
+        "https://www.sse.com.cn/home/component/news/c/c_20240515_10756054.shtml",
+        "https://www.sec.gov/files/algo_trading_report_2020.pdf",
+        "https://math.nyu.edu/inmemoriam/avellaneda/HighFrequencyTrading.pdf",
+        "https://www.sec.gov/newsroom/press-releases/2013-222",
+        "https://star.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20250403_10776805.shtml",
+        "https://www.csrc.gov.cn/csrc/c100028/c7564353/content.shtml"
+      ],
+      "key_review_points": [
+        "保留价格为冻结库存模型而非直接成交价",
+        "高频门槛为报撤笔数且不跨证券/期货移用",
+        "Knight事件2012与调查2013分开",
+        "2025公告中的后续生效日不是已核效果"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B020/C-FLOW-10_FIRST_DRAFT.md",
+      "sha256": "8001e196c911da2cf07fb3ae418fd524ee1465afb0f94a1b6a5d9188254d057c"
+    },
+    {
+      "id": "C-FLOW-11",
+      "path": "10_concepts/C-FLOW-11.md",
+      "evidence_as_of": "2025-06-17",
+      "source_urls": [
+        "https://www.nfa.futures.org/members/cta/index.html",
+        "https://w4.stern.nyu.edu/facdir/lpederse/papers/TimeSeriesMomentum.pdf",
+        "https://www.man.com/insights/trend-following-weathering-aprils-market-showers",
+        "https://www.man.com/insights/is-this-time-different",
+        "https://www.csrc.gov.cn/csrc/c100028/c7564353/content.shtml"
+      ],
+      "key_review_points": [
+        "CTA监管身份不等于趋势策略",
+        "1985-2009主样本与发表时间区分",
+        "SG Trend滚动12个月-18.6%不是年内或最大回撤",
+        "风险缩放算例及保证金占用不是损失"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B020/C-FLOW-11_FIRST_DRAFT.md",
+      "sha256": "3af162dd7a4c4fe37f7823c4b9197588249940190d6e94f2899e933d9e856e2a"
+    }
+  ]
+}

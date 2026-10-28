@@ -1,0 +1,45 @@
+{
+  "batch": "B055",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-IR-CURVE-SHAPE",
+      "name": "收益率曲线陡峭化与平坦化",
+      "scope": "短端政策路径、长端预期与期限溢价怎样改变曲线斜率；区分不同期限和牛熊变化。",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-IR-CURVE-SHAPE.md",
+      "node_ids": [
+        "C-IR-CURVE",
+        "C-IR-POLICY",
+        "C-IR-TERM",
+        "C-ASSET-UST"
+      ],
+      "group": "货币政策与利率传导"
+    },
+    {
+      "id": "R-GROWTH-04",
+      "name": "工资—价格反馈",
+      "scope": "议价制度与预期锚定",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-GROWTH-04.md",
+      "node_ids": [
+        "C-INF-INFLATION",
+        "C-POL-CREDIBILITY"
+      ],
+      "group": "增长、就业与通胀机制"
+    },
+    {
+      "id": "R-FISCAL-DEBTDYN",
+      "name": "政府债务动态",
+      "scope": "口径一致的债务可持续性",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-FISCAL-DEBTDYN.md",
+      "node_ids": [
+        "C-FISCAL-DEFICIT"
+      ],
+      "group": "财政与债务机制"
+    }
+  ]
+}

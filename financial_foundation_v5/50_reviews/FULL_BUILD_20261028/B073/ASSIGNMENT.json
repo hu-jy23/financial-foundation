@@ -1,0 +1,43 @@
+{
+  "batch": "B073",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-TECH-12",
+      "name": "平台网络效应",
+      "scope": "切换成本、开放生态与监管",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-TECH-12.md",
+      "node_ids": [
+        "C-TECH-03"
+      ],
+      "group": "科技与AI产业机制"
+    },
+    {
+      "id": "R-GEOPOLITICS-02",
+      "name": "关税的跨境成本分担",
+      "scope": "成本分担、替代和报复",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-GEOPOLITICS-02.md",
+      "node_ids": [
+        "C-INF-INFLATION",
+        "C-FX-USD",
+        "C-FX-02"
+      ],
+      "group": "政治、制度与长期变化"
+    },
+    {
+      "id": "R-GEOPOLITICS-07",
+      "name": "养老金资产配置的人口结构约束",
+      "scope": "缴费、支付和负债期限",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-GEOPOLITICS-07.md",
+      "node_ids": [
+        "C-SECTOR-13"
+      ],
+      "group": "政治、制度与长期变化"
+    }
+  ]
+}

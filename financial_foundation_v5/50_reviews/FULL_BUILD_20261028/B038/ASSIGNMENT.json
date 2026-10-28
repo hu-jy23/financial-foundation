@@ -1,0 +1,35 @@
+{
+  "batch": "B038",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-TECH-04",
+      "name": "数据中心",
+      "scope": "建设、机架、选址与资源约束",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-04.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    },
+    {
+      "id": "C-TECH-05",
+      "name": "电力、电网与发电容量",
+      "scope": "能源、电力、接入的不同瓶颈",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-05.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    },
+    {
+      "id": "C-TECH-06",
+      "name": "HBM与存储芯片",
+      "scope": "带宽、产能和产品周期",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-06.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    }
+  ]
+}

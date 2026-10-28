@@ -1,0 +1,35 @@
+{
+  "batch": "B003",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-RATE-08",
+      "name": "联邦基金期货",
+      "scope": "合约结算与政策预期代理",
+      "kind": "concepts",
+      "path": "10_concepts/C-RATE-08.md",
+      "node_ids": [],
+      "group": "利率与收益率曲线"
+    },
+    {
+      "id": "C-IR-CURVE",
+      "name": "收益率曲线",
+      "scope": "期限、券种与拟合",
+      "kind": "concepts",
+      "path": "10_concepts/C-IR-CURVE.md",
+      "node_ids": [],
+      "group": "利率与收益率曲线"
+    },
+    {
+      "id": "C-MONEY-RESERVES",
+      "name": "银行准备金",
+      "scope": "央行账户余额与可用性",
+      "kind": "concepts",
+      "path": "10_concepts/C-MONEY-RESERVES.md",
+      "node_ids": [],
+      "group": "货币、央行与流动性"
+    }
+  ]
+}

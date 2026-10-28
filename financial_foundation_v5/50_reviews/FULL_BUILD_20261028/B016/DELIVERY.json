@@ -1,0 +1,74 @@
+{
+  "batch": "B016",
+  "author": "/root/full_b016",
+  "status": "submitted_for_main_review",
+  "updated": "2026-10-28",
+  "nodes": [
+    {
+      "id": "C-BOND-06",
+      "path": "10_concepts/C-BOND-06.md",
+      "evidence_as_of": "2025-04-25",
+      "source_urls": [
+        "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/what-are-0",
+        "https://www.investor.gov/introduction-investing/investing-basics/glossary/high-yield-bond-or-junk-bond",
+        "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated-8",
+        "https://www.federalreserve.gov/publications/April-2025-financial-stability-report-Asset-Valuations.htm",
+        "https://www.federalreserve.gov/publications/2025-financial-stability-report-accessibility-tables.htm",
+        "https://www.federalreserve.gov/publications/April-2025-financial-stability-report-Overview.htm",
+        "https://www.federalreserve.gov/publications/April-2025-financial-stability-report-Borrowing-by-Businesses-and-Households.htm"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B016/C-BOND-06_FIRST_DRAFT.md",
+      "sha256": "57ea1fe9baf7c474580dbbd3bfd173485ef7eae0a97fa656ac622e74154e2c0d",
+      "review_points": [
+        "OAS图注近似数而非精确日频",
+        "27%为未来1—3年到期比例非违约概率",
+        "未取得2025-04后违约与回收实现"
+      ]
+    },
+    {
+      "id": "C-BOND-07",
+      "path": "10_concepts/C-BOND-07.md",
+      "evidence_as_of": "2025-12-01",
+      "source_urls": [
+        "https://capitalmarkets.fanniemae.com/syndicated/documents/mbs/mbspros/SF_December_1_2025.pdf",
+        "https://www.sec.gov/reports/staff-report-enhancing-disclosure-mortgage-backed-securities-markets",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/the-evolution-of-the-federal-reserves-agency-mbs-holdings-20240920.html",
+        "https://www.fhfa.gov/sites/default/files/2023-05/Investment_Portfolio_Management_Module_Final_Version_1_0-508.pdf"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B016/C-BOND-07_FIRST_DRAFT.md",
+      "sha256": "cb0f11eefeb376c25f96b6c3522c4139d8e2af618aa75471b8142212f9d51355",
+      "review_points": [
+        "2025合同与2024组合预测证据分开",
+        "负凸性限普通固定利率池且状态依赖",
+        "2024预测无后来结果验证"
+      ]
+    },
+    {
+      "id": "C-BOND-08",
+      "path": "10_concepts/C-BOND-08.md",
+      "evidence_as_of": "2025-03-26",
+      "source_urls": [
+        "https://www.treasurydirect.gov/marketable-securities/floating-rate-notes/",
+        "https://www.treasurydirect.gov/files/laws-and-regulations/auction-regulations-uoc/frn-term-sheet.pdf",
+        "https://www.treasurydirect.gov/laws-and-regulations/auction-regulations-uoc/frn-faq/",
+        "https://www.newyorkfed.org/medialibrary/Microsites/arrc/files/2020/ARRC_Embedded_Derivative_Appendix.pdf",
+        "https://treasurydirect.gov/research-center/history-of-marketable-securities/frns/",
+        "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2025/R_20250128_1.pdf",
+        "https://www.treasurydirect.gov/instit/annceresult/press/preanre/2025/R_20250326_1.pdf"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B016/C-BOND-08_FIRST_DRAFT.md",
+      "sha256": "7c276e8e20008700f935977ce31709429e8a591b7ad9564465bb4160c2f648c9",
+      "review_points": [
+        "daily accrual/weekly index/quarterly payment区别",
+        "high rate须转换index口径",
+        "同CUSIP spread不变DM与净价变化"
+      ]
+    }
+  ]
+}

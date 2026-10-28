@@ -1,0 +1,68 @@
+{
+  "batch": "B028",
+  "author": "/root/full_b028",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "items": [
+    {
+      "id": "C-CHINA-11",
+      "path": "10_concepts/C-CHINA-11.md",
+      "evidence_as_of": "2026-10-23",
+      "source_urls": [
+        "https://www.mof.gov.cn/gp/xxgkml/zhs/200806/t20080624_2496624.htm",
+        "https://www.imf.org/-/media/files/publications/cr/2024/english/1chnea2024002.pdf",
+        "https://yss.mof.gov.cn/2025zyjs/202609/t20260916_3997521.htm",
+        "https://gks.mof.gov.cn/tongjishuju/202610/t20261023_4003380.htm"
+      ],
+      "key_review_points": [
+        "土地三科目合计与78.85%分母",
+        "总收入/净资源及累计收支差边界"
+      ],
+      "node_ids_refined": false,
+      "refinement_reason": null,
+      "status": "draft",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B028/C-CHINA-11_FIRST_DRAFT.md"
+    },
+    {
+      "id": "C-CHINA-12",
+      "path": "10_concepts/C-CHINA-12.md",
+      "evidence_as_of": "2026-03-16",
+      "source_urls": [
+        "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/201410/t20141008_1146374.htm",
+        "https://www.imf.org/-/media/files/publications/cr/2024/english/1chnea2024002.pdf",
+        "https://www.hunan.gov.cn/zqt/zcsd/202512/33882931/files/76c0d5a1ce034e688a6f24e679fce0bf.pdf",
+        "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202603/t20260316_3985331.htm"
+      ],
+      "key_review_points": [
+        "2024末人行数量而非2025或2026",
+        "平台退出及经营性金融债务不同于全部隐性债务"
+      ],
+      "node_ids_refined": false,
+      "refinement_reason": null,
+      "status": "draft",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B028/C-CHINA-12_FIRST_DRAFT.md"
+    },
+    {
+      "id": "C-CHINA-13",
+      "path": "10_concepts/C-CHINA-13.md",
+      "evidence_as_of": "2026-10-23",
+      "source_urls": [
+        "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/201410/t20141008_1146374.htm",
+        "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202411/t20241109_3947230.htm",
+        "https://www.imf.org/-/media/files/publications/cr/2024/english/1chnea2024002.pdf",
+        "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202507/t20250725_3968586.htm",
+        "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202603/t20260316_3985331.htm",
+        "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202610/t20261023_4003429.htm"
+      ],
+      "key_review_points": [
+        "6+4+2并非本金减免",
+        "98.3%仅发行进度",
+        "6000亿元预期与2.5个百分点事后成本降幅"
+      ],
+      "node_ids_refined": false,
+      "refinement_reason": null,
+      "status": "draft",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B028/C-CHINA-13_FIRST_DRAFT.md"
+    }
+  ]
+}

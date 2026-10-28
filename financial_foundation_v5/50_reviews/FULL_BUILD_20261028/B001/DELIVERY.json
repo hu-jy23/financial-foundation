@@ -1,0 +1,76 @@
+{
+  "batch": "B001",
+  "author": "/root/full_b001",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "created": "2026-10-28",
+  "status": "submitted_for_review",
+  "items": [
+    {
+      "id": "C-POL-CREDIBILITY",
+      "path": "10_concepts/C-POL-CREDIBILITY.md",
+      "evidence_as_of": "2025-08-22",
+      "source_urls": [
+        "https://www.federalreserve.gov/newsevents/speech/kugler20250402a.htm",
+        "https://www.chicagofed.org/publications/chicago-fed-letter/2024/502",
+        "https://www.federalreserve.gov/monetarypolicy/files/FOMC_LongerRunGoals_202508.pdf",
+        "https://www.federalreserve.gov/newsevents/speech/powell20250822a.htm",
+        "https://www.federalreserve.gov/newsevents/speech/powell20240823a.htm"
+      ],
+      "key_review_points": [
+        "2025声明取消补偿策略与继续2%目标须区分；市场接受效果未识别",
+        "2024家庭与SPF的期限、篮子和中位数/分布区别",
+        "研究式beta不是可信度评分"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B001/C-POL-CREDIBILITY_FIRST_DRAFT.md",
+      "first_draft_sha256": "ba471ecae44b525cf07278b63c64626839650940b2a88bc7d093360abcf83b9d"
+    },
+    {
+      "id": "C-EXPECT-15",
+      "path": "10_concepts/C-EXPECT-15.md",
+      "evidence_as_of": "2025-04-11",
+      "source_urls": [
+        "https://faculty.haas.berkeley.edu/odean/Papers%20current%20versions/AllThatGlitters_RFS_2008.pdf",
+        "https://www.sec.gov/files/staff-report-equity-options-market-struction-conditions-early-2021.pdf",
+        "https://www.sec.gov/newsroom/press-releases/2021-212",
+        "https://www.fca.org.uk/publication/research-notes/research-note-digital-engagement-practices-trading-apps-experiment.pdf",
+        "https://www.fca.org.uk/publications/multi-firm-reviews/trading-apps-high-level-observations"
+      ],
+      "key_review_points": [
+        "经典券商买卖不平衡为笔数比例，不是注意力人数或收益",
+        "FCA 11%/12%是模拟实验交易次数变化；最终收益无显著处理效应",
+        "2025实地审查较温和结论与2024实验并列"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B001/C-EXPECT-15_FIRST_DRAFT.md",
+      "first_draft_sha256": "3499c615fb4d966da32b68815e2fa2f1cb81d086cd5cbe5b11f8cc77590c70e6"
+    },
+    {
+      "id": "C-INF-INFLATION",
+      "path": "10_concepts/C-INF-INFLATION.md",
+      "evidence_as_of": "2025-08-22",
+      "source_urls": [
+        "https://www.federalreserve.gov/faqs/economy_14419.htm",
+        "https://www.bls.gov/opub/hom/cpi/concepts.htm",
+        "https://www.bls.gov/cpi/questions-and-answers.htm",
+        "https://www.bea.gov/help/faq/555",
+        "https://www.bls.gov/news.release/archives/cpi_07132022.htm",
+        "https://www.brookings.edu/wp-content/uploads/2023/04/bernanke-blanchard-conference-draft_5.23.23.pdf",
+        "https://www.bis.org/publications/paper-133-two-regime-view-inflation.pdf",
+        "https://www.bls.gov/opub/ted/2025/the-consumer-price-index-rose-3-0-percent-from-january-2024-to-january-2025.htm"
+      ],
+      "key_review_points": [
+        "2023图14为八季度条件模拟，非无条件预测；未作实际回测",
+        "通胀数据状态截至2025年1月，定义截止2025-08-22",
+        "BIS主成分60%/20—30%为方差解释比例，不是因果贡献"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B001/C-INF-INFLATION_FIRST_DRAFT.md",
+      "first_draft_sha256": "05b80fa36361035a353dea5fd68c5491fd0a8eb31eba352a8e9a951c2f32a747"
+    }
+  ]
+}

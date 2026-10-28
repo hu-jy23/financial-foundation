@@ -1,0 +1,81 @@
+{
+  "batch": "B005",
+  "author": "/root/full_b005",
+  "status": "ready_for_main_review",
+  "documents": [
+    {
+      "id": "C-MONEY-12",
+      "path": "10_concepts/C-MONEY-12.md",
+      "evidence_as_of": "2026-04-13",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B005/C-MONEY-12_FIRST_DRAFT.md",
+      "sha256": "14bd5b6b5777b1701a9c4d0750de260213c9cc90b4bc6a502b34461242c07bf3",
+      "source_urls": [
+        "https://www.federalreserve.gov/monetarypolicy/bst_liquidityswaps.htm",
+        "https://www.federalreserve.gov/monetarypolicy/bst_swapfaqs.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200315c.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20200319b.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230319a.htm",
+        "https://www.ecb.europa.eu/press/pr/date/2023/html/ecb.pr230425~9c1b9fc185.de.html",
+        "https://www.newyorkfed.org/markets/opolicy/operating_policy_260413",
+        "https://www.newyorkfed.org/medialibrary/media/markets/omo/omo2025-pdf.pdf",
+        "https://www.federalreserve.gov/aboutthefed/files/newyorkfinstmt2025.pdf"
+      ],
+      "key_review_points": [
+        "央行与本地贷款两层风险",
+        "额度与使用量",
+        "体系与纽约联储分配份额"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null
+    },
+    {
+      "id": "C-MONEY-14",
+      "path": "10_concepts/C-MONEY-14.md",
+      "evidence_as_of": "2026-09-16",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B005/C-MONEY-14_FIRST_DRAFT.md",
+      "sha256": "48d8b4d7e382c6a84a92ea7838c25855b0345b4a821611280fc5c7a2ca5feb9c",
+      "source_urls": [
+        "https://www.newyorkfed.org/markets/rrp_faq",
+        "https://www.federalreserve.gov/monetarypolicy/overnight-reverse-repurchase-agreements.htm",
+        "https://www.newyorkfed.org/medialibrary/media/markets/omo/omo2024-pdf.pdf",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20241218a1.htm",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/fluctuations-in-the-treasury-general-account-and-their-effect-on-the-feds-balance-sheet-20250806.html",
+        "https://www.newyorkfed.org/markets/opolicy/operating_policy_260413",
+        "https://www.newyorkfed.org/medialibrary/media/markets/omo/omo2025-pdf.pdf",
+        "https://www.newyorkfed.org/markets/opolicy/operating_policy_130920.html",
+        "https://www.newyorkfed.org/markets/opolicy/operating_policy_151216"
+      ],
+      "key_review_points": [
+        "ONRRP负债替代账务",
+        "2026不同FAQ快照",
+        "月均与年末余额/FIMA分别统计"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null
+    },
+    {
+      "id": "C-LIQ-MARKET",
+      "path": "10_concepts/C-LIQ-MARKET.md",
+      "evidence_as_of": "2026-04-02",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B005/C-LIQ-MARKET_FIRST_DRAFT.md",
+      "sha256": "7e80a1d7fcf28e04d32aa83415a0450d7c4910742602576dfa49de714bb09656",
+      "source_urls": [
+        "https://www.newyorkfed.org/medialibrary/media/research/epr/03v09n3/0309flempdf.pdf",
+        "https://libertystreeteconomics.newyorkfed.org/2024/02/measuring-treasury-market-depth/",
+        "https://libertystreeteconomics.newyorkfed.org/2024/09/has-treasury-market-liquidity-improved-in-2024/",
+        "https://markus.scholar.princeton.edu/document/98",
+        "https://www.newyorkfed.org/newsevents/speeches/2025/per250509",
+        "https://libertystreeteconomics.newyorkfed.org/2026/04/treasury-market-liquidity-since-april-2025/"
+      ],
+      "key_review_points": [
+        "价差/深度/冲击的单位",
+        "图注与alt日期差异",
+        "当时判断与后来恢复"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null
+    }
+  ],
+  "scope_changes": false,
+  "known_gaps": "见NOTES.md及每篇正文具体缺口；未取得2026每日工具余额和BrokerTec底层数据。"
+}

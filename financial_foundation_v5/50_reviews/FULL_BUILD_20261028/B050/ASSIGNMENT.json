@@ -1,0 +1,35 @@
+{
+  "batch": "B050",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-CRYPTO-04",
+      "name": "数字资产交易所与托管",
+      "scope": "交易对手及操作风险",
+      "kind": "concepts",
+      "path": "10_concepts/C-CRYPTO-04.md",
+      "node_ids": [],
+      "group": "数字资产与新型金融"
+    },
+    {
+      "id": "C-CRYPTO-05",
+      "name": "加密资产杠杆与永续合约",
+      "scope": "资金费率、清算和基差",
+      "kind": "concepts",
+      "path": "10_concepts/C-CRYPTO-05.md",
+      "node_ids": [],
+      "group": "数字资产与新型金融"
+    },
+    {
+      "id": "C-CRYPTO-06",
+      "name": "现货加密ETF",
+      "scope": "份额、流量和基础资产",
+      "kind": "concepts",
+      "path": "10_concepts/C-CRYPTO-06.md",
+      "node_ids": [],
+      "group": "数字资产与新型金融"
+    }
+  ]
+}

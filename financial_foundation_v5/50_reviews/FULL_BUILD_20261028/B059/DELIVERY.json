@@ -1,0 +1,66 @@
+{
+  "batch": "B059",
+  "author": "/root/full_b059",
+  "status": "submitted_for_main_full_read",
+  "updated": "2026-10-28",
+  "items": [
+    {
+      "id": "R-DEBT-DEFLATION",
+      "path": "20_mechanisms/R-DEBT-DEFLATION.md",
+      "evidence_as_of": "2026-02-17",
+      "source_urls": [
+        "https://www.bis.org/publications/costs-deflations-historical-perspective",
+        "https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf"
+      ],
+      "review_points": [
+        "CPI、收入和资产价格不同渠道；P采用基期1归一化",
+        "0.9% CPI及−0.7%平减指数为2026预测；5.4%为五年水平相对基线情景，未读2024模型",
+        "IMF工作人员与中国当局分歧、BIS历史竞争解释"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B059/R-DEBT-DEFLATION_FIRST_DRAFT.md",
+      "sha256": "e395efc240def2e37b34d1a39efcf2712ad5e2fe8a7c3a822ab49f7ce520efe8"
+    },
+    {
+      "id": "R-BANKING-09",
+      "path": "20_mechanisms/R-BANKING-09.md",
+      "evidence_as_of": "2026-03-16",
+      "source_urls": [
+        "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr318.pdf",
+        "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20141022a.htm",
+        "https://www.bis.org/publications/qr-202603/rise-and-risks-synthetic-risk-transfers"
+      ],
+      "review_points": [
+        "8000亿欧元为受保护贷款池，不是保护层本金",
+        "43bp是44家样本平均CET1缓解；2014年5%有例外且为历史制度",
+        "SRT经济风险转移、资本分母与风险回流区分"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B059/R-BANKING-09_FIRST_DRAFT.md",
+      "sha256": "b16862d6cb4be82e5d19d87ccc936725f2beee135145c038aff127eafd77ff39"
+    },
+    {
+      "id": "R-BANKING-10",
+      "path": "20_mechanisms/R-BANKING-10.md",
+      "evidence_as_of": "2025-03-10",
+      "source_urls": [
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312a.htm",
+        "https://www.federalreserve.gov/publications/2023-April-SVB-Executive-Summary.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240124a.htm",
+        "https://www.federalreserve.gov/publications/files/13-3-report-btfp-20250311.pdf",
+        "https://www.federalreserve.gov/newsevents/speech/barr20240520a.htm"
+      ],
+      "review_points": [
+        "400亿美元已发生流出与1000亿美元预期不能相加为实现值",
+        "BTFP金额按美元原值、2025-02-28截面；9,043,320,000为应计收入非净利润",
+        "Barr 2024讨论为提议，未声称2026规则；最后贷款不等于补资本"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B059/R-BANKING-10_FIRST_DRAFT.md",
+      "sha256": "3feeb0afe457bbc46b2d737b648f6fa1186607cb346f2bed727d9e729fa24454"
+    }
+  ]
+}

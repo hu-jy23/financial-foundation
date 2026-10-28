@@ -1,0 +1,35 @@
+{
+  "batch": "B049",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-CRYPTO-01",
+      "name": "比特币",
+      "scope": "供给规则、需求和风险暴露",
+      "kind": "concepts",
+      "path": "10_concepts/C-CRYPTO-01.md",
+      "node_ids": [],
+      "group": "数字资产与新型金融"
+    },
+    {
+      "id": "C-CRYPTO-02",
+      "name": "以太坊与智能合约平台",
+      "scope": "网络使用、费用与资产属性",
+      "kind": "concepts",
+      "path": "10_concepts/C-CRYPTO-02.md",
+      "node_ids": [],
+      "group": "数字资产与新型金融"
+    },
+    {
+      "id": "C-CRYPTO-03",
+      "name": "稳定币",
+      "scope": "储备、赎回、交易与支付",
+      "kind": "concepts",
+      "path": "10_concepts/C-CRYPTO-03.md",
+      "node_ids": [],
+      "group": "数字资产与新型金融"
+    }
+  ]
+}

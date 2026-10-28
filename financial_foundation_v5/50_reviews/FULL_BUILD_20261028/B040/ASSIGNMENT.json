@@ -1,0 +1,35 @@
+{
+  "batch": "B040",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-TECH-10",
+      "name": "光模块、交换机与网络互联",
+      "scope": "数据传输与集群规模",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-10.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    },
+    {
+      "id": "C-TECH-11",
+      "name": "散热与液冷",
+      "scope": "功耗密度与系统成本",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-11.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    },
+    {
+      "id": "C-TECH-17",
+      "name": "NVIDIA",
+      "scope": "加速器与系统公司；财务和产品版本单独记录",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-17.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    }
+  ]
+}

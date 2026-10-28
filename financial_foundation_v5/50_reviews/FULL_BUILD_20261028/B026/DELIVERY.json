@@ -1,0 +1,71 @@
+{
+  "batch": "B026",
+  "author": "/root/full_b026",
+  "status": "draft_ready_for_review",
+  "items": [
+    {
+      "id": "C-CHINA-05",
+      "path": "10_concepts/C-CHINA-05.md",
+      "evidence_as_of": "2026-01-15",
+      "source_urls": [
+        "https://www.pbc.gov.cn/zhengwugongkai/attachDir/2025/11/2025111914522391548.pdf",
+        "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5587716/2025022618190099812.pdf",
+        "https://www.pbc.gov.cn/zhengcehuobisi/125207/125227/125957/f5c4690f2cbd40918bf24c2d39ac58af/2025091218344076234/2025081517321679368.pdf",
+        "https://www.safe.gov.cn/safe/2026/0115/27062.html"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "key_checks": [
+        "2024全年18.0905万亿元与2025全年16.27万亿元属于净增贷款",
+        "2025Q1票据余额14.2万亿元同比21.7%与较年末14.7万亿元下降并存",
+        "2025各项贷款16.27万亿元与社融人民币15.91万亿元不可混用",
+        "票据办法第25条六个月、第24条限额2024年施行"
+      ]
+    },
+    {
+      "id": "C-CHINA-06",
+      "path": "10_concepts/C-CHINA-06.md",
+      "evidence_as_of": "2026-01-15",
+      "source_urls": [
+        "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5587716/2025022618190099812.pdf",
+        "https://jr.jl.gov.cn/jrzx/zyjrxxzz/gj/202505/t20250512_3454788.html",
+        "https://www.safe.gov.cn/safe/2026/0115/27062.html",
+        "https://www.csrc.gov.cn/csrc/c106311/c7555758/content.shtml"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "key_checks": [
+        "2024两次各50bp、合计长期资金超过2万亿元",
+        "2025年5月排除5%档且汽车金融/金融租赁单独降5个百分点",
+        "2025年5月约1万亿元为事前估算",
+        "2026-01-15平均6.3%不可由2024平均6.6%机械反推历次降幅"
+      ]
+    },
+    {
+      "id": "C-CHINA-07",
+      "path": "10_concepts/C-CHINA-07.md",
+      "evidence_as_of": "2026-01-15",
+      "source_urls": [
+        "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5587716/2025022618190099812.pdf",
+        "https://www.pbc.gov.cn/zhengcehuobisi/125207/125227/125957/f5c4690f2cbd40918bf24c2d39ac58af/2025091218344076234/2025081517321679368.pdf",
+        "https://www.safe.gov.cn/safe/2026/0115/27062.html",
+        "https://www.csrc.gov.cn/csrc/c106311/c7555758/content.shtml"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "key_checks": [
+        "2025年3月MLF多重价位、无统一政策利率",
+        "2025Q1操作9500亿元、余额4.2万亿元且净减少9320亿元",
+        "2024再贷款12.7万亿元与结构性6.3万亿元包含关系",
+        "2026民营1万亿额度含旧5000亿和新增5000亿",
+        "2026-01-15降息仅记录宣布，未回填实施日"
+      ]
+    }
+  ],
+  "limitations": [
+    "资料截至2026-01-15；未核2026年之后月度贷款/工具完整序列",
+    "票据详细总量与价格覆盖2025Q1，2025全年使用发布会贷款主体数据",
+    "未取得逐机构准备金基数、化债还原工作表、招标完整利率分布",
+    "未搜集同期市场调查；预期区分央行判断及本库条件推演"
+  ]
+}

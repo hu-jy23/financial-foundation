@@ -1,0 +1,51 @@
+{
+  "batch": "B072",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-CHINA-12",
+      "name": "存款迁移的债市传导",
+      "scope": "存款利率、理财和风险偏好",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-CHINA-12.md",
+      "node_ids": [
+        "C-CREDIT-15",
+        "C-SECTOR-03",
+        "C-BOND-03",
+        "C-CHINA-09"
+      ],
+      "group": "中国信用、地产与财政传导"
+    },
+    {
+      "id": "R-CHINA_MARKET-07",
+      "name": "A/H溢价的市场分割机制",
+      "scope": "汇率、投资者和交易约束",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-CHINA_MARKET-07.md",
+      "node_ids": [
+        "C-ASIA-10",
+        "C-ASIA-01",
+        "C-ASIA-02",
+        "C-ASIA-03",
+        "C-FX-02",
+        "C-FX-05"
+      ],
+      "group": "中国资产与政策机制"
+    },
+    {
+      "id": "R-TECH-03",
+      "name": "模型效率、推理成本与总算力需求",
+      "scope": "单位成本下降和需求弹性",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-TECH-03.md",
+      "node_ids": [
+        "C-TECH-01",
+        "C-TECH-03",
+        "C-TECH-02"
+      ],
+      "group": "科技与AI产业机制"
+    }
+  ]
+}

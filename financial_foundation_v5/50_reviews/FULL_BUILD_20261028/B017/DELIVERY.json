@@ -1,0 +1,79 @@
+{
+  "batch": "B017",
+  "author": "/root/full_b017",
+  "updated": "2026-10-28",
+  "deliveries": [
+    {
+      "id": "C-BOND-09",
+      "path": "10_concepts/C-BOND-09.md",
+      "evidence_as_of": "2025-03-28",
+      "source_urls": [
+        "https://picpolicy.mofcom.gov.cn/file/20250704/54861751613303965.pdf",
+        "https://pages.stern.nyu.edu/~adamodar/New_Home_Page/AppldCF/derivn/ch7deriv.html",
+        "https://edu.sse.com.cn/service/hotline/qa/c/5151728.shtml",
+        "https://www.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20220729_5706472.shtml",
+        "https://www.sse.com.cn/lawandrules/sselawsrules2025/bond/convertible/trading/c/c_20250606_10782995.shtml",
+        "https://paper.cnstock.com/html/2024-11/14/content_1993678.htm",
+        "https://www.cfainstitute.org/insights/professional-learning/refresher-readings/2026/valuation-analysis-bonds-embedded-options"
+      ],
+      "key_review_points": [
+        "债底承诺现金流折现/信用利率",
+        "下修与赎回权属",
+        "世运2024公告计划非实现结果",
+        "2025规则附件尚未取得"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B017/C-BOND-09_FIRST_DRAFT.md",
+      "first_draft_sha256": "ef04378e0a370f98dc163522d2456246ca4ae5ff2b91abde8b386f9623ba913f",
+      "status": "draft"
+    },
+    {
+      "id": "C-BOND-14",
+      "path": "10_concepts/C-BOND-14.md",
+      "evidence_as_of": "2026-05",
+      "source_urls": [
+        "https://www.treasurydirect.gov/help-center/faqs/auction-faqs/",
+        "https://www.treasurydirect.gov/help-center/faqs/additional-auction-related-faqs/",
+        "https://www.govinfo.gov/content/pkg/CFR-2025-title31-vol2/pdf/CFR-2025-title31-vol2-part356.pdf",
+        "https://www.treasurydirect.gov/files/laws-and-regulations/auction-regulations-uoc/auct-reg-gsr-90125.pdf",
+        "https://libertystreeteconomics.newyorkfed.org/2015/01/frn_follow-up_who_are_the_market_participants/",
+        "https://www.dallasfed.org/research/economics/2021/0831",
+        "https://home.treasury.gov/system/files/221/TreasuryPresentationToTBACQ22026.pdf"
+      ],
+      "key_review_points": [
+        "BTC历史与2025排除项不同",
+        "2026表日期为交割日",
+        "WI缺失不计算尾差",
+        "4月规模预期未验证5月结果"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B017/C-BOND-14_FIRST_DRAFT.md",
+      "first_draft_sha256": "15a7bcca42c1fbfdad81b0f659edd9130146ad511eaed3df7517614ccf4e0262",
+      "status": "draft"
+    },
+    {
+      "id": "C-EQ-ERP",
+      "path": "10_concepts/C-EQ-ERP.md",
+      "evidence_as_of": "2026-10-01",
+      "source_urls": [
+        "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr714.pdf",
+        "https://aswathdamodaran.blogspot.com/2025/01/data-update-2-for-2025-party-continued.html",
+        "https://pages.stern.nyu.edu/adamodar/New_Home_Page/home.htm",
+        "https://pages.stern.nyu.edu/adamodar/New_Home_Page/datacurrent.html"
+      ],
+      "key_review_points": [
+        "2015一年模型与长期隐含口径不同",
+        "五种ERP为模型输入差异",
+        "9.49%总回报基准调整不变",
+        "最新工作簿未复算"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B017/C-EQ-ERP_FIRST_DRAFT.md",
+      "first_draft_sha256": "db5947e378031f424b8e799f7f0c1ed13e933e3159a334ab9a2655987f64db69",
+      "status": "draft"
+    }
+  ]
+}

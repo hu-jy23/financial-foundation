@@ -1,0 +1,45 @@
+{
+  "batch": "B058",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-CREDIT-COLLATERAL",
+      "name": "金融加速器",
+      "scope": "金融加速器",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-CREDIT-COLLATERAL.md",
+      "node_ids": [
+        "C-CREDIT-10"
+      ],
+      "group": "信用与金融稳定机制"
+    },
+    {
+      "id": "R-LIQ-SPIRAL",
+      "name": "保证金驱动的流动性螺旋",
+      "scope": "杠杆投资者和共同持仓",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-LIQ-SPIRAL.md",
+      "node_ids": [
+        "C-DERIV-14",
+        "C-CREDIT-10",
+        "C-LIQ-FUND"
+      ],
+      "group": "信用与金融稳定机制"
+    },
+    {
+      "id": "R-BANKING-05",
+      "name": "流动性错配下的挤兑机制",
+      "scope": "赎回承诺、资产可售性",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-BANKING-05.md",
+      "node_ids": [
+        "C-CREDIT-03",
+        "C-CREDIT-15",
+        "C-LIQ-MARKET"
+      ],
+      "group": "信用与金融稳定机制"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "batch": "B064",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-EQUITY-14",
+      "name": "并购价差定价",
+      "scope": "成交概率、期限与对价",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-EQUITY-14.md",
+      "node_ids": [
+        "C-EQUITY-18"
+      ],
+      "group": "股票与公司定价机制"
+    },
+    {
+      "id": "R-MARKET-04",
+      "name": "ETF申赎套利",
+      "scope": "价差、篮子与执行成本",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-MARKET-04.md",
+      "node_ids": [
+        "C-FLOW-05",
+        "C-ASIA-04",
+        "C-LIQ-FUND"
+      ],
+      "group": "资金流与市场微观结构"
+    },
+    {
+      "id": "R-MARKET-05",
+      "name": "指数调整的被动资金效应",
+      "scope": "公告、实施和提前交易",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-MARKET-05.md",
+      "node_ids": [
+        "C-FLOW-05"
+      ],
+      "group": "资金流与市场微观结构"
+    }
+  ]
+}

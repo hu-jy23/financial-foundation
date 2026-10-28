@@ -1,0 +1,33 @@
+{
+  "author": "/root",
+  "items": [
+    {
+      "id": "C-EXPECT-05",
+      "path": "10_concepts/C-EXPECT-05.md",
+      "source_urls": [
+        "https://ocw.mit.edu/courses/15-450-analytics-of-finance-fall-2010/0d1260b891a96241316d883d4f5bfaec_MIT15_450F10_lec02.pdf",
+        "https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr677.pdf",
+        "https://www.federalreserve.gov/econres/feds/files/2023053pap.pdf",
+        "https://www.bankofengland.co.uk/markets/market-intelligence/survey-results/2026/market-participants-survey-results-june-2026",
+        "https://www.bankofengland.co.uk/bank-insights/2026/bank-rate-expectations-uk-curve-following-the-war-in-iran",
+        "https://www.cmegroup.com/articles/2023/understanding-the-cme-group-fedwatch-tool-methodology.html"
+      ],
+      "review_status": "awaiting_main_review"
+    },
+    {
+      "id": "R-DERIV-CARRY",
+      "path": "20_mechanisms/R-DERIV-CARRY.md",
+      "source_urls": [
+        "https://web.mit.edu/astomper/www/univie/pof/Chapter%205.pdf",
+        "https://www.cmegroup.com/trading/equity-index/fairvalue.html",
+        "https://www.cmegroup.com/content/dam/cmegroup/education/files/S-and-P-500-Implied-Financing.pdf",
+        "https://www.federalreserve.gov/pubs/ifdp/2004/808/ifdp808.htm",
+        "https://www.cmegroup.com/articles/2025/quantifying-and-hedging-equity-financing-risk.html",
+        "https://www.eia.gov/todayinenergy/detail.php?id=43495",
+        "https://www.cftc.gov/media/5296/InterimStaffReportNYMEX_WTICrudeOil/download",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/convenience-yields-risk-premiums-and-the-interpretation-of-oil-futures-prices-during-geo-conflict-20261009.html"
+      ],
+      "review_status": "awaiting_main_review"
+    }
+  ]
+}

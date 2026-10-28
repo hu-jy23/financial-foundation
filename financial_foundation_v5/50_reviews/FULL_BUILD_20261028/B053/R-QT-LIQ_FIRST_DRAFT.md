@@ -1,0 +1,141 @@
+---
+id: R-QT-LIQ
+type: mechanism
+title: QT与准备金、ONRRP及资金市场
+status: draft
+draft_author: /root/full_b053
+model: gpt-6-astra
+reasoning_effort: medium
+reviewed_by: null
+updated: 2026-10-28
+evidence_as_of: 2026-03-26
+source_ids: [S-R-QT-LIQ-01, S-R-QT-LIQ-02, S-R-QT-LIQ-03, S-R-QT-LIQ-04, S-R-QT-LIQ-05]
+node_ids: [C-POL-QT, C-MONEY-CBBS, C-MONEY-RESERVES, C-MONEY-14, C-RATE-06, C-LIQ-FUND]
+related_mechanism_ids: []
+logic_groups:
+  - anchor: logic-1
+    node_ids: [C-POL-QT, C-MONEY-CBBS, C-MONEY-RESERVES, C-MONEY-14]
+    related_mechanism_ids: []
+  - anchor: logic-2
+    node_ids: [C-POL-QT, C-MONEY-RESERVES, C-MONEY-14, C-RATE-06, C-LIQ-FUND]
+    related_mechanism_ids: []
+  - anchor: logic-3
+    node_ids: [C-POL-QT, C-MONEY-CBBS, C-MONEY-RESERVES, C-LIQ-FUND]
+    related_mechanism_ids: []
+---
+
+# QT与准备金、ONRRP及资金市场
+
+> 执笔：`/root/full_b053`；制作2026-10-28；证据截至2026-03-26。本文保留2025年QT结束及2026年准备金管理初期状态，不将缩表写成制作日仍在进行。
+
+## 概念定义
+
+这项机制解释央行减少证券持仓，如何通过负债结构调整改变银行准备金与非银行现金投资选择，并在准备金缓冲变薄时推高短期融资价格。QT减少资产，并不意味着准备金每天等额减少：隔夜逆回购ON RRP、财政部一般账户TGA、通货和央行贷款也在变化。只有把账户配平与资金提供者的行为连起来，才能判断资金市场是否趋紧。
+
+## 概念详解
+
+美国到期不再投资型QT中，美联储持有的国债到期，财政部用TGA偿还；财政部怎样补充TGA，决定这笔偿还最终对应哪类私人资产和央行负债变化。月度赎回上限是允许不再投资的最大本金，不是每月固定出售量。机构MBS还受到房贷提前偿还影响，不能把上限直接当实现值。
+
+准备金是银行在央行的余额，ON RRP是符合资格的货币市场基金等交易对手借钱给央行的隔夜安排，TGA是财政部的央行存款。它们都是央行负债，却属于不同持有人。非银行基金从ON RRP转向国库券或私人回购，不是把自己的“准备金账户”转走；银行为结算提供中介。这一区分决定QT先消耗哪种缓冲。
+
+<a id="logic-1"></a>
+## 核心逻辑1：负债替代决定QT先减少ON RRP还是准备金
+
+**关联节点／节点组**：[量化紧缩QT C-POL-QT](../10_concepts/C-POL-QT_quantitative_tightening.md)、[央行资产负债表 C-MONEY-CBBS](../10_concepts/C-MONEY-CBBS_central_bank_balance_sheet.md)、[银行准备金 C-MONEY-RESERVES](../10_concepts/C-MONEY-RESERVES.md)、[隔夜逆回购ONRRP C-MONEY-14](../10_concepts/C-MONEY-14.md)。
+
+**时间段**：美联储有ON RRP与TGA负债的操作框架；本轮近期观察覆盖2025年至2026年3月，并保留2019年对照。
+
+### 详细逻辑
+
+设证券资产为S、央行贷款为L、准备金为R、ON RRP为O、TGA为T、流通货币为C，将其他净负债与资本合计为N，则会计恒等式为：
+
+\[
+\Delta R=\Delta S+\Delta L-\Delta O-\Delta T-\Delta C-\Delta N.
+\]
+
+各量是同一结算区间的美元存量变动；证券应使用与央行资产负债表相匹配的账面口径，不能混用市场价格。这个式子只负责配平，不决定谁先调整。[S-R-QT-LIQ-01](#S-R-QT-LIQ-01)
+
+行为上，如果新发短券的收益优于ON RRP，货币基金可减少ON RRP、认购短券。ON RRP到期先使银行结算准备金增加，随后认购国债把这笔准备金转入TGA，财政部偿还美联储到期债券时TGA与央行证券同时减少。把全部步骤合并，在其他项目不变的简化条件下，央行证券减少可主要对应ON RRP减少，准备金无需等额下降。如果认购者用原有银行存款付款而ON RRP没有减少，银行存款与准备金就更可能共同收缩。
+
+**假设对账**：一个月证券减少600亿美元，ON RRP减少500亿美元，TGA增加100亿美元，其他项为零，准备金变动为−600−(−500)−100＝−200亿美元。若没有ON RRP下降，准备金为−700亿美元。这是账户算例，不是任何月份的实际数据。TGA回落或央行贷款增加，也可能在QT期间使准备金上升。故“QT总额＝流出银行体系的准备金”只有在其他项不变时成立。
+
+### 该逻辑的时间线
+
+**2019年的对照，2025年研究回顾**：Vissing-Jorgensen指出，在此前缩表之后，2019年9月TGA增加与其他因素共同造成准备金稀缺及回购市场扰动，随后公开市场操作缓解压力。该解释没有把TGA列为唯一原因，也不把当时终止缩表与后来的波动混作同一天。[S-R-QT-LIQ-01](#S-R-QT-LIQ-01)
+
+**2025-03-19**：FOMC宣布从4月起，国债月度赎回上限由250亿美元降至50亿美元，机构债及MBS上限维持350亿美元，目标利率区间仍为4.25%—4.50%。这降低了资产收缩速度，但没有使上式中的TGA等项停止变动。[S-R-QT-LIQ-02](#S-R-QT-LIQ-02)
+
+**2025年上、下半年的相反现金流，2026-03-26回顾**：Perli说明，债务上限约束期间财政部动用TGA，暂时增加准备金与ON RRP之和；7月上调债务上限后，财政部主要通过短券迅速重建TGA，方向反转。这段过程说明准备金路径不能仅按每月QT上限外推。[S-R-QT-LIQ-05](#S-R-QT-LIQ-05)
+
+### 该逻辑的预期
+
+**研究者判断，2025-08-06**：Vissing-Jorgensen认为，ON RRP缓冲已较小、准备金不再那么宽裕时，应对TGA波动更可能需要调整央行资产或提供贷款；她提出的工具比较是作者分析，不是FOMC已经宣布采用的规则。[S-R-QT-LIQ-01](#S-R-QT-LIQ-01)
+
+**本库条件推演，以2025年8月信息集重建，观察随后一次TGA重建期**：如短券更有吸引力且ON RRP仍有余额，可先通过基金资产替代缓冲准备金下降；余额接近耗尽后，新增财政现金需求更可能压到准备金。观察应同时记录H.4.1资产、TGA及准备金与ON RRP使用量。本文未提取这段逐日配平表，所以不把“主要通过某项调整”量化成未经核实的占比。
+
+<a id="logic-2"></a>
+## 核心逻辑2：现金缓冲变薄后，放款人议价变化把压力传入担保融资
+
+**关联节点／节点组**：[量化紧缩QT C-POL-QT](../10_concepts/C-POL-QT_quantitative_tightening.md)、[银行准备金 C-MONEY-RESERVES](../10_concepts/C-MONEY-RESERVES.md)、[隔夜逆回购ONRRP C-MONEY-14](../10_concepts/C-MONEY-14.md)、[SOFR与担保融资基准 C-RATE-06](../10_concepts/C-RATE-06.md)、[融资流动性 C-LIQ-FUND](../10_concepts/C-LIQ-FUND_funding_liquidity.md)。
+
+**时间段**：准备金从很宽裕转向充裕、甚至不足的过渡阶段；本组实证状态集中在2025年秋季，回顾材料截至2026-03-26。
+
+### 详细逻辑
+
+银行保留准备金以完成支付、满足内部流动性缓冲与监管约束。余额很高时，多留一美元的流动性价值低；稍微减少准备金，银行仍愿意按相近价格出借现金。余额接近自身最低舒适水平时，继续出借的机会成本增加，银行会要求更高利率，或者优先保存日内支付缓冲。准备金总量与利率关系因而是非线性的，且总量充足并不代表每家银行都有同样余量。
+
+ON RRP余额较大时，私人回购利率只需略有吸引力，就可能吸引基金从央行工具转入市场。该资金池接近耗尽后，交易商要为更多国债库存融资，须说服原本持有其他资产或需要流动性的放款人出借，通常需要更明显的利率让步。国债发行同时增加可融资抵押品和融资需求，因此SOFR上行可能先于银行隔夜无担保利率明显变化。
+
+跨市场联系由具体放款人形成。联邦住房贷款银行FHLB可以在联邦基金与回购间比较收益；回购报价提高时，它们可减少联邦基金出借，或要求借款银行支付更高利率。这样，担保市场的压力可传到EFFR。反过来，季末报表约束、抵押品供需或交易商资产负债表成本，也会使SOFR暂时偏高，单日上冲并不自动证明全系统准备金不足。[S-R-QT-LIQ-05](#S-R-QT-LIQ-05)
+
+### 该逻辑的时间线
+
+**2025年秋季，较晚回顾**：Perli在2026-03-26报告，ON RRP使用量到10月已很小；回购利率波动及对国债发行的敏感度增加。2025年9月中至11月，EFFR相对IORB由低7基点升至仅低1基点；他将FHLB在回购和联邦基金间调配资金列为联系渠道。这是利差收窄6基点，不是政策目标利率上调6基点，也不是SOFR同期恰好上涨6基点。[S-R-QT-LIQ-05](#S-R-QT-LIQ-05)
+
+**2025-10-29的正式决定**：FOMC宣布12月1日起停止总证券持仓缩减。同次会议把目标区间下调25基点至3.75%—4.00%；停止QT和降息分别对应操作与宏观政策判断，不能因同日宣布就视作同一种资金价格变化。[S-R-QT-LIQ-03](#S-R-QT-LIQ-03)
+
+### 该逻辑的预期
+
+**操作负责人判断，截至2026-03-26**：Perli认为充裕准备金下，EFFR应接近IORB、波动低；回购参考利率可有适度波动，常备回购可能偶尔被使用。该判断允许临时压力，不以“完全不使用工具”定义成功。[S-R-QT-LIQ-05](#S-R-QT-LIQ-05)
+
+**本库条件推演，制作日整理，期限为之后数次纳税、发行与季末窗口**：如果SOFR持续相对IORB抬高，同时银行增加无担保借款、付款更迟、常备工具使用更频繁，准备金缓冲不足的解释会增强；如果仅季末担保利率跳升而这些指标稳定，中介报表成本更值得检查。不能设一个跨时期固定的准备金美元阈值。
+
+**缺口**：本次读了演讲的指标与主体行为解释，未下载逐日SOFR分位数、FHLB交易量、银行异质性及付款时点数据。因此保存官方回顾的利差数字，未独立做数量归因或宣称每项指标同时转折。
+
+<a id="logic-3"></a>
+## 其他相关逻辑1：停止QT后仍可能需要补准备金，补充方式决定政策含义
+
+**关联节点／节点组**：[量化紧缩QT C-POL-QT](../10_concepts/C-POL-QT_quantitative_tightening.md)、[央行资产负债表 C-MONEY-CBBS](../10_concepts/C-MONEY-CBBS_central_bank_balance_sheet.md)、[银行准备金 C-MONEY-RESERVES](../10_concepts/C-MONEY-RESERVES.md)、[融资流动性 C-LIQ-FUND](../10_concepts/C-LIQ-FUND_funding_liquidity.md)。
+
+**时间段**：缩表终止及随后准备金管理阶段；已核2025年10月至2026年3月。
+
+### 详细逻辑
+
+停止证券净赎回，使资产收缩这一项归零，却不能使准备金供给恒定。社会对纸币的需求增长、财政部增加TGA，仍会在资产不变时挤压准备金。央行若希望维持充裕区间，可购买短券补充趋势性需求，也可通过有抵押贷款应对临时波动。银行因此获得更可靠的结算资金，减少被迫高价融资或出售证券的需要。
+
+购短券维持利率控制，和购长债压低期限溢价，虽都可能扩大央行资产，却有不同目的与风险量。停止QT也不等于将此前缩掉的全部资产购回。对于临时需求，常备回购的资金在交易到期时回收；对于趋势性货币负债增长，持续证券购买更容易形成稳定资产支持。何者合适取决于冲击持续时间、合格抵押品与对手方可达性。[S-R-QT-LIQ-01](#S-R-QT-LIQ-01)、[S-R-QT-LIQ-04](#S-R-QT-LIQ-04)
+
+### 该逻辑的时间线
+
+**2025-10-29至12月**：10月决定12月1日结束持仓缩减；12月10日FOMC判断准备金已经降至充裕水平，宣布按需要购买较短期限国债以持续维持充裕供给。先停止流失、再维持所需余额，是两个相邻但不同的决定。[S-R-QT-LIQ-03](#S-R-QT-LIQ-03)、[S-R-QT-LIQ-04](#S-R-QT-LIQ-04)
+
+**2026-03-26的当时状态与展望**：Perli称准备金管理购买当时每月400亿美元，目的是提前分散应对4月纳税季准备金流失的购买需求，并非当时利率控制已要求紧急注入这一规模。他预计4月之后节奏可显著降低，具体规模未定。这是3月的前瞻判断，本文未核验后来4月税收及购买结果。[S-R-QT-LIQ-05](#S-R-QT-LIQ-05)
+
+### 该逻辑的预期
+
+**机构负责人，截至2026-03-26，期限为4月及其后数月**：购买节奏可能在4月后显著放慢，取决于TGA回落及其他央行负债变化；原文没有给出新的固定月度金额。该判断不等于承诺再次QT。[S-R-QT-LIQ-05](#S-R-QT-LIQ-05)
+
+**本库条件推演**：若税款进入TGA使准备金暂降，随后财政支出使TGA回落，稳定资产下准备金也会回升，央行可减少净购买；若银行结构性准备金需求同时增加，则同样TGA路径需要更多资产支持。观察窗口为一个税收季至随后数月。缺少4月以后实际数据，本文不评价上述预测是否实现。
+
+## 来源与覆盖说明
+
+<a id="S-R-QT-LIQ-01"></a>
+- **S-R-QT-LIQ-01**：Annette Vissing-Jorgensen，*Fluctuations in the Treasury General Account and their effect on the Fed’s balance sheet*，FEDS Notes，2025-08-06，[原文](https://www.federalreserve.gov/econres/notes/feds-notes/fluctuations-in-the-treasury-general-account-and-their-effect-on-the-feds-balance-sheet-20250806.html)。读简化资产负债表、四种调整方式、2019案例及2025减速解释；未逐项复算图表，政策提案不作为已实施制度。
+<a id="S-R-QT-LIQ-02"></a>
+- **S-R-QT-LIQ-02**：FOMC，*Federal Reserve issues FOMC statement*，2025-03-19，[原文](https://www.federalreserve.gov/newsevents/pressreleases/monetary20250319a.htm)。读政策区间、赎回上限与投票段落；未读会议逐字记录。
+<a id="S-R-QT-LIQ-03"></a>
+- **S-R-QT-LIQ-03**：FOMC，同名声明，2025-10-29，[原文](https://www.federalreserve.gov/newsevents/pressreleases/monetary20251029a.htm)。读降息与12月1日停止缩表决定；未提取会前市场概率。
+<a id="S-R-QT-LIQ-04"></a>
+- **S-R-QT-LIQ-04**：FOMC，同名声明，2025-12-10，[原文](https://www.federalreserve.gov/newsevents/pressreleases/monetary20251210a.htm)。读准备金评估及短期限国债购买决定；未查逐日执行清单。
+<a id="S-R-QT-LIQ-05"></a>
+- **S-R-QT-LIQ-05**：Roberto Perli，*Reflections on the Early Days of Reserve Management Purchases and the Maintenance of Ample Reserves*，2026-03-26，[原文](https://www.newyorkfed.org/newsevents/speeches/2026/per260326)。实际读Transition、RMP方法、Outlook、SRP与组成各节；未下载图表原始序列。研究截止后的运行结果未纳入。

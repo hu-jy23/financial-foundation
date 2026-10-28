@@ -1,0 +1,73 @@
+{
+  "batch": "B006",
+  "author": "/root/full_b006",
+  "status": "submitted_for_main_review",
+  "updated": "2026-10-28",
+  "shared_files_modified": false,
+  "git_commit_created": false,
+  "items": [
+    {
+      "id": "C-MONEY-19",
+      "path": "10_concepts/C-MONEY-19.md",
+      "evidence_as_of": "2026-05-11",
+      "source_urls": [
+        "https://www.sec.gov/files/rules/final/2023/33-11211.pdf",
+        "https://www.sec.gov/newsroom/press-releases/2023-129",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/insights-from-mmf-portfolio-allocations-amid-balance-sheet-normalization-20250303.html",
+        "https://www.csrc.gov.cn/heilongjiang/c105404/c1268904/content.shtml",
+        "https://www.newyorkfed.org/markets/annual_reports",
+        "https://finance.ec.europa.eu/publications/report-adequacy-money-market-funds-regulation-prudential-and-economic-point-view_en",
+        "https://ec.europa.eu/finance/docs/law/260511-money-market-funds-report_en.pdf"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B006/C-MONEY-19_FIRST_DRAFT.md",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "美国政府/prime/免税和机构/零售两轴分类",
+        "美国25/50与免税日流动资产例外；5%为触发非费率",
+        "欧盟20/40为观察基准非新法定最低",
+        "中国2015制度底座尚未全部合并后续规则"
+      ]
+    },
+    {
+      "id": "C-FISCAL-13",
+      "path": "10_concepts/C-FISCAL-13.md",
+      "evidence_as_of": "2026-05-07",
+      "source_urls": [
+        "https://www.ecb.europa.eu/press/key/date/2024/html/ecb.sp240607~c6ae070dc0.en.html",
+        "https://www.johnhcochrane.com/s/JEP_revision.pdf",
+        "https://www.federalreservehistory.org/essays/treasury-fed-accord",
+        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260507_1~d5ae988ece.en.html"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B006/C-FISCAL-13_FIRST_DRAFT.md",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "债务压力不等于约束生效，央行反事实不可直接观察",
+        "有效平均利率与政策利率及债务重定价速度",
+        "财政价格理论署名与条件；2024和2026判断并非转制证明"
+      ]
+    },
+    {
+      "id": "C-FISCAL-14",
+      "path": "10_concepts/C-FISCAL-14.md",
+      "evidence_as_of": "2025-03-28",
+      "source_urls": [
+        "https://www.sc.com/en/uploads/sites/66/content/docs/2014-Credit-Derivatives-Definitions.pdf",
+        "https://www.chicagofed.org/publications/economic-perspectives/2023/4",
+        "https://ir.theice.com/press/news-details/2012/Markit-and-IntercontinentalExchange-Announce-Results-of-Credit-Event-Auction-re-The-Hellenic-Republic/default.aspx",
+        "https://mofep.gov.gh/sites/default/files/reports/economic/2024-Annual-Public-Debt-Report.pdf",
+        "https://www.mofep.gov.gh/node/1854"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B006/C-FISCAL-14_FIRST_DRAFT.md",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "review_points": [
+        "CDS币种期限定义与可交割义务",
+        "连续支付公式及风险中性概率区别",
+        "2023美国最低交割券影响LGD",
+        "加纳37%不包括PAR；本金与现值损失不同"
+      ]
+    }
+  ]
+}

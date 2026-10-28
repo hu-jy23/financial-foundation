@@ -1,0 +1,35 @@
+{
+  "batch": "B010",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-CREDIT-15",
+      "name": "挤兑与存款迁移",
+      "scope": "信心、保险与数字化速度",
+      "kind": "concepts",
+      "path": "10_concepts/C-CREDIT-15.md",
+      "node_ids": [],
+      "group": "银行、信用与金融稳定"
+    },
+    {
+      "id": "C-CREDIT-16",
+      "name": "金融周期",
+      "scope": "金融运行状态、周期阶段和历史；信用、杠杆和资产价格反馈及系统性风险另见机制。",
+      "kind": "concepts",
+      "path": "10_concepts/C-CREDIT-16.md",
+      "node_ids": [],
+      "group": "银行、信用与金融稳定"
+    },
+    {
+      "id": "C-FX-USD",
+      "name": "美元",
+      "scope": "计价、支付、融资和储备货币角色",
+      "kind": "concepts",
+      "path": "10_concepts/C-FX-USD.md",
+      "node_ids": [],
+      "group": "外汇与国际金融"
+    }
+  ]
+}

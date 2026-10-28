@@ -1,0 +1,35 @@
+{
+  "batch": "B028",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-CHINA-11",
+      "name": "土地财政",
+      "scope": "出让收入与地方支出",
+      "kind": "concepts",
+      "path": "10_concepts/C-CHINA-11.md",
+      "node_ids": [],
+      "group": "中国宏观制度与政策工具"
+    },
+    {
+      "id": "C-CHINA-12",
+      "name": "地方融资平台LGFV",
+      "scope": "主体、隐性担保与债务",
+      "kind": "concepts",
+      "path": "10_concepts/C-CHINA-12.md",
+      "node_ids": [],
+      "group": "中国宏观制度与政策工具"
+    },
+    {
+      "id": "C-CHINA-13",
+      "name": "地方债务置换与化债",
+      "scope": "本金、期限、利率和责任变化",
+      "kind": "concepts",
+      "path": "10_concepts/C-CHINA-13.md",
+      "node_ids": [],
+      "group": "中国宏观制度与政策工具"
+    }
+  ]
+}

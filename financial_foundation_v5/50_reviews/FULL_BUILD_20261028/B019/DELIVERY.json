@@ -1,0 +1,78 @@
+{
+  "batch": "B019",
+  "author": "/root/full_b019",
+  "updated": "2026-10-28",
+  "documents": [
+    {
+      "id": "C-DERIV-14",
+      "path": "10_concepts/C-DERIV-14.md",
+      "evidence_as_of": "2025-01-15",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B019/C-DERIV-14_FIRST_DRAFT.md",
+      "sha256": "6d26c0ecca3459a9c369462e35c37ad3154220f0ec844cb72099e71187edf02a",
+      "source_urls": [
+        "https://www.cmegroup.com/education/courses/introduction-to-futures/margin-know-what-is-needed",
+        "https://www.bankofengland.co.uk/speech/2022/february/jon-cunliffe-keynote-address-fia-sifma-asset-management-derivatives-forum",
+        "https://www.bis.org/publications/review-margining-practices",
+        "https://www.bis.org/publications/review-margining-practices.pdf",
+        "https://www.bis.org/media-releases/20250115-global-standard-setting-bodies-publish-three-final-reports-margin-centrally-and-non-centrally",
+        "https://www.bis.org/publications/transparency-and-responsiveness-initial-margin-centrally-cleared-markets-review-and-policy-proposals"
+      ],
+      "key_review_points": [
+        "IM与VM和维持阈值分开",
+        "2020日VM流量与IM存量不混合",
+        "2025建议非统一实施规则"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft"
+    },
+    {
+      "id": "C-DERIV-15",
+      "path": "10_concepts/C-DERIV-15.md",
+      "evidence_as_of": "2025-07-15",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B019/C-DERIV-15_FIRST_DRAFT.md",
+      "sha256": "f48fc3673fb06138d24668a4029057130f4ec4832ea0c4d25e82929164dd4aa7",
+      "source_urls": [
+        "https://www.cmegroup.com/education/courses/introduction-to-treasuries/the-basics-of-treasuries-basis",
+        "https://www.cmegroup.com/content/dam/cmegroup/education/files/treasury-futures-basis-spreads.pdf",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/quantifying-treasury-cash-futures-basis-trades-20240308.html",
+        "https://www.dallasfed.org/research/economics/2025/0715"
+      ],
+      "key_review_points": [
+        "CME毛基差与OABNOC符号不混合",
+        "carry公式无中途票息边界",
+        "CME历史例日期与版权日期分开"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft"
+    },
+    {
+      "id": "C-FLOW-05",
+      "path": "10_concepts/C-FLOW-05.md",
+      "evidence_as_of": "2025-04-28",
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B019/C-FLOW-05_FIRST_DRAFT.md",
+      "sha256": "539be3f23c9482c36fc75f06c76d6e758dc86ab24b67fd3d1af80034f4754df8",
+      "source_urls": [
+        "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-24",
+        "https://www.sec.gov/investment/exchange-traded-funds-small-entity-compliance-guide",
+        "https://www.sse.com.cn/assortment/fund/etf/question/",
+        "https://www.ici.org/news-release/25-factbook",
+        "https://www.ici.org/files/2025/2025-factbook.pdf",
+        "https://www.sse.com.cn/disclosure/fund/etflist/",
+        "https://etf.sse.com.cn/fundlist/funddetail/index.shtml"
+      ],
+      "key_review_points": [
+        "一级净额与毛额、二级成交区分",
+        "份额期末估值不等于新增现金",
+        "ICI报告发布日2025-04-28已核"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "status": "draft"
+    }
+  ],
+  "notes_path": "50_reviews/FULL_BUILD_20261028/B019/NOTES.md",
+  "self_read_complete": true,
+  "main_review_pending": true
+}

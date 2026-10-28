@@ -1,0 +1,35 @@
+{
+  "batch": "B001",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-POL-CREDIBILITY",
+      "name": "央行可信度",
+      "scope": "承诺、行动与市场相信程度",
+      "kind": "concepts",
+      "path": "10_concepts/C-POL-CREDIBILITY.md",
+      "node_ids": [],
+      "group": "预期、信息与认知"
+    },
+    {
+      "id": "C-EXPECT-15",
+      "name": "投资者注意力",
+      "scope": "关注稀缺与信息覆盖",
+      "kind": "concepts",
+      "path": "10_concepts/C-EXPECT-15.md",
+      "node_ids": [],
+      "group": "预期、信息与认知"
+    },
+    {
+      "id": "C-INF-INFLATION",
+      "name": "通货膨胀",
+      "scope": "价格总体水平变化",
+      "kind": "concepts",
+      "path": "10_concepts/C-INF-INFLATION.md",
+      "node_ids": [],
+      "group": "物价、工资与就业"
+    }
+  ]
+}

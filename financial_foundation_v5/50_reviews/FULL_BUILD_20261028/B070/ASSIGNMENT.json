@@ -1,0 +1,50 @@
+{
+  "batch": "B070",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "R-CHINA-01",
+      "name": "降准的资金与信贷传导",
+      "scope": "银行约束和贷款需求",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-CHINA-01.md",
+      "node_ids": [
+        "C-CHINA-06",
+        "C-MONEY-RESERVES",
+        "C-CHINA-05",
+        "C-CHINA-09"
+      ],
+      "group": "中国信用、地产与财政传导"
+    },
+    {
+      "id": "R-CHINA-02",
+      "name": "政策利率的LPR传导渠道",
+      "scope": "银行负债成本和信用分层",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-CHINA-02.md",
+      "node_ids": [
+        "C-CHINA-07",
+        "C-CHINA-08",
+        "C-CHINA-09",
+        "C-CREDIT-04",
+        "C-CHINA-05"
+      ],
+      "group": "中国信用、地产与财政传导"
+    },
+    {
+      "id": "R-CN-CREDIT",
+      "name": "社融结构、信用脉冲与实体需求",
+      "scope": "政府/企业/居民分项",
+      "kind": "mechanisms",
+      "path": "20_mechanisms/R-CN-CREDIT.md",
+      "node_ids": [
+        "C-CN-TSF",
+        "C-CHINA-05",
+        "C-BOND-04"
+      ],
+      "group": "中国信用、地产与财政传导"
+    }
+  ]
+}

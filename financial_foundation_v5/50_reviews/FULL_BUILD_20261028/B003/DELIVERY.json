@@ -1,0 +1,80 @@
+{
+  "batch": "B003",
+  "draft_author": "/root/full_b003",
+  "updated": "2026-10-28",
+  "items": [
+    {
+      "id": "C-RATE-08",
+      "path": "10_concepts/C-RATE-08.md",
+      "evidence_as_of": "2025-05-28",
+      "source_urls": [
+        "https://www.cmegroup.com/rulebook/CBOT/III/22.pdf",
+        "https://www.newyorkfed.org/markets/reference-rates/effr",
+        "https://www.cmegroup.com/articles/2023/understanding-the-cme-group-fedwatch-tool-methodology.html",
+        "https://web.stanford.edu/~piazzesi/fff.pdf",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/simple-macro-finance-measure-of-risk-premia-in-fed-funds-futures-20190108.html",
+        "https://www.federalreserve.gov/monetarypolicy/fomcminutes20250507.htm",
+        "https://www.federalreserve.gov/Releases/H15/20160307/"
+      ],
+      "key_review_points": [
+        "月平均日数与会后利率反推",
+        "二项概率假设及EFFR旧定义纠正",
+        "2018不同模型概率归属"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B003/C-RATE-08_FIRST_DRAFT.md",
+      "first_draft_sha256": "5b3555b2346287e6f6ac7061fb70e07cfdaddaa0211b335ebd7a6a53b7b15bc0",
+      "status": "draft_ready_for_main_review"
+    },
+    {
+      "id": "C-IR-CURVE",
+      "path": "10_concepts/C-IR-CURVE.md",
+      "evidence_as_of": "2025-05-28",
+      "source_urls": [
+        "https://www.federalreserve.gov/pubs/feds/2006/200628/200628pap.pdf",
+        "https://www.federalreserve.gov/data/nominal-yield-curve.htm",
+        "https://home.treasury.gov/policy-issues/financing-the-government/interest-rate-statistics/treasury-yield-curve-methodology",
+        "https://home.treasury.gov/policy-issues/financing-the-government/yield-curve-methodology-change-information-sheet",
+        "https://home.treasury.gov/resource-center/data-chart-center/interest-rates/TextView?type=daily_treasury_yield_curve&field_tdr_date_value=2024",
+        "https://www.federalreserve.gov/monetarypolicy/fomcminutes20250507.htm"
+      ],
+      "key_review_points": [
+        "零息/平价/远期公式的复利口径",
+        "2024财政部表头映射及斜率计算",
+        "实时版本与事后下载区别"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B003/C-IR-CURVE_FIRST_DRAFT.md",
+      "first_draft_sha256": "11687463ede8a00e8331c0026d017f9f82dcf97e13f92159d1c7549879e91f70",
+      "status": "draft_ready_for_main_review"
+    },
+    {
+      "id": "C-MONEY-RESERVES",
+      "path": "10_concepts/C-MONEY-RESERVES.md",
+      "evidence_as_of": "2026-03-31",
+      "source_urls": [
+        "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf",
+        "https://www.federalreserve.gov/monetarypolicy/reservereq.htm",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/fluctuations-in-the-treasury-general-account-and-their-effect-on-the-feds-balance-sheet-20250806.html",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/what-Happened-in-Money-Markets-in-September-2019-20200227.htm",
+        "https://www.newyorkfed.org/medialibrary/media/markets/omo/omo2024-pdf.pdf",
+        "https://www.newyorkfed.org/newsevents/speeches/2025/per250522",
+        "https://www.newyorkfed.org/markets/opolicy/operating_policy_251210a",
+        "https://tellerwindow.newyorkfed.org/2026/03/31/the-implementation-of-reserve-management-purchases-to-maintain-ample-reserves/",
+        "https://www.newyorkfed.org/newsevents/speeches/2026/per260326"
+      ],
+      "key_review_points": [
+        "2025停止缩减与RMP日期",
+        "2026-03-31预期不冒充后续执行",
+        "总量/分布/可用性与法定要求区别"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B003/C-MONEY-RESERVES_FIRST_DRAFT.md",
+      "first_draft_sha256": "6b1c9d64a317470e216e111885edce2d62657e844cf0a72561fc4d354946043c",
+      "status": "draft_ready_for_main_review"
+    }
+  ]
+}

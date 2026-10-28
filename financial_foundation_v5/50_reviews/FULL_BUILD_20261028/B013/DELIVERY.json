@@ -1,0 +1,76 @@
+{
+  "batch": "B013",
+  "author": "/root/full_b013",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "updated": "2026-10-28",
+  "items": [
+    {
+      "id": "C-FX-13",
+      "path": "10_concepts/C-FX-13.md",
+      "evidence_as_of": "2025-11",
+      "source_urls": [
+        "https://data.imf.org/-/media/Explanatory-Notes-November-2025-BOPSY.pdf",
+        "https://www.safe.gov.cn/safe/2025/0328/25908.html",
+        "https://www.imf.org/en/news/articles/2022/03/30/pr2297-executive-board-concludes-the-review-of-the-institutional-view-on-capital-flows",
+        "https://www.imf.org/en/about/faq/capital-flows",
+        "https://www.safe.gov.cn/safe/2025/0113/25639.html",
+        "https://www.imf.org/en/publications/policy-papers/issues/2023/12/11/guidance-note-on-the-liberalization-and-management-of-capital-flows-542289"
+      ],
+      "key_review_points": [
+        "资产负债两侧与SAFE符号",
+        "2024发布版本及四舍五入",
+        "参数增幅不等于资本流入增幅"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B013/C-FX-13_FIRST_DRAFT.md",
+      "first_draft_sha256": "af3158a9ff2b83617affb8f3e4706adfc87cdd5d050b3e993942a70f23a51fdc",
+      "status": "draft"
+    },
+    {
+      "id": "C-FX-14",
+      "path": "10_concepts/C-FX-14.md",
+      "evidence_as_of": "2026-09-30",
+      "source_urls": [
+        "https://data.imf.org/-/media/Explanatory-Notes-November-2025-BOPSY.pdf",
+        "https://data.imf.org/en/datasets/IMF.STA:COFER",
+        "https://www.safe.gov.cn/safe/2025/0107/25624.html",
+        "https://www.imf.org/en/blogs/articles/2025/10/01/dollars-share-of-reserves-held-steady-in-second-quarter-when-adjusted-for-fx-moves",
+        "https://data.imf.org/en/news/imf-data-brief-december-19",
+        "https://data.imf.org/en/news/imf%20data%20brief%20september%2030"
+      ],
+      "key_review_points": [
+        "COFER旧版与2025Q3改制不直接拼接",
+        "2026Q2发布者归因与独立测量区分",
+        "外汇储备不含黄金SDR及IMF储备头寸"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B013/C-FX-14_FIRST_DRAFT.md",
+      "first_draft_sha256": "30407e535b63670c10be6ecbe0c378221d91e5f032e3d6d997306eef89e736ce",
+      "status": "draft"
+    },
+    {
+      "id": "C-FX-17",
+      "path": "10_concepts/C-FX-17.md",
+      "evidence_as_of": "2025-06",
+      "source_urls": [
+        "https://www.bis.org/publications/sizing-carry-trades-bis-statistics",
+        "https://www.bis.org/publications/bulletin-90-market-turbulence-and-carry-trade-unwind-august-2024.pdf",
+        "https://www.bis.org/publications/qr-201609/covered-interest-parity-lost-understanding-cross-currency-basis",
+        "https://www.bis.org/publications/aer-2025/financial-conditions-changing-global-financial-system"
+      ],
+      "key_review_points": [
+        "汇率方向及平衡报价",
+        "40万亿日元并非平仓规模",
+        "衍生品名义与未对冲套息分开"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B013/C-FX-17_FIRST_DRAFT.md",
+      "first_draft_sha256": "37f9ff0f6e6c7d07cbeff99be7cca1a2ba3206886bdac6ccba35087da0b6670d",
+      "status": "draft"
+    }
+  ]
+}

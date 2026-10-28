@@ -1,0 +1,81 @@
+{
+  "batch": "B024",
+  "author": "/root/full_b024",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "updated": "2026-10-28",
+  "items": [
+    {
+      "id": "C-COMMOD-13",
+      "path": "10_concepts/C-COMMOD-13.md",
+      "evidence_as_of": "2026-10-14",
+      "source_urls": [
+        "https://www.opec.org/brief-history.html",
+        "https://www.eia.gov/TodayinEnergy/detail.php?id=66904",
+        "https://www.opec.org/pr-detail/243573-07-september-2025.html",
+        "https://www.eia.gov/finance/markets/crudeoil/supply-opec.php",
+        "https://www.opec.org/pr-detail/616-4-october-2026.html",
+        "https://www.iea.org/reports/oil-market-report-october-2026"
+      ],
+      "key_review_points": [
+        "EIA 2025-12-19新有效产能定义与教学页旧30/90定义的版本区别",
+        "IEA 2026-10公开生产表：OPEC 21.15/29.11/0.16，OPEC+34.80/43.93/0.27，单位mb/d；空栏不得补零",
+        "2025八国与2026七国公告范围不同；不从侧栏推断现行成员"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B024/C-COMMOD-13_FIRST_DRAFT.md",
+      "first_draft_sha256": "6d74f361c32b83865feb96819a4acac32db71de93f01f5afc5aa01fcdca1fe50",
+      "status": "draft"
+    },
+    {
+      "id": "C-COMMOD-14",
+      "path": "10_concepts/C-COMMOD-14.md",
+      "evidence_as_of": "2026-10-16",
+      "source_urls": [
+        "https://www.iea.org/reports/oil-security-policy",
+        "https://www.iea.org/news/iea-governing-board-concludes-2022-collective-actions",
+        "https://www.energy.gov/articles/energy-department-initiates-strategic-petroleum-reserve-emergency-exchange-stabilize",
+        "https://www.energy.gov/hgeo/opr/spr-quick-facts",
+        "https://www.iea.org/reports/oil-market-report-october-2026",
+        "https://www.iea.org/data-and-statistics/data-tools/oil-stocks-of-iea-countries"
+      ],
+      "key_review_points": [
+        "DOE 2026-10-16分库总量282.2mb、甜油96.6/酸油185.6，授权库容714mb",
+        "3月8600万首批包含于1.72亿美国交换与4亿IEA计划；不重复加总",
+        "IEA90天以调整后净进口为分母且扣减不可用库存，不等于90天消费",
+        "名义440万桶/日与13天不作为任何状态保证"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B024/C-COMMOD-14_FIRST_DRAFT.md",
+      "first_draft_sha256": "64f42565eb0565e06870a07307abaa0f1e136968a3014eae902c57e6581c702e",
+      "status": "draft"
+    },
+    {
+      "id": "C-COMMOD-16",
+      "path": "10_concepts/C-COMMOD-16.md",
+      "evidence_as_of": "2026-07-17",
+      "source_urls": [
+        "https://climate.ec.europa.eu/areas-action/carbon-markets/about-eu-ets_en",
+        "https://climate.ec.europa.eu/areas-action/carbon-markets/eu-emissions-trading-system-eu-ets/eu-ets-emissions-cap_en",
+        "https://climate.ec.europa.eu/areas-action/carbon-markets/eu-emissions-trading-system-eu-ets/market-stability-reserve_en",
+        "https://www.mee.gov.cn/ywgz/ydqhbh/wsqtkz/202509/W020250927515316322073.pdf",
+        "https://www.mee.gov.cn/ywgz/ydqhbh/wsqtkz/202601/t20260101_1139528.shtml",
+        "https://www.esma.europa.eu/sites/default/files/2025-10/ESMA50-481369926-30552_Carbon_Markets_Report_2025.pdf",
+        "https://climate.ec.europa.eu/news-other-reads/news/2025-carbon-market-report-eu-ets-lowers-power-sector-emissions-and-expands-maritime-transport-2025-12-03_en"
+      ],
+      "key_review_points": [
+        "中国2025年交易均价62.36、年底74.63、成交2.35亿吨和146.30亿元；2024排放年度81.94亿吨清缴与交易年度分开",
+        "ESMA 2024 EUA现货均价65欧元/吨、同比-22%；非2026行情",
+        "强度分配算例区分净现金支出与固定产出减排机会成本",
+        "2026欧盟提案不写成实施结果；中国2027/2030为政策目标非价格预测"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B024/C-COMMOD-16_FIRST_DRAFT.md",
+      "first_draft_sha256": "cf52fc74cb64173b3e89b676db87f78ba9bc523687d018d75acf5dfb224727a1",
+      "status": "draft"
+    }
+  ]
+}

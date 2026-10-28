@@ -1,0 +1,35 @@
+{
+  "batch": "B041",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-TECH-18",
+      "name": "AMD",
+      "scope": "CPU、GPU与AI加速器公司",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-18.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    },
+    {
+      "id": "C-TECH-19",
+      "name": "Microsoft",
+      "scope": "企业软件、云与AI平台",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-19.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    },
+    {
+      "id": "C-TECH-20",
+      "name": "Amazon",
+      "scope": "零售、物流与AWS云业务",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-20.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "batch": "B065",
+  "draft_author": "/root/full_b065",
+  "items": [
+    {
+      "id": "R-MARKET-07",
+      "path": "20_mechanisms/R-MARKET-07.md",
+      "evidence_as_of": "2026-07",
+      "source_urls": [
+        "https://www.spglobal.com/spdji/en/documents/additional-material/sp-risk-control-indices-parameters.pdf",
+        "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2020/html/ecb.fsrbox202005_02~f6616db9be.en.html"
+      ],
+      "key_review_points": [
+        "S&P现版2026-07与两行参数",
+        "融资现货算例卖额6062.5万元",
+        "ECB225%模型量而非行业成交"
+      ],
+      "node_ids_refined": false,
+      "reason": null,
+      "status": "draft",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B065/R-MARKET-07_FIRST_DRAFT.md"
+    },
+    {
+      "id": "R-MARKET-08",
+      "path": "20_mechanisms/R-MARKET-08.md",
+      "evidence_as_of": "2026-10-16",
+      "source_urls": [
+        "https://www.federalreserve.gov/econres/notes/feds-notes/government-bonds-safe-haven-property-and-inflationary-pressures-20261016.html",
+        "https://www.ecb.europa.eu/press/financial-stability-publications/fsr/focus/2020/html/ecb.fsrbox202005_02~f6616db9be.en.html"
+      ],
+      "key_review_points": [
+        "股票收益—收益率变化相关符号与债券收益相反",
+        "Table1与Table2样本不同",
+        "两资产ERC权重与总缩放分开"
+      ],
+      "node_ids_refined": false,
+      "reason": null,
+      "status": "draft",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B065/R-MARKET-08_FIRST_DRAFT.md"
+    },
+    {
+      "id": "R-MARKET-09",
+      "path": "20_mechanisms/R-MARKET-09.md",
+      "evidence_as_of": "2025-06-17",
+      "source_urls": [
+        "https://w4.stern.nyu.edu/facdir/lpederse/papers/TimeSeriesMomentum.pdf",
+        "https://www.man.com/insights/trend-following-weathering-aprils-market-showers",
+        "https://www.man.com/insights/is-this-time-different"
+      ],
+      "key_review_points": [
+        "趋势信号与风险缩放可导致相反订单",
+        "滚动12个月−18.6%非年内",
+        "聚合流量相关−.1不排除局部拥挤"
+      ],
+      "node_ids_refined": false,
+      "reason": null,
+      "status": "draft",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B065/R-MARKET-09_FIRST_DRAFT.md"
+    }
+  ]
+}

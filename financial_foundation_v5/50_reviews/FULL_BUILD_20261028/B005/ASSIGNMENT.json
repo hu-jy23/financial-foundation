@@ -1,0 +1,35 @@
+{
+  "batch": "B005",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-MONEY-12",
+      "name": "美元互换额度",
+      "scope": "央行之间的美元流动性安排",
+      "kind": "concepts",
+      "path": "10_concepts/C-MONEY-12.md",
+      "node_ids": [],
+      "group": "货币、央行与流动性"
+    },
+    {
+      "id": "C-MONEY-14",
+      "name": "隔夜逆回购ONRRP",
+      "scope": "特定美国央行负债工具",
+      "kind": "concepts",
+      "path": "10_concepts/C-MONEY-14.md",
+      "node_ids": [],
+      "group": "货币、央行与流动性"
+    },
+    {
+      "id": "C-LIQ-MARKET",
+      "name": "市场流动性",
+      "scope": "价差、深度、冲击成本",
+      "kind": "concepts",
+      "path": "10_concepts/C-LIQ-MARKET.md",
+      "node_ids": [],
+      "group": "货币、央行与流动性"
+    }
+  ]
+}

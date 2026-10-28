@@ -1,0 +1,72 @@
+{
+  "batch": "B010",
+  "author": "/root/full_b010",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "updated": "2026-10-28",
+  "status": "submitted_for_main_review",
+  "items": [
+    {
+      "id": "C-CREDIT-15",
+      "path": "10_concepts/C-CREDIT-15.md",
+      "evidence_as_of": "2026-06",
+      "source_urls": [
+        "https://www.federalreserve.gov/publications/2023-April-SVB-Key-Takeaways.htm",
+        "https://www.fsb.org/2024/10/depositor-behaviour-and-interest-rate-and-liquidity-risks-in-the-financial-system-lessons-from-the-march-2023-banking-turmoil/",
+        "https://www.helpwithmybank.gov/help-topics/bank-accounts/fdic-deposit-insurance/fdic.html",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20230312b.htm",
+        "https://www.federalreserve.gov/publications/2026-june-supervision-and-regulation-report-report-banking-system-conditions.htm",
+        "https://www.bis.org/speeches/20230524-quest-deposit-stability"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B010/C-CREDIT-15_FIRST_DRAFT.md",
+      "sha256": "d49cd645ba7b389f0a2754e772691e9917a4c8fef91f5f3526fc51a0b85fd56a",
+      "node_ids_refined": false,
+      "refinement_reason": null,
+      "review_points": [
+        "实际提款与预期流出区分",
+        "单行迁移与体系总量区分",
+        "保险说明版本与美国适用范围"
+      ]
+    },
+    {
+      "id": "C-CREDIT-16",
+      "path": "10_concepts/C-CREDIT-16.md",
+      "evidence_as_of": "2026-06",
+      "source_urls": [
+        "https://www.bis.org/publications/working-paper-395-financial-cycle-and-macroeconomics-what-have-we-learnt.pdf",
+        "https://www.bis.org/publications/aer-2024/laying-robust-macro-financial-foundation-future",
+        "https://www.bis.org/publications/202505-commentary-residential-property-prices",
+        "https://www.federalreserve.gov/publications/2026-june-supervision-and-regulation-report-report-banking-system-conditions.htm"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B010/C-CREDIT-16_FIRST_DRAFT.md",
+      "sha256": "ff671529305eda129eece4cb7529e0fa3004c6f5b4a3e2c314e9f89c6f020ffb",
+      "node_ids_refined": false,
+      "refinement_reason": null,
+      "review_points": [
+        "统计频段和平均周期不是定律",
+        "2024风险预期与2025美国结果异质性",
+        "未给2026全球定相"
+      ]
+    },
+    {
+      "id": "C-FX-USD",
+      "path": "10_concepts/C-FX-USD.md",
+      "evidence_as_of": "2025-09-30",
+      "source_urls": [
+        "https://www.federalreserve.gov/econres/notes/feds-notes/the-international-role-of-the-u-s-dollar-2025-edition-20250718.html",
+        "https://www.bis.org/speeches/20230323-dollar-based-financial-system-through-window-fx-swaps-market.pdf",
+        "https://www.federalreservehistory.org/essays/gold-convertibility-ends",
+        "https://www.bis.org/publications/202509-commentary-otc-derivatives"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B010/C-FX-USD_FIRST_DRAFT.md",
+      "sha256": "99bda5240a1353e7a22f706d7a1e4d0e3c7129891f35248d3299f4ade49688cd",
+      "node_ids_refined": false,
+      "refinement_reason": null,
+      "review_points": [
+        "美元四功能不同分母",
+        "2025年9月初步调查非终版",
+        "汇率估值与主动储备调整区分"
+      ]
+    }
+  ]
+}

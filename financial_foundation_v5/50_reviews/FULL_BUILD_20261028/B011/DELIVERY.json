@@ -1,0 +1,75 @@
+{
+  "batch": "B011",
+  "author": "/root/full_b011",
+  "status": "submitted_for_main_review",
+  "updated": "2026-10-28",
+  "entries": [
+    {
+      "id": "C-FX-02",
+      "path": "10_concepts/C-FX-02.md",
+      "evidence_as_of": "2026-10-23",
+      "source_urls": [
+        "https://www.cmegroup.com/tools-information/lookups/advisories/clearing/Chadv13-062.html",
+        "https://www.rba.gov.au/publications/bulletin/2026/aug/developments-in-rmb-internationalisation.html",
+        "https://www.chinamoney.com.cn/chinese/zgrmyh/20140317/1002330.html",
+        "https://www.info.gov.hk/gia/general/202601/26/P2026012600250.htm",
+        "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/10/20261023-4"
+      ],
+      "key_review_points": [
+        "CNY/CNH同币种与不同资金市场",
+        "RBF 2000亿元与PLP 220亿元不同设施",
+        "2015—2016峰值未取逐日原始序列"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": "Concept无node_ids改动；不修改共享索引",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B011/C-FX-02_FIRST_DRAFT.md",
+      "first_draft_sha256": "92897f41fc2e62809226ae3926c94b8fa6c78444b4de11da3d0238d0d33f8612"
+    },
+    {
+      "id": "C-FX-03",
+      "path": "10_concepts/C-FX-03.md",
+      "evidence_as_of": "2026-09-18",
+      "source_urls": [
+        "https://www.boj.or.jp/en/about/education/oshiete/intl/g19.htm",
+        "https://www.bis.org/publications/sizing-carry-trades-bis-statistics",
+        "https://www.mof.go.jp/english/policy/international_policy/reference/iip/e2025.htm",
+        "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2024/k240319a.pdf",
+        "https://www.bis.org/publications/bulletin-90-market-turbulence-and-carry-trade-unwind-august-2024.pdf",
+        "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2025/k250124a.pdf",
+        "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf"
+      ],
+      "key_review_points": [
+        "2026-09-18 BOJ 1.25%和9月24日生效",
+        "IIP十亿到万亿换算与旧caption",
+        "套息量级和贷款/衍生品不可等同"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": "Concept无node_ids改动；不修改共享索引",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B011/C-FX-03_FIRST_DRAFT.md",
+      "first_draft_sha256": "657231dc1f102dc48e6a20e663c8177b148aab9fee8bda231f83af9e6b4a5be5"
+    },
+    {
+      "id": "C-FX-04",
+      "path": "10_concepts/C-FX-04.md",
+      "evidence_as_of": "2026-06-02",
+      "source_urls": [
+        "https://www.ecb.europa.eu/ecb/orga/escb/html/index.en.html",
+        "https://www.ecb.europa.eu/ecb/orga/tasks/europe/emu/html/index.en.html",
+        "https://www.ecb.europa.eu/mopo/strategy/strategy-review/ecb.strategyreview202506_strategy_statement.en.html",
+        "https://www.ecb.europa.eu/press/pr/date/2024/html/ecb.pr240313~807e240020.en.html",
+        "https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.pr220721~973e6e7273.en.html",
+        "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr260602~f941e87516.en.html",
+        "https://www.ecb.europa.eu/press/pr/date/2012/html/pr120906_1.en.html"
+      ],
+      "key_review_points": [
+        "欧元体系与ESCB边界",
+        "20%综合份额六项方法",
+        "2024操作参数未冒充2026复审结果"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": "Concept无node_ids改动；不修改共享索引",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B011/C-FX-04_FIRST_DRAFT.md",
+      "first_draft_sha256": "198dd8ab64a7a46da1f518c911d89bd6ba5f94ae5992f76c06f8e4760d58c8dc"
+    }
+  ]
+}

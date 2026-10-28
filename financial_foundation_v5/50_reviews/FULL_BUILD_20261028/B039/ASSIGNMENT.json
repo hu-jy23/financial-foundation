@@ -1,0 +1,35 @@
+{
+  "batch": "B039",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-TECH-07",
+      "name": "晶圆制造与先进制程",
+      "scope": "良率、产能、设备与限制",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-07.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    },
+    {
+      "id": "C-TECH-08",
+      "name": "先进封装与CoWoS",
+      "scope": "集成工艺和瓶颈",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-08.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    },
+    {
+      "id": "C-TECH-09",
+      "name": "半导体设备与材料",
+      "scope": "资本开支链和技术约束",
+      "kind": "concepts",
+      "path": "10_concepts/C-TECH-09.md",
+      "node_ids": [],
+      "group": "AI、科技与产业链"
+    }
+  ]
+}

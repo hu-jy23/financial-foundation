@@ -1,0 +1,76 @@
+{
+  "batch": "B012",
+  "author": "/root/full_b012",
+  "updated": "2026-10-28",
+  "status": "submitted_for_full_review",
+  "items": [
+    {
+      "id": "C-FX-05",
+      "path": "10_concepts/C-FX-05.md",
+      "evidence_as_of": "2025-10-22",
+      "source_urls": [
+        "https://www.hkma.gov.hk/eng/key-functions/money/linked-exchange-rate-system/",
+        "https://www.hkma.gov.hk/eng/key-functions/money/linked-exchange-rate-system/components-of-the-monetary-base/",
+        "https://www.hkma.gov.hk/eng/data-publications-and-research/guide-to-monetary-banking-and-financial-terms/",
+        "https://www.hkma.gov.hk/eng/key-functions/money/linked-exchange-rate-system/how-does-the-lers-work/",
+        "https://www.info.gov.hk/gia/general/200505/18/05180288.htm",
+        "https://www.info.gov.hk/gia/general/202508/13/P2025081300548p.htm",
+        "https://www.info.gov.hk/gia/general/202506/26/P2025062600339p.htm"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B012/C-FX-05_FIRST_DRAFT.md",
+      "first_draft_sha256": "cb11a3177e5b49a986e0abefa5d0769aa98a5a2772ce1ead665152d06dda94d4",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "key_review_points": [
+        "7.80发钞与双向兑换保证不同",
+        "总结余不是全部货币基础或存款",
+        "2025-06-27余额为公告预告值"
+      ]
+    },
+    {
+      "id": "C-FX-07",
+      "path": "10_concepts/C-FX-07.md",
+      "evidence_as_of": "2026-10-26",
+      "source_urls": [
+        "https://www.ice.com/forex/usdx",
+        "https://www.ice.com/insights/indexation-and-etfs/managing-us-dollar-risk-in-uncertain_times",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/revisions-to-the-federal-reserve-dollar-indexes-20190115.html",
+        "https://www.federalreserve.gov/releases/H10/Weights/",
+        "https://www.federalreserve.gov/releases/h10/summary/",
+        "https://www.federalreserve.gov/feeds/h10.html"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B012/C-FX-07_FIRST_DRAFT.md",
+      "first_draft_sha256": "5da8e61426108ae5da2aa8f5cc034d636d270236729064e280d319be4aab5ae6",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "key_review_points": [
+        "Fed2026权重及旧Summary文字冲突",
+        "几何平均百分比变化算例",
+        "未给索引新增关联节点"
+      ]
+    },
+    {
+      "id": "C-FX-10",
+      "path": "10_concepts/C-FX-10.md",
+      "evidence_as_of": "2025-12",
+      "source_urls": [
+        "https://www.bis.org/publications/qr-201609/covered-interest-parity-lost-understanding-cross-currency-basis",
+        "https://www.federalreserve.gov/econres/feds/files/2024061pap.pdf",
+        "https://www.federalreserve.gov/publications/2020-may-financial-stability-report-overview.htm",
+        "https://www.bis.org/publications/qr-202512/global-fx-markets-when-hedging-takes-centre-stage",
+        "https://www.bis.org/publications/bulletin-105-us-dollars-slide-april-2025-role-fx-hedging.pdf"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B012/C-FX-10_FIRST_DRAFT.md",
+      "first_draft_sha256": "4f3fd98169dad9100da593457f57934935e5aac434bc20aef2b8c25dafabbf1f",
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null,
+      "key_review_points": [
+        "美元直接成本减合成成本符号",
+        "单期教学公式不是多期互换报价",
+        "对冲总成本、基差与政策工具加点严格分开"
+      ]
+    }
+  ],
+  "shared_files_changed": false,
+  "git_operations": false
+}

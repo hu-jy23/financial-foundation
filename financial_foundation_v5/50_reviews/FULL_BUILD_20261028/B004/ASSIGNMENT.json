@@ -1,0 +1,35 @@
+{
+  "batch": "B004",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-MONEY-07",
+      "name": "准备金利率",
+      "scope": "央行对准备金支付或收取的利率及其适用制度；利率走廊的传导另见机制。",
+      "kind": "concepts",
+      "path": "10_concepts/C-MONEY-07.md",
+      "node_ids": [],
+      "group": "货币、央行与流动性"
+    },
+    {
+      "id": "C-MONEY-10",
+      "name": "回购与逆回购",
+      "scope": "融资方向、抵押品与对手方",
+      "kind": "concepts",
+      "path": "10_concepts/C-MONEY-10.md",
+      "node_ids": [],
+      "group": "货币、央行与流动性"
+    },
+    {
+      "id": "C-MONEY-11",
+      "name": "常备工具与最后贷款人",
+      "scope": "准入、抵押品和支持条件",
+      "kind": "concepts",
+      "path": "10_concepts/C-MONEY-11.md",
+      "node_ids": [],
+      "group": "货币、央行与流动性"
+    }
+  ]
+}

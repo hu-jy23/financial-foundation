@@ -1,0 +1,35 @@
+{
+  "batch": "B031",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "status": "queued",
+  "items": [
+    {
+      "id": "C-ASIA-03",
+      "name": "沪深港通与南北向资金",
+      "scope": "渠道、口径与披露制度",
+      "kind": "concepts",
+      "path": "10_concepts/C-ASIA-03.md",
+      "node_ids": [],
+      "group": "A股、港股与区域市场制度"
+    },
+    {
+      "id": "C-ASIA-04",
+      "name": "宽基ETF",
+      "scope": "跟踪宽基指数的实际基金产品、资产组合、投资者与市场作用；本轮未回补行业ETF。",
+      "kind": "concepts",
+      "path": "10_concepts/C-ASIA-04.md",
+      "node_ids": [],
+      "group": "A股、港股与区域市场制度"
+    },
+    {
+      "id": "C-ASIA-05",
+      "name": "红利资产与高股息指数",
+      "scope": "股息可持续性与规则",
+      "kind": "concepts",
+      "path": "10_concepts/C-ASIA-05.md",
+      "node_ids": [],
+      "group": "A股、港股与区域市场制度"
+    }
+  ]
+}
