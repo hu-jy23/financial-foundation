@@ -9,7 +9,7 @@
       "name": "港元联系汇率",
       "scope": "货币发行与利率传导制度",
       "kind": "concepts",
-      "path": "10_concepts/C-FX-05.md",
+      "path": "10_concepts/港元联系汇率.md",
       "node_ids": [],
       "group": "外汇与国际金融"
     },
@@ -18,7 +18,7 @@
       "name": "美元指数DXY与广义美元指数",
       "scope": "成分权重不同",
       "kind": "concepts",
-      "path": "10_concepts/C-FX-07.md",
+      "path": "10_concepts/美元指数DXY与广义美元指数.md",
       "node_ids": [],
       "group": "外汇与国际金融"
     },
@@ -27,7 +27,7 @@
       "name": "跨币种基差",
       "scope": "有担保利率平价偏离",
       "kind": "concepts",
-      "path": "10_concepts/C-FX-10.md",
+      "path": "10_concepts/跨币种基差.md",
       "node_ids": [],
       "group": "外汇与国际金融"
     }

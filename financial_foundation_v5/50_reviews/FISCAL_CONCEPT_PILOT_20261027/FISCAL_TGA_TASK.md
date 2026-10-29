@@ -15,8 +15,8 @@ Review directory: 50_reviews/FISCAL_CONCEPT_PILOT_20261027
 YAML: id,type,title,status:draft,draft_author实际agent路径,model:gpt-6-astra,reasoning_effort:medium,reviewed_by:null,updated:2026-10-27,evidence_as_of真实历史截止,source_ids。标题后简写作者和资料范围。每篇交付时保存完整首次提交稿为review目录中的ID_FIRST_DRAFT.md。main通读逐篇并复核关键来源；有实质问题会退回作者修改，首稿保留。汇报只给文件路径、缺口和需审阅问题，不粘全文。不另派subagent，不上传。
 
 ## 你的条目（2篇）
-- C-FISCAL-DEFICIT《财政赤字与初级赤字》→10_concepts/C-FISCAL-DEFICIT_fiscal_primary_deficit.md
-- C-MONEY-13《财政部一般账户TGA》→10_concepts/C-MONEY-13_treasury_general_account.md
+- C-FISCAL-DEFICIT《财政赤字与初级赤字》→10_concepts/财政赤字与初级赤字.md
+- C-MONEY-13《财政部一般账户TGA》→10_concepts/财政部一般账户TGA.md
 额外输出 FISCAL_TGA_AGENT_NOTES.md。
 
 财政篇重点：收入/支出/利息的预算口径与符号；赤字流量、债务存量、净借款和总发行之间的桥；初级余额和利息、债务/GDP动态的条件及 stock-flow adjustments；名义美元/占GDP、财政年/自然年、现金/权责口径。用实际预算记录和预测版本解释对象。区分美联邦口径与一般政府，必要时简明说明国际对照。

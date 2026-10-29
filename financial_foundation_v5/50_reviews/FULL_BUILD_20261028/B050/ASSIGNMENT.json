@@ -9,7 +9,7 @@
       "name": "数字资产交易所与托管",
       "scope": "交易对手及操作风险",
       "kind": "concepts",
-      "path": "10_concepts/C-CRYPTO-04.md",
+      "path": "10_concepts/数字资产交易所与托管.md",
       "node_ids": [],
       "group": "数字资产与新型金融"
     },
@@ -18,7 +18,7 @@
       "name": "加密资产杠杆与永续合约",
       "scope": "资金费率、清算和基差",
       "kind": "concepts",
-      "path": "10_concepts/C-CRYPTO-05.md",
+      "path": "10_concepts/加密资产杠杆与永续合约.md",
       "node_ids": [],
       "group": "数字资产与新型金融"
     },
@@ -27,7 +27,7 @@
       "name": "现货加密ETF",
       "scope": "份额、流量和基础资产",
       "kind": "concepts",
-      "path": "10_concepts/C-CRYPTO-06.md",
+      "path": "10_concepts/现货加密ETF.md",
       "node_ids": [],
       "group": "数字资产与新型金融"
     }

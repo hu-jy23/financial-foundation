@@ -9,7 +9,7 @@
       "name": "高收益债",
       "scope": "违约风险与流动性",
       "kind": "concepts",
-      "path": "10_concepts/C-BOND-06.md",
+      "path": "10_concepts/高收益债.md",
       "node_ids": [],
       "group": "债券与固定收益工具"
     },
@@ -18,7 +18,7 @@
       "name": "机构MBS",
       "scope": "提前还款与利率风险",
       "kind": "concepts",
-      "path": "10_concepts/C-BOND-07.md",
+      "path": "10_concepts/机构MBS.md",
       "node_ids": [],
       "group": "债券与固定收益工具"
     },
@@ -27,7 +27,7 @@
       "name": "浮息债FRN",
       "scope": "重置基准与利差",
       "kind": "concepts",
-      "path": "10_concepts/C-BOND-08.md",
+      "path": "10_concepts/浮息债FRN.md",
       "node_ids": [],
       "group": "债券与固定收益工具"
     }

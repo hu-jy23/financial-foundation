@@ -10,9 +10,9 @@
 
 | 对象 | 本轮处理 | 执笔与验收 |
 |---|---|---|
-| [实际利率 C-IR-REAL](../../10_concepts/C-IR-REAL_real_interest_rate.md) | 已有正文，保留；需要处只更新新对象链接 | 历史执笔`/root/concepts_v2`，主agent审阅；旧运行模型未记录，不推断 |
-| [黄金 C-ASSET-GOLD](../../10_concepts/C-ASSET-GOLD_gold.md) | 本轮新增 | main `/root`独立执笔与自审 |
-| [政策利率与目标区间 C-IR-POLICY](../../10_concepts/C-IR-POLICY_policy_rate_target_range.md) | 本轮新增 | `/root/policy_concept`，GPT-6-Astra、medium；main逐篇审阅 |
+| [实际利率 C-IR-REAL](../../10_concepts/实际利率.md) | 已有正文，保留；需要处只更新新对象链接 | 历史执笔`/root/concepts_v2`，主agent审阅；旧运行模型未记录，不推断 |
+| [黄金 C-ASSET-GOLD](../../10_concepts/黄金.md) | 本轮新增 | main `/root`独立执笔与自审 |
+| [政策利率与目标区间 C-IR-POLICY](../../10_concepts/政策利率与目标区间.md) | 本轮新增 | `/root/policy_concept`，GPT-6-Astra、medium；main逐篇审阅 |
 
 main本轮只新写一个条目；其余一个新条目全部由subagent完成。每位subagent至多三个条目的要求得到满足。这里实际是一名subagent、一个任务的流程试产；它验证了输入隔离、独立研究、主审与整合流程，尚不足以证明多agent同时交付时的吞吐量与一致性。
 

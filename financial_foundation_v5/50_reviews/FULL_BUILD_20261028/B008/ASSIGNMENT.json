@@ -9,7 +9,7 @@
       "name": "净息差NIM",
       "scope": "资产收益与负债成本",
       "kind": "concepts",
-      "path": "10_concepts/C-CREDIT-04.md",
+      "path": "10_concepts/净息差NIM.md",
       "node_ids": [],
       "group": "银行、信用与金融稳定"
     },
@@ -18,7 +18,7 @@
       "name": "信用利差",
       "scope": "无风险曲线外的补偿",
       "kind": "concepts",
-      "path": "10_concepts/C-CREDIT-SPREAD.md",
+      "path": "10_concepts/信用利差.md",
       "node_ids": [],
       "group": "银行、信用与金融稳定"
     },
@@ -27,7 +27,7 @@
       "name": "信用评级与迁移",
       "scope": "评级行动和滞后",
       "kind": "concepts",
-      "path": "10_concepts/C-CREDIT-08.md",
+      "path": "10_concepts/信用评级与迁移.md",
       "node_ids": [],
       "group": "银行、信用与金融稳定"
     }

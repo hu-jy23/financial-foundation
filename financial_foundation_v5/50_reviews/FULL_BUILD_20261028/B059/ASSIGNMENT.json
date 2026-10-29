@@ -9,7 +9,7 @@
       "name": "债务通缩",
       "scope": "收入价格下降、名义债固定",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-DEBT-DEFLATION.md",
+      "path": "20_mechanisms/债务通缩.md",
       "node_ids": [
         "C-INF-INFLATION",
         "C-CREDIT-16",
@@ -22,7 +22,7 @@
       "name": "证券化中的风险转移与激励",
       "scope": "分层、信息和监管",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-BANKING-09.md",
+      "path": "20_mechanisms/证券化中的风险转移与激励.md",
       "node_ids": [
         "C-CREDIT-13",
         "C-CREDIT-02",
@@ -35,7 +35,7 @@
       "name": "最后贷款人的危机干预",
       "scope": "抵押、可得性和道德风险",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-BANKING-10.md",
+      "path": "20_mechanisms/最后贷款人的危机干预.md",
       "node_ids": [
         "C-MONEY-11",
         "C-CREDIT-10",

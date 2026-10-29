@@ -8,9 +8,9 @@
 
 | 文件 | 资料边界 | 首次提交稿 |
 |---|---|---|
-| `10_concepts/C-MONEY-CBBS_central_bank_balance_sheet.md` | 历史余额到2025-04-30；使用2025年5月官方回顾报告，出版只核到月份，故evidence_as_of为字符串2025-05 | `C-MONEY-CBBS_FIRST_DRAFT.md` |
-| `10_concepts/C-POL-QE_quantitative_easing.md` | 2022-03-16，净购买退出与全额再投资阶段 | `C-POL-QE_FIRST_DRAFT.md` |
-| `10_concepts/C-POL-QT_quantitative_tightening.md` | 2025-04-28；2025年3月会议观点由4月9日纪要回顾 | `C-POL-QT_FIRST_DRAFT.md` |
+| `10_concepts/央行资产负债表.md` | 历史余额到2025-04-30；使用2025年5月官方回顾报告，出版只核到月份，故evidence_as_of为字符串2025-05 | `C-MONEY-CBBS_FIRST_DRAFT.md` |
+| `10_concepts/量化宽松QE.md` | 2022-03-16，净购买退出与全额再投资阶段 | `C-POL-QE_FIRST_DRAFT.md` |
+| `10_concepts/量化紧缩QT.md` | 2025-04-28；2025年3月会议观点由4月9日纪要回顾 | `C-POL-QT_FIRST_DRAFT.md` |
 
 三个首稿为本次提交时正文的逐字副本；主agent若要求修改，应保留首稿。
 
@@ -60,10 +60,10 @@
 | `00_start/NODE_SELECTION_GUIDE.md` | `f143df64bccddf5ad35124707125d39431d41c9cd0c65cdfb05029a43f50a0fa` |
 | `00_start/templates/CONCEPT_TEMPLATE.md` | `90b2bf37e8525eb8946f4feb1643ea889b8b7732817db69e6cf2a62f0364ac5a` |
 | `00_start/catalog_index.json` | `2e3507d689f8fac421a9bf94110c6d2bc55ac937c75554b277b53d5f3f258915` |
-| `10_concepts/C-IR-REAL_real_interest_rate.md` | `b6067a0e4cbba0e425bedb0ef04a77a8d98baa4f38e8a860620329a497ced7ad` |
-| `10_concepts/C-IR-TERM_term_premium.md` | `54163ad222e8212e3a40339e87fdb58a3d58252522ebc8719225ab61c7d4f842` |
-| `10_concepts/C-IR-POLICY_policy_rate_target_range.md` | `169f200583909fb3e5f32ed07bf64e6200f0b1b784d75c9cf1b08506e28944cd` |
-| `20_mechanisms/R-FISCAL-LONGYIELD_fiscal_long_yields.md` | `653d2aed2ef2184ceaa05e64be00f609d057e3763d9b7bbabb6f75fc12b490bd` |
+| `10_concepts/实际利率.md` | `b6067a0e4cbba0e425bedb0ef04a77a8d98baa4f38e8a860620329a497ced7ad` |
+| `10_concepts/期限溢价.md` | `54163ad222e8212e3a40339e87fdb58a3d58252522ebc8719225ab61c7d4f842` |
+| `10_concepts/政策利率与目标区间.md` | `169f200583909fb3e5f32ed07bf64e6200f0b1b784d75c9cf1b08506e28944cd` |
+| `20_mechanisms/国债供给的定价机制.md` | `653d2aed2ef2184ceaa05e64be00f609d057e3763d9b7bbabb6f75fc12b490bd` |
 | `40_sources/ACQUISITION_SHORTLIST.md` | `c0c4964479be518eee09d08116b90416e66fd8d60d49004ad54c8c94a7effa9b` |
 | `40_sources/SOURCES_FISCAL.md` | `05158ece98178b262aee624ea3b67bf069de53cff0eb466639bafacc9f0b60be` |
 | `50_reviews/FISCAL_CONCEPT_PILOT_20261027/CBBS_QE_QT_TASK.md` | `e6dc3788f910fa26b828c2d8c659a2336e1558622fa159a7483c5de2024accc8` |

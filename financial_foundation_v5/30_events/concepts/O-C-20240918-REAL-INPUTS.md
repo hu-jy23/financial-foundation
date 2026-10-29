@@ -40,4 +40,4 @@ SEP 于 14:00 EDT 发布。本次依据的是发布会最终文字稿，其首�
 
 ## 资料范围
 
-会前降息幅度的市场概率分布尚未取得；当前以官员预测和已核读政策为基础。来源：[S-CV2-08、09、10](../../40_sources/SOURCES_CONCEPTS.md)；关联：[实际利率](../../10_concepts/C-IR-REAL_real_interest_rate.md)。
+会前降息幅度的市场概率分布尚未取得；当前以官员预测和已核读政策为基础。来源：[S-CV2-08、09、10](../../40_sources/SOURCES_CONCEPTS.md)；关联：[实际利率](../../10_concepts/实际利率.md)。

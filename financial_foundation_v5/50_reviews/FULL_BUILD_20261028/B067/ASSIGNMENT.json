@@ -9,7 +9,7 @@
       "name": "做市商Gamma对冲的价格反馈",
       "scope": "净持仓符号与交易规则",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-DERIVATIVES-03.md",
+      "path": "20_mechanisms/做市商Gamma对冲的价格反馈.md",
       "node_ids": [
         "C-FLOW-10"
       ],
@@ -20,7 +20,7 @@
       "name": "波动率风险溢价与卖波收益风险",
       "scope": "尾部损失和交易成本",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-DERIVATIVES-06.md",
+      "path": "20_mechanisms/波动率风险溢价与卖波收益风险.md",
       "node_ids": [
         "C-DERIV-04",
         "C-VOL-IVRV",
@@ -33,7 +33,7 @@
       "name": "偏斜与尾部保险需求",
       "scope": "供需、跳跃与持仓",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-DERIVATIVES-07.md",
+      "path": "20_mechanisms/偏斜与尾部保险需求.md",
       "node_ids": [
         "C-VOL-IVRV",
         "C-DERIV-04"

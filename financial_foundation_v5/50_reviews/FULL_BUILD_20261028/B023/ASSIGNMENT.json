@@ -9,7 +9,7 @@
       "name": "铝与电力成本",
       "scope": "能耗、冶炼和供给约束",
       "kind": "concepts",
-      "path": "10_concepts/C-COMMOD-07.md",
+      "path": "10_concepts/铝与电力成本.md",
       "node_ids": [],
       "group": "黄金、能源与大宗商品"
     },
@@ -18,7 +18,7 @@
       "name": "铁矿石与钢铁",
       "scope": "地产基建、产量和库存",
       "kind": "concepts",
-      "path": "10_concepts/C-COMMOD-08.md",
+      "path": "10_concepts/铁矿石与钢铁.md",
       "node_ids": [],
       "group": "黄金、能源与大宗商品"
     },
@@ -27,7 +27,7 @@
       "name": "农产品",
       "scope": "天气、种植、库存与贸易",
       "kind": "concepts",
-      "path": "10_concepts/C-COMMOD-09.md",
+      "path": "10_concepts/农产品.md",
       "node_ids": [],
       "group": "黄金、能源与大宗商品"
     }

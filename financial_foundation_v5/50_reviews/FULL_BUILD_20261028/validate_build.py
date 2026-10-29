@@ -14,6 +14,7 @@ from pathlib import Path
 from urllib.parse import unquote
 
 import yaml
+from filename_migration import current_input_hash, original_path, rewrite_paths
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--final', action='store_true')
@@ -154,7 +155,7 @@ check(authors['/root'] == 2, 'main did not author exactly one concept and one me
 check(all(n <= 3 for a, n in authors.items() if a != '/root'), 'worker lifetime limit')
 
 # The original confirmed scope, exclusions, and historical baseline are immutable.
-mutable = {'path', 'status', 'node_ids', 'logic_groups', 'related_mechanism_ids', 'node_mapping_stage'}
+mutable = {'path', 'planned_path', 'status', 'node_ids', 'logic_groups', 'related_mechanism_ids', 'node_mapping_stage'}
 for kind in ('concepts', 'mechanisms'):
     before, now = flat(baseline, kind), flat(index, kind)
     check([i['id'] for i in before] == [i['id'] for i in now], kind + ': scope/order altered')
@@ -177,9 +178,9 @@ for key in ('excluded_concepts', 'excluded_mechanisms', 'deferred', 'build_basel
     check(index[key] == baseline[key], key + ': historical scope altered')
 for rel, digest in readj(out / 'INPUT_HASHES.json').items():
     if rel not in ('00_start/README.md', '00_start/catalog_index.json'):
-        check(sha(root / rel) == digest, rel + ': authoring standard changed')
+        check(sha(root / rel) == current_input_hash(rel, digest), rel + ': authoring standard changed beyond recorded maintenance')
 
-# Events, sources, and assets stay byte-identical to the imported Git baseline.
+# Event/Source prose and assets stay intact; recorded filename navigation is allowed.
 unchanged = {}
 for folder in ('30_events', '40_sources', 'assets'):
     prefix = root.relative_to(repo).as_posix() + '/' + folder + '/'
@@ -187,7 +188,12 @@ for folder in ('30_events', '40_sources', 'assets'):
     expected = {}
     for line in raw.splitlines():
         mode_type_hash, rel = line.split('\t', 1)
-        expected[rel] = mode_type_hash.split()[-1]
+        original_blob = mode_type_hash.split()[-1]
+        if Path(rel).suffix == '.md':
+            old_text = subprocess.check_output(['git', 'show', original_blob], cwd=repo).decode()
+            expected[rel] = subprocess.check_output(['git', 'hash-object', '--stdin'], input=rewrite_paths(old_text).encode()).decode().strip()
+        else:
+            expected[rel] = original_blob
     actual = {p.relative_to(repo).as_posix(): subprocess.check_output(['git', 'hash-object', str(p)], text=True).strip() for p in (root / folder).rglob('*') if p.is_file()}
     unchanged[folder] = expected == actual
     check(unchanged[folder], folder + ': changed outside authorized scope')
@@ -212,7 +218,9 @@ if args.final:
     legacy_unchanged = True
     for node in set(selected) - new:
         rel = (root / paths[node]).relative_to(repo).as_posix()
-        original = subprocess.check_output(['git', 'show', state['base_commit'] + ':' + rel], cwd=repo, text=True)
+        old_rel = (root / original_path(node)).relative_to(repo).as_posix()
+        original = subprocess.check_output(['git', 'show', state['base_commit'] + ':' + old_rel], cwd=repo, text=True)
+        original = rewrite_paths(original)
         for n, path in paths.items():
             filename = 'CONCEPT_IMPORT_LIST.md' if n.startswith('C-') else 'MECHANISM_IMPORT_LIST.md'
             for prefix in ('../00_start/', ''):

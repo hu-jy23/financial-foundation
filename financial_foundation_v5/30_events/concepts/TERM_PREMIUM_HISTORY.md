@@ -69,4 +69,4 @@ Stein 在 2013 年 9 月 26 日演讲中回顾当年春夏债市：5 月 2 日�
 
 ## 与 Map 的连接
 
-三个片段的定义、公式与模型背景见[期限溢价](../../10_concepts/C-IR-TERM_term_premium.md)。这里保留历史材料及分析，模型方法可从[来源登记](../../40_sources/SOURCES_CONCEPTS.md)继续阅读。
+三个片段的定义、公式与模型背景见[期限溢价](../../10_concepts/期限溢价.md)。这里保留历史材料及分析，模型方法可从[来源登记](../../40_sources/SOURCES_CONCEPTS.md)继续阅读。

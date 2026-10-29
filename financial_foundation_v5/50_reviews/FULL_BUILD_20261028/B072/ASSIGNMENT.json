@@ -9,7 +9,7 @@
       "name": "存款迁移的债市传导",
       "scope": "存款利率、理财和风险偏好",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-CHINA-12.md",
+      "path": "20_mechanisms/存款迁移的债市传导.md",
       "node_ids": [
         "C-CREDIT-15",
         "C-SECTOR-03",
@@ -23,7 +23,7 @@
       "name": "A/H溢价的市场分割机制",
       "scope": "汇率、投资者和交易约束",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-CHINA_MARKET-07.md",
+      "path": "20_mechanisms/A／H溢价的市场分割机制.md",
       "node_ids": [
         "C-ASIA-10",
         "C-ASIA-01",
@@ -39,7 +39,7 @@
       "name": "模型效率、推理成本与总算力需求",
       "scope": "单位成本下降和需求弹性",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-TECH-03.md",
+      "path": "20_mechanisms/模型效率、推理成本与总算力需求.md",
       "node_ids": [
         "C-TECH-01",
         "C-TECH-03",

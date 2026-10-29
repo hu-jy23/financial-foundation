@@ -9,7 +9,7 @@
       "name": "港元联系汇率与HIBOR传导",
       "scope": "资金流和货币发行局",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-INTERNATIONAL-14.md",
+      "path": "20_mechanisms/港元联系汇率与HIBOR传导.md",
       "node_ids": [
         "C-FX-05",
         "C-FX-13",
@@ -24,7 +24,7 @@
       "name": "人民币国际化",
       "scope": "人民币跨境结算、融资和储备使用的联系，以及支付渠道、资本流动制度与资产供给约束。",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-RMB-INTERNATIONALIZATION.md",
+      "path": "20_mechanisms/人民币国际化.md",
       "node_ids": [
         "C-FX-02",
         "C-FX-13",
@@ -39,7 +39,7 @@
       "name": "高股息资产的债券替代效应",
       "scope": "股息可持续性和利率",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-EQ-DIVIDEND.md",
+      "path": "20_mechanisms/高股息资产的债券替代效应.md",
       "node_ids": [
         "C-ASIA-05",
         "C-BOND-05",

@@ -4,15 +4,15 @@
       "groups": 18,
       "items": 163,
       "p0": 21,
-      "complete": 10,
-      "pending": 153
+      "complete": 107,
+      "pending": 56
     },
     "mechanisms": {
       "groups": 16,
       "items": 71,
       "p0": 21,
-      "complete": 2,
-      "pending": 69
+      "complete": 51,
+      "pending": 20
     },
     "excluded_concepts": {
       "items": 186,
@@ -53,42 +53,45 @@
           "name": "主观概率与风险中性概率",
           "scope": "不同测度与使用范围",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/主观概率与风险中性概率.md",
           "catalog_anchor": "C-EXPECT-05",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-EXPECT-05",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/主观概率与风险中性概率.md"
         },
         {
           "id": "C-POL-CREDIBILITY",
           "name": "央行可信度",
           "scope": "承诺、行动与市场相信程度",
           "priority": "P0",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/央行可信度.md",
           "catalog_anchor": "C-POL-CREDIBILITY",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-POL-CREDIBILITY",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/央行可信度.md"
         },
         {
           "id": "C-EXPECT-15",
           "name": "投资者注意力",
           "scope": "关注稀缺与信息覆盖",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/投资者注意力.md",
           "catalog_anchor": "C-EXPECT-15",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-EXPECT-15",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/投资者注意力.md"
         }
       ],
       "role": "domain_objects"
@@ -102,14 +105,15 @@
           "name": "通货膨胀",
           "scope": "价格总体水平变化",
           "priority": "P0",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/通货膨胀.md",
           "catalog_anchor": "C-INF-INFLATION",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-INF-INFLATION",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/通货膨胀.md"
         }
       ],
       "role": "domain_objects"
@@ -124,13 +128,14 @@
           "scope": "事前/事后及TIPS代理",
           "priority": "P0",
           "status": "complete",
-          "path": "../10_concepts/C-IR-REAL_real_interest_rate.md",
+          "path": "../10_concepts/实际利率.md",
           "catalog_anchor": "C-IR-REAL",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-IR-REAL",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/实际利率.md"
         },
         {
           "id": "C-IR-POLICY",
@@ -138,83 +143,89 @@
           "scope": "央行设定及执行口径",
           "priority": "P0",
           "status": "complete",
-          "path": "../10_concepts/C-IR-POLICY_policy_rate_target_range.md",
+          "path": "../10_concepts/政策利率与目标区间.md",
           "catalog_anchor": "C-IR-POLICY",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-IR-POLICY",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/政策利率与目标区间.md"
         },
         {
           "id": "C-RATE-05",
           "name": "有效联邦基金利率EFFR",
           "scope": "美国实际隔夜无担保市场利率",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/有效联邦基金利率EFFR.md",
           "catalog_anchor": "C-RATE-05",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-RATE-05",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/有效联邦基金利率EFFR.md"
         },
         {
           "id": "C-RATE-06",
           "name": "SOFR与担保融资基准",
           "scope": "担保隔夜资金价格",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/SOFR与担保融资基准.md",
           "catalog_anchor": "C-RATE-06",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-RATE-06",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/SOFR与担保融资基准.md"
         },
         {
           "id": "C-RATE-07",
           "name": "隔夜指数掉期OIS",
           "scope": "浮动隔夜复利与固定利率互换",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/隔夜指数掉期OIS.md",
           "catalog_anchor": "C-RATE-07",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-RATE-07",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/隔夜指数掉期OIS.md"
         },
         {
           "id": "C-RATE-08",
           "name": "联邦基金期货",
           "scope": "合约结算与政策预期代理",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/联邦基金期货.md",
           "catalog_anchor": "C-RATE-08",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-RATE-08",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/联邦基金期货.md"
         },
         {
           "id": "C-IR-CURVE",
           "name": "收益率曲线",
           "scope": "期限、券种与拟合",
           "priority": "P0",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/收益率曲线.md",
           "catalog_anchor": "C-IR-CURVE",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-IR-CURVE",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/收益率曲线.md"
         },
         {
           "id": "C-IR-TERM",
@@ -222,13 +233,14 @@
           "scope": "长期持有相对滚动短债的风险定价",
           "priority": "P0",
           "status": "complete",
-          "path": "../10_concepts/C-IR-TERM_term_premium.md",
+          "path": "../10_concepts/期限溢价.md",
           "catalog_anchor": "C-IR-TERM",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-IR-TERM",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/期限溢价.md"
         }
       ],
       "role": "domain_objects"
@@ -242,14 +254,15 @@
           "name": "银行准备金",
           "scope": "央行账户余额与可用性",
           "priority": "P0",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/银行准备金.md",
           "catalog_anchor": "C-MONEY-RESERVES",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-MONEY-RESERVES",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/银行准备金.md"
         },
         {
           "id": "C-MONEY-CBBS",
@@ -257,21 +270,22 @@
           "scope": "资产、准备金、现金与其他负债",
           "priority": "P0",
           "status": "complete",
-          "path": "../10_concepts/C-MONEY-CBBS_central_bank_balance_sheet.md",
+          "path": "../10_concepts/央行资产负债表.md",
           "catalog_anchor": "C-MONEY-CBBS",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-MONEY-CBBS",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/央行资产负债表.md"
         },
         {
           "id": "C-MONEY-07",
           "name": "准备金利率",
           "scope": "央行对准备金支付或收取的利率及其适用制度；利率走廊的传导另见机制。",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/准备金利率.md",
           "catalog_anchor": "C-MONEY-07",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-MONEY-07",
           "role": "domain_objects",
@@ -281,7 +295,8 @@
           ],
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/准备金利率.md"
         },
         {
           "id": "C-POL-QE",
@@ -289,13 +304,14 @@
           "scope": "资产购买与久期配置",
           "priority": "P0",
           "status": "complete",
-          "path": "../10_concepts/C-POL-QE_quantitative_easing.md",
+          "path": "../10_concepts/量化宽松QE.md",
           "catalog_anchor": "C-POL-QE",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-POL-QE",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/量化宽松QE.md"
         },
         {
           "id": "C-POL-QT",
@@ -303,55 +319,59 @@
           "scope": "到期不续作/出售与负债调整",
           "priority": "P0",
           "status": "complete",
-          "path": "../10_concepts/C-POL-QT_quantitative_tightening.md",
+          "path": "../10_concepts/量化紧缩QT.md",
           "catalog_anchor": "C-POL-QT",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-POL-QT",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/量化紧缩QT.md"
         },
         {
           "id": "C-MONEY-10",
           "name": "回购与逆回购",
           "scope": "融资方向、抵押品与对手方",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/回购与逆回购.md",
           "catalog_anchor": "C-MONEY-10",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-MONEY-10",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/回购与逆回购.md"
         },
         {
           "id": "C-MONEY-11",
           "name": "常备工具与最后贷款人",
           "scope": "准入、抵押品和支持条件",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/常备工具与最后贷款人.md",
           "catalog_anchor": "C-MONEY-11",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-MONEY-11",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/常备工具与最后贷款人.md"
         },
         {
           "id": "C-MONEY-12",
           "name": "美元互换额度",
           "scope": "央行之间的美元流动性安排",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/美元互换额度.md",
           "catalog_anchor": "C-MONEY-12",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-MONEY-12",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/美元互换额度.md"
         },
         {
           "id": "C-MONEY-13",
@@ -359,27 +379,29 @@
           "scope": "财政现金余额与准备金关系",
           "priority": "P1",
           "status": "complete",
-          "path": "../10_concepts/C-MONEY-13_treasury_general_account.md",
+          "path": "../10_concepts/财政部一般账户TGA.md",
           "catalog_anchor": "C-MONEY-13",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-MONEY-13",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/财政部一般账户TGA.md"
         },
         {
           "id": "C-MONEY-14",
           "name": "隔夜逆回购ONRRP",
           "scope": "特定美国央行负债工具",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/隔夜逆回购ONRRP.md",
           "catalog_anchor": "C-MONEY-14",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-MONEY-14",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/隔夜逆回购ONRRP.md"
         },
         {
           "id": "C-LIQ-FUND",
@@ -387,27 +409,29 @@
           "scope": "融资成本、额度和抵押约束",
           "priority": "P0",
           "status": "complete",
-          "path": "../10_concepts/C-LIQ-FUND_funding_liquidity.md",
+          "path": "../10_concepts/融资流动性.md",
           "catalog_anchor": "C-LIQ-FUND",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-LIQ-FUND",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/融资流动性.md"
         },
         {
           "id": "C-LIQ-MARKET",
           "name": "市场流动性",
           "scope": "价差、深度、冲击成本",
           "priority": "P0",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/市场流动性.md",
           "catalog_anchor": "C-LIQ-MARKET",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-LIQ-MARKET",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/市场流动性.md"
         },
         {
           "id": "C-MONEY-19",
@@ -416,14 +440,15 @@
           "priority": "P1",
           "added_in": "v2",
           "addition_reason": "补足ONRRP、短券与存款迁移关系中的配置主体",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/货币市场基金.md",
           "catalog_anchor": "C-MONEY-19",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-MONEY-19",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/货币市场基金.md"
         }
       ],
       "role": "domain_objects"
@@ -438,55 +463,59 @@
           "scope": "是否包含利息支出",
           "priority": "P0",
           "status": "complete",
-          "path": "../10_concepts/C-FISCAL-DEFICIT_fiscal_primary_deficit.md",
+          "path": "../10_concepts/财政赤字与初级赤字.md",
           "catalog_anchor": "C-FISCAL-DEFICIT",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FISCAL-DEFICIT",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/财政赤字与初级赤字.md"
         },
         {
           "id": "C-FISCAL-13",
           "name": "财政主导",
           "scope": "财政约束对货币政策的影响",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/财政主导.md",
           "catalog_anchor": "C-FISCAL-13",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FISCAL-13",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/财政主导.md"
         },
         {
           "id": "C-FISCAL-14",
           "name": "主权信用风险与CDS",
           "scope": "违约、回收和交易定价",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/主权信用风险与CDS.md",
           "catalog_anchor": "C-FISCAL-14",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FISCAL-14",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/主权信用风险与CDS.md"
         },
         {
           "id": "C-FISCAL-15",
           "name": "债务上限与政府停摆",
           "scope": "美国两类不同制度事件",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/债务上限与政府停摆.md",
           "catalog_anchor": "C-FISCAL-15",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FISCAL-15",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/债务上限与政府停摆.md"
         }
       ],
       "role": "domain_objects"
@@ -500,134 +529,143 @@
           "name": "银行资本与杠杆率",
           "scope": "损失吸收与监管约束",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/银行资本与杠杆率.md",
           "catalog_anchor": "C-CREDIT-02",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CREDIT-02",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/银行资本与杠杆率.md"
         },
         {
           "id": "C-CREDIT-03",
           "name": "银行流动性覆盖与稳定融资",
           "scope": "期限错配约束",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/银行流动性覆盖与稳定融资.md",
           "catalog_anchor": "C-CREDIT-03",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CREDIT-03",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/银行流动性覆盖与稳定融资.md"
         },
         {
           "id": "C-CREDIT-04",
           "name": "净息差NIM",
           "scope": "资产收益与负债成本",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/净息差NIM.md",
           "catalog_anchor": "C-CREDIT-04",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CREDIT-04",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "user_requested_restore",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/净息差NIM.md"
         },
         {
           "id": "C-CREDIT-SPREAD",
           "name": "信用利差",
           "scope": "无风险曲线外的补偿",
           "priority": "P0",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/信用利差.md",
           "catalog_anchor": "C-CREDIT-SPREAD",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CREDIT-SPREAD",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/信用利差.md"
         },
         {
           "id": "C-CREDIT-08",
           "name": "信用评级与迁移",
           "scope": "评级行动和滞后",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/信用评级与迁移.md",
           "catalog_anchor": "C-CREDIT-08",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CREDIT-08",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/信用评级与迁移.md"
         },
         {
           "id": "C-CREDIT-10",
           "name": "抵押品与折扣率haircut",
           "scope": "借款能力与风险控制",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/抵押品与折扣率haircut.md",
           "catalog_anchor": "C-CREDIT-10",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CREDIT-10",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/抵押品与折扣率haircut.md"
         },
         {
           "id": "C-CREDIT-12",
           "name": "影子银行与非银金融",
           "scope": "中介功能与监管边界",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/影子银行与非银金融.md",
           "catalog_anchor": "C-CREDIT-12",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CREDIT-12",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/影子银行与非银金融.md"
         },
         {
           "id": "C-CREDIT-13",
           "name": "证券化与资产支持证券",
           "scope": "现金流分层与风险转移",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/证券化与资产支持证券.md",
           "catalog_anchor": "C-CREDIT-13",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CREDIT-13",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/证券化与资产支持证券.md"
         },
         {
           "id": "C-CREDIT-15",
           "name": "挤兑与存款迁移",
           "scope": "信心、保险与数字化速度",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/挤兑与存款迁移.md",
           "catalog_anchor": "C-CREDIT-15",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CREDIT-15",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/挤兑与存款迁移.md"
         },
         {
           "id": "C-CREDIT-16",
           "name": "金融周期",
           "scope": "金融运行状态、周期阶段和历史；信用、杠杆和资产价格反馈及系统性风险另见机制。",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/金融周期.md",
           "catalog_anchor": "C-CREDIT-16",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CREDIT-16",
           "role": "domain_objects",
@@ -637,7 +675,8 @@
           ],
           "selection_status": "confirmed_initial_build",
           "selection_basis": "user_requested_restore",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/金融周期.md"
         }
       ],
       "role": "domain_objects"
@@ -651,154 +690,165 @@
           "name": "美元",
           "scope": "计价、支付、融资和储备货币角色",
           "priority": "P0",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/美元.md",
           "catalog_anchor": "C-FX-USD",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FX-USD",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/美元.md"
         },
         {
           "id": "C-FX-02",
           "name": "人民币与离岸人民币",
           "scope": "CNY/CNH市场与制度边界",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/人民币与离岸人民币.md",
           "catalog_anchor": "C-FX-02",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FX-02",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/人民币与离岸人民币.md"
         },
         {
           "id": "C-FX-03",
           "name": "日元",
           "scope": "融资与国际资产配置角色",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/日元.md",
           "catalog_anchor": "C-FX-03",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FX-03",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/日元.md"
         },
         {
           "id": "C-FX-04",
           "name": "欧元与欧元体系",
           "scope": "共同货币和分散财政",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/欧元与欧元体系.md",
           "catalog_anchor": "C-FX-04",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FX-04",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/欧元与欧元体系.md"
         },
         {
           "id": "C-FX-05",
           "name": "港元联系汇率",
           "scope": "货币发行与利率传导制度",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/港元联系汇率.md",
           "catalog_anchor": "C-FX-05",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FX-05",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/港元联系汇率.md"
         },
         {
           "id": "C-FX-07",
           "name": "美元指数DXY与广义美元指数",
           "scope": "成分权重不同",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/美元指数DXY与广义美元指数.md",
           "catalog_anchor": "C-FX-07",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FX-07",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/美元指数DXY与广义美元指数.md"
         },
         {
           "id": "C-FX-10",
           "name": "跨币种基差",
           "scope": "有担保利率平价偏离",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/跨币种基差.md",
           "catalog_anchor": "C-FX-10",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FX-10",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/跨币种基差.md"
         },
         {
           "id": "C-FX-13",
           "name": "资本流动与资本管制",
           "scope": "流量、方向、主体与规则",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/资本流动与资本管制.md",
           "catalog_anchor": "C-FX-13",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FX-13",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/资本流动与资本管制.md"
         },
         {
           "id": "C-FX-14",
           "name": "外汇储备",
           "scope": "币种、流动性与估值变化",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/外汇储备.md",
           "catalog_anchor": "C-FX-14",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FX-14",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/外汇储备.md"
         },
         {
           "id": "C-FX-17",
           "name": "套息交易",
           "scope": "融资币、投资币、杠杆和对冲",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/套息交易.md",
           "catalog_anchor": "C-FX-17",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FX-17",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/套息交易.md"
         },
         {
           "id": "C-FX-18",
           "name": "外汇干预",
           "scope": "数量、冲销和信号渠道",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/外汇干预.md",
           "catalog_anchor": "C-FX-18",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FX-18",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/外汇干预.md"
         }
       ],
       "role": "domain_objects"
@@ -812,140 +862,150 @@
           "name": "美国国债",
           "scope": "财政部信用、期限与市场结构",
           "priority": "P0",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/美国国债.md",
           "catalog_anchor": "C-ASSET-UST",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASSET-UST",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/美国国债.md"
         },
         {
           "id": "C-IR-TIPS",
           "name": "美国通胀保值国债TIPS",
           "scope": "指数化本金与实际收益率",
           "priority": "P0",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/美国通胀保值国债TIPS.md",
           "catalog_anchor": "C-IR-TIPS",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-IR-TIPS",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/美国通胀保值国债TIPS.md"
         },
         {
           "id": "C-BOND-03",
           "name": "中国国债与政策性金融债",
           "scope": "信用、税务与交易群体",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/中国国债与政策性金融债.md",
           "catalog_anchor": "C-BOND-03",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-BOND-03",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/中国国债与政策性金融债.md"
         },
         {
           "id": "C-BOND-04",
           "name": "地方政府债",
           "scope": "一般债、专项债及偿债来源",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/地方政府债.md",
           "catalog_anchor": "C-BOND-04",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-BOND-04",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/地方政府债.md"
         },
         {
           "id": "C-BOND-05",
           "name": "投资级公司债",
           "scope": "信用与久期共同暴露",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/投资级公司债.md",
           "catalog_anchor": "C-BOND-05",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-BOND-05",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/投资级公司债.md"
         },
         {
           "id": "C-BOND-06",
           "name": "高收益债",
           "scope": "违约风险与流动性",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/高收益债.md",
           "catalog_anchor": "C-BOND-06",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-BOND-06",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/高收益债.md"
         },
         {
           "id": "C-BOND-07",
           "name": "机构MBS",
           "scope": "提前还款与利率风险",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/机构MBS.md",
           "catalog_anchor": "C-BOND-07",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-BOND-07",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/机构MBS.md"
         },
         {
           "id": "C-BOND-08",
           "name": "浮息债FRN",
           "scope": "重置基准与利差",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/浮息债FRN.md",
           "catalog_anchor": "C-BOND-08",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-BOND-08",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/浮息债FRN.md"
         },
         {
           "id": "C-BOND-09",
           "name": "可转债",
           "scope": "债底、转股价值与条款",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/可转债.md",
           "catalog_anchor": "C-BOND-09",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-BOND-09",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/可转债.md"
         },
         {
           "id": "C-BOND-14",
           "name": "拍卖、投标倍数与尾差",
           "scope": "发行定价与需求指标",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/拍卖、投标倍数与尾差.md",
           "catalog_anchor": "C-BOND-14",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-BOND-14",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/拍卖、投标倍数与尾差.md"
         }
       ],
       "role": "domain_objects"
@@ -959,14 +1019,15 @@
           "name": "股权风险溢价ERP",
           "scope": "预期回报超额补偿",
           "priority": "P0",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/股权风险溢价ERP.md",
           "catalog_anchor": "C-EQ-ERP",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-EQ-ERP",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/股权风险溢价ERP.md"
         },
         {
           "id": "C-EQUITY-18",
@@ -975,14 +1036,15 @@
           "priority": "P1",
           "added_in": "v2",
           "addition_reason": "补足并购事件价差机制中的合同和交割对象",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/并购交易与交易条款.md",
           "catalog_anchor": "C-EQUITY-18",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-EQUITY-18",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/并购交易与交易条款.md"
         }
       ],
       "role": "domain_objects"
@@ -996,50 +1058,53 @@
           "name": "隐含波动率与实现波动率",
           "scope": "定价参数和统计量",
           "priority": "P0",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/隐含波动率与实现波动率.md",
           "catalog_anchor": "C-VOL-IVRV",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-VOL-IVRV",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/隐含波动率与实现波动率.md"
         },
         {
           "id": "C-DERIV-04",
           "name": "波动率风险溢价",
           "scope": "测度、期限与收益标签",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/波动率风险溢价.md",
           "catalog_anchor": "C-DERIV-04",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-DERIV-04",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/波动率风险溢价.md"
         },
         {
           "id": "C-DERIV-14",
           "name": "保证金与追加保证金",
           "scope": "融资约束和路径风险",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/保证金与追加保证金.md",
           "catalog_anchor": "C-DERIV-14",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-DERIV-14",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/保证金与追加保证金.md"
         },
         {
           "id": "C-DERIV-15",
           "name": "基差",
           "scope": "现货与期货等相关价格之间的差额；报价口径、观测和历史；交易头寸与融资过程另见机制。",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/基差.md",
           "catalog_anchor": "C-DERIV-15",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-DERIV-15",
           "role": "domain_objects",
@@ -1049,7 +1114,8 @@
           ],
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/基差.md"
         }
       ],
       "role": "domain_objects"
@@ -1063,70 +1129,75 @@
           "name": "ETF申赎与二级市场交易",
           "scope": "份额变化和成交额区别",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/ETF申赎与二级市场交易.md",
           "catalog_anchor": "C-FLOW-05",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FLOW-05",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/ETF申赎与二级市场交易.md"
         },
         {
           "id": "C-FLOW-09",
           "name": "融资融券与借券成本",
           "scope": "杠杆、多空实施约束",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/融资融券与借券成本.md",
           "catalog_anchor": "C-FLOW-09",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FLOW-09",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/融资融券与借券成本.md"
         },
         {
           "id": "C-FLOW-10",
           "name": "程序化交易与做市",
           "scope": "策略类型和库存管理",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/程序化交易与做市.md",
           "catalog_anchor": "C-FLOW-10",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FLOW-10",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/程序化交易与做市.md"
         },
         {
           "id": "C-FLOW-11",
           "name": "趋势跟随与CTA",
           "scope": "信号规则、杠杆和市场暴露",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/趋势跟随与CTA.md",
           "catalog_anchor": "C-FLOW-11",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FLOW-11",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/趋势跟随与CTA.md"
         },
         {
           "id": "C-FLOW-12",
           "name": "风险平价与波动率目标",
           "scope": "风险预算与再平衡",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/风险平价与波动率目标.md",
           "catalog_anchor": "C-FLOW-12",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FLOW-12",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/风险平价与波动率目标.md"
         }
       ],
       "role": "domain_objects"
@@ -1141,167 +1212,179 @@
           "scope": "商品、储备与投资属性",
           "priority": "P0",
           "status": "complete",
-          "path": "../10_concepts/C-ASSET-GOLD_gold.md",
+          "path": "../10_concepts/黄金.md",
           "catalog_anchor": "C-ASSET-GOLD",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASSET-GOLD",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/黄金.md"
         },
         {
           "id": "C-COMMOD-02",
           "name": "白银与贵金属",
           "scope": "工业与投资需求权重",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/白银与贵金属.md",
           "catalog_anchor": "C-COMMOD-02",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-COMMOD-02",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/白银与贵金属.md"
         },
         {
           "id": "C-COMMOD-03",
           "name": "原油与Brent/WTI",
           "scope": "品质、交割地与基准",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/原油与Brent／WTI.md",
           "catalog_anchor": "C-COMMOD-03",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-COMMOD-03",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/原油与Brent／WTI.md"
         },
         {
           "id": "C-COMMOD-04",
           "name": "天然气与LNG",
           "scope": "区域市场、运输和季节",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/天然气与LNG.md",
           "catalog_anchor": "C-COMMOD-04",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-COMMOD-04",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/天然气与LNG.md"
         },
         {
           "id": "C-COMMOD-05",
           "name": "煤炭与焦煤",
           "scope": "能源和冶金需求区别",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/煤炭与焦煤.md",
           "catalog_anchor": "C-COMMOD-05",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-COMMOD-05",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/煤炭与焦煤.md"
         },
         {
           "id": "C-COMMOD-06",
           "name": "铜与工业金属",
           "scope": "终端需求、库存和供给",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/铜与工业金属.md",
           "catalog_anchor": "C-COMMOD-06",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-COMMOD-06",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/铜与工业金属.md"
         },
         {
           "id": "C-COMMOD-07",
           "name": "铝与电力成本",
           "scope": "能耗、冶炼和供给约束",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/铝与电力成本.md",
           "catalog_anchor": "C-COMMOD-07",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-COMMOD-07",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/铝与电力成本.md"
         },
         {
           "id": "C-COMMOD-08",
           "name": "铁矿石与钢铁",
           "scope": "地产基建、产量和库存",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/铁矿石与钢铁.md",
           "catalog_anchor": "C-COMMOD-08",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-COMMOD-08",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/铁矿石与钢铁.md"
         },
         {
           "id": "C-COMMOD-09",
           "name": "农产品",
           "scope": "天气、种植、库存与贸易",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/农产品.md",
           "catalog_anchor": "C-COMMOD-09",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-COMMOD-09",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "user_requested_restore",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/农产品.md"
         },
         {
           "id": "C-COMMOD-13",
           "name": "OPEC与闲置产能",
           "scope": "组织、执行和供给缓冲",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/OPEC与闲置产能.md",
           "catalog_anchor": "C-COMMOD-13",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-COMMOD-13",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/OPEC与闲置产能.md"
         },
         {
           "id": "C-COMMOD-14",
           "name": "战略储备与能源安全",
           "scope": "库存政策和供应风险",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/战略储备与能源安全.md",
           "catalog_anchor": "C-COMMOD-14",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-COMMOD-14",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/战略储备与能源安全.md"
         },
         {
           "id": "C-COMMOD-16",
           "name": "碳排放权与碳价格",
           "scope": "制度、配额与成本",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/碳排放权与碳价格.md",
           "catalog_anchor": "C-COMMOD-16",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-COMMOD-16",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/碳排放权与碳价格.md"
         }
       ],
       "role": "domain_objects"
@@ -1315,224 +1398,240 @@
           "name": "中国人民银行",
           "scope": "货币、金融稳定与政策执行",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/中国人民银行.md",
           "catalog_anchor": "C-CHINA-01",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-01",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/中国人民银行.md"
         },
         {
           "id": "C-CHINA-02",
           "name": "财政部与地方财政",
           "scope": "央地分工和预算体系",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/财政部与地方财政.md",
           "catalog_anchor": "C-CHINA-02",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-02",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/财政部与地方财政.md"
         },
         {
           "id": "C-CN-TSF",
           "name": "社会融资规模",
           "scope": "统计范围、存量与增量",
           "priority": "P0",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/社会融资规模.md",
           "catalog_anchor": "C-CN-TSF",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CN-TSF",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "user_requested_restore",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/社会融资规模.md"
         },
         {
           "id": "C-CHINA-05",
           "name": "人民币贷款与票据融资",
           "scope": "融资结构和需求代理",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/人民币贷款与票据融资.md",
           "catalog_anchor": "C-CHINA-05",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-05",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/人民币贷款与票据融资.md"
         },
         {
           "id": "C-CHINA-06",
           "name": "存款准备金率与降准",
           "scope": "结构、覆盖与释放资金",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/存款准备金率与降准.md",
           "catalog_anchor": "C-CHINA-06",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-06",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/存款准备金率与降准.md"
         },
         {
           "id": "C-CHINA-07",
           "name": "MLF、逆回购与结构性工具",
           "scope": "工具功能按制度版本记录",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/MLF、逆回购与结构性工具.md",
           "catalog_anchor": "C-CHINA-07",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-07",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/MLF、逆回购与结构性工具.md"
         },
         {
           "id": "C-CHINA-08",
           "name": "LPR与贷款定价",
           "scope": "报价机制与传导",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/LPR与贷款定价.md",
           "catalog_anchor": "C-CHINA-08",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-08",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/LPR与贷款定价.md"
         },
         {
           "id": "C-CHINA-09",
           "name": "DR007、R007与同业存单",
           "scope": "不同主体的资金价格",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/DR007、R007与同业存单.md",
           "catalog_anchor": "C-CHINA-09",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-09",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/DR007、R007与同业存单.md"
         },
         {
           "id": "C-CHINA-10",
           "name": "汇率中间价与跨境宏观审慎",
           "scope": "汇率和资本流动管理",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/汇率中间价与跨境宏观审慎.md",
           "catalog_anchor": "C-CHINA-10",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-10",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/汇率中间价与跨境宏观审慎.md"
         },
         {
           "id": "C-CHINA-11",
           "name": "土地财政",
           "scope": "出让收入与地方支出",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/土地财政.md",
           "catalog_anchor": "C-CHINA-11",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-11",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/土地财政.md"
         },
         {
           "id": "C-CHINA-12",
           "name": "地方融资平台LGFV",
           "scope": "主体、隐性担保与债务",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/地方融资平台LGFV.md",
           "catalog_anchor": "C-CHINA-12",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-12",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/地方融资平台LGFV.md"
         },
         {
           "id": "C-CHINA-13",
           "name": "地方债务置换与化债",
           "scope": "本金、期限、利率和责任变化",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/地方债务置换与化债.md",
           "catalog_anchor": "C-CHINA-13",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-13",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/地方债务置换与化债.md"
         },
         {
           "id": "C-CHINA-14",
           "name": "房地产预售与保交楼",
           "scope": "现金流、交付与信用链",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/房地产预售与保交楼.md",
           "catalog_anchor": "C-CHINA-14",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-14",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/房地产预售与保交楼.md"
         },
         {
           "id": "C-CHINA-15",
           "name": "房地产融资与住房按揭",
           "scope": "开发端和居民端",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/房地产融资与住房按揭.md",
           "catalog_anchor": "C-CHINA-15",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-15",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/房地产融资与住房按揭.md"
         },
         {
           "id": "C-CHINA-18",
           "name": "产业政策与政府引导基金",
           "scope": "补贴、股权与资源配置",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/产业政策与政府引导基金.md",
           "catalog_anchor": "C-CHINA-18",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-18",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/产业政策与政府引导基金.md"
         },
         {
           "id": "C-CHINA-19",
           "name": "国企央企与资本回报考核",
           "scope": "治理、分红与投资约束",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/国企央企与资本回报考核.md",
           "catalog_anchor": "C-CHINA-19",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-19",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/国企央企与资本回报考核.md"
         }
       ],
       "role": "domain_objects"
@@ -1546,113 +1645,121 @@
           "name": "A股市场",
           "scope": "交易制度、投资者与行业结构",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/A股市场.md",
           "catalog_anchor": "C-ASIA-01",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-01",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/A股市场.md"
         },
         {
           "id": "C-ASIA-02",
           "name": "港股市场",
           "scope": "离岸定价、资金与中国暴露",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/港股市场.md",
           "catalog_anchor": "C-ASIA-02",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-02",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/港股市场.md"
         },
         {
           "id": "C-ASIA-03",
           "name": "沪深港通与南北向资金",
           "scope": "渠道、口径与披露制度",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/沪深港通与南北向资金.md",
           "catalog_anchor": "C-ASIA-03",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-03",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/沪深港通与南北向资金.md"
         },
         {
           "id": "C-ASIA-04",
           "name": "宽基ETF",
           "scope": "跟踪宽基指数的实际基金产品、资产组合、投资者与市场作用；本轮未回补行业ETF。",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/宽基ETF.md",
           "catalog_anchor": "C-ASIA-04",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-04",
           "role": "domain_objects",
           "previous_name": "宽基ETF与行业ETF",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "user_requested_restore",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/宽基ETF.md"
         },
         {
           "id": "C-ASIA-05",
           "name": "红利资产与高股息指数",
           "scope": "股息可持续性与规则",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/红利资产与高股息指数.md",
           "catalog_anchor": "C-ASIA-05",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-05",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/红利资产与高股息指数.md"
         },
         {
           "id": "C-ASIA-06",
           "name": "保险资金与长期资金",
           "scope": "负债期限与配置约束",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/保险资金与长期资金.md",
           "catalog_anchor": "C-ASIA-06",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-06",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/保险资金与长期资金.md"
         },
         {
           "id": "C-ASIA-07",
           "name": "社保基金与政策性持有主体",
           "scope": "公开持仓与不可见交易",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/社保基金与政策性持有主体.md",
           "catalog_anchor": "C-ASIA-07",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-07",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/社保基金与政策性持有主体.md"
         },
         {
           "id": "C-ASIA-08",
           "name": "涨跌停、T+1与停复牌",
           "scope": "执行约束与价格发现",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/涨跌停、T+1与停复牌.md",
           "catalog_anchor": "C-ASIA-08",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-08",
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/涨跌停、T+1与停复牌.md"
         },
         {
           "id": "C-ASIA-09",
@@ -1666,7 +1773,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/IPO、再融资与退市.md"
         },
         {
           "id": "C-ASIA-10",
@@ -1680,7 +1788,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/A／H溢价.md"
         },
         {
           "id": "C-ASIA-11",
@@ -1694,7 +1803,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/恒生指数与恒生科技指数.md"
         },
         {
           "id": "C-ASIA-12",
@@ -1708,7 +1818,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/日本银行与YCC.md"
         }
       ],
       "role": "domain_objects"
@@ -1729,7 +1840,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/美联储与FOMC.md"
         },
         {
           "id": "C-GLOBAL-02",
@@ -1743,7 +1855,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/美国财政部.md"
         },
         {
           "id": "C-GLOBAL-03",
@@ -1757,7 +1870,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/美国国会与行政部门.md"
         },
         {
           "id": "C-GLOBAL-04",
@@ -1771,7 +1885,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/民主党与共和党.md"
         },
         {
           "id": "C-GLOBAL-05",
@@ -1785,7 +1900,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/欧洲央行与欧元区成员国.md"
         },
         {
           "id": "C-GLOBAL-07",
@@ -1799,7 +1915,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/IMF、世界银行与BIS.md"
         },
         {
           "id": "C-GLOBAL-09",
@@ -1813,7 +1930,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/出口管制与技术限制.md"
         },
         {
           "id": "C-GLOBAL-13",
@@ -1827,7 +1945,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/国际支付与清算体系.md"
         }
       ],
       "role": "domain_objects"
@@ -1848,7 +1967,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/人工智能算力.md"
         },
         {
           "id": "C-TECH-02",
@@ -1862,7 +1982,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/GPU与AI加速器.md"
         },
         {
           "id": "C-TECH-03",
@@ -1876,7 +1997,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/云服务与超大规模云厂商.md"
         },
         {
           "id": "C-TECH-04",
@@ -1890,7 +2012,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/数据中心.md"
         },
         {
           "id": "C-TECH-05",
@@ -1904,7 +2027,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/电力、电网与发电容量.md"
         },
         {
           "id": "C-TECH-06",
@@ -1918,7 +2042,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/HBM与存储芯片.md"
         },
         {
           "id": "C-TECH-07",
@@ -1932,7 +2057,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/晶圆制造与先进制程.md"
         },
         {
           "id": "C-TECH-08",
@@ -1946,7 +2072,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/先进封装与CoWoS.md"
         },
         {
           "id": "C-TECH-09",
@@ -1960,7 +2087,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/半导体设备与材料.md"
         },
         {
           "id": "C-TECH-10",
@@ -1974,7 +2102,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/光模块、交换机与网络互联.md"
         },
         {
           "id": "C-TECH-11",
@@ -1988,7 +2117,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/散热与液冷.md"
         },
         {
           "id": "C-TECH-17",
@@ -2002,7 +2132,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/NVIDIA.md"
         },
         {
           "id": "C-TECH-18",
@@ -2016,7 +2147,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/AMD.md"
         },
         {
           "id": "C-TECH-19",
@@ -2030,7 +2162,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/Microsoft.md"
         },
         {
           "id": "C-TECH-20",
@@ -2044,7 +2177,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/Amazon.md"
         },
         {
           "id": "C-TECH-21",
@@ -2058,7 +2192,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/Alphabet.md"
         },
         {
           "id": "C-TECH-22",
@@ -2072,7 +2207,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/Meta.md"
         },
         {
           "id": "C-TECH-23",
@@ -2086,7 +2222,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/Apple.md"
         },
         {
           "id": "C-TECH-24",
@@ -2100,7 +2237,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/Tesla.md"
         },
         {
           "id": "C-TECH-25",
@@ -2114,7 +2252,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/TSMC.md"
         },
         {
           "id": "C-TECH-26",
@@ -2128,7 +2267,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/ASML.md"
         },
         {
           "id": "C-TECH-27",
@@ -2142,7 +2282,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/Samsung Electronics.md"
         },
         {
           "id": "C-TECH-28",
@@ -2156,7 +2297,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/SK hynix.md"
         },
         {
           "id": "C-TECH-29",
@@ -2170,7 +2312,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/Micron.md"
         },
         {
           "id": "C-TECH-30",
@@ -2184,7 +2327,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/腾讯.md"
         },
         {
           "id": "C-TECH-31",
@@ -2198,7 +2342,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/阿里巴巴.md"
         },
         {
           "id": "C-TECH-32",
@@ -2212,7 +2357,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/百度.md"
         },
         {
           "id": "C-TECH-33",
@@ -2226,7 +2372,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/中芯国际.md"
         },
         {
           "id": "C-TECH-34",
@@ -2240,7 +2387,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/寒武纪.md"
         }
       ],
       "role": "domain_objects"
@@ -2261,7 +2409,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/商业银行业.md"
         },
         {
           "id": "C-SECTOR-02",
@@ -2275,7 +2424,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/保险业.md"
         },
         {
           "id": "C-SECTOR-03",
@@ -2289,7 +2439,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/证券与资管业.md"
         },
         {
           "id": "C-SECTOR-04",
@@ -2303,7 +2454,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/电力与公用事业.md"
         },
         {
           "id": "C-SECTOR-06",
@@ -2317,7 +2469,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/房地产开发与物业.md"
         },
         {
           "id": "C-SECTOR-12",
@@ -2331,7 +2484,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/REITs与基础设施资产.md"
         },
         {
           "id": "C-SECTOR-13",
@@ -2347,7 +2501,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/养老金与退休负债.md"
         }
       ],
       "role": "domain_objects"
@@ -2368,7 +2523,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/比特币.md"
         },
         {
           "id": "C-CRYPTO-02",
@@ -2382,7 +2538,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/以太坊与智能合约平台.md"
         },
         {
           "id": "C-CRYPTO-03",
@@ -2396,7 +2553,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/稳定币.md"
         },
         {
           "id": "C-CRYPTO-04",
@@ -2410,7 +2568,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/数字资产交易所与托管.md"
         },
         {
           "id": "C-CRYPTO-05",
@@ -2424,7 +2583,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/加密资产杠杆与永续合约.md"
         },
         {
           "id": "C-CRYPTO-06",
@@ -2438,7 +2598,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/现货加密ETF.md"
         },
         {
           "id": "C-CRYPTO-08",
@@ -2452,7 +2613,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/代币化国债与现实资产RWA.md"
         },
         {
           "id": "C-CRYPTO-09",
@@ -2468,7 +2630,8 @@
           "role": "domain_objects",
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
-          "selection_confirmed_on": "2026-10-25"
+          "selection_confirmed_on": "2026-10-25",
+          "planned_path": "../10_concepts/比特币挖矿、区块奖励与矿工.md"
         }
       ],
       "role": "domain_objects"
@@ -2488,8 +2651,8 @@
             "C-IR-TIPS",
             "C-LIQ-MARKET"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/通胀补偿的定价分解.md",
           "catalog_anchor": "R-MEAS-BEI",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-MEAS-BEI",
           "context_terms": [
@@ -2518,7 +2681,25 @@
           "original_catalog_name": "名义/实际收益率与通胀补偿分解",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/通胀补偿的定价分解.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-IR-TIPS"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-IR-TIPS",
+                "C-LIQ-MARKET"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -2537,8 +2718,8 @@
             "C-IR-CURVE",
             "C-IR-TERM"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/货币政策冲击的期限结构传导.md",
           "catalog_anchor": "R-POL-CURVE",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-POL-CURVE",
           "context_terms": [
@@ -2564,7 +2745,36 @@
           "original_catalog_name": "货币政策意外与收益率曲线",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/货币政策冲击的期限结构传导.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-IR-POLICY",
+                "C-IR-CURVE"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-IR-POLICY",
+                "C-IR-CURVE",
+                "C-IR-TERM"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-POL-QE",
+                "C-IR-CURVE",
+                "C-IR-TERM"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-POL-INFORMATION",
@@ -2576,8 +2786,8 @@
             "C-IR-POLICY",
             "C-IR-CURVE"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/央行公告的政策效应与信息效应.md",
           "catalog_anchor": "R-POL-INFORMATION",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-POL-INFORMATION",
           "context_terms": [
@@ -2607,7 +2817,37 @@
           "original_catalog_name": "央行信息效应与政策冲击",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/央行公告的政策效应与信息效应.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-GLOBAL-01",
+                "C-IR-POLICY",
+                "C-IR-CURVE"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-GLOBAL-01",
+                "C-IR-POLICY",
+                "C-IR-CURVE"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-GLOBAL-01",
+                "C-IR-POLICY",
+                "C-IR-CURVE"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-QE-DURATION",
@@ -2619,8 +2859,8 @@
             "C-MONEY-CBBS",
             "C-IR-TERM"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/QE的久期风险转移.md",
           "catalog_anchor": "R-QE-DURATION",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-QE-DURATION",
           "context_terms": [
@@ -2645,7 +2885,35 @@
           "original_catalog_name": "QE与久期风险转移",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/QE的久期风险转移.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-POL-QE",
+                "C-MONEY-CBBS",
+                "C-IR-TERM"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-POL-QE",
+                "C-IR-TERM"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-POL-QE",
+                "C-MONEY-CBBS"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-QT-LIQ",
@@ -2660,8 +2928,8 @@
             "C-RATE-06",
             "C-LIQ-FUND"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/QT与准备金、ONRRP及资金市场.md",
           "catalog_anchor": "R-QT-LIQ",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-QT-LIQ",
           "context_terms": [],
@@ -2670,7 +2938,41 @@
           "original_catalog_name": "QT与准备金、ONRRP及资金市场",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/QT与准备金、ONRRP及资金市场.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-POL-QT",
+                "C-MONEY-CBBS",
+                "C-MONEY-RESERVES",
+                "C-MONEY-14"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-POL-QT",
+                "C-MONEY-RESERVES",
+                "C-MONEY-14",
+                "C-RATE-06",
+                "C-LIQ-FUND"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-POL-QT",
+                "C-MONEY-CBBS",
+                "C-MONEY-RESERVES",
+                "C-LIQ-FUND"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-MONETARY-07",
@@ -2684,8 +2986,8 @@
             "C-RATE-05",
             "C-RATE-06"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/利率走廊.md",
           "catalog_anchor": "R-MONETARY-07",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-MONETARY-07",
           "previous_name": "准备金供给与隔夜利率",
@@ -2699,7 +3001,37 @@
           "original_catalog_name": "利率走廊与隔夜利率传导",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/利率走廊.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-MONEY-RESERVES",
+                "C-MONEY-07",
+                "C-MONEY-11"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-MONEY-RESERVES",
+                "C-MONEY-07",
+                "C-RATE-05"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-MONEY-11",
+                "C-RATE-05",
+                "C-RATE-06"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-TGA-RESERVES",
@@ -2712,8 +3044,8 @@
             "C-MONEY-RESERVES",
             "C-MONEY-14"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/TGA收支对准备金的影响.md",
           "catalog_anchor": "R-TGA-RESERVES",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-TGA-RESERVES",
           "context_terms": [
@@ -2734,7 +3066,29 @@
           "original_catalog_name": "TGA收支与准备金变化",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/TGA收支对准备金的影响.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-MONEY-13",
+                "C-MONEY-CBBS",
+                "C-MONEY-RESERVES"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-MONEY-13",
+                "C-MONEY-14",
+                "C-MONEY-RESERVES",
+                "C-MONEY-CBBS"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-MONETARY-09",
@@ -2747,8 +3101,8 @@
             "C-ASSET-UST",
             "C-MONEY-10"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/货币基金在ONRRP与国库券之间的配置.md",
           "catalog_anchor": "R-MONETARY-09",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-MONETARY-09",
           "context_terms": [
@@ -2769,7 +3123,29 @@
           "original_catalog_name": "ONRRP流出与国库券需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/货币基金在ONRRP与国库券之间的配置.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-MONEY-14",
+                "C-MONEY-19",
+                "C-ASSET-UST"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-MONEY-14",
+                "C-MONEY-19",
+                "C-MONEY-10",
+                "C-ASSET-UST"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-MONETARY-10",
@@ -2782,8 +3158,8 @@
             "C-CREDIT-15",
             "C-CREDIT-04"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/利率上调与存款迁移.md",
           "catalog_anchor": "R-MONETARY-10",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-MONETARY-10",
           "context_terms": [
@@ -2804,7 +3180,29 @@
           "original_catalog_name": "利率上调与存款迁移",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/利率上调与存款迁移.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-IR-POLICY",
+                "C-MONEY-19",
+                "C-CREDIT-15"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-IR-POLICY",
+                "C-CREDIT-15",
+                "C-CREDIT-04",
+                "C-MONEY-19"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-IR-CURVE-SHAPE",
@@ -2817,8 +3215,8 @@
             "C-IR-TERM",
             "C-ASSET-UST"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/收益率曲线陡峭化与平坦化.md",
           "catalog_anchor": "R-IR-CURVE-SHAPE",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-IR-CURVE-SHAPE",
           "migrated_from_concept_ids": [
@@ -2831,7 +3229,28 @@
           "original_catalog_name": "收益率曲线陡峭化与平坦化",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/收益率曲线陡峭化与平坦化.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-IR-CURVE",
+                "C-IR-POLICY",
+                "C-ASSET-UST"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-IR-CURVE",
+                "C-IR-TERM",
+                "C-ASSET-UST"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -2848,8 +3267,8 @@
             "C-INF-INFLATION",
             "C-POL-CREDIBILITY"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/工资—价格反馈.md",
           "catalog_anchor": "R-GROWTH-04",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-GROWTH-04",
           "context_terms": [
@@ -2887,7 +3306,25 @@
           "original_catalog_name": "工资—价格反馈",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/工资—价格反馈.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-INF-INFLATION"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-INF-INFLATION",
+                "C-POL-CREDIBILITY"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -3014,7 +3451,7 @@
             "C-IR-REAL"
           ],
           "status": "complete",
-          "path": "../20_mechanisms/R-FISCAL-LONGYIELD_fiscal_long_yields.md",
+          "path": "../20_mechanisms/国债供给的定价机制.md",
           "catalog_anchor": "R-FISCAL-LONGYIELD",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-FISCAL-LONGYIELD",
           "context_terms": [
@@ -3074,7 +3511,8 @@
           "original_catalog_name": "国债供给的定价机制",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/国债供给的定价机制.md"
         },
         {
           "id": "R-FISCAL-DEBTDYN",
@@ -3084,8 +3522,8 @@
           "node_ids": [
             "C-FISCAL-DEFICIT"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/政府债务动态.md",
           "catalog_anchor": "R-FISCAL-DEBTDYN",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-FISCAL-DEBTDYN",
           "context_terms": [
@@ -3118,7 +3556,31 @@
           "original_catalog_name": "债务动态：利率、增长与初级余额",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/政府债务动态.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FISCAL-DEFICIT"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FISCAL-DEFICIT"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-FISCAL-DEFICIT"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-FISCAL-07",
@@ -3131,8 +3593,8 @@
             "C-CREDIT-10",
             "C-MONEY-10"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/国债供给与抵押品便利收益定价.md",
           "catalog_anchor": "R-FISCAL-07",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-FISCAL-07",
           "context_terms": [
@@ -3157,7 +3619,27 @@
           "original_catalog_name": "国债供给与抵押品便利收益定价",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/国债供给与抵押品便利收益定价.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-ASSET-UST",
+                "C-CREDIT-10"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-ASSET-UST",
+                "C-CREDIT-10",
+                "C-MONEY-10"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-FISCAL-08",
@@ -3171,8 +3653,8 @@
             "C-FISCAL-14",
             "C-MONEY-19"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/债务上限风险的短券定价.md",
           "catalog_anchor": "R-FISCAL-08",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-FISCAL-08",
           "context_terms": [],
@@ -3181,7 +3663,29 @@
           "original_catalog_name": "债务上限事件与短券局部溢价",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/债务上限风险的短券定价.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FISCAL-15",
+                "C-MONEY-13",
+                "C-ASSET-UST",
+                "C-FISCAL-14"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-ASSET-UST",
+                "C-MONEY-19",
+                "C-MONEY-13"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-FISCAL-10",
@@ -3192,8 +3696,8 @@
             "C-FISCAL-13",
             "C-POL-CREDIBILITY"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/财政主导与通胀预期.md",
           "catalog_anchor": "R-FISCAL-10",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-FISCAL-10",
           "context_terms": [
@@ -3222,7 +3726,26 @@
           "original_catalog_name": "财政主导与通胀预期",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/财政主导与通胀预期.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FISCAL-13",
+                "C-POL-CREDIBILITY"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FISCAL-13",
+                "C-POL-CREDIBILITY"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-FISCAL-11",
@@ -3234,8 +3757,8 @@
             "C-CREDIT-02",
             "C-CREDIT-15"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/主权信用与银行资产负债表反馈.md",
           "catalog_anchor": "R-FISCAL-11",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-FISCAL-11",
           "context_terms": [
@@ -3260,7 +3783,27 @@
           "original_catalog_name": "主权信用与银行资产负债表反馈",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/主权信用与银行资产负债表反馈.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FISCAL-14",
+                "C-CREDIT-02"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FISCAL-14",
+                "C-CREDIT-02",
+                "C-CREDIT-15"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -3276,8 +3819,8 @@
           "node_ids": [
             "C-CREDIT-02"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/银行信贷的资本约束.md",
           "catalog_anchor": "R-BANKING-01",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-BANKING-01",
           "context_terms": [
@@ -3305,7 +3848,24 @@
           "original_catalog_name": "银行资本约束与信贷供给",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/银行信贷的资本约束.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CREDIT-02"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CREDIT-02"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-BANKING-02",
@@ -3316,8 +3876,8 @@
             "C-CREDIT-04",
             "C-IR-POLICY"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/银行负债成本、资产重定价与息差.md",
           "catalog_anchor": "R-BANKING-02",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-BANKING-02",
           "context_terms": [
@@ -3346,7 +3906,26 @@
           "original_catalog_name": "银行负债成本、资产重定价与息差",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/银行负债成本、资产重定价与息差.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CREDIT-04",
+                "C-IR-POLICY"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CREDIT-04",
+                "C-IR-POLICY"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-CREDIT-COLLATERAL",
@@ -3356,8 +3935,8 @@
           "node_ids": [
             "C-CREDIT-10"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/金融加速器.md",
           "catalog_anchor": "R-CREDIT-COLLATERAL",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CREDIT-COLLATERAL",
           "context_terms": [
@@ -3390,7 +3969,24 @@
           "original_catalog_name": "资产价格、抵押品与信用扩张",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/金融加速器.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CREDIT-10"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CREDIT-10"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-LIQ-SPIRAL",
@@ -3402,8 +3998,8 @@
             "C-CREDIT-10",
             "C-LIQ-FUND"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/保证金驱动的流动性螺旋.md",
           "catalog_anchor": "R-LIQ-SPIRAL",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-LIQ-SPIRAL",
           "context_terms": [
@@ -3433,7 +4029,27 @@
           "original_catalog_name": "保证金提高、去杠杆与价格冲击",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/保证金驱动的流动性螺旋.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-DERIV-14",
+                "C-CREDIT-10",
+                "C-LIQ-FUND"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-DERIV-14",
+                "C-LIQ-FUND"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-BANKING-05",
@@ -3445,8 +4061,8 @@
             "C-CREDIT-15",
             "C-LIQ-MARKET"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/流动性错配下的挤兑机制.md",
           "catalog_anchor": "R-BANKING-05",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-BANKING-05",
           "context_terms": [
@@ -3471,7 +4087,27 @@
           "original_catalog_name": "流动性错配与挤兑",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/流动性错配下的挤兑机制.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CREDIT-15",
+                "C-LIQ-MARKET"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CREDIT-03",
+                "C-CREDIT-15",
+                "C-LIQ-MARKET"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-DEBT-DEFLATION",
@@ -3483,8 +4119,8 @@
             "C-CREDIT-16",
             "C-CREDIT-10"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/债务通缩.md",
           "catalog_anchor": "R-DEBT-DEFLATION",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-DEBT-DEFLATION",
           "context_terms": [
@@ -3522,7 +4158,27 @@
           "original_catalog_name": "债务通缩与实际债务负担",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/债务通缩.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-INF-INFLATION",
+                "C-CREDIT-16"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-INF-INFLATION",
+                "C-CREDIT-16",
+                "C-CREDIT-10"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-BANKING-09",
@@ -3534,8 +4190,8 @@
             "C-CREDIT-02",
             "C-CREDIT-12"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/证券化中的风险转移与激励.md",
           "catalog_anchor": "R-BANKING-09",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-BANKING-09",
           "context_terms": [
@@ -3560,7 +4216,35 @@
           "original_catalog_name": "证券化与风险转移、激励变化",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/证券化中的风险转移与激励.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CREDIT-13",
+                "C-CREDIT-02"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CREDIT-13",
+                "C-CREDIT-12"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-CREDIT-13",
+                "C-CREDIT-02",
+                "C-CREDIT-12"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-BANKING-10",
@@ -3573,8 +4257,8 @@
             "C-CREDIT-15",
             "C-LIQ-FUND"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/最后贷款人的危机干预.md",
           "catalog_anchor": "R-BANKING-10",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-BANKING-10",
           "context_terms": [
@@ -3595,7 +4279,37 @@
           "original_catalog_name": "最后贷款人与恐慌缓解",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/最后贷款人的危机干预.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-MONEY-11",
+                "C-CREDIT-10",
+                "C-LIQ-FUND"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-MONEY-11",
+                "C-CREDIT-15",
+                "C-LIQ-FUND"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-MONEY-11",
+                "C-CREDIT-10",
+                "C-CREDIT-15"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-BANKING-12",
@@ -3609,8 +4323,8 @@
             "C-LIQ-MARKET",
             "C-CREDIT-02"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/金融周期中的系统性风险积累与扩散.md",
           "catalog_anchor": "R-BANKING-12",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-BANKING-12",
           "previous_name": "信用周期与资产价格相互强化",
@@ -3624,7 +4338,37 @@
           "original_catalog_name": "金融周期与系统性风险的积累、扩散",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/金融周期中的系统性风险积累与扩散.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CREDIT-16",
+                "C-CREDIT-10",
+                "C-CREDIT-02"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CREDIT-10",
+                "C-LIQ-FUND",
+                "C-LIQ-MARKET"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-CREDIT-02",
+                "C-LIQ-FUND",
+                "C-CREDIT-16"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -3640,8 +4384,8 @@
           "node_ids": [
             "C-FX-10"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/利率平价.md",
           "catalog_anchor": "R-FX-PARITY",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-FX-PARITY",
           "context_terms": [
@@ -3662,7 +4406,9 @@
               "name": "远期汇率与掉期点"
             }
           ],
-          "related_mechanism_ids": [],
+          "related_mechanism_ids": [
+            "R-USD-GLOBAL"
+          ],
           "previous_node_ids": [
             "C-IR-NOMINAL",
             "C-FX-06",
@@ -3674,7 +4420,33 @@
           "original_catalog_name": "利率平价与远期汇率",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/利率平价.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FX-10"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FX-10"
+              ],
+              "related_mechanism_ids": [
+                "R-USD-GLOBAL"
+              ]
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-FX-10"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-USD-GLOBAL",
@@ -3688,8 +4460,8 @@
             "C-CREDIT-SPREAD",
             "C-EQ-ERP"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/美元融资依赖的传导机制.md",
           "catalog_anchor": "R-USD-GLOBAL",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-USD-GLOBAL",
           "previous_name": "美元融资收紧与全球风险资产",
@@ -3698,12 +4470,47 @@
           ],
           "selection_update": "user_requested_v5",
           "context_terms": [],
-          "related_mechanism_ids": [],
+          "related_mechanism_ids": [
+            "R-FX-PARITY"
+          ],
           "node_mapping_status": "active_nodes",
           "original_catalog_name": "美元融资依赖的传导机制",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/美元融资依赖的传导机制.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FX-USD",
+                "C-LIQ-FUND",
+                "C-CREDIT-SPREAD"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FX-USD",
+                "C-LIQ-FUND",
+                "C-FX-10"
+              ],
+              "related_mechanism_ids": [
+                "R-FX-PARITY"
+              ]
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-LIQ-FUND",
+                "C-CREDIT-SPREAD",
+                "C-EQ-ERP",
+                "C-FX-USD"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-INTERNATIONAL-05",
@@ -3715,8 +4522,8 @@
             "C-FX-10",
             "C-LIQ-FUND"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/美元互换额度对跨币种基差的影响.md",
           "catalog_anchor": "R-INTERNATIONAL-05",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-INTERNATIONAL-05",
           "context_terms": [
@@ -3739,7 +4546,30 @@
           "original_catalog_name": "美元互换额度与跨币种基差",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/美元互换额度对跨币种基差的影响.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-MONEY-12",
+                "C-FX-10",
+                "C-LIQ-FUND"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-MONEY-12",
+                "C-FX-10",
+                "C-LIQ-FUND"
+              ],
+              "related_mechanism_ids": [
+                "R-USD-GLOBAL"
+              ]
+            }
+          ]
         },
         {
           "id": "R-JPY-CARRY",
@@ -3751,8 +4581,8 @@
             "C-FX-17",
             "C-VOL-IVRV"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/日元套息交易的平仓反馈.md",
           "catalog_anchor": "R-JPY-CARRY",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-JPY-CARRY",
           "context_terms": [
@@ -3782,7 +4612,28 @@
           "original_catalog_name": "日元套息与平仓反馈",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/日元套息交易的平仓反馈.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FX-03",
+                "C-FX-17",
+                "C-VOL-IVRV"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FX-03",
+                "C-FX-17",
+                "C-VOL-IVRV"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-INTERNATIONAL-07",
@@ -3794,8 +4645,8 @@
             "C-ASSET-UST",
             "C-IR-CURVE"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/汇率对冲成本对跨境债券配置的影响.md",
           "catalog_anchor": "R-INTERNATIONAL-07",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-INTERNATIONAL-07",
           "context_terms": [
@@ -3820,7 +4671,28 @@
           "original_catalog_name": "汇率对冲成本与跨境债券配置",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/汇率对冲成本对跨境债券配置的影响.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FX-10",
+                "C-ASSET-UST",
+                "C-IR-CURVE"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FX-10",
+                "C-ASSET-UST",
+                "C-IR-CURVE"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-INTERNATIONAL-09",
@@ -3833,8 +4705,8 @@
             "C-FX-18",
             "C-MONEY-RESERVES"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/资本流出、储备干预与本币流动性.md",
           "catalog_anchor": "R-INTERNATIONAL-09",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-INTERNATIONAL-09",
           "context_terms": [
@@ -3855,7 +4727,38 @@
           "original_catalog_name": "资本流出、储备干预与本币流动性",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/资本流出、储备干预与本币流动性.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FX-13",
+                "C-FX-14",
+                "C-FX-18",
+                "C-MONEY-RESERVES"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FX-14",
+                "C-FX-18",
+                "C-MONEY-RESERVES"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-FX-13",
+                "C-FX-14",
+                "C-FX-18"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-INTERNATIONAL-12",
@@ -3869,8 +4772,8 @@
             "C-ASSET-UST",
             "C-MONEY-12"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/美元主导地位的形成与维持.md",
           "catalog_anchor": "R-INTERNATIONAL-12",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-INTERNATIONAL-12",
           "previous_name": "美元主导、网络效应与路径依赖",
@@ -3884,7 +4787,37 @@
           "original_catalog_name": "全球美元体系与美元主导地位",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/美元主导地位的形成与维持.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FX-USD",
+                "C-GLOBAL-13"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FX-USD",
+                "C-FX-14",
+                "C-ASSET-UST"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-FX-USD",
+                "C-GLOBAL-13",
+                "C-ASSET-UST",
+                "C-MONEY-12"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-INTERNATIONAL-13",
@@ -3898,8 +4831,8 @@
             "C-ASSET-GOLD",
             "C-GLOBAL-13"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/美元信用与储备多元化.md",
           "catalog_anchor": "R-INTERNATIONAL-13",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-INTERNATIONAL-13",
           "previous_name": "制裁风险与储备多元化",
@@ -3913,7 +4846,39 @@
           "original_catalog_name": "美元信用与储备多元化",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/美元信用与储备多元化.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FX-USD",
+                "C-FX-14",
+                "C-ASSET-UST",
+                "C-GLOBAL-13"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FX-14",
+                "C-ASSET-UST",
+                "C-ASSET-GOLD",
+                "C-GLOBAL-13"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-FX-USD",
+                "C-FX-14",
+                "C-ASSET-GOLD"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-INTERNATIONAL-14",
@@ -3927,8 +4892,8 @@
             "C-IR-POLICY",
             "C-LIQ-FUND"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/港元联系汇率与HIBOR传导.md",
           "catalog_anchor": "R-INTERNATIONAL-14",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-INTERNATIONAL-14",
           "context_terms": [],
@@ -3937,7 +4902,29 @@
           "original_catalog_name": "港元联系汇率与HIBOR传导",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/港元联系汇率与HIBOR传导.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FX-05",
+                "C-FX-13",
+                "C-MONEY-RESERVES"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FX-05",
+                "C-MONEY-RESERVES",
+                "C-IR-POLICY",
+                "C-LIQ-FUND"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-RMB-INTERNATIONALIZATION",
@@ -3951,8 +4938,8 @@
             "C-GLOBAL-13",
             "C-BOND-03"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/人民币国际化.md",
           "catalog_anchor": "R-RMB-INTERNATIONALIZATION",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-RMB-INTERNATIONALIZATION",
           "migrated_from_concept_ids": [
@@ -3965,7 +4952,37 @@
           "original_catalog_name": "人民币国际化",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/人民币国际化.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FX-02",
+                "C-GLOBAL-13"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FX-02",
+                "C-FX-13",
+                "C-GLOBAL-13"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-FX-02",
+                "C-FX-13",
+                "C-FX-14",
+                "C-BOND-03"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -3983,8 +5000,8 @@
             "C-BOND-05",
             "C-ASIA-06"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/高股息资产的债券替代效应.md",
           "catalog_anchor": "R-EQ-DIVIDEND",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-EQ-DIVIDEND",
           "context_terms": [
@@ -4009,7 +5026,27 @@
           "original_catalog_name": "高股息资产与债券替代需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/高股息资产的债券替代效应.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-ASIA-05",
+                "C-BOND-05"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-ASIA-05",
+                "C-BOND-05",
+                "C-ASIA-06"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-EQUITY-14",
@@ -4019,8 +5056,8 @@
           "node_ids": [
             "C-EQUITY-18"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/并购价差定价.md",
           "catalog_anchor": "R-EQUITY-14",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-EQUITY-14",
           "context_terms": [
@@ -4053,7 +5090,24 @@
           "original_catalog_name": "并购、监管审批与事件价差",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/并购价差定价.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-EQUITY-18"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-EQUITY-18"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -4071,8 +5125,8 @@
             "C-ASIA-04",
             "C-LIQ-FUND"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/ETF申赎套利.md",
           "catalog_anchor": "R-MARKET-04",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-MARKET-04",
           "context_terms": [
@@ -4097,7 +5151,26 @@
           "original_catalog_name": "ETF申赎套利与基础资产价格",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/ETF申赎套利.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FLOW-05",
+                "C-ASIA-04"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FLOW-05",
+                "C-LIQ-FUND"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-MARKET-05",
@@ -4107,8 +5180,8 @@
           "node_ids": [
             "C-FLOW-05"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/指数调整的被动资金效应.md",
           "catalog_anchor": "R-MARKET-05",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-MARKET-05",
           "context_terms": [
@@ -4141,7 +5214,24 @@
           "original_catalog_name": "指数调整与被动资金交易",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/指数调整的被动资金效应.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FLOW-05"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FLOW-05"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-MARKET-07",
@@ -4152,8 +5242,8 @@
             "C-FLOW-12",
             "C-VOL-IVRV"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/波动率目标策略的顺周期反馈.md",
           "catalog_anchor": "R-MARKET-07",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-MARKET-07",
           "context_terms": [
@@ -4170,7 +5260,9 @@
               "name": "价格冲击与市场容量"
             }
           ],
-          "related_mechanism_ids": [],
+          "related_mechanism_ids": [
+            "R-MARKET-08"
+          ],
           "previous_node_ids": [
             "C-FLOW-12",
             "C-VOL-IVRV",
@@ -4182,7 +5274,28 @@
           "original_catalog_name": "波动率目标策略与顺周期调仓",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/波动率目标策略的顺周期反馈.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FLOW-12",
+                "C-VOL-IVRV"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FLOW-12",
+                "C-VOL-IVRV"
+              ],
+              "related_mechanism_ids": [
+                "R-MARKET-08"
+              ]
+            }
+          ]
         },
         {
           "id": "R-MARKET-08",
@@ -4195,8 +5308,8 @@
             "C-INF-INFLATION",
             "C-VOL-IVRV"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/风险平价与股债相关性变化.md",
           "catalog_anchor": "R-MARKET-08",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-MARKET-08",
           "context_terms": [
@@ -4209,7 +5322,9 @@
               "name": "总需求"
             }
           ],
-          "related_mechanism_ids": [],
+          "related_mechanism_ids": [
+            "R-MARKET-07"
+          ],
           "previous_node_ids": [
             "C-FLOW-12",
             "C-EQUITY-14",
@@ -4222,7 +5337,30 @@
           "original_catalog_name": "风险平价与股债相关性变化",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/风险平价与股债相关性变化.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-ASSET-UST",
+                "C-INF-INFLATION",
+                "C-VOL-IVRV"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FLOW-12",
+                "C-ASSET-UST",
+                "C-VOL-IVRV"
+              ],
+              "related_mechanism_ids": [
+                "R-MARKET-07"
+              ]
+            }
+          ]
         },
         {
           "id": "R-MARKET-09",
@@ -4232,8 +5370,8 @@
           "node_ids": [
             "C-FLOW-11"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/CTA趋势跟随的价格反馈.md",
           "catalog_anchor": "R-MARKET-09",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-MARKET-09",
           "context_terms": [
@@ -4266,7 +5404,24 @@
           "original_catalog_name": "CTA趋势跟随与行情反馈",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/CTA趋势跟随的价格反馈.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FLOW-11"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FLOW-11"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-MARKET-11",
@@ -4277,8 +5432,8 @@
           "node_ids": [
             "C-EXPECT-15"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/新闻传播、投资者注意力与价格延迟反应.md",
           "catalog_anchor": "R-MARKET-11",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-MARKET-11",
           "context_terms": [
@@ -4311,7 +5466,24 @@
           "original_catalog_name": "新闻传播、投资者注意力与价格延迟反应",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/新闻传播、投资者注意力与价格延迟反应.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-EXPECT-15"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-EXPECT-15"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-MARKET-13",
@@ -4321,8 +5493,8 @@
           "node_ids": [
             "C-ASIA-08"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/涨跌停制度下的跨日价格发现.md",
           "catalog_anchor": "R-MARKET-13",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-MARKET-13",
           "context_terms": [
@@ -4355,7 +5527,24 @@
           "original_catalog_name": "涨跌停与跨日价格发现",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/涨跌停制度下的跨日价格发现.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-ASIA-08"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-ASIA-08"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -4369,10 +5558,13 @@
           "scope": "融资、分红、储存与便利收益",
           "priority": "P0",
           "node_ids": [
-            "C-DERIV-15"
+            "C-DERIV-15",
+            "C-LIQ-FUND",
+            "C-DERIV-14",
+            "C-COMMOD-03"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/现货期货持有成本定价.md",
           "catalog_anchor": "R-DERIV-CARRY",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-DERIV-CARRY",
           "context_terms": [
@@ -4393,7 +5585,9 @@
               "name": "便利收益与储存成本"
             }
           ],
-          "related_mechanism_ids": [],
+          "related_mechanism_ids": [
+            "R-DERIVATIVES-02"
+          ],
           "previous_node_ids": [
             "C-DERIV-01",
             "C-DERIV-15",
@@ -4405,7 +5599,29 @@
           "original_catalog_name": "现货期货持有成本定价",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/现货期货持有成本定价.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-DERIV-15",
+                "C-LIQ-FUND",
+                "C-DERIV-14"
+              ],
+              "related_mechanism_ids": [
+                "R-DERIVATIVES-02"
+              ]
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-DERIV-15",
+                "C-COMMOD-03"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-DERIVATIVES-02",
@@ -4419,8 +5635,8 @@
             "C-MONEY-10",
             "C-LIQ-FUND"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/基差交易.md",
           "catalog_anchor": "R-DERIVATIVES-02",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-DERIVATIVES-02",
           "previous_name": "基差交易与融资压力",
@@ -4434,7 +5650,31 @@
           "original_catalog_name": "基差交易与融资压力",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/基差交易.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-DERIV-15",
+                "C-MONEY-10",
+                "C-CREDIT-10",
+                "C-DERIV-14"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-DERIV-15",
+                "C-DERIV-14",
+                "C-CREDIT-10",
+                "C-MONEY-10",
+                "C-LIQ-FUND"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-DERIVATIVES-03",
@@ -4444,8 +5684,8 @@
           "node_ids": [
             "C-FLOW-10"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/做市商Gamma对冲的价格反馈.md",
           "catalog_anchor": "R-DERIVATIVES-03",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-DERIVATIVES-03",
           "context_terms": [
@@ -4478,7 +5718,24 @@
           "original_catalog_name": "做市商Gamma对冲与价格反馈",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/做市商Gamma对冲的价格反馈.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FLOW-10"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FLOW-10"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-DERIVATIVES-06",
@@ -4490,8 +5747,8 @@
             "C-VOL-IVRV",
             "C-DERIV-14"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/波动率风险溢价与卖波收益风险.md",
           "catalog_anchor": "R-DERIVATIVES-06",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-DERIVATIVES-06",
           "context_terms": [
@@ -4516,7 +5773,27 @@
           "original_catalog_name": "波动率风险溢价与卖波收益风险",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/波动率风险溢价与卖波收益风险.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-DERIV-04",
+                "C-VOL-IVRV"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-DERIV-04",
+                "C-VOL-IVRV",
+                "C-DERIV-14"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-DERIVATIVES-07",
@@ -4527,8 +5804,8 @@
             "C-VOL-IVRV",
             "C-DERIV-04"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/偏斜与尾部保险需求.md",
           "catalog_anchor": "R-DERIVATIVES-07",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-DERIVATIVES-07",
           "context_terms": [
@@ -4566,7 +5843,26 @@
           "original_catalog_name": "偏斜与尾部保险需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/偏斜与尾部保险需求.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-VOL-IVRV",
+                "C-DERIV-04"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-VOL-IVRV",
+                "C-DERIV-04"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-DERIVATIVES-10",
@@ -4607,7 +5903,8 @@
           "original_catalog_name": "MBS负凸性与利率对冲反馈",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/MBS负凸性引发的利率对冲反馈.md"
         }
       ]
     },
@@ -4691,7 +5988,7 @@
             "C-IR-POLICY"
           ],
           "status": "complete",
-          "path": "../20_mechanisms/R-GOLD-REALRATES_real_rates_gold.md",
+          "path": "../20_mechanisms/黄金的机会成本机制.md",
           "catalog_anchor": "R-GOLD-REALRATES",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-GOLD-REALRATES",
           "context_terms": [
@@ -4729,7 +6026,8 @@
           "original_catalog_name": "黄金的机会成本机制",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/黄金的机会成本机制.md"
         },
         {
           "id": "R-GOLD-03",
@@ -4763,7 +6061,8 @@
           "original_catalog_name": "央行购金与黄金需求结构",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/央行购金与黄金需求结构.md"
         },
         {
           "id": "R-ASSET-STOCKBOND",
@@ -4806,7 +6105,8 @@
           "original_catalog_name": "股债相关性与通胀/增长主导状态",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/股债相关性与通胀／增长主导状态.md"
         }
       ]
     },
@@ -4850,7 +6150,8 @@
           "original_catalog_name": "原油供给中断与价格、通胀、增长",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/原油供给冲击的宏观传导.md"
         },
         {
           "id": "R-COMMODITY-03",
@@ -4897,7 +6198,8 @@
           "original_catalog_name": "库存与便利收益、期货曲线",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/库存与便利收益、期货曲线.md"
         },
         {
           "id": "R-COMMODITY-08",
@@ -4941,7 +6243,8 @@
           "original_catalog_name": "矿业资本开支与长期供给周期",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/矿业投资与供给的周期反馈.md"
         }
       ]
     },
@@ -4982,7 +6285,8 @@
           "original_catalog_name": "降准与银行信贷、资金价格",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/降准的资金与信贷传导.md"
         },
         {
           "id": "R-CHINA-02",
@@ -5006,7 +6310,8 @@
           "original_catalog_name": "政策利率、LPR与实体融资成本",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/政策利率的LPR传导渠道.md"
         },
         {
           "id": "R-CN-CREDIT",
@@ -5049,7 +6354,8 @@
           "original_catalog_name": "社融结构、信用脉冲与实体需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/社融结构、信用脉冲与实体需求.md"
         },
         {
           "id": "R-CN-PROPERTY",
@@ -5087,7 +6393,8 @@
           "original_catalog_name": "地产销售、现金流与土地购置",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/房地产开发的现金流循环.md"
         },
         {
           "id": "R-CHINA-05",
@@ -5128,7 +6435,8 @@
           "original_catalog_name": "土地收入、地方财政与基建",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/土地财政的基建融资机制.md"
         },
         {
           "id": "R-CHINA-06",
@@ -5171,7 +6479,8 @@
           "original_catalog_name": "地方化债与银行、城投及企业回款",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/地方化债的资产负债表传导.md"
         },
         {
           "id": "R-CHINA-12",
@@ -5211,7 +6520,8 @@
           "original_catalog_name": "存款搬家、资管需求与债市",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/存款迁移的债市传导.md"
         }
       ]
     },
@@ -5242,7 +6552,8 @@
           "original_catalog_name": "A/H分割与相对估值",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/A／H溢价的市场分割机制.md"
         }
       ]
     },
@@ -5286,7 +6597,8 @@
           "original_catalog_name": "模型效率、推理成本与总算力需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/模型效率、推理成本与总算力需求.md"
         },
         {
           "id": "R-TECH-12",
@@ -5330,7 +6642,8 @@
           "original_catalog_name": "平台网络效应、竞争与定价权",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/平台网络效应.md"
         }
       ]
     },
@@ -5387,7 +6700,8 @@
           "original_catalog_name": "关税与进口价格、利润及汇率",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/关税的跨境成本分担.md"
         },
         {
           "id": "R-GEOPOLITICS-07",
@@ -5431,7 +6745,8 @@
           "original_catalog_name": "人口结构与养老金资产配置",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/养老金资产配置的人口结构约束.md"
         }
       ]
     },
@@ -5475,7 +6790,8 @@
           "original_catalog_name": "稳定币发行赎回与短券需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/稳定币发行赎回对短券需求的影响.md"
         },
         {
           "id": "R-CRYPTO-04",
@@ -5510,7 +6826,8 @@
           "original_catalog_name": "永续合约杠杆与强平瀑布",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations"
+          "node_mapping_stage": "initial_catalog_associations",
+          "planned_path": "../20_mechanisms/永续合约的强平瀑布.md"
         }
       ]
     }
@@ -5534,7 +6851,7 @@
     }
   ],
   "schema_version": 4,
-  "updated": "2026-10-27",
+  "updated": "2026-10-29",
   "notes": [
     "初步建图节点已由用户确认：concepts 163项、mechanisms 71项。两类目录构成当前制作范围。",
     "selection_status=confirmed_initial_build 表示节点已入选；status=pending 表示正文待制作，complete表示已有经审阅正文。",
@@ -5545,7 +6862,8 @@
     "名称按机制含义、研究范围与具体关系确定；已采纳36项原名恢复，177项勾叉保持71/106。",
     "正文完整性、证据覆盖日期与实时更新状态见各正文；目录确认不代表222份待制作正文已完成。",
     "build_baseline保存2026-10-25建图起点；当前正文进度见counts与build_progress。2026-10-27新增黄金、政策利率与目标区间两篇。",
-    "2026-10-27国债供给关联Concepts试产新增6篇：main只执笔融资流动性；两名GPT-6-Astra medium分别执笔2篇和3篇，main逐篇审阅。该机制关联8个对象现均有正文。"
+    "2026-10-27国债供给关联Concepts试产新增6篇：main只执笔融资流动性；两名GPT-6-Astra medium分别执笔2篇和3篇，main逐篇审阅。该机制关联8个对象现均有正文。",
+    "2026-10-29按定稿标题命名Concept／Mechanism文件；ID保持稳定，planned_path记录全部234项的目标路径。目录接入已有158篇经审阅正文，经济解释未改。"
   ],
   "package_version": "v5",
   "packaged_at": "2026-10-27",
@@ -12050,13 +13368,20 @@
     "authored_nodes": 4,
     "pending_nodes": 230
   },
-  "maintenance_revision": "fiscal_concepts_pilot_20261027",
+  "maintenance_revision": "title_filenames_20261029",
   "build_progress": {
-    "as_of": "2026-10-27",
-    "authored_nodes": 12,
-    "pending_nodes": 222,
-    "complete_concepts": 10,
-    "complete_mechanisms": 2,
-    "review": "../50_reviews/FISCAL_CONCEPT_PILOT_20261027/MAIN_REVIEW.md"
+    "as_of": "2026-10-29",
+    "authored_nodes": 158,
+    "pending_nodes": 76,
+    "complete_concepts": 107,
+    "complete_mechanisms": 51,
+    "review": "../50_reviews/FULL_BUILD_20261028/REVIEWED_CHECKPOINT_20261028.md",
+    "note": "已审正文计入complete；76项尚未完成主审，包含工作区已有的15篇待审稿。"
+  },
+  "file_naming": {
+    "rule": "confirmed_title.md",
+    "guide": "FILE_NAMING.md",
+    "stable_identifier": "front_matter.id",
+    "planned_path_base": "00_start/"
   }
 }

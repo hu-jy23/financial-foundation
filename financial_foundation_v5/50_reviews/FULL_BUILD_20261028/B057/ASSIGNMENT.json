@@ -9,7 +9,7 @@
       "name": "主权信用与银行资产负债表反馈",
       "scope": "本国债持仓及救助预期",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-FISCAL-11.md",
+      "path": "20_mechanisms/主权信用与银行资产负债表反馈.md",
       "node_ids": [
         "C-FISCAL-14",
         "C-CREDIT-02",
@@ -22,7 +22,7 @@
       "name": "银行信贷的资本约束",
       "scope": "资本损失、风险权重和融资",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-BANKING-01.md",
+      "path": "20_mechanisms/银行信贷的资本约束.md",
       "node_ids": [
         "C-CREDIT-02"
       ],
@@ -33,7 +33,7 @@
       "name": "银行负债成本、资产重定价与息差",
       "scope": "固定/浮动、久期和存款beta",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-BANKING-02.md",
+      "path": "20_mechanisms/银行负债成本、资产重定价与息差.md",
       "node_ids": [
         "C-CREDIT-04",
         "C-IR-POLICY"

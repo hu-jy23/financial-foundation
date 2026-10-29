@@ -4,16 +4,16 @@
 
 ## 范围、分工与实际流程
 
-将[机制正文](../../20_mechanisms/R-FISCAL-LONGYIELD_fiscal_long_yields.md)出现的对象ID与现行163项正式对象目录交叉核对，共八个入选关联对象；[实际利率](../../10_concepts/C-IR-REAL_real_interest_rate.md)与[期限溢价](../../10_concepts/C-IR-TERM_term_premium.md)已有成品，本轮新增六篇。普通变量、已退出旧术语未恢复成节点。
+将[机制正文](../../20_mechanisms/国债供给的定价机制.md)出现的对象ID与现行163项正式对象目录交叉核对，共八个入选关联对象；[实际利率](../../10_concepts/实际利率.md)与[期限溢价](../../10_concepts/期限溢价.md)已有成品，本轮新增六篇。普通变量、已退出旧术语未恢复成节点。
 
 | 本轮条目 | 实际执笔者 | 资料覆盖 | 主审结论 |
 |---|---|---|---|
-| [财政赤字与初级赤字](../../10_concepts/C-FISCAL-DEFICIT_fiscal_primary_deficit.md) | `/root/fiscal_tga_concepts` | 2025-04-28；年度重点FY2024 | 接受，保留首稿经济正文 |
-| [财政部一般账户TGA](../../10_concepts/C-MONEY-13_treasury_general_account.md) | 同上 | 2025-08-06；融资例子至4月28日 | 接受，保留首稿经济正文 |
-| [融资流动性](../../10_concepts/C-LIQ-FUND_funding_liquidity.md) | main `/root` | 历史至2025-05-09；动态定义另记核读日 | 自审通过 |
-| [央行资产负债表](../../10_concepts/C-MONEY-CBBS_central_bank_balance_sheet.md) | `/root/cbbs_qe_qt_concepts` | 2025年5月报告；余额至4月30日 | 接受，保留首稿经济正文 |
-| [量化宽松QE](../../10_concepts/C-POL-QE_quantitative_easing.md) | 同上 | 2022-03-16 | 接受，保留首稿经济正文 |
-| [量化紧缩QT](../../10_concepts/C-POL-QT_quantitative_tightening.md) | 同上 | 2025-04-28 | 接受，保留首稿经济正文 |
+| [财政赤字与初级赤字](../../10_concepts/财政赤字与初级赤字.md) | `/root/fiscal_tga_concepts` | 2025-04-28；年度重点FY2024 | 接受，保留首稿经济正文 |
+| [财政部一般账户TGA](../../10_concepts/财政部一般账户TGA.md) | 同上 | 2025-08-06；融资例子至4月28日 | 接受，保留首稿经济正文 |
+| [融资流动性](../../10_concepts/融资流动性.md) | main `/root` | 历史至2025-05-09；动态定义另记核读日 | 自审通过 |
+| [央行资产负债表](../../10_concepts/央行资产负债表.md) | `/root/cbbs_qe_qt_concepts` | 2025年5月报告；余额至4月30日 | 接受，保留首稿经济正文 |
+| [量化宽松QE](../../10_concepts/量化宽松QE.md) | 同上 | 2022-03-16 | 接受，保留首稿经济正文 |
+| [量化紧缩QT](../../10_concepts/量化紧缩QT.md) | 同上 | 2025-04-28 | 接受，保留首稿经济正文 |
 
 两名subagent实际使用`gpt-6-astra`、`medium`、`fork_turns=none`，以独立任务书和当前文件接收上下文，各负责2／3篇，没有继续分派。main先冻结输入哈希和输出路径，再派发只读规范／共享目录、限定可写文件、逐篇来源与缺口、保存首稿的要求。subagent独立检索并打开原始资料，完成五篇后交审；main完整阅读全部六篇与两份执笔笔记，核对关键来源、公式、边界和信息时点，最后统一更新目录。
 

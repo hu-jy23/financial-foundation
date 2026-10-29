@@ -2,7 +2,7 @@
 
 - 执笔：`/root/policy_concept`；按明确任务使用GPT-6-Astra / medium；未另派agent。
 - 输入：Library `libfile_6d7e648dbfc881918f147eaf6efeafd7` version 2的本地v5副本；任务文本为同目录`POLICY_TASK.md`。
-- 输出：`10_concepts/C-IR-POLICY_policy_rate_target_range.md`；首稿完整副本为本目录`POLICY_FIRST_DRAFT.md`。新写，未修改旧concept、共享目录、索引、机制、Event或Source，未上传。
+- 输出：`10_concepts/政策利率与目标区间.md`；首稿完整副本为本目录`POLICY_FIRST_DRAFT.md`。新写，未修改旧concept、共享目录、索引、机制、Event或Source，未上传。
 - 访问与整理：2026-10-27；历史事实覆盖到2024-12-18。2026访问的动态方法页不当成2026市场状态证据；IORB FAQ仅采用标注2021-07-29的两问。
 
 ## 输入阅读

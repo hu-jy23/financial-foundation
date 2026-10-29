@@ -9,7 +9,7 @@
       "name": "并购交易与交易条款",
       "scope": "现金或换股对价、交割条件、终止条款和审批程序",
       "kind": "concepts",
-      "path": "10_concepts/C-EQUITY-18.md",
+      "path": "10_concepts/并购交易与交易条款.md",
       "node_ids": [],
       "group": "股票、估值与公司财务"
     },
@@ -18,7 +18,7 @@
       "name": "隐含波动率与实现波动率",
       "scope": "定价参数和统计量",
       "kind": "concepts",
-      "path": "10_concepts/C-VOL-IVRV.md",
+      "path": "10_concepts/隐含波动率与实现波动率.md",
       "node_ids": [],
       "group": "衍生品、波动与对冲"
     },
@@ -27,7 +27,7 @@
       "name": "波动率风险溢价",
       "scope": "测度、期限与收益标签",
       "kind": "concepts",
-      "path": "10_concepts/C-DERIV-04.md",
+      "path": "10_concepts/波动率风险溢价.md",
       "node_ids": [],
       "group": "衍生品、波动与对冲"
     }

@@ -22,7 +22,7 @@
           "name": "央行可信度",
           "scope": "承诺、行动与市场相信程度",
           "kind": "concepts",
-          "path": "10_concepts/C-POL-CREDIBILITY.md",
+          "path": "10_concepts/央行可信度.md",
           "node_ids": [],
           "group": "预期、信息与认知"
         },
@@ -31,7 +31,7 @@
           "name": "投资者注意力",
           "scope": "关注稀缺与信息覆盖",
           "kind": "concepts",
-          "path": "10_concepts/C-EXPECT-15.md",
+          "path": "10_concepts/投资者注意力.md",
           "node_ids": [],
           "group": "预期、信息与认知"
         },
@@ -40,7 +40,7 @@
           "name": "通货膨胀",
           "scope": "价格总体水平变化",
           "kind": "concepts",
-          "path": "10_concepts/C-INF-INFLATION.md",
+          "path": "10_concepts/通货膨胀.md",
           "node_ids": [],
           "group": "物价、工资与就业"
         }
@@ -58,7 +58,7 @@
           "name": "有效联邦基金利率EFFR",
           "scope": "美国实际隔夜无担保市场利率",
           "kind": "concepts",
-          "path": "10_concepts/C-RATE-05.md",
+          "path": "10_concepts/有效联邦基金利率EFFR.md",
           "node_ids": [],
           "group": "利率与收益率曲线"
         },
@@ -67,7 +67,7 @@
           "name": "SOFR与担保融资基准",
           "scope": "担保隔夜资金价格",
           "kind": "concepts",
-          "path": "10_concepts/C-RATE-06.md",
+          "path": "10_concepts/SOFR与担保融资基准.md",
           "node_ids": [],
           "group": "利率与收益率曲线"
         },
@@ -76,7 +76,7 @@
           "name": "隔夜指数掉期OIS",
           "scope": "浮动隔夜复利与固定利率互换",
           "kind": "concepts",
-          "path": "10_concepts/C-RATE-07.md",
+          "path": "10_concepts/隔夜指数掉期OIS.md",
           "node_ids": [],
           "group": "利率与收益率曲线"
         }
@@ -94,7 +94,7 @@
           "name": "联邦基金期货",
           "scope": "合约结算与政策预期代理",
           "kind": "concepts",
-          "path": "10_concepts/C-RATE-08.md",
+          "path": "10_concepts/联邦基金期货.md",
           "node_ids": [],
           "group": "利率与收益率曲线"
         },
@@ -103,7 +103,7 @@
           "name": "收益率曲线",
           "scope": "期限、券种与拟合",
           "kind": "concepts",
-          "path": "10_concepts/C-IR-CURVE.md",
+          "path": "10_concepts/收益率曲线.md",
           "node_ids": [],
           "group": "利率与收益率曲线"
         },
@@ -112,7 +112,7 @@
           "name": "银行准备金",
           "scope": "央行账户余额与可用性",
           "kind": "concepts",
-          "path": "10_concepts/C-MONEY-RESERVES.md",
+          "path": "10_concepts/银行准备金.md",
           "node_ids": [],
           "group": "货币、央行与流动性"
         }
@@ -130,7 +130,7 @@
           "name": "准备金利率",
           "scope": "央行对准备金支付或收取的利率及其适用制度；利率走廊的传导另见机制。",
           "kind": "concepts",
-          "path": "10_concepts/C-MONEY-07.md",
+          "path": "10_concepts/准备金利率.md",
           "node_ids": [],
           "group": "货币、央行与流动性"
         },
@@ -139,7 +139,7 @@
           "name": "回购与逆回购",
           "scope": "融资方向、抵押品与对手方",
           "kind": "concepts",
-          "path": "10_concepts/C-MONEY-10.md",
+          "path": "10_concepts/回购与逆回购.md",
           "node_ids": [],
           "group": "货币、央行与流动性"
         },
@@ -148,7 +148,7 @@
           "name": "常备工具与最后贷款人",
           "scope": "准入、抵押品和支持条件",
           "kind": "concepts",
-          "path": "10_concepts/C-MONEY-11.md",
+          "path": "10_concepts/常备工具与最后贷款人.md",
           "node_ids": [],
           "group": "货币、央行与流动性"
         }
@@ -166,7 +166,7 @@
           "name": "美元互换额度",
           "scope": "央行之间的美元流动性安排",
           "kind": "concepts",
-          "path": "10_concepts/C-MONEY-12.md",
+          "path": "10_concepts/美元互换额度.md",
           "node_ids": [],
           "group": "货币、央行与流动性"
         },
@@ -175,7 +175,7 @@
           "name": "隔夜逆回购ONRRP",
           "scope": "特定美国央行负债工具",
           "kind": "concepts",
-          "path": "10_concepts/C-MONEY-14.md",
+          "path": "10_concepts/隔夜逆回购ONRRP.md",
           "node_ids": [],
           "group": "货币、央行与流动性"
         },
@@ -184,7 +184,7 @@
           "name": "市场流动性",
           "scope": "价差、深度、冲击成本",
           "kind": "concepts",
-          "path": "10_concepts/C-LIQ-MARKET.md",
+          "path": "10_concepts/市场流动性.md",
           "node_ids": [],
           "group": "货币、央行与流动性"
         }
@@ -202,7 +202,7 @@
           "name": "货币市场基金",
           "scope": "短券、回购与央行工具配置；区分政府型、优质型及各国制度",
           "kind": "concepts",
-          "path": "10_concepts/C-MONEY-19.md",
+          "path": "10_concepts/货币市场基金.md",
           "node_ids": [],
           "group": "货币、央行与流动性"
         },
@@ -211,7 +211,7 @@
           "name": "财政主导",
           "scope": "财政约束对货币政策的影响",
           "kind": "concepts",
-          "path": "10_concepts/C-FISCAL-13.md",
+          "path": "10_concepts/财政主导.md",
           "node_ids": [],
           "group": "财政、政府债务与主权信用"
         },
@@ -220,7 +220,7 @@
           "name": "主权信用风险与CDS",
           "scope": "违约、回收和交易定价",
           "kind": "concepts",
-          "path": "10_concepts/C-FISCAL-14.md",
+          "path": "10_concepts/主权信用风险与CDS.md",
           "node_ids": [],
           "group": "财政、政府债务与主权信用"
         }
@@ -238,7 +238,7 @@
           "name": "债务上限与政府停摆",
           "scope": "美国两类不同制度事件",
           "kind": "concepts",
-          "path": "10_concepts/C-FISCAL-15.md",
+          "path": "10_concepts/债务上限与政府停摆.md",
           "node_ids": [],
           "group": "财政、政府债务与主权信用"
         },
@@ -247,7 +247,7 @@
           "name": "银行资本与杠杆率",
           "scope": "损失吸收与监管约束",
           "kind": "concepts",
-          "path": "10_concepts/C-CREDIT-02.md",
+          "path": "10_concepts/银行资本与杠杆率.md",
           "node_ids": [],
           "group": "银行、信用与金融稳定"
         },
@@ -256,7 +256,7 @@
           "name": "银行流动性覆盖与稳定融资",
           "scope": "期限错配约束",
           "kind": "concepts",
-          "path": "10_concepts/C-CREDIT-03.md",
+          "path": "10_concepts/银行流动性覆盖与稳定融资.md",
           "node_ids": [],
           "group": "银行、信用与金融稳定"
         }
@@ -274,7 +274,7 @@
           "name": "净息差NIM",
           "scope": "资产收益与负债成本",
           "kind": "concepts",
-          "path": "10_concepts/C-CREDIT-04.md",
+          "path": "10_concepts/净息差NIM.md",
           "node_ids": [],
           "group": "银行、信用与金融稳定"
         },
@@ -283,7 +283,7 @@
           "name": "信用利差",
           "scope": "无风险曲线外的补偿",
           "kind": "concepts",
-          "path": "10_concepts/C-CREDIT-SPREAD.md",
+          "path": "10_concepts/信用利差.md",
           "node_ids": [],
           "group": "银行、信用与金融稳定"
         },
@@ -292,7 +292,7 @@
           "name": "信用评级与迁移",
           "scope": "评级行动和滞后",
           "kind": "concepts",
-          "path": "10_concepts/C-CREDIT-08.md",
+          "path": "10_concepts/信用评级与迁移.md",
           "node_ids": [],
           "group": "银行、信用与金融稳定"
         }
@@ -310,7 +310,7 @@
           "name": "抵押品与折扣率haircut",
           "scope": "借款能力与风险控制",
           "kind": "concepts",
-          "path": "10_concepts/C-CREDIT-10.md",
+          "path": "10_concepts/抵押品与折扣率haircut.md",
           "node_ids": [],
           "group": "银行、信用与金融稳定"
         },
@@ -319,7 +319,7 @@
           "name": "影子银行与非银金融",
           "scope": "中介功能与监管边界",
           "kind": "concepts",
-          "path": "10_concepts/C-CREDIT-12.md",
+          "path": "10_concepts/影子银行与非银金融.md",
           "node_ids": [],
           "group": "银行、信用与金融稳定"
         },
@@ -328,7 +328,7 @@
           "name": "证券化与资产支持证券",
           "scope": "现金流分层与风险转移",
           "kind": "concepts",
-          "path": "10_concepts/C-CREDIT-13.md",
+          "path": "10_concepts/证券化与资产支持证券.md",
           "node_ids": [],
           "group": "银行、信用与金融稳定"
         }
@@ -346,7 +346,7 @@
           "name": "挤兑与存款迁移",
           "scope": "信心、保险与数字化速度",
           "kind": "concepts",
-          "path": "10_concepts/C-CREDIT-15.md",
+          "path": "10_concepts/挤兑与存款迁移.md",
           "node_ids": [],
           "group": "银行、信用与金融稳定"
         },
@@ -355,7 +355,7 @@
           "name": "金融周期",
           "scope": "金融运行状态、周期阶段和历史；信用、杠杆和资产价格反馈及系统性风险另见机制。",
           "kind": "concepts",
-          "path": "10_concepts/C-CREDIT-16.md",
+          "path": "10_concepts/金融周期.md",
           "node_ids": [],
           "group": "银行、信用与金融稳定"
         },
@@ -364,7 +364,7 @@
           "name": "美元",
           "scope": "计价、支付、融资和储备货币角色",
           "kind": "concepts",
-          "path": "10_concepts/C-FX-USD.md",
+          "path": "10_concepts/美元.md",
           "node_ids": [],
           "group": "外汇与国际金融"
         }
@@ -382,7 +382,7 @@
           "name": "人民币与离岸人民币",
           "scope": "CNY/CNH市场与制度边界",
           "kind": "concepts",
-          "path": "10_concepts/C-FX-02.md",
+          "path": "10_concepts/人民币与离岸人民币.md",
           "node_ids": [],
           "group": "外汇与国际金融"
         },
@@ -391,7 +391,7 @@
           "name": "日元",
           "scope": "融资与国际资产配置角色",
           "kind": "concepts",
-          "path": "10_concepts/C-FX-03.md",
+          "path": "10_concepts/日元.md",
           "node_ids": [],
           "group": "外汇与国际金融"
         },
@@ -400,7 +400,7 @@
           "name": "欧元与欧元体系",
           "scope": "共同货币和分散财政",
           "kind": "concepts",
-          "path": "10_concepts/C-FX-04.md",
+          "path": "10_concepts/欧元与欧元体系.md",
           "node_ids": [],
           "group": "外汇与国际金融"
         }
@@ -418,7 +418,7 @@
           "name": "港元联系汇率",
           "scope": "货币发行与利率传导制度",
           "kind": "concepts",
-          "path": "10_concepts/C-FX-05.md",
+          "path": "10_concepts/港元联系汇率.md",
           "node_ids": [],
           "group": "外汇与国际金融"
         },
@@ -427,7 +427,7 @@
           "name": "美元指数DXY与广义美元指数",
           "scope": "成分权重不同",
           "kind": "concepts",
-          "path": "10_concepts/C-FX-07.md",
+          "path": "10_concepts/美元指数DXY与广义美元指数.md",
           "node_ids": [],
           "group": "外汇与国际金融"
         },
@@ -436,7 +436,7 @@
           "name": "跨币种基差",
           "scope": "有担保利率平价偏离",
           "kind": "concepts",
-          "path": "10_concepts/C-FX-10.md",
+          "path": "10_concepts/跨币种基差.md",
           "node_ids": [],
           "group": "外汇与国际金融"
         }
@@ -454,7 +454,7 @@
           "name": "资本流动与资本管制",
           "scope": "流量、方向、主体与规则",
           "kind": "concepts",
-          "path": "10_concepts/C-FX-13.md",
+          "path": "10_concepts/资本流动与资本管制.md",
           "node_ids": [],
           "group": "外汇与国际金融"
         },
@@ -463,7 +463,7 @@
           "name": "外汇储备",
           "scope": "币种、流动性与估值变化",
           "kind": "concepts",
-          "path": "10_concepts/C-FX-14.md",
+          "path": "10_concepts/外汇储备.md",
           "node_ids": [],
           "group": "外汇与国际金融"
         },
@@ -472,7 +472,7 @@
           "name": "套息交易",
           "scope": "融资币、投资币、杠杆和对冲",
           "kind": "concepts",
-          "path": "10_concepts/C-FX-17.md",
+          "path": "10_concepts/套息交易.md",
           "node_ids": [],
           "group": "外汇与国际金融"
         }
@@ -490,7 +490,7 @@
           "name": "外汇干预",
           "scope": "数量、冲销和信号渠道",
           "kind": "concepts",
-          "path": "10_concepts/C-FX-18.md",
+          "path": "10_concepts/外汇干预.md",
           "node_ids": [],
           "group": "外汇与国际金融"
         },
@@ -499,7 +499,7 @@
           "name": "美国国债",
           "scope": "财政部信用、期限与市场结构",
           "kind": "concepts",
-          "path": "10_concepts/C-ASSET-UST.md",
+          "path": "10_concepts/美国国债.md",
           "node_ids": [],
           "group": "债券与固定收益工具"
         },
@@ -508,7 +508,7 @@
           "name": "美国通胀保值国债TIPS",
           "scope": "指数化本金与实际收益率",
           "kind": "concepts",
-          "path": "10_concepts/C-IR-TIPS.md",
+          "path": "10_concepts/美国通胀保值国债TIPS.md",
           "node_ids": [],
           "group": "债券与固定收益工具"
         }
@@ -526,7 +526,7 @@
           "name": "中国国债与政策性金融债",
           "scope": "信用、税务与交易群体",
           "kind": "concepts",
-          "path": "10_concepts/C-BOND-03.md",
+          "path": "10_concepts/中国国债与政策性金融债.md",
           "node_ids": [],
           "group": "债券与固定收益工具"
         },
@@ -535,7 +535,7 @@
           "name": "地方政府债",
           "scope": "一般债、专项债及偿债来源",
           "kind": "concepts",
-          "path": "10_concepts/C-BOND-04.md",
+          "path": "10_concepts/地方政府债.md",
           "node_ids": [],
           "group": "债券与固定收益工具"
         },
@@ -544,7 +544,7 @@
           "name": "投资级公司债",
           "scope": "信用与久期共同暴露",
           "kind": "concepts",
-          "path": "10_concepts/C-BOND-05.md",
+          "path": "10_concepts/投资级公司债.md",
           "node_ids": [],
           "group": "债券与固定收益工具"
         }
@@ -562,7 +562,7 @@
           "name": "高收益债",
           "scope": "违约风险与流动性",
           "kind": "concepts",
-          "path": "10_concepts/C-BOND-06.md",
+          "path": "10_concepts/高收益债.md",
           "node_ids": [],
           "group": "债券与固定收益工具"
         },
@@ -571,7 +571,7 @@
           "name": "机构MBS",
           "scope": "提前还款与利率风险",
           "kind": "concepts",
-          "path": "10_concepts/C-BOND-07.md",
+          "path": "10_concepts/机构MBS.md",
           "node_ids": [],
           "group": "债券与固定收益工具"
         },
@@ -580,7 +580,7 @@
           "name": "浮息债FRN",
           "scope": "重置基准与利差",
           "kind": "concepts",
-          "path": "10_concepts/C-BOND-08.md",
+          "path": "10_concepts/浮息债FRN.md",
           "node_ids": [],
           "group": "债券与固定收益工具"
         }
@@ -598,7 +598,7 @@
           "name": "可转债",
           "scope": "债底、转股价值与条款",
           "kind": "concepts",
-          "path": "10_concepts/C-BOND-09.md",
+          "path": "10_concepts/可转债.md",
           "node_ids": [],
           "group": "债券与固定收益工具"
         },
@@ -607,7 +607,7 @@
           "name": "拍卖、投标倍数与尾差",
           "scope": "发行定价与需求指标",
           "kind": "concepts",
-          "path": "10_concepts/C-BOND-14.md",
+          "path": "10_concepts/拍卖、投标倍数与尾差.md",
           "node_ids": [],
           "group": "债券与固定收益工具"
         },
@@ -616,7 +616,7 @@
           "name": "股权风险溢价ERP",
           "scope": "预期回报超额补偿",
           "kind": "concepts",
-          "path": "10_concepts/C-EQ-ERP.md",
+          "path": "10_concepts/股权风险溢价ERP.md",
           "node_ids": [],
           "group": "股票、估值与公司财务"
         }
@@ -634,7 +634,7 @@
           "name": "并购交易与交易条款",
           "scope": "现金或换股对价、交割条件、终止条款和审批程序",
           "kind": "concepts",
-          "path": "10_concepts/C-EQUITY-18.md",
+          "path": "10_concepts/并购交易与交易条款.md",
           "node_ids": [],
           "group": "股票、估值与公司财务"
         },
@@ -643,7 +643,7 @@
           "name": "隐含波动率与实现波动率",
           "scope": "定价参数和统计量",
           "kind": "concepts",
-          "path": "10_concepts/C-VOL-IVRV.md",
+          "path": "10_concepts/隐含波动率与实现波动率.md",
           "node_ids": [],
           "group": "衍生品、波动与对冲"
         },
@@ -652,7 +652,7 @@
           "name": "波动率风险溢价",
           "scope": "测度、期限与收益标签",
           "kind": "concepts",
-          "path": "10_concepts/C-DERIV-04.md",
+          "path": "10_concepts/波动率风险溢价.md",
           "node_ids": [],
           "group": "衍生品、波动与对冲"
         }
@@ -670,7 +670,7 @@
           "name": "保证金与追加保证金",
           "scope": "融资约束和路径风险",
           "kind": "concepts",
-          "path": "10_concepts/C-DERIV-14.md",
+          "path": "10_concepts/保证金与追加保证金.md",
           "node_ids": [],
           "group": "衍生品、波动与对冲"
         },
@@ -679,7 +679,7 @@
           "name": "基差",
           "scope": "现货与期货等相关价格之间的差额；报价口径、观测和历史；交易头寸与融资过程另见机制。",
           "kind": "concepts",
-          "path": "10_concepts/C-DERIV-15.md",
+          "path": "10_concepts/基差.md",
           "node_ids": [],
           "group": "衍生品、波动与对冲"
         },
@@ -688,7 +688,7 @@
           "name": "ETF申赎与二级市场交易",
           "scope": "份额变化和成交额区别",
           "kind": "concepts",
-          "path": "10_concepts/C-FLOW-05.md",
+          "path": "10_concepts/ETF申赎与二级市场交易.md",
           "node_ids": [],
           "group": "交易结构、资金与行为"
         }
@@ -706,7 +706,7 @@
           "name": "融资融券与借券成本",
           "scope": "杠杆、多空实施约束",
           "kind": "concepts",
-          "path": "10_concepts/C-FLOW-09.md",
+          "path": "10_concepts/融资融券与借券成本.md",
           "node_ids": [],
           "group": "交易结构、资金与行为"
         },
@@ -715,7 +715,7 @@
           "name": "程序化交易与做市",
           "scope": "策略类型和库存管理",
           "kind": "concepts",
-          "path": "10_concepts/C-FLOW-10.md",
+          "path": "10_concepts/程序化交易与做市.md",
           "node_ids": [],
           "group": "交易结构、资金与行为"
         },
@@ -724,7 +724,7 @@
           "name": "趋势跟随与CTA",
           "scope": "信号规则、杠杆和市场暴露",
           "kind": "concepts",
-          "path": "10_concepts/C-FLOW-11.md",
+          "path": "10_concepts/趋势跟随与CTA.md",
           "node_ids": [],
           "group": "交易结构、资金与行为"
         }
@@ -742,7 +742,7 @@
           "name": "风险平价与波动率目标",
           "scope": "风险预算与再平衡",
           "kind": "concepts",
-          "path": "10_concepts/C-FLOW-12.md",
+          "path": "10_concepts/风险平价与波动率目标.md",
           "node_ids": [],
           "group": "交易结构、资金与行为"
         },
@@ -751,7 +751,7 @@
           "name": "白银与贵金属",
           "scope": "工业与投资需求权重",
           "kind": "concepts",
-          "path": "10_concepts/C-COMMOD-02.md",
+          "path": "10_concepts/白银与贵金属.md",
           "node_ids": [],
           "group": "黄金、能源与大宗商品"
         },
@@ -760,7 +760,7 @@
           "name": "原油与Brent/WTI",
           "scope": "品质、交割地与基准",
           "kind": "concepts",
-          "path": "10_concepts/C-COMMOD-03.md",
+          "path": "10_concepts/原油与Brent／WTI.md",
           "node_ids": [],
           "group": "黄金、能源与大宗商品"
         }
@@ -778,7 +778,7 @@
           "name": "天然气与LNG",
           "scope": "区域市场、运输和季节",
           "kind": "concepts",
-          "path": "10_concepts/C-COMMOD-04.md",
+          "path": "10_concepts/天然气与LNG.md",
           "node_ids": [],
           "group": "黄金、能源与大宗商品"
         },
@@ -787,7 +787,7 @@
           "name": "煤炭与焦煤",
           "scope": "能源和冶金需求区别",
           "kind": "concepts",
-          "path": "10_concepts/C-COMMOD-05.md",
+          "path": "10_concepts/煤炭与焦煤.md",
           "node_ids": [],
           "group": "黄金、能源与大宗商品"
         },
@@ -796,7 +796,7 @@
           "name": "铜与工业金属",
           "scope": "终端需求、库存和供给",
           "kind": "concepts",
-          "path": "10_concepts/C-COMMOD-06.md",
+          "path": "10_concepts/铜与工业金属.md",
           "node_ids": [],
           "group": "黄金、能源与大宗商品"
         }
@@ -814,7 +814,7 @@
           "name": "铝与电力成本",
           "scope": "能耗、冶炼和供给约束",
           "kind": "concepts",
-          "path": "10_concepts/C-COMMOD-07.md",
+          "path": "10_concepts/铝与电力成本.md",
           "node_ids": [],
           "group": "黄金、能源与大宗商品"
         },
@@ -823,7 +823,7 @@
           "name": "铁矿石与钢铁",
           "scope": "地产基建、产量和库存",
           "kind": "concepts",
-          "path": "10_concepts/C-COMMOD-08.md",
+          "path": "10_concepts/铁矿石与钢铁.md",
           "node_ids": [],
           "group": "黄金、能源与大宗商品"
         },
@@ -832,7 +832,7 @@
           "name": "农产品",
           "scope": "天气、种植、库存与贸易",
           "kind": "concepts",
-          "path": "10_concepts/C-COMMOD-09.md",
+          "path": "10_concepts/农产品.md",
           "node_ids": [],
           "group": "黄金、能源与大宗商品"
         }
@@ -850,7 +850,7 @@
           "name": "OPEC与闲置产能",
           "scope": "组织、执行和供给缓冲",
           "kind": "concepts",
-          "path": "10_concepts/C-COMMOD-13.md",
+          "path": "10_concepts/OPEC与闲置产能.md",
           "node_ids": [],
           "group": "黄金、能源与大宗商品"
         },
@@ -859,7 +859,7 @@
           "name": "战略储备与能源安全",
           "scope": "库存政策和供应风险",
           "kind": "concepts",
-          "path": "10_concepts/C-COMMOD-14.md",
+          "path": "10_concepts/战略储备与能源安全.md",
           "node_ids": [],
           "group": "黄金、能源与大宗商品"
         },
@@ -868,7 +868,7 @@
           "name": "碳排放权与碳价格",
           "scope": "制度、配额与成本",
           "kind": "concepts",
-          "path": "10_concepts/C-COMMOD-16.md",
+          "path": "10_concepts/碳排放权与碳价格.md",
           "node_ids": [],
           "group": "黄金、能源与大宗商品"
         }
@@ -886,7 +886,7 @@
           "name": "中国人民银行",
           "scope": "货币、金融稳定与政策执行",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-01.md",
+          "path": "10_concepts/中国人民银行.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         },
@@ -895,7 +895,7 @@
           "name": "财政部与地方财政",
           "scope": "央地分工和预算体系",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-02.md",
+          "path": "10_concepts/财政部与地方财政.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         },
@@ -904,7 +904,7 @@
           "name": "社会融资规模",
           "scope": "统计范围、存量与增量",
           "kind": "concepts",
-          "path": "10_concepts/C-CN-TSF.md",
+          "path": "10_concepts/社会融资规模.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         }
@@ -922,7 +922,7 @@
           "name": "人民币贷款与票据融资",
           "scope": "融资结构和需求代理",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-05.md",
+          "path": "10_concepts/人民币贷款与票据融资.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         },
@@ -931,7 +931,7 @@
           "name": "存款准备金率与降准",
           "scope": "结构、覆盖与释放资金",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-06.md",
+          "path": "10_concepts/存款准备金率与降准.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         },
@@ -940,7 +940,7 @@
           "name": "MLF、逆回购与结构性工具",
           "scope": "工具功能按制度版本记录",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-07.md",
+          "path": "10_concepts/MLF、逆回购与结构性工具.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         }
@@ -958,7 +958,7 @@
           "name": "LPR与贷款定价",
           "scope": "报价机制与传导",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-08.md",
+          "path": "10_concepts/LPR与贷款定价.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         },
@@ -967,7 +967,7 @@
           "name": "DR007、R007与同业存单",
           "scope": "不同主体的资金价格",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-09.md",
+          "path": "10_concepts/DR007、R007与同业存单.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         },
@@ -976,7 +976,7 @@
           "name": "汇率中间价与跨境宏观审慎",
           "scope": "汇率和资本流动管理",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-10.md",
+          "path": "10_concepts/汇率中间价与跨境宏观审慎.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         }
@@ -994,7 +994,7 @@
           "name": "土地财政",
           "scope": "出让收入与地方支出",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-11.md",
+          "path": "10_concepts/土地财政.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         },
@@ -1003,7 +1003,7 @@
           "name": "地方融资平台LGFV",
           "scope": "主体、隐性担保与债务",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-12.md",
+          "path": "10_concepts/地方融资平台LGFV.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         },
@@ -1012,7 +1012,7 @@
           "name": "地方债务置换与化债",
           "scope": "本金、期限、利率和责任变化",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-13.md",
+          "path": "10_concepts/地方债务置换与化债.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         }
@@ -1030,7 +1030,7 @@
           "name": "房地产预售与保交楼",
           "scope": "现金流、交付与信用链",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-14.md",
+          "path": "10_concepts/房地产预售与保交楼.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         },
@@ -1039,7 +1039,7 @@
           "name": "房地产融资与住房按揭",
           "scope": "开发端和居民端",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-15.md",
+          "path": "10_concepts/房地产融资与住房按揭.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         },
@@ -1048,7 +1048,7 @@
           "name": "产业政策与政府引导基金",
           "scope": "补贴、股权与资源配置",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-18.md",
+          "path": "10_concepts/产业政策与政府引导基金.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         }
@@ -1066,7 +1066,7 @@
           "name": "国企央企与资本回报考核",
           "scope": "治理、分红与投资约束",
           "kind": "concepts",
-          "path": "10_concepts/C-CHINA-19.md",
+          "path": "10_concepts/国企央企与资本回报考核.md",
           "node_ids": [],
           "group": "中国宏观制度与政策工具"
         },
@@ -1075,7 +1075,7 @@
           "name": "A股市场",
           "scope": "交易制度、投资者与行业结构",
           "kind": "concepts",
-          "path": "10_concepts/C-ASIA-01.md",
+          "path": "10_concepts/A股市场.md",
           "node_ids": [],
           "group": "A股、港股与区域市场制度"
         },
@@ -1084,7 +1084,7 @@
           "name": "港股市场",
           "scope": "离岸定价、资金与中国暴露",
           "kind": "concepts",
-          "path": "10_concepts/C-ASIA-02.md",
+          "path": "10_concepts/港股市场.md",
           "node_ids": [],
           "group": "A股、港股与区域市场制度"
         }
@@ -1102,7 +1102,7 @@
           "name": "沪深港通与南北向资金",
           "scope": "渠道、口径与披露制度",
           "kind": "concepts",
-          "path": "10_concepts/C-ASIA-03.md",
+          "path": "10_concepts/沪深港通与南北向资金.md",
           "node_ids": [],
           "group": "A股、港股与区域市场制度"
         },
@@ -1111,7 +1111,7 @@
           "name": "宽基ETF",
           "scope": "跟踪宽基指数的实际基金产品、资产组合、投资者与市场作用；本轮未回补行业ETF。",
           "kind": "concepts",
-          "path": "10_concepts/C-ASIA-04.md",
+          "path": "10_concepts/宽基ETF.md",
           "node_ids": [],
           "group": "A股、港股与区域市场制度"
         },
@@ -1120,7 +1120,7 @@
           "name": "红利资产与高股息指数",
           "scope": "股息可持续性与规则",
           "kind": "concepts",
-          "path": "10_concepts/C-ASIA-05.md",
+          "path": "10_concepts/红利资产与高股息指数.md",
           "node_ids": [],
           "group": "A股、港股与区域市场制度"
         }
@@ -1138,7 +1138,7 @@
           "name": "保险资金与长期资金",
           "scope": "负债期限与配置约束",
           "kind": "concepts",
-          "path": "10_concepts/C-ASIA-06.md",
+          "path": "10_concepts/保险资金与长期资金.md",
           "node_ids": [],
           "group": "A股、港股与区域市场制度"
         },
@@ -1147,7 +1147,7 @@
           "name": "社保基金与政策性持有主体",
           "scope": "公开持仓与不可见交易",
           "kind": "concepts",
-          "path": "10_concepts/C-ASIA-07.md",
+          "path": "10_concepts/社保基金与政策性持有主体.md",
           "node_ids": [],
           "group": "A股、港股与区域市场制度"
         },
@@ -1156,7 +1156,7 @@
           "name": "涨跌停、T+1与停复牌",
           "scope": "执行约束与价格发现",
           "kind": "concepts",
-          "path": "10_concepts/C-ASIA-08.md",
+          "path": "10_concepts/涨跌停、T+1与停复牌.md",
           "node_ids": [],
           "group": "A股、港股与区域市场制度"
         }
@@ -1174,7 +1174,7 @@
           "name": "IPO、再融资与退市",
           "scope": "权益供求和制度事件",
           "kind": "concepts",
-          "path": "10_concepts/C-ASIA-09.md",
+          "path": "10_concepts/IPO、再融资与退市.md",
           "node_ids": [],
           "group": "A股、港股与区域市场制度"
         },
@@ -1183,7 +1183,7 @@
           "name": "A/H溢价",
           "scope": "分割市场与定价差异",
           "kind": "concepts",
-          "path": "10_concepts/C-ASIA-10.md",
+          "path": "10_concepts/A／H溢价.md",
           "node_ids": [],
           "group": "A股、港股与区域市场制度"
         },
@@ -1192,7 +1192,7 @@
           "name": "恒生指数与恒生科技指数",
           "scope": "成分、权重和行业敞口",
           "kind": "concepts",
-          "path": "10_concepts/C-ASIA-11.md",
+          "path": "10_concepts/恒生指数与恒生科技指数.md",
           "node_ids": [],
           "group": "A股、港股与区域市场制度"
         }
@@ -1210,7 +1210,7 @@
           "name": "日本银行与YCC",
           "scope": "政策工具、版本和退出",
           "kind": "concepts",
-          "path": "10_concepts/C-ASIA-12.md",
+          "path": "10_concepts/日本银行与YCC.md",
           "node_ids": [],
           "group": "A股、港股与区域市场制度"
         },
@@ -1219,7 +1219,7 @@
           "name": "美联储与FOMC",
           "scope": "政策主体、投票和沟通",
           "kind": "concepts",
-          "path": "10_concepts/C-GLOBAL-01.md",
+          "path": "10_concepts/美联储与FOMC.md",
           "node_ids": [],
           "group": "国际制度、政治与地缘"
         },
@@ -1228,7 +1228,7 @@
           "name": "美国财政部",
           "scope": "融资、现金管理与财政执行",
           "kind": "concepts",
-          "path": "10_concepts/C-GLOBAL-02.md",
+          "path": "10_concepts/美国财政部.md",
           "node_ids": [],
           "group": "国际制度、政治与地缘"
         }
@@ -1246,7 +1246,7 @@
           "name": "美国国会与行政部门",
           "scope": "预算、立法与执行分工",
           "kind": "concepts",
-          "path": "10_concepts/C-GLOBAL-03.md",
+          "path": "10_concepts/美国国会与行政部门.md",
           "node_ids": [],
           "group": "国际制度、政治与地缘"
         },
@@ -1255,7 +1255,7 @@
           "name": "民主党与共和党",
           "scope": "实体及具体政策主张的版本",
           "kind": "concepts",
-          "path": "10_concepts/C-GLOBAL-04.md",
+          "path": "10_concepts/民主党与共和党.md",
           "node_ids": [],
           "group": "国际制度、政治与地缘"
         },
@@ -1264,7 +1264,7 @@
           "name": "欧洲央行与欧元区成员国",
           "scope": "货币与财政分工",
           "kind": "concepts",
-          "path": "10_concepts/C-GLOBAL-05.md",
+          "path": "10_concepts/欧洲央行与欧元区成员国.md",
           "node_ids": [],
           "group": "国际制度、政治与地缘"
         }
@@ -1282,7 +1282,7 @@
           "name": "IMF、世界银行与BIS",
           "scope": "职能与数据来源",
           "kind": "concepts",
-          "path": "10_concepts/C-GLOBAL-07.md",
+          "path": "10_concepts/IMF、世界银行与BIS.md",
           "node_ids": [],
           "group": "国际制度、政治与地缘"
         },
@@ -1291,7 +1291,7 @@
           "name": "出口管制与技术限制",
           "scope": "产品、地区和合规版本",
           "kind": "concepts",
-          "path": "10_concepts/C-GLOBAL-09.md",
+          "path": "10_concepts/出口管制与技术限制.md",
           "node_ids": [],
           "group": "国际制度、政治与地缘"
         },
@@ -1300,7 +1300,7 @@
           "name": "国际支付与清算体系",
           "scope": "网络、币种与流动性",
           "kind": "concepts",
-          "path": "10_concepts/C-GLOBAL-13.md",
+          "path": "10_concepts/国际支付与清算体系.md",
           "node_ids": [],
           "group": "国际制度、政治与地缘"
         }
@@ -1318,7 +1318,7 @@
           "name": "人工智能算力",
           "scope": "训练、推理与计量口径",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-01.md",
+          "path": "10_concepts/人工智能算力.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1327,7 +1327,7 @@
           "name": "GPU与AI加速器",
           "scope": "性能、供给、定价和使用率",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-02.md",
+          "path": "10_concepts/GPU与AI加速器.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1336,7 +1336,7 @@
           "name": "云服务与超大规模云厂商",
           "scope": "资本开支、收入与客户",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-03.md",
+          "path": "10_concepts/云服务与超大规模云厂商.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         }
@@ -1353,7 +1353,7 @@
           "name": "数据中心",
           "scope": "建设、机架、选址与资源约束",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-04.md",
+          "path": "10_concepts/数据中心.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1362,7 +1362,7 @@
           "name": "电力、电网与发电容量",
           "scope": "能源、电力、接入的不同瓶颈",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-05.md",
+          "path": "10_concepts/电力、电网与发电容量.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1371,7 +1371,7 @@
           "name": "HBM与存储芯片",
           "scope": "带宽、产能和产品周期",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-06.md",
+          "path": "10_concepts/HBM与存储芯片.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         }
@@ -1388,7 +1388,7 @@
           "name": "晶圆制造与先进制程",
           "scope": "良率、产能、设备与限制",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-07.md",
+          "path": "10_concepts/晶圆制造与先进制程.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1397,7 +1397,7 @@
           "name": "先进封装与CoWoS",
           "scope": "集成工艺和瓶颈",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-08.md",
+          "path": "10_concepts/先进封装与CoWoS.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1406,7 +1406,7 @@
           "name": "半导体设备与材料",
           "scope": "资本开支链和技术约束",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-09.md",
+          "path": "10_concepts/半导体设备与材料.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         }
@@ -1423,7 +1423,7 @@
           "name": "光模块、交换机与网络互联",
           "scope": "数据传输与集群规模",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-10.md",
+          "path": "10_concepts/光模块、交换机与网络互联.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1432,7 +1432,7 @@
           "name": "散热与液冷",
           "scope": "功耗密度与系统成本",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-11.md",
+          "path": "10_concepts/散热与液冷.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1441,7 +1441,7 @@
           "name": "NVIDIA",
           "scope": "加速器与系统公司；财务和产品版本单独记录",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-17.md",
+          "path": "10_concepts/NVIDIA.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         }
@@ -1458,7 +1458,7 @@
           "name": "AMD",
           "scope": "CPU、GPU与AI加速器公司",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-18.md",
+          "path": "10_concepts/AMD.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1467,7 +1467,7 @@
           "name": "Microsoft",
           "scope": "企业软件、云与AI平台",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-19.md",
+          "path": "10_concepts/Microsoft.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1476,7 +1476,7 @@
           "name": "Amazon",
           "scope": "零售、物流与AWS云业务",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-20.md",
+          "path": "10_concepts/Amazon.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         }
@@ -1493,7 +1493,7 @@
           "name": "Alphabet",
           "scope": "搜索广告、云与AI业务",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-21.md",
+          "path": "10_concepts/Alphabet.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1502,7 +1502,7 @@
           "name": "Meta",
           "scope": "社交广告、推荐系统与AI投资",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-22.md",
+          "path": "10_concepts/Meta.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1511,7 +1511,7 @@
           "name": "Apple",
           "scope": "消费硬件、服务与终端AI",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-23.md",
+          "path": "10_concepts/Apple.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         }
@@ -1528,7 +1528,7 @@
           "name": "Tesla",
           "scope": "汽车、能源与自动驾驶业务",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-24.md",
+          "path": "10_concepts/Tesla.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1537,7 +1537,7 @@
           "name": "TSMC",
           "scope": "晶圆代工与先进封装",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-25.md",
+          "path": "10_concepts/TSMC.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1546,7 +1546,7 @@
           "name": "ASML",
           "scope": "光刻设备与服务",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-26.md",
+          "path": "10_concepts/ASML.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         }
@@ -1563,7 +1563,7 @@
           "name": "Samsung Electronics",
           "scope": "存储、逻辑代工与终端业务",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-27.md",
+          "path": "10_concepts/Samsung Electronics.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1572,7 +1572,7 @@
           "name": "SK hynix",
           "scope": "存储与HBM业务",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-28.md",
+          "path": "10_concepts/SK hynix.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1581,7 +1581,7 @@
           "name": "Micron",
           "scope": "存储与HBM业务",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-29.md",
+          "path": "10_concepts/Micron.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         }
@@ -1598,7 +1598,7 @@
           "name": "腾讯",
           "scope": "社交、游戏、广告与云",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-30.md",
+          "path": "10_concepts/腾讯.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1607,7 +1607,7 @@
           "name": "阿里巴巴",
           "scope": "电商、云与AI业务",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-31.md",
+          "path": "10_concepts/阿里巴巴.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1616,7 +1616,7 @@
           "name": "百度",
           "scope": "搜索、AI云与自动驾驶",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-32.md",
+          "path": "10_concepts/百度.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         }
@@ -1633,7 +1633,7 @@
           "name": "中芯国际",
           "scope": "晶圆代工与制造能力",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-33.md",
+          "path": "10_concepts/中芯国际.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1642,7 +1642,7 @@
           "name": "寒武纪",
           "scope": "AI芯片与软件生态",
           "kind": "concepts",
-          "path": "10_concepts/C-TECH-34.md",
+          "path": "10_concepts/寒武纪.md",
           "node_ids": [],
           "group": "AI、科技与产业链"
         },
@@ -1651,7 +1651,7 @@
           "name": "商业银行业",
           "scope": "资产质量、息差和资本",
           "kind": "concepts",
-          "path": "10_concepts/C-SECTOR-01.md",
+          "path": "10_concepts/商业银行业.md",
           "node_ids": [],
           "group": "行业与经营暴露"
         }
@@ -1668,7 +1668,7 @@
           "name": "保险业",
           "scope": "负债成本、利率和资本市场",
           "kind": "concepts",
-          "path": "10_concepts/C-SECTOR-02.md",
+          "path": "10_concepts/保险业.md",
           "node_ids": [],
           "group": "行业与经营暴露"
         },
@@ -1677,7 +1677,7 @@
           "name": "证券与资管业",
           "scope": "成交、融资和管理资产",
           "kind": "concepts",
-          "path": "10_concepts/C-SECTOR-03.md",
+          "path": "10_concepts/证券与资管业.md",
           "node_ids": [],
           "group": "行业与经营暴露"
         },
@@ -1686,7 +1686,7 @@
           "name": "电力与公用事业",
           "scope": "电价、燃料、利用小时与资本开支",
           "kind": "concepts",
-          "path": "10_concepts/C-SECTOR-04.md",
+          "path": "10_concepts/电力与公用事业.md",
           "node_ids": [],
           "group": "行业与经营暴露"
         }
@@ -1703,7 +1703,7 @@
           "name": "房地产开发与物业",
           "scope": "销售、融资、交付与现金流",
           "kind": "concepts",
-          "path": "10_concepts/C-SECTOR-06.md",
+          "path": "10_concepts/房地产开发与物业.md",
           "node_ids": [],
           "group": "行业与经营暴露"
         },
@@ -1712,7 +1712,7 @@
           "name": "REITs与基础设施资产",
           "scope": "运营现金流、利率与制度",
           "kind": "concepts",
-          "path": "10_concepts/C-SECTOR-12.md",
+          "path": "10_concepts/REITs与基础设施资产.md",
           "node_ids": [],
           "group": "行业与经营暴露"
         },
@@ -1721,7 +1721,7 @@
           "name": "养老金与退休负债",
           "scope": "缴费、待遇支付、资金积累和负债久期；区分现收现付与积累制",
           "kind": "concepts",
-          "path": "10_concepts/C-SECTOR-13.md",
+          "path": "10_concepts/养老金与退休负债.md",
           "node_ids": [],
           "group": "行业与经营暴露"
         }
@@ -1738,7 +1738,7 @@
           "name": "比特币",
           "scope": "供给规则、需求和风险暴露",
           "kind": "concepts",
-          "path": "10_concepts/C-CRYPTO-01.md",
+          "path": "10_concepts/比特币.md",
           "node_ids": [],
           "group": "数字资产与新型金融"
         },
@@ -1747,7 +1747,7 @@
           "name": "以太坊与智能合约平台",
           "scope": "网络使用、费用与资产属性",
           "kind": "concepts",
-          "path": "10_concepts/C-CRYPTO-02.md",
+          "path": "10_concepts/以太坊与智能合约平台.md",
           "node_ids": [],
           "group": "数字资产与新型金融"
         },
@@ -1756,7 +1756,7 @@
           "name": "稳定币",
           "scope": "储备、赎回、交易与支付",
           "kind": "concepts",
-          "path": "10_concepts/C-CRYPTO-03.md",
+          "path": "10_concepts/稳定币.md",
           "node_ids": [],
           "group": "数字资产与新型金融"
         }
@@ -1773,7 +1773,7 @@
           "name": "数字资产交易所与托管",
           "scope": "交易对手及操作风险",
           "kind": "concepts",
-          "path": "10_concepts/C-CRYPTO-04.md",
+          "path": "10_concepts/数字资产交易所与托管.md",
           "node_ids": [],
           "group": "数字资产与新型金融"
         },
@@ -1782,7 +1782,7 @@
           "name": "加密资产杠杆与永续合约",
           "scope": "资金费率、清算和基差",
           "kind": "concepts",
-          "path": "10_concepts/C-CRYPTO-05.md",
+          "path": "10_concepts/加密资产杠杆与永续合约.md",
           "node_ids": [],
           "group": "数字资产与新型金融"
         },
@@ -1791,7 +1791,7 @@
           "name": "现货加密ETF",
           "scope": "份额、流量和基础资产",
           "kind": "concepts",
-          "path": "10_concepts/C-CRYPTO-06.md",
+          "path": "10_concepts/现货加密ETF.md",
           "node_ids": [],
           "group": "数字资产与新型金融"
         }
@@ -1808,7 +1808,7 @@
           "name": "代币化国债与现实资产RWA",
           "scope": "法律权利、托管和流动性",
           "kind": "concepts",
-          "path": "10_concepts/C-CRYPTO-08.md",
+          "path": "10_concepts/代币化国债与现实资产RWA.md",
           "node_ids": [],
           "group": "数字资产与新型金融"
         },
@@ -1817,7 +1817,7 @@
           "name": "比特币挖矿、区块奖励与矿工",
           "scope": "工作量证明、难度、区块补贴、手续费与算力成本",
           "kind": "concepts",
-          "path": "10_concepts/C-CRYPTO-09.md",
+          "path": "10_concepts/比特币挖矿、区块奖励与矿工.md",
           "node_ids": [],
           "group": "数字资产与新型金融"
         }
@@ -1834,7 +1834,7 @@
           "name": "通胀补偿的定价分解",
           "scope": "溢价和流动性成分",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-MEAS-BEI.md",
+          "path": "20_mechanisms/通胀补偿的定价分解.md",
           "node_ids": [
             "C-IR-TIPS",
             "C-LIQ-MARKET"
@@ -1846,7 +1846,7 @@
           "name": "货币政策冲击的期限结构传导",
           "scope": "目标利率、路径、资产购买分别识别",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-POL-CURVE.md",
+          "path": "20_mechanisms/货币政策冲击的期限结构传导.md",
           "node_ids": [
             "C-IR-POLICY",
             "C-POL-QE",
@@ -1860,7 +1860,7 @@
           "name": "央行公告的政策效应与信息效应",
           "scope": "增长信息和政策动作共同出现",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-POL-INFORMATION.md",
+          "path": "20_mechanisms/央行公告的政策效应与信息效应.md",
           "node_ids": [
             "C-GLOBAL-01",
             "C-IR-POLICY",
@@ -1882,7 +1882,7 @@
           "name": "QE的久期风险转移",
           "scope": "期限供给、信号与市场功能",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-QE-DURATION.md",
+          "path": "20_mechanisms/QE的久期风险转移.md",
           "node_ids": [
             "C-POL-QE",
             "C-MONEY-CBBS",
@@ -1895,7 +1895,7 @@
           "name": "QT与准备金、ONRRP及资金市场",
           "scope": "央行负债替代与稀缺性",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-QT-LIQ.md",
+          "path": "20_mechanisms/QT与准备金、ONRRP及资金市场.md",
           "node_ids": [
             "C-POL-QT",
             "C-MONEY-CBBS",
@@ -1911,7 +1911,7 @@
           "name": "利率走廊",
           "scope": "准备金利率、常备工具与准备金供给如何共同影响隔夜市场利率；区分走廊与地板制度。",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-MONETARY-07.md",
+          "path": "20_mechanisms/利率走廊.md",
           "node_ids": [
             "C-MONEY-RESERVES",
             "C-MONEY-07",
@@ -1935,7 +1935,7 @@
           "name": "TGA收支对准备金的影响",
           "scope": "现金流和负债替代",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-TGA-RESERVES.md",
+          "path": "20_mechanisms/TGA收支对准备金的影响.md",
           "node_ids": [
             "C-MONEY-13",
             "C-MONEY-CBBS",
@@ -1949,7 +1949,7 @@
           "name": "货币基金在ONRRP与国库券之间的配置",
           "scope": "货币基金替代配置",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-MONETARY-09.md",
+          "path": "20_mechanisms/货币基金在ONRRP与国库券之间的配置.md",
           "node_ids": [
             "C-MONEY-14",
             "C-MONEY-19",
@@ -1963,7 +1963,7 @@
           "name": "利率上调与存款迁移",
           "scope": "存款beta和货币基金替代",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-MONETARY-10.md",
+          "path": "20_mechanisms/利率上调与存款迁移.md",
           "node_ids": [
             "C-IR-POLICY",
             "C-MONEY-19",
@@ -1986,7 +1986,7 @@
           "name": "收益率曲线陡峭化与平坦化",
           "scope": "短端政策路径、长端预期与期限溢价怎样改变曲线斜率；区分不同期限和牛熊变化。",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-IR-CURVE-SHAPE.md",
+          "path": "20_mechanisms/收益率曲线陡峭化与平坦化.md",
           "node_ids": [
             "C-IR-CURVE",
             "C-IR-POLICY",
@@ -2000,7 +2000,7 @@
           "name": "工资—价格反馈",
           "scope": "议价制度与预期锚定",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-GROWTH-04.md",
+          "path": "20_mechanisms/工资—价格反馈.md",
           "node_ids": [
             "C-INF-INFLATION",
             "C-POL-CREDIBILITY"
@@ -2012,7 +2012,7 @@
           "name": "政府债务动态",
           "scope": "口径一致的债务可持续性",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-FISCAL-DEBTDYN.md",
+          "path": "20_mechanisms/政府债务动态.md",
           "node_ids": [
             "C-FISCAL-DEFICIT"
           ],
@@ -2032,7 +2032,7 @@
           "name": "国债供给与抵押品便利收益定价",
           "scope": "安全资产的抵押服务与流动性价值须同商品的物理便利收益区分",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-FISCAL-07.md",
+          "path": "20_mechanisms/国债供给与抵押品便利收益定价.md",
           "node_ids": [
             "C-ASSET-UST",
             "C-CREDIT-10",
@@ -2045,7 +2045,7 @@
           "name": "债务上限风险的短券定价",
           "scope": "到期时点和支付风险",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-FISCAL-08.md",
+          "path": "20_mechanisms/债务上限风险的短券定价.md",
           "node_ids": [
             "C-FISCAL-15",
             "C-MONEY-13",
@@ -2060,7 +2060,7 @@
           "name": "财政主导与通胀预期",
           "scope": "制度、债务期限与央行约束",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-FISCAL-10.md",
+          "path": "20_mechanisms/财政主导与通胀预期.md",
           "node_ids": [
             "C-FISCAL-13",
             "C-POL-CREDIBILITY"
@@ -2081,7 +2081,7 @@
           "name": "主权信用与银行资产负债表反馈",
           "scope": "本国债持仓及救助预期",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-FISCAL-11.md",
+          "path": "20_mechanisms/主权信用与银行资产负债表反馈.md",
           "node_ids": [
             "C-FISCAL-14",
             "C-CREDIT-02",
@@ -2094,7 +2094,7 @@
           "name": "银行信贷的资本约束",
           "scope": "资本损失、风险权重和融资",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-BANKING-01.md",
+          "path": "20_mechanisms/银行信贷的资本约束.md",
           "node_ids": [
             "C-CREDIT-02"
           ],
@@ -2105,7 +2105,7 @@
           "name": "银行负债成本、资产重定价与息差",
           "scope": "固定/浮动、久期和存款beta",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-BANKING-02.md",
+          "path": "20_mechanisms/银行负债成本、资产重定价与息差.md",
           "node_ids": [
             "C-CREDIT-04",
             "C-IR-POLICY"
@@ -2126,7 +2126,7 @@
           "name": "金融加速器",
           "scope": "金融加速器",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-CREDIT-COLLATERAL.md",
+          "path": "20_mechanisms/金融加速器.md",
           "node_ids": [
             "C-CREDIT-10"
           ],
@@ -2137,7 +2137,7 @@
           "name": "保证金驱动的流动性螺旋",
           "scope": "杠杆投资者和共同持仓",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-LIQ-SPIRAL.md",
+          "path": "20_mechanisms/保证金驱动的流动性螺旋.md",
           "node_ids": [
             "C-DERIV-14",
             "C-CREDIT-10",
@@ -2150,7 +2150,7 @@
           "name": "流动性错配下的挤兑机制",
           "scope": "赎回承诺、资产可售性",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-BANKING-05.md",
+          "path": "20_mechanisms/流动性错配下的挤兑机制.md",
           "node_ids": [
             "C-CREDIT-03",
             "C-CREDIT-15",
@@ -2172,7 +2172,7 @@
           "name": "债务通缩",
           "scope": "收入价格下降、名义债固定",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-DEBT-DEFLATION.md",
+          "path": "20_mechanisms/债务通缩.md",
           "node_ids": [
             "C-INF-INFLATION",
             "C-CREDIT-16",
@@ -2185,7 +2185,7 @@
           "name": "证券化中的风险转移与激励",
           "scope": "分层、信息和监管",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-BANKING-09.md",
+          "path": "20_mechanisms/证券化中的风险转移与激励.md",
           "node_ids": [
             "C-CREDIT-13",
             "C-CREDIT-02",
@@ -2198,7 +2198,7 @@
           "name": "最后贷款人的危机干预",
           "scope": "抵押、可得性和道德风险",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-BANKING-10.md",
+          "path": "20_mechanisms/最后贷款人的危机干预.md",
           "node_ids": [
             "C-MONEY-11",
             "C-CREDIT-10",
@@ -2221,7 +2221,7 @@
           "name": "金融周期中的系统性风险积累与扩散",
           "scope": "信用扩张、杠杆和资产价格反馈；抵押、融资及银行约束如何促成风险积累与扩散。",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-BANKING-12.md",
+          "path": "20_mechanisms/金融周期中的系统性风险积累与扩散.md",
           "node_ids": [
             "C-CREDIT-16",
             "C-CREDIT-10",
@@ -2236,7 +2236,7 @@
           "name": "利率平价",
           "scope": "有担保/无担保条件分开",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-FX-PARITY.md",
+          "path": "20_mechanisms/利率平价.md",
           "node_ids": [
             "C-FX-10"
           ],
@@ -2247,7 +2247,7 @@
           "name": "美元融资依赖的传导机制",
           "scope": "美元负债与收入币种错配、融资可得性及跨境资产定价；解释依赖如何形成并在融资收紧时传导。",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-USD-GLOBAL.md",
+          "path": "20_mechanisms/美元融资依赖的传导机制.md",
           "node_ids": [
             "C-FX-USD",
             "C-LIQ-FUND",
@@ -2271,7 +2271,7 @@
           "name": "美元互换额度对跨币种基差的影响",
           "scope": "流动性供给和机构约束",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-INTERNATIONAL-05.md",
+          "path": "20_mechanisms/美元互换额度对跨币种基差的影响.md",
           "node_ids": [
             "C-MONEY-12",
             "C-FX-10",
@@ -2284,7 +2284,7 @@
           "name": "日元套息交易的平仓反馈",
           "scope": "利差、汇率波动和杠杆",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-JPY-CARRY.md",
+          "path": "20_mechanisms/日元套息交易的平仓反馈.md",
           "node_ids": [
             "C-FX-03",
             "C-FX-17",
@@ -2297,7 +2297,7 @@
           "name": "汇率对冲成本对跨境债券配置的影响",
           "scope": "对冲比例和负债币种",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-INTERNATIONAL-07.md",
+          "path": "20_mechanisms/汇率对冲成本对跨境债券配置的影响.md",
           "node_ids": [
             "C-FX-10",
             "C-ASSET-UST",
@@ -2319,7 +2319,7 @@
           "name": "资本流出、储备干预与本币流动性",
           "scope": "是否冲销及资本管制",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-INTERNATIONAL-09.md",
+          "path": "20_mechanisms/资本流出、储备干预与本币流动性.md",
           "node_ids": [
             "C-FX-13",
             "C-FX-14",
@@ -2333,7 +2333,7 @@
           "name": "美元主导地位的形成与维持",
           "scope": "支付、计价、融资与储备使用之间的联系，以及网络效应和路径依赖。",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-INTERNATIONAL-12.md",
+          "path": "20_mechanisms/美元主导地位的形成与维持.md",
           "node_ids": [
             "C-FX-USD",
             "C-GLOBAL-13",
@@ -2348,7 +2348,7 @@
           "name": "美元信用与储备多元化",
           "scope": "美元信用、资产权利与储备配置变化；替代资产的流动性、收益和托管约束。",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-INTERNATIONAL-13.md",
+          "path": "20_mechanisms/美元信用与储备多元化.md",
           "node_ids": [
             "C-FX-USD",
             "C-FX-14",
@@ -2372,7 +2372,7 @@
           "name": "港元联系汇率与HIBOR传导",
           "scope": "资金流和货币发行局",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-INTERNATIONAL-14.md",
+          "path": "20_mechanisms/港元联系汇率与HIBOR传导.md",
           "node_ids": [
             "C-FX-05",
             "C-FX-13",
@@ -2387,7 +2387,7 @@
           "name": "人民币国际化",
           "scope": "人民币跨境结算、融资和储备使用的联系，以及支付渠道、资本流动制度与资产供给约束。",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-RMB-INTERNATIONALIZATION.md",
+          "path": "20_mechanisms/人民币国际化.md",
           "node_ids": [
             "C-FX-02",
             "C-FX-13",
@@ -2402,7 +2402,7 @@
           "name": "高股息资产的债券替代效应",
           "scope": "股息可持续性和利率",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-EQ-DIVIDEND.md",
+          "path": "20_mechanisms/高股息资产的债券替代效应.md",
           "node_ids": [
             "C-ASIA-05",
             "C-BOND-05",
@@ -2424,7 +2424,7 @@
           "name": "并购价差定价",
           "scope": "成交概率、期限与对价",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-EQUITY-14.md",
+          "path": "20_mechanisms/并购价差定价.md",
           "node_ids": [
             "C-EQUITY-18"
           ],
@@ -2435,7 +2435,7 @@
           "name": "ETF申赎套利",
           "scope": "价差、篮子与执行成本",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-MARKET-04.md",
+          "path": "20_mechanisms/ETF申赎套利.md",
           "node_ids": [
             "C-FLOW-05",
             "C-ASIA-04",
@@ -2448,7 +2448,7 @@
           "name": "指数调整的被动资金效应",
           "scope": "公告、实施和提前交易",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-MARKET-05.md",
+          "path": "20_mechanisms/指数调整的被动资金效应.md",
           "node_ids": [
             "C-FLOW-05"
           ],
@@ -2468,7 +2468,7 @@
           "name": "波动率目标策略的顺周期反馈",
           "scope": "目标波动、估计滞后和杠杆",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-MARKET-07.md",
+          "path": "20_mechanisms/波动率目标策略的顺周期反馈.md",
           "node_ids": [
             "C-FLOW-12",
             "C-VOL-IVRV"
@@ -2480,7 +2480,7 @@
           "name": "风险平价与股债相关性变化",
           "scope": "风险预算与联合冲击",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-MARKET-08.md",
+          "path": "20_mechanisms/风险平价与股债相关性变化.md",
           "node_ids": [
             "C-FLOW-12",
             "C-ASSET-UST",
@@ -2494,7 +2494,7 @@
           "name": "CTA趋势跟随的价格反馈",
           "scope": "持仓、触发区间和市场容量",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-MARKET-09.md",
+          "path": "20_mechanisms/CTA趋势跟随的价格反馈.md",
           "node_ids": [
             "C-FLOW-11"
           ],
@@ -2514,7 +2514,7 @@
           "name": "新闻传播、投资者注意力与价格延迟反应",
           "scope": "区分新增事实和重复传播的注意力效应，不把报道数量当作独立信息",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-MARKET-11.md",
+          "path": "20_mechanisms/新闻传播、投资者注意力与价格延迟反应.md",
           "node_ids": [
             "C-EXPECT-15"
           ],
@@ -2525,7 +2525,7 @@
           "name": "涨跌停制度下的跨日价格发现",
           "scope": "约束、排队和不可成交样本",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-MARKET-13.md",
+          "path": "20_mechanisms/涨跌停制度下的跨日价格发现.md",
           "node_ids": [
             "C-ASIA-08"
           ],
@@ -2536,7 +2536,7 @@
           "name": "基差交易",
           "scope": "基差交易的现货与期货头寸、融资、抵押、保证金、收敛及退出过程。",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-DERIVATIVES-02.md",
+          "path": "20_mechanisms/基差交易.md",
           "node_ids": [
             "C-DERIV-15",
             "C-DERIV-14",
@@ -2560,7 +2560,7 @@
           "name": "做市商Gamma对冲的价格反馈",
           "scope": "净持仓符号与交易规则",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-DERIVATIVES-03.md",
+          "path": "20_mechanisms/做市商Gamma对冲的价格反馈.md",
           "node_ids": [
             "C-FLOW-10"
           ],
@@ -2571,7 +2571,7 @@
           "name": "波动率风险溢价与卖波收益风险",
           "scope": "尾部损失和交易成本",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-DERIVATIVES-06.md",
+          "path": "20_mechanisms/波动率风险溢价与卖波收益风险.md",
           "node_ids": [
             "C-DERIV-04",
             "C-VOL-IVRV",
@@ -2584,7 +2584,7 @@
           "name": "偏斜与尾部保险需求",
           "scope": "供需、跳跃与持仓",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-DERIVATIVES-07.md",
+          "path": "20_mechanisms/偏斜与尾部保险需求.md",
           "node_ids": [
             "C-VOL-IVRV",
             "C-DERIV-04"
@@ -2605,7 +2605,7 @@
           "name": "MBS负凸性引发的利率对冲反馈",
           "scope": "提前还款、久期和对冲方向",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-DERIVATIVES-10.md",
+          "path": "20_mechanisms/MBS负凸性引发的利率对冲反馈.md",
           "node_ids": [
             "C-BOND-07",
             "C-IR-CURVE"
@@ -2617,7 +2617,7 @@
           "name": "央行购金与黄金需求结构",
           "scope": "储备目标、披露与估计",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-GOLD-03.md",
+          "path": "20_mechanisms/央行购金与黄金需求结构.md",
           "node_ids": [
             "C-FX-14",
             "C-ASSET-GOLD"
@@ -2629,7 +2629,7 @@
           "name": "股债相关性与通胀/增长主导状态",
           "scope": "冲击类型和政策反应",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-ASSET-STOCKBOND.md",
+          "path": "20_mechanisms/股债相关性与通胀／增长主导状态.md",
           "node_ids": [
             "C-ASSET-UST",
             "C-INF-INFLATION",
@@ -2651,7 +2651,7 @@
           "name": "原油供给冲击的宏观传导",
           "scope": "库存和需求弹性",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-OIL-SHOCK.md",
+          "path": "20_mechanisms/原油供给冲击的宏观传导.md",
           "node_ids": [
             "C-COMMOD-03",
             "C-COMMOD-13",
@@ -2664,7 +2664,7 @@
           "name": "库存与便利收益、期货曲线",
           "scope": "交割地和可用库存",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-COMMODITY-03.md",
+          "path": "20_mechanisms/库存与便利收益、期货曲线.md",
           "node_ids": [
             "C-COMMOD-03",
             "C-COMMOD-04",
@@ -2678,7 +2678,7 @@
           "name": "矿业投资与供给的周期反馈",
           "scope": "建设时滞、品位和需求",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-COMMODITY-08.md",
+          "path": "20_mechanisms/矿业投资与供给的周期反馈.md",
           "node_ids": [
             "C-COMMOD-06"
           ],
@@ -2698,7 +2698,7 @@
           "name": "降准的资金与信贷传导",
           "scope": "银行约束和贷款需求",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-CHINA-01.md",
+          "path": "20_mechanisms/降准的资金与信贷传导.md",
           "node_ids": [
             "C-CHINA-06",
             "C-MONEY-RESERVES",
@@ -2712,7 +2712,7 @@
           "name": "政策利率的LPR传导渠道",
           "scope": "银行负债成本和信用分层",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-CHINA-02.md",
+          "path": "20_mechanisms/政策利率的LPR传导渠道.md",
           "node_ids": [
             "C-CHINA-07",
             "C-CHINA-08",
@@ -2727,7 +2727,7 @@
           "name": "社融结构、信用脉冲与实体需求",
           "scope": "政府/企业/居民分项",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-CN-CREDIT.md",
+          "path": "20_mechanisms/社融结构、信用脉冲与实体需求.md",
           "node_ids": [
             "C-CN-TSF",
             "C-CHINA-05",
@@ -2748,7 +2748,7 @@
           "name": "房地产开发的现金流循环",
           "scope": "预售、融资和交付",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-CN-PROPERTY.md",
+          "path": "20_mechanisms/房地产开发的现金流循环.md",
           "node_ids": [
             "C-CHINA-14",
             "C-CHINA-15",
@@ -2761,7 +2761,7 @@
           "name": "土地财政的基建融资机制",
           "scope": "资金来源与项目执行",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-CHINA-05.md",
+          "path": "20_mechanisms/土地财政的基建融资机制.md",
           "node_ids": [
             "C-CHINA-11",
             "C-CHINA-02"
@@ -2773,7 +2773,7 @@
           "name": "地方化债的资产负债表传导",
           "scope": "债务置换和新增融资分开",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-CHINA-06.md",
+          "path": "20_mechanisms/地方化债的资产负债表传导.md",
           "node_ids": [
             "C-CHINA-13",
             "C-CHINA-12",
@@ -2794,7 +2794,7 @@
           "name": "存款迁移的债市传导",
           "scope": "存款利率、理财和风险偏好",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-CHINA-12.md",
+          "path": "20_mechanisms/存款迁移的债市传导.md",
           "node_ids": [
             "C-CREDIT-15",
             "C-SECTOR-03",
@@ -2808,7 +2808,7 @@
           "name": "A/H溢价的市场分割机制",
           "scope": "汇率、投资者和交易约束",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-CHINA_MARKET-07.md",
+          "path": "20_mechanisms/A／H溢价的市场分割机制.md",
           "node_ids": [
             "C-ASIA-10",
             "C-ASIA-01",
@@ -2824,7 +2824,7 @@
           "name": "模型效率、推理成本与总算力需求",
           "scope": "单位成本下降和需求弹性",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-TECH-03.md",
+          "path": "20_mechanisms/模型效率、推理成本与总算力需求.md",
           "node_ids": [
             "C-TECH-01",
             "C-TECH-03",
@@ -2845,7 +2845,7 @@
           "name": "平台网络效应",
           "scope": "切换成本、开放生态与监管",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-TECH-12.md",
+          "path": "20_mechanisms/平台网络效应.md",
           "node_ids": [
             "C-TECH-03"
           ],
@@ -2856,7 +2856,7 @@
           "name": "关税的跨境成本分担",
           "scope": "成本分担、替代和报复",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-GEOPOLITICS-02.md",
+          "path": "20_mechanisms/关税的跨境成本分担.md",
           "node_ids": [
             "C-INF-INFLATION",
             "C-FX-USD",
@@ -2869,7 +2869,7 @@
           "name": "养老金资产配置的人口结构约束",
           "scope": "缴费、支付和负债期限",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-GEOPOLITICS-07.md",
+          "path": "20_mechanisms/养老金资产配置的人口结构约束.md",
           "node_ids": [
             "C-SECTOR-13"
           ],
@@ -2888,7 +2888,7 @@
           "name": "稳定币发行赎回对短券需求的影响",
           "scope": "储备结构和资金来源",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-CRYPTO-02.md",
+          "path": "20_mechanisms/稳定币发行赎回对短券需求的影响.md",
           "node_ids": [
             "C-CRYPTO-03",
             "C-ASSET-UST",
@@ -2901,7 +2901,7 @@
           "name": "永续合约的强平瀑布",
           "scope": "资金费率、保证金和深度",
           "kind": "mechanisms",
-          "path": "20_mechanisms/R-CRYPTO-04.md",
+          "path": "20_mechanisms/永续合约的强平瀑布.md",
           "node_ids": [
             "C-CRYPTO-05",
             "C-DERIV-14",

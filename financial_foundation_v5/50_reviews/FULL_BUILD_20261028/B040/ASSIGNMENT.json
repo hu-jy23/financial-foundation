@@ -9,7 +9,7 @@
       "name": "光模块、交换机与网络互联",
       "scope": "数据传输与集群规模",
       "kind": "concepts",
-      "path": "10_concepts/C-TECH-10.md",
+      "path": "10_concepts/光模块、交换机与网络互联.md",
       "node_ids": [],
       "group": "AI、科技与产业链"
     },
@@ -18,7 +18,7 @@
       "name": "散热与液冷",
       "scope": "功耗密度与系统成本",
       "kind": "concepts",
-      "path": "10_concepts/C-TECH-11.md",
+      "path": "10_concepts/散热与液冷.md",
       "node_ids": [],
       "group": "AI、科技与产业链"
     },
@@ -27,7 +27,7 @@
       "name": "NVIDIA",
       "scope": "加速器与系统公司；财务和产品版本单独记录",
       "kind": "concepts",
-      "path": "10_concepts/C-TECH-17.md",
+      "path": "10_concepts/NVIDIA.md",
       "node_ids": [],
       "group": "AI、科技与产业链"
     }

@@ -3,7 +3,7 @@ User explicitly requests GPT-6-Astra, medium. One concept only.
 Workspace: /workspace/scratch/d173ad0a8827/concept_pilot/financial_foundation_v5
 Input: latest v5, Library libfile_6d7e648dbfc881918f147eaf6efeafd7 version 2. 163 concepts + 71 mechanisms locked.
 Write exactly:
-- 10_concepts/C-IR-POLICY_policy_rate_target_range.md
+- 10_concepts/政策利率与目标区间.md
 - 50_reviews/CONCEPT_PILOT_20261027/POLICY_AGENT_NOTES.md
 Keep first submitted full draft as 50_reviews/CONCEPT_PILOT_20261027/POLICY_FIRST_DRAFT.md for authorship comparison. Do not edit any shared index, README, mechanism, Event or Source file.
 Task: 独立研究并撰写《政策利率与目标区间 C-IR-POLICY》，中文完整 heavy concept，适用语境央行设定及执行口径。关联《黄金的机会成本机制》，但对象页应完整解释本对象，不写成该机制的附注。

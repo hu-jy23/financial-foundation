@@ -9,7 +9,7 @@
       "name": "债务上限与政府停摆",
       "scope": "美国两类不同制度事件",
       "kind": "concepts",
-      "path": "10_concepts/C-FISCAL-15.md",
+      "path": "10_concepts/债务上限与政府停摆.md",
       "node_ids": [],
       "group": "财政、政府债务与主权信用"
     },
@@ -18,7 +18,7 @@
       "name": "银行资本与杠杆率",
       "scope": "损失吸收与监管约束",
       "kind": "concepts",
-      "path": "10_concepts/C-CREDIT-02.md",
+      "path": "10_concepts/银行资本与杠杆率.md",
       "node_ids": [],
       "group": "银行、信用与金融稳定"
     },
@@ -27,7 +27,7 @@
       "name": "银行流动性覆盖与稳定融资",
       "scope": "期限错配约束",
       "kind": "concepts",
-      "path": "10_concepts/C-CREDIT-03.md",
+      "path": "10_concepts/银行流动性覆盖与稳定融资.md",
       "node_ids": [],
       "group": "银行、信用与金融稳定"
     }

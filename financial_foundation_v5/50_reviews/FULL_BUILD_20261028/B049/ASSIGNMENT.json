@@ -9,7 +9,7 @@
       "name": "比特币",
       "scope": "供给规则、需求和风险暴露",
       "kind": "concepts",
-      "path": "10_concepts/C-CRYPTO-01.md",
+      "path": "10_concepts/比特币.md",
       "node_ids": [],
       "group": "数字资产与新型金融"
     },
@@ -18,7 +18,7 @@
       "name": "以太坊与智能合约平台",
       "scope": "网络使用、费用与资产属性",
       "kind": "concepts",
-      "path": "10_concepts/C-CRYPTO-02.md",
+      "path": "10_concepts/以太坊与智能合约平台.md",
       "node_ids": [],
       "group": "数字资产与新型金融"
     },
@@ -27,7 +27,7 @@
       "name": "稳定币",
       "scope": "储备、赎回、交易与支付",
       "kind": "concepts",
-      "path": "10_concepts/C-CRYPTO-03.md",
+      "path": "10_concepts/稳定币.md",
       "node_ids": [],
       "group": "数字资产与新型金融"
     }

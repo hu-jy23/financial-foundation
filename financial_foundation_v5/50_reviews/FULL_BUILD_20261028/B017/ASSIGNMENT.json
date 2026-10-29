@@ -9,7 +9,7 @@
       "name": "可转债",
       "scope": "债底、转股价值与条款",
       "kind": "concepts",
-      "path": "10_concepts/C-BOND-09.md",
+      "path": "10_concepts/可转债.md",
       "node_ids": [],
       "group": "债券与固定收益工具"
     },
@@ -18,7 +18,7 @@
       "name": "拍卖、投标倍数与尾差",
       "scope": "发行定价与需求指标",
       "kind": "concepts",
-      "path": "10_concepts/C-BOND-14.md",
+      "path": "10_concepts/拍卖、投标倍数与尾差.md",
       "node_ids": [],
       "group": "债券与固定收益工具"
     },
@@ -27,7 +27,7 @@
       "name": "股权风险溢价ERP",
       "scope": "预期回报超额补偿",
       "kind": "concepts",
-      "path": "10_concepts/C-EQ-ERP.md",
+      "path": "10_concepts/股权风险溢价ERP.md",
       "node_ids": [],
       "group": "股票、估值与公司财务"
     }

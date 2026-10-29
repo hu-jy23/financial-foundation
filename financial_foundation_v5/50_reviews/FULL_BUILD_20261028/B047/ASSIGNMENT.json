@@ -9,7 +9,7 @@
       "name": "保险业",
       "scope": "负债成本、利率和资本市场",
       "kind": "concepts",
-      "path": "10_concepts/C-SECTOR-02.md",
+      "path": "10_concepts/保险业.md",
       "node_ids": [],
       "group": "行业与经营暴露"
     },
@@ -18,7 +18,7 @@
       "name": "证券与资管业",
       "scope": "成交、融资和管理资产",
       "kind": "concepts",
-      "path": "10_concepts/C-SECTOR-03.md",
+      "path": "10_concepts/证券与资管业.md",
       "node_ids": [],
       "group": "行业与经营暴露"
     },
@@ -27,7 +27,7 @@
       "name": "电力与公用事业",
       "scope": "电价、燃料、利用小时与资本开支",
       "kind": "concepts",
-      "path": "10_concepts/C-SECTOR-04.md",
+      "path": "10_concepts/电力与公用事业.md",
       "node_ids": [],
       "group": "行业与经营暴露"
     }

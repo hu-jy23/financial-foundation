@@ -9,7 +9,7 @@
       "name": "中国国债与政策性金融债",
       "scope": "信用、税务与交易群体",
       "kind": "concepts",
-      "path": "10_concepts/C-BOND-03.md",
+      "path": "10_concepts/中国国债与政策性金融债.md",
       "node_ids": [],
       "group": "债券与固定收益工具"
     },
@@ -18,7 +18,7 @@
       "name": "地方政府债",
       "scope": "一般债、专项债及偿债来源",
       "kind": "concepts",
-      "path": "10_concepts/C-BOND-04.md",
+      "path": "10_concepts/地方政府债.md",
       "node_ids": [],
       "group": "债券与固定收益工具"
     },
@@ -27,7 +27,7 @@
       "name": "投资级公司债",
       "scope": "信用与久期共同暴露",
       "kind": "concepts",
-      "path": "10_concepts/C-BOND-05.md",
+      "path": "10_concepts/投资级公司债.md",
       "node_ids": [],
       "group": "债券与固定收益工具"
     }

@@ -9,7 +9,7 @@
       "name": "保证金与追加保证金",
       "scope": "融资约束和路径风险",
       "kind": "concepts",
-      "path": "10_concepts/C-DERIV-14.md",
+      "path": "10_concepts/保证金与追加保证金.md",
       "node_ids": [],
       "group": "衍生品、波动与对冲"
     },
@@ -18,7 +18,7 @@
       "name": "基差",
       "scope": "现货与期货等相关价格之间的差额；报价口径、观测和历史；交易头寸与融资过程另见机制。",
       "kind": "concepts",
-      "path": "10_concepts/C-DERIV-15.md",
+      "path": "10_concepts/基差.md",
       "node_ids": [],
       "group": "衍生品、波动与对冲"
     },
@@ -27,7 +27,7 @@
       "name": "ETF申赎与二级市场交易",
       "scope": "份额变化和成交额区别",
       "kind": "concepts",
-      "path": "10_concepts/C-FLOW-05.md",
+      "path": "10_concepts/ETF申赎与二级市场交易.md",
       "node_ids": [],
       "group": "交易结构、资金与行为"
     }

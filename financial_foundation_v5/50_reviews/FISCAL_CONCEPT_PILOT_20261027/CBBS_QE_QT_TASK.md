@@ -15,9 +15,9 @@ Review directory: 50_reviews/FISCAL_CONCEPT_PILOT_20261027
 YAML: id,type,title,status:draft,draft_author实际agent路径,model:gpt-6-astra,reasoning_effort:medium,reviewed_by:null,updated:2026-10-27,evidence_as_of真实历史截止,source_ids。标题后简写作者和资料范围。每篇交付时保存完整首次提交稿为review目录中的ID_FIRST_DRAFT.md。main通读逐篇并复核关键来源；有实质问题会退回作者修改，首稿保留。汇报只给文件路径、缺口和需审阅问题，不粘全文。不另派subagent，不上传。
 
 ## 你的条目（3篇）
-- C-MONEY-CBBS《央行资产负债表》→10_concepts/C-MONEY-CBBS_central_bank_balance_sheet.md
-- C-POL-QE《量化宽松QE》→10_concepts/C-POL-QE_quantitative_easing.md
-- C-POL-QT《量化紧缩QT》→10_concepts/C-POL-QT_quantitative_tightening.md
+- C-MONEY-CBBS《央行资产负债表》→10_concepts/央行资产负债表.md
+- C-POL-QE《量化宽松QE》→10_concepts/量化宽松QE.md
+- C-POL-QT《量化紧缩QT》→10_concepts/量化紧缩QT.md
 额外输出 CBBS_QE_QT_AGENT_NOTES.md。
 
 CBBS重点：资产/准备金/现金/TGA/逆回购/其他负债与资本的会计结构；买券、贷款、财政现金转移和现金需求的示意分录；准备金不直接等于公众存款或可贷资金；负债构成、付息成本/递延资产和估值口径；H4.1时点/均值与国别差异。

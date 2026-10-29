@@ -9,7 +9,7 @@
       "name": "联邦基金期货",
       "scope": "合约结算与政策预期代理",
       "kind": "concepts",
-      "path": "10_concepts/C-RATE-08.md",
+      "path": "10_concepts/联邦基金期货.md",
       "node_ids": [],
       "group": "利率与收益率曲线"
     },
@@ -18,7 +18,7 @@
       "name": "收益率曲线",
       "scope": "期限、券种与拟合",
       "kind": "concepts",
-      "path": "10_concepts/C-IR-CURVE.md",
+      "path": "10_concepts/收益率曲线.md",
       "node_ids": [],
       "group": "利率与收益率曲线"
     },
@@ -27,7 +27,7 @@
       "name": "银行准备金",
       "scope": "央行账户余额与可用性",
       "kind": "concepts",
-      "path": "10_concepts/C-MONEY-RESERVES.md",
+      "path": "10_concepts/银行准备金.md",
       "node_ids": [],
       "group": "货币、央行与流动性"
     }

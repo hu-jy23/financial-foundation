@@ -9,7 +9,7 @@
       "name": "风险平价与波动率目标",
       "scope": "风险预算与再平衡",
       "kind": "concepts",
-      "path": "10_concepts/C-FLOW-12.md",
+      "path": "10_concepts/风险平价与波动率目标.md",
       "node_ids": [],
       "group": "交易结构、资金与行为"
     },
@@ -18,7 +18,7 @@
       "name": "白银与贵金属",
       "scope": "工业与投资需求权重",
       "kind": "concepts",
-      "path": "10_concepts/C-COMMOD-02.md",
+      "path": "10_concepts/白银与贵金属.md",
       "node_ids": [],
       "group": "黄金、能源与大宗商品"
     },
@@ -27,7 +27,7 @@
       "name": "原油与Brent/WTI",
       "scope": "品质、交割地与基准",
       "kind": "concepts",
-      "path": "10_concepts/C-COMMOD-03.md",
+      "path": "10_concepts/原油与Brent／WTI.md",
       "node_ids": [],
       "group": "黄金、能源与大宗商品"
     }

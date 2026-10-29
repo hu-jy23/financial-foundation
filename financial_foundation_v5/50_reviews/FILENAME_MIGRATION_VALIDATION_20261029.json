@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-29",
+  "scope": "title filenames, catalog paths, links, authoring instructions and existing reviewed checkpoint",
+  "selected_nodes": 234,
+  "planned_paths": 234,
+  "renamed_existing_pages": 173,
+  "renamed_tracked_reviewed_pages": 158,
+  "renamed_untracked_drafts_excluded_from_commit": 15,
+  "frozen_evidence_files_unchanged": 230,
+  "reviewed_new_hashes_verified": 146,
+  "concepts": {
+    "complete": 107,
+    "pending": 56
+  },
+  "mechanisms": {
+    "complete": 51,
+    "pending": 20
+  },
+  "live_pages_checked": 209,
+  "local_links_checked": 3682,
+  "links_to_planned_pending_nodes": 228,
+  "economic_prose_and_front_matter_unchanged": true,
+  "errors": [],
+  "limitations": [
+    "Pending nodes may be referenced at their planned title paths; a filename migration does not complete or review their content.",
+    "Frozen historical drafts and reports retain their original paths and hashes; use the migration map for current locations."
+  ]
+}

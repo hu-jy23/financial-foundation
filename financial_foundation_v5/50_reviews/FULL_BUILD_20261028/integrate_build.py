@@ -12,6 +12,7 @@ from collections import defaultdict
 from pathlib import Path
 
 import yaml
+from filename_migration import markdown_target
 
 ap = argparse.ArgumentParser()
 ap.add_argument('--apply', action='store_true', help='write the prepared integration')
@@ -22,12 +23,12 @@ readj = lambda p: json.loads(p.read_text())
 digest = lambda s: hashlib.sha256(s.encode()).hexdigest()
 flat = lambda j, k: [i for g in j[k] for i in g['items']]
 baseline = readj(out / 'BASELINE_INDEX.json')
-index = copy.deepcopy(baseline)
+index = readj(root / '00_start/catalog_index.json')
 paths = readj(out / 'PATHS.json')
 review = readj(out / 'MAIN_REVIEW.json')
 state = readj(out / 'RUN_STATE.json')
 items = {i['id']: i for k in ('concepts', 'mechanisms') for i in flat(index, k)}
-new_ids = {n for n, i in items.items() if i['status'] != 'complete'}
+new_ids = {i['id'] for kind in ('concepts', 'mechanisms') for i in flat(baseline, kind) if i['status'] != 'complete'}
 assert len(new_ids) == 222 and set(review['entries']) == new_ids, 'Complete every full-text review first.'
 assert all(b['status'] == 'reviewed' for b in state['batches']), 'An assigned batch remains unreviewed.'
 texts, meta = {}, {}
@@ -66,7 +67,7 @@ def direct_links(text):
     for n, rel in paths.items():
         filename = 'CONCEPT_IMPORT_LIST.md' if n.startswith('C-') else 'MECHANISM_IMPORT_LIST.md'
         for prefix in ('../00_start/', ''):
-            text = text.replace(f'({prefix}{filename}#{n})', f'(../{rel})')
+            text = text.replace(f'({prefix}{filename}#{n})', '(' + markdown_target('../' + rel) + ')')
     return text
 
 
@@ -124,13 +125,13 @@ outputs = {root / paths[n]: text for n, text in texts.items()}
 
 
 def concept_link(n):
-    return f'[{items[n]["name"]} {n}](../{paths[n]})'
+    return f'[{items[n]["name"]} {n}](' + markdown_target('../' + paths[n]) + ')'
 
 
 for kind, filename in [('concepts', 'CONCEPT_IMPORT_LIST.md'), ('mechanisms', 'MECHANISM_IMPORT_LIST.md')]:
     text = (root / '00_start' / filename).read_text()
     count = len(flat(index, kind))
-    text = re.sub(r'正文 \*\*\d+ 份已完成、\d+ 份待制作\*\*(?:（进度更新：[^）]+）)?', f'正文 **{count} 份已完成、0 份待制作**（进度更新：2026-10-28）', text, count=1)
+    text = re.sub(r'正文 \*\*\d+ 份已完成、\d+ 份待(?:制作|完成主审)\*\*(?:（进度更新：[^）]+）)?', f'正文 **{count} 份已完成、0 份待完成主审**（进度更新：2026-10-28）', text, count=1)
     for g in index[kind]:
         size, p0 = len(g['items']), sum(i['priority'] == 'P0' for i in g['items'])
         text = re.sub(r'^\| ' + re.escape(g['title']) + r' \| \d+ \| \d+ \| \d+ \| \d+ \|$', f'| {g["title"]} | {size} | {p0} | {size} | 0 |', text, flags=re.M)
@@ -140,7 +141,7 @@ for kind, filename in [('concepts', 'CONCEPT_IMPORT_LIST.md'), ('mechanisms', 'M
         if match and match.group(1) in items:
             n = match.group(1)
             cells = line.split(' | ')
-            cells[-1] = f'complete／[正文](../{paths[n]}) |'
+            cells[-1] = 'complete／[正文](' + markdown_target('../' + paths[n]) + ') |'
             if kind == 'mechanisms':
                 cells[2] = '；'.join(concept_link(c) for c in items[n]['node_ids']) or '—'
                 context = ['[' + t['name'] + '（正文术语）](CONCEPT_CONTEXT_TERMS.md#' + t['legacy_id'] + ')' for t in items[n].get('context_terms', [])]
@@ -178,16 +179,18 @@ report = ['# 全量制作审阅记录：2026-10-28', '',
           '“完整”指目录内全部条目形成可独立阅读的正文；证据截止和未取得材料逐篇披露，并不表示所有数据已更新到制作日。结构校验见[VALIDATION.json](VALIDATION.json)，它不代替内容主审。', '',
           '## 全部条目与责任记录', '', '| ID | 条目 | 执笔 | 证据截止 | 本轮 |', '|---|---|---|---|---|']
 for row in manifest:
-    report.append(f'| {row["id"]} | [{row["title"]}](../../{row["path"]}) | `{row["author"]}` | {row["evidence_as_of"]} | ' + ('新增并主审' if row['new_in_this_build'] else '既有成品') + ' |')
+    report.append(f'| {row["id"]} | [{row["title"]}](' + markdown_target('../../' + row['path']) + f') | `{row["author"]}` | {row["evidence_as_of"]} | ' + ('新增并主审' if row['new_in_this_build'] else '既有成品') + ' |')
 outputs[out / 'MAIN_REVIEW.md'] = '\n'.join(report) + '\n'
 
 # Entry pages are updated only after all authors finish reading the frozen inputs.
 p = root / '00_start/README.md'
 text = p.read_text()
+text = re.sub(r'^更新：[^\n]*', '更新：2026-10-28全量制作批次已完成，正式目录全部163个Concept与71个Mechanism共234篇均有经审阅正文。正文使用标题文件名，见[命名规则](FILE_NAMING.md)；分工、逐篇审阅及校验见[本批记录](../50_reviews/FULL_BUILD_20261028/MAIN_REVIEW.md)。', text, count=1, flags=re.M)
 text = text.replace('更新：2026-10-27，国债供给关联Concepts试产。初步建图范围已定稿：163个对象、71个关系／机制，共234个节点。当前已有12份经审阅正文，222份待制作；本批分工和验收见[试产记录](../50_reviews/FISCAL_CONCEPT_PILOT_20261027/MAIN_REVIEW.md)。', '更新：2026-10-28，完成正式目录全部163个Concept与71个Mechanism，共234篇经审阅正文。全量分工、逐篇审阅及校验见[本批记录](../50_reviews/FULL_BUILD_20261028/MAIN_REVIEW.md)；各篇资料截止单独保存。')
 outputs[p] = text
 p = root / 'README.md'
 text = p.read_text()
+text = re.sub(r'现有\d+份经审阅正文（\d+个Concepts、\d+个Mechanisms），其余\d+份尚未完成主审。', '234份正文均已完成并审阅，本轮新增153个Concept和69个Mechanism。', text, count=1)
 text = text.replace('初步建图节点确认版；2026-10-27完成黄金及国债供给关联Concepts试产，节点范围沿用2026-10-25定稿。完整保留已有样例、Event／Source、课程PDF与图文材料。', '2026-10-28完成Concept与Mechanism全量制作，节点范围沿用2026-10-25定稿。已有样例、Event／Source、课程PDF与图文材料保留。')
 text = text.replace('现有12份经审阅正文（10个Concepts、2个Mechanisms），其余222份正文待制作。', '234份正文均已完成并审阅，本轮新增153个Concept和69个Mechanism。')
 text = text.replace('本次试产见[国债供给批次审阅与分工]', '本轮见[全量制作审阅与分工](50_reviews/FULL_BUILD_20261028/MAIN_REVIEW.md)，此前试产见[国债供给批次审阅与分工]')

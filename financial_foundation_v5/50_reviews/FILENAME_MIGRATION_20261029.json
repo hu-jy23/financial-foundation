@@ -1,0 +1,2259 @@
+{
+  "date": "2026-10-29",
+  "base_commit": "e4dccf1b7ac4f1c9c53a49d37b0d0aa46e230d2e",
+  "remote_equivalent_commit": "204e3c9355db1a67439bff1314d621837ecee5ec",
+  "scope": "Concept and Mechanism title filenames and navigation; stable IDs, titles, prose, review decisions and frozen submissions preserved",
+  "nodes": [
+    {
+      "id": "C-EXPECT-05",
+      "title": "主观概率与风险中性概率",
+      "old_path": "10_concepts/C-EXPECT-05.md",
+      "new_path": "10_concepts/主观概率与风险中性概率.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "ac3bddb7ab1f18bc81cf376b63c406a5b2198c90b36bbe23597e64de1cbff693",
+      "after_sha256": "ca652633eb6ee2cf480ea77886f09c43e31cf8750dc8fe50ff34a2171d8b917c"
+    },
+    {
+      "id": "C-POL-CREDIBILITY",
+      "title": "央行可信度",
+      "old_path": "10_concepts/C-POL-CREDIBILITY.md",
+      "new_path": "10_concepts/央行可信度.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "281f1c6bd0a45de0ad2bdd09753529bf571cf8669098920dc5d05be7e7f55263",
+      "after_sha256": "68b518d84e905a2463b164543ce82bab46f80a9e809e08cbe756116159f0d551"
+    },
+    {
+      "id": "C-EXPECT-15",
+      "title": "投资者注意力",
+      "old_path": "10_concepts/C-EXPECT-15.md",
+      "new_path": "10_concepts/投资者注意力.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "0ca7930d11559caff7c79061f54d7b26b534f502a086c54f6992fc71689da2d5",
+      "after_sha256": "e50dc63540574cd272e5b14ec7dc7f471ad1383e48ad17409e74dbc82208229b"
+    },
+    {
+      "id": "C-INF-INFLATION",
+      "title": "通货膨胀",
+      "old_path": "10_concepts/C-INF-INFLATION.md",
+      "new_path": "10_concepts/通货膨胀.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "d667b4e73f94550291528fca6a6419bf626bdcd193d903cdabaf464717a50b95",
+      "after_sha256": "de44c9a0423aa09d0eb8cb7ff839366448bf7c2eaf21d70f4eeda29a5460f1aa"
+    },
+    {
+      "id": "C-IR-REAL",
+      "title": "实际利率",
+      "old_path": "10_concepts/C-IR-REAL_real_interest_rate.md",
+      "new_path": "10_concepts/实际利率.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "b6067a0e4cbba0e425bedb0ef04a77a8d98baa4f38e8a860620329a497ced7ad",
+      "after_sha256": "2cd2a68006e42c6f16fb79d089ec9397c47863719bf25c2a43707c05df59cb07"
+    },
+    {
+      "id": "C-IR-POLICY",
+      "title": "政策利率与目标区间",
+      "old_path": "10_concepts/C-IR-POLICY_policy_rate_target_range.md",
+      "new_path": "10_concepts/政策利率与目标区间.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "169f200583909fb3e5f32ed07bf64e6200f0b1b784d75c9cf1b08506e28944cd",
+      "after_sha256": "301bd08ba952688e05984c41a3772bbbd8cf8546694009255de2f01161feb004"
+    },
+    {
+      "id": "C-RATE-05",
+      "title": "有效联邦基金利率EFFR",
+      "old_path": "10_concepts/C-RATE-05.md",
+      "new_path": "10_concepts/有效联邦基金利率EFFR.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "24feb89f337c2444f75dd3a9ef741df7262ee6a94171c989ab1c6b55026ceb28",
+      "after_sha256": "108cc6ad25201abe3acd4f5a691c1bc25eaccec56290a978df35b5faf7739a1c"
+    },
+    {
+      "id": "C-RATE-06",
+      "title": "SOFR与担保融资基准",
+      "old_path": "10_concepts/C-RATE-06.md",
+      "new_path": "10_concepts/SOFR与担保融资基准.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "a73bc9cacc9472e35ff1be5486cabc9d246588728c31428cd91f99c40e4f622b",
+      "after_sha256": "ecca6dbbd367e046d57f132b7f787c2e6e83c8030ee504b3722b05aa7ab7bd11"
+    },
+    {
+      "id": "C-RATE-07",
+      "title": "隔夜指数掉期OIS",
+      "old_path": "10_concepts/C-RATE-07.md",
+      "new_path": "10_concepts/隔夜指数掉期OIS.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "65ec9bf42b6032b112871ad3e6186ce903cff7c09c006e2032f0663636e3803e",
+      "after_sha256": "f3218ed7b12b66c4791b80f4dc3ea3fcfe394f438e53ebd951352b72a3484796"
+    },
+    {
+      "id": "C-RATE-08",
+      "title": "联邦基金期货",
+      "old_path": "10_concepts/C-RATE-08.md",
+      "new_path": "10_concepts/联邦基金期货.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "d04f98b566590bbbd427405437e7c45435262a763afe181c759a041a67dbe18a",
+      "after_sha256": "9a455a59bda286c9d527d933385df7296ffc34f6947cc372a080f75a331bb9be"
+    },
+    {
+      "id": "C-IR-CURVE",
+      "title": "收益率曲线",
+      "old_path": "10_concepts/C-IR-CURVE.md",
+      "new_path": "10_concepts/收益率曲线.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "04ad454d9f4927f26f083b6141c5edf00f8ef4f4e506b26bc4304cfc36077b94",
+      "after_sha256": "5ab41e6330d81c0ad114792c2e5427bf6804d4b3a1f77b895a85de1fd0d45ac3"
+    },
+    {
+      "id": "C-IR-TERM",
+      "title": "期限溢价",
+      "old_path": "10_concepts/C-IR-TERM_term_premium.md",
+      "new_path": "10_concepts/期限溢价.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "54163ad222e8212e3a40339e87fdb58a3d58252522ebc8719225ab61c7d4f842",
+      "after_sha256": "8eaf79bb6765c665f80fcb421b24d78c901bafa86e8e11f0bededbfd7556a7ac"
+    },
+    {
+      "id": "C-MONEY-RESERVES",
+      "title": "银行准备金",
+      "old_path": "10_concepts/C-MONEY-RESERVES.md",
+      "new_path": "10_concepts/银行准备金.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "75c302999b4fa70c084be222be5c9993bfe8784012a42b85a0e262e7750952a0",
+      "after_sha256": "d37cabd08d1260f95ce25e7632463d68bfece5aee626bcaa23217a83af13bd65"
+    },
+    {
+      "id": "C-MONEY-CBBS",
+      "title": "央行资产负债表",
+      "old_path": "10_concepts/C-MONEY-CBBS_central_bank_balance_sheet.md",
+      "new_path": "10_concepts/央行资产负债表.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "63cc7f678bd78a89401cd02cc1e15ef3101eef1427bf7cf941062ee37514cf1a",
+      "after_sha256": "7fce444f045853494e2529c141b8034d23cf4431acbaf5138006788ba24b9c90"
+    },
+    {
+      "id": "C-MONEY-07",
+      "title": "准备金利率",
+      "old_path": "10_concepts/C-MONEY-07.md",
+      "new_path": "10_concepts/准备金利率.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "f4713ccedbd60859f5395973e4a24db13a9e3ca2bd307779b37f671ebc66973f",
+      "after_sha256": "74511a191d910cf84eeebc3f7e5eb9c722b83b2df54f4665ab13690b80314d2d"
+    },
+    {
+      "id": "C-POL-QE",
+      "title": "量化宽松QE",
+      "old_path": "10_concepts/C-POL-QE_quantitative_easing.md",
+      "new_path": "10_concepts/量化宽松QE.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "9bcf8231c248c4e91045cad372a2d369574d41d03a567f35af015bf02210e381",
+      "after_sha256": "17a9e02ecce16168d2db6ca51e3e02e476483b09c6e2d6edf3a1c2811a151b74"
+    },
+    {
+      "id": "C-POL-QT",
+      "title": "量化紧缩QT",
+      "old_path": "10_concepts/C-POL-QT_quantitative_tightening.md",
+      "new_path": "10_concepts/量化紧缩QT.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "27db7261b8f1e43220b6c8e9123233eab6a964f53ca02309fa211547f6434131",
+      "after_sha256": "1655dd3c914d801dcbb7e0e649a270de5f49ccb5d491a5f73397aba91a62f180"
+    },
+    {
+      "id": "C-MONEY-10",
+      "title": "回购与逆回购",
+      "old_path": "10_concepts/C-MONEY-10.md",
+      "new_path": "10_concepts/回购与逆回购.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "dde21de6d4337111322a5b3605aeb1ef3066516cfff96f5b2a8014f25915031f",
+      "after_sha256": "bb5d3b5bc708c30f9d758e3b733c64e663fc618c2afec6dac9bd2022288db868"
+    },
+    {
+      "id": "C-MONEY-11",
+      "title": "常备工具与最后贷款人",
+      "old_path": "10_concepts/C-MONEY-11.md",
+      "new_path": "10_concepts/常备工具与最后贷款人.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "76d6680ca77a5ff7dee3a4d12bc0cc9220793a6ca4dc5bd765a1ab9d163f4027",
+      "after_sha256": "9de3f8f21518e1101b2324d320ac2d478b58f1390b1574e84fe719016a0ca525"
+    },
+    {
+      "id": "C-MONEY-12",
+      "title": "美元互换额度",
+      "old_path": "10_concepts/C-MONEY-12.md",
+      "new_path": "10_concepts/美元互换额度.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "062c6da92b9ec514e5f5c0b83417dfe7f248e675e445e27a3aeb682e521ad757",
+      "after_sha256": "2f0a8ecb4aa44d13dea77d0914c929638bd53f98deefc3cfd5143d76170ffed1"
+    },
+    {
+      "id": "C-MONEY-13",
+      "title": "财政部一般账户TGA",
+      "old_path": "10_concepts/C-MONEY-13_treasury_general_account.md",
+      "new_path": "10_concepts/财政部一般账户TGA.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "c270f11409d7c3879fe17502d935695e473f4ed9955935eb70629ca7dabaa27f",
+      "after_sha256": "8d5055923c25f54a5b2280289fb868d4d4220cd3944692f33d8582493d704dbf"
+    },
+    {
+      "id": "C-MONEY-14",
+      "title": "隔夜逆回购ONRRP",
+      "old_path": "10_concepts/C-MONEY-14.md",
+      "new_path": "10_concepts/隔夜逆回购ONRRP.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "cb957afd088661728b860e955b5de4a52275af7f59ce3490ed9086a73f2162ea",
+      "after_sha256": "c0cb0fc29370ba58d75adf4d408a5985526e51819e5503b974db6616421c53a2"
+    },
+    {
+      "id": "C-LIQ-FUND",
+      "title": "融资流动性",
+      "old_path": "10_concepts/C-LIQ-FUND_funding_liquidity.md",
+      "new_path": "10_concepts/融资流动性.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "ac6868fd0a17668bd3c4fcfd35a81c21b6c5d27ae5f36d24f9ad82a331da0e7e",
+      "after_sha256": "7d8ae55ffec6cbf56c1b76407b4ff022d96c2d0af01e9217e99d46cdb4334cc8"
+    },
+    {
+      "id": "C-LIQ-MARKET",
+      "title": "市场流动性",
+      "old_path": "10_concepts/C-LIQ-MARKET.md",
+      "new_path": "10_concepts/市场流动性.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "5cfd41d00b6f7b9d5a4141fa923911678486462f3b169726f3b396172f8b7863",
+      "after_sha256": "2f662692428c5e42f59cede7641d35a990498cb7c3784c5913152b9775cabb5d"
+    },
+    {
+      "id": "C-MONEY-19",
+      "title": "货币市场基金",
+      "old_path": "10_concepts/C-MONEY-19.md",
+      "new_path": "10_concepts/货币市场基金.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "c3946addb038ccfaa8b507a88953cfcfd9413ccd4694ddbb67d3d04bf094634b",
+      "after_sha256": "c84fdab35713dff3ae035b0cec265c8f6fad18ef6b7a64fc4d32114e01a37988"
+    },
+    {
+      "id": "C-FISCAL-DEFICIT",
+      "title": "财政赤字与初级赤字",
+      "old_path": "10_concepts/C-FISCAL-DEFICIT_fiscal_primary_deficit.md",
+      "new_path": "10_concepts/财政赤字与初级赤字.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "6d5d77ef96c1cbe46e4c86f7e620f485316a54a6dcc5ea8334601dc305e11bb2",
+      "after_sha256": "27d66ba40552e1860ed91ce09df71ecfeec5b5ae1ead5a48d1bc5a53a25c016e"
+    },
+    {
+      "id": "C-FISCAL-13",
+      "title": "财政主导",
+      "old_path": "10_concepts/C-FISCAL-13.md",
+      "new_path": "10_concepts/财政主导.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "cc6cf75c5748564e65dfb7f7fa34f768f7d42280df1662d4edc74a14a3f93d1c",
+      "after_sha256": "2b8c7e02ca615d220a4afc5d082ca3e06702a22183786c28d56e284aa47f059d"
+    },
+    {
+      "id": "C-FISCAL-14",
+      "title": "主权信用风险与CDS",
+      "old_path": "10_concepts/C-FISCAL-14.md",
+      "new_path": "10_concepts/主权信用风险与CDS.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "f1016a8a4c21831936ab1ad96a4c7438b1550a48fad2303fba89f50f82979137",
+      "after_sha256": "ab6fdfcc526234d2bf2bf14942524b6ee67977a926d62f592711c7036b1056d7"
+    },
+    {
+      "id": "C-FISCAL-15",
+      "title": "债务上限与政府停摆",
+      "old_path": "10_concepts/C-FISCAL-15.md",
+      "new_path": "10_concepts/债务上限与政府停摆.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "24485f84ae7638d5254fa8e11da6dc03f2178b5055358d723869e0f4e078de66",
+      "after_sha256": "afeb62c271cfcc2d094f55f030b9a263cffe69176366914cf47bcaef540e23e4"
+    },
+    {
+      "id": "C-CREDIT-02",
+      "title": "银行资本与杠杆率",
+      "old_path": "10_concepts/C-CREDIT-02.md",
+      "new_path": "10_concepts/银行资本与杠杆率.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "3e7adf1af4e073e5c06b1ab50ed0a6c89a7540aa860de8ebf206b6bff9519ad5",
+      "after_sha256": "6a0066e95f6ec842fcdbb351c93a4ae8b17aafb93ef1e0c1338f436729bf35d9"
+    },
+    {
+      "id": "C-CREDIT-03",
+      "title": "银行流动性覆盖与稳定融资",
+      "old_path": "10_concepts/C-CREDIT-03.md",
+      "new_path": "10_concepts/银行流动性覆盖与稳定融资.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "024a22b9805e3f0b8d3cafb2eebfca48581d23a085253dcb6e433a39d053a6e9",
+      "after_sha256": "476a10b0092f44eeea99ee4523c119dd1851bd1b383e76c2d0295a5f2ea5c8a3"
+    },
+    {
+      "id": "C-CREDIT-04",
+      "title": "净息差NIM",
+      "old_path": "10_concepts/C-CREDIT-04.md",
+      "new_path": "10_concepts/净息差NIM.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "69b9eb789fd7ffa75953f06c88dd36c2107049bc7c6250fee499bb0fed03a9de",
+      "after_sha256": "2ce1cee69c500b43a2d6b9e6096916d51fdea8312945b7deba2067c81edfa63d"
+    },
+    {
+      "id": "C-CREDIT-SPREAD",
+      "title": "信用利差",
+      "old_path": "10_concepts/C-CREDIT-SPREAD.md",
+      "new_path": "10_concepts/信用利差.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "6f7f47a3b8691d55df168972c8aa630f149df51382fe77170292f89f52a19279",
+      "after_sha256": "fa7dd1dcbc713d457e6530a4cf392af779b64e6957a1cb2998328948c820f866"
+    },
+    {
+      "id": "C-CREDIT-08",
+      "title": "信用评级与迁移",
+      "old_path": "10_concepts/C-CREDIT-08.md",
+      "new_path": "10_concepts/信用评级与迁移.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "8e6c226f16ad802946f714c1861afa61144fd2f6635a293fc1b6aeb4b9792315",
+      "after_sha256": "8be68cf0e45e4bc716f8bc804a8b6600a127ee5373917a5a8c7c8aaaf242e262"
+    },
+    {
+      "id": "C-CREDIT-10",
+      "title": "抵押品与折扣率haircut",
+      "old_path": "10_concepts/C-CREDIT-10.md",
+      "new_path": "10_concepts/抵押品与折扣率haircut.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "84370598b9a49a63074881ef8779dc9b8ebec19e64b0c74abd34bf071b409e6b",
+      "after_sha256": "bd5182f1bdd58c61485110c4a9bca514fd85ef5cb804c07d911b897a2c6bc3ac"
+    },
+    {
+      "id": "C-CREDIT-12",
+      "title": "影子银行与非银金融",
+      "old_path": "10_concepts/C-CREDIT-12.md",
+      "new_path": "10_concepts/影子银行与非银金融.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "5c6894b908e84d0b5ba6ba72197a3a6f8cb44b1eed77c7799f90406173b36b67",
+      "after_sha256": "9c92db37f4403b20a14b15ae7a6c7a5d7037ad2c42037eb8b53cbce7e4b67366"
+    },
+    {
+      "id": "C-CREDIT-13",
+      "title": "证券化与资产支持证券",
+      "old_path": "10_concepts/C-CREDIT-13.md",
+      "new_path": "10_concepts/证券化与资产支持证券.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "d9a63194b73aebbb0d7b929a38d22dec7c1d05a440e60d2da82a7de673fae9d9",
+      "after_sha256": "60cce2c98af8174949dc1a17eaf28481406fef22aeceab9dddb76ac694208ab6"
+    },
+    {
+      "id": "C-CREDIT-15",
+      "title": "挤兑与存款迁移",
+      "old_path": "10_concepts/C-CREDIT-15.md",
+      "new_path": "10_concepts/挤兑与存款迁移.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "d2e7da9a4fa0b41c0a01ed29dad15ca518d851e9aa13bc872084deab1ed9561f",
+      "after_sha256": "dc147d7823cc42e77a6818d155163fd244ddb12af053aaf667b5305cd9744b6b"
+    },
+    {
+      "id": "C-CREDIT-16",
+      "title": "金融周期",
+      "old_path": "10_concepts/C-CREDIT-16.md",
+      "new_path": "10_concepts/金融周期.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "06d3c5ae1168255185a27c250690099a90a2f073c2aac46a503077ae4bfedf85",
+      "after_sha256": "01ce665b965658e8c0e2d1966b027f38781ce58019790940003c0c8b25c3cf94"
+    },
+    {
+      "id": "C-FX-USD",
+      "title": "美元",
+      "old_path": "10_concepts/C-FX-USD.md",
+      "new_path": "10_concepts/美元.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "1e8a2b16f50e4aa3e0a6e01f04a0d53a0794a2e0525b23105a1dff8114ff7a3a",
+      "after_sha256": "b91b750a1af4980de9b785faeb9b1d619a375a23f232a859fbea4190e179766a"
+    },
+    {
+      "id": "C-FX-02",
+      "title": "人民币与离岸人民币",
+      "old_path": "10_concepts/C-FX-02.md",
+      "new_path": "10_concepts/人民币与离岸人民币.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "bc32a684569ce222417bc48c9306c5b0e93a8d729605dc4e24e99e1b3d008128",
+      "after_sha256": "29fbc43fd8e4354167630ded56f065026fea167a7ec80369e38ad58aada1b984"
+    },
+    {
+      "id": "C-FX-03",
+      "title": "日元",
+      "old_path": "10_concepts/C-FX-03.md",
+      "new_path": "10_concepts/日元.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "d67ba0aef050ec5cc7e279a089e21ea6b65d29c76d9736967c39683e4306fe49",
+      "after_sha256": "a84b5855e5519145c73b7d47ead82c5458044b34be3724a5e703d1d74a5114b8"
+    },
+    {
+      "id": "C-FX-04",
+      "title": "欧元与欧元体系",
+      "old_path": "10_concepts/C-FX-04.md",
+      "new_path": "10_concepts/欧元与欧元体系.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "f55f5bf4e5d14e27dde33ceb173fc831cee5d614f90ce84bd65ea9fe346d3889",
+      "after_sha256": "c3fd76a2ffb2bed8c1a5ef769cf4e43416969542e7a32e69e302aa07fd081cd6"
+    },
+    {
+      "id": "C-FX-05",
+      "title": "港元联系汇率",
+      "old_path": "10_concepts/C-FX-05.md",
+      "new_path": "10_concepts/港元联系汇率.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "f8b65bf8be2b4e67d566232e4938b7d979d64dc0ec0b1ee67ac735011eb5fb89",
+      "after_sha256": "4d3c1db1cc5c9026aee2b3e44eb86b38eb87e1cab10b76cc64abdb3561e4afa1"
+    },
+    {
+      "id": "C-FX-07",
+      "title": "美元指数DXY与广义美元指数",
+      "old_path": "10_concepts/C-FX-07.md",
+      "new_path": "10_concepts/美元指数DXY与广义美元指数.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "cfdcfd4042d52fbbf1dc9b36ef5aff346193cec28fae19adec4902de895fdab0",
+      "after_sha256": "52c4244d6b89624444565c121306b83d2409560a0544b2acdcb10042332c9c1a"
+    },
+    {
+      "id": "C-FX-10",
+      "title": "跨币种基差",
+      "old_path": "10_concepts/C-FX-10.md",
+      "new_path": "10_concepts/跨币种基差.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "ad91863b09d9db5d8b7cfaa184e9d5c6e74b85ed89a20c9207796ff1182b2356",
+      "after_sha256": "23dcda2e12b5f33b4ae7bd7792c6e8f71e4f94be8e52216e7e677b2d265c9135"
+    },
+    {
+      "id": "C-FX-13",
+      "title": "资本流动与资本管制",
+      "old_path": "10_concepts/C-FX-13.md",
+      "new_path": "10_concepts/资本流动与资本管制.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "3b7d5fe68b0f3cfa337c1de0573fef28289b51dfdfd45ebc5b2ef0ae0e5d8ce8",
+      "after_sha256": "a95e25de23917e498d6c213504f3535ec8df78d5dff17dfe72900a24e51f7205"
+    },
+    {
+      "id": "C-FX-14",
+      "title": "外汇储备",
+      "old_path": "10_concepts/C-FX-14.md",
+      "new_path": "10_concepts/外汇储备.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "01cce0ca87b1360265c01bbac25983e5a1485605abf044e1c1326aa76ffb2b68",
+      "after_sha256": "c19b6638323cce15391e793c7e3a894994fd1d80d1c80c615d79a11d425d7464"
+    },
+    {
+      "id": "C-FX-17",
+      "title": "套息交易",
+      "old_path": "10_concepts/C-FX-17.md",
+      "new_path": "10_concepts/套息交易.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "0bb7a08f9e5fd86c0af8e34bc3c8f2ae2de994de8ff21acf78cc58e0098afa7f",
+      "after_sha256": "f8f0dd8890f9e1e37ae224a29ada8457ddd3b7fce218d57ee94cacd98f30563b"
+    },
+    {
+      "id": "C-FX-18",
+      "title": "外汇干预",
+      "old_path": "10_concepts/C-FX-18.md",
+      "new_path": "10_concepts/外汇干预.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "9561555a8976d94f041389b298c03cc69cde9d1b89189f9908863308bc932ece",
+      "after_sha256": "c7d75d138e305cea5c31d831e6479f515e6ca8917cfc797bafe05d989cc830c3"
+    },
+    {
+      "id": "C-ASSET-UST",
+      "title": "美国国债",
+      "old_path": "10_concepts/C-ASSET-UST.md",
+      "new_path": "10_concepts/美国国债.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "112788915c92e946e7bf63cf7228f803bab387f7b977ccac67a610ec9eaa7f4e",
+      "after_sha256": "6a58fc297bfd6b2ce0fe43ae304b67e730780c4b8a16d98bb97e9e9f14ed3e31"
+    },
+    {
+      "id": "C-IR-TIPS",
+      "title": "美国通胀保值国债TIPS",
+      "old_path": "10_concepts/C-IR-TIPS.md",
+      "new_path": "10_concepts/美国通胀保值国债TIPS.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "138d9d1561a2e097b210017e2cb30ec69188ca2da312bff1b575724e956f01b6",
+      "after_sha256": "61ef20724ac7d24fd4fee98392a45b6e18a0f34c55fb865f86431ade2c4eca51"
+    },
+    {
+      "id": "C-BOND-03",
+      "title": "中国国债与政策性金融债",
+      "old_path": "10_concepts/C-BOND-03.md",
+      "new_path": "10_concepts/中国国债与政策性金融债.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "e9867f24622064f30ed1114a89fd075159ddb1c69efbb7c96282c29bbfbcc830",
+      "after_sha256": "785611dfdfdd4eccb90c6429fff238a00c4743fa4dc18359e4711de32cd8993a"
+    },
+    {
+      "id": "C-BOND-04",
+      "title": "地方政府债",
+      "old_path": "10_concepts/C-BOND-04.md",
+      "new_path": "10_concepts/地方政府债.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "fbcb458e2b6b0a4f1f722cad8360db2b12ba81869b262a2761caa6cdf38bb293",
+      "after_sha256": "2e1f39291a52d544f24f329b6aa0d8152a9c2772fe29d9b95c0977b6c04712de"
+    },
+    {
+      "id": "C-BOND-05",
+      "title": "投资级公司债",
+      "old_path": "10_concepts/C-BOND-05.md",
+      "new_path": "10_concepts/投资级公司债.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "050b2a466bb423fa6388b77f135bf348ed4ec391ded1ec054758d4b0f1c0a32f",
+      "after_sha256": "615cff4cf61e87fc109e26da2f8dcc48069d7d51f2f8d58e1e802f5f64b0fb70"
+    },
+    {
+      "id": "C-BOND-06",
+      "title": "高收益债",
+      "old_path": "10_concepts/C-BOND-06.md",
+      "new_path": "10_concepts/高收益债.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "1fa2ff341bd82a4cbb641c45b113f72d1744f663b550f538aadae1796693b97a",
+      "after_sha256": "ca88dabf85aa9ee675f7ac5e7eeb2c2e51036255578e8760b8d93d40aeec7757"
+    },
+    {
+      "id": "C-BOND-07",
+      "title": "机构MBS",
+      "old_path": "10_concepts/C-BOND-07.md",
+      "new_path": "10_concepts/机构MBS.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "cd373c787eb369ca68c70b2c972e040c74e46d17c886b62dec372b6d9168d786",
+      "after_sha256": "13c5ab6f78f8d292b793cb5411e71c212f8c18e68f5cc7269dd97f5d676e4ab6"
+    },
+    {
+      "id": "C-BOND-08",
+      "title": "浮息债FRN",
+      "old_path": "10_concepts/C-BOND-08.md",
+      "new_path": "10_concepts/浮息债FRN.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "3695bd42aa20b67fea4d3c8376f0400160dd81070dc8d38b8cc1542605ee8f71",
+      "after_sha256": "ea8807de835eec2c35fa3c8cf995cf1332ed926238c61be8aebd729f4305ff00"
+    },
+    {
+      "id": "C-BOND-09",
+      "title": "可转债",
+      "old_path": "10_concepts/C-BOND-09.md",
+      "new_path": "10_concepts/可转债.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "a2f4f9f987de2000b867fd0dec5e0e4913ac8ffe1f3990048dd502b349781ce6",
+      "after_sha256": "30e323792273574719f8a5c48403c0b3aa7e1a0b8252c57c331e9dcf2ba8fbd9"
+    },
+    {
+      "id": "C-BOND-14",
+      "title": "拍卖、投标倍数与尾差",
+      "old_path": "10_concepts/C-BOND-14.md",
+      "new_path": "10_concepts/拍卖、投标倍数与尾差.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "5b45a3b5509023a1423fb8e10c25867b7db36a60d44d7b0e631c79df6e4938e9",
+      "after_sha256": "43be71ffa5b6819d805b3f06ea150743e9b6521368919ca1997f16b32f8fd27a"
+    },
+    {
+      "id": "C-EQ-ERP",
+      "title": "股权风险溢价ERP",
+      "old_path": "10_concepts/C-EQ-ERP.md",
+      "new_path": "10_concepts/股权风险溢价ERP.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "0652cba2943afb2505c23ba56ded4bd7245d9a1470720cfdf807f40889db7886",
+      "after_sha256": "2e094e9d42fb1b1fa46877b4da9f9b0cadc8161c30afbf4d4b10f66725dd54f8"
+    },
+    {
+      "id": "C-EQUITY-18",
+      "title": "并购交易与交易条款",
+      "old_path": "10_concepts/C-EQUITY-18.md",
+      "new_path": "10_concepts/并购交易与交易条款.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "0000e123540c85aaa87bed1a426c903d0a0c35f3146641b8c0ada0ffd3666860",
+      "after_sha256": "ce86855af1ff6dab867ae82c53addc837c3a5bc3963f0f1aad9b4197b4773783"
+    },
+    {
+      "id": "C-VOL-IVRV",
+      "title": "隐含波动率与实现波动率",
+      "old_path": "10_concepts/C-VOL-IVRV.md",
+      "new_path": "10_concepts/隐含波动率与实现波动率.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "2d70a3e2ff36edbbbbbbea535f498ad4d7729487cf626517106ba31cdd8be60d",
+      "after_sha256": "cab5249e62b45bf0bb7015242fafe4b7bfa12e46e9c2cb314d5c5d582a3ae312"
+    },
+    {
+      "id": "C-DERIV-04",
+      "title": "波动率风险溢价",
+      "old_path": "10_concepts/C-DERIV-04.md",
+      "new_path": "10_concepts/波动率风险溢价.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "a392069f63c4ae3392a47815a02b9f21a8456b03588b62a1b7f4a8be85ba8084",
+      "after_sha256": "7e7dec10cf2b836addfa663e568f5fbdb40c255312c9622487d60b08eb1e1664"
+    },
+    {
+      "id": "C-DERIV-14",
+      "title": "保证金与追加保证金",
+      "old_path": "10_concepts/C-DERIV-14.md",
+      "new_path": "10_concepts/保证金与追加保证金.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "7167d249fd182f0079eeef1ca418a49ae444c03f70831b353850205445361cbf",
+      "after_sha256": "4ef91e897eab507db02ec39144ba1b6b4d6ada9c4496041183669b02eca8e528"
+    },
+    {
+      "id": "C-DERIV-15",
+      "title": "基差",
+      "old_path": "10_concepts/C-DERIV-15.md",
+      "new_path": "10_concepts/基差.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "9812869d0ab783ff28608c3f60d37ccd25fd807f67e0bccd07a88667fbc2fa1e",
+      "after_sha256": "b58d4d8cc1710a5b192706d493f3c6ab5a9e125254ff77039bd913039a948cab"
+    },
+    {
+      "id": "C-FLOW-05",
+      "title": "ETF申赎与二级市场交易",
+      "old_path": "10_concepts/C-FLOW-05.md",
+      "new_path": "10_concepts/ETF申赎与二级市场交易.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "369b70397ab433023d218d7b46ff1c236e24d272db3187fb3c4b560dc923f9aa",
+      "after_sha256": "69475b17d2ac8d8b50ef60a04f0af779b558f6432e38199f9a2b6121e2b3db8d"
+    },
+    {
+      "id": "C-FLOW-09",
+      "title": "融资融券与借券成本",
+      "old_path": "10_concepts/C-FLOW-09.md",
+      "new_path": "10_concepts/融资融券与借券成本.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "c655688cec92b10cc876e2775bc665e526bc5724a3226cd40a0f5b2a2b8546de",
+      "after_sha256": "b64d57395001def5af263ba0a46542badc0fc6b5c6c543861831a827c60ce941"
+    },
+    {
+      "id": "C-FLOW-10",
+      "title": "程序化交易与做市",
+      "old_path": "10_concepts/C-FLOW-10.md",
+      "new_path": "10_concepts/程序化交易与做市.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "4ea00d8a11f23bc51e0d9c4d844e2c16d1f3ad88c75d2c08ed53adb767ca2154",
+      "after_sha256": "8faccbef43505a5452ef75674c41d8ed05d3e54ab3f16266919fdce200ed5391"
+    },
+    {
+      "id": "C-FLOW-11",
+      "title": "趋势跟随与CTA",
+      "old_path": "10_concepts/C-FLOW-11.md",
+      "new_path": "10_concepts/趋势跟随与CTA.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "c3830e25bcf1fcc4f496871013eb3ecbdb921796c70f829f8c3112b98e137bc1",
+      "after_sha256": "16b688728a6580a03ba190b9d45da6d0867aba780e0f3036584e2409f7938372"
+    },
+    {
+      "id": "C-FLOW-12",
+      "title": "风险平价与波动率目标",
+      "old_path": "10_concepts/C-FLOW-12.md",
+      "new_path": "10_concepts/风险平价与波动率目标.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "4c6b2ca16c186fc749e39d0c7502646698c810f4e077c1ec0a2e7c51331d3039",
+      "after_sha256": "a4390a3e622472afedffd4c47240b87bdc3e22ae92d625a64d313e8548d56b57"
+    },
+    {
+      "id": "C-ASSET-GOLD",
+      "title": "黄金",
+      "old_path": "10_concepts/C-ASSET-GOLD_gold.md",
+      "new_path": "10_concepts/黄金.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "fdfd5047a06c2b8ca6c981efa9873173060e634d8b79fe319e8245393914576a",
+      "after_sha256": "72e5ac8d7e03f25146fd926748ad90bdb00a7db4d4ce06327d494cb474f0802a"
+    },
+    {
+      "id": "C-COMMOD-02",
+      "title": "白银与贵金属",
+      "old_path": "10_concepts/C-COMMOD-02.md",
+      "new_path": "10_concepts/白银与贵金属.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "f0f3ae793450b401fac69b98eff06bd080a8937ee0ec249efb6505b60977ca79",
+      "after_sha256": "d35c9802b9142c616790751377e4074d27b1506f73ebc3c193910c8e1e13c163"
+    },
+    {
+      "id": "C-COMMOD-03",
+      "title": "原油与Brent/WTI",
+      "old_path": "10_concepts/C-COMMOD-03.md",
+      "new_path": "10_concepts/原油与Brent／WTI.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "99e8ee2608aceb41f97cedce1574f7a6caebe00193aa87533ffd57e33449b4ee",
+      "after_sha256": "26dbac6783a0922182449498be9c4a39c2a9fd1112d69d5f25bf9bea979ffbcf"
+    },
+    {
+      "id": "C-COMMOD-04",
+      "title": "天然气与LNG",
+      "old_path": "10_concepts/C-COMMOD-04.md",
+      "new_path": "10_concepts/天然气与LNG.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "fd3a9d5fb0b64c722b9410fd6e017a280d6d632e4c98177bc19a7c40970df3c9",
+      "after_sha256": "7cccf8da4edfbd9889004213d72ab15f5ff9c543d0bf6951da478e94102b13fb"
+    },
+    {
+      "id": "C-COMMOD-05",
+      "title": "煤炭与焦煤",
+      "old_path": "10_concepts/C-COMMOD-05.md",
+      "new_path": "10_concepts/煤炭与焦煤.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "05af5b4f6a906bcddf750a75764cfdf5c16d443aab005ca9a7256945bedbda80",
+      "after_sha256": "4ac9e50d2c05eea274371e7faaacb9674b35f2ed66ea6cd832e0802dcc6d8e2d"
+    },
+    {
+      "id": "C-COMMOD-06",
+      "title": "铜与工业金属",
+      "old_path": "10_concepts/C-COMMOD-06.md",
+      "new_path": "10_concepts/铜与工业金属.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "cdd1110c580179197c9ea53723343824eba9d39e8ea7bf273a10d27704a9d990",
+      "after_sha256": "8e8fea8eb64b98b60643e213027e40a1c3d47a5fab9f253cc03b7aff092b0f1e"
+    },
+    {
+      "id": "C-COMMOD-07",
+      "title": "铝与电力成本",
+      "old_path": "10_concepts/C-COMMOD-07.md",
+      "new_path": "10_concepts/铝与电力成本.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "09d39fadfc22e45aa1ff744a0b3abc5f6fd8c942b0690ab4e1654dffd96b4f68",
+      "after_sha256": "fe17abf159eb1e746d03d247f9c050b6fd910f7d0b39caf28ff73333ca5b84fd"
+    },
+    {
+      "id": "C-COMMOD-08",
+      "title": "铁矿石与钢铁",
+      "old_path": "10_concepts/C-COMMOD-08.md",
+      "new_path": "10_concepts/铁矿石与钢铁.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "08084bf9659430ba946ff9dc57cbeed87c3c564a3cf4967cb238f010608fa75a",
+      "after_sha256": "dd4a875183e6c3ed05a10f52cd52a4e8f559e173364ebd5b4a8bd5053d20f91f"
+    },
+    {
+      "id": "C-COMMOD-09",
+      "title": "农产品",
+      "old_path": "10_concepts/C-COMMOD-09.md",
+      "new_path": "10_concepts/农产品.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "fb340baa56786b1a44d3fa1e9f95a7f45298e230d755003370730f1ee5d889f0",
+      "after_sha256": "0d0faead895d9cf4262be055bd5abbf6090cb39a52ba1612c033988aa135b2bb"
+    },
+    {
+      "id": "C-COMMOD-13",
+      "title": "OPEC与闲置产能",
+      "old_path": "10_concepts/C-COMMOD-13.md",
+      "new_path": "10_concepts/OPEC与闲置产能.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "2296bd5dd8b56cd05afb42202a596eb8e847e6578c0d827101e1dfb0e2ba55e1",
+      "after_sha256": "5bde9d41b8b64d8da9e43639056050a39357762f2fd7b1cd07ba26b9b0c76b4c"
+    },
+    {
+      "id": "C-COMMOD-14",
+      "title": "战略储备与能源安全",
+      "old_path": "10_concepts/C-COMMOD-14.md",
+      "new_path": "10_concepts/战略储备与能源安全.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "3d3e0a8f6d0dd4d1e869c9d4fcc8c4e5a2b762336a8474df2aaa9c61841ccf55",
+      "after_sha256": "ad0236586327c94892ddb4bbe88440dd7d4d34f0683dd36ea9b5d4f6f771cb29"
+    },
+    {
+      "id": "C-COMMOD-16",
+      "title": "碳排放权与碳价格",
+      "old_path": "10_concepts/C-COMMOD-16.md",
+      "new_path": "10_concepts/碳排放权与碳价格.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "edbd5bcc0c7f52f3f121f1a28bddf6e7c52cf9ee43c36ee11d3fb5d98f3955fe",
+      "after_sha256": "c2e1c494d1ffe430833384948b53b70148cae60ee9ab72c73f30f48278158e54"
+    },
+    {
+      "id": "C-CHINA-01",
+      "title": "中国人民银行",
+      "old_path": "10_concepts/C-CHINA-01.md",
+      "new_path": "10_concepts/中国人民银行.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "f06e3fa3f2f70d81cc819b3c039e8f4e0ece6d4ecec700ab3f43633e26145896",
+      "after_sha256": "fb48d5e9ca3d528ac8b6739b7627b01a6176dfabd53273a7894efb467e120052"
+    },
+    {
+      "id": "C-CHINA-02",
+      "title": "财政部与地方财政",
+      "old_path": "10_concepts/C-CHINA-02.md",
+      "new_path": "10_concepts/财政部与地方财政.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "b7c3ddbdafad4472e4f483138594fa8e012b5bbf9c9826a0af323eb001de6165",
+      "after_sha256": "07f3a8b75e255006d7177a72f5da6e119763b2bc40e42313aad99404546cb3f7"
+    },
+    {
+      "id": "C-CN-TSF",
+      "title": "社会融资规模",
+      "old_path": "10_concepts/C-CN-TSF.md",
+      "new_path": "10_concepts/社会融资规模.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "087200f217ec0dbe853776ce08c8ee0d6dd3e22d91b255a73d81e08e0905ecfe",
+      "after_sha256": "32cee83cc0ebf9251b12a2698fc5c6c3a55b489bdec22079f6ebd1aeb20e9357"
+    },
+    {
+      "id": "C-CHINA-05",
+      "title": "人民币贷款与票据融资",
+      "old_path": "10_concepts/C-CHINA-05.md",
+      "new_path": "10_concepts/人民币贷款与票据融资.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "0f9b78ce9ac53225f567b46d3e498a02015941240977b4e7b25adce2aa5b90b8",
+      "after_sha256": "284322487b32ef620b576821637c590579e18522286a9fdd4f34957c5165eb87"
+    },
+    {
+      "id": "C-CHINA-06",
+      "title": "存款准备金率与降准",
+      "old_path": "10_concepts/C-CHINA-06.md",
+      "new_path": "10_concepts/存款准备金率与降准.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "9790a7e1fb887c8ceb7b049d5525f86d7022151002abfbfd4012eec43785e46b",
+      "after_sha256": "f6f1b98058d91988d0cecae2d250198fb13ec4f00c8df92b09614cb7f199d247"
+    },
+    {
+      "id": "C-CHINA-07",
+      "title": "MLF、逆回购与结构性工具",
+      "old_path": "10_concepts/C-CHINA-07.md",
+      "new_path": "10_concepts/MLF、逆回购与结构性工具.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "8877855a40d9895c1f99f776a207a25359a863d32a906e9c457c7f8fc50f2c6b",
+      "after_sha256": "1f255a192bae611ccd77b06fb8261b812a6af9dc2ba61ed1b62017a98f970e30"
+    },
+    {
+      "id": "C-CHINA-08",
+      "title": "LPR与贷款定价",
+      "old_path": "10_concepts/C-CHINA-08.md",
+      "new_path": "10_concepts/LPR与贷款定价.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "11975e04101f2e3678a30d70438d29bd33c8219a48652ce50f65030b98811cf8",
+      "after_sha256": "ea8ae58fcdb34cb0a1e4ac00981c8b05d1ff3bd9da0bd153e2da71948bcd8ad8"
+    },
+    {
+      "id": "C-CHINA-09",
+      "title": "DR007、R007与同业存单",
+      "old_path": "10_concepts/C-CHINA-09.md",
+      "new_path": "10_concepts/DR007、R007与同业存单.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "7f95472f029a7f2bb848f274bca7900d284f9480fb56f4a407bef5f96ba40847",
+      "after_sha256": "91c83000d4ece29e41fd0b27e8d7700d58f2d112c020a4bf76647e694af6698b"
+    },
+    {
+      "id": "C-CHINA-10",
+      "title": "汇率中间价与跨境宏观审慎",
+      "old_path": "10_concepts/C-CHINA-10.md",
+      "new_path": "10_concepts/汇率中间价与跨境宏观审慎.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "8cccb5ac0329de6b45aef87b5e2389d3bbf6b76391c48137eb1c754cff0c0fa6",
+      "after_sha256": "5b560c719051310acb818b9bf05836273e9e76d4dbb64eebb4f64406fffe56fe"
+    },
+    {
+      "id": "C-CHINA-11",
+      "title": "土地财政",
+      "old_path": "10_concepts/C-CHINA-11.md",
+      "new_path": "10_concepts/土地财政.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "161531a16111d7735268ff0c8f2246b1e19619505b6552cf95c561e8ba885111",
+      "after_sha256": "53f6d8181eb99798d6cf053c58cc0d5198aa1ea6c8e75c7ed60c6caa2bec64b4"
+    },
+    {
+      "id": "C-CHINA-12",
+      "title": "地方融资平台LGFV",
+      "old_path": "10_concepts/C-CHINA-12.md",
+      "new_path": "10_concepts/地方融资平台LGFV.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "e96e7312b2e71281a5a1488ff2a06c1fc5af7b6d2e4d054286c83636528bb6e5",
+      "after_sha256": "c53cfd9459c571d0a7ac7907c6a95c9617cc08013af14ceb62cf0694a955a710"
+    },
+    {
+      "id": "C-CHINA-13",
+      "title": "地方债务置换与化债",
+      "old_path": "10_concepts/C-CHINA-13.md",
+      "new_path": "10_concepts/地方债务置换与化债.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "a2af780d6518842739d185df61b517b6da5e6a6249b56ebf6cbec7249fad400d",
+      "after_sha256": "4975cc1e6b3571cea46d607b82b2057cf71ca26188abb2dfe3a9ea6d9adc4fe4"
+    },
+    {
+      "id": "C-CHINA-14",
+      "title": "房地产预售与保交楼",
+      "old_path": "10_concepts/C-CHINA-14.md",
+      "new_path": "10_concepts/房地产预售与保交楼.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "9726199df5bdf4349ea89a7fa91ed5832d7e31400e965a91e18f9b445281f72f",
+      "after_sha256": "df8502609d232334982c61f6b03844fd667c59d7560c1a0a89663872fbba8610"
+    },
+    {
+      "id": "C-CHINA-15",
+      "title": "房地产融资与住房按揭",
+      "old_path": "10_concepts/C-CHINA-15.md",
+      "new_path": "10_concepts/房地产融资与住房按揭.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "3b591ac47b6ed198d9d51f36873fb1a53224744b8edce8b31426106b5ba922c1",
+      "after_sha256": "5cb8a0e21c278ec325334bb57dd00b7223e7607ce67fb3f536f3e06313aa71da"
+    },
+    {
+      "id": "C-CHINA-18",
+      "title": "产业政策与政府引导基金",
+      "old_path": "10_concepts/C-CHINA-18.md",
+      "new_path": "10_concepts/产业政策与政府引导基金.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "38e55d4b0651bc6f027ddc467dd019b9de6bc987ed8218db15fb4ab8a1acc8ac",
+      "after_sha256": "d4e6b2f685df611fd59eb4489ce996df72c682c36ef5491e16934fa23d151495"
+    },
+    {
+      "id": "C-CHINA-19",
+      "title": "国企央企与资本回报考核",
+      "old_path": "10_concepts/C-CHINA-19.md",
+      "new_path": "10_concepts/国企央企与资本回报考核.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "25d6c8ad97648011f6327b332af8087ba88214b41fc50e1894cb588613ed7cbe",
+      "after_sha256": "af9291a8465c8de4cca5a5531ab4900f565b28738c1d0932b291b99819f9444f"
+    },
+    {
+      "id": "C-ASIA-01",
+      "title": "A股市场",
+      "old_path": "10_concepts/C-ASIA-01.md",
+      "new_path": "10_concepts/A股市场.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "cadba493dcd329d8cd4ecbe39ced919b72c2b07a2d0764d49621b26db1d16252",
+      "after_sha256": "37d16c08084ea19e23f890892f5709595b8ee043bcd22e532b726bfeab9f2464"
+    },
+    {
+      "id": "C-ASIA-02",
+      "title": "港股市场",
+      "old_path": "10_concepts/C-ASIA-02.md",
+      "new_path": "10_concepts/港股市场.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "e3d9ffcfb401346d4abbc81d1757def50a9795d935340fff013dd98d3c3b8323",
+      "after_sha256": "f78b0ab649990fcd27c209848d444ab8f27d21188a0367b1ffb495c90716e1c1"
+    },
+    {
+      "id": "C-ASIA-03",
+      "title": "沪深港通与南北向资金",
+      "old_path": "10_concepts/C-ASIA-03.md",
+      "new_path": "10_concepts/沪深港通与南北向资金.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "74187a7bced50bc877dbb0939888dd7fdcb1822c0c563aa2a98ad81e68a797dc",
+      "after_sha256": "9f964b235b7a46828d57e85bb58c901d313a0068ad420ccc541a6ca217c55c1f"
+    },
+    {
+      "id": "C-ASIA-04",
+      "title": "宽基ETF",
+      "old_path": "10_concepts/C-ASIA-04.md",
+      "new_path": "10_concepts/宽基ETF.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "95eb26f9925531fb028a6cc1d184e5e0b02dc4a7474a9f4abca05626b202ed1a",
+      "after_sha256": "4d437f2069646c640ae571bb1120a4ffee65d6c7d4a8c931d6a847af16f4c31d"
+    },
+    {
+      "id": "C-ASIA-05",
+      "title": "红利资产与高股息指数",
+      "old_path": "10_concepts/C-ASIA-05.md",
+      "new_path": "10_concepts/红利资产与高股息指数.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "a6877c39e966825401621a7dcb21a7c10e645392f0d15cc1a5ed7b614ffcaf76",
+      "after_sha256": "af5666b36f0a8888d3d011ef32a2c57811652b25d54f675eb0b96edcfa8761d0"
+    },
+    {
+      "id": "C-ASIA-06",
+      "title": "保险资金与长期资金",
+      "old_path": "10_concepts/C-ASIA-06.md",
+      "new_path": "10_concepts/保险资金与长期资金.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "8abc2632653384a3e1d6acf0a5ac45bd78b386e17db0f48230a66f996017158c",
+      "after_sha256": "f6f29a57524d2ef7929c4c4a79ff04d32b60f94b6615d5a9efbdb64400ba23ef"
+    },
+    {
+      "id": "C-ASIA-07",
+      "title": "社保基金与政策性持有主体",
+      "old_path": "10_concepts/C-ASIA-07.md",
+      "new_path": "10_concepts/社保基金与政策性持有主体.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "2f3912e3fa8ea30c57c1b4a899c0424fcf8ca03bb237f2b6312acbdfc620bf5d",
+      "after_sha256": "555ac8943f699baeb2239173b12ee072f27ae0a2052131c6c7b4803014f28a39"
+    },
+    {
+      "id": "C-ASIA-08",
+      "title": "涨跌停、T+1与停复牌",
+      "old_path": "10_concepts/C-ASIA-08.md",
+      "new_path": "10_concepts/涨跌停、T+1与停复牌.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "d22505e1c355afd347c2b7b55fc09be49d970714651498445dffc3ce33458f34",
+      "after_sha256": "c6e8475120587c6824e6a140087d3ea6729c8b52ae32a317428ed1eb0588951d"
+    },
+    {
+      "id": "C-ASIA-09",
+      "title": "IPO、再融资与退市",
+      "old_path": "10_concepts/C-ASIA-09.md",
+      "new_path": "10_concepts/IPO、再融资与退市.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "91be4f78463fbc2d45efd355e8595c00a954916af44dc793765480078e9c68c0",
+      "after_sha256": "622a459504cfa0f3a49f5b728f6cd24d7ba7fe70e7731bff2d82e53f591025af"
+    },
+    {
+      "id": "C-ASIA-10",
+      "title": "A/H溢价",
+      "old_path": "10_concepts/C-ASIA-10.md",
+      "new_path": "10_concepts/A／H溢价.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "48fb453a522c65edb72fd1b4034165124ea869a0ddaba10868372a434ea977f4",
+      "after_sha256": "4df8ec300fe9865899f5e3172bdefdd76b165c993721870cbafe98f6b4a558c4"
+    },
+    {
+      "id": "C-ASIA-11",
+      "title": "恒生指数与恒生科技指数",
+      "old_path": "10_concepts/C-ASIA-11.md",
+      "new_path": "10_concepts/恒生指数与恒生科技指数.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-ASIA-12",
+      "title": "日本银行与YCC",
+      "old_path": "10_concepts/C-ASIA-12.md",
+      "new_path": "10_concepts/日本银行与YCC.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "b657a72538933ab52242051a48724f7a59b6b7b9f623247b02db6f96c8f75ec8",
+      "after_sha256": "be925dbc8cfdf80bfacc09c88e55a3b4cb761122b0b44169ce5276f2f88e4521"
+    },
+    {
+      "id": "C-GLOBAL-01",
+      "title": "美联储与FOMC",
+      "old_path": "10_concepts/C-GLOBAL-01.md",
+      "new_path": "10_concepts/美联储与FOMC.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "dd1f49d5878cd7214965fb2f27af295ecd805bdfdbb229c4fc5fe7e27476325c",
+      "after_sha256": "db449485e03d3bc1d083f6b1f47ebe0e58935196acae28cf54e078eaa1d2ffe7"
+    },
+    {
+      "id": "C-GLOBAL-02",
+      "title": "美国财政部",
+      "old_path": "10_concepts/C-GLOBAL-02.md",
+      "new_path": "10_concepts/美国财政部.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "29d11851a3561a02b7400e1078cac00b15de7d3202c08571be7030dcacfc5742",
+      "after_sha256": "15f00ac6f54b48e7814030bc91f64052d197b97eeeedd00383f70e6498068cbf"
+    },
+    {
+      "id": "C-GLOBAL-03",
+      "title": "美国国会与行政部门",
+      "old_path": "10_concepts/C-GLOBAL-03.md",
+      "new_path": "10_concepts/美国国会与行政部门.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "15febd04914550e3759c375ef539fc0bcf4c251f905bbb3006e99fdceeaeb436",
+      "after_sha256": "956798a0fe0884d043219fcfefec3f69e4463f666e776d6e07fface653e7864e"
+    },
+    {
+      "id": "C-GLOBAL-04",
+      "title": "民主党与共和党",
+      "old_path": "10_concepts/C-GLOBAL-04.md",
+      "new_path": "10_concepts/民主党与共和党.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "180cd40d4624a79c0efdf5cffa67bd7cc0d72bf88841ff39f096a7496e5f6131",
+      "after_sha256": "0d193d7c5fb2e323863a20a557bdff656ff9a8e8a759d6095e0661dda033eb12"
+    },
+    {
+      "id": "C-GLOBAL-05",
+      "title": "欧洲央行与欧元区成员国",
+      "old_path": "10_concepts/C-GLOBAL-05.md",
+      "new_path": "10_concepts/欧洲央行与欧元区成员国.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "42dabf61c3bcca7f6d2dcc1bb430b238aaf8fbc22069bebd4c11cdfbc45db77d",
+      "after_sha256": "0993a2dd2f9f530b372ba344a59788ca6c01fc6827daf05938b7255241fb004d"
+    },
+    {
+      "id": "C-GLOBAL-07",
+      "title": "IMF、世界银行与BIS",
+      "old_path": "10_concepts/C-GLOBAL-07.md",
+      "new_path": "10_concepts/IMF、世界银行与BIS.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "7712ec1dd3c4054ea1ae39e974f3c294e471b7eecb6d8b4293e9664c1a419e5b",
+      "after_sha256": "aa8fafa84dec9394f24df7c5df29bd41573107168a067398d41a735b5f0c8bee"
+    },
+    {
+      "id": "C-GLOBAL-09",
+      "title": "出口管制与技术限制",
+      "old_path": "10_concepts/C-GLOBAL-09.md",
+      "new_path": "10_concepts/出口管制与技术限制.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "a41c12b21f7f38e9a9070419b53798f8094f0113b2a0be4be4fed9161219c235",
+      "after_sha256": "ef4d678e56420b4c674fe4efa8fde9f1dc76382ef0814c16182e9be38ca04894"
+    },
+    {
+      "id": "C-GLOBAL-13",
+      "title": "国际支付与清算体系",
+      "old_path": "10_concepts/C-GLOBAL-13.md",
+      "new_path": "10_concepts/国际支付与清算体系.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-01",
+      "title": "人工智能算力",
+      "old_path": "10_concepts/C-TECH-01.md",
+      "new_path": "10_concepts/人工智能算力.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-02",
+      "title": "GPU与AI加速器",
+      "old_path": "10_concepts/C-TECH-02.md",
+      "new_path": "10_concepts/GPU与AI加速器.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-03",
+      "title": "云服务与超大规模云厂商",
+      "old_path": "10_concepts/C-TECH-03.md",
+      "new_path": "10_concepts/云服务与超大规模云厂商.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-04",
+      "title": "数据中心",
+      "old_path": "10_concepts/C-TECH-04.md",
+      "new_path": "10_concepts/数据中心.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-05",
+      "title": "电力、电网与发电容量",
+      "old_path": "10_concepts/C-TECH-05.md",
+      "new_path": "10_concepts/电力、电网与发电容量.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-06",
+      "title": "HBM与存储芯片",
+      "old_path": "10_concepts/C-TECH-06.md",
+      "new_path": "10_concepts/HBM与存储芯片.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-07",
+      "title": "晶圆制造与先进制程",
+      "old_path": "10_concepts/C-TECH-07.md",
+      "new_path": "10_concepts/晶圆制造与先进制程.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-08",
+      "title": "先进封装与CoWoS",
+      "old_path": "10_concepts/C-TECH-08.md",
+      "new_path": "10_concepts/先进封装与CoWoS.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-09",
+      "title": "半导体设备与材料",
+      "old_path": "10_concepts/C-TECH-09.md",
+      "new_path": "10_concepts/半导体设备与材料.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-10",
+      "title": "光模块、交换机与网络互联",
+      "old_path": "10_concepts/C-TECH-10.md",
+      "new_path": "10_concepts/光模块、交换机与网络互联.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-11",
+      "title": "散热与液冷",
+      "old_path": "10_concepts/C-TECH-11.md",
+      "new_path": "10_concepts/散热与液冷.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-17",
+      "title": "NVIDIA",
+      "old_path": "10_concepts/C-TECH-17.md",
+      "new_path": "10_concepts/NVIDIA.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-18",
+      "title": "AMD",
+      "old_path": "10_concepts/C-TECH-18.md",
+      "new_path": "10_concepts/AMD.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-19",
+      "title": "Microsoft",
+      "old_path": "10_concepts/C-TECH-19.md",
+      "new_path": "10_concepts/Microsoft.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-20",
+      "title": "Amazon",
+      "old_path": "10_concepts/C-TECH-20.md",
+      "new_path": "10_concepts/Amazon.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-21",
+      "title": "Alphabet",
+      "old_path": "10_concepts/C-TECH-21.md",
+      "new_path": "10_concepts/Alphabet.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-22",
+      "title": "Meta",
+      "old_path": "10_concepts/C-TECH-22.md",
+      "new_path": "10_concepts/Meta.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-23",
+      "title": "Apple",
+      "old_path": "10_concepts/C-TECH-23.md",
+      "new_path": "10_concepts/Apple.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-24",
+      "title": "Tesla",
+      "old_path": "10_concepts/C-TECH-24.md",
+      "new_path": "10_concepts/Tesla.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-25",
+      "title": "TSMC",
+      "old_path": "10_concepts/C-TECH-25.md",
+      "new_path": "10_concepts/TSMC.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-26",
+      "title": "ASML",
+      "old_path": "10_concepts/C-TECH-26.md",
+      "new_path": "10_concepts/ASML.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-27",
+      "title": "Samsung Electronics",
+      "old_path": "10_concepts/C-TECH-27.md",
+      "new_path": "10_concepts/Samsung Electronics.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-28",
+      "title": "SK hynix",
+      "old_path": "10_concepts/C-TECH-28.md",
+      "new_path": "10_concepts/SK hynix.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-29",
+      "title": "Micron",
+      "old_path": "10_concepts/C-TECH-29.md",
+      "new_path": "10_concepts/Micron.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-30",
+      "title": "腾讯",
+      "old_path": "10_concepts/C-TECH-30.md",
+      "new_path": "10_concepts/腾讯.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-31",
+      "title": "阿里巴巴",
+      "old_path": "10_concepts/C-TECH-31.md",
+      "new_path": "10_concepts/阿里巴巴.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-32",
+      "title": "百度",
+      "old_path": "10_concepts/C-TECH-32.md",
+      "new_path": "10_concepts/百度.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-33",
+      "title": "中芯国际",
+      "old_path": "10_concepts/C-TECH-33.md",
+      "new_path": "10_concepts/中芯国际.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-TECH-34",
+      "title": "寒武纪",
+      "old_path": "10_concepts/C-TECH-34.md",
+      "new_path": "10_concepts/寒武纪.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-SECTOR-01",
+      "title": "商业银行业",
+      "old_path": "10_concepts/C-SECTOR-01.md",
+      "new_path": "10_concepts/商业银行业.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-SECTOR-02",
+      "title": "保险业",
+      "old_path": "10_concepts/C-SECTOR-02.md",
+      "new_path": "10_concepts/保险业.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-SECTOR-03",
+      "title": "证券与资管业",
+      "old_path": "10_concepts/C-SECTOR-03.md",
+      "new_path": "10_concepts/证券与资管业.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-SECTOR-04",
+      "title": "电力与公用事业",
+      "old_path": "10_concepts/C-SECTOR-04.md",
+      "new_path": "10_concepts/电力与公用事业.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-SECTOR-06",
+      "title": "房地产开发与物业",
+      "old_path": "10_concepts/C-SECTOR-06.md",
+      "new_path": "10_concepts/房地产开发与物业.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-SECTOR-12",
+      "title": "REITs与基础设施资产",
+      "old_path": "10_concepts/C-SECTOR-12.md",
+      "new_path": "10_concepts/REITs与基础设施资产.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-SECTOR-13",
+      "title": "养老金与退休负债",
+      "old_path": "10_concepts/C-SECTOR-13.md",
+      "new_path": "10_concepts/养老金与退休负债.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-CRYPTO-01",
+      "title": "比特币",
+      "old_path": "10_concepts/C-CRYPTO-01.md",
+      "new_path": "10_concepts/比特币.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-CRYPTO-02",
+      "title": "以太坊与智能合约平台",
+      "old_path": "10_concepts/C-CRYPTO-02.md",
+      "new_path": "10_concepts/以太坊与智能合约平台.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-CRYPTO-03",
+      "title": "稳定币",
+      "old_path": "10_concepts/C-CRYPTO-03.md",
+      "new_path": "10_concepts/稳定币.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-CRYPTO-04",
+      "title": "数字资产交易所与托管",
+      "old_path": "10_concepts/C-CRYPTO-04.md",
+      "new_path": "10_concepts/数字资产交易所与托管.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-CRYPTO-05",
+      "title": "加密资产杠杆与永续合约",
+      "old_path": "10_concepts/C-CRYPTO-05.md",
+      "new_path": "10_concepts/加密资产杠杆与永续合约.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-CRYPTO-06",
+      "title": "现货加密ETF",
+      "old_path": "10_concepts/C-CRYPTO-06.md",
+      "new_path": "10_concepts/现货加密ETF.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-CRYPTO-08",
+      "title": "代币化国债与现实资产RWA",
+      "old_path": "10_concepts/C-CRYPTO-08.md",
+      "new_path": "10_concepts/代币化国债与现实资产RWA.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "C-CRYPTO-09",
+      "title": "比特币挖矿、区块奖励与矿工",
+      "old_path": "10_concepts/C-CRYPTO-09.md",
+      "new_path": "10_concepts/比特币挖矿、区块奖励与矿工.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-MEAS-BEI",
+      "title": "通胀补偿的定价分解",
+      "old_path": "20_mechanisms/R-MEAS-BEI.md",
+      "new_path": "20_mechanisms/通胀补偿的定价分解.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "e48a68fd1873f334d84ddb31b8deb484084d8d71026c427aa105cf49a564f8c5",
+      "after_sha256": "0723e0641f536f6cea8128f9f2db2f582824605a414502a5aa0b77090f2d0e92"
+    },
+    {
+      "id": "R-POL-CURVE",
+      "title": "货币政策冲击的期限结构传导",
+      "old_path": "20_mechanisms/R-POL-CURVE.md",
+      "new_path": "20_mechanisms/货币政策冲击的期限结构传导.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "4e793038edaac0fcfe2818fe65377b747aeb1a808fc89d77768e6ce8fdb48e75",
+      "after_sha256": "b6634e105c117e4673464e473e6bc7d92b7d87af00d05fb2792560923a892d2f"
+    },
+    {
+      "id": "R-POL-INFORMATION",
+      "title": "央行公告的政策效应与信息效应",
+      "old_path": "20_mechanisms/R-POL-INFORMATION.md",
+      "new_path": "20_mechanisms/央行公告的政策效应与信息效应.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "c4e7e1144e1108d9832d09de4f9d10e5ee566e658d01fcd9a404f619104ac182",
+      "after_sha256": "fc0563cc4d1a9b4c27f41222168c3837f2fc433eeac534e4d03d73c522226b9c"
+    },
+    {
+      "id": "R-QE-DURATION",
+      "title": "QE的久期风险转移",
+      "old_path": "20_mechanisms/R-QE-DURATION.md",
+      "new_path": "20_mechanisms/QE的久期风险转移.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "24f36c6840b67e92d4ebe20d2e3947d6403fdfa0252c313eee634ce2e64e6356",
+      "after_sha256": "b0a0cb4cc6bc5a189862b7e15a049e218ee3e1dba6c174c9f4016cc32d84e96c"
+    },
+    {
+      "id": "R-QT-LIQ",
+      "title": "QT与准备金、ONRRP及资金市场",
+      "old_path": "20_mechanisms/R-QT-LIQ.md",
+      "new_path": "20_mechanisms/QT与准备金、ONRRP及资金市场.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "5dec431d04c888755a6939192aa56aa36c3e7648a1ec8244065ee229eb8c61b7",
+      "after_sha256": "bc404370744cb160b93031454a6dae1020879dca257f13d6da3d673a6772c7c4"
+    },
+    {
+      "id": "R-MONETARY-07",
+      "title": "利率走廊",
+      "old_path": "20_mechanisms/R-MONETARY-07.md",
+      "new_path": "20_mechanisms/利率走廊.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "6ab04d9d977382628dc2302481aab765be35bf0116d0dc7bf13e4a0e7abb3a26",
+      "after_sha256": "d369f718064e89d257d3a3cd45d6000fd584d6ecc39ca0b22cca2e9852a5519b"
+    },
+    {
+      "id": "R-TGA-RESERVES",
+      "title": "TGA收支对准备金的影响",
+      "old_path": "20_mechanisms/R-TGA-RESERVES.md",
+      "new_path": "20_mechanisms/TGA收支对准备金的影响.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "c7c16d197642391c673095a06b404f4daa6d90872a0fe9e2ba1b9c9f493cacad",
+      "after_sha256": "9e8c9d65099621369ed94c165088ed1e08fdff343a589bd4c0f35c44bfef5ad7"
+    },
+    {
+      "id": "R-MONETARY-09",
+      "title": "货币基金在ONRRP与国库券之间的配置",
+      "old_path": "20_mechanisms/R-MONETARY-09.md",
+      "new_path": "20_mechanisms/货币基金在ONRRP与国库券之间的配置.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "9f7308af63b46306210d85b86aa764d3063a4e0c7147437c7d5593c05a4c039e",
+      "after_sha256": "6defabb3b69a58ca0fbd153f45fb239b696aea470600de5d345350aeb4b05044"
+    },
+    {
+      "id": "R-MONETARY-10",
+      "title": "利率上调与存款迁移",
+      "old_path": "20_mechanisms/R-MONETARY-10.md",
+      "new_path": "20_mechanisms/利率上调与存款迁移.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "f09057d49417e91edb0aab13150654faa115e27f89b487bce5ea6b66fb63914f",
+      "after_sha256": "eb14235f42eae5fee763e7a0e3c9222fc94cd418f3d5f311a2de2c2584785824"
+    },
+    {
+      "id": "R-IR-CURVE-SHAPE",
+      "title": "收益率曲线陡峭化与平坦化",
+      "old_path": "20_mechanisms/R-IR-CURVE-SHAPE.md",
+      "new_path": "20_mechanisms/收益率曲线陡峭化与平坦化.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "80aefd6e8ea7d503ed7b941e72fe634e5690c0b50bf9857fe66770998e1f587b",
+      "after_sha256": "0d167f2a8f2925122957cd55aa1a43c05c0aea53c3d7a94bc68bfa0de42ad1c4"
+    },
+    {
+      "id": "R-GROWTH-04",
+      "title": "工资—价格反馈",
+      "old_path": "20_mechanisms/R-GROWTH-04.md",
+      "new_path": "20_mechanisms/工资—价格反馈.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "9404f55a6c433a1b238e95cde3ad4bd9b66a539cb7559e0f3c9aa4e95072969a",
+      "after_sha256": "43644982fa37d5ece52063503b2a116e262a2470b586ec94b7b655a834ffaa8a"
+    },
+    {
+      "id": "R-FISCAL-LONGYIELD",
+      "title": "国债供给的定价机制",
+      "old_path": "20_mechanisms/R-FISCAL-LONGYIELD_fiscal_long_yields.md",
+      "new_path": "20_mechanisms/国债供给的定价机制.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "461365ecbcc9f14e44b12343361b2d789cf6b5f52542fbfe8df3bff6605a8f68",
+      "after_sha256": "2b8de9a478af66edb4e0ab46d95c5c651799530e58f72323d296608ed494f739"
+    },
+    {
+      "id": "R-FISCAL-DEBTDYN",
+      "title": "政府债务动态",
+      "old_path": "20_mechanisms/R-FISCAL-DEBTDYN.md",
+      "new_path": "20_mechanisms/政府债务动态.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "600db776355aa236aeedc34ec5e423ee5ac7b6294272755df71ea587b8259325",
+      "after_sha256": "f79f274bac79f2bcbb6f82d3a7bf1d7b3344cd97dfdb454940a4313530515358"
+    },
+    {
+      "id": "R-FISCAL-07",
+      "title": "国债供给与抵押品便利收益定价",
+      "old_path": "20_mechanisms/R-FISCAL-07.md",
+      "new_path": "20_mechanisms/国债供给与抵押品便利收益定价.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "970cb5aa13fc52837637e03f26e9c52e9bb865aafb01cf3028853c2bd3d587f7",
+      "after_sha256": "5045746052518a6452716f0b16a2d79dbbb9af94732f67d53aa945975c854e5b"
+    },
+    {
+      "id": "R-FISCAL-08",
+      "title": "债务上限风险的短券定价",
+      "old_path": "20_mechanisms/R-FISCAL-08.md",
+      "new_path": "20_mechanisms/债务上限风险的短券定价.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "7083d9c25ea3c3448513b938bb5370bb1bc0582583dee7b77dbcd2f5a46e83c7",
+      "after_sha256": "7b9eb63a389f7cf277942304d52d9fd234cb2eae92c8d1c22dfa5dd5883a5b28"
+    },
+    {
+      "id": "R-FISCAL-10",
+      "title": "财政主导与通胀预期",
+      "old_path": "20_mechanisms/R-FISCAL-10.md",
+      "new_path": "20_mechanisms/财政主导与通胀预期.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "71d8d085081f4945799ca6be21ab6f89aec93a1634250677d2ca4c0e36c5e6db",
+      "after_sha256": "78f3d85a75cc29a94514dce6a969fbf024a95d5a6f3817158af3118ab28f7453"
+    },
+    {
+      "id": "R-FISCAL-11",
+      "title": "主权信用与银行资产负债表反馈",
+      "old_path": "20_mechanisms/R-FISCAL-11.md",
+      "new_path": "20_mechanisms/主权信用与银行资产负债表反馈.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "c77cb8ee0e77809bd0ca8a69627187290d98e3b1b64816ef41bd0c0614cb12e6",
+      "after_sha256": "7c51a0dc353b8d12e396277fc455962b91fa2c3fcf63712e567630f63a453a9f"
+    },
+    {
+      "id": "R-BANKING-01",
+      "title": "银行信贷的资本约束",
+      "old_path": "20_mechanisms/R-BANKING-01.md",
+      "new_path": "20_mechanisms/银行信贷的资本约束.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "90afce3583bffdb65286ea382facb21ec20a5a5cff4db5c390770b895044402d",
+      "after_sha256": "f7f64d12f0204ae4012b63445d27bf613735a96c3eefe39b7952732934744e3a"
+    },
+    {
+      "id": "R-BANKING-02",
+      "title": "银行负债成本、资产重定价与息差",
+      "old_path": "20_mechanisms/R-BANKING-02.md",
+      "new_path": "20_mechanisms/银行负债成本、资产重定价与息差.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "dd58547b85f1f1b3ae4bdd7340be229f78f9b294aa3927787d652fc4c9ca4a72",
+      "after_sha256": "b7c1561271464ce0c5e3c16d530174d5a16856d88fa95b58b51bc59c5e8eefd9"
+    },
+    {
+      "id": "R-CREDIT-COLLATERAL",
+      "title": "金融加速器",
+      "old_path": "20_mechanisms/R-CREDIT-COLLATERAL.md",
+      "new_path": "20_mechanisms/金融加速器.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "c1d3b1bb86ee55f0b6700a2a2a8a14edad7ed0782bdeb5e357ad8637ead96630",
+      "after_sha256": "ea9da5471448712e6c0e1c2523701b9fd207a9df3857d0106eb7f329dbf6655a"
+    },
+    {
+      "id": "R-LIQ-SPIRAL",
+      "title": "保证金驱动的流动性螺旋",
+      "old_path": "20_mechanisms/R-LIQ-SPIRAL.md",
+      "new_path": "20_mechanisms/保证金驱动的流动性螺旋.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "0121bbabe5403a7ea37917a8a831bafc2d9b537175f3ca4e9d5abc7c3e5604c5",
+      "after_sha256": "20be8f5f75ace64ee4031a319cc3f0f2aee902b8a3c116895dfa59b75db29576"
+    },
+    {
+      "id": "R-BANKING-05",
+      "title": "流动性错配下的挤兑机制",
+      "old_path": "20_mechanisms/R-BANKING-05.md",
+      "new_path": "20_mechanisms/流动性错配下的挤兑机制.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "cd1dde976be9bf5c75e3c090cac70d88534f071da42dfddab02f370d2d8050b0",
+      "after_sha256": "d2394d0188fefc307815c4a62619c34fbcaad4fda8a154a7c8cbe3bbcceca704"
+    },
+    {
+      "id": "R-DEBT-DEFLATION",
+      "title": "债务通缩",
+      "old_path": "20_mechanisms/R-DEBT-DEFLATION.md",
+      "new_path": "20_mechanisms/债务通缩.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "f17b36e6ec2b086a86b060094f11eff8b970237a77f22d05cd8c9cc7479b27c0",
+      "after_sha256": "4465114c3f3958855b0817cc07914f2e582765e2d6edaf4231ee0f3755509e59"
+    },
+    {
+      "id": "R-BANKING-09",
+      "title": "证券化中的风险转移与激励",
+      "old_path": "20_mechanisms/R-BANKING-09.md",
+      "new_path": "20_mechanisms/证券化中的风险转移与激励.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "b1f82af5370d380c73351fea7cbfc0f717a9db293c7ff1c359d77104ea9f5cc2",
+      "after_sha256": "f2b9a7c099aeaf4feb275b6d989fa4947db79fc9f8fb34950584c94aa529ff77"
+    },
+    {
+      "id": "R-BANKING-10",
+      "title": "最后贷款人的危机干预",
+      "old_path": "20_mechanisms/R-BANKING-10.md",
+      "new_path": "20_mechanisms/最后贷款人的危机干预.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "e5873658208b897b18025b524e1668d1167e9b9f024ba42b9d56ebca0e7df613",
+      "after_sha256": "06fd96606e7e27a07fc151046fba17f2a3d5f339dc0d174a4ff1fb89d1054731"
+    },
+    {
+      "id": "R-BANKING-12",
+      "title": "金融周期中的系统性风险积累与扩散",
+      "old_path": "20_mechanisms/R-BANKING-12.md",
+      "new_path": "20_mechanisms/金融周期中的系统性风险积累与扩散.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "c6fe2b1bc9059227f8ccee7dc13293804f9826d76de2a13f78b8b35a38125b05",
+      "after_sha256": "90edcb7d9e04a2b77e62d271f2c8c0b1dbab4e53fce36b05977af0d097c3d957"
+    },
+    {
+      "id": "R-FX-PARITY",
+      "title": "利率平价",
+      "old_path": "20_mechanisms/R-FX-PARITY.md",
+      "new_path": "20_mechanisms/利率平价.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "86add85050ae85fa7714062b17e5ba27d08e06fd91786707c393b4ad1482a1a9",
+      "after_sha256": "83b6787aab716bda58fa4cc95fb184e0cce16d1c82aa3739d1bfe486965b6547"
+    },
+    {
+      "id": "R-USD-GLOBAL",
+      "title": "美元融资依赖的传导机制",
+      "old_path": "20_mechanisms/R-USD-GLOBAL.md",
+      "new_path": "20_mechanisms/美元融资依赖的传导机制.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "4aea6cdc2dd5d6061653a957dc113714016a9d02a54ea3db6bd393b817ad5b67",
+      "after_sha256": "0923eb99a2d294fca6668e088a3ae47b4c7fa25cf3adc3543f79c6924d9bdbdf"
+    },
+    {
+      "id": "R-INTERNATIONAL-05",
+      "title": "美元互换额度对跨币种基差的影响",
+      "old_path": "20_mechanisms/R-INTERNATIONAL-05.md",
+      "new_path": "20_mechanisms/美元互换额度对跨币种基差的影响.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "3ec25bfcc21af687b7a7e9471d626c6ce8d0f10ed2bb92336f0e51a554138067",
+      "after_sha256": "44764c40801add5fb17a59cb7d2a593c049fc2f0f1aa9359cf716ba68e9d7446"
+    },
+    {
+      "id": "R-JPY-CARRY",
+      "title": "日元套息交易的平仓反馈",
+      "old_path": "20_mechanisms/R-JPY-CARRY.md",
+      "new_path": "20_mechanisms/日元套息交易的平仓反馈.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "041d3d60bfdda5f3eb609d1d756f5bba64a572ff8e426ebb064255731402695d",
+      "after_sha256": "11cacb3982a349d5e47c5fad9e7e695a3b5f343f645ba0eef905d3c1e8a34f4b"
+    },
+    {
+      "id": "R-INTERNATIONAL-07",
+      "title": "汇率对冲成本对跨境债券配置的影响",
+      "old_path": "20_mechanisms/R-INTERNATIONAL-07.md",
+      "new_path": "20_mechanisms/汇率对冲成本对跨境债券配置的影响.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "71d7289bfc6c46ca10711d1be5dd3b690d0a26e860bc8ffda724ba5119c61586",
+      "after_sha256": "041d30ada3f3ef2b0cbc5364820d538e57839b7242dcd2b0257de08245df467c"
+    },
+    {
+      "id": "R-INTERNATIONAL-09",
+      "title": "资本流出、储备干预与本币流动性",
+      "old_path": "20_mechanisms/R-INTERNATIONAL-09.md",
+      "new_path": "20_mechanisms/资本流出、储备干预与本币流动性.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "de80ea57900e7b16c23bbd14a90389d327d3212d0c796b5c04856fa56df9d115",
+      "after_sha256": "d486efd0ee6e343fd213ab00a8a84b405a138dc2fa6bb04a3c3ecce560ca88e0"
+    },
+    {
+      "id": "R-INTERNATIONAL-12",
+      "title": "美元主导地位的形成与维持",
+      "old_path": "20_mechanisms/R-INTERNATIONAL-12.md",
+      "new_path": "20_mechanisms/美元主导地位的形成与维持.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "f2e6544c287d6f40e797b5861ed57dab0dc3f493649f250de55c8ded026334ac",
+      "after_sha256": "0b3ab85ee630a374309699b1f25207d6755e78816a1e159ba084f1cdbc058ae6"
+    },
+    {
+      "id": "R-INTERNATIONAL-13",
+      "title": "美元信用与储备多元化",
+      "old_path": "20_mechanisms/R-INTERNATIONAL-13.md",
+      "new_path": "20_mechanisms/美元信用与储备多元化.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "1a0b821cd05d958a8430ffdcfbef95bff82c1c957b74f9211f509f2c4f298767",
+      "after_sha256": "768b2162e74b79ee23f95b1ade105c56acd415a7aedb69cb74cdb9a5497413d4"
+    },
+    {
+      "id": "R-INTERNATIONAL-14",
+      "title": "港元联系汇率与HIBOR传导",
+      "old_path": "20_mechanisms/R-INTERNATIONAL-14.md",
+      "new_path": "20_mechanisms/港元联系汇率与HIBOR传导.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "36fcea7edfd39b7d04d595da0a46c338a2c4d6c99e944f49f158965062c3a10d",
+      "after_sha256": "16ed7007f66cced0e8205f4d0d568c08f859f75a87460d57d67a68584080b580"
+    },
+    {
+      "id": "R-RMB-INTERNATIONALIZATION",
+      "title": "人民币国际化",
+      "old_path": "20_mechanisms/R-RMB-INTERNATIONALIZATION.md",
+      "new_path": "20_mechanisms/人民币国际化.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "0bdcd82cb5c1142888c97ff7f4851236443c42990171147db69c3b402553ef31",
+      "after_sha256": "95b6141f216752758f382dc25aa94e05ca7dd7d3602c6c3172b1218795857afe"
+    },
+    {
+      "id": "R-EQ-DIVIDEND",
+      "title": "高股息资产的债券替代效应",
+      "old_path": "20_mechanisms/R-EQ-DIVIDEND.md",
+      "new_path": "20_mechanisms/高股息资产的债券替代效应.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "d9a2d402669745af9e22646ee4523fc405e79ff8cb88c3e49e82a0c80a6c71ae",
+      "after_sha256": "a7f2e510cdcd740085d1165fb4d512f4aef0c6acb5f3b1fb3b7d511c563ec3b2"
+    },
+    {
+      "id": "R-EQUITY-14",
+      "title": "并购价差定价",
+      "old_path": "20_mechanisms/R-EQUITY-14.md",
+      "new_path": "20_mechanisms/并购价差定价.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "eb29924447f0edb25a850b36c53b2de6aa237f4da2729569baf84bd32e29aabf",
+      "after_sha256": "1459aa6283366dd8543c1871619409a0d66be121843b211c8315bce68b2b4fc3"
+    },
+    {
+      "id": "R-MARKET-04",
+      "title": "ETF申赎套利",
+      "old_path": "20_mechanisms/R-MARKET-04.md",
+      "new_path": "20_mechanisms/ETF申赎套利.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "e05a8f04b86c155f65386ac36379a8d1edae9b5473f6e80987b3bacba1bf1291",
+      "after_sha256": "e5997ea36ddd7eff4049961d50aa3ce77737ffd9e63349b3b00fba2c2bba0a36"
+    },
+    {
+      "id": "R-MARKET-05",
+      "title": "指数调整的被动资金效应",
+      "old_path": "20_mechanisms/R-MARKET-05.md",
+      "new_path": "20_mechanisms/指数调整的被动资金效应.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "2c211787598cdff50a1aa312345c219df4d53c0dde793eef5819d9577ddc4d9d",
+      "after_sha256": "0110117bd2f7ab37139f2d64358c79aea4535be80085034e1a4a71b08f09755d"
+    },
+    {
+      "id": "R-MARKET-07",
+      "title": "波动率目标策略的顺周期反馈",
+      "old_path": "20_mechanisms/R-MARKET-07.md",
+      "new_path": "20_mechanisms/波动率目标策略的顺周期反馈.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "20d0ea897b51b199d63d2ae0bb12f4128645dd4bbf1afa5d26450ed4cb72ae9b",
+      "after_sha256": "7d71bc7422750997e7e2801a96d9baf77007227b9246269cfb04b60abf37576c"
+    },
+    {
+      "id": "R-MARKET-08",
+      "title": "风险平价与股债相关性变化",
+      "old_path": "20_mechanisms/R-MARKET-08.md",
+      "new_path": "20_mechanisms/风险平价与股债相关性变化.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "f1b35ec456470b98b584407f35d07eb402a6a4bf14664c6ddb7e053566599da8",
+      "after_sha256": "345c4368a93f418e8aa0d561b320cad638d86f76af667e7cb4ee2bba177d458f"
+    },
+    {
+      "id": "R-MARKET-09",
+      "title": "CTA趋势跟随的价格反馈",
+      "old_path": "20_mechanisms/R-MARKET-09.md",
+      "new_path": "20_mechanisms/CTA趋势跟随的价格反馈.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "5f68620ae3b1b6cd2476e7c5a18a704737de284605af49116da7f7ee03f0bfff",
+      "after_sha256": "1eba8cd4bb493279700eadaac7bbe61c5556aa8c92179ddc919114ed0a9d4db6"
+    },
+    {
+      "id": "R-MARKET-11",
+      "title": "新闻传播、投资者注意力与价格延迟反应",
+      "old_path": "20_mechanisms/R-MARKET-11.md",
+      "new_path": "20_mechanisms/新闻传播、投资者注意力与价格延迟反应.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "76154b8df5d96592a6301191454bbe6214b9c3633ac247965f4ed1276e27b416",
+      "after_sha256": "d8a1f16f26a4a00eb9b601287f94633a0877f2c32b80088d4b6017723f35efaa"
+    },
+    {
+      "id": "R-MARKET-13",
+      "title": "涨跌停制度下的跨日价格发现",
+      "old_path": "20_mechanisms/R-MARKET-13.md",
+      "new_path": "20_mechanisms/涨跌停制度下的跨日价格发现.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "a14c556f69c904399c7e59e5ebd174d38c017babc93563e3a2da7553f8ebe3a7",
+      "after_sha256": "24b95e95835bee426e8c851d7b87578111e3f19bbdf9abcc57a17be8000c66b6"
+    },
+    {
+      "id": "R-DERIV-CARRY",
+      "title": "现货期货持有成本定价",
+      "old_path": "20_mechanisms/R-DERIV-CARRY.md",
+      "new_path": "20_mechanisms/现货期货持有成本定价.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "0a34e80cbe19dc813f5a4c7257e302e8f782dd8daf750e8dd83187c7b6bfe45a",
+      "after_sha256": "e64c69ee1649298af37cc543f2c82c3c72cedd6f6f4de58b321c61774c5ab93c"
+    },
+    {
+      "id": "R-DERIVATIVES-02",
+      "title": "基差交易",
+      "old_path": "20_mechanisms/R-DERIVATIVES-02.md",
+      "new_path": "20_mechanisms/基差交易.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "d4aaf32f7508a7a1db051885bbfa946cd3c11020e5767114eed0131a40cc26cc",
+      "after_sha256": "921a79adeb1e882bc2b831a9f2cab898104c2e3ce1875e7550607eb5d55a74cb"
+    },
+    {
+      "id": "R-DERIVATIVES-03",
+      "title": "做市商Gamma对冲的价格反馈",
+      "old_path": "20_mechanisms/R-DERIVATIVES-03.md",
+      "new_path": "20_mechanisms/做市商Gamma对冲的价格反馈.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "0845a62ea2fc441355d0874a539c66733f0749afd295d03eb8a72176bd31f723",
+      "after_sha256": "542a5271e834e28dc5b8ba6391ccb2cfa83978b568a80596100703863a94ba1d"
+    },
+    {
+      "id": "R-DERIVATIVES-06",
+      "title": "波动率风险溢价与卖波收益风险",
+      "old_path": "20_mechanisms/R-DERIVATIVES-06.md",
+      "new_path": "20_mechanisms/波动率风险溢价与卖波收益风险.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "9e14037e32a8a83fc1bc9c65b0e54d44195d8ef46cc459dfe43841493f17573a",
+      "after_sha256": "08dc23bf12d28c5ea3c7b3aa55358a18c2b720a4c705c7a886de92bb24ff21a4"
+    },
+    {
+      "id": "R-DERIVATIVES-07",
+      "title": "偏斜与尾部保险需求",
+      "old_path": "20_mechanisms/R-DERIVATIVES-07.md",
+      "new_path": "20_mechanisms/偏斜与尾部保险需求.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "fd0b1f2996417b2d420a20aa7808eff8be75b9cd88a0a310b54dd6c7e99f4586",
+      "after_sha256": "e3433db069498b3e7952b2c80aac62faa0b5192b26710a7dab03c6de4921ce08"
+    },
+    {
+      "id": "R-DERIVATIVES-10",
+      "title": "MBS负凸性引发的利率对冲反馈",
+      "old_path": "20_mechanisms/R-DERIVATIVES-10.md",
+      "new_path": "20_mechanisms/MBS负凸性引发的利率对冲反馈.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "6e1796a953d06227e86efabd2b89bc489498b75276a01186bef8e6893f4ed0f0",
+      "after_sha256": "ca1d0e7e63d80b97fadbcfae7a051fe16248137e2664bb2b9d51d19d671e159b"
+    },
+    {
+      "id": "R-GOLD-REALRATES",
+      "title": "黄金的机会成本机制",
+      "old_path": "20_mechanisms/R-GOLD-REALRATES_real_rates_gold.md",
+      "new_path": "20_mechanisms/黄金的机会成本机制.md",
+      "existed": true,
+      "tracked_before": true,
+      "before_sha256": "198554c85a21b308b3cc3e531a754d028cbb4083ad3f12b2b52f1ff4f40a774e",
+      "after_sha256": "c8273c23fdbb92d202bfc5153dd703730dbdbc93aa1071f41aaef96609b1b0bb"
+    },
+    {
+      "id": "R-GOLD-03",
+      "title": "央行购金与黄金需求结构",
+      "old_path": "20_mechanisms/R-GOLD-03.md",
+      "new_path": "20_mechanisms/央行购金与黄金需求结构.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "d14d67c7f7dd2cf389850cb9a8dcff497244731de642adce0978de2760a60664",
+      "after_sha256": "8131766c362f00856f6b174ad0d3e0ada758cfd7e2fbb7303dee1aad21a02e15"
+    },
+    {
+      "id": "R-ASSET-STOCKBOND",
+      "title": "股债相关性与通胀/增长主导状态",
+      "old_path": "20_mechanisms/R-ASSET-STOCKBOND.md",
+      "new_path": "20_mechanisms/股债相关性与通胀／增长主导状态.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "2a29b14653056ca1bceee4820091577f659563bcaf137d00d0ac7aa4ff7e5e92",
+      "after_sha256": "2b5058ba6769f6bcda88befa1fcdf9546fcd767b3db777bdc74e8fdc8094d355"
+    },
+    {
+      "id": "R-OIL-SHOCK",
+      "title": "原油供给冲击的宏观传导",
+      "old_path": "20_mechanisms/R-OIL-SHOCK.md",
+      "new_path": "20_mechanisms/原油供给冲击的宏观传导.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "786beed93c29470a55a173579bab35a2986c1c0ed6239042ba59cb67f65bece2",
+      "after_sha256": "c260f7d4faa8e174eeab5c65829419e49bacb640e82220ff36f70bbaebe57fb8"
+    },
+    {
+      "id": "R-COMMODITY-03",
+      "title": "库存与便利收益、期货曲线",
+      "old_path": "20_mechanisms/R-COMMODITY-03.md",
+      "new_path": "20_mechanisms/库存与便利收益、期货曲线.md",
+      "existed": true,
+      "tracked_before": false,
+      "before_sha256": "ac2b28bc05089fffce203ee2610865072c50eb4e1a46cb323fb7254bd7661ba4",
+      "after_sha256": "e6afadf7886b71eb3de0aab4d358f66128c2ceeb6edde28858359293463f8c57"
+    },
+    {
+      "id": "R-COMMODITY-08",
+      "title": "矿业投资与供给的周期反馈",
+      "old_path": "20_mechanisms/R-COMMODITY-08.md",
+      "new_path": "20_mechanisms/矿业投资与供给的周期反馈.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-CHINA-01",
+      "title": "降准的资金与信贷传导",
+      "old_path": "20_mechanisms/R-CHINA-01.md",
+      "new_path": "20_mechanisms/降准的资金与信贷传导.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-CHINA-02",
+      "title": "政策利率的LPR传导渠道",
+      "old_path": "20_mechanisms/R-CHINA-02.md",
+      "new_path": "20_mechanisms/政策利率的LPR传导渠道.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-CN-CREDIT",
+      "title": "社融结构、信用脉冲与实体需求",
+      "old_path": "20_mechanisms/R-CN-CREDIT.md",
+      "new_path": "20_mechanisms/社融结构、信用脉冲与实体需求.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-CN-PROPERTY",
+      "title": "房地产开发的现金流循环",
+      "old_path": "20_mechanisms/R-CN-PROPERTY.md",
+      "new_path": "20_mechanisms/房地产开发的现金流循环.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-CHINA-05",
+      "title": "土地财政的基建融资机制",
+      "old_path": "20_mechanisms/R-CHINA-05.md",
+      "new_path": "20_mechanisms/土地财政的基建融资机制.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-CHINA-06",
+      "title": "地方化债的资产负债表传导",
+      "old_path": "20_mechanisms/R-CHINA-06.md",
+      "new_path": "20_mechanisms/地方化债的资产负债表传导.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-CHINA-12",
+      "title": "存款迁移的债市传导",
+      "old_path": "20_mechanisms/R-CHINA-12.md",
+      "new_path": "20_mechanisms/存款迁移的债市传导.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-CHINA_MARKET-07",
+      "title": "A/H溢价的市场分割机制",
+      "old_path": "20_mechanisms/R-CHINA_MARKET-07.md",
+      "new_path": "20_mechanisms/A／H溢价的市场分割机制.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-TECH-03",
+      "title": "模型效率、推理成本与总算力需求",
+      "old_path": "20_mechanisms/R-TECH-03.md",
+      "new_path": "20_mechanisms/模型效率、推理成本与总算力需求.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-TECH-12",
+      "title": "平台网络效应",
+      "old_path": "20_mechanisms/R-TECH-12.md",
+      "new_path": "20_mechanisms/平台网络效应.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-GEOPOLITICS-02",
+      "title": "关税的跨境成本分担",
+      "old_path": "20_mechanisms/R-GEOPOLITICS-02.md",
+      "new_path": "20_mechanisms/关税的跨境成本分担.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-GEOPOLITICS-07",
+      "title": "养老金资产配置的人口结构约束",
+      "old_path": "20_mechanisms/R-GEOPOLITICS-07.md",
+      "new_path": "20_mechanisms/养老金资产配置的人口结构约束.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-CRYPTO-02",
+      "title": "稳定币发行赎回对短券需求的影响",
+      "old_path": "20_mechanisms/R-CRYPTO-02.md",
+      "new_path": "20_mechanisms/稳定币发行赎回对短券需求的影响.md",
+      "existed": false,
+      "tracked_before": false
+    },
+    {
+      "id": "R-CRYPTO-04",
+      "title": "永续合约的强平瀑布",
+      "old_path": "20_mechanisms/R-CRYPTO-04.md",
+      "new_path": "20_mechanisms/永续合约的强平瀑布.md",
+      "existed": false,
+      "tracked_before": false
+    }
+  ],
+  "frozen_policy": "FIRST_DRAFT, BASELINE_INDEX, INPUT_HASHES, DELIVERY, historical validation reports and history/ are unchanged; resolve old node paths with this map.",
+  "updated_inputs": {
+    "00_start/README.md": {
+      "before_sha256": "38996e05beb1b5ee2c2db040299bc2e741f7a8a3814d070265d7de0fde7e5677",
+      "after_sha256": "e562f86ffe69b891c08c1e7d6db89795f96ca66e1af94692ae3cb38d82277ed1",
+      "reason": "authorized title filenames, navigation, naming instructions, and existing reviewed checkpoint catalog status"
+    },
+    "00_start/AUTHORING_STANDARD.md": {
+      "before_sha256": "78f8c99fa0ce412000487bf3274fdf6785cafa2f4abf42298437e272cb97de46",
+      "after_sha256": "4e97a9af1fd98fd98af5bbce708ea0f343455be43bc15dcb1067307f96bfcb78",
+      "reason": "authorized title filenames, navigation, naming instructions, and existing reviewed checkpoint catalog status"
+    },
+    "00_start/NODE_SELECTION_GUIDE.md": {
+      "before_sha256": "f143df64bccddf5ad35124707125d39431d41c9cd0c65cdfb05029a43f50a0fa",
+      "after_sha256": "01faf582dfe9eae9e51685883ad99dfe842b99fdcf7b6b4a030bf8c67e67c2e5",
+      "reason": "authorized title filenames, navigation, naming instructions, and existing reviewed checkpoint catalog status"
+    },
+    "00_start/templates/CONCEPT_TEMPLATE.md": {
+      "before_sha256": "90b2bf37e8525eb8946f4feb1643ea889b8b7732817db69e6cf2a62f0364ac5a",
+      "after_sha256": "629f0b48c9ff1d4466e4c2a1c5163e1f90f178995e4208ca28b9a616faff235b",
+      "reason": "authorized title filenames, navigation, naming instructions, and existing reviewed checkpoint catalog status"
+    },
+    "00_start/templates/MECHANISM_TEMPLATE.md": {
+      "before_sha256": "e97832999692245ad160773432fceca4e5dae219daca40d063ba8898ce9afee3",
+      "after_sha256": "e6523ee33585f883212f030c42655325161a92628e5065ca91344f1f439ea0d1",
+      "reason": "authorized title filenames, navigation, naming instructions, and existing reviewed checkpoint catalog status"
+    },
+    "00_start/catalog_index.json": {
+      "before_sha256": "88332b41c3e49b56d13fe476536dd3055e74137a5e9bfd89517fe21c794dbe9d",
+      "after_sha256": "f8a927030a7b4e074b1137112c90ff58cefe8380d77a78e9d558f00334c9d1bd",
+      "reason": "authorized title filenames, navigation, naming instructions, and existing reviewed checkpoint catalog status"
+    }
+  }
+}

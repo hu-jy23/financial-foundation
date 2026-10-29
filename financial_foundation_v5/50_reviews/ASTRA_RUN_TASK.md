@@ -9,8 +9,8 @@
 
 ## 负责文档
 
-1. `10_concepts/C-IR-TERM_term_premium.md`：《期限溢价》，历史资料截止保持 2025-05-28。
-2. `20_mechanisms/R-FISCAL-LONGYIELD_fiscal_long_yields.md`：《国债供给的定价机制》，历史资料截止保持 2025-04-30。
+1. `10_concepts/期限溢价.md`：《期限溢价》，历史资料截止保持 2025-05-28。
+2. `20_mechanisms/国债供给的定价机制.md`：《国债供给的定价机制》，历史资料截止保持 2025-04-30。
 
 原包只读目录：`/workspace/scratch/67ddeddcff0c/baseline/financial_foundation_v3/`。
 本次输出包：`/workspace/scratch/67ddeddcff0c/deliverables/financial_foundation_astra_comparison_20261023/`。

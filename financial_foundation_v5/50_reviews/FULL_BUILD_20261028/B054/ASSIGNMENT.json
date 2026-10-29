@@ -9,7 +9,7 @@
       "name": "TGA收支对准备金的影响",
       "scope": "现金流和负债替代",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-TGA-RESERVES.md",
+      "path": "20_mechanisms/TGA收支对准备金的影响.md",
       "node_ids": [
         "C-MONEY-13",
         "C-MONEY-CBBS",
@@ -23,7 +23,7 @@
       "name": "货币基金在ONRRP与国库券之间的配置",
       "scope": "货币基金替代配置",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-MONETARY-09.md",
+      "path": "20_mechanisms/货币基金在ONRRP与国库券之间的配置.md",
       "node_ids": [
         "C-MONEY-14",
         "C-MONEY-19",
@@ -37,7 +37,7 @@
       "name": "利率上调与存款迁移",
       "scope": "存款beta和货币基金替代",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-MONETARY-10.md",
+      "path": "20_mechanisms/利率上调与存款迁移.md",
       "node_ids": [
         "C-IR-POLICY",
         "C-MONEY-19",

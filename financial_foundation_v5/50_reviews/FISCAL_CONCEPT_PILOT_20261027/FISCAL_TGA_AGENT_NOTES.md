@@ -7,8 +7,8 @@
 
 ## 输出
 
-1. `10_concepts/C-FISCAL-DEFICIT_fiscal_primary_deficit.md`
-2. `10_concepts/C-MONEY-13_treasury_general_account.md`
+1. `10_concepts/财政赤字与初级赤字.md`
+2. `10_concepts/财政部一般账户TGA.md`
 3. 本笔记。
 4. 本目录`C-FISCAL-DEFICIT_FIRST_DRAFT.md`、`C-MONEY-13_FIRST_DRAFT.md`为首次交审完整快照；此后退修不覆盖。
 

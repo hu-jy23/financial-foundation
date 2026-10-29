@@ -9,7 +9,7 @@
       "name": "收益率曲线陡峭化与平坦化",
       "scope": "短端政策路径、长端预期与期限溢价怎样改变曲线斜率；区分不同期限和牛熊变化。",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-IR-CURVE-SHAPE.md",
+      "path": "20_mechanisms/收益率曲线陡峭化与平坦化.md",
       "node_ids": [
         "C-IR-CURVE",
         "C-IR-POLICY",
@@ -23,7 +23,7 @@
       "name": "工资—价格反馈",
       "scope": "议价制度与预期锚定",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-GROWTH-04.md",
+      "path": "20_mechanisms/工资—价格反馈.md",
       "node_ids": [
         "C-INF-INFLATION",
         "C-POL-CREDIBILITY"
@@ -35,7 +35,7 @@
       "name": "政府债务动态",
       "scope": "口径一致的债务可持续性",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-FISCAL-DEBTDYN.md",
+      "path": "20_mechanisms/政府债务动态.md",
       "node_ids": [
         "C-FISCAL-DEFICIT"
       ],

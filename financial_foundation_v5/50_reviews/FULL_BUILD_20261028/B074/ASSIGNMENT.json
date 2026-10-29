@@ -9,7 +9,7 @@
       "name": "稳定币发行赎回对短券需求的影响",
       "scope": "储备结构和资金来源",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-CRYPTO-02.md",
+      "path": "20_mechanisms/稳定币发行赎回对短券需求的影响.md",
       "node_ids": [
         "C-CRYPTO-03",
         "C-ASSET-UST",
@@ -22,7 +22,7 @@
       "name": "永续合约的强平瀑布",
       "scope": "资金费率、保证金和深度",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-CRYPTO-04.md",
+      "path": "20_mechanisms/永续合约的强平瀑布.md",
       "node_ids": [
         "C-CRYPTO-05",
         "C-DERIV-14",

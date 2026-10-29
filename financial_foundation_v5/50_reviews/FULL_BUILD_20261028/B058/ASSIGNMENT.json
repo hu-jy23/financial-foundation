@@ -9,7 +9,7 @@
       "name": "金融加速器",
       "scope": "金融加速器",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-CREDIT-COLLATERAL.md",
+      "path": "20_mechanisms/金融加速器.md",
       "node_ids": [
         "C-CREDIT-10"
       ],
@@ -20,7 +20,7 @@
       "name": "保证金驱动的流动性螺旋",
       "scope": "杠杆投资者和共同持仓",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-LIQ-SPIRAL.md",
+      "path": "20_mechanisms/保证金驱动的流动性螺旋.md",
       "node_ids": [
         "C-DERIV-14",
         "C-CREDIT-10",
@@ -33,7 +33,7 @@
       "name": "流动性错配下的挤兑机制",
       "scope": "赎回承诺、资产可售性",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-BANKING-05.md",
+      "path": "20_mechanisms/流动性错配下的挤兑机制.md",
       "node_ids": [
         "C-CREDIT-03",
         "C-CREDIT-15",

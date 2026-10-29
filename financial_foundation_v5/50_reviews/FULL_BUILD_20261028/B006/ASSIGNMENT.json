@@ -9,7 +9,7 @@
       "name": "货币市场基金",
       "scope": "短券、回购与央行工具配置；区分政府型、优质型及各国制度",
       "kind": "concepts",
-      "path": "10_concepts/C-MONEY-19.md",
+      "path": "10_concepts/货币市场基金.md",
       "node_ids": [],
       "group": "货币、央行与流动性"
     },
@@ -18,7 +18,7 @@
       "name": "财政主导",
       "scope": "财政约束对货币政策的影响",
       "kind": "concepts",
-      "path": "10_concepts/C-FISCAL-13.md",
+      "path": "10_concepts/财政主导.md",
       "node_ids": [],
       "group": "财政、政府债务与主权信用"
     },
@@ -27,7 +27,7 @@
       "name": "主权信用风险与CDS",
       "scope": "违约、回收和交易定价",
       "kind": "concepts",
-      "path": "10_concepts/C-FISCAL-14.md",
+      "path": "10_concepts/主权信用风险与CDS.md",
       "node_ids": [],
       "group": "财政、政府债务与主权信用"
     }

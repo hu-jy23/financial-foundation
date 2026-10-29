@@ -9,7 +9,7 @@
       "name": "日本银行与YCC",
       "scope": "政策工具、版本和退出",
       "kind": "concepts",
-      "path": "10_concepts/C-ASIA-12.md",
+      "path": "10_concepts/日本银行与YCC.md",
       "node_ids": [],
       "group": "A股、港股与区域市场制度"
     },
@@ -18,7 +18,7 @@
       "name": "美联储与FOMC",
       "scope": "政策主体、投票和沟通",
       "kind": "concepts",
-      "path": "10_concepts/C-GLOBAL-01.md",
+      "path": "10_concepts/美联储与FOMC.md",
       "node_ids": [],
       "group": "国际制度、政治与地缘"
     },
@@ -27,7 +27,7 @@
       "name": "美国财政部",
       "scope": "融资、现金管理与财政执行",
       "kind": "concepts",
-      "path": "10_concepts/C-GLOBAL-02.md",
+      "path": "10_concepts/美国财政部.md",
       "node_ids": [],
       "group": "国际制度、政治与地缘"
     }

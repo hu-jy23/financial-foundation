@@ -9,7 +9,7 @@
       "name": "抵押品与折扣率haircut",
       "scope": "借款能力与风险控制",
       "kind": "concepts",
-      "path": "10_concepts/C-CREDIT-10.md",
+      "path": "10_concepts/抵押品与折扣率haircut.md",
       "node_ids": [],
       "group": "银行、信用与金融稳定"
     },
@@ -18,7 +18,7 @@
       "name": "影子银行与非银金融",
       "scope": "中介功能与监管边界",
       "kind": "concepts",
-      "path": "10_concepts/C-CREDIT-12.md",
+      "path": "10_concepts/影子银行与非银金融.md",
       "node_ids": [],
       "group": "银行、信用与金融稳定"
     },
@@ -27,7 +27,7 @@
       "name": "证券化与资产支持证券",
       "scope": "现金流分层与风险转移",
       "kind": "concepts",
-      "path": "10_concepts/C-CREDIT-13.md",
+      "path": "10_concepts/证券化与资产支持证券.md",
       "node_ids": [],
       "group": "银行、信用与金融稳定"
     }

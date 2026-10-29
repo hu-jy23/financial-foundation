@@ -1,6 +1,6 @@
 # 制作入口与文件职责（v5）
 
-更新：2026-10-27，国债供给关联Concepts试产。初步建图范围已定稿：163个对象、71个关系／机制，共234个节点。当前已有12份经审阅正文，222份待制作；本批分工和验收见[试产记录](../50_reviews/FISCAL_CONCEPT_PILOT_20261027/MAIN_REVIEW.md)。
+更新：2026-10-29，正文文件统一使用定稿标题命名。范围仍为163个对象、71个关系／机制，共234个节点。当前已有158份经审阅正文（107个对象、51个机制），76份尚未完成主审。分工与审阅凭据见[阶段记录](../50_reviews/FULL_BUILD_20261028/REVIEWED_CHECKPOINT_20261028.md)，文件规则见[文件命名](FILE_NAMING.md)。
 
 ## 从哪里开始
 
@@ -19,14 +19,14 @@
 |---|---|
 | `concepts`、`mechanisms` | 当前163个对象与71个关系；按这些条目制作正文。 |
 | `selection_status: confirmed_initial_build` | 已入选本次建图范围。 |
-| `status: pending / complete` | 正文待制作／已有经审阅正文；`complete`仍须结合证据截止及缺口阅读。 |
+| `status: pending / complete` | 正文尚未完成主审（未写或已有待审稿）／已有经审阅正文；`complete`仍须结合证据截止及缺口阅读。 |
 | `node_ids` | 关系所连接的入选对象ID。普通变量进入解释，不补成对象节点。 |
 | `related_mechanism_ids` | 相关的入选关系ID，与关联对象分开。 |
 | `context_terms` | 正文变量及旧术语的追溯记录，不是制作队列。 |
 | `logic_groups` | 已有关系正文中的逻辑组；与正文的节点及锚点同步。 |
 | `excluded_concepts`、`excluded_mechanisms`、`deferred` | 历史去向和排除记录，不安排独立节点正文。 |
 
-`build_baseline`保留2026-10-25起点计数，当前进度以`counts`与`build_progress`为准。索引中的`path`与`catalog_ref`以`00_start/`为相对路径基准。未写节点先链接正式目录的ID锚点；已有正文时使用实际文件路径。引用来源或Event时定位到具体内容。
+`build_baseline`保留2026-10-25起点计数，当前进度以`counts`与`build_progress`为准。索引中的`path`、`planned_path`与`catalog_ref`以`00_start/`为相对路径基准；`planned_path`记录全部节点的标题文件名，`path`仅指向经审阅正文。未写节点先链接正式目录的ID锚点；已有正文时使用实际文件路径。引用来源或Event时定位到具体内容。
 
 目录状态与正文YAML状态分别记录：`reviewed_seed`表示已审阅的起步正文；Event／Source中的`working_draft`表示材料整理状态。它们不改变节点入选结果。`updated`是文件编辑日期，`evidence_as_of`是资料覆盖截止；修改说明文件不会延长证据覆盖。
 

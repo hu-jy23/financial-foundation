@@ -1,8 +1,8 @@
 {
-  "C-FISCAL-DEFICIT": "C-FISCAL-DEFICIT_fiscal_primary_deficit.md",
-  "C-MONEY-13": "C-MONEY-13_treasury_general_account.md",
-  "C-LIQ-FUND": "C-LIQ-FUND_funding_liquidity.md",
-  "C-MONEY-CBBS": "C-MONEY-CBBS_central_bank_balance_sheet.md",
-  "C-POL-QE": "C-POL-QE_quantitative_easing.md",
-  "C-POL-QT": "C-POL-QT_quantitative_tightening.md"
+  "C-FISCAL-DEFICIT": "财政赤字与初级赤字.md",
+  "C-MONEY-13": "财政部一般账户TGA.md",
+  "C-LIQ-FUND": "融资流动性.md",
+  "C-MONEY-CBBS": "央行资产负债表.md",
+  "C-POL-QE": "量化宽松QE.md",
+  "C-POL-QT": "量化紧缩QT.md"
 }

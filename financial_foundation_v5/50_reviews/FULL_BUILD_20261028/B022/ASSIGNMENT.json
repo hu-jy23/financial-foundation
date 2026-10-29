@@ -9,7 +9,7 @@
       "name": "天然气与LNG",
       "scope": "区域市场、运输和季节",
       "kind": "concepts",
-      "path": "10_concepts/C-COMMOD-04.md",
+      "path": "10_concepts/天然气与LNG.md",
       "node_ids": [],
       "group": "黄金、能源与大宗商品"
     },
@@ -18,7 +18,7 @@
       "name": "煤炭与焦煤",
       "scope": "能源和冶金需求区别",
       "kind": "concepts",
-      "path": "10_concepts/C-COMMOD-05.md",
+      "path": "10_concepts/煤炭与焦煤.md",
       "node_ids": [],
       "group": "黄金、能源与大宗商品"
     },
@@ -27,7 +27,7 @@
       "name": "铜与工业金属",
       "scope": "终端需求、库存和供给",
       "kind": "concepts",
-      "path": "10_concepts/C-COMMOD-06.md",
+      "path": "10_concepts/铜与工业金属.md",
       "node_ids": [],
       "group": "黄金、能源与大宗商品"
     }

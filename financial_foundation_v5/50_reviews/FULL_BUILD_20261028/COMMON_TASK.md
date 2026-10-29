@@ -7,7 +7,7 @@
 工作根目录是 `/workspace/scratch/d173ad0a8827/financial-foundation/financial_foundation_v5`。
 
 1. 完整读`00_start/README.md`、`AUTHORING_STANDARD.md`、`REVIEW_CHECKLIST.md`、`NODE_SELECTION_GUIDE.md`及对应模板；沿用已确认的ID、名字、对象边界，禁止扩大或拆分目录。
-2. Concept作者完整读`10_concepts/C-IR-TERM_term_premium.md`及`C-LIQ-FUND_funding_liquidity.md`，Mechanism作者完整读`20_mechanisms/R-GOLD-REALRATES_real_rates_gold.md`和`R-FISCAL-LONGYIELD_fiscal_long_yields.md`。样例用于理解解释深度与组织方式，不机械照抄段落、篇幅或历史窗口。
+2. Concept作者完整读`10_concepts/期限溢价.md`及`融资流动性.md`，Mechanism作者完整读`20_mechanisms/黄金的机会成本机制.md`和`国债供给的定价机制.md`。样例用于理解解释深度与组织方式，不机械照抄段落、篇幅或历史窗口。
 3. 从`00_start/catalog_index.json`读负责对象及其关联机制（或负责机制及其关联对象）；读`40_sources/ACQUISITION_SHORTLIST.md`和与主题直接相关的已有材料。任何工具长输出截断后须分段补读。
 4. 先提出少量针对此对象／机制的研究问题，再搜集原文。不能先套通用段落再补几个链接。
 
@@ -22,6 +22,8 @@
 - 不设统一篇幅。目标是达到现有成品的解释质量；每篇有自己的实质难点、具体历史、来源及边界，不生成通用流水模板、空节或待填正文。
 
 ## 路径、来源、元数据
+
+2026-10-29路径维护：正文文件使用定稿标题，ID保留在YAML与交稿记录。以当前PATHS.json和任务输出路径为准，不用ID拼接文件名；规则见`00_start/FILE_NAMING.md`。冻结首稿继续按ID命名。
 
 - 本目录`PATHS.json`给出234个节点最终路径。引用新节点可直接使用其中计划路径（合并时由main校验存在），引用已有文件使用实际路径；正文位于10／20时，链接统一`../10_concepts/...`或`../20_mechanisms/...`。不要建立新Event／Source。
 - 页内登记独立来源ID，建议`S-<节点ID>-01`；每个ID有`<a id="...">`和正文引用`[ID](#ID)`。列正式标题、作者／机构、公开日期或已知粒度、原始URL、实际阅读章节／表格及具体未读范围。来源可组合相关原始页，但不要只写机构首页。

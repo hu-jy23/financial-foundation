@@ -9,7 +9,7 @@
       "name": "美元互换额度对跨币种基差的影响",
       "scope": "流动性供给和机构约束",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-INTERNATIONAL-05.md",
+      "path": "20_mechanisms/美元互换额度对跨币种基差的影响.md",
       "node_ids": [
         "C-MONEY-12",
         "C-FX-10",
@@ -22,7 +22,7 @@
       "name": "日元套息交易的平仓反馈",
       "scope": "利差、汇率波动和杠杆",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-JPY-CARRY.md",
+      "path": "20_mechanisms/日元套息交易的平仓反馈.md",
       "node_ids": [
         "C-FX-03",
         "C-FX-17",
@@ -35,7 +35,7 @@
       "name": "汇率对冲成本对跨境债券配置的影响",
       "scope": "对冲比例和负债币种",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-INTERNATIONAL-07.md",
+      "path": "20_mechanisms/汇率对冲成本对跨境债券配置的影响.md",
       "node_ids": [
         "C-FX-10",
         "C-ASSET-UST",

@@ -9,7 +9,7 @@
       "name": "Tesla",
       "scope": "汽车、能源与自动驾驶业务",
       "kind": "concepts",
-      "path": "10_concepts/C-TECH-24.md",
+      "path": "10_concepts/Tesla.md",
       "node_ids": [],
       "group": "AI、科技与产业链"
     },
@@ -18,7 +18,7 @@
       "name": "TSMC",
       "scope": "晶圆代工与先进封装",
       "kind": "concepts",
-      "path": "10_concepts/C-TECH-25.md",
+      "path": "10_concepts/TSMC.md",
       "node_ids": [],
       "group": "AI、科技与产业链"
     },
@@ -27,7 +27,7 @@
       "name": "ASML",
       "scope": "光刻设备与服务",
       "kind": "concepts",
-      "path": "10_concepts/C-TECH-26.md",
+      "path": "10_concepts/ASML.md",
       "node_ids": [],
       "group": "AI、科技与产业链"
     }

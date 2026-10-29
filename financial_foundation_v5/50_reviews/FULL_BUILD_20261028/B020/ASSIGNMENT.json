@@ -9,7 +9,7 @@
       "name": "融资融券与借券成本",
       "scope": "杠杆、多空实施约束",
       "kind": "concepts",
-      "path": "10_concepts/C-FLOW-09.md",
+      "path": "10_concepts/融资融券与借券成本.md",
       "node_ids": [],
       "group": "交易结构、资金与行为"
     },
@@ -18,7 +18,7 @@
       "name": "程序化交易与做市",
       "scope": "策略类型和库存管理",
       "kind": "concepts",
-      "path": "10_concepts/C-FLOW-10.md",
+      "path": "10_concepts/程序化交易与做市.md",
       "node_ids": [],
       "group": "交易结构、资金与行为"
     },
@@ -27,7 +27,7 @@
       "name": "趋势跟随与CTA",
       "scope": "信号规则、杠杆和市场暴露",
       "kind": "concepts",
-      "path": "10_concepts/C-FLOW-11.md",
+      "path": "10_concepts/趋势跟随与CTA.md",
       "node_ids": [],
       "group": "交易结构、资金与行为"
     }

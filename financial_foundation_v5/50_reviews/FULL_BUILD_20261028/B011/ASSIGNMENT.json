@@ -9,7 +9,7 @@
       "name": "人民币与离岸人民币",
       "scope": "CNY/CNH市场与制度边界",
       "kind": "concepts",
-      "path": "10_concepts/C-FX-02.md",
+      "path": "10_concepts/人民币与离岸人民币.md",
       "node_ids": [],
       "group": "外汇与国际金融"
     },
@@ -18,7 +18,7 @@
       "name": "日元",
       "scope": "融资与国际资产配置角色",
       "kind": "concepts",
-      "path": "10_concepts/C-FX-03.md",
+      "path": "10_concepts/日元.md",
       "node_ids": [],
       "group": "外汇与国际金融"
     },
@@ -27,7 +27,7 @@
       "name": "欧元与欧元体系",
       "scope": "共同货币和分散财政",
       "kind": "concepts",
-      "path": "10_concepts/C-FX-04.md",
+      "path": "10_concepts/欧元与欧元体系.md",
       "node_ids": [],
       "group": "外汇与国际金融"
     }

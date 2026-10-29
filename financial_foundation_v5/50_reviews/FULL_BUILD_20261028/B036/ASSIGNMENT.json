@@ -9,7 +9,7 @@
       "name": "IMF、世界银行与BIS",
       "scope": "职能与数据来源",
       "kind": "concepts",
-      "path": "10_concepts/C-GLOBAL-07.md",
+      "path": "10_concepts/IMF、世界银行与BIS.md",
       "node_ids": [],
       "group": "国际制度、政治与地缘"
     },
@@ -18,7 +18,7 @@
       "name": "出口管制与技术限制",
       "scope": "产品、地区和合规版本",
       "kind": "concepts",
-      "path": "10_concepts/C-GLOBAL-09.md",
+      "path": "10_concepts/出口管制与技术限制.md",
       "node_ids": [],
       "group": "国际制度、政治与地缘"
     },
@@ -27,7 +27,7 @@
       "name": "国际支付与清算体系",
       "scope": "网络、币种与流动性",
       "kind": "concepts",
-      "path": "10_concepts/C-GLOBAL-13.md",
+      "path": "10_concepts/国际支付与清算体系.md",
       "node_ids": [],
       "group": "国际制度、政治与地缘"
     }

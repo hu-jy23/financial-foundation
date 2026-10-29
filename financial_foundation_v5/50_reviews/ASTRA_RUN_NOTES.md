@@ -13,8 +13,8 @@
 
 ## 文件
 
-- [期限溢价](../10_concepts/C-IR-TERM_term_premium.md)
-- [国债供给的定价机制](../20_mechanisms/R-FISCAL-LONGYIELD_fiscal_long_yields.md)
+- [期限溢价](../10_concepts/期限溢价.md)
+- [国债供给的定价机制](../20_mechanisms/国债供给的定价机制.md)
 
 本次是一份完整首稿经本 agent 自查后的交付，没有另存中途未完成版本，也没有由主 agent 代笔润色。若后续审阅要求改事实，应先保留当前正文再修正。旧稿含既有主 agent 修改，本次同时采用 v3 指导，因而不是严格控制变量的模型实验。
 

@@ -9,7 +9,7 @@
       "name": "美元互换额度",
       "scope": "央行之间的美元流动性安排",
       "kind": "concepts",
-      "path": "10_concepts/C-MONEY-12.md",
+      "path": "10_concepts/美元互换额度.md",
       "node_ids": [],
       "group": "货币、央行与流动性"
     },
@@ -18,7 +18,7 @@
       "name": "隔夜逆回购ONRRP",
       "scope": "特定美国央行负债工具",
       "kind": "concepts",
-      "path": "10_concepts/C-MONEY-14.md",
+      "path": "10_concepts/隔夜逆回购ONRRP.md",
       "node_ids": [],
       "group": "货币、央行与流动性"
     },
@@ -27,7 +27,7 @@
       "name": "市场流动性",
       "scope": "价差、深度、冲击成本",
       "kind": "concepts",
-      "path": "10_concepts/C-LIQ-MARKET.md",
+      "path": "10_concepts/市场流动性.md",
       "node_ids": [],
       "group": "货币、央行与流动性"
     }

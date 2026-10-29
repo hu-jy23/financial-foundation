@@ -9,7 +9,7 @@
       "name": "MBS负凸性引发的利率对冲反馈",
       "scope": "提前还款、久期和对冲方向",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-DERIVATIVES-10.md",
+      "path": "20_mechanisms/MBS负凸性引发的利率对冲反馈.md",
       "node_ids": [
         "C-BOND-07",
         "C-IR-CURVE"
@@ -21,7 +21,7 @@
       "name": "央行购金与黄金需求结构",
       "scope": "储备目标、披露与估计",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-GOLD-03.md",
+      "path": "20_mechanisms/央行购金与黄金需求结构.md",
       "node_ids": [
         "C-FX-14",
         "C-ASSET-GOLD"
@@ -33,7 +33,7 @@
       "name": "股债相关性与通胀/增长主导状态",
       "scope": "冲击类型和政策反应",
       "kind": "mechanisms",
-      "path": "20_mechanisms/R-ASSET-STOCKBOND.md",
+      "path": "20_mechanisms/股债相关性与通胀／增长主导状态.md",
       "node_ids": [
         "C-ASSET-UST",
         "C-INF-INFLATION",
