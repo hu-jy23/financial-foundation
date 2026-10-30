@@ -1,6 +1,6 @@
 # 金融关系／机制正式目录 v5
 
-初步建图范围确认：2026-10-25。共 **71 个关系／机制，16 个主题组**；正文 **56 份已完成、15 份待完成主审**（进度更新：2026-10-30）。
+初步建图范围确认：2026-10-25。共 **71 个关系／机制，16 个主题组**；正文 **57 份已完成、14 份待完成主审**（进度更新：2026-10-30）。
 
 本表只列已确认入选的关系。原177项的勾叉与最终名称见[完整审阅表](../50_reviews/MECHANISM_SELECTION_177.md)，未入选106项见[旧ID登记](MECHANISM_ARCHIVE.md)。
 
@@ -25,7 +25,7 @@
 | 衍生品与波动机制 | 6 | 1 | 6 | 0 |
 | 黄金与跨资产机制 | 3 | 2 | 3 | 0 |
 | 能源与商品机制 | 3 | 1 | 2 | 1 |
-| 中国信用、地产与财政传导 | 7 | 2 | 0 | 7 |
+| 中国信用、地产与财政传导 | 7 | 2 | 1 | 6 |
 | 中国资产与政策机制 | 1 | 0 | 0 | 1 |
 | 科技与AI产业机制 | 2 | 0 | 0 | 2 |
 | 政治、制度与长期变化 | 2 | 0 | 0 | 2 |
@@ -147,7 +147,7 @@
 
 | ID | 关系名称 | 关联对象 | 正文术语／相关关系 | 范围 | 优先级 | 正文状态 |
 |---|---|---|---|---|---|---|
-| <a id="R-CHINA-01"></a>R-CHINA-01 | 降准的资金与信贷传导 | [存款准备金率与降准 C-CHINA-06](../10_concepts/存款准备金率与降准.md)；[银行准备金 C-MONEY-RESERVES](../10_concepts/银行准备金.md)；[人民币贷款与票据融资 C-CHINA-05](../10_concepts/人民币贷款与票据融资.md)；[DR007、R007与同业存单 C-CHINA-09](../10_concepts/DR007、R007与同业存单.md) | [贷款标准与贷款需求（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CREDIT-05) | 银行约束和贷款需求 | P1 | pending／待完成主审 |
+| <a id="R-CHINA-01"></a>R-CHINA-01 | 降准的资金与信贷传导 | [存款准备金率与降准 C-CHINA-06](../10_concepts/存款准备金率与降准.md)；[银行准备金 C-MONEY-RESERVES](../10_concepts/银行准备金.md)；[人民币贷款与票据融资 C-CHINA-05](../10_concepts/人民币贷款与票据融资.md)；[DR007、R007与同业存单 C-CHINA-09](../10_concepts/DR007、R007与同业存单.md) | [贷款标准与贷款需求（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CREDIT-05) | 银行约束和贷款需求 | P1 | complete／[正文](../20_mechanisms/降准的资金与信贷传导.md) |
 | <a id="R-CHINA-02"></a>R-CHINA-02 | 政策利率的LPR传导渠道 | [MLF、逆回购与结构性工具 C-CHINA-07](../10_concepts/MLF、逆回购与结构性工具.md)；[LPR与贷款定价 C-CHINA-08](../10_concepts/LPR与贷款定价.md)；[DR007、R007与同业存单 C-CHINA-09](../10_concepts/DR007、R007与同业存单.md)；[净息差NIM C-CREDIT-04](../10_concepts/净息差NIM.md)；[人民币贷款与票据融资 C-CHINA-05](../10_concepts/人民币贷款与票据融资.md) | — | 银行负债成本和信用分层 | P1 | pending／待完成主审 |
 | <a id="R-CN-CREDIT"></a>R-CN-CREDIT | 社融结构、信用脉冲与实体需求 | [社会融资规模 C-CN-TSF](../10_concepts/社会融资规模.md)；[人民币贷款与票据融资 C-CHINA-05](../10_concepts/人民币贷款与票据融资.md)；[地方政府债 C-BOND-04](../10_concepts/地方政府债.md) | [信用脉冲（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CHINA-04)；[企业投资与资本开支（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-08)；[家庭消费（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-06) | 政府/企业/居民分项 | P0 | pending／待完成主审 |
 | <a id="R-CN-PROPERTY"></a>R-CN-PROPERTY | 房地产开发的现金流循环 | [房地产预售与保交楼 C-CHINA-14](../10_concepts/房地产预售与保交楼.md)；[房地产融资与住房按揭 C-CHINA-15](../10_concepts/房地产融资与住房按揭.md)；[房地产开发与物业 C-SECTOR-06](CONCEPT_IMPORT_LIST.md#C-SECTOR-06) | [地产销售、库存与土地购置（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CHINA-16)；[经营现金流、资本开支与自由现金流（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQUITY-04) | 预售、融资和交付 | P0 | pending／待完成主审 |

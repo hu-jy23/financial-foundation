@@ -4,15 +4,15 @@
       "groups": 18,
       "items": 163,
       "p0": 21,
-      "complete": 152,
-      "pending": 11
+      "complete": 161,
+      "pending": 2
     },
     "mechanisms": {
       "groups": 16,
       "items": 71,
       "p0": 21,
-      "complete": 56,
-      "pending": 15
+      "complete": 57,
+      "pending": 14
     },
     "excluded_concepts": {
       "items": 186,
@@ -2494,8 +2494,8 @@
           "priority": "P1",
           "added_in": "v2",
           "addition_reason": "补足人口变化与长期资产配置的负债主体",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/养老金与退休负债.md",
           "catalog_anchor": "C-SECTOR-13",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-SECTOR-13",
           "role": "domain_objects",
@@ -2516,8 +2516,8 @@
           "name": "比特币",
           "scope": "供给规则、需求和风险暴露",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/比特币.md",
           "catalog_anchor": "C-CRYPTO-01",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CRYPTO-01",
           "role": "domain_objects",
@@ -2531,8 +2531,8 @@
           "name": "以太坊与智能合约平台",
           "scope": "网络使用、费用与资产属性",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/以太坊与智能合约平台.md",
           "catalog_anchor": "C-CRYPTO-02",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CRYPTO-02",
           "role": "domain_objects",
@@ -2546,8 +2546,8 @@
           "name": "稳定币",
           "scope": "储备、赎回、交易与支付",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/稳定币.md",
           "catalog_anchor": "C-CRYPTO-03",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CRYPTO-03",
           "role": "domain_objects",
@@ -2561,8 +2561,8 @@
           "name": "数字资产交易所与托管",
           "scope": "交易对手及操作风险",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/数字资产交易所与托管.md",
           "catalog_anchor": "C-CRYPTO-04",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CRYPTO-04",
           "role": "domain_objects",
@@ -2576,8 +2576,8 @@
           "name": "加密资产杠杆与永续合约",
           "scope": "资金费率、清算和基差",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/加密资产杠杆与永续合约.md",
           "catalog_anchor": "C-CRYPTO-05",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CRYPTO-05",
           "role": "domain_objects",
@@ -2591,8 +2591,8 @@
           "name": "现货加密ETF",
           "scope": "份额、流量和基础资产",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/现货加密ETF.md",
           "catalog_anchor": "C-CRYPTO-06",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CRYPTO-06",
           "role": "domain_objects",
@@ -2606,8 +2606,8 @@
           "name": "代币化国债与现实资产RWA",
           "scope": "法律权利、托管和流动性",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/代币化国债与现实资产RWA.md",
           "catalog_anchor": "C-CRYPTO-08",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CRYPTO-08",
           "role": "domain_objects",
@@ -2623,8 +2623,8 @@
           "priority": "P1",
           "added_in": "v2",
           "addition_reason": "补足区块奖励与矿工现金流关系的生产主体",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/比特币挖矿、区块奖励与矿工.md",
           "catalog_anchor": "C-CRYPTO-09",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CRYPTO-09",
           "role": "domain_objects",
@@ -6371,8 +6371,8 @@
             "C-CHINA-05",
             "C-CHINA-09"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/降准的资金与信贷传导.md",
           "catalog_anchor": "R-CHINA-01",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CHINA-01",
           "context_terms": [
@@ -6393,8 +6393,28 @@
           "original_catalog_name": "降准与银行信贷、资金价格",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/降准的资金与信贷传导.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/降准的资金与信贷传导.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CHINA-06",
+                "C-MONEY-RESERVES",
+                "C-CHINA-09"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-MONEY-RESERVES",
+                "C-CHINA-05",
+                "C-CHINA-09"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-CHINA-02",
@@ -13479,10 +13499,10 @@
   "maintenance_revision": "title_filenames_20261029",
   "build_progress": {
     "as_of": "2026-10-30",
-    "authored_nodes": 208,
-    "pending_nodes": 26,
-    "complete_concepts": 152,
-    "complete_mechanisms": 56,
+    "authored_nodes": 218,
+    "pending_nodes": 16,
+    "complete_concepts": 161,
+    "complete_mechanisms": 57,
     "review": "../50_reviews/FULL_BUILD_20261028/MAIN_REVIEW.json"
   },
   "file_naming": {
