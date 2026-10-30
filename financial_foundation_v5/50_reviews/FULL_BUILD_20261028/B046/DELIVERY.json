@@ -1,0 +1,57 @@
+{
+  "batch": "B046",
+  "status": "ready_for_review",
+  "draft_author": "/root/resume_b046",
+  "items": [
+    {
+      "id": "C-TECH-33",
+      "path": "10_concepts/中芯国际.md",
+      "evidence_as_of": "2026-04-08",
+      "first_draft_sha256": "b858b2064804f91eba0938d69caaef37c995cdea8c91abd92fa6bdc4f6f4330c",
+      "source_urls": [
+        "https://www.hkexnews.hk/listedco/listconews/sehk/2026/0408/2026040801181.pdf"
+      ],
+      "review_points": [
+        "购建现金84.035亿美元不同于管理层capex，未做二者完整对账",
+        "2026指引按年报旧信息集保存，未核后续兑现",
+        "先进节点良率与节点产能未披露/未取得，未使用媒体估值"
+      ],
+      "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-34",
+      "path": "10_concepts/寒武纪.md",
+      "evidence_as_of": "2026-03-13",
+      "first_draft_sha256": "50c080edeb9f8280e389ed64a5fa39c9717355f94984e7a94297f7a251dcb04b",
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2026-03-13/1225007336.PDF"
+      ],
+      "review_points": [
+        "2024利润采用年报比较栏−4.523亿，不是快报−4.432亿",
+        "2025盈利与现金流分离由库存33.033亿调节项解释",
+        "软件价值不以单独软件收入衡量；未补传言客户或代工厂"
+      ],
+      "node_ids_refined": false
+    },
+    {
+      "id": "C-SECTOR-01",
+      "path": "10_concepts/商业银行业.md",
+      "evidence_as_of": "2026-02-12",
+      "first_draft_sha256": "c824551bceb27b103756c21de70a85829fef71b18dd6b429f48df899c7ac2c3c",
+      "source_urls": [
+        "https://www.nfra.gov.cn/cbircweb/DocInfo/SelectByDocId?docId=1249435",
+        "https://www.nfra.gov.cn/chinese/docfile/2025/19c05ee018b748708a7ae6e67311eba8.xls",
+        "https://www.nfra.gov.cn/chinese/docfile/2026/9a20b3d34d24444bbdd77a210675a95c.xls",
+        "https://www.nfra.gov.cn/cbircweb/DocInfo/SelectByDocId?docId=1134197",
+        "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf"
+      ],
+      "review_points": [
+        "监管XLS比例底层小数，按100倍显示；2025NIM底层1.415%，两位四舍五入1.42%",
+        "2024/2025不良率均报1.50%但余额上升，资本增长慢于RWA",
+        "资本新办法2024断点；银行业480万亿不能配商业银行净利润算ROA",
+        "未核2026季度经营表，截止2026-02-12发布"
+      ],
+      "node_ids_refined": false
+    }
+  ]
+}

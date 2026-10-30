@@ -17,6 +17,42 @@
         "2025年度原始公司分发稿替代被阻断IR PDF"
       ],
       "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-31",
+      "path": "10_concepts/阿里巴巴.md",
+      "evidence_as_of": "2026-08-20",
+      "first_draft_sha256": "1362b6614fca3ae04c4452b8275b6627c34663f6d867ac2d58ca94bd0d9dd5cb",
+      "source_urls": [
+        "https://data.alibabagroup.com/ecms-files/1532295521/5b1cb883-8d00-4237-a148-6631cc12a5d2/Alibaba%20Group%20Announces%20March%20Quarter%202026%20and%20Fiscal%20Year%202026%20Results.pdf",
+        "https://data.alibabagroup.com/ecms-files/1532295521/fa5d65fc-9b3e-4e82-a8fc-4ce1c3e2c407/Alibaba%20Group%20Announces%20June%20Quarter%202026%20Results.pdf",
+        "https://home.alibabagroup.com/en-US/document-1830678592242057216",
+        "https://home.alibabagroup.com/en-US/document-1911884625546838016"
+      ],
+      "review_points": [
+        "2026财年和2026年6月季对应不同财年",
+        "2026年6月新分部及2025重述数",
+        "FCF保障金和办公园区排除项",
+        "3800亿元三年计划与集团资本开支不可直接对账"
+      ],
+      "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-32",
+      "path": "10_concepts/百度.md",
+      "evidence_as_of": "2026-08-18",
+      "first_draft_sha256": "aa24fe86e5c67f46067a129b7f4dff5fadb117bb5edd5e9216c5ac32bdf2b9b0",
+      "source_urls": [
+        "https://baidu.gcs-web.com/news-releases/news-release-details/baidu-announces-fourth-quarter-and-fiscal-year-2025-results/",
+        "https://baidu.gcs-web.com/news-releases/news-release-details/baidu-announces-second-quarter-2026-results"
+      ],
+      "review_points": [
+        "AI收入50%分母为一般性业务而非集团",
+        "AI原生营销与在线营销为交叉分类",
+        "2025长期资产减值及2026Q2 EBITDA现金差异",
+        "自动驾驶运营规模不等于盈利"
+      ],
+      "node_ids_refined": false
     }
   ],
   "status": "submitted_for_review"

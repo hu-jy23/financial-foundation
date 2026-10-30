@@ -1,6 +1,6 @@
 # 金融概念／对象正式目录 v5
 
-初步建图范围确认：2026-10-25。共 **163 个对象，18 个主题组**；正文 **142 份已完成、21 份待完成主审**（进度更新：2026-10-30）。
+初步建图范围确认：2026-10-25。共 **163 个对象，18 个主题组**；正文 **152 份已完成、11 份待完成主审**（进度更新：2026-10-30）。
 
 本表与[关系／机制正式目录](MECHANISM_IMPORT_LIST.md)共同构成初步建图的234个节点。条目已经入选，pending表示正文尚未完成主审（包括未制作或已有待审稿）。
 
@@ -27,8 +27,8 @@
 | 中国宏观制度与政策工具 | 16 | 1 | 16 | 0 |
 | A股、港股与区域市场制度 | 12 | 0 | 11 | 1 |
 | 国际制度、政治与地缘 | 8 | 0 | 7 | 1 |
-| AI、科技与产业链 | 29 | 0 | 25 | 4 |
-| 行业与经营暴露 | 7 | 0 | 0 | 7 |
+| AI、科技与产业链 | 29 | 0 | 29 | 0 |
+| 行业与经营暴露 | 7 | 0 | 6 | 1 |
 | 数字资产与新型金融 | 8 | 0 | 0 | 8 |
 
 ## 预期、信息与认知
@@ -254,21 +254,21 @@
 | <a id="C-TECH-28"></a>C-TECH-28 | SK hynix | 存储与HBM业务 | P1 | complete／[正文](<../10_concepts/SK hynix.md>) |
 | <a id="C-TECH-29"></a>C-TECH-29 | Micron | 存储与HBM业务 | P1 | complete／[正文](../10_concepts/Micron.md) |
 | <a id="C-TECH-30"></a>C-TECH-30 | 腾讯 | 社交、游戏、广告与云 | P1 | complete／[正文](../10_concepts/腾讯.md) |
-| <a id="C-TECH-31"></a>C-TECH-31 | 阿里巴巴 | 电商、云与AI业务 | P1 | pending／待完成主审 |
-| <a id="C-TECH-32"></a>C-TECH-32 | 百度 | 搜索、AI云与自动驾驶 | P1 | pending／待完成主审 |
-| <a id="C-TECH-33"></a>C-TECH-33 | 中芯国际 | 晶圆代工与制造能力 | P1 | pending／待完成主审 |
-| <a id="C-TECH-34"></a>C-TECH-34 | 寒武纪 | AI芯片与软件生态 | P1 | pending／待完成主审 |
+| <a id="C-TECH-31"></a>C-TECH-31 | 阿里巴巴 | 电商、云与AI业务 | P1 | complete／[正文](../10_concepts/阿里巴巴.md) |
+| <a id="C-TECH-32"></a>C-TECH-32 | 百度 | 搜索、AI云与自动驾驶 | P1 | complete／[正文](../10_concepts/百度.md) |
+| <a id="C-TECH-33"></a>C-TECH-33 | 中芯国际 | 晶圆代工与制造能力 | P1 | complete／[正文](../10_concepts/中芯国际.md) |
+| <a id="C-TECH-34"></a>C-TECH-34 | 寒武纪 | AI芯片与软件生态 | P1 | complete／[正文](../10_concepts/寒武纪.md) |
 
 ## 行业与经营暴露
 
 | ID | 名称 | 对象边界 | 优先级 | 正文状态 |
 |---|---|---|---|---|
-| <a id="C-SECTOR-01"></a>C-SECTOR-01 | 商业银行业 | 资产质量、息差和资本 | P1 | pending／待完成主审 |
-| <a id="C-SECTOR-02"></a>C-SECTOR-02 | 保险业 | 负债成本、利率和资本市场 | P1 | pending／待完成主审 |
-| <a id="C-SECTOR-03"></a>C-SECTOR-03 | 证券与资管业 | 成交、融资和管理资产 | P1 | pending／待完成主审 |
-| <a id="C-SECTOR-04"></a>C-SECTOR-04 | 电力与公用事业 | 电价、燃料、利用小时与资本开支 | P1 | pending／待完成主审 |
-| <a id="C-SECTOR-06"></a>C-SECTOR-06 | 房地产开发与物业 | 销售、融资、交付与现金流 | P1 | pending／待完成主审 |
-| <a id="C-SECTOR-12"></a>C-SECTOR-12 | REITs与基础设施资产 | 运营现金流、利率与制度 | P1 | pending／待完成主审 |
+| <a id="C-SECTOR-01"></a>C-SECTOR-01 | 商业银行业 | 资产质量、息差和资本 | P1 | complete／[正文](../10_concepts/商业银行业.md) |
+| <a id="C-SECTOR-02"></a>C-SECTOR-02 | 保险业 | 负债成本、利率和资本市场 | P1 | complete／[正文](../10_concepts/保险业.md) |
+| <a id="C-SECTOR-03"></a>C-SECTOR-03 | 证券与资管业 | 成交、融资和管理资产 | P1 | complete／[正文](../10_concepts/证券与资管业.md) |
+| <a id="C-SECTOR-04"></a>C-SECTOR-04 | 电力与公用事业 | 电价、燃料、利用小时与资本开支 | P1 | complete／[正文](../10_concepts/电力与公用事业.md) |
+| <a id="C-SECTOR-06"></a>C-SECTOR-06 | 房地产开发与物业 | 销售、融资、交付与现金流 | P1 | complete／[正文](../10_concepts/房地产开发与物业.md) |
+| <a id="C-SECTOR-12"></a>C-SECTOR-12 | REITs与基础设施资产 | 运营现金流、利率与制度 | P1 | complete／[正文](../10_concepts/REITs与基础设施资产.md) |
 | <a id="C-SECTOR-13"></a>C-SECTOR-13 | 养老金与退休负债 | 缴费、待遇支付、资金积累和负债久期；区分现收现付与积累制 | P1 | pending／待完成主审 |
 
 ## 数字资产与新型金融

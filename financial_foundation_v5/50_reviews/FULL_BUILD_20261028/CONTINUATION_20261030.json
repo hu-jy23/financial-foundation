@@ -367,7 +367,7 @@
       ],
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "delivered_pending_review",
       "task": "Original COMMON_TASK/TASK/ASSIGNMENT and required inputs; title filenames, 2026-10-30, per-article frozen first drafts and delivery, primary sources, no shared changes or git."
     },
     {
@@ -379,7 +379,7 @@
       ],
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "delivered_pending_review",
       "task": "Original COMMON_TASK/TASK/ASSIGNMENT and required inputs; title filenames, 2026-10-30, per-article frozen first drafts and delivery, primary sources, no shared changes or git."
     },
     {
@@ -420,6 +420,31 @@
       "reasoning_effort": "medium",
       "status": "running",
       "task": "Original COMMON_TASK/TASK/ASSIGNMENT and required inputs; title filenames, per-article frozen first drafts and delivery, primary sources, no shared changes or git."
+    },
+    {
+      "batch": "B073",
+      "agent": "/root/resume_b073",
+      "ids": [
+        "R-TECH-12",
+        "R-GEOPOLITICS-02",
+        "R-GEOPOLITICS-07"
+      ],
+      "model": "gpt-6-astra",
+      "reasoning_effort": "medium",
+      "status": "running",
+      "task": "Original COMMON_TASK/TASK/ASSIGNMENT and required inputs; frozen first drafts, primary sources, no shared changes or git."
+    },
+    {
+      "batch": "B074",
+      "agent": "/root/resume_b074",
+      "ids": [
+        "R-CRYPTO-02",
+        "R-CRYPTO-04"
+      ],
+      "model": "gpt-6-astra",
+      "reasoning_effort": "medium",
+      "status": "running",
+      "task": "Original COMMON_TASK/TASK/ASSIGNMENT and required inputs; frozen first drafts, primary sources, no shared changes or git."
     }
   ],
   "checkpoints": [
@@ -507,13 +532,35 @@
         "C-TECH-30"
       ],
       "reviewed_total": 198,
+      "remote_status": "remote_verified",
+      "local_commit": "3837025c19cdc9a991d3159999f060eb59ebd78e",
+      "tree": "b8ee9f60f08f7747ab27ee3dfcb644932f3b7811",
+      "remote_commit": "2aa3f240ca4843c5a5a294a2faa6b52c398b4e34",
+      "branch": "build/full-map-20261028"
+    },
+    {
+      "sequence": 5,
+      "date": "2026-10-30",
+      "ids": [
+        "C-TECH-31",
+        "C-TECH-32",
+        "C-TECH-33",
+        "C-TECH-34",
+        "C-SECTOR-01",
+        "C-SECTOR-02",
+        "C-SECTOR-03",
+        "C-SECTOR-04",
+        "C-SECTOR-06",
+        "C-SECTOR-12"
+      ],
+      "reviewed_total": 208,
       "remote_status": "prepared"
     }
   ],
   "maintained_inputs": {
     "00_start/CONCEPT_IMPORT_LIST.md": {
       "base_sha256": "2225278cf9b2fd947651b9769382b2c13bfac959b604d53d0570677f58949c2f",
-      "current_sha256": "47ec03b9de814a8b906edac87f688ed58af06b2e99cb3d82b91fbf0f9e2538ba",
+      "current_sha256": "e292353966a563f272449e6bb414405b0cd1c0017d8a5fd0b1a1449f21940bc9",
       "reason": "reviewed progress and authored mechanism mappings; selected scope unchanged"
     },
     "00_start/MECHANISM_IMPORT_LIST.md": {
@@ -562,6 +609,16 @@
     "C-TECH-27",
     "C-TECH-28",
     "C-TECH-29",
-    "C-TECH-30"
+    "C-TECH-30",
+    "C-TECH-31",
+    "C-TECH-32",
+    "C-TECH-33",
+    "C-TECH-34",
+    "C-SECTOR-01",
+    "C-SECTOR-02",
+    "C-SECTOR-03",
+    "C-SECTOR-04",
+    "C-SECTOR-06",
+    "C-SECTOR-12"
   ]
 }

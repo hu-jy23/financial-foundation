@@ -1599,7 +1599,7 @@
       "batch": "B045",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "delivered_pending_review",
+      "status": "reviewed",
       "items": [
         {
           "id": "C-TECH-30",
@@ -1635,7 +1635,7 @@
       "batch": "B046",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "delivered_pending_review",
+      "status": "reviewed",
       "items": [
         {
           "id": "C-TECH-33",
@@ -1671,7 +1671,7 @@
       "batch": "B047",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "delivered_pending_review",
+      "status": "reviewed",
       "items": [
         {
           "id": "C-SECTOR-02",
@@ -1779,7 +1779,7 @@
       "batch": "B050",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "delivered_pending_review",
       "items": [
         {
           "id": "C-CRYPTO-04",
@@ -1815,7 +1815,7 @@
       "batch": "B051",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "delivered_pending_review",
       "items": [
         {
           "id": "C-CRYPTO-08",
@@ -2856,7 +2856,7 @@
       "batch": "B073",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "R-TECH-12",
@@ -2893,13 +2893,14 @@
           ],
           "group": "政治、制度与长期变化"
         }
-      ]
+      ],
+      "agent": "/root/resume_b073"
     },
     {
       "batch": "B074",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "R-CRYPTO-02",
@@ -2928,10 +2929,11 @@
           ],
           "group": "数字资产传导"
         }
-      ]
+      ],
+      "agent": "/root/resume_b074"
     }
   ],
-  "reviewed_new_count": 186,
+  "reviewed_new_count": 196,
   "author_by_id": {
     "C-POL-CREDIBILITY": "/root/full_b001",
     "C-EXPECT-15": "/root/full_b001",
@@ -3148,10 +3150,10 @@
     "R-CHINA-12": "/root/resume_b072",
     "R-CHINA_MARKET-07": "/root/resume_b072",
     "R-TECH-03": "/root/resume_b072",
-    "R-TECH-12": null,
-    "R-GEOPOLITICS-02": null,
-    "R-GEOPOLITICS-07": null,
-    "R-CRYPTO-02": null,
-    "R-CRYPTO-04": null
+    "R-TECH-12": "/root/resume_b073",
+    "R-GEOPOLITICS-02": "/root/resume_b073",
+    "R-GEOPOLITICS-07": "/root/resume_b073",
+    "R-CRYPTO-02": "/root/resume_b074",
+    "R-CRYPTO-04": "/root/resume_b074"
   }
 }

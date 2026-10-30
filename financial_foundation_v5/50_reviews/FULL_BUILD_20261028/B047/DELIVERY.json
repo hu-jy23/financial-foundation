@@ -1,0 +1,74 @@
+{
+  "batch": "B047",
+  "status": "ready_for_review",
+  "author": "/root/resume_b047",
+  "items": [
+    {
+      "id": "C-SECTOR-02",
+      "path": "10_concepts/保险业.md",
+      "author": "/root/resume_b047",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B047/C-SECTOR-02_FIRST_DRAFT.md",
+      "sha256": "34748cab5c0c92e93924c58aef9618da663659c1bd806a1e4b07d724167416ce",
+      "first_draft_sha256": "34748cab5c0c92e93924c58aef9618da663659c1bd806a1e4b07d724167416ce",
+      "evidence_as_of": "2026-03-27",
+      "source_urls": [
+        "https://www.ifrs.org/issued-standards/list-of-standards/ifrs-17-insurance-contracts/",
+        "https://www.hunan.gov.cn/zqt/zcsd/202101/t20210126_14282060.html",
+        "https://group.pingan.com/media/news/2025/pingan-ar24-press-release.html",
+        "https://pagroup.pingan.com/resource/pingan/IR-Docs/2026/pingan-ar25-report.pdf",
+        "https://group.pingan.com/investor_relations/results_and_presentations/2026/25-annual-results.html"
+      ],
+      "review_points": [
+        "FVOCI债权重估剔除口径与可比NBV增速",
+        "定价通知未实际取得，未写摘要阈值",
+        "资产负债久期及利差均为假设算例"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null
+    },
+    {
+      "id": "C-SECTOR-03",
+      "path": "10_concepts/证券与资管业.md",
+      "author": "/root/resume_b047",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B047/C-SECTOR-03_FIRST_DRAFT.md",
+      "sha256": "c63657a8106276c7666b788bf44282d634ef3f5259f99de94a08933f1343aea9",
+      "first_draft_sha256": "c63657a8106276c7666b788bf44282d634ef3f5259f99de94a08933f1343aea9",
+      "evidence_as_of": "2026-01-15",
+      "source_urls": [
+        "https://static.cninfo.com.cn/finalpage/2025-04-12/1223071814.PDF",
+        "https://ir.blackrock.com/news-and-events/press-releases/press-releases-details/2025/BlackRock-Reports-Full-Year-2024-Diluted-EPS-of-42.01-or-43.61-as-Adjusted-Fourth-Quarter-2024-Diluted-EPS-of-10.63-or-11.93-as-Adjusted/default.aspx",
+        "https://www.blackrock.com/corporate/newsroom/media/press-releases/blackrock-reports-fourth-quarter-2025"
+      ],
+      "review_points": [
+        "AUM存量增量与净流入及并购严格分开",
+        "中国行业原统计及费改原文访问受阻",
+        "R-CHINA-12链接为尚待合并的正式计划路径"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null
+    },
+    {
+      "id": "C-SECTOR-04",
+      "path": "10_concepts/电力与公用事业.md",
+      "author": "/root/resume_b047",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B047/C-SECTOR-04_FIRST_DRAFT.md",
+      "sha256": "8952a38373a8734239ee97d8804b85994fb1bbed1a744f8ffcbe728601949c5f",
+      "first_draft_sha256": "8952a38373a8734239ee97d8804b85994fb1bbed1a744f8ffcbe728601949c5f",
+      "evidence_as_of": "2026-03-25",
+      "source_urls": [
+        "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202311/t20231110_1361897.html",
+        "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202601/t20260130_1403524_ext.html",
+        "https://www.nea.gov.cn/20250121/097bfd7c1cd3498897639857d86d5dac/c.html",
+        "https://nnsa.mee.gov.cn/ywdt/hyzx/202601/t20260129_1142949.html",
+        "https://static.cninfo.com.cn/finalpage/2026-03-25/1225029354.PDF"
+      ],
+      "review_points": [
+        "NEA2024值3442与2025值3119/同比−312存在基期差异",
+        "含税全电源电价不能直接减火电燃料成本",
+        "2026资本支出计划与实际及投资净现金流分开"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null
+    }
+  ]
+}

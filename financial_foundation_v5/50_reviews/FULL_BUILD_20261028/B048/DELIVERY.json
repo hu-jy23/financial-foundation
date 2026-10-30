@@ -1,0 +1,54 @@
+{
+  "batch": "B048",
+  "status": "ready_for_review",
+  "draft_author": "/root/resume_b048",
+  "items": [
+    {
+      "id": "C-SECTOR-06",
+      "path": "10_concepts/房地产开发与物业.md",
+      "author": "/root/resume_b048",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B048/C-SECTOR-06_FIRST_DRAFT.md",
+      "sha256": "5566c46c6e9b6723216bd2411fa45718a76c6cbad99279f3fe216826607fcb10",
+      "first_draft_sha256": "5566c46c6e9b6723216bd2411fa45718a76c6cbad99279f3fe216826607fcb10",
+      "evidence_as_of": "2026-10-19",
+      "source_urls": [
+        "https://zgj.wuhan.gov.cn/xxgk/zcfgyjd_1/qtzdgkwj/202105/t20210524_1703404.shtml",
+        "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_f716cd25569f491a80528f22e8da464e.html",
+        "https://www.stats.gov.cn/sj/zxfbhjd/202601/t20260119_1962324.html",
+        "https://www.mee.gov.cn/zcwj/zclcfh/202410/t20241018_1089575.shtml",
+        "https://www.mohurd.gov.cn/xinwen/gzdt/art/2025/art_d2636e831405440e8070089fdaa9f6d3.html",
+        "https://www.stats.gov.cn/sj/zxfbhjd/202610/t20261019_1965615.html"
+      ],
+      "review_points": [
+        "未核公司年报及逐城监管现金释放",
+        "审批额与实际提款严格区分"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null
+    },
+    {
+      "id": "C-SECTOR-12",
+      "path": "10_concepts/REITs与基础设施资产.md",
+      "author": "/root/resume_b048",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B048/C-SECTOR-12_FIRST_DRAFT.md",
+      "sha256": "fd6df78ee1be4acf47e8b60b97ec789a2cb5dbd44f19eb53113b9c47450b6c4c",
+      "first_draft_sha256": "fd6df78ee1be4acf47e8b60b97ec789a2cb5dbd44f19eb53113b9c47450b6c4c",
+      "evidence_as_of": "2026-06-18",
+      "source_urls": [
+        "https://www.csrc.gov.cn/csrc/c101877/c1029531/content.shtml",
+        "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-65",
+        "https://www.csrc.gov.cn/csrc/c100028/c7438381/content.shtml",
+        "https://www.ndrc.gov.cn/xwdt/tzgg/202407/t20240726_1392006_ext.html",
+        "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202509/t20250912_1400441_ext.html",
+        "https://english.sse.com.cn/news/newsrelease/c/c_20260408_10814501.shtml",
+        "https://star.sse.com.cn/aboutus/mediacenter/hotandd/c/c_20260618_10822885.shtml"
+      ],
+      "review_points": [
+        "2026商业REIT特别规则未完整核读",
+        "有限经营权分派含本金；52只总量非同店增长"
+      ],
+      "node_ids_refined": false,
+      "node_ids_refinement_reason": null
+    }
+  ]
+}
