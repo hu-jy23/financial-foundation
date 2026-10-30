@@ -4,15 +4,15 @@
       "groups": 18,
       "items": 163,
       "p0": 21,
-      "complete": 117,
-      "pending": 46
+      "complete": 122,
+      "pending": 41
     },
     "mechanisms": {
       "groups": 16,
       "items": 71,
       "p0": 21,
-      "complete": 51,
-      "pending": 20
+      "complete": 56,
+      "pending": 15
     },
     "excluded_concepts": {
       "items": 186,
@@ -1960,8 +1960,8 @@
           "name": "人工智能算力",
           "scope": "训练、推理与计量口径",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/人工智能算力.md",
           "catalog_anchor": "C-TECH-01",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-TECH-01",
           "role": "domain_objects",
@@ -1975,8 +1975,8 @@
           "name": "GPU与AI加速器",
           "scope": "性能、供给、定价和使用率",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/GPU与AI加速器.md",
           "catalog_anchor": "C-TECH-02",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-TECH-02",
           "role": "domain_objects",
@@ -1990,8 +1990,8 @@
           "name": "云服务与超大规模云厂商",
           "scope": "资本开支、收入与客户",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/云服务与超大规模云厂商.md",
           "catalog_anchor": "C-TECH-03",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-TECH-03",
           "role": "domain_objects",
@@ -2005,8 +2005,8 @@
           "name": "数据中心",
           "scope": "建设、机架、选址与资源约束",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/数据中心.md",
           "catalog_anchor": "C-TECH-04",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-TECH-04",
           "role": "domain_objects",
@@ -2020,8 +2020,8 @@
           "name": "电力、电网与发电容量",
           "scope": "能源、电力、接入的不同瓶颈",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/电力、电网与发电容量.md",
           "catalog_anchor": "C-TECH-05",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-TECH-05",
           "role": "domain_objects",
@@ -5873,8 +5873,8 @@
             "C-BOND-07",
             "C-IR-CURVE"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/MBS负凸性引发的利率对冲反馈.md",
           "catalog_anchor": "R-DERIVATIVES-10",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-DERIVATIVES-10",
           "context_terms": [
@@ -5903,8 +5903,26 @@
           "original_catalog_name": "MBS负凸性与利率对冲反馈",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/MBS负凸性引发的利率对冲反馈.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/MBS负凸性引发的利率对冲反馈.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-BOND-07",
+                "C-IR-CURVE"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-BOND-07",
+                "C-IR-CURVE"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -6038,8 +6056,8 @@
             "C-FX-14",
             "C-ASSET-GOLD"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/央行购金与黄金需求结构.md",
           "catalog_anchor": "R-GOLD-03",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-GOLD-03",
           "context_terms": [
@@ -6061,8 +6079,28 @@
           "original_catalog_name": "央行购金与黄金需求结构",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/央行购金与黄金需求结构.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/央行购金与黄金需求结构.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FX-14",
+                "C-ASSET-GOLD"
+              ],
+              "related_mechanism_ids": [
+                "R-INTERNATIONAL-13"
+              ]
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FX-14",
+                "C-ASSET-GOLD"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-ASSET-STOCKBOND",
@@ -6074,8 +6112,8 @@
             "C-INF-INFLATION",
             "C-IR-TERM"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/股债相关性与通胀／增长主导状态.md",
           "catalog_anchor": "R-ASSET-STOCKBOND",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-ASSET-STOCKBOND",
           "context_terms": [
@@ -6105,8 +6143,34 @@
           "original_catalog_name": "股债相关性与通胀/增长主导状态",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/股债相关性与通胀／增长主导状态.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/股债相关性与通胀／增长主导状态.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-ASSET-UST",
+                "C-INF-INFLATION"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-ASSET-UST",
+                "C-INF-INFLATION"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-ASSET-UST",
+                "C-IR-TERM"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -6124,8 +6188,8 @@
             "C-COMMOD-13",
             "C-INF-INFLATION"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/原油供给冲击的宏观传导.md",
           "catalog_anchor": "R-OIL-SHOCK",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-OIL-SHOCK",
           "context_terms": [
@@ -6150,8 +6214,26 @@
           "original_catalog_name": "原油供给中断与价格、通胀、增长",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/原油供给冲击的宏观传导.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/原油供给冲击的宏观传导.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-COMMOD-03",
+                "C-COMMOD-13"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-COMMOD-03",
+                "C-INF-INFLATION"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-COMMODITY-03",
@@ -6164,8 +6246,8 @@
             "C-COMMOD-06",
             "C-COMMOD-09"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/库存与便利收益、期货曲线.md",
           "catalog_anchor": "R-COMMODITY-03",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-COMMODITY-03",
           "context_terms": [
@@ -6198,8 +6280,34 @@
           "original_catalog_name": "库存与便利收益、期货曲线",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/库存与便利收益、期货曲线.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/库存与便利收益、期货曲线.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-COMMOD-03",
+                "C-COMMOD-06"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-COMMOD-03",
+                "C-COMMOD-06"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-COMMOD-04",
+                "C-COMMOD-09"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-COMMODITY-08",
@@ -13371,10 +13479,10 @@
   "maintenance_revision": "title_filenames_20261029",
   "build_progress": {
     "as_of": "2026-10-30",
-    "authored_nodes": 168,
-    "pending_nodes": 66,
-    "complete_concepts": 117,
-    "complete_mechanisms": 51,
+    "authored_nodes": 178,
+    "pending_nodes": 56,
+    "complete_concepts": 122,
+    "complete_mechanisms": 56,
     "review": "../50_reviews/FULL_BUILD_20261028/MAIN_REVIEW.json"
   },
   "file_naming": {

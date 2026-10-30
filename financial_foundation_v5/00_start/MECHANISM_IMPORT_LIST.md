@@ -1,6 +1,6 @@
 # 金融关系／机制正式目录 v5
 
-初步建图范围确认：2026-10-25。共 **71 个关系／机制，16 个主题组**；正文 **51 份已完成、20 份待完成主审**（进度更新：2026-10-30）。
+初步建图范围确认：2026-10-25。共 **71 个关系／机制，16 个主题组**；正文 **56 份已完成、15 份待完成主审**（进度更新：2026-10-30）。
 
 本表只列已确认入选的关系。原177项的勾叉与最终名称见[完整审阅表](../50_reviews/MECHANISM_SELECTION_177.md)，未入选106项见[旧ID登记](MECHANISM_ARCHIVE.md)。
 
@@ -22,9 +22,9 @@
 | 跨境、美元与汇率机制 | 10 | 3 | 10 | 0 |
 | 股票与公司定价机制 | 2 | 1 | 2 | 0 |
 | 资金流与市场微观结构 | 7 | 0 | 7 | 0 |
-| 衍生品与波动机制 | 6 | 1 | 5 | 1 |
-| 黄金与跨资产机制 | 3 | 2 | 1 | 2 |
-| 能源与商品机制 | 3 | 1 | 0 | 3 |
+| 衍生品与波动机制 | 6 | 1 | 6 | 0 |
+| 黄金与跨资产机制 | 3 | 2 | 3 | 0 |
+| 能源与商品机制 | 3 | 1 | 2 | 1 |
 | 中国信用、地产与财政传导 | 7 | 2 | 0 | 7 |
 | 中国资产与政策机制 | 1 | 0 | 0 | 1 |
 | 科技与AI产业机制 | 2 | 0 | 0 | 2 |
@@ -125,22 +125,22 @@
 | <a id="R-DERIVATIVES-03"></a>R-DERIVATIVES-03 | 做市商Gamma对冲的价格反馈 | [程序化交易与做市 C-FLOW-10](../10_concepts/程序化交易与做市.md) | [Delta与Gamma（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-DERIV-07)；[动态对冲与对冲误差（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-DERIV-17)；[订单流失衡（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FLOW-02)；[价格冲击与市场容量（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FLOW-03) | 净持仓符号与交易规则 | P1 | complete／[正文](../20_mechanisms/做市商Gamma对冲的价格反馈.md) |
 | <a id="R-DERIVATIVES-06"></a>R-DERIVATIVES-06 | 波动率风险溢价与卖波收益风险 | [波动率风险溢价 C-DERIV-04](../10_concepts/波动率风险溢价.md)；[隐含波动率与实现波动率 C-VOL-IVRV](../10_concepts/隐含波动率与实现波动率.md)；[保证金与追加保证金 C-DERIV-14](../10_concepts/保证金与追加保证金.md) | [隐含分布与尾部概率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-DERIV-13)；[动态对冲与对冲误差（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-DERIV-17) | 尾部损失和交易成本 | P1 | complete／[正文](../20_mechanisms/波动率风险溢价与卖波收益风险.md) |
 | <a id="R-DERIVATIVES-07"></a>R-DERIVATIVES-07 | 偏斜与尾部保险需求 | [隐含波动率与实现波动率 C-VOL-IVRV](../10_concepts/隐含波动率与实现波动率.md)；[波动率风险溢价 C-DERIV-04](../10_concepts/波动率风险溢价.md) | [偏斜skew与微笑smile（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-DERIV-06)；[隐含分布与尾部概率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-DERIV-13)；[风险逆转与蝶式结构（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-DERIV-11)；[风险偏好与避险需求（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FLOW-14)；[持仓量与成交量（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-DERIV-16) | 供需、跳跃与持仓 | P1 | complete／[正文](../20_mechanisms/偏斜与尾部保险需求.md) |
-| <a id="R-DERIVATIVES-10"></a>R-DERIVATIVES-10 | MBS负凸性引发的利率对冲反馈 | [机构MBS C-BOND-07](../10_concepts/机构MBS.md)；[收益率曲线 C-IR-CURVE](../10_concepts/收益率曲线.md) | [凸性与负凸性（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-BOND-11)；[久期、修正久期与DV01（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-BOND-DURATION)；[动态对冲与对冲误差（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-DERIV-17) | 提前还款、久期和对冲方向 | P1 | pending／待完成主审 |
+| <a id="R-DERIVATIVES-10"></a>R-DERIVATIVES-10 | MBS负凸性引发的利率对冲反馈 | [机构MBS C-BOND-07](../10_concepts/机构MBS.md)；[收益率曲线 C-IR-CURVE](../10_concepts/收益率曲线.md) | [凸性与负凸性（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-BOND-11)；[久期、修正久期与DV01（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-BOND-DURATION)；[动态对冲与对冲误差（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-DERIV-17) | 提前还款、久期和对冲方向 | P1 | complete／[正文](../20_mechanisms/MBS负凸性引发的利率对冲反馈.md) |
 
 ## 黄金与跨资产机制
 
 | ID | 关系名称 | 关联对象 | 正文术语／相关关系 | 范围 | 优先级 | 正文状态 |
 |---|---|---|---|---|---|---|
 | <a id="R-GOLD-REALRATES"></a>R-GOLD-REALRATES | 黄金的机会成本机制 | [实际利率 C-IR-REAL](../10_concepts/实际利率.md)；[黄金 C-ASSET-GOLD](../10_concepts/黄金.md)；[政策利率与目标区间 C-IR-POLICY](../10_concepts/政策利率与目标区间.md) | [名义利率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-IR-NOMINAL)；[通胀预期（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-INF-EXPECT)；[风险偏好与避险需求（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FLOW-14)；[黄金ETF持仓与流量（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FLOW-GOLDETF)；相关关系：[美元信用与储备多元化 R-INTERNATIONAL-13](../20_mechanisms/美元信用与储备多元化.md) | 以同期限实际回报为主线，区分美元、需求与流动性带来的共同冲击 | P0 | complete／[正文](../20_mechanisms/黄金的机会成本机制.md) |
-| <a id="R-GOLD-03"></a>R-GOLD-03 | 央行购金与黄金需求结构 | [外汇储备 C-FX-14](../10_concepts/外汇储备.md)；[黄金 C-ASSET-GOLD](../10_concepts/黄金.md) | [央行与储备管理者（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-ACTOR-CB)；相关关系：[美元信用与储备多元化 R-INTERNATIONAL-13](../20_mechanisms/美元信用与储备多元化.md) | 储备目标、披露与估计 | P1 | pending／待完成主审 |
-| <a id="R-ASSET-STOCKBOND"></a>R-ASSET-STOCKBOND | 股债相关性与通胀/增长主导状态 | [美国国债 C-ASSET-UST](../10_concepts/美国国债.md)；[通货膨胀 C-INF-INFLATION](../10_concepts/通货膨胀.md)；[期限溢价 C-IR-TERM](../10_concepts/期限溢价.md) | [股票指数与权重方法（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQUITY-14)；[总需求（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-05)；[政策反应函数（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-POL-REACTION) | 冲击类型和政策反应 | P0 | pending／待完成主审 |
+| <a id="R-GOLD-03"></a>R-GOLD-03 | 央行购金与黄金需求结构 | [外汇储备 C-FX-14](../10_concepts/外汇储备.md)；[黄金 C-ASSET-GOLD](../10_concepts/黄金.md) | [央行与储备管理者（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-ACTOR-CB)；相关关系：[美元信用与储备多元化 R-INTERNATIONAL-13](../20_mechanisms/美元信用与储备多元化.md) | 储备目标、披露与估计 | P1 | complete／[正文](../20_mechanisms/央行购金与黄金需求结构.md) |
+| <a id="R-ASSET-STOCKBOND"></a>R-ASSET-STOCKBOND | 股债相关性与通胀/增长主导状态 | [美国国债 C-ASSET-UST](../10_concepts/美国国债.md)；[通货膨胀 C-INF-INFLATION](../10_concepts/通货膨胀.md)；[期限溢价 C-IR-TERM](../10_concepts/期限溢价.md) | [股票指数与权重方法（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQUITY-14)；[总需求（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-05)；[政策反应函数（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-POL-REACTION) | 冲击类型和政策反应 | P0 | complete／[正文](../20_mechanisms/股债相关性与通胀／增长主导状态.md) |
 
 ## 能源与商品机制
 
 | ID | 关系名称 | 关联对象 | 正文术语／相关关系 | 范围 | 优先级 | 正文状态 |
 |---|---|---|---|---|---|---|
-| <a id="R-OIL-SHOCK"></a>R-OIL-SHOCK | 原油供给冲击的宏观传导 | [原油与Brent/WTI C-COMMOD-03](../10_concepts/原油与Brent／WTI.md)；[OPEC与闲置产能 C-COMMOD-13](../10_concepts/OPEC与闲置产能.md)；[通货膨胀 C-INF-INFLATION](../10_concepts/通货膨胀.md) | [商品库存与库存消费比（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-10)；[家庭消费（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-06) | 库存和需求弹性 | P0 | pending／待完成主审 |
-| <a id="R-COMMODITY-03"></a>R-COMMODITY-03 | 库存与便利收益、期货曲线 | [原油与Brent/WTI C-COMMOD-03](../10_concepts/原油与Brent／WTI.md)；[天然气与LNG C-COMMOD-04](../10_concepts/天然气与LNG.md)；[铜与工业金属 C-COMMOD-06](../10_concepts/铜与工业金属.md)；[农产品 C-COMMOD-09](../10_concepts/农产品.md) | [商品库存与库存消费比（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-10)；[便利收益与储存成本（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-11)；[升水、贴水与期货曲线（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-12)；[期货与远期（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-DERIV-01) | 交割地和可用库存 | P1 | pending／待完成主审 |
+| <a id="R-OIL-SHOCK"></a>R-OIL-SHOCK | 原油供给冲击的宏观传导 | [原油与Brent/WTI C-COMMOD-03](../10_concepts/原油与Brent／WTI.md)；[OPEC与闲置产能 C-COMMOD-13](../10_concepts/OPEC与闲置产能.md)；[通货膨胀 C-INF-INFLATION](../10_concepts/通货膨胀.md) | [商品库存与库存消费比（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-10)；[家庭消费（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-06) | 库存和需求弹性 | P0 | complete／[正文](../20_mechanisms/原油供给冲击的宏观传导.md) |
+| <a id="R-COMMODITY-03"></a>R-COMMODITY-03 | 库存与便利收益、期货曲线 | [原油与Brent/WTI C-COMMOD-03](../10_concepts/原油与Brent／WTI.md)；[天然气与LNG C-COMMOD-04](../10_concepts/天然气与LNG.md)；[铜与工业金属 C-COMMOD-06](../10_concepts/铜与工业金属.md)；[农产品 C-COMMOD-09](../10_concepts/农产品.md) | [商品库存与库存消费比（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-10)；[便利收益与储存成本（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-11)；[升水、贴水与期货曲线（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-12)；[期货与远期（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-DERIV-01) | 交割地和可用库存 | P1 | complete／[正文](../20_mechanisms/库存与便利收益、期货曲线.md) |
 | <a id="R-COMMODITY-08"></a>R-COMMODITY-08 | 矿业投资与供给的周期反馈 | [铜与工业金属 C-COMMOD-06](../10_concepts/铜与工业金属.md) | [矿业资本开支与供给弹性（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-15)；[企业投资与资本开支（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-08)；[商品库存与库存消费比（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-10)；[盈利、收入与利润率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQ-EARNINGS) | 建设时滞、品位和需求 | P1 | pending／待完成主审 |
 
 ## 中国信用、地产与财政传导

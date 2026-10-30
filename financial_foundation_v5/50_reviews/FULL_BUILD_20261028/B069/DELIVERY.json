@@ -1,0 +1,53 @@
+{
+  "batch": "B069",
+  "author": "/root/full_b069",
+  "recovered_by": "/root",
+  "recovered_on": "2026-10-30",
+  "status": "recovered_interrupted_drafts_for_review",
+  "provenance_note": "Main reconstructed this delivery inventory from drafts surviving the interrupted run; it is not an original author delivery or a claim that original research logs were recovered.",
+  "items": [
+    {
+      "id": "R-OIL-SHOCK",
+      "path": "20_mechanisms/原油供给冲击的宏观传导.md",
+      "author": "/root/full_b069",
+      "evidence_as_of": "2026-05-13",
+      "source_urls": [
+        "https://www.worldbank.org/en/news/press-release/2023/10/26/commodity-markets-outlook-october-2023-press-release",
+        "https://www.iea.org/reports/oil-market-report-june-2025",
+        "https://www.iea.org/reports/oil-market-report-may-2026",
+        "https://www.ecb.europa.eu/press/key/date/2026/html/ecb.sp260513~5b14c78806.en.html"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B069/R-OIL-SHOCK_FIRST_DRAFT.md",
+      "first_draft_sha256": "c260f7d4faa8e174eeab5c65829419e49bacb640e82220ff36f70bbaebe57fb8",
+      "recovery": {
+        "path": "20_mechanisms/原油供给冲击的宏观传导.md",
+        "sha256_at_resume": "c260f7d4faa8e174eeab5c65829419e49bacb640e82220ff36f70bbaebe57fb8",
+        "original_author": "/root/full_b069",
+        "frozen_draft_existed": false,
+        "snapshot_note": "Main preserved the available interrupted draft before review; this is the first draft available at resume, not a newly delivered author draft."
+      }
+    },
+    {
+      "id": "R-COMMODITY-03",
+      "path": "20_mechanisms/库存与便利收益、期货曲线.md",
+      "author": "/root/full_b069",
+      "evidence_as_of": "2025",
+      "source_urls": [
+        "https://www.cmegroup.com/education/courses/introduction-to-base-metals/what-is-contango-and-backwardation",
+        "https://www.lme.com/-/media/Files/News/Notices/2021/10/TRADING-21-202-LME-COPPER-AMENDMENT-TO-LENDING-RULES-AND-IMPLEMENTATION-OF-A-BACKWARDATION-LIMIT-AND.pdf",
+        "https://www.eia.gov/todayinenergy/detail.php?id=43495",
+        "https://www.eia.gov/TodayinEnergy/detail.php?id=61484",
+        "https://www.cmegroup.com/articles/whitepapers/vol-is-high-by-the-fourth-of-july.html"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B069/R-COMMODITY-03_FIRST_DRAFT.md",
+      "first_draft_sha256": "e6afadf7886b71eb3de0aab4d358f66128c2ceeb6edde28858359293463f8c57",
+      "recovery": {
+        "path": "20_mechanisms/库存与便利收益、期货曲线.md",
+        "sha256_at_resume": "e6afadf7886b71eb3de0aab4d358f66128c2ceeb6edde28858359293463f8c57",
+        "original_author": "/root/full_b069",
+        "frozen_draft_existed": false,
+        "snapshot_note": "Main preserved the available interrupted draft before review; this is the first draft available at resume, not a newly delivered author draft."
+      }
+    }
+  ]
+}

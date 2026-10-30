@@ -1,0 +1,72 @@
+{
+  "batch": "B037",
+  "draft_author": "/root/resume_b037",
+  "updated": "2026-10-30",
+  "items": [
+    {
+      "id": "C-TECH-01",
+      "path": "10_concepts/人工智能算力.md",
+      "status": "draft_ready_for_review",
+      "evidence_as_of": "2025-02-18",
+      "source_urls": [
+        "https://arxiv.org/html/2407.21783v3",
+        "https://jax-ml.github.io/scaling-book/inference/",
+        "https://arxiv.org/pdf/2203.15556",
+        "https://arxiv.org/html/2412.19437v2",
+        "https://mlcommons.org/benchmarks/inference-datacenter/"
+      ],
+      "review_points": [
+        "FLOPs/GPU小时/MFU边界",
+        "历史论文版本与动态定义页分开",
+        "未报2026行业总量"
+      ],
+      "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-02",
+      "path": "10_concepts/GPU与AI加速器.md",
+      "status": "draft_ready_for_review",
+      "evidence_as_of": "2026-08-26",
+      "source_urls": [
+        "https://www.nvidia.com/en-us/data-center/h100/",
+        "https://docs.cloud.google.com/tpu/docs/v6e",
+        "https://cloud.google.com/blog/products/compute/trillium-tpu-is-ga",
+        "https://www.sec.gov/Archives/edgar/data/1045810/000104581025000209/nvda-20250727.htm",
+        "https://aws.amazon.com/blogs/aws/announcing-up-to-45-price-reduction-for-amazon-ec2-nvidia-gpu-accelerated-instances/",
+        "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/",
+        "https://nvidianews.nvidia.com/news/nvidia-announces-hopper-architecture-the-next-generation-of-accelerated-computing",
+        "https://mlcommons.org/benchmarks/inference-datacenter/"
+      ],
+      "review_points": [
+        "H100稀疏峰值与TPU规格的不可直接比性",
+        "2025 AWS P5按需降价44%不是芯片降价",
+        "2026财季是截至7月26日且指引未作为实现值"
+      ],
+      "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-03",
+      "path": "10_concepts/云服务与超大规模云厂商.md",
+      "status": "draft_ready_for_review",
+      "evidence_as_of": "2026-10-29",
+      "source_urls": [
+        "https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf",
+        "https://www.microsoft.com/investor/reports/ar25/",
+        "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+        "https://www.microsoft.com/en-us/investor/events/fy-2025/earnings-fy-2025-q4",
+        "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/default.aspx",
+        "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000012/googexhibit991q42025.htm",
+        "https://ir.aboutamazon.com/files/doc_earnings/2026/q3/earnings-result/AMZN-Q3-2026-Earnings-Release.pdf"
+      ],
+      "review_points": [
+        "财年/自然年、集团/云分部边界",
+        "资本开支现金与融资租赁分开",
+        "AWS 2026Q3年化1840亿非TTM1613.82亿",
+        "最新仅Amazon，另两家未完整更新2026季度"
+      ],
+      "node_ids_refined": false
+    }
+  ],
+  "status": "three_drafts_ready_for_review"
+}

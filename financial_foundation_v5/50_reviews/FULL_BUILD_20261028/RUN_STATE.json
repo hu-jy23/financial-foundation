@@ -1311,7 +1311,7 @@
       "batch": "B037",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "reviewed",
       "items": [
         {
           "id": "C-TECH-01",
@@ -1347,7 +1347,7 @@
       "batch": "B038",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "delivered_pending_review",
       "items": [
         {
           "id": "C-TECH-04",
@@ -1383,7 +1383,7 @@
       "batch": "B039",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "delivered_pending_review",
       "items": [
         {
           "id": "C-TECH-07",
@@ -1419,7 +1419,7 @@
       "batch": "B040",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "delivered_pending_review",
       "items": [
         {
           "id": "C-TECH-10",
@@ -1455,7 +1455,7 @@
       "batch": "B041",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "delivered_pending_review",
       "items": [
         {
           "id": "C-TECH-18",
@@ -1491,7 +1491,7 @@
       "batch": "B042",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "delivered_pending_review",
       "items": [
         {
           "id": "C-TECH-21",
@@ -1527,7 +1527,7 @@
       "batch": "B043",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "C-TECH-24",
@@ -1556,13 +1556,14 @@
           "node_ids": [],
           "group": "AI、科技与产业链"
         }
-      ]
+      ],
+      "agent": "/root/resume_b043"
     },
     {
       "batch": "B044",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "C-TECH-27",
@@ -1591,13 +1592,14 @@
           "node_ids": [],
           "group": "AI、科技与产业链"
         }
-      ]
+      ],
+      "agent": "/root/resume_b044"
     },
     {
       "batch": "B045",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "C-TECH-30",
@@ -1626,13 +1628,14 @@
           "node_ids": [],
           "group": "AI、科技与产业链"
         }
-      ]
+      ],
+      "agent": "/root/resume_b045"
     },
     {
       "batch": "B046",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "C-TECH-33",
@@ -1661,13 +1664,14 @@
           "node_ids": [],
           "group": "行业与经营暴露"
         }
-      ]
+      ],
+      "agent": "/root/resume_b046"
     },
     {
       "batch": "B047",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "C-SECTOR-02",
@@ -1696,13 +1700,14 @@
           "node_ids": [],
           "group": "行业与经营暴露"
         }
-      ]
+      ],
+      "agent": "/root/resume_b047"
     },
     {
       "batch": "B048",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "C-SECTOR-06",
@@ -1731,7 +1736,8 @@
           "node_ids": [],
           "group": "行业与经营暴露"
         }
-      ]
+      ],
+      "agent": "/root/resume_b048"
     },
     {
       "batch": "B049",
@@ -2604,7 +2610,7 @@
       "batch": "B068",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "reviewed",
       "items": [
         {
           "id": "R-DERIVATIVES-10",
@@ -2919,7 +2925,7 @@
       ]
     }
   ],
-  "reviewed_new_count": 156,
+  "reviewed_new_count": 166,
   "author_by_id": {
     "C-POL-CREDIBILITY": "/root/full_b001",
     "C-EXPECT-15": "/root/full_b001",
@@ -3047,24 +3053,24 @@
     "C-TECH-21": "/root/resume_b042",
     "C-TECH-22": "/root/resume_b042",
     "C-TECH-23": "/root/resume_b042",
-    "C-TECH-24": null,
-    "C-TECH-25": null,
-    "C-TECH-26": null,
-    "C-TECH-27": null,
-    "C-TECH-28": null,
-    "C-TECH-29": null,
-    "C-TECH-30": null,
-    "C-TECH-31": null,
-    "C-TECH-32": null,
-    "C-TECH-33": null,
-    "C-TECH-34": null,
-    "C-SECTOR-01": null,
-    "C-SECTOR-02": null,
-    "C-SECTOR-03": null,
-    "C-SECTOR-04": null,
-    "C-SECTOR-06": null,
-    "C-SECTOR-12": null,
-    "C-SECTOR-13": null,
+    "C-TECH-24": "/root/resume_b043",
+    "C-TECH-25": "/root/resume_b043",
+    "C-TECH-26": "/root/resume_b043",
+    "C-TECH-27": "/root/resume_b044",
+    "C-TECH-28": "/root/resume_b044",
+    "C-TECH-29": "/root/resume_b044",
+    "C-TECH-30": "/root/resume_b045",
+    "C-TECH-31": "/root/resume_b045",
+    "C-TECH-32": "/root/resume_b045",
+    "C-TECH-33": "/root/resume_b046",
+    "C-TECH-34": "/root/resume_b046",
+    "C-SECTOR-01": "/root/resume_b046",
+    "C-SECTOR-02": "/root/resume_b047",
+    "C-SECTOR-03": "/root/resume_b047",
+    "C-SECTOR-04": "/root/resume_b047",
+    "C-SECTOR-06": "/root/resume_b048",
+    "C-SECTOR-12": "/root/resume_b048",
+    "C-SECTOR-13": "/root/resume_b048",
     "C-CRYPTO-01": null,
     "C-CRYPTO-02": null,
     "C-CRYPTO-03": null,

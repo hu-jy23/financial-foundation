@@ -1,0 +1,50 @@
+{
+  "batch": "B038",
+  "draft_author": "/root/resume_b038",
+  "updated": "2026-10-30",
+  "status": "all_drafts_ready_for_review",
+  "items": [
+    {
+      "id": "C-TECH-04",
+      "path": "10_concepts/数据中心.md",
+      "status": "draft_ready_for_review",
+      "first_draft": "C-TECH-04_FIRST_DRAFT.md",
+      "evidence_as_of": "2026-04-16",
+      "source_urls": [
+        "https://www.iea.org/reports/energy-and-ai/energy-demand-from-ai",
+        "https://www.energy.gov/sites/default/files/2024-07/best-practice-guide-data-center-design_0.pdf",
+        "https://bies.lbl.gov/news/berkeley-lab-report-evaluates-increase-electricity-demand-data-centers",
+        "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary"
+      ],
+      "review_points": [
+        "IT/设施功率和全年PUE边界",
+        "2024版美国预测与2026全球更新信息集",
+        "新版LBNL正文验证墙，未采用摘要数字"
+      ],
+      "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-05",
+      "path": "10_concepts/电力、电网与发电容量.md",
+      "status": "draft_ready_for_review",
+      "first_draft": "C-TECH-05_FIRST_DRAFT.md",
+      "evidence_as_of": "2026-05",
+      "source_urls": [
+        "https://www.eia.gov/tools/faqs/faq.php?id=101&t=3",
+        "https://www.pjm.com/-/media/DotCom/about-pjm/newsroom/fact-sheets/elcc-measures-capacity-contribution-of-renewable-and-storage-resources.pdf",
+        "https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions/executive-summary",
+        "https://eta.lbl.gov/publications/queued-2026-edition-characteristics",
+        "https://www.ferc.gov/explainer-interconnection-final-rule",
+        "https://www.iea.org/reports/energy-and-ai/energy-supply-for-ai",
+        "https://www.iea.org/reports/key-questions-on-energy-and-ai/executive-summary"
+      ],
+      "review_points": [
+        "容量因子与ELCC区别",
+        "LBNL发电队列明确排除负荷/配电/表后",
+        "2026年5月发布与2025末观测分开",
+        "FERC仅制度历史未通读法律文本"
+      ],
+      "node_ids_refined": false
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "batch": "B068",
+  "author": "/root/full_b068",
+  "recovered_by": "/root",
+  "recovered_on": "2026-10-30",
+  "status": "recovered_interrupted_drafts_for_review",
+  "provenance_note": "Main reconstructed this delivery inventory from drafts surviving the interrupted run; it is not an original author delivery or a claim that original research logs were recovered.",
+  "items": [
+    {
+      "id": "R-DERIVATIVES-10",
+      "path": "20_mechanisms/MBS负凸性引发的利率对冲反馈.md",
+      "author": "/root/full_b068",
+      "evidence_as_of": "2026-02",
+      "source_urls": [
+        "https://www.federalreserve.gov/pubs/feds/2003/200349/200349pap.pdf",
+        "https://libertystreeteconomics.newyorkfed.org/2014/03/convexity-event-risks-in-a-rising-interest-rate-environment/",
+        "https://www.sec.gov/Archives/edgar/data/1026214/000102621426000021/fmcc-20251231.htm"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B068/R-DERIVATIVES-10_FIRST_DRAFT.md",
+      "first_draft_sha256": "ca1d0e7e63d80b97fadbcfae7a051fe16248137e2664bb2b9d51d19d671e159b",
+      "recovery": {
+        "path": "20_mechanisms/MBS负凸性引发的利率对冲反馈.md",
+        "sha256_at_resume": "ca1d0e7e63d80b97fadbcfae7a051fe16248137e2664bb2b9d51d19d671e159b",
+        "original_author": "/root/full_b068",
+        "frozen_draft_existed": false,
+        "snapshot_note": "Main preserved the available interrupted draft before review; this is the first draft available at resume, not a newly delivered author draft."
+      }
+    },
+    {
+      "id": "R-GOLD-03",
+      "path": "20_mechanisms/央行购金与黄金需求结构.md",
+      "author": "/root/full_b068",
+      "evidence_as_of": "2026-09",
+      "source_urls": [
+        "https://www.gold.org/goldhub/research/central-bank-gold-reserves-survey-2025",
+        "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-full-year-2025/central-banks",
+        "https://www.cnb.cz/en/financial-markets/the-cnbs-gold/",
+        "https://www.cnb.cz/export/sites/cnb/en/about_cnb/.galleries/performance/download/ruz_2025_en.pdf"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B068/R-GOLD-03_FIRST_DRAFT.md",
+      "first_draft_sha256": "8131766c362f00856f6b174ad0d3e0ada758cfd7e2fbb7303dee1aad21a02e15",
+      "recovery": {
+        "path": "20_mechanisms/央行购金与黄金需求结构.md",
+        "sha256_at_resume": "8131766c362f00856f6b174ad0d3e0ada758cfd7e2fbb7303dee1aad21a02e15",
+        "original_author": "/root/full_b068",
+        "frozen_draft_existed": false,
+        "snapshot_note": "Main preserved the available interrupted draft before review; this is the first draft available at resume, not a newly delivered author draft."
+      }
+    },
+    {
+      "id": "R-ASSET-STOCKBOND",
+      "path": "20_mechanisms/股债相关性与通胀／增长主导状态.md",
+      "author": "/root/full_b068",
+      "evidence_as_of": "2026-10-16",
+      "source_urls": [
+        "https://www.federalreserve.gov/econres/notes/feds-notes/government-bonds-safe-haven-property-and-inflationary-pressures-20261016.html",
+        "https://www.bis.org/publications/qr-202312/markets-adjust-to-higher-longer",
+        "https://www.hbs.edu/ris/Publication%20Files/CampbellPfluegerViceira_JPE2020_c649d0cf-589b-4493-b695-c51d2ac45d48.pdf"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B068/R-ASSET-STOCKBOND_FIRST_DRAFT.md",
+      "first_draft_sha256": "2b5058ba6769f6bcda88befa1fcdf9546fcd767b3db777bdc74e8fdc8094d355",
+      "recovery": {
+        "path": "20_mechanisms/股债相关性与通胀／增长主导状态.md",
+        "sha256_at_resume": "2b5058ba6769f6bcda88befa1fcdf9546fcd767b3db777bdc74e8fdc8094d355",
+        "original_author": "/root/full_b068",
+        "frozen_draft_existed": false,
+        "snapshot_note": "Main preserved the available interrupted draft before review; this is the first draft available at resume, not a newly delivered author draft."
+      }
+    }
+  ]
+}
