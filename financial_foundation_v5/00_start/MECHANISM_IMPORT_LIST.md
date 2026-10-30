@@ -1,6 +1,6 @@
 # 金融关系／机制正式目录 v5
 
-初步建图范围确认：2026-10-25。共 **71 个关系／机制，16 个主题组**；正文 **57 份已完成、14 份待完成主审**（进度更新：2026-10-30）。
+初步建图范围确认：2026-10-25。共 **71 个关系／机制，16 个主题组**；正文 **65 份已完成、6 份待完成主审**（进度更新：2026-10-30）。
 
 本表只列已确认入选的关系。原177项的勾叉与最终名称见[完整审阅表](../50_reviews/MECHANISM_SELECTION_177.md)，未入选106项见[旧ID登记](MECHANISM_ARCHIVE.md)。
 
@@ -25,9 +25,9 @@
 | 衍生品与波动机制 | 6 | 1 | 6 | 0 |
 | 黄金与跨资产机制 | 3 | 2 | 3 | 0 |
 | 能源与商品机制 | 3 | 1 | 2 | 1 |
-| 中国信用、地产与财政传导 | 7 | 2 | 1 | 6 |
-| 中国资产与政策机制 | 1 | 0 | 0 | 1 |
-| 科技与AI产业机制 | 2 | 0 | 0 | 2 |
+| 中国信用、地产与财政传导 | 7 | 2 | 7 | 0 |
+| 中国资产与政策机制 | 1 | 0 | 1 | 0 |
+| 科技与AI产业机制 | 2 | 0 | 1 | 1 |
 | 政治、制度与长期变化 | 2 | 0 | 0 | 2 |
 | 数字资产传导 | 2 | 0 | 0 | 2 |
 
@@ -92,10 +92,10 @@
 | <a id="R-JPY-CARRY"></a>R-JPY-CARRY | 日元套息交易的平仓反馈 | [日元 C-FX-03](../10_concepts/日元.md)；[套息交易 C-FX-17](../10_concepts/套息交易.md)；[隐含波动率与实现波动率 C-VOL-IVRV](../10_concepts/隐含波动率与实现波动率.md) | [利差与汇率对冲成本（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FX-08)；[杠杆与去杠杆（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CREDIT-LEVERAGE)；[价格冲击与市场容量（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FLOW-03) | 利差、汇率波动和杠杆 | P0 | complete／[正文](../20_mechanisms/日元套息交易的平仓反馈.md) |
 | <a id="R-INTERNATIONAL-07"></a>R-INTERNATIONAL-07 | 汇率对冲成本对跨境债券配置的影响 | [跨币种基差 C-FX-10](../10_concepts/跨币种基差.md)；[美国国债 C-ASSET-UST](../10_concepts/美国国债.md)；[收益率曲线 C-IR-CURVE](../10_concepts/收益率曲线.md) | [利差与汇率对冲成本（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FX-08)；[日本投资者海外资产配置（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-ASIA-13) | 对冲比例和负债币种 | P1 | complete／[正文](../20_mechanisms/汇率对冲成本对跨境债券配置的影响.md) |
 | <a id="R-INTERNATIONAL-09"></a>R-INTERNATIONAL-09 | 资本流出、储备干预与本币流动性 | [资本流动与资本管制 C-FX-13](../10_concepts/资本流动与资本管制.md)；[外汇储备 C-FX-14](../10_concepts/外汇储备.md)；[外汇干预 C-FX-18](../10_concepts/外汇干预.md)；[银行准备金 C-MONEY-RESERVES](../10_concepts/银行准备金.md) | [公开市场操作（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MONEY-06) | 是否冲销及资本管制 | P1 | complete／[正文](../20_mechanisms/资本流出、储备干预与本币流动性.md) |
-| <a id="R-INTERNATIONAL-12"></a>R-INTERNATIONAL-12 | 美元主导地位的形成与维持 | [美元 C-FX-USD](../10_concepts/美元.md)；[国际支付与清算体系 C-GLOBAL-13](CONCEPT_IMPORT_LIST.md#C-GLOBAL-13)；[外汇储备 C-FX-14](../10_concepts/外汇储备.md)；[美国国债 C-ASSET-UST](../10_concepts/美国国债.md)；[美元互换额度 C-MONEY-12](../10_concepts/美元互换额度.md) | — | 支付、计价、融资与储备使用之间的联系，以及网络效应和路径依赖。 | P1 | complete／[正文](../20_mechanisms/美元主导地位的形成与维持.md) |
-| <a id="R-INTERNATIONAL-13"></a>R-INTERNATIONAL-13 | 美元信用与储备多元化 | [美元 C-FX-USD](../10_concepts/美元.md)；[外汇储备 C-FX-14](../10_concepts/外汇储备.md)；[美国国债 C-ASSET-UST](../10_concepts/美国国债.md)；[黄金 C-ASSET-GOLD](../10_concepts/黄金.md)；[国际支付与清算体系 C-GLOBAL-13](CONCEPT_IMPORT_LIST.md#C-GLOBAL-13) | — | 美元信用、资产权利与储备配置变化；替代资产的流动性、收益和托管约束。 | P1 | complete／[正文](../20_mechanisms/美元信用与储备多元化.md) |
+| <a id="R-INTERNATIONAL-12"></a>R-INTERNATIONAL-12 | 美元主导地位的形成与维持 | [美元 C-FX-USD](../10_concepts/美元.md)；[国际支付与清算体系 C-GLOBAL-13](../10_concepts/国际支付与清算体系.md)；[外汇储备 C-FX-14](../10_concepts/外汇储备.md)；[美国国债 C-ASSET-UST](../10_concepts/美国国债.md)；[美元互换额度 C-MONEY-12](../10_concepts/美元互换额度.md) | — | 支付、计价、融资与储备使用之间的联系，以及网络效应和路径依赖。 | P1 | complete／[正文](../20_mechanisms/美元主导地位的形成与维持.md) |
+| <a id="R-INTERNATIONAL-13"></a>R-INTERNATIONAL-13 | 美元信用与储备多元化 | [美元 C-FX-USD](../10_concepts/美元.md)；[外汇储备 C-FX-14](../10_concepts/外汇储备.md)；[美国国债 C-ASSET-UST](../10_concepts/美国国债.md)；[黄金 C-ASSET-GOLD](../10_concepts/黄金.md)；[国际支付与清算体系 C-GLOBAL-13](../10_concepts/国际支付与清算体系.md) | — | 美元信用、资产权利与储备配置变化；替代资产的流动性、收益和托管约束。 | P1 | complete／[正文](../20_mechanisms/美元信用与储备多元化.md) |
 | <a id="R-INTERNATIONAL-14"></a>R-INTERNATIONAL-14 | 港元联系汇率与HIBOR传导 | [港元联系汇率 C-FX-05](../10_concepts/港元联系汇率.md)；[资本流动与资本管制 C-FX-13](../10_concepts/资本流动与资本管制.md)；[银行准备金 C-MONEY-RESERVES](../10_concepts/银行准备金.md)；[政策利率与目标区间 C-IR-POLICY](../10_concepts/政策利率与目标区间.md)；[融资流动性 C-LIQ-FUND](../10_concepts/融资流动性.md) | — | 资金流和货币发行局 | P1 | complete／[正文](../20_mechanisms/港元联系汇率与HIBOR传导.md) |
-| <a id="R-RMB-INTERNATIONALIZATION"></a>R-RMB-INTERNATIONALIZATION | 人民币国际化 | [人民币与离岸人民币 C-FX-02](../10_concepts/人民币与离岸人民币.md)；[资本流动与资本管制 C-FX-13](../10_concepts/资本流动与资本管制.md)；[外汇储备 C-FX-14](../10_concepts/外汇储备.md)；[国际支付与清算体系 C-GLOBAL-13](CONCEPT_IMPORT_LIST.md#C-GLOBAL-13)；[中国国债与政策性金融债 C-BOND-03](../10_concepts/中国国债与政策性金融债.md) | — | 人民币跨境结算、融资和储备使用的联系，以及支付渠道、资本流动制度与资产供给约束。 | P1 | complete／[正文](../20_mechanisms/人民币国际化.md) |
+| <a id="R-RMB-INTERNATIONALIZATION"></a>R-RMB-INTERNATIONALIZATION | 人民币国际化 | [人民币与离岸人民币 C-FX-02](../10_concepts/人民币与离岸人民币.md)；[资本流动与资本管制 C-FX-13](../10_concepts/资本流动与资本管制.md)；[外汇储备 C-FX-14](../10_concepts/外汇储备.md)；[国际支付与清算体系 C-GLOBAL-13](../10_concepts/国际支付与清算体系.md)；[中国国债与政策性金融债 C-BOND-03](../10_concepts/中国国债与政策性金融债.md) | — | 人民币跨境结算、融资和储备使用的联系，以及支付渠道、资本流动制度与资产供给约束。 | P1 | complete／[正文](../20_mechanisms/人民币国际化.md) |
 
 ## 股票与公司定价机制
 
@@ -148,24 +148,24 @@
 | ID | 关系名称 | 关联对象 | 正文术语／相关关系 | 范围 | 优先级 | 正文状态 |
 |---|---|---|---|---|---|---|
 | <a id="R-CHINA-01"></a>R-CHINA-01 | 降准的资金与信贷传导 | [存款准备金率与降准 C-CHINA-06](../10_concepts/存款准备金率与降准.md)；[银行准备金 C-MONEY-RESERVES](../10_concepts/银行准备金.md)；[人民币贷款与票据融资 C-CHINA-05](../10_concepts/人民币贷款与票据融资.md)；[DR007、R007与同业存单 C-CHINA-09](../10_concepts/DR007、R007与同业存单.md) | [贷款标准与贷款需求（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CREDIT-05) | 银行约束和贷款需求 | P1 | complete／[正文](../20_mechanisms/降准的资金与信贷传导.md) |
-| <a id="R-CHINA-02"></a>R-CHINA-02 | 政策利率的LPR传导渠道 | [MLF、逆回购与结构性工具 C-CHINA-07](../10_concepts/MLF、逆回购与结构性工具.md)；[LPR与贷款定价 C-CHINA-08](../10_concepts/LPR与贷款定价.md)；[DR007、R007与同业存单 C-CHINA-09](../10_concepts/DR007、R007与同业存单.md)；[净息差NIM C-CREDIT-04](../10_concepts/净息差NIM.md)；[人民币贷款与票据融资 C-CHINA-05](../10_concepts/人民币贷款与票据融资.md) | — | 银行负债成本和信用分层 | P1 | pending／待完成主审 |
-| <a id="R-CN-CREDIT"></a>R-CN-CREDIT | 社融结构、信用脉冲与实体需求 | [社会融资规模 C-CN-TSF](../10_concepts/社会融资规模.md)；[人民币贷款与票据融资 C-CHINA-05](../10_concepts/人民币贷款与票据融资.md)；[地方政府债 C-BOND-04](../10_concepts/地方政府债.md) | [信用脉冲（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CHINA-04)；[企业投资与资本开支（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-08)；[家庭消费（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-06) | 政府/企业/居民分项 | P0 | pending／待完成主审 |
-| <a id="R-CN-PROPERTY"></a>R-CN-PROPERTY | 房地产开发的现金流循环 | [房地产预售与保交楼 C-CHINA-14](../10_concepts/房地产预售与保交楼.md)；[房地产融资与住房按揭 C-CHINA-15](../10_concepts/房地产融资与住房按揭.md)；[房地产开发与物业 C-SECTOR-06](CONCEPT_IMPORT_LIST.md#C-SECTOR-06) | [地产销售、库存与土地购置（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CHINA-16)；[经营现金流、资本开支与自由现金流（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQUITY-04) | 预售、融资和交付 | P0 | pending／待完成主审 |
-| <a id="R-CHINA-05"></a>R-CHINA-05 | 土地财政的基建融资机制 | [土地财政 C-CHINA-11](../10_concepts/土地财政.md)；[财政部与地方财政 C-CHINA-02](../10_concepts/财政部与地方财政.md) | [地产销售、库存与土地购置（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CHINA-16)；[建筑、建材与基建（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-SECTOR-07)；[预算、拨款与执行（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FISCAL-16) | 资金来源与项目执行 | P1 | pending／待完成主审 |
-| <a id="R-CHINA-06"></a>R-CHINA-06 | 地方化债的资产负债表传导 | [地方债务置换与化债 C-CHINA-13](../10_concepts/地方债务置换与化债.md)；[地方融资平台LGFV C-CHINA-12](../10_concepts/地方融资平台LGFV.md)；[地方政府债 C-BOND-04](../10_concepts/地方政府债.md) | [不良贷款与拨备（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CREDIT-14)；[建筑、建材与基建（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-SECTOR-07)；[经营现金流、资本开支与自由现金流（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQUITY-04) | 债务置换和新增融资分开 | P1 | pending／待完成主审 |
-| <a id="R-CHINA-12"></a>R-CHINA-12 | 存款迁移的债市传导 | [挤兑与存款迁移 C-CREDIT-15](../10_concepts/挤兑与存款迁移.md)；[证券与资管业 C-SECTOR-03](CONCEPT_IMPORT_LIST.md#C-SECTOR-03)；[中国国债与政策性金融债 C-BOND-03](../10_concepts/中国国债与政策性金融债.md)；[DR007、R007与同业存单 C-CHINA-09](../10_concepts/DR007、R007与同业存单.md) | [广义货币与存款（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MONEY-03)；[基金流量与资产配置（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FLOW-07) | 存款利率、理财和风险偏好 | P1 | pending／待完成主审 |
+| <a id="R-CHINA-02"></a>R-CHINA-02 | 政策利率的LPR传导渠道 | [MLF、逆回购与结构性工具 C-CHINA-07](../10_concepts/MLF、逆回购与结构性工具.md)；[LPR与贷款定价 C-CHINA-08](../10_concepts/LPR与贷款定价.md)；[DR007、R007与同业存单 C-CHINA-09](../10_concepts/DR007、R007与同业存单.md)；[净息差NIM C-CREDIT-04](../10_concepts/净息差NIM.md)；[人民币贷款与票据融资 C-CHINA-05](../10_concepts/人民币贷款与票据融资.md) | — | 银行负债成本和信用分层 | P1 | complete／[正文](../20_mechanisms/政策利率的LPR传导渠道.md) |
+| <a id="R-CN-CREDIT"></a>R-CN-CREDIT | 社融结构、信用脉冲与实体需求 | [社会融资规模 C-CN-TSF](../10_concepts/社会融资规模.md)；[人民币贷款与票据融资 C-CHINA-05](../10_concepts/人民币贷款与票据融资.md)；[地方政府债 C-BOND-04](../10_concepts/地方政府债.md) | [信用脉冲（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CHINA-04)；[企业投资与资本开支（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-08)；[家庭消费（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-06) | 政府/企业/居民分项 | P0 | complete／[正文](../20_mechanisms/社融结构、信用脉冲与实体需求.md) |
+| <a id="R-CN-PROPERTY"></a>R-CN-PROPERTY | 房地产开发的现金流循环 | [房地产预售与保交楼 C-CHINA-14](../10_concepts/房地产预售与保交楼.md)；[房地产融资与住房按揭 C-CHINA-15](../10_concepts/房地产融资与住房按揭.md)；[房地产开发与物业 C-SECTOR-06](../10_concepts/房地产开发与物业.md) | [地产销售、库存与土地购置（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CHINA-16)；[经营现金流、资本开支与自由现金流（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQUITY-04) | 预售、融资和交付 | P0 | complete／[正文](../20_mechanisms/房地产开发的现金流循环.md) |
+| <a id="R-CHINA-05"></a>R-CHINA-05 | 土地财政的基建融资机制 | [土地财政 C-CHINA-11](../10_concepts/土地财政.md)；[财政部与地方财政 C-CHINA-02](../10_concepts/财政部与地方财政.md) | [地产销售、库存与土地购置（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CHINA-16)；[建筑、建材与基建（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-SECTOR-07)；[预算、拨款与执行（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FISCAL-16) | 资金来源与项目执行 | P1 | complete／[正文](../20_mechanisms/土地财政的基建融资机制.md) |
+| <a id="R-CHINA-06"></a>R-CHINA-06 | 地方化债的资产负债表传导 | [地方债务置换与化债 C-CHINA-13](../10_concepts/地方债务置换与化债.md)；[地方融资平台LGFV C-CHINA-12](../10_concepts/地方融资平台LGFV.md)；[地方政府债 C-BOND-04](../10_concepts/地方政府债.md) | [不良贷款与拨备（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CREDIT-14)；[建筑、建材与基建（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-SECTOR-07)；[经营现金流、资本开支与自由现金流（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQUITY-04) | 债务置换和新增融资分开 | P1 | complete／[正文](../20_mechanisms/地方化债的资产负债表传导.md) |
+| <a id="R-CHINA-12"></a>R-CHINA-12 | 存款迁移的债市传导 | [挤兑与存款迁移 C-CREDIT-15](../10_concepts/挤兑与存款迁移.md)；[证券与资管业 C-SECTOR-03](../10_concepts/证券与资管业.md)；[中国国债与政策性金融债 C-BOND-03](../10_concepts/中国国债与政策性金融债.md)；[DR007、R007与同业存单 C-CHINA-09](../10_concepts/DR007、R007与同业存单.md) | [广义货币与存款（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MONEY-03)；[基金流量与资产配置（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FLOW-07) | 存款利率、理财和风险偏好 | P1 | complete／[正文](../20_mechanisms/存款迁移的债市传导.md) |
 
 ## 中国资产与政策机制
 
 | ID | 关系名称 | 关联对象 | 正文术语／相关关系 | 范围 | 优先级 | 正文状态 |
 |---|---|---|---|---|---|---|
-| <a id="R-CHINA_MARKET-07"></a>R-CHINA_MARKET-07 | A/H溢价的市场分割机制 | [A/H溢价 C-ASIA-10](CONCEPT_IMPORT_LIST.md#C-ASIA-10)；[A股市场 C-ASIA-01](../10_concepts/A股市场.md)；[港股市场 C-ASIA-02](../10_concepts/港股市场.md)；[沪深港通与南北向资金 C-ASIA-03](../10_concepts/沪深港通与南北向资金.md)；[人民币与离岸人民币 C-FX-02](../10_concepts/人民币与离岸人民币.md)；[港元联系汇率 C-FX-05](../10_concepts/港元联系汇率.md) | — | 汇率、投资者和交易约束 | P1 | pending／待完成主审 |
+| <a id="R-CHINA_MARKET-07"></a>R-CHINA_MARKET-07 | A/H溢价的市场分割机制 | [A/H溢价 C-ASIA-10](../10_concepts/A／H溢价.md)；[A股市场 C-ASIA-01](../10_concepts/A股市场.md)；[港股市场 C-ASIA-02](../10_concepts/港股市场.md)；[沪深港通与南北向资金 C-ASIA-03](../10_concepts/沪深港通与南北向资金.md)；[人民币与离岸人民币 C-FX-02](../10_concepts/人民币与离岸人民币.md)；[港元联系汇率 C-FX-05](../10_concepts/港元联系汇率.md) | — | 汇率、投资者和交易约束 | P1 | complete／[正文](../20_mechanisms/A／H溢价的市场分割机制.md) |
 
 ## 科技与AI产业机制
 
 | ID | 关系名称 | 关联对象 | 正文术语／相关关系 | 范围 | 优先级 | 正文状态 |
 |---|---|---|---|---|---|---|
-| <a id="R-TECH-03"></a>R-TECH-03 | 模型效率、推理成本与总算力需求 | [人工智能算力 C-TECH-01](CONCEPT_IMPORT_LIST.md#C-TECH-01)；[云服务与超大规模云厂商 C-TECH-03](CONCEPT_IMPORT_LIST.md#C-TECH-03)；[GPU与AI加速器 C-TECH-02](CONCEPT_IMPORT_LIST.md#C-TECH-02) | [AI模型能力与推理成本（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-TECH-12)；[AI应用收入与商业化（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-TECH-13) | 单位成本下降和需求弹性 | P1 | pending／待完成主审 |
+| <a id="R-TECH-03"></a>R-TECH-03 | 模型效率、推理成本与总算力需求 | [人工智能算力 C-TECH-01](../10_concepts/人工智能算力.md)；[云服务与超大规模云厂商 C-TECH-03](../10_concepts/云服务与超大规模云厂商.md)；[GPU与AI加速器 C-TECH-02](../10_concepts/GPU与AI加速器.md) | [AI模型能力与推理成本（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-TECH-12)；[AI应用收入与商业化（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-TECH-13) | 单位成本下降和需求弹性 | P1 | complete／[正文](../20_mechanisms/模型效率、推理成本与总算力需求.md) |
 | <a id="R-TECH-12"></a>R-TECH-12 | 平台网络效应 | [云服务与超大规模云厂商 C-TECH-03](CONCEPT_IMPORT_LIST.md#C-TECH-03) | [平台竞争与网络效应（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-TECH-16)；[AI应用收入与商业化（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-TECH-13)；[盈利、收入与利润率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQ-EARNINGS)；[估值倍数PE/PB/EV-EBITDA（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQUITY-06) | 切换成本、开放生态与监管 | P1 | pending／待完成主审 |
 
 ## 政治、制度与长期变化

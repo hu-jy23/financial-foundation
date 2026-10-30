@@ -4,15 +4,15 @@
       "groups": 18,
       "items": 163,
       "p0": 21,
-      "complete": 161,
-      "pending": 2
+      "complete": 163,
+      "pending": 0
     },
     "mechanisms": {
       "groups": 16,
       "items": 71,
       "p0": 21,
-      "complete": 57,
-      "pending": 14
+      "complete": 65,
+      "pending": 6
     },
     "excluded_concepts": {
       "items": 186,
@@ -1796,8 +1796,8 @@
           "name": "恒生指数与恒生科技指数",
           "scope": "成分、权重和行业敞口",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/恒生指数与恒生科技指数.md",
           "catalog_anchor": "C-ASIA-11",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-11",
           "role": "domain_objects",
@@ -1938,8 +1938,8 @@
           "name": "国际支付与清算体系",
           "scope": "网络、币种与流动性",
           "priority": "P1",
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../10_concepts/国际支付与清算体系.md",
           "catalog_anchor": "C-GLOBAL-13",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-GLOBAL-13",
           "role": "domain_objects",
@@ -6428,8 +6428,8 @@
             "C-CREDIT-04",
             "C-CHINA-05"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/政策利率的LPR传导渠道.md",
           "catalog_anchor": "R-CHINA-02",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CHINA-02",
           "context_terms": [],
@@ -6438,8 +6438,29 @@
           "original_catalog_name": "政策利率、LPR与实体融资成本",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/政策利率的LPR传导渠道.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/政策利率的LPR传导渠道.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CHINA-07",
+                "C-CHINA-09",
+                "C-CHINA-08"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CHINA-09",
+                "C-CREDIT-04",
+                "C-CHINA-08",
+                "C-CHINA-05"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-CN-CREDIT",
@@ -6451,8 +6472,8 @@
             "C-CHINA-05",
             "C-BOND-04"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/社融结构、信用脉冲与实体需求.md",
           "catalog_anchor": "R-CN-CREDIT",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CN-CREDIT",
           "context_terms": [
@@ -6482,8 +6503,36 @@
           "original_catalog_name": "社融结构、信用脉冲与实体需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/社融结构、信用脉冲与实体需求.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/社融结构、信用脉冲与实体需求.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CN-TSF",
+                "C-CHINA-05",
+                "C-BOND-04"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CN-TSF",
+                "C-CHINA-05"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-CN-TSF",
+                "C-BOND-04",
+                "C-CHINA-05"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-CN-PROPERTY",
@@ -6495,8 +6544,8 @@
             "C-CHINA-15",
             "C-SECTOR-06"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/房地产开发的现金流循环.md",
           "catalog_anchor": "R-CN-PROPERTY",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CN-PROPERTY",
           "context_terms": [
@@ -6521,8 +6570,36 @@
           "original_catalog_name": "地产销售、现金流与土地购置",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/房地产开发的现金流循环.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/房地产开发的现金流循环.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CHINA-14",
+                "C-CHINA-15",
+                "C-SECTOR-06"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CHINA-14",
+                "C-CHINA-15",
+                "C-SECTOR-06"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-CHINA-14",
+                "C-SECTOR-06"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-CHINA-05",
@@ -6533,8 +6610,8 @@
             "C-CHINA-11",
             "C-CHINA-02"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/土地财政的基建融资机制.md",
           "catalog_anchor": "R-CHINA-05",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CHINA-05",
           "context_terms": [
@@ -6563,8 +6640,34 @@
           "original_catalog_name": "土地收入、地方财政与基建",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/土地财政的基建融资机制.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/土地财政的基建融资机制.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CHINA-11",
+                "C-CHINA-02"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CHINA-11",
+                "C-CHINA-02"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-CHINA-11",
+                "C-CHINA-02"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-CHINA-06",
@@ -6576,8 +6679,8 @@
             "C-CHINA-12",
             "C-BOND-04"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/地方化债的资产负债表传导.md",
           "catalog_anchor": "R-CHINA-06",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CHINA-06",
           "context_terms": [
@@ -6607,8 +6710,36 @@
           "original_catalog_name": "地方化债与银行、城投及企业回款",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/地方化债的资产负债表传导.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/地方化债的资产负债表传导.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CHINA-13",
+                "C-CHINA-12",
+                "C-BOND-04"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CHINA-13",
+                "C-CHINA-12",
+                "C-BOND-04"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-CHINA-13",
+                "C-CHINA-12"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-CHINA-12",
@@ -6621,8 +6752,8 @@
             "C-BOND-03",
             "C-CHINA-09"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/存款迁移的债市传导.md",
           "catalog_anchor": "R-CHINA-12",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CHINA-12",
           "context_terms": [
@@ -6648,8 +6779,37 @@
           "original_catalog_name": "存款搬家、资管需求与债市",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/存款迁移的债市传导.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/存款迁移的债市传导.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CREDIT-15",
+                "C-SECTOR-03",
+                "C-BOND-03"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CREDIT-15",
+                "C-SECTOR-03",
+                "C-CHINA-09"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-SECTOR-03",
+                "C-BOND-03",
+                "C-CHINA-09"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -6670,8 +6830,8 @@
             "C-FX-02",
             "C-FX-05"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/A／H溢价的市场分割机制.md",
           "catalog_anchor": "R-CHINA_MARKET-07",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CHINA_MARKET-07",
           "context_terms": [],
@@ -6680,8 +6840,40 @@
           "original_catalog_name": "A/H分割与相对估值",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/A／H溢价的市场分割机制.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/A／H溢价的市场分割机制.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-ASIA-10",
+                "C-ASIA-01",
+                "C-ASIA-02",
+                "C-ASIA-03"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-ASIA-10",
+                "C-ASIA-01",
+                "C-ASIA-02",
+                "C-ASIA-03"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-ASIA-10",
+                "C-FX-02",
+                "C-FX-05",
+                "C-ASIA-02"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -6699,8 +6891,8 @@
             "C-TECH-03",
             "C-TECH-02"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/模型效率、推理成本与总算力需求.md",
           "catalog_anchor": "R-TECH-03",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-TECH-03",
           "context_terms": [
@@ -6725,8 +6917,36 @@
           "original_catalog_name": "模型效率、推理成本与总算力需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/模型效率、推理成本与总算力需求.md"
+          "node_mapping_stage": "authored_logic_groups",
+          "planned_path": "../20_mechanisms/模型效率、推理成本与总算力需求.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-TECH-01",
+                "C-TECH-02",
+                "C-TECH-03"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-TECH-01",
+                "C-TECH-03"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-TECH-01",
+                "C-TECH-02",
+                "C-TECH-03"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-TECH-12",
@@ -13499,10 +13719,10 @@
   "maintenance_revision": "title_filenames_20261029",
   "build_progress": {
     "as_of": "2026-10-30",
-    "authored_nodes": 218,
-    "pending_nodes": 16,
-    "complete_concepts": 161,
-    "complete_mechanisms": 57,
+    "authored_nodes": 228,
+    "pending_nodes": 6,
+    "complete_concepts": 163,
+    "complete_mechanisms": 65,
     "review": "../50_reviews/FULL_BUILD_20261028/MAIN_REVIEW.json"
   },
   "file_naming": {
