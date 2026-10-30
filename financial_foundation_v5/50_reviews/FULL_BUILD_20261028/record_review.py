@@ -6,6 +6,7 @@ It never changes the frozen first drafts.
 import hashlib
 import json
 import sys
+from datetime import date
 from pathlib import Path
 
 review_root = Path(__file__).resolve().parent
@@ -27,7 +28,7 @@ for node_id, notes in json.load(sys.stdin).items():
     page.write_text(body)
     review['entries'][node_id] = {
         'batch': batch_by_id[node_id], 'status': 'reviewed_seed',
-        'full_read': True, 'reviewed_on': '2026-10-28', 'notes': notes,
+        'full_read': True, 'reviewed_on': date.today().isoformat(), 'notes': notes,
         'sha256': hashlib.sha256(page.read_bytes()).hexdigest(),
     }
 for batch in state['batches']:

@@ -1,0 +1,70 @@
+{
+  "batch": "B035",
+  "author": "/root/full_b035",
+  "recovered_by": "/root",
+  "recovered_on": "2026-10-30",
+  "status": "recovered_interrupted_drafts_for_review",
+  "provenance_note": "Main reconstructed this delivery inventory from drafts surviving the interrupted run; it is not an original author delivery or a claim that original research logs were recovered.",
+  "items": [
+    {
+      "id": "C-GLOBAL-03",
+      "path": "10_concepts/美国国会与行政部门.md",
+      "author": "/root/full_b035",
+      "evidence_as_of": "2025-07-29",
+      "source_urls": [
+        "https://www.congress.gov/crs-product/R47235",
+        "https://www.gao.gov/legal/appropriations-law/resources",
+        "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B035/C-GLOBAL-03_FIRST_DRAFT.md",
+      "first_draft_sha256": "15febd04914550e3759c375ef539fc0bcf4c251f905bbb3006e99fdceeaeb436",
+      "recovery": {
+        "path": "10_concepts/美国国会与行政部门.md",
+        "sha256_at_resume": "956798a0fe0884d043219fcfefec3f69e4463f666e776d6e07fface653e7864e",
+        "original_author": "/root/full_b035",
+        "frozen_draft_existed": true
+      }
+    },
+    {
+      "id": "C-GLOBAL-04",
+      "path": "10_concepts/民主党与共和党.md",
+      "author": "/root/full_b035",
+      "evidence_as_of": "2025-07-04",
+      "source_urls": [
+        "https://www.fec.gov/help-candidates-and-committees/registering-political-party/",
+        "https://www.democrats.org/wp-content/uploads/2025/07/2024-Democratic-Party-Platform.pdf",
+        "https://prod-static.gop.com/media/RNC2024-Platform.pdf",
+        "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B035/C-GLOBAL-04_FIRST_DRAFT.md",
+      "first_draft_sha256": "180cd40d4624a79c0efdf5cffa67bd7cc0d72bf88841ff39f096a7496e5f6131",
+      "recovery": {
+        "path": "10_concepts/民主党与共和党.md",
+        "sha256_at_resume": "0d193d7c5fb2e323863a20a557bdff656ff9a8e8a759d6095e0661dda033eb12",
+        "original_author": "/root/full_b035",
+        "frozen_draft_existed": true
+      }
+    },
+    {
+      "id": "C-GLOBAL-05",
+      "path": "10_concepts/欧洲央行与欧元区成员国.md",
+      "author": "/root/full_b035",
+      "evidence_as_of": "2025-06-30",
+      "source_urls": [
+        "https://www.ecb.europa.eu/ecb/orga/escb/html/index.en.html",
+        "https://www.ecb.europa.eu/ecb/our-values/independence/html/index.en.html",
+        "https://www.ecb.europa.eu/mopo/strategy/strategy-review/ecb.strategyreview202506_strategy_statement.en.html",
+        "https://www.consilium.europa.eu/en/press/press-releases/2024/04/29/economic-governance-review-council-adopts-reform-of-fiscal-rules/",
+        "https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.pr220721~973e6e7273.en.html"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B035/C-GLOBAL-05_FIRST_DRAFT.md",
+      "first_draft_sha256": "42dabf61c3bcca7f6d2dcc1bb430b238aaf8fbc22069bebd4c11cdfbc45db77d",
+      "recovery": {
+        "path": "10_concepts/欧洲央行与欧元区成员国.md",
+        "sha256_at_resume": "0993a2dd2f9f530b372ba344a59788ca6c01fc6827daf05938b7255241fb004d",
+        "original_author": "/root/full_b035",
+        "frozen_draft_existed": true
+      }
+    }
+  ]
+}

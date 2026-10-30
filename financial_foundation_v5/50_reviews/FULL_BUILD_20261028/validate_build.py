@@ -19,6 +19,7 @@ from filename_migration import current_input_hash, original_path, rewrite_paths
 parser = argparse.ArgumentParser()
 parser.add_argument('--final', action='store_true')
 parser.add_argument('--write', action='store_true')
+parser.add_argument('--reviewed-only', action='store_true', help='checkpoint only: ignore active author deliveries')
 args = parser.parse_args()
 out = Path(__file__).resolve().parent
 root = out.parent.parent
@@ -91,8 +92,18 @@ check(len(assigned) == len(set(assigned)) == 220, 'worker duplicate/missing assi
 check(set(assigned) | set(state['main_ids']) == new, 'new authorship coverage')
 
 # Only examine delivered batches; an active writer may currently be saving a file.
-ready = {i for i, b in by_id.items() if (out / b['batch'] / 'DELIVERY.json').exists()}
+ready = set()
+for batch in state['batches']:
+    delivery_path = out / batch['batch'] / 'DELIVERY.json'
+    if delivery_path.exists():
+        delivered = {x['id'] for x in delivery_items(readj(delivery_path))}
+        assigned_here = {x['id'] for x in batch['items']}
+        check(delivered <= assigned_here, batch['batch'] + ': foreign delivery')
+        ready.update(delivered & assigned_here)
 ready.update(state['main_ids'])
+if args.reviewed_only:
+    assert not args.final, 'final validation must include every delivery'
+    ready &= set(reviews)
 if args.final:
     check(ready == new, 'not every assigned node delivered')
     check(set(reviews) == new, 'not every new node has a main review')
@@ -111,7 +122,7 @@ for node in sorted(ready):
     check(y['id'] == node and y['title'] == item['name'], node + ': identity/name mismatch')
     check(y['type'] == ('concept' if node.startswith('C-') else 'mechanism'), node + ': type')
     check('evidence_as_of' in y, node + ': evidence cutoff absent')
-    expected_author = '/root' if node in state['main_ids'] else by_id[node]['agent']
+    expected_author = '/root' if node in state['main_ids'] else state.get('author_by_id', {}).get(node, by_id[node]['agent'])
     check(y['draft_author'] == expected_author, node + ': wrong author')
     authors[expected_author] += 1
     if node not in state['main_ids']:
@@ -201,7 +212,8 @@ for folder in ('30_events', '40_sources', 'assets'):
 # Release invariants: old explanations are preserved; new navigation is complete.
 legacy_unchanged = None
 if args.final:
-    check(len(authors) == 75 and authors['/root'] == 2, 'expected 74 distinct workers plus main')
+    expected_authors = {state.get('author_by_id', {}).get(n, by_id[n]['agent']) for n in new if n not in state['main_ids']} | {'/root'}
+    check(set(authors) == expected_authors and authors['/root'] == 2, 'author roster differs from recorded assignments')
     progress = index['build_progress']
     check(progress['authored_nodes'] == 234 and progress['pending_nodes'] == 0, 'build progress count')
     current = {i['id']: i for k in ('concepts', 'mechanisms') for i in flat(index, k)}

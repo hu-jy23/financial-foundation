@@ -1,0 +1,55 @@
+{
+  "batch": "B033",
+  "author": "/root/full_b033",
+  "recovered_by": "/root",
+  "recovered_on": "2026-10-30",
+  "status": "recovered_interrupted_drafts_for_review",
+  "provenance_note": "Main reconstructed this delivery inventory from drafts surviving the interrupted run; it is not an original author delivery or a claim that original research logs were recovered.",
+  "items": [
+    {
+      "id": "C-ASIA-09",
+      "path": "10_concepts/IPO、再融资与退市.md",
+      "author": "/root/full_b033",
+      "evidence_as_of": "2025-12",
+      "source_urls": [
+        "https://www.csrc.gov.cn/csrc/c100028/c7123213/content.shtml",
+        "https://www.csrc.gov.cn/csrc/c100028/c7428481/content.shtml",
+        "https://www.csrc.gov.cn/csrc/c100028/c7473605/content.shtml",
+        "https://www.csrc.gov.cn/csrc/c100028/c7527042/content.shtml",
+        "https://www.csrc.gov.cn/csrc/c100024/c7624098/7624098/files/中国证券监督管理委员会年报（2024年）.pdf",
+        "https://www.hkex.com.hk/Market-Data/Statistics/Consolidated-Reports/Annual-Market-Statistics/2025-Annual-Market-Statistics?sc_lang=en"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B033/C-ASIA-09_FIRST_DRAFT.md",
+      "first_draft_sha256": "622a459504cfa0f3a49f5b728f6cd24d7ba7fe70e7731bff2d82e53f591025af",
+      "recovery": {
+        "path": "10_concepts/IPO、再融资与退市.md",
+        "sha256_at_resume": "622a459504cfa0f3a49f5b728f6cd24d7ba7fe70e7731bff2d82e53f591025af",
+        "original_author": "/root/full_b033",
+        "frozen_draft_existed": false,
+        "snapshot_note": "Main preserved the available interrupted draft before review; this is the first draft available at resume, not a newly delivered author draft."
+      }
+    },
+    {
+      "id": "C-ASIA-10",
+      "path": "10_concepts/A／H溢价.md",
+      "author": "/root/full_b033",
+      "evidence_as_of": "2026-09-30",
+      "source_urls": [
+        "https://www.hsi.com.hk/static/uploads/contents/en/dl_centre/methodologies/IM_ahpremiume.pdf",
+        "https://www.hsi.com.hk/api/wsit-hsi-ddoc-ea-public-website-proxy/v1/content/gcs/download?resource=%2Fpublic-website%2Fwebapp%2Ffactsheets%2Fen-hk%2Fahpremium.pdf",
+        "https://www.hkex.com.hk/-/media/HKEX-Market/News/Market-Consultations/2016-Present/February-2023-Mainland-China-Regulation/Responses-%28Jul-2023%29/CP202302r_004.pdf",
+        "https://www.hkex.com.hk/-/media/HKEX-Market/Mutual-Market/Stock-Connect/Getting-Started/Information-Booklet-and-FAQ/FAQ/FAQ_En.pdf",
+        "https://www.allianzgi.com/en/insights/china-h-vs-china-a"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B033/C-ASIA-10_FIRST_DRAFT.md",
+      "first_draft_sha256": "4df8ec300fe9865899f5e3172bdefdd76b165c993721870cbafe98f6b4a558c4",
+      "recovery": {
+        "path": "10_concepts/A／H溢价.md",
+        "sha256_at_resume": "4df8ec300fe9865899f5e3172bdefdd76b165c993721870cbafe98f6b4a558c4",
+        "original_author": "/root/full_b033",
+        "frozen_draft_existed": false,
+        "snapshot_note": "Main preserved the available interrupted draft before review; this is the first draft available at resume, not a newly delivered author draft."
+      }
+    }
+  ]
+}

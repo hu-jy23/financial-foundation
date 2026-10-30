@@ -1,6 +1,6 @@
 # 金融概念／对象正式目录 v5
 
-初步建图范围确认：2026-10-25。共 **163 个对象，18 个主题组**；正文 **107 份已完成、56 份待完成主审**（进度更新：2026-10-29）。
+初步建图范围确认：2026-10-25。共 **163 个对象，18 个主题组**；正文 **117 份已完成、46 份待完成主审**（进度更新：2026-10-30）。
 
 本表与[关系／机制正式目录](MECHANISM_IMPORT_LIST.md)共同构成初步建图的234个节点。条目已经入选，pending表示正文尚未完成主审（包括未制作或已有待审稿）。
 
@@ -25,8 +25,8 @@
 | 交易结构、资金与行为 | 5 | 0 | 5 | 0 |
 | 黄金、能源与大宗商品 | 12 | 1 | 12 | 0 |
 | 中国宏观制度与政策工具 | 16 | 1 | 16 | 0 |
-| A股、港股与区域市场制度 | 12 | 0 | 8 | 4 |
-| 国际制度、政治与地缘 | 8 | 0 | 0 | 8 |
+| A股、港股与区域市场制度 | 12 | 0 | 11 | 1 |
+| 国际制度、政治与地缘 | 8 | 0 | 7 | 1 |
 | AI、科技与产业链 | 29 | 0 | 0 | 29 |
 | 行业与经营暴露 | 7 | 0 | 0 | 7 |
 | 数字资产与新型金融 | 8 | 0 | 0 | 8 |
@@ -207,22 +207,22 @@
 | <a id="C-ASIA-06"></a>C-ASIA-06 | 保险资金与长期资金 | 负债期限与配置约束 | P1 | complete／[正文](../10_concepts/保险资金与长期资金.md) |
 | <a id="C-ASIA-07"></a>C-ASIA-07 | 社保基金与政策性持有主体 | 公开持仓与不可见交易 | P1 | complete／[正文](../10_concepts/社保基金与政策性持有主体.md) |
 | <a id="C-ASIA-08"></a>C-ASIA-08 | 涨跌停、T+1与停复牌 | 执行约束与价格发现 | P1 | complete／[正文](../10_concepts/涨跌停、T+1与停复牌.md) |
-| <a id="C-ASIA-09"></a>C-ASIA-09 | IPO、再融资与退市 | 权益供求和制度事件 | P1 | pending／待完成主审 |
-| <a id="C-ASIA-10"></a>C-ASIA-10 | A/H溢价 | 分割市场与定价差异 | P1 | pending／待完成主审 |
+| <a id="C-ASIA-09"></a>C-ASIA-09 | IPO、再融资与退市 | 权益供求和制度事件 | P1 | complete／[正文](../10_concepts/IPO、再融资与退市.md) |
+| <a id="C-ASIA-10"></a>C-ASIA-10 | A/H溢价 | 分割市场与定价差异 | P1 | complete／[正文](../10_concepts/A／H溢价.md) |
 | <a id="C-ASIA-11"></a>C-ASIA-11 | 恒生指数与恒生科技指数 | 成分、权重和行业敞口 | P1 | pending／待完成主审 |
-| <a id="C-ASIA-12"></a>C-ASIA-12 | 日本银行与YCC | 政策工具、版本和退出 | P1 | pending／待完成主审 |
+| <a id="C-ASIA-12"></a>C-ASIA-12 | 日本银行与YCC | 政策工具、版本和退出 | P1 | complete／[正文](../10_concepts/日本银行与YCC.md) |
 
 ## 国际制度、政治与地缘
 
 | ID | 名称 | 对象边界 | 优先级 | 正文状态 |
 |---|---|---|---|---|
-| <a id="C-GLOBAL-01"></a>C-GLOBAL-01 | 美联储与FOMC | 政策主体、投票和沟通 | P1 | pending／待完成主审 |
-| <a id="C-GLOBAL-02"></a>C-GLOBAL-02 | 美国财政部 | 融资、现金管理与财政执行 | P1 | pending／待完成主审 |
-| <a id="C-GLOBAL-03"></a>C-GLOBAL-03 | 美国国会与行政部门 | 预算、立法与执行分工 | P1 | pending／待完成主审 |
-| <a id="C-GLOBAL-04"></a>C-GLOBAL-04 | 民主党与共和党 | 实体及具体政策主张的版本 | P1 | pending／待完成主审 |
-| <a id="C-GLOBAL-05"></a>C-GLOBAL-05 | 欧洲央行与欧元区成员国 | 货币与财政分工 | P1 | pending／待完成主审 |
-| <a id="C-GLOBAL-07"></a>C-GLOBAL-07 | IMF、世界银行与BIS | 职能与数据来源 | P1 | pending／待完成主审 |
-| <a id="C-GLOBAL-09"></a>C-GLOBAL-09 | 出口管制与技术限制 | 产品、地区和合规版本 | P1 | pending／待完成主审 |
+| <a id="C-GLOBAL-01"></a>C-GLOBAL-01 | 美联储与FOMC | 政策主体、投票和沟通 | P1 | complete／[正文](../10_concepts/美联储与FOMC.md) |
+| <a id="C-GLOBAL-02"></a>C-GLOBAL-02 | 美国财政部 | 融资、现金管理与财政执行 | P1 | complete／[正文](../10_concepts/美国财政部.md) |
+| <a id="C-GLOBAL-03"></a>C-GLOBAL-03 | 美国国会与行政部门 | 预算、立法与执行分工 | P1 | complete／[正文](../10_concepts/美国国会与行政部门.md) |
+| <a id="C-GLOBAL-04"></a>C-GLOBAL-04 | 民主党与共和党 | 实体及具体政策主张的版本 | P1 | complete／[正文](../10_concepts/民主党与共和党.md) |
+| <a id="C-GLOBAL-05"></a>C-GLOBAL-05 | 欧洲央行与欧元区成员国 | 货币与财政分工 | P1 | complete／[正文](../10_concepts/欧洲央行与欧元区成员国.md) |
+| <a id="C-GLOBAL-07"></a>C-GLOBAL-07 | IMF、世界银行与BIS | 职能与数据来源 | P1 | complete／[正文](../10_concepts/IMF、世界银行与BIS.md) |
+| <a id="C-GLOBAL-09"></a>C-GLOBAL-09 | 出口管制与技术限制 | 产品、地区和合规版本 | P1 | complete／[正文](../10_concepts/出口管制与技术限制.md) |
 | <a id="C-GLOBAL-13"></a>C-GLOBAL-13 | 国际支付与清算体系 | 网络、币种与流动性 | P1 | pending／待完成主审 |
 
 ## AI、科技与产业链

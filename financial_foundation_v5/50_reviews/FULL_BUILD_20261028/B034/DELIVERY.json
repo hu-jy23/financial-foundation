@@ -1,0 +1,84 @@
+{
+  "batch": "B034",
+  "author": "/root/full_b034",
+  "recovered_by": "/root",
+  "recovered_on": "2026-10-30",
+  "status": "recovered_interrupted_drafts_for_review",
+  "provenance_note": "Main reconstructed this delivery inventory from drafts surviving the interrupted run; it is not an original author delivery or a claim that original research logs were recovered.",
+  "items": [
+    {
+      "id": "C-ASIA-12",
+      "path": "10_concepts/日本银行与YCC.md",
+      "author": "/root/full_b034",
+      "evidence_as_of": "2026-09-18",
+      "source_urls": [
+        "https://www.boj.or.jp/en/about/outline/index.htm",
+        "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2016/k160921a.pdf",
+        "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2022/k221220a.pdf",
+        "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2023/k230728a.pdf",
+        "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2023/k231031a.pdf",
+        "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2024/k240319a.pdf",
+        "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2025/k250617a.pdf",
+        "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260616b.pdf",
+        "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B034/C-ASIA-12_FIRST_DRAFT.md",
+      "first_draft_sha256": "be925dbc8cfdf80bfacc09c88e55a3b4cb761122b0b44169ce5276f2f88e4521",
+      "recovery": {
+        "path": "10_concepts/日本银行与YCC.md",
+        "sha256_at_resume": "be925dbc8cfdf80bfacc09c88e55a3b4cb761122b0b44169ce5276f2f88e4521",
+        "original_author": "/root/full_b034",
+        "frozen_draft_existed": false,
+        "snapshot_note": "Main preserved the available interrupted draft before review; this is the first draft available at resume, not a newly delivered author draft."
+      }
+    },
+    {
+      "id": "C-GLOBAL-01",
+      "path": "10_concepts/美联储与FOMC.md",
+      "author": "/root/full_b034",
+      "evidence_as_of": "2026-09-16",
+      "source_urls": [
+        "https://www.federalreserve.gov/monetarypolicy/fomc.htm",
+        "https://www.federalreserve.gov/faqs/about_12844.htm",
+        "https://www.federalreserve.gov/monetarypolicy/fomc_projectionsfaqs.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20240918a.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20250319a.htm",
+        "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20250319.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a1.htm"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B034/C-GLOBAL-01_FIRST_DRAFT.md",
+      "first_draft_sha256": "db449485e03d3bc1d083f6b1f47ebe0e58935196acae28cf54e078eaa1d2ffe7",
+      "recovery": {
+        "path": "10_concepts/美联储与FOMC.md",
+        "sha256_at_resume": "db449485e03d3bc1d083f6b1f47ebe0e58935196acae28cf54e078eaa1d2ffe7",
+        "original_author": "/root/full_b034",
+        "frozen_draft_existed": false,
+        "snapshot_note": "Main preserved the available interrupted draft before review; this is the first draft available at resume, not a newly delivered author draft."
+      }
+    },
+    {
+      "id": "C-GLOBAL-02",
+      "path": "10_concepts/美国财政部.md",
+      "author": "/root/full_b034",
+      "evidence_as_of": "2026-08-05",
+      "source_urls": [
+        "https://home.treasury.gov/about/general-information/role-of-the-treasury",
+        "https://www.treasurydirect.gov/auctions/how-auctions-work/",
+        "https://home.treasury.gov/news/press-releases/sb0120",
+        "https://home.treasury.gov/news/press-releases/sb0115",
+        "https://www.federalreserve.gov/econres/notes/feds-notes/fluctuations-in-the-treasury-general-account-and-their-effect-on-the-feds-balance-sheet-20250806.html",
+        "https://home.treasury.gov/news/press-releases/sb0590"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B034/C-GLOBAL-02_FIRST_DRAFT.md",
+      "first_draft_sha256": "15f00ac6f54b48e7814030bc91f64052d197b97eeeedd00383f70e6498068cbf",
+      "recovery": {
+        "path": "10_concepts/美国财政部.md",
+        "sha256_at_resume": "15f00ac6f54b48e7814030bc91f64052d197b97eeeedd00383f70e6498068cbf",
+        "original_author": "/root/full_b034",
+        "frozen_draft_existed": false,
+        "snapshot_note": "Main preserved the available interrupted draft before review; this is the first draft available at resume, not a newly delivered author draft."
+      }
+    }
+  ]
+}

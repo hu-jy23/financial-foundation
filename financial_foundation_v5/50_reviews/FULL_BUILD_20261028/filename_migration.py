@@ -18,7 +18,14 @@ def original_path(node):
 
 
 def current_input_hash(rel, original_hash):
-    return record.get('updated_inputs', {}).get(rel, {}).get('after_sha256', original_hash)
+    migrated = record.get('updated_inputs', {}).get(rel, {}).get('after_sha256', original_hash)
+    continuation = Path(__file__).resolve().parent / 'CONTINUATION_20261030.json'
+    if continuation.exists():
+        maintained = json.loads(continuation.read_text()).get('maintained_inputs', {}).get(rel)
+        if maintained:
+            assert maintained['base_sha256'] == migrated, rel + ': broken maintenance provenance'
+            return maintained['current_sha256']
+    return migrated
 
 
 def markdown_target(path):

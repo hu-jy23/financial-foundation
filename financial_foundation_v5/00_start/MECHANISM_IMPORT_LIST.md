@@ -1,6 +1,6 @@
 # 金融关系／机制正式目录 v5
 
-初步建图范围确认：2026-10-25。共 **71 个关系／机制，16 个主题组**；正文 **51 份已完成、20 份待完成主审**（进度更新：2026-10-29）。
+初步建图范围确认：2026-10-25。共 **71 个关系／机制，16 个主题组**；正文 **51 份已完成、20 份待完成主审**（进度更新：2026-10-30）。
 
 本表只列已确认入选的关系。原177项的勾叉与最终名称见[完整审阅表](../50_reviews/MECHANISM_SELECTION_177.md)，未入选106项见[旧ID登记](MECHANISM_ARCHIVE.md)。
 
@@ -42,7 +42,7 @@
 | ID | 关系名称 | 关联对象 | 正文术语／相关关系 | 范围 | 优先级 | 正文状态 |
 |---|---|---|---|---|---|---|
 | <a id="R-POL-CURVE"></a>R-POL-CURVE | 货币政策冲击的期限结构传导 | [政策利率与目标区间 C-IR-POLICY](../10_concepts/政策利率与目标区间.md)；[量化宽松QE C-POL-QE](../10_concepts/量化宽松QE.md)；[收益率曲线 C-IR-CURVE](../10_concepts/收益率曲线.md)；[期限溢价 C-IR-TERM](../10_concepts/期限溢价.md) | [预期差与意外成分（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EXPECT-SURPRISE)；[前瞻指引（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EXPECT-13) | 目标利率、路径、资产购买分别识别 | P0 | complete／[正文](../20_mechanisms/货币政策冲击的期限结构传导.md) |
-| <a id="R-POL-INFORMATION"></a>R-POL-INFORMATION | 央行公告的政策效应与信息效应 | [美联储与FOMC C-GLOBAL-01](CONCEPT_IMPORT_LIST.md#C-GLOBAL-01)；[政策利率与目标区间 C-IR-POLICY](../10_concepts/政策利率与目标区间.md)；[收益率曲线 C-IR-CURVE](../10_concepts/收益率曲线.md) | [前瞻指引（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EXPECT-13)；[预期修正（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EXPECT-09)；[盈利预期与分析师修正（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQUITY-09) | 增长信息和政策动作共同出现 | P0 | complete／[正文](../20_mechanisms/央行公告的政策效应与信息效应.md) |
+| <a id="R-POL-INFORMATION"></a>R-POL-INFORMATION | 央行公告的政策效应与信息效应 | [美联储与FOMC C-GLOBAL-01](../10_concepts/美联储与FOMC.md)；[政策利率与目标区间 C-IR-POLICY](../10_concepts/政策利率与目标区间.md)；[收益率曲线 C-IR-CURVE](../10_concepts/收益率曲线.md) | [前瞻指引（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EXPECT-13)；[预期修正（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EXPECT-09)；[盈利预期与分析师修正（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQUITY-09) | 增长信息和政策动作共同出现 | P0 | complete／[正文](../20_mechanisms/央行公告的政策效应与信息效应.md) |
 | <a id="R-QE-DURATION"></a>R-QE-DURATION | QE的久期风险转移 | [量化宽松QE C-POL-QE](../10_concepts/量化宽松QE.md)；[央行资产负债表 C-MONEY-CBBS](../10_concepts/央行资产负债表.md)；[期限溢价 C-IR-TERM](../10_concepts/期限溢价.md) | [债务期限结构与净久期供给（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FISCAL-DURATION)；[久期、修正久期与DV01（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-BOND-DURATION) | 期限供给、信号与市场功能 | P0 | complete／[正文](../20_mechanisms/QE的久期风险转移.md) |
 | <a id="R-QT-LIQ"></a>R-QT-LIQ | QT与准备金、ONRRP及资金市场 | [量化紧缩QT C-POL-QT](../10_concepts/量化紧缩QT.md)；[央行资产负债表 C-MONEY-CBBS](../10_concepts/央行资产负债表.md)；[银行准备金 C-MONEY-RESERVES](../10_concepts/银行准备金.md)；[隔夜逆回购ONRRP C-MONEY-14](../10_concepts/隔夜逆回购ONRRP.md)；[SOFR与担保融资基准 C-RATE-06](../10_concepts/SOFR与担保融资基准.md)；[融资流动性 C-LIQ-FUND](../10_concepts/融资流动性.md) | — | 央行负债替代与稀缺性 | P0 | complete／[正文](../20_mechanisms/QT与准备金、ONRRP及资金市场.md) |
 | <a id="R-MONETARY-07"></a>R-MONETARY-07 | 利率走廊 | [银行准备金 C-MONEY-RESERVES](../10_concepts/银行准备金.md)；[准备金利率 C-MONEY-07](../10_concepts/准备金利率.md)；[常备工具与最后贷款人 C-MONEY-11](../10_concepts/常备工具与最后贷款人.md)；[有效联邦基金利率EFFR C-RATE-05](../10_concepts/有效联邦基金利率EFFR.md)；[SOFR与担保融资基准 C-RATE-06](../10_concepts/SOFR与担保融资基准.md) | — | 准备金利率、常备工具与准备金供给如何共同影响隔夜市场利率；区分走廊与地板制度。 | P1 | complete／[正文](../20_mechanisms/利率走廊.md) |

@@ -1,0 +1,60 @@
+{
+  "batch": "B036",
+  "author": "/root/full_b036",
+  "recovered_by": "/root",
+  "recovered_on": "2026-10-30",
+  "status": "recovered_interrupted_drafts_for_review",
+  "provenance_note": "Main reconstructed this delivery inventory from drafts surviving the interrupted run; it is not an original author delivery or a claim that original research logs were recovered.",
+  "items": [
+    {
+      "id": "C-GLOBAL-07",
+      "path": "10_concepts/IMF、世界银行与BIS.md",
+      "author": "/root/full_b036",
+      "evidence_as_of": "2025-12-19",
+      "source_urls": [
+        "https://www.imf.org/en/about/factsheets/sheets/2022/imf-world-bank-new",
+        "https://www.worldbank.org/en/about/history/the-world-bank-group-and-the-imf",
+        "https://www.bis.org/about",
+        "https://www.imf.org/en/publications/weo/frequently-asked-questions",
+        "https://datatopics.worldbank.org/world-development-indicators/",
+        "https://data.bis.org/topics/LBS",
+        "https://data.bis.org/topics/CBS",
+        "https://www.worldbank.org/en/about/annual-report-2024/fiscal-year-data",
+        "https://data.imf.org/en/news/imf-data-brief-december-19"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B036/C-GLOBAL-07_FIRST_DRAFT.md",
+      "first_draft_sha256": "aa8fafa84dec9394f24df7c5df29bd41573107168a067398d41a735b5f0c8bee",
+      "recovery": {
+        "path": "10_concepts/IMF、世界银行与BIS.md",
+        "sha256_at_resume": "aa8fafa84dec9394f24df7c5df29bd41573107168a067398d41a735b5f0c8bee",
+        "original_author": "/root/full_b036",
+        "frozen_draft_existed": false,
+        "snapshot_note": "Main preserved the available interrupted draft before review; this is the first draft available at resume, not a newly delivered author draft."
+      }
+    },
+    {
+      "id": "C-GLOBAL-09",
+      "path": "10_concepts/出口管制与技术限制.md",
+      "author": "/root/full_b036",
+      "evidence_as_of": "2026-01-15",
+      "source_urls": [
+        "https://www.bis.gov/licensing/determine-what-is-subject-to-the-EAR",
+        "https://www.bis.gov/licensing/classify-your-item",
+        "https://www.bis.gov/press-release/commerce-strengthens-export-controls-restrict-chinas-capability-produce-advanced-semiconductors-military",
+        "https://www.govinfo.gov/content/pkg/FR-2024-12-05/html/2024-28270.htm",
+        "https://www.mofcom.gov.cn/zcfb/dwmygl/art/2024/art_6ed1d5c0336843c493bd45a1911eab17.html",
+        "https://www.bis.gov/press-release/department-commerce-announces-rescission-biden-era-artificial-intelligence-diffusion-rule-strengthens",
+        "https://www.govinfo.gov/content/pkg/FR-2026-01-15/html/2026-00789.htm"
+      ],
+      "first_draft_path": "50_reviews/FULL_BUILD_20261028/B036/C-GLOBAL-09_FIRST_DRAFT.md",
+      "first_draft_sha256": "ef4d678e56420b4c674fe4efa8fde9f1dc76382ef0814c16182e9be38ca04894",
+      "recovery": {
+        "path": "10_concepts/出口管制与技术限制.md",
+        "sha256_at_resume": "ef4d678e56420b4c674fe4efa8fde9f1dc76382ef0814c16182e9be38ca04894",
+        "original_author": "/root/full_b036",
+        "frozen_draft_existed": false,
+        "snapshot_note": "Main preserved the available interrupted draft before review; this is the first draft available at resume, not a newly delivered author draft."
+      }
+    }
+  ]
+}
