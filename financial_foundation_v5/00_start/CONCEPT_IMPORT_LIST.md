@@ -1,6 +1,6 @@
 # 金融概念／对象正式目录 v5
 
-初步建图范围确认：2026-10-25。共 **163 个对象，18 个主题组**；正文 **132 份已完成、31 份待完成主审**（进度更新：2026-10-30）。
+初步建图范围确认：2026-10-25。共 **163 个对象，18 个主题组**；正文 **142 份已完成、21 份待完成主审**（进度更新：2026-10-30）。
 
 本表与[关系／机制正式目录](MECHANISM_IMPORT_LIST.md)共同构成初步建图的234个节点。条目已经入选，pending表示正文尚未完成主审（包括未制作或已有待审稿）。
 
@@ -27,7 +27,7 @@
 | 中国宏观制度与政策工具 | 16 | 1 | 16 | 0 |
 | A股、港股与区域市场制度 | 12 | 0 | 11 | 1 |
 | 国际制度、政治与地缘 | 8 | 0 | 7 | 1 |
-| AI、科技与产业链 | 29 | 0 | 15 | 14 |
+| AI、科技与产业链 | 29 | 0 | 25 | 4 |
 | 行业与经营暴露 | 7 | 0 | 0 | 7 |
 | 数字资产与新型金融 | 8 | 0 | 0 | 8 |
 
@@ -244,16 +244,16 @@
 | <a id="C-TECH-18"></a>C-TECH-18 | AMD | CPU、GPU与AI加速器公司 | P1 | complete／[正文](../10_concepts/AMD.md) |
 | <a id="C-TECH-19"></a>C-TECH-19 | Microsoft | 企业软件、云与AI平台 | P1 | complete／[正文](../10_concepts/Microsoft.md) |
 | <a id="C-TECH-20"></a>C-TECH-20 | Amazon | 零售、物流与AWS云业务 | P1 | complete／[正文](../10_concepts/Amazon.md) |
-| <a id="C-TECH-21"></a>C-TECH-21 | Alphabet | 搜索广告、云与AI业务 | P1 | pending／待完成主审 |
-| <a id="C-TECH-22"></a>C-TECH-22 | Meta | 社交广告、推荐系统与AI投资 | P1 | pending／待完成主审 |
-| <a id="C-TECH-23"></a>C-TECH-23 | Apple | 消费硬件、服务与终端AI | P1 | pending／待完成主审 |
-| <a id="C-TECH-24"></a>C-TECH-24 | Tesla | 汽车、能源与自动驾驶业务 | P1 | pending／待完成主审 |
-| <a id="C-TECH-25"></a>C-TECH-25 | TSMC | 晶圆代工与先进封装 | P1 | pending／待完成主审 |
-| <a id="C-TECH-26"></a>C-TECH-26 | ASML | 光刻设备与服务 | P1 | pending／待完成主审 |
-| <a id="C-TECH-27"></a>C-TECH-27 | Samsung Electronics | 存储、逻辑代工与终端业务 | P1 | pending／待完成主审 |
-| <a id="C-TECH-28"></a>C-TECH-28 | SK hynix | 存储与HBM业务 | P1 | pending／待完成主审 |
-| <a id="C-TECH-29"></a>C-TECH-29 | Micron | 存储与HBM业务 | P1 | pending／待完成主审 |
-| <a id="C-TECH-30"></a>C-TECH-30 | 腾讯 | 社交、游戏、广告与云 | P1 | pending／待完成主审 |
+| <a id="C-TECH-21"></a>C-TECH-21 | Alphabet | 搜索广告、云与AI业务 | P1 | complete／[正文](../10_concepts/Alphabet.md) |
+| <a id="C-TECH-22"></a>C-TECH-22 | Meta | 社交广告、推荐系统与AI投资 | P1 | complete／[正文](../10_concepts/Meta.md) |
+| <a id="C-TECH-23"></a>C-TECH-23 | Apple | 消费硬件、服务与终端AI | P1 | complete／[正文](../10_concepts/Apple.md) |
+| <a id="C-TECH-24"></a>C-TECH-24 | Tesla | 汽车、能源与自动驾驶业务 | P1 | complete／[正文](../10_concepts/Tesla.md) |
+| <a id="C-TECH-25"></a>C-TECH-25 | TSMC | 晶圆代工与先进封装 | P1 | complete／[正文](../10_concepts/TSMC.md) |
+| <a id="C-TECH-26"></a>C-TECH-26 | ASML | 光刻设备与服务 | P1 | complete／[正文](../10_concepts/ASML.md) |
+| <a id="C-TECH-27"></a>C-TECH-27 | Samsung Electronics | 存储、逻辑代工与终端业务 | P1 | complete／[正文](<../10_concepts/Samsung Electronics.md>) |
+| <a id="C-TECH-28"></a>C-TECH-28 | SK hynix | 存储与HBM业务 | P1 | complete／[正文](<../10_concepts/SK hynix.md>) |
+| <a id="C-TECH-29"></a>C-TECH-29 | Micron | 存储与HBM业务 | P1 | complete／[正文](../10_concepts/Micron.md) |
+| <a id="C-TECH-30"></a>C-TECH-30 | 腾讯 | 社交、游戏、广告与云 | P1 | complete／[正文](../10_concepts/腾讯.md) |
 | <a id="C-TECH-31"></a>C-TECH-31 | 阿里巴巴 | 电商、云与AI业务 | P1 | pending／待完成主审 |
 | <a id="C-TECH-32"></a>C-TECH-32 | 百度 | 搜索、AI云与自动驾驶 | P1 | pending／待完成主审 |
 | <a id="C-TECH-33"></a>C-TECH-33 | 中芯国际 | 晶圆代工与制造能力 | P1 | pending／待完成主审 |

@@ -1,0 +1,73 @@
+{
+  "batch": "B044",
+  "status": "drafts_delivered",
+  "draft_author": "/root/resume_b044",
+  "updated": "2026-10-30",
+  "items": [
+    {
+      "id": "C-TECH-27",
+      "path": "10_concepts/Samsung Electronics.md",
+      "evidence_as_of": "2026-10-29",
+      "first_draft_sha256": "5203c25aef5f3dee353057c106340fcb801cad3856a632d4c249e77e7dc9aaf3",
+      "source_urls": [
+        "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2025_con_quarter04_all.pdf",
+        "https://news.samsung.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2024-results",
+        "https://news.samsungsemiconductor.com/global/samsung-electronics-announces-fourth-quarter-and-fy-2025-results/",
+        "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
+      ],
+      "review_points": [
+        "年度合并收入内部抵销；Memory与DS边界",
+        "2025现金流PPE支付与公告capex不同",
+        "2026Q3经营原公告大幅增长，未核季度现金流"
+      ],
+      "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-28",
+      "path": "10_concepts/SK hynix.md",
+      "evidence_as_of": "2026-10-28",
+      "first_draft_sha256": "1a3bf691f8e85e2fdf783ffe1d10566b17d35562caec31937e9ca9a18eba973e",
+      "source_urls": [
+        "https://kind.krx.co.kr/external/2026/03/05/001287/20260305002969/00591.htm",
+        "https://news.skhynix.com/en/sk-hynix-announces-4q24-financial-results/",
+        "https://news.skhynix.com/en/sk-hynix-announces-fy25-financial-results/",
+        "https://news.skhynix.com/en/sk-hynix-begins-volume-production-of-the-world-first-12-layer-hbm3e/",
+        "https://news.skhynix.com/en/sk-hynix-partners-with-tsmc-to-strengthen-hbm-technological-leadership/",
+        "https://news.skhynix.com/en/q3-2026-business-results/",
+        "https://www.intc.com/filings-reports/all-sec-filings/content/0000050863-25-000060/intc-20250327.htm",
+        "https://mis-prod-koce-homepage-cdn-01-blob-ep.azureedge.net/web/attach/121822586381465204.pdf"
+      ],
+      "review_points": [
+        "KRX合并与单体现金表区别；百万元换万亿",
+        "HBM占DRAM收入而非集团或市场份额",
+        "2026Q3净利润桥接缺口；长期合同是管理层表述",
+        "Intel卖方净对价不与买方现金支付强行等同"
+      ],
+      "node_ids_refined": false,
+      "post_first_draft_changes": [
+        "直接下载取得2025英文合并审计PDF并复核现金流，补充来源01阅读记录；冻结首稿不变"
+      ]
+    },
+    {
+      "id": "C-TECH-29",
+      "path": "10_concepts/Micron.md",
+      "evidence_as_of": "2026-10-09",
+      "first_draft_sha256": "a4d23969974667c9807b8bea73102c86ff03abde0002a056438c8a90a095e251",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/mu-20260903.htm",
+        "https://investors.micron.com/news/press-release/2024/Micron-Technology-Inc--Reports-Results-for-the-Fourth-Quarter-and-Full-Year-of-Fiscal-2024-09-25-2024/default.aspx",
+        "https://investors.micron.com/news/press-release/2025/Micron-Technology-Inc--Reports-Results-for-the-Fourth-Quarter-and-Full-Year-of-Fiscal-2025-09-23-2025/default.aspx",
+        "https://micron.gcs-web.com/static-files/52ce0c07-49dc-4eab-b1d2-a67bde373bca",
+        "https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/"
+      ],
+      "review_points": [
+        "FY2026为53周截至9月3日，非自然年",
+        "CMBU非纯HBM；部门利润有未分配调节",
+        "30.712-0.029-3.316=27.367净capex；89.675-27.367=62.308调整FCF",
+        "客户保证金列融资活动，不等于收入；2029—2031偿还",
+        "FY2027Q1指引GAAP/non-GAAP分列"
+      ],
+      "node_ids_refined": false
+    }
+  ]
+}

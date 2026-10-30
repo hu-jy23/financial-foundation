@@ -1491,7 +1491,7 @@
       "batch": "B042",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "delivered_pending_review",
+      "status": "reviewed",
       "items": [
         {
           "id": "C-TECH-21",
@@ -1527,7 +1527,7 @@
       "batch": "B043",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "reviewed",
       "items": [
         {
           "id": "C-TECH-24",
@@ -1563,7 +1563,7 @@
       "batch": "B044",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "reviewed",
       "items": [
         {
           "id": "C-TECH-27",
@@ -1599,7 +1599,7 @@
       "batch": "B045",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "delivered_pending_review",
       "items": [
         {
           "id": "C-TECH-30",
@@ -1635,7 +1635,7 @@
       "batch": "B046",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "delivered_pending_review",
       "items": [
         {
           "id": "C-TECH-33",
@@ -1671,7 +1671,7 @@
       "batch": "B047",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "delivered_pending_review",
       "items": [
         {
           "id": "C-SECTOR-02",
@@ -1707,7 +1707,7 @@
       "batch": "B048",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "running",
+      "status": "delivered_pending_review",
       "items": [
         {
           "id": "C-SECTOR-06",
@@ -1743,7 +1743,7 @@
       "batch": "B049",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "C-CRYPTO-01",
@@ -1772,13 +1772,14 @@
           "node_ids": [],
           "group": "数字资产与新型金融"
         }
-      ]
+      ],
+      "agent": "/root/resume_b049"
     },
     {
       "batch": "B050",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "C-CRYPTO-04",
@@ -1807,13 +1808,14 @@
           "node_ids": [],
           "group": "数字资产与新型金融"
         }
-      ]
+      ],
+      "agent": "/root/resume_b050"
     },
     {
       "batch": "B051",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "C-CRYPTO-08",
@@ -1833,7 +1835,8 @@
           "node_ids": [],
           "group": "数字资产与新型金融"
         }
-      ]
+      ],
+      "agent": "/root/resume_b051"
     },
     {
       "batch": "B052",
@@ -2703,7 +2706,7 @@
       "batch": "B070",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "R-CHINA-01",
@@ -2747,13 +2750,14 @@
           ],
           "group": "中国信用、地产与财政传导"
         }
-      ]
+      ],
+      "agent": "/root/resume_b070"
     },
     {
       "batch": "B071",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "R-CN-PROPERTY",
@@ -2793,13 +2797,14 @@
           ],
           "group": "中国信用、地产与财政传导"
         }
-      ]
+      ],
+      "agent": "/root/resume_b071"
     },
     {
       "batch": "B072",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "queued",
+      "status": "running",
       "items": [
         {
           "id": "R-CHINA-12",
@@ -2844,7 +2849,8 @@
           ],
           "group": "科技与AI产业机制"
         }
-      ]
+      ],
+      "agent": "/root/resume_b072"
     },
     {
       "batch": "B073",
@@ -2925,7 +2931,7 @@
       ]
     }
   ],
-  "reviewed_new_count": 176,
+  "reviewed_new_count": 186,
   "author_by_id": {
     "C-POL-CREDIBILITY": "/root/full_b001",
     "C-EXPECT-15": "/root/full_b001",
@@ -3071,14 +3077,14 @@
     "C-SECTOR-06": "/root/resume_b048",
     "C-SECTOR-12": "/root/resume_b048",
     "C-SECTOR-13": "/root/resume_b048",
-    "C-CRYPTO-01": null,
-    "C-CRYPTO-02": null,
-    "C-CRYPTO-03": null,
-    "C-CRYPTO-04": null,
-    "C-CRYPTO-05": null,
-    "C-CRYPTO-06": null,
-    "C-CRYPTO-08": null,
-    "C-CRYPTO-09": null,
+    "C-CRYPTO-01": "/root/resume_b049",
+    "C-CRYPTO-02": "/root/resume_b049",
+    "C-CRYPTO-03": "/root/resume_b049",
+    "C-CRYPTO-04": "/root/resume_b050",
+    "C-CRYPTO-05": "/root/resume_b050",
+    "C-CRYPTO-06": "/root/resume_b050",
+    "C-CRYPTO-08": "/root/resume_b051",
+    "C-CRYPTO-09": "/root/resume_b051",
     "R-MEAS-BEI": "/root/full_b052",
     "R-POL-CURVE": "/root/full_b052",
     "R-POL-INFORMATION": "/root/full_b052",
@@ -3133,15 +3139,15 @@
     "R-OIL-SHOCK": "/root/full_b069",
     "R-COMMODITY-03": "/root/full_b069",
     "R-COMMODITY-08": "/root/full_b069",
-    "R-CHINA-01": null,
-    "R-CHINA-02": null,
-    "R-CN-CREDIT": null,
-    "R-CN-PROPERTY": null,
-    "R-CHINA-05": null,
-    "R-CHINA-06": null,
-    "R-CHINA-12": null,
-    "R-CHINA_MARKET-07": null,
-    "R-TECH-03": null,
+    "R-CHINA-01": "/root/resume_b070",
+    "R-CHINA-02": "/root/resume_b070",
+    "R-CN-CREDIT": "/root/resume_b070",
+    "R-CN-PROPERTY": "/root/resume_b071",
+    "R-CHINA-05": "/root/resume_b071",
+    "R-CHINA-06": "/root/resume_b071",
+    "R-CHINA-12": "/root/resume_b072",
+    "R-CHINA_MARKET-07": "/root/resume_b072",
+    "R-TECH-03": "/root/resume_b072",
     "R-TECH-12": null,
     "R-GEOPOLITICS-02": null,
     "R-GEOPOLITICS-07": null,

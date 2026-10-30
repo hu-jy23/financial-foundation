@@ -1,0 +1,23 @@
+{
+  "batch": "B045",
+  "draft_author": "/root/resume_b045",
+  "items": [
+    {
+      "id": "C-TECH-30",
+      "path": "10_concepts/腾讯.md",
+      "evidence_as_of": "2026-08-12",
+      "first_draft_sha256": "220376d453fdb57e2666d5361d621e9fea28faa16dbca77893f4979e08eedd74",
+      "source_urls": [
+        "https://www.prnewswire.com/apac/news-releases/tencent-announces-2025-annual-and-fourth-quarter-results-302717280.html",
+        "https://www.tencent.com/wp-content/uploads/2026/08/Tencent-Announces-2026-Second-Quarter-Results.pdf"
+      ],
+      "review_points": [
+        "资本开支528亿元与现金付款593亿元区别",
+        "剔除新AI产品经营盈利并非全部AI盈利",
+        "2025年度原始公司分发稿替代被阻断IR PDF"
+      ],
+      "node_ids_refined": false
+    }
+  ],
+  "status": "submitted_for_review"
+}

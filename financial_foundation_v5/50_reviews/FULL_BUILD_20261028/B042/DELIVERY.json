@@ -1,0 +1,78 @@
+{
+  "batch": "B042",
+  "draft_author": "/root/resume_b042",
+  "updated": "2026-10-30",
+  "status": "submitted_for_review",
+  "items": [
+    {
+      "id": "C-TECH-21",
+      "path": "10_concepts/Alphabet.md",
+      "status": "draft",
+      "evidence_as_of": "2026-10-28",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B042/C-TECH-21_FIRST_DRAFT.md",
+      "source_urls": [
+        "https://d18rn0p25nwr6d.cloudfront.net/CIK-0001652044/e6a3f2b6-bb98-4f54-900f-2a8794a582cf.html",
+        "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000012/googexhibit991q42025.htm",
+        "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+        "https://blog.google/alphabet/google-alphabet/",
+        "https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/"
+      ],
+      "review_points": [
+        "2026 Cloud TPU产品与服务收入边界",
+        "分部未分摊AI研发；2025投资收益与净利润",
+        "FCF现金口径及季度/TTM区分",
+        "2月CapEx旧预期明确非10月最新；CFO原文未取得"
+      ],
+      "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-22",
+      "path": "10_concepts/Meta.md",
+      "status": "draft",
+      "evidence_as_of": "2026-10-28",
+      "financial_evidence_as_of": "2026-10-21",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B042/C-TECH-22_FIRST_DRAFT.md",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+        "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+        "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066700/meta-09302026xexhibit991.htm",
+        "https://engineering.fb.com/2024/12/02/production-engineering/meta-andromeda-advantage-automation-next-gen-personalized-ads-retrieval-engine/",
+        "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+        "https://www.sec.gov/Archives/edgar/data/1326801/000132680121000071/fb-20211028.htm"
+      ],
+      "review_points": [
+        "DAP去重及ARPP定义",
+        "2025税项与折旧寿命变更",
+        "2026Q3诉讼费用与潜在支付额区分",
+        "CapEx包含融资租赁本金",
+        "Andromeda候选吞吐不等于实际展示量；公司实验非独立因果证据"
+      ],
+      "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-23",
+      "path": "10_concepts/Apple.md",
+      "status": "draft",
+      "evidence_as_of": "2026-10-26",
+      "financial_evidence_as_of": "2026-07-31",
+      "first_draft": "50_reviews/FULL_BUILD_20261028/B042/C-TECH-23_FIRST_DRAFT.md",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm",
+        "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/aapl-20260627.htm",
+        "https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/",
+        "https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/",
+        "https://www.apple.com/newsroom/2020/06/apple-announces-mac-transition-to-apple-silicon/",
+        "https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/",
+        "https://images.apple.com/jp/newsroom/2026/10/siri-ai-is-available-today-in-more-languages/"
+      ],
+      "review_points": [
+        "Apple财年非自然年，Q3止6月27日",
+        "九个月现金流非单季",
+        "App Store净额与服务毛利非净利润",
+        "关税退款毛利约2pp与EPS 0.11",
+        "2024功能计划、2026年10月beta和未来付费计划分离"
+      ],
+      "node_ids_refined": false
+    }
+  ]
+}
