@@ -1,0 +1,81 @@
+{
+  "batch": "B039",
+  "draft_author": "/root/resume_b039",
+  "updated": "2026-10-30",
+  "items": [
+    {
+      "id": "C-TECH-07",
+      "path": "10_concepts/晶圆制造与先进制程.md",
+      "status": "draft_ready_for_review",
+      "evidence_as_of": "2026-10-15",
+      "source_urls": [
+        "https://www.asml.com/en/company/stories/2021/semiconductor-manufacturing-process-steps",
+        "https://www.intel.com/content/www/us/en/support/articles/000097598.html",
+        "https://research.ibm.com/blog/nanosheet-technology-ai-5g",
+        "https://www.asml.com/en/products/euv-lithography-systems",
+        "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+        "https://pr.tsmc.com/chinese/news/3346",
+        "https://investor.tsmc.com/japanese/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf"
+      ],
+      "review_points": [
+        "节点收入占比与产量区分",
+        "良率算例系假设",
+        "2027产能预测非结果"
+      ],
+      "node_ids_refined": false,
+      "reason": null,
+      "first_draft": "C-TECH-07_FIRST_DRAFT.md"
+    },
+    {
+      "id": "C-TECH-08",
+      "path": "10_concepts/先进封装与CoWoS.md",
+      "status": "draft_ready_for_review",
+      "evidence_as_of": "2026-10-15",
+      "source_urls": [
+        "https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/cowos.htm",
+        "https://www.intel.com/content/www/us/en/foundry/packaging.html",
+        "https://www.intel.com/content/www/us/en/newsroom/news/intel-leads-the-way-with-advanced-packaging.html",
+        "https://www.tsmc.com/english/dedicatedFoundry/technology/SoIC_inDepth",
+        "https://investor.tsmc.com/japanese/encrypt/files/encrypt_file/reports/2025-07/1f4f86c935f1de837672a6973154e64b26bdae57/TSMC%202Q25%20Transcript.pdf",
+        "https://investor.tsmc.com/japanese/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf"
+      ],
+      "review_points": [
+        "中介层与基板分工",
+        "筛选后合格概率不等于晶圆良率",
+        "2026 5x生产及9x/14x研发区分",
+        "缺少可比月产能与绝对良率"
+      ],
+      "node_ids_refined": false,
+      "reason": null,
+      "first_draft": "C-TECH-08_FIRST_DRAFT.md"
+    },
+    {
+      "id": "C-TECH-09",
+      "path": "10_concepts/半导体设备与材料.md",
+      "status": "draft_ready_for_review",
+      "evidence_as_of": "2026-10-15",
+      "source_urls": [
+        "https://www.asml.com/en/company/stories/2021/semiconductor-manufacturing-process-steps",
+        "https://www.sec.gov/Archives/edgar/data/1046179/000162828026025362/tsm-20251231.htm",
+        "https://investor.tsmc.com/japanese/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf",
+        "https://www.asml.com/en/technology/lithography-principles/rayleigh-criterion",
+        "https://www.asml.com/en/products/euv-lithography-systems",
+        "https://investor.asml.com/annual-reports/2025/financials",
+        "https://www.semi.org/en/semi-press-release/global-semiconductor-materials-market-revenue-reaches-record-73.2-billion-dollars-in-2025-semi-reports",
+        "https://www.semi.org/en/semi-press-release/semi-reports-worldwide-silicon-wafer-shipments-increase-7.4-percent-year-on-year-in-q2-2026",
+        "https://www.semi.org/en/semi-press-release/global-semiconductor-equipment-sales-forecast-to-reach-a-record-229-billion-dollars-in-2028-semi-reports",
+        "https://investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026"
+      ],
+      "review_points": [
+        "WFE与资本开支范围不同",
+        "SEMI 2026设备数为7月预测，材料2025为实际",
+        "ASML年初与10月展望分开",
+        "TSMC资本支出408.95亿美元为加权汇率口径"
+      ],
+      "node_ids_refined": false,
+      "reason": null,
+      "first_draft": "C-TECH-09_FIRST_DRAFT.md"
+    }
+  ],
+  "status": "three_drafts_ready_for_review"
+}

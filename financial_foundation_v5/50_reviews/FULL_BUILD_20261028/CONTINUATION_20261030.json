@@ -384,13 +384,36 @@
         "R-COMMODITY-03"
       ],
       "reviewed_total": 178,
+      "remote_status": "awaiting_upload",
+      "local_commit": "8489a6d2680a75ce819819f016c6e796230c67fe",
+      "tree": "93b918bbe349fdebb1f6499265c21417f9de87c9",
+      "remote_commit": "b5e59cca6ef750fc87720b7dd1886bf9bc8c1199",
+      "status": "remote_verified",
+      "branch": "build/full-map-20261028"
+    },
+    {
+      "sequence": 3,
+      "date": "2026-10-30",
+      "ids": [
+        "C-TECH-06",
+        "C-TECH-07",
+        "C-TECH-08",
+        "C-TECH-09",
+        "C-TECH-10",
+        "C-TECH-11",
+        "C-TECH-17",
+        "C-TECH-18",
+        "C-TECH-19",
+        "C-TECH-20"
+      ],
+      "reviewed_total": 188,
       "remote_status": "prepared"
     }
   ],
   "maintained_inputs": {
     "00_start/CONCEPT_IMPORT_LIST.md": {
       "base_sha256": "2225278cf9b2fd947651b9769382b2c13bfac959b604d53d0570677f58949c2f",
-      "current_sha256": "5181210835201d90ac474f8e76e73c1ddcbccefda21c4aa435eb8ad8d779f2c2",
+      "current_sha256": "2e886c7ff64a21bde0f51f27d7008682d099c03d8920b8e0ad6179c131c428c7",
       "reason": "reviewed progress and authored mechanism mappings; selected scope unchanged"
     },
     "00_start/MECHANISM_IMPORT_LIST.md": {
@@ -419,6 +442,16 @@
     "R-GOLD-03",
     "R-ASSET-STOCKBOND",
     "R-OIL-SHOCK",
-    "R-COMMODITY-03"
+    "R-COMMODITY-03",
+    "C-TECH-06",
+    "C-TECH-07",
+    "C-TECH-08",
+    "C-TECH-09",
+    "C-TECH-10",
+    "C-TECH-11",
+    "C-TECH-17",
+    "C-TECH-18",
+    "C-TECH-19",
+    "C-TECH-20"
   ]
 }

@@ -45,6 +45,30 @@
         "FERC仅制度历史未通读法律文本"
       ],
       "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-06",
+      "path": "10_concepts/HBM与存储芯片.md",
+      "status": "draft_ready_for_review",
+      "first_draft": "C-TECH-06_FIRST_DRAFT.md",
+      "evidence_as_of": "2026-10-09",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/723125/000072312526000023/mu-20260903.htm",
+        "https://www.businesswire.com/news/home/20250416843598/en/",
+        "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2008/Archive/EECS-2008-134.pdf",
+        "https://news.skhynix.com/en/sk-hynix-begins-volume-production-of-the-world-first-12-layer-hbm3e/",
+        "https://micron.gcs-web.com/static-files/52ce0c07-49dc-4eab-b1d2-a67bde373bca",
+        "https://micron.gcs-web.com/news-releases/news-release-details/micron-commences-volume-production-industry-leading-hbm3e",
+        "https://www.micron.com/products/memory/hbm/hbm3e"
+      ],
+      "review_points": [
+        "Gb/GB与单堆栈/加速器边界",
+        "Roofline实测带宽而非引脚峰值",
+        "三倍硅用量为Micron2025口径",
+        "2025预测与2026财年产品结果分开",
+        "没有标准全文和行业最新同口径数据"
+      ],
+      "node_ids_refined": false
     }
   ]
 }

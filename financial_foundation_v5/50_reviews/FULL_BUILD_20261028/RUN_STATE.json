@@ -1347,7 +1347,7 @@
       "batch": "B038",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "delivered_pending_review",
+      "status": "reviewed",
       "items": [
         {
           "id": "C-TECH-04",
@@ -1383,7 +1383,7 @@
       "batch": "B039",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "delivered_pending_review",
+      "status": "reviewed",
       "items": [
         {
           "id": "C-TECH-07",
@@ -1419,7 +1419,7 @@
       "batch": "B040",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "delivered_pending_review",
+      "status": "reviewed",
       "items": [
         {
           "id": "C-TECH-10",
@@ -1455,7 +1455,7 @@
       "batch": "B041",
       "model": "gpt-6-astra",
       "reasoning_effort": "medium",
-      "status": "delivered_pending_review",
+      "status": "reviewed",
       "items": [
         {
           "id": "C-TECH-18",
@@ -2925,7 +2925,7 @@
       ]
     }
   ],
-  "reviewed_new_count": 166,
+  "reviewed_new_count": 176,
   "author_by_id": {
     "C-POL-CREDIBILITY": "/root/full_b001",
     "C-EXPECT-15": "/root/full_b001",

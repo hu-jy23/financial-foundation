@@ -1,0 +1,69 @@
+{
+  "batch": "B040",
+  "draft_author": "/root/resume_b040",
+  "items": [
+    {
+      "id": "C-TECH-10",
+      "path": "10_concepts/光模块、交换机与网络互联.md",
+      "status": "draft_ready_for_review",
+      "evidence_as_of": "2026-01-06",
+      "source_urls": [
+        "https://standards.ieee.org/beyond-standards/ethernets-next-bar/",
+        "https://developer.nvidia.com/nccl",
+        "https://nvidianews.nvidia.com/news/nvidia-spectrum-x-co-packaged-optics-networking-switches-ai-factories",
+        "https://developer.nvidia.com/blog/scaling-power-efficient-ai-factories-with-nvidia-spectrum-x-ethernet-photonics/"
+      ],
+      "review_points": [
+        "吞吐口径与收敛算例",
+        "CPO厂商主张和供货计划未作为实现结果",
+        "未修改关联机制node_ids"
+      ],
+      "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-11",
+      "path": "10_concepts/散热与液冷.md",
+      "status": "draft_ready_for_review",
+      "evidence_as_of": "2026-09-17",
+      "source_urls": [
+        "https://www.energy.gov/cmei/femp/cooling-water-efficiency-opportunities-federal-data-centers",
+        "https://www.opencompute.org/documents/ocp-base-specification-for-immersion-fluids-20221201-pdf",
+        "https://datacenters.lbl.gov/publications/direct-liquid-cooling-electronic",
+        "https://eta-publications.lbl.gov/sites/default/files/direct_liquid_cooling.pdf",
+        "https://docs.nvidia.com/dgx/dgxgb200-user-guide/hardware.html",
+        "https://developer.nvidia.com/blog/?p=90182"
+      ],
+      "review_points": [
+        "循环流量不是耗水",
+        "PUE分母变化算例",
+        "LBNL14%-20%是指定负载下模型估算",
+        "120kW设计非行业均值"
+      ],
+      "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-17",
+      "path": "10_concepts/NVIDIA.md",
+      "status": "draft_ready_for_review",
+      "evidence_as_of": "2026-08-27",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+        "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026/",
+        "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000075/nvda-20260726.htm",
+        "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Second-Quarter-Fiscal-2027/default.aspx",
+        "https://nvidianews.nvidia.com/news/nvidia-completes-acquisition-of-mellanox-creating-major-force-driving-next-gen-data-centers",
+        "https://nvidianews.nvidia.com/news/nvidia-blackwell-platform-arrives-to-power-a-new-era-of-computing/",
+        "https://investor.nvidia.com/files/content_files/TRANSCRIPT_-NVIDIA-Corp-NVDA-US-Q2-2027-Earnings-Call-26-August-2026-5_00-PM-ET.pdf"
+      ],
+      "review_points": [
+        "FY26全年与FY27Q2/H1分列",
+        "FY27 non-GAAP与市场平台重列",
+        "FCF扣购置及本金",
+        "2790亿美元承诺与1050亿美元有条件担保不可作capex",
+        "70%与毛利率展望为2026-08-26管理层预测"
+      ],
+      "node_ids_refined": false
+    }
+  ],
+  "status": "three_drafts_ready_for_review"
+}

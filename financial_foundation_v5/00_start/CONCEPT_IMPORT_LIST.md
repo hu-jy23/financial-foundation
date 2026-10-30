@@ -1,6 +1,6 @@
 # 金融概念／对象正式目录 v5
 
-初步建图范围确认：2026-10-25。共 **163 个对象，18 个主题组**；正文 **122 份已完成、41 份待完成主审**（进度更新：2026-10-30）。
+初步建图范围确认：2026-10-25。共 **163 个对象，18 个主题组**；正文 **132 份已完成、31 份待完成主审**（进度更新：2026-10-30）。
 
 本表与[关系／机制正式目录](MECHANISM_IMPORT_LIST.md)共同构成初步建图的234个节点。条目已经入选，pending表示正文尚未完成主审（包括未制作或已有待审稿）。
 
@@ -27,7 +27,7 @@
 | 中国宏观制度与政策工具 | 16 | 1 | 16 | 0 |
 | A股、港股与区域市场制度 | 12 | 0 | 11 | 1 |
 | 国际制度、政治与地缘 | 8 | 0 | 7 | 1 |
-| AI、科技与产业链 | 29 | 0 | 5 | 24 |
+| AI、科技与产业链 | 29 | 0 | 15 | 14 |
 | 行业与经营暴露 | 7 | 0 | 0 | 7 |
 | 数字资产与新型金融 | 8 | 0 | 0 | 8 |
 
@@ -234,16 +234,16 @@
 | <a id="C-TECH-03"></a>C-TECH-03 | 云服务与超大规模云厂商 | 资本开支、收入与客户 | P1 | complete／[正文](../10_concepts/云服务与超大规模云厂商.md) |
 | <a id="C-TECH-04"></a>C-TECH-04 | 数据中心 | 建设、机架、选址与资源约束 | P1 | complete／[正文](../10_concepts/数据中心.md) |
 | <a id="C-TECH-05"></a>C-TECH-05 | 电力、电网与发电容量 | 能源、电力、接入的不同瓶颈 | P1 | complete／[正文](../10_concepts/电力、电网与发电容量.md) |
-| <a id="C-TECH-06"></a>C-TECH-06 | HBM与存储芯片 | 带宽、产能和产品周期 | P1 | pending／待完成主审 |
-| <a id="C-TECH-07"></a>C-TECH-07 | 晶圆制造与先进制程 | 良率、产能、设备与限制 | P1 | pending／待完成主审 |
-| <a id="C-TECH-08"></a>C-TECH-08 | 先进封装与CoWoS | 集成工艺和瓶颈 | P1 | pending／待完成主审 |
-| <a id="C-TECH-09"></a>C-TECH-09 | 半导体设备与材料 | 资本开支链和技术约束 | P1 | pending／待完成主审 |
-| <a id="C-TECH-10"></a>C-TECH-10 | 光模块、交换机与网络互联 | 数据传输与集群规模 | P1 | pending／待完成主审 |
-| <a id="C-TECH-11"></a>C-TECH-11 | 散热与液冷 | 功耗密度与系统成本 | P1 | pending／待完成主审 |
-| <a id="C-TECH-17"></a>C-TECH-17 | NVIDIA | 加速器与系统公司；财务和产品版本单独记录 | P1 | pending／待完成主审 |
-| <a id="C-TECH-18"></a>C-TECH-18 | AMD | CPU、GPU与AI加速器公司 | P1 | pending／待完成主审 |
-| <a id="C-TECH-19"></a>C-TECH-19 | Microsoft | 企业软件、云与AI平台 | P1 | pending／待完成主审 |
-| <a id="C-TECH-20"></a>C-TECH-20 | Amazon | 零售、物流与AWS云业务 | P1 | pending／待完成主审 |
+| <a id="C-TECH-06"></a>C-TECH-06 | HBM与存储芯片 | 带宽、产能和产品周期 | P1 | complete／[正文](../10_concepts/HBM与存储芯片.md) |
+| <a id="C-TECH-07"></a>C-TECH-07 | 晶圆制造与先进制程 | 良率、产能、设备与限制 | P1 | complete／[正文](../10_concepts/晶圆制造与先进制程.md) |
+| <a id="C-TECH-08"></a>C-TECH-08 | 先进封装与CoWoS | 集成工艺和瓶颈 | P1 | complete／[正文](../10_concepts/先进封装与CoWoS.md) |
+| <a id="C-TECH-09"></a>C-TECH-09 | 半导体设备与材料 | 资本开支链和技术约束 | P1 | complete／[正文](../10_concepts/半导体设备与材料.md) |
+| <a id="C-TECH-10"></a>C-TECH-10 | 光模块、交换机与网络互联 | 数据传输与集群规模 | P1 | complete／[正文](../10_concepts/光模块、交换机与网络互联.md) |
+| <a id="C-TECH-11"></a>C-TECH-11 | 散热与液冷 | 功耗密度与系统成本 | P1 | complete／[正文](../10_concepts/散热与液冷.md) |
+| <a id="C-TECH-17"></a>C-TECH-17 | NVIDIA | 加速器与系统公司；财务和产品版本单独记录 | P1 | complete／[正文](../10_concepts/NVIDIA.md) |
+| <a id="C-TECH-18"></a>C-TECH-18 | AMD | CPU、GPU与AI加速器公司 | P1 | complete／[正文](../10_concepts/AMD.md) |
+| <a id="C-TECH-19"></a>C-TECH-19 | Microsoft | 企业软件、云与AI平台 | P1 | complete／[正文](../10_concepts/Microsoft.md) |
+| <a id="C-TECH-20"></a>C-TECH-20 | Amazon | 零售、物流与AWS云业务 | P1 | complete／[正文](../10_concepts/Amazon.md) |
 | <a id="C-TECH-21"></a>C-TECH-21 | Alphabet | 搜索广告、云与AI业务 | P1 | pending／待完成主审 |
 | <a id="C-TECH-22"></a>C-TECH-22 | Meta | 社交广告、推荐系统与AI投资 | P1 | pending／待完成主审 |
 | <a id="C-TECH-23"></a>C-TECH-23 | Apple | 消费硬件、服务与终端AI | P1 | pending／待完成主审 |

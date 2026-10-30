@@ -1,0 +1,70 @@
+{
+  "batch": "B041",
+  "draft_author": "/root/resume_b041",
+  "updated": "2026-10-30",
+  "status": "all_three_drafts_ready_for_review",
+  "items": [
+    {
+      "id": "C-TECH-18",
+      "path": "10_concepts/AMD.md",
+      "status": "draft_ready_for_review",
+      "evidence_as_of": "2026-08-04",
+      "source_urls": [
+        "https://ir.amd.com/financial-information/sec-filings/content/0000002488-26-000018/amd-20251227.htm",
+        "https://ir.amd.com/news-events/press-releases/detail/1276/amd-reports-fourth-quarter-and-full-year-2025-financial-results",
+        "https://newsroom.amd.com/news/amd-2q-2026-earnings/",
+        "https://www.amd.com/en/newsroom/press-releases/2022-2-14-amd-completes-acquisition-of-xilinx.html"
+      ],
+      "review_points": [
+        "持续/终止经营现金流区分",
+        "MI308准备转回及基数",
+        "GW采购安排与权证条件",
+        "2026Q3预测未当作结果"
+      ],
+      "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-19",
+      "path": "10_concepts/Microsoft.md",
+      "status": "draft_ready_for_review",
+      "evidence_as_of": "2026-10-28",
+      "source_urls": [
+        "https://www.microsoft.com/investor/reports/ar26/",
+        "https://www.microsoft.com/en-us/investor/earnings/fy-2027-q1/press-release-webcast",
+        "https://www.sec.gov/Archives/edgar/data/789019/000119312526380280/d291965d8k.htm",
+        "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/metrics",
+        "https://blogs.microsoft.com/blog/2010/02/01/windows-azure-general-availability/",
+        "https://www.microsoft.com/investor/reports/ar25/"
+      ],
+      "review_points": [
+        "FY2027两分部重列与新指标范围",
+        "RPO不是现金和一年收入",
+        "现金资本开支与融资租赁分离",
+        "OpenAI投资收益不等于云收入"
+      ],
+      "node_ids_refined": false
+    },
+    {
+      "id": "C-TECH-20",
+      "path": "10_concepts/Amazon.md",
+      "status": "draft_ready_for_review",
+      "evidence_as_of": "2026-10-29",
+      "source_urls": [
+        "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm",
+        "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/default.aspx",
+        "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/default.aspx",
+        "https://press.aboutamazon.com/2006/3/amazon-web-services-launches",
+        "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2022-letter-to-shareholders",
+        "https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2023-letter-to-shareholders"
+      ],
+      "review_points": [
+        "自营总额与第三方净服务收入",
+        "集团/分部与产品拆分不重复加总",
+        "设备现金支出/资产新增区分",
+        "TTM现金流不写作前三季度",
+        "管理层2027-2028增长预测归属"
+      ],
+      "node_ids_refined": false
+    }
+  ]
+}
