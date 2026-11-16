@@ -8,7 +8,7 @@
       "entry_kind": "subconcept",
       "id": "C-WS-3764710-GLD",
       "title": "SPDR黄金信托GLD",
-      "why": "实物支持黄金信托是私人持有黄金的持续观察对象；区分份额交易、吨数、AUM、申赎及费用耗金，连接本篇821→1087吨观察。基础身份复用黄金旧页既有GLD产品来源，新闻数字保留转述归属。",
+      "why": "压缩本次历史数字，保留基金自身结构与观察用途。",
       "draft_path": "drafts/10_concepts/SPDR黄金信托GLD.md",
       "type": "concept",
       "parent_ids": [
@@ -22,7 +22,7 @@
       "entry_kind": "concept",
       "id": "C-ASSET-GOLD",
       "title": "黄金",
-      "why": "新增2026年1月存量重估历史：黄金市值/美债存量比为作者比较尺度，不代表可售供给、官方储备或内在价格阈值；接GLD页。",
+      "why": "仅压缩1月存量比较历史并定位事件，保留后续全部贡献。",
       "draft_path": "drafts/10_concepts/黄金.md",
       "type": "concept"
     },
@@ -32,7 +32,7 @@
       "entry_kind": "relation",
       "id": "R-GOLD-03",
       "title": "央行购金与黄金需求结构",
-      "why": "在既有需求结构机制内增加官方数量与私人GLD持仓不同步的2026年1月历史，避免把金价/ETF相关系数0.98当因果贡献。",
+      "why": "仅压缩1月需求结构记录，保留11月数量与统计修订。",
       "draft_path": "drafts/20_mechanisms/央行购金与黄金需求结构.md",
       "type": "mechanism",
       "node_ids": [
@@ -69,7 +69,7 @@
       "entry_kind": "relation",
       "id": "R-INTERNATIONAL-13",
       "title": "美元信用与储备多元化",
-      "why": "补跨国持仓比较的主体范围：TIC含私人+官方、保管地效应及外储分母，四象限不直接代表央行改配阵营；保留局部替代与支付体系份额的条件性判断。",
+      "why": "一般持仓范围辨析保留机制，2月观点缩为定位复用。",
       "draft_path": "drafts/20_mechanisms/美元信用与储备多元化.md",
       "type": "mechanism",
       "node_ids": [
@@ -118,7 +118,7 @@
       "entry_kind": "event",
       "id": "E-WS-3764710",
       "title": "2026年1月黄金急涨回调与美元信用替代争议",
-      "why": "完整保存七段论述、33图、关键数字与历史比较，解释作者如何从估值关口推进到配置与政策判断。",
+      "why": "补持有意愿及政策代价链，图文重排，恢复1月30日及中期选举后窗口。",
       "draft_path": "drafts/30_events/gold/2026年1月黄金急涨回调与美元信用替代争议.md",
       "type": "analysis_note"
     },
@@ -128,7 +128,7 @@
       "entry_kind": "source",
       "id": "S-WS-3764710",
       "title": "中金黄金5500美元分水岭：来源与核读范围",
-      "why": "原文、元数据、全图定位及实际采用范围。",
+      "why": "全部33图直接定位，集中图文口径核读与实际外部阅读范围。",
       "draft_path": "drafts/40_sources/S-WS-3764710.md",
       "type": "source_note"
     }
@@ -264,5 +264,6 @@
     "20_mechanisms/美元信用与储备多元化.md",
     "30_events/gold/2026年1月黄金急涨回调与美元信用替代争议.md",
     "40_sources/S-WS-3764710.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3764710/audit.md"
 }

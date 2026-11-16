@@ -8,7 +8,7 @@
       "source": "materials/wallstreetcn/SourcePost/中金：黄金超过5500美元是一个重要分水岭/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3764710/delivery.json",
       "writer": "/root/scale_01",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3764710"
     },
     {
@@ -17,7 +17,7 @@
       "source": "materials/wallstreetcn/SourcePost/中金：市场如何见底？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3784961/delivery.json",
       "writer": "/root/scale_02",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3784961"
     },
     {
@@ -26,7 +26,7 @@
       "source": "materials/wallstreetcn/SourcePost/中金：AI从传统需求的“朋友”到“敌人”？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3784433/delivery.json",
       "writer": "/root/scale_03",
-      "status": "reviewing",
+      "status": "revised",
       "reviewer": "/root/audit_3784433"
     },
     {
@@ -35,7 +35,8 @@
       "source": "materials/wallstreetcn/SourcePost/公募基金三季报：大幅加仓科技成长，工业富联、寒武纪新晋公募前二十大重仓/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3758183/delivery.json",
       "writer": "/root/scale_04",
-      "status": "pending_review"
+      "status": "revising",
+      "reviewer": "/root/audit_3758183"
     },
     {
       "article_id": 3783497,
@@ -43,7 +44,8 @@
       "source": "materials/wallstreetcn/SourcePost/中金：924两年后有何变化？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3783497/delivery.json",
       "writer": "/root/scale_05",
-      "status": "pending_review"
+      "status": "revising",
+      "reviewer": "/root/audit_3783497"
     },
     {
       "article_id": 3784266,
@@ -51,7 +53,8 @@
       "source": "materials/wallstreetcn/SourcePost/美国投资人在担心什么？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3784266/delivery.json",
       "writer": "/root/scale_06",
-      "status": "pending_review"
+      "status": "reviewing",
+      "reviewer": "/root/audit_3784266"
     },
     {
       "article_id": 3783877,

@@ -1,0 +1,162 @@
+{
+  "article_id": 3764710,
+  "files": [
+    {
+      "path": "10_concepts/SPDR黄金信托GLD.md",
+      "operation": "update",
+      "entry_kind": "subconcept",
+      "id": "C-WS-3764710-GLD",
+      "title": "SPDR黄金信托GLD",
+      "draft_path": "drafts/10_concepts/SPDR黄金信托GLD.md",
+      "type": "concept",
+      "parent_ids": [
+        "C-FLOW-05"
+      ],
+      "parent_relation": "concrete_subject",
+      "why": "压缩本次历史数字，保留基金自身结构与观察用途。"
+    },
+    {
+      "path": "10_concepts/黄金.md",
+      "operation": "update",
+      "entry_kind": "concept",
+      "id": "C-ASSET-GOLD",
+      "title": "黄金",
+      "draft_path": "drafts/10_concepts/黄金.md",
+      "type": "concept",
+      "why": "仅压缩1月存量比较历史并定位事件，保留后续全部贡献。"
+    },
+    {
+      "path": "20_mechanisms/央行购金与黄金需求结构.md",
+      "operation": "update",
+      "entry_kind": "relation",
+      "id": "R-GOLD-03",
+      "title": "央行购金与黄金需求结构",
+      "draft_path": "drafts/20_mechanisms/央行购金与黄金需求结构.md",
+      "type": "mechanism",
+      "node_ids": [
+        "C-FX-14",
+        "C-ASSET-GOLD"
+      ],
+      "related_mechanism_ids": [
+        "R-INTERNATIONAL-13"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-FX-14",
+            "C-ASSET-GOLD"
+          ],
+          "related_mechanism_ids": [
+            "R-INTERNATIONAL-13"
+          ]
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-FX-14",
+            "C-ASSET-GOLD"
+          ],
+          "related_mechanism_ids": []
+        }
+      ],
+      "why": "仅压缩1月需求结构记录，保留11月数量与统计修订。"
+    },
+    {
+      "path": "20_mechanisms/美元信用与储备多元化.md",
+      "operation": "update",
+      "entry_kind": "relation",
+      "id": "R-INTERNATIONAL-13",
+      "title": "美元信用与储备多元化",
+      "draft_path": "drafts/20_mechanisms/美元信用与储备多元化.md",
+      "type": "mechanism",
+      "node_ids": [
+        "C-FX-USD",
+        "C-FX-14",
+        "C-ASSET-UST",
+        "C-ASSET-GOLD",
+        "C-GLOBAL-13"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-FX-USD",
+            "C-FX-14",
+            "C-ASSET-UST",
+            "C-GLOBAL-13"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-FX-14",
+            "C-ASSET-UST",
+            "C-ASSET-GOLD",
+            "C-GLOBAL-13"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-FX-USD",
+            "C-FX-14",
+            "C-ASSET-GOLD"
+          ],
+          "related_mechanism_ids": []
+        }
+      ],
+      "why": "一般持仓范围辨析保留机制，2月观点缩为定位复用。"
+    },
+    {
+      "path": "30_events/gold/2026年1月黄金急涨回调与美元信用替代争议.md",
+      "operation": "update",
+      "entry_kind": "event",
+      "id": "E-WS-3764710",
+      "title": "2026年1月黄金急涨回调与美元信用替代争议",
+      "draft_path": "drafts/30_events/gold/2026年1月黄金急涨回调与美元信用替代争议.md",
+      "type": "analysis_note",
+      "why": "补持有意愿及政策代价链，图文重排，恢复1月30日及中期选举后窗口。"
+    },
+    {
+      "path": "40_sources/S-WS-3764710.md",
+      "operation": "update",
+      "entry_kind": "source",
+      "id": "S-WS-3764710",
+      "title": "中金黄金5500美元分水岭：来源与核读范围",
+      "draft_path": "drafts/40_sources/S-WS-3764710.md",
+      "type": "source_note",
+      "why": "全部33图直接定位，集中图文口径核读与实际外部阅读范围。"
+    }
+  ],
+  "responses": [
+    {
+      "issue": "G1",
+      "status": "accepted",
+      "change": "买家节补风险关注→持有意愿→数量/资金流→边际定价，解释官方慢配置与私人快响应；政策节串起AI通胀情景、短端降息、缩表私人承接、长端回报与财政付息，保留相反作用和归属。"
+    },
+    {
+      "issue": "G2",
+      "status": "accepted",
+      "change": "产品页维护GLD结构；事件维护1月数字与争论；机制维护一般统计边界；黄金和央行页仅压本篇历史。十月、十一月及原有较晚证据未改。"
+    },
+    {
+      "issue": "G3",
+      "status": "accepted",
+      "change": "事件选12图就近展示，来源提供33图直链；归一波动率、短债比例与其他技术差异集中来源，用中性图注。未设缩字数目标。"
+    },
+    {
+      "issue": "G4",
+      "status": "accepted",
+      "change": "补作者对1月30日急跌的提名催化归因和中期选举后观察盟友合作窗口；2026-11-16整理的检验分数周、月季披露和较长政策窗口，不加入后来结果。"
+    }
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

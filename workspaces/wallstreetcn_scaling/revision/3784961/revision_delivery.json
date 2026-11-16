@@ -1,0 +1,105 @@
+{
+  "article_id": 3784961,
+  "files": [
+    {
+      "path": "10_concepts/恒生指数与恒生科技指数.md",
+      "draft_path": "drafts/10_concepts/恒生指数与恒生科技指数.md",
+      "operation": "update",
+      "id": "C-ASIA-11",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "恒生指数与恒生科技指数",
+      "why": "仅重写本篇业务暴露观察段，保留3783497十月13日快照、指数方法及来源。"
+    },
+    {
+      "path": "10_concepts/IPO、再融资与退市.md",
+      "draft_path": "drafts/10_concepts/IPO、再融资与退市.md",
+      "operation": "update",
+      "id": "C-ASIA-09",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "IPO、再融资与退市",
+      "why": "保留融资实施/解禁错时的一般过程，数值比较和口径集中到事件/来源。"
+    },
+    {
+      "path": "20_mechanisms/高股息资产的债券替代效应.md",
+      "draft_path": "drafts/20_mechanisms/高股息资产的债券替代效应.md",
+      "operation": "update",
+      "id": "R-EQ-DIVIDEND",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "高股息资产的债券替代效应",
+      "why": "聚焦现金分配与实际回购承接，保留必要2024案例；完整市场分支移事件。",
+      "node_ids": [
+        "C-ASIA-05",
+        "C-BOND-05",
+        "C-ASIA-06"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-ASIA-05",
+            "C-BOND-05"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-ASIA-05",
+            "C-BOND-05",
+            "C-ASIA-06"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/港股价格底、信用周期与股权供求：2026年11月观察.md",
+      "draft_path": "drafts/30_events/markets/港股价格底、信用周期与股权供求：2026年11月观察.md",
+      "operation": "update",
+      "id": "E-WS-3784961",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "港股价格底、信用周期与股权供求：2026年11月观察",
+      "why": "补信用—企业调整—政策—交易正面过程，按主线选图，新增具体后续检验窗口。"
+    },
+    {
+      "path": "40_sources/S-WS-3784961.md",
+      "draft_path": "drafts/40_sources/S-WS-3784961.md",
+      "operation": "update",
+      "id": "S-WS-3784961",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "中金市场见底研究：来源与核读范围",
+      "why": "逐张提供32原图入口，集中细核口径、历史指标归属和年度差异。"
+    }
+  ],
+  "responses": [
+    {
+      "issue": "A1",
+      "decision": "accepted",
+      "changes": "事件补居民信用用途到业务收入与利润预期、产能库存与政策不同速度；列2021—25具体窗口，解释现金回报和供求可先改变价格，保留样本时滞不稳定与重叠。"
+    },
+    {
+      "issue": "A2",
+      "decision": "accepted",
+      "changes": "事件32图减至9图，所有32图在来源逐张可点；来源承接次要坐标/平滑/年度差异。三个旧页各维护业务暴露、发行时滞及现金回报过程，保护3783497与既有内容。"
+    },
+    {
+      "issue": "A3",
+      "decision": "accepted",
+      "changes": "分开11月2日中金判断与11月16日本库同信息集检验；列11—12月实际回购/发行缴款、2027年1月2838亿港元解禁后的实际出售与承接，以及后续信用用途/财报/EPS窗口，区分资金反弹和经营修复。"
+    }
+  ],
+  "new_nodes": 0,
+  "baseline": "base.json",
+  "verification": "定向检查五稿链接、锚点、图片与YAML；主agent负责全仓检查。",
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

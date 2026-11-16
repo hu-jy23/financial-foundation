@@ -1,0 +1,139 @@
+{
+  "article_id": 3784433,
+  "files": [
+    {
+      "id": "R-WS-3784433-CROWDOUT",
+      "type": "mechanism",
+      "title": "投资扩张的资源挤出与政策约束",
+      "path": "20_mechanisms/投资扩张的资源挤出与政策约束.md",
+      "draft_path": "drafts/20_mechanisms/投资扩张的资源挤出与政策约束.md",
+      "operation": "update",
+      "entry_kind": "relation",
+      "why": "补财政预算、银行资本/风险/政策导向的边际资金数量配置；区分FCF融资变化与实物资源占用；三逻辑具体案例和检验改为定位复用。",
+      "node_ids": [
+        "C-TECH-03",
+        "C-TECH-04",
+        "C-TECH-05",
+        "C-INF-INFLATION",
+        "C-CREDIT-SPREAD",
+        "C-CREDIT-02",
+        "C-ASSET-UST",
+        "C-IR-POLICY",
+        "C-CHINA-02"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-TECH-03",
+            "C-TECH-04",
+            "C-TECH-05",
+            "C-INF-INFLATION"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-TECH-03",
+            "C-CREDIT-SPREAD",
+            "C-CREDIT-02",
+            "C-ASSET-UST"
+          ],
+          "related_mechanism_ids": [
+            "R-BANKING-01",
+            "R-FISCAL-LONGYIELD"
+          ]
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-TECH-03",
+            "C-IR-POLICY",
+            "C-INF-INFLATION",
+            "C-CHINA-02"
+          ],
+          "related_mechanism_ids": []
+        }
+      ],
+      "related_mechanism_ids": [
+        "R-BANKING-01",
+        "R-FISCAL-LONGYIELD"
+      ]
+    },
+    {
+      "id": "C-TECH-03",
+      "type": "concept",
+      "title": "云服务与超大规模云厂商",
+      "path": "10_concepts/云服务与超大规模云厂商.md",
+      "draft_path": "drafts/10_concepts/云服务与超大规模云厂商.md",
+      "operation": "update",
+      "entry_kind": "concept",
+      "why": "仅重写investment-return-financing本篇贡献：保留基础指标解释与短历史，移除重复读图，说明自有现金投资仍占用共同资源。"
+    },
+    {
+      "id": "E-WS-3784433",
+      "type": "analysis_note",
+      "title": "AI投资扩张与传统需求挤出争论：2026年10月",
+      "path": "30_events/AI投资扩张与传统需求挤出争论：2026年10月.md",
+      "draft_path": "drafts/30_events/AI投资扩张与传统需求挤出争论：2026年10月.md",
+      "operation": "update",
+      "entry_kind": "event",
+      "why": "纠正图5十亿港币；补中国战略与短期压力、融资组成解释；关键图贴近论证，分随后季度公司兑现、2027融资承接、中国投向三层检验。"
+    },
+    {
+      "id": "S-WS-3784433",
+      "type": "source_note",
+      "title": "华尔街见闻：AI投资扩张与传统需求挤出",
+      "path": "40_sources/S-WS-3784433.md",
+      "draft_path": "drafts/40_sources/S-WS-3784433.md",
+      "operation": "update",
+      "entry_kind": "source",
+      "why": "提供全部27图的直接入口和次要读图口径，改写采用位置，正确区分图3美元与图5港币。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "R1",
+      "status": "adopted",
+      "change": "事件图5图注与正文改为十亿港币；Source图5记录相同币种，与图3十亿美元分开；云页不再重复图组金额说明，未作汇率换算。"
+    },
+    {
+      "issue_id": "R2",
+      "status": "adopted",
+      "change": "关系logic-3补预算用途、拨款/资本金、银行资本风险流动性约束和政策支持方向如何改变获批数量；区分总支持扩张与份额重排。事件补六张网、新质生产力、长期科技目标及消费/就业/杠杆压力。事件、关系及云页说明FCF转负揭示融资组成变化，自有资金投资此前也消耗实物资源。"
+    },
+    {
+      "issue_id": "R3",
+      "status": "adopted",
+      "change": "云页保留基础解释和短历史，关系保留一般过程与短案例，事件维护本篇数字及中美争论，Source集中27图入口与次要读图口径；事件仅嵌图3、5、8、9、14、18、19、22、25、26，保留影响结论的图文分歧。云页仅改本篇区段。"
+    },
+    {
+      "issue_id": "R4",
+      "status": "adopted",
+      "change": "以2026-10-26为信息日，事件新增test-company、test-issuance-2027、test-china三个检验锚点，分别对照随后季度投入回款/供给、2027科技与非科技发行承接、中国总支持/投向/弱部门；保留非科技净供给仍正，关系预期定位复用，无新增政策日期或通用模型触发器。"
+    }
+  ],
+  "scope": "仅本篇revision目录；无新节点，4个已有文件返修",
+  "validation": {
+    "targeted_only": true,
+    "chart_count_reviewed": 27,
+    "event_inline_figures": [
+      3,
+      5,
+      8,
+      9,
+      14,
+      18,
+      19,
+      22,
+      25,
+      26
+    ]
+  },
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}
