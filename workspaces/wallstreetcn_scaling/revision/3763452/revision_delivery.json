@@ -1,0 +1,61 @@
+{
+  "article_id": 3763452,
+  "files": [
+    {
+      "path": "10_concepts/ASML.md",
+      "draft_path": "drafts/10_concepts/ASML.md",
+      "operation": "update",
+      "id": "C-TECH-26",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "ASML",
+      "why": "仅缩短1月16历史入口，数字及具体推断统一由事件维护；其他正文及10月14较晚截止保护"
+    },
+    {
+      "path": "30_events/markets/先进逻辑与DRAM扩产：ASML的2027盈利预测.md",
+      "draft_path": "drafts/30_events/markets/先进逻辑与DRAM扩产：ASML的2027盈利预测.md",
+      "operation": "update",
+      "id": "E-WS-3763452",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "先进逻辑与DRAM扩产：ASML的2027盈利预测",
+      "why": "沿客户提前投资—设备收入—盈利组织，减少逐图校勘重复，补四个原预测期限的支持/削弱观察"
+    },
+    {
+      "path": "40_sources/S-WS-3763452.md",
+      "draft_path": "drafts/40_sources/S-WS-3763452.md",
+      "operation": "update",
+      "id": "S-WS-3763452",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "ASML的2027盈利预测：来源与核读",
+      "why": "逐项直链6图，集中报价/图表校读与复算，登记返修范围"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "ASML-01",
+      "status": "addressed",
+      "change": "事件保留图3/4/5并删除全表转录和报价截图展开；图1复算、图3详细客户口径、图5加总及98%归因复算集中Source，6图直链。ASML仅留意义与事件入口，其余正文逐字保护。 删除事件开头执笔、模型核验与返修过程blockquote；作者信息保留YAML，日期在各对应段保留。",
+      "paths": [
+        "10_concepts/ASML.md",
+        "30_events/markets/先进逻辑与DRAM扩产：ASML的2027盈利预测.md",
+        "40_sources/S-WS-3763452.md"
+      ]
+    },
+    {
+      "issue_id": "ASML-02",
+      "status": "addressed",
+      "change": "watch标为2026-11-16后补研究设计，分别按随后1—2季、2026—27、2027盈利、2027—28客户产出，写支持/削弱观察与延迟/取消、效率替代、成本组合等竞争解释。",
+      "paths": [
+        "30_events/markets/先进逻辑与DRAM扩产：ASML的2027盈利预测.md#watch"
+      ]
+    }
+  ],
+  "summary": "返修ASML、事件和来源三稿；归位校读细节与历史重复，补按原期限检验预测的具体观察；无节点或结构变更。",
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

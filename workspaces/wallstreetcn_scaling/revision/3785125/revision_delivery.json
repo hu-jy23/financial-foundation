@@ -126,5 +126,8 @@
     "status": "adopted",
     "reviewer": "/root",
     "links_check": "passed"
-  }
+  },
+  "coordinator_adjustments": [
+    "将覆盖清单两项复合路径拆为paths数组，分别定位两个公司和两条机制逻辑，正文不变。"
+  ]
 }

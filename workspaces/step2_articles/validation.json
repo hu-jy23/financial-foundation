@@ -1,19 +1,19 @@
 {
   "formal_graph_unchanged": false,
   "formal_changes": [
-    "00_start/NODE_SELECTION_GUIDE.md",
     "00_start/templates/CONCEPT_TEMPLATE.md",
+    "00_start/NODE_SELECTION_GUIDE.md",
     "00_start/AUTHORING_STANDARD.md"
   ],
   "authorized_instruction_changes": [
-    "00_start/NODE_SELECTION_GUIDE.md",
     "00_start/templates/CONCEPT_TEMPLATE.md",
+    "00_start/NODE_SELECTION_GUIDE.md",
     "00_start/AUTHORING_STANDARD.md"
   ],
   "unexpected_formal_changes": [],
   "formal_knowledge_unchanged": true,
-  "changed_workspace_files": 169,
-  "local_links_checked": 3331,
+  "changed_workspace_files": 173,
+  "local_links_checked": 3844,
   "issues": [],
   "passed": true
 }

@@ -8,6 +8,20 @@ run=json.loads((R/'run.json').read_text());M=MarkdownIt('commonmark',{'html':Tru
 revision_path=R/'revision/run.json'
 revision=json.loads(revision_path.read_text()) if revision_path.exists() else None
 revision_done={t['article_id'] for t in revision['tasks'] if t['status']=='revised'} if revision else set()
+if revision:
+ summary=f"# 30篇独立审阅与返修\n\n已完成{sum((R/'revision'/str(t['article_id'])/'audit.json').exists() for t in revision['tasks'])}篇独立审阅，采用{len(revision_done)}/30篇返修。正式graph仍为240节点，成果保存在测试分支的共用工作图。\n\n"
+ summary+='主要改动：修正图表单位、转录和统计口径；按经济过程组织解释，详细校读集中来源页；减少跨页重复；补充有主体、期限及竞争解释的检验。本轮审阅另恢复《PMI与景气调查》概念，其余知识增量在现有条目中维护。\n\n'
+ replacements=[t for t in revision['tasks'] if t.get('revision_writer') and t['revision_writer']!=t['writer']]
+ if replacements:
+  summary+=f"{len(replacements)}篇经用户授权由新agent接手，保留原作者署名、另记返修者；已完成的其余返修交回原作者。\n\n"
+ summary+='| 文章 | 进度 | 审阅 | 返修 |\n| --- | --- | --- | --- |\n'
+ for t in revision['tasks']:
+  aid=t['article_id'];done=aid in revision_done
+  audit=f'[{aid}]({aid}/audit.md)' if (R/'revision'/str(aid)/'audit.md').exists() else '待审'
+  response=f'[修改说明]({aid}/revision.md)' if done else '待采用'
+  summary+=f"| {t['title'].replace('|','／')} | {'已采用' if done else '进行中'} | {audit} | {response} |\n"
+ summary+='\n[现行成品报告](../报告.html) · [逐篇状态与作者](run.json) · [审阅约定](GUIDE.md)\n'
+ (R/'revision/汇总.md').write_text(summary)
 revision_note=(f'<p><strong>逐篇独立审阅及返修：{len(revision_done)}/30篇已采用。</strong> '
                f'<a href="revision/{"汇总.md" if (R/"revision/汇总.md").exists() else "run.json"}">审阅与返修记录</a></p>') if revision else ''
 PARENT_LABELS={'concrete_subject':'具体主体','thematic_collection':'专题集合','instrument_specific_basis':'特定工具的基差','instrument_subtype':'工具细类','company_product':'公司产品线','policy_subtype':'政策工具细类'}
@@ -17,7 +31,7 @@ def E(s):return html.escape(str(s),quote=True)
 def meta(path):return yaml.safe_load((G/path).read_text().split('---',2)[1])
 cases=[]
 for name in ['ai','korea','basis']:
- d=json.loads((W/'deliveries'/f'{name}.json').read_text());cases.append({'id':d['article_id'],'title':d.get('title',{'ai':'AI CDS','korea':'韩国股市','basis':'美债基差交易'}[name]),'files':d['files'],'baseline':True,'summary':'三篇基准，本轮独立审阅及原作者返修已采用。' if d['article_id'] in revision_done else '三篇基准，已含2026-11-16规则复审。'})
+ d=json.loads((W/'deliveries'/f'{name}.json').read_text());cases.append({'id':d['article_id'],'title':d.get('title',{'ai':'AI CDS','korea':'韩国股市','basis':'美债基差交易'}[name]),'files':d['files'],'baseline':True,'summary':'三篇基准，本轮独立审阅及返修已采用。' if d['article_id'] in revision_done else '三篇基准，已含2026-11-16规则复审。'})
 for a in run['articles']:
  if a['status']=='adopted':
   d=json.loads((R/'articles'/str(a['article_id'])/'delivery.json').read_text());cases.append({'id':a['article_id'],'title':a['title'],'files':[f for f in d['files'] if f['operation'] in ['new','update']],'baseline':False,'summary':d.get('summary','')})

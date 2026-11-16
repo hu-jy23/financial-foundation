@@ -1,0 +1,56 @@
+{
+  "article_id": 3767144,
+  "files": [
+    {
+      "path": "10_concepts/人民币与离岸人民币.md",
+      "draft_path": "drafts/10_concepts/人民币与离岸人民币.md",
+      "operation": "update",
+      "id": "C-FX-02",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "人民币与离岸人民币",
+      "why": "缩短本篇3月历史为顺差—收款—结汇及事件入口，逐字保留11月及其他正文"
+    },
+    {
+      "path": "30_events/markets/开年外贸的季节性、订单与结汇：2026年3月判断.md",
+      "draft_path": "drafts/30_events/markets/开年外贸的季节性、订单与结汇：2026年3月判断.md",
+      "operation": "update",
+      "id": "E-WS-3767144",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "开年外贸的季节性、订单与结汇：2026年3月判断",
+      "why": "以采购/新市场/前置交付解释增长，补三窗口检验设计并复用PMI",
+      "node_ids": [
+        "C-FX-02",
+        "C-FX-USD",
+        "C-MACRO-11"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3767144.md",
+      "draft_path": "drafts/40_sources/S-WS-3767144.md",
+      "operation": "update",
+      "id": "S-WS-3767144",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "开年外贸分析：来源与核读范围",
+      "why": "集中币种/图表/政策核读及全部6图直链"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "R1",
+      "response": "重组事件为海外投资采购交付、新市场订单与春节/退税前置过程；校读移Source并直链6图；关联C-MACRO-11；人民币只缩本篇3月段，原作者/来源/11月及其他文字保留。"
+    },
+    {
+      "issue_id": "R2",
+      "response": "明确3月/一季度、4月切换/二季度、随后季度/全年三个窗口，分别列支持、削弱及竞争解释观察，标2026-11-16后补研究设计，未加后发结果。"
+    }
+  ],
+  "summary": "返修事件与来源；缩短人民币3月历史。无新节点。",
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

@@ -10,7 +10,7 @@
       "type": "concept",
       "title": "人民币与离岸人民币",
       "entry_kind": "concept",
-      "why": "补3月出口/顺差支持汇率的历史判断，区分币种、经常账户、收款和结汇"
+      "why": "缩短本篇3月历史为顺差—收款—结汇及事件入口，逐字保留11月及其他正文"
     },
     {
       "path": "30_events/markets/开年外贸的季节性、订单与结汇：2026年3月判断.md",
@@ -20,7 +20,12 @@
       "type": "analysis_note",
       "title": "开年外贸的季节性、订单与结汇：2026年3月判断",
       "entry_kind": "event",
-      "why": "完整保存季节性、订单、退税、市场与进口量价、汇率展望及6图"
+      "why": "以采购/新市场/前置交付解释增长，补三窗口检验设计并复用PMI",
+      "node_ids": [
+        "C-FX-02",
+        "C-FX-USD",
+        "C-MACRO-11"
+      ]
     },
     {
       "path": "40_sources/S-WS-3767144.md",
@@ -30,7 +35,7 @@
       "type": "source_note",
       "title": "开年外贸分析：来源与核读范围",
       "entry_kind": "source",
-      "why": "登记6图及财政公告/商务部摘要实读、图文差异与未取得范围"
+      "why": "集中币种/图表/政策核读及全部6图直链"
     }
   ],
   "coverage": [
@@ -50,5 +55,6 @@
     "10_concepts/人民币与离岸人民币.md",
     "30_events/markets/开年外贸的季节性、订单与结汇：2026年3月判断.md",
     "40_sources/S-WS-3767144.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3767144/audit.md"
 }

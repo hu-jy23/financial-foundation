@@ -10,7 +10,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "ASML",
-      "why": "补2026年1月16日大摩2027盈利预期、低NA收入确认台数口径与后续信息入口；保留10月14截止"
+      "why": "仅缩短1月16历史入口，数字及具体推断统一由事件维护；其他正文及10月14较晚截止保护"
     },
     {
       "path": "30_events/markets/先进逻辑与DRAM扩产：ASML的2027盈利预测.md",
@@ -20,7 +20,7 @@
       "type": "analysis_note",
       "entry_kind": "event",
       "title": "先进逻辑与DRAM扩产：ASML的2027盈利预测",
-      "why": "保留先进逻辑/DRAM投资、机型与预测修订5图及1月28后来结果"
+      "why": "沿客户提前投资—设备收入—盈利组织，减少逐图校勘重复，补四个原预测期限的支持/削弱观察"
     },
     {
       "path": "40_sources/S-WS-3763452.md",
@@ -30,7 +30,7 @@
       "type": "source_note",
       "entry_kind": "source",
       "title": "ASML的2027盈利预测：来源与核读",
-      "why": "记录全文6图与TSMC/ASML一手材料定向核读及原研报缺口"
+      "why": "逐项直链6图，集中报价/图表校读与复算，登记返修范围"
     }
   ],
   "coverage": [
@@ -80,5 +80,6 @@
     "10_concepts/ASML.md",
     "30_events/markets/先进逻辑与DRAM扩产：ASML的2027盈利预测.md",
     "40_sources/S-WS-3763452.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3763452/audit.md"
 }

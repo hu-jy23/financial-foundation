@@ -21,3 +21,19 @@
 
 ### Resolution
 2026-11-16：用户明确允许新agent接手。/root/revise_3749421完成返修，root复核采用；保留/root/scale_18原署名，另记实际返修者。
+
+## [ERR-20261116-002] historical_writer_unavailable
+
+**Logged**: 2026-11-16
+**Priority**: medium
+**Status**: in_progress
+**Area**: infra
+
+### Summary
+三个早期试点的原作者produce_ai、produce_korea、produce_basis均返回live agent path not found。
+
+### Context
+历史署名可追溯，但原会话agent已不在可恢复列表。审阅完成；用户已明确授权三个完整上下文新agent接替，正在返修，原署名保留。
+
+### Suggested Fix
+要求原作者返修时，先确认历史agent可恢复；经明确授权另记接替返修者，保留原署名。

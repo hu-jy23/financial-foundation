@@ -237,7 +237,7 @@
       "source": "materials/wallstreetcn/SourcePost/开年外贸：闪耀的非常信号/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3767144/delivery.json",
       "writer": "/root/scale_26",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3767144"
     },
     {
@@ -246,7 +246,7 @@
       "source": "materials/wallstreetcn/SourcePost/阿斯麦的＂巅峰时刻＂！大摩：先进制程扩产潮下，2027年或迎最强盈利增长/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3763452/delivery.json",
       "writer": "/root/scale_27",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3763452"
     },
     {
@@ -255,8 +255,12 @@
       "source": "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md",
       "delivery": "workspaces/step2_articles/deliveries/ai.json",
       "writer": "/root/produce_ai",
-      "status": "reviewing",
-      "reviewer": "/root/audit_3784900"
+      "status": "revising",
+      "reviewer": "/root/audit_3784900",
+      "writer_error": "live agent path not found",
+      "writer_availability": "unavailable_historical_session",
+      "revision_writer": "/root/revise_ai",
+      "replacement_authorized_by_user": true
     },
     {
       "article_id": 3784053,
@@ -264,7 +268,12 @@
       "source": "materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md",
       "delivery": "workspaces/step2_articles/deliveries/korea.json",
       "writer": "/root/produce_korea",
-      "status": "pending_review"
+      "status": "revising",
+      "reviewer": "/root/audit_3784053",
+      "writer_error": "live agent path not found",
+      "writer_availability": "unavailable_historical_session",
+      "revision_writer": "/root/revise_korea",
+      "replacement_authorized_by_user": true
     },
     {
       "article_id": 3744871,
@@ -272,7 +281,12 @@
       "source": "materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md",
       "delivery": "workspaces/step2_articles/deliveries/basis.json",
       "writer": "/root/produce_basis",
-      "status": "pending_review"
+      "status": "revising",
+      "reviewer": "/root/audit_3744871",
+      "writer_error": "live agent path not found",
+      "writer_availability": "unavailable_historical_session",
+      "revision_writer": "/root/revise_basis",
+      "replacement_authorized_by_user": true
     }
   ],
   "baseline_commit": "3186ef614d279c6b9abdede39b0d8c8f718b9947",

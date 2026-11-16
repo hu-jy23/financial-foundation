@@ -58,6 +58,18 @@ for p in targets:
    if u.fragment and target.suffix=='.md':
     s=content(target);frag=unquote(u.fragment);heads=re.findall(r'^#{1,6}\s+(.+?)\s*#*$',s,re.M);slugs={re.sub(r'[^\w\-\s\u3400-\u9fff]','',h.lower()).replace(' ','-') for h in heads}
     if not re.search(r'(?:id|name)=["\']'+re.escape(frag)+r'["\']',s) and frag not in slugs:issues.append({'file':str(p.relative_to(G)),'anchor':url})
+coverage_checks=0
+coverage_items=sum(len(d.get('coverage',[])) for d in deliveries)
+for d in deliveries:
+ for item in d.get('coverage',[]):
+  references=item.get('paths', [item['path']] if item.get('path') else [])
+  for reference in references:
+   coverage_checks+=1;u=urlsplit(reference);target=canonical(G/unquote(u.path))
+   if not exists(target):issues.append({'coverage_missing':reference,'article_id':d['article_id']});continue
+   if u.fragment:
+    fragment=unquote(u.fragment)
+    if not re.search(r'(?:id|name)=["\']'+re.escape(fragment)+r'["\']',content(target)):
+     issues.append({'coverage_anchor':reference,'article_id':d['article_id']})
 for p in targets | {G/'00_start/CONCEPT_IMPORT_LIST.md',G/'00_start/MECHANISM_IMPORT_LIST.md',R/'增量清单.md'}:
  if not p.exists():continue
  for raw in re.findall(r'!?\[[^\]\n]*\]\(([^<\n][^\n]*?)\)',content(p)):
@@ -71,4 +83,4 @@ if p.exists():
   if u.scheme or u.netloc:continue
   if u.path and not exists(R/unquote(u.path)):issues.append({'report_missing':u.path})
   if not u.path and u.fragment and unquote(u.fragment) not in ids:issues.append({'report_anchor':u.fragment})
-result={'accepted':sum(a['status']=='adopted' for a in run['articles']),'total_articles_checked':len(deliveries),'working_nodes':len(nodes),'changed_documents_checked':len(targets),'links_checked':checks,'issues':issues,'passed':not issues};(R/'validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n');print(json.dumps(result,ensure_ascii=False,indent=2));raise SystemExit(0 if not issues else 1)
+result={'accepted':sum(a['status']=='adopted' for a in run['articles']),'total_articles_checked':len(deliveries),'working_nodes':len(nodes),'changed_documents_checked':len(targets),'links_checked':checks,'coverage_items_checked':coverage_items,'coverage_references_checked':coverage_checks,'issues':issues,'passed':not issues};(R/'validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n');print(json.dumps(result,ensure_ascii=False,indent=2));raise SystemExit(0 if not issues else 1)

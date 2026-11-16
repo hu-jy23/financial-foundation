@@ -104,11 +104,17 @@
   "coverage": [
     {
       "knowledge": "模型服务的主体、交付、分层产品与观察用途",
-      "path": "10_concepts/智谱.md；10_concepts/MiniMax.md"
+      "paths": [
+        "10_concepts/智谱.md",
+        "10_concepts/MiniMax.md"
+      ]
     },
     {
       "knowledge": "价格、单位成本、调用与收入",
-      "path": "20_mechanisms/模型效率、推理成本与总算力需求.md#logic-1；#logic-2"
+      "paths": [
+        "20_mechanisms/模型效率、推理成本与总算力需求.md#logic-1",
+        "20_mechanisms/模型效率、推理成本与总算力需求.md#logic-2"
+      ]
     },
     {
       "knowledge": "METR、20步算例、ARR、融资、远期估值与7图",

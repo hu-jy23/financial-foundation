@@ -1,8 +1,11 @@
 {
   "accepted": 27,
+  "total_articles_checked": 30,
   "working_nodes": 275,
-  "changed_documents_checked": 117,
-  "links_checked": 2110,
+  "changed_documents_checked": 140,
+  "links_checked": 2487,
+  "coverage_items_checked": 248,
+  "coverage_references_checked": 249,
   "issues": [],
   "passed": true
 }

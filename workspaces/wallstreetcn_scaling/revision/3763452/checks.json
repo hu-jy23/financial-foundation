@@ -1,0 +1,18 @@
+{
+  "article_id": 3763452,
+  "status": "pass",
+  "files": 3,
+  "metadata_unchanged": true,
+  "ASML_outside_20260116_section_byte_identical": true,
+  "original_evidence_as_of": "2026-10-14",
+  "local_links_checked": 46,
+  "event_images": 3,
+  "source_direct_figures": 6,
+  "errors": [],
+  "manual_checks": [
+    "原6图重新亲核",
+    "图5加总与7098/7207归因、2021增速边界保留",
+    "1月16预期与1月28实际分日期；watch为11/16后补设计",
+    "无共享页、原delivery、原材料修改"
+  ]
+}
