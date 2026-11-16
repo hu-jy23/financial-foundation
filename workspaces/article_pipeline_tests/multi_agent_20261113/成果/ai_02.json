@@ -1,0 +1,126 @@
+{
+  "run_id": "ai_02",
+  "article_id": 3784900,
+  "title": "从产业敞口到信用保护交易：AI相关企业CDS的研究边界",
+  "problem": "文章在解释一场信用保护市场的变化：AI扩张把不同企业的融资与客户风险连接起来，持有债券以外敞口的机构也开始使用CDS。需要理解为何这些企业的CDS一起走阔，同时在涨幅、绝对水平、期限曲线和现金债基差上明显分化。产业共同主题、具体偿债风险与保护供求之间的联系，是本篇值得持续研究的内容。",
+  "passages": [
+    {
+      "location": "“芯片制造商信贷特征转变”及图1、图2",
+      "quote": "“芯片制造商的CDS利差走阔最为显著。”",
+      "analysis": "图2给出博通47至168bp、微软44至53bp，支持芯片商涨幅较大的观察；甲骨文当前271bp又高于博通。涨幅排序与绝对水平排序表达不同信息，前者还受起点影响。研究页应保存群体内部分化，不能把“AI CDS上涨”处理成同一风险程度或一条统一曲线。开篇8%成分数对应16%隐含风险的说法还需要风险份额的计算口径。",
+      "method": "先在同一观察日和五年期口径下比较水平与变化，再按企业角色解释差异；行业标签只组织比较，不预先决定原因。"
+    },
+    {
+      "location": "“芯片制造商信贷特征转变”中供应商融资两段",
+      "quote": "“随着芯片供应商开始向客户提供贷款以购买其芯片（即供应商融资），信贷市场已开始将这些公司视为拥有高度集中贷款账本的贷款机构。”",
+      "analysis": "一般销售中供应商等待收入，加入贷款后还持有客户的偿付承诺；担保则形成另一种可能付款责任。客户经营不佳可能同时削弱未来订单和既有信用敞口，成为共同风险来源。文章用博通担保举例，但没有足够合同材料把贷款、担保金额、触发条件或损失顺位视为已核实。",
+      "method": "分别重建销售、融资与担保的现金流和责任，比较未提供融资的销售关系。推导共同受损的条件，保留巴克莱把企业称作贷款机构的解释归属。"
+    },
+    {
+      "location": "开篇非持债机构买保护段、基差转正节及图3—5",
+      "quote": "“大量未持有相关债券的机构（如进行对冲的股票基金和银行）正大举买入CDS。”",
+      "analysis": "没有持有现金债并不排除股权、贷款或其他相关敞口。借助特定企业CDS对冲共同产业风险，还会留下参考实体、期限与原资产损失不同步的风险。图3显示基差变化，图4—5显示交易及名义规模扩大，但它们不能识别实际买家，也不能单独确认买盘动机。需继续理解保护卖方承接能力，以及价差为何未被交易消除。",
+      "method": "从持有者原敞口追踪到对冲工具，再比较现金债与CDS的价格。把“观察到基差转正”与“作者将其归于保护需求”分开叙述，允许信用变化与交易需求共同作用。"
+    },
+    {
+      "location": "“曲线形态分化”及图6、图7",
+      "quote": "“亚马逊与谷歌的5年期CDS水平相当（80-81基点），但亚马逊的3s5s曲线……仅为18基点。”",
+      "analysis": "图6中谷歌3s5s为27bp。两个五年期报价相近，较短期限的相对定价仍有区别。贷款引起买盘是作者给出的解释；它需要贷款风险期限与实际交易证据。图7还显示英特尔负基差，说明共同AI主题无法代替逐实体分析；该图部分成员基差历史始于2026年6月，不能把每个区间都按完整一年比较。",
+      "method": "固定一个维度后比较另一维度，寻找解释差别的安排。用截面作为假说线索，并核查历史窗口，避免从一张横截面图直接认定因果。"
+    },
+    {
+      "location": "“高收益市场缩影”及图8、图9",
+      "quote": "“CoreWeave的5年期CDS已采用‘预付点数’（points upfront）的定价方式，达到15.5点。”",
+      "analysis": "图8有负upfront历史值，当前15.5也低于约20的此前高点。报价方式与近期走势应分别理解，15.5不能直接当作违约概率或与bp数值比较。现有主权CDS页已解释固定票息加初始价款，通用知识可复用；CoreWeave仍需保留高收益主体及报价口径的区别。图9双轴分别为周成交四周均值和未平仓金额，它们的上升不直接识别净现金流入或谁看空。",
+      "method": "先还原报价的现金支付含义，再在同口径历史内解释状态；高收益与投资级分开比较，并将成交流量、合约存量分别保存。"
+    }
+  ],
+  "structures": [
+    {
+      "name": "主权信用风险与CDS的工具范围重组",
+      "kind": "existing_update",
+      "parent": "C-FISCAL-14 主权信用风险与CDS",
+      "inherits": "保留主权偿付、信用事件与主权历史内容；通用合约、报价、风险转移解释可作为共享知识。",
+      "difference": "企业CDS无法按主权风险的实例挂接，现有复合页同时承担工具与特定参考实体类别的知识。",
+      "why_register": "建议主审时考虑建立共享CDS工具入口，解决企业与主权案例共同引用的问题；这项调整的收益来自当前解释职责的重叠。",
+      "inline_alternative": "继续引用主权页的通用段落也能阅读，但父子标注会把企业工具误挂在主权风险之下。",
+      "decision": "提出范围重组，不在本次测试分配新父项ID或改动正式页。"
+    },
+    {
+      "name": "AI相关企业CDS",
+      "kind": "child_concept",
+      "parent": "拟调整后的通用CDS工具入口；关系类型为专题标的集合，不是一个新标准合约",
+      "inherits": "参考实体、保护买卖、合约期限、票息与upfront等通用工具解释。",
+      "difference": "围绕AI投资与客户融资联系的一组可交易信用保护标的；持续保存成员间水平、曲线、基差及交易用途的分化，CoreWeave高收益观察单列。",
+      "why_register": "本篇已提供多企业、多期限、现金债比较和交易活动的连贯内容。独立位置使后续针对某企业、某种工具或共同产业判断的材料可以连接到同一研究对象，并保留分化。注册不表示现有因果解释已被验证。",
+      "inline_alternative": "可先作为CDS通用页的专题章节；但该页会同时维护合约原理和特定产业的逐期观察，多处机制引用又会重复定位同一组企业。",
+      "decision": "建议试用专题子概念作为主要维护位置，父项调整与成员边界由主agent审阅；正式注册尚未进行。"
+    },
+    {
+      "name": "供应商融资与保护需求的两条解释",
+      "kind": "section",
+      "parent": "AI相关企业CDS",
+      "inherits": "引用C-CREDIT-SPREAD关于价格成分的解释，并关联C-TECH-03的客户投资与收入联系。",
+      "difference": "一条追踪供应商对客户新增的信用责任，另一条追踪相关资产持有者使用CDS的需求。",
+      "why_register": "当前不独立注册子关系：文章主要提供特定期间的解释，尚未展开卖方约束、合同责任和反馈证据；将两者各立机制容易把具名假说固化。",
+      "inline_alternative": "作为专题页的解释章节，连同对应历史观察保存即可。",
+      "decision": "采用章节。与R-DERIVATIVES-02的现券—期货基差交易作普通关联，不强行归为其子关系；文中也未充分展示R-CREDIT-COLLATERAL所需的融资条件—支出—净值反馈。"
+    }
+  ],
+  "sample_title": "供应商融资怎样进入AI相关企业的信用比较",
+  "sample": "2026年10月31日的报道转述巴克莱研究：截至10月28日，博通五年期CDS从六个月前约47bp升至168bp，而微软由44bp升至53bp。博通的相对涨幅更大，甲骨文271bp的当前水平仍更高。AI相关企业面临共同投资主题，其信用表现需要继续按具体风险承担比较。\n\n供应商参与客户融资，改变了这种比较的内容。若供应商直接贷款支持客户购买设备，它收到销售款的同时持有客户未来偿付的承诺；若提供担保，则承担合同约定条件下的付款责任。客户后续现金流不足，既可能减少下一批订单，也可能损害供应商的贷款回收或使担保责任兑现。这是基于交易安排的条件解释，不能从设备销售增长单独推出损失规模。\n\n巴克莱据此把部分芯片供应商视作集中承担客户信用风险的主体，并提出用博通CDS对冲更广泛AI融资压力的观点。这样的用途还要求判断博通信用变化与使用者原敞口是否同步，以及保护期限能否覆盖风险。该报道未提供足够持仓资料证明谁实际建立了这种对冲。后续若客户支付、供应商信用责任与CDS变化出现可对应的证据，可以增强这一解释；若变化主要集中在特定对冲期限而现金债表现不同，则需要进一步研究保护供求。专题页据此保留融资风险与交易需求两条解释，持续比较它们得到的新证据。",
+  "limitations": [
+    "本轮使用本地转引文章与图像，未回查巴克莱研报、彭博原报道、交易持仓或合同；保留作者解释，没有确认所述2026年全部发行、担保及财务数字。",
+    "原文以50亿美元“翻倍至200亿美元”存在算术不一致。图5支持约70亿到280亿美元的总体描述，净额、总额与现金流含义仍需核对；本稿不据此计算风险增量。",
+    "成员范围的确定规则、CDX隐含风险16%的计算口径、现金债匹配方式及upfront固定票息未取得。AI相关企业CDS作为专题集合须补清边界，不能当单一可交易指数。",
+    "2008类比目前只得到对冲需求与相对价格的叙述，尚无充分损失承担、卖方杠杆及融资链证据支持系统性危机判断。",
+    "现行目录和形成记录读取了导论及与CDS、基差、信用、云服务和金融加速器有关的条目；相关正文按本次争点读取，没有回查其全部外部原件。模型、思考档位为继承且不可核验。"
+  ],
+  "guidance_feedback": "纲领使我把同涨与分化作为文章问题，再选择报价比较、合同责任和持仓对冲分析；子结构讨论也允许对父页本身提出重组。仍需防止把“可持续研究”变成想象未来资料的通行证，注册理由应由当前已经能写出的内容支撑。测试接口同时提供多种kind，可能诱导每类都凑一项；我只建议一个专题子概念，具体过程先写章节。正式工具类型、专题集合与实例的父子关系，应在后续元数据中分别表达，否则同一个parent字段仍会混淆继承与归属。",
+  "reading": {
+    "documents": [
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/README.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/TEST_TASK.md",
+      "materials/wallstreetcn/维护/ARTICLE_AUTHORING_CHARTER.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/NODE_SELECTION_GUIDE.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/AUTHORING_STANDARD.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/EVENT_SOURCE_GUIDE.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/REVIEW_CHECKLIST.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/SUBSTRUCTURE_DISCUSSION.md",
+      "graph/00_start/README.md",
+      "graph/00_start/PROJECT_PLAN.md",
+      "graph/00_start/CONVERSATION_MEMORY.md",
+      "graph/00_start/BATCH_TASK.md",
+      "graph/00_start/FILE_NAMING.md",
+      "graph/00_start/CONCEPT_SELECTION_HISTORY.md",
+      "graph/00_start/MECHANISM_SELECTION_HISTORY.md",
+      "graph/00_start/CONCEPT_IMPORT_LIST.md",
+      "graph/00_start/MECHANISM_IMPORT_LIST.md",
+      "graph/00_start/templates/CONCEPT_TEMPLATE.md",
+      "graph/00_start/templates/MECHANISM_TEMPLATE.md",
+      "graph/00_start/templates/EVENT_TEMPLATE.md",
+      "graph/00_start/templates/SOURCE_NOTE_TEMPLATE.md",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md"
+    ],
+    "graph_pages": [
+      "graph/10_concepts/信用利差.md",
+      "graph/10_concepts/基差.md",
+      "graph/10_concepts/主权信用风险与CDS.md",
+      "graph/10_concepts/云服务与超大规模云厂商.md",
+      "graph/20_mechanisms/基差交易.md",
+      "graph/20_mechanisms/金融加速器.md"
+    ],
+    "figures": [
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_001.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_002.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_003.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_004.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_005.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_006.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_007.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_008.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_009.png"
+    ]
+  },
+  "summary": "建议将AI相关企业CDS作为继承通用工具知识的专题子概念，保存群体内分化；先调整主权／通用CDS范围，两个过程暂作解释章节，不注册子关系。"
+}

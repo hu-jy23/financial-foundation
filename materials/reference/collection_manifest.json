@@ -1,0 +1,1016 @@
+{
+  "collected_on": "2026-11-03",
+  "source_list": "graph/40_sources/ACQUISITION_SHORTLIST.md",
+  "language_policy": "保留原文；中文原文使用中文，不以英文替换；中文目录和说明不代表原文已翻译。",
+  "groups": [
+    {
+      "id": "A1",
+      "title": "Introduction to Central Banking — Ulrich Bindseil、Alessio Fotia，2021",
+      "directory": "A1_中央银行导论_2021",
+      "original_language": "en",
+      "source_urls": [
+        "https://link.springer.com/book/10.1007/978-3-030-70884-9",
+        "https://link.springer.com/chapter/10.1007/978-3-030-70884-9_3"
+      ],
+      "files": [
+        {
+          "file": "Introduction_to_Central_Banking_2021.pdf",
+          "source_url": "https://link.springer.com/content/pdf/10.1007/978-3-030-70884-9.pdf",
+          "resolved_url": "https://link.springer.com/content/pdf/10.1007/978-3-030-70884-9.pdf",
+          "scope": "全文",
+          "bytes": 4985963,
+          "sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+          "pages": 148
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": true,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "A2",
+      "title": "Economics of Money and Banking — Perry Mehrling",
+      "directory": "A2_货币与银行课程_Mehrling",
+      "original_language": "en",
+      "source_urls": [
+        "https://sites.bu.edu/perry/lectures/mb-lectures/",
+        "https://sites.bu.edu/perry/files/2019/01/Lec-07-Repos-Postponing-Settlement.pdf",
+        "https://sites.bu.edu/perry/files/2019/01/Lec-12-Lender-or-Dealer-of-Last-Resort.pdf"
+      ],
+      "files": [
+        {
+          "file": "Lecture_05_Lec-05-The-Central-Bank-as-a-Clearinghouse.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-05-The-Central-Bank-as-a-Clearinghouse.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-05-The-Central-Bank-as-a-Clearinghouse.pdf",
+          "scope": "第5讲完整讲义",
+          "bytes": 171178,
+          "sha256": "9a65dd89ba98e0523d397f6b7ba6470d82ccf20fc5f877d5de72a1043f4e0c57",
+          "pages": 5
+        },
+        {
+          "file": "Lecture_06_Lec-06-Federal-Funds-Final-Settlement.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-06-Federal-Funds-Final-Settlement.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-06-Federal-Funds-Final-Settlement.pdf",
+          "scope": "第6讲完整讲义",
+          "bytes": 130943,
+          "sha256": "9fd18ef90d3f1bf6c884835cbb89a0ea7f30207bd5622bd9d709b2808a8008cc",
+          "pages": 7
+        },
+        {
+          "file": "Lecture_04_Lec-04-The-Money-View-Micro-and-Macro.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-04-The-Money-View-Micro-and-Macro.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-04-The-Money-View-Micro-and-Macro.pdf",
+          "scope": "第4讲完整讲义",
+          "bytes": 174070,
+          "sha256": "9ff903c0302a35fcff88c7fe81feb86628750e57d4bda939572dfe885604076b",
+          "pages": 10
+        },
+        {
+          "file": "Lecture_03_Lec-03-Money-and-the-State-Domestic.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-03-Money-and-the-State-Domestic.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-03-Money-and-the-State-Domestic.pdf",
+          "scope": "第3讲完整讲义",
+          "bytes": 194098,
+          "sha256": "2da48d2bbb13e29b35d56ed340eef6354d5068d855108aec7f79edb9f4eefdfa",
+          "pages": 7
+        },
+        {
+          "file": "Lecture_01_Lec-01-The-Four-Prices-of-Money.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-01-The-Four-Prices-of-Money.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-01-The-Four-Prices-of-Money.pdf",
+          "scope": "第1讲完整讲义",
+          "bytes": 95259,
+          "sha256": "e9f9b1921b15c581f72cf9dac002560b2a1b37019bfac1f01d09543ba4842588",
+          "pages": 5
+        },
+        {
+          "file": "Lecture_09_Lec-09-The-World-that-Bagehot-Knew.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-09-The-World-that-Bagehot-Knew.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-09-The-World-that-Bagehot-Knew.pdf",
+          "scope": "第9讲完整讲义",
+          "bytes": 188466,
+          "sha256": "3687e92cf176c8ffc1907e5ff7febcfb4da51df06766f78faf328f08db0e8306",
+          "pages": 8
+        },
+        {
+          "file": "Lecture_02_Lec-02-The-Natural-Hierarchy-of-Money.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-02-The-Natural-Hierarchy-of-Money.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-02-The-Natural-Hierarchy-of-Money.pdf",
+          "scope": "第2讲完整讲义",
+          "bytes": 147279,
+          "sha256": "2ab6e4a22d017b41adfb62321db084f395b08f0ac8f3e7ccd15361c9eb30521d",
+          "pages": 8
+        },
+        {
+          "file": "Lecture_11_Lec-11-Banks-and-The-Market-for-Liquidity.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-11-Banks-and-The-Market-for-Liquidity.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-11-Banks-and-The-Market-for-Liquidity.pdf",
+          "scope": "第11讲完整讲义",
+          "bytes": 220196,
+          "sha256": "4be49ac75c60b70d55114728fcac7d67685cf24b693bd5eb2fc94c1074acfd7e",
+          "pages": 7
+        },
+        {
+          "file": "Lecture_13_Lec-13-Chartalism-Metallism-and-Key-Currencies.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-13-Chartalism-Metallism-and-Key-Currencies.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-13-Chartalism-Metallism-and-Key-Currencies.pdf",
+          "scope": "第13讲完整讲义",
+          "bytes": 412327,
+          "sha256": "6c39bb12fbcc9919754dd3bdee939b5eba7e7f1ca99f9cd818321137364d870d",
+          "pages": 9
+        },
+        {
+          "file": "Lecture_14_Lec-14-Money-and-the-State-International.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-14-Money-and-the-State-International.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-14-Money-and-the-State-International.pdf",
+          "scope": "第14讲完整讲义",
+          "bytes": 188633,
+          "sha256": "5785549fbbca95535ca7ec49f72a2c9d62389024f80d858b3ab64921337b495d",
+          "pages": 6
+        },
+        {
+          "file": "Lecture_10_Lec-10-Dealers-and-Liquid-Security-Markets.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-10-Dealers-and-Liquid-Security-Markets.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-10-Dealers-and-Liquid-Security-Markets.pdf",
+          "scope": "第10讲完整讲义",
+          "bytes": 146052,
+          "sha256": "7edc4d419055c3da051571d2acf7a824443e13d90f381560dd267602fea72ef2",
+          "pages": 7
+        },
+        {
+          "file": "Lecture_08_Lec-08-Eurodollars-Parallel-Settlement.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-08-Eurodollars-Parallel-Settlement.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-08-Eurodollars-Parallel-Settlement.pdf",
+          "scope": "第8讲完整讲义",
+          "bytes": 46823,
+          "sha256": "62619b1d65380a003eff0deba11eac8bd04a8521e475601f6f7a18e4b81efbb0",
+          "pages": 8
+        },
+        {
+          "file": "Lecture_12_Lec-12-Lender-or-Dealer-of-Last-Resort.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-12-Lender-or-Dealer-of-Last-Resort.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-12-Lender-or-Dealer-of-Last-Resort.pdf",
+          "scope": "第12讲完整讲义",
+          "bytes": 275999,
+          "sha256": "c0fc3e3c2a11f8883befbe467748609f2485ed05f19b83b2d7f6349b1e471fac",
+          "pages": 11
+        },
+        {
+          "file": "Lecture_07_Lec-07-Repos-Postponing-Settlement.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-07-Repos-Postponing-Settlement.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-07-Repos-Postponing-Settlement.pdf",
+          "scope": "第7讲完整讲义",
+          "bytes": 41350,
+          "sha256": "6d222028e4cf522cb119db37f36a604d644d63911446b8e0c516283a27be0a6a",
+          "pages": 6
+        },
+        {
+          "file": "Lecture_15_Lec-15-Banks-and-Global-Liquidity.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-15-Banks-and-Global-Liquidity.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-15-Banks-and-Global-Liquidity.pdf",
+          "scope": "第15讲完整讲义",
+          "bytes": 582222,
+          "sha256": "6fd2e82d79b9bdddb9889f26da98c328509b5f7477ddb1eeebd42d3df414d760",
+          "pages": 6
+        },
+        {
+          "file": "Lecture_16_Lec-16-Foreign-Exchange.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-16-Foreign-Exchange.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-16-Foreign-Exchange.pdf",
+          "scope": "第16讲完整讲义",
+          "bytes": 1238848,
+          "sha256": "130c71cb7af5e9df4c6120f5b31fe5a3ee309d7be11d024f86b7cab301725e81",
+          "pages": 7
+        },
+        {
+          "file": "Lecture_17_Lec-17-Direct-and-Indirect-Finance.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-17-Direct-and-Indirect-Finance.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-17-Direct-and-Indirect-Finance.pdf",
+          "scope": "第17讲完整讲义",
+          "bytes": 282918,
+          "sha256": "319eaf1658b35495f8570464bd614cbbd68a914dbc212ba0486faf3f46d2929f",
+          "pages": 9
+        },
+        {
+          "file": "Lecture_18_Lec-18-Forwards-and-Futures.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-18-Forwards-and-Futures.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-18-Forwards-and-Futures.pdf",
+          "scope": "第18讲完整讲义",
+          "bytes": 133341,
+          "sha256": "19b67a1bcce2827da9c7505fa34bc6fc513faac4600c6a365302c755675bcc11",
+          "pages": 8
+        },
+        {
+          "file": "Lecture_20_Lec-20-Credit-Derivatives.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-20-Credit-Derivatives.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-20-Credit-Derivatives.pdf",
+          "scope": "第20讲完整讲义",
+          "bytes": 132618,
+          "sha256": "874f3f56f1aff39c76ac207bdcfa888758171b2f2b90eeaf7afaaa97851a03d1",
+          "pages": 7
+        },
+        {
+          "file": "Lecture_19_Lec-19-Interest-Rate-Swaps.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-19-Interest-Rate-Swaps.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-19-Interest-Rate-Swaps.pdf",
+          "scope": "第19讲完整讲义",
+          "bytes": 174159,
+          "sha256": "19d93916a9f1dc87412652754b0cf57a26ef9cac8b51a12996c8c3ce817e88bc",
+          "pages": 6
+        },
+        {
+          "file": "Lecture_22_Lec-22-Touching-the-Elephant-three-views.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-22-Touching-the-Elephant-three-views.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-22-Touching-the-Elephant-three-views.pdf",
+          "scope": "第22讲完整讲义",
+          "bytes": 388946,
+          "sha256": "661e60b437af4ae6e19745ebb3bf6c55b5275d969dab1e3283b329e584ca6343",
+          "pages": 11
+        },
+        {
+          "file": "Lecture_21_Lec-21-Shadow-Banking-Central-Banking.pdf",
+          "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-21-Shadow-Banking-Central-Banking.pdf",
+          "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-21-Shadow-Banking-Central-Banking.pdf",
+          "scope": "第21讲完整讲义",
+          "bytes": 647117,
+          "sha256": "062191cbb1e2e77a2ca67961788a33be860c51a7727a380e20748ec29a9234b4",
+          "pages": 30
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读",
+      "note": "已取得官网22讲全部PDF讲义；未下载课程视频。"
+    },
+    {
+      "id": "A4",
+      "title": "The Handbook of China’s Financial System — Amstad、Sun、Xiong 编，2020",
+      "directory": "A4_中国金融体系手册_2020",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.chinafinancialsystem.com/",
+        "https://www.chinafinancialsystem.com/wp-content/uploads/2020/11/Handbook-of-Chinas-Financial-System_Foreword-and-Introduction.pdf",
+        "https://mfr.uchicago.cn/wp-content/uploads/sites/3/2019/11/BFI-WP-2019-Handbook.pdf"
+      ],
+      "files": [
+        {
+          "file": "目录与导论.pdf",
+          "source_url": "https://www.chinafinancialsystem.com/wp-content/uploads/2020/11/Handbook-of-Chinas-Financial-System_Foreword-and-Introduction.pdf",
+          "resolved_url": "https://www.chinafinancialsystem.com/wp-content/uploads/2020/11/Handbook-of-Chinas-Financial-System_Foreword-and-Introduction.pdf",
+          "scope": "目录与导论",
+          "bytes": 1044360,
+          "sha256": "f3f5752956a28aa1a7d0a0c28da6f4f1a706c202831490d63ffb2836260c06d4",
+          "pages": 18
+        },
+        {
+          "file": "中国债券市场_章节工作稿.pdf",
+          "source_url": "https://bfi.uchicago.edu/wp-content/uploads/2019/03/BFI-WP-2019-Handbook.pdf",
+          "resolved_url": "https://bfi.uchicago.edu/wp-content/uploads/2019/03/BFI-WP-2019-Handbook.pdf",
+          "scope": "作者所在大学托管的章节工作稿",
+          "bytes": 779750,
+          "sha256": "a50ecb87ca5ec3cc8705dfe9e12e77d97e6c07bf8887467478ec04afabdd71c8",
+          "pages": 66
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "note": "尚未取得整本教材；本地文件仅为目录、导论、书目或注明的章节工作稿。",
+      "acquisition_status": "已取得目录导论及债市工作稿；未取得整书"
+    },
+    {
+      "id": "A5",
+      "title": "Fixed Income Securities: Tools for Today’s Markets，第4版 — Tuckman、Serrat，2022",
+      "directory": "A5_固定收益证券_第4版_2022",
+      "original_language": "en",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119835622"
+      ],
+      "files": [],
+      "failures": [
+        {
+          "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119835622",
+          "file": "出版社书目与目录.html",
+          "error": "403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/doi/book/10.1002/9781119835622"
+        }
+      ],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "note": "尚未取得整本教材；本地文件仅为目录、导论、书目或注明的章节工作稿。",
+      "acquisition_status": "教材正文未取得；书目页直接访问受限"
+    },
+    {
+      "id": "A6",
+      "title": "The Economics of Money, Banking, and Financial Markets，第13版Global — Mishkin",
+      "directory": "A6_货币银行与金融市场_第13版",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.pearson.com/en-au/media/fwvdzehg/9781292409481-toc.pdf"
+      ],
+      "files": [
+        {
+          "file": "出版社目录.pdf",
+          "source_url": "https://www.pearson.com/en-au/media/fwvdzehg/9781292409481-toc.pdf",
+          "resolved_url": "https://www.pearson.com/en-au/media/fwvdzehg/9781292409481-toc.pdf",
+          "scope": "目录，非教材正文",
+          "bytes": 1079536,
+          "sha256": "02a1c8dd8013b2e2f8ba294e1f93ea07c9b8f70d1358daf0e966f03a21280cdf",
+          "pages": 21
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "note": "尚未取得整本教材；本地文件仅为目录、导论、书目或注明的章节工作稿。",
+      "acquisition_status": "仅书目或目录；教材正文未取得"
+    },
+    {
+      "id": "A7",
+      "title": "Macroeconomics，第9版Global — Blanchard、Amighini、Giavazzi",
+      "directory": "A7_宏观经济学_第9版",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.pearson.com/en-gb/subject-catalog/p/macroeconomics-global-edition/P200000011605?view=educator"
+      ],
+      "files": [
+        {
+          "file": "出版社书目与目录.html",
+          "source_url": "https://www.pearson.com/en-gb/subject-catalog/p/macroeconomics-global-edition/P200000011605?view=educator",
+          "resolved_url": "https://www.pearson.com/en-gb/subject-catalog/p/macroeconomics-global-edition/P200000011605?view=educator",
+          "scope": "书目与目录，非教材正文",
+          "bytes": 1459876,
+          "sha256": "e984c9a4371f32e8178be71f4076756cac2942e135b7c600af95884ad7e28d84",
+          "page_title": "Macroeconomics, Global Edition",
+          "text_file": "出版社书目与目录.txt",
+          "extracted_characters": 8359,
+          "html_images": "HTML保留原图链接；未将图片标为已离线保存"
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "note": "尚未取得整本教材；本地文件仅为目录、导论、书目或注明的章节工作稿。",
+      "acquisition_status": "仅书目或目录；教材正文未取得"
+    },
+    {
+      "id": "A8",
+      "title": "The World in Balance Sheet Recession: Causes, Cure, and Politics — Richard Koo，2011",
+      "directory": "A8_资产负债表衰退_Koo_2011",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.paecon.net/PAEReview/issue58/Koo58.pdf",
+        "https://www.nomura.com/europe/resources/upload/Grand_Ballroom_2_Day_3_1400_Richard_Koo_The_World_Balance_Sheet.pdf"
+      ],
+      "files": [
+        {
+          "file": "资产负债表衰退_作者演示稿.pdf",
+          "source_url": "https://www.nomura.com/europe/resources/upload/Grand_Ballroom_2_Day_3_1400_Richard_Koo_The_World_Balance_Sheet.pdf",
+          "resolved_url": "https://www.nomura.com/europe/resources/upload/Grand_Ballroom_2_Day_3_1400_Richard_Koo_The_World_Balance_Sheet.pdf",
+          "scope": "作者演示稿",
+          "bytes": 1702778,
+          "sha256": "70c4823befcc574351f18c191a21b45087665ad1bca96da58c068a3ef89ee340",
+          "pages": 37
+        },
+        {
+          "file": "资产负债表衰退_期刊原文.pdf",
+          "source_url": "https://www.paecon.net/PAEReview/issue58/Koo58.pdf",
+          "resolved_url": "https://www.paecon.net/PAEReview/issue58/Koo58.pdf",
+          "scope": "全文",
+          "bytes": 570645,
+          "sha256": "013ae6b25ae3b59e72883ed535a9941329569352ba8677866590b10927570195",
+          "pages": 19
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "B1",
+      "title": "Money Creation in the Modern Economy — McLeay、Radia、Thomas，BoE，2014-03-14",
+      "directory": "B1_现代经济中的货币创造_英国央行_2014",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy",
+        "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf"
+      ],
+      "files": [
+        {
+          "file": "Money_Creation_in_the_Modern_Economy.pdf",
+          "source_url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf",
+          "resolved_url": "https://www.bankofengland.co.uk/-/media/boe/files/quarterly-bulletin/2014/money-creation-in-the-modern-economy.pdf",
+          "scope": "全文",
+          "bytes": 229146,
+          "sha256": "cfc4a6262631e7b5582a427aec1215c1568f240c45d54696bb9a2093992b62b2",
+          "pages": 14
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "B2",
+      "title": "The Dollar Exchange Rate as a Global Risk Factor: Evidence from Investment — Avdjiev、Bruno、Koch、Shin，BIS WP695，2018",
+      "directory": "B2_美元汇率与全球风险_BIS_2018",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.bis.org/publications/working-paper-695-dollar-exchange-rate-global-risk-factor-evidence-investment",
+        "https://www.bis.org/publications/working-paper-695-dollar-exchange-rate-global-risk-factor-evidence-investment.pdf"
+      ],
+      "files": [
+        {
+          "file": "BIS_Working_Paper_695.pdf",
+          "source_url": "https://www.bis.org/publications/working-paper-695-dollar-exchange-rate-global-risk-factor-evidence-investment.pdf",
+          "resolved_url": "https://www.bis.org/publications/working-paper-695-dollar-exchange-rate-global-risk-factor-evidence-investment.pdf",
+          "scope": "全文",
+          "bytes": 436946,
+          "sha256": "a9082377feea3bc4b87f9fb3febf50c2d484286bcd1e4dc8eaab56a96d08bf38",
+          "pages": 43
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "B3",
+      "title": "What Caused the U.S. Pandemic-Era Inflation? — Bernanke、Blanchard，2023-05-23会议稿",
+      "directory": "B3_美国疫情时期通胀_Bernanke_Blanchard_2023",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.brookings.edu/wp-content/uploads/2023/04/bernanke-blanchard-conference-draft_5.23.23.pdf",
+        "https://www.brookings.edu/articles/what-caused-the-u-s-pandemic-era-inflation/"
+      ],
+      "files": [
+        {
+          "file": "Bernanke_Blanchard_20230523.pdf",
+          "source_url": "https://www.brookings.edu/wp-content/uploads/2023/04/bernanke-blanchard-conference-draft_5.23.23.pdf",
+          "resolved_url": "https://www.brookings.edu/wp-content/uploads/2023/04/bernanke-blanchard-conference-draft_5.23.23.pdf",
+          "scope": "会议稿全文",
+          "bytes": 1842958,
+          "sha256": "525a03fc978efad1f1914619c486a0185ad2af2e951174e4a99c7f4bf4657213",
+          "pages": 50
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "B4",
+      "title": "Quantitative Tightening Step-by-Step — Joseph Wang／FedGuy，2022-01-06",
+      "directory": "B4_量化紧缩逐步解析_FedGuy_2022",
+      "original_language": "en",
+      "source_urls": [
+        "https://fedguy.com/quantitative-tightening-step-by-step/",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190731a.htm",
+        "https://www.federalreserve.gov/newsevents/pressreleases/monetary20191011a.htm"
+      ],
+      "files": [],
+      "failures": [
+        {
+          "url": "https://fedguy.com/quantitative-tightening-step-by-step/",
+          "file": "量化紧缩逐步解析_英文原文.html",
+          "error": "网页正文过短，尚未确认取得全文"
+        }
+      ],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "未取得正文；访问受限"
+    },
+    {
+      "id": "B5",
+      "title": "Can Trade Intervention Lead to Freer Trade? — Michael Pettis，2024-02-23",
+      "directory": "B5_贸易干预与自由贸易_Pettis_2024",
+      "original_language": "en",
+      "source_urls": [
+        "https://carnegieendowment.org/china-financial-markets/2024/02/can-trade-intervention-lead-to-freer-trade"
+      ],
+      "files": [
+        {
+          "file": "贸易干预与自由贸易_英文原文.html",
+          "source_url": "https://carnegieendowment.org/china-financial-markets/2024/02/can-trade-intervention-lead-to-freer-trade",
+          "resolved_url": "https://carnegieendowment.org/china-financial-markets/2024/02/can-trade-intervention-lead-to-freer-trade",
+          "scope": "网页原文",
+          "bytes": 305872,
+          "sha256": "93feb7468d5104dc12b98a14eb082a592d55fc23953cab93cf52e71740510eb8",
+          "page_title": "Can Trade Intervention Lead to Freer Trade? | Carnegie Endowment for International Peace",
+          "text_file": "贸易干预与自由贸易_英文原文.txt",
+          "extracted_characters": 62894,
+          "offline_file": "贸易干预与自由贸易_英文原文_离线阅读.html",
+          "images": [
+            {
+              "file": "images/image_01.png",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJpbWFnZXMvQ0ZNX2Jsb2dfbG9nb19rLnBuZyJ9",
+              "bytes": 18552,
+              "sha256": "7f79965ac96099e09383e304748265e0be4aee4536b82f4b68a5be9ea214051e"
+            },
+            {
+              "file": "images/image_02.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzLzE0MjA3NzAtY2ZtLWhlYWRlcjJfY2I3MGNkZGMtMDcwYy00MzQ2LWIzYTQtMWI1ODMyZjk5MjhhXzljYzEyNzQ4LTU3MjgtNGJlNi04ODJlLTY3ZWM4Y2QzMmM0OC04LmpwZyJ9",
+              "bytes": 119831,
+              "sha256": "78605f38f82625ed03053802053c52b052d8c81b858478a57ebf112c84a34b14"
+            },
+            {
+              "file": "images/image_03.png",
+              "source_url": "https://carnegieendowment.org/images/cfm-landing-header.png",
+              "bytes": 1138276,
+              "sha256": "2ff2be5d50519e4b236a1dc01e7f6b7a89212ec5253816138929f61a0abd33f1"
+            },
+            {
+              "file": "images/image_04.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+              "bytes": 7960,
+              "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+            },
+            {
+              "file": "images/image_05.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+              "bytes": 7960,
+              "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+            },
+            {
+              "file": "images/image_06.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+              "bytes": 7960,
+              "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+            },
+            {
+              "file": "images/image_07.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+              "bytes": 7960,
+              "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+            },
+            {
+              "file": "images/image_08.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzLzE0MjA3NzAtY2ZtLWhlYWRlcjJfY2I3MGNkZGMtMDcwYy00MzQ2LWIzYTQtMWI1ODMyZjk5MjhhXzljYzEyNzQ4LTU3MjgtNGJlNi04ODJlLTY3ZWM4Y2QzMmM0OC0xNS5qcGcifQ==",
+              "bytes": 119836,
+              "sha256": "925b93b74f040c62d076cda0c5b76c5f2d4f8ef99036cc93fb007f62e9050524"
+            },
+            {
+              "file": "images/image_09.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+              "bytes": 7960,
+              "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+            },
+            {
+              "file": "images/image_10.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzLzE0MjA3NzAtY2ZtLWhlYWRlcjJfY2I3MGNkZGMtMDcwYy00MzQ2LWIzYTQtMWI1ODMyZjk5MjhhXzljYzEyNzQ4LTU3MjgtNGJlNi04ODJlLTY3ZWM4Y2QzMmM0OC0xNS5qcGcifQ==",
+              "bytes": 119836,
+              "sha256": "925b93b74f040c62d076cda0c5b76c5f2d4f8ef99036cc93fb007f62e9050524"
+            },
+            {
+              "file": "images/image_11.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+              "bytes": 7960,
+              "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+            },
+            {
+              "file": "images/image_13.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+              "bytes": 7960,
+              "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+            },
+            {
+              "file": "images/image_14.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzLzE0MjA3NzAtY2ZtLWhlYWRlcl81ZmQ0MGVjZC02YTA1LTRlODYtOTdmMC1mYThhNDBmZjU5ZjkxLTcuanBnIn0=",
+              "bytes": 119958,
+              "sha256": "1409f5421a3b6c880685d5046688e0e430cde93230080715809a71fcde83838d"
+            },
+            {
+              "file": "images/image_15.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+              "bytes": 7960,
+              "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+            },
+            {
+              "file": "images/image_16.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzLzEyMDY2MjEzMy5qcGcifQ==",
+              "bytes": 79598,
+              "sha256": "6c1d859999c10efab68a8189c0cf186ff3a4f8c13b73da9a9a16c97fa23e9490"
+            },
+            {
+              "file": "images/image_17.jpg",
+              "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+              "bytes": 7960,
+              "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+            }
+          ],
+          "image_failures": [
+            {
+              "url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzL0FmcmljYSAtIGlTdG9jay02NTU2Mzc1OTYuanBnIn0=",
+              "error": "413 Client Error: Request Entity Too Large for url: https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzL0FmcmljYSAtIGlTdG9jay02NTU2Mzc1OTYuanBnIn0="
+            }
+          ]
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "B6",
+      "title": "The Brave New World of Monetary Policy Operations — Cecchetti、Schoenholtz，2019-06-17",
+      "directory": "B6_货币政策操作的新世界_2019",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.moneyandbanking.com/commentary/2019/6/14/the-brave-new-world-of-monetary-policy-operations",
+        "https://www.moneyandbanking.com/commentary/tag/Excess%2Breserves"
+      ],
+      "files": [
+        {
+          "file": "货币政策操作的新世界_英文原文.html",
+          "source_url": "https://www.moneyandbanking.com/commentary/2019/6/14/the-brave-new-world-of-monetary-policy-operations",
+          "resolved_url": "https://www.moneyandbanking.com/commentary/2019/6/14/the-brave-new-world-of-monetary-policy-operations",
+          "scope": "网页原文",
+          "bytes": 129509,
+          "sha256": "d91dac4a1819ca325a570ab5d0e47798e373c888b7003f3d426b1bb2006face7",
+          "page_title": "The Brave New World of Monetary Policy Operations — Money, Banking and Financial Markets",
+          "text_file": "货币政策操作的新世界_英文原文.txt",
+          "extracted_characters": 14228,
+          "offline_file": "货币政策操作的新世界_英文原文_离线阅读.html",
+          "images": [
+            {
+              "file": "images/image_01.png",
+              "source_url": "https://images.squarespace-cdn.com/content/v1/52cdc300e4b012a81d31c03d/1560524758319-1N3KQAD7MWTO8RMZ60FE/Funds+Rate.png",
+              "bytes": 41572,
+              "sha256": "c29c12e6de56a7ef5e3ec0fe40bc7f68c1586bf6db13e3dabff79de3aa82e627"
+            },
+            {
+              "file": "images/image_02.png",
+              "source_url": "https://images.squarespace-cdn.com/content/v1/52cdc300e4b012a81d31c03d/1560524817845-BRMY9JBRQEM36W09EZOO/Reserve+Demand+Chart.png",
+              "bytes": 42446,
+              "sha256": "86ddfc1128ccc72abbd7453d4aca9b8505ffa347ce0a517cf2be671168e2baa5"
+            }
+          ],
+          "image_failures": []
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "B7",
+      "title": "Fiscal Histories — John Cochrane，JEP 36(4)，2022",
+      "directory": "B7_财政历史_Cochrane_2022",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.johnhcochrane.com/research-all/fiscal-history",
+        "https://www.johnhcochrane.com/s/JEP_revision.pdf"
+      ],
+      "files": [
+        {
+          "file": "Fiscal_Histories_作者稿.pdf",
+          "source_url": "https://www.johnhcochrane.com/s/JEP_revision.pdf",
+          "resolved_url": "https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/62df67c3ada45870de9a94a5/1658808260014/JEP_revision.pdf",
+          "scope": "作者稿全文",
+          "bytes": 431483,
+          "sha256": "87d46e5b5372d6333c8e7bd0ef0dda8de4d87f03d28605f25bba17f8fdba978c",
+          "pages": 32
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "B8",
+      "title": "July 2023 Newsletter: Fiscal Dominance — Lyn Alden，2023-07-02",
+      "directory": "B8_财政主导_LynAlden_2023",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.lynalden.com/july-2023-newsletter/"
+      ],
+      "files": [],
+      "failures": [
+        {
+          "url": "https://www.lynalden.com/july-2023-newsletter/",
+          "file": "财政主导_英文原文.html",
+          "error": "网页正文过短，尚未确认取得全文"
+        }
+      ],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "未取得正文；访问受限"
+    },
+    {
+      "id": "B9",
+      "title": "The Dollar-Based Financial System through the Window of the FX Swaps Market — Hyun Song Shin，2023-03-24",
+      "directory": "B9_外汇掉期与美元金融体系_BIS_2023",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.bis.org/speeches/20230323-dollar-based-financial-system-through-window-fx-swaps-market",
+        "https://www.bis.org/speeches/20230323-dollar-based-financial-system-through-window-fx-swaps-market.pdf"
+      ],
+      "files": [
+        {
+          "file": "Shin_FX_Swaps_20230324.pdf",
+          "source_url": "https://www.bis.org/speeches/20230323-dollar-based-financial-system-through-window-fx-swaps-market.pdf",
+          "resolved_url": "https://www.bis.org/speeches/20230323-dollar-based-financial-system-through-window-fx-swaps-market.pdf",
+          "scope": "演讲全文",
+          "bytes": 599088,
+          "sha256": "838363ba6f4fe2e13d19e13cab29fc650e8e9ea6964f82779ab5e54c9528c115",
+          "pages": 8
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "B10",
+      "title": "Borio等：通胀状态与金融周期，两篇配套研究",
+      "directory": "B10_通胀状态与金融周期_BIS",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.bis.org/publications/paper-133-two-regime-view-inflation",
+        "https://www.bis.org/publications/paper-133-two-regime-view-inflation.pdf",
+        "https://www.bis.org/publications/working-paper-395-financial-cycle-and-macroeconomics-what-have-we-learnt.pdf"
+      ],
+      "files": [
+        {
+          "file": "BIS_Papers_133_通胀的两状态.pdf",
+          "source_url": "https://www.bis.org/publications/paper-133-two-regime-view-inflation.pdf",
+          "resolved_url": "https://www.bis.org/publications/paper-133-two-regime-view-inflation.pdf",
+          "scope": "全文",
+          "bytes": 1852688,
+          "sha256": "75dae6354f134a45d7d949e14dbbe45b0db8de022e5138178d460b7290cc7a08",
+          "pages": 53
+        },
+        {
+          "file": "BIS_Working_Paper_395_金融周期.pdf",
+          "source_url": "https://www.bis.org/publications/working-paper-395-financial-cycle-and-macroeconomics-what-have-we-learnt.pdf",
+          "resolved_url": "https://www.bis.org/publications/working-paper-395-financial-cycle-and-macroeconomics-what-have-we-learnt.pdf",
+          "scope": "全文",
+          "bytes": 1134407,
+          "sha256": "715f0a13f0f310fcf1feb2bbd3b94e44d023e7d0529c51c96c4331e7ed5659ec",
+          "pages": 38
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "B11",
+      "title": "Fluctuations in the Treasury General Account and Their Effect on the Fed’s Balance Sheet — Annette Vissing-Jorgensen，2025-08-06",
+      "directory": "B11_财政部账户与联储资产负债表_2025",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.federalreserve.gov/econres/notes/feds-notes/fluctuations-in-the-treasury-general-account-and-their-effect-on-the-feds-balance-sheet-20250806.html"
+      ],
+      "files": [
+        {
+          "file": "财政部账户与联储资产负债表_英文原文.html",
+          "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/fluctuations-in-the-treasury-general-account-and-their-effect-on-the-feds-balance-sheet-20250806.html",
+          "resolved_url": "https://www.federalreserve.gov/econres/notes/feds-notes/fluctuations-in-the-treasury-general-account-and-their-effect-on-the-feds-balance-sheet-20250806.html",
+          "scope": "网页原文",
+          "bytes": 98354,
+          "sha256": "a6f939e357f6b07517c9453ee94363f15113c7458b1e86343f5217fdd418072a",
+          "page_title": "The Fed - Fluctuations in the Treasury General Account and their effect on the Fed's balance sheet",
+          "text_file": "财政部账户与联储资产负债表_英文原文.txt",
+          "extracted_characters": 12572,
+          "offline_file": "财政部账户与联储资产负债表_英文原文_离线阅读.html",
+          "images": [
+            {
+              "file": "images/image_01.png",
+              "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/figure1-3873.png",
+              "bytes": 41052,
+              "sha256": "9af0351e012d9705a4c3b9628fb16f0de47dd398d05f1a57e988507693570f20"
+            }
+          ],
+          "image_failures": []
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "C1",
+      "title": "People’s Republic of China: Selected Issues，IMF CR24/50，2024年2月",
+      "directory": "C1_中国专题报告_IMF_2024",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.imf.org/en/publications/cr/issues/2024/02/08/peoples-republic-of-china-selected-issues-544651",
+        "https://www.imf.org/-/media/files/publications/cr/2024/english/1chnea2024002.pdf"
+      ],
+      "files": [],
+      "failures": [
+        {
+          "url": "https://www.imf.org/-/media/files/publications/cr/2024/english/1chnea2024002.pdf",
+          "file": "中国专题报告_英文原文.pdf",
+          "error": "403 Client Error: Forbidden for url: https://www.imf.org/-/media/files/publications/cr/2024/english/1chnea2024002.pdf"
+        }
+      ],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "未取得正文；访问受限"
+    },
+    {
+      "id": "C2",
+      "title": "中国货币政策执行报告：2024年第二季度 — 中国人民银行，2024-08-09",
+      "directory": "C2_中国货币政策执行报告_2024年第二季度",
+      "original_language": "zh",
+      "source_urls": [
+        "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5427706/2024080916563291755.pdf"
+      ],
+      "files": [
+        {
+          "file": "中国货币政策执行报告_2024年第二季度_中文原文.pdf",
+          "source_url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5427706/2024080916563291755.pdf",
+          "resolved_url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5427706/2024080916563291755.pdf",
+          "scope": "中文报告全文",
+          "bytes": 1275941,
+          "sha256": "6859bb7e6d3b67c971c000d95093ad93838dbcd9d41b476b9864ea7bebeb6f1c",
+          "pages": 58
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "C3",
+      "title": "《需求不足的危害、原因与治疗》— 张斌，CF40，2025-11-07",
+      "directory": "C3_需求不足的危害原因与治疗_张斌_2025",
+      "original_language": "zh",
+      "source_urls": [
+        "https://www.cf40.org.cn/article/1/289213"
+      ],
+      "files": [
+        {
+          "file": "需求不足的危害原因与治疗_中文原文.html",
+          "source_url": "https://www.cf40.org.cn/article/1/289213",
+          "resolved_url": "https://www.cf40.org.cn/api/web/data/1/289213",
+          "retrieval": "网站公开前端接口，按页面原请求格式读取",
+          "scope": "中文网页全文",
+          "bytes": 49257,
+          "sha256": "cad423e8d8f48c1e6f25c9241cb8c1ef9d49e19aa8ec8836468fb775605c2dcf",
+          "text_file": "需求不足的危害原因与治疗_中文原文.txt",
+          "extracted_characters": 11782,
+          "offline_file": "需求不足的危害原因与治疗_中文原文_离线阅读.html",
+          "images": [
+            {
+              "file": "images/image_01.jpg",
+              "source_url": "https://www.cf40.org.cn/files/wyCoPrTmQQDSfCJM2zKKSA%3D%3D_1762517347",
+              "bytes": 92817,
+              "sha256": "3813c1168627eea448948a0c775987b7f9a01a0f4951f407a741b7eb908c9610"
+            },
+            {
+              "file": "images/image_02.png",
+              "source_url": "https://www.cf40.org.cn/files/sxvt53xncPJjeNDRgo0sZQ%3D%3D_1762517362",
+              "bytes": 63869,
+              "sha256": "4982a9a419210d3d8d84297906b55a9ef2717288f1c9ca0f4595858542740d1a"
+            }
+          ],
+          "image_failures": []
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "D1",
+      "title": "纽约联储调查：方法文章＋历史一期＋现行档案",
+      "directory": "D1_纽约联储调查与历史预期",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci19-6.pdf",
+        "https://www.newyorkfed.org/medialibrary/media/markets/survey/2022/jun-2022-spd-results.pdf",
+        "https://www.newyorkfed.org/markets/market-intelligence/survey-of-market-expectations"
+      ],
+      "files": [
+        {
+          "file": "一级交易商调查_2022年6月.pdf",
+          "source_url": "https://www.newyorkfed.org/medialibrary/media/markets/survey/2022/jun-2022-spd-results.pdf",
+          "resolved_url": "https://www.newyorkfed.org/medialibrary/media/markets/survey/2022/jun-2022-spd-results.pdf",
+          "scope": "历史调查结果",
+          "bytes": 399956,
+          "sha256": "036fc0b36d49579976853c79bf7e4a50e3838b43085506f7fd8ea684095ed99b",
+          "pages": 11
+        },
+        {
+          "file": "一级交易商调查_方法说明.pdf",
+          "source_url": "https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci19-6.pdf",
+          "resolved_url": "https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci19-6.pdf",
+          "scope": "方法全文",
+          "bytes": 513106,
+          "sha256": "2e50d2a580b805b253c773872b759062fd1f5c74871995bccea7970cd9ba58fd",
+          "pages": 8
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "D2",
+      "title": "欧洲央行调查：SMA与SPF需要分别使用",
+      "directory": "D2_欧洲央行调查与历史预期",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.ecb.europa.eu/stats/ecb_surveys/sma/shared/pdf/ecb.smar220725_july.en.pdf",
+        "https://www.ecb.europa.eu/stats/ecb_surveys/sma/html/all-releases.en.html",
+        "https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/pdf/ecb.spf2022q1~082bc1deaa.en.pdf",
+        "https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.pr220204~3fdfbe7eb0.en.html"
+      ],
+      "files": [
+        {
+          "file": "SMA_2022年7月结果.pdf",
+          "source_url": "https://www.ecb.europa.eu/stats/ecb_surveys/sma/shared/pdf/ecb.smar220725_july.en.pdf",
+          "resolved_url": "https://www.ecb.europa.eu/stats/ecb_surveys/sma/shared/pdf/ecb.smar220725_july.en.pdf",
+          "scope": "历史调查结果",
+          "bytes": 412877,
+          "sha256": "cc1463d80eb602118504015b6b036b8f5299592a82b97a71ec34661f5ae9a186",
+          "pages": 24
+        },
+        {
+          "file": "SPF_2022年第一季度报告.pdf",
+          "source_url": "https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/pdf/ecb.spf2022q1~082bc1deaa.en.pdf",
+          "resolved_url": "https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/pdf/ecb.spf2022q1~082bc1deaa.en.pdf",
+          "scope": "历史调查结果",
+          "bytes": 392710,
+          "sha256": "8040f3dd837e186461ffed97623f0deab8c24e92a5666fd3d1b6aa90cbf7601d",
+          "pages": 23
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    },
+    {
+      "id": "D3",
+      "title": "An Updated Assessment of Short-Term Inflation Projections by Eurosystem and ECB Staff — Chahad等，ECB Economic Bulletin 1/2023",
+      "directory": "D3_欧洲央行通胀预测复盘_2023",
+      "original_language": "en",
+      "source_urls": [
+        "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ecb.ebbox202301_06~df570a38fd.en.html"
+      ],
+      "files": [
+        {
+          "file": "通胀预测复盘_英文原文.html",
+          "source_url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ecb.ebbox202301_06~df570a38fd.en.html",
+          "resolved_url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ecb.ebbox202301_06~df570a38fd.en.html",
+          "scope": "网页原文",
+          "bytes": 117489,
+          "sha256": "e1c66c98b796f76adfddb80da9cf719c8bbea5aa07aabcbf63d66b0a2c952787",
+          "page_title": "An updated assessment of short-term inflation projections by Eurosystem and ECB staff",
+          "text_file": "通胀预测复盘_英文原文.txt",
+          "extracted_characters": 12976,
+          "offline_file": "通胀预测复盘_英文原文_离线阅读.html",
+          "images": [
+            {
+              "file": "images/image_01.png",
+              "source_url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ebbox202301_06/ecb.ebbox202301_06.en_img0.png?2315a099f3fc365ffd64b9d5946c7212",
+              "bytes": 17440,
+              "sha256": "d37584999d058db8737d708cd53e05555fddb75142c506cc58d6131eaa92f03c"
+            },
+            {
+              "file": "images/image_02.png",
+              "source_url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ebbox202301_06/ecb.ebbox202301_06.en_img1.png?bdd1bbbd1de038b566af3db75d8c36e9",
+              "bytes": 17533,
+              "sha256": "9a11333534d991c5ecca76a899304f1d8f890a1240f044d1f8aa3fcbd4823f2d"
+            },
+            {
+              "file": "images/image_03.png",
+              "source_url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ebbox202301_06/ecb.ebbox202301_06.en_img2.png?bea7342a8fc5db3b46fbf75a0d6e05fd",
+              "bytes": 20173,
+              "sha256": "12a9e223743cb0e376c9a112707ef8c998ca8976f3f8ea5aa103ebf4cb4a9ae5"
+            },
+            {
+              "file": "images/image_04.png",
+              "source_url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ebbox202301_06/ecb.ebbox202301_06.en_img3.png?5b6b7f33beb3e9cbc7c2d0a383e49aa4",
+              "bytes": 5938,
+              "sha256": "21961aa28a94eeb06f3c79394dcbd8e5c777f01339310c5bd897d0f3146c0c8f"
+            }
+          ],
+          "image_failures": []
+        }
+      ],
+      "failures": [],
+      "reading_status": "尚未精读；本次仅收集及文件检查",
+      "full_book_acquired": false,
+      "acquisition_status": "已取得所列原文文件；尚未精读"
+    }
+  ]
+}

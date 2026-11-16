@@ -1,0 +1,25 @@
+{
+  "id": "A1",
+  "title": "Introduction to Central Banking — Ulrich Bindseil、Alessio Fotia，2021",
+  "directory": "A1_中央银行导论_2021",
+  "original_language": "en",
+  "source_urls": [
+    "https://link.springer.com/book/10.1007/978-3-030-70884-9",
+    "https://link.springer.com/chapter/10.1007/978-3-030-70884-9_3"
+  ],
+  "files": [
+    {
+      "file": "../../textbooks/I1 中央银行导论 Introduction to Central Banking/Introduction_to_Central_Banking_2021.pdf",
+      "source_url": "https://link.springer.com/content/pdf/10.1007/978-3-030-70884-9.pdf",
+      "resolved_url": "https://link.springer.com/content/pdf/10.1007/978-3-030-70884-9.pdf",
+      "scope": "全文",
+      "bytes": 4985963,
+      "sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pages": 148
+    }
+  ],
+  "failures": [],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": true,
+  "acquisition_status": "已取得所列原文文件；尚未精读"
+}

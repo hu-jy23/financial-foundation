@@ -1,0 +1,794 @@
+{
+  "validated_at": "2026-11-16T11:31:43+08:00",
+  "article_count": 206,
+  "checked_files_and_links": 4706,
+  "unique_image_hashes": 738,
+  "image_occurrences": 770,
+  "duplicate_image_occurrences": 32,
+  "database_integrity": "ok",
+  "observations": [],
+  "issues": [],
+  "issue_count": 0,
+  "scope": "HTML and Markdown text/headings/image order, static image files, hashes, local links, dependencies; does not verify chart meaning or external claims",
+  "browser": {
+    "network_blocked": true,
+    "samples": [
+      {
+        "title": "2008再现！一文读懂华尔街最热门交易：AI CDS",
+        "images": [
+          {
+            "src": "assets/figure_001.png",
+            "complete": true,
+            "width": 1024,
+            "height": 572,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_002.png",
+            "complete": true,
+            "width": 1024,
+            "height": 576,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_003.png",
+            "complete": true,
+            "width": 880,
+            "height": 790,
+            "displayWidth": 880
+          },
+          {
+            "src": "assets/figure_004.png",
+            "complete": true,
+            "width": 860,
+            "height": 840,
+            "displayWidth": 860
+          },
+          {
+            "src": "assets/figure_005.png",
+            "complete": true,
+            "width": 860,
+            "height": 777,
+            "displayWidth": 860
+          },
+          {
+            "src": "assets/figure_006.png",
+            "complete": true,
+            "width": 860,
+            "height": 797,
+            "displayWidth": 860
+          },
+          {
+            "src": "assets/figure_007.png",
+            "complete": true,
+            "width": 1024,
+            "height": 639,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_008.png",
+            "complete": true,
+            "width": 1024,
+            "height": 594,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_009.png",
+            "complete": true,
+            "width": 865,
+            "height": 760,
+            "displayWidth": 865
+          }
+        ],
+        "viewport": 1300,
+        "documentWidth": 1285,
+        "id": 3784900,
+        "network_requests": [],
+        "passed": true
+      },
+      {
+        "title": "一文读懂隔夜美债崩盘的“罪魁”——基差交易",
+        "images": [
+          {
+            "src": "assets/figure_001.png",
+            "complete": true,
+            "width": 1014,
+            "height": 671,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_002.png",
+            "complete": true,
+            "width": 1007,
+            "height": 750,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_003.png",
+            "complete": true,
+            "width": 1080,
+            "height": 483,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_004.png",
+            "complete": true,
+            "width": 945,
+            "height": 734,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_005.png",
+            "complete": true,
+            "width": 941,
+            "height": 590,
+            "displayWidth": 906
+          }
+        ],
+        "viewport": 1300,
+        "documentWidth": 1285,
+        "id": 3744871,
+        "network_requests": [],
+        "passed": true
+      },
+      {
+        "title": "Circle看空报告来了！摩根大通：盈利模式“剪刀差”吞噬利润，再给10%“情绪溢价”也只值80美元",
+        "images": [
+          {
+            "src": "assets/figure_001.png",
+            "complete": true,
+            "width": 765,
+            "height": 403,
+            "displayWidth": 765
+          },
+          {
+            "src": "assets/figure_002.png",
+            "complete": true,
+            "width": 881,
+            "height": 613,
+            "displayWidth": 867
+          },
+          {
+            "src": "assets/figure_003.png",
+            "complete": true,
+            "width": 715,
+            "height": 414,
+            "displayWidth": 715
+          },
+          {
+            "src": "assets/figure_004.png",
+            "complete": true,
+            "width": 697,
+            "height": 560,
+            "displayWidth": 697
+          }
+        ],
+        "viewport": 1300,
+        "documentWidth": 1285,
+        "id": 3750108,
+        "network_requests": [],
+        "passed": true
+      },
+      {
+        "title": "图解特朗普“大漂亮”法案：财政刺激力度、899条款“资本税”、对美债、美元影响有多大？",
+        "images": [
+          {
+            "src": "assets/figure_001.png",
+            "complete": true,
+            "width": 521,
+            "height": 458,
+            "displayWidth": 521
+          },
+          {
+            "src": "assets/figure_002.png",
+            "complete": true,
+            "width": 716,
+            "height": 299,
+            "displayWidth": 716
+          },
+          {
+            "src": "assets/figure_003.png",
+            "complete": true,
+            "width": 430,
+            "height": 410,
+            "displayWidth": 430
+          },
+          {
+            "src": "assets/figure_004.png",
+            "complete": true,
+            "width": 425,
+            "height": 412,
+            "displayWidth": 425
+          },
+          {
+            "src": "assets/figure_005.png",
+            "complete": true,
+            "width": 419,
+            "height": 409,
+            "displayWidth": 419
+          },
+          {
+            "src": "assets/figure_006.png",
+            "complete": true,
+            "width": 958,
+            "height": 421,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_007.png",
+            "complete": true,
+            "width": 400,
+            "height": 417,
+            "displayWidth": 400
+          },
+          {
+            "src": "assets/figure_008.png",
+            "complete": true,
+            "width": 425,
+            "height": 400,
+            "displayWidth": 425
+          },
+          {
+            "src": "assets/figure_009.png",
+            "complete": true,
+            "width": 812,
+            "height": 342,
+            "displayWidth": 812
+          },
+          {
+            "src": "assets/figure_010.png",
+            "complete": true,
+            "width": 450,
+            "height": 380,
+            "displayWidth": 450
+          },
+          {
+            "src": "assets/figure_011.png",
+            "complete": true,
+            "width": 1080,
+            "height": 3130,
+            "displayWidth": 906
+          }
+        ],
+        "viewport": 1300,
+        "documentWidth": 1285,
+        "id": 3748815,
+        "network_requests": [],
+        "passed": true
+      },
+      {
+        "title": "中金：黄金超过5500美元是一个重要分水岭",
+        "images": [
+          {
+            "src": "assets/figure_001.jpg",
+            "complete": true,
+            "width": 761,
+            "height": 476,
+            "displayWidth": 761
+          },
+          {
+            "src": "assets/figure_002.jpg",
+            "complete": true,
+            "width": 727,
+            "height": 455,
+            "displayWidth": 727
+          },
+          {
+            "src": "assets/figure_003.jpg",
+            "complete": true,
+            "width": 742,
+            "height": 442,
+            "displayWidth": 742
+          },
+          {
+            "src": "assets/figure_004.jpg",
+            "complete": true,
+            "width": 735,
+            "height": 470,
+            "displayWidth": 735
+          },
+          {
+            "src": "assets/figure_005.jpg",
+            "complete": true,
+            "width": 722,
+            "height": 435,
+            "displayWidth": 722
+          },
+          {
+            "src": "assets/figure_006.jpg",
+            "complete": true,
+            "width": 748,
+            "height": 444,
+            "displayWidth": 748
+          },
+          {
+            "src": "assets/figure_007.jpg",
+            "complete": true,
+            "width": 746,
+            "height": 453,
+            "displayWidth": 746
+          },
+          {
+            "src": "assets/figure_008.jpg",
+            "complete": true,
+            "width": 754,
+            "height": 473,
+            "displayWidth": 754
+          },
+          {
+            "src": "assets/figure_009.jpg",
+            "complete": true,
+            "width": 728,
+            "height": 462,
+            "displayWidth": 728
+          },
+          {
+            "src": "assets/figure_010.jpg",
+            "complete": true,
+            "width": 729,
+            "height": 438,
+            "displayWidth": 729
+          },
+          {
+            "src": "assets/figure_011.jpg",
+            "complete": true,
+            "width": 733,
+            "height": 439,
+            "displayWidth": 733
+          },
+          {
+            "src": "assets/figure_012.jpg",
+            "complete": true,
+            "width": 733,
+            "height": 468,
+            "displayWidth": 733
+          },
+          {
+            "src": "assets/figure_013.jpg",
+            "complete": true,
+            "width": 732,
+            "height": 467,
+            "displayWidth": 732
+          },
+          {
+            "src": "assets/figure_014.jpg",
+            "complete": true,
+            "width": 721,
+            "height": 448,
+            "displayWidth": 721
+          },
+          {
+            "src": "assets/figure_015.jpg",
+            "complete": true,
+            "width": 727,
+            "height": 455,
+            "displayWidth": 727
+          },
+          {
+            "src": "assets/figure_016.jpg",
+            "complete": true,
+            "width": 721,
+            "height": 445,
+            "displayWidth": 721
+          },
+          {
+            "src": "assets/figure_017.jpg",
+            "complete": true,
+            "width": 724,
+            "height": 467,
+            "displayWidth": 724
+          },
+          {
+            "src": "assets/figure_018.jpg",
+            "complete": true,
+            "width": 723,
+            "height": 459,
+            "displayWidth": 723
+          },
+          {
+            "src": "assets/figure_019.jpg",
+            "complete": true,
+            "width": 753,
+            "height": 455,
+            "displayWidth": 753
+          },
+          {
+            "src": "assets/figure_020.jpg",
+            "complete": true,
+            "width": 1024,
+            "height": 638,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_021.jpg",
+            "complete": true,
+            "width": 1024,
+            "height": 657,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_022.jpg",
+            "complete": true,
+            "width": 721,
+            "height": 453,
+            "displayWidth": 721
+          },
+          {
+            "src": "assets/figure_023.jpg",
+            "complete": true,
+            "width": 1024,
+            "height": 618,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_024.jpg",
+            "complete": true,
+            "width": 760,
+            "height": 431,
+            "displayWidth": 760
+          },
+          {
+            "src": "assets/figure_025.jpg",
+            "complete": true,
+            "width": 750,
+            "height": 437,
+            "displayWidth": 750
+          },
+          {
+            "src": "assets/figure_026.jpg",
+            "complete": true,
+            "width": 720,
+            "height": 278,
+            "displayWidth": 720
+          },
+          {
+            "src": "assets/figure_027.jpg",
+            "complete": true,
+            "width": 729,
+            "height": 440,
+            "displayWidth": 729
+          },
+          {
+            "src": "assets/figure_028.jpg",
+            "complete": true,
+            "width": 1024,
+            "height": 422,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_029.jpg",
+            "complete": true,
+            "width": 821,
+            "height": 805,
+            "displayWidth": 821
+          },
+          {
+            "src": "assets/figure_030.jpg",
+            "complete": true,
+            "width": 713,
+            "height": 437,
+            "displayWidth": 713
+          },
+          {
+            "src": "assets/figure_031.jpg",
+            "complete": true,
+            "width": 706,
+            "height": 424,
+            "displayWidth": 706
+          },
+          {
+            "src": "assets/figure_032.jpg",
+            "complete": true,
+            "width": 694,
+            "height": 373,
+            "displayWidth": 694
+          },
+          {
+            "src": "assets/figure_033.jpg",
+            "complete": true,
+            "width": 704,
+            "height": 425,
+            "displayWidth": 704
+          }
+        ],
+        "viewport": 1300,
+        "documentWidth": 1285,
+        "id": 3764710,
+        "network_requests": [],
+        "passed": true
+      },
+      {
+        "title": "中金：市场如何见底？",
+        "images": [
+          {
+            "src": "assets/figure_001.jpg",
+            "complete": true,
+            "width": 878,
+            "height": 558,
+            "displayWidth": 878
+          },
+          {
+            "src": "assets/figure_002.jpg",
+            "complete": true,
+            "width": 916,
+            "height": 550,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_003.jpg",
+            "complete": true,
+            "width": 900,
+            "height": 550,
+            "displayWidth": 900
+          },
+          {
+            "src": "assets/figure_004.jpg",
+            "complete": true,
+            "width": 900,
+            "height": 546,
+            "displayWidth": 900
+          },
+          {
+            "src": "assets/figure_005.jpg",
+            "complete": true,
+            "width": 808,
+            "height": 544,
+            "displayWidth": 808
+          },
+          {
+            "src": "assets/figure_006.jpg",
+            "complete": true,
+            "width": 902,
+            "height": 544,
+            "displayWidth": 902
+          },
+          {
+            "src": "assets/figure_007.jpg",
+            "complete": true,
+            "width": 932,
+            "height": 550,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_008.jpg",
+            "complete": true,
+            "width": 1024,
+            "height": 632,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_009.jpg",
+            "complete": true,
+            "width": 776,
+            "height": 558,
+            "displayWidth": 776
+          },
+          {
+            "src": "assets/figure_010.jpg",
+            "complete": true,
+            "width": 884,
+            "height": 532,
+            "displayWidth": 884
+          },
+          {
+            "src": "assets/figure_011.jpg",
+            "complete": true,
+            "width": 862,
+            "height": 564,
+            "displayWidth": 862
+          },
+          {
+            "src": "assets/figure_012.jpg",
+            "complete": true,
+            "width": 878,
+            "height": 554,
+            "displayWidth": 878
+          },
+          {
+            "src": "assets/figure_013.jpg",
+            "complete": true,
+            "width": 898,
+            "height": 560,
+            "displayWidth": 898
+          },
+          {
+            "src": "assets/figure_014.jpg",
+            "complete": true,
+            "width": 918,
+            "height": 546,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_015.jpg",
+            "complete": true,
+            "width": 870,
+            "height": 538,
+            "displayWidth": 870
+          },
+          {
+            "src": "assets/figure_016.jpg",
+            "complete": true,
+            "width": 902,
+            "height": 538,
+            "displayWidth": 902
+          },
+          {
+            "src": "assets/figure_017.jpg",
+            "complete": true,
+            "width": 888,
+            "height": 556,
+            "displayWidth": 888
+          },
+          {
+            "src": "assets/figure_018.jpg",
+            "complete": true,
+            "width": 868,
+            "height": 542,
+            "displayWidth": 868
+          },
+          {
+            "src": "assets/figure_019.jpg",
+            "complete": true,
+            "width": 892,
+            "height": 558,
+            "displayWidth": 892
+          },
+          {
+            "src": "assets/figure_020.jpg",
+            "complete": true,
+            "width": 1024,
+            "height": 621,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_021.jpg",
+            "complete": true,
+            "width": 878,
+            "height": 554,
+            "displayWidth": 878
+          },
+          {
+            "src": "assets/figure_022.jpg",
+            "complete": true,
+            "width": 878,
+            "height": 566,
+            "displayWidth": 878
+          },
+          {
+            "src": "assets/figure_023.jpg",
+            "complete": true,
+            "width": 884,
+            "height": 564,
+            "displayWidth": 884
+          },
+          {
+            "src": "assets/figure_024.jpg",
+            "complete": true,
+            "width": 882,
+            "height": 530,
+            "displayWidth": 882
+          },
+          {
+            "src": "assets/figure_025.jpg",
+            "complete": true,
+            "width": 1024,
+            "height": 415,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_026.jpg",
+            "complete": true,
+            "width": 906,
+            "height": 540,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_027.jpg",
+            "complete": true,
+            "width": 894,
+            "height": 534,
+            "displayWidth": 894
+          },
+          {
+            "src": "assets/figure_028.jpg",
+            "complete": true,
+            "width": 882,
+            "height": 546,
+            "displayWidth": 882
+          },
+          {
+            "src": "assets/figure_029.jpg",
+            "complete": true,
+            "width": 876,
+            "height": 550,
+            "displayWidth": 876
+          },
+          {
+            "src": "assets/figure_030.jpg",
+            "complete": true,
+            "width": 928,
+            "height": 540,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_031.jpg",
+            "complete": true,
+            "width": 890,
+            "height": 558,
+            "displayWidth": 890
+          },
+          {
+            "src": "assets/figure_032.jpg",
+            "complete": true,
+            "width": 1024,
+            "height": 585,
+            "displayWidth": 906
+          }
+        ],
+        "viewport": 1300,
+        "documentWidth": 1285,
+        "id": 3784961,
+        "network_requests": [],
+        "passed": true
+      },
+      {
+        "title": "高盛上调CoreWeave至“买入”：市场高估了融资成本，低估了计算收费能力",
+        "images": [
+          {
+            "src": "assets/figure_001.png",
+            "complete": true,
+            "width": 1024,
+            "height": 385,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_002.png",
+            "complete": true,
+            "width": 1080,
+            "height": 3130,
+            "displayWidth": 906
+          }
+        ],
+        "viewport": 1300,
+        "documentWidth": 1285,
+        "id": 3783944,
+        "network_requests": [],
+        "passed": true
+      },
+      {
+        "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+        "images": [
+          {
+            "src": "assets/figure_001.png",
+            "complete": true,
+            "width": 1024,
+            "height": 619,
+            "displayWidth": 906
+          },
+          {
+            "src": "assets/figure_002.png",
+            "complete": true,
+            "width": 678,
+            "height": 478,
+            "displayWidth": 678
+          }
+        ],
+        "viewport": 1300,
+        "documentWidth": 1285,
+        "id": 3763449,
+        "network_requests": [],
+        "passed": true
+      }
+    ],
+    "index_search": {
+      "total": 206,
+      "filtered": {
+        "shown": [
+          "2008再现！一文读懂华尔街最热门交易：AI CDS\n\n2026-10-31 · 信用与融资结构 · 鲍奕龙 · · 9图 · complete\n\n用户提供的质量参照；分析供应商融资、CDS与现金债基差、对冲需求及信用曲线。"
+        ],
+        "count": "1篇"
+      }
+    },
+    "passed": true
+  }
+}

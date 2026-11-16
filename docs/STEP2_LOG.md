@@ -1,0 +1,29 @@
+# Step2进度记录
+
+## 2026-11-04
+
+- 建立`materials/institutional/`，制定七条线搜集清单；开始整理已有材料和下载原文。
+- 首轮整理完成：复用15份、新下载56份，共71份可读材料；另8份未取得正文。图表、文件及链接检查通过，原件无重复。目录：[CATALOG.md](../materials/institutional/CATALOG.md)。
+- 华尔街见闻206篇已本地化，保存770张正文插图；离线阅读、全文检索和完整性检查通过。[方案](../materials/wallstreetcn/%E7%BB%B4%E6%8A%A4/PROPOSAL.md) · [阅读入口](../materials/wallstreetcn/index.html)。
+- 精简华尔街见闻顶层文件，维护文件集中存放；206个文章目录改用标题，重建链接与索引。
+- 206篇正文TXT转为Markdown，保留层级、引用和本地图表；同步生成脚本、目录与全文检索。
+- Graph首轮测试：随机10篇、10题；agent0与agent1均100/100，存在题目天花板。[报告](../tests/graph/%E8%AF%84%E6%B5%8B%E7%BB%93%E6%9E%9C.md)。
+- 第二轮事件测试完成：10篇、10题，新建agent0得96.25、agent1得95.75；选择题均3/3。[报告](../tests/graph/round_02_events/%E8%AF%84%E6%B5%8B%E7%BB%93%E6%9E%9C.md)。
+
+## 2026-11-12
+
+- 制定华尔街见闻制作方案，建议先以三个任务、六篇文章校准流程；尚未启动生产。[方案](../materials/wallstreetcn/%E7%BB%B4%E6%8A%A4/SOURCE_TO_GRAPH_PLAN.md)。
+
+## 2026-11-13
+
+- 通读AI CDS及9图，将制作方案重写为六处关键论述的分析草案；批量流程留待样例后确定。
+- 完成通用纲领、四份测试版说明及子层级讨论；两篇文章各6次试作已审阅汇总。[HTML报告](../workspaces/article_pipeline_tests/multi_agent_20261113/%E6%8A%A5%E5%91%8A.html)。正式graph未改动。
+- 完成AI CDS、韩国股市、美债基差交易三篇单agent试作；覆盖37项概念、18项关系，补写SOX、KOSPI、杠杆ETF持仓及三大买盘等解释。更新纲领和测试说明，报告检查通过。[报告](../workspaces/article_pipeline_tests/single_agent_20261113/%E6%8A%A5%E5%91%8A.html)。
+
+- 完成三篇正式制作：新增8对象、4关系、3事件、3来源，更新6旧页；55项知识均有归属，正文审阅及链接／图像检查通过，main未改。[阅读报告](../workspaces/step2_articles/%E9%98%85%E8%AF%BB%E6%8A%A5%E5%91%8A.html)。
+
+## 2026-11-16
+
+- 统一到单一Git仓库，分开图谱、材料、试作、评测和报告；清理外层副本与旧版本，合并22份重复PDF并修复引用。目录见[文件管理约定](FILE_LAYOUT.md)。
+
+- 2026-11-16：成品报告区分操作与条目类型，子项显示父项；同步交付清单、制作说明及后续制作纲领。

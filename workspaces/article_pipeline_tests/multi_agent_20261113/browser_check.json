@@ -1,0 +1,23 @@
+{
+  "all_cards": 12,
+  "desktop_overflow": false,
+  "korea_visible": 6,
+  "ai_visible": 6,
+  "search_visible": [
+    "ai_01"
+  ],
+  "anchor_opens_card": true,
+  "images": [
+    {
+      "src": "../../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_003.png",
+      "loaded": true
+    },
+    {
+      "src": "../../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_006.png",
+      "loaded": true
+    }
+  ],
+  "mobile_overflow": false,
+  "js_errors": [],
+  "passed": true
+}

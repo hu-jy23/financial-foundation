@@ -1,0 +1,406 @@
+{
+  "unit": "A3 Chapter 2: Current Account Sustainability",
+  "prepared_on": "2026-11-03",
+  "status": "self_checked_pilot_draft_not_independently_reviewed",
+  "source": {
+    "id": "S-A3-CH2",
+    "file": "inputs/A3_第2章_经常账户可持续性.pdf",
+    "path_base": "pilot_workspace",
+    "authors": [
+      "Stephanie Schmitt-Grohé",
+      "Martín Uribe",
+      "Michael Woodford"
+    ],
+    "document_date": "2022-09-06",
+    "book_year": 2022,
+    "pdf_page_count": 12,
+    "page_number_mapping": "PDF页序与页脚slide号均为1至12，逐页一致",
+    "sha256": "0d69e9e2dd2b3a7ae591e26c38076a4ceef9d321e3d42c476a6d0af9cee089ab",
+    "text_file": "inputs/holdout_a3_ch2/pages.txt",
+    "text_sha256": "75840223e8e9c1b9ed2241ce17a450c1fd1384744a8e7fab72beaeb5d63a2263",
+    "text_pages_read": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "original_pages_visually_read": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "page_image_pattern_relative_to_evidence": "verification/page-{page:02d}.png"
+  },
+  "claims": [
+    {
+      "id": "E01",
+      "claim": "实际材料为2022-09-06、2022教材配套第2章课件；教材出版年份不作为数据观察年份。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        1
+      ],
+      "original_page_numbers": [
+        1
+      ],
+      "attribute": [
+        "原文",
+        "版本核验"
+      ],
+      "draft_location": "reading_map.md：实际材料与范围",
+      "verification": "原页封面、页脚和PDF元数据已分别查看。"
+    },
+    {
+      "id": "E02",
+      "claim": "B为净国际投资头寸，正负对应净债权／净债务；B_t=(1+r)B_(t-1)+TB_t，B_2=0。收入余额仅含净投资收入，净单边转移和估值变化为零。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        3,
+        4
+      ],
+      "original_page_numbers": [
+        3,
+        4
+      ],
+      "attribute": [
+        "原文",
+        "模型假设",
+        "账户递推"
+      ],
+      "draft_location": "drafts/经常账户.md：对象和口径；从交易流量到净对外存量；两期结束时结清头寸",
+      "verification": "原页3与4已看，页4脚注随模型条件转移；未扩写资产负债的不同回报。"
+    },
+    {
+      "id": "E03",
+      "claim": "(1+r)B_0=-TB_1-TB_2/(1+r)，两期净债务国至少有一期贸易顺差。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        4,
+        5
+      ],
+      "original_page_numbers": [
+        4,
+        5
+      ],
+      "attribute": [
+        "原文",
+        "条件结论"
+      ],
+      "draft_location": "drafts/经常账户.md：两期结束时结清头寸",
+      "verification": "原页5的负号和分母已视觉核对；代入递推式复算相同；折现正权重需1+r>0。"
+    },
+    {
+      "id": "E04",
+      "claim": "CA_1=B_1-B_0，CA_2=B_2-B_1；在B_2=0下，CA_1+CA_2=-B_0。有限期初始净债务国不能每期都CA逆差。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        6
+      ],
+      "original_page_numbers": [
+        6
+      ],
+      "attribute": [
+        "原文",
+        "条件结论"
+      ],
+      "draft_location": "drafts/经常账户.md：两期结束时结清头寸",
+      "verification": "原页6已看；注意CA包含利息，此处不额外贴现。"
+    },
+    {
+      "id": "E05",
+      "claim": "从Q+IM=C+G+I+X出发，I在国内商品服务的用途等式中；资源约束连接CA与国内投资、消费。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        7
+      ],
+      "original_page_numbers": [
+        7
+      ],
+      "attribute": [
+        "原文",
+        "资源恒等式",
+        "口径解释"
+      ],
+      "draft_location": "drafts/经常账户.md：从当期生产到储蓄与投资",
+      "verification": "原页7所有符号已看；金融资产购买不重复放入该商品服务用途I，是沿原式的口径说明。"
+    },
+    {
+      "id": "E06",
+      "claim": "TB=X-IM，Y=Q+rB_(t-1)，CA=TB+rB_(t-1)，从而Y=C+G+I+CA。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        8
+      ],
+      "original_page_numbers": [
+        8
+      ],
+      "attribute": [
+        "原文",
+        "核算关系",
+        "原页措辞异常"
+      ],
+      "draft_location": "drafts/经常账户.md：对象和口径；从当期生产到储蓄与投资",
+      "verification": "原页8公式清晰。文字将imports列在exports之前，正文按清晰公式与页7一致性取出口减进口；gross national income与GNP混用，正文统一称本章国民收入Y，未声称查得勘误。"
+    },
+    {
+      "id": "E07",
+      "claim": "S=Y-C-G，与Y=C+G+I+CA合并得到CA=S-I。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        8,
+        9
+      ],
+      "original_page_numbers": [
+        8,
+        9
+      ],
+      "attribute": [
+        "原文",
+        "核算恒等式"
+      ],
+      "draft_location": "drafts/经常账户.md：从当期生产到储蓄与投资",
+      "verification": "原页8、9已看；储蓄采用全国收入扣除私人与政府消费的口径。"
+    },
+    {
+      "id": "E08",
+      "claim": "国内吸收A=C+G+I，CA=Y-A。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        10
+      ],
+      "original_page_numbers": [
+        10
+      ],
+      "attribute": [
+        "原文",
+        "定义",
+        "核算恒等式"
+      ],
+      "draft_location": "drafts/经常账户.md：从国民收入到国内吸收",
+      "verification": "原页10已看；A的吸收符号与原型C-FX-13的资产流量A不混用。"
+    },
+    {
+      "id": "E09",
+      "claim": "页11明确保留无限期例外：增长经济的初始净债务国可能永久CA逆差，并不断拿出增长的资源付息。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        11
+      ],
+      "original_page_numbers": [
+        11
+      ],
+      "attribute": [
+        "原文",
+        "条件结论",
+        "待核证明"
+      ],
+      "draft_location": "drafts/经常账户.md：无限期的贸易逆差和CA逆差",
+      "verification": "原页11已看；原文没有g、债务比率或融资条件公式，未将经济增长单独当作充分条件。"
+    },
+    {
+      "id": "E10",
+      "claim": "页11确称四种CA表达在任何国家任何时点成立；转写CA=ΔB等简化式时应保留页4前提。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        4,
+        11
+      ],
+      "original_page_numbers": [
+        4,
+        11
+      ],
+      "attribute": [
+        "原文",
+        "范围核对",
+        "原页泛称"
+      ],
+      "draft_location": "drafts/经常账户.md：从交易流量到净对外存量；reading_map.md：原页核对与异常处理",
+      "verification": "两处原页均已看；泛称确在原页，非抽取损坏。对实际统计的限制同时参照E12，未补造本章未给的统计规范。"
+    },
+    {
+      "id": "E11",
+      "claim": "恒等式没有解释CA的决定因素；需要家庭、企业、政府与外国居民的行为模型。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        12
+      ],
+      "original_page_numbers": [
+        12
+      ],
+      "attribute": [
+        "原文",
+        "解释边界"
+      ],
+      "draft_location": "drafts/经常账户.md：本章能回答什么；change_proposal.md：Mechanism的判断与后续条件",
+      "verification": "原页12已看；本轮不从恒等式推出双赤字、汇率决定或实际调整行为。"
+    },
+    {
+      "id": "E12",
+      "claim": "现有C-FX-13已定义非储备净资本流入N=L-A，区分交易与估值，且真实中国例表含储备、资本账户和误差项。",
+      "source_file": "graph/10_concepts/资本流动与资本管制.md",
+      "pdf_pages": [],
+      "original_page_numbers": [],
+      "original_locator": "概念详解／流入和流出要先确定主体与记号；观测与数据口径；2024年中国的实例",
+      "attribute": [
+        "原型引用"
+      ],
+      "draft_location": "drafts/资本流动与资本管制_更新片段.md；drafts/经常账户.md：从交易流量到净对外存量",
+      "verification": "已实际读正文；未访问该页引用的IMF或外汇局外部来源，故只用于原型对照。"
+    },
+    {
+      "id": "E13",
+      "claim": "有限T期，B_T=0时，ΣTB_t/(1+r)^t=-B_0，ΣCA_t=-B_0；第0期与第1期折现写法等价。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ],
+      "original_page_numbers": [
+        4,
+        5,
+        6
+      ],
+      "attribute": [
+        "自推",
+        "有限期推广"
+      ],
+      "draft_location": "drafts/经常账户.md：两期结束时结清头寸",
+      "verification": "原文给两期式和有限期可推广结论；本页以逐期迭代及望远镜加总给一般式。条件为同一r、1+r>0、终点清偿及页4简化条件。"
+    },
+    {
+      "id": "E14",
+      "claim": "两组两期自推：r=10%，B0=-100时TB=(0,121)，B=(-110,0)，CA=(-10,110)；B0=100时TB=(-60,-55)，B=(50,0)，CA=(-50,-50)。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        4,
+        5,
+        6
+      ],
+      "original_page_numbers": [
+        4,
+        5,
+        6
+      ],
+      "attribute": [
+        "自推",
+        "假设算例"
+      ],
+      "draft_location": "drafts/经常账户.md：两期结束时结清头寸",
+      "verification": "课件没有这些数字；按原始递推式逐期重算，见verification/check_results.json。"
+    },
+    {
+      "id": "E15",
+      "claim": "有限T期通式含折现终值B_T/(1+r)^T；追加终值趋零及现值收敛时才得到本文使用的无限期等式。恒定正B、r>0且TB=-rB可每期贸易逆差、CA=0。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        3,
+        4,
+        5
+      ],
+      "original_page_numbers": [
+        3,
+        4,
+        5
+      ],
+      "attribute": [
+        "自推",
+        "显式补设条件",
+        "待核教材一般证明"
+      ],
+      "draft_location": "drafts/经常账户.md：无限期的贸易逆差和CA逆差",
+      "verification": "页5未给无限期证明；不把本文终值等式冒称为原文已给的一般无庞氏条件，未声称充分必要性。"
+    },
+    {
+      "id": "E16",
+      "claim": "构造Y_t=(1+g)Y_(t-1)、D_t=dY_t，0<g<r：CA=-gD_(t-1)<0，TB=(r-g)D_(t-1)>0，折现债务趋零；5%利率、2%增长、D0=100的两期数值已重算。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        4,
+        11
+      ],
+      "original_page_numbers": [
+        4,
+        11
+      ],
+      "attribute": [
+        "自推",
+        "相容路径",
+        "假设算例"
+      ],
+      "draft_location": "drafts/经常账户.md：无限期的贸易逆差和CA逆差",
+      "verification": "利用页4递推构造页11例外的一种解释；原文未给d、g和这些数字。债务比率稳定不单独等于融资可得或现实均衡，核算见verification/check_results.json。"
+    },
+    {
+      "id": "E17",
+      "claim": "页2提及美国外部账户历史；页5将美国净债务地位代入模型作未来贸易调整的定性判断。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        2,
+        5
+      ],
+      "original_page_numbers": [
+        2,
+        5
+      ],
+      "attribute": [
+        "原文",
+        "作者解释",
+        "待核历史数据"
+      ],
+      "draft_location": "drafts/经常账户.md：本章能回答什么",
+      "verification": "两页原文均已读；章内没有NIIP数值、样本日期或调整渠道，未形成独立经验事实或2026年预测。"
+    },
+    {
+      "id": "E18",
+      "claim": "沿原型N=L-A定义，在A和L覆盖全部金融交易、无储备交易、狭义资本账户和统计差额的简化条件下，CA=-N。",
+      "source_file": "inputs/A3_第2章_经常账户可持续性.pdf",
+      "pdf_pages": [
+        4,
+        6,
+        7
+      ],
+      "original_page_numbers": [
+        4,
+        6,
+        7
+      ],
+      "additional_source_refs": [
+        "E12"
+      ],
+      "attribute": [
+        "自推",
+        "原型定义对齐"
+      ],
+      "draft_location": "drafts/资本流动与资本管制_更新片段.md：净资本流动与经常账户怎样连接",
+      "verification": "原型N限定非储备，因此不能直接宣称现实CA=-N；更新片段显式收窄范围，也不把国内吸收A与对外资产流量A混用。"
+    }
+  ],
+  "review_scope": {
+    "source_reading": "12页文本与原页均实际读取",
+    "self_check": "覆盖、公式、归属与边界自查；机械检查另见verification/check_results.json",
+    "independent_content_review": "尚未进行；不能据机械检查宣称内容审阅通过",
+    "unread_dependencies": [
+      "第1章美国账户历史和NIIP口径",
+      "教材无限期约束一般证明",
+      "后续主体行为模型",
+      "同版实证统计与完整经常账户分类"
+    ]
+  }
+}

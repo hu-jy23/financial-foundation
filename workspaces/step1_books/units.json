@@ -1,0 +1,784 @@
+{
+  "sources": {
+    "T1": {
+      "path": "materials/textbooks/T1 宏观综合 Macroeconomics/Carlin and Soskice Macroeconomics Institutions, Instability, and Inequality 2024 FINAL.pdf",
+      "version": "Carlin & Soskice, 2024; PDF有2023校样页眉",
+      "pages": 1024,
+      "sha256": "f4ff0a6f64eaf0e83f3c237147d52233b41d5f51daa911ae3aa5293f148f5687",
+      "printed_page_offset": 36
+    },
+    "T2": {
+      "path": "materials/textbooks/T2 货币银行 Money Banking and Financial Markets/Money, Banking and Financial Markets, 6e ISE (Stephen G. Cecchetti, Kermit L. Schoenholtz) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "version": "Cecchetti & Schoenholtz, 6e ISE, ©2021, ISBN9781260571363",
+      "pages": 737,
+      "sha256": "987eb40abb293a0fdb1f4c63021c99d0c18d4c0d2219242d2bf7d2e461283186",
+      "printed_page_offset": 35
+    }
+  },
+  "units": [
+    {
+      "id": "T1-U01",
+      "book": "T1",
+      "title": "导言与需求侧",
+      "chapters": [
+        0,
+        1
+      ],
+      "printed_pages": [
+        1,
+        62
+      ],
+      "pdf_pages": [
+        37,
+        98
+      ],
+      "text": "inputs/T1/T1-U01.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U02",
+      "book": "T1",
+      "title": "供给侧",
+      "chapters": [
+        2
+      ],
+      "printed_pages": [
+        63,
+        114
+      ],
+      "pdf_pages": [
+        99,
+        150
+      ],
+      "text": "inputs/T1/T1-U02.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U03",
+      "book": "T1",
+      "title": "三方程与预期",
+      "chapters": [
+        3,
+        4
+      ],
+      "printed_pages": [
+        115,
+        202
+      ],
+      "pdf_pages": [
+        151,
+        238
+      ],
+      "text": "inputs/T1/T1-U03.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U04",
+      "book": "T1",
+      "title": "货币、银行与宏观",
+      "chapters": [
+        5
+      ],
+      "printed_pages": [
+        203,
+        258
+      ],
+      "pdf_pages": [
+        239,
+        294
+      ],
+      "text": "inputs/T1/T1-U04.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U05",
+      "book": "T1",
+      "title": "货币政策",
+      "chapters": [
+        6
+      ],
+      "printed_pages": [
+        259,
+        306
+      ],
+      "pdf_pages": [
+        295,
+        342
+      ],
+      "text": "inputs/T1/T1-U05.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U06",
+      "book": "T1",
+      "title": "财政政策",
+      "chapters": [
+        7
+      ],
+      "printed_pages": [
+        307,
+        364
+      ],
+      "pdf_pages": [
+        343,
+        400
+      ],
+      "text": "inputs/T1/T1-U06.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U07",
+      "book": "T1",
+      "title": "金融不稳定及危机应用",
+      "chapters": [
+        8,
+        9
+      ],
+      "printed_pages": [
+        365,
+        459
+      ],
+      "pdf_pages": [
+        401,
+        495
+      ],
+      "text": "inputs/T1/T1-U07.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U08",
+      "book": "T1",
+      "title": "金融稳定政策",
+      "chapters": [
+        10
+      ],
+      "printed_pages": [
+        460,
+        484
+      ],
+      "pdf_pages": [
+        496,
+        520
+      ],
+      "text": "inputs/T1/T1-U08.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U09",
+      "book": "T1",
+      "title": "开放经济基础",
+      "chapters": [
+        11,
+        12
+      ],
+      "printed_pages": [
+        485,
+        591
+      ],
+      "pdf_pages": [
+        521,
+        627
+      ],
+      "text": "inputs/T1/T1-U09.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 2,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U10",
+      "book": "T1",
+      "title": "油价、失衡与国际相互依赖",
+      "chapters": [
+        13
+      ],
+      "printed_pages": [
+        592,
+        642
+      ],
+      "pdf_pages": [
+        628,
+        678
+      ],
+      "text": "inputs/T1/T1-U10.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U11",
+      "book": "T1",
+      "title": "固定汇率与欧元区",
+      "chapters": [
+        14
+      ],
+      "printed_pages": [
+        643,
+        698
+      ],
+      "pdf_pages": [
+        679,
+        734
+      ],
+      "text": "inputs/T1/T1-U11.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 2,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U12",
+      "book": "T1",
+      "title": "供给侧制度",
+      "chapters": [
+        15
+      ],
+      "printed_pages": [
+        699,
+        747
+      ],
+      "pdf_pages": [
+        735,
+        783
+      ],
+      "text": "inputs/T1/T1-U12.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 2,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U13",
+      "book": "T1",
+      "title": "增长与创新",
+      "chapters": [
+        16
+      ],
+      "printed_pages": [
+        748,
+        810
+      ],
+      "pdf_pages": [
+        784,
+        846
+      ],
+      "text": "inputs/T1/T1-U13.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 0,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U14",
+      "book": "T1",
+      "title": "ICT、生产率与不均衡增长",
+      "chapters": [
+        17
+      ],
+      "printed_pages": [
+        811,
+        856
+      ],
+      "pdf_pages": [
+        847,
+        892
+      ],
+      "text": "inputs/T1/T1-U14.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 0,
+      "unit_completed": true
+    },
+    {
+      "id": "T1-U15",
+      "book": "T1",
+      "title": "异质主体宏观",
+      "chapters": [
+        18
+      ],
+      "printed_pages": [
+        857,
+        924
+      ],
+      "pdf_pages": [
+        893,
+        960
+      ],
+      "text": "inputs/T1/T1-U15.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 0,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U01",
+      "book": "T2",
+      "title": "金融系统、货币支付与工具",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "printed_pages": [
+        1,
+        72
+      ],
+      "pdf_pages": [
+        36,
+        107
+      ],
+      "text": "inputs/T2/T2-U01.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U02",
+      "book": "T2",
+      "title": "现值、终值与利率",
+      "chapters": [
+        4
+      ],
+      "printed_pages": [
+        73,
+        100
+      ],
+      "pdf_pages": [
+        108,
+        135
+      ],
+      "text": "inputs/T2/T2-U02.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U03",
+      "book": "T2",
+      "title": "风险",
+      "chapters": [
+        5
+      ],
+      "printed_pages": [
+        101,
+        128
+      ],
+      "pdf_pages": [
+        136,
+        163
+      ],
+      "text": "inputs/T2/T2-U03.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U04",
+      "book": "T2",
+      "title": "债券与利率决定",
+      "chapters": [
+        6
+      ],
+      "printed_pages": [
+        129,
+        157
+      ],
+      "pdf_pages": [
+        164,
+        192
+      ],
+      "text": "inputs/T2/T2-U04.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U05",
+      "book": "T2",
+      "title": "利率风险与期限结构",
+      "chapters": [
+        7
+      ],
+      "printed_pages": [
+        158,
+        183
+      ],
+      "pdf_pages": [
+        193,
+        218
+      ],
+      "text": "inputs/T2/T2-U05.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U06",
+      "book": "T2",
+      "title": "股票与市场效率",
+      "chapters": [
+        8
+      ],
+      "printed_pages": [
+        184,
+        210
+      ],
+      "pdf_pages": [
+        219,
+        245
+      ],
+      "text": "inputs/T2/T2-U06.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U07",
+      "book": "T2",
+      "title": "期货、期权与互换",
+      "chapters": [
+        9
+      ],
+      "printed_pages": [
+        211,
+        237
+      ],
+      "pdf_pages": [
+        246,
+        272
+      ],
+      "text": "inputs/T2/T2-U07.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 2,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U08",
+      "book": "T2",
+      "title": "外汇",
+      "chapters": [
+        10
+      ],
+      "printed_pages": [
+        238,
+        265
+      ],
+      "pdf_pages": [
+        273,
+        300
+      ],
+      "text": "inputs/T2/T2-U08.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 0,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U09",
+      "book": "T2",
+      "title": "金融中介经济学",
+      "chapters": [
+        11
+      ],
+      "printed_pages": [
+        266,
+        293
+      ],
+      "pdf_pages": [
+        301,
+        328
+      ],
+      "text": "inputs/T2/T2-U09.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U10",
+      "book": "T2",
+      "title": "银行与银行管理",
+      "chapters": [
+        12
+      ],
+      "printed_pages": [
+        294,
+        325
+      ],
+      "pdf_pages": [
+        329,
+        360
+      ],
+      "text": "inputs/T2/T2-U10.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U11",
+      "book": "T2",
+      "title": "金融业结构",
+      "chapters": [
+        13
+      ],
+      "printed_pages": [
+        326,
+        356
+      ],
+      "pdf_pages": [
+        361,
+        391
+      ],
+      "text": "inputs/T2/T2-U11.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U12",
+      "book": "T2",
+      "title": "金融监管",
+      "chapters": [
+        14
+      ],
+      "printed_pages": [
+        357,
+        392
+      ],
+      "pdf_pages": [
+        392,
+        427
+      ],
+      "text": "inputs/T2/T2-U12.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 2,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U13",
+      "book": "T2",
+      "title": "中央银行目标",
+      "chapters": [
+        15
+      ],
+      "printed_pages": [
+        393,
+        420
+      ],
+      "pdf_pages": [
+        428,
+        455
+      ],
+      "text": "inputs/T2/T2-U13.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 0,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U14",
+      "book": "T2",
+      "title": "美联储与ECB结构",
+      "chapters": [
+        16
+      ],
+      "printed_pages": [
+        421,
+        447
+      ],
+      "pdf_pages": [
+        456,
+        482
+      ],
+      "text": "inputs/T2/T2-U14.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 0,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U15",
+      "book": "T2",
+      "title": "央行资产负债表及货币供给",
+      "chapters": [
+        17
+      ],
+      "printed_pages": [
+        448,
+        478
+      ],
+      "pdf_pages": [
+        483,
+        513
+      ],
+      "text": "inputs/T2/T2-U15.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 0,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U16",
+      "book": "T2",
+      "title": "国内货币政策操作",
+      "chapters": [
+        18
+      ],
+      "printed_pages": [
+        479,
+        520
+      ],
+      "pdf_pages": [
+        514,
+        555
+      ],
+      "text": "inputs/T2/T2-U16.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 0,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U17",
+      "book": "T2",
+      "title": "汇率政策",
+      "chapters": [
+        19
+      ],
+      "printed_pages": [
+        521,
+        552
+      ],
+      "pdf_pages": [
+        556,
+        587
+      ],
+      "text": "inputs/T2/T2-U17.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 1,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U18",
+      "book": "T2",
+      "title": "货币增长与需求",
+      "chapters": [
+        20
+      ],
+      "printed_pages": [
+        553,
+        576
+      ],
+      "pdf_pages": [
+        588,
+        611
+      ],
+      "text": "inputs/T2/T2-U18.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 0,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U19",
+      "book": "T2",
+      "title": "产出、通胀与政策",
+      "chapters": [
+        21
+      ],
+      "printed_pages": [
+        577,
+        614
+      ],
+      "pdf_pages": [
+        612,
+        649
+      ],
+      "text": "inputs/T2/T2-U19.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 0,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U20",
+      "book": "T2",
+      "title": "经济波动",
+      "chapters": [
+        22
+      ],
+      "printed_pages": [
+        615,
+        646
+      ],
+      "pdf_pages": [
+        650,
+        681
+      ],
+      "text": "inputs/T2/T2-U20.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 0,
+      "unit_completed": true
+    },
+    {
+      "id": "T2-U21",
+      "book": "T2",
+      "title": "现代货币政策挑战",
+      "chapters": [
+        23
+      ],
+      "printed_pages": [
+        647,
+        672
+      ],
+      "pdf_pages": [
+        682,
+        707
+      ],
+      "text": "inputs/T2/T2-U21.txt",
+      "status": "screened",
+      "candidates": 2,
+      "passed": 0,
+      "unit_completed": true
+    }
+  ],
+  "run_status": "complete",
+  "completed_at": "2026-11-03T21:50:03+08:00"
+}

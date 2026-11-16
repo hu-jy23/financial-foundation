@@ -1,0 +1,573 @@
+{
+  "unit": "A1第3章＋A6美国版第15章",
+  "full_read_pdf_pages": [
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72
+  ],
+  "additional_read_pdf_pages": [
+    23,
+    24,
+    141
+  ],
+  "claims": [
+    {
+      "id": "A1-01",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        50,
+        51,
+        52
+      ],
+      "printed_pages": "29–31",
+      "section": "3.1.1",
+      "attribution": "原文明确结论",
+      "claim": "操作目标与最终目标区分；本轮仅作定位，不生成独立节点。",
+      "visual_inspection_pages": [],
+      "inspection_files": []
+    },
+    {
+      "id": "A1-02",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        52,
+        53,
+        54,
+        55
+      ],
+      "printed_pages": "31–34",
+      "section": "3.1.2",
+      "attribution": "原文明确结论",
+      "claim": "自然利率套利逻辑、预期条件与名义下限；本章承认两时点图不足以完整指定动态。",
+      "visual_inspection_pages": [],
+      "inspection_files": []
+    },
+    {
+      "id": "A1-03",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "printed_pages": "34–37",
+      "section": "3.1.3",
+      "attribution": "原文明确结论",
+      "claim": "四种实际回报、融资利差与数量约束，使简单政策基准复杂化。",
+      "visual_inspection_pages": [
+        56
+      ],
+      "inspection_files": [
+        "../v0/inspection/pdf-56.png"
+      ]
+    },
+    {
+      "id": "A1-04",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        61,
+        62,
+        63,
+        64
+      ],
+      "printed_pages": "40–43",
+      "section": "3.2",
+      "attribution": "原文明确结论",
+      "claim": "自主因素相对实施职能定义，净额汇总后银行存款为政策净操作减自主因素。",
+      "visual_inspection_pages": [
+        64
+      ],
+      "inspection_files": [
+        "../v0/inspection/pdf-64.png"
+      ]
+    },
+    {
+      "id": "A1-05",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        63,
+        64,
+        67
+      ],
+      "printed_pages": "42–43,46",
+      "section": "3.2–3.3",
+      "attribution": "本库口径整理",
+      "claim": "M含日终常备工具净使用，事前OMO不含。由表3.6–3.9和时序区分，不冒充同一个固定符号。",
+      "visual_inspection_pages": [
+        64
+      ],
+      "inspection_files": [
+        "../v0/inspection/pdf-64.png"
+      ]
+    },
+    {
+      "id": "A1-06",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        65,
+        66,
+        67,
+        68
+      ],
+      "printed_pages": "44–47",
+      "section": "3.3",
+      "attribution": "原文明确结论",
+      "claim": "上限、地板、对称走廊的数量关系与两端工具，共用机制解释。",
+      "visual_inspection_pages": [
+        68
+      ],
+      "inspection_files": [
+        "../v0/inspection/pdf-68.png"
+      ]
+    },
+    {
+      "id": "A1-07",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        67,
+        68
+      ],
+      "printed_pages": "46–47",
+      "section": "3.3.3",
+      "attribution": "原文明确结论",
+      "claim": "日内时序、短缺概率加权式、对称分布中点与正态形式。",
+      "visual_inspection_pages": [
+        68
+      ],
+      "inspection_files": [
+        "../v0/inspection/pdf-68.png"
+      ]
+    },
+    {
+      "id": "A1-08",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        68
+      ],
+      "printed_pages": "47",
+      "section": "3.3.3",
+      "attribution": "本库自设算例",
+      "claim": "iD=2%、iB=4%、短缺概率25%得到2.5%，50%得到3%；没有历史主体归属。",
+      "visual_inspection_pages": [
+        68
+      ],
+      "inspection_files": [
+        "../v0/inspection/pdf-68.png"
+      ]
+    },
+    {
+      "id": "A1-09",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        69,
+        70
+      ],
+      "printed_pages": "48–49",
+      "section": "3.4.1–3.4.1.4",
+      "attribution": "原文明确结论",
+      "claim": "央行抵押安排兼顾信用保护、资产充足、传导覆盖与顺周期性。",
+      "visual_inspection_pages": [],
+      "inspection_files": []
+    },
+    {
+      "id": "A1-10",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        71,
+        72
+      ],
+      "printed_pages": "50–51",
+      "section": "3.4.1.5/Table3.10",
+      "attribution": "原文明确结论",
+      "claim": "在表内假设下，L+S-D+d≤(1-h1)L+(1-h2)S，d*=D-h1L-h2S。",
+      "visual_inspection_pages": [
+        71,
+        72
+      ],
+      "inspection_files": [
+        "../v0/inspection/pdf-71.png",
+        "../v0/inspection/pdf-72.png"
+      ]
+    },
+    {
+      "id": "A1-11",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        71
+      ],
+      "printed_pages": "50",
+      "section": "3.4.1.5/Table3.10",
+      "attribution": "本库自设算例",
+      "claim": "L80/S20/D90/h1.2/h2.1，K82、d*72；h1提高至.3时K74、d*64。",
+      "visual_inspection_pages": [
+        71
+      ],
+      "inspection_files": [
+        "../v0/inspection/pdf-71.png"
+      ]
+    },
+    {
+      "id": "A1-ERR-01",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        71
+      ],
+      "printed_pages": "50",
+      "section": "3.4.1.4",
+      "attribution": "原文内部不一致，暂停采用",
+      "claim": "原页同时出现58%、正的Phi逆.01值2.33及不一致方差单位；仅记录，未静默修正。",
+      "visual_inspection_pages": [
+        71
+      ],
+      "inspection_files": [
+        "../v0/inspection/pdf-71.png"
+      ]
+    },
+    {
+      "id": "A1-ERR-02",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        66
+      ],
+      "printed_pages": "45",
+      "section": "3.3.2",
+      "attribution": "与原型日期冲突，待外部核对",
+      "claim": "书中自2005年的美国地板表述与原型2008准备金付息起点不一致，正文不采用该日期。",
+      "visual_inspection_pages": [],
+      "inspection_files": []
+    },
+    {
+      "id": "A1-VERSION",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        50,
+        72,
+        141
+      ],
+      "printed_pages": "29,51,C1",
+      "section": "chapter front / 3.4.1.5 / correction",
+      "attribution": "版本与更正范围",
+      "claim": "本地第3章2026更正，补回可用抵押品约5万亿句子；该量未在此处给明确统计时点。",
+      "visual_inspection_pages": [
+        72,
+        141
+      ],
+      "inspection_files": [
+        "../v0/inspection/pdf-72.png",
+        "../v0/inspection/pdf-141.png"
+      ]
+    },
+    {
+      "id": "A6-01",
+      "source_file": "../../../../../materials/reference/A6_货币银行与金融市场_第13版/The economics of money, banking, and financial markets (Mishkin, Frederic S., author) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "source_sha256": "c4734f93e1278941a3b01a9a42ea8473fa05e49c3b102c15208bfaea3a47edb1",
+      "pdf_pages": [
+        395,
+        396,
+        397
+      ],
+      "printed_pages": "343–345",
+      "section": "15.1",
+      "attribution": "原文明确结论",
+      "claim": "准备金需求机会成本、NBR/BR供给分段与市场均衡。",
+      "visual_inspection_pages": [
+        396
+      ],
+      "inspection_files": [
+        "inspection/A6-pdf-396.png"
+      ]
+    },
+    {
+      "id": "A6-02",
+      "source_file": "../../../../../materials/reference/A6_货币银行与金融市场_第13版/The economics of money, banking, and financial markets (Mishkin, Frederic S., author) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "source_sha256": "c4734f93e1278941a3b01a9a42ea8473fa05e49c3b102c15208bfaea3a47edb1",
+      "pdf_pages": [
+        398
+      ],
+      "printed_pages": "346",
+      "section": "15.1 Figure2/footnote2",
+      "attribution": "原文明确结论",
+      "claim": "购买操作在斜段与地板段的效果不同；脚注承认非银行准入可使成交低于简化地板。",
+      "visual_inspection_pages": [
+        398
+      ],
+      "inspection_files": [
+        "inspection/A6-pdf-398.png"
+      ]
+    },
+    {
+      "id": "A6-03",
+      "source_file": "../../../../../materials/reference/A6_货币银行与金融市场_第13版/The economics of money, banking, and financial markets (Mishkin, Frederic S., author) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "source_sha256": "c4734f93e1278941a3b01a9a42ea8473fa05e49c3b102c15208bfaea3a47edb1",
+      "pdf_pages": [
+        399
+      ],
+      "printed_pages": "347",
+      "section": "15.1 Figure3",
+      "attribution": "原文明确结论",
+      "claim": "贴现率变动效果依是否使用窗口以及是否改变原交点而定。",
+      "visual_inspection_pages": [
+        399
+      ],
+      "inspection_files": [
+        "inspection/A6-pdf-399.png"
+      ]
+    },
+    {
+      "id": "A6-04",
+      "source_file": "../../../../../materials/reference/A6_货币银行与金融市场_第13版/The economics of money, banking, and financial markets (Mishkin, Frederic S., author) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "source_sha256": "c4734f93e1278941a3b01a9a42ea8473fa05e49c3b102c15208bfaea3a47edb1",
+      "pdf_pages": [
+        400,
+        401
+      ],
+      "printed_pages": "348–349",
+      "section": "15.1 Figure5",
+      "attribution": "原文明确结论",
+      "claim": "提高付息利率的效果依原交点是否处于地板区间；本片段明确局部分段比较。",
+      "visual_inspection_pages": [
+        401
+      ],
+      "inspection_files": [
+        "inspection/A6-pdf-401.png"
+      ]
+    },
+    {
+      "id": "A6-05",
+      "source_file": "../../../../../materials/reference/A6_货币银行与金融市场_第13版/The economics of money, banking, and financial markets (Mishkin, Frederic S., author) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "source_sha256": "c4734f93e1278941a3b01a9a42ea8473fa05e49c3b102c15208bfaea3a47edb1",
+      "pdf_pages": [
+        403,
+        404
+      ],
+      "printed_pages": "351–352",
+      "section": "15.2",
+      "attribution": "原文明确结论",
+      "claim": "动态操作改变数量，防御性操作抵消其他影响准备金的因素；并补交易台流程。",
+      "visual_inspection_pages": [],
+      "inspection_files": []
+    },
+    {
+      "id": "A6-06",
+      "source_file": "../../../../../materials/reference/A6_货币银行与金融市场_第13版/The economics of money, banking, and financial markets (Mishkin, Frederic S., author) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "source_sha256": "c4734f93e1278941a3b01a9a42ea8473fa05e49c3b102c15208bfaea3a47edb1",
+      "pdf_pages": [
+        405,
+        406,
+        407,
+        408,
+        409
+      ],
+      "printed_pages": "353–357",
+      "section": "15.2–15.3",
+      "attribution": "原文明确结论",
+      "claim": "窗口后备、危机干预与道德风险；污名影响实际使用。历史案例保留为教材叙述，未当作独立原始研究。",
+      "visual_inspection_pages": [
+        408
+      ],
+      "inspection_files": [
+        "inspection/A6-pdf-408.png"
+      ]
+    },
+    {
+      "id": "A6-07",
+      "source_file": "../../../../../materials/reference/A6_货币银行与金融市场_第13版/The economics of money, banking, and financial markets (Mishkin, Frederic S., author) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "source_sha256": "c4734f93e1278941a3b01a9a42ea8473fa05e49c3b102c15208bfaea3a47edb1",
+      "pdf_pages": [
+        412,
+        413,
+        414
+      ],
+      "printed_pages": "360–362",
+      "section": "15.3",
+      "attribution": "术语范围/解释依赖待核",
+      "claim": "QE、信用宽松与准备金/贷款语言需与其他教材单元及账户来源校准。",
+      "visual_inspection_pages": [
+        413,
+        414
+      ],
+      "inspection_files": [
+        "inspection/A6-pdf-413.png",
+        "inspection/A6-pdf-414.png"
+      ]
+    },
+    {
+      "id": "A6-CONFLICT-01",
+      "source_file": "../../../../../materials/reference/A6_货币银行与金融市场_第13版/The economics of money, banking, and financial markets (Mishkin, Frederic S., author) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "source_sha256": "c4734f93e1278941a3b01a9a42ea8473fa05e49c3b102c15208bfaea3a47edb1",
+      "pdf_pages": [
+        396,
+        408
+      ],
+      "printed_pages": "344,356",
+      "section": "15.1/15.2",
+      "attribution": "跨源日期冲突",
+      "claim": "A6付息始于2008；A1 PDF66自2005地板表述须分别定义并用一手制度资料核查。",
+      "visual_inspection_pages": [
+        396,
+        408
+      ],
+      "inspection_files": [
+        "inspection/A6-pdf-396.png",
+        "inspection/A6-pdf-408.png"
+      ]
+    },
+    {
+      "id": "A6-CONFLICT-02",
+      "source_file": "../../../../../materials/reference/A6_货币银行与金融市场_第13版/The economics of money, banking, and financial markets (Mishkin, Frederic S., author) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "source_sha256": "c4734f93e1278941a3b01a9a42ea8473fa05e49c3b102c15208bfaea3a47edb1",
+      "pdf_pages": [
+        417
+      ],
+      "printed_pages": "365",
+      "section": "15.4",
+      "attribution": "跨源参数冲突",
+      "claim": "A6ECB准备金2%与A1PDF62的1%不一致，适用期均需核，未采用为现行参数。",
+      "visual_inspection_pages": [
+        417
+      ],
+      "inspection_files": [
+        "inspection/A6-pdf-417.png"
+      ]
+    },
+    {
+      "id": "A6-QUESTION-01",
+      "source_file": "../../../../../materials/reference/A6_货币银行与金融市场_第13版/The economics of money, banking, and financial markets (Mishkin, Frederic S., author) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "source_sha256": "c4734f93e1278941a3b01a9a42ea8473fa05e49c3b102c15208bfaea3a47edb1",
+      "pdf_pages": [
+        417
+      ],
+      "printed_pages": "365",
+      "section": "15.4",
+      "attribution": "工具定义疑点",
+      "claim": "A6以证券买卖类比LTRO，未在本章提供足够法律/账户细节；待ECB原始制度来源校准，未判为已证错误。",
+      "visual_inspection_pages": [
+        417
+      ],
+      "inspection_files": [
+        "inspection/A6-pdf-417.png"
+      ]
+    },
+    {
+      "id": "A6-OCR-01",
+      "source_file": "../../../../../materials/reference/A6_货币银行与金融市场_第13版/The economics of money, banking, and financial markets (Mishkin, Frederic S., author) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "source_sha256": "c4734f93e1278941a3b01a9a42ea8473fa05e49c3b102c15208bfaea3a47edb1",
+      "pdf_pages": [
+        414,
+        415
+      ],
+      "printed_pages": "362–363",
+      "section": "15.3",
+      "attribution": "原页与OCR区分",
+      "claim": "PDF414原图为2008年目标0–1/4%，文本抽取成4%；原页可读信息与源内错误分别处理，本次没有把OCR错误写为源内错误。",
+      "visual_inspection_pages": [
+        414
+      ],
+      "inspection_files": [
+        "inspection/A6-pdf-414.png"
+      ]
+    }
+  ],
+  "read_units": [
+    {
+      "source": "A1",
+      "pdf_pages": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ],
+      "additional_pages": [
+        23,
+        24,
+        141
+      ]
+    },
+    {
+      "source": "A6_US_13th_Rental_2022",
+      "pdf_pages": [
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420
+      ],
+      "note": "阅读但未逐题求解末尾练习；未下载题目所需实时数据"
+    }
+  ]
+}

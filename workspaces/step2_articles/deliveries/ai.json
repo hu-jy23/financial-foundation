@@ -1,0 +1,318 @@
+{
+  "article_id": 3784900,
+  "files": [
+    {
+      "path": "10_concepts/信用违约互换CDS.md",
+      "operation": "new",
+      "id": "C-S2-CDS",
+      "type": "concept",
+      "title": "信用违约互换CDS",
+      "why": "通用CDS跨企业、主权、指数与专题复用，避免把企业专题挂在主权风险之下。",
+      "entry_kind": "concept"
+    },
+    {
+      "path": "10_concepts/CDX信用衍生品指数.md",
+      "operation": "new",
+      "id": "C-S2-CDX",
+      "type": "concept",
+      "title": "CDX信用衍生品指数",
+      "why": "指数有独立合约、组成和换期规则，持续承载组合暴露与主题集中问题。",
+      "entry_kind": "concept"
+    },
+    {
+      "path": "10_concepts/CDS—现金债基差.md",
+      "operation": "new",
+      "id": "C-S2-CDS-CASH-BASIS",
+      "type": "concept",
+      "title": "CDS—现金债基差",
+      "why": "信用工具基差的比较口径独立于现券期货，可跨主题复用。",
+      "parent_ids": [
+        "C-DERIV-15"
+      ],
+      "entry_kind": "subconcept"
+    },
+    {
+      "path": "10_concepts/CoreWeave.md",
+      "operation": "new",
+      "id": "C-S2-COREWEAVE",
+      "type": "concept",
+      "title": "CoreWeave",
+      "why": "具体公司需要统一积累经营与信用价格历史，避免只在upfront读数旁出现。",
+      "entry_kind": "concept"
+    },
+    {
+      "path": "10_concepts/AI相关企业CDS.md",
+      "operation": "new",
+      "id": "C-S2-AI-CDS",
+      "type": "concept",
+      "title": "AI相关企业CDS",
+      "why": "专题子项集中保存同一研究问题下的标的差异与历史，不复制母项工具定义。",
+      "parent_ids": [
+        "C-S2-CDS"
+      ],
+      "entry_kind": "subconcept"
+    },
+    {
+      "path": "20_mechanisms/供应商融资的信用风险传递.md",
+      "operation": "new",
+      "id": "R-S2-VENDOR-CREDIT",
+      "type": "mechanism",
+      "title": "供应商融资的信用风险传递",
+      "why": "合同信用责任为经营联系增加具体损失路径，值得跨材料复用。",
+      "node_ids": [
+        "C-TECH-03",
+        "C-TECH-02",
+        "C-CREDIT-SPREAD",
+        "C-S2-AI-CDS"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-TECH-03",
+            "C-TECH-02",
+            "C-CREDIT-SPREAD",
+            "C-S2-AI-CDS"
+          ],
+          "related_mechanism_ids": []
+        }
+      ],
+      "related_mechanism_ids": [],
+      "entry_kind": "relation"
+    },
+    {
+      "path": "20_mechanisms/CDS—现金债基差的定价与交易.md",
+      "operation": "new",
+      "id": "R-S2-CDS-BASIS",
+      "type": "mechanism",
+      "title": "CDS—现金债基差的定价与交易",
+      "why": "跨工具需求、两腿信用风险和中介约束需要独立于现券期货交割机制解释。",
+      "node_ids": [
+        "C-S2-CDS",
+        "C-S2-CDS-CASH-BASIS",
+        "C-CREDIT-SPREAD",
+        "C-FLOW-09",
+        "C-LIQ-FUND",
+        "C-DERIV-14"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-S2-CDS",
+            "C-S2-CDS-CASH-BASIS",
+            "C-CREDIT-SPREAD"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-S2-CDS-CASH-BASIS",
+            "C-FLOW-09",
+            "C-LIQ-FUND",
+            "C-DERIV-14"
+          ],
+          "related_mechanism_ids": [
+            "R-DERIVATIVES-02"
+          ]
+        }
+      ],
+      "related_mechanism_ids": [
+        "R-DERIVATIVES-02"
+      ],
+      "entry_kind": "relation"
+    },
+    {
+      "path": "30_events/AI融资扩张中的CDS价格分化：2026年10月.md",
+      "operation": "new",
+      "id": "E-WS-3784900",
+      "type": "analysis_note",
+      "title": "AI融资扩张中的CDS价格分化：2026年10月",
+      "why": "跨企业、工具、期限及九图形成完整同期分析单元。",
+      "entry_kind": "event"
+    },
+    {
+      "path": "40_sources/S-WS-3784900.md",
+      "operation": "new",
+      "id": "S-WS-3784900",
+      "type": "source_note",
+      "title": "华尔街见闻：AI融资与CDS价格分化",
+      "why": "记录一篇新闻及定向制度补读的来源、范围和采用位置。",
+      "entry_kind": "source"
+    },
+    {
+      "path": "10_concepts/主权信用风险与CDS.md",
+      "operation": "update",
+      "id": "C-FISCAL-14",
+      "type": "concept",
+      "title": "主权信用风险与CDS",
+      "why": "增加通用CDS及企业专题入口；保留主权定义、既有详解及历史。",
+      "entry_kind": "concept"
+    },
+    {
+      "path": "10_concepts/信用利差.md",
+      "operation": "update",
+      "id": "C-CREDIT-SPREAD",
+      "type": "concept",
+      "title": "信用利差",
+      "why": "补充AI信用价格案例及信用基差入口；不改既有信用利差定义与历史。",
+      "entry_kind": "concept"
+    },
+    {
+      "path": "10_concepts/云服务与超大规模云厂商.md",
+      "operation": "update",
+      "id": "C-TECH-03",
+      "type": "concept",
+      "title": "云服务与超大规模云厂商",
+      "why": "补供应商信用责任与AI CDS、CoreWeave入口；不重写既有经营及财务比较。",
+      "entry_kind": "concept"
+    }
+  ],
+  "coverage": [
+    {
+      "name": "信用违约互换CDS与企业单一名称CDS",
+      "decision": "new",
+      "path": "10_concepts/信用违约互换CDS.md",
+      "why": "通用工具独立维护，主权旧页增加入口"
+    },
+    {
+      "name": "CDX信用衍生品指数",
+      "decision": "new",
+      "path": "10_concepts/CDX信用衍生品指数.md",
+      "why": "指数独立规则与组合风险解释"
+    },
+    {
+      "name": "AI相关企业CDS",
+      "decision": "new",
+      "path": "10_concepts/AI相关企业CDS.md",
+      "why": "专题子项继承CDS，保存内部分化"
+    },
+    {
+      "name": "信用利差与风险中性概率",
+      "decision": "update",
+      "path": "10_concepts/信用利差.md#step2-ai-case",
+      "why": "复用测度知识并补具体案例"
+    },
+    {
+      "name": "CDS—现金债基差",
+      "decision": "new",
+      "path": "10_concepts/CDS—现金债基差.md",
+      "why": "作为基差的信用工具细分类"
+    },
+    {
+      "name": "CDS期限曲线与3s5s",
+      "decision": "inline",
+      "path": "10_concepts/信用违约互换CDS.md#measurement",
+      "why": "期限基础在工具页，具体曲线在事件curve节"
+    },
+    {
+      "name": "固定票息与预付点数",
+      "decision": "inline",
+      "path": "10_concepts/信用违约互换CDS.md",
+      "why": "报价基础在通用页，CoreWeave具体读数独立保存"
+    },
+    {
+      "name": "CDS成交量与未平仓名义金额",
+      "decision": "inline",
+      "path": "10_concepts/信用违约互换CDS.md#measurement",
+      "why": "通用存量流量解释与事件规模区分"
+    },
+    {
+      "name": "供应商融资、贷款与担保",
+      "decision": "inline",
+      "path": "20_mechanisms/供应商融资的信用风险传递.md",
+      "why": "贷款担保定义直接服务合同过程，不另建同义概念"
+    },
+    {
+      "name": "超大规模云厂商与芯片供应商",
+      "decision": "update",
+      "path": "10_concepts/云服务与超大规模云厂商.md#step2-credit-links",
+      "why": "复用经营介绍，补信用责任入口及横向比较"
+    },
+    {
+      "name": "CoreWeave与新型算力租赁商",
+      "decision": "new",
+      "path": "10_concepts/CoreWeave.md",
+      "why": "公司经营融资及价格历史统一积累"
+    },
+    {
+      "name": "信用评级与投资级／高收益",
+      "decision": "reuse",
+      "path": "10_concepts/信用评级与迁移.md",
+      "why": "既有评级知识足够，通过CDX和CDS链接复用"
+    },
+    {
+      "name": "供应商融资把订单风险与客户偿付风险连接起来",
+      "decision": "new",
+      "path": "20_mechanisms/供应商融资的信用风险传递.md#logic-1",
+      "why": "合同信用责任传递独立机制"
+    },
+    {
+      "name": "非持债者以企业CDS管理相关风险",
+      "decision": "inline",
+      "path": "10_concepts/信用违约互换CDS.md#proxy-hedging",
+      "why": "工具用途与代理对冲放通用页，具体参与者在事件"
+    },
+    {
+      "name": "保护供求与价差交易约束影响CDS—现金债基差",
+      "decision": "new",
+      "path": "20_mechanisms/CDS—现金债基差的定价与交易.md#logic-1",
+      "why": "集中需求、承接与基差过程"
+    },
+    {
+      "name": "相近长期报价下的期限分化与集中对冲",
+      "decision": "inline",
+      "path": "30_events/AI融资扩张中的CDS价格分化：2026年10月.md#curve",
+      "why": "特定主体同期比较保存在完整事件"
+    },
+    {
+      "name": "正信用基差的两腿交易与残余风险",
+      "decision": "inline",
+      "path": "20_mechanisms/CDS—现金债基差的定价与交易.md#logic-2",
+      "why": "两腿与风险为信用基差关系第二逻辑"
+    },
+    {
+      "name": "指数持有与主题信用风险集中",
+      "decision": "inline",
+      "path": "10_concepts/CDX信用衍生品指数.md#concentration",
+      "why": "指数内暴露属于对象详解，不另造通用关系"
+    }
+  ],
+  "sources_read": [
+    {
+      "source": "本地article.md与全部9图",
+      "scope": "全文及坐标、单位、日期与注释；metadata核页面时点"
+    },
+    {
+      "source": "正式00_start说明、模板及形成记录",
+      "scope": "制作思想、全部目录标题ID与本题相关历史选择；旧图相关正文详读"
+    },
+    {
+      "source": "实验_20261113_基础与分析说明、ai.json、review.json",
+      "scope": "上位补充与本篇全部知识及审阅意见"
+    },
+    {
+      "source": "S&P概览及2026-02方法书",
+      "scope": "定义、换期、期限、权重和评级说明，印刷3—5页；未核系列附件"
+    },
+    {
+      "source": "ISDA标准模型首页",
+      "scope": "固定票息与upfront转换背景"
+    },
+    {
+      "source": "纽约联储2018-10-18研究博客",
+      "scope": "两腿、中介融资与资本约束正文；非2026规则核实"
+    },
+    {
+      "source": "CoreWeave2025年10-K",
+      "scope": "业务概览及客户集中、融资资本支出风险段落；未通读附注"
+    }
+  ],
+  "notes": [
+    "工作区内5个新概念、2个新机制、3个旧概念局部更新、1个事件和1个Source；正式仓库未写入。",
+    "CDS及基差父项关系分别注明专题集合与工具细分类；没有把信用基差交易当成现券期货机制子项。",
+    "事件保留全部9图与关键数字，新闻公司交易数据未全面核原合同；完整巴克莱研报未取得。",
+    "外部访问首次web工具连接失败，使用可用search_service成功定向补读；不影响本地原件。"
+  ]
+}

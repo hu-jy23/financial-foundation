@@ -1,0 +1,107 @@
+{
+  "run_id": "korea_02",
+  "article_id": 3784053,
+  "title": "韩国股市：估值信号怎样遇到有约束的边际买家",
+  "problem": "文章试图解释盈利预测没有同步下修、估值已压缩时，为什么价格仍在下跌，以及哪些买卖力量可能延续这种过程。关键是估值比较、投资者目标头寸和真实执行订单之间的联系。本文先作为2026年10月的具体市场分析承载；KOSPI这一地域或指数名称、韩国杠杆ETF这一组合名称，都还没有在文中提供足够独立的对象特征来直接注册子概念。",
+  "passages": [
+    {
+      "location": "估值跌至历史极值；图001、图007",
+      "quote": "即便剔除三星电子、SK海力士等存储巨头的影响，KOSPI整体仅以8.4倍远期市盈率交投，处于历史第11百分位。",
+      "analysis": "图1的蓝线还排除了SK Square、SK Inc和Samsung C&T，因而8.4倍对应经过额外剔除的股票集合。图7展示ex-memory指数的远期EPS序列，不能单独证实文中三星与海力士各自盈利预测上修。估值分位是历史比较；预测盈利也可能调整滞后。由此直接确认流动性是唯一驱动，会跨过样本匹配与竞争解释。",
+      "method": "先对齐股票范围、预测期限及观察时点，再把P/E变化拆成价格与预期盈利的变化；同时考虑贴现补偿变化和盈利预期滞后。这样才能讨论便宜信号与市场卖压怎样共存。"
+    },
+    {
+      "location": "三大买盘来源同步撤退；图004",
+      "quote": "自去年8月底以来，企业回购一直是市场最主要的支撑力量。然而三星已完成其回购计划，SK海力士也已接近尾声，这一关键买盘来源正在消退。",
+      "analysis": "图4记录企业每日股票购买金额，图题仅称调整与回购放缓同时发生，末端仍有正买入。图自身没有分别证明两家公司计划结束，也没有给出外资和境内机构订单。这里更合适的判断是某类此前较强的买盘减弱，而不是没有交易对手。回购放缓可能使同等卖单需要更大价格让步，但实际贡献仍需订单和深度证据。",
+      "method": "按投资者类别整理买入动机、约束、执行时间与订单量，比较调整前后的边际承接能力。区分主体披露、交易观测及记者因果解释。"
+    },
+    {
+      "location": "趋势策略资金从极度做多转向净空；图005",
+      "quote": "趋势跟踪类投资者在本轮暴跌后已从极度净多头转为净空头。",
+      "analysis": "图5画的是momentum signal，图题使用likely turned net short。信号不是全体趋势投资者真实仓位；即使方向已为空，波动上升也可能压低空头规模、产生买回。现有CTA页已把信号、风险缩放、目标头寸和待执行订单分开，本篇应沿用该解释，补充这次机构估计的具体时期与归属。",
+      "method": "由规则推到目标头寸，再以旧头寸和执行约束计算边际订单。短线回补只是条件情景，不能从负信号自动推出某日会有净买盘。"
+    },
+    {
+      "location": "杠杆ETF持仓高企；图006",
+      "quote": "相关资金流出规模出乎意料地有限，而存续中的杠杆头寸在急跌日仍会持续形成机械性卖压。",
+      "analysis": "图6把AUM与累计流入分开，且区分境内宽基、离岸和境内单股工具。它没有直接给出当日必须再平衡的交易额。机械卖压可能由每日杠杆目标触发，即使无赎回仍有调仓；申赎又是另一条路径。必须先辨认产品方向、倍数、重置频率和实现工具，不能让总AUM代替这些条件。",
+      "method": "用净资产与目标敞口的会计关系解释调仓，再结合实际产品参数和市场深度讨论冲击。与旧ETF申赎套利、波动率目标策略比较触发机制，决定是否值得独立解释。"
+    },
+    {
+      "location": "KOSPI与费城半导体指数背离；图008",
+      "quote": "这一分化难以长期并行存在，终将出现收敛或共振。",
+      "analysis": "双轴原始指数图显示走势分化，却没有给出稳定价差、共同估值锚或两市场的可执行转换关系。两种指数的行业、币种和权重也需要核对。将韩国价格弱势外推为美国半导体反弹将受阻，是作者的条件判断，尚未建立可检验的传导路径。",
+      "method": "先辨认共同冲击与各自暴露，保持收益和币种口径一致，再提出可区分的共同因子或资金传导解释；不把两条线的视觉背离直接当作必然收敛关系。"
+    }
+  ],
+  "structures": [
+    {
+      "name": "2026年10月韩股估值压缩与边际买方变化",
+      "kind": "event",
+      "parent": "关联C-LIQ-MARKET市场流动性、C-FLOW-11趋势跟随与CTA、R-MARKET-09 CTA趋势跟随的价格反馈；不存在必须继承的父事件。",
+      "inherits": "引用市场深度、信号与订单、ETF份额与AUM的通用解释。",
+      "difference": "在同一个时间窗口比较估值、盈利预测、回购、趋势信号与杠杆产品。其解释职责是这次市场过程和摩根大通的判断。",
+      "why_register": "以一个完整专题维护观察、解释与后续结果，避免把同一轮行情散写到多个机制页。Event不计入正式概念或机制节点数。",
+      "inline_alternative": "可在市场流动性页增加案例段，但整篇还涉及估值和不同规则化交易，把全部讨论放入该页会扩大其解释范围。旧页留相关入口即可。",
+      "decision": "本次采用独立分析材料试作。暂不注册KOSPI或韩国杠杆ETF子概念，也不将地域化市场反馈注册成子关系；本文的独特内容主要是具体时期的参与者状态。"
+    },
+    {
+      "name": "每日杠杆目标再平衡的顺周期交易",
+      "kind": "new_mechanism",
+      "parent": "不指定继承父项；关联C-FLOW-05 ETF申赎与二级市场交易、R-MARKET-07波动率目标策略的顺周期反馈。",
+      "inherits": "复用基金份额、净资产和敞口等基础语言；不继承旧机制的触发条件或其历史证据。",
+      "difference": "每日固定杠杆目标会因资产收益改变净资产与实际杠杆，产生再平衡；波动率目标机制依赖风险估计更新，ETF申赎套利依赖份额与篮子价差。三者的调整触发条件不同。",
+      "why_register": "这一过程具有独立的交易计算和风险传导含义，若产品条款与历史证据能支持，可跨市场持续积累。它的核心过程与两项旧机制不同，按子关系挂接会造成错误继承。",
+      "inline_alternative": "本轮先在专题分析中用明确假设的算例讲清它；无需为单篇报道先建一页等待未来填充。",
+      "decision": "提出可研究的独立机制方向，当前只写入样稿，不进行正式注册。须取得相关产品重置规则和实际敞口后，才能把规则推演用于这次韩国行情。"
+    }
+  ],
+  "sample_title": "估值压缩怎样与规则化卖单共存",
+  "sample": "截至2026年10月20日的这篇报道，摩根大通将韩股估值压缩与边际买盘减弱联系起来。理解这项解释，要同时看投资者愿意承担多少股票风险，以及他们能在什么时间成交。回购计划放缓，使原先较稳定的一类需求减少；趋势资金则依据价格路径与风险预算调整，价格降到较低市盈率并不会自动改变其交易规则。长期配置者即使提高了预期回报，也可能等待波动和交易条件改善。各类买家的决策期限不同，使估值吸引力与即时承接量可以不同步。\n\n杠杆产品提供另一种可能的交易来源。以每日维持两倍多头敞口的假设基金为例：期初净资产100、风险敞口200，标的一日下跌10%后，净资产降至80，原敞口为180；若继续执行两倍目标，须把敞口降至160，即减少20。这个算例没有份额赎回，交易仍会发生。它说明产品规模存续为何可能伴随压力日调仓，但没有证明报道中的韩国基金实际卖出了多少。图6的AUM和累计流量必须与产品倍数、方向、重置安排及对冲实现方式结合。\n\n因此，这次判断应追踪回购实际执行是否恢复、趋势目标与旧仓位之间还有多少差额，以及杠杆产品待调整的敞口能否被当时市场吸收。价格与同口径盈利预测的后续变化则用于检验资金解释。若盈利预测随后下调，原先关于基本面稳定的判断也应按日期修正。",
+  "limitations": "以上是依据本地报道和图表的分析，未外部核验报告、行情或基金合同。图1剔除范围与正文简写不同；图5只见信号估计；图7不能逐一证明三星与海力士EPS上修。图6缺实际产品规则、倍数及交易敞口，故样稿的每日两倍算例仅为明确假设的会计解释。还未取得外资及境内机构逐日订单、市场深度，不能给各类资金分配跌幅贡献。SOX—KOSPI的必然收敛与韩国对美国的领先传染均未由本图建立。说明系统的形成记录按导言与相关取舍行阅读，目录按全部ID／标题及相关行阅读；部分较长成品读取了定义、关键逻辑和证据边界，未回查其外部原件。",
+  "guidance_feedback": "纲领促使我把问题放在估值、交易规则与执行约束之间，而非给韩国市场套上融资风险框架。子关系讨论也有用：过程不同就应考虑相关独立机制，不能为层级完整而强行继承。现有测试JSON的why_register与parent等键仍容易诱使每个候选都争取注册；允许用decision明确“不注册／仅样稿”才能表达真实取舍。后续应继续检查内容样稿能否解释问题，减少对元数据完整性的强调。",
+  "reading": {
+    "documents": [
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/README.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/TEST_TASK.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/SUBSTRUCTURE_DISCUSSION.md",
+      "materials/wallstreetcn/维护/ARTICLE_AUTHORING_CHARTER.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/AUTHORING_STANDARD.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/NODE_SELECTION_GUIDE.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/EVENT_SOURCE_GUIDE.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/REVIEW_CHECKLIST.md",
+      "graph/00_start/README.md",
+      "graph/00_start/PROJECT_PLAN.md",
+      "graph/00_start/CONVERSATION_MEMORY.md",
+      "graph/00_start/BATCH_TASK.md",
+      "graph/00_start/FILE_NAMING.md",
+      "graph/00_start/CONCEPT_SELECTION_HISTORY.md",
+      "graph/00_start/MECHANISM_SELECTION_HISTORY.md",
+      "graph/00_start/CONCEPT_IMPORT_LIST.md",
+      "graph/00_start/MECHANISM_IMPORT_LIST.md",
+      "graph/00_start/templates/CONCEPT_TEMPLATE.md",
+      "graph/00_start/templates/MECHANISM_TEMPLATE.md",
+      "graph/00_start/templates/EVENT_TEMPLATE.md",
+      "graph/00_start/templates/SOURCE_NOTE_TEMPLATE.md",
+      "materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md"
+    ],
+    "graph_pages": [
+      "graph/10_concepts/宽基ETF.md",
+      "graph/10_concepts/市场流动性.md",
+      "graph/10_concepts/趋势跟随与CTA.md",
+      "graph/20_mechanisms/波动率目标策略的顺周期反馈.md",
+      "graph/20_mechanisms/ETF申赎套利.md",
+      "graph/20_mechanisms/CTA趋势跟随的价格反馈.md"
+    ],
+    "figures": [
+      "materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_001.png",
+      "materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_004.png",
+      "materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_005.png",
+      "materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_006.png",
+      "materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_007.png",
+      "materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_008.png"
+    ]
+  },
+  "summary": "以当期市场分析承载估值与买方约束，暂不注册韩国子概念；每日杠杆再平衡按独立机制方向研究，避免错误继承波动率目标或ETF套利。"
+}

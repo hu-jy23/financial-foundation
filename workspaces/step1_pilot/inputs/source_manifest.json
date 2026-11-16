@@ -1,0 +1,28 @@
+{
+  "copied_on": "2026-11-03",
+  "inputs": [
+    {
+      "file": "A1_中央银行导论_2021.pdf",
+      "sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1"
+    },
+    {
+      "file": "A3_第2章_经常账户可持续性.pdf",
+      "sha256": "0d69e9e2dd2b3a7ae591e26c38076a4ceef9d321e3d42c476a6d0af9cee089ab"
+    },
+    {
+      "file": "A3_第4章_贸易条件利率关税.pdf",
+      "sha256": "6f26730615d836eed36d65ce3f401e330eca7ef2c5b8967425ce1bb11ab5e3cb"
+    },
+    {
+      "file": "../../../materials/reference/A6_货币银行与金融市场_第13版/The economics of money, banking, and financial markets (Mishkin, Frederic S., author) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "sha256": "c4734f93e1278941a3b01a9a42ea8473fa05e49c3b102c15208bfaea3a47edb1",
+      "access": "临时输入软链接，用户提供原件，仅在本地分析",
+      "version": "美国版Thirteenth Edition / Rental Edition，版权2022；ISBN9780136894353；不同于此前出版社Global版目录"
+    }
+  ],
+  "pilot_units": {
+    "A1": "第3章，PDF50–72／印刷29–51；更正页PDF141／C1（标注2026），按需要回读前置章节",
+    "A3": "第4章全部31张slides；按需要读取前置章节",
+    "A6": "第15章 Tools of Monetary Policy，PDF395–420／印刷343–368，共26页；回读相邻章节时分别注明来源"
+  }
+}

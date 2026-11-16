@@ -1,0 +1,118 @@
+{
+  "run_id": "ai_03",
+  "article_id": 3784900,
+  "title": "从一次AI信用重定价比较中判断独立维护的必要性",
+  "problem": "文章要解释的并不只有AI企业的CDS上涨，还包括芯片供应商涨幅更大、CDS相对现金债变贵，以及不同期限价格分布不同。共同产业主题能否解释这些差异，新增融资责任和保护需求又分别起了什么作用，是这份材料真正提出的问题。报道把这些观察串成“2008再现”的叙事，但其中各条推断的证据强度不同。",
+  "passages": [
+    {
+      "location": "开篇与本地图001、002",
+      "quote": "10家核心AI企业，目前仅占CDX投资级指数成分的8%，但已占到该指数隐含信贷风险的16%。",
+      "analysis": "这是把产业主题变成组合风险问题的入口。8%可能是成分数量占比，16%的“风险”却未在本文交代计算方法，两者不能直接当作相同权重比较。图2更有解释内容：各名称的变化不一致，供应商与云厂商需要分组观察；SPCX图注还说明其交易起始较晚，不能默认所有比较拥有相同六个月样本。",
+      "method": "先固定对象、口径与时间窗，再比较企业间差异。通过拆分组合来提出解释问题，避免把整个AI主题直接当作一个同质发行人。"
+    },
+    {
+      "location": "“芯片制造商信贷特征转变”",
+      "quote": "随着芯片供应商开始向客户提供贷款以购买其芯片（即供应商融资），信贷市场已开始将这些公司视为拥有高度集中贷款账本的贷款机构。",
+      "analysis": "这段提出了可展开的风险联系：供应商取得销售机会，也可能形成对客户的信用敞口。客户收入不及预期时，未来订单和已有债权可能共同受影响。但贷款、担保和股权投资的损失承担不同；本文的担保例子不能独立证明每家芯片商拥有同一种贷款账本。现有云服务页已讨论客户兼合作伙伴和被投资人的关系，新增内容须落到信用责任变化。",
+      "method": "按合同角色追踪货物、付款、融资与损失承担，分别说明已经报道的安排和据此提出的条件性反馈；先写清过程，再判断是否足以独立成机制。"
+    },
+    {
+      "location": "开篇保护需求解释；“基差转正”与本地图003—005",
+      "quote": "大量未持有相关债券的机构（如进行对冲的股票基金和银行）正大举买入CDS，以对冲巨大的AI资本支出及相关贷款风险。",
+      "analysis": "买方可以对冲股票或贷款敞口，未持现金债本身不能区分投机与风险管理。图3显示相对价格变化，图4、5显示成交及合约规模扩张，却没有买方身份或原持仓。它们与需求解释相容，尚不能单独确认因果，也不能把未平仓名义金额当现金净流入。价格还需有卖方承接；其约束和可替代对冲方式会影响基差。",
+      "method": "将实体信用变化与对冲工具供求作为可共存的解释，比较同一发行人匹配期限的现金债与CDS，并明确每个观察能够支持哪一步。"
+    },
+    {
+      "location": "“曲线形态分化”；本地图006、007",
+      "quote": "亚马逊与谷歌的5年期CDS水平相当（80-81基点），但亚马逊的3s5s曲线……仅为18基点，显得过于平坦。",
+      "analysis": "同一五年期水平可以对应不同期限分布。作者将亚马逊曲线与六月定期贷款的买盘相连，这是一项有待验证的解释。图6提供比较，不能证明买盘来自哪笔贷款；图7中英特尔负基差也只是另一项对照，不能把不同企业视为只在供应商融资上有差别的实验组。",
+      "method": "同时比较期限结构与跨工具价格，寻找解释能预测的差别。保留机构交易判断及其成立条件，避免仅凭“异常”直接认定错价或套利收益。"
+    },
+    {
+      "location": "“高收益市场缩影”；本地图008、009",
+      "quote": "CoreWeave的5年期CDS已采用“预付点数”（points upfront）的定价方式，达到15.5点。",
+      "analysis": "报价单位先于经济比较。现有主权CDS页已经解释固定票息加upfront，其通用部分可引用。15.5点不能直接读成15.5%的年保费或违约概率。图8当前值低于图上约20的高点；它支持保护价格仍高及近期从峰值回落的观察。图9成交增长不意味着风险判断已经一致。",
+      "method": "先统一合约现金流与报价口径，再区分水平、变化和机构观点；把必要基础知识嵌入这项判断，避免因新报价名称单独建节点。"
+    }
+  ],
+  "structures": [
+    {
+      "name": "2026年10月AI企业CDS重定价：信用责任与保护需求",
+      "kind": "event",
+      "parent": "关联C-CREDIT-SPREAD、C-FISCAL-14、C-TECH-03、C-DERIV-15；不是这些对象的严格子类。",
+      "inherits": "引用CDS保护现金流、信用利差和相对价格的一般解释。",
+      "difference": "保存本次重定价的样本内分化、作者提出的融资责任变化和对冲需求解释，以及期限、报价与类比争议。",
+      "why_register": "建议作为一个完整分析单元维护。将这些内容分别塞进信用利差、云服务与基差页，会使读者难以复原本次争议和各项证据的对应关系。",
+      "inline_alternative": "在信用利差页设案例小节也可承载简短结论，但全文同时涉及合同责任、曲线和跨工具对冲，独立分析单元便于保留完整论证并被多页引用。",
+      "decision": "本轮建议形成专题事件分析的样稿，不分配正式ID。"
+    },
+    {
+      "name": "信用利差中的现金债—CDS比较入口",
+      "kind": "existing_update",
+      "parent": "C-CREDIT-SPREAD 信用利差；关联C-DERIV-15 基差。",
+      "inherits": "沿用已有的风险溢价、流动性和融资成分解释。",
+      "difference": "补足如何通过同一发行人的两类价格提出并比较信用与工具需求解释，并链接本次事件。",
+      "why_register": "不注册新节点。旧页已有CDS比较及现金债匹配样本缺失说明，新增一段解释和事件入口已能承担职责。",
+      "inline_alternative": "直接融入“预期损失与承担风险的补偿不同”附近，避免追加一篇AI行业长文。",
+      "decision": "建议局部更新，待对应专题分析通过后再接入。"
+    },
+    {
+      "name": "AI相关企业CDS（本次不注册子概念）",
+      "kind": "child_concept",
+      "parent": "通用CDS工具入口尚需与C-FISCAL-14的主权范围区分；不能直接认作主权CDS子类。",
+      "inherits": "一般保护合同、期限与报价知识。",
+      "difference": "可围绕产业共同暴露、公司间分化和交易需求组织一组标的。",
+      "why_register": "它确有成为长期研究入口的可能；但目前的内容首先服务于这次重定价解释，本文也未给出统一样本及“风险份额”的构造。与一个可继续追加后续进展的分析单元相比，另建对象页尚未展示额外维护收益。",
+      "inline_alternative": "AI CDS作为上述专题的研究范围与检索名称，完整保存本次认识；其他对象引用同一分析位置。",
+      "decision": "本次不注册。若后续材料形成跨事件反复使用的稳定对象知识，再比较独立子页与既有分析单元的实际收益。供应商融资暂在分析内展开，不强挂为金融加速器或基差交易的子关系。"
+    }
+  ],
+  "sample_title": "样稿：AI信用保护价格上升的两条解释路径",
+  "sample": "2026年10月31日的文章转述巴克莱报告，称AI相关企业的CDS相对现金债已经变贵，并将这一变化与融资扩张及新增保护需求联系起来。理解这种价格变化，需要分别追踪企业的信用责任和投资者已有的风险敞口。\n\n供应商向客户提供贷款或担保，可以帮助客户完成采购，也把客户未来偿付能力带入供应商的风险。若客户经营不及预期，供应商可能同时面对订单减少和信用损失；其程度取决于合同、抵押和责任范围。这个过程给信用风险重新评价提供了一种解释，但本文尚未逐笔核实相关安排。\n\n另一条路径来自对冲。银行可能需要降低贷款暴露，股票基金可能希望在产业预期转弱时获得信用保护的价格补偿。即使它们未持有相应债券，也可能选择同一批企业的CDS，形成不同于现金债市场的需求。如果卖方承接和价差交易受约束，两类工具的价格就可能出现差异。\n\n图3所示AI群体基差转正，使这一需求解释值得研究；它本身还不能确认具体买家的动机。后续应对照匹配期限的现金债与CDS、实际融资责任和参与者敞口，判断信用变化与工具需求怎样共同形成这段价格历史。",
+  "limitations": "本文全部数据仍为本地报道及图表的转引，未核原始研报、逐笔交易或实际贷款／担保合同。“指数隐含风险16%”口径未知；部分图序列起始日不同。“50亿美元翻倍至200亿美元”存在算术冲突。成交量与未平仓额不能识别方向和动机。2008的类比目前只涉及保护需求与相对价格，不能据此推定相同的杠杆、抵押品或系统性传染。形成记录读取了原则与相关条目，正式目录作相关项检索；相关长正文按下列文件的相关章节核读，未回查全部外部来源。",
+  "guidance_feedback": "纲领让分析从跨企业、期限与工具的价格差异出发，并允许保留不同证据强度的解释。测试版要求比较注册与不注册的方案，有助于发现Event已经能够维护本次完整分析。仍需防止两种倾向：把“有持续研究潜力”直接当作注册理由；或者把“父项尚未准备好”当作永久否决子项的规则。本次不注册是内容维护比较的结果，不代表AI CDS永远只能作为事件。子关系也需辨认实际继承的因果环节，不能按标题相似挂接。模型和档位均为继承且不可核验。",
+  "reading": {
+    "documents": [
+      "materials/wallstreetcn/维护/ARTICLE_AUTHORING_CHARTER.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/README.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/TEST_TASK.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/SUBSTRUCTURE_DISCUSSION.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/AUTHORING_STANDARD.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/NODE_SELECTION_GUIDE.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/EVENT_SOURCE_GUIDE.md",
+      "workspaces/article_pipeline_tests/multi_agent_20261113/说明/REVIEW_CHECKLIST.md",
+      "graph/00_start/README.md",
+      "graph/00_start/PROJECT_PLAN.md",
+      "graph/00_start/CONVERSATION_MEMORY.md",
+      "graph/00_start/BATCH_TASK.md",
+      "graph/00_start/FILE_NAMING.md",
+      "graph/00_start/CONCEPT_SELECTION_HISTORY.md",
+      "graph/00_start/MECHANISM_SELECTION_HISTORY.md",
+      "graph/00_start/CONCEPT_IMPORT_LIST.md",
+      "graph/00_start/MECHANISM_IMPORT_LIST.md",
+      "graph/00_start/templates/CONCEPT_TEMPLATE.md",
+      "graph/00_start/templates/MECHANISM_TEMPLATE.md",
+      "graph/00_start/templates/EVENT_TEMPLATE.md",
+      "graph/00_start/templates/SOURCE_NOTE_TEMPLATE.md"
+    ],
+    "graph_pages": [
+      "graph/10_concepts/信用利差.md",
+      "graph/10_concepts/基差.md",
+      "graph/10_concepts/主权信用风险与CDS.md",
+      "graph/10_concepts/云服务与超大规模云厂商.md",
+      "graph/20_mechanisms/基差交易.md"
+    ],
+    "figures": [
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_001.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_002.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_003.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_004.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_005.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_006.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_007.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_008.png",
+      "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_009.png"
+    ]
+  },
+  "summary": "用一份完整专题事件维护本次AI信用重定价解释，局部补充信用利差页；比较后暂不注册AI CDS子概念或子关系。"
+}

@@ -1,0 +1,1476 @@
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Step2三篇正式制作 · 工作区</title><style>*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#f4f1e9;color:#20352f;font-family:system-ui,"Noto Sans CJK SC",sans-serif;line-height:1.85}main{max-width:1160px;margin:auto;padding:64px 32px}h1{font-family:serif;font-size:clamp(34px,5vw,60px);line-height:1.35;margin:20px 0}h2{font-size:29px}h3{font-size:23px}h4{font-size:19px}.eyebrow{font-size:12px;letter-spacing:2px;color:#28715c;font-weight:bold}.lead{font-size:18px;color:#58685f;max-width:880px}.stats{display:flex;gap:40px;margin:32px 0}.stats b{display:block;font:36px serif}.stats small{color:#68796f}nav{display:flex;gap:22px;flex-wrap:wrap;border-block:1px solid #d3d9d0;padding:16px 0}a{color:#246c58;text-underline-offset:4px;overflow-wrap:anywhere}section{margin-top:60px}.filelist{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 20px;margin-bottom:28px}.filelist small{color:#748279}.document{background:#fffcf6;border:1px solid #d8ded4;margin:18px 0;scroll-margin-top:12px}.document>summary{cursor:pointer;display:flex;gap:14px;align-items:baseline;flex-wrap:wrap;padding:18px 24px}.document>summary strong{font-size:21px}.document>summary small{font-size:11px;color:#77867c}.tag{font-size:12px;border:1px solid #b7c9b9;padding:0 8px;color:#39735e}.doc{padding:0 28px 28px;overflow-wrap:anywhere}.doc h1{font-family:inherit;font-size:30px}.doc h2{font-size:24px;margin-top:34px}.parent{font-size:14px;color:#395e78}.type-summary{font-size:14px;color:#476451}.placement{border-left:3px solid #6b9b7d;padding-left:15px;color:#55705f}.file{font-size:12px;color:#6d7c70}table{border-collapse:collapse;display:block;overflow-x:auto;max-width:100%;font-size:14px}th,td{border:1px solid #d6ddd2;padding:8px 12px;text-align:left}img{max-width:100%;height:auto;background:white}pre{overflow-x:auto;background:#eef0e8;padding:16px}code{font-family:monospace;font-size:.9em}blockquote{border-left:3px solid #c5d2c1;margin-left:0;padding-left:18px;color:#586a5a}footer{margin-top:44px;font-size:13px;color:#687b6c}@media(max-width:600px){main{padding:28px 16px}.stats{gap:24px}.filelist{grid-template-columns:1fr}.doc{padding:0 16px 20px}.document>summary{padding:14px 16px}table{font-size:12px}}</style><main><header><p class="eyebrow">FINANCIAL FOUNDATION / 2026.11.13</p><h1>三篇文章，制作成可维护的知识。</h1><p class="lead">本页直接展示成品条目正文。一般定义放在对象页，作用过程放在关系页，具体状态、机构判断与图表保存在事件中。工作图副本独立保存，尚未整合main。</p><div class="stats"><div><b>3</b><small>篇材料</small></div><div><b>18</b><small>份新文件</small></div><div><b>6</b><small>份更新文件</small></div></div><p class="type-summary">新增分类：概念 6 · 子概念 2 · 关系 4 · 子关系 0 · 事件分析 3 · 来源记录 3</p><p class="file">操作与类型分别标注；子概念、子关系同时显示父项。类型依据正文元数据，知识依赖与普通关联不计为继承。</p></header><nav><a href="#ai">AI CDS · 新建9 / 更新3</a><a href="#korea">韩国股市 · 新建7 / 更新2</a><a href="#basis">美债基差交易 · 新建2 / 更新1</a><a href="制作说明.md">归属与改动</a><a href="review.md">主审意见</a></nav><section id="ai"><p class="eyebrow">AI CDS</p><h2>AI CDS</h2><div class="filelist"><a href="#doc-0">信用违约互换CDS <small>新建 · 概念</small></a><a href="#doc-1">CDX信用衍生品指数 <small>新建 · 概念</small></a><a href="#doc-2">CDS—现金债基差 <small>新建 · 子概念</small></a><a href="#doc-3">CoreWeave <small>新建 · 概念</small></a><a href="#doc-4">AI相关企业CDS <small>新建 · 子概念</small></a><a href="#doc-5">供应商融资的信用风险传递 <small>新建 · 关系</small></a><a href="#doc-6">CDS—现金债基差的定价与交易 <small>新建 · 关系</small></a><a href="#doc-7">AI融资扩张中的CDS价格分化：2026年10月 <small>新建 · 事件分析</small></a><a href="#doc-8">华尔街见闻：AI融资与CDS价格分化 <small>新建 · 来源记录</small></a><a href="#doc-9">主权信用风险与CDS <small>更新 · 概念</small></a><a href="#doc-10">信用利差 <small>更新 · 概念</small></a><a href="#doc-11">云服务与超大规模云厂商 <small>更新 · 概念</small></a></div><details class="document" id="doc-0" open><summary><span class="tag">新建 · 概念</span><strong>信用违约互换CDS</strong><small>C-S2-CDS</small></summary><div class="doc"><p class="placement">通用CDS跨企业、主权、指数与专题复用，避免把企业专题挂在主权风险之下。</p><p class="file"><a href="graph/10_concepts/信用违约互换CDS.md">打开Markdown原文件</a> · step2_draft</p><h1>信用违约互换CDS</h1>
+<blockquote>
+<p>执笔：<code>/root/produce_ai</code>；2026-11-13制作，工作区待审稿。</p>
+</blockquote>
+<h2>概念定义</h2>
+<p>信用违约互换（credit default swap，CDS）是围绕指定参考实体转移合同信用事件风险的衍生品。保护买方支付保费，保护卖方在符合约定的信用事件发生后承担结算付款。参考实体是信用风险被观察的企业或政府，交易对手是保护合同的买卖双方；三种身份需要分别识别。</p>
+<p>单一名称CDS对应一个参考实体；<a href="#doc-1">CDX信用衍生品指数</a>对应一篮子实体。<a href="#doc-9">主权信用风险与CDS</a>保留政府偿付能力、支付制度及主权合同特征；本页提供企业、主权和专题页共同使用的工具基础。</p>
+<h2>概念详解</h2>
+<h3>买卖双方分别承担什么</h3>
+<p>买方以保费支出换取约定事件后的保护，也承担保护卖方履约和交易安排风险。卖方收取保费，承接参考实体的信用风险；若交易需要保证金，其现金需求会随估值变化。名义本金衡量合同规模，通常并不表示买方在成交日交出同额本金。</p>
+<p>保护覆盖由参考实体、债务顺位、信用事件定义、保护期限、结算币种及可交割义务共同决定。企业CDS与主权CDS的适用条款可能不同，评级下调、股价下跌或一般经营困难并不自动等于合同触发。结算可按约交付合格债务，或根据拍卖／约定价格现金结算；具体触发与付款沿用适用确认书，不能凭“公司陷入危机”的新闻标题判断。</p>
+<h3>报价与支付</h3>
+<p>平价利差以年化基点表示；标准化交易也可以采用固定票息加初始价款。固定票息在约定支付日持续支付，初始价款调整成交时两腿的现值差。预付点数（points upfront）以名义本金的百分比表示：在买方支付的报价方向下，15.5点对应每100名义本金先付15.5，仍要连同后续票息理解。<a href="#doc-8--isda-model">ISDA标准模型说明</a>介绍了这种报价及其标准转换目的。</p>
+<p>利差与upfront之间的转换依赖期限、票息、曲线与回收等输入；二者不能直接相减。价格隐含的风险调整量也需要与<a href="graph/10_concepts/主观概率与风险中性概率.md">主观概率与风险中性概率</a>区分。只看到“15.5点”，无法推出年保费15.5%或违约概率15.5%。</p>
+<p><a id="doc-0--proxy-hedging"></a></p>
+<h3>没有现金债也可能有需要管理的风险</h3>
+<p>持债机构可买保护管理债券信用暴露。放贷银行承担贷款损失，股票投资者承担企业剩余收益变化，也可能使用同一企业或关联企业CDS管理部分风险。参考实体或工具不同，就是代理对冲：企业股价、贷款价值与CDS估值不会完全同步，期限、顺位和结算覆盖也可能不同。保护买方可在违约之前通过合约市值变化获得部分抵销；对冲效果仍须匹配实际敞口。</p>
+<p>每笔交易同时有买方与卖方。未持债买入保护可以表达观点，也可以管理别处已有的风险；仅凭没有债券无法判断其经济动机。<a href="#doc-4">AI相关企业CDS</a>记录了2026年10月文章所讨论的银行与股票基金买盘解释。</p>
+<p><a id="doc-0--measurement"></a></p>
+<h2>观测与数据口径</h2>
+<p>读一条CDS价格，先确定参考实体、保护期限、币种、顺位和合同版本，再区分平价利差、固定票息及upfront；还要知道是成交价、买卖报价还是估值。</p>
+<p>成交量是一定期间完成交易的名义金额，未平仓名义额是某一时点仍存续的规模。新建、平仓、换手和抵销对它们的影响不同。总名义额、净名义额、合约市场价值和最终损失各有含义，未平仓增加本身没有提供净资金流入方向。</p>
+<p>期限曲线比较同一时点、同一参考实体的不同保护期限。本文讨论的3s5s采用五年利差减三年利差；曲线变平既可能与风险期限分布有关，也可能与特定期限对冲需求有关。具体亚马逊／谷歌比较保存在<a href="#doc-7--curve">事件记录</a>。</p>
+<h2>历史与关系入口</h2>
+<p>2026年10月的<a href="#doc-7">AI融资与保护市场观察</a>把通用工具带到具体企业、融资安排和交易需求中。它同时连接<a href="#doc-2">CDS—现金债基差</a>及<a href="#doc-6">保护供求与信用基差定价</a>。主权重组和债务上限历史仍由<a href="#doc-9">主权页</a>维护。</p>
+<h2>来源</h2>
+<p>工具解释复用既有<a href="#doc-9">主权CDS页的合同、结算与测度讨论</a>，新增固定票息说明核读<a href="#doc-8--isda-model">ISDA模型背景</a>。企业情境来自<a href="#doc-8--article">本地文章</a>；未重核每一企业的确认书或信用事件条款。</p>
+</div></details><details class="document" id="doc-1" open><summary><span class="tag">新建 · 概念</span><strong>CDX信用衍生品指数</strong><small>C-S2-CDX</small></summary><div class="doc"><p class="placement">指数有独立合约、组成和换期规则，持续承载组合暴露与主题集中问题。</p><p class="file"><a href="graph/10_concepts/CDX信用衍生品指数.md">打开Markdown原文件</a> · step2_draft</p><h1>CDX信用衍生品指数</h1>
+<blockquote>
+<p>执笔：<code>/root/produce_ai</code>；2026-11-13制作，工作区待审稿。</p>
+</blockquote>
+<h2>概念定义</h2>
+<p>CDX是一组可交易的信用衍生品指数，将一篮子北美企业参考实体的<a href="#doc-0">CDS</a>信用风险组合为一个可交易工具。主要系列包括投资级CDX.NA.IG和高收益CDX.NA.HY；它们分别服务不同评级范围的信用风险交易。其标的是信用保护组合，与股票指数、现金债券指数及跟踪指数的基金分别识别。</p>
+<h2>构成、换期与风险暴露</h2>
+<p>S&amp;P的2026年2月方法书规定，IG由125个流动性较高的投资级实体组成，HY由100个高收益实体组成；实体按等权或近似等权纳入。指数每半年推出新系列，名单按规则调整。因此保存“CDX五年期”时还要说明IG／HY、系列、到期与版本；旧系列与新系列不自动代表同一风险集合。<a href="#doc-8--cdx-method">方法书概览及权重页</a>。</p>
+<p>买保护的一方支付保费并管理组合信用风险，卖保护的一方收取保费并承担约定损失。指数合约把一组风险集中交易，单一名称合约可更精确地针对某一实体；两者的流动性、需求和具体价格可能不同。指数中的实体等权不意味着各实体贡献等量价格风险：其信用状态和价格敏感度仍可不同。</p>
+<p><a id="doc-1--concentration"></a></p>
+<h2>成分占比与风险贡献</h2>
+<p>2026年10月的<a href="#doc-7--index">AI CDS报道</a>转述巴克莱：十个核心AI名称占IG成分的8%，占隐含信用风险的16%。十除以125可以解释成分数量占比；16%则需要另行知道风险度量和聚合方法。报道没有给出这套计算，故只能保存为机构报告中的风险集中度判断，不能解释成16%的违约概率或直接重建组合权重。</p>
+<p>这种比较的研究用途是识别组合内部的主题集中：即使买入的是宽泛信用指数，也可能对少数产业安排有较强暴露。后续若要检验AI风险贡献变化，应固定或解释系列、样本、观测日与风险口径，避免把换期造成的成员变化当成风险状态变化。</p>
+<h2>关联与来源</h2>
+<p><a href="graph/10_concepts/信用评级与迁移.md">信用评级与迁移</a>说明IG／HY分类的含义；<a href="#doc-4">AI相关企业CDS</a>维护本次专题样本及内部分化。</p>
+<p>制度资料采用<a href="#doc-8--cdx-method">S&amp;P官方概览和2026年2月方法书的定义、换期、期限与权重部分</a>。本次未取得报道所指IG／HY具体系列的成分附件，CoreWeave的指数成员身份仍按报道归属。</p>
+</div></details><details class="document" id="doc-2" open><summary><span class="tag">新建 · 子概念</span><strong>CDS—现金债基差</strong><small>C-S2-CDS-CASH-BASIS</small></summary><div class="doc"><p class="parent">母概念：<a href="graph/10_concepts/基差.md">基差</a> · 工具细分类</p><p class="placement">信用工具基差的比较口径独立于现券期货，可跨主题复用。</p><p class="file"><a href="graph/10_concepts/CDS—现金债基差.md">打开Markdown原文件</a> · step2_draft</p><h1>CDS—现金债基差</h1>
+<blockquote>
+<p>执笔：<code>/root/produce_ai</code>；2026-11-13制作，工作区待审稿。</p>
+</blockquote>
+<h2>概念定义</h2>
+<p>CDS—现金债基差比较同一信用参考对象在衍生品保护市场与现金债券市场的定价。本页采用CDS保护利差减匹配现金债信用利差的方向，单位为基点。正基差表示保护报价高于匹配现金债的信用利差，负基差表示相反状态。</p>
+<p>本页是<a href="graph/10_concepts/基差.md">基差</a>的信用工具细分类，继承“相关价格比较须先明确方向、单位、期限及可比性”的原则；美债现券—期货的交割因子、净基差和到期安排不直接适用于这一比较。</p>
+<h2>如何形成可比读数</h2>
+<p>比较需要匹配实体、币种、债务顺位、期限和合同覆盖，并说明现金债使用哪种基准和利差指标。<a href="#doc-10">信用利差</a>介绍收益率差、Z-spread及OAS的区别；不能将不同口径下的两个数字视作完全对称的信用补偿。若CDS以upfront报价，还须先按合同输入转换成可比利差。</p>
+<p>信用风险恶化可能让两种利差一起上升；只有两侧变化幅度不同，基差才随之改变。不同投资者群体、保护供给、债券流动性、融资和借券条件可以改变相对价格。因而正基差同时提供两个信息：两市场的报价存在差额，以及用理论复制关系消除差额可能需要成本和风险。其交易过程见<a href="#doc-6">定价与交易机制</a>。</p>
+<h2>本对象的历史</h2>
+<p>2026年10月报道的图3显示，AI组合基差从约负40bp升至零以上，同期非AI组合仍约负50bp；图7给出不同AI名称的截面差异，英特尔约负14bp，甲骨文24bp、博通28bp、AMD29bp。图表由新闻转引巴克莱／彭博，债券匹配细节和组合权重未取得。它们可支持“样本存在跨工具分化”的观察，不能直接分配对冲需求和基本面变化各自的贡献。<a href="#doc-7--basis">原图及读法</a>。</p>
+<h2>关系与来源</h2>
+<p><a href="#doc-6">CDS—现金债基差的定价与交易</a>解释保护需求、价差交易两腿及融资约束；<a href="#doc-4">AI相关企业CDS</a>维护本次标的群。</p>
+<p>定义、正负基差两腿及中介约束另核读<a href="#doc-8--nyfed-basis">纽约联储作者的2018年研究说明</a>。本次AI观察来自<a href="#doc-8--article">文章与图3、7</a>，未取得同日底层匹配债券数据。</p>
+</div></details><details class="document" id="doc-3" open><summary><span class="tag">新建 · 概念</span><strong>CoreWeave</strong><small>C-S2-COREWEAVE</small></summary><div class="doc"><p class="placement">具体公司需要统一积累经营与信用价格历史，避免只在upfront读数旁出现。</p><p class="file"><a href="graph/10_concepts/CoreWeave.md">打开Markdown原文件</a> · step2_draft</p><h1>CoreWeave</h1>
+<blockquote>
+<p>执笔：<code>/root/produce_ai</code>；2026-11-13制作，工作区待审稿。</p>
+</blockquote>
+<h2>概念定义</h2>
+<p>CoreWeave是一家面向AI工作负载提供云平台的企业。其服务把GPU计算、网络、存储与调度软件组合起来，支持模型训练和推理；其经营对象是计算服务交付，而GPU和数据中心是重要投入。公司2025年10-K的业务说明可与<a href="graph/10_concepts/GPU与AI加速器.md">GPU与AI加速器</a>、<a href="graph/10_concepts/数据中心.md">数据中心</a>、<a href="#doc-11">云服务与超大规模云厂商</a>一起阅读。<a href="#doc-8--coreweave-filing">公司业务说明</a>。</p>
+<h2>经营与融资为何相连</h2>
+<p>购置计算设备和取得机房资源需要先投入资金，服务收入与客户回款随后实现。融资的期限、成本及抵押安排影响公司能够部署多少容量；客户合同质量和设备使用情况影响这些投入能否持续回收。因此，研究CoreWeave时需要把设备、服务合同和资金来源放在同一经营主体下跟踪。</p>
+<p>公司2025年年报同时指出客户集中及资本支出融资需求风险。这里保留其业务与风险识别，不据此补写2026年10月的客户收入占比、债务到期结构或财务比率；本轮未核读能支持这些具体数值的完整财务附注。<a href="#doc-8--coreweave-filing">实读范围</a>。</p>
+<p><a id="doc-3--cds-history"></a></p>
+<h2>2026年10月：信用保护价格与活跃度</h2>
+<p>华尔街见闻10月31日报道把CoreWeave作为高收益组的观察窗口，并称其为CDX高收益指数内唯一直接相关AI名称。这个指数身份保留报道归属，尚未核对应系列成分附件。</p>
+<p>报道图8所示五年期CDS当前报价为15.5点upfront，区间平均6.6点、最高约20点、最低约负2.3点。图线末端低于此前高点，故“报价较高”和“最近继续上涨”须分开描述。按买方支付方向，每100名义本金15.5的初始价款还须与固定票息共同理解；本文没有给出票息，不能自行换成某个基点数。固定票息加upfront是标准化CDS报价安排，单凭采用这种报价不能判定企业已陷困境。<a href="#doc-0">CDS报价基础</a>。</p>
+<p>截至10月23日，文章称周成交量的四周滚动平均从一年前3200万美元升至3.02亿美元，未平仓名义额约8.5亿美元。图9成交量用左轴百万美元，存量用右轴十亿美元，不能将两条线按高度直接比较。交易活跃与存续规模增加提供了市场参与变化的观察，不等于同额现金流入或已发生信用损失。<a href="#doc-7--coreweave">完整图文</a>。</p>
+<p>同期文章提到分析师对其债券维持“超配”，但未列分析师、具体券及目标期限。债券相对价值观点与CDS保护价格可以基于不同工具和目的形成，本次材料不足以判定两者矛盾，也无法评估该建议后续成败。</p>
+<h2>后续研究与关联</h2>
+<p>本对象页持续积累公司的经营、融资和信用价格历史。<a href="#doc-4">AI相关企业CDS</a>将它作为高收益外围对照，与十个投资级名称分开；<a href="#doc-5">供应商融资的信用风险传递</a>提供客户融资依赖的比较框架，尚未据本篇确定CoreWeave每一项具体融资责任。</p>
+<p>后续应将已具名合同和债务条件与对应日期的CDS报价连接，再讨论回款、融资可得性和风险价格如何共同变化。本轮资料没有覆盖10月报价之后的结果。</p>
+<h2>来源</h2>
+<p><a href="#doc-8--coreweave-filing">来源记录</a>区分公司2025年10-K的基础业务说明与2026年10月新闻中的市场观察；前者本次仅补读相关段落。</p>
+</div></details><details class="document" id="doc-4" open><summary><span class="tag">新建 · 子概念</span><strong>AI相关企业CDS</strong><small>C-S2-AI-CDS</small></summary><div class="doc"><p class="parent">母概念：<a href="#doc-0">信用违约互换CDS</a> · 专题集合</p><p class="placement">专题子项集中保存同一研究问题下的标的差异与历史，不复制母项工具定义。</p><p class="file"><a href="graph/10_concepts/AI相关企业CDS.md">打开Markdown原文件</a> · step2_draft</p><h1>AI相关企业CDS</h1>
+<blockquote>
+<p>执笔：<code>/root/produce_ai</code>；2026-11-13制作，工作区待审稿。</p>
+</blockquote>
+<h2>概念定义与继承范围</h2>
+<p>AI相关企业CDS是一组围绕AI融资扩张及其风险联系持续研究的企业信用保护标的。本页以<a href="#doc-0">CDS</a>为工具母项，以AI扩张中的经营和融资联系界定专题范围；它属于专题集合，不是一种具有统一条款的新合约，也不假定所有成员风险相同。</p>
+<p>本页继承CDS的付款、保护、报价及风险测度基础，集中保存成员范围、内部差异与专题历史。具体交易过程分别连接<a href="#doc-5">供应商融资的信用风险传递</a>和<a href="#doc-6">CDS—现金债基差的定价与交易</a>。</p>
+<h2>样本与经营角色</h2>
+<p>2026年10月巴克莱报告的新闻转述包含MSFT、GOOGL、AMZN、META、ORCL、INTC、AMD、NVDA、AVGO和SPCX十个名称。图表所列SPCX在本页保持原标签，未据缩写推定法律参考实体。云厂商与芯片供应商是理解融资角色的分组，实际比较仍须保留具体公司；<a href="#doc-3">CoreWeave</a>作为高收益外围对照，单独保存。</p>
+<p>云厂商通过机房、设备和平台提供服务，支出回收取决于服务交付与客户回款；芯片供应商销售设备，若同时提供贷款或担保，还会形成对客户的信用责任。不同合同决定谁出资、谁偿付和谁承担损失，不能仅按“AI企业”赋予相同风险解释。<a href="#doc-11">经营背景</a>。</p>
+<h2>观测的三个层次</h2>
+<ul>
+<li><strong>企业保护价格</strong>：同时保留期末水平、变化基点及相对涨幅；起点低可以使相对涨幅很大。</li>
+<li><strong>工具与期限差异</strong>：比较匹配现金债基差及同一实体不同期限CDS，定位交易需求与风险期限分布。</li>
+<li><strong>市场参与规模</strong>：区分周成交量、四周滚动平均与未平仓名义额，保留样本、单位和截止日。</li>
+</ul>
+<p>这些观察互相补充。要把保护涨价归因于融资基本面，仍需公司合同和偿付能力证据；要归因于集中对冲，则需买方暴露、交易期限与保护供给证据。</p>
+<p><a id="doc-4--history-202610"></a></p>
+<h2>2026年10月：共同扩张中的风险价格分化</h2>
+<p><a href="#doc-7">10月事件记录</a>保存九张图、报价表和当时判断。主要报价截至10月28日，交易存量部分截至10月23日，转述研报日期10月29日，网页显示10月31日；不能拼为同一时点截面。</p>
+<p>图2显示博通五年CDS从47升至168bp，甲骨文从180升至271bp。博通相对涨幅约258%，但期末报价和绝对增量与甲骨文的排序不同。半年前低报价不阻止后来相对涨幅很大，亦不能从涨幅直接推出最高违约风险。</p>
+<p>十个名称据报道占<a href="#doc-1">CDX</a>投资级成分的8%、隐含风险的16%。这提示指数内主题集中，后一个比例的度量未披露。样本CDS—现金债基差由负转正、成交与未平仓增加，又说明观察需要从企业风险延伸到保护交易的使用者和承接者。</p>
+<p>巴克莱当时据供应商信用责任建议买博通五年保护，据亚马逊相对平坦曲线讨论期限交易，据甲骨文较高基差建议卖出基差。这是三种不同解释对应的三种工具判断，期限条件和风险保存在<a href="#doc-7--views">事件的判断记录</a>，未取得后来结果。</p>
+<h2>研究联系</h2>
+<p><a href="#doc-5">供应商融资的信用风险传递</a>追踪销售与信用责任如何叠加；<a href="#doc-6">信用基差机制</a>追踪保护需求、两腿交易及约束。本页负责同一标的群的连续历史，完整跨对象论述由事件页保存。</p>
+<p>“2008再现”的比较在本篇实际涉及保护需求与跨工具相对价格。要判断系统性危机，还需卖方风险集中、杠杆、抵押与损失传递材料，不能由十个名称的报价变化完成这一推断。</p>
+<h2>来源</h2>
+<p><a href="#doc-8--article">新闻及图表阅读记录</a>。本次新增了指数制度和报价基础核读，新闻中的发行、担保和财报数字仍保留转引归属，未逐一核合同或公司披露。</p>
+</div></details><details class="document" id="doc-5" open><summary><span class="tag">新建 · 关系</span><strong>供应商融资的信用风险传递</strong><small>R-S2-VENDOR-CREDIT</small></summary><div class="doc"><p class="placement">合同信用责任为经营联系增加具体损失路径，值得跨材料复用。</p><p class="file"><a href="graph/20_mechanisms/供应商融资的信用风险传递.md">打开Markdown原文件</a> · step2_draft</p><h1>供应商融资的信用风险传递</h1>
+<blockquote>
+<p>执笔：<code>/root/produce_ai</code>；2026-11-13制作，工作区待审稿。</p>
+</blockquote>
+<h2>概念定义</h2>
+<p>供应商融资的信用风险传递，是供应商通过贷款、担保等安排支持客户采购后，客户的支付能力同时影响供应商未来订单和既有信用责任的过程。其解释重点是销售关系如何附加债权或或有支付义务，以及这组责任何时影响供应商自身的风险价格。</p>
+<h2>概念详解</h2>
+<p>直接贷款使供应商或关联融资主体拥有客户未来偿还的债权；担保是在约定条件触发时承担付款责任；股权投资、商业应收款和融资安排也有各自权利义务。研究一笔交易，应分别追踪设备交付、实际资金提供者、债务人、抵押及追索。采购因此得以发生，并不消除客户未来还款的不确定性。</p>
+<p>本关系承载贷款和担保责任的具体联系。单纯“客户少买设备使供应商少收入”可在经营分析中解释；本页增加了信用暴露的持有人、合同触发和资金缓冲。该过程可以跨行业出现，本次历史材料限于AI融资讨论。</p>
+<p><a id="doc-5--logic-1"></a></p>
+<h2>核心逻辑1：融资支持将未来采购与已有信用责任连接起来</h2>
+<p><strong>关联节点／节点组</strong>：<a href="#doc-11">云服务与超大规模云厂商 C-TECH-03</a>、<a href="graph/10_concepts/GPU与AI加速器.md">GPU与AI加速器 C-TECH-02</a>、<a href="#doc-10">信用利差 C-CREDIT-SPREAD</a>、<a href="#doc-4">AI相关企业CDS C-S2-AI-CDS</a>。供应商、客户和担保人按具体合同识别，不另造泛化主体节点。</p>
+<p><strong>时间段</strong>：一般机制适用于供应商提供信用支持的安排；本次经验观察截至2026年10月，相关合同未取得。</p>
+<p><strong>详细逻辑</strong>：客户当前现金不足时，供应商直接放贷，或为第三方贷款提供担保，可以使采购融资成立。设备订单由此转化为销售，同时供应商持有贷款债权或或有负债。若客户后续销售和融资不足，其下一轮采购可能减少，已有债务的回收也可能恶化；担保责任则依据触发条件及追索安排变成支付。客户越集中，两条渠道越容易对同一冲击共同暴露。</p>
+<p>这类风险是否传到供应商自身融资成本，取决于信用敞口相对资金缓冲的规模、责任顺位及客户违约时的回收。若贷款得到外部无追索转让，或者有足额有效抵押，供应商留下的风险可以较小；若担保存在上限，最大支付也须按上限分析。因此“供应商像贷款机构”提供调查方向，具体损失仍由责任安排决定。</p>
+<p><strong>该逻辑的时间线</strong>：2026年10月31日新闻转述巴克莱认为，芯片商因向客户提供贷款或担保而具有集中贷款账本特征，并举博通为Anthropic芯片交易提供担保的例子。该交易金额据文章为630亿美元，但原合同、担保覆盖和上限未取得，本页不把交易总额当成担保风险额。图2显示博通47→168bp、AMD43→121bp、NVIDIA46→125bp；这些报价变化与该解释同时出现，尚不足以识别融资责任的因果贡献。<a href="#doc-7--financing">事件图表与归属</a>。</p>
+<p><strong>该逻辑的预期</strong>：巴克莱在10月29日报告中据此提出买入博通五年CDS保护，作为对广泛AI融资压力的对冲。文章没有给出持有期、止盈水平或后来结果。“五年”是保护期限，不等于策略一定持有五年。</p>
+<p>本库于2026-11-13基于当时材料作条件推演：若随后几个季度客户回款和再融资转弱、而供应商信用责任扩大，订单下修与债权风险可能共同推高其融资压力；若合同回款、抵押与独立资金来源改善，风险传递会减弱。博通与其他供应商的相对报价应结合实际责任变化研究，不能只凭产业标签外推。</p>
+<h2>来源与覆盖</h2>
+<p><a href="#doc-8--article">新闻全文、图2及未核合同范围</a>。通用合同过程是本库对贷款、担保与经营现金流的解释；具体博通安排和机构判断均保留新闻转述归属。当前没有足够材料把该关系写成已经完成的行业违约链。</p>
+</div></details><details class="document" id="doc-6" open><summary><span class="tag">新建 · 关系</span><strong>CDS—现金债基差的定价与交易</strong><small>R-S2-CDS-BASIS</small></summary><div class="doc"><p class="placement">跨工具需求、两腿信用风险和中介约束需要独立于现券期货交割机制解释。</p><p class="file"><a href="graph/20_mechanisms/CDS—现金债基差的定价与交易.md">打开Markdown原文件</a> · step2_draft</p><h1>CDS—现金债基差的定价与交易</h1>
+<blockquote>
+<p>执笔：<code>/root/produce_ai</code>；2026-11-13制作，工作区待审稿。</p>
+</blockquote>
+<h2>概念定义</h2>
+<p>CDS—现金债基差的定价与交易解释：同一信用对象在保护市场和债券市场的参与需求如何形成不同报价，价差交易者如何连接两种工具，以及借券、融资与风险匹配为何使差额持续。本页采用<a href="#doc-2">CDS—现金债基差</a>的CDS利差减现金债利差口径。</p>
+<h2>概念详解</h2>
+<p>企业信用状态变化可以同时进入两种价格，但两市场的持有者、付款安排和风险额度不同。贷款银行或股票基金增加保护需求时，未必同步卖出相同现金债；卖保护者需承担合约赔付和交易期间的估值、保证金压力。价差交易把两侧的相对价格联系起来，能否持续持有则取决于具体交易安排。</p>
+<p>本关系与<a href="#doc-21">基差交易</a>有共同的中介约束问题；其两腿和信用事件覆盖不同，因此没有把现券—期货的交割收敛过程设为本关系的母机制。</p>
+<p><a id="doc-6--logic-1"></a></p>
+<h2>核心逻辑1：集中保护需求与有限承接改变跨工具相对价格</h2>
+<p><strong>关联节点／节点组</strong>：<a href="#doc-0">信用违约互换CDS C-S2-CDS</a>、<a href="#doc-2">CDS—现金债基差 C-S2-CDS-CASH-BASIS</a>、<a href="#doc-10">信用利差 C-CREDIT-SPREAD</a>。</p>
+<p><strong>时间段</strong>：机制适用于现金债与保护交易需求不同步的时期；本次观察为2025年10月至2026年10月图示区间。</p>
+<p><strong>详细逻辑</strong>：保护买方增加订单时，愿意承接信用风险的卖方会根据预期损失、风险容量和资金成本调整报价。若新增买方主要管理贷款或股票暴露，现金债需求可能没有同幅度变化，于是CDS相对债券利差走高。另一方面，发行和债券出售也可能推高现金债利差；最终基差取决于两侧相对变化，不能仅从保护市场的订单方向确定。</p>
+<p>较高正基差吸引卖保护、卖空债券的组合交易，给保护市场增加供给，也给债券市场增加卖压。这些订单倾向于缩小两种利差的差额，但借券、成本及风险不匹配会限制规模。企业本身信用恶化与集中对冲需求可以同时存在，需要分别寻找合同与持仓证据。</p>
+<p><strong>该逻辑的时间线</strong>：文章图3显示AI样本的基差一年内约上升50bp并转正，非AI仍负；图4的周成交四周平均及图5未平仓增加。新闻转述彭博将其解释为股票基金和银行的保护买盘。图中没有买方身份、单笔动机或卖方容量，本轮据此保留这一解释并明确待识别部分。<a href="#doc-7--basis">原图与规模口径</a>。</p>
+<p><strong>该逻辑的预期</strong>：本库2026-11-13据当时状态推演：若接下来数周至数月保护需求继续集中且卖方承接受限，正基差可能持续；若保护承接增加，或现金债利差在融资压力下补涨，基差可收窄。后者可能伴随整体信用状况恶化，故“基差收窄”本身不代表企业改善。本次没有取得相应后续报价来判断哪条路径实现。</p>
+<p><a id="doc-6--logic-2"></a></p>
+<h2>核心逻辑2：两腿对冲留下借券、资金和合同覆盖风险</h2>
+<p><strong>关联节点／节点组</strong>：<a href="#doc-2">CDS—现金债基差 C-S2-CDS-CASH-BASIS</a>、<a href="graph/10_concepts/融资融券与借券成本.md">融资融券与借券成本 C-FLOW-09</a>、<a href="graph/10_concepts/融资流动性.md">融资流动性 C-LIQ-FUND</a>、<a href="graph/10_concepts/保证金与追加保证金.md">保证金与追加保证金 C-DERIV-14</a>。</p>
+<p><strong>时间段</strong>：一般两腿关系；历史采用2018年纽约联储作者说明与2026年10月甲骨文判断，各自保留日期。</p>
+<p><strong>详细逻辑</strong>：在正基差下，卖出CDS保护承接信用风险，卖空现金债减少相应信用暴露；在两腿利差敏感度相配的近似下，基差收窄倾向于带来相对价值收益。债券做空要取得券源并支付相关费用，保护腿可能需要资金支持估值变化和保证金。如果原来只是卖掉已持有债券，减少的是原有多头，须从整个组合判断是否形成相同空头。</p>
+<p>负基差的相反组合是买现金债并买保护，债券可能以回购融资；其持有收益还受回购利息、抵押品折扣和保护成本影响。两种组合都不能仅把起始基差乘名义本金当作确定利润：期限、顺位、可交割义务及违约结算差异会留下风险，价差还可能在持有中继续扩大。纽约联储作者的2018年研究说明具体展示了融资及中介资本成本如何改变这些交易的可行性；该历史分析没有替代2026年的监管规则核对。<a href="#doc-8--nyfed-basis">研究入口</a>。</p>
+<p><strong>该逻辑的时间线</strong>：2026年10月文章图7列甲骨文当前基差24bp，处于自身一年区间较高位置；巴克莱建议卖出2032年到期现金债、同时卖出五年CDS保护。两工具日期并不完全相同，文章没有提供券号、对冲比例、借券费或融资条件；图中24bp也不是扣费后的组合收益率。<a href="#doc-7--views">交易判断记录</a>。</p>
+<p><strong>该逻辑的预期</strong>：巴克莱当时预期甲骨文基差收敛，但报道未给出收敛目标或期限。本库据当时信息的条件推演是：若保护报价相对回落或现金债利差相对上升，两腿组合可能受益；若借券成本上升、融资中断或基差先扩大，持仓可能在收敛前亏损退出。上述方向是交易结构解释，尚无该组合的真实成交或后续表现记录。</p>
+<h2>来源与覆盖</h2>
+<p><a href="#doc-8--article">新闻图3—7及机构判断</a>与<a href="#doc-8--nyfed-basis">纽约联储2018年作者说明</a>。本轮未取得巴克莱原始完整研报、匹配债券数据或交易订单，保护供求解释仍需相应证据。</p>
+</div></details><details class="document" id="doc-7" open><summary><span class="tag">新建 · 事件分析</span><strong>AI融资扩张中的CDS价格分化：2026年10月</strong><small>E-WS-3784900</small></summary><div class="doc"><p class="placement">跨企业、工具、期限及九图形成完整同期分析单元。</p><p class="file"><a href="graph/30_events/AI融资扩张中的CDS价格分化：2026年10月.md">打开Markdown原文件</a> · step2_draft</p><h1>AI融资扩张中的CDS价格分化：2026年10月</h1>
+<blockquote>
+<p>执笔：<code>/root/produce_ai</code>；2026-11-13制作，工作区待审稿。</p>
+</blockquote>
+<p>页面署名鲍奕龙，显示时间2026-10-31 13:41:38（UTC+8）；正文转述巴克莱10月29日研究。主要报价截至10月28日，部分成交／存续数据截至10月23日；本记录于2026-11-13整理。<a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md">本地完整原文</a> · <a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.html">离线HTML</a>。</p>
+<p>文章要解释的变化是：AI扩张中的不同企业信用保护价格普遍升高，却在实体、工具和期限之间表现不同。理解它需要同时看<a href="#doc-0">CDS合同</a>、经营融资责任和保护交易需求。以下保留文章自身的比较顺序，并将观察、机构解释和本库分析分别交代。</p>
+<p><a id="doc-7--index"></a></p>
+<h2>共同主题中的不同保护价格</h2>
+<p>报道转述巴克莱称，十个核心AI名称占CDX投资级成分8%、隐含信用风险16%。<a href="#doc-1">CDX</a>的等权成分数量与风险贡献属于不同度量，原文未披露后者算法。本记录不将16%改写为违约概率，也不推导精确组合风险权重。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_001.png" alt="图1：当前五年CDS与六个月区间，虚线右侧SPCX和ORCL使用右轴" /></p>
+<p>图1来源Barclays Research，注释为截至10月28日且历史经过换期调整；SPCX、ORCL按右轴读取，不能根据柱高直接同左轴名称比较。图2提供同一主题的起点和期末读数，更适合比较变化。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_002.png" alt="图2：六个月前与10月28日五年CDS，单位bp" /></p>
+<table>
+<thead>
+<tr>
+<th>图示名称</th>
+<th style="text-align:right">六个月前bp</th>
+<th style="text-align:right">10月28日bp</th>
+<th style="text-align:right">增加bp</th>
+<th style="text-align:right">图示相对涨幅</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>MSFT</td>
+<td style="text-align:right">44</td>
+<td style="text-align:right">53</td>
+<td style="text-align:right">9</td>
+<td style="text-align:right">20%</td>
+</tr>
+<tr>
+<td>AMZN</td>
+<td style="text-align:right">56</td>
+<td style="text-align:right">81</td>
+<td style="text-align:right">25</td>
+<td style="text-align:right">44%</td>
+</tr>
+<tr>
+<td>ORCL</td>
+<td style="text-align:right">180</td>
+<td style="text-align:right">271</td>
+<td style="text-align:right">91</td>
+<td style="text-align:right">51%</td>
+</tr>
+<tr>
+<td>META</td>
+<td style="text-align:right">75</td>
+<td style="text-align:right">114</td>
+<td style="text-align:right">39</td>
+<td style="text-align:right">52%</td>
+</tr>
+<tr>
+<td>GOOGL</td>
+<td style="text-align:right">51</td>
+<td style="text-align:right">80</td>
+<td style="text-align:right">29</td>
+<td style="text-align:right">56%</td>
+</tr>
+<tr>
+<td>INTC</td>
+<td style="text-align:right">64</td>
+<td style="text-align:right">104</td>
+<td style="text-align:right">40</td>
+<td style="text-align:right">63%</td>
+</tr>
+<tr>
+<td>SPCX</td>
+<td style="text-align:right">117</td>
+<td style="text-align:right">244</td>
+<td style="text-align:right">127</td>
+<td style="text-align:right">109%</td>
+</tr>
+<tr>
+<td>NVDA</td>
+<td style="text-align:right">46</td>
+<td style="text-align:right">125</td>
+<td style="text-align:right">79</td>
+<td style="text-align:right">172%</td>
+</tr>
+<tr>
+<td>AMD</td>
+<td style="text-align:right">43</td>
+<td style="text-align:right">121</td>
+<td style="text-align:right">78</td>
+<td style="text-align:right">177%</td>
+</tr>
+<tr>
+<td>AVGO</td>
+<td style="text-align:right">47</td>
+<td style="text-align:right">168</td>
+<td style="text-align:right">121</td>
+<td style="text-align:right">258%</td>
+</tr>
+</tbody>
+</table>
+<p>表中水平与百分比均照图转录；“增加bp”为本库据显示整数相减，四舍五入会使重算百分比略有差异。图注指出SPCX从6月23日开始交易，该成员的“六个月前”比较不与其他成员完全同长，法律参考实体本次未核实。</p>
+<p>博通相对涨幅最大，甲骨文期末报价最高，SPCX绝对增加最多。三种排序各回答不同问题。低起点会放大百分比，故涨幅最大不能直接解释为最高真实违约概率。</p>
+<p><a id="doc-7--financing"></a></p>
+<h2>供应商为什么进入融资风险讨论</h2>
+<p>巴克莱的解释是，芯片供应商向客户提供贷款或担保后，经营角色中加入了集中信用暴露：客户资金不足既可能减少以后采购，也可能降低既有债权回收或触发担保责任。<a href="#doc-5">完整过程</a>。</p>
+<p>文章举博通为Anthropic的630亿美元芯片交易提供担保，并转述微软逾250亿美元发债、亚马逊单季度新增逾480亿美元长期债务及博通拟于次年初融资最高210亿美元。这些数字保留为报道转引，本轮未逐份核公司公告和合同；其中采购总金额不能直接当担保上限，新增债务、发行计划和已完成发行也不能相加成统一AI融资总额。</p>
+<p>融资责任的增加可以改变基本面风险，特定机构选择用CDS对冲又可改变保护市场供求。价格同时反映两条路径的可能性，当前材料没有足够持仓和责任数据分配各自贡献。</p>
+<p><a id="doc-7--basis"></a></p>
+<h2>保护与现金债出现分化</h2>
+<p>报道称，AI样本CDS—现金债基差过去一年约上升50bp并转正，非AI样本仍为负。本文采用CDS利差减匹配现金债利差，具体匹配规则未取得。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_003.png" alt="图3：AI与非AI样本CDS—现金债基差，横轴2025年10月至2026年10月" /></p>
+<p>图中AI从约负40bp升至零以上，非AI期末约负50bp。基本面信用风险增加可以同时抬高两侧利差，额外的保护需求则可能让CDS相对更贵。新闻转述彭博认为银行和股票基金买保护对冲AI资本投入及贷款暴露；未持现金债仍可能有贷款、股票等相关风险，不宜直接把所有交易归为无风险暴露的投机。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_004.png" alt="图4：周成交量的四周滚动平均，单位十亿美元" /></p>
+<p>截至10月23日，文章称云厂商周成交量的四周平均约60亿美元，同比增约740%；半导体约30亿美元，同比增约1900%。图线在截止日前出现更高峰值，期末读数与区间峰值须分开。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_005.png" alt="图5：AI样本未平仓规模，单位十亿美元，数据截至10月23日" /></p>
+<p>文章称云厂商未平仓从约50亿美元升至200亿美元、半导体从约19亿美元升至86亿美元；总规模从约70亿美元至280亿美元以上，并称占美洲企业单一名称CDS未平仓近14%、一年前约4%。原文把50→200写为“翻倍”，与其列数不符，本记录保留起止值；此外，文章称“净未平仓”，图题未说明净／总算法，应以转引口径阅读，尚不能复原净额。</p>
+<p>成交是期间流量，未平仓是存续合约规模，图5的增加并不独立证明“资金持续流入”。每笔CDS同时有买卖双方，名义规模也不等于保费、保证金或信用损失。</p>
+<p><a id="doc-7--curve"></a></p>
+<h2>相近五年报价下，亚马逊的较短期价格更高</h2>
+<p>亚马逊与谷歌五年CDS分别约81、80bp，但图6五年减三年的3s5s分别18、27bp。按这组整数相减，三年分别约63、53bp，这是本库依图的算术，不是额外行情。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_006.png" alt="图6：3s5s绝对基点及占五年利差百分比，分别读取左右轴" /></p>
+<p>在五年报价接近时，亚马逊较平的曲线意味着其三年保护相对更贵。巴克莱把这一差异与6月定期贷款产生的保护买盘联系起来。该解释需要贷款风险期限、实际保护买盘和参考实体匹配；同样形状也可与不同的信用风险期限分布相容，因此先保存比较事实和有归属的解释。</p>
+<p>文章另称亚马逊第三季自由现金流消耗335亿美元、资本支出773亿美元，并将其视为对冲必要性的印证。本轮没有核其财报窗口与计算口径，不能把该组数字与旧云服务页不同期间的集团／分部指标直接拼接，亦不能据现金流为负独立验证某笔CDS对冲效果。</p>
+<p><a id="doc-7--views"></a></p>
+<h2>当时的三种交易判断</h2>
+<table>
+<thead>
+<tr>
+<th>判断归属</th>
+<th>当时观察及解释</th>
+<th>报道中的交易表达</th>
+<th>保存边界</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>巴克莱，10月29日研报</td>
+<td>博通供应商融资和担保带来客户信用责任</td>
+<td>买入博通五年CDS保护，管理广泛AI融资压力</td>
+<td>五年是保护期限；报道未给持有期或损失目标</td>
+</tr>
+<tr>
+<td>巴克莱，10月29日研报</td>
+<td>亚马逊3s5s相对较平，怀疑贷款对冲买盘</td>
+<td>买入五年保护或构建陡峭化组合</td>
+<td>未披露组合两腿比例、实现期限与完整论证</td>
+</tr>
+<tr>
+<td>巴克莱，10月29日研报</td>
+<td>甲骨文正基差处于自身区间较高位置</td>
+<td>卖2032年到期债券，同时卖五年CDS保护，预期基差收敛</td>
+<td>未给券号、借券、对冲比例、费用或收敛目标</td>
+</tr>
+</tbody>
+</table>
+<p><img src="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_007.png" alt="图7：各名称当前CDS—现金债基差及一年区间，单位bp" /></p>
+<p>图7的当前值依次为INTC −14、SPCX 1、GOOGL 2、AMZN 3、MSFT 6、META 13、NVDA 15、ORCL 24、AVGO 28、AMD 29bp；NVIDIA和SPCX的一年区间实际只分别始于2026年6月15日与6月23日，不能当成同长度历史分布。</p>
+<p>英特尔是该图唯一负基差名称。文章把它与较少参与供应商融资联系，并提到疲弱业绩指引和历史性股价跌幅。单一反例尚不能完成因果识别，本轮也未核对应股价事件日期，故不把它拼成10月28日同日事实。</p>
+<p>卖保护意味着承接信用风险，卖债可能抵销部分敞口。具体组合及资金路径见<a href="#doc-6--logic-2">信用基差定价与交易</a>。以上为报道保存的机构判断，没有对应成交及后续收益记录。</p>
+<p><a id="doc-7--coreweave"></a></p>
+<h2>高收益外围观察：CoreWeave</h2>
+<p>文章将CoreWeave作为高收益市场的AI观察窗口。它提供AI云计算服务，经营与融资背景由<a href="#doc-3">公司对象页</a>维护，避免把公司身份缩减为一个高CDS报价。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_008.png" alt="图8：CoreWeave五年CDS的预付点数，当前15.5、平均6.6、区间约−2.3至20.0" /></p>
+<p>当前15.5点低于此前约20点高位。固定票息加upfront是标准报价形式，其使用本身不证明受困；原文未列票息，不能把15.5点当年保费或直接改成违约概率。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_009.png" alt="图9：CoreWeave未平仓右轴十亿美元、周成交四周平均左轴百万美元，截至10月23日" /></p>
+<p>报道称周成交四周平均从一年前3200万美元升至3.02亿美元，未平仓约8.5亿美元。有分析师仍维持债券超配，但正文未给姓名、券种与期限。两种工具可以基于不同风险和相对价值判断形成价格，本材料尚不足以裁定哪一市场判断正确。</p>
+<h2>这组观察如何继续积累</h2>
+<p>本库于2026-11-13据上述信息形成的研究判断是：先跟踪企业实际信用责任，再看保护买方的风险来源与期限，最后比较现金债、单名CDS和指数的相对价格。若后续合同显示只有少数企业承担显著担保，应收窄行业解释；若保护需求转弱但现金债利差补涨，基差收窄也可能伴随信用恶化。</p>
+<p>“2008再现”的标题提供历史类比，本文直接证据主要覆盖保护交易需求及相对价格。保护卖方风险集中、杠杆、抵押与系统损失传递尚未展开，不在此据标题推出危机重演。没有后续结果材料，以上机构判断保持在当时信息边界内。</p>
+<h2>连接</h2>
+<p><a href="#doc-4">AI相关企业CDS</a>为专题持续入口；<a href="#doc-5">供应商融资机制</a>和<a href="#doc-6">信用基差机制</a>承载可复用过程；<a href="#doc-8">来源与核读范围</a>保留原文及补充资料。</p>
+</div></details><details class="document" id="doc-8" open><summary><span class="tag">新建 · 来源记录</span><strong>华尔街见闻：AI融资与CDS价格分化</strong><small>S-WS-3784900</small></summary><div class="doc"><p class="placement">记录一篇新闻及定向制度补读的来源、范围和采用位置。</p><p class="file"><a href="graph/40_sources/S-WS-3784900.md">打开Markdown原文件</a> · step2_draft</p><h1>华尔街见闻：AI融资与CDS价格分化</h1>
+<blockquote>
+<p>执笔：<code>/root/produce_ai</code>；2026-11-13制作，工作区待审稿。</p>
+</blockquote>
+<p><a id="doc-8--article"></a></p>
+<h2>原文章与图表</h2>
+<p>《2008再现！一文读懂华尔街最热门交易：AI CDS》，页面署名鲍奕龙，显示时间2026-10-31 13:41:38（UTC+8），<a href="https://wallstreetcn.com/articles/3784900">平台原文</a>。本地2026-11-04取得，2026-11-13本轮通读正文与全部9图。<a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md">Markdown正文</a> · <a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.html">离线HTML</a> · <a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/metadata.json">采集元数据</a>。正文转述巴克莱10月29日研究，未取得原始完整研报及彭博原报道。</p>
+<table>
+<thead>
+<tr>
+<th>本地图号／原研报图号</th>
+<th>主要内容</th>
+<th>原图</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1／Figure 2</td>
+<td>六个月区间；SPCX与ORCL右轴</td>
+<td><a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_001.png">图1</a></td>
+</tr>
+<tr>
+<td>2／改制对比图</td>
+<td>五年CDS六个月前与10月28日水平、相对变化；SPCX短历史</td>
+<td><a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_002.png">图2</a></td>
+</tr>
+<tr>
+<td>3／Figure 4</td>
+<td>AI与非AI信用基差</td>
+<td><a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_003.png">图3</a></td>
+</tr>
+<tr>
+<td>4／Figure 5</td>
+<td>周成交四周滚动平均，十亿美元</td>
+<td><a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_004.png">图4</a></td>
+</tr>
+<tr>
+<td>5／Figure 7</td>
+<td>未平仓规模，截至10月23日</td>
+<td><a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_005.png">图5</a></td>
+</tr>
+<tr>
+<td>6／Figure 12</td>
+<td>3s5s基点与相对五年比例</td>
+<td><a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_006.png">图6</a></td>
+</tr>
+<tr>
+<td>7／Figure 15</td>
+<td>匹配信用基差与不同长度区间</td>
+<td><a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_007.png">图7</a></td>
+</tr>
+<tr>
+<td>8／Figure 18</td>
+<td>CoreWeave upfront</td>
+<td><a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_008.png">图8</a></td>
+</tr>
+<tr>
+<td>9／Figure 21</td>
+<td>CoreWeave成交与存量双轴</td>
+<td><a href="../../materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_009.png">图9</a></td>
+</tr>
+</tbody>
+</table>
+<p>图中涉及的行情按原图转录或约读，未重取底层行情。企业发债、担保、贷款、季度现金流和股价记录没有逐份核原公告，正文均保留新闻转述归属。50→200亿美元与“翻倍”不符；未平仓增长也不能直接解释为资金净流入。具体数据与分析集中在<a href="#doc-7">事件正文</a>。</p>
+<p><a id="doc-8--cdx-method"></a></p>
+<h2>指数制度补读</h2>
+<p>S&amp;P Dow Jones Indices，<a href="https://www.spglobal.com/spdji/en/index-family/fixed-income/tradables/cdx-north-america/">CDX North America官方概览</a>；<a href="https://www.spglobal.com/spdji/en/documents/methodologies/sp-cdx-hy-ig-index-rules.pdf">S&amp;P CDX HY &amp; IG Index Rules</a>，文件封面2026年2月。2026-11-13核读概览和方法书印刷3—5页／PDF4—6页的指数定义、换期、期限、权重与评级说明。确认IG125、HY100及等权／近似等权的规则背景，未通读全部筛选排除规则，未取得新闻对应系列成分附件。进入<a href="#doc-1">CDX对象页</a>。</p>
+<p><a id="doc-8--isda-model"></a></p>
+<h2>报价基础补读</h2>
+<p><a href="https://www.cdsmodel.com/">ISDA CDS Standard Model</a>，2026-11-13核读首页Background中固定票息、upfront及标准化互相转换的说明。未运行代码、未获取CoreWeave票息或拟合其曲线。用于<a href="#doc-0">通用CDS</a>及<a href="#doc-3--cds-history">CoreWeave报价辨析</a>。</p>
+<p><a id="doc-8--nyfed-basis"></a></p>
+<h2>信用基差机制补读</h2>
+<p>Nina Boyarchenko、Thomas M. Eisenbach、Pooja Gupta、Or Shachar、Peter Van Tassel，<a href="https://libertystreeteconomics.newyorkfed.org/2018/10/bank-intermediated-arbitrage/">Bank-Intermediated Arbitrage</a>，纽约联储Liberty Street Economics，2018-10-18。2026-11-13核读正文Basis Trades and their Regulation至Why Don’t Nonbank Arbitrageurs Step In：正负基差两腿、回购与保证金资金成本及中介约束；未复现论文估计，也未把2018监管描述更新成2026现行规则。进入<a href="#doc-2">信用基差对象</a>及<a href="#doc-6">定价与交易机制</a>。</p>
+<p><a id="doc-8--coreweave-filing"></a></p>
+<h2>CoreWeave身份补读</h2>
+<p>CoreWeave，<a href="https://www.sec.gov/Archives/edgar/data/1769628/000176962826000104/crwv-20251231.htm">2025年Form 10-K</a>，2026年3月披露。2026-11-13核读Item 1 Business—Overview及Risk Factors中客户集中、资本支出和融资需求的相关段落（在线文本约207—214、421—425、606—619行）；仅用于<a href="#doc-3">CoreWeave对象页</a>的基础业务与风险识别，没有完整审阅财务附注或使用后来11月季度结果解释10月价格。</p>
+<h2>本轮组织</h2>
+<p>通用工具由<a href="#doc-0">CDS</a>承载，指数由<a href="#doc-1">CDX</a>承载，<a href="#doc-4">AI相关企业CDS</a>维护专题范围与连续历史。合同责任传递、跨工具价差过程分别建立关系；完整同期论述和九图在事件中保存，旧条目只补相应入口和必要增量。</p>
+</div></details><details class="document" id="doc-9" open><summary><span class="tag">更新 · 概念</span><strong>主权信用风险与CDS</strong><small>C-FISCAL-14</small></summary><div class="doc"><p class="placement">增加通用CDS及企业专题入口；保留主权定义、既有详解及历史。</p><p class="file"><a href="graph/10_concepts/主权信用风险与CDS.md">打开Markdown原文件</a> · step1_reviewed</p><h1>主权信用风险与CDS</h1>
+<blockquote>
+<p>执笔：<code>/root/full_b006</code>，GPT-6-Astra，medium；制作日2026-10-28。重组资料截止2025-03-28；美国CDS历史采用2023年10月研究，未取得2026年可复核报价。本页的定价示例均为假设，不代表任何国家实时违约概率。</p>
+</blockquote>
+<blockquote>
+<p>本次编辑：<code>/root/step1_t2_maker</code>，2026-11-03；依据T2第6版整合T2-U07-B，本次增量已审。</p>
+</blockquote>
+<h2>概念定义</h2>
+<p>主权信用风险是政府未能按债务合同的币种、金额、期限和其他条款履行偿付义务所带来的损失风险。它包括付款延误、停止偿付和债务重组等情形，既受财政资源和外汇融资能力影响，也受政治意愿、法律权限与支付安排影响。主权CDS（credit default swap，信用违约掉期）则是围绕指定主权参考实体、按约定信用事件转移风险的衍生品：保护买方支付保费，保护卖方在符合条款的事件后按合同结算。<a href="#doc-9--S-C-FISCAL-14-01">S-C-FISCAL-14-01</a>、<a href="#doc-9--S-C-FISCAL-14-02">S-C-FISCAL-14-02</a></p>
+<p>主权信用风险比一笔CDS覆盖的范围更广。货币贬值和通胀可以降低债券的实际购买力，却未必构成合同信用事件；评级下调也不自动触发赔付。反过来，一次最终补付的技术性延误仍可能符合CDS条款。读“某国CDS上涨”之前，必须先识别合约期限、计价／结算币种、条款版本和可交割债务。</p>
+<h2>概念详解</h2>
+<h3>偿付能力、偿付意愿和当期支付能力</h3>
+<p>税收、国有资产收入及可持续借款构成政府的偿付资源。长期收入足以覆盖债务，并不保证某一天有足够指定币种现金；债务集中到期、外汇储备受限或法定借款权限中断，都可能形成流动性问题。相反，即使短期有现金，政府也可能因政治成本、债权人谈判或国内分配冲突而选择重组。</p>
+<p>本币债可由本国货币体系提供流动性支持，但偿付仍受法律和制度约束；“能够发行本币”不是“任何部门都可以无条件付款”。外币债必须以外汇偿还，本币贬值会增加以本币收入衡量的负担。货币联盟成员和不能自由使用储备资产的政府，还面临不同的政策边界。因而比较主权风险应同时保留债务币种、适用法、债权人及期限，不能仅按国家名称聚合。</p>
+<p>重组并不限于本金打折。降低票息、延长到期、改变偿付顺序也可能降低债权价值。名义本金减记率与经济现值损失是两个数：若本金100不变，但从一年后偿还改为十年后偿还且票息下降，债权现值仍可能显著下降。现值损失还依赖使用什么退出收益率贴现，不能把报告中的本金削减直接改名为“回收损失”。</p>
+<h3>一笔主权CDS究竟保护什么</h3>
+<table>
+<thead>
+<tr>
+<th>合同字段</th>
+<th>经济含义与核读问题</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>参考实体与参考义务</td>
+<td>被观察的主权是谁，合同是否覆盖其直接债务或特定担保；并不等于买方手中任意债券都被逐笔承保</td>
+</tr>
+<tr>
+<td>名义本金与终止日</td>
+<td>决定保护规模和期限；一年期保护不能自动对冲五年内的所有事件</td>
+</tr>
+<tr>
+<td>保费、标准票息与 upfront</td>
+<td>报价可能是平价利差，也可能是固定票息加初始价款；须换成一致现值才能比较</td>
+</tr>
+<tr>
+<td>信用事件与定义版本</td>
+<td>核对2014或其他定义、重组条款及补充协议；未付款、拒付／延期和重组各有条件</td>
+</tr>
+<tr>
+<td>债务币种与CDS结算币种</td>
+<td>底层美元债与欧元结算CDS并不是同一币种敞口；外汇跳跃会进入价格</td>
+</tr>
+<tr>
+<td>可交割义务与结算方式</td>
+<td>哪些债可用于结算、是否使用拍卖、有无后备安排；决定事件后的合同现金流</td>
+</tr>
+<tr>
+<td>对手方、抵押与保证金</td>
+<td>主权风险被转移给卖方，不是消失；压力下卖方履约与现金需求仍须分析</td>
+</tr>
+</tbody>
+</table>
+<p>ISDA 2014定义的“未付款”要求经过适用宽限期，并达到合同支付门槛；“重组”涉及对债权人有约束力的票息、本金、期限、顺位或有关币种改变，并有技术调整等例外。不能从一则“展期谈判”报道直接认定触发。是否发生信用事件和怎样结算，要按适用合同、事实及有关决定流程判断。<a href="#doc-9--S-C-FISCAL-14-01">S-C-FISCAL-14-01</a></p>
+<p>CDS通常不要求保护买方始终持有等额参考债券。它可以用于对冲债券，也可用于交易信用观点、管理信用估值调整或资本需求。这使报价既反映参考实体风险，也反映交易需求与中介约束。总名义额更不能等同于净风险：同一风险可在多家机构之间转移并产生多笔合约，抵销后的净额、市场价值和实际赔付各有含义。</p>
+<h3>信用事件后的“回收”是怎样变成现金的</h3>
+<p>实物结算时，买方按约交付合格债务，卖方支付约定金额；现金或拍卖结算时，以约定估值／拍卖价格计算差额。对参考价格为100%的典型拍卖合同，简化为：</p>
+<p>[
+\text{保护支付}=N\max(1-R_A,0).
+]</p>
+<p>(N)为合同结算币种的名义本金，(R_A)为拍卖最终价格相对面值的比例；尚需单独处理应计保费和合同细节。这个(R_A)不是政府未来几十年最终偿付总额的统计回收率，也不是买方某一只债的买入价格。<a href="#doc-9--S-C-FISCAL-14-01">S-C-FISCAL-14-01</a></p>
+<p>可交割集合的重要性在于，保护买方有动机交付相对便宜的合格债。拍卖价格还受可取得数量和买卖订单影响，未必精确等于某一只最低报价债券。不同票息和期限的债，即使同一发行人、同一次违约，价格也可能不同。利率上升压低低票息长债价格时，CDS在事件发生后的潜在支付可以增加，即使当期财政违约概率未同比增加。<a href="#doc-9--S-C-FISCAL-14-02">S-C-FISCAL-14-02</a></p>
+<h3>利差、违约强度与风险中性概率</h3>
+<p>CDS的公平价格令保费腿现值与保护腿现值相等。为显示量纲，假设保费连续支付、贴现率(r)恒定、风险中性违约强度(\lambda^Q)恒定、回收比例(R)确定，忽略交易、融资、对手方和外汇风险，则每单位本金的平价年化利差满足：</p>
+<p>[
+s\int_0^T e^{-(r+\lambda^Q)t},dt
+=(1-R)\lambda^Q\int_0^T e^{-(r+\lambda^Q)t},dt,
+\qquad s=(1-R)\lambda^Q.
+]</p>
+<p>因此(\lambda^Q=s/(1-R))，而(T)年累计风险中性违约概率为
+[
+Q(\tau\leq T)=1-e^{-\lambda^Q T}.
+]</p>
+<p>(s)用年化小数表示，100bp等于0.01；(\lambda^Q)的单位是每年，(T)用年，(R)是无量纲比例。现实合同按季度支付并处理事件时应计保费，违约强度及回收也非恒定，应对整条期限曲线逐期定价；芝加哥联储的附录给出一年期分季度版本。<a href="#doc-9--S-C-FISCAL-14-02">S-C-FISCAL-14-02</a></p>
+<p><strong>假设算例。</strong> 五年期平价利差120bp、(R=40%)，则(\lambda^Q=2%)每年，五年累计概率约9.52%，不是120bp，也不是简单的2%。若回收假设改为20%，相同利差对应(\lambda^Q=1.5%)，五年累计约7.23%。较低回收意味着一次事件支付更多，同一保费因而可以对应较低的事件概率。只给CDS利差而不给回收和期限，无法唯一反推概率。</p>
+<p>这里的(Q)是与价格相容的风险中性测度，不是观察者对未来违约频率的现实概率(P)。在经济坏状态尤其昂贵的损失会得到额外定价权重；此外，流动性、资本占用和保证金要求也会影响实际报价。把观测利差全放进简单公式，得到的是带这些成分的模型隐含量，不能包装成无偏预测。外币结算时还需指定对应计价测度、汇率与违约的共同变化；不能将美元与欧元合约算出的数直接当同一概率比较。</p>
+<h3>债券利差、CDS利差和评级各看见一部分风险</h3>
+<p>同期限主权债收益率与基准之差，包含信用、流动性、税务及安全资产服务等因素；CDS还包含合同交割选择、对手方和衍生品市场条件。两者差额即常说的债券—CDS基差，需要明确正负号定义及期限匹配。即使理论上可以组合买债与买保护，融资成本、债券可得性、结算币种和具体保护覆盖不一致，也会阻止无成本套利。</p>
+<p>评级是评级机构按自己的标准和期限对信用质量的意见，不是CDS触发裁决；国债名义收益率上升也可能只是政策利率路径或期限溢价上升。主权CDS因此适合作为一组证据中的合同价格，而不是“国家破产仪表盘”。</p>
+<h2>观测与保存口径</h2>
+<p>保存报价应至少写为：“某参考实体、某日期与时区、五年／一年、某结算币种、某定义版本及重组条款、买卖价／中间价、平价利差或固定票息加upfront、名义本金及报价来源”。报价是可成交还是估值，近期是否实际有成交，也需要说明。低成交量市场的一条中间价可能变化很大而缺少广泛参与。</p>
+<p>同时查财政与外债资料：初级收支、利息支出／收入、总融资需求和到期峰值、外汇储备可用性、外币债占比、持有人及法律辖区、官方融资条件、或有负债。财政资源说明能否偿付，合同和融资时间表说明何时可能发生事件；两组材料缺一不可。债券重组时则应保存旧券、换券比例、新票息、新到期、应计利息处理及估值日。</p>
+<h2>本对象的历史与有归属的判断</h2>
+<h3>2012年希腊：拍卖价格是结算输入</h3>
+<p>ICE／Markit公告记录，2012-03-19 15:30 GMT希腊信用事件拍卖最终价格为面值的21.5%；网页标注3月20日，正文新闻日期为3月19日。对适用100%参考价格且无其他调整的合同，差额为名义本金的78.5%。这是结算算术，不是“所有希腊债权人只收回21.5%”或“国家违约概率78.5%”。<a href="#doc-9--S-C-FISCAL-14-03">S-C-FISCAL-14-03</a></p>
+<p>本次ISDA希腊裁决原站访问403，因此不在正文复述其精细法律判断。拍卖事实来自实际取得的交易基础设施公告；2014定义用于解释一般合同框架，不能倒套到2012年合约认定过程。</p>
+<p>Cecchetti与Schoenholtz事后回顾希腊危机时认为，政策方尝试避免重组触发CDS，可能使持有人怀疑保护能否覆盖经济损失，因而减少对其他弱主权债的持有并缩表。后来希腊CDS实际赔付，不能倒推此前没有对冲信心冲击。这是教材作者的条件性解释，本页未据此识别净卖出或信贷收缩的规模，也不补写未核法律裁决。<a href="#doc-9--S-T2-6E-CH9-CDS-CONFIDENCE">S-T2-6E-CH9-CDS-CONFIDENCE</a></p>
+<h3>2023年美国：更贵的保护未必代表历史最高违约概率</h3>
+<p>Benzoni等人在2023年10月研究中，使用一年期美国主权CDS与可交割国债价格重建债务上限时期的市场隐含风险。作者指出，美国主权CDS多数以欧元计价；其跨事件比较假设违约时汇率变化预期没有显著改变，不能当作纯美元无汇率风险保险。<a href="#doc-9--S-C-FISCAL-14-02">S-C-FISCAL-14-02</a></p>
+<p>2023年春用于其估算的最便宜可交割券是2050-05-15到期、票息1.25%的30年期国债，价格约为每100面值55。低票息长债在利率上升后深度折价，使合同触发后的支付可能很大，即使未付款只是短期技术性延迟。作者估计一年期风险调整违约概率从2022年的约0.3%—0.4%升至2023年4月约4%，而不是把利差峰值直接当概率峰值。估计依赖回收代理、贴现和卖方能够履约等假设；这些是研究者事后计算，不是本库恢复出的当日公开概率调查。</p>
+<p><strong>较晚结果。</strong> 该研究记录债务上限立法通过后，2023年6月2日一年期CDS保费降至约10bp，五年期约35bp。短期事件风险消退可以使曲线由近端昂贵转为近端便宜。没有发生违约并不单独证明事前4%估计“错误”，尤其该数本来就是价格中的风险调整量。本文未取得作者底层逐笔报价，不对各日市场共识作进一步外推。</p>
+<h3>2024年加纳重组、2025年报告：零本金减记仍可能有经济损失</h3>
+<p>加纳财政部2025-03-28提交的2024财年公债报告记载，2024-10-10完成Eurobond交换，合格持有人参与率98.6%。公告交换规模为131.039亿美元，另有截至2023年末确认的违约后利息；报告表3.1的认可本金合计130.641亿美元，与原面值口径不同，脚注明确一只零息券以发行所得加累计利息确认本金。本页不把两个总额强行视为矛盾或混为一个量。<a href="#doc-9--S-C-FISCAL-14-04">S-C-FISCAL-14-04</a></p>
+<p>财政部说明两条选择：PAR选项无名义本金减记，但票息1.5%、到期2037年；DISCO选项名义本金减记37%，新债票息5%—6%、到期2029—2035年。两个选项都另有有关违约后利息安排。于是“零减记”与“37%减记”并不直接代表零现值损失与37%现值损失。报告脚注也说明37%的名义削减不包括长期PAR票据选项，不能称为每位债权人的统一损失率。<a href="#doc-9--S-C-FISCAL-14-04">S-C-FISCAL-14-04</a>、<a href="#doc-9--S-C-FISCAL-14-05">S-C-FISCAL-14-05</a></p>
+<p>这个案例讨论主权债务重组，不报告加纳CDS赔付：本次未取得对应CDS裁决、合约或拍卖数据，不能从换券条款直接推导CDS回收价格。发行人的偿债减负目标与投资者资产的退出价格也是不同指标。</p>
+<p><strong>本库条件推演，制作于2026-10-28。</strong> 若近一年的特定支付窗口更危险，而远期财政修复仍可信，一年期CDS相对五年期可能变贵；若债务问题被持续外推到中期，整条期限曲线都可能重估。判断应同时观察同币种同条款曲线、可交割债价格及成交，不把曲线形状唯一归因于违约概率。没有2026可复核行情，因此不提供当前国家排名或概率预测。</p>
+<h2>涉及的关系</h2>
+<ul>
+<li><a href="graph/20_mechanisms/债务上限风险的短券定价.md">R-FISCAL-08 债务上限风险的短券定价</a>：主权信用事件与具体短券付款窗口相连，CDS交割条件解释为什么其价格与短券价差不一一对应。</li>
+<li><a href="graph/20_mechanisms/主权信用与银行资产负债表反馈.md">R-FISCAL-11 主权信用与银行资产负债表反馈</a>：银行持有本国债、使用其作抵押及接受政府支持，使主权风险与银行资本／融资条件相互作用。</li>
+</ul>
+<p><a id="doc-9--step2-common-cds"></a></p>
+<h2>通用CDS与企业研究入口</h2>
+<p>通用合同、报价和交易量口径现在另有<a href="#doc-0">信用违约互换CDS</a>入口，便于企业、指数和主权材料共同引用。本页继续维护主权偿付、制度与历史，其既有合同和测度详解保留。</p>
+<p>2026年10月的<a href="#doc-4">AI相关企业CDS</a>讨论企业信用保护，使用通用工具基础，不继承主权特有条款或国家历史。<a href="#doc-8">来源与采用范围</a>记录本次增量。</p>
+<h2>来源与待补问题</h2>
+<p><a id="doc-9--S-C-FISCAL-14-01"></a><strong>S-C-FISCAL-14-01</strong>：ISDA，<em>2014 ISDA Credit Derivatives Definitions</em>，2014，<a href="https://www.sc.com/en/uploads/sites/66/content/docs/2014-Credit-Derivatives-Definitions.pdf">渣打银行托管原始定义PDF</a>。核读§1.45—1.48宽限期、§4.5—4.7未付款／拒付／重组、§5.2—5.6及§6.1—6.5结算；未通读91页或核所有后续补充协议。原始标准文件用于概念说明，实际交易以确认书及适用版本为准。</p>
+<p><a id="doc-9--S-C-FISCAL-14-02"></a><strong>S-C-FISCAL-14-02</strong>：Luca Benzoni、Christian Cabanilla、Alessandro Cocco、Cullen Kavoussi／Chicago Fed，<em>What Does the CDS Market Imply for a U.S. Default?</em>，Economic Perspectives No.4，2023年10月，<a href="https://www.chicagofed.org/publications/economic-perspectives/2023/4">全文</a>。核读结算、最便宜交割券、图6—8叙述、结论的欧元／市场规模限制及计算附录A1—A4；未重取Bloomberg、DTCC底层数据。连续支付公式为本页基于保费腿与保护腿相等的教学简化，非原论文估计公式。</p>
+<p><a id="doc-9--S-C-FISCAL-14-03"></a><strong>S-C-FISCAL-14-03</strong>：Markit／ICE，<em>Results of Credit Event Auction re: The Hellenic Republic</em>，<a href="https://ir.theice.com/press/news-details/2012/Markit-and-IntercontinentalExchange-Announce-Results-of-Credit-Event-Auction-re-The-Hellenic-Republic/default.aspx">原始公告</a>。正文2012-03-19，网页2012-03-20；核读21.5%拍卖价格及15:30 GMT时点，未取得所有订单和最终交割清单。</p>
+<p><a id="doc-9--S-C-FISCAL-14-04"></a><strong>S-C-FISCAL-14-04</strong>：Ghana Ministry of Finance，<em>Annual Public Debt Report for the 2024 Financial Year</em>，2025-03-28提交议会，<a href="https://mofep.gov.gh/sites/default/files/reports/economic/2024-Annual-Public-Debt-Report.pdf">官方PDF</a>。核读封面、§28—37、表3.1及零息券认可本金、37%例外脚注；未复算所有债务存量或读取每只新券合同。</p>
+<p><a id="doc-9--S-C-FISCAL-14-05"></a><strong>S-C-FISCAL-14-05</strong>：Ghana Ministry of Finance，<em>Press Conference—Completion of the Exchange Offer and Consent Solicitation</em>，<a href="https://www.mofep.gov.gh/node/1854">官方讲话</a>，正文为2024年交换说明，页面未提供可核精确发表日。核读PAR／DISCO选项、票息与到期及利息拖欠说明；未用其“未来几周交换”等说法替代较晚报告的实际结算日期。</p>
+<p>缺口：ISDA自站希腊裁决及2014发布说明访问403，合同原件通过银行托管取得；缺少2026年统一期限、币种、条款及成交状态的CDS曲线；加纳案例未取得CDS结算材料，故只解释债务重组损失口径。上述缺口分别限制触发事件法律细节、实时风险比较与重组—CDS定量对应，不能以一般公式补出缺失事实。</p>
+<p><a id="doc-9--S-T2-6E-CH9-CDS-CONFIDENCE"></a><strong>S-T2-6E-CH9-CDS-CONFIDENCE</strong> — Stephen G. Cecchetti、Kermit L. Schoenholtz，<em>Money, Banking and Financial Markets</em>，第6版ISE，©2021，ISBN 9781260571363。第9章PDF267—268／印刷232—233；采用作者对合同可信度与持债意愿的事后解释。 <a href="../../materials/textbooks/T2 货币银行 Money Banking and Financial Markets/Money, Banking and Financial Markets, 6e ISE (Stephen G. Cecchetti, Kermit L. Schoenholtz) (z-library.sk, 1lib.sk, z-lib.sk).pdf#page=267">本地教材PDF</a>。</p>
+</div></details><details class="document" id="doc-10" open><summary><span class="tag">更新 · 概念</span><strong>信用利差</strong><small>C-CREDIT-SPREAD</small></summary><div class="doc"><p class="placement">补充AI信用价格案例及信用基差入口；不改既有信用利差定义与历史。</p><p class="file"><a href="graph/10_concepts/信用利差.md">打开Markdown原文件</a> · reviewed_seed</p><h1>信用利差</h1>
+<blockquote>
+<p>执笔：<code>/root/full_b008</code>，GPT-6-Astra，medium；2026-10-28制作。资料截止2026-10-27，最新核读市场观察为2026-10-26收盘；历史解释另据所列报告时点。主体是公司债相对于同币种基准曲线的利差。</p>
+</blockquote>
+<h2>概念定义</h2>
+<p>信用利差是信用债的收益率或定价贴现率，相对于指定同币种基准债券／曲线多出来的部分。它以年化利率差表示，常用基点；100bp等于1个百分点。信用债承诺的现金流可能因违约而不能足额实现，投资者也会因风险承受能力、交易便利和融资条件而要求额外补偿。因此，市场习惯称为“信用”的利差，通常不只是预期违约损失。</p>
+<p>“无风险曲线外的补偿”是一种定价分解，需要说明用什么作为无风险代理。美国公司债常对美国国债曲线报价；国债本身还具有流动性、抵押品和安全资产价值。信用债相对国债的利差变化，有时既是信用债变化，也是基准变化。精确分析需要匹配现金流、期限和选择权，而非随意减去一个国债收益率。<a href="#doc-10--S-C-CREDIT-SPREAD-01">S-C-CREDIT-SPREAD-01</a></p>
+<h2>概念详解</h2>
+<h3>从一条收益率差到一整条曲线</h3>
+<p>最简单的报价是(s=y_{corp}-y_{ref})。若公司债到期收益率6%、可比国债4%，利差为200bp。到期收益率是用单一贴现率折现承诺现金流得到的内部收益率，票息、支付时间和久期会影响比较。两个都在五年后到期的债券，若中间现金流差异很大，其利率风险也未必一样。</p>
+<p>对固定现金流、无选择权债券，可定义一个曲线平移量(z)，使：</p>
+<p>[
+P=\sum_{k=1}^{K}CF_k\exp[-(r_k+z)t_k].
+]</p>
+<p>(P)为含应计利息的全价，(CF_k)为第(k)期承诺支付，(t_k)以年计，(r_k)是相应期限连续复利零息基准利率，(z)是同口径年化利差。这是本页的定价示意：现金流确定、无提前赎回，所有期限统一加一个常数。所得通常称Z-spread；它让曲线形状进入比较，但仍把风险都压进一个数。</p>
+<p>若债券可赎回，利率下降时发行人可能提前偿还，高息现金流不能保证存续。期权调整利差（OAS）在模型中考虑这种选择权，再求与价格相符的额外贴现补偿。OAS取决于利率波动和行权假设；“调整了期权”并不等于“只剩违约损失”。ICE公司债OAS以国债即期曲线为基准，其指数再按成分券市值权重汇总。<a href="#doc-10--S-C-CREDIT-SPREAD-02">S-C-CREDIT-SPREAD-02</a></p>
+<table>
+<thead>
+<tr>
+<th>口径</th>
+<th>主要处理的问题</th>
+<th>仍要注意</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>相对某只国债的收益率差</td>
+<td>报价直观</td>
+<td>期限、久期、票息及基准券特殊性</td>
+</tr>
+<tr>
+<td>Z-spread</td>
+<td>用整条零息曲线匹配固定现金流</td>
+<td>尚未分离嵌入期权，违约现金流仍需建模</td>
+</tr>
+<tr>
+<td>OAS</td>
+<td>在模型内处理选择权</td>
+<td>行权与波动假设、流动性及风险溢价仍存在</td>
+</tr>
+<tr>
+<td>CDS保费</td>
+<td>通过衍生品转移指定信用事件风险</td>
+<td>合约定义、交割、融资及交易对手安排不同，不能与现金债利差机械相等</td>
+</tr>
+</tbody>
+</table>
+<h3>预期损失与承担风险的补偿不同</h3>
+<p>可以把市场利差概念性地拆成预期违约损失、信用风险溢价，以及流动性／融资、税制、选择权和基准差异等项。这是解释框架，并非直接可加总测量的会计恒等式。预期损失回答平均会损失多少；风险溢价回答投资者要求多少额外回报，才愿意承受损失集中在经济差、收入低或资金紧张时发生的风险。</p>
+<p><strong>本页假设算例。</strong> 一年内真实世界违约概率2%，违约时本金回收40%，忽略利息与违约时点差异，则本金预期损失约为(2%\times(1-40%)=1.2%)。若市场利差为200bp，不能把它除以60%就宣布真实违约概率为3.33%。剩余补偿可能涉及系统性风险、流动性或其他定价项。若在一个无摩擦、常数违约强度和固定回收的简化风险中性模型中使用(s\approx\lambda^Q(1-R))，反推出的是模型下的风险中性强度(\lambda^Q)，而非历史事件频率。</p>
+<p>这里还存在期限问题：一年违约概率不能直接解释十年债券全期限利差；回收率与违约概率也可能在衰退时共同恶化。更完整的估值需按各期存续概率及违约后的回收现金流折现。上述算例的作用是说明量纲和测度，不是给具体债券估价。</p>
+<h3>EBP为什么有用，又为何不是“纯情绪”观测</h3>
+<p>Favara、Gilchrist、Lewis、Zakrajšek介绍的超额债券溢价（excess bond premium，EBP）先构造公司债与精确匹配现金流的合成无风险债券之差，再以企业违约风险指标和债券特征拟合利差，把不能由该模型解释的平均部分保留为EBP。作者将其解释为投资者对信用风险的承受意愿指标。<a href="#doc-10--S-C-CREDIT-SPREAD-01">S-C-CREDIT-SPREAD-01</a></p>
+<p>应将这看作有条件的统计识别。遗漏的信用信息、流动性变化及模型误差都可能进入残差；它不是调查得到的“恐惧程度”。总利差下降而EBP上升也并非数学矛盾，只要模型解释的违约部分下降得更多。反之，EBP为负，不表示全部信用债利差为负，更不表示预期损失为负。</p>
+<p>该数据也不是不可修订的官方统计发布。作者的更新说明指出，财务数据修订、季度信息补齐和债券样本变化都可修改历史序列。2026年9月起，少量债券特征改用另一商业数据源；当前说明称方法未变，并保留此前历史不作重修。本页没有下载并复算当前EBP序列，不能据这条方法更新推断其2026年水平。<a href="#doc-10--S-C-CREDIT-SPREAD-03">S-C-CREDIT-SPREAD-03</a></p>
+<h3>利差变化怎样成为持有人的盈亏</h3>
+<p>在小幅变化、现金流不变且其他定价因素固定时，信用债价格对利差的近似反应为：</p>
+<p>[
+\frac{\Delta P}{P}\approx-D_s\Delta s,
+]</p>
+<p>(D_s)为以年计的利差久期，(\Delta s)以小数表示。例如利差久期4年，利差扩大50bp，即0.005，价格约跌2%。这是本页一阶假设算例，未计票息、违约、曲线变化和凸性。</p>
+<p>总收益率同时受基准利率影响。若国债收益率下跌100bp、信用利差扩大50bp，简化加总下公司债收益率仍下降50bp；它可能相对国债表现差，但绝对价格上涨。于是“利差走阔”“债券亏钱”“公司融资成本上升”是三项需要分别核实的判断。市场二级利差还不是发行人存量债务的平均利息成本，后者随到期再融资逐步改变。</p>
+<h2>观测与边界</h2>
+<p>读数至少要包含市场、币种、评级、剩余期限、券种、基准、是否OAS、权重及观测日期。投资级指数与高收益指数的行业、期限和违约分布不同；两者差距不能解释成同一企业评级降低一档的固定代价。</p>
+<p>指数还有样本效应。被降为非投资级的债券可能在规则规定的再平衡时点离开投资级指数；原来最弱的成员退出，会改变平均利差，即使剩余债券报价不变。ICE/FRED说明页明确按资格于月末再平衡，违约证券不纳入所述投资级指数。<a href="#doc-10--S-C-CREDIT-SPREAD-02">S-C-CREDIT-SPREAD-02</a>因此，判断全市场信用改善，最好同时检查固定样本变化和退出名单。</p>
+<p><a href="graph/10_concepts/信用评级与迁移.md">信用评级与迁移</a>是机构的离散信用意见；利差是边际交易价格，更新频率和包含的风险不同。<a href="graph/10_concepts/市场流动性.md">市场流动性</a>影响成交成本和持仓退出能力，<a href="graph/10_concepts/融资流动性.md">融资流动性</a>影响持有者能否续接资金；两者都能进入价格，却不是发行人违约概率的同义词。</p>
+<h2>本对象的历史与预期</h2>
+<p><strong>2016年：从总体利差转向可检验分解。</strong> 2016-04-08的FEDS Note报告，其EBP模型在2016年2月底给出的未来12个月美国衰退概率约<strong>55%</strong>，随后随着金融条件改善回落。这是模型条件预测，既不是市场一致预测，也不是信用债违约率。其经济预测能力支持研究分解的价值，不能证明EBP单独引发衰退。本页未复核这次预测对应的全部后续宏观结果，不给出预测成功／失败判决。<a href="#doc-10--S-C-CREDIT-SPREAD-01">S-C-CREDIT-SPREAD-01</a></p>
+<p><strong>2024年末至2025年4月：极窄利差可以显著扩大后仍处中等水平。</strong> 美联储2025年4月金融稳定报告指出，BBB及高收益债利差从此前压缩水平扩大，仍处历史分布中等附近；EBP接近长期均值，发行放缓。报告同时将2024年下半年低评级新发行占比降低与2025年风险再评价分开记录。这不是“利差已经极高”的证据，也不能把发行减少一概归于发行人无力偿债。<a href="#doc-10--S-C-CREDIT-SPREAD-04">S-C-CREDIT-SPREAD-04</a></p>
+<p><strong>2025年11月的较晚结果。</strong> 同机构11月报告记载，公司债利差已收窄至4月波动之前水平以下；BBB和高收益利差分别比各自历史中位数低约<strong>0.7、1.6个百分点</strong>，即70、160bp，EBP低于历史中位数。这里70／160bp是“距各自中位数的差”，不是两类债券的绝对利差，也不是4月至11月变化量。后来的收窄不能回填成4月当时已知的结局。<a href="#doc-10--S-C-CREDIT-SPREAD-05">S-C-CREDIT-SPREAD-05</a></p>
+<p><strong>2026年的可核观察。</strong> FRED于2026-10-27更新的ICE BofA美国投资级公司债OAS为2026-10-26收盘<strong>0.90%（90bp）</strong>。这个指数覆盖美元计价、美国境内公开发行且符合其资格条件的投资级公司债，不代表全球公司债。该读数与2025年报告中的BBB子指数不同，故不直接相减构造年度变动。<a href="#doc-10--S-C-CREDIT-SPREAD-02">S-C-CREDIT-SPREAD-02</a></p>
+<p><strong>本库条件推演，2026-10-28整理。</strong> 对未来一至四个季度，若债务再融资导致违约预期上升，且投资者承接风险能力同时下降，两项会共同推高利差；若企业现金流改善而资金承受能力减弱，方向可能被抵消。应联合观察同评级／同期限利差、EBP、实际违约与回收、发行折让和资金流，而不能只用一个总指数作衰退概率。上面的90bp不是目标价，也不足以独立断言“便宜”或“昂贵”。本轮没有取得同期利差预测调查，故不编造2026年末市场目标。</p>
+<h2>涉及的关系</h2>
+<p><a href="graph/20_mechanisms/美元融资依赖的传导机制.md">美元融资依赖的传导机制 R-USD-GLOBAL</a>：美元资金取得与展期条件会改变借款人偿债压力及中介承接能力；信用利差是其中可观察的定价结果，但须分辨信用与融资风险。</p>
+<p><a id="doc-10--step2-ai-case"></a></p>
+<h2>2026年10月案例：涨幅、水平与跨工具差异</h2>
+<p>10月31日新闻所附图2显示，截至10月28日，博通五年CDS从六个月前47升至168bp，甲骨文从180升至271bp。前者相对涨幅约258%，后者期末水平更高；这些是CDS价格，不能直接当现金债OAS或真实违约概率。<a href="#doc-7--index">完整报价表</a>保留各名称的起点、期末与相对变化。</p>
+<p>同一批名称的<a href="#doc-2">CDS—现金债基差</a>转正，提示相同信用主题在两种市场中存在价格分化。保护需求与融资约束的过程由<a href="#doc-6">信用基差关系</a>解释；本案例没有取得底层债券匹配和参与者持仓，不能分配基本面与交易需求的贡献。<a href="#doc-8--article">新闻来源</a>。</p>
+<h2>来源与待补问题</h2>
+<p><a id="doc-10--S-C-CREDIT-SPREAD-01"></a><strong>S-C-CREDIT-SPREAD-01</strong> — Giovanni Favara、Simon Gilchrist、Kurt F. Lewis、Egon Zakrajšek／美联储，2016-04-08，<a href="https://www.federalreserve.gov/econresdata/notes/feds-notes/2016/recession-risk-and-the-excess-bond-premium-20160408.html">Recession Risk and the Excess Bond Premium</a>。实读导言、The excess bond premium及分解公式；未复现原论文估计或预测回测。</p>
+<p><a id="doc-10--S-C-CREDIT-SPREAD-02"></a><strong>S-C-CREDIT-SPREAD-02</strong> — ICE Data Indices经圣路易斯联储FRED授权发布，<a href="https://fred.stlouisfed.org/series/BAMLC0A0CM">ICE BofA US Corporate Index Option-Adjusted Spread，BAMLC0A0CM</a>。2026-10-28核读页面最新观察、时间戳及完整Notes中的基准、权重、资格与再平衡规则。采用10月26日收盘、10月27日更新；未取得底层成分券或重算OAS。2026年4月起页面声明仅保留三年观察，历史长序列不能默认从当前入口完整取得。</p>
+<p><a id="doc-10--S-C-CREDIT-SPREAD-03"></a><strong>S-C-CREDIT-SPREAD-03</strong> — 同上四位作者，2016-10-06初发，<a href="https://www.federalreserve.gov/econres/notes/feds-notes/updating-the-recession-risk-and-the-excess-bond-premium-20161006.html">Updating the Recession Risk and the Excess Bond Premium</a>。实读正文、修订说明及2026年9月数据源变更附注；未下载CSV。旧初发日与较晚附注分开。</p>
+<p><a id="doc-10--S-C-CREDIT-SPREAD-04"></a><strong>S-C-CREDIT-SPREAD-04</strong> — 美联储，<em>Financial Stability Report</em>，2025年4月，<a href="https://www.federalreserve.gov/publications/April-2025-financial-stability-report-Asset-Valuations.htm">Asset Valuations</a>。实读公司债段落及图1.7—1.9注释；未提取曲线底层精确端点。当前HTML带2026年3月其他图文勘误，不据此刷新2025市场状态。</p>
+<p><a id="doc-10--S-C-CREDIT-SPREAD-05"></a><strong>S-C-CREDIT-SPREAD-05</strong> — 美联储，同报告2025年11月，<a href="https://www.federalreserve.gov/publications/november-2025-financial-stability-report-asset-valuations.htm">Asset Valuations</a>。实读公司债段落及图1.7—1.9定义，核70／160bp相对历史中位数的含义；未复算指数历史分位。</p>
+<p>具体缺口：未取得现金债—CDS同日匹配样本、交易成本分解、实时EBP历史版本及2026利差调查。2025年春秋报告提供状态与幅度描述，但没有在本文提取同一指数各日全序列，不能开展事件因果估计。本文的定价公式和数值演示均显式作为教学假设。</p>
+</div></details><details class="document" id="doc-11" open><summary><span class="tag">更新 · 概念</span><strong>云服务与超大规模云厂商</strong><small>C-TECH-03</small></summary><div class="doc"><p class="placement">补供应商信用责任与AI CDS、CoreWeave入口；不重写既有经营及财务比较。</p><p class="file"><a href="graph/10_concepts/云服务与超大规模云厂商.md">打开Markdown原文件</a> · reviewed_seed</p><h1>云服务与超大规模云厂商</h1>
+<blockquote>
+<p>执笔：<code>/root/resume_b037</code>；2026-10-30制作。共同年度比较采用Amazon／Alphabet自然年2025及Microsoft截至2025-06-30财年；新增事件仅将Amazon延伸至2026-10-29，未把不同公司的观察日伪装成统一实时截面。</p>
+</blockquote>
+<h2>概念定义</h2>
+<p>云服务通过网络把可配置的计算、存储、软件和其他资源提供给客户，客户可以按需取得、扩展和释放资源。NIST定义强调自助服务、网络访问、资源池化、快速弹性及可计量使用。它改变的是资源交付与管理方式，不只是把服务器放在外部机房。<a href="#doc-11--S-C-TECH-03-01">S-C-TECH-03-01</a></p>
+<p>超大规模云厂商是拥有大规模数据中心、网络、软件调度和客户服务体系，能够持续扩展多类云资源的企业。本页以AWS、Microsoft Azure和Google Cloud为主要经营观察对象；“超大规模”是产业描述，不是统一会计分部或有固定服务器门槛的监管分类。大型互联网公司可能拥有同样庞大的内部计算设施，但若主要供自用，其资本开支不能直接计为对外云服务市场收入。</p>
+<h2>概念详解</h2>
+<h3>客户购买的不只是服务器时间</h3>
+<table>
+<thead>
+<tr>
+<th>服务层次</th>
+<th>客户主要取得什么</th>
+<th>主要经济含义</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>基础设施IaaS</td>
+<td>计算实例、存储与网络资源</td>
+<td>客户仍管理大量软件，以资源量及时间计费较常见</td>
+</tr>
+<tr>
+<td>平台PaaS</td>
+<td>托管数据库、开发与模型部署环境等</td>
+<td>厂商承担更多运维，客户购买可用功能与管理便利</td>
+</tr>
+<tr>
+<td>软件SaaS</td>
+<td>直接使用已运行的应用</td>
+<td>常按账户、席位、订阅期或业务使用量收费</td>
+</tr>
+</tbody>
+</table>
+<p>这些层次描述客户和提供者的控制分工，商业产品可组合多层。模型API可以把底层加速器、模型软件和运维包装成输入／输出token收费；客户不必持有GPU，却仍依赖厂商可用容量。NIST的分类提供基本边界，具体产品收入必须以企业披露核实。<a href="#doc-11--S-C-TECH-03-01">S-C-TECH-03-01</a></p>
+<p>云厂商把不同客户的需求放入资源池，减少每个客户独自按峰值建机房的需要，并通过自动化运维和规模采购摊薄成本。但资源不能无条件混用：地区、数据驻留、处理器类型、网络拓扑和可靠性要求会限制调度。全球剩余容量充足，某个地区的AI集群仍可能供不应求。云的“弹性”是客户侧的交付特征，不代表供给者能在瞬间建出新电力和机房。</p>
+<h3>收入如何从合同变成实际金额</h3>
+<p>消费计费随实际计算、存储或调用量确认，订阅计费通常随服务期确认。长约可以包含最低消费承诺、折扣、预付款或未来部署计划；签约、开票、收现和确认收入不是同一时点。Microsoft和Alphabet的会计政策都区分消费与订阅确认方式。<a href="#doc-11--S-C-TECH-03-02">S-C-TECH-03-02</a>、<a href="#doc-11--S-C-TECH-03-04">S-C-TECH-03-04</a></p>
+<p><strong>假设算例：</strong> 客户签下三年最低消费900万美元的合同，假设按实际交付的服务确认收入，第一年实际履行240万美元，则不能在签约日或第一年将900万美元全部记作已交付收入。若第一年已预付300万美元，收现又高于已确认收入60万美元。其余部分怎样分配，要看具体履约义务及合同条款；该例只用于区分合同、现金和收入，不代替真实合同的会计判断。</p>
+<p>剩余履约义务（RPO）是已签合同中尚待履行的收入承诺，常包括递延收入和未来才开票的金额。Alphabet截至2025年末披露2428亿美元RPO，主要涉及Google Cloud，预计略超过一半在未来24个月确认；该口径排除原预计期限一年及以内和可取消合同。因此，它既不是下一年收入，也不是全部潜在需求，更不等于已经收取的现金。<a href="#doc-11--S-C-TECH-03-04">S-C-TECH-03-04</a></p>
+<h3>客户组合决定收入的稳定性与建设风险</h3>
+<p>企业迁移数据库、应用和数据分析平台，通常需要身份权限、网络、备份和长期运维配合；已有部署会形成切换成本。模型开发商则可能集中需求于大规模、连续、互联紧密的训练和推理容量。两类客户都能签长约，但需求波动、技术替换和融资依赖不同。同样一美元合同额，对地域、芯片和交付时点的要求不同，建设风险也不同。</p>
+<p>客户还可能同时是合作伙伴、被投资企业或其他业务的供应商。Amazon 2025年报记录投资Anthropic可转换票据等活动；微软年报则披露与OpenAI的投资和商业联系。研究时应把投资现金流、云服务收入、应收款和合同承诺分别记录，判断服务是否交付及款项能否回收。存在双重关系不自动证明收入无效，也不能把融资流入当成终端需求已经独立盈利。<a href="#doc-11--S-C-TECH-03-03">S-C-TECH-03-03</a>、<a href="#doc-11--S-C-TECH-03-02">S-C-TECH-03-02</a></p>
+<h2>收入和资本开支为什么容易比错</h2>
+<h3>云收入的边界并不相同</h3>
+<p>以下金额均为<strong>十亿美元</strong>，保留报告名称与期间，不作同口径市场份额排名。</p>
+<table>
+<thead>
+<tr>
+<th>企业披露口径</th>
+<th>期间</th>
+<th style="text-align:right">收入</th>
+<th>营业利润或边界说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>AWS分部</td>
+<td>自然年2025</td>
+<td style="text-align:right">128.725</td>
+<td>营业利润45.606；包含多类云服务，不能视为全部AI收入</td>
+</tr>
+<tr>
+<td>Microsoft Azure</td>
+<td>FY2025，截至6月30日</td>
+<td style="text-align:right">超过75</td>
+<td>管理层在该次业绩沟通给出这一年度规模；未单独给出Azure营业利润</td>
+</tr>
+<tr>
+<td>Microsoft Cloud</td>
+<td>同上</td>
+<td style="text-align:right">168.9</td>
+<td>包含Microsoft 365商业云、Azure及其他云、LinkedIn商业部分、Dynamics 365，范围远大于Azure</td>
+</tr>
+<tr>
+<td>Google Cloud分部</td>
+<td>自然年2025</td>
+<td style="text-align:right">58.705</td>
+<td>营业利润13.910；包含GCP、Workspace及其他企业服务</td>
+</tr>
+</tbody>
+</table>
+<p>依据：<a href="#doc-11--S-C-TECH-03-02">S-C-TECH-03-02</a>、<a href="#doc-11--S-C-TECH-03-03">S-C-TECH-03-03</a>、<a href="#doc-11--S-C-TECH-03-04">S-C-TECH-03-04</a>、<a href="#doc-11--S-C-TECH-03-05">S-C-TECH-03-05</a>。AWS营业利润率按两项相除约35.4%，Google Cloud约23.7%；服务组合和成本分配不同，差额不能直接解释为相同GPU的盈利能力差异。</p>
+<p>“Azure及其他云服务增长率”“Intelligent Cloud分部收入”和“Microsoft Cloud收入”也不是同一指标。微软的Intelligent Cloud还包括其他服务器相关业务；不能用一个口径的增长率乘另一个口径的收入，倒推出未披露的AI收入。</p>
+<h3>资本开支有现金、资产和承诺三个时间表</h3>
+<p>建云平台通常先取得土地、电力和机房，再安装服务器与网络，最后在系统上线后产生客户收入。建筑和供电设施可以服务多代设备，服务器的更新节奏通常更快。因此，资本开支总量必须进一步分成长寿命基础设施和更新较快的设备，并记录何时开始服务。</p>
+<table>
+<thead>
+<tr>
+<th>资本投入观测</th>
+<th style="text-align:right">2025已核数值，十亿美元</th>
+<th>解释</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Amazon集团现金资本开支</td>
+<td style="text-align:right">128.3，2024年77.7</td>
+<td>技术基础设施大部分支持AWS，但也含履约网络；不能全记为AWS或AI</td>
+</tr>
+<tr>
+<td>Microsoft集团现金购建物业设备</td>
+<td style="text-align:right">64.551，上一财年44.477</td>
+<td>FY2025现金流量表项目；另有融资租赁取得资产</td>
+</tr>
+<tr>
+<td>Microsoft融资租赁新取得使用权资产</td>
+<td style="text-align:right">20.511</td>
+<td>FY2025非现金取得资产口径，不是当年支付同额租金</td>
+</tr>
+<tr>
+<td>Alphabet集团购置物业设备</td>
+<td style="text-align:right">91.447，2024年52.535</td>
+<td>主要为技术基础设施，同时支持内部产品和对外服务</td>
+</tr>
+</tbody>
+</table>
+<p>依据：<a href="#doc-11--S-C-TECH-03-02">S-C-TECH-03-02</a>、<a href="#doc-11--S-C-TECH-03-03">S-C-TECH-03-03</a>、<a href="#doc-11--S-C-TECH-03-04">S-C-TECH-03-04</a>。三家公司均非只经营云，不能拿集团投入直接除以云收入，称作统一口径的云资本开支率。</p>
+<p>融资租赁尤其容易造成跨口径误读。微软在2025-07-30电话会上称该财季资本开支242亿美元，包括65亿美元融资租赁，现金支付物业设备为171亿美元；公司解释租赁开始时确认其全值，且该季超过一半投入为长期资产。242与171的差额主要由租赁解释，但两者并非简单只差65，其他时间及计量差异也应保留，不能强行配成一个等式。<a href="#doc-11--S-C-TECH-03-05">S-C-TECH-03-05</a></p>
+<p>折旧把已经投入使用的资产成本分摊至以后利润表；现金资本开支先影响现金流。提高折旧寿命会减少当期会计费用，却不自动增加现金，也不保证旧设备能长期保持竞争力。对尚未开工或尚未生效的长期租约，更应区分未来承诺、已经取得的资产和当期付款。</p>
+<h3>收入增长与自由现金流下降可以同时发生</h3>
+<p>按简化现金口径，集团自由现金流可写作经营现金流减去净现金资本开支。它不是云分部利润的替代指标：经营现金流还受集团其他业务、营运资金、税款和非现金调整影响，融资租赁也需要另看未来支付。</p>
+<p>Amazon披露2025年经营现金流1395亿美元、自由现金流112亿美元，而2024年自由现金流382亿美元；公司将下降主要归因于净购建物业设备支出增加507亿美元。这个组合说明经营规模扩大可以伴随建设支出更快上升。不能据自由现金流下降单独判定云需求恶化，也不能据营业利润上升判定投资已完成回收。<a href="#doc-11--S-C-TECH-03-06">S-C-TECH-03-06</a></p>
+<h2>观测与比较的方法</h2>
+<p>分析一季增长时，把实际消费、价格和合同结构分开。AWS 2025年报称收入增长主要来自客户使用增加，部分被长约带来的价格变化抵消；收入增长率因此不等于物理计算量增长率。<a href="#doc-11--S-C-TECH-03-03">S-C-TECH-03-03</a>外币换算也会改变报告增长，固定汇率增长只是剔除汇率后的比较，不是另一笔收入。</p>
+<p>对投资兑现，应按“客户承诺—建设与设备交付—可用容量—实际使用—开票收款”的链条追踪。RPO增加可以提高未来收入可见性，但交付时点、客户实际使用和合同集中度决定兑现速度。集团总收入分散，也不能证明一个新增AI集群没有集中客户风险。</p>
+<p>年化运行率是用近期速度外推一整年，与过去十二个月累计收入不同。季度收入乘四能够显示当前规模，却没有包含未来季节性、涨价、扩容或需求变化，不能标作全年已实现收入。</p>
+<h2>本对象的历史与预期</h2>
+<p><strong>2011年：服务模式有了共同语言。</strong> NIST将云界定为按需访问共享资源池，并区分服务与部署模式。这使“有服务器托管”与“具备弹性、计量和自动化交付的云服务”可以分辨。后来的AI基础设施沿用了这种资源交付方式，但更大训练集群对连续容量和网络协同提出了额外要求。<a href="#doc-11--S-C-TECH-03-01">S-C-TECH-03-01</a></p>
+<p><strong>2024—2025：收入扩张与资本投入同时加速。</strong> AWS年度收入从1075.56亿美元增至1287.25亿美元，Google Cloud从432.29亿增至587.05亿美元；对应两家集团资本投入增幅更大，见上表。微软截至2025年6月的财年Azure收入超过750亿美元，全年现金购建设备投入也由444.77亿美元升至645.51亿美元。这些年度数据展示建设周期，并不证明新增投入全部专供AI或当年已经上线。<a href="#doc-11--S-C-TECH-03-02">S-C-TECH-03-02</a>、<a href="#doc-11--S-C-TECH-03-03">S-C-TECH-03-03</a>、<a href="#doc-11--S-C-TECH-03-04">S-C-TECH-03-04</a>、<a href="#doc-11--S-C-TECH-03-05">S-C-TECH-03-05</a></p>
+<p><strong>2025年7月的专业预期。</strong> 微软CFO Amy Hood当时预计FY2026上半年仍受容量约束，下一财季资本开支超过300亿美元；并表示大型融资租赁交付会使季度支出波动。这里的上半年属于微软财年，不能写成自然年2026年上半年；它解释了为什么管理层同时预期高需求和较高建设现金需求。本页未逐季核验这项预测后来是否完全实现。<a href="#doc-11--S-C-TECH-03-05">S-C-TECH-03-05</a></p>
+<p><strong>2026年2月的当时投资指引。</strong> Alphabet在2月4日预计自然年2026资本开支1750亿—1850亿美元；Amazon在2月5日预计集团约2000亿美元，并表达长期资本回报的信心。两者均为当时管理层预测，覆盖集团不同业务，不能相加后称为纯云或纯AI资本开支；也不能当作已经支付的金额。<a href="#doc-11--S-C-TECH-03-06">S-C-TECH-03-06</a>、<a href="#doc-11--S-C-TECH-03-07">S-C-TECH-03-07</a></p>
+<p><strong>2026年10月29日新增观察：规模、利润与现金投资分化。</strong> Amazon公布截至9月30日第三季AWS收入459.84亿美元、营业利润177.73亿美元；该季收入年化约1840亿美元，而过去十二个月实际AWS收入为1613.82亿美元。集团过去十二个月经营现金流1683亿美元，自由现金流为流出424亿美元；集团现金流口径不能被称作AWS单独现金流。Jassy当时预测AWS在2027和2028年收入增速均超过40%，这是管理层前瞻判断，尚无对应未来结果。<a href="#doc-11--S-C-TECH-03-08">S-C-TECH-03-08</a></p>
+<p><strong>本库条件推演，2026-10-30整理：</strong> 如果新增容量按时上线、客户使用扩大且合同价格覆盖设备更新与运营成本，较早投入的固定成本可以由更大收入摊薄；若收入增长主要依赖少数融资需求大的模型公司，或新设备很快压低旧代租价，合同规模大仍可能伴随回收期延长。后续需要同时更新在用容量、客户现金回款、单位服务成本和资本承诺，不能仅以订单或token量替代这些观察。本页没有给出三家企业统一的2026年末盈利预测。</p>
+<h2>涉及的关系</h2>
+<ul>
+<li><a href="graph/20_mechanisms/模型效率、推理成本与总算力需求.md">模型效率、推理成本与总算力需求 R-TECH-03</a>：云厂商决定资源如何包装、定价和扩容，将硬件效率连接到客户使用需求。</li>
+<li><a href="graph/20_mechanisms/平台网络效应.md">平台网络效应 R-TECH-12</a>：开发工具、数据、伙伴与应用生态影响客户留存及迁移；规模采购带来的成本下降与真正跨用户网络效应应分别解释。</li>
+</ul>
+<p>关联对象：<a href="graph/10_concepts/人工智能算力.md">人工智能算力</a>解释工作量和产出计量；<a href="graph/10_concepts/GPU与AI加速器.md">GPU与AI加速器</a>解释设备性能、租价和经济使用率。</p>
+<p><a id="doc-11--step2-credit-links"></a></p>
+<h2>2026年10月信用市场观察入口</h2>
+<p>云厂商和芯片供应商在AI扩张中的角色不同：前者交付计算服务并承担容量投入，后者销售设备；若任一方同时贷款、担保或安排客户融资，经营关系还会附加债权或或有支付义务。具体风险要看谁供资、谁偿还和谁承担追索。<a href="#doc-5">供应商融资的信用风险传递</a>展开这条联系。</p>
+<p><a href="#doc-4">AI相关企业CDS</a>和<a href="#doc-7">2026年10月事件</a>保存云厂商／芯片商的保护价格、基差及交易活动比较。<a href="#doc-3">CoreWeave</a>作为具体AI云服务企业单独积累；本段未将新闻中的各公司财报读数并入上述既有统一年度比较。</p>
+<h2>来源与待补问题</h2>
+<p><a id="doc-11--S-C-TECH-03-01"></a><strong>S-C-TECH-03-01</strong>｜Peter Mell、Timothy Grance／NIST，<em>The NIST Definition of Cloud Computing</em>, SP800-145，2011年9月，<a href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-145.pdf">官方PDF</a>。已读§2定义与服务模型，印刷页2—3；未将分类视为企业财务分部标准。</p>
+<p><a id="doc-11--S-C-TECH-03-02"></a><strong>S-C-TECH-03-02</strong>｜Microsoft，<em>Annual Report 2025</em>，<a href="https://www.microsoft.com/investor/reports/ar25/">公司原文</a>，截至2025-06-30财年、2025年披露。已读MD&amp;A指标定义与分部结果、现金流量表、Note1云收入确认和Note13融资租赁；并核投资／商业关系说明，未通读全部税务诉讼附注，未取得Azure独立利润和现金流。</p>
+<p><a id="doc-11--S-C-TECH-03-03"></a><strong>S-C-TECH-03-03</strong>｜Amazon，<em>Form 10-K, year ended December 31, 2025</em>，<a href="https://www.sec.gov/Archives/edgar/data/1018724/000101872426000004/amzn-20251231.htm">SEC原文</a>，2026年2月披露。已读Liquidity and Capital Resources、AWS收入／营业利润及价格变化说明、Anthropic投资现金活动；未逐份核客户合同，不将集团资本开支分配为未披露的AWS数。</p>
+<p><a id="doc-11--S-C-TECH-03-04"></a><strong>S-C-TECH-03-04</strong>｜Alphabet，<em>Form 10-K, year ended December 31, 2025</em>，2026-02-05披露，<a href="https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm">SEC原文</a>。已读Google Cloud业务与会计政策、收入／现金流表、Note2的RPO及分部营业利润表；未复核全部其他业务与投资估值。已核RPO排除范围和未来24个月确认说明。</p>
+<p><a id="doc-11--S-C-TECH-03-05"></a><strong>S-C-TECH-03-05</strong>｜Satya Nadella、Amy Hood／Microsoft，<em>FY25 Fourth Quarter Earnings Conference Call</em>，2025-07-30，<a href="https://www.microsoft.com/en-us/investor/events/fy-2025/earnings-fy-2025-q4">官方逐字稿</a>。已读Azure年度规模、CFO资本开支／融资租赁与FY26容量和支出展望；未通读全部产品问答，未核后续各季预测误差。</p>
+<p><a id="doc-11--S-C-TECH-03-06"></a><strong>S-C-TECH-03-06</strong>｜Amazon，<em>Fourth Quarter Results</em>，2026-02-05，<a href="https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Fourth-Quarter-Results/default.aspx">官方IR</a>。已读年度AWS、经营与自由现金流以及Jassy的2026集团2000亿美元投资预期；未将产品宣传倍数用作独立实证。</p>
+<p><a id="doc-11--S-C-TECH-03-07"></a><strong>S-C-TECH-03-07</strong>｜Alphabet，<em>Fourth Quarter and Fiscal Year 2025 Results</em>，2026-02-04，<a href="https://www.sec.gov/Archives/edgar/data/1652044/000165204426000012/googexhibit991q42025.htm">SEC原始公告</a>。已读开篇收入和2026年1750亿—1850亿美元投资指引；历史预期保留原信息集，未视为年末实现值。</p>
+<p><a id="doc-11--S-C-TECH-03-08"></a><strong>S-C-TECH-03-08</strong>｜Amazon，<em>Third Quarter Results</em>，2026-10-29，<a href="https://ir.aboutamazon.com/files/doc_earnings/2026/q3/earnings-result/AMZN-Q3-2026-Earnings-Release.pdf">官方IR PDF</a>。已读PDF第1页季度与TTM现金流、Jassy展望，以及第12页AWS补充指标表；未通读全部新品条目或对应10-Q，不推定最新长约集中度。</p>
+<p>具体缺口：三家云业务没有在本轮取得统一的GPU利用率、AI独立利润或云分部资本开支；现有集团财报无法支持这样的精确拆分。Microsoft和Alphabet后续2026季度未完整整合，Amazon最新事件不代表三家同日比较。没有客户逐份合同与回款明细，不能从RPO或投资合作关系计算违约风险与实际回收期。</p>
+</div></details></section><section id="korea"><p class="eyebrow">韩国股市</p><h2>韩国股市</h2><div class="filelist"><a href="#doc-12">费城半导体指数SOX <small>新建 · 概念</small></a><a href="#doc-13">韩国综合股价指数KOSPI <small>新建 · 概念</small></a><a href="#doc-14">杠杆ETF <small>新建 · 概念</small></a><a href="#doc-15">杠杆ETF再平衡的价格反馈 <small>新建 · 关系</small></a><a href="#doc-16">KOSPI三大买盘与边际承接 <small>新建 · 关系</small></a><a href="#doc-17">韩国股市低估值与买盘收缩：2026年10月分析 <small>新建 · 事件分析</small></a><a href="#doc-18">韩国股市低估值与买盘收缩：来源与核读范围 <small>新建 · 来源记录</small></a><a href="#doc-19">ETF申赎与二级市场交易 <small>更新 · 概念</small></a><a href="#doc-20">CTA趋势跟随的价格反馈 <small>更新 · 关系</small></a></div><details class="document" id="doc-12" open><summary><span class="tag">新建 · 概念</span><strong>费城半导体指数SOX</strong><small>C-S2-SOX</small></summary><div class="doc"><p class="placement">为持续研究半导体股票组合及跨市场比较建立独立对象；不与KOSPI混为同一指数。</p><p class="file"><a href="graph/10_concepts/费城半导体指数SOX.md">打开Markdown原文件</a> · step2_draft</p><h1>费城半导体指数SOX</h1>
+<h2>概念定义</h2>
+<p>费城半导体指数（PHLX Semiconductor Sector Index，代码SOX）是由Nasdaq维护、采用修正市值加权的半导体股票指数，用来观察一组在美国上市的半导体相关公司的股票表现。它包含设计、制造、分销、销售及相关设备业务的企业；上市地点与公司所属国家需要分别理解。Nasdaq本轮可读方法书的目标组合为30家符合条件、按市值选择的美国上市半导体公司，允许符合条件的非美国企业证券进入。<a href="#doc-18--sox">官方定义与方法</a></p>
+<h2>概念详解</h2>
+<p>SOX把多家公司的股票价格变化按权重汇总为一个指数。市值大的公司通常有较大初始权重，“修正”表示编制规则还会限制个别公司权重并重新分配，最终涨跌贡献因此取决于实际权重。研究半导体行情时，SOX可以同时受到终端需求、存储和计算产品周期、设备投资、公司盈利以及股票折现条件影响。它衡量上市股权的价格变化，实物出货或行业总利润需要另取相应统计。</p>
+<p>2026-11-13核读的方法书规定年度成分重选、季度权重再平衡。成分重选改变哪些证券进入组合；再平衡调整组合权重，两者会使前后时期的产业暴露发生变化。本轮没有恢复2026年10月20日的完整成分及权重，故不把核读日名单或行情填入当时的历史。</p>
+<p>SOX自身是计算指标。跟踪它的ETF另有基金资产、费用、交易价格及跟踪偏离；使用倍数目标的产品还须读<a href="#doc-14">杠杆ETF</a>的重置周期。一般ETF的份额和申赎见<a href="#doc-19">ETF申赎与二级市场交易</a>。</p>
+<p><a id="doc-12--comparison"></a></p>
+<h2>与KOSPI比较时实际在比较什么</h2>
+<p><a href="#doc-13">韩国综合股价指数KOSPI</a>是另一市场的综合股票组合。两者可以共同受全球半导体需求和AI投资变化影响，但公司构成、产业环节、行业权重、币种及投资者并不相同。共同冲击有时使两者同向，业务和资金条件不同也可以使表现长期分化。</p>
+<p>比较应先选同一观察起止日，将两条序列归一到同一起点，并说明是本币或同一币种、价格或含分红收益。还须处理韩美交易时差：一个市场的收盘可能发生在另一个市场重大消息之前。双轴点位图只展示按各自尺度绘制的路径，不能据线条距离认定价差，也没有自动建立两者必须回归的均衡锚。</p>
+<h2>观测与数据口径</h2>
+<p>关注指数代码及收益版本、当期成分权重、行业分布和主要成分贡献；以日期保存规则和权重。Nasdaq概览在2026-11-13列30个成分、美元计价，这一截面信息用于说明对象身份，本文不采用概览当日行情评价10月事件。</p>
+<p><a id="doc-12--history-20261020"></a></p>
+<h2>本对象的历史：2026年10月韩美半导体相关市场比较</h2>
+<p>华尔街见闻页面显示2026-10-20的文章观察到SOX有企稳迹象，而KOSPI继续承压，并据此提出韩股可能预警全球AI情绪风险的判断。这是文章对两个组合走势的解释。图中没有给出共同盈利冲击、重叠持仓或跨市场订单证据，尚不能确定传递方向。完整图8、当时判断与后续检验条件保存在<a href="#doc-17--cross-market">韩国股市分析</a>。</p>
+<h2>来源</h2>
+<p><a href="#doc-18--sox">S-WS-3784053</a>记录Nasdaq概览及方法书的实际阅读范围，以及文章与图8。本页制度定义核至2026-11-13，历史观察只覆盖该篇10月文章；未接入后续市场结果。</p>
+</div></details><details class="document" id="doc-13" open><summary><span class="tag">新建 · 概念</span><strong>韩国综合股价指数KOSPI</strong><small>C-S2-KOSPI</small></summary><div class="doc"><p class="placement">KOSPI承载明确市场身份、研究样本、估值口径及持续历史，不为每个剔除样本另建节点。</p><p class="file"><a href="graph/10_concepts/韩国综合股价指数KOSPI.md">打开Markdown原文件</a> · step2_draft</p><h1>韩国综合股价指数KOSPI</h1>
+<h2>概念定义</h2>
+<p>韩国综合股价指数（Korea Composite Stock Price Index，KOSPI）是韩国交易所KOSPI市场的综合股票价格指标。KRX官方介绍的可检索摘要说明，它按市值口径计算，以1980年1月4日为100点基准。它用一组上市股权观察该市场表现；韩国全部经济活动、其他股票市场及某个行业各有不同覆盖范围。<a href="#doc-18--kospi">KRX阅读范围</a></p>
+<h2>概念详解</h2>
+<p>指数水平来自所覆盖证券的价格与编制方法。市值口径意味着不同公司价格变化对组合的贡献不同；理解指数涨跌要联系公司权重和行业暴露。大公司价格急变可能主导指数，即使其他公司变化相对温和。研究韩国半导体企业时，还应区分整个KOSPI、某组存储企业和剔除它们后的股票集合。</p>
+<p>指数是观察和产品跟踪的基准，实际交易需要通过股票组合、基金或具体衍生品实施。本轮文章提到的境内宽基、境内单股和离岸杠杆产品具有不同底层范围，不能把其规模都直接当成KOSPI指数头寸。其资产与目标倍数的区别见<a href="#doc-14--holdings">杠杆ETF</a>。</p>
+<p><a id="doc-13--valuation"></a></p>
+<h2>估值与盈利预测的口径</h2>
+<p>远期市盈率把当前价格或组合市值与未来指定期间的预测盈利比较。较低倍数表示按该预测支付的价格较少，可能来自股价下降、盈利预测上修或两者同时变化。它与实际盈利不同：预测仍会因新信息调整，市场也会改变对预测可信度、持续性与风险的判断。<a href="graph/10_concepts/股权风险溢价ERP.md">股权风险溢价ERP</a>进一步解释价格、现金流预期与要求回报如何联系。</p>
+<p>历史分位描述某个估值在选定历史样本中的位置。第11百分位表示它处于该分布较低位置，不能换成未来上涨概率。跨时期比较还要关注行业结构、组合范围、盈利预测期和数据供应商方法是否相同。</p>
+<p>2026年10月文章至少用了三种范围，需分别保存：</p>
+<table>
+<thead>
+<tr>
+<th>观察</th>
+<th>材料中的实际范围</th>
+<th>读数含义</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>KOSPI远期市盈率</td>
+<td>图1橙线为整个KOSPI</td>
+<td>原文称处于极低区间，未给可核的精确末值</td>
+</tr>
+<tr>
+<td>8.4倍、历史第11百分位</td>
+<td>图1蓝线排除Samsung、Hynix、SK Square、SK Inc和Samsung C&amp;T</td>
+<td>这是剔除样本的估值，不能填为整个KOSPI的8.4倍</td>
+</tr>
+<tr>
+<td>预测EPS上行</td>
+<td>图7标注KOSPI ex S/H，即剔除Samsung/Hynix后的前瞻EPS</td>
+<td>反映另一组公司的预测序列，不能据此读取两家存储公司的预测值</td>
+</tr>
+</tbody>
+</table>
+<p><a id="doc-13--history-20261020"></a></p>
+<h2>本对象的历史：2026年10月估值压缩与承接问题</h2>
+<p>页面显示2026-10-20的报道称，KOSPI在当年第三次出现五日跌幅超过15%的调整，盈利预测仍上修，企业回购减速、外资净卖出与境内机构需求有限同时出现。该描述来自新闻及其引用的研究，本轮没有用交易所逐日数据重算五日跌幅或“三次”的窗口。<a href="#doc-17">完整事件与8张原图</a>保留这些观察和判断。</p>
+<p>这段历史提供了一个具体问题：远期估值降低后，哪些主体能够在卖方要求的时间内增加购买？<a href="#doc-16">KOSPI三大买盘与边际承接</a>分别讨论企业、外资和境内机构；<a href="#doc-15">杠杆ETF再平衡的价格反馈</a>解释即使基金净流出有限，存续规模仍怎样可能产生调仓。</p>
+<h2>涉及的关系与比较对象</h2>
+<ul>
+<li><a href="#doc-16">KOSPI三大买盘与边际承接 R-S2-KOSPI-BUYERS</a>：保存该市场买方构成、约束与历史变化。</li>
+<li><a href="#doc-12--comparison">费城半导体指数SOX</a>：两种股票组合的共同产业暴露及差异，比较前统一币种、时点与回报口径。</li>
+</ul>
+<h2>来源</h2>
+<p><a href="#doc-18--kospi">S-WS-3784053</a>。KRX正文访问受限，仅核官方搜索摘要中的指数身份、市值口径及基准；没有取得完整方法书，不补写未经核实的证券资格、权重调整细则或当期全部成分。</p>
+</div></details><details class="document" id="doc-14" open><summary><span class="tag">新建 · 概念</span><strong>杠杆ETF</strong><small>C-S2-LEVERAGED-ETF</small></summary><div class="doc"><p class="placement">具有特殊倍数与重置规则的ETF产品；关联旧ETF页复用基础知识，持仓口径融入本页，不另造持仓节点。</p><p class="file"><a href="graph/10_concepts/杠杆ETF.md">打开Markdown原文件</a> · step2_draft</p><h1>杠杆ETF</h1>
+<h2>概念定义</h2>
+<p>杠杆ETF是通过资产配置、融资或衍生品等安排，追求在指定期间内取得某个基准收益倍数的交易所交易基金。常见产品以日度为目标：例如每日2倍多头产品，目标是基准当日收益的约两倍。倍数、方向和重置周期属于产品规则，需逐只基金确认。SEC投资者公告说明，杠杆及反向产品通常按每日目标设计，也可使用掉期、期货等工具。<a href="#doc-18--leveraged-etf">产品规则说明</a></p>
+<p>本页沿用<a href="#doc-19">ETF申赎与二级市场交易</a>中的基金份额、一级申赎和二级交易知识，增加倍数目标、路径依赖和存续敞口的解释。它与宽基／行业／单股属于不同分类维度：某只产品可以既跟踪宽基又采用杠杆，也可以以单股为标的。</p>
+<h2>概念详解</h2>
+<h3>每日倍数与持有多日的结果</h3>
+<p>基金力求匹配规定期间的收益倍数，随后以变化后的净资产设定下一期间目标。经过多个交易日，基金收益要逐日复合。即使每天恰好达到目标，多日累计收益也可能显著偏离基准累计收益的简单倍数。</p>
+<p><strong>仅为说明复合算术，忽略费用和跟踪偏离：</strong> 基准先涨10%，再跌约9.09%，从100回到100。每日2倍多头基金从100升到120，再下降约18.18%，期末约98.18。两个单日都实现两倍目标，多日仍有损失。若行情持续单向，复合也可能产生另一种偏离；不能把路径影响概括为所有期间必然损耗相同百分比。</p>
+<p><a id="doc-14--holdings"></a></p>
+<h3>“持仓”需要拆成几个不同的量</h3>
+<table>
+<thead>
+<tr>
+<th>量</th>
+<th>它描述什么</th>
+<th>观察时的用途</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>投资者持有的基金份额</td>
+<td>谁拥有基金权益以及份数</td>
+<td>识别持有人换手和基金份额总数变化</td>
+</tr>
+<tr>
+<td>基金净资产／AUM</td>
+<td>基金资产减负债后的权益规模；AUM按具体数据定义核对</td>
+<td>描述存续规模，受收益、申赎和费用共同影响</td>
+</tr>
+<tr>
+<td>基金实际风险敞口</td>
+<td>现货及期货、掉期等工具形成的基础资产风险规模</td>
+<td>比较实际承担多少标的风险，须考虑方向及工具口径</td>
+</tr>
+<tr>
+<td>目标敞口</td>
+<td>当前净资产乘目标倍数等合同规则要求的风险</td>
+<td>与实际头寸比较，判断需要如何调整</td>
+</tr>
+<tr>
+<td>待执行订单</td>
+<td>为接近目标仍需完成的交易</td>
+<td>结合执行时点、工具和市场深度分析潜在冲击</td>
+</tr>
+</tbody>
+</table>
+<p>持有人在交易所出售份额，可以由另一投资者接手；基金层面未必赎回。基金没有净赎回，也可能因价格变化偏离目标倍数而调整底层头寸。其过程见<a href="#doc-15">杠杆ETF再平衡的价格反馈</a>。因此，“资金流出很少”“AUM仍高”和“可能有机械卖压”描述不同层次，不能彼此替代。</p>
+<h3>工具安排决定交易在哪里发生</h3>
+<p>基金可以用现货、期货、掉期或组合形成目标风险。调整衍生品合约会改变基金敞口，相关对手方又可能在其他市场对冲或用库存净额吸收。由此产生的现货订单需要追踪实施路径，不能把基金减少一元名义敞口直接写成一元现货卖出。净资产、衍生品名义额和所交保证金也不能混为同一金额。</p>
+<h2>观测与数据口径</h2>
+<p>研究潜在调仓时，先取得产品清单、标的、倍数、方向及重置规则，再看净资产、净申赎与实际工具头寸。按相同标的和执行时段汇总，才能判断不同产品是否形成共同订单。境内宽基、境内单股和离岸产品即使均以美元折算，也可能涉及不同基础证券和交易时间。</p>
+<p><a id="doc-14--history-20261020"></a></p>
+<h2>本对象的历史：韩国市场的存续规模与有限流出</h2>
+<p>2026-10-20新闻引用的图6同时展示杠杆ETF AUM和累计流入。左图将规模分为境内宽基、离岸和境内单股三组；右图指出境内单股流出有限、离岸产品近期又有流入。报道据此担心存续杠杆规模仍大，急跌时可能继续产生再平衡卖压。</p>
+<p>原图没有逐产品的倍数、方向、合同和交易记录，本轮也未取得这些底表。因此保留图示规模状态与机构风险判断，在<a href="#doc-17--etf">事件的ETF部分</a>维护原图及其具体口径；没有将总AUM换算成已经发生或未来确定的卖出金额。</p>
+<h2>涉及的关系</h2>
+<p><a href="#doc-15">杠杆ETF再平衡的价格反馈 R-S2-LETF-REBALANCE</a>解释固定倍数怎样形成交易，以及订单在什么条件下影响价格。它与<a href="graph/20_mechanisms/ETF申赎套利.md">ETF申赎套利</a>、<a href="#doc-20">CTA趋势跟随的价格反馈</a>分别具有不同触发规则。</p>
+<h2>来源</h2>
+<p><a href="#doc-18--leveraged-etf">S-WS-3784053</a>记录2023-08-29 SEC公告及2026年10月新闻。SEC资料用于一般产品原理，未用它替代韩国基金合同；本轮未建立韩国产品逐只数据库。</p>
+</div></details><details class="document" id="doc-15" open><summary><span class="tag">新建 · 关系</span><strong>杠杆ETF再平衡的价格反馈</strong><small>R-S2-LETF-REBALANCE</small></summary><div class="doc"><p class="placement">日度倍数恢复具有区别于申赎套利和波动率目标的触发过程，独立解释净流出有限时的调仓及价格反馈。</p><p class="file"><a href="graph/20_mechanisms/杠杆ETF再平衡的价格反馈.md">打开Markdown原文件</a> · step2_draft</p><h1>杠杆ETF再平衡的价格反馈</h1>
+<h2>概念定义</h2>
+<p>杠杆ETF再平衡的价格反馈，是指基金为恢复规定收益倍数而调整基础资产敞口，其交易在有限市场承接下影响价格，新价格又改变后续目标与调仓需求的过程。这里重点解释日度固定多头倍数大于1的线性敞口；具体产品的实现方式、方向与执行周期仍按合同判断。</p>
+<h2>概念详解</h2>
+<p><a href="#doc-14">杠杆ETF</a>的净资产与标的敞口同时随行情变化，但变化比例不同，原来的倍数因此发生偏移。恢复倍数可以在基金份额不变时产生交易。基金净申赎、内部再平衡和<a href="graph/20_mechanisms/ETF申赎套利.md">ETF申赎套利</a>是不同交易来源；<a href="graph/10_concepts/风险平价与波动率目标.md">波动率目标</a>则改变风险预算或目标规模，触发依据也不同。</p>
+<p><a id="doc-15--logic-1"></a></p>
+<h2>核心逻辑1：价格变化使旧敞口偏离倍数目标，存续基金因此调仓</h2>
+<p><strong>关联节点／节点组</strong>：<a href="#doc-14">杠杆ETF C-S2-LEVERAGED-ETF</a>、<a href="#doc-19">ETF申赎与二级市场交易 C-FLOW-05</a>。</p>
+<p><strong>时间段</strong>：适用于按日恢复固定倍数的相应产品；本次使用2023年SEC产品说明和2026年10月韩国市场报道，未取得韩国产品合同及实际订单。</p>
+<h3>详细逻辑</h3>
+<p>以无申赎、忽略费用、起点实现每日2倍多头目标的基金为例：净资产100支持200的标的敞口，可理解为持有价值200的线性资产并有100融资。标的下跌10%后，原敞口价值180，融资不变时净资产为80；保持2倍只需要160敞口。基金须减少20敞口才能恢复目标。投资者没有赎回份额，调仓依然出现。</p>
+<p>同样条件下标的上涨10%，原敞口升到220、净资产升到120，新目标240，需要增加20敞口。固定倍数因此使这类基金在上涨后增加风险、下跌后减少风险。这个算例是合同前提下的资产负债关系，没有估计实际韩国基金的杠杆、规模或收益。</p>
+<p>净申赎会同时改变净资产和目标，可能抵消或放大上述交易；衍生品实现还需按相应风险单位换算实际合约。因而高AUM表明还有较大规模可受规则影响，却没有单独确定当日方向与订单量。</p>
+<h3>该逻辑的时间线</h3>
+<p>SEC在2023-08-29公告中解释，杠杆和反向ETF通常按每日目标设计，掉期、期货等可用于实现目标，多日表现取决于逐日复合。该公告支持产品规则解释，没有提供韩国2026年订单。</p>
+<p>2026-10-20新闻称，韩国相关杠杆ETF流出有限、存续规模仍高，摩根大通担心急跌日继续出现机械卖压。图6的AUM与累计流入分组支持研究存续规模，但缺少产品方向和重置参数，不能由该图独立重建卖单。原图及观察集中保存于<a href="#doc-17--etf">韩国事件</a>。</p>
+<h3>该逻辑的预期</h3>
+<p><strong>新闻转述的机构判断，截至页面显示2026-10-20：</strong> 摩根大通认为未充分消化的杠杆头寸使再次抛售风险仍在；材料没有给定下一轮发生日期或卖量。</p>
+<p><strong>本库条件推演，2026-11-13整理，针对该截面以后相同结构下的下一急跌交易日：</strong> 若正向日度杠杆产品仍有较大存续规模、跌幅使实际倍数超过目标，且净申购不足以抵消调整，基金减敞口需求可能增加。若产品方向不同、头寸已经调完或资金流抵消，剩余卖压判断应降低。该推演不报告10月20日之后的实际结果。</p>
+<p><a id="doc-15--logic-2"></a></p>
+<h2>核心逻辑2：调仓集中在有限承接窗口，才可能形成价格反馈</h2>
+<p><strong>关联节点／节点组</strong>：<a href="#doc-14">杠杆ETF C-S2-LEVERAGED-ETF</a>、<a href="graph/10_concepts/市场流动性.md">市场流动性 C-LIQ-MARKET</a>。</p>
+<p><strong>时间段</strong>：适用于相关产品调仓相对市场可成交深度不可忽略的窗口；韩国案例仅有2026年10月新闻中的定性判断。</p>
+<h3>详细逻辑</h3>
+<p>多个基金若以相近时点的价格恢复同向目标，交易需求可能集中到相同现货或期货市场。其他参与者要吸收新增风险，会比较库存、风险预算和价格补偿；当原价附近愿意承接的数量不足，卖方需要让价。若后续目标继续响应新价格，或交易对手为承接衍生品而追加对冲，就可能形成反馈。</p>
+<p>价格影响取决于最终净订单与承接条件。掉期对手方可用相反客户风险抵消一部分敞口，长线买家也可能承接；交易分散或提前执行会改变集中程度。基金规模很大却没有相应订单和深度证据时，只能识别潜在渠道。要判断实际贡献，应将产品规则推导的调仓需求、真实成交、执行时序与深度匹配，区分同时到来的消息重估。</p>
+<h3>该逻辑的时间线</h3>
+<p>2026年10月韩国报道把企业回购减速、外资卖出、机构需求有限与杠杆ETF风险放在同一情境中：一边可能有规则化卖单，另一边即时承接减弱。<a href="#doc-16">KOSPI三大买盘与边际承接</a>展开买方条件。本地文章及8图没有识别ETF订单对指数跌幅的独立贡献。</p>
+<h3>该逻辑的预期</h3>
+<p><strong>本库条件推演，2026-11-13按该材料整理，观察压力交易日及其后数日：</strong> 若调仓净卖单相对深度增大且执行集中，短期让价压力更容易出现；若回购、配置或相反策略增加承接，相同调仓量的冲击可能减弱。调仓完成只表示该来源的边际订单减少，后续走势仍取决于新信息和其他主体需求。</p>
+<h2>来源与覆盖说明</h2>
+<p><a href="#doc-18--leveraged-etf">S-WS-3784053</a>。一般规则与会计算例可以独立理解；韩国案例保留为机构解释，尚未取得逐产品规则、交易对手净额和日内成交，未把该渠道写成已识别的跌幅归因。</p>
+</div></details><details class="document" id="doc-16" open><summary><span class="tag">新建 · 关系</span><strong>KOSPI三大买盘与边际承接</strong><small>R-S2-KOSPI-BUYERS</small></summary><div class="doc"><p class="placement">将韩国市场具体三类主体的行动条件、需求变化和持续历史集中维护；不复制一般流动性定义。</p><p class="file"><a href="graph/20_mechanisms/KOSPI三大买盘与边际承接.md">打开Markdown原文件</a> · step2_draft</p><h1>KOSPI三大买盘与边际承接</h1>
+<h2>概念定义</h2>
+<p>本条关系研究企业股票回购、外资与韩国境内机构的交易，怎样共同改变KOSPI相关股票在给定时间与价格附近的承接能力。“三大买盘”沿用2026年10月报道选出的观察框架，不表示韩国市场全部交易都由这三类资金构成，也不把它们固定为永久买方。</p>
+<h2>概念详解</h2>
+<p><a href="graph/10_concepts/市场流动性.md">市场流动性</a>讨论在一定时间内成交给定数量需要多大价格让步。本关系把一般定义落实到<a href="#doc-13">韩国综合股价指数KOSPI</a>的具体买方构成：公司按回购计划执行，外资按全球组合与资金约束交易，境内机构按各自负债、授权与风险预算行动。三者恢复购买的条件不同，估值下降并不会让它们在同一天自动增加需求。</p>
+<p>企业股票回购是发行人用资金买回本公司股票，执行时形成股票需求并改变现金与股权结构；它与货币市场中的回购融资属于不同安排。授权额度、实际执行和剩余额度要分别观察。外资与境内机构则是身份分组，内部可能包含主动、被动或对冲策略，不能据分组净额推断所有成员的动机。</p>
+<p><a id="doc-16--logic-1"></a></p>
+<h2>核心逻辑1：计划性需求与配置需求同时减弱，卖方需要寻找新的承接</h2>
+<p><strong>关联节点／节点组</strong>：<a href="#doc-13">韩国综合股价指数KOSPI C-S2-KOSPI</a>、<a href="graph/10_concepts/市场流动性.md">市场流动性 C-LIQ-MARKET</a>。</p>
+<p><strong>论证中的主体与变量</strong>：企业回购执行、外资净交易、境内机构配置、卖方执行时限；它们在本页实际解释，不因此额外注册对象。</p>
+<p><strong>时间段</strong>：本次记录页面显示2026-10-20的研究判断，图4主要覆盖2026年1—10月；不把当时三类资金的方向外推到其他时期。</p>
+<h3>详细逻辑</h3>
+<p>企业回购提供的是发行人对自身股票的计划性购买。原先每天执行较多，计划临近完成后减少购买，即使仍在买入，也会使市场比此前少一部分承接。价格降低未必立即带来新计划：公司还要根据授权、现金用途、窗口和执行安排决定。因而“回购结束”首先表示一种需求来源减弱，不能直接换成公司同额净卖出。</p>
+<p>外资根据所持组合、资金进出和风险取向决定韩国股票需求。若部分外资出售，原有头寸就需要由其他参与者承接；若只是少买，新增需求也会减弱。两种状态对订单的贡献不同。境内机构是否接手又取决于其可用资金、持有约束、对回报的判断与执行期限。新闻只给出“需求有限”的观察，没有列出各类机构的约束，因此这里的约束是分析路径，不能写成已证实的某项韩国监管限额。</p>
+<p>当这些来源在卖方需要成交的窗口内都没有足够增量购买，原价附近的买单会较少，卖方通过降价吸引其他愿意承担风险的人。这解释了较低估值和继续下跌可以同时出现。已经成交的每笔交易仍有买方；“无人接盘”描述即时需求不足的市场状态，不能按字面理解为没有任何成交对手。</p>
+<h3>该逻辑的时间线</h3>
+<p>2026-10-20报道转述，三星回购完成、SK海力士接近尾声，外资持续净卖出，本地机构需求有限。图4标题只称调整与回购减速同期发生，纵轴为每日企业购股、百万美元；图中2026年8月底至9月的购股高峰在10月明显减速，末端仍为正。正文“自去年8月底以来”与图中明显加速的年份不一致，本轮不据其确定支撑起点。公司回购披露及逐日分主体交易数据尚未核得。<a href="#doc-17--buyers">事件买盘部分</a>保存原图与差异。</p>
+<p>同一报道将五日跌幅超过15%、极低远期估值和这些资金状态联系起来。这为承接解释提供了同一情境中的观察，尚不能把跌幅分别归因给三类主体，更没有证明资金约束排除了盈利或折现率消息的作用。</p>
+<h3>该逻辑的预期</h3>
+<p><strong>报道转述的机构与作者判断，截至页面显示2026-10-20：</strong> 现有买盘减弱使短期市场脆弱，卖压缓解后可能有较强反弹；材料没有给出回购重启日、机构回归日或指数目标。</p>
+<p><strong>本库条件推演，2026-11-13基于该截面整理，研究其后数个交易日至数周的承接：</strong> 若企业实际执行购买重新增加，或外资和境内机构在相同窗口扩大净购买，且规则化卖压趋缓，即时承接可能改善。若卖方急售延续、配置者仍不愿或不能增加风险，估值进一步下降仍可以伴随价格让步。应以实际执行、分主体净交易、交易深度与价差更新判断，不能仅凭一项新回购授权宣告支撑已经恢复。</p>
+<h2>与其他关系的连接</h2>
+<p><a href="#doc-15">杠杆ETF再平衡的价格反馈</a>说明另一边的规则化交易需求；<a href="#doc-20--korea-20261020">CTA趋势跟随的价格反馈</a>说明信号、原持仓及风险缩放怎样决定订单。这里持续维护买方构成及承接条件，各策略的触发过程留在对应机制。低估值、预测盈利与风险预算的具体讨论保存在<a href="#doc-17--valuation">完整事件</a>。</p>
+<h2>来源与覆盖说明</h2>
+<p><a href="#doc-18">S-WS-3784053</a>。本轮完整阅读新闻与8图，未取得摩根大通原报告、两家公司回购执行公告及韩国分主体逐日数据；因而保留转述归属与条件推演，不报告三类资金各自的价格影响。</p>
+</div></details><details class="document" id="doc-17" open><summary><span class="tag">新建 · 事件分析</span><strong>韩国股市低估值与买盘收缩：2026年10月分析</strong><small>E-WS-3784053</small></summary><div class="doc"><p class="placement">在一个连续分析中保留8图、关键数字、机构判断、竞争解释和跨对象情境。</p><p class="file"><a href="graph/30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md">打开Markdown原文件</a> · step2_draft</p><h1>韩国股市低估值与买盘收缩：2026年10月分析</h1>
+<p>华尔街见闻《韩国跌出“历史级便宜”，为何无人接盘？》页面显示2026-10-20 23:36（北京时间），署名杨宸，主体讨论2026年10月韩股调整并转述摩根大通研究。本文按该本地版本及全部8图整理；没有取得底层原报告、逐日交易底表或后续结果。<a href="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md">原文Markdown</a> · <a href="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.html">离线HTML</a> · <a href="#doc-18">来源记录</a></p>
+<p>文章的问题是：按预测盈利衡量，股票变得便宜，为何仍不足以形成即时购买？它提出资金承接减弱的解释，同时把杠杆ETF、趋势策略和韩美半导体行情联系进来。下面保留这一论证及关键数字，并将观察与解释分开。</p>
+<p><a id="doc-17--valuation"></a></p>
+<h2>估值下降，预测盈利与实际购买之间仍有几步</h2>
+<p>报道称，<a href="#doc-13">KOSPI</a>在当年第三次遭遇五日跌幅超过15%的重挫；整体远期市盈率处于极低区间。图1另外给出剔除多家巨头后的组合约8.4倍远期市盈率、历史第11百分位。蓝线图注排除Samsung、Hynix、SK Square、SK Inc、Samsung C&amp;T，故8.4倍不能记为整个指数的估值。五日跌幅及当年次数未用交易所序列重算。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_001.png" alt="图1：KOSPI及剔除大型公司的远期市盈率；8.4倍、历史第11百分位属于蓝线剔除样本" /></p>
+<p>远期市盈率的分母是预测盈利。股价下降或预测上修都会降低倍数，第11百分位也只是历史样本位置。投资者还要判断预测能否实现、持有期间承担多少风险，以及是否有资金和授权现在买入。价格、盈利预测和倍数存在算术联系，不能把三者当成独立的估值证据；一般估值与要求回报的联系见<a href="graph/10_concepts/股权风险溢价ERP.md">ERP</a>。</p>
+<p>图2使用14日RSI，图3同时画出价格、长期趋势线、均线和RSI。RSI按给定回看期的涨跌构造强弱读数，200日均线平滑过去价格；两者说明已发生的路径。处于超卖或远离均线可以帮助描述压力，仍不能直接确定买家资金或反转日期。图3显示的均线和当前点位采用图内自有尺度，本轮未重建其数据源及全部标线。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_002.png" alt="图2：14日RSI，末端处于低位；原图保留回看期及时间轴" /></p>
+<p><img src="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_003.png" alt="图3：KOSPI价格、长期趋势线、均线和RSI；技术观察按原图保存" /></p>
+<p><a id="doc-17--buyers"></a></p>
+<h2>企业回购减速、外资卖出与境内机构需求弱，是不同的买方变化</h2>
+<p>报道转述三星回购计划已完成、SK海力士接近结束，外资持续净卖出，境内机构需求有限。公司完成计划后，市场少了一部分原先持续执行的买入；外资净卖出需要由其他主体承接；境内机构需求有限则意味着这部分配置者没有补足缺口。少买、主动卖出和等待入场应分别保存。<a href="#doc-16">KOSPI三大买盘与边际承接</a>解释三类主体的行动条件。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_004.png" alt="图4：企业每日购股，单位百万美元；调整与购股减速同期出现" /></p>
+<p>图4覆盖2026年1—10月，8月底至9月购股明显加速，随后减速，末端仍为正；标题用的是“同期发生”。因此它可以支持买入速度下降的观察，尚未证明回购变化造成了多少跌幅。正文写“自去年8月底以来”，与图中明显加速的2026年8月底存在年份差异；未回查原报告及公司公告，本次保留该差异，不据相对表述确定2025年回购起点。</p>
+<p>成交已经发生时一定有买方。“无人接盘”在此描述原价附近、卖方要求的时间内，愿意承接的数量不足。卖方因此可能继续让价。估值吸引力与即时执行能力分属不同环节；长线投资者也可能因风险预算、授权或对盈利的不同判断而等待。后几种理由属于解释路径，报道没有提供各机构具体约束，不能写成已核事实。</p>
+<p><a id="doc-17--trend"></a></p>
+<h2>趋势策略的目标变化，与已经持有的头寸分别观察</h2>
+<p>报道认为趋势跟随资金已由极度净多转为净空，并将空头回补视为短线反弹的可能动力。图5的纵轴实际是动量信号，标题也保留“likely”。这支持摩根大通对趋势方向的推断，没有给出全行业实际净空头或待执行订单。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_005.png" alt="图5：动量信号及“可能转净空”的研究判断；信号不是实际持仓调查" /></p>
+<p>趋势信号先形成目标方向，再结合净资产、波动率预算、旧持仓和执行约束成为订单。由多转空可能产生卖出；若转空已经完成，进一步缩小风险反而可能需要买回。故已发生的转仓与未来剩余卖压不能重复计算。<a href="#doc-20--korea-20261020">CTA机制中的本次历史补录</a>将该图接入已有信号—持仓—订单解释。</p>
+<p><a id="doc-17--etf"></a></p>
+<h2>杠杆ETF流出有限，存续规模仍可能承担再平衡需求</h2>
+<p>图6左侧按境内宽基、离岸、境内单股分组展示杠杆ETF AUM，单位百万美元；高峰后规模下降，但存续规模仍较大。右侧为累计流入，标题称境内单股流出温和、离岸产品近期又有流入。AUM包含净值变化，累计流入依赖原始统计起点和方法，两者分别观察。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_006.png" alt="图6：左为杠杆ETF AUM，右为累计流入；单位均为百万美元，分组范围并不相同于一个统一KOSPI头寸" /></p>
+<p><a href="#doc-14--holdings">杠杆ETF的持仓说明</a>区分持有人份额、基金净资产、实际敞口、目标敞口和待执行订单。基金份额没有赎回，行情变化仍可使其偏离每日目标，进而调仓。例如每日2倍多头、净资产100、敞口200，在标的下跌10%后变为净资产80、旧敞口180，新目标160，需要减少20敞口；这是说明规则的假设算例，未估计韩国基金实际卖量。</p>
+<p>文章将存续杠杆风险视为再次抛售的隐患。这是一条具体、可研究的渠道：产品规则可能产生订单，买方承接又可能不足。<a href="#doc-15">完整机制</a>解释两者怎样形成反馈。原图未列各产品标的、正反方向、倍数和实施工具，本文也未取得基金合同，因而没有把总AUM直接换算成某一金额的现货卖压。</p>
+<p><a id="doc-17--earnings"></a></p>
+<h2>盈利预测上修支持什么，仍未解释什么</h2>
+<p>正文称三星与SK海力士股价下跌而其远期盈利预测上调，工业、金融、医疗等板块也继续上修。图7展示的是KOSPI ex S/H的前瞻EPS，即剔除Samsung/Hynix后的预测序列；不能从该图直接读取两家存储公司的预测。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_007.png" alt="图7：剔除Samsung/Hynix后的KOSPI前瞻EPS估计；末端仍处较高水平" /></p>
+<p>报道据价格与预测盈利背离，倾向将本轮下跌解释为资金与风险偏好主导，并认为压力消退后可能反弹。该推断有启发性：价格弱势可以与分析师仍上调预测同时出现。但盈利预测的更新可能滞后，市场也会更早改变对远期需求、尾部风险或盈利持续性的判断。两条序列背离没有单独排除基本面消息；需要预测版本、形成时点与实际订单进一步区分原因。</p>
+<p><a id="doc-17--cross-market"></a></p>
+<h2>SOX与KOSPI分化：共同产业暴露下的竞争解释</h2>
+<p><a href="#doc-12">SOX</a>观察美国上市半导体相关股，<a href="#doc-13">KOSPI</a>观察另一个市场的综合组合。图8显示两者近期路径分化，文章认为美国半导体有企稳迹象、韩国仍弱，并提出韩国若守不住支撑，美股半导体反弹可能受阻的判断。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_008.png" alt="图8：SOX与KOSPI双轴点位；不同坐标轴的距离不等于可交易价差" /></p>
+<p>两种组合可能共同暴露于AI投资和半导体需求，也会因业务结构、权重、币种、交易时差和投资者不同而分化。若同一需求冲击开始影响两地盈利，或共同持有人缩减风险，跨市场传递可以形成具体路径；若分化主要来自韩国回购及基金调仓，两地行情则可以继续不同步。图8没有识别哪种路径，双轴点位本身也未建立必须收敛的价格锚。因此保留文章的风险预警及其条件，不将“终将收敛或共振”写成已确立的规律。</p>
+<p><a id="doc-17--expectations"></a></p>
+<h2>当时判断与下一步可以对照的观察</h2>
+<p>截至文章页面显示2026-10-20，报道转述的摩根大通判断包括：杠杆敞口仍高，再次抛售风险未消；趋势转空可能为回补创造条件；买盘与波动环境改善前，便宜未必形成支撑。文章另外提出盈利预测维持、压力缓解后可能较强反弹，以及韩股可能预警美股半导体反弹受阻。这些判断都未给出完整数值目标和明确实现期限，本轮不补造。</p>
+<p><strong>本库于2026-11-13基于该截面作条件推演，研究其后数个交易日至数周：</strong> 若实际回购和机构净购买恢复、杠杆产品待调敞口减少、交易价差及深度改善，承接解释会获得更多支持；若盈利预测转为下修，或统一币种后的两地半导体组合继续分化，则需要调整原先的流动性与共同产业风险解释。以上只是按当时材料提出的检验方向，没有使用10月20日之后的实现结果。</p>
+<h2>相关知识</h2>
+<p><a href="#doc-12">SOX</a> · <a href="#doc-13">KOSPI</a> · <a href="#doc-14">杠杆ETF及持仓</a> · <a href="#doc-16">三大买盘</a> · <a href="#doc-15">杠杆再平衡</a> · <a href="graph/10_concepts/市场流动性.md">市场流动性</a></p>
+</div></details><details class="document" id="doc-18" open><summary><span class="tag">新建 · 来源记录</span><strong>韩国股市低估值与买盘收缩：来源与核读范围</strong><small>S-WS-3784053</small></summary><div class="doc"><p class="placement">集中登记本地正文8图、补充一手定义及实际核读边界，正文以链接复用。</p><p class="file"><a href="graph/40_sources/S-WS-3784053.md">打开Markdown原文件</a> · step2_draft</p><h1>韩国股市低估值与买盘收缩：来源与核读范围</h1>
+<h2>本地材料</h2>
+<ul>
+<li>文章：《韩国跌出“历史级便宜”，为何无人接盘？》，华尔街见闻，页面署名杨宸，ID3784053。<a href="https://wallstreetcn.com/articles/3784053">原地址</a></li>
+<li>页面显示时间2026-10-20 23:36（北京时间）；本地取得时间2026-11-04 16:03:47，2026-11-13重新通读正文并查看全部8图。显示时间保留为页面信息，未回查最初发布日期。</li>
+<li><a href="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md">Markdown正文</a> · <a href="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.html">HTML阅读版</a> · <a href="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/metadata.json">metadata.json</a>。正文转述摩根大通观点，本轮未取得原研报。</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>本地图片</th>
+<th>内容与实际核读</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_001.png">图1</a></td>
+<td>KOSPI及剔除样本远期PE；8.4倍、第11百分位与五家剔除名称</td>
+</tr>
+<tr>
+<td><a href="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_002.png">图2</a></td>
+<td>14日RSI，时间轴延伸至2026年10月</td>
+</tr>
+<tr>
+<td><a href="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_003.png">图3</a></td>
+<td>KOSPI技术图、长期趋势线、均线与RSI；未复建行情和标线算法</td>
+</tr>
+<tr>
+<td><a href="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_004.png">图4</a></td>
+<td>每日企业购股、百万美元，2026年1—10月；末端仍为正，8月底加速后减速</td>
+</tr>
+<tr>
+<td><a href="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_005.png">图5</a></td>
+<td>动量信号；标题保留likely，未视为实际行业仓位</td>
+</tr>
+<tr>
+<td><a href="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_006.png">图6</a></td>
+<td>杠杆ETF AUM及累计流入，境内宽基／单股与离岸分组；未取得产品底表</td>
+</tr>
+<tr>
+<td><a href="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_007.png">图7</a></td>
+<td>KOSPI ex S/H前瞻EPS；与正文两家存储公司预测的主语不同</td>
+</tr>
+<tr>
+<td><a href="../../materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_008.png">图8</a></td>
+<td>SOX与KOSPI双轴点位；未据此认定收敛或传播方向</td>
+</tr>
+</tbody>
+</table>
+<p>图中近期轴标主要为2026年10月，与页面显示时间大体一致；正文“去年8月底”与图4明显购股加速的2026年8月底不一致，未据相对表述确定回购起始年。数字仍保留新闻或图表的转引身份，未将读图近似值当成底层逐日数据。</p>
+<p><a id="doc-18--sox"></a></p>
+<h2>Nasdaq：SOX身份与方法</h2>
+<p>2026-11-13核读<a href="https://indexes.nasdaq.com/Index/Overview/SOX">Nasdaq SOX概览</a>的Index Description与Quick Facts，采用修正市值加权、半导体业务范围、30个成分与美元计价字段；未把当前行情填入10月事件。</p>
+<p>另读取<a href="https://indexes.nasdaq.com/docs/methodology_SOX.pdf">SOX方法书</a>的正文PDF页1—4及页7变更记录（8页版本，版权2026）：采用美国上市证券、无特定公司国别要求、30只选择、修正市值权重及年度重选／季度再平衡原则。未复核外引的公司行动和通用计算手册，未恢复2026-10-20名单与实际权重。</p>
+<p><a id="doc-18--kospi"></a></p>
+<h2>KRX：KOSPI基础定义</h2>
+<p>2026-11-13检索KRX官方<a href="https://global.krx.co.kr/contents/GLB/02/0201/0201010100/GLB0201010100.jsp">英文市场介绍</a>与<a href="https://open.krx.co.kr/contents/OPN/01/01010101/OPN01010101.jsp">韩文介绍</a>。官方检索摘要支持KOSPI身份、市值计算及1980-01-04为100点的基准。页面正文请求受限，其中韩文页返回403；本轮没有取得完整方法书或成分明细，未把摘要写成方法全读。</p>
+<p><a id="doc-18--leveraged-etf"></a></p>
+<h2>SEC：杠杆ETF的日度目标</h2>
+<p><a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec">Updated Investor Bulletin: Leveraged and Inverse ETFs</a>，SEC投资者教育办公室，2023-08-29，2026-11-13核读定义、每日重置、衍生品实现、多日复合及单股产品段落。采用一般产品原理，未将美国说明直接当作韩国特定产品合同。稿中的100／200净资产和敞口算例是本库在明确假设下的会计推导，不是文章实测数据。</p>
+<h2>制作去向</h2>
+<ul>
+<li><a href="#doc-17">完整事件分析</a>：全部8图、估值与盈利口径、主体变化、机构预期及竞争解释。</li>
+<li><a href="#doc-12">SOX</a>、<a href="#doc-13">KOSPI</a>、<a href="#doc-14">杠杆ETF</a>：基础对象及特有观测口径。</li>
+<li><a href="#doc-16">KOSPI三大买盘</a>、<a href="#doc-15">杠杆ETF再平衡</a>：具体承接关系和可复用产品过程。</li>
+<li><a href="#doc-19--leveraged-etf-layer">ETF旧页补充</a>、<a href="#doc-20--korea-20261020">CTA历史补录</a>：接回已有基础，减少重复。</li>
+</ul>
+<h2>尚未核实的具体事项</h2>
+<p>未取得摩根大通原研究及其样本构造，未回查两家公司回购完成公告与逐日执行、韩国分主体交易和ETF合同／头寸数据。因此五日跌幅次数、公司回购状态及行业净空头等保留原转述归属；没有据此计算三类资金或ETF对跌幅的因果贡献，也没有补录后续市场结果。</p>
+</div></details><details class="document" id="doc-19" open><summary><span class="tag">更新 · 概念</span><strong>ETF申赎与二级市场交易</strong><small>C-FLOW-05</small></summary><div class="doc"><p class="placement">增加杠杆基金内部调仓这一层及案例入口；原份额、申赎与历史统计解释保留。</p><p class="file"><a href="graph/10_concepts/ETF申赎与二级市场交易.md">打开Markdown原文件</a> · reviewed_seed</p><h1>ETF申赎与二级市场交易</h1>
+<blockquote>
+<p>执笔：<code>/root/full_b019</code>；制作日2026-10-28。历史统计覆盖2024年，所用ICI报告发布于2025-04-28，原统计资料截至该日；动态制度说明于原制作日核读。2026-11-13补入杠杆产品层次与2026-10-20韩国案例，未扩展原行业统计序列。</p>
+</blockquote>
+<h2>概念定义</h2>
+<p>ETF申赎是基金与符合条件的申赎参与者之间，以一篮子资产、现金或约定组合交换基金份额的一级市场过程：申购创造份额，赎回注销份额。二级市场交易则是投资者之间买卖已经存在的ETF份额，钱付给卖方，单笔成交本身不改变基金份额总数或基金持仓。</p>
+<p>因此，“某ETF今天成交100亿元”和“净申购100亿元”是两件事。前者衡量份额换手规模，后者描述基金一级市场净发行的价值。二者会通过做市和套利连接，但不能相互替代。SEC说明，美国通常由授权参与人（Authorized Participant，AP）直接与基金申赎，普通投资者在交易所买卖；中国市场参与资格和代理路径须按基金合同与交易所安排，不能把美国AP制度逐字套用。<a href="#doc-19--S-C-FLOW-05-01">S-C-FLOW-05-01</a>、<a href="#doc-19--S-C-FLOW-05-03">S-C-FLOW-05-03</a></p>
+<h2>概念详解</h2>
+<h3>两个市场分别发生了什么</h3>
+<p>假设投资者甲向乙出售1万份ETF。基金内部证券不因这笔买卖而转给乙，也不需要为甲赎回；登记结算完成后，只是1万份的持有人变了。中介可以用库存满足客户买卖，也可以同时对冲风险。只有当中介或其他合格主体进一步申赎，基金层面的份额和资产才发生相应变化。</p>
+<p>申购时，参与者按当日篮子规则交付资产及现金调整，基金发行一个或数个最小申赎单位；赎回时交回相应份额，取得约定资产或现金。美国SEC投资者说明用5万份举例，但它不是所有产品的统一法定单位。最小申赎单位与二级市场最小买卖单位也不同：一名投资者能买100份，不意味着能向基金赎回100份。<a href="#doc-19--S-C-FLOW-05-01">S-C-FLOW-05-01</a></p>
+<p>申赎能力使ETF价格与组合价值保持联系，但授权不是无条件义务。基金的开放状态、可用篮子、中介资产负债表和执行成本，会决定何时值得申赎。套利的完整执行见<a href="graph/20_mechanisms/ETF申赎套利.md">ETF申赎套利</a>。本页保留必要结论：市场价可以偏离净值，观察到偏离不等于可以按该净值无成本成交。</p>
+<h3>实物、现金及现金替代怎样改变交易位置</h3>
+<p>实物申购把已有证券交给基金，基金不必再在市场买入同一批证券。实物赎回把证券交给赎回者，基金也不必先卖掉证券换现金。这不表示基础资产市场完全不受影响：申购者可能先买篮子，赎回者可能随后出售，或者把资产留在库存中。真正发生交易的主体和时间不能只从份额变化推定。</p>
+<p>现金申购则由基金收到现金并按投资安排取得资产；现金赎回通常需要基金准备支付现金。混合篮子中的现金替代用于某些成分无法或不宜实物交付的情形，预估金额、溢价／折价和最终退补按产品条款执行。它不同于把篮子净值与份额净值配平的现金差额。</p>
+<p>上交所FAQ说明，申赎对价可含组合证券、现金替代、现金差额和其他对价，申请提交后不得撤销；每日开市前发布申购赎回清单。其基金档案还列示现金替代标志、比例、最小申赎单位和当日限额等字段。因而知道“这是一只股票ETF”不足以确定当日能怎样申购，必须读当天清单及基金合同。<a href="#doc-19--S-C-FLOW-05-03">S-C-FLOW-05-03</a>、<a href="#doc-19--S-C-FLOW-05-05">S-C-FLOW-05-05</a></p>
+<p>美国2019年Rule 6c-11允许符合条件的ETF使用custom baskets，即不一定按全部持仓比例构成的篮子，但需要书面政策和审查程序。这进一步说明：基金持仓、申赎篮子和指数成分是相互关联的三个清单，不能当成同一张表。<a href="#doc-19--S-C-FLOW-05-02">S-C-FLOW-05-02</a></p>
+<h3>份额、净资产与成交额的算术</h3>
+<p>设期末份额(N_t)，期内申购份额(C_t)、赎回份额(R_t)，其他份额调整(J_t)包括拆分、合并等：</p>
+<p>[
+N_t-N_{t-1}=C_t-R_t+J_t.
+]</p>
+<p>单位是“份”。剔除(J)后，净变化才是净申赎份额；同日申购100万份、赎回90万份，净增加10万份，但一级市场总活动量为190万份。净额很小不代表申赎渠道不活跃。</p>
+<p>设每份净值(v_t)，基金净资产(A_t=N_tv_t)，则恒等式为：</p>
+<p>[
+A_t-A_{t-1}=N_{t-1}(v_t-v_{t-1})+v_t(N_t-N_{t-1}).
+]</p>
+<p>两项分别是旧份额对应的净值变化，以及按期末净值估值的份额变化。它是会计分解，不说明资金何时进出。(v_t\Delta N)只是常见估计：若期内多次不同净值申赎、现金分红、合并或实物转入，精确流量应按各次实际估值及数据定义计算。净资产增长不能直接称为净流入，实物申购价值也不一定对应外部新增现金。</p>
+<p><strong>假设算例。</strong> 昨日1亿份，每份净值1元，净资产1亿元。今日净增1,000万份，期末净值1.05元，净资产1.155亿元，增加1,550万元。其中500万元来自原1亿份的净值增长，1,050万元是新增份额按期末净值估值。若今日二级成交5,000万份、平均成交价1.04元，成交额为5,200万元。这三个金额描述不同对象，不能把5,200万元叫净流入，或把1,550万元全部算申购。</p>
+<p>二级成交额为(\sum_k p_kq_k)，成交量为(\sum_k q_k)，其中(k)为每笔成交，(p)为每份价格、(q)为份数。每笔交易同时有买卖双方；同一份额在一天内多次转手可以重复计入成交量。把全部买单金额称为“流入”却不处理相等的卖出，是把交易方向标签误当基金发行。</p>
+<h3>净值、市场价与估算净值的边界</h3>
+<p>每份净值是基金净资产除以份额；二级市场价格是成交或报价。溢折价常用((P/NAV-1)\times100%)，但只有同一时间口径的比较才适合解释相对贵贱。海外市场休市、债券估值更新较慢、汇率变化时，旧NAV与当前市场价可能承载不同信息；盘中估算净值也不是可保证执行的赎回报价。</p>
+<p>跟踪误差比较基金回报与基准回报；溢折价比较市场价格与净值；份额变化比较一级市场净发行。基金可以跟踪指数良好而短暂溢价，也可以份额大增而二级价格下跌。后者可能是投资者在下跌时增持，也可能涉及对冲和产品转换，单靠份额序列无法确定动机。</p>
+<p><a id="doc-19--leveraged-etf-layer"></a></p>
+<h3>杠杆产品还有内部目标调整这一层</h3>
+<p>ETF持有人换手、基金净申赎、基金内部调仓分别改变不同的量。<a href="#doc-14--holdings">杠杆ETF</a>在份额不变时，也可能因净资产和旧敞口随价格变化而偏离倍数目标，进而买卖现货或衍生品。其具体过程由<a href="#doc-15">杠杆ETF再平衡的价格反馈</a>维护，本页的申赎统计不能直接替代它。</p>
+<p>2026-10-20韩国报道同时展示杠杆ETF AUM和累计流入，并提出流出有限时仍可能存在机械卖压。AUM和流量本身没有给出产品倍数、方向和待执行订单；<a href="#doc-17--etf">该次事件</a>保留原图及机构判断。此例说明净赎回较少并不等于基金内部交易较少。</p>
+<h2>观测与数据口径</h2>
+<table>
+<thead>
+<tr>
+<th>数据</th>
+<th>核对重点</th>
+<th>能说明什么</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>份额总数及变动</td>
+<td>记录日／结算日、拆并份额、转换与合并</td>
+<td>净发行数量，不能识别每个最终买家</td>
+</tr>
+<tr>
+<td>申购和赎回总额</td>
+<td>毛额与净额、现金与实物、是否含红利再投资</td>
+<td>一级活动规模和净发行价值</td>
+</tr>
+<tr>
+<td>二级成交</td>
+<td>单边成交额、场所覆盖、币种和交易时间</td>
+<td>换手及交易活跃度</td>
+</tr>
+<tr>
+<td>净资产和净值</td>
+<td>分红、估值时间、费用、外汇折算</td>
+<td>规模和资产回报，须分开解释</td>
+</tr>
+<tr>
+<td>申赎清单</td>
+<td>日期、最小单位、暂停或限额、现金替代与退补</td>
+<td>当天实际申赎条件</td>
+</tr>
+<tr>
+<td>市场价与买卖价差</td>
+<td>收盘价或中间价、与NAV时点匹配</td>
+<td>投资者买卖成本及价格偏离</td>
+</tr>
+</tbody>
+</table>
+<p>“资金流入”数据供应商可能用份额差乘净值，也可能用规模扣除回报，或直接汇总申赎记录。比较前应读方法。两个方法在分红、转换、数据修订或期内大幅波动时会不一致。行业统计也可能包括商品产品，而某一监管说明仅涵盖注册投资公司，应分别标明统计范围。</p>
+<h2>本对象的历史与判断</h2>
+<h3>2019年：美国申赎制度从逐案豁免走向统一规则</h3>
+<p>SEC于2019-09-25通过Rule 6c-11，合格ETF可在满足条件后不再逐一申请豁免；规则2019-12-23生效。官方指南要求披露上一营业日净值、市场价和溢折价，最近30个自然日买卖价差中位数；超过2%的溢折价持续超过7个交易日还须说明相关原因。该门槛是披露条件，不是价格偏离必会在第八天纠正的承诺。<a href="#doc-19--S-C-FLOW-05-02">S-C-FLOW-05-02</a></p>
+<p>SEC当时的目标是提高一致性、透明度和竞争；本页未以行业随后增长来独立证明该规则造成增长。指南列出的适用范围也不是所有ETP，不能直接延伸到交易所票据或商品信托。</p>
+<h3>2023—2024：交易活跃和净发行是两条不同历史</h3>
+<p>ICI《2025 Investment Company Fact Book》记录，美国ETF净发行额由2023年<strong>5,970亿美元</strong>升至2024年<strong>11,440亿美元</strong>，该口径包括红利再投资。与此同时，ETF二级成交占美国股票市场成交金额的日均比例由<strong>30%降至27%</strong>。净发行创新高与成交占比下降可以同时成立，因为两者分母和经济含义不同。<a href="#doc-19--S-C-FLOW-05-04">S-C-FLOW-05-04</a></p>
+<p>同一报告记录，2024年ETF总活动中平均约<strong>83%<strong>发生在二级市场；美国本土股票ETF一级市场毛发行加毛赎回为</strong>7.0万亿美元</strong>。7.0万亿不是净流入，83%也不是83%的资金留在基金以外。这是行业活动统计，不能把每一只ETF、每一个压力日都固定为该比例。上述数字于2025年报告中回顾2024年，非2024年初的预测。</p>
+<h3>可保存的预期及后续边界</h3>
+<p>本次未取得2024年初关于全年净发行量的原始调查，故不补造“市场原先预计多少”。基于已核资料，本库条件推演是：如果二级买卖能由已有份额和库存匹配，成交放大可以不伴随基金申赎；若持续需求超出库存且申赎可执行，份额更可能调整。若篮子交易成本或申赎限制提高，即使成交活跃，价格偏离也可能延续。观察上应同时看净发行、毛申赎、溢折价和申赎状态，而不是由单个成交额推断新增配置。该推演整理于2026-10-28，未核2025—2026结果，未给流量或回报预测。</p>
+<h2>涉及的关系</h2>
+<ul>
+<li><a href="graph/20_mechanisms/ETF申赎套利.md">ETF申赎套利 R-MARKET-04</a>：本对象提供一级篮子与二级份额的制度接口，机制页解释价差、执行成本与融资约束。</li>
+<li><a href="graph/20_mechanisms/指数调整的被动资金效应.md">指数调整的被动资金效应 R-MARKET-05</a>：指数换仓可改变基金内证券配置而不改变份额；申赎则改变份额。两种基础资产交易来源需要分开。</li>
+</ul>
+<h2>来源与待补问题</h2>
+<p><a href="#doc-18--leveraged-etf">S-WS-3784053</a>补充2023年SEC杠杆产品说明及2026-10-20韩国案例；新增内容于2026-11-13编辑，原统计序列的覆盖区间保持原段所列。</p>
+<p><a id="doc-19--S-C-FLOW-05-01"></a><strong>S-C-FLOW-05-01</strong> — SEC投资者教育办公室，2023-02-23，<em>Updated Investor Bulletin: Exchange-Traded Funds (ETFs)</em>。<a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-24">原文</a>。已读定义、NAV及How do ETFs work中的市场交易、申赎和价格差；未用其说明替代具体产品招募书。</p>
+<p><a id="doc-19--S-C-FLOW-05-02"></a><strong>S-C-FLOW-05-02</strong> — SEC，<em>Exchange-Traded Funds: A Small Entity Compliance Guide</em>，2019年规则实施说明。<a href="https://www.sec.gov/investment/exchange-traded-funds-small-entity-compliance-guide">原文</a>。已读适用范围、豁免、篮子、网站披露和生效日期；未通读正式规则全部法律例外，本文仅说明所读规则框架。</p>
+<p><a id="doc-19--S-C-FLOW-05-03"></a><strong>S-C-FLOW-05-03</strong> — 上海证券交易所，<em>ETF相关常见问题</em>，相关单题公开日期2024-01-18，目录页动态更新。<a href="https://www.sse.com.cn/assortment/fund/etf/question/">原文</a>。已读问题1—7、15—17；本稿只采用买卖与申赎流程，不把FAQ中的简化风险评价作为投资结论。</p>
+<p><a id="doc-19--S-C-FLOW-05-04"></a><strong>S-C-FLOW-05-04</strong> — Investment Company Institute，<em>2025 Investment Company Fact Book</em>，2025-04-28，日期已核<a href="https://www.ici.org/news-release/25-factbook">发布稿</a>。<a href="https://www.ici.org/files/2025/2025-factbook.pdf">原始PDF</a>。已核第4章印刷页61—65，Figure 4.2、4.3、4.4及注释；净发行含红利再投资，商品ETF统计含部分非1940法注册产品。未提取2025—2026月报，未复算底层交易数据。ICI是行业统计发布者，其需求解释保留机构归属。</p>
+<p><a id="doc-19--S-C-FLOW-05-05"></a><strong>S-C-FLOW-05-05</strong> — 上海证券交易所，<a href="https://www.sse.com.cn/disclosure/fund/etflist/">申购赎回清单入口</a>及<a href="https://etf.sse.com.cn/fundlist/funddetail/index.shtml">基金档案字段页</a>，动态页，制作日核读。已读清单说明和字段；未加载出指定基金当日清单，不据此声称某只ETF当前开放申赎。</p>
+<p>具体缺口：缺少单只基金同日完整申赎、结算份额与基础证券交易记录，无法由行业总量估计机械冲击；未提取2025—2026完整流量和历史预测。跨境、债券及现金替代产品执行细则仍需逐基金核对，不能用统一算例替代合同。</p>
+</div></details><details class="document" id="doc-20" open><summary><span class="tag">更新 · 关系</span><strong>CTA趋势跟随的价格反馈</strong><small>R-MARKET-09</small></summary><div class="doc"><p class="placement">在logic-1历史及预期下补入韩国动量信号案例，区分模型目标和已观察持仓；不重写旧机制。</p><p class="file"><a href="graph/20_mechanisms/CTA趋势跟随的价格反馈.md">打开Markdown原文件</a> · reviewed_seed</p><h1>CTA趋势跟随的价格反馈</h1>
+<blockquote>
+<p>执笔：<code>/root/full_b065</code>，GPT-6-Astra，medium；2026-10-28制作。原历史与管理人判断核至2025-06-17；2026-11-13补入2026-10-20韩国新闻判断，仍未取得2026年行业实际持仓或触发点。</p>
+</blockquote>
+<h2>概念定义</h2>
+<p>CTA趋势跟随的价格反馈，是指采用趋势规则的管理期货资金根据既有价格路径调整多空持仓，其订单在有限承接能力下又改变价格，进而影响后续信号与调仓的过程。CTA是业务身份，并不都采用趋势策略；本文只讨论其中的趋势跟随部分。价格突破、真实待执行订单及成交产生的价格冲击，是三个不同环节，不能用一个模型触发点替代整条因果链。</p>
+<h2>概念详解</h2>
+<p>趋势策略通常把历史收益或均线差转换为方向及强度，再按波动、相关性、净资产和市场容量决定头寸。快慢信号各自有不同记忆，因此同一价格位置可能使快速策略转空、慢速策略仍持多；资金并不存在天然统一的开关。</p>
+<p>研究趋势策略有收益，与证明它造成趋势，也不是同一件事。信息逐步被其他投资者吸收、实体套期保值需求和宏观消息持续变化，都可能先创造趋势，CTA只是响应。CTA的交易又可能强化已有变化，但是否有足够价格影响，须另外验证。下文先推导交易需求，再讨论容量及竞争解释。</p>
+<p><a id="doc-20--logic-1"></a></p>
+<h2>核心逻辑1：价格路径通过信号和风险缩放改变订单，触发区间随状态移动</h2>
+<p><strong>关联节点／节点组</strong>：<a href="graph/10_concepts/趋势跟随与CTA.md">趋势跟随与CTA C-FLOW-11</a>。</p>
+<p><strong>时间段</strong>：适用于跨资产期货／远期的规则化趋势管理；论文样本为1985—2009年，近期实例为2024年4月、2025年4月及2026年10月韩国报道。</p>
+<h3>详细逻辑</h3>
+<p>一个教学形式是(N_t=A_tb s_t v/\widehat\sigma_t)：(A_t)为账户净资产，(b)为该市场规模预算，(s_t\in[-1,1])为趋势方向及强度，(v)与(\widehat\sigma_t)为同口径年化风险尺度和估计波动率，(N_t)为目标名义金额。正号为多头，负号为空头。实际合约目标还须根据乘数、价格和币种换算，并减去已有张数才得到订单；久期型利率工具通常还需用DV01统一风险。</p>
+<p>价格下降可能削弱多头信号，使目标减少；继续下跌可以使信号转负，先平多再开空形成同方向卖单。但已经持有很大空头的资金，未必继续卖：若波动上升更快，风险缩放要求缩小空头，执行是买回。故“价格跌破均线”不能单独判断全部CTA净流量。净资产损失、赎回、组合相关性及市场限额也会改变目标。</p>
+<p><strong>假设算例。</strong> 账户净资产1亿元，(b=0.2)、(v=10%)，估计波动20%，信号由+1变−1。其他量不变时目标从多1000万元变空1000万元，对应约2000万元的方向转换交易，而非1000万元。如果同一时点波动升至40%，新的目标只为空500万元，转换需求约1500万元。若原本已空1000万元，信号仍为−1但波动翻倍，则反而需买回约500万元。这里比较的是固定名义金额的简化静态情景，未计价格、净资产和合约整数变化。</p>
+<p>触发区间也会移动。采用过去12个月超额收益正负作为信号时，下个月比较的起点会向前滚动，即使今天价格不变，旧观测退出仍可改变信号。均线交叉规则则由整段历史价格和今日更新共同决定阈值。多速度、连续强度、缓冲带与分期成交让实际响应成为区间；发布“某点位必卖某金额”的机构模型，至少要说明历史价格版本、风险估计、初始头寸和执行期限。</p>
+<h3>该逻辑的时间线</h3>
+<p>Moskowitz、Ooi、Pedersen的2012年论文研究58种工具，核心构造在1985年1月至2009年12月以过去12个月方向决定下月持有，按单合约40%事前年化波动尺度缩放。40%是研究标准化参数，分散组合样本波动约12%，并非行业统一风险目标。该构造清楚说明方向与规模是两个步骤，但不提供今天的CTA触发价。<a href="#doc-20--S-R-MARKET-09-01">S-R-MARKET-09-01</a></p>
+<p>2024年4月提供了跨资产反例。Man Group于5月22日报告标普500当月总回报−4.1%，BTOP50为+1.7%、SG Trend为+1.5%；其代表性趋势程序的股票多头亏损，由债券与美元方向收益抵消。约100市场的程序是说明性组合，不是两个指数的完整持仓。只看股票下跌而断言全部CTA失去资本、必须全市场卖出，会漏掉其他资产盈利及风险贡献。<a href="#doc-20--S-R-MARKET-09-02">S-R-MARKET-09-02</a></p>
+<p>2025年4月，Korgaonkar在6月17日复盘政策反转，认为趋势资金在下跌中调整，随后快速反弹使新持仓承压。他报告截至4月30日SG Trend滚动12个月回报−18.6%，不是2025年年内收益或峰谷最大回撤。这是一种路径时滞的事后解释，不能反推全行业4月9日具体卖单。<a href="#doc-20--S-R-MARKET-09-03">S-R-MARKET-09-03</a></p>
+<p><a id="doc-20--korea-20261020"></a>
+<strong>2026年10月韩国补录，2026-11-13编辑：</strong> 华尔街见闻页面显示2026-10-20的报道转述，趋势跟随资金可能从极度多头转向净空，空头回补或能支持短线反弹。图5实际为动量信号，原图标题保留likely；它反映研究者对目标方向的判断，没有直接给出行业实际头寸或剩余订单。按上面的传导，已经转空与接下来继续卖出属于两个问题，风险缩放也可能要求缩小空头而买回。原图及完整情境见<a href="#doc-17--trend">韩国股市分析</a>。</p>
+<h3>该逻辑的预期</h3>
+<p><strong>韩国报道判断，截至页面显示2026-10-20：</strong> 报道认为超卖及可能的空头回补有利于短线反弹，但长线资金仍可能等待波动稳定；未给出回补金额或确切日期。该判断据新闻转述保留，没有用单一动量信号重建全行业持仓。</p>
+<p><strong>管理人判断，截至2025-06-17，未指定恢复期限：</strong> Korgaonkar认为政策反复未必无限延续，市场适应及贸易结构调整可能带来新的分化趋势；没有给出恢复收益的日期或数值承诺。该判断属于趋势管理人，不代表市场共识。</p>
+<p><strong>本库条件推演，2026-10-28按上述信息整理，观察假设冲击后的数日到数月：</strong> 趋势持续且各速度逐步同向时，目标可能继续向行情方向调整；若已充分持仓，边际交易可以很小。突然反转时，旧方向损失先发生，调整后仍可能遭遇再次反转。应同时看方向、风险缩放和剩余可调头寸，不能把“CTA将受益于危机”理解为第一天下跌就有即时保护。</p>
+<p><a id="doc-20--logic-2"></a></p>
+<h2>核心逻辑2：相同订单集中到有限容量时会强化行情，但拥挤不能由策略亏损倒推</h2>
+<p><strong>关联节点／节点组</strong>：<a href="graph/10_concepts/趋势跟随与CTA.md">趋势跟随与CTA C-FLOW-11</a>。</p>
+<p><strong>时间段</strong>：适用于趋势资金规模相对可成交深度不可忽略的市场；经验证据包括1985—2009年研究及截至2025年4月的管理人分析。</p>
+<h3>详细逻辑</h3>
+<p>若许多策略持有类似多头、在相近区间减仓，承接者必须在同一时间吸收更多合约风险。做市商的库存与保证金额度有限，订单超过当时愿意报价的买盘时，成交价格下移。新价格使更多慢信号转弱，或者让其他止损与风险预算响应，因而形成第二轮交易。上涨过程也可以反向发生：空头回补与趋势转多共同推高成交价。</p>
+<p>名义规模大不自动产生冲击。把订单分散到多个交易时段、不同合约与市场，可以降低局部参与率；机构对冲需求或相反方向的配置交易也会吸收趋势订单。若其他交易者提前预测CTA交易，价格可能在实际订单到达前调整；待CTA执行结束后，临时库存补偿又可能回落。于是，价格变化既可能包含持久的信息重估，也可能包含短期成交成本，两者不能从一根价格曲线分开。</p>
+<p>容量应以相应时间窗口的交易量、买卖价差、深度、冲击和执行速度衡量。全市场全年成交量很大，不能排除某日某合约某方向拥挤；行业资产规模未增长，也不能排除所有管理人暂时收敛到同一个交易。反过来，多家趋势基金同时亏损，可以仅仅是共同暴露遇到反转，不需要自身卖单推动下跌。CFTC的持仓分类或一个CTA指数也无法逐一识别信号、最终订单与执行目的。</p>
+<p>识别这条反馈至少需先按冲击前规则预测订单，再核对真实成交、时序和市场深度，并控制共同宏观新闻。单纯将价格变动与模型头寸变化回归，存在机械反向因果：价格本来就是头寸模型的输入。即使发现持仓高度相关，也只证明潜在共同交易，尚未证明谁改变了价格。</p>
+<h3>该逻辑的时间线</h3>
+<p>2012年时间序列动量研究的58工具样本发现历史趋势收益，图2同时比较各合约流动性排序；这些是策略表现与市场特征的研究，不能充当CTA订单冲击的实验。其长期部分反转与渐进信息吸收、后期过度反应等解释相容，不唯一证明趋势资金制造了趋势。<a href="#doc-20--S-R-MARKET-09-01">S-R-MARKET-09-01</a></p>
+<p>2025年6月Korgaonkar用截至2024年12月的行业规模／期货参与资料及截至2025年4月的月度资金流研究，反驳“策略已因过度拥挤失效”。文章报告流量与趋势收益相关系数−0.1；这是作者聚合样本相关性，既不是价格冲击弹性，也不能排除某一市场的日内拥挤。其长期统计与前述局部容量机制可以同时成立。<a href="#doc-20--S-R-MARKET-09-03">S-R-MARKET-09-03</a></p>
+<h3>该逻辑的预期</h3>
+<p><strong>管理人判断，截至2025-06-17：</strong> 作者未从其规模、参与和流量研究看到趋势行业整体过度拥挤的证据；该判断不能扩大为所有市场、所有时间都不存在拥挤。原文图5有规模与参与率曲线，本次未提取图内逐期数值，因而不编造最新行业占比。</p>
+<p><strong>本库条件推演，2026-10-28整理，针对未来一次局部压力窗口：</strong> 若同方向待执行量相对深度显著增大、成交成本同步上升且新价格继续触发信号，反馈解释会增强；若订单分散、对手盘充足或变化先于模型触发且由新信息解释，反馈解释应减弱。趋势资金清仓后，原卖压可以消失，但基本面趋势仍可能持续，不能仅因“卖盘耗尽”预测价格必然反转。</p>
+<h2>来源与覆盖说明</h2>
+<p><a href="#doc-18">S-WS-3784053</a>提供2026-10-20韩国报道及图5；本轮新增这一历史入口，不改变下列原研究各自的样本和阅读范围。</p>
+<p><a id="doc-20--S-R-MARKET-09-01"></a><strong>S-R-MARKET-09-01</strong> — Tobias J. Moskowitz、Yao Hua Ooi、Lasse Heje Pedersen，<em>Time series momentum</em>，Journal of Financial Economics 104，2012年5月，228—250（在线2011-12-11）。<a href="https://w4.stern.nyu.edu/facdir/lpederse/papers/TimeSeriesMomentum.pdf">大学托管原文</a>。核读摘要、导论、§4.1、式5、图2及样本说明（PDF页1—2、9—10）；未重估收益、全部回归或价格冲击，未把毛收益当扣费后实绩。</p>
+<p><a id="doc-20--S-R-MARKET-09-02"></a><strong>S-R-MARKET-09-02</strong> — Man Group，<em>What's Trending? Weathering April's Market Showers</em>，2024-05-22。<a href="https://www.man.com/insights/trend-following-weathering-aprils-market-showers">原文</a>。核读主体全文、图2说明与脚注1—2；未取得代表性程序的实际合约明细或重算指数。使用2024年4月总回报，不把图示程序与行业指数等同。</p>
+<p><a id="doc-20--S-R-MARKET-09-03"></a><strong>S-R-MARKET-09-03</strong> — Russell Korgaonkar／Man AHL，<em>Trend Following and Drawdowns: Is This Time Different?</em>，2025-06-17。<a href="https://www.man.com/insights/is-this-time-different">原文</a>。核读§1—3、§6和结论，特别是图2、5、6样本及拥挤讨论；图5样本1997年12月至2024年12月，图6标明1973年4月至2025年4月。未取得其拼接底层数据或图5数值，未采用正态独立模拟的回撤概率；文中反事实政策判断未视作已实现事实。</p>
+<p>已查论文和管理人原始研究，仍未取得2025年6月之后同口径行业表现、2026年各管理人风险参数、初始持仓与成交记录；2026年韩国新闻补录仅提供机构信号判断。故本文没有即时触发价格、行业卖出金额或已识别的价格影响系数；下一步验证须在指定合约和事件窗口匹配订单与深度，不能用行业管理资产总额填补。</p>
+</div></details></section><section id="basis"><p class="eyebrow">美债基差交易</p><h2>美债基差交易</h2><div class="filelist"><a href="#doc-21">基差交易 <small>更新 · 关系</small></a><a href="#doc-22">2025年4月美债基差交易风险讨论 <small>新建 · 事件分析</small></a><a href="#doc-23">华尔街见闻：基差交易与美债市场脆弱性 <small>新建 · 来源记录</small></a></div><details class="document" id="doc-21" open><summary><span class="tag">更新 · 关系</span><strong>基差交易</strong><small>R-DERIVATIVES-02</small></summary><div class="doc"><p class="placement">保留既有交易与融资逻辑，补三主体分工、2025年4月历史、交易商跨业务占用和对冲式购债提案。</p><p class="file"><a href="graph/20_mechanisms/基差交易.md">打开Markdown原文件</a> · reviewed_seed</p><h1>基差交易</h1>
+<blockquote>
+<p>执笔：<code>/root/full_b066</code>，GPT-6-Astra，medium。制作日2026-10-28；资料公开截止2026-06-22，最新基金头寸估计截至2025年9月。不是2026年10月实时仓位快照。
+本轮编辑：<code>/root/produce_basis</code>，2026-11-13；新增三主体分工、2025年4月文章历史入口、交易商资源占用及政策提案解释。新增段落待主审，旧段落及其核读记录沿用原稿；新增材料没有延长全页资料公开截止。</p>
+</blockquote>
+<h2>概念定义</h2>
+<p>基差交易是同时建立相关现货与期货的相反方向头寸，试图获得两者相对价格向合理持有成本关系收敛所产生的收益。交易者需要实际筹集买入现货的资金、提供抵押品与期货保证金，并在持有期处理融资展期、逐日结算和退出。它通常减少共同价格方向的敞口，却保留相对价格、融资和现金支付时点的风险。本页以美国国债“买现券、卖期货、回购融资”为主要实例，反向交易另作边界说明。</p>
+<h2>概念详解</h2>
+<p><a href="graph/10_concepts/基差.md">基差</a>是价格关系；基差交易是把这项关系落实成持仓与资金安排。不同市场把基差定义为现货减期货、期货减现货，或扣除持有成本后的年化收益，符号未必相同。本页用“期货相对现券偏贵／偏便宜”说明交易方向，避免只凭“正基差”三个字确定买卖。</p>
+<p>美国国债期货并非对应一只永不变化的债券。合约允许交付一篮子符合条件的券，转换因子用于调整交付券票息、期限差异；空头还具有交付券种和交付时机的选择。最便宜可交割券（CTD）是按交割经济性最有利的券，不能简单等同于现金报价最低的一只。利率变化可以改变CTD，现券与期货的利率敏感度也未必完全一致。期货最终结算与可交割现券的关系，才是收敛约束的来源。<a href="#doc-21--S-R-DERIVATIVES-02-01">S-R-DERIVATIVES-02-01</a>、<a href="#doc-21--S-R-DERIVATIVES-02-04">S-R-DERIVATIVES-02-04</a></p>
+<p>期货通常只需投入保证金即可获得合约敞口，现券则需支付购买款。资产管理者为便于调整久期、应对资金流入流出而偏好期货，可能愿意为其便利性支付相对溢价。基差交易者买入现券、提供期货空头，把这类期货需求转化为现券需求；回购贷款人和期货清算体系分别为两条腿提供融资与履约安排。因此，它具有连接市场、改善相对定价的作用，同时把多个市场的现金约束连在一起。</p>
+<p><a id="doc-21--participants"></a></p>
+<h3>参与者分工：谁取得暴露，谁融资持券，谁提供中介</h3>
+<p>理解这项交易需要把三类主体放在同一笔安排中。资产管理者可能为负债匹配或配置需求持有国债期货多头；期货以保证金取得利率暴露，节约即期购券现金，但保留逐日结算和抵押品要求。以养老金、保险公司和债券基金为例，其负债和授权不同，不能假定它们都追求相同期限或杠杆。</p>
+<p>相对价值基金则融资持有现金券，以期货空头抵消部分利率变化，主要赚取相对价格和持有成本之间的差额。“对冲基金”是组织与策略载体分类，基金净期货空头还可能用于其他策略；只讨论这类基差组合时，不能把结论推广到全部对冲基金。经纪交易商提供报价、融资与头寸承接，也可能经营自己的价差组合。它们通过实际占用资金和资产负债表，把期货需求连接到现金券持有，而不只是寻找一个无须投入资源的价格差。</p>
+<p><a href="#doc-22--participants">2025年4月的文章及原图</a>集中展示这一分工。资产管理者“唯一主动承担久期”限于其三主体分析框架；真实基金和交易商仍可有残余利率暴露。回购清算和期货清算也各有账户与结算流程，不能从一张交易联系图推得两条腿实时净额抵销。</p>
+<p><a id="doc-21--logic-1"></a></p>
+<h2>核心逻辑1：融资买入现货并卖出相对偏贵期货，将价差转化为持有期收益</h2>
+<p><strong>关联节点／节点组</strong>：<a href="graph/10_concepts/基差.md">基差 C-DERIV-15</a>、<a href="graph/10_concepts/回购与逆回购.md">回购与逆回购 C-MONEY-10</a>、<a href="graph/10_concepts/抵押品与折扣率haircut.md">抵押品与折扣率haircut C-CREDIT-10</a>、<a href="graph/10_concepts/保证金与追加保证金.md">保证金与追加保证金 C-DERIV-14</a>。基差决定相对收益机会；回购供应资金；haircut决定现券融资缺口；保证金决定期货头寸占用的现金或合格资产。</p>
+<p><strong>时间段</strong>：适用于现券可融资、期货可交易且两者有交割或稳定经济联系的市场；本组美国证据覆盖2018—2025年，研究公开至2026-06-22。</p>
+<h3>详细逻辑</h3>
+<p>交易者首先比较期货交割收入、现券买价、票息与融资成本。若期货足够昂贵，可以买入可交割国债，同时卖出适量期货。期货头寸规模需按合约面额、转换因子及利率敏感度确定，不能认为“买一美元现券、卖一美元期货名义本金”天然完全对冲。建立头寸后，现券作为回购抵押品取得现金；从交易者角度是回购借款，从现金提供者角度是逆回购贷款。</p>
+<p>若抵押品市值为(V)，haircut为(h)，简化的借款额为((1-h)V)。交易者至少承担(hV)的现券资金缺口，还要单独满足期货初始保证金和流动性缓冲。初始保证金是履约保障，不是预先支付的损失；资金被占用会产生机会成本。即便回购haircut为零，也不能推出整个组合不用资本：另一条腿的保证金、经纪商额度及未来现金支付仍然存在。</p>
+<p>在中途平仓时，一般损益可按两条腿分别记账：</p>
+<p>[
+\Pi_{0,u}=q(P_u-P_0)+nM(F_0-F_u)+C_{0,u}-I_{0,u}-K_{0,u}.
+]</p>
+<p>(q)是现券数量，(P)是每单位同口径含息价格；(n)是卖出的期货合约数，(M)是每报价点对应的货币乘数，(F)是期货报价；(C)为持有期收到的票息，(I)为实际融资利息，(K)为交易、保证金融资等成本，损益单位均为美元。(u)为退出时点。含息价格与票息应避免重复记账；式中期货盈亏是整个持有期结算的累计值，不是退出日还会再收取一遍的额外款项。交割退出则以交割收款替代现券卖出收入，并另核期货累计结算，不能把初始期货报价与交割现金收入重复相加。</p>
+<p><strong>假设算例，忽略国债转换因子和票息，仅演示相同资产的现金关系。</strong> 买入价值1亿美元现货，卖出对应到期价值1.01亿美元的期货；若整段融资、交易及保证金资金成本合计80万美元，按假定交割关系执行后的净收益为20万美元。若现货haircut为2%、期货初始保证金为100万美元，初始占用至少300万美元，另需缓冲。20万美元除以300万美元约6.67%，只是该假设持有期的资本收益率，不能年化后冒充市场收益，也没有计入缓冲资金。融资成本增加20万美元便吃掉全部价差收益。</p>
+<p>退出有三种不同经济过程：两腿同时反向成交并还清回购；持有到交割，安排取回抵押券并交付；或关闭近月、建立远月并续作融资。第三种是展期后的新风险，不是旧合约自动到期获利。若期货相对偏便宜，反向组合需要卖出现券、买期货，并解决借券／逆回购取得券源的问题；借券稀缺与召回风险使两方向不完全对称。</p>
+<h3>该逻辑的时间线</h3>
+<p><strong>2018—2020与2022年以后。</strong> Glicoes等2024-03-08研究发现，扣除持有成本并调整交割选择权的基差在2018年至2020年初、2022年下半年以后通常较有吸引力；2020年3月压力后至2022年中则较弱。其指标按特定券的期限回购报价融资至最优交割日，属于可比收益测量，不等于每家基金实际拿到的融资条件。<a href="#doc-21--S-R-DERIVATIVES-02-01">S-R-DERIVATIVES-02-01</a></p>
+<p><strong>2023年9月的规模测量。</strong> 同篇研究的TRACE代理为2600亿美元，Form PF净回购为5740亿美元，杠杆基金期货空头为9130亿美元。作者分别指出：期货空头混入其他交易，净回购也可能包含其他资产或策略，TRACE则可能漏掉在不同交易商处分腿成交的交易。它们不能简单平均为“真实基差规模”，也不能把三条腿相加成总风险。</p>
+<p><strong>2025-04-01的研报观点，4月9日转载。</strong> 华创证券张瑜把国债供给增长、资产管理者的衍生品需求与基金融资持券联系起来，担忧中介需求超过资本承接能力。其转载图中供给回归的前三列系数约−0.05，第四列0.007且无显著性星号；后者样本数264，而前三列为2336、2336与1904。第二、第三、第四列都包含时间固定效应，故不能把第四列变化简单归因于“加入Time FE”。本轮未取得完整会议论文与底层样本，保留<a href="#doc-22--supply-regression">逐列读数及边界</a>，不将“发行100亿美元对应5亿美元空头”用作固定预测比例。</p>
+<p><strong>2026-06-22公布的新分解，头寸截至2025年9月。</strong> Monin使用基金层面的现券、衍生品、回购等联合信息，估计现金—期货基差约8300亿美元，占大型对冲基金2.4万亿美元国债多头敞口约35%。这是研究者与申报数据相容的分类估计，非逐笔直接登记的策略标签；方法不同也使它不能与2023年的单项代理无缝拼接。<a href="#doc-21--S-R-DERIVATIVES-02-03">S-R-DERIVATIVES-02-03</a></p>
+<h3>该逻辑的预期</h3>
+<p><strong>署名专业判断，2026年1月。</strong> 芝加哥联储Ketan Patel认为，资产管理者的期货需求与杠杆基金供给使基差交易成为国债市场结构的重要组成部分；前提是杠杆风险得到管理。这是作者对市场功能的判断，没有给出下一季度基差必然收敛多少的预测。<a href="#doc-21--S-R-DERIVATIVES-02-04">S-R-DERIVATIVES-02-04</a></p>
+<p><strong>本库推演，2026-10-28整理，以已核资料为边界，期限至所持合约退出或交割。</strong> 若融资能覆盖持有期、交割券和对冲数量匹配、成本低于初始相对价差，持有可把相对偏贵期货转化为净收益；更多交易者进入则会买贵现券、卖便宜期货，压缩新交易收益。如果回购利率、券源或CTD改变，应重新计算剩余收益，不应以最初入场基差替代当前经济性。</p>
+<p><strong>缺口。</strong> 尚未取得同一时刻逐券现货、期货、实际客户回购费率和保证金占用数据；因此没有给出2026年10月可实现的套利收益或当前最佳交割券。2026论文持仓数据止于2025年9月，不能当作2026年余额。</p>
+<p><a id="doc-21--logic-2"></a></p>
+<h2>核心逻辑2：保证金与回购现金需求可以迫使交易者在收敛前退出</h2>
+<p><strong>关联节点／节点组</strong>：<a href="graph/10_concepts/基差.md">基差 C-DERIV-15</a>、<a href="graph/10_concepts/保证金与追加保证金.md">保证金与追加保证金 C-DERIV-14</a>、<a href="graph/10_concepts/抵押品与折扣率haircut.md">抵押品与折扣率haircut C-CREDIT-10</a>、<a href="graph/10_concepts/回购与逆回购.md">回购与逆回购 C-MONEY-10</a>、<a href="graph/10_concepts/融资流动性.md">融资流动性 C-LIQ-FUND</a>。这些对象决定组合能否持续，而不只是到期总损益是否看似正值。</p>
+<p><strong>时间段</strong>：适用于杠杆持有、逐日结算和融资期限短于交易期限的情境；压力历史以2020年3月为主，机制核读2024年风险报告及2026年分解。</p>
+<h3>详细逻辑</h3>
+<p>期货每日结算使现金需求发生在最终收敛以前。对于期货空头，期货价格上涨会要求支付变动保证金；现券即使同步升值，收益也主要体现为抵押品价值，并不会自动成为同一时间可划入期货账户的现金。交易者可能再融资提取现金，但能否这样做取决于协议、额度、结算时刻和中介机构，而非组合净风险低这一事实。<a href="#doc-21--S-R-DERIVATIVES-02-02">S-R-DERIVATIVES-02-02</a></p>
+<p>更危险的是价差本身扩大：现券相对跌得更多，或期货相对涨得更多，买现卖期组合会出现损失。与此同时，现券市值下降减少抵押可借金额；贷款人还可能提高haircut，期货清算方或经纪商也可能提高初始保证金。原本收益只有几十个基点的组合，所需现金却可能突然增加资产价值的几个百分点。即使交易者仍相信最终收敛，当前现金缺口也可能迫使其卖出现券、买回期货。</p>
+<p><strong>假设现金压力例子。</strong> 原先1亿美元现券、2% haircut对应9800万美元融资。现券跌至9900万美元且haircut升至4%，允许融资变为9504万美元，借款人须补入296万美元现金，或折后可融资价值相当的合格抵押品，假定贷款余额此前未减少。这个296万美元包含价格下跌及折扣提高的共同作用，不是单纯的交易损失，也不能再把相同抵押补足重复计为亏损。期货若有盈利，能否抵销这一现金需要，仍取决于实际结算和可调拨时间。</p>
+<p>隔夜回购还带来期限错配。未来几个月的价差收敛，需要每天继续得到资金；贷款人可能提高利率、减少额度或不续作。期限回购可以减少展期不确定性，却不免除抵押品重估、保证金和对手方约束。经纪商内部风险上限或投资者赎回也可能要求减仓，故不能把所有平仓都归因于同一种“margin call”。</p>
+<p>当多家基金同时卖现券、买期货，现券相对更便宜、期货相对更贵，尚未退出者的价差损失可能进一步扩大。交易商如有资本和资金，可以承接并恢复收敛；如果自身库存及融资额度也紧张，就会要求更大的价格折让。这个反馈把原本有助于相对定价的交易转化为压力放大器，关键是持仓拥挤和融资弹性同时恶化，而非“基差交易必然危害市场”。</p>
+<h3>该逻辑的时间线</h3>
+<p><strong>2020年3月：收敛交易遭遇提前退出。</strong> 2024年美联储研究把基差交易快速去杠杆列为美国国债市场压力的贡献因素，并记录2020年3月基差先急剧扩大、随后交易活动减弱。该判断不是“全部国债抛售都来自基差基金”，也没有在本页资料中给出可独立采用的纯基差冲击占比。<a href="#doc-21--S-R-DERIVATIVES-02-01">S-R-DERIVATIVES-02-01</a></p>
+<p><strong>2024-12-10风险报告。</strong> CFTC市场风险咨询委员会市场结构小组的报告把市场价格、融资流动性与对手方风险分别讨论，特别说明期货追加保证金与现券腿的可用抵押现金未必抵销，回购到期可能不再提供融资。它是咨询小组对实务风险及管理的分析，不是CFTC宣布所有基金都面对相同haircut的规则。<a href="#doc-21--S-R-DERIVATIVES-02-02">S-R-DERIVATIVES-02-02</a></p>
+<p><strong>2025-04-09文章对2020经验的再使用。</strong> 转载按2020年3月3—17日列举620亿美元基金期货空头减少、570亿美元交易商现券承接及买卖价差“扩大2.7倍”，并用早于4月9日的风险研报解释当时市场。这里保存的是<a href="#doc-22--unwind-2020">二手研究转述与图表</a>，尚未复算逐笔数据。它把一种已有风险渠道带入2025年讨论，未证明4月8—9日收益率上升的具体贡献，且下文较晚研究不能倒填为4月9日已知判断。</p>
+<p><strong>2025年4月压力，2026年6月较晚识别。</strong> Monin估计当时约600亿美元快速退出的是<strong>掉期利差套利</strong>，随后数月恢复；它与现金—期货基差是分别分类的策略。掉期利差头寸也可融资买入国债，但对冲腿是利率掉期。这个较晚研究提醒：看到国债卖出或回购收缩，不能自动把2020年的基差叙事重放到2025年。<a href="#doc-21--S-R-DERIVATIVES-02-03">S-R-DERIVATIVES-02-03</a></p>
+<h3>该逻辑的预期</h3>
+<p><strong>专业判断，2024风险报告与2026年作者文章。</strong> 两份材料都认为杠杆、融资期限及保证金要求会影响压力下的持续持有能力，同时承认基差交易对流动性和定价的贡献；没有给出下一次强平时间或损失概率。Patel还讨论清算安排改变可能提高抵押品需求，其净效果依赖抵销安排，本文未核读该系列第二篇的完整政策情景，因此不把它变成确定的未来融资成本预测。</p>
+<p><strong>本库推演，2026-10-28整理，观察随后数个结算与融资日。</strong> 若基差扩大、追加保证金增加且回购额度缩减同时出现，卖现买期的被动退出压力会更强；如果有充足现金缓冲、期限融资和愿意承接的交易商，交易者可能承受暂时偏离，较大价差甚至吸引新的承接者。需要共同观察融资量价、逐腿盈亏、保证金变化及实际减仓，不能仅以期货空头总额推断强平。</p>
+<p><strong>缺口。</strong> 尚未取得2020压力中逐基金现金账户、追保时间和融资续作记录，也未对2025各策略逐笔重构；已核文献能支持存在放大渠道，不能支持精确的危机归因比例或当前触发阈值。</p>
+<p><a id="doc-21--logic-3"></a></p>
+<h2>核心逻辑3：交易商承接现券库存，会改变融资与做市的可用资源</h2>
+<p><strong>关联节点／节点组</strong>：<a href="graph/10_concepts/证券与资管业.md">证券与资管业 C-SECTOR-03</a>、<a href="graph/10_concepts/银行资本与杠杆率.md">银行资本与杠杆率 C-CREDIT-02</a>、<a href="graph/10_concepts/融资流动性.md">融资流动性 C-LIQ-FUND</a>、<a href="graph/10_concepts/市场流动性.md">市场流动性 C-LIQ-MARKET</a>、<a href="graph/10_concepts/美国国债.md">美国国债 C-ASSET-UST</a>。经纪交易商作为具体中介在本逻辑说明，银行集团约束仅在适用实体和合并口径内连接。</p>
+<p><strong>相关机制</strong>：<a href="graph/20_mechanisms/保证金驱动的流动性螺旋.md">保证金驱动的流动性螺旋 R-LIQ-SPIRAL</a>。本逻辑集中解释中介业务资源如何相互占用。</p>
+<p><strong>时间段</strong>：适用于交易商同时经营库存、客户融资和报价业务的情境；新增证据为2025-04-09转载对2020年3月的研究转述，未核个别交易商当时限额。</p>
+<h3>详细逻辑</h3>
+<p>基金集中退出时，现金券需要找到新持有人。交易商买入后，持券库存、相应资金和潜在价格风险增加；即使以期货对冲大部分久期，仍有基差、结算和资本占用。交易商还可能向未退出基金提供回购融资，并在其他券种报价。只要这些业务共同使用某项接近上限的资源，新库存就会提高其他业务的边际成本。</p>
+<p>资源可以是资本暴露额、内部风险限额、现金融资额度，也可以是结算能力；各约束的作用不同。杠杆约束按规定暴露口径计量，低信用风险证券仍可能占用分母。实际净额抵销和资本可转移性则依合同及法律实体决定。若约束紧张，交易商可能减少承接量、降低买价、提高客户回购费用或收紧期限，使基金面对更差的成交与融资条件。</p>
+<p>由此出现反馈：基金卖券增加中介库存；库存占用削弱新的融资与报价；更差融资或更大折价促使更多基金退出。若交易商或其他投资者有可用资本、资金与对冲能力，较大价差也会吸引承接并恢复市场联系。过程的强弱取决于实际约束与承接弹性，无法仅凭总资产规模或一个监管比率判断。</p>
+<h3>该逻辑的时间线</h3>
+<p><strong>2020年3月，2025年文章转引。</strong> 原图把现券—期货价差、回购中介价差、SOFR掉期利差和国债买卖价差放在同一窗口，转载以570亿美元承接和买卖价差“扩大2.7倍”说明中介缓冲有限。图中多个价格共同跳变，与跨业务压力相容；本轮没有取得逐交易商库存、资本限额或订单数据，无法分离库存、监管及共同冲击的贡献。<a href="#doc-22--dealer-capacity">原图与口径</a></p>
+<h3>该逻辑的预期</h3>
+<p><strong>研报作者判断，日期按转载为2025-04-01。</strong> 华创证券张瑜担忧国债供给与基金杠杆头寸继续扩张后，交易商有限缓冲将放大未来外部冲击；未给出下一次冲击时点或各类资本约束的量化贡献。</p>
+<p><strong>本库推演，2026-11-13整理，以上述历史材料为边界，观察一次集中减仓后的数个结算日。</strong> 若交易商库存上升、回购客户额度收紧、报价深度下降同时出现，中介资源相互占用的解释更有支持；若其他资金及时接券且融资稳定，反馈会较弱。应把客户融资利差与市场平均利率分开，同时核对库存的法律实体和净额口径。现有转载未提供这些联合证据，不能指定“达到某库存规模便强平”的阈值。</p>
+<p><a id="doc-21--logic-4"></a></p>
+<h2>其他相关逻辑1：对冲式购债提案以组合承接缓和压力，同时减少久期转移</h2>
+<p><strong>关联节点／节点组</strong>：<a href="graph/10_concepts/央行资产负债表.md">央行资产负债表 C-MONEY-CBBS</a>、<a href="graph/10_concepts/量化宽松QE.md">量化宽松QE C-POL-QE</a>、<a href="graph/10_concepts/美国国债.md">美国国债 C-ASSET-UST</a>、<a href="graph/10_concepts/基差.md">基差 C-DERIV-15</a>、<a href="graph/10_concepts/保证金与追加保证金.md">保证金与追加保证金 C-DERIV-14</a>、<a href="graph/10_concepts/融资流动性.md">融资流动性 C-LIQ-FUND</a>。</p>
+<p><strong>时间段</strong>：2025年4月转载所述的Kashyap、Stein、Wallen与Younger政策提案；本组没有采用其后实施结果，不将建议认定为当时已设立工具。</p>
+<h3>详细逻辑</h3>
+<p>当基金和交易商都难以承接现券时，官方购买可以接走现金券、向卖方提供现金并减少私人中介库存。若央行同时建立抵消利率敏感度的衍生品空头，接收组合可以尽量保持久期中性。这样试图将压力缓解集中在市场功能与中介能力上，减少单纯持有未对冲长债所产生的久期移出。政策作用依实际成交和持仓安排成立，不能只由“购买国债”这个名称判断。</p>
+<p>对冲比例需要匹配期限和敏感度；买现券、卖期货仍留下基差、交割和执行风险。期货盯市及保证金安排也须明确，官方资产负债表具备的融资能力与私人基金不同，但具体法律授权、操作账户及风险承担规则不会由久期匹配自动决定。集中清算与跨保证金可以减少某些占用，却仍要管理付款时间、会员与客户之间的资源转移；投资者赎回或权益损失引发的退出也需要真实现金。</p>
+<p>转载将目标表述为区分市场功能与货币政策、灵活退出、降低利率风险并缓解道德风险。久期中性只控制某种利率敏感度，干预仍可能改变相对价格、融资便利、风险补偿和参与者对未来支持的预期。因此这些政策效果应保留为作者主张。是否避免救助激励、何时退出，以及损益如何分担，需要依据条款和实际执行检验。<a href="#doc-22--hedged-purchase">政策讨论</a></p>
+<h3>该逻辑的时间线</h3>
+<p><strong>2025年春季研究，经4月1日研报及4月9日文章转述。</strong> 文章建议极端市场压力时由美联储买入国债并卖空期货对冲，讨论放宽杠杆约束、扩大回购准入、提高最低保证金和集中清算的局限。本轮完整读取的是这篇中文转载，原会议稿模型与最终论文均未重建。2020年经验是建议的背景，不是对冲式购债已经实施并有效的证据。</p>
+<h3>该逻辑的预期</h3>
+<p><strong>研究者方案目标，2025年4月转载版本。</strong> 作者希望官方承接可减轻私人资产负债表压力，同时避免大规模移走久期，并据市场恢复灵活退出。转载没有给出触发数值、购买额度、精确对冲规则或效果估计，本页不把这些缺项补成制度。</p>
+<p><strong>本库推演，2026-11-13整理，针对未来一次采用类似安排的干预窗口。</strong> 若官方实际接走受压现券、融资约束因此缓解且对冲得到有效执行，私人中介库存和基差压力可能下降；若主要冲击是偿付损失、抵押品范围不匹配或传导受账户安排阻碍，效果可能有限。需观察操作条款、相对价格、融资量价及退出后的市场功能，才能评价提案。当前材料尚不能确认实际实施、无损失或无道德风险。</p>
+<h2>来源与覆盖说明</h2>
+<p><a id="doc-21--S-R-DERIVATIVES-02-01"></a>
+<strong>S-R-DERIVATIVES-02-01</strong> — Jonathan Glicoes、Benjamin Iorio、Phillip Monin、Lubomir Petrasek，<em>Quantifying Treasury Cash-Futures Basis Trades</em>，FEDS Notes，2024-03-08。<a href="https://www.federalreserve.gov/econres/notes/feds-notes/quantifying-treasury-cash-futures-basis-trades-20240308.html">原文</a>。已读基差公式、期限回购／交割选择权解释、净回购和TRACE构造、Table 1及后续规模比较；未重建专有TRACE数据或逐券期权估值。正文沿用作者姓名Glicoes，不使用二手转载的拼写变体。</p>
+<p><a id="doc-21--S-R-DERIVATIVES-02-02"></a>
+<strong>S-R-DERIVATIVES-02-02</strong> — CFTC Market Risk Advisory Committee, Market Structure Subcommittee，<em>The Treasury Cash-Futures Basis Trade and Effective Risk Management Practices</em>，2024-12-10会议材料。<a href="https://www.cftc.gov/media/11671/mrac121024_TreasuryCashFuturesBasisTradeReport/download">原文PDF</a>。已读II—III交易与供需、IV市场作用、V具体风险（PDF页4—12相关内容）；未将建议部分当作具有强制力的监管规则。未采用文中将CTD简写为最低市值券的表述，交割比较需考虑转换因子等条件。</p>
+<p><a id="doc-21--S-R-DERIVATIVES-02-03"></a>
+<strong>S-R-DERIVATIVES-02-03</strong> — Phillip J. Monin，<em>Decomposing Hedge Funds’ U.S. Treasury Exposures</em>，FEDS Notes，2026-06-22。<a href="https://www.federalreserve.gov/econres/notes/feds-notes/decomposing-hedge-funds-u-s-treasury-exposures-20260622.html">原文</a>。已读导论、分解方法说明、基差复兴及掉期利差压力部分，数据截至2025年9月；未逐项复算附录分类算法。8300亿美元是作者近似估计，不是全部杠杆基金空头头寸。</p>
+<p><a id="doc-21--S-R-DERIVATIVES-02-04"></a>
+<strong>S-R-DERIVATIVES-02-04</strong> — Ketan B. Patel，<em>How the U.S. Treasury Futures Market and the Basis Trade Could Be Affected by the Treasury Clearing Mandate: Part 1—A Primer</em>，Chicago Fed Letter No.516，2026年1月。<a href="https://www.chicagofed.org/publications/chicago-fed-letter/2026/516">原文</a>。已读期货交割、资产管理者需求、转换因子、杠杆与抵押及结论；未采用其以全部期货空头代理的“超过1万亿美元”作为精确基差规模，也未核第二篇完整清算政策情景。</p>
+<p><a id="doc-21--S-WS-3744871"></a>
+<strong>S-WS-3744871</strong> — 华创证券张瑜研报经华尔街见闻删减转载，2025-04-09，<em>一文读懂隔夜美债崩盘的“罪魁”——基差交易</em>。<a href="#doc-23">本地来源记录</a>、<a href="#doc-22">完整情境与五份图像</a>。本轮通读转载及所有图片；历史数字保留二手归属，回归表逐列核读，未取得完整会议稿、底层数据或2025年4月逐基金归因。新增政策逻辑按研究提案处理，旧来源核读说明沿原稿保留。</p>
+</div></details><details class="document" id="doc-22" open><summary><span class="tag">新建 · 事件分析</span><strong>2025年4月美债基差交易风险讨论</strong><small>E-WS-3744871</small></summary><div class="doc"><p class="placement">集中维护该篇共同情境、全部原图、重要历史数字、回归读数及当时判断。</p><p class="file"><a href="graph/30_events/basis/2025年4月美债基差交易风险讨论.md">打开Markdown原文件</a> · step2_draft</p><h1>2025年4月美债基差交易风险讨论</h1>
+<blockquote>
+<p>整理：<code>/root/produce_basis</code>，2026-11-13。本文保存华创证券张瑜研报经华尔街见闻删减转述的论证及图表；原研报日期由转载交代为2025-04-01。页面署名李笑寅，显示时间为2025-04-09 13:39:46（北京时间）。以下历史判断按各自时点叙述。</p>
+</blockquote>
+<p><a id="doc-22--news-window"></a></p>
+<h2>文章提出的问题：国债为何可能与股票一起跌</h2>
+<p>华尔街见闻编者按称，隔夜十年期美债收益率上升11个基点至4.3%，并把基差交易列作股债同跌的重要解释之一。正文引入的是4月1日的风险研报：国债供给扩大，而融资持有现券的对冲基金和提供中介服务的交易商都可能受到资本约束，一次冲击于是可能穿过现券、期货与回购三个市场。</p>
+<p>这里要保留两个不同层次。<strong>4月9日编者按</strong>提出对隔夜市场的归因；<strong>4月1日研报</strong>解释一种已有的脆弱性，主要历史图取自2020年3月及2016年以来的持仓资料。后一组材料能帮助理解压力为何可能放大，尚不足以确认4月8—9日实际由哪些基金平仓、平仓多少以及对当日收益率贡献多少。本次未取得该窗口的逐基金融资、保证金和交易记录，11个基点与4.3%也仅按转载保留，没有重新核对逐时行情。</p>
+<p><a id="doc-22--participants"></a></p>
+<h2>正常时期：谁需要久期，谁持有现券，谁提供资金</h2>
+<p>理解本篇可以先读<a href="graph/10_concepts/基差.md">基差的定义与报价口径</a>和<a href="#doc-21--logic-1">基差交易的头寸与资金安排</a>。现券是实际支付购买款取得的国债；期货通过保证金建立合约敞口，后续还要每日结算，并按规则交割可交付债券。期货对应的可交割券、转换因子和对冲数量决定两条腿如何联系。</p>
+<p>原图把现金、证券和期货合约分别画出来：基金以回购借款支付现券购买款，把现券交作抵押；同时向期货账户交保证金并做空期货。资产管理者在另一侧取得期货多头。回购可能经FICC清算或采用双边安排，期货则经相应清算体系处理，两条腿在不同账户的付款不会因经济上相互对冲而自动同时抵销。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_001.png" alt="原文图表1：现券、回购与期货之间的资金及证券联系" /></p>
+<p>本篇按三类主体解释这种分工：</p>
+<table>
+<thead>
+<tr>
+<th>主体</th>
+<th>为什么参与</th>
+<th>怎样建立头寸或服务</th>
+<th>主要约束</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>资产管理者</td>
+<td>匹配负债或取得债券利率暴露，节约即期购券现金</td>
+<td>持有现券或期货多头；养老金、保险公司、债券基金的具体动机并不完全一致</td>
+<td>负债、投资授权、现金管理与保证金要求</td>
+</tr>
+<tr>
+<td>相对价值基金</td>
+<td>赚取扣除融资和交易成本后的相对价格收益</td>
+<td>以回购融资买现券，卖出适量国债期货</td>
+<td>自有权益、融资展期、抵押品、保证金和投资者赎回</td>
+</tr>
+<tr>
+<td>经纪交易商</td>
+<td>提供报价、融资与头寸承接并取得补偿</td>
+<td>做市、回购中介，亦可能自行持有价差组合</td>
+<td>资本、杠杆暴露、风险限额、库存资金与结算能力</td>
+</tr>
+</tbody>
+</table>
+<p>“对冲基金”指机构和策略载体的一组分类，本篇只讨论其中的基差策略；并非所有基金都采取这一交易。“资产管理者唯一主动承担久期”是所引三类主体分析中的简化分工，现实中交易商和基金也可能留下利率风险，不能推广成市场身份定律。</p>
+<p>资产管理者偏好期货时，期货可能相对更贵。基金卖出期货、买入现券，向期货需求提供对手方，并将其转化为现券融资需求。交易商帮助完成这一连接。买卖方向应写清：本文也把“基差”定义为现券减转换后的期货价格，在这个口径下，期货单独变贵会使数值下降；原文的“基差扩大”需要结合图表口径理解，不能直接用来判断持仓盈亏。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_002.png" alt="原文图表2：基金、资产管理者和交易商的国债期货净头寸" /></p>
+<p>图中纵轴为十亿美元净头寸；基金更负表示净空头更多，资产管理者更正表示净多头更多。它呈现的分工与上述解释相容，但CFTC类主体分类中的全部净空头不能逐笔识别为基差策略。旧页<a href="#doc-21--logic-1">规模测量</a>还比较了TRACE、净回购及期货空头代理，三者不能相加或直接互换。</p>
+<p><a id="doc-22--unwind-2020"></a></p>
+<h2>压力时期：两条腿对冲，仍可能付不出现金</h2>
+<p>相对价值基金需要持续满足<a href="graph/10_concepts/回购与逆回购.md">回购融资</a>、<a href="graph/10_concepts/抵押品与折扣率haircut.md">抵押品折扣</a>与<a href="graph/10_concepts/保证金与追加保证金.md">保证金</a>的要求。期货初始保证金覆盖未来处置风险，变动保证金结算已经发生的盈亏。空头期货上涨时要及时付款，现券账面升值却未必能在同一时刻提取成可用现金。抵押券贬值、折扣上调或回购不续作，也会迫使基金筹款。原文提出这些可能渠道，没有提供每条渠道在4月8—9日实际发生的账户证据。</p>
+<p>如果现金缓冲不足，基金可能卖出现券并买回期货，把原计划等待收敛的组合提前关闭。集中卖券会给买方和中介带来承接压力，集中买回期货则改变两市场的相对价格。能够最终对冲利率风险，与能够撑过每个融资及结算日，是两项不同要求。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_003.png" alt="原文图表3和4：回购借款、期货净头寸以及2020年3月的平仓" /></p>
+<p>左图回购净借款为正，基金期货净头寸多数为负，因而原文所谓“高度负相关”首先包含记账方向：融资增加同时净空头变得更负，与买现券卖期货结构一致。右图画相对基准的净头寸变化，蓝线上升可以表示空头回补，不能解释成新增多头或投资回报。</p>
+<p>转载称，2020年3月3日至17日，对冲基金期货空头减少620亿美元，回购融资也下降。620亿美元是转载对所引研究的归纳，本次没有逐笔重构或取得原始申报数据；图中的变化曲线也不宜替代相同日期、相同样本的直接复算。它支持保存一次收敛交易在压力中退出的经验，不能独立量化基金对整个国债抛售的贡献。</p>
+<p><a id="doc-22--dealer-capacity"></a></p>
+<h2>交易商承接现券，为何可能压缩其他中介业务</h2>
+<p>基金卖出的现券需要新的持有人。交易商若先买入，就增加库存及其融资需求；而交易商同时还在给未退出的基金提供回购，向其他客户报价。资本、内部风险限额或融资额度接近上限时，新库存会提高这些业务的边际占用。交易商于是可能压低买价、减少报价数量、提高融资费用或收紧额度，进一步增加基金退出的难度。</p>
+<p>这是市场流动性和融资流动性相互作用的一条具体路径。银行集团的<a href="graph/10_concepts/银行资本与杠杆率.md">资本与杠杆约束</a>解释低信用风险国债为何也可能占用总暴露资源；实际约束仍须按所属法律实体、净额安排和内部限额确认，不能把所有交易商行为都归因于SLR。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_004.png" alt="原文图表5：2020年3月四类价差的共同变化" /></p>
+<p>原图分别画现券—期货价差、GCF—三方回购价差、SOFR掉期利差及国债买卖价差；它们是不同市场和业务的价格。转载称交易商吸收570亿美元现券、买卖价差扩大2.7倍，本次仅按其二手研究表述保留，没有另取逐笔数据验证；“扩大2.7倍”的基期和具体算法也未在转载正文交代。几条价差同期跳变说明压力涉及多个环节，不能从共同走势单独识别库存承接、监管约束和共同冲击各自贡献。</p>
+<p><a id="doc-22--supply-regression"></a></p>
+<h2>国债供给与中介需求：保留联系，也保留规格差异</h2>
+<p>研报担忧，国债供给增长，而最终投资者部分使用期货取得暴露，会要求更多基金和交易商以融资持有现券。这将增加对中介资产负债表的需求。其强弱取决于发行期限、最终买方以及买方使用现券或衍生品的偏好，可与<a href="graph/20_mechanisms/国债供给的定价机制.md">国债供给的定价机制</a>连接。</p>
+<p><img src="../../materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_005.png" alt="原文图表6：国债供给与基金期货净头寸的回归" /></p>
+<p>表中因变量为基金期货净头寸变化，供给增加对应更负净头寸时可表现为负系数。逐列可辨读数如下；括号内是原表列出的标准误，星号沿原图保留，转载未附完整显著性注释。</p>
+<table>
+<thead>
+<tr>
+<th>规格</th>
+<th style="text-align:right">供给系数</th>
+<th style="text-align:right">标准误</th>
+<th>Tenor FE</th>
+<th>Time FE</th>
+<th style="text-align:right">调整后R²</th>
+<th style="text-align:right">样本数N</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>(1)</td>
+<td style="text-align:right">−0.053***</td>
+<td style="text-align:right">0.010</td>
+<td>Y</td>
+<td>N</td>
+<td style="text-align:right">2%</td>
+<td style="text-align:right">2,336</td>
+</tr>
+<tr>
+<td>(2)</td>
+<td style="text-align:right">−0.042***</td>
+<td style="text-align:right">0.011</td>
+<td>Y</td>
+<td>Y</td>
+<td style="text-align:right">8%</td>
+<td style="text-align:right">2,336</td>
+</tr>
+<tr>
+<td>(3)</td>
+<td style="text-align:right">−0.054***</td>
+<td style="text-align:right">0.013</td>
+<td>Y</td>
+<td>Y</td>
+<td style="text-align:right">8%</td>
+<td style="text-align:right">1,904</td>
+</tr>
+<tr>
+<td>(4)</td>
+<td style="text-align:right">0.007</td>
+<td style="text-align:right">0.032</td>
+<td>Y</td>
+<td>Y</td>
+<td style="text-align:right">10%</td>
+<td style="text-align:right">264</td>
+</tr>
+</tbody>
+</table>
+<p>前三列系数约为−0.05，转载将其概括为“国债发行每增加100亿美元，基金期货空头扩大5亿美元”。第四列系数为0.007且无显著性星号，样本又明显不同。<strong>第二、第三列已经包含时间固定效应，因此不能将第四列变化简单归因于加入Time FE。</strong> 本次未取得完整会议草稿及回归构造，无法判断第四列采用何种样本或识别改变。这个结果适合保存作者的供给—中介需求解释及其规格差异，尚不能作为固定比例的预测规则。</p>
+<p><a id="doc-22--hedged-purchase"></a></p>
+<h2>政策争论：对冲式购债试图解决哪一段压力</h2>
+<p>转载把Kashyap、Stein、Wallen与Younger的建议概括为：美联储在买入国债的同时卖空期货，使接收组合尽量保持久期中性。其直接目标是让官方资产负债表接走压力中的现券和相关中介负担，同时减少单纯买入长债所移走的利率风险。它承接的是有融资、保证金和执行安排的组合，仍需明确交易对手、对冲工具及数量、结算和最终退出。</p>
+<p>作者方案希望区分市场功能支持与货币政策立场，并主张更灵活退出、降低利率风险及缓解道德风险。这些是提案所追求的效果；久期中性只约束某种利率敏感度，无法自动证明所有金融条件不变、资产负债表无损失或激励问题已解决。集中清算及跨保证金可以降低某些占用，较高平时初始保证金也能限制杠杆，但两者均不能替代基金权益或消除赎回后的付款需要。</p>
+<p>本轮将政策过程放在<a href="#doc-21--logic-4">基差交易的政策逻辑</a>持续维护；本页保留2025年4月转述时的论述。不把提案登记成当时已经实施的制度，也不把“无需预设退出时间表”理解为无需安排融资、对冲和风险分担。</p>
+<p><a id="doc-22--expectations"></a></p>
+<h2>当时判断与后续如何检验</h2>
+<p><strong>华创证券张瑜，研报日期按转载为2025-04-01。</strong> 作者判断高杠杆基差头寸、交易商有限缓冲和国债供给扩张共同构成脆弱性，担心外部冲击触发更严重的流动性危机。这是条件性风险判断，未给出下一次危机日期、发生概率或损失金额。</p>
+<p><strong>华尔街见闻编者按，2025-04-09。</strong> 将基差交易列为隔夜美债急跌的重要原因之一，属于更具体的当日解释。若要验证，应匹配当时实际成套减仓、回购展期或额度变化、保证金现金需求，以及交易商库存和买卖报价。仅有收益率上升或期货净空头下降，仍无法确认渠道及贡献。</p>
+<p><strong>本库推演，2026-11-13整理，按上述历史信息重建观察条件。</strong> 对当时基金随后数个结算及融资日，若相对价格恶化、融资可得性下降、补款超出缓冲同时出现，被动卖现券买期货压力应增强；若资金和承接者进入，较大价差也可能吸引资本并缓和压力。更远一期的脆弱性取决于融资持有规模相对资本及中介能力如何变化。没有逐账户资料，本页不给这些路径赋概率。</p>
+<p>这里没有补入后来市场结果。既有<a href="#doc-21--logic-2">基差交易页</a>另有2026年研究对2025年4月策略退出的较晚识别，须按其公开日期阅读，不能回填到本页2025-04-09的信息集。</p>
+<h2>来源与关联</h2>
+<p><a href="#doc-23">来源记录 S-WS-3744871</a>保存原文、五份本地图片与实际阅读范围。本文只维护该次文章的共同情境、图表口径和当时判断；通用交易与反馈过程在<a href="#doc-21">基差交易 R-DERIVATIVES-02</a>维护，价差定义在<a href="graph/10_concepts/基差.md">基差 C-DERIV-15</a>维护。</p>
+</div></details><details class="document" id="doc-23" open><summary><span class="tag">新建 · 来源记录</span><strong>华尔街见闻：基差交易与美债市场脆弱性</strong><small>S-WS-3744871</small></summary><div class="doc"><p class="placement">保存出处、实际核读范围、本地原文和图表入口及关键未核范围。</p><p class="file"><a href="graph/40_sources/S-WS-3744871.md">打开Markdown原文件</a> · step2_draft</p><h1>华尔街见闻：基差交易与美债市场脆弱性</h1>
+<h2>出处与实际读取</h2>
+<ul>
+<li>文章：《一文读懂隔夜美债崩盘的“罪魁”——基差交易》，<a href="https://wallstreetcn.com/articles/3744871">华尔街见闻原文</a>，页面显示2025-04-09 13:39:46（北京时间），署名李笑寅。</li>
+<li>正文作者归属：华创证券张瑜；转载说明原题为《对冲基金基差交易引发美债市场脆弱性担忧——海外周报第84期》，华尔街见闻有所删减。4月1日研报日期按编者按保存，未另外取得原研报PDF。</li>
+<li>本地取得日为2026-11-04；制作时完整阅读<a href="../../materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md">Markdown正文</a>、<a href="../../materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/metadata.json">元数据</a>并查看五份图片。<a href="../../materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.html">HTML原文</a>便于核对图文顺序。</li>
+<li>五份图片包含原文图表1至6，第三份图片合并图表3和4。本次核读全部图片，图表1小字部分辨读受限；图表6各规格的系数、标准误、固定效应和样本数已逐列核对。</li>
+</ul>
+<h2>图表定位</h2>
+<table>
+<thead>
+<tr>
+<th>本地文件</th>
+<th>原图内容</th>
+<th>成品位置</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_001.png">figure_001.png</a></td>
+<td>现金、证券、回购与期货安排</td>
+<td><a href="#doc-22--participants">三类主体</a></td>
+</tr>
+<tr>
+<td><a href="../../materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_002.png">figure_002.png</a></td>
+<td>三类主体的期货净头寸</td>
+<td><a href="#doc-22--participants">三类主体</a></td>
+</tr>
+<tr>
+<td><a href="../../materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_003.png">figure_003.png</a></td>
+<td>基金回购与期货头寸；2020年3月减仓</td>
+<td><a href="#doc-22--unwind-2020">2020年退出</a></td>
+</tr>
+<tr>
+<td><a href="../../materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_004.png">figure_004.png</a></td>
+<td>2020年3月四类价差共同变化</td>
+<td><a href="#doc-22--dealer-capacity">交易商承接</a></td>
+</tr>
+<tr>
+<td><a href="../../materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_005.png">figure_005.png</a></td>
+<td>国债供给与期货净头寸的四列回归</td>
+<td><a href="#doc-22--supply-regression">逐列读数</a></td>
+</tr>
+</tbody>
+</table>
+<h2>采用范围与主要归属</h2>
+<p><a href="#doc-22">分析事件 E-WS-3744871</a>保存文章共同情境、历史数字、原图与当时观点。<a href="#doc-21">基差交易 R-DERIVATIVES-02</a>补充三主体分工、库存与融资的资源占用，以及具名对冲式购债提案；基差、回购、保证金等已有基础知识继续复用旧页。</p>
+<p>现券、期货、回购借款和净空头四类量按各自口径阅读。新增政策解释来自本文对Kashyap、Stein、Wallen、Younger会议稿的转述；本轮不复现其模型，不将政策建议视为实际制度。</p>
+<h2>核读边界</h2>
+<p>620亿美元减仓、570亿美元现券承接、买卖价差“扩大2.7倍”均按转载保留，没有另取底层数据复算。2025年4月8—9日行情归因没有逐基金账户证据。图表6第2、3、4列均有Time FE，第4列样本数明显不同，未取得完整论文，不能把系数差异归因于单一固定效应。</p>
+<p>此前试作曾读取<a href="https://www.brookings.edu/articles/treasury-market-dysfunction-and-the-role-of-the-central-bank/">Brookings研究介绍页</a>的作者、版本及摘要，记录为初发2025-03-26、更新2025-12-16；它不等于2025年4月历史网页。本轮重新打开失败，未将其当作本轮新核全文，也未通读最终论文。旧图已有来源的已读说明沿原记录保留，本轮未重新核其全部外部网页。</p>
+</div></details></section><footer><a href="README.md">工作区入口</a> · <a href="validation.json">结构与链接检查</a> · 新建数量包含对象、关系、事件与来源文件。</footer></main></html>

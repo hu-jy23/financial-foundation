@@ -1,0 +1,34 @@
+{
+  "id": "A8",
+  "title": "The World in Balance Sheet Recession: Causes, Cure, and Politics — Richard Koo，2011",
+  "directory": "A8_资产负债表衰退_Koo_2011",
+  "original_language": "en",
+  "source_urls": [
+    "https://www.paecon.net/PAEReview/issue58/Koo58.pdf",
+    "https://www.nomura.com/europe/resources/upload/Grand_Ballroom_2_Day_3_1400_Richard_Koo_The_World_Balance_Sheet.pdf"
+  ],
+  "files": [
+    {
+      "file": "资产负债表衰退_作者演示稿.pdf",
+      "source_url": "https://www.nomura.com/europe/resources/upload/Grand_Ballroom_2_Day_3_1400_Richard_Koo_The_World_Balance_Sheet.pdf",
+      "resolved_url": "https://www.nomura.com/europe/resources/upload/Grand_Ballroom_2_Day_3_1400_Richard_Koo_The_World_Balance_Sheet.pdf",
+      "scope": "作者演示稿",
+      "bytes": 1702778,
+      "sha256": "70c4823befcc574351f18c191a21b45087665ad1bca96da58c068a3ef89ee340",
+      "pages": 37
+    },
+    {
+      "file": "../../textbooks/R2 资产负债表衰退/资产负债表衰退_期刊原文.pdf",
+      "source_url": "https://www.paecon.net/PAEReview/issue58/Koo58.pdf",
+      "resolved_url": "https://www.paecon.net/PAEReview/issue58/Koo58.pdf",
+      "scope": "全文",
+      "bytes": 570645,
+      "sha256": "013ae6b25ae3b59e72883ed535a9941329569352ba8677866590b10927570195",
+      "pages": 19
+    }
+  ],
+  "failures": [],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "acquisition_status": "已取得所列原文文件；尚未精读"
+}

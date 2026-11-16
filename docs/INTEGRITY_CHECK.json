@@ -1,0 +1,18 @@
+{
+  "checked_migrated_binary_references": 1264,
+  "unique_binaries_checked": 1257,
+  "material_registry_entries_checked": 103,
+  "duplicate_pdfs_removed": 22,
+  "node_counts": {
+    "formal": {
+      "concepts": 165,
+      "mechanisms": 75
+    },
+    "draft": {
+      "concepts": 173,
+      "mechanisms": 79
+    }
+  },
+  "issues": [],
+  "passed": true
+}
