@@ -304,5 +304,8 @@
   "reviewed_articles": 30,
   "adopted_revisions": 30,
   "original_writer_revisions": 26,
-  "replacement_writer_revisions": 4
+  "replacement_writer_revisions": 4,
+  "integration_status": "integrated",
+  "graph_root": "graph",
+  "formal_integration": "../formal_integration.json"
 }

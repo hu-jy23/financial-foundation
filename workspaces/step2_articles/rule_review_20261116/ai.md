@@ -4,9 +4,9 @@
 
 ## 本轮采用
 
-- [AI相关企业CDS](../graph/10_concepts/AI相关企业CDS.md#subject-observation)新增具名主体对照：博通观察客户信用责任，甲骨文比较整体信用价格与跨工具承接，亚马逊／谷歌观察期限需求，NVIDIA连接设备部署与信用保护。
-- [NVIDIA旧页](../graph/10_concepts/NVIDIA.md#credit-observation-202610)补10月28日CDS 46→125bp及信用基差15bp，解释采购—部署—回款与风险承接两种观察如何对照；保留8月经营资料自身的时点。
-- [事件](../graph/30_events/AI融资扩张中的CDS价格分化：2026年10月.md)增加主体维护入口；原9图、机构判断及证据时点保持。
+- [AI相关企业CDS](../../../graph/10_concepts/AI相关企业CDS.md#subject-observation)新增具名主体对照：博通观察客户信用责任，甲骨文比较整体信用价格与跨工具承接，亚马逊／谷歌观察期限需求，NVIDIA连接设备部署与信用保护。
+- [NVIDIA旧页](../../../graph/10_concepts/NVIDIA.md#credit-observation-202610)补10月28日CDS 46→125bp及信用基差15bp，解释采购—部署—回款与风险承接两种观察如何对照；保留8月经营资料自身的时点。
+- [事件](../../../graph/30_events/AI融资扩张中的CDS价格分化：2026年10月.md)增加主体维护入口；原9图、机构判断及证据时点保持。
 
 ## 未采用
 

@@ -262,5 +262,7 @@
     "新增正文、图片及来源本地链接62处已检查，未发现缺件；主审需进一步检查锚点和全文组织。",
     "2026-11-16新规则复审：新增节点0；补充三类主体的观察链条，重点解释交易商净期货头寸与库存、融资中介活动的不同覆盖。未新增历史事实或外部来源。"
   ],
-  "revision_review": "workspaces/wallstreetcn_scaling/revision/3744871/audit.md"
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3744871/audit.md",
+  "graph_root": "graph",
+  "formal_integrated_on": "2026-11-16"
 }

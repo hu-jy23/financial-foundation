@@ -292,3 +292,7 @@
 ## 回溯依据
 
 整理自Git提交`064ec0c`中的`MECHANISM_SELECTION_177.json`、`MECHANISM_NAME_DECISIONS.json`与`history/mechanism_name_revision_first_pass_20261025.json`。逐项表按原记录核对，未新增筛选决定或推测个别改名动机；旧文件由Git追溯。
+
+## 2026-11-16 Step2正式接入
+
+30篇新闻及分析经制作、独立审阅和返修，新增6个机制。它们按信用、市场、衍生品和增长主题接入，未设子关系。采用清单见[本轮来源记录](../40_sources/STEP2_WALLSTREET_30.md)。

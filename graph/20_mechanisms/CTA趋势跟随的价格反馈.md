@@ -7,8 +7,10 @@ draft_author: "/root/full_b065"
 model: gpt-6-astra
 reasoning_effort: medium
 reviewed_by: /root
-updated: 2026-10-28
-evidence_as_of: 2025-06-17
+workspace_reviewed_by: /root
+workspace_reviewed_on: 2026-11-13
+updated: 2026-11-13
+evidence_as_of: 2026-10-20
 node_ids: [C-FLOW-11]
 related_mechanism_ids: []
 logic_groups:
@@ -18,12 +20,16 @@ logic_groups:
   - anchor: logic-2
     node_ids: [C-FLOW-11]
     related_mechanism_ids: []
-source_ids: [S-R-MARKET-09-01, S-R-MARKET-09-02, S-R-MARKET-09-03]
+source_ids: [S-R-MARKET-09-01, S-R-MARKET-09-02, S-R-MARKET-09-03, S-WS-3784053]
+editor: /root/produce_korea
+editing_status: step2_reviewed
+formal_integrated_on: 2026-11-16
+formal_integration_batch: wallstreetcn_30_20261116
 ---
 
 # CTA趋势跟随的价格反馈
 
-> 执笔：`/root/full_b065`，GPT-6-Astra，medium；2026-10-28制作。历史与管理人判断核至2025-06-17；无2026年实时行业持仓或触发点。
+> 执笔：`/root/full_b065`，GPT-6-Astra，medium；2026-10-28制作。原历史与管理人判断核至2025-06-17；2026-11-13补入2026-10-20韩国新闻判断，仍未取得2026年行业实际持仓或触发点。
 
 ## 概念定义
 
@@ -40,7 +46,7 @@ CTA趋势跟随的价格反馈，是指采用趋势规则的管理期货资金�
 
 **关联节点／节点组**：[趋势跟随与CTA C-FLOW-11](../10_concepts/趋势跟随与CTA.md)。
 
-**时间段**：适用于跨资产期货／远期的规则化趋势管理；论文样本为1985—2009年，近期实例为2024年4月和2025年4月。
+**时间段**：适用于跨资产期货／远期的规则化趋势管理；论文样本为1985—2009年，近期实例为2024年4月、2025年4月及2026年10月韩国报道。
 
 ### 详细逻辑
 
@@ -60,7 +66,12 @@ Moskowitz、Ooi、Pedersen的2012年论文研究58种工具，核心构造在198
 
 2025年4月，Korgaonkar在6月17日复盘政策反转，认为趋势资金在下跌中调整，随后快速反弹使新持仓承压。他报告截至4月30日SG Trend滚动12个月回报−18.6%，不是2025年年内收益或峰谷最大回撤。这是一种路径时滞的事后解释，不能反推全行业4月9日具体卖单。[S-R-MARKET-09-03](#S-R-MARKET-09-03)
 
+<a id="korea-20261020"></a>
+**2026年10月韩国补录，2026-11-13编辑：** 华尔街见闻页面显示2026-10-20的报道转述，趋势跟随资金可能从极度多头转向净空，空头回补或能支持短线反弹。图5实际为动量信号，原图标题保留likely；它反映研究者对目标方向的判断，没有直接给出行业实际头寸或剩余订单。按上面的传导，已经转空与接下来继续卖出属于两个问题，风险缩放也可能要求缩小空头而买回。原图及完整情境见[韩国股市分析](../30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md#trend)。
+
 ### 该逻辑的预期
+
+**韩国报道判断，截至页面显示2026-10-20：** 报道认为超卖及可能的空头回补有利于短线反弹，但长线资金仍可能等待波动稳定；未给出回补金额或确切日期。该判断据新闻转述保留，没有用单一动量信号重建全行业持仓。
 
 **管理人判断，截至2025-06-17，未指定恢复期限：** Korgaonkar认为政策反复未必无限延续，市场适应及贸易结构调整可能带来新的分化趋势；没有给出恢复收益的日期或数值承诺。该判断属于趋势管理人，不代表市场共识。
 
@@ -97,10 +108,12 @@ Moskowitz、Ooi、Pedersen的2012年论文研究58种工具，核心构造在198
 
 ## 来源与覆盖说明
 
+[S-WS-3784053](../40_sources/S-WS-3784053.md)提供2026-10-20韩国报道及图5；本轮新增这一历史入口，不改变下列原研究各自的样本和阅读范围。
+
 <a id="S-R-MARKET-09-01"></a>**S-R-MARKET-09-01** — Tobias J. Moskowitz、Yao Hua Ooi、Lasse Heje Pedersen，*Time series momentum*，Journal of Financial Economics 104，2012年5月，228—250（在线2011-12-11）。[大学托管原文](https://w4.stern.nyu.edu/facdir/lpederse/papers/TimeSeriesMomentum.pdf)。核读摘要、导论、§4.1、式5、图2及样本说明（PDF页1—2、9—10）；未重估收益、全部回归或价格冲击，未把毛收益当扣费后实绩。
 
 <a id="S-R-MARKET-09-02"></a>**S-R-MARKET-09-02** — Man Group，*What's Trending? Weathering April's Market Showers*，2024-05-22。[原文](https://www.man.com/insights/trend-following-weathering-aprils-market-showers)。核读主体全文、图2说明与脚注1—2；未取得代表性程序的实际合约明细或重算指数。使用2024年4月总回报，不把图示程序与行业指数等同。
 
 <a id="S-R-MARKET-09-03"></a>**S-R-MARKET-09-03** — Russell Korgaonkar／Man AHL，*Trend Following and Drawdowns: Is This Time Different?*，2025-06-17。[原文](https://www.man.com/insights/is-this-time-different)。核读§1—3、§6和结论，特别是图2、5、6样本及拥挤讨论；图5样本1997年12月至2024年12月，图6标明1973年4月至2025年4月。未取得其拼接底层数据或图5数值，未采用正态独立模拟的回撤概率；文中反事实政策判断未视作已实现事实。
 
-已查论文和管理人原始研究，仍未取得2025年6月之后同口径表现、2026年各管理人风险参数、初始持仓与成交记录。故本文没有即时触发价格、行业卖出金额或已识别的价格影响系数；下一步验证须在指定合约和事件窗口匹配订单与深度，不能用行业管理资产总额填补。
+已查论文和管理人原始研究，仍未取得2025年6月之后同口径行业表现、2026年各管理人风险参数、初始持仓与成交记录；2026年韩国新闻补录仅提供机构信号判断。故本文没有即时触发价格、行业卖出金额或已识别的价格影响系数；下一步验证须在指定合约和事件窗口匹配订单与深度，不能用行业管理资产总额填补。

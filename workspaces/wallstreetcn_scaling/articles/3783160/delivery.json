@@ -109,5 +109,7 @@
     "30_events/markets/A股2026年三季度风格切换与缩短久期解释.md",
     "40_sources/S-WS-3783160.md"
   ],
-  "revision_review": "workspaces/wallstreetcn_scaling/revision/3783160/audit.md"
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3783160/audit.md",
+  "graph_root": "graph",
+  "formal_integrated_on": "2026-11-16"
 }

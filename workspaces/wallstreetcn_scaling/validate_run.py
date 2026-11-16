@@ -5,7 +5,7 @@ import json,re,yaml
 from functools import lru_cache
 from markdown_it import MarkdownIt
 from bs4 import BeautifulSoup
-R=Path(__file__).resolve().parent;G=R.parent/'step2_articles/graph';run=json.loads((R/'run.json').read_text());idx=json.loads((G/'00_start/catalog_index.json').read_text());parser=MarkdownIt('commonmark',{'html':True});cache={};issues=[];checks=0
+R=Path(__file__).resolve().parent;G=R.parents[1]/'graph' if (R/'formal_integration.json').exists() else R.parent/'step2_articles/graph';run=json.loads((R/'run.json').read_text());idx=json.loads((G/'00_start/catalog_index.json').read_text());parser=MarkdownIt('commonmark',{'html':True});cache={};issues=[];checks=0
 
 @lru_cache(None)
 def canonical(p):return p.resolve()

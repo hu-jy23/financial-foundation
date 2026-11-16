@@ -339,5 +339,7 @@
     ],
     "preexisting_adjustment": "CoreWeave子概念及云服务父项由主agent此前完成，本轮不重复计入增量。"
   },
-  "revision_review": "workspaces/wallstreetcn_scaling/revision/3784900/audit.md"
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3784900/audit.md",
+  "graph_root": "graph",
+  "formal_integrated_on": "2026-11-16"
 }

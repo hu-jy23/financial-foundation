@@ -7,9 +7,24 @@ draft_author: /root/resume_b041
 model: gpt-6-astra
 reasoning_effort: medium
 reviewed_by: /root
-updated: 2026-10-30
+workspace_reviewed_by: /root
+workspace_reviewed_on: 2026-11-16
+updated: '2026-11-16'
 evidence_as_of: 2026-10-29
-source_ids: [S-C-TECH-20-01, S-C-TECH-20-02, S-C-TECH-20-03, S-C-TECH-20-04, S-C-TECH-20-05, S-C-TECH-20-06]
+source_ids:
+- S-C-TECH-20-01
+- S-C-TECH-20-02
+- S-C-TECH-20-03
+- S-C-TECH-20-04
+- S-C-TECH-20-05
+- S-C-TECH-20-06
+- S-WS-3783420
+editor: /root/scale_10
+editing_status: step2_reviewed
+editor_model: inherited_unverified
+editor_reasoning_effort: inherited_unverified
+formal_integrated_on: 2026-11-16
+formal_integration_batch: wallstreetcn_30_20261116
 ---
 
 # Amazon
@@ -86,6 +101,13 @@ FCF=CFO-\bigl(现金购置物业设备-出售设备所得及激励\bigr)。
 
 **2025年与2026年初：AI扩张抬高投资强度。** 2025年AWS收入增长20%，集团净现金设备支出较2024年增加约506.62亿美元。2026-02-05，Jassy预计2026年集团资本开支约2000亿美元，并预期长期投资回报良好；该数是当时管理层预期，既不是已经发生，也不是单独AWS开支。[S-C-TECH-20-02](#S-C-TECH-20-02)
 
+<a id="meta-agent-202610"></a>
+### Meta的CPU需求与零售接入属于两组交易
+
+[AWS 2026-04-24公告](https://press.aboutamazon.com/2026/4/meta-signs-agreement-with-aws-to-power-agentic-ai-on-aws-graviton-chips)确认Meta从数千万Graviton核心起步部署，支持多种AI工作负载。10月12日文章所引MS又提出相应云收入情景，合同实际价款与Muse独占容量并未披露。这个伙伴关系为AWS提供潜在服务需求，却不会自动许可Meta智能体在Amazon零售网站执行购物。
+
+同篇将Amazon限制[Muse](Muse.md)购物解释为客户入口、展示和数据安排的争议。云服务与零售业务分别比较客户需求、收入和访问条件，因此可以同时维持供给合作与接入限制。[完整情境与模型归属](../30_events/markets/Muse增长、服务成本与交易接入：2026年10月观察.md#access)保留于事件，相关金额的展示精度问题见[来源](../40_sources/S-WS-3783420.md#aws-arr)。
+
 **2026-10-29已知结果。** 截至9月30日的第三季度集团收入2019.44亿美元，AWS459.84亿美元、同比约39%；AWS经营利润177.73亿美元。同期集团经营利润280.76亿美元、净利润206.85亿美元；净利润同比略降主要受到上年同期Anthropic投资税前收益95亿美元这一高基数影响，不能据净利润方向认定云经营恶化。Prime Day在多数大市场提前到第二季度，公司估计若排除此时点变化，第三季度集团同比销售增速会高约4个百分点；这是公司调整判断，不是新增实际收入。[S-C-TECH-20-03](#S-C-TECH-20-03)
 
 截至该季度末的**过去12个月**经营现金流1683亿美元、净现金设备支出2106.57亿美元，FCF为**负423.57亿美元**。它覆盖2025年第四季度至2026年第三季度，不能标成“2026前三季度现金流”。当季AWS年化收入运行率约1840亿美元是459.84亿乘四的量级表达，也不是已完成全年收入。[S-C-TECH-20-03](#S-C-TECH-20-03)
@@ -96,7 +118,7 @@ FCF=CFO-\bigl(现金购置物业设备-出售设备所得及激励\bigr)。
 
 ## 关系入口与观测边界
 
-[平台网络效应 R-TECH-12](../20_mechanisms/平台网络效应.md)可解释顾客、商家及广告主的互动，但物流密度经济与网络效应需分别识别；[模型效率、推理成本与总算力需求 R-TECH-03](../20_mechanisms/模型效率、推理成本与总算力需求.md)用于分析AWS价格性能改善如何同时压低单位收入、刺激使用量。正式目录未将Amazon预绑定为这两条机制的node_ids，本页只给应用入口。
+[平台网络效应 R-TECH-12](../20_mechanisms/平台网络效应.md)可解释顾客、商家及广告主的互动，但物流密度经济与网络效应需分别识别；[模型效率、推理成本与总算力需求 R-TECH-03](../20_mechanisms/模型效率、推理成本与总算力需求.md)用于分析AWS价格性能改善如何同时压低单位收入、刺激使用量。本工作图的[平台网络效应logic-4](../20_mechanisms/平台网络效应.md#logic-4)已将Amazon列为接入方，正式graph尚未接入该组；模型效率关系在此保留应用入口。
 
 与[Microsoft](Microsoft.md)比较云业务时，AWS不能直接对比含办公订阅的Microsoft Cloud；与[AMD](AMD.md)比较时，芯片采购是云服务投入，二者收入相加会重复计算产业链。季度比较还要保留Prime Day和节日时点、汇率、分部费用分配及一次性费用。
 
@@ -115,3 +137,5 @@ FCF=CFO-\bigl(现金购置物业设备-出售设备所得及激励\bigr)。
 <a id="S-C-TECH-20-06"></a>**S-C-TECH-20-06** — Andy Jassy，*2023 Letter to Shareholders*，2024年发表，[原文](https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2023-letter-to-shareholders)。已读开篇财务、物流速度/每件成本、广告与AWS优化/模型服务段落；未通读后附1997股东信，不把管理层归因当作独立因果估计。
 
 具体缺口：所读年报没有广告独立经营利润或完整GMV；本页不反推。已取得分部物业设备净新增，但没有完整AWS现金流量表和每项AI投资现金回报；两类数据不能代用。2026年全年实际现金资本开支、2027—2028年AWS增长尚为未来结果。客户合同与设备队列资料未取得，不能由公布资本开支直接计算未来收入或项目回报率。
+
+本轮来源：[S-WS-3783420](../40_sources/S-WS-3783420.md)，补4月24日合作公告与10月12日机构分析；原财务来源未重新核读。

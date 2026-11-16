@@ -511,3 +511,7 @@
 ## 回溯依据
 
 整理自Git提交`064ec0c`中的`CONCEPT_SELECTION_349.json`、`history/SELECTION_BASELINE_159.json`与`CATALOG_MIGRATION.json`。原记录的独立筛选、修改决定与最终结果在本页合并展示；旧文件由Git追溯。
+
+## 2026-11-16 Step2正式接入
+
+30篇新闻及分析经制作、独立审阅和返修，新增29个对象（16个概念、13个子概念）。C-MACRO-11恢复为《PMI与景气调查》，旧排除决定保留作历史，现行范围以正式目录为准。采用清单见[本轮来源记录](../40_sources/STEP2_WALLSTREET_30.md)。

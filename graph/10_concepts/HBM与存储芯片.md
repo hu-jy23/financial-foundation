@@ -7,9 +7,27 @@ draft_author: /root/resume_b038
 model: gpt-6-astra
 reasoning_effort: medium
 reviewed_by: /root
-updated: 2026-10-30
-evidence_as_of: 2026-10-09
-source_ids: [S-C-TECH-06-01, S-C-TECH-06-02, S-C-TECH-06-03, S-C-TECH-06-04, S-C-TECH-06-05, S-C-TECH-06-06, S-C-TECH-06-07]
+workspace_reviewed_by: /root
+workspace_reviewed_on: 2026-11-16
+updated: '2026-11-16'
+evidence_as_of: '2026-10-23'
+source_ids:
+- S-C-TECH-06-01
+- S-C-TECH-06-02
+- S-C-TECH-06-03
+- S-C-TECH-06-04
+- S-C-TECH-06-05
+- S-C-TECH-06-06
+- S-C-TECH-06-07
+- S-WS-3784266
+editor: /root/scale_06
+editing_status: step2_reviewed
+editing_model: inherited_unverified
+editing_reasoning_effort: inherited_unverified
+revision_editor: /root/scale_06
+revision_scope: 3784266返修：去重具体价格历史，保留价格到扩产及合格供给的过程、4F²一般解释
+formal_integrated_on: 2026-11-16
+formal_integration_batch: wallstreetcn_30_20261116
 ---
 
 # HBM与存储芯片
@@ -106,7 +124,7 @@ HBM收入也不能用云内存部门总收入代替，因为该部门可能同�
 
 ## 对象连接与关系边界
 
-[GPU与AI加速器 C-TECH-02](GPU%E4%B8%8EAI%E5%8A%A0%E9%80%9F%E5%99%A8.md)提出内存访问要求；[晶圆制造与先进制程 C-TECH-07](%E6%99%B6%E5%9C%86%E5%88%B6%E9%80%A0%E4%B8%8E%E5%85%88%E8%BF%9B%E5%88%B6%E7%A8%8B.md)提供裸片；[先进封装与CoWoS C-TECH-08](%E5%85%88%E8%BF%9B%E5%B0%81%E8%A3%85%E4%B8%8ECoWoS.md)解释处理器与内存的系统集成，HBM堆叠和CoWoS不能视作同一道工序。[Micron C-TECH-29](Micron.md)、[SK hynix C-TECH-28](<SK%20hynix.md>)及[Samsung Electronics C-TECH-27](<Samsung%20Electronics.md>)分别承担公司财务与经营记录。当前正式机制目录没有以C-TECH-06为关联节点的机制，本页不增设半导体周期节点。
+[GPU与AI加速器 C-TECH-02](GPU与AI加速器.md)提出内存访问要求；[晶圆制造与先进制程 C-TECH-07](晶圆制造与先进制程.md)提供裸片；[先进封装与CoWoS C-TECH-08](先进封装与CoWoS.md)解释处理器与内存的系统集成，HBM堆叠和CoWoS不能视作同一道工序。[Micron C-TECH-29](Micron.md)、[SK hynix C-TECH-28](<SK hynix.md>)及[Samsung Electronics C-TECH-27](<Samsung Electronics.md>)分别承担公司财务与经营记录。当前正式机制目录没有以C-TECH-06为关联节点的机制，本页不增设半导体周期节点。
 
 ## 来源与具体缺口
 
@@ -125,3 +143,12 @@ HBM收入也不能用云内存部门总收入代替，因为该部门可能同�
 <a id="S-C-TECH-06-07"></a>**S-C-TECH-06-07** — Micron，[HBM3E产品页](https://www.micron.com/products/memory/hbm/hbm3e)，无独立发布日期，2026-10-30核读FAQ的1024引脚、速率、带宽、容量以及性能比较脚注。它保留2024出货措辞，不能据访问日当作2026新品时间表；本文的历史数字优先采用有日期公告。
 
 具体缺口：没有取得按厂商、工艺、产品代际拆分的HBM良率及晶圆用量，不能量化全球可售产能；“三倍”仅为Micron2025陈述。没有完整HBM合同价格、2025全球销售实现值及三家同口径份额；不据公司部门收入倒算。HBM4标准全文及独立系统性能测试未读取，保留公开技术公告与理论上界的证据层级。2026年10月其他厂商最新季度报告尚未系统核读。
+
+<a id="memory-cycle-20261023"></a>
+## 2026年10月：涨价、面积效率与新供给
+
+固定规格价格识别一种产品的涨价，行业收入还同时受出货量和产品组合影响；厂商整体毛利率也混有其他业务，不能当作DRAM产品利润率。高价提高利润和扩产激励，新增产能要经过设备、爬坡和认证才形成可售供给。若同档次产品的合格供给快于需求，客户替代选择增加，定价与利润可能回落；工艺或认证受限则会延后这条链。
+
+4F²、6F²描述存储单元标称面积。同一F下从6F²到4F²，单元小约三分之一，完整芯片还有外围电路，成本与可售比特还受良率和性能约束。[长鑫存储](长鑫存储.md)据此观察中国具体生产主体的路线兑现，母页维护共同制造逻辑。
+
+[本篇事件](../30_events/AI投资的资金、电力与存储周期担忧：2026年10月走访.md#memory)主维护固定规格涨价、三厂DRAM营收份额和公司整体毛利、季度价格预测及竞争类比；[来源](../40_sources/S-WS-3784266.md#figure-index)定位原图。

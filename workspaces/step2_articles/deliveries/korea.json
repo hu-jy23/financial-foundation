@@ -306,5 +306,7 @@
     "conclusion": "增量来自两条观察链的解释，原有对象及关系已能承载，不新增公司、产品或指数子概念。",
     "sources_read": "本地正文、元数据和全部8图；相关正式HBM页、现有本篇9份成品；未补入外部新事实。"
   },
-  "revision_review": "workspaces/wallstreetcn_scaling/revision/3784053/audit.md"
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3784053/audit.md",
+  "graph_root": "graph",
+  "formal_integrated_on": "2026-11-16"
 }

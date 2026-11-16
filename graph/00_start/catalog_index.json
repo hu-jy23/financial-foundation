@@ -1,21 +1,21 @@
 {
   "counts": {
     "concepts": {
-      "groups": 18,
-      "items": 165,
+      "groups": 19,
+      "items": 194,
       "p0": 21,
-      "complete": 165,
+      "complete": 194,
       "pending": 0
     },
     "mechanisms": {
       "groups": 16,
-      "items": 75,
+      "items": 81,
       "p0": 21,
-      "complete": 75,
+      "complete": 81,
       "pending": 0
     },
     "excluded_concepts": {
-      "items": 186,
+      "items": 185,
       "moved_to_mechanism": 5
     },
     "deferred": {
@@ -79,6 +79,31 @@
       "role": "domain_objects"
     },
     {
+      "code": "MACRO",
+      "title": "宏观经济与景气",
+      "role": "domain_objects",
+      "items": [
+        {
+          "id": "C-MACRO-11",
+          "name": "PMI与景气调查",
+          "scope": "景气调查的覆盖、扩散、合成与比较",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/PMI与景气调查.md",
+          "planned_path": "../10_concepts/PMI与景气调查.md",
+          "catalog_anchor": "C-MACRO-11",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-MACRO-11",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        }
+      ]
+    },
+    {
       "code": "INFLATION",
       "title": "物价、工资与就业",
       "items": [
@@ -95,7 +120,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/通货膨胀.md"
+          "planned_path": "../10_concepts/通货膨胀.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-LABOR-WAGE-POWER",
@@ -471,7 +499,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/财政赤字与初级赤字.md"
+          "planned_path": "../10_concepts/财政赤字与初级赤字.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-FISCAL-13",
@@ -502,8 +533,9 @@
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../10_concepts/主权信用风险与CDS.md",
-          "last_source_review_on": "2026-11-03",
-          "last_source_batch": "T1_T2_20261103"
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116",
+          "editing_status": "step2_reviewed"
         },
         {
           "id": "C-FISCAL-15",
@@ -585,7 +617,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/信用利差.md"
+          "planned_path": "../10_concepts/信用利差.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-CREDIT-08",
@@ -601,8 +636,9 @@
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../10_concepts/信用评级与迁移.md",
-          "last_source_review_on": "2026-11-03",
-          "last_source_batch": "T1_T2_20261103"
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116",
+          "editing_status": "step2_reviewed"
         },
         {
           "id": "C-CREDIT-10",
@@ -720,7 +756,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/人民币与离岸人民币.md"
+          "planned_path": "../10_concepts/人民币与离岸人民币.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-FX-03",
@@ -780,7 +819,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/美元指数DXY与广义美元指数.md"
+          "planned_path": "../10_concepts/美元指数DXY与广义美元指数.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-FX-10",
@@ -1016,7 +1058,54 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/拍卖、投标倍数与尾差.md"
+          "planned_path": "../10_concepts/拍卖、投标倍数与尾差.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3749421-BONDETF",
+          "name": "债券ETF",
+          "scope": "债券基金组合、场内价格、净值与申赎",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/债券ETF.md",
+          "planned_path": "../10_concepts/债券ETF.md",
+          "catalog_anchor": "C-WS-3749421-BONDETF",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3749421-BONDETF",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "parent_ids": [
+            "C-FLOW-05"
+          ],
+          "parent_relation": "instrument_subtype",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3763441-CLOETF",
+          "name": "CLO ETF",
+          "scope": "CLO分层、浮息收入与基金流动性",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/CLO ETF.md",
+          "planned_path": "../10_concepts/CLO ETF.md",
+          "catalog_anchor": "C-WS-3763441-CLOETF",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3763441-CLOETF",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "parent_ids": [
+            "C-WS-3749421-BONDETF"
+          ],
+          "parent_relation": "instrument_subtype",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ],
       "role": "domain_objects"
@@ -1056,6 +1145,60 @@
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../10_concepts/并购交易与交易条款.md"
+        },
+        {
+          "id": "C-S2-SOX",
+          "name": "费城半导体指数SOX",
+          "scope": "半导体股票组合、权重与比较口径",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "status": "complete",
+          "path": "../10_concepts/费城半导体指数SOX.md",
+          "planned_path": "../10_concepts/费城半导体指数SOX.md",
+          "catalog_anchor": "C-S2-SOX",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-S2-SOX",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3783332-SP500",
+          "name": "标普500与等权指数",
+          "scope": "美国大盘股票的市值与等权组合",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/标普500与等权指数.md",
+          "planned_path": "../10_concepts/标普500与等权指数.md",
+          "catalog_anchor": "C-WS-3783332-SP500",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783332-SP500",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3784306-NDX",
+          "name": "纳斯达克100指数",
+          "scope": "大型非金融股票的纳斯达克组合",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/纳斯达克100指数.md",
+          "planned_path": "../10_concepts/纳斯达克100指数.md",
+          "catalog_anchor": "C-WS-3784306-NDX",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3784306-NDX",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ],
       "role": "domain_objects"
@@ -1077,7 +1220,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/隐含波动率与实现波动率.md"
+          "planned_path": "../10_concepts/隐含波动率与实现波动率.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-DERIV-04",
@@ -1144,6 +1290,104 @@
           "role": "domain_objects",
           "last_source_review_on": "2026-11-03",
           "last_source_batch": "T1_T2_20261103"
+        },
+        {
+          "id": "C-S2-CDS",
+          "name": "信用违约互换CDS",
+          "scope": "约定信用事件的保护、保费、结算与报价",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "status": "complete",
+          "path": "../10_concepts/信用违约互换CDS.md",
+          "planned_path": "../10_concepts/信用违约互换CDS.md",
+          "catalog_anchor": "C-S2-CDS",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-S2-CDS",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-S2-CDX",
+          "name": "CDX信用衍生品指数",
+          "scope": "信用指数的合约、成分、换期与风险集中",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "status": "complete",
+          "path": "../10_concepts/CDX信用衍生品指数.md",
+          "planned_path": "../10_concepts/CDX信用衍生品指数.md",
+          "catalog_anchor": "C-S2-CDX",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-S2-CDX",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-S2-CDS-CASH-BASIS",
+          "name": "CDS—现金债基差",
+          "scope": "匹配CDS与现金债的利差差额",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "status": "complete",
+          "path": "../10_concepts/CDS—现金债基差.md",
+          "planned_path": "../10_concepts/CDS—现金债基差.md",
+          "catalog_anchor": "C-S2-CDS-CASH-BASIS",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-S2-CDS-CASH-BASIS",
+          "editing_status": "step2_reviewed",
+          "parent_ids": [
+            "C-DERIV-15"
+          ],
+          "parent_relation": "instrument_specific_basis",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-S2-AI-CDS",
+          "name": "AI相关企业CDS",
+          "scope": "AI融资相关企业的信用保护专题",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "status": "complete",
+          "path": "../10_concepts/AI相关企业CDS.md",
+          "planned_path": "../10_concepts/AI相关企业CDS.md",
+          "catalog_anchor": "C-S2-AI-CDS",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-S2-AI-CDS",
+          "editing_status": "step2_reviewed",
+          "parent_ids": [
+            "C-S2-CDS"
+          ],
+          "parent_relation": "thematic_collection",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3783332-SWAPTION",
+          "name": "利率互换期权Swaption",
+          "scope": "进入利率互换的期权、期限与波动敏感度",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/利率互换期权Swaption.md",
+          "planned_path": "../10_concepts/利率互换期权Swaption.md",
+          "catalog_anchor": "C-WS-3783332-SWAPTION",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783332-SWAPTION",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ],
       "role": "domain_objects"
@@ -1165,7 +1409,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/ETF申赎与二级市场交易.md"
+          "planned_path": "../10_concepts/ETF申赎与二级市场交易.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-FLOW-09",
@@ -1180,7 +1427,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/融资融券与借券成本.md"
+          "planned_path": "../10_concepts/融资融券与借券成本.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-FLOW-10",
@@ -1228,6 +1478,64 @@
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../10_concepts/风险平价与波动率目标.md"
+        },
+        {
+          "id": "C-S2-LEVERAGED-ETF",
+          "name": "杠杆ETF",
+          "scope": "每日杠杆目标、存续敞口与复合收益",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "status": "complete",
+          "path": "../10_concepts/杠杆ETF.md",
+          "planned_path": "../10_concepts/杠杆ETF.md",
+          "catalog_anchor": "C-S2-LEVERAGED-ETF",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-S2-LEVERAGED-ETF",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3758183-ACTIVE-EQUITY",
+          "name": "主动权益公募基金",
+          "scope": "主动股票基金的申赎、净值、仓位与配置",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/主动权益公募基金.md",
+          "planned_path": "../10_concepts/主动权益公募基金.md",
+          "catalog_anchor": "C-WS-3758183-ACTIVE-EQUITY",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3758183-ACTIVE-EQUITY",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "parent_ids": [
+            "C-SECTOR-03"
+          ],
+          "parent_relation": "thematic_collection",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3763441-CEF",
+          "name": "上市封闭式基金CEF",
+          "scope": "封闭份额、净值折溢价、融资与分配",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/上市封闭式基金CEF.md",
+          "planned_path": "../10_concepts/上市封闭式基金CEF.md",
+          "catalog_anchor": "C-WS-3763441-CEF",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3763441-CEF",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ],
       "role": "domain_objects"
@@ -1249,7 +1557,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/黄金.md"
+          "planned_path": "../10_concepts/黄金.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-COMMOD-02",
@@ -1415,6 +1726,64 @@
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../10_concepts/碳排放权与碳价格.md"
+        },
+        {
+          "id": "C-WS-3764710-GLD",
+          "name": "SPDR黄金信托GLD",
+          "scope": "实物支持的黄金信托、份额、申赎与费用",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/SPDR黄金信托GLD.md",
+          "planned_path": "../10_concepts/SPDR黄金信托GLD.md",
+          "catalog_anchor": "C-WS-3764710-GLD",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3764710-GLD",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "parent_ids": [
+            "C-FLOW-05"
+          ],
+          "parent_relation": "concrete_subject",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3783904-DIESEL",
+          "name": "柴油",
+          "scope": "燃料规格、炼化、贸易与批零报价",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/柴油.md",
+          "planned_path": "../10_concepts/柴油.md",
+          "catalog_anchor": "C-WS-3783904-DIESEL",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783904-DIESEL",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3763441-URANIUM",
+          "name": "铀",
+          "scope": "核燃料原料、工序、采购与可交付供给",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/铀.md",
+          "planned_path": "../10_concepts/铀.md",
+          "catalog_anchor": "C-WS-3763441-URANIUM",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3763441-URANIUM",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ],
       "role": "domain_objects"
@@ -1496,7 +1865,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/存款准备金率与降准.md"
+          "planned_path": "../10_concepts/存款准备金率与降准.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-CHINA-07",
@@ -1541,7 +1913,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/DR007、R007与同业存单.md"
+          "planned_path": "../10_concepts/DR007、R007与同业存单.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-CHINA-10",
@@ -1616,7 +1991,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/房地产预售与保交楼.md"
+          "planned_path": "../10_concepts/房地产预售与保交楼.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-CHINA-15",
@@ -1631,7 +2009,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/房地产融资与住房按揭.md"
+          "planned_path": "../10_concepts/房地产融资与住房按揭.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-CHINA-18",
@@ -1662,6 +2043,28 @@
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../10_concepts/国企央企与资本回报考核.md"
+        },
+        {
+          "id": "C-WS-3785129-FXRR",
+          "name": "外汇存款准备金率",
+          "scope": "外币准备金交存与银行外汇资金约束",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/外汇存款准备金率.md",
+          "planned_path": "../10_concepts/外汇存款准备金率.md",
+          "catalog_anchor": "C-WS-3785129-FXRR",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3785129-FXRR",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "parent_ids": [
+            "C-CHINA-06"
+          ],
+          "parent_relation": "policy_subtype",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ],
       "role": "domain_objects"
@@ -1683,7 +2086,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/A股市场.md"
+          "planned_path": "../10_concepts/A股市场.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-ASIA-02",
@@ -1759,7 +2165,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/保险资金与长期资金.md"
+          "planned_path": "../10_concepts/保险资金与长期资金.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-ASIA-07",
@@ -1805,8 +2214,9 @@
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../10_concepts/IPO、再融资与退市.md",
-          "last_source_review_on": "2026-11-03",
-          "last_source_batch": "T1_T2_20261103"
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116",
+          "editing_status": "step2_reviewed"
         },
         {
           "id": "C-ASIA-10",
@@ -1821,7 +2231,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/A／H溢价.md"
+          "planned_path": "../10_concepts/A／H溢价.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-ASIA-11",
@@ -1836,7 +2249,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/恒生指数与恒生科技指数.md"
+          "planned_path": "../10_concepts/恒生指数与恒生科技指数.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-ASIA-12",
@@ -1852,6 +2268,96 @@
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../10_concepts/日本银行与YCC.md"
+        },
+        {
+          "id": "C-S2-KOSPI",
+          "name": "韩国综合股价指数KOSPI",
+          "scope": "韩国综合股票指数及估值、样本与承接",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "status": "complete",
+          "path": "../10_concepts/韩国综合股价指数KOSPI.md",
+          "planned_path": "../10_concepts/韩国综合股价指数KOSPI.md",
+          "catalog_anchor": "C-S2-KOSPI",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-S2-KOSPI",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3784163-NIFTY50",
+          "name": "印度Nifty 50指数",
+          "scope": "印度大型股票基准及收益、币种口径",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/印度Nifty 50指数.md",
+          "planned_path": "../10_concepts/印度Nifty 50指数.md",
+          "catalog_anchor": "C-WS-3784163-NIFTY50",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3784163-NIFTY50",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3784163-NIKKEI225",
+          "name": "日经225指数",
+          "scope": "日本股票价格加权基准与回报口径",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/日经225指数.md",
+          "planned_path": "../10_concepts/日经225指数.md",
+          "catalog_anchor": "C-WS-3784163-NIKKEI225",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3784163-NIKKEI225",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3783160-CHINEXT",
+          "name": "创业板指",
+          "scope": "创业板100股样本及收益版本",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/创业板指.md",
+          "planned_path": "../10_concepts/创业板指.md",
+          "catalog_anchor": "C-WS-3783160-CHINEXT",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783160-CHINEXT",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3783160-STAR50",
+          "name": "科创50指数",
+          "scope": "科创板50股样本、权重与收益版本",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/科创50指数.md",
+          "planned_path": "../10_concepts/科创50指数.md",
+          "catalog_anchor": "C-WS-3783160-STAR50",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783160-STAR50",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ],
       "role": "domain_objects"
@@ -2032,7 +2538,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/云服务与超大规模云厂商.md"
+          "planned_path": "../10_concepts/云服务与超大规模云厂商.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-TECH-04",
@@ -2047,7 +2556,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/数据中心.md"
+          "planned_path": "../10_concepts/数据中心.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-TECH-05",
@@ -2077,7 +2589,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/HBM与存储芯片.md"
+          "planned_path": "../10_concepts/HBM与存储芯片.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-TECH-07",
@@ -2122,7 +2637,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/半导体设备与材料.md"
+          "planned_path": "../10_concepts/半导体设备与材料.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-TECH-10",
@@ -2167,7 +2685,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/NVIDIA.md"
+          "planned_path": "../10_concepts/NVIDIA.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-TECH-18",
@@ -2212,7 +2733,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/Amazon.md"
+          "planned_path": "../10_concepts/Amazon.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-TECH-21",
@@ -2242,7 +2766,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/Meta.md"
+          "planned_path": "../10_concepts/Meta.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-TECH-23",
@@ -2302,7 +2829,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/ASML.md"
+          "planned_path": "../10_concepts/ASML.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-TECH-27",
@@ -2423,6 +2953,138 @@
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../10_concepts/寒武纪.md"
+        },
+        {
+          "id": "C-S2-COREWEAVE",
+          "name": "CoreWeave",
+          "scope": "AI云经营、交付、回款与融资条件",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "status": "complete",
+          "path": "../10_concepts/CoreWeave.md",
+          "planned_path": "../10_concepts/CoreWeave.md",
+          "catalog_anchor": "C-S2-COREWEAVE",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-S2-COREWEAVE",
+          "editing_status": "step2_reviewed",
+          "parent_ids": [
+            "C-TECH-03"
+          ],
+          "parent_relation": "concrete_subject",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3784266-CXMT",
+          "name": "长鑫存储",
+          "scope": "中国DRAM生产、扩产与供给兑现",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/长鑫存储.md",
+          "planned_path": "../10_concepts/长鑫存储.md",
+          "catalog_anchor": "C-WS-3784266-CXMT",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3784266-CXMT",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "parent_ids": [
+            "C-TECH-06"
+          ],
+          "parent_relation": "concrete_subject",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3783420-MUSE",
+          "name": "Muse",
+          "scope": "Meta模型产品、执行环境与商业接入",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/Muse.md",
+          "planned_path": "../10_concepts/Muse.md",
+          "catalog_anchor": "C-WS-3783420-MUSE",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783420-MUSE",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "parent_ids": [
+            "C-TECH-22"
+          ],
+          "parent_relation": "company_product",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3785125-MINIMAX",
+          "name": "MiniMax",
+          "scope": "模型API经营、收入与融资观察",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/MiniMax.md",
+          "planned_path": "../10_concepts/MiniMax.md",
+          "catalog_anchor": "C-WS-3785125-MINIMAX",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3785125-MINIMAX",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "parent_ids": [
+            "C-TECH-03"
+          ],
+          "parent_relation": "concrete_subject",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3785125-ZHIPU",
+          "name": "智谱",
+          "scope": "模型API经营、收入与融资观察",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/智谱.md",
+          "planned_path": "../10_concepts/智谱.md",
+          "catalog_anchor": "C-WS-3785125-ZHIPU",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3785125-ZHIPU",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "parent_ids": [
+            "C-TECH-03"
+          ],
+          "parent_relation": "concrete_subject",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "C-WS-3783754-ORACLE",
+          "name": "甲骨文",
+          "scope": "软件与云集团信用及数据中心租户责任",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../10_concepts/甲骨文.md",
+          "planned_path": "../10_concepts/甲骨文.md",
+          "catalog_anchor": "C-WS-3783754-ORACLE",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783754-ORACLE",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "parent_ids": [
+            "C-TECH-03"
+          ],
+          "parent_relation": "concrete_subject",
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ],
       "role": "domain_objects"
@@ -2478,7 +3140,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/证券与资管业.md"
+          "planned_path": "../10_concepts/证券与资管业.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-SECTOR-04",
@@ -2508,7 +3173,10 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/房地产开发与物业.md"
+          "planned_path": "../10_concepts/房地产开发与物业.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "C-SECTOR-12",
@@ -3207,7 +3875,10 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ]
     },
@@ -3306,6 +3977,74 @@
               ]
             }
           ]
+        },
+        {
+          "id": "R-WS-3784433-CROWDOUT",
+          "name": "投资扩张的资源挤出与政策约束",
+          "scope": "投资竞争实物、融资资源及政策取舍",
+          "priority": "P1",
+          "role": "mechanisms",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../20_mechanisms/投资扩张的资源挤出与政策约束.md",
+          "planned_path": "../20_mechanisms/投资扩张的资源挤出与政策约束.md",
+          "catalog_anchor": "R-WS-3784433-CROWDOUT",
+          "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-WS-3784433-CROWDOUT",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "node_ids": [
+            "C-TECH-03",
+            "C-TECH-04",
+            "C-TECH-05",
+            "C-INF-INFLATION",
+            "C-CREDIT-SPREAD",
+            "C-CREDIT-02",
+            "C-ASSET-UST",
+            "C-IR-POLICY",
+            "C-CHINA-02"
+          ],
+          "related_mechanism_ids": [
+            "R-BANKING-01",
+            "R-FISCAL-LONGYIELD"
+          ],
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-TECH-03",
+                "C-TECH-04",
+                "C-TECH-05",
+                "C-INF-INFLATION"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-TECH-03",
+                "C-CREDIT-SPREAD",
+                "C-CREDIT-02",
+                "C-ASSET-UST"
+              ],
+              "related_mechanism_ids": [
+                "R-BANKING-01",
+                "R-FISCAL-LONGYIELD"
+              ]
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-TECH-03",
+                "C-IR-POLICY",
+                "C-INF-INFLATION",
+                "C-CHINA-02"
+              ],
+              "related_mechanism_ids": []
+            }
+          ],
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ]
     },
@@ -3472,7 +4211,10 @@
           "related_mechanism_ids": [],
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../20_mechanisms/国债供给的定价机制.md"
+          "planned_path": "../20_mechanisms/国债供给的定价机制.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "R-FISCAL-DEBTDYN",
@@ -4247,6 +4989,98 @@
               ]
             }
           ]
+        },
+        {
+          "id": "R-S2-VENDOR-CREDIT",
+          "name": "供应商融资的信用风险传递",
+          "scope": "贷款、担保及追索如何传递客户信用风险",
+          "priority": "P1",
+          "role": "mechanisms",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "status": "complete",
+          "path": "../20_mechanisms/供应商融资的信用风险传递.md",
+          "planned_path": "../20_mechanisms/供应商融资的信用风险传递.md",
+          "catalog_anchor": "R-S2-VENDOR-CREDIT",
+          "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-S2-VENDOR-CREDIT",
+          "editing_status": "step2_reviewed",
+          "node_ids": [
+            "C-TECH-03",
+            "C-TECH-02",
+            "C-CREDIT-SPREAD",
+            "C-S2-AI-CDS"
+          ],
+          "related_mechanism_ids": [],
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-TECH-03",
+                "C-TECH-02",
+                "C-CREDIT-SPREAD",
+                "C-S2-AI-CDS"
+              ],
+              "related_mechanism_ids": []
+            }
+          ],
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "R-WS-3783754-TENANTCREDIT",
+          "name": "数据中心项目融资的租户信用传递",
+          "scope": "租金支持、项目融资与共同租户信用",
+          "priority": "P1",
+          "role": "mechanisms",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "path": "../20_mechanisms/数据中心项目融资的租户信用传递.md",
+          "planned_path": "../20_mechanisms/数据中心项目融资的租户信用传递.md",
+          "catalog_anchor": "R-WS-3783754-TENANTCREDIT",
+          "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-WS-3783754-TENANTCREDIT",
+          "status": "complete",
+          "editing_status": "step2_reviewed",
+          "node_ids": [
+            "C-TECH-04",
+            "C-S2-COREWEAVE",
+            "C-WS-3783754-ORACLE",
+            "C-BOND-06",
+            "C-CREDIT-SPREAD"
+          ],
+          "related_mechanism_ids": [
+            "R-S2-VENDOR-CREDIT",
+            "R-BANKING-12"
+          ],
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-TECH-04",
+                "C-S2-COREWEAVE",
+                "C-WS-3783754-ORACLE",
+                "C-BOND-06"
+              ],
+              "related_mechanism_ids": [
+                "R-S2-VENDOR-CREDIT"
+              ]
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-S2-COREWEAVE",
+                "C-WS-3783754-ORACLE",
+                "C-BOND-06",
+                "C-CREDIT-SPREAD"
+              ],
+              "related_mechanism_ids": [
+                "R-BANKING-12"
+              ]
+            }
+          ],
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ]
     },
@@ -4698,7 +5532,10 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "R-INTERNATIONAL-14",
@@ -4883,7 +5720,10 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "R-EQUITY-14",
@@ -5197,7 +6037,10 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "R-MARKET-11",
@@ -5301,6 +6144,94 @@
               "related_mechanism_ids": []
             }
           ]
+        },
+        {
+          "id": "R-S2-LETF-REBALANCE",
+          "name": "杠杆ETF再平衡的价格反馈",
+          "scope": "每日目标恢复、实际订单与边际承接",
+          "priority": "P1",
+          "role": "mechanisms",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "status": "complete",
+          "path": "../20_mechanisms/杠杆ETF再平衡的价格反馈.md",
+          "planned_path": "../20_mechanisms/杠杆ETF再平衡的价格反馈.md",
+          "catalog_anchor": "R-S2-LETF-REBALANCE",
+          "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-S2-LETF-REBALANCE",
+          "editing_status": "step2_reviewed",
+          "node_ids": [
+            "C-S2-LEVERAGED-ETF",
+            "C-FLOW-05",
+            "C-LIQ-MARKET"
+          ],
+          "related_mechanism_ids": [
+            "R-MARKET-04",
+            "R-MARKET-09"
+          ],
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-S2-LEVERAGED-ETF",
+                "C-FLOW-05"
+              ],
+              "related_mechanism_ids": [
+                "R-MARKET-04"
+              ]
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-S2-LEVERAGED-ETF",
+                "C-LIQ-MARKET"
+              ],
+              "related_mechanism_ids": [
+                "R-MARKET-09"
+              ]
+            }
+          ],
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
+        },
+        {
+          "id": "R-S2-KOSPI-BUYERS",
+          "name": "KOSPI三大买盘与边际承接",
+          "scope": "企业、外资和境内机构的购买执行条件",
+          "priority": "P1",
+          "role": "mechanisms",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "status": "complete",
+          "path": "../20_mechanisms/KOSPI三大买盘与边际承接.md",
+          "planned_path": "../20_mechanisms/KOSPI三大买盘与边际承接.md",
+          "catalog_anchor": "R-S2-KOSPI-BUYERS",
+          "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-S2-KOSPI-BUYERS",
+          "editing_status": "step2_reviewed",
+          "node_ids": [
+            "C-S2-KOSPI",
+            "C-LIQ-MARKET"
+          ],
+          "related_mechanism_ids": [
+            "R-S2-LETF-REBALANCE",
+            "R-MARKET-09"
+          ],
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-S2-KOSPI",
+                "C-LIQ-MARKET"
+              ],
+              "related_mechanism_ids": [
+                "R-S2-LETF-REBALANCE",
+                "R-MARKET-09"
+              ]
+            }
+          ],
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ]
     },
@@ -5379,7 +6310,13 @@
             "C-DERIV-14",
             "C-CREDIT-10",
             "C-MONEY-10",
-            "C-LIQ-FUND"
+            "C-LIQ-FUND",
+            "C-SECTOR-03",
+            "C-CREDIT-02",
+            "C-LIQ-MARKET",
+            "C-ASSET-UST",
+            "C-MONEY-CBBS",
+            "C-POL-QE"
           ],
           "status": "complete",
           "path": "../20_mechanisms/基差交易.md",
@@ -5391,7 +6328,9 @@
           ],
           "selection_update": "user_requested_v5",
           "context_terms": [],
-          "related_mechanism_ids": [],
+          "related_mechanism_ids": [
+            "R-LIQ-SPIRAL"
+          ],
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../20_mechanisms/基差交易.md",
@@ -5416,8 +6355,36 @@
                 "C-LIQ-FUND"
               ],
               "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-SECTOR-03",
+                "C-CREDIT-02",
+                "C-LIQ-FUND",
+                "C-LIQ-MARKET",
+                "C-ASSET-UST"
+              ],
+              "related_mechanism_ids": [
+                "R-LIQ-SPIRAL"
+              ]
+            },
+            {
+              "anchor": "logic-4",
+              "node_ids": [
+                "C-MONEY-CBBS",
+                "C-POL-QE",
+                "C-ASSET-UST",
+                "C-DERIV-15",
+                "C-DERIV-14",
+                "C-LIQ-FUND"
+              ],
+              "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "R-DERIVATIVES-03",
@@ -5468,7 +6435,10 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "R-DERIVATIVES-06",
@@ -5625,6 +6595,58 @@
               "related_mechanism_ids": []
             }
           ]
+        },
+        {
+          "id": "R-S2-CDS-BASIS",
+          "name": "CDS—现金债基差的定价与交易",
+          "scope": "保护供求、两腿交易及中介融资约束",
+          "priority": "P1",
+          "role": "mechanisms",
+          "selection_status": "confirmed_step2",
+          "selection_basis": "wallstreetcn_30_review_20261116",
+          "status": "complete",
+          "path": "../20_mechanisms/CDS—现金债基差的定价与交易.md",
+          "planned_path": "../20_mechanisms/CDS—现金债基差的定价与交易.md",
+          "catalog_anchor": "R-S2-CDS-BASIS",
+          "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-S2-CDS-BASIS",
+          "editing_status": "step2_reviewed",
+          "node_ids": [
+            "C-S2-CDS",
+            "C-S2-CDS-CASH-BASIS",
+            "C-CREDIT-SPREAD",
+            "C-FLOW-09",
+            "C-LIQ-FUND",
+            "C-DERIV-14"
+          ],
+          "related_mechanism_ids": [
+            "R-DERIVATIVES-02"
+          ],
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-S2-CDS",
+                "C-S2-CDS-CASH-BASIS",
+                "C-CREDIT-SPREAD"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-S2-CDS-CASH-BASIS",
+                "C-FLOW-09",
+                "C-LIQ-FUND",
+                "C-DERIV-14"
+              ],
+              "related_mechanism_ids": [
+                "R-DERIVATIVES-02"
+              ]
+            }
+          ],
+          "selection_confirmed_on": "2026-11-16",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ]
     },
@@ -5678,7 +6700,9 @@
               "anchor": "logic-3",
               "node_ids": [
                 "C-ASSET-GOLD",
-                "C-IR-REAL"
+                "C-IR-REAL",
+                "C-FX-USD",
+                "C-FX-07"
               ],
               "context_terms": [
                 {
@@ -5691,7 +6715,8 @@
                 }
               ],
               "related_mechanism_ids": [
-                "R-INTERNATIONAL-13"
+                "R-INTERNATIONAL-13",
+                "R-USD-GLOBAL"
               ],
               "previous_node_ids": [
                 "C-ASSET-GOLD",
@@ -5705,7 +6730,9 @@
           "node_ids": [
             "C-IR-REAL",
             "C-ASSET-GOLD",
-            "C-IR-POLICY"
+            "C-IR-POLICY",
+            "C-FX-USD",
+            "C-FX-07"
           ],
           "status": "complete",
           "path": "../20_mechanisms/黄金的机会成本机制.md",
@@ -5730,11 +6757,15 @@
             }
           ],
           "related_mechanism_ids": [
-            "R-INTERNATIONAL-13"
+            "R-INTERNATIONAL-13",
+            "R-USD-GLOBAL"
           ],
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../20_mechanisms/黄金的机会成本机制.md"
+          "planned_path": "../20_mechanisms/黄金的机会成本机制.md",
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "R-GOLD-03",
@@ -5780,7 +6811,10 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "R-ASSET-STOCKBOND",
@@ -5855,7 +6889,8 @@
           "node_ids": [
             "C-COMMOD-03",
             "C-COMMOD-13",
-            "C-INF-INFLATION"
+            "C-INF-INFLATION",
+            "C-WS-3783904-DIESEL"
           ],
           "status": "complete",
           "path": "../20_mechanisms/原油供给冲击的宏观传导.md",
@@ -5880,7 +6915,8 @@
               "anchor": "logic-1",
               "node_ids": [
                 "C-COMMOD-03",
-                "C-COMMOD-13"
+                "C-COMMOD-13",
+                "C-WS-3783904-DIESEL"
               ],
               "related_mechanism_ids": []
             },
@@ -5888,11 +6924,15 @@
               "anchor": "logic-2",
               "node_ids": [
                 "C-COMMOD-03",
-                "C-INF-INFLATION"
+                "C-INF-INFLATION",
+                "C-WS-3783904-DIESEL"
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "R-COMMODITY-03",
@@ -6209,7 +7249,10 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "R-CN-PROPERTY",
@@ -6266,7 +7309,10 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "R-CHINA-05",
@@ -6521,7 +7567,9 @@
           "node_ids": [
             "C-TECH-01",
             "C-TECH-03",
-            "C-TECH-02"
+            "C-TECH-02",
+            "C-WS-3785125-ZHIPU",
+            "C-WS-3785125-MINIMAX"
           ],
           "status": "complete",
           "path": "../20_mechanisms/模型效率、推理成本与总算力需求.md",
@@ -6547,7 +7595,9 @@
               "node_ids": [
                 "C-TECH-01",
                 "C-TECH-02",
-                "C-TECH-03"
+                "C-TECH-03",
+                "C-WS-3785125-ZHIPU",
+                "C-WS-3785125-MINIMAX"
               ],
               "related_mechanism_ids": []
             },
@@ -6555,7 +7605,9 @@
               "anchor": "logic-2",
               "node_ids": [
                 "C-TECH-01",
-                "C-TECH-03"
+                "C-TECH-03",
+                "C-WS-3785125-ZHIPU",
+                "C-WS-3785125-MINIMAX"
               ],
               "related_mechanism_ids": []
             },
@@ -6568,7 +7620,10 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         },
         {
           "id": "R-TECH-12",
@@ -6576,7 +7631,11 @@
           "scope": "切换成本、开放生态与监管",
           "priority": "P1",
           "node_ids": [
-            "C-TECH-03"
+            "C-TECH-03",
+            "C-TECH-22",
+            "C-WS-3783420-MUSE",
+            "C-TECH-20",
+            "C-TECH-30"
           ],
           "status": "complete",
           "path": "../20_mechanisms/平台网络效应.md",
@@ -6625,8 +7684,21 @@
                 "C-TECH-03"
               ],
               "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-4",
+              "node_ids": [
+                "C-TECH-22",
+                "C-WS-3783420-MUSE",
+                "C-TECH-20",
+                "C-TECH-30"
+              ],
+              "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_reviewed",
+          "last_source_review_on": "2026-11-16",
+          "last_source_batch": "wallstreetcn_30_20261116"
         }
       ]
     },
@@ -6901,9 +7973,9 @@
     }
   ],
   "schema_version": 4,
-  "updated": "2026-11-03",
+  "updated": "2026-11-16",
   "notes": [
-    "正式范围为163个对象、71个机制，初步建图阶段234篇正文已完成。",
+    "现行图谱194个对象、81个机制，共275节点；Step0、Step1及Step2已采用范围见正文和来源记录。",
     "对象、机制ID及名称以正式目录为准；普通变量保留在正文中解释。",
     "正文证据截止与具体缺口见各页，完成状态不表示实时市场信息。"
   ],
@@ -7308,16 +8380,6 @@
       "reason": "用户明确排除产能利用率；工业生产同属常规生产统计，当前组合整体不立项。",
       "mechanism_ids": [],
       "catalog_ref": "CONCEPT_CONTEXT_TERMS.md#C-MACRO-10"
-    },
-    {
-      "id": "C-MACRO-11",
-      "name": "PMI与景气调查",
-      "original_group": "增长、需求与经济周期",
-      "role": "legacy_reference_not_node",
-      "status": "context_only",
-      "reason": "PMI 是常规经济调查指标；调查定义和分项随事件数据说明。",
-      "mechanism_ids": [],
-      "catalog_ref": "CONCEPT_CONTEXT_TERMS.md#C-MACRO-11"
     },
     {
       "id": "C-MACRO-12",

@@ -754,5 +754,8 @@
       "loaded": 7,
       "broken": 0
     }
-  }
+  },
+  "integration_status": "integrated",
+  "graph_root": "graph",
+  "formal_integration": "formal_integration.json"
 }

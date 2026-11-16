@@ -9,7 +9,9 @@ reasoning_effort: medium
 reviewed_by:
 - /root/step1_selector_reviewer
 - /root
-updated: 2026-11-03
+workspace_reviewed_by: /root
+workspace_reviewed_on: 2026-11-13
+updated: '2026-11-13'
 evidence_as_of: 2025-03-28
 edited_by:
 - /root/step1_t2_maker
@@ -22,11 +24,17 @@ source_ids:
 - S-C-FISCAL-14-04
 - S-C-FISCAL-14-05
 - S-T2-6E-CH9-CDS-CONFIDENCE
+- S-WS-3784900
 candidate_ids:
 - T2-U07-B
 step1_reviewed_on: '2026-11-03'
 original_reviewed_by: /root
 edit_scope: 已审候选 T2-U07-B 的正文与来源整合
+step2_edit_scope: 增加通用CDS及企业专题入口；保留主权定义、既有详解及历史。
+editor: /root/produce_ai
+editing_status: step2_reviewed
+formal_integrated_on: 2026-11-16
+formal_integration_batch: wallstreetcn_30_20261116
 ---
 
 # 主权信用风险与CDS
@@ -145,6 +153,14 @@ Benzoni等人在2023年10月研究中，使用一年期美国主权CDS与可交�
 - [R-FISCAL-08 债务上限风险的短券定价](../20_mechanisms/债务上限风险的短券定价.md)：主权信用事件与具体短券付款窗口相连，CDS交割条件解释为什么其价格与短券价差不一一对应。
 - [R-FISCAL-11 主权信用与银行资产负债表反馈](../20_mechanisms/主权信用与银行资产负债表反馈.md)：银行持有本国债、使用其作抵押及接受政府支持，使主权风险与银行资本／融资条件相互作用。
 
+
+<a id="step2-common-cds"></a>
+## 通用CDS与企业研究入口
+
+通用合同、报价和交易量口径现在另有[信用违约互换CDS](信用违约互换CDS.md)入口，便于企业、指数和主权材料共同引用。本页继续维护主权偿付、制度与历史，其既有合同和测度详解保留。
+
+2026年10月的[AI相关企业CDS](AI相关企业CDS.md)讨论企业信用保护，使用通用工具基础，不继承主权特有条款或国家历史。[来源与采用范围](../40_sources/S-WS-3784900.md)记录本次增量。
+
 ## 来源与待补问题
 
 <a id="S-C-FISCAL-14-01"></a>**S-C-FISCAL-14-01**：ISDA，*2014 ISDA Credit Derivatives Definitions*，2014，[渣打银行托管原始定义PDF](https://www.sc.com/en/uploads/sites/66/content/docs/2014-Credit-Derivatives-Definitions.pdf)。核读§1.45—1.48宽限期、§4.5—4.7未付款／拒付／重组、§5.2—5.6及§6.1—6.5结算；未通读91页或核所有后续补充协议。原始标准文件用于概念说明，实际交易以确认书及适用版本为准。
@@ -159,4 +175,4 @@ Benzoni等人在2023年10月研究中，使用一年期美国主权CDS与可交�
 
 缺口：ISDA自站希腊裁决及2014发布说明访问403，合同原件通过银行托管取得；缺少2026年统一期限、币种、条款及成交状态的CDS曲线；加纳案例未取得CDS结算材料，故只解释债务重组损失口径。上述缺口分别限制触发事件法律细节、实时风险比较与重组—CDS定量对应，不能以一般公式补出缺失事实。
 
-<a id="S-T2-6E-CH9-CDS-CONFIDENCE"></a>**S-T2-6E-CH9-CDS-CONFIDENCE** — Stephen G. Cecchetti、Kermit L. Schoenholtz，*Money, Banking and Financial Markets*，第6版ISE，©2021，ISBN 9781260571363。第9章PDF267—268／印刷232—233；采用作者对合同可信度与持债意愿的事后解释。 [本地教材PDF](<../../materials/textbooks/T2%20%E8%B4%A7%E5%B8%81%E9%93%B6%E8%A1%8C%20Money%20Banking%20and%20Financial%20Markets/Money,%20Banking%20and%20Financial%20Markets,%206e%20ISE%20(Stephen%20G.%20Cecchetti,%20Kermit%20L.%20Schoenholtz)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf#page=267>)。
+<a id="S-T2-6E-CH9-CDS-CONFIDENCE"></a>**S-T2-6E-CH9-CDS-CONFIDENCE** — Stephen G. Cecchetti、Kermit L. Schoenholtz，*Money, Banking and Financial Markets*，第6版ISE，©2021，ISBN 9781260571363。第9章PDF267—268／印刷232—233；采用作者对合同可信度与持债意愿的事后解释。 [本地教材PDF](<../../materials/textbooks/T2 货币银行 Money Banking and Financial Markets/Money, Banking and Financial Markets, 6e ISE (Stephen G. Cecchetti, Kermit L. Schoenholtz) (z-library.sk, 1lib.sk, z-lib.sk).pdf#page=267>)。

@@ -2,7 +2,9 @@
 
 金融对象、机制、事件与资料来源的知识库。Step0原型阶段的234篇正文已完成：163个Concept、71个Mechanism；后续材料阅读可改写其内容与结构。
 
-本轮Step1已接入T1、T2：当前165个Concept、75个Mechanism，共240个节点。采用范围见[本轮来源记录](40_sources/STEP1_T1_T2.md)。
+当前194个Concept、81个Mechanism，共275个节点。Step1已接入T1、T2；Step2首批30篇新闻分析已接入。采用范围见[Step1来源记录](40_sources/STEP1_T1_T2.md)及[Step2来源记录](40_sources/STEP2_WALLSTREET_30.md)。
+
+[30篇阅读报告](../workspaces/wallstreetcn_scaling/报告.html)展示当前正文、条目类型和逐篇改动。
 
 ## 阅读与制作入口
 

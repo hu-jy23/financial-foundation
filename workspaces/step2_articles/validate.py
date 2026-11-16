@@ -6,6 +6,9 @@ import yaml
 from markdown_it import MarkdownIt
 
 R=Path(__file__).resolve().parent
+if (R.parent/'wallstreetcn_scaling/formal_integration.json').exists():
+ import os,sys
+ os.execv(sys.executable,[sys.executable,str(R.parents[1]/'tests/check_graph.py'),'--integration',str(R.parent/'wallstreetcn_scaling/formal_integration.json'),'--output',str(R/'validation.json')])
 G=R/'graph'
 baseline=json.loads((R/'baseline.json').read_text())
 formal=R.parents[1]/baseline['source']

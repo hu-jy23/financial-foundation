@@ -3,13 +3,29 @@ id: C-ASIA-10
 type: concept
 title: A/H溢价
 status: reviewed_seed
-draft_author: "/root/full_b033"
+draft_author: /root/full_b033
 model: gpt-6-astra
 reasoning_effort: medium
 reviewed_by: /root
-updated: 2026-10-28
+workspace_reviewed_by: /root
+workspace_reviewed_on: 2026-11-16
+updated: '2026-11-16'
 evidence_as_of: 2026-09-30
-source_ids: [S-C-ASIA-10-01, S-C-ASIA-10-02, S-C-ASIA-10-03, S-C-ASIA-10-04, S-C-ASIA-10-05]
+source_ids:
+- S-C-ASIA-10-01
+- S-C-ASIA-10-02
+- S-C-ASIA-10-03
+- S-C-ASIA-10-04
+- S-C-ASIA-10-05
+- S-WS-3749421
+editor: /root/revise_3749421
+editing_status: step2_reviewed
+editor_model: inherited_unverified
+editor_reasoning_effort: inherited_unverified
+revision_author: /root/revise_3749421
+revision_status: reviewed
+formal_integrated_on: 2026-11-16
+formal_integration_batch: wallstreetcn_30_20261116
 ---
 
 # A/H溢价
@@ -98,6 +114,13 @@ I=100\frac{\sum_i q_iP_{A,i}}{\sum_i q_ieP_{H,i}}.
 
 贝莱德在港交所2023年咨询回复中，反对把一般发行授权按总股本而非各地股份分别确定，理由包括非互换股票的局部供给冲击及少数股东保护。它预期过大的H股侧发行灵活性可能提高稀释风险、损害持有人利益，并主张更严格的发行规模及折价约束。这是投资机构对当时提案的政策意见，不是市场一致预测，更不是随后实际价格损失的估计；本页没有追踪该提案每项最终规则和公司章程落实结果。[S-C-ASIA-10-03](#S-C-ASIA-10-03)
 
+<a id="outlook-20250619"></a>
+### 2025年6月：短期企稳与长期收窄是两个判断
+
+2025-06-19华泰张继强、陶冶、王建刚研究称，AH溢价已降至2021年以来低位，短期进一步下行空间可能有限；若地缘冲击使港股较敏感，溢价可能回升。其长期判断则是港股活跃度提高有助溢价系统性收窄。两者期限与触发条件不同，均保留为研究者当时判断。[完整事件](../30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md#ah)保留原图与分支。
+
+短期企稳的含义需落到同公司换汇后两地价格：若外部风险使H股要求回报提高，H股相对走弱可推高比率；长期参与增加则可能产生不同方向。历史低位不构成价格下限，图表数值与热点样本辨析集中在[来源](../40_sources/S-WS-3749421.md#figures)，逐分支检验见[事件](../30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md#outlook)。本段补录较早窗口，本页2026年9月截面及原来源范围保留。
+
 ### 2025年判断与2026年截面分开保存
 
 安联投资Tessa Wong在2025-08-19文章中，依据截至2025-06-30的图表称AH溢价降至约五年低位，并指出新增香港上市公司、南向参与和离岸市场行业多样化正在改变两地比较。她当时预期IPO活动、南向资金和流动性继续支持离岸市场，同时强调其全球投资者基础也使其对外部风险更敏感。文章没有为AH溢价给出明确的未来点位或收敛日期，本页不替她补造数字预测。[S-C-ASIA-10-05](#S-C-ASIA-10-05)
@@ -110,9 +133,9 @@ I=100\frac{\sum_i q_iP_{A,i}}{\sum_i q_ieP_{H,i}}.
 
 ## 涉及的关系
 
-[A/H溢价的市场分割机制 R-CHINA_MARKET-07](../20_mechanisms/A／H溢价的市场分割机制.md)：本对象是该机制需要解释的相对价格结果。[A股市场](A%E8%82%A1%E5%B8%82%E5%9C%BA.md)和[港股市场](%E6%B8%AF%E8%82%A1%E5%B8%82%E5%9C%BA.md)提供不同的投资者与交易条件；[沪深港通与南北向资金](%E6%B2%AA%E6%B7%B1%E6%B8%AF%E9%80%9A%E4%B8%8E%E5%8D%97%E5%8C%97%E5%90%91%E8%B5%84%E9%87%91.md)改变部分投资者的可选资产；汇率把两地报价统一到可比较的货币。机制研究需辨认究竟是换算项、边际需求还是证券交付限制在起作用。
+[A/H溢价的市场分割机制 R-CHINA_MARKET-07](../20_mechanisms/A／H溢价的市场分割机制.md)：本对象是该机制需要解释的相对价格结果。[A股市场](A股市场.md)和[港股市场](港股市场.md)提供不同的投资者与交易条件；[沪深港通与南北向资金](沪深港通与南北向资金.md)改变部分投资者的可选资产；汇率把两地报价统一到可比较的货币。机制研究需辨认究竟是换算项、边际需求还是证券交付限制在起作用。
 
-[IPO、再融资与退市](IPO%E3%80%81%E5%86%8D%E8%9E%8D%E8%B5%84%E4%B8%8E%E9%80%80%E5%B8%82.md)在这里解释当地股份供给和样本进入退出；[恒生指数与恒生科技指数](%E6%81%92%E7%94%9F%E6%8C%87%E6%95%B0%E4%B8%8E%E6%81%92%E7%94%9F%E7%A7%91%E6%8A%80%E6%8C%87%E6%95%B0.md)则提供对照，提醒读者宽基及主题指数的成分结构不能由AH配对样本代替。
+[IPO、再融资与退市](IPO、再融资与退市.md)在这里解释当地股份供给和样本进入退出；[恒生指数与恒生科技指数](恒生指数与恒生科技指数.md)则提供对照，提醒读者宽基及主题指数的成分结构不能由AH配对样本代替。
 
 ## 来源与待补问题
 
@@ -127,3 +150,5 @@ I=100\frac{\sum_i q_iP_{A,i}}{\sum_i q_ieP_{H,i}}.
 <a id="S-C-ASIA-10-05"></a>**S-C-ASIA-10-05** — Tessa Wong／Allianz Global Investors，*China H vs China A: a tale of two markets*，2025-08-19。[作者机构原文](https://www.allianzgi.com/en/insights/china-h-vs-china-a)。已读市场演变、Valuations及Onshore Resilience，核图6日期为2025-06-30；未取得图6底层Bloomberg日频数据，未从图上估造精确端点。作者把“China H”广义用于离岸中国股票，本页在概念定义处仍采用严格A/H配对边界。
 
 具体缺口：未取得2017之后完整的AH方法修订链及2024—2026连续官方历史成分、权重和行情序列，不能量化分割、换汇和成分变动分别贡献多少。2026-09-30截面及2025作者判断已分别保存；本页不提供制作日盘中或收盘值，也不对未取得的个股税务、借券和执行价格作统一假设。
+
+本轮编辑：`/root/scale_18`，2026-11-16；[S-WS-3749421](../40_sources/S-WS-3749421.md)补2025年6月机构预期，原稿及来源读取范围保留。

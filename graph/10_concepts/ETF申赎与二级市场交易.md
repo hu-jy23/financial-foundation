@@ -7,14 +7,20 @@ draft_author: "/root/full_b019"
 model: gpt-6-astra
 reasoning_effort: medium
 reviewed_by: /root
-updated: 2026-10-28
-evidence_as_of: 2025-04-28
-source_ids: [S-C-FLOW-05-01, S-C-FLOW-05-02, S-C-FLOW-05-03, S-C-FLOW-05-04, S-C-FLOW-05-05]
+workspace_reviewed_by: /root
+workspace_reviewed_on: 2026-11-13
+updated: 2026-11-13
+evidence_as_of: 2026-10-20
+source_ids: [S-C-FLOW-05-01, S-C-FLOW-05-02, S-C-FLOW-05-03, S-C-FLOW-05-04, S-C-FLOW-05-05, S-WS-3784053]
+editor: /root/produce_korea
+editing_status: step2_reviewed
+formal_integrated_on: 2026-11-16
+formal_integration_batch: wallstreetcn_30_20261116
 ---
 
 # ETF申赎与二级市场交易
 
-> 执笔：`/root/full_b019`；制作日2026-10-28。历史统计覆盖2024年，所用ICI报告发布于2025-04-28，证据截止记为该日；动态制度说明于制作日核读，未取得2025—2026完整市场统计。
+> 执笔：`/root/full_b019`；制作日2026-10-28。历史统计覆盖2024年，所用ICI报告发布于2025-04-28，原统计资料截至该日；动态制度说明于原制作日核读。2026-11-13补入杠杆产品层次与2026-10-20韩国案例，未扩展原行业统计序列。
 
 ## 概念定义
 
@@ -70,6 +76,13 @@ A_t-A_{t-1}=N_{t-1}(v_t-v_{t-1})+v_t(N_t-N_{t-1}).
 
 跟踪误差比较基金回报与基准回报；溢折价比较市场价格与净值；份额变化比较一级市场净发行。基金可以跟踪指数良好而短暂溢价，也可以份额大增而二级价格下跌。后者可能是投资者在下跌时增持，也可能涉及对冲和产品转换，单靠份额序列无法确定动机。
 
+<a id="leveraged-etf-layer"></a>
+### 杠杆产品还有内部目标调整这一层
+
+ETF持有人换手、基金净申赎、基金内部调仓分别改变不同的量。[杠杆ETF](杠杆ETF.md#holdings)在份额不变时，也可能因净资产和旧敞口随价格变化而偏离倍数目标，进而买卖现货或衍生品。其具体过程由[杠杆ETF再平衡的价格反馈](../20_mechanisms/杠杆ETF再平衡的价格反馈.md)维护，本页的申赎统计不能直接替代它。
+
+2026-10-20韩国报道同时展示杠杆ETF AUM和累计流入，并提出流出有限时仍可能存在机械卖压。AUM和流量本身没有给出产品倍数、方向和待执行订单；[该次事件](../30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md#etf)保留原图及机构判断。此例说明净赎回较少并不等于基金内部交易较少。
+
 ## 观测与数据口径
 
 | 数据 | 核对重点 | 能说明什么 |
@@ -107,6 +120,8 @@ ICI《2025 Investment Company Fact Book》记录，美国ETF净发行额由2023�
 - [指数调整的被动资金效应 R-MARKET-05](../20_mechanisms/指数调整的被动资金效应.md)：指数换仓可改变基金内证券配置而不改变份额；申赎则改变份额。两种基础资产交易来源需要分开。
 
 ## 来源与待补问题
+
+[S-WS-3784053](../40_sources/S-WS-3784053.md#leveraged-etf)补充2023年SEC杠杆产品说明及2026-10-20韩国案例；新增内容于2026-11-13编辑，原统计序列的覆盖区间保持原段所列。
 
 <a id="S-C-FLOW-05-01"></a>**S-C-FLOW-05-01** — SEC投资者教育办公室，2023-02-23，*Updated Investor Bulletin: Exchange-Traded Funds (ETFs)*。[原文](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-24)。已读定义、NAV及How do ETFs work中的市场交易、申赎和价格差；未用其说明替代具体产品招募书。
 

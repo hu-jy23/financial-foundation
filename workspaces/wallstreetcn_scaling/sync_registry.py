@@ -1,4 +1,7 @@
 from pathlib import Path
+if (Path(__file__).resolve().parent/'formal_integration.json').exists():
+ raise SystemExit('本批已接入正式graph；旧工作图写入脚本停用。请从graph/00_start/README.md开始新任务。')
+from pathlib import Path
 import json,yaml
 R=Path(__file__).resolve().parent;G=R.parent/'step2_articles/graph';S=G/'00_start';B=R.parents[1]/'graph/00_start'
 d=json.loads((S/'catalog_index.json').read_text());formal=json.loads((B/'catalog_index.json').read_text())

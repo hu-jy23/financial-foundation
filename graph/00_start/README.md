@@ -1,6 +1,6 @@
 # 制作入口与文件职责（v5）
 
-Step0原型为163个对象、71个机制。T1、T2本轮接入后，现行目录为165个对象、75个机制，共240个节点；[来源与采用范围](../40_sources/STEP1_T1_T2.md)记录本轮边界。后续材料可以继续改写内容与结构。正文按[标题命名](FILE_NAMING.md)。
+Step0原型为163个对象、71个机制。接入T1、T2及Step2首批30篇后，现行目录为194个对象、81个机制，共275个节点；[Step1采用范围](../40_sources/STEP1_T1_T2.md)及[Step2采用范围](../40_sources/STEP2_WALLSTREET_30.md)记录材料边界。后续材料可以继续改写内容与结构。正文按[标题命名](FILE_NAMING.md)。
 
 ## 从哪里开始
 
@@ -20,7 +20,7 @@ Step0原型为163个对象、71个机制。T1、T2本轮接入后，现行目录
 | 索引内容 | 含义与用法 |
 |---|---|
 | `concepts`、`mechanisms` | 现行对象与机制；具体数量及条目以索引为准。 |
-| `selection_status: confirmed_initial_build / confirmed_step1` | 已入选本次建图范围。 |
+| `selection_status: confirmed_initial_build / confirmed_step1 / confirmed_step2` | 已入选本次建图范围。 |
 | `status: pending / complete` | 正文尚未完成主审（未写或已有待审稿）／已有经审阅正文；`complete`仍须结合证据截止及缺口阅读。 |
 | `node_ids` | 关系所连接的入选对象ID。普通变量进入解释，不补成对象节点。 |
 | `related_mechanism_ids` | 相关的入选关系ID，与关联对象分开。 |
@@ -30,7 +30,7 @@ Step0原型为163个对象、71个机制。T1、T2本轮接入后，现行目录
 
 索引中的`counts`记录当前条目数量。索引中的`path`、`planned_path`与`catalog_ref`以`00_start/`为相对路径基准；`planned_path`记录全部节点的标题文件名，`path`仅指向经审阅正文。未写节点先链接正式目录的ID锚点；已有正文时使用实际文件路径。引用来源或Event时定位到具体内容。
 
-目录状态与正文YAML状态分别记录：`reviewed_seed`表示已审阅的起步正文；`step1_reviewed`表示Step1本轮新增与接入已审，保留旧稿的来源复核范围另见正文。Event／Source中的`working_draft`表示材料整理状态。它们不改变节点入选结果。`updated`是文件编辑日期，`evidence_as_of`是资料覆盖截止；修改说明文件不会延长证据覆盖。
+目录状态与正文YAML状态分别记录：`reviewed_seed`表示已审阅的起步正文；`step1_reviewed`表示Step1本轮新增与接入已审，保留旧稿的来源复核范围另见正文。`step2_reviewed`表示已审阅并正式接入的新闻条目；旧节点的`editing_status: step2_reviewed`只说明本轮编辑。`formal_integrated_on`记录接入日期。Event／Source中的`working_draft`表示较早材料整理状态。它们不改变节点入选结果。`updated`是文件编辑日期，`evidence_as_of`是资料覆盖截止；修改说明文件不会延长证据覆盖。
 
 ## 原型目录与后续修改
 

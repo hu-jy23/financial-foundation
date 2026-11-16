@@ -1,19 +1,14 @@
 {
-  "formal_graph_unchanged": false,
-  "formal_changes": [
-    "00_start/NODE_SELECTION_GUIDE.md",
-    "00_start/AUTHORING_STANDARD.md",
-    "00_start/templates/CONCEPT_TEMPLATE.md"
-  ],
-  "authorized_instruction_changes": [
-    "00_start/NODE_SELECTION_GUIDE.md",
-    "00_start/AUTHORING_STANDARD.md",
-    "00_start/templates/CONCEPT_TEMPLATE.md"
-  ],
-  "unexpected_formal_changes": [],
-  "formal_knowledge_unchanged": true,
-  "changed_workspace_files": 173,
-  "local_links_checked": 3868,
+  "concepts": 194,
+  "mechanisms": 81,
+  "nodes": 275,
+  "subconcepts": 13,
+  "documents": 374,
+  "local_links_checked": 4890,
+  "preservation": {
+    "adopted_files_checked": 140,
+    "original_authors_sources_and_evidence_dates_retained": true
+  },
   "issues": [],
   "passed": true
 }

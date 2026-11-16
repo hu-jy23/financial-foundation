@@ -9,8 +9,10 @@ reasoning_effort: medium
 reviewed_by:
 - /root/step1_selector_reviewer
 - /root
-updated: 2026-11-03
-evidence_as_of: 2025-12
+workspace_reviewed_by: /root
+workspace_reviewed_on: 2026-11-16
+updated: '2026-11-16'
+evidence_as_of: '2026-11-02'
 edited_by:
 - /root/step1_t2_maker
 editor_model: inherited_unverified
@@ -23,11 +25,20 @@ source_ids:
 - S-C-ASIA-09-05
 - S-C-ASIA-09-06
 - S-T2-6E-CH8-PRIVATE
+- S-WS-3784961
 candidate_ids:
 - T2-U06-A
 step1_reviewed_on: '2026-11-03'
 original_reviewed_by: /root
 edit_scope: 已审候选 T2-U06-A 的正文与来源整合
+editor: /root/scale_02
+editing_status: step2_reviewed
+editing_model: inherited_unverified
+editing_reasoning_effort: inherited_unverified
+revision_editor: /root/scale_02
+revision_date: '2026-11-16'
+formal_integrated_on: 2026-11-16
+formal_integration_batch: wallstreetcn_30_20261116
 ---
 
 # IPO、再融资与退市
@@ -140,6 +151,13 @@ ST是其他风险警示，*ST是退市风险警示，两者都不等于已经退
 
 本页未取得同一事件窗口的机构IPO融资预测、认购资金来源或投资者现金余额，因此不报告发行意外的金额，也不把上述条件推演写成市场共识。
 
+<a id="ws3784961-equity-supply"></a>
+## 2026年11月观察：行情转弱后，融资与潜在流通供给仍可能延续
+
+行情上涨、估值和发行需求改善后，公司更愿上市或再融资；申报、审核、定价、认购及缴款分别需要时间。因此公司收到资金的高峰可能出现在股价高点之后，新的认购仍占用投资者资金，需要有买家承接新增权益。IPO、配售、供股和以股份支付的交易现金效果各异，统计融资额时仍须沿用上文的付款与收款分类。中金回看2025年10月恒科高点后，IPO和上市后募资分别到2026年7月、8月才出现阶段高点；当时尚不能确认它们是本轮最终高点。
+
+发行完成后的锁定期又把潜在可交易供给向后推移。解除限售仅赋予出售资格，股东是否卖、卖多少及买家如何承接，才决定实际交易压力。文章列出2027年1月解禁安排，可作为后续核对实际出售的窗口。[事件的股权供给与跟踪段](../30_events/markets/港股价格底、信用周期与股权供求：2026年11月观察.md#equity-supply)保存金额和历史比较；融资年度版本差异由[来源页](../40_sources/S-WS-3784961.md)维护，本页既有港交所年度统计保持其原口径。
+
 ## 涉及的关系
 
 [A/H溢价的市场分割机制 R-CHINA_MARKET-07](../20_mechanisms/A／H溢价的市场分割机制.md)：双重上市公司在一地增发，会改变当地可交易供给和两地股东承接新股的条件；折价增发还可能改变现有股东的每股权益。由于A、H股票通常不能自由互换，一地新股供给变化不会自动由另一地存量股份抵消。这个联系用于理解具体发行对相对价格的作用，不能仅凭发行金额预测溢价方向。
@@ -160,4 +178,4 @@ ST是其他风险警示，*ST是退市风险警示，两者都不等于已经退
 
 具体缺口：尚未取得内地2025全年与2026年截至制作日的同版发行、退市明细，亦未逐条更新各板块2026规则；本页因此不列“最新”门槛或年度排名。发行和退市的短期价格效应还需要公告前预期、实际结算现金及对照样本，年度合计不提供这类因果证据。
 
-<a id="S-T2-6E-CH8-PRIVATE"></a>**S-T2-6E-CH8-PRIVATE** — Stephen G. Cecchetti、Kermit L. Schoenholtz，*Money, Banking and Financial Markets*，第6版ISE，©2021，ISBN 9781260571363，第8章“Raising Equity: Public versus Private Markets”，PDF240／印刷205。仅取有归属的融资选择对照，不复制1996—2017美国统计，不推断私募必然提高效率。 [本地教材PDF](<../../materials/textbooks/T2%20%E8%B4%A7%E5%B8%81%E9%93%B6%E8%A1%8C%20Money%20Banking%20and%20Financial%20Markets/Money,%20Banking%20and%20Financial%20Markets,%206e%20ISE%20(Stephen%20G.%20Cecchetti,%20Kermit%20L.%20Schoenholtz)%20(z-library.sk,%201lib.sk,%20z-lib.sk).pdf#page=240>)。
+<a id="S-T2-6E-CH8-PRIVATE"></a>**S-T2-6E-CH8-PRIVATE** — Stephen G. Cecchetti、Kermit L. Schoenholtz，*Money, Banking and Financial Markets*，第6版ISE，©2021，ISBN 9781260571363，第8章“Raising Equity: Public versus Private Markets”，PDF240／印刷205。仅取有归属的融资选择对照，不复制1996—2017美国统计，不推断私募必然提高效率。 [本地教材PDF](<../../materials/textbooks/T2 货币银行 Money Banking and Financial Markets/Money, Banking and Financial Markets, 6e ISE (Stephen G. Cecchetti, Kermit L. Schoenholtz) (z-library.sk, 1lib.sk, z-lib.sk).pdf#page=240>)。

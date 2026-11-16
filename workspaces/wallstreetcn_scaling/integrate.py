@@ -1,3 +1,6 @@
+from pathlib import Path
+if (Path(__file__).resolve().parent/'formal_integration.json').exists():
+ raise SystemExit('本批已接入正式graph；旧工作图写入脚本停用。请从graph/00_start/README.md开始新任务。')
 """Integrate main-agent-reviewed deliveries using a saved wave base."""
 from pathlib import Path
 import json,subprocess,tempfile,yaml,hashlib,re

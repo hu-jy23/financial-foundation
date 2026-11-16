@@ -35,3 +35,5 @@
 - Wallstreet扩至30篇初稿完成：新增27材料，新增22节点、27事件和27来源，更新40个已有节点；成品留在测试分支。[报告](../workspaces/wallstreetcn_scaling/报告.html)。
 
 - 30篇独立审阅及返修完成：修图表、补传导和分期检验、减少重复；恢复PMI概念，工作图275节点。140份正文、198张图及全仓链接检查通过，未接入main。[逐篇记录](../workspaces/wallstreetcn_scaling/revision/汇总.md)。
+
+- 30篇正式接入graph：新增35节点、更新45原节点，另接入30事件和30来源；当前275节点。撤下工作图副本，报告统一读取正式正文。[采用范围](../graph/40_sources/STEP2_WALLSTREET_30.md)。

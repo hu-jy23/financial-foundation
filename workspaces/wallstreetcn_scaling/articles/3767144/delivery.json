@@ -56,5 +56,7 @@
     "30_events/markets/开年外贸的季节性、订单与结汇：2026年3月判断.md",
     "40_sources/S-WS-3767144.md"
   ],
-  "revision_review": "workspaces/wallstreetcn_scaling/revision/3767144/audit.md"
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3767144/audit.md",
+  "graph_root": "graph",
+  "formal_integrated_on": "2026-11-16"
 }

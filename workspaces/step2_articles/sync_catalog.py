@@ -1,4 +1,7 @@
 from pathlib import Path
+if (Path(__file__).resolve().parents[1]/'wallstreetcn_scaling/formal_integration.json').exists():
+ raise SystemExit('本批已接入正式graph；旧工作图写入脚本停用。请从graph/00_start/README.md开始新任务。')
+from pathlib import Path
 import json,yaml
 R=Path(__file__).resolve().parent;G=R/'graph';S=G/'00_start'
 base=R.parents[1]/'graph/00_start'

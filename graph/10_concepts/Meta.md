@@ -3,13 +3,28 @@ id: C-TECH-22
 type: concept
 title: Meta
 status: reviewed_seed
-draft_author: "/root/resume_b042"
+draft_author: /root/resume_b042
 model: gpt-6-astra
 reasoning_effort: medium
 reviewed_by: /root
-updated: 2026-10-30
+workspace_reviewed_by: /root
+workspace_reviewed_on: 2026-11-16
+updated: '2026-11-16'
 evidence_as_of: 2026-10-28
-source_ids: [S-C-TECH-22-01, S-C-TECH-22-02, S-C-TECH-22-03, S-C-TECH-22-04, S-C-TECH-22-05, S-C-TECH-22-06]
+source_ids:
+- S-C-TECH-22-01
+- S-C-TECH-22-02
+- S-C-TECH-22-03
+- S-C-TECH-22-04
+- S-C-TECH-22-05
+- S-C-TECH-22-06
+- S-WS-3783420
+editor: /root/scale_10
+editing_status: step2_reviewed
+editor_model: inherited_unverified
+editor_reasoning_effort: inherited_unverified
+formal_integrated_on: 2026-11-16
+formal_integration_batch: wallstreetcn_30_20261116
 ---
 
 # Meta
@@ -100,6 +115,13 @@ Meta财年截至12月31日，下表为完整自然年，金额单位**十亿美�
 
 **2026-01-28的管理层预期：**公司预计2026资本开支1,150亿—1,350亿美元，并预计经营利润超过2025；费用增长主要来自基础设施及技术人才。原文的资本开支包含融资租赁本金，不可与只列现金购置的另一家公司不加调整地比较。[S-C-TECH-22-02](#S-C-TECH-22-02)
 
+<a id="muse-202610"></a>
+### 2026年9—10月：广告现金支持新产品，但回收周期不同
+
+10月12日围绕[Muse](Muse.md)的机构研究，把个人智能体的服务支出与未来收费放在同一问题中。对集团而言，已有广告业务产生的现金可支持免费获客；Muse能否持续回收则要看产品实际使用、商户接入和收费。集团广告ARPU与Muse用户成本缺少统一分母，不能直接据差额计算这条产品线的盈亏。
+
+[当时分析](../30_events/markets/Muse增长、服务成本与交易接入：2026年10月观察.md)集中维护具体数字、成本假设与预测期限。下文保留较晚的集团财务与技术记录，各窗口分别读取。
+
 ### 2026第三季：经营、诉讼费用和投资压力需要拆开
 
 10月21日公布的截至9月30日季度收入646.01亿美元、同比26%；9月平均DAP为36.4亿、同比3%，季度广告展示量增加10%、平均价格增加14%。这些数值说明收入增长远快于独立用户数量，并不单独识别其中有多少来自推荐、广告需求、地域结构或新增格式。[S-C-TECH-22-03](#S-C-TECH-22-03)
@@ -117,7 +139,7 @@ GAAP经营利润129.88亿美元、同比下降37%，包含与青少年心理健�
 - [模型效率、推理成本与总算力需求 R-TECH-03](../20_mechanisms/模型效率、推理成本与总算力需求.md)：Meta的推荐系统说明每次候选评分成本下降后，可能扩大候选池和模型复杂度；单位成本下降并不保证总投资下降。
 - [平台网络效应 R-TECH-12](../20_mechanisms/平台网络效应.md)：用户、创作者与广告主的互补有助于解释平台吸引力，但社交关系、推荐内容和广告测量具有不同约束；不能把规模直接当作不可替代性。
 
-以上是机制阅读入口，现有索引未直接绑定Meta。基础对象参见[人工智能算力](%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%AE%97%E5%8A%9B.md)、[GPU与AI加速器](GPU%E4%B8%8EAI%E5%8A%A0%E9%80%9F%E5%99%A8.md)、[数据中心](%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83.md)。
+本工作图的[平台网络效应logic-4](../20_mechanisms/平台网络效应.md#logic-4)已将Meta列为智能体案例参与对象；正式graph尚未接入该组。模型效率关系在此保留应用入口。基础对象参见[人工智能算力](人工智能算力.md)、[GPU与AI加速器](GPU与AI加速器.md)、[数据中心](数据中心.md)。
 
 ## 来源与具体缺口
 
@@ -134,3 +156,5 @@ GAAP经营利润129.88亿美元、同比下降37%，包含与青少年心理健�
 <a id="S-C-TECH-22-06"></a>**S-C-TECH-22-06**｜Meta，*Form 8-K*，2021-10-28。[SEC原文](https://www.sec.gov/Archives/edgar/data/1326801/000132680121000071/fb-20211028.htm)。读取Item 5.03更名和Item 8.01分部改变；没有将当时拟用股票代码计划当作后来实现结果。
 
 尚缺：公开年报不能分别给出Facebook／Instagram／WhatsApp完整利润表、各AI项目投资回报及新模型付费收入；本轮未取得公司内部预算和训练／推理资本支出分拆。推荐改善的独立增量销售、广告主行业层面留存及AI投入相对于替代方案的回报，仍需实验设计和同口径追踪数据。2026年全年财务尚未在本页取得，不以三个季度或指引替代。
+
+本轮补录来源：[S-WS-3783420](../40_sources/S-WS-3783420.md)，2026-10-12文章及16图；本次未重核本页原有财务来源。
