@@ -1,0 +1,99 @@
+{
+  "article_id": 3758183,
+  "files": [
+    {
+      "path": "10_concepts/主动权益公募基金.md",
+      "id": "C-WS-3758183-ACTIVE-EQUITY",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "主动权益公募基金",
+      "operation": "update",
+      "draft_path": "drafts/10_concepts/主动权益公募基金.md",
+      "why": "补正面兑付过程，精简本篇Q3历史入口，保护8月/2026年5月贡献",
+      "parent_ids": [
+        "C-SECTOR-03"
+      ],
+      "parent_relation": "thematic_collection",
+      "source_ids": [
+        "S-WS-3758183",
+        "S-WS-3753513",
+        "S-WS-3771926"
+      ]
+    },
+    {
+      "path": "10_concepts/证券与资管业.md",
+      "id": "C-SECTOR-03",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "证券与资管业",
+      "operation": "update",
+      "draft_path": "drafts/10_concepts/证券与资管业.md",
+      "why": "精简本篇产品观察入口，保护服务业与财务历史",
+      "source_ids": [
+        "S-C-SECTOR-03-01",
+        "S-C-SECTOR-03-02",
+        "S-C-SECTOR-03-03",
+        "S-WS-3758183",
+        "S-WS-3754228"
+      ]
+    },
+    {
+      "path": "30_events/markets/主动权益基金科技集中与资金流：2025年三季度观察.md",
+      "id": "E-WS-3758183",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "主动权益基金科技集中与资金流：2025年三季度观察",
+      "operation": "update",
+      "draft_path": "drafts/30_events/markets/主动权益基金科技集中与资金流：2025年三季度观察.md",
+      "why": "更正图18，按申赎/集中形成/可持续性重组，补具体检验",
+      "node_ids": [
+        "C-WS-3758183-ACTIVE-EQUITY",
+        "C-SECTOR-03"
+      ],
+      "source_ids": [
+        "S-WS-3758183"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3758183.md",
+      "id": "S-WS-3758183",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "兴业基金三季报研究：来源与核读范围",
+      "operation": "update",
+      "draft_path": "drafts/40_sources/S-WS-3758183.md",
+      "why": "登记全部26图、图18真实图义及移入的排行与具体校读",
+      "source_ids": [
+        "S-WS-3758183"
+      ]
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "F1",
+      "decision": "accepted",
+      "change": "更正事件图18图注与来源定位，明确无收益序列和2006—2010银行曲线；银行历史表现归原文叙述。"
+    },
+    {
+      "issue_id": "F2",
+      "decision": "accepted",
+      "change": "产品页补通用赎回兑付、现金/回收/卖出与剩余股票涨价过程，事件解释2900亿元流出与规模/高仓位/超额并存，并连接图17；未识别的实际兑付来源未补造。"
+    },
+    {
+      "issue_id": "F3",
+      "decision": "accepted",
+      "change": "事件按申赎—科技集中形成—可持续性重组，保留10幅关键图，来源逐图定位全部26图并集中次要排行和校读；精炼共享页本篇历史贡献，其他篇历史保留。"
+    },
+    {
+      "issue_id": "F4",
+      "decision": "accepted",
+      "change": "以2025-10-29为信息日列随后2025Q4及再后一至两次可比披露的三项检验，具体区分余额/交易、流出/出售成本、价格降权/数量退出，标为后补检验且不写后来结果。"
+    }
+  ],
+  "summary": "四项均采纳；返修四份现行正文，无新增节点。",
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

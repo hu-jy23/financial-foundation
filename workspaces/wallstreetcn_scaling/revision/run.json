@@ -35,7 +35,7 @@
       "source": "materials/wallstreetcn/SourcePost/公募基金三季报：大幅加仓科技成长，工业富联、寒武纪新晋公募前二十大重仓/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3758183/delivery.json",
       "writer": "/root/scale_04",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3758183"
     },
     {
@@ -44,7 +44,7 @@
       "source": "materials/wallstreetcn/SourcePost/中金：924两年后有何变化？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3783497/delivery.json",
       "writer": "/root/scale_05",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3783497"
     },
     {
@@ -53,7 +53,7 @@
       "source": "materials/wallstreetcn/SourcePost/美国投资人在担心什么？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3784266/delivery.json",
       "writer": "/root/scale_06",
-      "status": "reviewing",
+      "status": "revised",
       "reviewer": "/root/audit_3784266"
     },
     {
@@ -62,7 +62,8 @@
       "source": "materials/wallstreetcn/SourcePost/地产或正迈向“中期逻辑”/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3783877/delivery.json",
       "writer": "/root/scale_07",
-      "status": "pending_review"
+      "status": "revising",
+      "reviewer": "/root/audit_3783877"
     },
     {
       "article_id": 3775922,
@@ -70,7 +71,8 @@
       "source": "materials/wallstreetcn/SourcePost/上半年的A股：哪些历史规律已经打破，哪些历史规律即将被打破？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3775922/delivery.json",
       "writer": "/root/scale_08",
-      "status": "pending_review"
+      "status": "revising",
+      "reviewer": "/root/audit_3775922"
     },
     {
       "article_id": 3753513,
@@ -78,7 +80,8 @@
       "source": "materials/wallstreetcn/SourcePost/A股5轮牛市的回撤经验/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3753513/delivery.json",
       "writer": "/root/scale_09",
-      "status": "pending_review"
+      "status": "reviewing",
+      "reviewer": "/root/audit_3753513"
     },
     {
       "article_id": 3783420,

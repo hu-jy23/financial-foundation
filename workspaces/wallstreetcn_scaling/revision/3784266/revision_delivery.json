@@ -1,0 +1,133 @@
+{
+  "article_id": 3784266,
+  "files": [
+    {
+      "path": "30_events/AI投资的资金、电力与存储周期担忧：2026年10月走访.md",
+      "draft_path": "drafts/30_events/AI投资的资金、电力与存储周期担忧：2026年10月走访.md",
+      "operation": "update",
+      "id": "E-WS-3784266",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "AI投资的资金、电力与存储周期担忧：2026年10月走访",
+      "why": "纠正图19为营收份额；围绕四条兑现链重组，保留9张关键图并恢复分窗口检验，关联既有Muse"
+    },
+    {
+      "path": "10_concepts/CoreWeave.md",
+      "draft_path": "drafts/10_concepts/CoreWeave.md",
+      "operation": "update",
+      "id": "C-S2-COREWEAVE",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "CoreWeave",
+      "why": "精炼本篇债券窗口，具体数字归事件；保留10月16/31全部段落",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "10_concepts/数据中心.md",
+      "draft_path": "drafts/10_concepts/数据中心.md",
+      "operation": "update",
+      "id": "C-TECH-04",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "数据中心",
+      "why": "保留成本/闲置风险分摊到送电起租的过程，历史数字归事件；保护项目融资段"
+    },
+    {
+      "path": "10_concepts/HBM与存储芯片.md",
+      "draft_path": "drafts/10_concepts/HBM与存储芯片.md",
+      "operation": "update",
+      "id": "C-TECH-06",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "HBM与存储芯片",
+      "why": "去重具体价格历史，保留价格到扩产及合格供给的过程、4F²一般解释"
+    },
+    {
+      "path": "10_concepts/半导体设备与材料.md",
+      "draft_path": "drafts/10_concepts/半导体设备与材料.md",
+      "operation": "update",
+      "id": "C-TECH-09",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "半导体设备与材料",
+      "why": "去重预测数字，保留复杂度与短缺价格、交付到供给的机制和分期观察"
+    },
+    {
+      "path": "10_concepts/长鑫存储.md",
+      "draft_path": "drafts/10_concepts/长鑫存储.md",
+      "operation": "update",
+      "id": "C-WS-3784266-CXMT",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "长鑫存储",
+      "why": "纠正图19为DRAM营收份额，通用4F²解释归母项，集中年底产品/合格出货检验",
+      "parent_ids": [
+        "C-TECH-06"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "10_concepts/Muse.md",
+      "draft_path": "drafts/10_concepts/Muse.md",
+      "operation": "update",
+      "id": "C-WS-3783420-MUSE",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "Muse",
+      "why": "复用既有产品ID，独立短补10月23订阅和采用窗口；保护10月12成本与11月10身份",
+      "parent_ids": [
+        "C-TECH-22"
+      ],
+      "parent_relation": "company_product"
+    },
+    {
+      "path": "40_sources/S-WS-3784266.md",
+      "draft_path": "drafts/40_sources/S-WS-3784266.md",
+      "operation": "update",
+      "id": "S-WS-3784266",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "华泰美国投资人走访：来源与核读范围",
+      "why": "新增22图逐一定位，图19纠正和次要核读说明集中于来源"
+    }
+  ],
+  "responses": [
+    {
+      "issue": "U1",
+      "status": "accepted",
+      "change": "事件、长鑫及来源均改为三厂DRAM季度营收份额%，保留无长鑫和整体毛利边界。"
+    },
+    {
+      "issue": "U2",
+      "status": "accepted",
+      "change": "既有Muse同ID新增独立10/23短历史，保留10/12和11/10窗口，事件去除未来建页安排。"
+    },
+    {
+      "issue": "U3",
+      "status": "accepted",
+      "change": "事件按资金周转、供电成本/闲置风险、新供给与付费回收展开；9张关键图就近，来源22图逐一定位。"
+    },
+    {
+      "issue": "U4",
+      "status": "accepted",
+      "change": "四旧页仅改本篇小节，具体数字与争论由事件主维护；长鑫维持具体产品兑现，4F²一般解释归母项。"
+    },
+    {
+      "issue": "U5",
+      "status": "accepted",
+      "change": "新增分窗口检验表：选举后政策/送电，4Q26及年底产品/价，2027—28交付，2029后情景和Muse后续经营披露。"
+    }
+  ],
+  "summary": "修正图19，复用Muse独立历史；四条兑现链与分窗口检验重组，去重对象页，来源完整定位22图。",
+  "coordinator_adjustments": [
+    "来源补回原稿SEMI预测版本数字，事件增加定位，避免去重丢失比较依据。"
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

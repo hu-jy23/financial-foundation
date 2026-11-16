@@ -1,0 +1,98 @@
+{
+  "article_id": 3783497,
+  "files": [
+    {
+      "path": "10_concepts/恒生指数与恒生科技指数.md",
+      "draft_path": "drafts/10_concepts/恒生指数与恒生科技指数.md",
+      "operation": "update",
+      "id": "C-ASIA-11",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "恒生指数与恒生科技指数",
+      "why": "将10月13日历史段保留为有解释的短入口，数字和案例集中事件；保护11月2日及规则全文。"
+    },
+    {
+      "path": "20_mechanisms/社融结构、信用脉冲与实体需求.md",
+      "draft_path": "drafts/20_mechanisms/社融结构、信用脉冲与实体需求.md",
+      "operation": "update",
+      "id": "R-CN-CREDIT",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "社融结构、信用脉冲与实体需求",
+      "why": "局部去重，保留融资用途机制，恢复11—12月、年底会议及分阶段检验。",
+      "node_ids": [
+        "C-CN-TSF",
+        "C-CHINA-05",
+        "C-BOND-04"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-CN-TSF",
+            "C-CHINA-05",
+            "C-BOND-04"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-CN-TSF",
+            "C-CHINA-05"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-CN-TSF",
+            "C-BOND-04",
+            "C-CHINA-05"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/924两周年的恒科回撤：居民信用、盈利与资金分化.md",
+      "draft_path": "drafts/30_events/markets/924两周年的恒科回撤：居民信用、盈利与资金分化.md",
+      "operation": "update",
+      "id": "E-WS-3783497",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "924两周年的恒科回撤：居民信用、盈利与资金分化",
+      "why": "重排主线，8张关键图就近；区分居民需求、AI付费盈利、换股暴露，恢复具体观察窗口。"
+    },
+    {
+      "path": "40_sources/S-WS-3783497.md",
+      "draft_path": "drafts/40_sources/S-WS-3783497.md",
+      "operation": "update",
+      "id": "S-WS-3783497",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "中金《924两年后有何变化？》来源与阅读记录",
+      "why": "集中口径校核，补24张原图逐项入口，更新事件职责说明。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "H1",
+      "response": "已按部门分化→成分收入利润→估值资金→修复路径重排事件；嵌8张关键图，全部24图在Source可定位；指数与社融只留本篇短历史、机制和定位，次要校核集中来源。保留利润率、周转与资本回报的正面解释。"
+    },
+    {
+      "issue_id": "H2",
+      "response": "已分居民需求修复、平台AI经付费/收入/成本进入盈利、年底换股改变组合权重三条过程；模型测试与价格不直接代替经营证据；不新增节点。"
+    },
+    {
+      "issue_id": "H3",
+      "response": "已恢复三季度业绩、原文Anthropic上市催化、CPI/10月底FOMC、年底经济工作会议、11—12月投放与年底调仓窗口；检验思路标为11月16日后补，仅据10月13日信息，无后来结果。"
+    }
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

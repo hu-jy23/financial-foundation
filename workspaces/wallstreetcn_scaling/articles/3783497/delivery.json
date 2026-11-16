@@ -10,7 +10,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "恒生指数与恒生科技指数",
-      "why": "补10月13日较早快照、盈利估值分解和实际GDP到成分资本回报的传递；保留11月2日较晚观察。"
+      "why": "将10月13日历史段保留为有解释的短入口，数字和案例集中事件；保护11月2日及规则全文。"
     },
     {
       "path": "20_mechanisms/社融结构、信用脉冲与实体需求.md",
@@ -20,7 +20,7 @@
       "type": "mechanism",
       "entry_kind": "relation",
       "title": "社融结构、信用脉冲与实体需求",
-      "why": "在logic-2补企业/居民信用分化与资金用途，在logic-3补财政投向与5500亿元额度到支付的条件。",
+      "why": "局部去重，保留融资用途机制，恢复11—12月、年底会议及分阶段检验。",
       "node_ids": [
         "C-CN-TSF",
         "C-CHINA-05",
@@ -64,7 +64,7 @@
       "type": "source_note",
       "entry_kind": "source",
       "title": "中金《924两年后有何变化？》来源与阅读记录",
-      "why": "登记全文和24图的实际阅读范围、版本差异与具体未核底稿。"
+      "why": "集中口径校核，补24张原图逐项入口，更新事件职责说明。"
     },
     {
       "path": "30_events/markets/924两周年的恒科回撤：居民信用、盈利与资金分化.md",
@@ -74,7 +74,7 @@
       "type": "analysis_note",
       "entry_kind": "event",
       "title": "924两周年的恒科回撤：居民信用、盈利与资金分化",
-      "why": "完整保存指数错位、居民信用、AI覆盖、资金与发行、经营回报和当时逆转条件及24张原图。"
+      "why": "重排主线，8张关键图就近；区分居民需求、AI付费盈利、换股暴露，恢复具体观察窗口。"
     }
   ],
   "coverage": [
@@ -113,5 +113,6 @@
     "20_mechanisms/社融结构、信用脉冲与实体需求.md",
     "40_sources/S-WS-3783497.md",
     "30_events/markets/924两周年的恒科回撤：居民信用、盈利与资金分化.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3783497/audit.md"
 }

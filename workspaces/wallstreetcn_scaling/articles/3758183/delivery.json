@@ -10,9 +10,11 @@
       "type": "concept",
       "entry_kind": "subconcept",
       "title": "主动权益公募基金",
-      "why": "新增研究产品集合，区分管理公司、基金产品及份额/净值/仓位/超配/估计买入，承接连续季度观察。",
+      "why": "补正面兑付过程，精简本篇Q3历史入口，保护8月/2026年5月贡献",
       "source_ids": [
-        "S-WS-3758183"
+        "S-WS-3758183",
+        "S-WS-3753513",
+        "S-WS-3771926"
       ],
       "parent_ids": [
         "C-SECTOR-03"
@@ -27,12 +29,13 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "证券与资管业",
-      "why": "增加主动权益受托产品入口及2025Q3净赎回与规模反弹案例；保留旧作者、来源和2026-01-15截止。",
+      "why": "精简本篇产品观察入口，保护服务业与财务历史",
       "source_ids": [
         "S-C-SECTOR-03-01",
         "S-C-SECTOR-03-02",
         "S-C-SECTOR-03-03",
-        "S-WS-3758183"
+        "S-WS-3758183",
+        "S-WS-3754228"
       ]
     },
     {
@@ -43,7 +46,7 @@
       "type": "analysis_note",
       "entry_kind": "event",
       "title": "主动权益基金科技集中与资金流：2025年三季度观察",
-      "why": "新增2025Q3七部分完整事件，保留26图和关键持仓数字，逐处解释样本、价格贡献及图文差异。",
+      "why": "更正图18，按申赎/集中形成/可持续性重组，补具体检验",
       "source_ids": [
         "S-WS-3758183"
       ],
@@ -60,7 +63,7 @@
       "type": "source_note",
       "entry_kind": "source",
       "title": "兴业基金三季报研究：来源与核读范围",
-      "why": "登记来源归属、日期、实际核读范围、图号及具体差异。",
+      "why": "登记全部26图、图18真实图义及移入的排行与具体校读",
       "source_ids": [
         "S-WS-3758183"
       ]
@@ -124,5 +127,6 @@
     "10_concepts/证券与资管业.md",
     "30_events/markets/主动权益基金科技集中与资金流：2025年三季度观察.md",
     "40_sources/S-WS-3758183.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3758183/audit.md"
 }

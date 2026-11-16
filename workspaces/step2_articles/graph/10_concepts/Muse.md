@@ -12,11 +12,17 @@ updated: '2026-11-16'
 evidence_as_of: '2026-11-10'
 source_ids:
 - S-WS-3783420
+- S-WS-3784266
 parent_ids:
 - C-TECH-22
 parent_relation: company_product
 historical_observation_as_of: '2026-10-12'
 identity_reference_as_of: '2026-11-10'
+revision_editor: /root/scale_06
+revision_scope: 3784266返修：复用既有产品ID，独立短补10月23订阅和采用窗口；保护10月12成本与11月10身份
+editing_status: step2_draft
+editing_model: inherited_unverified
+editing_reasoning_effort: inherited_unverified
 ---
 
 # Muse
@@ -49,6 +55,13 @@ Muse把个人AI的采用、执行成本和商户合作放在同一产品中，�
 摩根士丹利按免费token额度消费25%、每天20次会话和每次10分钟VM，估计每用户月GPU成本24.35美元、CPU及存储12.77美元，合计37.12美元。GPU成本含设备与设施折旧；CPU按AWS标价估计，机构认为接近上界。它展示研究假设下的服务经济性，未给实际客户消费分布或公司结算成本。
 
 研究又测算2026年CPU采购／租用容量可支持10亿DAU情景；这不是已经有10亿用户、全部资源已经上线，或全部由Muse独占。对GPU需求及付费额度全部用尽的外推属于文章所引ZeroHedge，未作为MS的独立预测。MS认为主要变现可能要等2027年底—2028年；本轮没有加入后来结果。[完整分析与16图](../30_events/markets/Muse增长、服务成本与交易接入：2026年10月观察.md)保留容量、成本、商户接入与EPS表的具体问题。
+
+<a id="history-20261023"></a>
+## 2026年10月23日：订阅测试与采用观察
+
+华泰走访将Muse的任务执行视作付费潜力，报道20美元、100美元月费的有限订阅测试，另引第三方下载和周用户估计。这里新增的是独立经营观察窗口：下载、活跃、付费及续费逐步将采用转成收入，执行也会增加服务成本；“按任务价值”尚不等于已经逐任务计费。
+
+[10月23日事件](../30_events/AI投资的资金、电力与存储周期担忧：2026年10月走访.md#monetization)保存具体采用数字、原图及收费归属。它与上方10月12日成本/增长估计分别维护，身份说明仍保留11月10日网页补核；不以较晚身份页回填当时经营结果。[本篇来源](../40_sources/S-WS-3784266.md)。
 
 ## 来源
 
