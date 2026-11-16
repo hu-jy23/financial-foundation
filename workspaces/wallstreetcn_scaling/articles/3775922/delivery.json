@@ -10,7 +10,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "A股市场",
-      "why": "补2026年6月行业与成交集中历史，解释绝对配置、相对超配、分母变化及盈利/估值拆分，保留7月6日制度证据。"
+      "why": "缩写六月结构解释，数字与反例集中事件，保护三季度及制度正文。"
     },
     {
       "path": "30_events/markets/A股历史阈值与结构分化：2026年中期策略观察.md",
@@ -20,7 +20,7 @@
       "type": "analysis_note",
       "entry_kind": "event",
       "title": "A股历史阈值与结构分化：2026年中期策略观察",
-      "why": "新建完整中期策略分析，保存21图、各数据窗口、资金分类表、产业分支及当时预测，逐项识别图文差异。"
+      "why": "按阈值、盈利与预期、承接组织；补付款和持仓路径、2026中报与H2分支检验。"
     },
     {
       "path": "40_sources/S-WS-3775922.md",
@@ -30,7 +30,7 @@
       "type": "source_note",
       "entry_kind": "source",
       "title": "广发2026年中期策略转述：来源及核读范围",
-      "why": "登记来源归属、21图对应、原报告及底层数据未取得的具体边界。"
+      "why": "提供全部21图直达入口，集中次要数值、图序校核和完整资金表。"
     }
   ],
   "coverage": [
@@ -76,5 +76,6 @@
     "10_concepts/A股市场.md",
     "30_events/markets/A股历史阈值与结构分化：2026年中期策略观察.md",
     "40_sources/S-WS-3775922.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3775922/audit.md"
 }

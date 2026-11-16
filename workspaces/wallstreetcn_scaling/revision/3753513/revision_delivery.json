@@ -1,0 +1,89 @@
+{
+  "article_id": 3753513,
+  "files": [
+    {
+      "path": "30_events/markets/A股五轮牛市回撤与再通胀判断：2025年8月.md",
+      "draft_path": "drafts/30_events/markets/A股五轮牛市回撤与再通胀判断：2025年8月.md",
+      "operation": "update",
+      "id": "E-WS-3753513",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "A股五轮牛市回撤与再通胀判断：2025年8月",
+      "why": "纠正FedWatch十二月0.8%，累计约99%；8张关键图保留、其余图定位来源；新增四项判断的分窗口检验。",
+      "node_ids": [
+        "C-ASIA-01",
+        "C-FLOW-09",
+        "C-FLOW-05",
+        "C-WS-3758183-ACTIVE-EQUITY",
+        "C-EQ-ERP",
+        "C-CHINA-01"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3753513.md",
+      "draft_path": "drafts/40_sources/S-WS-3753513.md",
+      "operation": "update",
+      "id": "S-WS-3753513",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "华创牛市回撤研究：来源与核读范围",
+      "why": "新增18张原图逐图入口及必要核读定位，登记图9纠正与本库检验设计的归属。"
+    },
+    {
+      "path": "10_concepts/主动权益公募基金.md",
+      "draft_path": "drafts/10_concepts/主动权益公募基金.md",
+      "operation": "update",
+      "id": "C-WS-3758183-ACTIVE-EQUITY",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "主动权益公募基金",
+      "why": "仅整理八月回本窗口，样本和申赎数字归事件主维护；保护原基础解释、三季度返修及2026年5月历史。",
+      "parent_ids": [
+        "C-SECTOR-03"
+      ],
+      "parent_relation": "thematic_collection"
+    },
+    {
+      "path": "10_concepts/融资融券与借券成本.md",
+      "draft_path": "drafts/10_concepts/融资融券与借券成本.md",
+      "operation": "update",
+      "id": "C-FLOW-09",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "融资融券与借券成本",
+      "why": "仅整理八月观察段，保留存量、相对规模、交易参与含义，具体数字归事件维护，保护较晚证据。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "B1",
+      "action": "adopted",
+      "change": "复看图9：十二月425—450bp改为0.8%，累计概数约99%；保留累计区间与单次动作差异，来源登记纠正。"
+    },
+    {
+      "issue_id": "B2",
+      "action": "adopted",
+      "change": "事件保留8张关键图，来源逐图定位18图。基金及两融对象窗口改为短历史和含义说明，事件主维护本篇数字。37区间、q分母及108%算例、图7事后终点/新高分组、蚂蚁日期和ETF交付辨析均保留。"
+    },
+    {
+      "issue_id": "B3",
+      "action": "adopted",
+      "change": "增加以2025-08-18为信息日的四项检验：已列联储会议及随后国内操作、后续交易承接、月度产销与企业利润/回款披露、可比基金申赎及产品渠道。区分看牛、局部回调、实物兑现和渠道迁移；未补后来结果和未知政策日期。"
+    }
+  ],
+  "checks": {
+    "scope": "仅本篇4份修改稿",
+    "local_links_checked": 74,
+    "errors": [],
+    "event_embedded_figures": 8,
+    "source_figure_links": 18,
+    "shared_fund_outside_august_unchanged": true,
+    "margin_outside_august_unchanged": true,
+    "later_evidence_and_source_ids_preserved": true
+  },
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

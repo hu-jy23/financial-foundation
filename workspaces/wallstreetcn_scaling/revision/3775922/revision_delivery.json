@@ -1,0 +1,60 @@
+{
+  "article_id": 3775922,
+  "files": [
+    {
+      "path": "10_concepts/A股市场.md",
+      "draft_path": "drafts/10_concepts/A股市场.md",
+      "operation": "update",
+      "id": "C-ASIA-01",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "A股市场",
+      "why": "缩写六月结构解释，数字与反例集中事件，保护三季度及制度正文。"
+    },
+    {
+      "path": "30_events/markets/A股历史阈值与结构分化：2026年中期策略观察.md",
+      "draft_path": "drafts/30_events/markets/A股历史阈值与结构分化：2026年中期策略观察.md",
+      "operation": "update",
+      "id": "E-WS-3775922",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "A股历史阈值与结构分化：2026年中期策略观察",
+      "why": "按阈值、盈利与预期、承接组织；补付款和持仓路径、2026中报与H2分支检验。"
+    },
+    {
+      "path": "40_sources/S-WS-3775922.md",
+      "draft_path": "drafts/40_sources/S-WS-3775922.md",
+      "operation": "update",
+      "id": "S-WS-3775922",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "广发2026年中期策略转述：来源及核读范围",
+      "why": "提供全部21图直达入口，集中次要数值、图序校核和完整资金表。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "A1",
+      "status": "adopted",
+      "change": "flows补居民申购到管理人买股、险资配置、券商信用购买力，区分产品现金兑付、ETF二级转让及一级赎回、股东出售、发行人融资和回购；说明渠道交叉及风险承受意愿。"
+    },
+    {
+      "issue_id": "A2",
+      "status": "adopted",
+      "change": "A股只改structure-202606窗口；事件按主线保留7图，来源直达全部21图并承接数值校核，历史反例、PB有限窗口和50/60个百分点预测身份保留。"
+    },
+    {
+      "issue_id": "A3",
+      "status": "adopted",
+      "change": "tests-2026h2以7月1日信息日，区分中报/随后财报经营、全年预期、要求回报与H2资金承接；保留海外需求政策分支及各非AI经营条件，不补后验。"
+    }
+  ],
+  "coordinator_adjustments": [
+    "将“事前分支检验”改为“依据当时信息拟定”，准确说明11月16日的后补整理时间。"
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "article_id": 3783877,
+  "files": [
+    {
+      "id": "C-CHINA-15",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "房地产融资与住房按揭",
+      "path": "10_concepts/房地产融资与住房按揭.md",
+      "draft_path": "drafts/10_concepts/房地产融资与住房按揭.md",
+      "operation": "update",
+      "why": "补有限期贴息对购房初期现金、购买时点与退出后负担的影响，区分150万元/120㎡/首套资格、100万元贴息本金及上海200万元价格样本。"
+    },
+    {
+      "id": "C-SECTOR-06",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "房地产开发与物业",
+      "path": "10_concepts/房地产开发与物业.md",
+      "draft_path": "drafts/10_concepts/房地产开发与物业.md",
+      "operation": "update",
+      "why": "纠正图20受限现金脚注，联系可动用现金与到期债务；本篇完整负债、低配数据由事件维护。"
+    },
+    {
+      "id": "R-CN-PROPERTY",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "房地产开发的现金流循环",
+      "path": "20_mechanisms/房地产开发的现金流循环.md",
+      "draft_path": "drafts/20_mechanisms/房地产开发的现金流循环.md",
+      "operation": "update",
+      "why": "保留买方保护、开发垫资、供给时滞与置换回款解释，将本篇重复土地数值及分层预期移至事件定位；旧logic-2及较晚统计不变。",
+      "node_ids": [
+        "C-CHINA-14",
+        "C-CHINA-15",
+        "C-SECTOR-06"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-CHINA-14",
+            "C-CHINA-15",
+            "C-SECTOR-06"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-CHINA-14",
+            "C-CHINA-15",
+            "C-SECTOR-06"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-CHINA-14",
+            "C-SECTOR-06"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "id": "E-WS-3783877",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "住房销售转轨与2027企稳预期：华泰2026年10月地产分析",
+      "path": "30_events/markets/住房销售转轨与2027企稳预期：华泰2026年10月地产分析.md",
+      "draft_path": "drafts/30_events/markets/住房销售转轨与2027企稳预期：华泰2026年10月地产分析.md",
+      "operation": "update",
+      "why": "纠正图20脚注；区分政策客群和价格分组，补有限期贴息的需求条件及匹配检验；11张关键图就近展示，其余由来源定位。",
+      "node_ids": [
+        "C-CHINA-14",
+        "C-CHINA-15",
+        "C-SECTOR-06",
+        "C-CHINA-11"
+      ],
+      "related_mechanism_ids": [
+        "R-CN-PROPERTY",
+        "R-CHINA-05"
+      ]
+    },
+    {
+      "id": "S-WS-3783877",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "华泰地产中期逻辑：来源与核读范围",
+      "path": "40_sources/S-WS-3783877.md",
+      "draft_path": "drafts/40_sources/S-WS-3783877.md",
+      "operation": "update",
+      "why": "为21原图逐一加可定位链接与核读注，集中图5/6、图13/14和图20口径，记录本轮返修范围。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "P1",
+      "decision": "accepted",
+      "change": "事件与开发行业页同步纠正图20原注为未考虑货币现金中受限资金影响，并说明指标现金不等于可动用偿债现金；来源图20登记正确原注。"
+    },
+    {
+      "issue_id": "P2",
+      "decision": "accepted",
+      "change": "按揭与事件明确住房总价/面积/首套、贴息本金、上海200万元价格分组；补购房初期减负、部分需求提前与退出后合同负担，检验匹配家庭成交和卖旧买新回款。"
+    },
+    {
+      "issue_id": "P3",
+      "decision": "accepted",
+      "change": "事件保留主线及完整数字争论，展示11关键图；全部21图在来源逐图链接。开发行业与现金循环只保留本职解释、短历史和事件定位，保护原logic-2、旧来源及同日较晚统计。"
+    }
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

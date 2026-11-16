@@ -62,7 +62,7 @@
       "source": "materials/wallstreetcn/SourcePost/地产或正迈向“中期逻辑”/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3783877/delivery.json",
       "writer": "/root/scale_07",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3783877"
     },
     {
@@ -71,7 +71,7 @@
       "source": "materials/wallstreetcn/SourcePost/上半年的A股：哪些历史规律已经打破，哪些历史规律即将被打破？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3775922/delivery.json",
       "writer": "/root/scale_08",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3775922"
     },
     {
@@ -80,7 +80,7 @@
       "source": "materials/wallstreetcn/SourcePost/A股5轮牛市的回撤经验/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3753513/delivery.json",
       "writer": "/root/scale_09",
-      "status": "reviewing",
+      "status": "revised",
       "reviewer": "/root/audit_3753513"
     },
     {
@@ -89,7 +89,8 @@
       "source": "materials/wallstreetcn/SourcePost/用户增速骤降62%，摩根士丹利测算Muse每用户月成本最高130美元/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3783420/delivery.json",
       "writer": "/root/scale_10",
-      "status": "pending_review"
+      "status": "revising",
+      "reviewer": "/root/audit_3783420"
     },
     {
       "article_id": 3783332,
@@ -97,7 +98,8 @@
       "source": "materials/wallstreetcn/SourcePost/野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3783332/delivery.json",
       "writer": "/root/scale_11",
-      "status": "pending_review"
+      "status": "reviewing",
+      "reviewer": "/root/audit_3783332"
     },
     {
       "article_id": 3785129,
@@ -105,7 +107,8 @@
       "source": "materials/wallstreetcn/SourcePost/如何理解央行上调外汇存款准备金率？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3785129/delivery.json",
       "writer": "/root/scale_12",
-      "status": "pending_review"
+      "status": "reviewing",
+      "reviewer": "/root/audit_3785129"
     },
     {
       "article_id": 3771926,
