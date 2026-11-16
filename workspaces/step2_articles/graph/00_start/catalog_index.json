@@ -2,10 +2,10 @@
   "counts": {
     "concepts": {
       "groups": 20,
-      "items": 193,
+      "items": 194,
       "p0": 21,
       "complete": 134,
-      "pending": 59
+      "pending": 60
     },
     "mechanisms": {
       "groups": 18,
@@ -3187,6 +3187,21 @@
             "C-TECH-03"
           ],
           "parent_relation": "concrete_subject"
+        },
+        {
+          "id": "C-MACRO-11",
+          "name": "PMI与景气调查",
+          "scope": "恢复C-MACRO-11稳定概念，迁入调查覆盖、扩散、五项合成/配送逆向、季调与比较方法及49.66算例。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/PMI与景气调查.md",
+          "planned_path": "../10_concepts/PMI与景气调查.md",
+          "catalog_anchor": "C-MACRO-11",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-MACRO-11",
+          "status": "pending",
+          "editing_status": "step2_draft"
         }
       ]
     }
@@ -8196,16 +8211,6 @@
       "reason": "用户明确排除产能利用率；工业生产同属常规生产统计，当前组合整体不立项。",
       "mechanism_ids": [],
       "catalog_ref": "CONCEPT_CONTEXT_TERMS.md#C-MACRO-10"
-    },
-    {
-      "id": "C-MACRO-11",
-      "name": "PMI与景气调查",
-      "original_group": "增长、需求与经济周期",
-      "role": "legacy_reference_not_node",
-      "status": "context_only",
-      "reason": "PMI 是常规经济调查指标；调查定义和分项随事件数据说明。",
-      "mechanism_ids": [],
-      "catalog_ref": "CONCEPT_CONTEXT_TERMS.md#C-MACRO-11"
     },
     {
       "id": "C-MACRO-12",

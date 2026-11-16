@@ -10,7 +10,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "DR007、R007与同业存单",
-      "why": "补2025-06-30民生资金趋松判断，分开DR007月均与7天OMO及政策执行，保留原较晚截止。"
+      "why": "将2025年6月段缩为机构资金判断及定位，保留其他较晚历史和2026-10-19截止。"
     },
     {
       "path": "30_events/markets/PMI反弹的广度与政策响应：2025年6月民生判断.md",
@@ -20,8 +20,9 @@
       "type": "analysis_note",
       "entry_kind": "event",
       "title": "PMI反弹的广度与政策响应：2025年6月民生判断",
-      "why": "保存PMI反弹广度、分项合成、季调/工作日、关税、规模/价格、货币财政和建筑服务八图及当时预期。",
+      "why": "按反弹未扩散到用工/小企业、外部解释与政策回应重组，缩减核验铺陈；增加2025年7—9月两条分立检验窗口。",
       "node_ids": [
+        "C-MACRO-11",
         "C-CHINA-09",
         "C-BOND-04"
       ],
@@ -38,7 +39,16 @@
       "type": "source_note",
       "entry_kind": "source",
       "title": "民生六月PMI分析：来源与核读范围",
-      "why": "登记本地8图、当日官方表/编制方法实际核读、拟合与政策触发边界。"
+      "why": "保存关税完整回归及8张原图入口，登记PMI稳定归属及本轮实际复核范围。"
+    },
+    {
+      "path": "10_concepts/PMI与景气调查.md",
+      "operation": "new",
+      "id": "C-MACRO-11",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "PMI与景气调查",
+      "why": "恢复C-MACRO-11稳定概念，迁入调查覆盖、扩散、五项合成/配送逆向、季调与比较方法及49.66算例。"
     }
   ],
   "coverage": [
@@ -85,12 +95,13 @@
       "related_ids": []
     }
   ],
-  "summary": "新增事件分析、来源各1篇；修改《DR007、R007与同业存单》：补2025年6月底资金趋松判断及市场/政策利率区别。新增图谱节点0。",
+  "summary": "新增《PMI与景气调查》概念，集中解释调查构造与比较方法；修改六月事件的修复/政策判断与检验、DR007短历史及来源记录。",
   "review_status": "adopted",
   "reviewed_by": "/root",
   "integrated_files": [
     "10_concepts/DR007、R007与同业存单.md",
     "30_events/markets/PMI反弹的广度与政策响应：2025年6月民生判断.md",
     "40_sources/S-WS-3750088.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3750088/audit.md"
 }

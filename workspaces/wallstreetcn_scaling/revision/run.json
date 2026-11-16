@@ -1,0 +1,263 @@
+{
+  "status": "in_progress",
+  "scope": "30 articles",
+  "tasks": [
+    {
+      "article_id": 3764710,
+      "title": "中金：黄金超过5500美元是一个重要分水岭",
+      "source": "materials/wallstreetcn/SourcePost/中金：黄金超过5500美元是一个重要分水岭/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3764710/delivery.json",
+      "writer": "/root/scale_01",
+      "status": "revising",
+      "reviewer": "/root/audit_3764710"
+    },
+    {
+      "article_id": 3784961,
+      "title": "中金：市场如何见底？",
+      "source": "materials/wallstreetcn/SourcePost/中金：市场如何见底？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3784961/delivery.json",
+      "writer": "/root/scale_02",
+      "status": "revising",
+      "reviewer": "/root/audit_3784961"
+    },
+    {
+      "article_id": 3784433,
+      "title": "中金：AI从传统需求的“朋友”到“敌人”？",
+      "source": "materials/wallstreetcn/SourcePost/中金：AI从传统需求的“朋友”到“敌人”？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3784433/delivery.json",
+      "writer": "/root/scale_03",
+      "status": "reviewing",
+      "reviewer": "/root/audit_3784433"
+    },
+    {
+      "article_id": 3758183,
+      "title": "公募基金三季报：大幅加仓科技成长，工业富联、寒武纪新晋公募前二十大重仓",
+      "source": "materials/wallstreetcn/SourcePost/公募基金三季报：大幅加仓科技成长，工业富联、寒武纪新晋公募前二十大重仓/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3758183/delivery.json",
+      "writer": "/root/scale_04",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3783497,
+      "title": "中金：924两年后有何变化？",
+      "source": "materials/wallstreetcn/SourcePost/中金：924两年后有何变化？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3783497/delivery.json",
+      "writer": "/root/scale_05",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3784266,
+      "title": "美国投资人在担心什么？",
+      "source": "materials/wallstreetcn/SourcePost/美国投资人在担心什么？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3784266/delivery.json",
+      "writer": "/root/scale_06",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3783877,
+      "title": "地产或正迈向“中期逻辑”",
+      "source": "materials/wallstreetcn/SourcePost/地产或正迈向“中期逻辑”/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3783877/delivery.json",
+      "writer": "/root/scale_07",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3775922,
+      "title": "上半年的A股：哪些历史规律已经打破，哪些历史规律即将被打破？",
+      "source": "materials/wallstreetcn/SourcePost/上半年的A股：哪些历史规律已经打破，哪些历史规律即将被打破？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3775922/delivery.json",
+      "writer": "/root/scale_08",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3753513,
+      "title": "A股5轮牛市的回撤经验",
+      "source": "materials/wallstreetcn/SourcePost/A股5轮牛市的回撤经验/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3753513/delivery.json",
+      "writer": "/root/scale_09",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3783420,
+      "title": "用户增速骤降62%，摩根士丹利测算Muse每用户月成本最高130美元",
+      "source": "materials/wallstreetcn/SourcePost/用户增速骤降62%，摩根士丹利测算Muse每用户月成本最高130美元/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3783420/delivery.json",
+      "writer": "/root/scale_10",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3783332,
+      "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
+      "source": "materials/wallstreetcn/SourcePost/野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3783332/delivery.json",
+      "writer": "/root/scale_11",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3785129,
+      "title": "如何理解央行上调外汇存款准备金率？",
+      "source": "materials/wallstreetcn/SourcePost/如何理解央行上调外汇存款准备金率？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3785129/delivery.json",
+      "writer": "/root/scale_12",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3771926,
+      "title": "趋势、抱团与疯狂——A股“抓主线”投资方法论",
+      "source": "materials/wallstreetcn/SourcePost/趋势、抱团与疯狂——A股“抓主线”投资方法论/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3771926/delivery.json",
+      "writer": "/root/scale_13",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3784163,
+      "title": "中金：如何对冲AI风险？",
+      "source": "materials/wallstreetcn/SourcePost/中金：如何对冲AI风险？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3784163/delivery.json",
+      "writer": "/root/scale_14",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3748815,
+      "title": "图解特朗普“大漂亮”法案：财政刺激力度、899条款“资本税”、对美债、美元影响有多大？",
+      "source": "materials/wallstreetcn/SourcePost/图解特朗普“大漂亮”法案：财政刺激力度、899条款“资本税”、对美债、美元影响有多大？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3748815/delivery.json",
+      "writer": "/root/scale_15",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3784306,
+      "title": "美债本轮反弹的持续性如何？",
+      "source": "materials/wallstreetcn/SourcePost/美债本轮反弹的持续性如何？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3784306/delivery.json",
+      "writer": "/root/scale_16",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3754228,
+      "title": "8月经济：股市涨能否带动实体反弹？",
+      "source": "materials/wallstreetcn/SourcePost/8月经济：股市涨能否带动实体反弹？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3754228/delivery.json",
+      "writer": "/root/scale_17",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3749421,
+      "title": "当前市场的五大共识与五大预期差",
+      "source": "materials/wallstreetcn/SourcePost/当前市场的五大共识与五大预期差/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3749421/delivery.json",
+      "writer": "/root/scale_18",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3785076,
+      "title": "世界黄金协会：下调全年黄金投资需求增长预期至200吨，全球央行购金提速、ETF持仓创新高",
+      "source": "materials/wallstreetcn/SourcePost/世界黄金协会：下调全年黄金投资需求增长预期至200吨，全球央行购金提速、ETF持仓创新高/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3785076/delivery.json",
+      "writer": "/root/scale_19",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3783904,
+      "title": "柴油危机，对美国通胀影响多大？",
+      "source": "materials/wallstreetcn/SourcePost/柴油危机，对美国通胀影响多大？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3783904/delivery.json",
+      "writer": "/root/scale_20",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3763441,
+      "title": "美银美林2026年十大灰天鹅：铀价暴涨50%……英格兰喜夺世界杯？",
+      "source": "materials/wallstreetcn/SourcePost/美银美林2026年十大灰天鹅：铀价暴涨50%……英格兰喜夺世界杯？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3763441/delivery.json",
+      "writer": "/root/scale_21",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3750088,
+      "title": "PMI稳住了吗？",
+      "source": "materials/wallstreetcn/SourcePost/PMI稳住了吗？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3750088/delivery.json",
+      "writer": "/root/scale_22",
+      "status": "revised",
+      "reviewer": "/root/audit_3750088"
+    },
+    {
+      "article_id": 3785125,
+      "title": "AI编程之后下一个爆发点需等待---摩根大通双双下调智谱和MiniMax",
+      "source": "materials/wallstreetcn/SourcePost/AI编程之后下一个爆发点需等待---摩根大通双双下调智谱和MiniMax/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3785125/delivery.json",
+      "writer": "/root/scale_23",
+      "status": "revised",
+      "reviewer": "/root/audit_3785125"
+    },
+    {
+      "article_id": 3783754,
+      "title": "Coreweave是否会引爆美国垃圾债市场？下一个是甲骨文？",
+      "source": "materials/wallstreetcn/SourcePost/Coreweave是否会引爆美国垃圾债市场？下一个是甲骨文？/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3783754/delivery.json",
+      "writer": "/root/scale_24",
+      "status": "revised",
+      "reviewer": "/root/audit_3783754"
+    },
+    {
+      "article_id": 3783160,
+      "title": "A股三季度复盘：市场风格已悄然切换",
+      "source": "materials/wallstreetcn/SourcePost/A股三季度复盘：市场风格已悄然切换/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3783160/delivery.json",
+      "writer": "/root/scale_25",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3767144,
+      "title": "开年外贸：闪耀的非常信号",
+      "source": "materials/wallstreetcn/SourcePost/开年外贸：闪耀的非常信号/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3767144/delivery.json",
+      "writer": "/root/scale_26",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3763452,
+      "title": "阿斯麦的\"巅峰时刻\"！大摩：先进制程扩产潮下，2027年或迎最强盈利增长",
+      "source": "materials/wallstreetcn/SourcePost/阿斯麦的＂巅峰时刻＂！大摩：先进制程扩产潮下，2027年或迎最强盈利增长/article.md",
+      "delivery": "workspaces/wallstreetcn_scaling/articles/3763452/delivery.json",
+      "writer": "/root/scale_27",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3784900,
+      "title": "2008再现！一文读懂华尔街最热门交易：AI CDS",
+      "source": "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md",
+      "delivery": "workspaces/step2_articles/deliveries/ai.json",
+      "writer": "/root/produce_ai",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3784053,
+      "title": "韩国跌出“历史级便宜”，为何无人接盘？",
+      "source": "materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md",
+      "delivery": "workspaces/step2_articles/deliveries/korea.json",
+      "writer": "/root/produce_korea",
+      "status": "pending_review"
+    },
+    {
+      "article_id": 3744871,
+      "title": "一文读懂隔夜美债崩盘的“罪魁”——基差交易",
+      "source": "materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md",
+      "delivery": "workspaces/step2_articles/deliveries/basis.json",
+      "writer": "/root/produce_basis",
+      "status": "pending_review"
+    }
+  ],
+  "baseline_commit": "3186ef614d279c6b9abdede39b0d8c8f718b9947",
+  "structure_decisions": [
+    {
+      "article_id": 3750088,
+      "decision": "工作图恢复C-MACRO-11《PMI与景气调查》，独立承载多篇反复使用的调查解释；不恢复其他排除项。"
+    },
+    {
+      "article_id": 3785125,
+      "decision": "父项C-TECH-03已含模型API解释，保留两公司归属，精简继承表述。"
+    }
+  ]
+}

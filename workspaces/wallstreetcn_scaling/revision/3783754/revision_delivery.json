@@ -1,0 +1,155 @@
+{
+  "article_id": 3783754,
+  "files": [
+    {
+      "path": "10_concepts/CoreWeave.md",
+      "draft_path": "drafts/10_concepts/CoreWeave.md",
+      "operation": "update",
+      "id": "C-S2-COREWEAVE",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "CoreWeave",
+      "why": "返修3783754：精炼10月16日窗口，补经营回款及租金责任；保留其他篇较晚历史。",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "10_concepts/信用评级与迁移.md",
+      "draft_path": "drafts/10_concepts/信用评级与迁移.md",
+      "operation": "update",
+      "id": "C-CREDIT-08",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "信用评级与迁移",
+      "why": "返修3783754：将Oracle案例精简为评级门槛/持仓约束，保留原通用规则与历史。"
+    },
+    {
+      "path": "10_concepts/数据中心.md",
+      "draft_path": "drafts/10_concepts/数据中心.md",
+      "operation": "update",
+      "id": "C-TECH-04",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "数据中心",
+      "why": "返修3783754：设施页保留主体/资产分工，项目样本集中事件；保留10月23日材料。"
+    },
+    {
+      "path": "10_concepts/甲骨文.md",
+      "draft_path": "drafts/10_concepts/甲骨文.md",
+      "operation": "update",
+      "id": "C-WS-3783754-ORACLE",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "甲骨文",
+      "why": "返修3783754：压缩重复报价与校勘，保留集团/租户比较并给出项目观察窗口。",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "20_mechanisms/数据中心项目融资的租户信用传递.md",
+      "draft_path": "drafts/20_mechanisms/数据中心项目融资的租户信用传递.md",
+      "operation": "update",
+      "id": "R-WS-3783754-TENANTCREDIT",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "数据中心项目融资的租户信用传递",
+      "why": "返修3783754：补终端客户至项目偿债经营链，压缩重复样本/报价，按交付与共同租户分工检验预期。",
+      "node_ids": [
+        "C-TECH-04",
+        "C-S2-COREWEAVE",
+        "C-WS-3783754-ORACLE",
+        "C-BOND-06",
+        "C-CREDIT-SPREAD"
+      ],
+      "related_mechanism_ids": [
+        "R-S2-VENDOR-CREDIT",
+        "R-BANKING-12"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-TECH-04",
+            "C-S2-COREWEAVE",
+            "C-WS-3783754-ORACLE",
+            "C-BOND-06"
+          ],
+          "related_mechanism_ids": [
+            "R-S2-VENDOR-CREDIT"
+          ]
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-S2-COREWEAVE",
+            "C-WS-3783754-ORACLE",
+            "C-BOND-06",
+            "C-CREDIT-SPREAD"
+          ],
+          "related_mechanism_ids": [
+            "R-BANKING-12"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/2026年10月：AI数据中心融资的租户集中与信用分化.md",
+      "draft_path": "drafts/30_events/markets/2026年10月：AI数据中心融资的租户集中与信用分化.md",
+      "operation": "update",
+      "id": "E-WS-3783754",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "2026年10月：AI数据中心融资的租户集中与信用分化",
+      "why": "返修3783754：纠正114/150MW转录；按支付/租户/交付/融资重排，集中数字及争论，给分阶段观察窗口。"
+    },
+    {
+      "path": "40_sources/S-WS-3783754.md",
+      "draft_path": "drafts/40_sources/S-WS-3783754.md",
+      "operation": "update",
+      "id": "S-WS-3783754",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "CoreWeave与数据中心信用：来源及核读范围",
+      "why": "返修3783754：记录正确114/150MW及1512合计，将逐图校核与小读数差异集中来源并保留全部图入口。"
+    }
+  ],
+  "responses": [
+    {
+      "issue": "A1",
+      "status": "accepted",
+      "change": "亲自核图3：Edged114、ELNFOR150，七笔1512；事件与来源同步更正，删除虚构汇总冲突。"
+    },
+    {
+      "issue": "A2",
+      "status": "accepted",
+      "change": "关系逻辑1完整展开终端购买→部署交付→回款→租金→项目偿债；事件解释优质客户/IRR与部署期融资可以并存，CoreWeave留主体短解释。"
+    },
+    {
+      "issue": "A3",
+      "status": "accepted",
+      "change": "事件集中项目明细、报价、450/100/350/155及利息情景；对象历史和关系时间线压缩为必要状态与定位链接，保留其他篇历史。"
+    },
+    {
+      "issue": "A4",
+      "status": "accepted",
+      "change": "事件按支付/共同租户/交付支持/融资反馈重排；保留6张内嵌图，图5以原图链接及LTC/YTC解释保留；7图校核集中来源。"
+    },
+    {
+      "issue": "A5",
+      "status": "accepted",
+      "change": "关系1检验交付和完成担保，关系2检验跨项目租金与租户融资；Oracle比较不同交付期项目与集团信用；事件表按交付、付款、评级/持仓三阶段明确观察与解释。"
+    }
+  ],
+  "coordinator_adjustments": [
+    "恢复误删的power-permits-20261023既有锚点，正文未变。"
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

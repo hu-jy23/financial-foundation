@@ -511,3 +511,7 @@
 ## 回溯依据
 
 整理自Git提交`064ec0c`中的`CONCEPT_SELECTION_349.json`、`history/SELECTION_BASELINE_159.json`与`CATALOG_MIGRATION.json`。原记录的独立筛选、修改决定与最终结果在本页合并展示；旧文件由Git追溯。
+
+## Step2工作区修订：PMI
+
+2026-11-16，逐篇审阅后恢复C-MACRO-11《PMI与景气调查》为待整合节点，集中维护跨篇使用的调查构造、季调与比较方法；六月事件保留当月判断。该修订仅用于本工作图，未改变正式graph，也未恢复其他旧排除项。

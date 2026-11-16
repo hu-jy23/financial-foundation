@@ -1,0 +1,130 @@
+{
+  "article_id": 3785125,
+  "files": [
+    {
+      "path": "10_concepts/MiniMax.md",
+      "id": "C-WS-3785125-MINIMAX",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "MiniMax",
+      "operation": "update",
+      "draft_path": "drafts/10_concepts/MiniMax.md",
+      "why": "保留业务差异与观察用途，正面简述API继承，缩短本次历史并定位事件。",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "10_concepts/智谱.md",
+      "id": "C-WS-3785125-ZHIPU",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "智谱",
+      "operation": "update",
+      "draft_path": "drafts/10_concepts/智谱.md",
+      "why": "保留业务差异与观察用途，正面简述API继承，缩短本次历史并定位事件。",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "20_mechanisms/模型效率、推理成本与总算力需求.md",
+      "id": "R-TECH-03",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "模型效率、推理成本与总算力需求",
+      "operation": "update",
+      "draft_path": "drafts/20_mechanisms/模型效率、推理成本与总算力需求.md",
+      "why": "仅压缩本篇logic-1/2历史为短案例引用，保留其他内容与关联。",
+      "node_ids": [
+        "C-TECH-01",
+        "C-TECH-03",
+        "C-TECH-02",
+        "C-WS-3785125-ZHIPU",
+        "C-WS-3785125-MINIMAX"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-TECH-01",
+            "C-TECH-02",
+            "C-TECH-03",
+            "C-WS-3785125-ZHIPU",
+            "C-WS-3785125-MINIMAX"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-TECH-01",
+            "C-TECH-03",
+            "C-WS-3785125-ZHIPU",
+            "C-WS-3785125-MINIMAX"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-TECH-01",
+            "C-TECH-02",
+            "C-TECH-03"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/模型服务的需求空档、分层定价与估值下修：2026年11月.md",
+      "id": "E-WS-3785125",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "模型服务的需求空档、分层定价与估值下修：2026年11月",
+      "operation": "update",
+      "draft_path": "drafts/30_events/markets/模型服务的需求空档、分层定价与估值下修：2026年11月.md",
+      "why": "按能力到付费、定价成本、公司差异、估值组织，补收入上修/估值下调并存及两条检验链。"
+    },
+    {
+      "path": "40_sources/S-WS-3785125.md",
+      "id": "S-WS-3785125",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "模型服务需求与估值：来源及读取范围",
+      "operation": "update",
+      "draft_path": "drafts/40_sources/S-WS-3785125.md",
+      "why": "集中图文核对与过程说明，提供全部七图入口，保留原来源范围。"
+    }
+  ],
+  "responses": [
+    {
+      "issue": "A1",
+      "resolution": "accepted",
+      "change": "保留C-TECH-03父项，以API服务业务层正面说明继承并定位父页两个章节，删重复排除。"
+    },
+    {
+      "issue": "A2",
+      "resolution": "accepted",
+      "change": "事件主维护数字、分析与检验；公司缩为差异与短历史；关系各一短案例；口径校核只在来源展开。"
+    },
+    {
+      "issue": "A3",
+      "resolution": "accepted",
+      "change": "事件重排四条认识，删逐图制作过程与重复图注，嵌图1/4/5/6/7，图2/3由来源保留入口。"
+    },
+    {
+      "issue": "A4",
+      "resolution": "accepted",
+      "change": "补收入时点、利润率/溢价及倍数如何使上修营收与下调估值并存；分别写智谱前沿提价和MiniMax性价比/高价升级检验。"
+    }
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

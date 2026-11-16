@@ -1,0 +1,76 @@
+{
+  "article_id": 3750088,
+  "files": [
+    {
+      "path": "10_concepts/PMI与景气调查.md",
+      "draft_path": "drafts/10_concepts/PMI与景气调查.md",
+      "operation": "new",
+      "id": "C-MACRO-11",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "PMI与景气调查",
+      "why": "恢复C-MACRO-11稳定概念，迁入调查覆盖、扩散、五项合成/配送逆向、季调与比较方法及49.66算例。"
+    },
+    {
+      "path": "30_events/markets/PMI反弹的广度与政策响应：2025年6月民生判断.md",
+      "draft_path": "drafts/30_events/markets/PMI反弹的广度与政策响应：2025年6月民生判断.md",
+      "operation": "update",
+      "id": "E-WS-3750088",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "PMI反弹的广度与政策响应：2025年6月民生判断",
+      "why": "按反弹未扩散到用工/小企业、外部解释与政策回应重组，缩减核验铺陈；增加2025年7—9月两条分立检验窗口。",
+      "node_ids": [
+        "C-MACRO-11",
+        "C-CHINA-09",
+        "C-BOND-04"
+      ],
+      "related_mechanism_ids": [
+        "R-GEOPOLITICS-02",
+        "R-CN-CREDIT"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3750088.md",
+      "draft_path": "drafts/40_sources/S-WS-3750088.md",
+      "operation": "update",
+      "id": "S-WS-3750088",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "民生六月PMI分析：来源与核读范围",
+      "why": "保存关税完整回归及8张原图入口，登记PMI稳定归属及本轮实际复核范围。"
+    },
+    {
+      "path": "10_concepts/DR007、R007与同业存单.md",
+      "draft_path": "drafts/10_concepts/DR007、R007与同业存单.md",
+      "operation": "update",
+      "id": "C-CHINA-09",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "DR007、R007与同业存单",
+      "why": "将2025年6月段缩为机构资金判断及定位，保留其他较晚历史和2026-10-19截止。"
+    }
+  ],
+  "responses": [
+    {
+      "issue": "PMI-01",
+      "status": "adopted",
+      "change": "按主agent明确协调恢复既有ID C-MACRO-11，新建PMI与景气调查；事件与来源改为引用稳定入口，未修改共享目录/context。"
+    },
+    {
+      "issue": "PMI-02",
+      "status": "adopted",
+      "change": "迁出基础构造和算例；六行回归系数转来源，并保留原图直接定位。删除假想误读和连续缺项罗列，事件保留7张主要图及核心读数，来源可回到全部8原图。"
+    },
+    {
+      "issue": "PMI-03",
+      "status": "adopted",
+      "change": "保留民生6/30的下半年判断，另标11/16后补检验思路，以2025年7—9月一至三次发布分别观察修复扩散与政策执行；DR007段缩为入口，不加入后来事实。"
+    }
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

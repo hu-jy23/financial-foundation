@@ -10,7 +10,7 @@
       "type": "concept",
       "entry_kind": "subconcept",
       "title": "CoreWeave",
-      "why": "补10月16日租户关联项目债、年度资金差额和融资情景；保留10月31日历史。",
+      "why": "返修3783754：精炼10月16日窗口，补经营回款及租金责任；保留其他篇较晚历史。",
       "parent_ids": [
         "C-TECH-03"
       ],
@@ -24,7 +24,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "信用评级与迁移",
-      "why": "补BBB细档及附条件出售的Oracle案例。"
+      "why": "返修3783754：将Oracle案例精简为评级门槛/持仓约束，保留原通用规则与历史。"
     },
     {
       "path": "10_concepts/数据中心.md",
@@ -34,7 +34,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "数据中心",
-      "why": "补项目主体与租户责任、设施/GPU分层并连接新关系。"
+      "why": "返修3783754：设施页保留主体/资产分工，项目样本集中事件；保留10月23日材料。"
     },
     {
       "path": "10_concepts/甲骨文.md",
@@ -44,7 +44,7 @@
       "type": "concept",
       "entry_kind": "subconcept",
       "title": "甲骨文",
-      "why": "新增甲骨文子概念，记录成熟云与软件主体的集团信用和租户身份。",
+      "why": "返修3783754：压缩重复报价与校勘，保留集团/租户比较并给出项目观察窗口。",
       "parent_ids": [
         "C-TECH-03"
       ],
@@ -58,7 +58,7 @@
       "type": "mechanism",
       "entry_kind": "relation",
       "title": "数据中心项目融资的租户信用传递",
-      "why": "新增租金支持的项目融资责任及共同租户信用传递关系。",
+      "why": "返修3783754：补终端客户至项目偿债经营链，压缩重复样本/报价，按交付与共同租户分工检验预期。",
       "node_ids": [
         "C-TECH-04",
         "C-S2-COREWEAVE",
@@ -105,7 +105,7 @@
       "type": "analysis_note",
       "entry_kind": "event",
       "title": "2026年10月：AI数据中心融资的租户集中与信用分化",
-      "why": "完整保存价格、项目样本、7图冲突、机构分歧与条件预期。"
+      "why": "返修3783754：纠正114/150MW转录；按支付/租户/交付/融资重排，集中数字及争论，给分阶段观察窗口。"
     },
     {
       "path": "40_sources/S-WS-3783754.md",
@@ -115,7 +115,7 @@
       "type": "source_note",
       "entry_kind": "source",
       "title": "CoreWeave与数据中心信用：来源及核读范围",
-      "why": "登记文章及7图、一手业务/条款/评级定义与读取边界。"
+      "why": "返修3783754：记录正确114/150MW及1512合计，将逐图校核与小读数差异集中来源并保留全部图入口。"
     }
   ],
   "coverage": [
@@ -166,5 +166,6 @@
     "20_mechanisms/数据中心项目融资的租户信用传递.md",
     "30_events/markets/2026年10月：AI数据中心融资的租户集中与信用分化.md",
     "40_sources/S-WS-3783754.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3783754/audit.md"
 }
