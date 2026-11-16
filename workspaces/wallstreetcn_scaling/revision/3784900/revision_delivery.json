@@ -1,0 +1,219 @@
+{
+  "article_id": 3784900,
+  "revision_author": "/root/revise_ai",
+  "original_author": "/root/produce_ai",
+  "files": [
+    {
+      "path": "30_events/AI融资扩张中的CDS价格分化：2026年10月.md",
+      "draft_path": "drafts/30_events/AI融资扩张中的CDS价格分化：2026年10月.md",
+      "operation": "update",
+      "id": "E-WS-3784900",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "AI融资扩张中的CDS价格分化：2026年10月",
+      "why": "围绕融资责任、保护/期限分化与公司经营承接组织，选5关键图并补分期检验。"
+    },
+    {
+      "path": "40_sources/S-WS-3784900.md",
+      "draft_path": "drafts/40_sources/S-WS-3784900.md",
+      "operation": "update",
+      "id": "S-WS-3784900",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "华尔街见闻：AI融资与CDS价格分化",
+      "why": "接住全样本报价、基差、成交/存续及详细校读，保留9图直链和原外部阅读范围。"
+    },
+    {
+      "path": "10_concepts/AI相关企业CDS.md",
+      "draft_path": "drafts/10_concepts/AI相关企业CDS.md",
+      "operation": "update",
+      "id": "C-S2-AI-CDS",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "AI相关企业CDS",
+      "why": "保留专题样本与主体观察职责，减少数据和机构表达重复，定位事件。",
+      "parent_ids": [
+        "C-S2-CDS"
+      ],
+      "parent_relation": "thematic_collection"
+    },
+    {
+      "path": "10_concepts/CoreWeave.md",
+      "draft_path": "drafts/10_concepts/CoreWeave.md",
+      "operation": "update",
+      "id": "C-S2-COREWEAVE",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "CoreWeave",
+      "why": "仅精炼本篇CDS历史；保护其他融资/经营段落，连接季度检验。",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "10_concepts/信用利差.md",
+      "draft_path": "drafts/10_concepts/信用利差.md",
+      "operation": "update",
+      "id": "C-CREDIT-SPREAD",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "信用利差",
+      "why": "只缩短本篇案例，保留变化/水平/跨工具区别与主要维护定位。"
+    },
+    {
+      "path": "10_concepts/CDS—现金债基差.md",
+      "draft_path": "drafts/10_concepts/CDS—现金债基差.md",
+      "operation": "update",
+      "id": "C-S2-CDS-CASH-BASIS",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "CDS—现金债基差",
+      "why": "历史改短案例与观察问题；完整数字和过程定位事件/来源。",
+      "parent_ids": [
+        "C-DERIV-15"
+      ],
+      "parent_relation": "instrument_specific_basis"
+    },
+    {
+      "path": "20_mechanisms/供应商融资的信用风险传递.md",
+      "draft_path": "drafts/20_mechanisms/供应商融资的信用风险传递.md",
+      "operation": "update",
+      "id": "R-S2-VENDOR-CREDIT",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "供应商融资的信用风险传递",
+      "why": "保留合同责任过程和原条件推演，减少报价复述并连接季度检验。",
+      "node_ids": [
+        "C-TECH-03",
+        "C-TECH-02",
+        "C-CREDIT-SPREAD",
+        "C-S2-AI-CDS"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-TECH-03",
+            "C-TECH-02",
+            "C-CREDIT-SPREAD",
+            "C-S2-AI-CDS"
+          ],
+          "related_mechanism_ids": []
+        }
+      ],
+      "related_mechanism_ids": []
+    },
+    {
+      "path": "20_mechanisms/CDS—现金债基差的定价与交易.md",
+      "draft_path": "drafts/20_mechanisms/CDS—现金债基差的定价与交易.md",
+      "operation": "update",
+      "id": "R-S2-CDS-BASIS",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "CDS—现金债基差的定价与交易",
+      "why": "保留两条完整过程与历史，预期连接数周至数月的分期检验。",
+      "node_ids": [
+        "C-S2-CDS",
+        "C-S2-CDS-CASH-BASIS",
+        "C-CREDIT-SPREAD",
+        "C-FLOW-09",
+        "C-LIQ-FUND",
+        "C-DERIV-14"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-S2-CDS",
+            "C-S2-CDS-CASH-BASIS",
+            "C-CREDIT-SPREAD"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-S2-CDS-CASH-BASIS",
+            "C-FLOW-09",
+            "C-LIQ-FUND",
+            "C-DERIV-14"
+          ],
+          "related_mechanism_ids": [
+            "R-DERIVATIVES-02"
+          ]
+        }
+      ],
+      "related_mechanism_ids": [
+        "R-DERIVATIVES-02"
+      ]
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "AI-01",
+      "status": "adopted",
+      "changes": "事件选图2/3/6/7/8，按融资责任—保护/现金债—期限—具体主体组织；全样本表、逐项基差及详细校读移Source并保留9图直链。专题与公司/利差/基差短案例连接主维护位置，基础定义和其他篇内容保留。"
+    },
+    {
+      "issue_id": "AI-02",
+      "status": "adopted",
+      "changes": "11/16后补数周至数月基差/亚马逊曲线两端、一至几个季度合同责任/回款/行业比较、CoreWeave部署与自身/相关项目融资检验；各有竞争解释和削弱条件。机制仅留短连接，未伪造持有期或后来结果。"
+    }
+  ],
+  "anchors_preserved": [
+    "index",
+    "financing",
+    "basis",
+    "curve",
+    "views",
+    "coreweave",
+    "subject-observation",
+    "history-202610",
+    "cds-history",
+    "step2-ai-case",
+    "logic-1",
+    "logic-2",
+    "article",
+    "cdx-method",
+    "isda-model",
+    "nyfed-basis",
+    "coreweave-filing"
+  ],
+  "new_anchor": "30_events/AI融资扩张中的CDS价格分化：2026年10月.md#tests",
+  "unchanged_files": [
+    "10_concepts/信用违约互换CDS.md",
+    "10_concepts/CDX信用衍生品指数.md",
+    "10_concepts/主权信用风险与CDS.md",
+    "10_concepts/云服务与超大规模云厂商.md",
+    "10_concepts/NVIDIA.md"
+  ],
+  "validation": {
+    "passed": true,
+    "issues": [],
+    "links_and_anchors_checked": 131,
+    "source_figures": [
+      "001",
+      "002",
+      "003",
+      "004",
+      "005",
+      "006",
+      "007",
+      "008",
+      "009"
+    ],
+    "event_embedded_figures": 5,
+    "protected_other_body": {
+      "10_concepts/CoreWeave.md": true,
+      "10_concepts/信用利差.md": true
+    },
+    "new_nodes": 0,
+    "coverage_anchors_preserved": true
+  },
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

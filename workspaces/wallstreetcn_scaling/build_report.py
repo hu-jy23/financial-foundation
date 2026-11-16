@@ -78,7 +78,7 @@ for c in cases:
  details.append(f'<section id="{cid}"><p class="eyebrow">{flag} · {c["id"]}</p><h2>{E(c["title"])}</h2>{rich(c["summary"])}{review_links}<ul>{"".join(cards)}</ul></section>')
 # One current document per path; repeated articles link to the same maintained content.
 new_ids=set(nodes)-set(run['baseline_node_ids']);counts=Counter()
-for id in new_ids:
+for id in sorted(new_ids):
  path=os.path.relpath((G/'00_start'/nodes[id]['path']).resolve(),G);f=files.get(path)
  if f:counts[K[kind(f)]]+=1
 updates={f['id']:f for c in cases if not c['baseline'] for f in c['files'] if f['operation']=='update' and f['id'] in set(run['baseline_node_ids'])}

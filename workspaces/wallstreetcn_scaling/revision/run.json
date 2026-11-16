@@ -1,5 +1,5 @@
 {
-  "status": "in_progress",
+  "status": "complete",
   "scope": "30 articles",
   "tasks": [
     {
@@ -255,7 +255,7 @@
       "source": "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md",
       "delivery": "workspaces/step2_articles/deliveries/ai.json",
       "writer": "/root/produce_ai",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3784900",
       "writer_error": "live agent path not found",
       "writer_availability": "unavailable_historical_session",
@@ -268,7 +268,7 @@
       "source": "materials/wallstreetcn/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md",
       "delivery": "workspaces/step2_articles/deliveries/korea.json",
       "writer": "/root/produce_korea",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3784053",
       "writer_error": "live agent path not found",
       "writer_availability": "unavailable_historical_session",
@@ -281,7 +281,7 @@
       "source": "materials/wallstreetcn/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md",
       "delivery": "workspaces/step2_articles/deliveries/basis.json",
       "writer": "/root/produce_basis",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3744871",
       "writer_error": "live agent path not found",
       "writer_availability": "unavailable_historical_session",
@@ -299,5 +299,10 @@
       "article_id": 3785125,
       "decision": "父项C-TECH-03已含模型API解释，保留两公司归属，精简继承表述。"
     }
-  ]
+  ],
+  "completed_on": "2026-11-16",
+  "reviewed_articles": 30,
+  "adopted_revisions": 30,
+  "original_writer_revisions": 26,
+  "replacement_writer_revisions": 4
 }

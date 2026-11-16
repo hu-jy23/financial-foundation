@@ -17,13 +17,17 @@ source_ids:
 parent_ids:
 - C-TECH-03
 parent_relation: concrete_subject
-editor: /root/scale_24
-edit_scope: 返修3783754：精炼10月16日窗口，补经营回款及租金责任；保留其他篇较晚历史。
+editor: /root/revise_ai
+edit_scope: 返修3784900：仅精炼本篇CDS历史并定位分期检验；其余经营、债券及项目融资正文保留。
 editing_status: step2_draft
 editing_model: inherited_unverified
 editing_reasoning_effort: inherited_unverified
 revision_editor: /root/scale_06
 revision_scope: 3784266返修：精炼本篇债券窗口，具体数字归事件；保留10月16/31全部段落
+revision_author: /root/revise_ai
+revision_status: reviewed
+editor_model: inherited_unverified
+editor_reasoning_effort: inherited_unverified
 ---
 
 # CoreWeave
@@ -65,11 +69,9 @@ CoreWeave把设备和数据中心投入、服务合同与外部融资放在同�
 
 华尔街见闻10月31日报道把CoreWeave作为高收益组的观察窗口，并称其为CDX高收益指数内唯一直接相关AI名称。这个指数身份保留报道归属，尚未核对应系列成分附件。
 
-报道图8所示五年期CDS当前报价为15.5点upfront，区间平均6.6点、最高约20点、最低约负2.3点。图线末端低于此前高点，故“报价较高”和“最近继续上涨”须分开描述。按买方支付方向，每100名义本金15.5的初始价款还须与固定票息共同理解；本文没有给出票息，不能自行换成某个基点数。固定票息加upfront是标准化CDS报价安排，单凭采用这种报价不能判定企业已陷困境。[CDS报价基础](信用违约互换CDS.md)。
+图8五年CDS当前为15.5点upfront，低于此前约20点高位；其固定票息未列。报价基础由[CDS](信用违约互换CDS.md)解释，完整价格、活跃度与存续规模由[同期事件](../30_events/AI融资扩张中的CDS价格分化：2026年10月.md#coreweave)及[来源图读](../40_sources/S-WS-3784900.md#coreweave-data)维护。
 
-截至10月23日，文章称周成交量的四周滚动平均从一年前3200万美元升至3.02亿美元，未平仓名义额约8.5亿美元。图9成交量用左轴百万美元，存量用右轴十亿美元，不能将两条线按高度直接比较。交易活跃与存续规模增加提供了市场参与变化的观察，不等于同额现金流入或已发生信用损失。[完整图文](../30_events/AI融资扩张中的CDS价格分化：2026年10月.md#coreweave)。
-
-同期文章提到分析师对其债券维持“超配”，但未列分析师、具体券及目标期限。债券相对价值观点与CDS保护价格可以基于不同工具和目的形成，本次材料不足以判定两者矛盾，也无法评估该建议后续成败。
+这个窗口把公司经营与信用市场接起来：部署及客户回款决定租金和自身债务能否支付，新融资决定能否跨过建设到回款的间隔。保护变贵可能来自这条资金链，也可能包含保护市场需求与承接变化；与未具名债券“超配”的并存尚不能裁定哪种解释正确。[随后季度比较](../30_events/AI融资扩张中的CDS价格分化：2026年10月.md#tests)分别接续经营、债券融资与可比保护报价，未补入后来结果。
 
 ## 后续研究与关联
 

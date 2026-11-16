@@ -22,7 +22,7 @@
 - [工作图入口](graph/00_start/README.md) · [对象目录](graph/00_start/CONCEPT_IMPORT_LIST.md) · [关系目录](graph/00_start/MECHANISM_IMPORT_LIST.md)
 - [文件与链接检查](validation.json)：目录迁移后重新检查本地链接及正式图基线。
 - [知识覆盖与引用检查](content_checks.json)：55项覆盖完整，节点引用及报告链接通过。
-- [浏览器检查](browser_check.json)：25份正文、22张图像、展开收起及手机布局通过。
+- [浏览器检查](browser_check.json)：原三篇成品的图像、展开收起及手机布局检查。
 
 来源正文和图片统一引用仓库内materials材料库。旧兼容符号链接已移除，路径按当前目录结构维护。
 

@@ -38,8 +38,13 @@ def integrate(article_id):
                         raise ValueError(f'Merge conflict: {p}\n{result.stdout[:2500]}')
                     content = result.stdout
         content = re.sub(r'(?m)^revision_status: (?:pending_review|draft|local_revision_draft)$', 'revision_status: reviewed', content)
-        if 'workspace_reviewed_by:' not in content.split('---', 2)[1]:
-            content = content.replace('\nupdated:', '\nworkspace_reviewed_by: /root\nworkspace_reviewed_on: 2026-11-16\nupdated:', 1)
+        header, body = content.split('---', 2)[1:]
+        for key, value in [('workspace_reviewed_by', '/root'), ('workspace_reviewed_on', '2026-11-16')]:
+            if re.search(r'^'+key+r':', header, re.M):
+                header = re.sub(r'^'+key+r':.*$', key+': '+value, header, flags=re.M)
+            else:
+                header = header.rstrip()+'\n'+key+': '+value+'\n'
+        content = '---'+header+'---'+body
         prepared.append((p, content))
     for p, content in prepared:
         p.parent.mkdir(parents=True, exist_ok=True)

@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "issues": [],
+  "links_and_anchors_checked": 131,
+  "source_figures": [
+    "001",
+    "002",
+    "003",
+    "004",
+    "005",
+    "006",
+    "007",
+    "008",
+    "009"
+  ],
+  "event_embedded_figures": 5,
+  "protected_other_body": {
+    "10_concepts/CoreWeave.md": true,
+    "10_concepts/信用利差.md": true
+  },
+  "new_nodes": 0,
+  "coverage_anchors_preserved": true
+}

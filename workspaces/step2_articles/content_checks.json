@@ -4,5 +4,8 @@
   "issues": [],
   "html_documents": 25,
   "rule_review_documents": 9,
-  "new_nodes_in_rule_review": 0
+  "new_nodes_in_rule_review": 0,
+  "checked_on": "2026-11-16",
+  "phase": "after_30_article_revision",
+  "current_validation": "../wallstreetcn_scaling/validation.json"
 }

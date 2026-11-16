@@ -4,8 +4,8 @@ type: concept
 title: CDS—现金债基差
 status: step2_draft
 workspace_reviewed_by: /root
-workspace_reviewed_on: 2026-11-13
-updated: '2026-11-13'
+workspace_reviewed_on: 2026-11-16
+updated: '2026-11-16'
 evidence_as_of: '2026-10-31'
 draft_author: /root/produce_ai
 model: inherited_unverified
@@ -15,6 +15,12 @@ source_ids:
 parent_ids:
 - C-DERIV-15
 parent_relation: instrument_specific_basis
+editor: /root/revise_ai
+editing_status: step2_draft
+revision_author: /root/revise_ai
+revision_status: reviewed
+editor_model: inherited_unverified
+editor_reasoning_effort: inherited_unverified
 ---
 
 # CDS—现金债基差
@@ -35,7 +41,7 @@ CDS—现金债基差比较同一信用参考对象在衍生品保护市场与�
 
 ## 本对象的历史
 
-2026年10月报道的图3显示，AI组合基差从约负40bp升至零以上，同期非AI组合仍约负50bp；图7给出不同AI名称的截面差异，英特尔约负14bp，甲骨文24bp、博通28bp、AMD29bp。图表由新闻转引巴克莱／彭博，债券匹配细节和组合权重未取得。它们可支持“样本存在跨工具分化”的观察，不能直接分配对冲需求和基本面变化各自的贡献。[原图及读法](../30_events/AI融资扩张中的CDS价格分化：2026年10月.md#basis)。
+2026年10月报道显示AI组合基差由负转正，非AI组合仍负，同期名称之间又有差别。这使本对象承担一个具体观察任务：企业保护与现金债是否共同重估，还是保护相对变贵？[完整事件](../30_events/AI融资扩张中的CDS价格分化：2026年10月.md#basis)展开比较，[来源图3、7读数](../40_sources/S-WS-3784900.md#basis-readings)保留数据。匹配规则及组合权重尚未取得，不能由差额独立分配保护需求和基本面的贡献。
 
 ## 关系与来源
 

@@ -4,13 +4,17 @@ type: concept
 title: 韩国综合股价指数KOSPI
 status: step2_draft
 workspace_reviewed_by: /root
-workspace_reviewed_on: 2026-11-13
-updated: 2026-11-13
+workspace_reviewed_on: 2026-11-16
+updated: 2026-11-16
 evidence_as_of: 2026-10-20
 draft_author: /root/produce_korea
 model: inherited_unverified
 reasoning_effort: inherited_unverified
 source_ids: [S-WS-3784053]
+editor: /root/revise_korea
+editing_status: step2_draft
+revision_author: /root/revise_korea
+revision_status: reviewed
 ---
 
 # 韩国综合股价指数KOSPI
@@ -32,20 +36,12 @@ source_ids: [S-WS-3784053]
 
 历史分位描述某个估值在选定历史样本中的位置。第11百分位表示它处于该分布较低位置，不能换成未来上涨概率。跨时期比较还要关注行业结构、组合范围、盈利预测期和数据供应商方法是否相同。
 
-2026年10月文章至少用了三种范围，需分别保存：
-
-| 观察 | 材料中的实际范围 | 读数含义 |
-|---|---|---|
-| KOSPI远期市盈率 | 图1橙线为整个KOSPI | 原文称处于极低区间，未给可核的精确末值 |
-| 8.4倍、历史第11百分位 | 图1蓝线排除Samsung、Hynix、SK Square、SK Inc和Samsung C&T | 这是剔除样本的估值，不能填为整个KOSPI的8.4倍 |
-| 预测EPS上行 | 图7标注KOSPI ex S/H，即剔除Samsung/Hynix后的前瞻EPS | 反映另一组公司的预测序列，不能据此读取两家存储公司的预测值 |
+2026年10月研究中的8.4倍、第11百分位属于排除五家大型公司的组合，预测EPS图又使用另一剔除范围。这说明指数身份确定以后，研究者仍可能为分析目的另组样本。具体名单与图表对照在[来源记录](../40_sources/S-WS-3784053.md#chart-notes)保存，不能将局部样本读数直接登记为全指数的数值。
 
 <a id="history-20261020"></a>
 ## 本对象的历史：2026年10月估值压缩与承接问题
 
-页面显示2026-10-20的报道称，KOSPI在当年第三次出现五日跌幅超过15%的调整，盈利预测仍上修，企业回购减速、外资净卖出与境内机构需求有限同时出现。该描述来自新闻及其引用的研究，本轮没有用交易所逐日数据重算五日跌幅或“三次”的窗口。[完整事件与8张原图](../30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md)保留这些观察和判断。
-
-这段历史提供了一个具体问题：远期估值降低后，哪些主体能够在卖方要求的时间内增加购买？[KOSPI三大买盘与边际承接](../20_mechanisms/KOSPI三大买盘与边际承接.md)分别讨论企业、外资和境内机构；[杠杆ETF再平衡的价格反馈](../20_mechanisms/杠杆ETF再平衡的价格反馈.md)解释即使基金净流出有限，存续规模仍怎样可能产生调仓。
+2026-10-20新闻将极低远期估值与企业回购减速、外资净卖出、本地机构需求有限放在同一情境中。它提出的研究问题是：按盈利预测变便宜以后，哪些主体能在卖方要求的时间内增加购买？[完整事件](../30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md)保存当时数字、解释及分期检验；[三大买盘关系](../20_mechanisms/KOSPI三大买盘与边际承接.md)维护各类买方的执行条件。
 
 ## 涉及的关系与比较对象
 

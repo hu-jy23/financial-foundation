@@ -26,7 +26,7 @@
 
 **Logged**: 2026-11-16
 **Priority**: medium
-**Status**: in_progress
+**Status**: resolved
 **Area**: infra
 
 ### Summary
@@ -37,3 +37,6 @@
 
 ### Suggested Fix
 要求原作者返修时，先确认历史agent可恢复；经明确授权另记接替返修者，保留原署名。
+
+### Resolution
+2026-11-16：用户明确批准三篇接替；revise_ai、revise_korea、revise_basis各完成返修，root复核采用。原作者及前次编辑归属保留。

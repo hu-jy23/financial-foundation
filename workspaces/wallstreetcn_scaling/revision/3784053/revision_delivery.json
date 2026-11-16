@@ -1,0 +1,121 @@
+{
+  "article_id": 3784053,
+  "original_writer": "/root/produce_korea",
+  "revision_writer": "/root/revise_korea",
+  "replacement_authorized_by_user": true,
+  "files": [
+    {
+      "path": "10_concepts/韩国综合股价指数KOSPI.md",
+      "draft_path": "drafts/10_concepts/韩国综合股价指数KOSPI.md",
+      "operation": "update",
+      "id": "C-S2-KOSPI",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "韩国综合股价指数KOSPI",
+      "why": "保留指数身份与估值/分位解释；详细样本名单归Source，本篇历史保留估值与购买条件的问题及入口。"
+    },
+    {
+      "path": "10_concepts/杠杆ETF.md",
+      "draft_path": "drafts/10_concepts/杠杆ETF.md",
+      "operation": "update",
+      "id": "C-S2-LEVERAGED-ETF",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "杠杆ETF",
+      "why": "保留日度复合、持仓五层与工具解释；10月案例缩为存续规模与内部调仓的短历史。",
+      "knowledge_dependencies": [
+        "C-FLOW-05"
+      ]
+    },
+    {
+      "path": "20_mechanisms/KOSPI三大买盘与边际承接.md",
+      "draft_path": "drafts/20_mechanisms/KOSPI三大买盘与边际承接.md",
+      "operation": "update",
+      "id": "R-S2-KOSPI-BUYERS",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "KOSPI三大买盘与边际承接",
+      "why": "保留三类买方与公司双重角色过程，链接既有两公司，图表校读归Source，短历史及预期接事件分期检验。",
+      "node_ids": [
+        "C-S2-KOSPI",
+        "C-LIQ-MARKET"
+      ],
+      "related_mechanism_ids": [
+        "R-S2-LETF-REBALANCE",
+        "R-MARKET-09"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-S2-KOSPI",
+            "C-LIQ-MARKET"
+          ],
+          "related_mechanism_ids": [
+            "R-S2-LETF-REBALANCE",
+            "R-MARKET-09"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md",
+      "draft_path": "drafts/30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md",
+      "operation": "update",
+      "id": "E-WS-3784053",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "韩国股市低估值与买盘收缩：2026年10月分析",
+      "why": "按低估值与购买、规则卖方、经营和跨市场解释组织；选5图，完整杠杆算例复用机制，补交易日/数周/季度检验。"
+    },
+    {
+      "path": "40_sources/S-WS-3784053.md",
+      "draft_path": "drafts/40_sources/S-WS-3784053.md",
+      "operation": "update",
+      "id": "S-WS-3784053",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "韩国股市低估值与买盘收缩：来源与核读范围",
+      "why": "保留全部8图直链和外部核读范围，集中剔除样本、回购年份、信号与产品分组细节。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "KR-01",
+      "status": "adopted",
+      "changes": "详细校读集中来源；KOSPI和杠杆ETF短历史及买盘历史去重，事件选图1/4/6/7/8。100/200/80/180/160完整算例只留现行再平衡机制，事件解释倍数恢复直觉后定位logic-1；SOX、再平衡机制、旧ETF/CTA全文保持。三星与SK海力士增加既有公司链接，未采用其10月28—29资料。",
+      "paths": [
+        "10_concepts/韩国综合股价指数KOSPI.md",
+        "10_concepts/杠杆ETF.md",
+        "20_mechanisms/KOSPI三大买盘与边际承接.md",
+        "30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md",
+        "40_sources/S-WS-3784053.md"
+      ]
+    },
+    {
+      "issue_id": "KR-02",
+      "status": "adopted",
+      "changes": "事件expectations按压力交易日及随后数日、随后数周、随后季度及预测更新分开检验，分别比较规则订单、短暂回补和持续承接、共同经营变化与韩国当地约束，并列支持/削弱和竞争解释。明确11月16后补设计；机构未给反转日/目标/概率的状态保留，一般机制旧条件推演不重写。",
+      "paths": [
+        "30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md#expectations",
+        "20_mechanisms/KOSPI三大买盘与边际承接.md#logic-1"
+      ]
+    }
+  ],
+  "unchanged_files": [
+    "10_concepts/费城半导体指数SOX.md",
+    "20_mechanisms/杠杆ETF再平衡的价格反馈.md",
+    "10_concepts/ETF申赎与二级市场交易.md",
+    "20_mechanisms/CTA趋势跟随的价格反馈.md"
+  ],
+  "new_nodes": 0,
+  "coverage_anchor_changes": [],
+  "coordinator_adjustments": [
+    "来源read_at改为本轮复读日，证据截止保留原值。"
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

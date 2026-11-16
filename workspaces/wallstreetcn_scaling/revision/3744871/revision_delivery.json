@@ -1,0 +1,151 @@
+{
+  "article_id": 3744871,
+  "files": [
+    {
+      "path": "20_mechanisms/基差交易.md",
+      "id": "R-DERIVATIVES-02",
+      "type": "mechanism",
+      "title": "基差交易",
+      "node_ids": [
+        "C-DERIV-15",
+        "C-DERIV-14",
+        "C-CREDIT-10",
+        "C-MONEY-10",
+        "C-LIQ-FUND",
+        "C-SECTOR-03",
+        "C-CREDIT-02",
+        "C-LIQ-MARKET",
+        "C-ASSET-UST",
+        "C-MONEY-CBBS",
+        "C-POL-QE"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-DERIV-15",
+            "C-MONEY-10",
+            "C-CREDIT-10",
+            "C-DERIV-14"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-DERIV-15",
+            "C-DERIV-14",
+            "C-CREDIT-10",
+            "C-MONEY-10",
+            "C-LIQ-FUND"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-SECTOR-03",
+            "C-CREDIT-02",
+            "C-LIQ-FUND",
+            "C-LIQ-MARKET",
+            "C-ASSET-UST"
+          ],
+          "related_mechanism_ids": [
+            "R-LIQ-SPIRAL"
+          ]
+        },
+        {
+          "anchor": "logic-4",
+          "node_ids": [
+            "C-MONEY-CBBS",
+            "C-POL-QE",
+            "C-ASSET-UST",
+            "C-DERIV-15",
+            "C-DERIV-14",
+            "C-LIQ-FUND"
+          ],
+          "related_mechanism_ids": []
+        }
+      ],
+      "related_mechanism_ids": [
+        "R-LIQ-SPIRAL"
+      ],
+      "entry_kind": "relation",
+      "operation": "update",
+      "draft_path": "drafts/20_mechanisms/基差交易.md",
+      "why": "一般主体、融资与政策解释主留机制；只缩短本篇重复历史，详细回归定位至来源，保留原逻辑及较晚研究。"
+    },
+    {
+      "path": "30_events/basis/2025年4月美债基差交易风险讨论.md",
+      "id": "E-WS-3744871",
+      "type": "analysis_note",
+      "title": "2025年4月美债基差交易风险讨论",
+      "entry_kind": "event",
+      "operation": "update",
+      "draft_path": "drafts/30_events/basis/2025年4月美债基差交易风险讨论.md",
+      "why": "按4月论证组织关键图与付款/承接过程，移出主体表和逐列校读，补数个结算日中可区分被动退出、其他策略和主动减风险的检验。"
+    },
+    {
+      "path": "40_sources/S-WS-3744871.md",
+      "id": "S-WS-3744871",
+      "type": "source_note",
+      "title": "华尔街见闻：基差交易与美债市场脆弱性",
+      "entry_kind": "source",
+      "operation": "update",
+      "draft_path": "drafts/40_sources/S-WS-3744871.md",
+      "why": "集中维护图读、四列回归与读取缺口，保留五份原图入口和原/接替作者，区分后补研究设计。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "BASIS-01",
+      "status": "adopted",
+      "changes": "主体表及完整通用过程主留机制，事件保留4幅关键图与当次付款/承接解释；逐列回归、净头寸/记账符号等详细校读集中Source，五份原图入口全保留。机制仅调整本篇重复历史及移出旧Step2制作说明，原作者与前编辑记入元数据/Source，原逻辑和较晚研究未改。"
+    },
+    {
+      "issue_id": "BASIS-02",
+      "status": "adopted",
+      "changes": "保留原数个结算及融资日窗口与11/13推演，新增标11/16后补的三组联合观察，区分实际反证与资料缺失，比较现金期货被动退出、其他对冲策略、主动风险收缩和共同利率重估。未新增后来结果或更长统一窗口。"
+    }
+  ],
+  "anchors_preserved": [
+    "participants",
+    "participant-observation",
+    "logic-1",
+    "logic-2",
+    "logic-3",
+    "logic-4",
+    "news-window",
+    "unwind-2020",
+    "dealer-capacity",
+    "supply-regression",
+    "hedged-purchase",
+    "expectations"
+  ],
+  "coverage_changes_needed": [],
+  "new_nodes": 0,
+  "revision_author": "/root/revise_basis",
+  "original_step2_author": "/root/produce_basis",
+  "validation": {
+    "article_id": 3744871,
+    "local_links_and_anchors_checked": 79,
+    "coverage_items_checked": 20,
+    "event_images": 4,
+    "source_original_image_links": 5,
+    "protected_sections": {
+      "logic1_detailed": true,
+      "logic2_detailed": true,
+      "logic3_logic4": true,
+      "late_2026_research": true,
+      "late_2025_strategy_classification": true,
+      "prior_external_sources": true
+    },
+    "issues": [],
+    "passed": true
+  },
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

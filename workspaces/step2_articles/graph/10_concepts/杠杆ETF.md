@@ -4,14 +4,18 @@ type: concept
 title: 杠杆ETF
 status: step2_draft
 workspace_reviewed_by: /root
-workspace_reviewed_on: 2026-11-13
-updated: 2026-11-13
+workspace_reviewed_on: 2026-11-16
+updated: 2026-11-16
 evidence_as_of: 2026-10-20
 draft_author: /root/produce_korea
 model: inherited_unverified
 reasoning_effort: inherited_unverified
 source_ids: [S-WS-3784053]
 knowledge_dependencies: [C-FLOW-05]
+editor: /root/revise_korea
+editing_status: step2_draft
+revision_author: /root/revise_korea
+revision_status: reviewed
 ---
 
 # 杠杆ETF
@@ -54,9 +58,7 @@ knowledge_dependencies: [C-FLOW-05]
 <a id="history-20261020"></a>
 ## 本对象的历史：韩国市场的存续规模与有限流出
 
-2026-10-20新闻引用的图6同时展示杠杆ETF AUM和累计流入。左图将规模分为境内宽基、离岸和境内单股三组；右图指出境内单股流出有限、离岸产品近期又有流入。报道据此担心存续杠杆规模仍大，急跌时可能继续产生再平衡卖压。
-
-原图没有逐产品的倍数、方向、合同和交易记录，本轮也未取得这些底表。因此保留图示规模状态与机构风险判断，在[事件的ETF部分](../30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md#etf)维护原图及其具体口径；没有将总AUM换算成已经发生或未来确定的卖出金额。
+2026-10-20韩国报道观察到杠杆ETF在回撤后仍有较大存续规模、部分产品流出有限，担心下一急跌日继续形成减敞口需求。这个案例把净申赎与存续基金内部交易分开：即使份额没有减少，价格变化仍可触发倍数恢复。[完整事件](../30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md#etf)保存机构判断及关键图，[来源](../40_sources/S-WS-3784053.md#chart-notes)保存产品分组和未取得的规则输入；未将总AUM换算成实际卖量。
 
 ## 涉及的关系
 
