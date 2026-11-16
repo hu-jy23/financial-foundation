@@ -10,7 +10,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "证券与资管业",
-      "why": "补2025年8月金融交易活跃先映入服务业指标的判断，区分交易/产出与财富消费；保留2026-01-15原截止。"
+      "why": "限本篇services-202508短历史，保留交易服务业务解释，移出16%/MA12校读，保护其他贡献。"
     },
     {
       "path": "30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md",
@@ -20,7 +20,19 @@
       "type": "analysis_note",
       "entry_kind": "event",
       "title": "股市升温与实体分化：2025年8月民生宏观预判",
-      "why": "保存2025年8月服务、消费、出口、工业、价格、就业及财政的分支预判，保留9张图与当时信息窗口。"
+      "why": "复用PMI基础，按金融服务及家庭/企业支出接续组织；宏观驱动分别展开，区分当月核验与随后1—3个月传播检验。",
+      "node_ids": [
+        "C-ASIA-01",
+        "C-SECTOR-03",
+        "C-BOND-04",
+        "C-CHINA-02",
+        "C-CHINA-18",
+        "C-MACRO-11"
+      ],
+      "related_mechanism_ids": [
+        "R-CN-CREDIT",
+        "R-GEOPOLITICS-02"
+      ]
     },
     {
       "path": "40_sources/S-WS-3754228.md",
@@ -30,7 +42,7 @@
       "type": "source_note",
       "entry_kind": "source",
       "title": "民生2025年8月经济预判：来源与核读范围",
-      "why": "登记全文/9图、可读官方统计方法、图文口径与具体未取得材料。"
+      "why": "集中16%/MA12等技术校读，补9图原件索引，更新PMI归属及当时预测/后补研究设计边界。"
     }
   ],
   "coverage": [
@@ -82,5 +94,6 @@
     "10_concepts/证券与资管业.md",
     "30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md",
     "40_sources/S-WS-3754228.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3754228/audit.md"
 }

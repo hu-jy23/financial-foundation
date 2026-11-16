@@ -20,7 +20,7 @@
       "type": "concept",
       "title": "拍卖、投标倍数与尾差",
       "entry_kind": "concept",
-      "why": "补终端获配、外国投资者类别、尾差价格的差别及2026年10月逐期限反例。"
+      "why": "保留高份额与边际价格的稳定解释，10月例证收为十年一例，逐期限材料由事件原图维护。"
     },
     {
       "path": "20_mechanisms/收益率曲线陡峭化与平坦化.md",
@@ -30,7 +30,7 @@
       "type": "mechanism",
       "title": "收益率曲线陡峭化与平坦化",
       "entry_kind": "relation",
-      "why": "logic-1补10s/30s相对风险、DV01配比及1y1yOIS回归残差的机构判断。",
+      "why": "一般DV01组合继续主维护于logic-1；10月回归历史和预期改为短入口，连接政策重估窗口。",
       "node_ids": [
         "C-IR-CURVE",
         "C-IR-POLICY",
@@ -67,7 +67,7 @@
       "type": "mechanism",
       "title": "国债供给的定价机制",
       "entry_kind": "relation",
-      "why": "logic-3补终端需求与边际让价并存、外资身份识别和JPM反对削减长端发行的观点，保留6月政策历史。",
+      "why": "只同步本篇10月预期为随后一至两轮同期限拍卖/TIC检验，保留六月返修、其他更新及logic-2。",
       "node_ids": [
         "C-FISCAL-DEFICIT",
         "C-MONEY-13",
@@ -190,7 +190,7 @@
       "type": "analysis_note",
       "title": "美债反弹、曲线与拍卖承接：摩根大通2026年10月判断",
       "entry_kind": "event",
-      "why": "保存跨资产变动、曲线、一级承接、技术区间及8张分析图，逐处说明窗口和图文差异。",
+      "why": "按反弹、相对曲线、数量与让价组织；删重复抄表和完整DV01复述，选4幅关键图，分三个后补观察窗。",
       "node_ids": [
         "C-ASSET-UST",
         "C-WS-3784306-NDX",
@@ -212,7 +212,7 @@
       "type": "source_note",
       "title": "摩根大通美债反弹研究：来源与核读范围",
       "entry_kind": "source",
-      "why": "登记全文/9图位、Nasdaq及财政部分类定向核读，区分8分析图与1推广图。"
+      "why": "定位全部9图位，承接统计输入、图7样本和技术位校核，说明当前事件选图与后补窗口边界。"
     }
   ],
   "coverage": [
@@ -269,5 +269,6 @@
     "20_mechanisms/国债供给的定价机制.md",
     "30_events/markets/美债反弹、曲线与拍卖承接：摩根大通2026年10月判断.md",
     "40_sources/S-WS-3784306.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3784306/audit.md"
 }

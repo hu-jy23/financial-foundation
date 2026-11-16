@@ -1,0 +1,245 @@
+{
+  "article_id": "3784306",
+  "files": [
+    {
+      "path": "10_concepts/拍卖、投标倍数与尾差.md",
+      "draft_path": "drafts/10_concepts/拍卖、投标倍数与尾差.md",
+      "operation": "update",
+      "id": "C-BOND-14",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "拍卖、投标倍数与尾差",
+      "why": "保留高份额与边际价格的稳定解释，10月例证收为十年一例，逐期限材料由事件原图维护。"
+    },
+    {
+      "path": "20_mechanisms/收益率曲线陡峭化与平坦化.md",
+      "draft_path": "drafts/20_mechanisms/收益率曲线陡峭化与平坦化.md",
+      "operation": "update",
+      "id": "R-IR-CURVE-SHAPE",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "收益率曲线陡峭化与平坦化",
+      "why": "一般DV01组合继续主维护于logic-1；10月回归历史和预期改为短入口，连接政策重估窗口。",
+      "node_ids": [
+        "C-IR-CURVE",
+        "C-IR-POLICY",
+        "C-IR-TERM",
+        "C-ASSET-UST"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-IR-CURVE",
+            "C-IR-POLICY",
+            "C-ASSET-UST"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-IR-CURVE",
+            "C-IR-TERM",
+            "C-ASSET-UST"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "20_mechanisms/国债供给的定价机制.md",
+      "draft_path": "drafts/20_mechanisms/国债供给的定价机制.md",
+      "operation": "update",
+      "id": "R-FISCAL-LONGYIELD",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "国债供给的定价机制",
+      "why": "只同步本篇10月预期为随后一至两轮同期限拍卖/TIC检验，保留六月返修、其他更新及logic-2。",
+      "node_ids": [
+        "C-FISCAL-DEFICIT",
+        "C-MONEY-13",
+        "C-LIQ-FUND",
+        "C-IR-TERM",
+        "C-MONEY-CBBS",
+        "C-POL-QE",
+        "C-POL-QT",
+        "C-IR-REAL"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-FISCAL-DEFICIT",
+            "C-MONEY-13",
+            "C-LIQ-FUND",
+            "C-IR-TERM"
+          ],
+          "context_terms": [
+            {
+              "legacy_id": "C-FISCAL-07",
+              "name": "国债总发行与净发行"
+            },
+            {
+              "legacy_id": "C-FISCAL-DURATION",
+              "name": "债务期限结构与净久期供给"
+            },
+            {
+              "legacy_id": "C-BOND-DURATION",
+              "name": "久期、修正久期与DV01"
+            }
+          ],
+          "related_mechanism_ids": [],
+          "previous_node_ids": [
+            "C-FISCAL-DEFICIT",
+            "C-FISCAL-07",
+            "C-MONEY-13",
+            "C-FISCAL-DURATION",
+            "C-BOND-DURATION",
+            "C-LIQ-FUND",
+            "C-IR-TERM"
+          ]
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-MONEY-CBBS",
+            "C-POL-QE",
+            "C-POL-QT",
+            "C-IR-TERM"
+          ],
+          "context_terms": [
+            {
+              "legacy_id": "C-FISCAL-07",
+              "name": "国债总发行与净发行"
+            },
+            {
+              "legacy_id": "C-FISCAL-DURATION",
+              "name": "债务期限结构与净久期供给"
+            }
+          ],
+          "related_mechanism_ids": [],
+          "previous_node_ids": [
+            "C-MONEY-CBBS",
+            "C-POL-QE",
+            "C-POL-QT",
+            "C-FISCAL-07",
+            "C-FISCAL-DURATION",
+            "C-IR-TERM"
+          ]
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-IR-REAL",
+            "C-IR-TERM"
+          ],
+          "context_terms": [
+            {
+              "legacy_id": "C-FLOW-07",
+              "name": "基金流量与资产配置"
+            },
+            {
+              "legacy_id": "C-FLOW-14",
+              "name": "风险偏好与避险需求"
+            },
+            {
+              "legacy_id": "C-FX-08",
+              "name": "利差与汇率对冲成本"
+            },
+            {
+              "legacy_id": "C-MAC-OUTPUTGAP",
+              "name": "产出缺口"
+            },
+            {
+              "legacy_id": "C-POL-REACTION",
+              "name": "政策反应函数"
+            }
+          ],
+          "related_mechanism_ids": [],
+          "previous_node_ids": [
+            "C-FLOW-07",
+            "C-FLOW-14",
+            "C-FX-08",
+            "C-MAC-OUTPUTGAP",
+            "C-POL-REACTION",
+            "C-IR-REAL",
+            "C-IR-TERM"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/美债反弹、曲线与拍卖承接：摩根大通2026年10月判断.md",
+      "draft_path": "drafts/30_events/markets/美债反弹、曲线与拍卖承接：摩根大通2026年10月判断.md",
+      "operation": "update",
+      "id": "E-WS-3784306",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "美债反弹、曲线与拍卖承接：摩根大通2026年10月判断",
+      "why": "按反弹、相对曲线、数量与让价组织；删重复抄表和完整DV01复述，选4幅关键图，分三个后补观察窗。",
+      "node_ids": [
+        "C-ASSET-UST",
+        "C-WS-3784306-NDX",
+        "C-BOND-14",
+        "C-IR-CURVE",
+        "C-RATE-07"
+      ],
+      "related_mechanism_ids": [
+        "R-ASSET-STOCKBOND",
+        "R-IR-CURVE-SHAPE",
+        "R-FISCAL-LONGYIELD"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3784306.md",
+      "draft_path": "drafts/40_sources/S-WS-3784306.md",
+      "operation": "update",
+      "id": "S-WS-3784306",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "摩根大通美债反弹研究：来源与核读范围",
+      "why": "定位全部9图位，承接统计输入、图7样本和技术位校核，说明当前事件选图与后补窗口边界。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "3784306-01",
+      "action": "adopt",
+      "change": "事件围绕反弹、相对曲线、数量与边际价格重排；选图2/3/4/6，图4/6不再抄完整表，全部9图位在Source可点击定位。统计输入、图7部分月和技术位细节移来源，保留核心纠错与正面解释。"
+    },
+    {
+      "issue_id": "3784306-02",
+      "action": "adopt",
+      "change": "完整DV01逻辑主留曲线机制，事件仅解释本次相对表达及回归；拍卖页保留稳定认识和十年短例证，逐期限对照主留事件原图。供给页只改本篇十月预期。"
+    },
+    {
+      "issue_id": "3784306-03",
+      "action": "adopt",
+      "change": "按近期反弹、随后政策重估曲线、随后一至两轮可比期限拍卖及对应TIC更新分窗检验，每项有增强/削弱判断的具体变化；均标本库11月16后补安排，没有指定JPM退出日。机制只留对应短预期与定位。"
+    },
+    {
+      "issue_id": "cross_article_protection",
+      "action": "retain",
+      "change": "纳指100无需修改；国债供给六月段与更新、logic-2及其他篇贡献按现行base保留，只有本篇十月预期和editor变更。"
+    }
+  ],
+  "validation": {
+    "scope": "本篇5份修改稿及保护区定向检查",
+    "local_links_and_anchors_checked": 120,
+    "event_embedded_figures": 4,
+    "source_original_figure_links": 9,
+    "gov_non_october_body_unchanged": true,
+    "curve_logic2_and_later_unchanged": true,
+    "auction_other_body_unchanged": true,
+    "issues": [],
+    "passed": true
+  },
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

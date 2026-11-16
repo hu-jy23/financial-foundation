@@ -1,0 +1,72 @@
+{
+  "article_id": 3754228,
+  "files": [
+    {
+      "path": "10_concepts/证券与资管业.md",
+      "draft_path": "drafts/10_concepts/证券与资管业.md",
+      "operation": "update",
+      "id": "C-SECTOR-03",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "证券与资管业",
+      "why": "限本篇services-202508短历史，保留交易服务业务解释，移出16%/MA12校读，保护其他贡献。"
+    },
+    {
+      "path": "30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md",
+      "draft_path": "drafts/30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md",
+      "operation": "update",
+      "id": "E-WS-3754228",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "股市升温与实体分化：2025年8月民生宏观预判",
+      "why": "复用PMI基础，按金融服务及家庭/企业支出接续组织；宏观驱动分别展开，区分当月核验与随后1—3个月传播检验。",
+      "node_ids": [
+        "C-ASIA-01",
+        "C-SECTOR-03",
+        "C-BOND-04",
+        "C-CHINA-02",
+        "C-CHINA-18",
+        "C-MACRO-11"
+      ],
+      "related_mechanism_ids": [
+        "R-CN-CREDIT",
+        "R-GEOPOLITICS-02"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3754228.md",
+      "draft_path": "drafts/40_sources/S-WS-3754228.md",
+      "operation": "update",
+      "id": "S-WS-3754228",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "民生2025年8月经济预判：来源与核读范围",
+      "why": "集中16%/MA12等技术校读，补9图原件索引，更新PMI归属及当时预测/后补研究设计边界。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "AUG-01",
+      "status": "adopted",
+      "changes": "证券页限业务短历史；事件接入C-MACRO-11，沿金融服务—家庭/企业支出组织，外需/反内卷/天气/财政分别解释。16%/MA12等校读集中来源，正文嵌6图，来源定位全部9图。",
+      "paths": [
+        "10_concepts/证券与资管业.md#services-202508",
+        "30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md#services",
+        "40_sources/S-WS-3754228.md#chart-notes"
+      ]
+    },
+    {
+      "issue_id": "AUG-02",
+      "status": "adopted",
+      "changes": "保留8月27针对8月的预测，先核当月各项读数，再看随后1—3月家庭支出收入、发行资金用途和订单雇佣；补充政策/收入/天气竞争解释及财政独立资金链，未加入后来结果。",
+      "paths": [
+        "30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md#outlook"
+      ]
+    }
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

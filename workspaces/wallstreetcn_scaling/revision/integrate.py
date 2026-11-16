@@ -37,7 +37,7 @@ def integrate(article_id):
                     if result.returncode:
                         raise ValueError(f'Merge conflict: {p}\n{result.stdout[:2500]}')
                     content = result.stdout
-        content = content.replace('revision_status: pending_review', 'revision_status: reviewed')
+        content = content.replace('revision_status: pending_review', 'revision_status: reviewed').replace('revision_status: draft\n', 'revision_status: reviewed\n')
         if 'workspace_reviewed_by:' not in content.split('---', 2)[1]:
             content = content.replace('\nupdated:', '\nworkspace_reviewed_by: /root\nworkspace_reviewed_on: 2026-11-16\nupdated:', 1)
         prepared.append((p, content))
