@@ -1,0 +1,96 @@
+{
+  "article_id": 3771926,
+  "files": [
+    {
+      "path": "10_concepts/主动权益公募基金.md",
+      "draft_path": "drafts/10_concepts/主动权益公募基金.md",
+      "operation": "update",
+      "id": "C-WS-3758183-ACTIVE-EQUITY",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "主动权益公募基金",
+      "why": "仅重写五月段：通用募集解释由对象维护，三峰历史与后补检验定位事件，保留八月和三季返修。",
+      "parent_ids": [
+        "C-SECTOR-03"
+      ],
+      "parent_relation": "thematic_collection"
+    },
+    {
+      "path": "10_concepts/保险资金与长期资金.md",
+      "draft_path": "drafts/10_concepts/保险资金与长期资金.md",
+      "operation": "update",
+      "id": "C-ASIA-06",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "保险资金与长期资金",
+      "why": "补OCI股利利润/现金、价格变动列报到高股息偏好的条件连接，保护资本、负债及既有制度统计。"
+    },
+    {
+      "path": "30_events/markets/A股主线、资金偏好与风格切换：国投2026年5月方法讨论.md",
+      "draft_path": "drafts/30_events/markets/A股主线、资金偏好与风格切换：国投2026年5月方法讨论.md",
+      "operation": "update",
+      "id": "E-WS-3771926",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "A股主线、资金偏好与风格切换：国投2026年5月方法讨论",
+      "why": "按资金偏好、经营/原仓位、利率衔接重组；校正宽基ETF银行承接路径，保留关键条件与6图，展开四类分支检验。",
+      "node_ids": [
+        "C-ASIA-01",
+        "C-WS-3758183-ACTIVE-EQUITY",
+        "C-ASIA-06",
+        "C-ASIA-04",
+        "C-ASIA-03",
+        "C-ASIA-05",
+        "C-BOND-03"
+      ],
+      "related_mechanism_ids": [
+        "R-EQ-DIVIDEND",
+        "R-MARKET-04"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3771926.md",
+      "draft_path": "drafts/40_sources/S-WS-3771926.md",
+      "operation": "update",
+      "id": "S-WS-3771926",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "国投A股主线方法讨论：来源与核读范围",
+      "why": "逐张直达全部12原图，集中保存单位、窗口和指标构造核对，连接事件与两个归属页。"
+    }
+  ],
+  "responses": [
+    {
+      "issue": "T1",
+      "status": "adopted",
+      "change": "保险OCI节接通股利损益/到账现金、价差列报与高股息偏好；事件说明沪深300广泛成分、银行权重及现金/实物申购、库存交付的不同路径，不推定已实际增配。"
+    },
+    {
+      "issue": "T2",
+      "status": "adopted",
+      "change": "事件沿资金偏好—经营及原仓位—利率条件重排，保留6张关键图；Source逐张直达12原件并维护细部核对。基金只改五月段，OCI通用知识集中保险页。"
+    },
+    {
+      "issue": "T3",
+      "status": "adopted",
+      "change": "新增11/16后补检验设计：沿季度至半年及随后可比披露分别区分渠道买盘、PPI利润、同组出售与承接、利率和经营/配置，保留支持和削弱各解释的不同观察；未补后来结果或规则。"
+    }
+  ],
+  "checks": {
+    "local_links_checked": 62,
+    "event_embedded_figures": 6,
+    "source_original_figure_links": 12,
+    "all_12_figure_ids": true,
+    "protected_other_contributions": {
+      "10_concepts/主动权益公募基金.md": true,
+      "10_concepts/保险资金与长期资金.md": true
+    },
+    "issues": [],
+    "passed": true
+  },
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

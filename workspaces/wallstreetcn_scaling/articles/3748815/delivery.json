@@ -10,7 +10,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "财政赤字与初级赤字",
-      "why": "补十年提案增量、分年度措施与当期增长的区别，以及提案增赤字和总预测下修的不同基线。"
+      "why": "本篇补录精炼为提案与总预测基线的短历史，金额及具体时序归事件。"
     },
     {
       "path": "10_concepts/美元指数DXY与广义美元指数.md",
@@ -20,7 +20,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "美元指数DXY与广义美元指数",
-      "why": "补2025年6月机构到2025年底及2026年的美元、欧元和日元预测，保留899后来移除的信息与原窗口。"
+      "why": "缩为美元预测的测量入口，目标/后续归事件，保护2026指数方法与修订。"
     },
     {
       "path": "20_mechanisms/国债供给的定价机制.md",
@@ -30,7 +30,7 @@
       "type": "mechanism",
       "entry_kind": "relation",
       "title": "国债供给的定价机制",
-      "why": "logic-1补短券存量与再融资权衡，logic-3补外国投资者期限分布与税后回报条件。",
+      "why": "精炼2025年6月logic1/3补录并补检验入口，保留3784306较晚窗口和logic2。",
       "node_ids": [
         "C-FISCAL-DEFICIT",
         "C-MONEY-13",
@@ -153,7 +153,7 @@
       "type": "analysis_note",
       "entry_kind": "event",
       "title": "众院财政提案、899税收争议与美元预期：2025年6月",
-      "why": "保存财政、税收与跨境需求的完整论证及10张分析图，按真实日期接续899移除及立法状态。",
+      "why": "补相对增长经资产相对回报、配置/套保到美元需求的条件过程；分立法、2025年底、2026检验，选择7张关键图就近配实际内容图注。",
       "node_ids": [
         "C-FISCAL-DEFICIT",
         "C-GLOBAL-02",
@@ -175,7 +175,7 @@
       "type": "source_note",
       "entry_kind": "source",
       "title": "摩根士丹利财政提案分析：来源与核读范围",
-      "why": "登记全文、10分析图和1推广图的读取，定向核国会众院税收文本及后续官方信息。"
+      "why": "集中次要口径核读及11图位直达，记录图1近零到收缩路径与实际范围。"
     }
   ],
   "coverage": [
@@ -214,5 +214,6 @@
     "20_mechanisms/国债供给的定价机制.md",
     "30_events/markets/众院财政提案、899税收争议与美元预期：2025年6月.md",
     "40_sources/S-WS-3748815.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3748815/audit.md"
 }

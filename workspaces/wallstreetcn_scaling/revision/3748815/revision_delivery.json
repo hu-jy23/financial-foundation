@@ -1,0 +1,205 @@
+{
+  "article_id": 3748815,
+  "files": [
+    {
+      "path": "30_events/markets/众院财政提案、899税收争议与美元预期：2025年6月.md",
+      "draft_path": "drafts/30_events/markets/众院财政提案、899税收争议与美元预期：2025年6月.md",
+      "operation": "update",
+      "id": "E-WS-3748815",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "众院财政提案、899税收争议与美元预期：2025年6月",
+      "why": "补相对增长经资产相对回报、配置/套保到美元需求的条件过程；分立法、2025年底、2026检验，选择7张关键图就近配实际内容图注。",
+      "node_ids": [
+        "C-FISCAL-DEFICIT",
+        "C-GLOBAL-02",
+        "C-ASSET-UST",
+        "C-FX-07",
+        "C-FX-USD",
+        "C-FX-13"
+      ],
+      "related_mechanism_ids": [
+        "R-FISCAL-LONGYIELD",
+        "R-INTERNATIONAL-13"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3748815.md",
+      "draft_path": "drafts/40_sources/S-WS-3748815.md",
+      "operation": "update",
+      "id": "S-WS-3748815",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "摩根士丹利财政提案分析：来源与核读范围",
+      "why": "集中次要口径核读及11图位直达，记录图1近零到收缩路径与实际范围。"
+    },
+    {
+      "path": "10_concepts/财政赤字与初级赤字.md",
+      "draft_path": "drafts/10_concepts/财政赤字与初级赤字.md",
+      "operation": "update",
+      "id": "C-FISCAL-DEFICIT",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "财政赤字与初级赤字",
+      "why": "本篇补录精炼为提案与总预测基线的短历史，金额及具体时序归事件。"
+    },
+    {
+      "path": "10_concepts/美元指数DXY与广义美元指数.md",
+      "draft_path": "drafts/10_concepts/美元指数DXY与广义美元指数.md",
+      "operation": "update",
+      "id": "C-FX-07",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "美元指数DXY与广义美元指数",
+      "why": "缩为美元预测的测量入口，目标/后续归事件，保护2026指数方法与修订。"
+    },
+    {
+      "path": "20_mechanisms/国债供给的定价机制.md",
+      "draft_path": "drafts/20_mechanisms/国债供给的定价机制.md",
+      "operation": "update",
+      "id": "R-FISCAL-LONGYIELD",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "国债供给的定价机制",
+      "why": "精炼2025年6月logic1/3补录并补检验入口，保留3784306较晚窗口和logic2。",
+      "node_ids": [
+        "C-FISCAL-DEFICIT",
+        "C-MONEY-13",
+        "C-LIQ-FUND",
+        "C-IR-TERM",
+        "C-MONEY-CBBS",
+        "C-POL-QE",
+        "C-POL-QT",
+        "C-IR-REAL"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-FISCAL-DEFICIT",
+            "C-MONEY-13",
+            "C-LIQ-FUND",
+            "C-IR-TERM"
+          ],
+          "context_terms": [
+            {
+              "legacy_id": "C-FISCAL-07",
+              "name": "国债总发行与净发行"
+            },
+            {
+              "legacy_id": "C-FISCAL-DURATION",
+              "name": "债务期限结构与净久期供给"
+            },
+            {
+              "legacy_id": "C-BOND-DURATION",
+              "name": "久期、修正久期与DV01"
+            }
+          ],
+          "related_mechanism_ids": [],
+          "previous_node_ids": [
+            "C-FISCAL-DEFICIT",
+            "C-FISCAL-07",
+            "C-MONEY-13",
+            "C-FISCAL-DURATION",
+            "C-BOND-DURATION",
+            "C-LIQ-FUND",
+            "C-IR-TERM"
+          ]
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-MONEY-CBBS",
+            "C-POL-QE",
+            "C-POL-QT",
+            "C-IR-TERM"
+          ],
+          "context_terms": [
+            {
+              "legacy_id": "C-FISCAL-07",
+              "name": "国债总发行与净发行"
+            },
+            {
+              "legacy_id": "C-FISCAL-DURATION",
+              "name": "债务期限结构与净久期供给"
+            }
+          ],
+          "related_mechanism_ids": [],
+          "previous_node_ids": [
+            "C-MONEY-CBBS",
+            "C-POL-QE",
+            "C-POL-QT",
+            "C-FISCAL-07",
+            "C-FISCAL-DURATION",
+            "C-IR-TERM"
+          ]
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-IR-REAL",
+            "C-IR-TERM"
+          ],
+          "context_terms": [
+            {
+              "legacy_id": "C-FLOW-07",
+              "name": "基金流量与资产配置"
+            },
+            {
+              "legacy_id": "C-FLOW-14",
+              "name": "风险偏好与避险需求"
+            },
+            {
+              "legacy_id": "C-FX-08",
+              "name": "利差与汇率对冲成本"
+            },
+            {
+              "legacy_id": "C-MAC-OUTPUTGAP",
+              "name": "产出缺口"
+            },
+            {
+              "legacy_id": "C-POL-REACTION",
+              "name": "政策反应函数"
+            }
+          ],
+          "related_mechanism_ids": [],
+          "previous_node_ids": [
+            "C-FLOW-07",
+            "C-FLOW-14",
+            "C-FX-08",
+            "C-MAC-OUTPUTGAP",
+            "C-POL-REACTION",
+            "C-IR-REAL",
+            "C-IR-TERM"
+          ]
+        }
+      ]
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "T1",
+      "status": "adopted",
+      "change": "事件#dollar加本库条件解释：相对增长修正盈利/短率预期、改变相对税后回报，经配置与套保进入美元交易；保留更高美国利率、其他地区更弱、避险与融资需求。未新增机构利率预测。"
+    },
+    {
+      "issue_id": "T2",
+      "status": "adopted",
+      "change": "旧页短历史与含义，事件主维护数字/争议；7张关键图就近展示，source直达10分析图和1推广图及次要核读。图1按2027近零、2028明显收缩解释，不再造标题矛盾。"
+    },
+    {
+      "issue_id": "T3",
+      "status": "adopted",
+      "change": "事件#later分立法/税制消息、2025年底、2026窗口；899撤出仅削弱特定税负前提，其余增长、最终财政和融资各自核。保留预测目标、DXY起点缺失，不加后来行情。"
+    }
+  ],
+  "coordinator_adjustments": [
+    "将MS原融资判断与11月16日本库后补检验分开标注，避免混归属。"
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

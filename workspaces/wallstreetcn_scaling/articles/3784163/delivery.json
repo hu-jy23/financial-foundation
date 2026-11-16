@@ -10,7 +10,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "日经225指数",
-      "why": "补具体日本权益基准、调整价格加权与汇率/收益版本，保存10月AI美元观察。"
+      "why": "保留定义与构造，10月历史仅留指数观察用途；双轴和样本细节归事件/来源。"
     },
     {
       "path": "10_concepts/印度Nifty 50指数.md",
@@ -20,7 +20,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "印度Nifty 50指数",
-      "why": "补印度50股自由流通加权基准与币种版本，保存美元敏感性假说。"
+      "why": "保留权重与币种说明，历史比较短接事件及原图，减少重复解释。"
     },
     {
       "path": "10_concepts/黄金.md",
@@ -30,7 +30,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "黄金",
-      "why": "补10月22日AI对冲配置、91段美元跌样本与本币/产品回报区别。"
+      "why": "仅精简本篇十月历史；样本比例、三状态和后补检验统一定位事件，保护一月和十一月内容。"
     },
     {
       "path": "20_mechanisms/黄金的机会成本机制.md",
@@ -40,7 +40,7 @@
       "type": "mechanism",
       "entry_kind": "relation",
       "title": "黄金的机会成本机制",
-      "why": "在logic-1/3补名义收益率反例观察与AI再配置、美元现金压力两种保护状态，保留原逻辑。",
+      "why": "保留通用保护价值/美元现金约束链，缩短本篇两个历史插入，分开后补检验并保护WGC/FOMC原文。",
       "node_ids": [
         "C-IR-REAL",
         "C-ASSET-GOLD",
@@ -128,7 +128,7 @@
       "type": "analysis_note",
       "entry_kind": "event",
       "title": "AI风险的黄金对冲与美元状态：中金2026年10月判断",
-      "why": "保存AI美元两路径、跨市场分化、资本开支预测、三种情景、黄金美债比较及11图。",
+      "why": "集中数字、三状态与条件样本，补订单/美元回款及支付联系；保留5关键图并写图注；将后补检验分为融资、2027预期与实际保护。",
       "node_ids": [
         "C-ASSET-GOLD",
         "C-FX-USD",
@@ -156,7 +156,7 @@
       "type": "source_note",
       "entry_kind": "source",
       "title": "中金AI对冲研究：来源与核读范围",
-      "why": "登记转载11图、官方指数定义版本及实际核读范围。"
+      "why": "11张原图逐张直达，集中次要读图/口径及未取得底表说明，交代返修范围。"
     }
   ],
   "coverage": [
@@ -222,5 +222,6 @@
     "20_mechanisms/黄金的机会成本机制.md",
     "30_events/markets/AI风险的黄金对冲与美元状态：中金2026年10月判断.md",
     "40_sources/S-WS-3784163.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3784163/audit.md"
 }

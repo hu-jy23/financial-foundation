@@ -116,7 +116,7 @@
       "source": "materials/wallstreetcn/SourcePost/趋势、抱团与疯狂——A股“抓主线”投资方法论/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3771926/delivery.json",
       "writer": "/root/scale_13",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3771926"
     },
     {
@@ -125,7 +125,7 @@
       "source": "materials/wallstreetcn/SourcePost/中金：如何对冲AI风险？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3784163/delivery.json",
       "writer": "/root/scale_14",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3784163"
     },
     {
@@ -134,7 +134,7 @@
       "source": "materials/wallstreetcn/SourcePost/图解特朗普“大漂亮”法案：财政刺激力度、899条款“资本税”、对美债、美元影响有多大？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3748815/delivery.json",
       "writer": "/root/scale_15",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3748815"
     },
     {
@@ -143,7 +143,8 @@
       "source": "materials/wallstreetcn/SourcePost/美债本轮反弹的持续性如何？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3784306/delivery.json",
       "writer": "/root/scale_16",
-      "status": "pending_review"
+      "status": "reviewing",
+      "reviewer": "/root/audit_3784306"
     },
     {
       "article_id": 3754228,
@@ -151,7 +152,8 @@
       "source": "materials/wallstreetcn/SourcePost/8月经济：股市涨能否带动实体反弹？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3754228/delivery.json",
       "writer": "/root/scale_17",
-      "status": "pending_review"
+      "status": "reviewing",
+      "reviewer": "/root/audit_3754228"
     },
     {
       "article_id": 3749421,
@@ -159,7 +161,8 @@
       "source": "materials/wallstreetcn/SourcePost/当前市场的五大共识与五大预期差/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3749421/delivery.json",
       "writer": "/root/scale_18",
-      "status": "pending_review"
+      "status": "reviewing",
+      "reviewer": "/root/audit_3749421"
     },
     {
       "article_id": 3785076,

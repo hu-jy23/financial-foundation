@@ -5,6 +5,11 @@ import json,html,os,re,ast,yaml
 from markdown_it import MarkdownIt
 R=Path(__file__).resolve().parent;W=R.parent/'step2_articles';G=W/'graph';ROOT=R.parents[1]
 run=json.loads((R/'run.json').read_text());M=MarkdownIt('commonmark',{'html':True}).enable('table')
+revision_path=R/'revision/run.json'
+revision=json.loads(revision_path.read_text()) if revision_path.exists() else None
+revision_done={t['article_id'] for t in revision['tasks'] if t['status']=='revised'} if revision else set()
+revision_note=(f'<p><strong>逐篇独立审阅及原作者返修：{len(revision_done)}/30篇已采用。</strong> '
+               f'<a href="revision/{"汇总.md" if (R/"revision/汇总.md").exists() else "run.json"}">审阅与返修记录</a></p>') if revision else ''
 PARENT_LABELS={'concrete_subject':'具体主体','thematic_collection':'专题集合','instrument_specific_basis':'特定工具的基差','instrument_subtype':'工具细类','company_product':'公司产品线','policy_subtype':'政策工具细类'}
 K={'concept':'概念','subconcept':'子概念','relation':'关系','subrelation':'子关系','event':'事件分析','source':'来源记录'}
 css=next(ast.literal_eval(t.value) for t in ast.parse((W/'build_reader.py').read_text()).body if isinstance(t,ast.Assign) and any(isinstance(a,ast.Name) and a.id=='css' for a in t.targets))
@@ -12,7 +17,7 @@ def E(s):return html.escape(str(s),quote=True)
 def meta(path):return yaml.safe_load((G/path).read_text().split('---',2)[1])
 cases=[]
 for name in ['ai','korea','basis']:
- d=json.loads((W/'deliveries'/f'{name}.json').read_text());cases.append({'id':d['article_id'],'title':d.get('title',{'ai':'AI CDS','korea':'韩国股市','basis':'美债基差交易'}[name]),'files':d['files'],'baseline':True,'summary':'三篇基准，已含2026-11-16规则复审。'})
+ d=json.loads((W/'deliveries'/f'{name}.json').read_text());cases.append({'id':d['article_id'],'title':d.get('title',{'ai':'AI CDS','korea':'韩国股市','basis':'美债基差交易'}[name]),'files':d['files'],'baseline':True,'summary':'三篇基准，本轮独立审阅及原作者返修已采用。' if d['article_id'] in revision_done else '三篇基准，已含2026-11-16规则复审。'})
 for a in run['articles']:
  if a['status']=='adopted':
   d=json.loads((R/'articles'/str(a['article_id'])/'delivery.json').read_text());cases.append({'id':a['article_id'],'title':a['title'],'files':[f for f in d['files'] if f['operation'] in ['new','update']],'baseline':False,'summary':d.get('summary','')})
@@ -66,7 +71,7 @@ for path,f in files.items():
  parent='<p class="parent">父项：'+'、'.join(parents)+' · '+E(PARENT_LABELS.get(m.get('parent_relation',''),m.get('parent_relation','')))+'</p>' if parents else ''
  bodies.append(f'<details class="document" id="{anchors[path]}"><summary><span class="tag">{label}</span><strong>{E(f["title"])}</strong><small>{E(m["id"])}</small></summary><div class="doc">{parent}<p class="file"><a href="{E(os.path.relpath(G/path,R))}">Markdown原文</a></p>{render(path)}</div></details>')
 complete=sum(x['status']=='adopted' for x in run['articles']);pending=27-complete
-page=f'''<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Wallstreet Scaling · 30篇</title><style>{css}</style><main><p class="eyebrow">FINANCIAL FOUNDATION / WALLSTREET SCALING</p><h1>从三篇到三十篇。</h1><p class="lead">保留三篇基准，新增27篇材料。每篇由一个继承完整上下文的agent制作，主agent审阅、去重后接入同一待整合工作图。</p><div class="stats"><div><b>{complete}</b><small>新增材料已采用</small></div><div><b>{pending}</b><small>待完成</small></div><div><b>{len(new_ids)}</b><small>本轮新增节点</small></div></div><p>本轮节点分类：{E('、'.join(k+str(v)+'个' for k,v in counts.items()) or '暂无')}。修改基准节点{len(updates)}个；新增事件{support_counts["事件分析"]}份、来源记录{support_counts["来源记录"]}份。工作图共{len(nodes)}节点，正式graph保持240节点。</p><nav><a href="SELECTION.md">选文</a><a href="PLAN.md">计划</a><a href="增量清单.md">本轮增量</a><a href="#documents">成品正文</a></nav><table><thead><tr><th>范围</th><th>材料</th><th>关联成品文件</th></tr></thead><tbody>{''.join(rows)}</tbody></table>{''.join(details)}<section id="documents"><h2>可持续维护的成品</h2><p>每份正文展示一次；不同文章引用同一对象时共用维护位置。展开查看正文。</p>{''.join(bodies)}</section></main></html>'''
+page=f'''<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Wallstreet Scaling · 30篇</title><style>{css}</style><main><p class="eyebrow">FINANCIAL FOUNDATION / WALLSTREET SCALING</p><h1>从三篇到三十篇。</h1><p class="lead">保留三篇基准，新增27篇材料。每篇由一个继承完整上下文的agent制作，主agent审阅、去重后接入同一待整合工作图。</p>{revision_note}<div class="stats"><div><b>{complete}</b><small>新增材料已采用</small></div><div><b>{pending}</b><small>待完成</small></div><div><b>{len(new_ids)}</b><small>本轮新增节点</small></div></div><p>本轮节点分类：{E('、'.join(k+str(v)+'个' for k,v in counts.items()) or '暂无')}。修改基准节点{len(updates)}个；新增事件{support_counts["事件分析"]}份、来源记录{support_counts["来源记录"]}份。工作图共{len(nodes)}节点，正式graph保持240节点。</p><nav><a href="SELECTION.md">选文</a><a href="PLAN.md">计划</a><a href="增量清单.md">本轮增量</a><a href="#documents">成品正文</a></nav><table><thead><tr><th>范围</th><th>材料</th><th>关联成品文件</th></tr></thead><tbody>{''.join(rows)}</tbody></table>{''.join(details)}<section id="documents"><h2>可持续维护的成品</h2><p>每份正文展示一次；不同文章引用同一对象时共用维护位置。展开查看正文。</p>{''.join(bodies)}</section></main></html>'''
 (R/'报告.html').write_text(page)
 text='# Wallstreet Scaling增量\n\n统计新增27篇相对三篇基准的采用内容。正式graph尚未接入。\n\n'
 for c in cases:

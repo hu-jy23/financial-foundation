@@ -1,0 +1,178 @@
+{
+  "article_id": 3784163,
+  "files": [
+    {
+      "path": "10_concepts/日经225指数.md",
+      "draft_path": "drafts/10_concepts/日经225指数.md",
+      "operation": "update",
+      "id": "C-WS-3784163-NIKKEI225",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "日经225指数",
+      "why": "保留定义与构造，10月历史仅留指数观察用途；双轴和样本细节归事件/来源。"
+    },
+    {
+      "path": "10_concepts/印度Nifty 50指数.md",
+      "draft_path": "drafts/10_concepts/印度Nifty 50指数.md",
+      "operation": "update",
+      "id": "C-WS-3784163-NIFTY50",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "印度Nifty 50指数",
+      "why": "保留权重与币种说明，历史比较短接事件及原图，减少重复解释。"
+    },
+    {
+      "path": "10_concepts/黄金.md",
+      "draft_path": "drafts/10_concepts/黄金.md",
+      "operation": "update",
+      "id": "C-ASSET-GOLD",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "黄金",
+      "why": "仅精简本篇十月历史；样本比例、三状态和后补检验统一定位事件，保护一月和十一月内容。"
+    },
+    {
+      "path": "20_mechanisms/黄金的机会成本机制.md",
+      "draft_path": "drafts/20_mechanisms/黄金的机会成本机制.md",
+      "operation": "update",
+      "id": "R-GOLD-REALRATES",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "黄金的机会成本机制",
+      "why": "保留通用保护价值/美元现金约束链，缩短本篇两个历史插入，分开后补检验并保护WGC/FOMC原文。",
+      "node_ids": [
+        "C-IR-REAL",
+        "C-ASSET-GOLD",
+        "C-IR-POLICY",
+        "C-FX-USD",
+        "C-FX-07"
+      ],
+      "related_mechanism_ids": [
+        "R-INTERNATIONAL-13",
+        "R-USD-GLOBAL"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-IR-REAL",
+            "C-ASSET-GOLD"
+          ],
+          "context_terms": [],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-IR-POLICY",
+            "C-IR-REAL",
+            "C-ASSET-GOLD"
+          ],
+          "context_terms": [
+            {
+              "legacy_id": "C-IR-NOMINAL",
+              "name": "名义利率"
+            },
+            {
+              "legacy_id": "C-INF-EXPECT",
+              "name": "通胀预期"
+            }
+          ],
+          "related_mechanism_ids": [],
+          "previous_node_ids": [
+            "C-IR-POLICY",
+            "C-IR-NOMINAL",
+            "C-INF-EXPECT",
+            "C-IR-REAL",
+            "C-ASSET-GOLD"
+          ]
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-ASSET-GOLD",
+            "C-IR-REAL",
+            "C-FX-USD",
+            "C-FX-07"
+          ],
+          "context_terms": [
+            {
+              "legacy_id": "C-FLOW-14",
+              "name": "风险偏好与避险需求"
+            },
+            {
+              "legacy_id": "C-FLOW-GOLDETF",
+              "name": "黄金ETF持仓与流量"
+            }
+          ],
+          "related_mechanism_ids": [
+            "R-INTERNATIONAL-13",
+            "R-USD-GLOBAL"
+          ],
+          "previous_node_ids": [
+            "C-ASSET-GOLD",
+            "C-GLOBAL-14",
+            "C-FLOW-14",
+            "C-FLOW-GOLDETF",
+            "C-IR-REAL"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/AI风险的黄金对冲与美元状态：中金2026年10月判断.md",
+      "draft_path": "drafts/30_events/markets/AI风险的黄金对冲与美元状态：中金2026年10月判断.md",
+      "operation": "update",
+      "id": "E-WS-3784163",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "AI风险的黄金对冲与美元状态：中金2026年10月判断",
+      "why": "集中数字、三状态与条件样本，补订单/美元回款及支付联系；保留5关键图并写图注；将后补检验分为融资、2027预期与实际保护。",
+      "node_ids": [
+        "C-ASSET-GOLD",
+        "C-FX-USD",
+        "C-FX-07",
+        "C-WS-3784163-NIKKEI225",
+        "C-WS-3784163-NIFTY50",
+        "C-S2-KOSPI",
+        "C-S2-SOX",
+        "C-ASIA-11",
+        "C-ASSET-UST",
+        "C-ASIA-05"
+      ],
+      "related_mechanism_ids": [
+        "R-GOLD-REALRATES",
+        "R-USD-GLOBAL",
+        "R-LIQ-SPIRAL",
+        "R-INTERNATIONAL-12"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3784163.md",
+      "draft_path": "drafts/40_sources/S-WS-3784163.md",
+      "operation": "update",
+      "id": "S-WS-3784163",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "中金AI对冲研究：来源与核读范围",
+      "why": "11张原图逐张直达，集中次要读图/口径及未取得底表说明，交代返修范围。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "H1",
+      "status": "adopted",
+      "changes": "事件主维护-81.2%、91段/84次/5.46%与三状态；两个指数页保留本职定义及短历史，黄金仅改十月段，机制保留通用资金约束解释并短接案例。事件留图5/6/8/10/11并写具体图注；来源提供11图逐张入口，集中相关变换/双轴/区间规则等技术核读。跨市场补订单、美元净回款与美元付款到期的联系，均标作解释路径。"
+    },
+    {
+      "issue_id": "H2",
+      "status": "adopted",
+      "changes": "事件末尾明确11月16日仅据10月22信息作后补安排：10月22后融资/资产调整、后续经营披露及2027资本开支预期修订、同一AI暴露受损窗口的同币种黄金净损益分别检验。机制定位事件，未添加持有期、黄金权重、交易规则或后来结果。"
+    }
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}
