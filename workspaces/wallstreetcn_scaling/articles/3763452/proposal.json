@@ -1,0 +1,69 @@
+{
+  "article_id": 3763452,
+  "title": "先进逻辑与DRAM扩产如何进入ASML的2027盈利预测",
+  "reading": {
+    "article": "全文已读",
+    "figures": "6图逐图核读；图6推广图，不纳入知识正文"
+  },
+  "important_knowledge": [
+    {
+      "object": "ASML：EUV/DUV/装机基础服务、订单与收入口径",
+      "existing_id": "C-TECH-26",
+      "placement": "update",
+      "increment": "补入2026-01-16大摩预测窗口及图3收入确认机台口径，衔接原页1月28日和10月修订；全部保留较晚内容"
+    },
+    {
+      "object": "TSMC先进节点投资",
+      "existing_id": "C-TECH-25",
+      "placement": "reuse/inline",
+      "increment": "预算520—560亿美元及70—80%先进工艺为1月15日管理层口径；大摩29/40台是机构预测，完整存事件，不另改TSMC页"
+    },
+    {
+      "object": "EUV低NA、High-NA、DUV",
+      "existing_id": "C-TECH-09",
+      "placement": "reuse",
+      "increment": "已有ASML/设备页充分解释；本文只给低NA假设，不另注册产品节点"
+    },
+    {
+      "object": "DRAM、HBM、NAND及价格周期",
+      "existing_id": "C-TECH-06",
+      "placement": "reuse/inline",
+      "increment": "保留图4 DDR4 8Gb现货与股价双轴，不能代作HBM价格和因果检验"
+    },
+    {
+      "object": "晶圆制造及提前建设",
+      "existing_id": "C-TECH-07",
+      "placement": "reuse/inline",
+      "increment": "A14提前建设与2028使用仅为大摩判断，投资到合格产出存在时差"
+    }
+  ],
+  "new_nodes": [],
+  "updates": [
+    {
+      "path": "10_concepts/ASML.md",
+      "id": "C-TECH-26",
+      "increment": "补1月中旬研究预测的历史锚点和观测用途；证据截止仍2026-10-14"
+    }
+  ],
+  "new_files": [
+    {
+      "path": "30_events/markets/先进逻辑与DRAM扩产：ASML的2027盈利预测.md",
+      "id": "E-WS-3763452",
+      "entry_kind": "event"
+    },
+    {
+      "path": "40_sources/S-WS-3763452.md",
+      "id": "S-WS-3763452",
+      "entry_kind": "source"
+    }
+  ],
+  "key_findings": [
+    "图3标题为EUV Low NA Tools Revenue Recognised；正文称采购/出货，须区分，不作逐台订单表",
+    "图1历史2021同比高于2027预测，原文最高年度盈利增速说法与图内不合；只能确认预测EPS绝对值为图示最高",
+    "正文2026持平/此前降15—20%与后文公司总额+12%不一致；不替原研报补市场归属，单独注明",
+    "图5 IBM为Installed Base Management，不能误认为IBM公司；新增系统销售上调24%，存量业务仅1%，解释预测修订来源",
+    "1400与2000欧元为研究估值情景，不转为通用价格或成功概率"
+  ],
+  "model": "inherited_unverified",
+  "reasoning_effort": "inherited_unverified"
+}

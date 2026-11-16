@@ -1,7 +1,7 @@
 {
   "date": "2026-11-16",
   "branch": "step2/wallstreetcn-scaling-20261116",
-  "status": "running",
+  "status": "complete",
   "requested_model": "gpt-6.1-sol",
   "requested_reasoning_effort": "medium",
   "requested_context": "full_inheritance",
@@ -349,8 +349,9 @@
       "author_group": "摩根大通",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3785125",
-      "status": "drafting",
-      "agent": "/root/scale_23"
+      "status": "adopted",
+      "agent": "/root/scale_23",
+      "files": 5
     },
     {
       "sequence": 24,
@@ -363,9 +364,10 @@
       "author_group": "德意志银行",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3783754",
-      "status": "reading",
+      "status": "adopted",
       "agent": "/root/scale_24",
-      "base_snapshot": "/tmp/scaling_wave9_base.json"
+      "base_snapshot": "/tmp/scaling_wave9_base.json",
+      "files": 7
     },
     {
       "sequence": 25,
@@ -378,9 +380,10 @@
       "author_group": "锦缎",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3783160",
-      "status": "reading",
+      "status": "adopted",
       "agent": "/root/scale_25",
-      "base_snapshot": "/tmp/scaling_wave9_base.json"
+      "base_snapshot": "/tmp/scaling_wave9_base.json",
+      "files": 5
     },
     {
       "sequence": 26,
@@ -393,7 +396,10 @@
       "author_group": "民生证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3767144",
-      "status": "queued"
+      "status": "adopted",
+      "agent": "/root/scale_26",
+      "base_snapshot": "/tmp/scaling_article26_base.json",
+      "files": 3
     },
     {
       "sequence": 27,
@@ -406,7 +412,10 @@
       "author_group": "摩根士丹利",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3763452",
-      "status": "queued"
+      "status": "adopted",
+      "agent": "/root/scale_27",
+      "base_snapshot": "/tmp/scaling_article27_base.json",
+      "files": 3
     }
   ],
   "configuration": {
@@ -705,6 +714,45 @@
       "commit": "95abff6",
       "accepted": 18,
       "new_nodes": 12
+    },
+    {
+      "batch": 7,
+      "commit": "8339b87",
+      "accepted": 22,
+      "new_nodes": 16,
+      "note": "含第8组已完成的PMI篇"
     }
-  ]
+  ],
+  "result": {
+    "accepted_additions": 27,
+    "pending": 0,
+    "new_nodes": 22,
+    "node_types": {
+      "子概念": 10,
+      "概念": 10,
+      "关系": 2
+    },
+    "working_nodes": 274,
+    "unique_documents": 139,
+    "updated_nodes": 40,
+    "updated_node_types": {
+      "概念": 27,
+      "关系": 12,
+      "子概念": 1
+    },
+    "new_support_documents": {
+      "事件分析": 27,
+      "来源记录": 27
+    }
+  },
+  "final_checks": {
+    "baseline_integrity": true,
+    "working_graph_links": true,
+    "repository_layout": true,
+    "offline_report": true,
+    "sample_event_images": {
+      "loaded": 7,
+      "broken": 0
+    }
+  }
 }

@@ -7,9 +7,22 @@ draft_author: /root/resume_b043
 model: gpt-6-astra
 reasoning_effort: medium
 reviewed_by: /root
-updated: 2026-10-30
+workspace_reviewed_by: /root
+workspace_reviewed_on: 2026-11-16
+updated: '2026-11-16'
 evidence_as_of: 2026-10-14
-source_ids: [S-C-TECH-26-01, S-C-TECH-26-02, S-C-TECH-26-03, S-C-TECH-26-04, S-C-TECH-26-05, S-C-TECH-26-06]
+source_ids:
+- S-C-TECH-26-01
+- S-C-TECH-26-02
+- S-C-TECH-26-03
+- S-C-TECH-26-04
+- S-C-TECH-26-05
+- S-C-TECH-26-06
+- S-WS-3763452
+editor: /root/scale_27
+editing_status: step2_draft
+editing_model: inherited_unverified
+editing_reasoning_effort: inherited_unverified
 ---
 
 # ASML
@@ -84,6 +97,11 @@ ASML同时发布EU-IFRS法定报告。公司说明，产品开发成本资本化
 **从可行原型到量产平台。** 公司技术史记录，2006年交付EUV演示工具，2010年交付预生产NXE:3100，2013年交付首台生产型NXE:3300，2020年初累计交付第100台EUV。这段较长间隔说明技术可行、设备交付与大规模商业使用分别需要解决工程问题。2023年12月首台High-NA交付，也是平台导入的里程碑，不能据此断言所有先进节点已转向High-NA。[S-C-TECH-26-01](#S-C-TECH-26-01)
 
 **2024—2025年的结构变化。** 2025年系统收入增12.4%，服务及现场选件增26.2%；公司解释先进逻辑需求较强，而存储业务在2024年较高基数上继续运行，其他市场并不均匀。CFO还指出，中国DUV表现强于预期、部分非中国常规业务较弱。这个观察说明AI需求与传统半导体需求可以分化，不能把全公司增长概括为所有市场同步繁荣。[S-C-TECH-26-03](#S-C-TECH-26-03)、[S-C-TECH-26-04](#S-C-TECH-26-04)
+
+<a id="ms-forecast-20260116"></a>
+### 2026年1月16日：设备扩产进入大摩的2027预测
+
+大摩当时把2027总销售预期从395.62亿提高到467.69亿欧元，稀释EPS从33.94提高到45.74；图示修订主要来自系统销售，装机基础业务仅小幅上调。台积电先进投资与DRAM扩产是其理由。客户图明确列低NA EUV“收入确认”台数，台积电2026e/2027e为29/40，不能同时当作订单、交付或客户已经形成的产能。这个预测窗口记录设备商如何反映客户未来制造投入，不能单独证明最终AI需求已兑现。[完整预测、原图及1月28日后来结果](../30_events/markets/先进逻辑与DRAM扩产：ASML的2027盈利预测.md)，[来源](../40_sources/S-WS-3763452.md)。本页下述1月28日及10月资料分别属于后来信息。
 
 **2026年初预期。** 1月28日CEO Christophe Fouquet预计2026全年收入340亿—390亿欧元、毛利率51%—53%，判断主要依据先进逻辑与DRAM客户提高扩产计划、EUV和装机服务增长。公告同时记录2025年第四季确认了两台High-NA系统收入。这是特定时期的商业确认，不等于客户在所有目标产品上完成量产验证。[S-C-TECH-26-05](#S-C-TECH-26-05)
 

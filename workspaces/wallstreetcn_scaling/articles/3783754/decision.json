@@ -1,0 +1,10 @@
+{
+  "article_id": 3783754,
+  "decision": "proceed",
+  "new_nodes": [
+    "C-WS-3783754-ORACLE",
+    "R-WS-3783754-TENANTCREDIT"
+  ],
+  "approved_files": 7,
+  "notes": "事件30_events/markets、来源S-WS-3783754.md；独占CoreWeave/数据中心/评级，合同支持与共同租户传递分层。"
+}

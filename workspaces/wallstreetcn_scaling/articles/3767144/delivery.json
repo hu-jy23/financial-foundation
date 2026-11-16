@@ -1,0 +1,54 @@
+{
+  "article_id": 3767144,
+  "title": "开年外贸：闪耀的非常信号",
+  "files": [
+    {
+      "path": "10_concepts/人民币与离岸人民币.md",
+      "draft_path": "drafts/10_concepts/人民币与离岸人民币.md",
+      "operation": "update",
+      "id": "C-FX-02",
+      "type": "concept",
+      "title": "人民币与离岸人民币",
+      "entry_kind": "concept",
+      "why": "补3月出口/顺差支持汇率的历史判断，区分币种、经常账户、收款和结汇"
+    },
+    {
+      "path": "30_events/markets/开年外贸的季节性、订单与结汇：2026年3月判断.md",
+      "draft_path": "drafts/30_events/markets/开年外贸的季节性、订单与结汇：2026年3月判断.md",
+      "operation": "new",
+      "id": "E-WS-3767144",
+      "type": "analysis_note",
+      "title": "开年外贸的季节性、订单与结汇：2026年3月判断",
+      "entry_kind": "event",
+      "why": "完整保存季节性、订单、退税、市场与进口量价、汇率展望及6图"
+    },
+    {
+      "path": "40_sources/S-WS-3767144.md",
+      "draft_path": "drafts/40_sources/S-WS-3767144.md",
+      "operation": "new",
+      "id": "S-WS-3767144",
+      "type": "source_note",
+      "title": "开年外贸分析：来源与核读范围",
+      "entry_kind": "source",
+      "why": "登记6图及财政公告/商务部摘要实读、图文差异与未取得范围"
+    }
+  ],
+  "coverage": [
+    {
+      "topic": "贸易币种/量价/季节性、资本开支/PMI、目的地/转口、退税、进口用途",
+      "path": "30_events/markets/开年外贸的季节性、订单与结汇：2026年3月判断.md"
+    },
+    {
+      "topic": "顺差/经常账户/结汇与汇率",
+      "path": "10_concepts/人民币与离岸人民币.md#trade-20260310"
+    }
+  ],
+  "summary": "新增事件、来源各1篇；修改人民币页，补3月外贸与结汇判断。新增节点0。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/人民币与离岸人民币.md",
+    "30_events/markets/开年外贸的季节性、订单与结汇：2026年3月判断.md",
+    "40_sources/S-WS-3767144.md"
+  ]
+}

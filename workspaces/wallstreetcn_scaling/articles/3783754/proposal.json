@@ -1,0 +1,96 @@
+{
+  "article_id": 3783754,
+  "title": "Coreweave是否会引爆美国垃圾债市场？下一个是甲骨文？",
+  "read_scope": "全文、metadata及7张原图；现行说明、Step0思想及形成记录、相关工作图页。外部补读Oracle FY2026 10-K业务概况、Applied Digital 2025-11-20 8-K发行及担保条款、S&P评级定义。",
+  "important_knowledge": [
+    {
+      "item": "公司债与依赖租金的项目SPV债分层",
+      "placement": "新关系页讲交易安排；事件保存20笔/456亿美元样本及图表；CoreWeave/数据中心页补短段"
+    },
+    {
+      "item": "共同租户集中度如何穿过多个发行人传递",
+      "placement": "新关系页及事件；31%/37%只针对MS项目样本，非美国垃圾债市场占比"
+    },
+    {
+      "item": "甲骨文作为成熟企业软件与云厂商的信用观察主体",
+      "placement": "新子概念；母项云服务与超大规模云厂商C-TECH-03；concrete_subject。保留自身经营现金流基础及云建设支出，观察资本开支如何影响成熟厂商信用，不能由CoreWeave价格推定Oracle后果"
+    },
+    {
+      "item": "评级门槛和被动出售的条件",
+      "placement": "更新信用评级与迁移的案例；BBB不是最低投资级细档，迁移与被迫销售分别需要评级/指数/契约条件"
+    },
+    {
+      "item": "融资缺口与价格数据的时点和口径",
+      "placement": "CoreWeave页补历史窗口，完整情景计算与观点分歧放事件；35bn年度融资差额不减含额度的15.5bn总流动性，不能把次级市场无担保债收益率用作所有融资成本"
+    }
+  ],
+  "files": [
+    {
+      "operation": "new",
+      "entry_kind": "subconcept",
+      "id": "C-WS-3783754-ORACLE",
+      "path": "10_concepts/甲骨文.md",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject",
+      "scope": "企业软件与云厂商基本身份、资金来源差异、信用/租户两种观察位置；不为所有租户与开发商另建公司页"
+    },
+    {
+      "operation": "new",
+      "entry_kind": "relation",
+      "id": "R-WS-3783754-TENANTCREDIT",
+      "path": "20_mechanisms/数据中心项目融资的租户信用传递.md",
+      "scope": "项目借款主体、租赁现金流与信用支持；建设交付和支付风险；共同租户暴露、信用重估与附条件反馈。不同于供应商给客户融资，也不能一概称证券化"
+    },
+    {
+      "operation": "update",
+      "entry_kind": "subconcept",
+      "id": "C-S2-COREWEAVE",
+      "path": "10_concepts/CoreWeave.md",
+      "scope": "历史窗口补其公司债与依赖它租金的外部项目债区分；流动性/资本开支时点及情景限制。保留10月31日截止"
+    },
+    {
+      "operation": "update",
+      "entry_kind": "concept",
+      "id": "C-TECH-04",
+      "path": "10_concepts/数据中心.md",
+      "scope": "项目主体/运营商/租户职责及租金融资入口；设施与GPU资产寿命分开。保留10月23日截止"
+    },
+    {
+      "operation": "update",
+      "entry_kind": "concept",
+      "id": "C-CREDIT-08",
+      "path": "10_concepts/信用评级与迁移.md",
+      "scope": "Oracle新闻案例说明BBB细档和指数/授权出售条件，复用已有评级基础"
+    },
+    {
+      "operation": "new",
+      "entry_kind": "event",
+      "id": "E-WS-3783754",
+      "path": "30_events/markets/2026年10月：AI数据中心融资的租户集中与信用分化.md",
+      "scope": "时间点、7图逐项解释、公司和SPV分层、数量口径与两种预期条件；保留原图和新闻观点争议"
+    },
+    {
+      "operation": "new",
+      "entry_kind": "source",
+      "id": "S-WS-3783754",
+      "path": "40_sources/S-WS-3783754.md",
+      "scope": "正文/7图与补充一手出处、实际读取范围、图文冲突"
+    }
+  ],
+  "figure_findings": [
+    "图1末值81.848；图4为9月28日截面，不能混为10月15日",
+    "图3Edged含CoreWeave/Alibaba，不能称全体单租户；SPV债和公司债不同",
+    "图5为LTC/YTC，不是LTV/YTM，2Q26离散最大，图未支持最新批次全体85—95%LTC",
+    "图6横轴为到期年限，不是久期",
+    "图7图例只有Yondr与Polaris Forge两个项目债，不能据此核实相对ORCL公司债185—220bp；末值差约119bp"
+  ],
+  "boundaries": [
+    "不新建每笔债券/每家SPV公司；不根据2008类比断言系统性结果",
+    "GPU折旧、经济残值和建筑/土地/电力资产寿命分别判断；租赁保障、完成担保、担保范围逐合同核查",
+    "63%为报道转述的定价隐含量，回收率等假设未给出，不能核算或当作实际概率"
+  ],
+  "status": "approved_by_root",
+  "approved_scope": "2个新增知识节点、3页更新、事件与来源共7文件；2026-11-16主agent协调确认。"
+}

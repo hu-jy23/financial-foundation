@@ -1,0 +1,100 @@
+{
+  "article_id": 3783160,
+  "title": "A股三季度复盘：市场风格已悄然切换",
+  "read_scope": "原文、metadata及全部6图；现行说明、Step0思想/形成记录及相关工作图页已读。",
+  "proposed_files": [
+    {
+      "operation": "new",
+      "id": "C-WS-3783160-STAR50",
+      "entry_kind": "concept",
+      "path": "10_concepts/科创50指数.md",
+      "why": "解释000688的科创板50证券选样、调整权重和与板块/行业/ETF的区别，承接2026Q3回撤；常用观察基准，不因单次出现注册。"
+    },
+    {
+      "operation": "new",
+      "id": "C-WS-3783160-CHINEXT",
+      "entry_kind": "concept",
+      "path": "10_concepts/创业板指.md",
+      "why": "解释399006创业板100股票样本、自由流通权重和价格/全收益版本，承接2026Q3回撤；与科创50观察不同企业组合。"
+    },
+    {
+      "operation": "update",
+      "id": "C-ASIA-01",
+      "entry_kind": "concept",
+      "path": "10_concepts/A股市场.md",
+      "why": "补2026Q3风格分化历史；价格/TTM利润/未来现金流、成交额/杠杆/净流量、美元利率与人民币权益定价分开；保留六月研究窗口。"
+    },
+    {
+      "operation": "new",
+      "id": "E-WS-3783160",
+      "entry_kind": "event",
+      "path": "30_events/markets/A股2026年三季度风格切换与缩短久期解释.md",
+      "why": "保存作者论证、6图、主要数值和条件预期；区分已报行情、作者归因、缺口与本库推演。"
+    },
+    {
+      "operation": "new",
+      "id": "S-WS-3783160",
+      "entry_kind": "source",
+      "path": "40_sources/S-WS-3783160.md",
+      "why": "登记锦缎转载与逐图核读、官方Fed/SEP和指数规则定向核查范围。"
+    }
+  ],
+  "important_knowledge": [
+    {
+      "knowledge": "A股市场、科创50、创业板指及申万行业收益",
+      "placement": "两指数新基础页、A股短历史、事件保存各时期与口径；H1及Q3不相减当累计收益。"
+    },
+    {
+      "knowledge": "股票现金流远近、贴现率、ERP、盈利和估值",
+      "placement": "事件解释通用现值敏感性，复用ERP页；不注册股票久期或轮动方法新页，不由TTM盈利增长断言全是估值变化。"
+    },
+    {
+      "knowledge": "TMT成交占比、两融余额/开户、主动基金收益与存量持仓",
+      "placement": "复用融资融券与主动权益公募；事件展开口径，43%与六月45.1%MA5各自留窗，不凭缩量证明赎回/净流出/实际强平。"
+    },
+    {
+      "knowledge": "反内卷、商品价格、按揭贴息、银行估值与保险OCI",
+      "placement": "事件解释供给预期、盈利及需求渠道，复用商品/按揭/保险/红利节点；9月底政策与全季回报分开，理论配置空间非承诺买盘。"
+    }
+  ],
+  "new_nodes": [
+    {
+      "id": "C-WS-3783160-STAR50",
+      "entry_kind": "concept",
+      "parent_ids": [],
+      "reason": "具体编制规则下持续观察科创大盘股的指数，不是A股市场本身的下位市场。"
+    },
+    {
+      "id": "C-WS-3783160-CHINEXT",
+      "entry_kind": "concept",
+      "parent_ids": [],
+      "reason": "持续观察创业板大盘股票的独立指数对象；市场与指数是不同对象类别。"
+    }
+  ],
+  "figure_findings": [
+    "图1作者概括资金搬家，无实测净流量。",
+    "图2只绘三个行业，31行业相关系数未附底表，H1与Q3长度不同。",
+    "图3仅18个行业柱，正文总体12涨19跌，不能称全31项图。",
+    "图4是假设3%/5%现值示意，并非中国股票实测贴现率。",
+    "图5月日均与单日混合、基金数量非资金流；不连成同口径序列。",
+    "图6三类行业与商品/估值各有窗口，行业收益与单一产品不能一一归因。"
+  ],
+  "external_checks": [
+    {
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
+      "scope": "全文，9/16加息25bp至3.75—4%，12票一致。"
+    },
+    {
+      "url": "https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20260916.htm",
+      "scope": "介绍、表1及点阵分布；18为参与者非投票委员，16人适宜政策路径高于当前中点。"
+    },
+    {
+      "url": "https://www.cnindex.com.cn/docs/gz_399006.pdf",
+      "scope": "实际读PDF1—4页，创业板指身份、选样、计算与定期调整；细则版本未给明确生效日。"
+    },
+    {
+      "url": "https://www.sse.com.cn/disclosure/fund/announcement/c/new/2026-03-02/588000_20260302_RNA8.pdf",
+      "scope": "3月2日基金官方招募书附录印刷137—138页：科创50样本和权重；动态指数页正文未抽取出简介。"
+    }
+  ]
+}

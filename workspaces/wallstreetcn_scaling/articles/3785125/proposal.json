@@ -1,0 +1,124 @@
+{
+  "article_id": 3785125,
+  "title": "AI编程之后下一个爆发点需等待---摩根大通双双下调智谱和MiniMax",
+  "read_scope": "转载全文、metadata及7图逐图核读；现行说明、Step0思想和形成原则、相关目录及云服务/算力/模型效率/Muse/CoreWeave样例已对照。",
+  "model": "inherited_unverified",
+  "new_nodes": [
+    {
+      "id": "C-WS-3785125-ZHIPU",
+      "title": "智谱",
+      "entry_kind": "subconcept",
+      "path": "10_concepts/智谱.md",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject",
+      "why": "模型服务具体供给者。继承云服务页模型API按量交付、容量/使用和收入确认知识；不将模型研发商等同超大规模IaaS厂商，也不将本地部署或全部集团业务强行云化。独立维护自研模型、分层定价、企业任务采用与训练/融资历史；观察国产前沿能力能否转成付费API毛利和资金回收。"
+    },
+    {
+      "id": "C-WS-3785125-MINIMAX",
+      "title": "MiniMax",
+      "entry_kind": "subconcept",
+      "path": "10_concepts/MiniMax.md",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject",
+      "why": "通过开放平台提供模型调用，且另有消费者产品的具体公司。继承同一服务交付/使用计费基础；独立保存性价比路线、开放平台与AI原生产品的业务组合以及前沿定价尝试，观察低价高调用能否转为企业收入和毛利。消费者应用单独说明，父项不覆盖其全部活动。"
+    }
+  ],
+  "proposed_files": [
+    {
+      "path": "10_concepts/智谱.md",
+      "operation": "new",
+      "id": "C-WS-3785125-ZHIPU",
+      "entry_kind": "subconcept"
+    },
+    {
+      "path": "10_concepts/MiniMax.md",
+      "operation": "new",
+      "id": "C-WS-3785125-MINIMAX",
+      "entry_kind": "subconcept"
+    },
+    {
+      "path": "20_mechanisms/模型效率、推理成本与总算力需求.md",
+      "operation": "update",
+      "id": "R-TECH-03",
+      "entry_kind": "relation",
+      "why": "logic-1/2各补当时的分层价格/毛利、Ramp价格/量/支出案例与研究者需求台阶判断；沿用既有成功任务单位，不扩写重复理论，不新设作者模型。若同批有冲突可只留事件并复用。"
+    },
+    {
+      "path": "30_events/markets/模型服务的需求空档、分层定价与估值下修：2026年11月.md",
+      "operation": "new",
+      "id": "E-WS-3785125",
+      "entry_kind": "event",
+      "why": "完整保存目标价/评级、2030盈利估值、任务采用、价格与毛利、两公司差异和7图；ARR、端点倍数、METR任务口径与乘方算例分别解释。"
+    },
+    {
+      "path": "40_sources/S-WS-3785125.md",
+      "operation": "new",
+      "id": "S-WS-3785125",
+      "entry_kind": "source",
+      "why": "登记7图和有限一手身份/业务/方法补核；原JPM报告、ARR/融资原件与METR当时3小时/105天原截面未取得。"
+    }
+  ],
+  "important_knowledge": [
+    {
+      "knowledge": "智谱、MiniMax、GLM模型/API与消费者产品",
+      "placement": "两公司子概念，模型为公司产品而非同一主体；不为每代模型造节点。"
+    },
+    {
+      "knowledge": "可靠任务、能力门槛、企业部署与成本回收",
+      "placement": "事件说明可靠性之外还要数据/权限/流程/付费，学校/毕业生为JPM比喻，不注册通用模型。"
+    },
+    {
+      "knowledge": "token综合单价、调用量、支出、单位成本和毛利率",
+      "placement": "既有机制与事件；图7固定70%缓存输入/20%输入/10%输出、对数比值轴，组合价不是同任务价格或净利润。"
+    },
+    {
+      "knowledge": "ARR、确认收入、融资稀释、目标价与远期PE",
+      "placement": "两主体及事件解释口径，2030年12倍PE不是当前实现PE，倍数降40%并不机械要求两目标价同跌40%。"
+    },
+    {
+      "knowledge": "METR时长和20步成功率",
+      "placement": "事件内解释人类基准任务时长/特定任务集合，3小时及105天保持二手归属；95%^20和99%^20为条件算例，非实测长期任务稳定概率。"
+    },
+    {
+      "knowledge": "Cursor、Harvey、七实验室与算力供给",
+      "placement": "事件及已有主体复用，不以短提批量建公司，算力瓶颈为机构解释并列可核证据需求。"
+    }
+  ],
+  "figure_findings": [
+    "图1最后实际点靠近10月、截止10/29，正文18亿美元时点写8月；3500万到18亿端点约51.4倍，图文称46倍，不能独立复现；30亿为年末指引。",
+    "图2截至10/29，智谱2410到532约-77.9%，MiniMax1238到180约-85.5%；与目标价/后来的结果各自区分。",
+    "图4是能力—用途示意，虚线台阶不是实测企业需求或发生年份预测；图5实际为每步95%/99%的20步乘方算例，而非METR任务时长图。",
+    "图6用对数比例纵轴，注释综合价为Ramp样本最大供应商每百万token价；36倍量、15倍支出及约-49%价格，未披露统一桥接和加权，不能据此识别需求弹性。",
+    "图7固定70%缓存输入/20%输入/10%输出构造综合美元/百万token价，不能把两条前沿产品线和更多低价线合为所有模型都降价；GLM-5.3综合线接近0.9与正文API提价1倍不是同一未说明报价口径。"
+  ],
+  "external_checks": [
+    {
+      "url": "https://www.zhipuai.cn/zh/about",
+      "scope": "公司简介、GLM与MaaS入口，后补身份/业务，不采用实时产品营销排名。"
+    },
+    {
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0107/2026010701799_c.pdf",
+      "scope": "PDF1—3页定向核公司法律名称、2513与1/8交易起日；非完整招股书/财务核对。"
+    },
+    {
+      "url": "https://www.minimax.io/news/minimax-announces-first-half-2026-financial-results-1787744160",
+      "scope": "2026-08-26公司发布，读开篇及业务/财务概览；定义MiniMax主体、开放平台与AI原生产品两类，定向用API份额而不扩建全套财务表。"
+    },
+    {
+      "url": "https://metr.org/time-horizons/",
+      "scope": "方法与FAQ：人类基准任务时长、软件工程/ML/安全任务、50%/80%拟合；不采用当前排行榜或把3小时/105天认作已核当时点位。"
+    },
+    {
+      "url": "https://ramp.com/data/ai-index-oct-2026",
+      "scope": "10/14原作者市场观察/样本方法和价格支出相关段，机构观察仅限Ramp企业，未提取动态嵌入图底表来重算JPM36/15/-49。"
+    }
+  ],
+  "limitations": [
+    "未取得JPM11月3日完整报告及其2030盈利/目标价模型、智谱ARR原演示文稿/9月融资公告、两公司11月预期新品的后来发布结果。",
+    "图表数值与正文冲突保留，不自行以当前数据回填11月4日判断。"
+  ]
+}

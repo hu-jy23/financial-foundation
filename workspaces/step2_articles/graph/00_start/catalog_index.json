@@ -2,17 +2,17 @@
   "counts": {
     "concepts": {
       "groups": 20,
-      "items": 188,
+      "items": 193,
       "p0": 21,
-      "complete": 136,
-      "pending": 52
+      "complete": 134,
+      "pending": 59
     },
     "mechanisms": {
       "groups": 18,
-      "items": 80,
+      "items": 81,
       "p0": 21,
-      "complete": 62,
-      "pending": 18
+      "complete": 61,
+      "pending": 20
     },
     "excluded_concepts": {
       "items": 186,
@@ -596,7 +596,7 @@
           "name": "信用评级与迁移",
           "scope": "评级行动和滞后",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/信用评级与迁移.md",
           "catalog_anchor": "C-CREDIT-08",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CREDIT-08",
@@ -606,7 +606,8 @@
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../10_concepts/信用评级与迁移.md",
           "last_source_review_on": "2026-11-03",
-          "last_source_batch": "T1_T2_20261103"
+          "last_source_batch": "T1_T2_20261103",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-CREDIT-10",
@@ -2321,7 +2322,7 @@
           "name": "ASML",
           "scope": "光刻设备与服务",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/ASML.md",
           "catalog_anchor": "C-TECH-26",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-TECH-26",
@@ -2329,7 +2330,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/ASML.md"
+          "planned_path": "../10_concepts/ASML.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-TECH-27",
@@ -3098,6 +3100,93 @@
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3763441-URANIUM",
           "status": "pending",
           "editing_status": "step2_draft"
+        },
+        {
+          "id": "C-WS-3785125-MINIMAX",
+          "name": "MiniMax",
+          "scope": "维护具体模型公司的独特业务、API服务继承、观察用途与11月历史，分离ARR/收入及产品预期。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/MiniMax.md",
+          "planned_path": "../10_concepts/MiniMax.md",
+          "catalog_anchor": "C-WS-3785125-MINIMAX",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3785125-MINIMAX",
+          "status": "pending",
+          "editing_status": "step2_draft",
+          "parent_ids": [
+            "C-TECH-03"
+          ],
+          "parent_relation": "concrete_subject"
+        },
+        {
+          "id": "C-WS-3785125-ZHIPU",
+          "name": "智谱",
+          "scope": "维护具体模型公司的独特业务、API服务继承、观察用途与11月历史，分离ARR/收入及产品预期。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/智谱.md",
+          "planned_path": "../10_concepts/智谱.md",
+          "catalog_anchor": "C-WS-3785125-ZHIPU",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3785125-ZHIPU",
+          "status": "pending",
+          "editing_status": "step2_draft",
+          "parent_ids": [
+            "C-TECH-03"
+          ],
+          "parent_relation": "concrete_subject"
+        },
+        {
+          "id": "C-WS-3783160-CHINEXT",
+          "name": "创业板指",
+          "scope": "新增399006编制对象及2026Q3历史，分清100股指数、板块与全收益版本。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/创业板指.md",
+          "planned_path": "../10_concepts/创业板指.md",
+          "catalog_anchor": "C-WS-3783160-CHINEXT",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783160-CHINEXT",
+          "status": "pending",
+          "editing_status": "step2_draft"
+        },
+        {
+          "id": "C-WS-3783160-STAR50",
+          "name": "科创50指数",
+          "scope": "新增000688编制对象及2026Q3历史，解释样本权重、板块/ETF和利润口径差异。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/科创50指数.md",
+          "planned_path": "../10_concepts/科创50指数.md",
+          "catalog_anchor": "C-WS-3783160-STAR50",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783160-STAR50",
+          "status": "pending",
+          "editing_status": "step2_draft"
+        },
+        {
+          "id": "C-WS-3783754-ORACLE",
+          "name": "甲骨文",
+          "scope": "新增甲骨文子概念，记录成熟云与软件主体的集团信用和租户身份。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/甲骨文.md",
+          "planned_path": "../10_concepts/甲骨文.md",
+          "catalog_anchor": "C-WS-3783754-ORACLE",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783754-ORACLE",
+          "status": "pending",
+          "editing_status": "step2_draft",
+          "parent_ids": [
+            "C-TECH-03"
+          ],
+          "parent_relation": "concrete_subject"
         }
       ]
     }
@@ -7002,9 +7091,11 @@
           "node_ids": [
             "C-TECH-01",
             "C-TECH-03",
-            "C-TECH-02"
+            "C-TECH-02",
+            "C-WS-3785125-ZHIPU",
+            "C-WS-3785125-MINIMAX"
           ],
-          "status": "complete",
+          "status": "pending",
           "path": "../20_mechanisms/模型效率、推理成本与总算力需求.md",
           "catalog_anchor": "R-TECH-03",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-TECH-03",
@@ -7028,7 +7119,9 @@
               "node_ids": [
                 "C-TECH-01",
                 "C-TECH-02",
-                "C-TECH-03"
+                "C-TECH-03",
+                "C-WS-3785125-ZHIPU",
+                "C-WS-3785125-MINIMAX"
               ],
               "related_mechanism_ids": []
             },
@@ -7036,7 +7129,9 @@
               "anchor": "logic-2",
               "node_ids": [
                 "C-TECH-01",
-                "C-TECH-03"
+                "C-TECH-03",
+                "C-WS-3785125-ZHIPU",
+                "C-WS-3785125-MINIMAX"
               ],
               "related_mechanism_ids": []
             },
@@ -7049,7 +7144,8 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_draft"
         },
         {
           "id": "R-TECH-12",
@@ -7615,6 +7711,58 @@
                 "C-CHINA-02"
               ],
               "related_mechanism_ids": []
+            }
+          ]
+        },
+        {
+          "id": "R-WS-3783754-TENANTCREDIT",
+          "name": "数据中心项目融资的租户信用传递",
+          "scope": "新增租金支持的项目融资责任及共同租户信用传递关系。",
+          "priority": "P1",
+          "role": "mechanisms",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../20_mechanisms/数据中心项目融资的租户信用传递.md",
+          "planned_path": "../20_mechanisms/数据中心项目融资的租户信用传递.md",
+          "catalog_anchor": "R-WS-3783754-TENANTCREDIT",
+          "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-WS-3783754-TENANTCREDIT",
+          "status": "pending",
+          "editing_status": "step2_draft",
+          "node_ids": [
+            "C-TECH-04",
+            "C-S2-COREWEAVE",
+            "C-WS-3783754-ORACLE",
+            "C-BOND-06",
+            "C-CREDIT-SPREAD"
+          ],
+          "related_mechanism_ids": [
+            "R-S2-VENDOR-CREDIT",
+            "R-BANKING-12"
+          ],
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-TECH-04",
+                "C-S2-COREWEAVE",
+                "C-WS-3783754-ORACLE",
+                "C-BOND-06"
+              ],
+              "related_mechanism_ids": [
+                "R-S2-VENDOR-CREDIT"
+              ]
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-S2-COREWEAVE",
+                "C-WS-3783754-ORACLE",
+                "C-BOND-06",
+                "C-CREDIT-SPREAD"
+              ],
+              "related_mechanism_ids": [
+                "R-BANKING-12"
+              ]
             }
           ]
         }

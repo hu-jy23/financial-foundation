@@ -1,0 +1,170 @@
+{
+  "article_id": 3783754,
+  "title": "Coreweave是否会引爆美国垃圾债市场？下一个是甲骨文？",
+  "files": [
+    {
+      "path": "10_concepts/CoreWeave.md",
+      "draft_path": "drafts/10_concepts/CoreWeave.md",
+      "operation": "update",
+      "id": "C-S2-COREWEAVE",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "CoreWeave",
+      "why": "补10月16日租户关联项目债、年度资金差额和融资情景；保留10月31日历史。",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "10_concepts/信用评级与迁移.md",
+      "draft_path": "drafts/10_concepts/信用评级与迁移.md",
+      "operation": "update",
+      "id": "C-CREDIT-08",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "信用评级与迁移",
+      "why": "补BBB细档及附条件出售的Oracle案例。"
+    },
+    {
+      "path": "10_concepts/数据中心.md",
+      "draft_path": "drafts/10_concepts/数据中心.md",
+      "operation": "update",
+      "id": "C-TECH-04",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "数据中心",
+      "why": "补项目主体与租户责任、设施/GPU分层并连接新关系。"
+    },
+    {
+      "path": "10_concepts/甲骨文.md",
+      "draft_path": "drafts/10_concepts/甲骨文.md",
+      "operation": "new",
+      "id": "C-WS-3783754-ORACLE",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "甲骨文",
+      "why": "新增甲骨文子概念，记录成熟云与软件主体的集团信用和租户身份。",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "20_mechanisms/数据中心项目融资的租户信用传递.md",
+      "draft_path": "drafts/20_mechanisms/数据中心项目融资的租户信用传递.md",
+      "operation": "new",
+      "id": "R-WS-3783754-TENANTCREDIT",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "数据中心项目融资的租户信用传递",
+      "why": "新增租金支持的项目融资责任及共同租户信用传递关系。",
+      "node_ids": [
+        "C-TECH-04",
+        "C-S2-COREWEAVE",
+        "C-WS-3783754-ORACLE",
+        "C-BOND-06",
+        "C-CREDIT-SPREAD"
+      ],
+      "related_mechanism_ids": [
+        "R-S2-VENDOR-CREDIT",
+        "R-BANKING-12"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-TECH-04",
+            "C-S2-COREWEAVE",
+            "C-WS-3783754-ORACLE",
+            "C-BOND-06"
+          ],
+          "related_mechanism_ids": [
+            "R-S2-VENDOR-CREDIT"
+          ]
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-S2-COREWEAVE",
+            "C-WS-3783754-ORACLE",
+            "C-BOND-06",
+            "C-CREDIT-SPREAD"
+          ],
+          "related_mechanism_ids": [
+            "R-BANKING-12"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/2026年10月：AI数据中心融资的租户集中与信用分化.md",
+      "draft_path": "drafts/30_events/markets/2026年10月：AI数据中心融资的租户集中与信用分化.md",
+      "operation": "new",
+      "id": "E-WS-3783754",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "2026年10月：AI数据中心融资的租户集中与信用分化",
+      "why": "完整保存价格、项目样本、7图冲突、机构分歧与条件预期。"
+    },
+    {
+      "path": "40_sources/S-WS-3783754.md",
+      "draft_path": "drafts/40_sources/S-WS-3783754.md",
+      "operation": "new",
+      "id": "S-WS-3783754",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "CoreWeave与数据中心信用：来源及核读范围",
+      "why": "登记文章及7图、一手业务/条款/评级定义与读取边界。"
+    }
+  ],
+  "coverage": [
+    {
+      "item": "公司与项目债分层、租户集中",
+      "path": "20_mechanisms/数据中心项目融资的租户信用传递.md"
+    },
+    {
+      "item": "甲骨文经营身份与信用观察",
+      "path": "10_concepts/甲骨文.md"
+    },
+    {
+      "item": "20笔项目、7图、报价时点、资金缺口和争论",
+      "path": "30_events/markets/2026年10月：AI数据中心融资的租户集中与信用分化.md"
+    },
+    {
+      "item": "信用评级与迁移、门槛出售条件",
+      "path": "10_concepts/信用评级与迁移.md#oracle-20261016"
+    },
+    {
+      "item": "CDS保护报价与概率口径",
+      "operation": "reuse",
+      "path": "10_concepts/信用违约互换CDS.md"
+    },
+    {
+      "item": "高收益/投资级工具基础",
+      "operation": "reuse",
+      "path": "10_concepts/高收益债.md"
+    },
+    {
+      "item": "GPU折旧、项目LTC/YTC、SPV及完成担保",
+      "operation": "inline",
+      "path": "30_events/markets/2026年10月：AI数据中心融资的租户集中与信用分化.md#projects"
+    }
+  ],
+  "summary": "新增甲骨文子概念、数据中心项目融资的租户信用传递关系；修改CoreWeave的项目债关联与融资情景、数据中心的主体责任、信用评级与迁移的Oracle门槛案例。另建事件和来源，保存全部7图及图文差异。",
+  "coordinator_adjustments": [
+    "事件文件按标题命名；同步引用。",
+    "CoreWeave、数据中心和评级的历史段移至来源区之前，按各自日期组织。"
+  ],
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/CoreWeave.md",
+    "10_concepts/信用评级与迁移.md",
+    "10_concepts/数据中心.md",
+    "10_concepts/甲骨文.md",
+    "20_mechanisms/数据中心项目融资的租户信用传递.md",
+    "30_events/markets/2026年10月：AI数据中心融资的租户集中与信用分化.md",
+    "40_sources/S-WS-3783754.md"
+  ]
+}

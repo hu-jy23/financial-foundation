@@ -1,0 +1,112 @@
+{
+  "article_id": 3783160,
+  "title": "A股三季度复盘：市场风格已悄然切换",
+  "files": [
+    {
+      "path": "10_concepts/科创50指数.md",
+      "draft_path": "drafts/10_concepts/科创50指数.md",
+      "operation": "new",
+      "id": "C-WS-3783160-STAR50",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "科创50指数",
+      "why": "新增000688编制对象及2026Q3历史，解释样本权重、板块/ETF和利润口径差异。"
+    },
+    {
+      "path": "10_concepts/创业板指.md",
+      "draft_path": "drafts/10_concepts/创业板指.md",
+      "operation": "new",
+      "id": "C-WS-3783160-CHINEXT",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "创业板指",
+      "why": "新增399006编制对象及2026Q3历史，分清100股指数、板块与全收益版本。"
+    },
+    {
+      "path": "10_concepts/A股市场.md",
+      "draft_path": "drafts/10_concepts/A股市场.md",
+      "operation": "update",
+      "id": "C-ASIA-01",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "A股市场",
+      "why": "补2026Q3相对表现与缩短久期解释；分开盈利预期、贴现率、交易活跃和各来源窗口。"
+    },
+    {
+      "path": "30_events/markets/A股2026年三季度风格切换与缩短久期解释.md",
+      "draft_path": "drafts/30_events/markets/A股2026年三季度风格切换与缩短久期解释.md",
+      "operation": "new",
+      "id": "E-WS-3783160",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "A股2026年三季度风格切换与缩短久期解释",
+      "why": "保存完整季度复盘、6图及作者解释；区分收益、盈利、贴现和交易证据。"
+    },
+    {
+      "path": "40_sources/S-WS-3783160.md",
+      "draft_path": "drafts/40_sources/S-WS-3783160.md",
+      "operation": "new",
+      "id": "S-WS-3783160",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "锦缎2026年三季度复盘：来源及核读范围",
+      "why": "记录6图实读和Fed/SEP/指数/按揭定向核查；保留未核数据来源和窗口。"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "科创50/创业板指身份、组合表现",
+      "operation": "new",
+      "path": "10_concepts/科创50指数.md",
+      "also": "10_concepts/创业板指.md"
+    },
+    {
+      "knowledge": "A股季度风格和盈利/贴现/成交口径",
+      "operation": "update",
+      "path": "10_concepts/A股市场.md#style-2026q3"
+    },
+    {
+      "knowledge": "股票现值、ERP及美元/人民币收益要求",
+      "operation": "reuse/inline",
+      "path": "10_concepts/股权风险溢价ERP.md",
+      "also": "30_events/markets/A股2026年三季度风格切换与缩短久期解释.md"
+    },
+    {
+      "knowledge": "融资、保证金与有条件去杠杆",
+      "operation": "reuse/inline",
+      "path": "10_concepts/融资融券与借券成本.md",
+      "also": "20_mechanisms/保证金驱动的流动性螺旋.md"
+    },
+    {
+      "knowledge": "主动基金收益样本与申赎区别",
+      "operation": "reuse/inline",
+      "path": "10_concepts/主动权益公募基金.md"
+    },
+    {
+      "knowledge": "保险OCI与红利需求",
+      "operation": "reuse/inline",
+      "path": "10_concepts/保险资金与长期资金.md#oci-equity",
+      "also": "20_mechanisms/高股息资产的债券替代效应.md"
+    },
+    {
+      "knowledge": "按揭财政补贴及地产股收益归因",
+      "operation": "reuse/inline",
+      "path": "10_concepts/房地产融资与住房按揭.md#mortgage-subsidy-202609"
+    },
+    {
+      "knowledge": "供给政策、煤价、生猪产能预期与行业组合的差异",
+      "operation": "inline",
+      "path": "30_events/markets/A股2026年三季度风格切换与缩短久期解释.md"
+    }
+  ],
+  "summary": "新增科创50指数、创业板指2个概念及1篇事件、1篇来源；修改A股市场，补三季度分化历史及盈利、贴现、成交口径。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/科创50指数.md",
+    "10_concepts/创业板指.md",
+    "10_concepts/A股市场.md",
+    "30_events/markets/A股2026年三季度风格切换与缩短久期解释.md",
+    "40_sources/S-WS-3783160.md"
+  ]
+}

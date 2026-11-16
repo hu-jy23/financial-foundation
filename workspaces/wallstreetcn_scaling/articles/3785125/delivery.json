@@ -1,0 +1,132 @@
+{
+  "article_id": 3785125,
+  "title": "AI编程之后下一个爆发点需等待---摩根大通双双下调智谱和MiniMax",
+  "files": [
+    {
+      "path": "10_concepts/MiniMax.md",
+      "draft_path": "drafts/10_concepts/MiniMax.md",
+      "operation": "new",
+      "id": "C-WS-3785125-MINIMAX",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "MiniMax",
+      "why": "维护具体模型公司的独特业务、API服务继承、观察用途与11月历史，分离ARR/收入及产品预期。",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "10_concepts/智谱.md",
+      "draft_path": "drafts/10_concepts/智谱.md",
+      "operation": "new",
+      "id": "C-WS-3785125-ZHIPU",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "智谱",
+      "why": "维护具体模型公司的独特业务、API服务继承、观察用途与11月历史，分离ARR/收入及产品预期。",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "20_mechanisms/模型效率、推理成本与总算力需求.md",
+      "draft_path": "drafts/20_mechanisms/模型效率、推理成本与总算力需求.md",
+      "operation": "update",
+      "id": "R-TECH-03",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "模型效率、推理成本与总算力需求",
+      "why": "在logic-1/2补分层报价、毛利与Ramp量价支出历史，同步两公司关联节点。",
+      "node_ids": [
+        "C-TECH-01",
+        "C-TECH-03",
+        "C-TECH-02",
+        "C-WS-3785125-ZHIPU",
+        "C-WS-3785125-MINIMAX"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-TECH-01",
+            "C-TECH-02",
+            "C-TECH-03",
+            "C-WS-3785125-ZHIPU",
+            "C-WS-3785125-MINIMAX"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-TECH-01",
+            "C-TECH-03",
+            "C-WS-3785125-ZHIPU",
+            "C-WS-3785125-MINIMAX"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-TECH-01",
+            "C-TECH-02",
+            "C-TECH-03"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/模型服务的需求空档、分层定价与估值下修：2026年11月.md",
+      "draft_path": "drafts/30_events/markets/模型服务的需求空档、分层定价与估值下修：2026年11月.md",
+      "operation": "new",
+      "id": "E-WS-3785125",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "模型服务的需求空档、分层定价与估值下修：2026年11月",
+      "why": "保存两目标价与预测差异、需求门槛、公司资金和七图，逐项解释数据口径。"
+    },
+    {
+      "path": "40_sources/S-WS-3785125.md",
+      "draft_path": "drafts/40_sources/S-WS-3785125.md",
+      "operation": "new",
+      "id": "S-WS-3785125",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "模型服务需求与估值：来源及读取范围",
+      "why": "登记全文七图及五项定向一手核读，列具体未核原件和图文差异。"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "模型服务的主体、交付、分层产品与观察用途",
+      "path": "10_concepts/智谱.md；10_concepts/MiniMax.md"
+    },
+    {
+      "knowledge": "价格、单位成本、调用与收入",
+      "path": "20_mechanisms/模型效率、推理成本与总算力需求.md#logic-1；#logic-2"
+    },
+    {
+      "knowledge": "METR、20步算例、ARR、融资、远期估值与7图",
+      "path": "30_events/markets/模型服务的需求空档、分层定价与估值下修：2026年11月.md"
+    },
+    {
+      "knowledge": "Cursor/Harvey及作者劳动力比喻",
+      "placement": "事件内文，不单独注册作者模型或短提公司"
+    }
+  ],
+  "summary": "新增智谱、MiniMax两个子概念及事件、来源各一篇；修改模型效率机制logic-1/2，补分层报价/毛利与Ramp量价支出历史并关联两主体。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/MiniMax.md",
+    "10_concepts/智谱.md",
+    "20_mechanisms/模型效率、推理成本与总算力需求.md",
+    "30_events/markets/模型服务的需求空档、分层定价与估值下修：2026年11月.md",
+    "40_sources/S-WS-3785125.md"
+  ]
+}

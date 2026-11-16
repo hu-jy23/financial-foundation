@@ -1,0 +1,59 @@
+{
+  "article_id": 3767144,
+  "title": "开年外贸：闪耀的非常信号",
+  "read_scope": "全文/metadata及6图（9研究图）逐图；现行思想标准与相关样例/目录/人民币和贸易调整页",
+  "new_nodes": [],
+  "proposed_files": [
+    {
+      "operation": "update",
+      "entry_kind": "concept",
+      "id": "C-FX-02",
+      "path": "10_concepts/人民币与离岸人民币.md",
+      "why": "补3月10日出口顺差支持人民币的当时判断；货物顺差/经常账户/出口收款结汇三层分开，保留11月截止"
+    },
+    {
+      "operation": "new",
+      "entry_kind": "event",
+      "id": "E-WS-3767144",
+      "path": "30_events/markets/开年外贸的季节性、订单与结汇：2026年3月判断.md"
+    },
+    {
+      "operation": "new",
+      "entry_kind": "source",
+      "id": "S-WS-3767144",
+      "path": "40_sources/S-WS-3767144.md"
+    }
+  ],
+  "important_knowledge": [
+    {
+      "topic": "出口金额/价格/数量、美元与人民币、春节/工作日",
+      "placement": "事件；21.8是美元同比，财政表动态页未完整返回，不冒称独立核原表；图2原图4纵轴误标1—2月而外题三月"
+    },
+    {
+      "topic": "全球制造业PMI/资本开支",
+      "placement": "事件，51.9是扩散调查，不能确认资本开支数量；中国49.0等反例"
+    },
+    {
+      "topic": "目的地增速、基期份额与增长贡献、转口",
+      "placement": "事件，非洲49.9不等贡献最大，目的地不直接识别最终消费或转口量"
+    },
+    {
+      "topic": "光伏/电池退税与抢出口",
+      "placement": "事件；已核1月8公告正文4条，4月1执行按报关日期；光伏与电池政策不同，不将汽车/塑玻全部纳入"
+    },
+    {
+      "topic": "进口量价和内需、顺差和汇率",
+      "placement": "人民币短历史及事件；图9写2026年2月减2015年12月疑似年份标签，未擅改2025；量增可由补库存/加工出口而来"
+    }
+  ],
+  "external_checks": [
+    {
+      "url": "https://szs.mof.gov.cn/zhengcefabu/202601/t20260109_3981637.htm",
+      "scope": "全部四条正文，未读附件产品清单"
+    },
+    {
+      "url": "https://fdi.mofcom.gov.cn/come-datatongji-con.html?id=16727",
+      "scope": "仅搜索返回表头，打开未返回数据正文，不计完整已读原表"
+    }
+  ]
+}
