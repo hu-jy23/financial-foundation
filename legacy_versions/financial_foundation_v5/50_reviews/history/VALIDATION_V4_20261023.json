@@ -1,0 +1,37 @@
+{
+  "package_version": "v4",
+  "checked_at": "2026-10-23",
+  "markdown_files": 40,
+  "local_links_checked": 1147,
+  "yaml_documents_parsed": 28,
+  "errors": [],
+  "catalog_counts": {
+    "concepts": {
+      "groups": 21,
+      "items": 349,
+      "p0": 39,
+      "complete": 2,
+      "candidate": 347
+    },
+    "mechanisms": {
+      "groups": 16,
+      "items": 175,
+      "p0": 33,
+      "complete": 2,
+      "candidate": 173
+    },
+    "deferred": {
+      "items": 2
+    },
+    "changes": {
+      "original_concepts": 342,
+      "added_concepts": 7,
+      "original_mechanisms": 177,
+      "deferred_mechanisms": 2
+    }
+  },
+  "catalog_entries_unchanged": true,
+  "fiscal_new_economic_body_unchanged": true,
+  "real_rate_and_gold_unchanged_from_v3": true,
+  "scope": "Local structure, YAML, links, catalogue equality and selected body comparisons. External source review scope is documented separately; no claim of full current market coverage."
+}

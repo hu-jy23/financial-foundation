@@ -1,0 +1,34 @@
+{
+  "version": "v5",
+  "date": "2026-10-24",
+  "objects": 163,
+  "mechanisms": 177,
+  "complete_concepts": 2,
+  "complete_mechanisms": 2,
+  "original_object_ids_preserved": 349,
+  "selection_scope_verified": true,
+  "local_links_checked": 1314,
+  "embedded_images": 45,
+  "original_pdf_pages": 46,
+  "image_hashes_verified": 46,
+  "image_resolution": [
+    1920,
+    1080
+  ],
+  "event_migrations_checked": 14,
+  "legacy_event_ids_resolve": 18,
+  "yaml_documents": 20,
+  "economic_body_checks": {
+    "C-IR-REAL_real_interest_rate.md": true,
+    "C-IR-TERM_term_premium.md": true,
+    "R-FISCAL-LONGYIELD_fiscal_long_yields.md": true,
+    "R-GOLD-REALRATES_real_rates_gold.md": true
+  },
+  "mechanisms_needing_node_review": 24,
+  "errors": [],
+  "limitations": [
+    "No new external factual research in this packaging.",
+    "Most candidates are not authored; relationship selection beyond the specified edits remains for later review.",
+    "Course claims retain their original provenance and existing verification limits."
+  ]
+}

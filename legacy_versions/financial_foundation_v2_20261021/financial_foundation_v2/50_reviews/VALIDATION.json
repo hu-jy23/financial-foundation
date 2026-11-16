@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-10-21",
+  "result": "passed",
+  "scope": "YAML, unique IDs, relative paths and explicit anchors, source IDs, catalog counts, completed logic groups and record fields. No market or causal backtest.",
+  "counts": {
+    "concepts": 349,
+    "mechanisms": 175,
+    "complete_examples": 4,
+    "events_observations": 17,
+    "source_entries": 44,
+    "markdown_files": 35,
+    "internal_links_checked": 1076
+  },
+  "errors": [],
+  "sample_sha256": {
+    "10_concepts/C-IR-TERM_term_premium.md": "3d8d0d63b22709ccef930db7a48015bd1dbf87ca19386d5454184714461b9444",
+    "10_concepts/C-IR-REAL_real_interest_rate.md": "d9f7a7a40362521ce5421311b0e797985ec46f2586f1834dcf2a3ee688c74ea6",
+    "20_mechanisms/R-FISCAL-LONGYIELD_fiscal_long_yields.md": "4b2dd6151016ae9b2dce991be66c54147b47d5503b212b3204ffe7266a6b74fe",
+    "20_mechanisms/R-GOLD-REALRATES_real_rates_gold.md": "c6e6bf5ec531728e791dfe721ab32b373fa31e94f927a621ac4c78ab0ca33991"
+  }
+}

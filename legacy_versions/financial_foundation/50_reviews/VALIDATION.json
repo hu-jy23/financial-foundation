@@ -1,0 +1,36 @@
+{
+  "checked_at": "2026-10-20",
+  "catalog_counts": {
+    "concepts": {
+      "groups": 21,
+      "items": 342,
+      "p0": 39
+    },
+    "mechanisms": {
+      "groups": 16,
+      "items": 177,
+      "p0": 33
+    }
+  },
+  "markdown_files": 19,
+  "typed_documents": {
+    "C-IR-REAL": "10_concepts/C-IR-REAL_real_interest_rate.md",
+    "C-IR-TERM": "10_concepts/C-IR-TERM_term_premium.md",
+    "R-FISCAL-LONGYIELD": "20_mechanisms/R-FISCAL-LONGYIELD_fiscal_long_yields.md",
+    "R-GOLD-REALRATES": "20_mechanisms/R-GOLD-REALRATES_real_rates_gold.md",
+    "E-20200315-FOMC": "30_events/E-20200315-FOMC.md",
+    "E-20220921-FOMC": "30_events/E-20220921-FOMC.md",
+    "E-2023-GOLD": "30_events/E-2023-GOLD.md",
+    "O-20130926-STEIN": "30_events/agent_concept/O-20130926-STEIN.md",
+    "O-20240903-2023TERM": "30_events/agent_concept/O-20240903-2023TERM.md",
+    "E-20090318-LSAP": "30_events/agent_mechanism/E-20090318-LSAP.md",
+    "E-2023Q3-REFUNDING": "30_events/agent_mechanism/E-2023Q3-REFUNDING.md"
+  },
+  "broken_relative_links": [],
+  "metadata_errors": [],
+  "unknown_related_ids": [],
+  "subagent_original_sha256": {
+    "10_concepts/C-IR-TERM_term_premium.md": "4dc89ee6af2f2061764ee9860a4fd763d7bffa9f807c9e5a7bc7d7d5eaf8aa85",
+    "20_mechanisms/R-FISCAL-LONGYIELD_fiscal_long_yields.md": "af33e3669d189a3efc19ad3c45b32e5b705a6fda75f9f78f1c97df09f463dc98"
+  }
+}

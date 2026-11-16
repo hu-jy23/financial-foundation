@@ -1,0 +1,75 @@
+{
+  "version": "v5",
+  "original_objects": 349,
+  "active_objects": 163,
+  "restored_ids": [
+    "C-CREDIT-04",
+    "C-CREDIT-16",
+    "C-COMMOD-09",
+    "C-CN-TSF",
+    "C-ASIA-04"
+  ],
+  "requested_restore_already_selected": [
+    "C-COMMOD-14"
+  ],
+  "removed_by_user": [
+    "C-GLOBAL-10"
+  ],
+  "moves": {
+    "C-FX-15": "R-USD-GLOBAL",
+    "C-FX-16": "R-INTERNATIONAL-12",
+    "C-BOND-12": "R-IR-CURVE-SHAPE",
+    "C-ASIA-14": "R-RMB-INTERNATIONALIZATION",
+    "C-GLOBAL-14": "R-INTERNATIONAL-13"
+  },
+  "splits": {
+    "C-DERIV-15": {
+      "object_id": "C-DERIV-15",
+      "object_name": "基差",
+      "mechanism_id": "R-DERIVATIVES-02"
+    },
+    "C-MONEY-07": {
+      "object_id": "C-MONEY-07",
+      "object_name": "准备金利率",
+      "mechanism_id": "R-MONETARY-07"
+    },
+    "C-CREDIT-16": {
+      "object_id": "C-CREDIT-16",
+      "object_name": "金融周期",
+      "mechanism_id": "R-BANKING-12"
+    }
+  },
+  "narrowed_without_extra_restore": {
+    "C-ASIA-04": {
+      "new_name": "宽基ETF",
+      "not_restored": "行业ETF"
+    }
+  },
+  "new_mechanism_ids": [
+    "R-IR-CURVE-SHAPE",
+    "R-RMB-INTERNATIONALIZATION"
+  ],
+  "not_adopted": {
+    "additional_restores": [
+      "期货",
+      "期权",
+      "黄金ETF",
+      "不良贷款",
+      "持仓拥挤",
+      "行业ETF"
+    ],
+    "additional_moves": [
+      "货币创造与银行贷款",
+      "动态对冲与对冲误差",
+      "风险平价与波动率目标",
+      "平台竞争与网络效应"
+    ],
+    "additional_splits": [
+      "证券化与资产支持证券",
+      "ETF申赎与二级市场交易",
+      "趋势跟随与CTA",
+      "铝与电力成本",
+      "战略储备与能源安全"
+    ]
+  }
+}

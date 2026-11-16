@@ -1,0 +1,23 @@
+{
+  "checked_at": "2026-10-23",
+  "package_version": "v3",
+  "result": "passed",
+  "scope": "Complete package assembly; Markdown YAML, relative links and anchors, candidate IDs, catalog paths, source/event inclusion, and zip integrity. Prior evidence dates remain attached to each document. No new market data review in this packaging step.",
+  "counts": {
+    "concepts": 349,
+    "mechanisms": 175,
+    "complete_examples": 4,
+    "events_observations": 18,
+    "source_entries": 45,
+    "candidate_source_groups": 25,
+    "markdown_files": 37,
+    "internal_links_checked": 1084
+  },
+  "errors": [],
+  "sample_sha256": {
+    "10_concepts/C-IR-REAL_real_interest_rate.md": "576427e88307e003ff00eb1ae768c2f4ec9caaaa9928d520e5d2c90eae6cd427",
+    "10_concepts/C-IR-TERM_term_premium.md": "ff16092c7b2c74206583430fb8ca763ba93ef36fd497833156ebcf5678f0e50e",
+    "20_mechanisms/R-FISCAL-LONGYIELD_fiscal_long_yields.md": "2b02234b0a0665d6001c23b4cfacc0c9934a838aefead1aa62ce2bf081cd8f39",
+    "20_mechanisms/R-GOLD-REALRATES_real_rates_gold.md": "e2adb260c18b6573be7a70a4a8455f441b04a8cb3fcc0193480cd9e14baf1225"
+  }
+}
