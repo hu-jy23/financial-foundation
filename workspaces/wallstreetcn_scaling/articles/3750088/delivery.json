@@ -1,0 +1,96 @@
+{
+  "article_id": 3750088,
+  "title": "PMI稳住了吗？",
+  "files": [
+    {
+      "path": "10_concepts/DR007、R007与同业存单.md",
+      "draft_path": "drafts/10_concepts/DR007、R007与同业存单.md",
+      "operation": "update",
+      "id": "C-CHINA-09",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "DR007、R007与同业存单",
+      "why": "补2025-06-30民生资金趋松判断，分开DR007月均与7天OMO及政策执行，保留原较晚截止。"
+    },
+    {
+      "path": "30_events/markets/PMI反弹的广度与政策响应：2025年6月民生判断.md",
+      "draft_path": "drafts/30_events/markets/PMI反弹的广度与政策响应：2025年6月民生判断.md",
+      "operation": "new",
+      "id": "E-WS-3750088",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "PMI反弹的广度与政策响应：2025年6月民生判断",
+      "why": "保存PMI反弹广度、分项合成、季调/工作日、关税、规模/价格、货币财政和建筑服务八图及当时预期。",
+      "node_ids": [
+        "C-CHINA-09",
+        "C-BOND-04"
+      ],
+      "related_mechanism_ids": [
+        "R-GEOPOLITICS-02",
+        "R-CN-CREDIT"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3750088.md",
+      "draft_path": "drafts/40_sources/S-WS-3750088.md",
+      "operation": "new",
+      "id": "S-WS-3750088",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "民生六月PMI分析：来源与核读范围",
+      "why": "登记本地8图、当日官方表/编制方法实际核读、拟合与政策触发边界。"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "PMI及五项合成/配送逆向",
+      "operation": "inline",
+      "path": "30_events/markets/PMI反弹的广度与政策响应：2025年6月民生判断.md#reading",
+      "related_ids": []
+    },
+    {
+      "knowledge": "工作日/季调/市场预期",
+      "operation": "inline",
+      "path": "30_events/markets/PMI反弹的广度与政策响应：2025年6月民生判断.md#calendar",
+      "related_ids": []
+    },
+    {
+      "knowledge": "跨国与关税/用工预期",
+      "operation": "inline",
+      "path": "30_events/markets/PMI反弹的广度与政策响应：2025年6月民生判断.md#external",
+      "related_ids": [
+        "R-GEOPOLITICS-02"
+      ]
+    },
+    {
+      "knowledge": "规模/价格扩散",
+      "operation": "inline",
+      "path": "30_events/markets/PMI反弹的广度与政策响应：2025年6月民生判断.md#dispersion",
+      "related_ids": []
+    },
+    {
+      "knowledge": "DR007/OMO与专项债政策判断",
+      "operation": "inline",
+      "path": "30_events/markets/PMI反弹的广度与政策响应：2025年6月民生判断.md#policy",
+      "related_ids": [
+        "C-CHINA-09",
+        "C-BOND-04",
+        "R-CN-CREDIT"
+      ]
+    },
+    {
+      "knowledge": "建筑/服务及审批到支出",
+      "operation": "inline",
+      "path": "30_events/markets/PMI反弹的广度与政策响应：2025年6月民生判断.md#services",
+      "related_ids": []
+    }
+  ],
+  "summary": "新增事件分析、来源各1篇；修改《DR007、R007与同业存单》：补2025年6月底资金趋松判断及市场/政策利率区别。新增图谱节点0。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/DR007、R007与同业存单.md",
+    "30_events/markets/PMI反弹的广度与政策响应：2025年6月民生判断.md",
+    "40_sources/S-WS-3750088.md"
+  ]
+}

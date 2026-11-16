@@ -1,0 +1,119 @@
+{
+  "article_id": 3783904,
+  "title": "柴油危机，对美国通胀影响多大？",
+  "read_scope": "全文、metadata、8张原图（内含图表1—14）逐图核读，重复核心观点/正文仅作同一论证；已读现行思想、说明、形成原则与相关原油/通胀页及第11篇事件。",
+  "model": "inherited_unverified",
+  "new_nodes": [
+    {
+      "id": "C-WS-3783904-DIESEL",
+      "title": "柴油",
+      "type": "concept",
+      "entry_kind": "concept",
+      "path": "10_concepts/柴油.md",
+      "why": "可交付的具体能源商品及期货/裂解价差标的，独立承载炼油、馏分油统计、跨区贸易、批发与零售差异，观察炼化瓶颈如何独立于原油影响运输/农业成本。原油是投入品，不强设为柴油的类别父项；现图无成品油父项。"
+    }
+  ],
+  "proposed_files": [
+    {
+      "operation": "new",
+      "entry_kind": "concept",
+      "id": "C-WS-3783904-DIESEL",
+      "path": "10_concepts/柴油.md"
+    },
+    {
+      "operation": "update",
+      "entry_kind": "concept",
+      "id": "C-INF-INFLATION",
+      "path": "10_concepts/通货膨胀.md",
+      "why": "补2026年10月柴油例子，区分直接篮子贡献、间接核心商品影响与模型反事实；运输服务0.01%实际与BLS狭窄Delivery services匹配，不能泛化整个Transportation services。仅短段，完整测算归事件。"
+    },
+    {
+      "operation": "update",
+      "entry_kind": "relation",
+      "id": "R-OIL-SHOCK",
+      "path": "20_mechanisms/原油供给冲击的宏观传导.md",
+      "why": "logic-1补炼油/联合产品和出口净回值约束，logic-2补CPI直接/间接与滞后成本吸收；保留18刚接入的2025海峡情景，新增柴油节点参与1/2，不另造普通成本关系。"
+    },
+    {
+      "operation": "new",
+      "entry_kind": "event",
+      "id": "E-WS-3783904",
+      "path": "30_events/markets/柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断.md",
+      "why": "完整保留供给/贸易、CPI分项、当时0.45/0.23pp路径、出口禁令争议及8图；峰值预测与数据校核分开。"
+    },
+    {
+      "operation": "new",
+      "entry_kind": "source",
+      "id": "S-WS-3783904",
+      "path": "40_sources/S-WS-3783904.md",
+      "why": "登记图文、EIA/BLS/ATRI与10月5白宫文本的实读；原模型、FedEx定价、IEA细表/俄罗斯许可未取得。"
+    }
+  ],
+  "important_knowledge": [
+    {
+      "knowledge": "柴油、馏分油、ULSD、取暖油与RBOB/Brent",
+      "placement": "柴油新页及事件，馏分油统计宽于公路柴油；一加仑价和每桶价先统一42美制加仑/桶。"
+    },
+    {
+      "knowledge": "裂解价差、炼化与联合生产、跨区出口净回值",
+      "placement": "柴油页简明定义；原油logic-1补国内净出口仍面对国际价格及禁出口可能影响汽油，具体政策分支在事件。"
+    },
+    {
+      "knowledge": "CPI权重/贡献、核心重加权与配送费",
+      "placement": "通胀页短补＋事件，官方8月Delivery services权重0.005%、同比14.2%匹配图8的0.01四舍五入；广义Transportation services权重6.310%、同比2.4%，两者不同。"
+    },
+    {
+      "knowledge": "货运燃料成本、农民议价与商品零售价",
+      "placement": "事件解释ATRI总2.336减非燃料1.854=0.482美元/英里，20.6%成本份额不等终端CPI份额，成本传给运价/商品须看合同与利润。"
+    },
+    {
+      "knowledge": "机构脉冲模型与未来CPI路径",
+      "placement": "事件保存6个月响应和2027-01头条/核心0.45/0.23pp，但图内同比10%和正文当月10%冲击定义不一致；不注册通用模型，不作为实际已实现贡献。"
+    },
+    {
+      "knowledge": "期货曲线、基差和税费政策",
+      "placement": "事件图区分批发远期定价与零售外推；10月5行政令定向核正文，税款递延不等已永久免税，俄罗斯许可仅保留报道归属。"
+    }
+  ],
+  "figure_findings": [
+    "图1/2为不同规格/市场、批发零售，图3现货133/期货105的基准/月份不能直接当无套利利润。",
+    "图6为10月2周止4周平均，不是2026全年；产量5170+进口118−出口1560−产品供应3769=-41千桶/日，剩余还涉及库存/调整，不能只用产量大于国内量推出库存必增。",
+    "图7标题2026月均按正文为1—7月，荷兰99→211千桶/日，但巴西84低于旧100，标题西欧增量不等每个美洲国家出口都降。",
+    "图8的运输服务0.01%/14.2%匹配BLS Delivery services的0.005%/14.2%而非广义Transportation services；核心CPI79.1是总篮子份额，核心内部重新标准化。",
+    "图11图内为柴油价格同比上涨10%，正文部分为当月上涨10%，未给原始模型/因果识别；图12的0.08和0.045可用报告权重作量级桥接，但不构成独立实证验证。",
+    "图13外标题柴油、图内却写零售汽油期货曲线，未给合约/提取时点/零售映射，不能自行断定哪一标签应改；图14为该条件路径下峰值，不是总体CPI预测值。"
+  ],
+  "external_checks": [
+    {
+      "url": "https://www.eia.gov/energyexplained/diesel-fuel/",
+      "scope": "What is diesel fuel/What is diesel fuel made from，定义与ULSD；不取当前实时行情。"
+    },
+    {
+      "url": "https://www.eia.gov/finance/markets/products/prices.php",
+      "scope": "成品油、裂解价差、ULSD期货标的与季节性部分。"
+    },
+    {
+      "url": "https://www.eia.gov/todayinEnergy/detail.php?id=68164",
+      "scope": "2026-09-18正文，价格拆分、全球炼化紧张/美国净出口与库存联系，作为较早独立官方解释。"
+    },
+    {
+      "url": "https://www.bls.gov/news.release/archives/cpi_09112026.htm",
+      "scope": "2026-08发布表2/3/7相关行与表头，核Delivery services与Transportation services、权重/贡献；未重建完整CPI篮子。"
+    },
+    {
+      "url": "https://www.bls.gov/cpi/additional-resources/entry-level-item-descriptions.htm",
+      "scope": "EC021 Delivery services定义及排除项，不将全部货运成本计入该分项。"
+    },
+    {
+      "url": "https://truckingresearch.org/2026/07/new-atri-report-details-accelerating-costs-and-low-profitability-despite-cuts/",
+      "scope": "2026-07-15研究机构新闻稿全文，总成本与非燃料成本；未取得完整65页报告。"
+    },
+    {
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diesel-fuel/",
+      "scope": "2026-10-05行政令正文，定向核2—4节递延、罚款和待落实安排；不逐项核IRS后续或州实施。"
+    }
+  ],
+  "limitations": [
+    "未取得华泰完整报告、脉冲响应模型、期货报价转换算法或关键地缘/俄罗斯许可证原文，预测保持研究归属；不补10月19日之后的实现结果。"
+  ]
+}

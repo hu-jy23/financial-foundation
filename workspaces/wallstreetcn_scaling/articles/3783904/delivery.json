@@ -1,0 +1,125 @@
+{
+  "article_id": 3783904,
+  "title": "柴油危机，对美国通胀影响多大？",
+  "files": [
+    {
+      "path": "10_concepts/柴油.md",
+      "operation": "new",
+      "entry_kind": "concept",
+      "id": "C-WS-3783904-DIESEL",
+      "draft_path": "drafts/10_concepts/柴油.md",
+      "type": "concept",
+      "title": "柴油",
+      "why": "可交付的具体能源商品及期货/裂解价差标的，独立承载炼油、馏分油统计、跨区贸易、批发与零售差异，观察炼化瓶颈如何独立于原油影响运输/农业成本。原油是投入品，不强设为柴油的类别父项；现图无成品油父项。"
+    },
+    {
+      "path": "10_concepts/通货膨胀.md",
+      "operation": "update",
+      "entry_kind": "concept",
+      "id": "C-INF-INFLATION",
+      "draft_path": "drafts/10_concepts/通货膨胀.md",
+      "type": "concept",
+      "title": "通货膨胀",
+      "why": "补2026年10月柴油例子，区分直接篮子贡献、间接核心商品影响与模型反事实；运输服务0.01%实际与BLS狭窄Delivery services匹配，不能泛化整个Transportation services。仅短段，完整测算归事件。"
+    },
+    {
+      "path": "20_mechanisms/原油供给冲击的宏观传导.md",
+      "operation": "update",
+      "entry_kind": "relation",
+      "id": "R-OIL-SHOCK",
+      "draft_path": "drafts/20_mechanisms/原油供给冲击的宏观传导.md",
+      "type": "mechanism",
+      "title": "原油供给冲击的宏观传导",
+      "why": "logic-1补炼油/联合产品和出口净回值约束，logic-2补CPI直接/间接与滞后成本吸收；保留18刚接入的2025海峡情景，新增柴油节点参与1/2，不另造普通成本关系。",
+      "node_ids": [
+        "C-COMMOD-03",
+        "C-COMMOD-13",
+        "C-INF-INFLATION",
+        "C-WS-3783904-DIESEL"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-COMMOD-03",
+            "C-COMMOD-13",
+            "C-WS-3783904-DIESEL"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-COMMOD-03",
+            "C-INF-INFLATION",
+            "C-WS-3783904-DIESEL"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断.md",
+      "operation": "new",
+      "entry_kind": "event",
+      "id": "E-WS-3783904",
+      "draft_path": "drafts/30_events/markets/柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断.md",
+      "type": "analysis_note",
+      "title": "柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断",
+      "why": "完整保留供给/贸易、CPI分项、当时0.45/0.23pp路径、出口禁令争议及8图；峰值预测与数据校核分开。"
+    },
+    {
+      "path": "40_sources/S-WS-3783904.md",
+      "operation": "new",
+      "entry_kind": "source",
+      "id": "S-WS-3783904",
+      "draft_path": "drafts/40_sources/S-WS-3783904.md",
+      "type": "source_note",
+      "title": "华泰柴油与美国通胀研究：来源与核读范围",
+      "why": "登记图文、EIA/BLS/ATRI与10月5白宫文本的实读；原模型、FedEx定价、IEA细表/俄罗斯许可未取得。"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "柴油、馏分油、ULSD、取暖油与RBOB/Brent",
+      "placement": "柴油新页及事件，馏分油统计宽于公路柴油；一加仑价和每桶价先统一42美制加仑/桶。",
+      "path": "10_concepts/柴油.md"
+    },
+    {
+      "knowledge": "裂解价差、炼化与联合生产、跨区出口净回值",
+      "placement": "柴油页简明定义；原油logic-1补国内净出口仍面对国际价格及禁出口可能影响汽油，具体政策分支在事件。",
+      "path": "30_events/markets/柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断.md"
+    },
+    {
+      "knowledge": "CPI权重/贡献、核心重加权与配送费",
+      "placement": "通胀页短补＋事件，官方8月Delivery services权重0.005%、同比14.2%匹配图8的0.01四舍五入；广义Transportation services权重6.310%、同比2.4%，两者不同。",
+      "path": "30_events/markets/柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断.md"
+    },
+    {
+      "knowledge": "货运燃料成本、农民议价与商品零售价",
+      "placement": "事件解释ATRI总2.336减非燃料1.854=0.482美元/英里，20.6%成本份额不等终端CPI份额，成本传给运价/商品须看合同与利润。",
+      "path": "30_events/markets/柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断.md"
+    },
+    {
+      "knowledge": "机构脉冲模型与未来CPI路径",
+      "placement": "事件保存6个月响应和2027-01头条/核心0.45/0.23pp，但图内同比10%和正文当月10%冲击定义不一致；不注册通用模型，不作为实际已实现贡献。",
+      "path": "30_events/markets/柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断.md"
+    },
+    {
+      "knowledge": "期货曲线、基差和税费政策",
+      "placement": "事件图区分批发远期定价与零售外推；10月5行政令定向核正文，税款递延不等已永久免税，俄罗斯许可仅保留报道归属。",
+      "path": "30_events/markets/柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断.md"
+    }
+  ],
+  "summary": "新增《柴油》概念、事件及来源各1篇；修改《通货膨胀》的直接/间接贡献与配送小项辨析，修改原油机制的炼化独立瓶颈、联合生产和成本滞后。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/柴油.md",
+    "10_concepts/通货膨胀.md",
+    "20_mechanisms/原油供给冲击的宏观传导.md",
+    "30_events/markets/柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断.md",
+    "40_sources/S-WS-3783904.md"
+  ]
+}

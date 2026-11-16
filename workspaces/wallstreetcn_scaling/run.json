@@ -288,8 +288,9 @@
       "author_group": "世界黄金协会",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3785076",
-      "status": "drafting",
-      "agent": "/root/scale_19"
+      "status": "adopted",
+      "agent": "/root/scale_19",
+      "files": 4
     },
     {
       "sequence": 20,
@@ -302,9 +303,10 @@
       "author_group": "华泰证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3783904",
-      "status": "reading",
+      "status": "adopted",
       "agent": "/root/scale_20",
-      "base_snapshot": "/tmp/scaling_article20_base.json"
+      "base_snapshot": "/tmp/scaling_article20_base.json",
+      "files": 5
     },
     {
       "sequence": 21,
@@ -317,8 +319,9 @@
       "author_group": "美国银行",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3763441",
-      "status": "drafting",
-      "agent": "/root/scale_21"
+      "status": "adopted",
+      "agent": "/root/scale_21",
+      "files": 6
     },
     {
       "sequence": 22,
@@ -331,7 +334,9 @@
       "author_group": "民生证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3750088",
-      "status": "queued"
+      "status": "adopted",
+      "agent": "/root/scale_22",
+      "files": 3
     },
     {
       "sequence": 23,
@@ -344,7 +349,8 @@
       "author_group": "摩根大通",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3785125",
-      "status": "queued"
+      "status": "drafting",
+      "agent": "/root/scale_23"
     },
     {
       "sequence": 24,
@@ -357,7 +363,9 @@
       "author_group": "德意志银行",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3783754",
-      "status": "queued"
+      "status": "reading",
+      "agent": "/root/scale_24",
+      "base_snapshot": "/tmp/scaling_wave9_base.json"
     },
     {
       "sequence": 25,
@@ -370,7 +378,9 @@
       "author_group": "锦缎",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3783160",
-      "status": "queued"
+      "status": "reading",
+      "agent": "/root/scale_25",
+      "base_snapshot": "/tmp/scaling_wave9_base.json"
     },
     {
       "sequence": 26,
@@ -689,6 +699,12 @@
       "commit": "a435e3c",
       "accepted": 15,
       "new_nodes": 10
+    },
+    {
+      "batch": 6,
+      "commit": "95abff6",
+      "accepted": 18,
+      "new_nodes": 12
     }
   ]
 }

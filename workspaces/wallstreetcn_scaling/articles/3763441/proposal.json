@@ -1,0 +1,139 @@
+{
+  "article_id": 3763441,
+  "title": "美银美林2026年十大灰天鹅：铀价暴涨50%……英格兰喜夺世界杯？",
+  "read_scope": "全文、metadata和8图位已逐图核读（7分析图、1推广）。现行说明/Step0思想/形成原则及ETF、ABS、标普等权相关正文和GLD/杠杆ETF样例已读。",
+  "model": "inherited_unverified",
+  "new_nodes": [
+    {
+      "id": "C-WS-3763441-URANIUM",
+      "title": "铀",
+      "entry_kind": "concept",
+      "path": "10_concepts/铀.md",
+      "why": "文中核心实物能源标的，现图无独立对象。保存U3O8报价、天然铀/转化/浓缩/燃料制造的不同约束及价格历史；观察核电采购、供给安全和电力扩张，不能用浓缩补贴直接当矿产供给或用股价代替原料价。无强设父项。"
+    },
+    {
+      "id": "C-WS-3763441-CLOETF",
+      "title": "CLO ETF",
+      "entry_kind": "subconcept",
+      "path": "10_concepts/CLO ETF.md",
+      "parent_ids": [
+        "C-WS-3749421-BONDETF"
+      ],
+      "parent_relation": "instrument_subtype",
+      "why": "继承第18篇拟新增债券ETF的净值/交易/申赎和固定收益风险，独立解释贷款池—CLO分层—基金三个层次、浮息重置与信用利差/流动性风险。若18未采用则与主agent协调父项，非自行注册。已有ABS页只有CLO简提，基础分层复用，CLO本体不再重复建页。"
+    },
+    {
+      "id": "C-WS-3763441-CEF",
+      "title": "上市封闭式基金CEF",
+      "entry_kind": "concept",
+      "path": "10_concepts/上市封闭式基金CEF.md",
+      "why": "与ETF不同的基金资本结构，现图无载体；解释持有人通常不能按需按NAV赎回、二级折溢价、杠杆/分配与净发行；可持续观察零售风险承担和非流动资产载体融资。不能误作ETF子概念。"
+    }
+  ],
+  "proposed_files": [
+    {
+      "path": "10_concepts/铀.md",
+      "operation": "new",
+      "id": "C-WS-3763441-URANIUM",
+      "entry_kind": "concept"
+    },
+    {
+      "path": "10_concepts/CLO ETF.md",
+      "operation": "new",
+      "id": "C-WS-3763441-CLOETF",
+      "entry_kind": "subconcept"
+    },
+    {
+      "path": "10_concepts/上市封闭式基金CEF.md",
+      "operation": "new",
+      "id": "C-WS-3763441-CEF",
+      "entry_kind": "concept"
+    },
+    {
+      "path": "10_concepts/标普500与等权指数.md",
+      "operation": "update",
+      "id": "C-WS-3783332-SP500",
+      "entry_kind": "concept",
+      "why": "补2026年1月美银等权跑赢预期，及与已保存10月分化的不同窗口；+6%/-1%为机构估值隐含长期回报、未给期限和模型，不改写成2026目标回报。保留11月规则截止。"
+    },
+    {
+      "path": "30_events/markets/十项反共识情景与旧预测复盘：美银2026年1月展望.md",
+      "operation": "new",
+      "id": "E-WS-3763441",
+      "entry_kind": "event",
+      "why": "按增长/美元、股权/能源、信贷/基金三组金融联系保存九项情景、世界杯简记及7图；2025复盘独立章节，区分结果与原解释。"
+    },
+    {
+      "path": "40_sources/S-WS-3763441.md",
+      "operation": "new",
+      "id": "S-WS-3763441",
+      "entry_kind": "source",
+      "why": "登记图文实读、官方基本定义与DOE政策核读、原研报未取得及图文矛盾。"
+    }
+  ],
+  "important_knowledge": [
+    {
+      "knowledge": "灰天鹅、反共识、硬/软数据和GDP预测",
+      "placement": "事件解释机构情景与基准/共识差，图1标准化均值不等于GDP；不另造通用认知对象。"
+    },
+    {
+      "knowledge": "美元再平衡、USD/CNY目标",
+      "placement": "事件保留年底6.8与正文5/4远期引述，不作为统一机构点位或借图题断言15年低点；复用人民币/美元和汇率调整机制。"
+    },
+    {
+      "knowledge": "标普市值/等权、盈利扩散与估值回报",
+      "placement": "旧指数页短历史＋事件，不以市值和等权不同暴露直接识别资金。"
+    },
+    {
+      "knowledge": "铀、燃料工序与核电股票",
+      "placement": "新铀对象；原料价、浓缩服务与股权三种现金/风险不同。国防无人系统在事件解释采购成本/预算/利润链，不为短提另建行业及公司。"
+    },
+    {
+      "knowledge": "新兴市场本币债、美元债与汇率",
+      "placement": "事件充分解释本币降息的债价、票息与美元换算三个来源；未给可维护具体指数/发行人，先不为笼统地区集合注册。11%预测和2.1%企业违约不同资产池。"
+    },
+    {
+      "knowledge": "CLO、浮息、AAA分层、LME及CLO ETF",
+      "placement": "新CLO ETF解释底层和份额，复用ABS分层；LME含债务重组交换的违约口径在事件图4说明，低利率久期不等于低利差/流动性风险。"
+    },
+    {
+      "knowledge": "ETF AUM、CEF净发行、预测市场",
+      "placement": "ETF AUM与净流入在事件复用一般页；新CEF保存结构与110亿美元条件均值；世界杯仅简记原预测及报价，不据其给胜率校准或引入赛后结果。"
+    }
+  ],
+  "figure_findings": [
+    "图1硬/软数据为输入的标准化简单均值，附录未取得，不替代GDP或统一惊喜指数。",
+    "图2USD/CNY当前约7.0，历史2014约6.0；图题weakest in over 15 years不能由所示路径支持，且人民币升值对应报价下降。",
+    "图3预测130美元/磅为2026Q4，原图标旧峰136，故标题“历史新高”不被图支持；正文矿股反弹168%也非铀价。",
+    "图4为Morningstar LSTA美国高级担保第一留置权杠杆贷款指数的过去12月违约率，含LME债务交换末值3.4%、不含1.2%，不能当CLO AAA份额违约率。",
+    "图5为美国CEF净发行，2025只至Q2并年化（0.35B）；2026空心柱11.09B由1987以来正净发行年份均值赋值，非全部年份无条件期望或未来成功概率。",
+    "图6截至2026-01-12，Spain16.1%、England13%、Others74.3%之和103.4%，未给报价时点/合约细节，不按互斥概率和自行校正。",
+    "图7为机构2025预测自评，S&P17.9%与>20%目标有差；强投资但催化剂不符应保留；CLO ETF2025流入21B与正文12B范围未解释，不合成已核同口径序列。图8为推广。"
+  ],
+  "external_checks": [
+    {
+      "url": "https://www.eia.gov/energyexplained/nuclear/the-nuclear-fuel-cycle.php",
+      "scope": "2023-10-26版，定向读前端工序、U3O8/UF6、浓缩/制造和换料，不取后来生产数据。"
+    },
+    {
+      "url": "https://www.energy.gov/articles/us-department-energy-awards-27-billion-restore-american-uranium-enrichment",
+      "scope": "2026-01-05正文全文，27亿美元为十年浓缩任务订单且按里程碑支付，不等当日矿产供给。"
+    },
+    {
+      "url": "https://www.investor.gov/introduction-investing/investing-basics/investment-products/closed-end-funds/publicly-traded-closed-end-funds",
+      "scope": "Publicly Traded定义与差异全文；当前动态说明作为后补基础，不回填当时具体基金条款。"
+    },
+    {
+      "url": "https://www.blackstone.com/news/press/state-street-and-blackstone-credit-insurance-launch-new-european-clo-etf/",
+      "scope": "2025-09-09业务正文，核浮息AAA CLO资产与ETF两层；不用产品营销承诺推定无风险。"
+    },
+    {
+      "url": "https://www.janushenderson.com/en-us/institutional/product/jaaa-aaa-clo-etf/",
+      "scope": "已打开当前页，定向核产品目标及CLO风险；不采用11月业绩/收益率/规模回填1月。Q3 2025 brochure链接404，未计已读。"
+    }
+  ],
+  "limitations": [
+    "BofA官网按团队/题名定向搜索未取得原研报与附录；新闻数字和2025自评仍按转述，不用后来结果追认。",
+    "未得到铀报价基准、等权估值回报模型、本币债11%具体指数/币种/费用、两项CLO ETF流量样本和CEF发行底表。"
+  ]
+}

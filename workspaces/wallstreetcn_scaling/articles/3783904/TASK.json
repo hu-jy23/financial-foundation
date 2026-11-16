@@ -1,0 +1,13 @@
+{
+  "sequence": 20,
+  "batch": 7,
+  "article_id": 3783904,
+  "title": "柴油危机，对美国通胀影响多大？",
+  "source_markdown": "materials/wallstreetcn/SourcePost/柴油危机，对美国通胀影响多大？/article.md",
+  "source_metadata": "materials/wallstreetcn/SourcePost/柴油危机，对美国通胀影响多大？/metadata.json",
+  "image_occurrences": 8,
+  "author_group": "华泰证券",
+  "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
+  "output_directory": "workspaces/wallstreetcn_scaling/articles/3783904",
+  "status": "queued"
+}

@@ -1,0 +1,102 @@
+{
+  "article_id": 3785076,
+  "title": "世界黄金协会：下调全年黄金投资需求增长预期至200吨，全球央行购金提速、ETF持仓创新高",
+  "read_scope": "转载全文、metadata和全部8图逐图核读；现行思想/标准/形成原则及黄金、GLD、央行购金正文已对照；定向核WGC11月3日摘要/表1、展望、央行、投资、供给、定义网页。",
+  "model": "inherited_unverified",
+  "new_nodes": [],
+  "proposed_files": [
+    {
+      "path": "10_concepts/黄金.md",
+      "id": "C-ASSET-GOLD",
+      "operation": "update",
+      "entry_kind": "concept",
+      "why": "补11月3日Q3需求结构与展望修订；+200吨为含场外投资需求年度增量，ETF渠道不等机构身份，吨量/金额与持仓区分；保留10月AI对冲、7月旧版本。"
+    },
+    {
+      "path": "20_mechanisms/央行购金与黄金需求结构.md",
+      "id": "R-GOLD-03",
+      "operation": "update",
+      "entry_kind": "relation",
+      "why": "logic-1补季度均价变化与购金价格敏感性的有限样本、全年至少追平旧年的预测变化；logic-2补321.2总估计/120已报告/63%未披露及7月到11月Q2估计288.9→296.3，保留旧版本与捷克状态。"
+    },
+    {
+      "path": "30_events/gold/黄金需求的渠道分化与预测修订：2026年三季度.md",
+      "id": "E-WS-3785076",
+      "operation": "new",
+      "entry_kind": "event",
+      "why": "完整保存央行、ETF、金条金币、金饰、供给与8图；从需求渠道分化和同版本数量桥接解释价格/宏观判断的限度。"
+    },
+    {
+      "path": "40_sources/S-WS-3785076.md",
+      "id": "S-WS-3785076",
+      "operation": "new",
+      "entry_kind": "source",
+      "why": "登记原文8图、一手WGC定向读取、2025基年848与旧863.3版本差异及下载403范围。"
+    }
+  ],
+  "important_knowledge": [
+    {
+      "knowledge": "投资需求含场外/不含场外、ETF与金条金币",
+      "placement": "黄金与事件；本文含场外全年同比增量+400→+200；本季不含场外479=211ETF+268金条金币，单纯ETF回流不表示总投资同比增长。"
+    },
+    {
+      "knowledge": "央行净购买、已披露与估计、价格敏感性",
+      "placement": "央行机制logic-1/2与事件；63%是未披露估计份额，不能分配给具体未公布国家；图5-0.7/-0.6相关不成因果或硬价格底。"
+    },
+    {
+      "knowledge": "ETF持仓、净流入、资产规模、投资者身份",
+      "placement": "黄金/事件，复用ETF与GLD；全球4256吨不能归属GLD，ETF不只机构、金条不只散户；无需以流量字段另建节点。"
+    },
+    {
+      "knowledge": "金饰消费/加工/库存与金额",
+      "placement": "事件用该季312.9消费、340.1加工、27.2库存解释需求加总，吨降17%但额增2%不直接给同件首饰提价幅度。"
+    },
+    {
+      "knowledge": "矿产金、回收、生产商净套保、供需平衡",
+      "placement": "事件供应1070.9+314.5-16.8=1368.6；负套保为时点/套保调整非负产量；总需含OTC残差等于供应不证明缺口已被独立量出。"
+    },
+    {
+      "knowledge": "展望修订与数据版本",
+      "placement": "黄金/机制/事件保留7月预计官方低于2025、11月至少持平；季度估计和旧年基数版本不同，不把历史版本回写成同一数据。"
+    }
+  ],
+  "figure_findings": [
+    "图1是Q1-Q3累计吨数和美元价值，不是单独Q3；图3各年Q1-Q4堆叠，2026仅前三季。",
+    "图2纵轴为年度同比吨数变化、投资含场外；黑线区间未说明概率或置信度，不能把+200当总需求。",
+    "图4是截至9/30已披露年初至今地区与国家买卖，包含≥0.5吨并将土耳其/俄罗斯列其他；不能用作Q3国家排名图。",
+    "图5价格回报按季度平均LBMA PM价计算，样本2022Q3—2026Q3；-0.7/-0.6不构成单向因果、最优购买规则或金价底。",
+    "图6是各地区ETF季度需求与季度均价，不是ETF持有者身份分布；211吨较上一年225.7吨仍少6%。",
+    "图7吨数和十亿美元双轴，图8为各年前三季矿产堆叠；不能将累计柱高当单季1071吨。"
+  ],
+  "external_checks": [
+    {
+      "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026",
+      "scope": "执行摘要及Table1，核2026Q3各项目/季度均价和Q2修订数，不逐国重建。"
+    },
+    {
+      "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/outlook",
+      "scope": "正文主要分节，核年度投资含场外增量+400→+200及央行全年至少追平2025、价格敏感性描述，不复算其模型。"
+    },
+    {
+      "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/central-banks",
+      "scope": "正文与脚注1—4，核120已披露、321总估计、数据提取至10/30及国家值四舍五入；未读国家公告。"
+    },
+    {
+      "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/investment",
+      "scope": "Investment开篇表与ETFs/Bar&Coin有关段，核ETF流量、持仓、区域及OTC，不引入10月后发材料。"
+    },
+    {
+      "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/supply",
+      "scope": "总表、产量、净套保和回收分节，核供应分解；不采用各矿/ASGM/AISC扩展为主体节点。"
+    },
+    {
+      "url": "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/notes-definitions",
+      "scope": "Revisions与Central banks/ETF/Jewellery/OTC/Net producer hedging等定义；未通读所有术语。"
+    }
+  ],
+  "limitations": [
+    "2025全年848为本次新闻转述及图示基准，旧机制的2026-01-29版本为863.3。WGC本次XLSX下载403，未独立提取当前2025全年完整表，不强行指定修订的项目来源。",
+    "未取得未披露央行逐国底稿、ETF持有人身份或原始资金回报面板，不以文章机构/散户二分认定全部买家。",
+    "未采用11月3日后结果或给出本库金价目标。"
+  ]
+}

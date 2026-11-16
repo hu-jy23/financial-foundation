@@ -1,0 +1,13 @@
+{
+  "sequence": 21,
+  "batch": 7,
+  "article_id": 3763441,
+  "title": "美银美林2026年十大灰天鹅：铀价暴涨50%……英格兰喜夺世界杯？",
+  "source_markdown": "materials/wallstreetcn/SourcePost/美银美林2026年十大灰天鹅：铀价暴涨50%……英格兰喜夺世界杯？/article.md",
+  "source_metadata": "materials/wallstreetcn/SourcePost/美银美林2026年十大灰天鹅：铀价暴涨50%……英格兰喜夺世界杯？/metadata.json",
+  "image_occurrences": 8,
+  "author_group": "美国银行",
+  "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
+  "output_directory": "workspaces/wallstreetcn_scaling/articles/3763441",
+  "status": "queued"
+}

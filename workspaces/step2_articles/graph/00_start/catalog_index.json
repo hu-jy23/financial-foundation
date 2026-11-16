@@ -2,10 +2,10 @@
   "counts": {
     "concepts": {
       "groups": 20,
-      "items": 184,
+      "items": 188,
       "p0": 21,
-      "complete": 138,
-      "pending": 46
+      "complete": 136,
+      "pending": 52
     },
     "mechanisms": {
       "groups": 18,
@@ -87,7 +87,7 @@
           "name": "通货膨胀",
           "scope": "价格总体水平变化",
           "priority": "P0",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/通货膨胀.md",
           "catalog_anchor": "C-INF-INFLATION",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-INF-INFLATION",
@@ -95,7 +95,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/通货膨胀.md"
+          "planned_path": "../10_concepts/通货膨胀.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-LABOR-WAGE-POWER",
@@ -1544,7 +1545,7 @@
           "name": "DR007、R007与同业存单",
           "scope": "不同主体的资金价格",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/DR007、R007与同业存单.md",
           "catalog_anchor": "C-CHINA-09",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-09",
@@ -1552,7 +1553,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/DR007、R007与同业存单.md"
+          "planned_path": "../10_concepts/DR007、R007与同业存单.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-CHINA-10",
@@ -3032,6 +3034,70 @@
             "C-FLOW-05"
           ],
           "parent_relation": "instrument_subtype"
+        },
+        {
+          "id": "C-WS-3763441-CLOETF",
+          "name": "CLO ETF",
+          "scope": "贷款池、CLO分层与基金三层；浮息利率久期、信用利差和流动性，补1月比较长债的判断。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/CLO ETF.md",
+          "planned_path": "../10_concepts/CLO ETF.md",
+          "catalog_anchor": "C-WS-3763441-CLOETF",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3763441-CLOETF",
+          "status": "pending",
+          "editing_status": "step2_draft",
+          "parent_ids": [
+            "C-WS-3749421-BONDETF"
+          ],
+          "parent_relation": "instrument_subtype"
+        },
+        {
+          "id": "C-WS-3763441-CEF",
+          "name": "上市封闭式基金CEF",
+          "scope": "上市封闭份额与净值折溢价、融资及分配，保留净发行的条件样本。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/上市封闭式基金CEF.md",
+          "planned_path": "../10_concepts/上市封闭式基金CEF.md",
+          "catalog_anchor": "C-WS-3763441-CEF",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3763441-CEF",
+          "status": "pending",
+          "editing_status": "step2_draft"
+        },
+        {
+          "id": "C-WS-3783904-DIESEL",
+          "name": "柴油",
+          "scope": "可交付的具体能源商品及期货/裂解价差标的，独立承载炼油、馏分油统计、跨区贸易、批发与零售差异，观察炼化瓶颈如何独立于原油影响运输/农业成本。原油是投入品，不强设为柴油的类别父项；现图无成品油父项。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/柴油.md",
+          "planned_path": "../10_concepts/柴油.md",
+          "catalog_anchor": "C-WS-3783904-DIESEL",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783904-DIESEL",
+          "status": "pending",
+          "editing_status": "step2_draft"
+        },
+        {
+          "id": "C-WS-3763441-URANIUM",
+          "name": "铀",
+          "scope": "原料与燃料工序、采购约束及2026Q4价格情景；图示旧峰与新闻标题区别。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/铀.md",
+          "planned_path": "../10_concepts/铀.md",
+          "catalog_anchor": "C-WS-3763441-URANIUM",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3763441-URANIUM",
+          "status": "pending",
+          "editing_status": "step2_draft"
         }
       ]
     }
@@ -6264,7 +6330,8 @@
           "node_ids": [
             "C-COMMOD-03",
             "C-COMMOD-13",
-            "C-INF-INFLATION"
+            "C-INF-INFLATION",
+            "C-WS-3783904-DIESEL"
           ],
           "status": "pending",
           "path": "../20_mechanisms/原油供给冲击的宏观传导.md",
@@ -6289,7 +6356,8 @@
               "anchor": "logic-1",
               "node_ids": [
                 "C-COMMOD-03",
-                "C-COMMOD-13"
+                "C-COMMOD-13",
+                "C-WS-3783904-DIESEL"
               ],
               "related_mechanism_ids": []
             },
@@ -6297,7 +6365,8 @@
               "anchor": "logic-2",
               "node_ids": [
                 "C-COMMOD-03",
-                "C-INF-INFLATION"
+                "C-INF-INFLATION",
+                "C-WS-3783904-DIESEL"
               ],
               "related_mechanism_ids": []
             }

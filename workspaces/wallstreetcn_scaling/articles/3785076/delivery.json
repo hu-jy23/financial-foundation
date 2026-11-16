@@ -1,0 +1,119 @@
+{
+  "article_id": 3785076,
+  "title": "世界黄金协会：下调全年黄金投资需求增长预期至200吨，全球央行购金提速、ETF持仓创新高",
+  "files": [
+    {
+      "path": "10_concepts/黄金.md",
+      "draft_path": "drafts/10_concepts/黄金.md",
+      "operation": "update",
+      "id": "C-ASSET-GOLD",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "黄金",
+      "why": "补11月3日需求渠道分化与含场外年度投资增量+400→+200、央行全年预期变化；保留旧版本及10月AI对冲历史。"
+    },
+    {
+      "path": "20_mechanisms/央行购金与黄金需求结构.md",
+      "draft_path": "drafts/20_mechanisms/央行购金与黄金需求结构.md",
+      "operation": "update",
+      "id": "R-GOLD-03",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "央行购金与黄金需求结构",
+      "why": "logic-1补购买价格敏感性的有限样本及全年预期；logic-2补321.2总估计/120已报告、63%未披露和季度版本修订。",
+      "node_ids": [
+        "C-FX-14",
+        "C-ASSET-GOLD"
+      ],
+      "related_mechanism_ids": [
+        "R-INTERNATIONAL-13"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-FX-14",
+            "C-ASSET-GOLD"
+          ],
+          "related_mechanism_ids": [
+            "R-INTERNATIONAL-13"
+          ]
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-FX-14",
+            "C-ASSET-GOLD"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3785076.md",
+      "draft_path": "drafts/40_sources/S-WS-3785076.md",
+      "operation": "new",
+      "id": "S-WS-3785076",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "WGC三季度需求新闻：来源与核读范围",
+      "why": "登记转载与WGC定向补核范围、图表窗口、XLSX403及2025基数版本未核差额。"
+    },
+    {
+      "path": "30_events/gold/黄金需求的渠道分化与预测修订：2026年三季度.md",
+      "draft_path": "drafts/30_events/gold/黄金需求的渠道分化与预测修订：2026年三季度.md",
+      "operation": "new",
+      "id": "E-WS-3785076",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "黄金需求的渠道分化与预测修订：2026年三季度",
+      "why": "完整保存8图、地区与供需分项，解释年度增量/季度流量/持仓、消费库存及预测版本。",
+      "node_ids": [
+        "C-ASSET-GOLD",
+        "C-FX-14",
+        "C-FLOW-05",
+        "C-WS-3764710-GLD"
+      ],
+      "related_mechanism_ids": [
+        "R-GOLD-03",
+        "R-GOLD-REALRATES"
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "黄金需求总量、投资渠道、年度预测增量",
+      "operation": "update",
+      "path": "10_concepts/黄金.md#demand-2026q3"
+    },
+    {
+      "knowledge": "官方购金价格约束、披露与版本",
+      "operation": "update",
+      "path": "20_mechanisms/央行购金与黄金需求结构.md#logic-1"
+    },
+    {
+      "knowledge": "GLD具体产品与全球ETF汇总不同",
+      "operation": "reuse",
+      "path": "10_concepts/SPDR黄金信托GLD.md"
+    },
+    {
+      "knowledge": "金饰消费/加工/库存与金额、矿产/回收/套保",
+      "operation": "inline",
+      "path": "30_events/gold/黄金需求的渠道分化与预测修订：2026年三季度.md#jewellery"
+    },
+    {
+      "knowledge": "全年展望修订与旧基数比较",
+      "operation": "inline",
+      "path": "30_events/gold/黄金需求的渠道分化与预测修订：2026年三季度.md#revisions"
+    }
+  ],
+  "summary": "新增事件、来源各1篇，修改《黄金》：补三季度渠道分化及全年预期修订；修改《央行购金与黄金需求结构》：补价格敏感性、披露比例与统计版本。新增节点0。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/黄金.md",
+    "20_mechanisms/央行购金与黄金需求结构.md",
+    "40_sources/S-WS-3785076.md",
+    "30_events/gold/黄金需求的渠道分化与预测修订：2026年三季度.md"
+  ]
+}
