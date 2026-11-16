@@ -1,0 +1,104 @@
+{
+  "article_id": 3753527,
+  "selection": {
+    "article_id": 3753527,
+    "url": "https://wallstreetcn.com/articles/3753527",
+    "title": "降息预期太乐观了？美国“粘性通胀”正在重新加速",
+    "page_display_time": "2025-08-18T15:09:09+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "A",
+    "reading_value": "解释截尾均值、中位数等替代通胀指标，为总体CPI之外的粘性判断提供依据。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1066,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 7
+  },
+  "url": "https://wallstreetcn.com/articles/3753527",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3753527?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:15+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/11646554-2c18-4150-a342-3cd3730518b7.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "基础数据显示，虽然波动较大的灵活组件在今年早些时候飙升后，已在三个月年化基础上重新回到负值区间，但粘性组件近月来重新加速。",
+      "path": "assets/figure_001.png",
+      "sha256": "944f0442a58b7b3cd6dd18e6fe078ccca15dcfc1075aefb74dbb844768753822",
+      "bytes": 88963,
+      "width": 1014,
+      "height": 586,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/11646554-2c18-4150-a342-3cd3730518b7.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/e2f9540b-9873-4277-9a27-ccb348e4e3fb.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "这些指标通过算法剔除每次CPI发布中的极端值，专注于价格变动分布的中间部分。削减均值排除了价格变动最高和最低的8%，而中位数则代表了CPI各项价格变动的精确中点。",
+      "path": "assets/figure_002.png",
+      "sha256": "4d839fdd98d001947129f8e9b6df7803931f3a5b31333cfd6122f65cd05ec220",
+      "bytes": 82399,
+      "width": 1008,
+      "height": 584,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/e2f9540b-9873-4277-9a27-ccb348e4e3fb.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "降息预期太乐观了？美国“粘性通胀”正在重新加速",
+  "page_display_time": "2025-08-18T15:09:09+08:00",
+  "page_byline": "许超",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "目前市场对7月CPI报告的解读相对乐观。但摩根大通表示，多项替代通胀指标显示，通胀不仅未能继续下行，核心通胀的粘性部分正重新加速，且其坚挺程度还有相当部分与关税无关。除非经济陷入衰退，否则通胀的持续坚挺将不支持美联储采取更激进的宽松政策。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1147,
+  "body_sha256": "bd4374b507be64495a968d540f0af16eed56896f279fdf785e03fdd28ed65537",
+  "raw_sha256": "341fceaefde68ad5542e7b56dc2891e4a8804f5b3f0dfa2707ba81998b1b718a",
+  "raw_bytes": 7661,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/62a42b25-03ef-4bda-85de-aec456602763.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 1066,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "341fceaefde68ad5542e7b56dc2891e4a8804f5b3f0dfa2707ba81998b1b718a",
+      "bytes": 7661
+    },
+    "article.html": {
+      "sha256": "084421c066f35f5a357d61186e8bc7064e8ce6d6482ed90139940274f0523874",
+      "bytes": 7907
+    },
+    "article.md": {
+      "sha256": "e6b119384cbc27ce667e544d7a78a1558027cd82c5d54d2dbdf3b9fd412403fc",
+      "bytes": 4182
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:08+08:00"
+}

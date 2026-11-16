@@ -1,0 +1,94 @@
+{
+  "article_id": 3746379,
+  "selection": {
+    "article_id": 3746379,
+    "url": "https://wallstreetcn.com/articles/3746379",
+    "title": "苹果电话会：美国设备“大多数”将来自印度、越南，关税或致Q3成本增加9亿美元",
+    "page_display_time": "2025-05-02T11:06:50+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "卜淑情",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004518",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "A",
+    "reading_value": "电话会完整讨论关税成本、生产地转移、库存和需求提前，可追踪管理层预期。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 17021,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 189
+  },
+  "url": "https://wallstreetcn.com/articles/3746379",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3746379?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:04+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/fffe389f-4551-4756-8beb-4197a44ab786.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "TechInsights的数据显示，特朗普关税政策可能会使iPhone 16 Pro的硬件成本增加约300-500美元。",
+      "path": "assets/figure_001.png",
+      "sha256": "3d1847d607116ef2146f937d5a2827a13ea774166d773ce82caf39175dc3079d",
+      "bytes": 135151,
+      "width": 1024,
+      "height": 674,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/fffe389f-4551-4756-8beb-4197a44ab786.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "苹果电话会：美国设备“大多数”将来自印度、越南，关税或致Q3成本增加9亿美元",
+  "page_display_time": "2025-05-02T11:06:50+08:00",
+  "page_byline": "卜淑情",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "库克预估，关税将导致公司第三财季(4-6月)将额外增加9亿美元成本，未来的影响可能更严重，他拒绝透露是否会涨价，或者是否把成本转嫁给消费者。库克承认，苹果在WWDC 2024上宣布的个性化Siri功能开发进度落后于计划。此外， 美国联邦法官最近对苹果的App Store政策提出严厉批评，要求实施补救措施，这可能影响公司的服务收入来源。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 16869,
+  "body_sha256": "6f1fe43fd3d64b8fd5f038ebc74a0b08c1e57d5238732abaa7b8cf410d704827",
+  "raw_sha256": "809c1a08852af4e09517bcbdb355a298268fdc88c6cb9d0e2ca9a0dab9ef96b8",
+  "raw_bytes": 56657,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/e404ec69-5647-4ae0-87d6-a1901e430a9f.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 17021,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "苹果在第二财季的业绩虽勉强超出预期",
+      "url": "https://wallstreetcn.com/articles/3746372"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:46+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "809c1a08852af4e09517bcbdb355a298268fdc88c6cb9d0e2ca9a0dab9ef96b8",
+      "bytes": 56657
+    },
+    "article.html": {
+      "sha256": "0b57218c8f3bd94b4af3fa39e3b5f0b7d7b6b3023d179c1c6501d87562ed5ad1",
+      "bytes": 55084
+    },
+    "article.md": {
+      "sha256": "8d23337b58baf54c6f353a411d601a08d93e7047ac25682fe868b7c012e3eeef",
+      "bytes": 46773
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:46+08:00"
+}

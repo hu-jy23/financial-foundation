@@ -1,0 +1,124 @@
+{
+  "article_id": 3752315,
+  "selection": {
+    "article_id": 3752315,
+    "url": "https://wallstreetcn.com/articles/3752315",
+    "title": "走向“影子QE”？贝森特要主导美债利率",
+    "page_display_time": "2025-07-31T15:08:46+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李笑寅",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004684",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "国债与财政",
+    "reading_priority": "A",
+    "reading_value": "围绕短债融资与长债回购讨论“影子QE”的作用及争议，可补充财政影响久期供给的机制。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1370,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 29
+  },
+  "url": "https://wallstreetcn.com/articles/3752315",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3752315?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:18+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/4dd4fe93-5558-4570-899b-cd5e4e7403cd.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "长端利率不仅关系到美国政府的付息压力，更直接影响企业投资和消费者信贷成本。DWS美洲区固定收益主管George Catrambone在接受采访时表示，高企的长债券利率会增加货币政策的整体限制性，并使美债的偿付成本持续高企：",
+      "path": "assets/figure_001.png",
+      "sha256": "780b6dc8b2de110acca7bb8cfac7017ae0d6f2d0326965763aa632c958fe819c",
+      "bytes": 1385144,
+      "width": 1024,
+      "height": 1091,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/4dd4fe93-5558-4570-899b-cd5e4e7403cd.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/dc7726b8-f185-49c6-9a41-f2f9238d8873.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "声明显示，财政部维持了对中长期债券发行的保守态度。",
+      "path": "assets/figure_002.png",
+      "sha256": "ba98731a84af84ffd4de571a3fafcd834053b169b8ba7c7f0f960d2c905b493f",
+      "bytes": 64225,
+      "width": 704,
+      "height": 475,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/dc7726b8-f185-49c6-9a41-f2f9238d8873.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/2db0bf7c-c86e-406b-bcbf-05f97bb66871.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "这意味着短期国债在未来几个月的占比预计将继续攀升， 不断增长的联邦赤字融资需求将继续依赖1年以内的短期美债。",
+      "path": "assets/figure_003.png",
+      "sha256": "5d3a36dae25c7184243023d9f25241703032cec36f7e1d811b6d12ef4649cf84",
+      "bytes": 23896,
+      "width": 794,
+      "height": 519,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/2db0bf7c-c86e-406b-bcbf-05f97bb66871.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "走向“影子QE”？贝森特要主导美债利率",
+  "page_display_time": "2025-07-31T15:08:46+08:00",
+  "page_byline": "李笑寅",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "美国财政部宣布扩大长债回购规模，同时维持中长期债券发债规模不变，继续依赖短债弥补财政赤字。考虑到贝森特此前公开表达对长债收益率高企感到担忧，市场将财政部此举普遍解读为，在美联储不愿进一步降息的背景下、通过“影子QE”的手段压低长期收益率。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1443,
+  "body_sha256": "cfb1aa18fa0703eda792c90a603501bf40d36918455a2e4926bc2019c63404f6",
+  "raw_sha256": "99c50013691abf99420eeebe37e21edc5b945ebb327afdafb1ddca865060bdca",
+  "raw_bytes": 9542,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/c7abfde1-7190-4335-bc74-feb3ac077f28.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 1370,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "美国财政部宣布将大幅加强去年启动的债券回购计划，",
+      "url": "https://wallstreetcn.com/articles/3752263"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "99c50013691abf99420eeebe37e21edc5b945ebb327afdafb1ddca865060bdca",
+      "bytes": 9542
+    },
+    "article.html": {
+      "sha256": "f70b3a5a6b128118e11ff16a5256546decc0512013b3b14d60fb8d5a02df1657",
+      "bytes": 10097
+    },
+    "article.md": {
+      "sha256": "02ab426bdb0eb7ec632a575a65f3109f2aa7457ce6292cc3d1264072c75a9b64",
+      "bytes": 5095
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:12+08:00"
+}

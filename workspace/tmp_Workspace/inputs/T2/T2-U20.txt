@@ -1,0 +1,1927 @@
+
+
+===== PDF 650 | 印刷页 615 =====
+
+22
+Chapter
+
+                              Understanding Business
+                              Cycle Fluctuations*
+
+ Learning Objectives
+ After reading this chapter, you should be able to:
+    LO1        Discuss the sources of fluctuations in output and inflation.
+
+    LO2        Use AS/AD tools to analyze changes in output and inflation.
+
+    LO3        Explain the challenges and tradeoffs that monetary policymakers face in
+               stabilizing the economy.
+
+
+ In the last chapter we constructed a framework for understanding fluctuations in out-
+ put and inflation. We discussed the fact that central bankers respond to rising infla-
+ tion by increasing the real interest rate, causing interest-sensitive components of
+ aggregate expenditure—especially investment—to fall, driving down the quantity of
+ aggregate output demanded by the people who use it. So, higher inflation means a
+ lower level of demand in the economy as a whole. The dynamic aggregate demand
+ curve slopes down.
+    On the supply side, we saw that the sluggish response of production costs means
+ that higher inflation elicits more production from firms, and is associated with a
+ greater level of output supplied in the short run. The short-run aggregate supply
+ curve slopes up. Finally, we learned that in the long run, the economy moves to the
+ point where output equals potential output, so the long-run aggregate supply curve is
+­vertical. While the economy can and does move away from this long-run equilib-
+ rium, it has a natural self-correcting mechanism that returns it to the point where
+ resources are being used at their normal rates and gaps between current and potential
+ output disappear.
+    We will now use this framework to improve our understanding of business cycle
+ fluctuations. Why is it that output and inflation vary from quarter to quarter and year
+ to year, and what determines the extent of fluctuations? Figure 22.1 illustrates the
+ long-run trends in the U.S. inflation rate over more than 60 years. In 1965, prices in
+ the United States were rising at an average rate of just 1½ percent per year. Fifteen
+ years later, consumer price inflation had climbed to nearly 14 percent. For the next
+ decade the inflation rate fell, at first sharply and then gradually. By 1991, prices were
+ increasing at a rate of less than 4 percent per year. Finally, amid the financial crisis of
+ 2007–2009, prices began to fall for the first time in more than 50 years.
+
+*The starred sections in the second half of this chapter are more difficult than the nonstarred sections preceding
+them.
+
+                                                       615
+
+
+===== PDF 651 | 印刷页 616 =====
+
+616   l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+
+   Figure 22.1                                   Inflation and the Business Cycle, 1 955–201 9
+
+
+                                            16
+         Percent Change from Year Ago (%)
+
+
+
+
+                                            14
+                                            12
+                                            10
+                                             8
+                                             6
+                                             4
+                                             2
+                                             0
+                                            –2
+                                             1955 1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 2010 2015 2020
+
+This figure shows the 12-month change in consumer prices, calculated by the Bureau of Labor Statistics (FRED code: CPIAUCSL).
+The bars represent recessions, as dated by the National Bureau of Economic Research.
+SOURCE: FRED.
+
+
+                                                         In addition to data on the rate of inflation, Figure 22.1 displays a series of shaded
+                                                      bars representing recessions—periods when the U.S. real GDP was falling. While
+                                                      there is no apparent relationship between the level of inflation and these recessions, it
+                                                      does appear that the inflation rate falls when the economy is contracting and rises
+                                                      when it is expanding. At least, that’s what happens most of the time. The recession of
+                                                      1974–1975 is an exception. During that episode, the inflation rate rose dramatically
+                                                      even as the economy was slumping. And during much of the boom of the 1990s, the
+                                                      inflation rate remained below its level at the end of the last recession. But in general,
+                                                      there appears to be a connection between growth and changes in inflation: The lower
+                                                      the growth, the more likely inflation is to fall.
+                                                         One final point about Figure 22.1 is worth noting. In recent decades, the frequency of
+                                                      recessions has fallen. In the 30 years from 1955 to 1984, there were six recessions; in the
+                                                      35 years since then, there have been three, including the deep one that ended in 2009.
+                                                      Recessions used to occur once every five years, but more recently, they have occurred on
+                                                      average about every 8 to 10 years. Until the record plunge of 2008–2009, the recessions
+                                                      after 1982 were milder than before as well. This reduction in the volatility of real growth
+                                                      has been called the “Great Moderation.” We examine its possible sources later in the
+                                                      chapter and identify factors that could prevent its resumption in coming years.
+                                                         To help understand the patterns in Figure 22.1, we will start by cataloging the var-
+                                                      ious reasons that the dynamic aggregate demand curve and the aggregate supply curve
+                                                      shift. These are the potential sources of fluctuations in both output and inflation
+                                                      described at the end of the last chapter. We trace the initial impact of shifts in aggre-
+                                                      gate demand such as an increase in government spending or shifts in short-run aggre-
+                                                      gate supply such as a movement in oil prices. Next, we examine what happens during
+                                                      the transition as the economy moves to long-run equilibrium. Our goal is to take the
+                                                      macroeconomic model and use it to understand practical real-world examples.
+
+
+===== PDF 652 | 印刷页 617 =====
+
+                                                             Sources of Fluctuations in Output and Inflation l   617
+
+
+
+   Then, in the second part of the chapter, we will use the model to understand how
+central bankers work to achieve their stabilization objectives, together with a series of
+examples that highlight the pitfalls and limitations that monetary policymakers face.
+The section is organized around a series of questions of increasing complexity. We will
+examine how, in practice, policymakers work to achieve their stabilization goals; the
+appropriate actions to take when potential output changes; and the difficulty central
+bankers have figuring out why output has fallen, among other things.
+
+
+Sources of Fluctuations in Output
+and Inflation
+In the earlier discussion we learned that the economy naturally moves toward its long-
+run equilibrium where output equals potential output (Y = YP) and inflation equals the
+central bank’s target (π = π T  ), which equals the level of inflation firms and individuals
+expect (π = π  e). This tells us that the long-run aggregate supply curve is vertical at
+potential output. But because costs of production adjust slowly, higher inflation tem-
+porarily means higher profits and more supply; that is, the short-run aggregate supply
+curve slopes upward. Short-run equilibrium is the point where the dynamic aggregate
+demand curve intersects this short-run aggregate supply curve. So, immediately after
+either the short-run aggregate supply curve or the dynamic aggregate demand curve
+shift, the economy will move away from its long-run equilibrium. This means that
+understanding short-run fluctuations in output and inflation requires that we study
+shifts in dynamic aggregate demand and short-run aggregate supply.
+   Before moving to an analysis of various demand and supply curve shifts, let’s take
+a brief detour to define one of the few new terms in this chapter: shock. Economists
+use the word shock to mean something unexpected. For example, when oil prices rise
+or when consumers become less confident about the future, these are almost always
+unpredictable shocks. In our framework, a shock shifts the dynamic aggregate demand
+or short-run aggregate supply curve. Because it affects costs of production, the oil
+price increase is a supply shock, while the shift in consumer confidence, which affects
+consumption expenditure, is a demand shock. So, a shock is something that creates a
+shift in the demand or supply curve.
+
+Shifts in the Dynamic Aggregate Demand Curve
+Recall that a shift in the dynamic aggregate demand curve can be caused by either a
+shift in the monetary policy reaction curve or a change in components that are not
+sensitive to the real interest rate (like government purchases) that shifts aggregate
+expenditure. Let’s look at the impact of each of these. We will first look at a decline in
+the central bank’s inflation target that shifts the monetary policy reaction curve, and
+then at a fiscal policy easing that increases government purchases and shifts the aggre-
+gate expenditure curve.
+
+A Decline in the Central Bank’s Inflation Target                 Over the past several
+decades, numerous countries have succeeded in reducing their inflation rates from
+fairly high levels to the modest ones we see today. For example, Chile was able to
+reduce its inflation rate from over 20 percent in the early 1990s to roughly 2 percent
+today. In the mid-1980s, Israel’s inflation rate peaked at nearly 400 percent before it
+was brought down in a series of steps, first to 20 percent and eventually to 2 percent.
+
+
+===== PDF 653 | 印刷页 618 =====
+
+618   l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+                                                                              And Sweden entered the 1990s with an inflation rate
+  Figure 22.2          A Decline in the Central Bank’s
+                       Inflation Target
+                                                                              that was over 10 percent. The Riksbank, the Swedish
+                                                                              central bank, spent a number of years driving the
+                                                                              country’s inflation rate down below 3 percent, where it
+      r                                  MPRC1                                has generally stayed. All of these cases involved per-
+                                                               MPRC0          manent declines in inflation that must have been
+                                                                              a result of a decrease in the central bank’s inflation
+                                                                              target.
+      r*                                                                          To analyze the impact of a reduction in the policy-
+                                                                              maker’s inflation target, let’s begin with the monetary
+                                                                              policy reaction curve. A fall in π T shifts the monetary
+                                                                              policy reaction curve to the left, as shown in
+                                                                              ­Figure 22.2 (which reproduces Panel A of Figure 21.8
+                            π T1         π T0                        π         on page 590). The decrease in the inflation target raises
+                                                                               the real interest rate policymakers set at each level of
+                                                                               inflation.
+                                         T           T
+A decline in the inflation target from ​π​0​​  to ​π​1​  ​shifts the monetary     We know from our earlier analysis that shifts in the
+policy reaction curve to the left from MPRC0 to MPRC1.                         monetary policy reaction curve shift the dynamic
+                                                                               aggregate demand curve in the same direction. A
+                                                                               decrease in the central bank’s inflation target means a
+                                higher real interest rate at every level of inflation, shifting the monetary policy reac-
+                                tion curve to the left. This reduces aggregate expenditure at every level of inflation,
+                                shifting the dynamic aggregate de­mand curve to the left as well, as shown in Panel A
+                                of ­Figure 22.3. You can see that as the dynamic aggregate demand curve shifts to the
+                                left, from AD0 to AD1, the economy moves from the original short-run equilibrium
+
+
+  Figure 22.3          A Decline in the Central Bank’s Inflation Target
+
+
+                     A. Short-Run Equilibrium                                                              B. Adjustment
+
+          π                           LRAS                                           π                                LRAS                      SRAS
+                                                       SRAS
+
+  π e0 = π T0                               0                              π e0 = π T0
+                                1                                                                              1
+  π e1 = π T1                                                              π e1 = π T1                                       2
+
+                                                                 AD0
+                                                       AD1                                                                                 AD1
+
+                                         YP                Y                                                             YP                 Y
+  A decrease in the central bank’s inflation target shifts the         When the economy is at point 1, current inflation is less than the
+  dynamic aggregate demand curve to the left from AD0 to               initial level of expected inflation (​πe​0 ​)​  . As a result, expected inflation
+  AD1, moving the economy from point 0 to point 1.                     falls, shifting the short-run aggregate supply curve to the right.
+                                                                       The process continues until the economy reaches point 2, where
+                                                                       expected inflation equals the new inflation target (​πe​1​  ​= ​πT​1​  ​).
+
+
+===== PDF 654 | 印刷页 619 =====
+
+                                                                              Sources of Fluctuations in Output and Inflation l 619
+
+
+
+point, 0, to the new short-run equilibrium point, 1. At point 1, inflation and current
+output are both lower than they were prior to the monetary policy tightening. The
+immediate consequence of the reduction in the central bank’s inflation target is to shift
+the dynamic aggregate demand curve to the left, moving the economy along the short-
+run aggregate supply curve (SRAS), driving both current output and inflation down.
+   Following the policy change, current inflation is less than expected inflation. As a
+result, expected inflation falls, shifting the short-run aggregate supply curve to the right.
+Eventually, the economy moves along the new dynamic aggregate demand curve AD1
+from point 1 to the new long-run equilibrium at point 2 in Panel B of Figure 22.3. There,
+inflation equals the central bank’s (new) target and output equals potential output.1
+
+An Increase in Government Purchases                     In response to the deep recession
+that began in December 2007, President George W. Bush signed legislation in Febru-
+ary 2008 to cut income taxes temporarily. One year later, President Barack Obama
+approved a much larger package of temporary tax cuts and increases in government
+spending to counter the economic slump. Driven by the recession and these fiscal pol-
+icy actions, the U.S. federal budget deficit surged from 1.2 percent of GDP in fiscal
+year 2007 (which ended September 2007) to 9.8 percent in 2009—the largest propor-
+tion since 1945. What are the macroeconomic implications of such a large expansion-
+ary move in fiscal policy?
+     In the last chapter we learned that increases in government purchases and cuts in
+taxes both represent an increase in components of aggregate expenditure that are not
+sensitive to the interest rate. For example, an increase in G shifts the dynamic aggre-
+gate demand curve to the right. Panel A of Figure 22.4 on page 620 shows how such a
+change in fiscal policy shifts the dynamic aggregate demand curve from its original
+position AD0 to its new position AD1. As a result, the economy moves from the origi-
+nal short-run equilibrium point 0 to the new short-run equilibrium point 1. Not sur-
+prisingly, the immediate impact of this increase in government purchases is to raise
+both current output and inflation. But, because current inflation exceeds expected
+inflation, this can’t be the long-run effect. Instead, expected inflation rises, shifting the
+short-run aggregate supply curve to the left. Eventually, as the economy travels along
+AD1, current inflation rises and current output falls until the economy reaches the
+point at which the dynamic aggregate demand curve crosses the long-run aggregate
+supply curve. At that point, current inflation equals expected inflation and target infla-
+tion, while current output equals potential output.
+     Unless something else happens, the economy settles at point 2 in Panel B of
+­Figure 22.4, where AD1 crosses the long-run aggregate supply curve (LRAS) and cur-
+ rent output once again equals potential output. It is extremely important to realize that
+ at point 2, inflation is above where it started at point 0, and that this is above the poli-
+ cymakers’ original inflation target π T. Unless monetary policy adjusts, when the
+ dynamic aggregate demand curve shifts to the right, inflation will rise. Thus, Panel B
+ shows the central bank acquiescing to a rise of its inflation target to point 2.
+     While central bankers could allow an increase in government purchases to drive up
+ their inflation target, permanently increasing inflation and the monetary growth rate, it
+ seems unlikely. So long as monetary policymakers remain committed to their original
+ inflation target, they need to do something to get the economy back to the point where
+ it began—point 0 in Panel A of Figure 22.4, at the intersection of the original dynamic
+
+1
+  With a lower inflation target (π T), we also know that at the new long-run equilibrium, expected inflation (π e)
+must be lower as well.
+
+
+===== PDF 655 | 印刷页 620 =====
+
+620   l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+
+ Figure 22.4          An Increase in Government Expenditure
+
+
+                     A. Short-Run Equilibrium                                                      B. Adjustment
+                             LRAS                                                                   LRAS
+         π                                                                    π
+                                                                                                       2
+                                                        SRAS                                                                         SRAS
+       π1                                   1                        π e1 = π1                                      1
+   e
+  π0 = πT                                                            π e0 = π T
+                               0
+
+
+                                                            AD1                                                                      AD1
+                                                    AD0
+
+                               YP      Y1               Y                                              YP      Y1                Y
+
+  An increase in government expenditure shifts the AD curve to       When the economy is at point 1, current inflation is initially
+  the right from AD0 to AD1. This moves the economy from point 0     above expected inflation (π1 > ​πe​0​)​  As expected inflation rises in
+  to point 1. In the short run, output rises to Y1 while inflation   response, the short-run aggregate supply curve shifts to the left,
+  increases to π1.                                                   moving the economy along AD1 toward point 2.
+
+
+
+
+                           aggregate demand curve with the long-run aggregate supply curve. This is the point
+                           where current output equals potential output, and current inflation equals the policy-
+                           maker’s original inflation target.
+                               In Chapter 21, we noted that an increase in government purchases raises the long-term
+                           real interest rate. The higher the level of government purchases, the higher the level of
+                           the real interest rate needed to equate aggregate expenditure with potential output. (You
+                           can look back and see this in Figure 21.5 on page 587.) Realizing this, monetary policy-
+                           makers react by shifting their monetary policy reaction curve to the left, increasing the
+                           real interest rate at every level of inflation. Remember, the central bank controls the real
+                           interest rate in the short run. When the monetary policy reaction curve shifts, the dynamic
+                           aggregate demand curve shifts with it. In this case, tighter monetary policy shifts the
+                           dynamic aggregate demand curve to the left, bringing the economy back to long-run equi-
+                           librium where output equals potential output and inflation equals the central bank’s target.
+                               We can summarize the path the economy takes after an increase in government
+                           purchases as follows: Current inflation rises above expected inflation and current out-
+                           put rises above potential output. Policymakers then react, shifting their monetary pol-
+                           icy reaction curve, pushing the economy back to its long-run equilibrium level. From
+                           this we can conclude that, without a change in target inflation, an increase in govern-
+                           ment purchases causes a temporary increase in both output and inflation.
+                               The same is true for any factor that shifts the dynamic aggregate demand curve to
+                           the right. Immediately following such a shift and in the absence of any monetary policy
+                           response, output and inflation both rise (see Table 22.1). If the central bank maintains
+                           its inflation target, the monetary policy reaction curve (MPRC) will shift to the left,
+                           returning inflation and output to their original long-run levels. In the absence of any
+                           monetary policy response, because current inflation exceeds expected inflation,
+
+
+===== PDF 656 | 印刷页 621 =====
+
+                                                                  Sources of Fluctuations in Output and Inflation l   621
+
+
+
+                  Impact of an Increase in Dynamic Aggregate Demand on
+  Table 22.1
+                  Output and Inflation
+
+
+                                      Shift in the monetary policy reaction curve
+                                      ∙   Increase in inflation target
+                                      ∙   Decrease in long-run real interest rate
+
+    Source                            Increase in aggregate expenditure
+                                      ∙   Consumer confidence up
+                                      ∙   Business optimism up
+                                      ∙   Government purchases up
+                                      ∙   Net exports up
+
+    Result                            Dynamic aggregate demand shifts right
+
+    Short-run impact                  Y increases
+                                      π increases
+
+
+
+
+expected inflation rises, shifting the short-run aggregate supply curve to the left, mov-
+ing the economy along the new dynamic aggregate demand curve. This movement
+drives inflation up further as current output falls, returning to the level of potential
+output, but at a higher inflation rate. In effect, the central bank will have raised its infla-
+tion target.
+   A decline in aggregate expenditure, perhaps caused by a fall in consumer or business
+confidence, has the opposite impact from an increase in government expenditure. The
+dynamic aggregate demand curve shifts to the left, driving inflation and output down.
+With time, and in the absence of any monetary policy response, as lower current infla-
+tion drives inflation expectations down, the short-run aggregate supply curve shifts to
+the right, moving the economy along the new dynamic aggregate demand curve. This
+movement drives inflation down further, and current output begins to rise toward
+potential output. In ­effect, the central bank has set a new, lower inflation target. If,
+instead, policymakers do react, inflation and output will return to their original long-
+run levels.
+   Over the years, policymakers have reacted to shifts in aggregate expenditure in
+different ways, with differing results. In response to increases in government spend-
+ing during the escalation of the Vietnam War in the late 1960s, when defense
+expenditure rose from 7.4 percent to 9.4 percent of GDP over a three-year period
+(twice what it was at the peak of the Iraq war in 2005), the Fed simply allowed infla-
+tion to rise. Look back at Figure 22.1 and you can see that inflation rose from less
+than 2 percent in 1965 to more than 5 percent in 1970. What could have been a tem-
+porary increase in inflation became a permanent one, in effect increasing the Fed’s
+inflation target to the point where the new dynamic aggregate demand curve inter-
+sected the long-run aggregate supply curve.
+   Large tax cuts in 2001, and the subsequent rise of defense spending associated with
+the war in Iraq, did not have the same inflationary impact as the similar policy in the
+1960s. There are two reasons for this. First, the fiscal stimulus came at a time when the
+economy was weakening for other reasons. That is to say, the timing was very fortunate.
+Second, by 2001 the Federal Reserve had learned the important lesson that it may need
+
+
+===== PDF 657 | 印刷页 622 =====
+
+622   l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+                           to raise interest rates to counter the risk of inflation from expansionary fiscal policy. So,
+                           a combination of good luck and better understanding meant that inflation stayed low.2
+                               This discussion implies that whenever we see a permanent increase in inflation, it
+                           must be the result of monetary policy. That is, if inflation goes up or down and remains
+                           at its new level, the only explanation is that central bankers must be allowing it to hap-
+                           pen. They have changed their inflation target, whether or not they acknowledge the
+                           change explicitly.
+
+                           Shifts in the Short-Run Aggregate Supply Curve
+                               Changes in production costs shift the short-run aggregate supply curve. Using the
+                               aggregate demand–aggregate supply diagram, we can trace the effects of such an
+                               increase in the costs of production—a negative supply shock. The immediate effect of
+                               something like an oil price rise that increases production costs is to move the short-run
+                               aggregate supply curve to the left, reducing the amount supplied at every level of infla-
+                               tion. (These bad consequences—higher inflation and lower growth—are why we label
+                               such a shock as “negative.”) Figure 22.5 shows the result. Short-run equilibrium—the
+                               point where the short-run aggregate supply and dynamic aggregate demand curves
+                               intersect—moves to point 1 in the figure, where output is lower and inflation is higher.
+                               This creates a condition that is sometimes referred to as stagflation—­economic stag-
+                               nation coupled with increased inflation (see Table 22.2).
+                                                                                       What happens next? Initially, expected
+                                                                                   inflation equals the inflation target. So,
+   Figure 22.5           A Negative Supply Shock                                   when inflation rises, and the economy
+                                                                                   moves from point 0 to point 1 in ­Figure 22.5,
+                                                                                   expected inflation rises as well. Recall that
+                    π                        LRAS                                  the short-run aggregate supply curve inter-
+                                                       SRAS1
+                                                                                   sects the long-run aggregate supply curve at
+                                                               SRAS2               the point where current inflation equals
+                                         1                              SRAS     0 expected inflation in the long run. Because
+           π e2 = π1                                                               current inflation (π1) is below this level, the
+                                            2                                      SRAS curve next shifts back to the right.
+    π e0 = π0 = π T                                0                               This is shown in Figure 22.5 as a move from
+                                                                                   SRAS1 to SRAS2. The result is that the
+                                                                                   economy goes from point 1 to point 2. How-
+                                                         AD                        ever, current inflation at point 2 remains
+                                                                                   below the expected inflation in the long run
+                                        Y1      YP                     Y           where SRAS 2 intersects the LRAS.
+                                                                                   ­Consequently, inflation continues to fall and
+                                                                                    output continues to rise until current infla-
+A negative supply shock shifts the SRAS curve to the left, moving the short-        tion and expected inflation return to the
+run equilibrium from point 0 to point 1, raising inflation to π1 > πT. At point 1,  central bank’s inflation target, and output
+current inflation is below the intersection of SRAS1 and LRAS that marks
+                                                                                    equals potential output. Put another way,
+expected inflation in the long run, so the SRAS curve shifts back right to
+SRAS2, which intersects the LRAS at the point where expected inflation (​πe​2​  ​)  inflation is at its highest and output at its
+equals π1. The SRAS curve continues to shift right until inflation and expected     lowest immediately following a negative
+inflation again equal target inflation at point 0.                                  shock to short-run aggregate supply. Over
+
+                           2
+                            President George W. Bush initially proposed the personal income tax cuts to fulfill a pledge from the
+                           presidential campaign of 2000. Because the pledge occurred before anyone suspected that the economy
+                           would weaken the following year, it would seem that a substantial amount of luck was involved.
+
+
+===== PDF 658 | 印刷页 623 =====
+
+                                                   Using the Aggregate Demand–Aggregate Supply Framework l   623
+
+
+
+                  Impact of a Decline in Short-Run Aggregate Supply on
+  Table 22.2
+                  Output and Inflation
+
+
+                                     Negative supply shock
+    Source                           ∙∙ Increase in production costs
+                                     ∙∙ Increase in expected inflation
+
+    Result                           Short-run aggregate supply curve shifts left
+
+    Short-run impact                 Y falls
+                                     π increases
+
+
+
+
+time, self-correcting forces in the economy unwind the shock, restoring long-run
+equilibrium.
+    As was the case with the increase in government purchases (when combined with
+an appropriate monetary policy response), a supply shock has no effect on the econo-
+my’s long-run equilibrium point. Only a change in either potential output or the central
+bank’s inflation target can accomplish that. Instead, a negative supply shock moves
+output and inflation temporarily away from potential output and the inflation target.
+Over time, as expected inflation first rises and then falls, the short-run aggregate sup-
+ply curve shifts back to the right. As it does, the economy moves along the dynamic
+aggregate demand curve until output and inflation finally return to the initial equilib-
+rium point 0 in Figure 22.5. Thus, a supply shock causes inflation to rise temporarily
+and then fall, at the same time that current output falls temporarily and then rises. But,
+as always, in the long run the economy returns to the point where output equals poten-
+tial output and inflation equals the central bank’s target.
+
+
+Using the Aggregate Demand–Aggregate
+Supply Framework
+We are now ready to use the macroeconomic framework to address a series of interest-
+ing questions. We examine the following (in increasing order of complexity):
+  1. How do policymakers achieve their stabilization objectives?
+  2. What accounts for what has been called the “Great Moderation,” the time ­period
+     from the mid-1980s until 2007 (and possibly beyond) when U.S. growth and
+     inflation were less volatile than they were historically?
+  3. What happens when potential output changes?
+  4. What are the implications of globalization for monetary policy?
+  5. Can policymakers stabilize output and inflation simultaneously?
+
+How Do Policymakers Achieve Their Stabilization Objectives?
+The aggregate demand–aggregate supply framework is useful in understanding how
+monetary and fiscal policymakers seek to stabilize output and inflation using what is
+called stabilization policy.
+
+
+===== PDF 659 | 印刷页 624 =====
+
+624   l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+
+                           Defining a Recession: The NBER Reference Cycle
+                           TOOLS OF THE TRADE
+
+
+  From reading the business press, you might conclude that a                   ­ easuring Business Cycles (1946), they called this dating a
+                                                                               M
+  recession is any episode in which real gross domestic prod-                  “reference cycle.”
+  uct (GDP) declines for two consecutive quarters. While that                      The NBER’s definition of a recession is as follows:
+  casual definition may work in most instances, it has some
+  drawbacks. One is that because GDP is computed and pub-                          A recession is a significant decline in activity spread
+  lished quarterly, a definition that is based on GDP cannot indi-                 across the economy, lasting more than a few months,
+  cate the specific months in which a recession started and                        normally visible in real GDP, real income, employment,
+  ended. To determine that information, we need a definition                       industrial production, and wholesale–retail sales. A re-
+  that is based on measures like production, employment,                           cession begins just after the economy reaches a peak of
+  sales, and income—all of which are available monthly and pro-                    activity and ends as the economy reaches its trough. Be-
+  vide valuable information about the health of the economy.                       tween trough and peak, the economy is in an expansion.
+      Ultimately, the arbiter for declaring “official” recessions in
+  the United States is the National Bureau of Economic Re-                         This definition has three important implications. First, a
+  search (NBER). The NBER, founded in 1920, is a research or-                  recession is a decline in activity, not just a dip in the growth
+  ganization devoted to studying how the economy works.                        rate. Second, the exact length of the economic contraction is
+  Early work at the NBER led to the construction of much of the                ambiguous. A severe decline in economic activity that lasted
+  economic data we use today. Two of the NBER’s pioneering                     less than two quarters could still be considered a recession
+  researchers, Wesley Mitchell and A    ­ rthur Burns, dated the be-           according to this definition. And third, because key eco-
+  ginning and end of all the recessions in the United States                   nomic indicators often change direction at different times,
+  from the Civil War through World War II.* In their book                      there is an element of judgment in dating the peaks and
+
+
+
+
+         Table 22.3           NBER Business Cycle Reference Dates, 1946–2019
+
+
+
+                                                                         Length of Recession                    Length of Expansion
+                                                                             in Months                               in Months
+            Peak                          Trough                           Peak to Trough                     Previous Trough to Peak
+
+            November 1948                 October 1949                             11                                        37
+            July 1953                     May 1954                                 10                                        45
+            August 1957                   April 1958                                8                                        39
+            April 1960                    February 1961                            10                                        24
+            December 1969                 November 1970                            11                                      106
+            November 1973                 March 1975                               16                                        36
+            January 1980                  July 1980                                 6                                        58
+            July 1981                     November 1982                            16                                        12
+            July 1990                     March 1991                                8                                        92
+            March 2001                    November 2001                             8                                      120
+            December 2007                 June 2009                                19                                        73
+
+
+      SOURCE: National Bureau of Economic Research. The FRED code is USREC (which represents a recession month as a 1 and an expansion month as a 0).
+
+
+===== PDF 660 | 印刷页 625 =====
+
+                                                                             Using the Aggregate Demand–Aggregate Supply Framework l                            625
+
+
+
+
+  troughs of business cycles. As a result, the NBER’s Business                          plots the bureau’s business cycle reference dates against
+  Cycle Dating Committee takes its time in declaring the be-                            the growth in real GDP over the period. The figure clearly
+  ginning and end of a recession. Delays of six months to a                             shows the tendency for real growth to be low—usually be-
+  year are common.                                                                      low zero—during recessions. Recessions differ along sev-
+      The term business cycle is somewhat misleading when                               eral dimensions, including the so-called 3 D’s: depth,
+  used to refer to fluctuations in economic activity. The word                          duration, and diffusion across business sectors, geographic
+  cycle calls up images of recurring waves that rise and fall in                        regions, or markets. The table illustrates the remarkable fact
+  a periodic pattern. Economic fluctuations aren’t like that.                           that recessions are much shorter than expansions in the
+  Both the length of recessions and the time between them                               U.S. economy. Most people credit this fact to a combination
+  are irregular. As Burns and Mitchell wrote in their book, “A                          of successful policy and the economy’s capacity for self-­
+  cycle consists of expansions . . . followed by contractions                           correction.
+  and revivals which merge into the expansion phase of the                                 For more information on the procedures used to date
+  next cycle; this sequence of changes is recurrent but not                             business cycles, go to the NBER’s website at www.nber.org.
+  periodic.”
+      Table 22.3 displays the results of the NBER’s analyses of                         *Burns later became chair of the Federal Reserve Board, serving from 1970
+  the business cycle since the end of World War II. F
+                                                    ­ igure 22.6                        to 1978.
+
+
+
+
+                    Figure 22.6                        Growth in Real GDP over the Business Cycle
+
+
+                                        14
+     Percent Change from Year Ago (%)
+
+
+
+
+                                        12
+                                        10
+                                         8
+                                         6
+                                         4
+                                         2
+                                         0
+                                        –2
+                                        –4
+                                        –6
+                                        48
+                                             52
+                                                  56
+                                                       60
+                                                            64
+                                                                 68
+                                                                      72
+                                                                            76
+                                                                                 80
+                                                                                      84
+                                                                                           88
+                                                                                                  92
+                                                                                                         96
+                                                                                                                00
+                                                                                                                        04
+                                                                                                                               08
+                                                                                                                                      12
+                                                                                                                                             16
+                                                                                                                                                    20
+                         19
+                                             19
+                                                  19
+                                                       19
+                                                            19
+                                                                 19
+                                                                      19
+                                                                           19
+                                                                                19
+                                                                                     19
+                                                                                          19
+                                                                                                19
+                                                                                                       19
+                                                                                                              20
+                                                                                                                     20
+                                                                                                                            20
+                                                                                                                                   20
+                                                                                                                                          20
+                                                                                                                                                 20
+
+     The figure shows the four-quarter percentage change in real GDP from the Bureau of Economic Analysis, and the shaded
+     bars represent recessions as determined by the NBER. (FRED codes: GDPC1 for GDP and USREC for recession dates.)
+
+
+
+
+   In thinking about the way monetary policy can be used to reduce economic fluctua-
+tions, recall that movements in output and inflation can be caused both by shifts in the
+dynamic aggregate demand curve and in the short-run aggregate supply curve. But
+when shifting their reaction curve, central bankers shift the dynamic aggregate demand
+curve. They cannot shift the short-run aggregate supply curve. What this means is that
+monetary policymakers can neutralize demand shocks, but they cannot offset supply
+shocks. That is to say, they can counter aggregate expenditure changes that shift the
+dynamic aggregate demand curve, but they cannot eliminate the effects of changes in
+
+
+===== PDF 661 | 印刷页 626 =====
+
+626 l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+                      production costs that shift the short-run aggregate supply curve. Nevertheless, as we
+                      will see, positive supply shocks that raise output and lower inflation provide policy-
+                      makers with an opportunity. If they wish, following a positive supply shock, central
+                      bankers can guide the economy to a new, lower inflation target without inducing a
+                      recessionary output gap.
+                         As for fiscal policy, our macroeconomic framework allows us to study the impact of
+                      changes in government taxes and expenditures as well. As we have seen in the previ-
+                      ous section, these shift the dynamic aggregate demand curve. This means that fiscal
+                      policy can work to stabilize the economy. While this is true in principle, as we will
+                      discuss, the active use of fiscal policy faces great challenges. The conclusion is that
+                      stabilization policy is usually best left to central bankers.
+
+                      Monetary Policy          To see how monetary policy can stabilize the economy follow-
+                      ing a shift in the dynamic aggregate demand curve, consider what happens when con-
+                      sumers and businesses suddenly become more pessimistic about the future. Such a
+                      change reduces consumption and investment, shifting the dynamic aggregate ­demand
+                      curve to the left. In the absence of any change in monetary policy, this drop in con-
+                      sumer and business confidence would cause current inflation to fall below expected
+                      inflation and current output to fall below potential output. Panel A of Figure 22.7
+                      shows the dynamic aggregate demand curve shifting to the left (from AD0 to AD1) and
+                      the economy moving to a new short-run equilibrium point where current output falls
+                      short of potential output (at point 1, where AD1 crosses SRAS).
+                          Realizing that consumer and business confidence have fallen, driving down the con-
+                      sumption and investment components of aggregate expenditure, policymakers will con-
+                      clude that the long-run real interest rate has gone down. Assuming that their inflation
+                      target remains the same, the drop in aggregate expenditure prompts them to shift their
+                      monetary policy reaction curve to the right, reducing the level of the real interest rate at
+                      every level of inflation. This is the shift from MPRC0 to MPRC1 shown in Panel B of
+                      Figure 22.7. Recall that when the monetary policy reaction curve shifts, the dynamic
+                      aggregate demand curve shifts in the same direction. This means that the policymakers’
+                      action shifts the dynamic aggregate demand curve back to its initial position as shown
+                      in Panel A of Figure 22.7. So, in the absence of a policy response, following the decline
+                      in aggregate expenditure, output would fall. But instead, the policy response means that
+                      the dynamic aggregate demand curve remains at its initial position, so output remains
+                      equal to potential output and inflation remains steady at the central bank’s target.3
+                          While central bankers can offset aggregate demand shocks in theory, in practice it
+                      is extremely difficult to keep inflation and output from fluctuating when aggregate
+                      ­expenditure changes. There are two reasons for this. First, it takes time to recognize
+                       what has happened. Fluctuations in the quantity of aggregate output demanded aris-
+                       ing from things like changes in consumer or business confidence can be very difficult
+                       to recognize as they are occurring. Second, changes in interest rates—the tool mone-
+                       tary policymakers use to offset aggregate demand shocks—do not have an immediate
+                       impact on the economy. Instead, when interest rates rise or fall, it takes time for out-
+                       put and inflation to respond. A good rule of thumb is that interest rate changes start to
+                       influence output in 6 to 9 months and inflation after 18 months, but our knowledge is
+                       not all that precise. In short, while in theory we can neutralize aggregate demand
+                       shocks, in reality they create short-run fluctuations in output and inflation.
+
+                      3
+                       Stabilizing aggregate demand shocks in this way also ensures that expected inflation remains equal to the
+                      central bank’s inflation target.
+
+
+===== PDF 662 | 印刷页 627 =====
+
+                                                      Using the Aggregate Demand–Aggregate Supply Framework                       l 627
+
+
+
+
+  Figure 22.7        Stabilizing a Shift in Dynamic Aggregate Demand
+
+
+             A. Aggregate Expenditure
+                 A. Aggregate         Decline
+                              Expenditure Decline                               B. Monetary Policy
+                                                                                   B. Monetary     Response
+                                                                                                Policy Response
+                                                                                                                     MPRC
+                                                                                                                       MPRC
+                                                                                                                         0 0
+                                  LRAS
+                                    LRAS
+     π π                                                              r r                                              MPRC
+                                                                                                                         MPRC
+                                                                                                                            1 1
+                                                   SRAS
+                                                     SRAS             r*0 r*0
+πe=
+  π eπ=
+      T πT                               0 0
+
+                               1 1                                    r*1 r*1
+
+
+
+                                                       ADAD
+                                                          0 0
+                                                     ADAD
+                                                       1 1
+
+                                     YP YP             Y Y                                                  πT πT π π
+  Following a drop in consumer or business confidence the dynamic     Following a drop in consumer confidence, the long-run
+  aggregate demand shifts to the left from AD0 to AD1, moving the     real interest rate falls from r0* to r1*. Policymakers respond
+  economy from point 0 to point 1. Realizing this, monetary           by shifting their reaction curve from MPRC0 to MPRC1,
+  policymakers shift their MPRC to the right, shifting the dynamic    shifting the AD curve back to its original position, AD0.
+  aggregate demand curve back to where it started and returning the
+  economy to point 0.
+
+
+
+
+Discretionary Fiscal Policy             There are two very different types of fiscal policy.
+One is automatic, operating without any further actions on the part of government
+­officials, and the other is discretionary, relying on fiscal policymakers’ decisions. Auto-
+ matic stabilizers, including unemployment insurance and the proportional nature of the
+ tax system, are in the first group. These adjust mechanically to stimulate an economy
+ that is slowing down and put the brakes on an economy that is speeding up. They oper-
+ ate countercyclically to eliminate fluctuations in aggregate expenditure and keep the
+ economy stable. But there are times when automatic stabilizers are not enough; and
+ that’s when politicians face the temptation to enact temporary expenditure increases
+ and tax reductions—what is called discretionary fiscal policy. Discretionary fiscal pol-
+ icy changes aggregate expenditure, shifting the dynamic aggregate demand curve.
+    As noted earlier in the chapter, a rise in government purchases or a decrease in taxes
+ drives up aggregate expenditure, shifting the dynamic aggregate demand curve to the
+ right. Thus, fiscal policy can act just like monetary policy to offset shifts in the
+ dynamic aggregate demand curve and stabilize inflation and output. In fact, it has been
+ used exactly this way on a number of occasions. As we discussed earlier, for example,
+ the 2008–2009 federal tax cuts and spending increases boosted aggregate expenditure,
+ helping moderate the recession.
+    At least in principle, then, discretionary fiscal policy offers a clear alternative to
+ monetary policy. On closer examination, however, it has at least two shortcomings.
+ First, discretionary fiscal policy works slowly, and second, it is very difficult to imple-
+ ment effectively. Most recessions are short, lasting a year or less. Until the financial
+ crisis of 2007–2009, the longest post–World War II recession in the United States
+
+
+===== PDF 663 | 印刷页 628 =====
+
+628   l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+                       spanned 16 months (see Table 22.3 on page 624). Furthermore, because economic
+                       data only become available several months after they are collected, the economy is
+                       often halfway through a recession before there is a consensus that a downturn has actu-
+                       ally started. Under most circumstances, Congress can’t pass new legislation in less
+                       than several months. And fiscal policies do not have an immediate impact on the econ-
+                       omy. Even after a tax cut has been passed, individual consumption and corporate
+                       investment tend to remain sluggish. Odds are that, by the time the spending does start,
+                       the typical recession will be over. This means that discretionary fiscal policy is likely
+                       to have its biggest impact well after it is most needed.
+                           The problems with discretionary fiscal policy don’t end there because economists
+                       don’t write economic stimulus packages; politicians do. And economics clearly collides
+                       with politics where fiscal stimulus is concerned. From an economic point of view, the
+                       best policies are the ones that influence a few key people to change their behavior, with-
+                       out rewarding people for doing what they would have done anyway. Examples of eco-
+                       nomically efficient fiscal policies include temporary investment incentives and tax
+                       reductions targeted toward those who are prone to spend an extra dollar of income, either
+                       because they cannot borrow or are less well off. Politicians have a different set of incen-
+                       tives. They want to be reelected, so they look for programs that reward the largest number
+                       of people possible, to ensure their reelection. This means that discretionary fiscal policy
+                       is likely to be based more on political calculation than on economic logic. Though we
+                       can’t hold public officials’ opportunism against them, we need to recognize its existence.
+                       Because politicians want to remain popular with their constituencies, economic slow-
+                       downs—when some voters are suffering and the rest are worried—play to their worst
+                       instincts. In short, discretionary fiscal policy is a poor stabilization tool. While an eco-
+                       nomically sensible stimulus package can be designed, such legislation does not often
+                       become law.
+                           Under most circumstances, then, stabilization policy is probably best left to the
+                       central bankers. They have both the ability to act quickly and the independence to put
+                       the economy before politics. Fiscal policy’s automatic stabilizers are clearly important
+                       parts of the economic landscape, but discretionary government expenditure and tax
+                       changes only have a role after monetary policy has run its course—that is, when con-
+                       ditions are so bad that using every available tool makes sense.
+                           From this perspective, the deep recession of 2007–2009 provided the strongest case
+                       in many decades for discretionary fiscal stimulus in the United States and other coun-
+                       tries. The downturn was the longest since the 1930s, providing fiscal policymakers
+                       time to respond. It also was the deepest and most widespread, while the subsequent
+                       recovery was the weakest, posing an unusual risk of deflation in several economies. As
+                       we saw in Chapter 11 (Applying the Concept: Deflation, Net Worth, and Information
+                       Costs), deflation can be highly destabilizing. Finally, and perhaps most importantly,
+                       central banks had lowered their policy interest rates close to zero, limiting their scope
+                       for further conventional policy stimulus. Consequently, it should come as no surprise
+                       that many industrial countries undertook large-scale discretionary fiscal stimulus in
+                       this episode. The 2008 and 2009 U.S. tax cuts and spending increases and the massive
+                       2009 budget deficit that we previously discussed fit in this category.
+
+                       Positive Supply Shocks and the Opportunity They Create                       Next, let’s
+                       consider what happens when production costs fall, creating a positive supply shock.
+                       This shifts the short-run aggregate supply curve to the right, from SRAS0 to SRAS1, as
+                       shown in Figure 22.8. The immediate impact of this is to drive inflation down and
+                       output up. We know that at this new short-run equilibrium (point 1 in Figure 22.8),
+
+
+===== PDF 664 | 印刷页 629 =====
+
+                                                             Using the Aggregate Demand–Aggregate Supply Framework          l   629
+
+
+
+current inflation (π1) is below expected inflation
+(​π​0e​ ​). In the absence of any other change, inflation      Figure 22.8           A Positive Supply Shock
+expectations initially fall. But at the next stage,
+inflation is above expected inflation (where the
+SRAS1 curve intersects the LRAS), and expecta-                         π                       LRAS
+                                                                                                         SRAS0
+tions start to rise. This shifts the short-run aggregate
+supply curve to the left until the economy returns to                                                            SRAS1
+the original long-run equilibrium at point 0, where                                           0
+output equals potential output and inflation equals            π e0 = π T
+the central bank’s target.                                             π1                                  1
+      While policymakers could simply allow the
+economy to take its natural course, with inflation
+falling to π1 (at point 1) and then rising back to πT                                                             AD
+(at point 0), there is an alternative. A positive sup-
+ply shock creates an opportunity for policymakers
+to guide the economy to a new, lower inflation tar-                                               YP Y1               Y
+get without inducing a recession. The standard
+mechanism for permanently reducing inflation is to
+raise the real interest rate at every level of inflation. A positive supply shock shifts the short-run aggregate supply curve
+Central bankers do this by shifting the monetary to            the right, moving the short-run equilibrium from point 0 to point 1.
+                                                            Inflation falls and output rises.
+policy reaction curve to the left, which then shifts
+the dynamic aggregate demand curve to the left as well. This drives inflation down,
+and inflation expectations will follow. (Look back at Figures 22.2 and 22.3 on
+page 618.) As a result, inflation falls to the new, lower target level. This is the mecha-
+nism that links monetary policy to economic downturns and inflation declines as
+shown in Figure 22.1 on page 616.
+      Here’s how central bankers can exploit the opportunity created by a positive supply
+shock. Because potential output is unchanged following the fall in production costs, the
+long-run real interest rate r* hasn’t changed either. This means that a lower inflation tar-
+get requires a higher real interest rate at every level of current inflation (that’s a leftward
+shift in the monetary policy reaction curve as shown in Panel A of Figure 22.9 on
+page 630). So, policymakers wishing to lower their inflation target in response to a pos-
+itive supply shock will raise interest rates, shifting the dynamic aggregate demand curve
+to the left until it reaches the point where the new short-run aggregate supply curve
+(SRAS1) intersects the long-run aggregate supply curve (LRAS). If policymakers choose
+this course, as shown in Panel B of Figure 22.9, output will not rise above potential.4
+
+What Accounts for the Great Moderation?
+By any measure, the 1990s were remarkable. Information technology came of age,
+bringing the benefits of computerization into our lives through everything from cars
+to dishwashers. Because of the Internet, incredible libraries are now available to us in
+our homes and offices. That includes FRED, the Federal Reserve Bank of St. Louis’s
+online database that is the source for many figures and end-of-chapter problems in
+this book.
+   What may be even more extraordinary is that the 1990s brought unprecedented
+­economic stability—the “Great Moderation” in the volatility of real growth. In the
+
+4
+ Again, recall that at the long-run equilibrium, inflation must equal expected inflation. So, if following a positive
+supply shock, policymakers choose to reduce their inflation target, inflation expectations must fall as well.
+
+
+===== PDF 665 | 印刷页 630 =====
+
+630   l     Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+
+  Figure 22.9             Lowering the Inflation Target
+
+
+                         A. Monetary Policy                                                     B. Output and Inflation
+
+              r                                                                                              LRAS
+                                                  MPRC1                           π
+                                                             MPRC0
+                                                                                                                                  SRAS1
+                                                                          π e0 = π T0
+             r*                                                                                                           1
+                                                                          π e1 = π T1
+                                                                                                                   2
+                                                                                                                                 AD0
+                                                                                                                              AD1
+
+                                    π T1   π T0         π                                                       YP               Y
+
+          A decline in the inflation target from π0T to πT1 shifts the      Following a positive supply shock, policymakers can reduce their
+          monetary policy reaction curve to the left from MPRC0             inflation target by shifting the dynamic aggregate demand curve
+          to MPRC1.                                                                                                              ​ e​0 ​​  to ​πe​1​  ​.
+                                                                            from AD0 to AD1. This lowers expected inflation from π
+                                                                            Instead of going to point 1, the economy moves to point 2.
+
+
+
+
+                                                                                decade from 1991 to 2001, the U.S. economy
+                                                                                did not suffer a single decline in output. Dur-
+                                                                                ing these 10 years of solid growth, inflation
+                                                                                fell steadily, from more than 5 percent in 1991
+                                                                                to less than 2 percent by the end of the decade.
+                                                                                Comparing the 1980s with the 1990s, research-
+                                                                                ers find that the volatility of inflation and
+                                                                                growth dropped by more than half.5 And if you
+                                                                                look back at Figures 22.1 and 22.6 you can see
+                                                                                that both inflation and growth were substan-
+                                                                                tially less variable between 1982 and 2007
+                                                                                than in the prior period.
+                                                                                    This prosperity and stability was shared
+                                                                                across the industrialized world. Looking at a
+                                                                                broad cross-section of the 63 countries for
+                                                                                which we have reliable data, we can see that
+                                                                                ­inflation dropped dramatically between the
+SOURCE: 1991 © Robert Mankoff/ The New Yorker Collection, www.CartoonStock.com.  1980s and the 1990s. Median inflation fell
+                                                                                 from an annual rate of 7 percent in the period
+                              1985–1994 to 3 percent in the p­ eriod 1995–1999. The decline in average inflation
+                              was even sharper, from 83 percent to just 8½ percent. Inflation rose in only 10 of the
+                              63 countries.
+                                  There are three possible explanations for this phenomenal worldwide economic
+                              performance. One is that everyone was extremely lucky, and the 1990s were simply an
+                                5
+                                 This decline in volatility, along with the rebound of volatility during the financial crisis of 2007–2009, is
+                                documented by Todd Clark in “Is the Great Moderation Over? An Empirical Analysis,” Federal Reserve Bank
+                                of Kansas City Economic Review, 4th Quarter, 2009.
+
+
+===== PDF 666 | 印刷页 631 =====
+
+                                                         Using the Aggregate Demand–Aggregate Supply Framework l                        631
+
+
+
+
+                        GDP-Linked Bonds
+                        APPLYING THE CONCEPT
+
+   As of 2019, gross government debt in advanced economies            s­ tructure? It seems highly doubtful that a country’s policy-
+   exceeded 100 percent of GDP, up by more than 30 percent-            makers would intentionally depress its economy just to re-
+   age points since 2007, prior to the financial crisis. Very large    duce its debt service. However, investors would need to
+   debts in some countries—including Greece (177 percent), Italy       trust the reporting of the national accounts that determine
+   (129 percent), and Portugal (117 percent)—pose a risk not only      the returns on GDP-linked instruments. Even a temporary
+   to these countries, but to others as well. As a result, policy-     loss of investor confidence would raise the risk premium on
+   makers and economists have been looking for ways to make            GDP-linked debt.
+   it easier to manage these heavier debt burdens.                          A related concern is the issue of GDP data revisions,
+       One prominent suggestion is that countries should               which are both frequent and sizable. Over the past 50 years,
+   issue GDP-linked bonds that tie the size of debt payments           fully half of the time U.S. revisions exceeded one percentage
+   to their economy’s cyclical performance. Proponents point           point (at an annual rate) either up or down (see Applying the
+   to two major advantages of these bonds. First, these bonds          Concept, GDP: One Size No Longer Fits All, page 501). It is
+   reduce the likelihood of explosive paths for sovereign debt,        hard to see a timely solution to this problem.
+   lowering default risk. This would increase the maximum                   Finally, there is the market price of the bonds. Govern-
+   level of sustainable debt, and provide greater capacity for         ment debt managers might find the risk premium that inves-
+   countercyclical fiscal policies. Second, GDP-linked bonds           tors demand to be too high. For advanced economies, most
+   offer investors a low-cost way to diversify both domestically       estimates of the likely premium are in the range of 150 to
+   and internationally. Within a country, bonds with payoffs           300 basis points. Unsurprisingly, for emerging market econ-
+   tied to GDP provide exposure to changes in returns to labor         omies the numbers are much larger, and can easily exceed
+   as well as capital. The two are only weakly associated, with        500 basis points.
+   the correlation between annual growth in U.S. labor income               The bottom line: While issuing GDP-linked bonds has
+   and capital income over the last half century at less than          clear benefits, building and sustaining investor confidence in
+   0.2. Internationally, a portfolio of GDP-linked bonds allows        these instruments will require both an irreversible commit-
+   diversification of idiosyncratic, country-specific risks.           ment to independent statistical analysis by issuing govern-
+       However, there are a number of practical obstacles.             ments and a clever approach to the obstacles posed by data
+   First, might a government game this GDP-linked debt                 revisions.
+
+
+
+
+exceptionally calm period. The second is that economies became more flexible in
+absorbing external economic disturbances. And the third is that monetary policymak-
+ers figured out how to do their job more effectively. Which one of these is most likely?
+    It’s difficult to argue that the stability of the 1990s was mere good fortune. Surely,
+the decade was not a calm one for the financial markets. Major economic crises
+­occurred in Latin America and Asia, and Long-Term Capital Management, the large
+ hedge fund, nearly ­collapsed, paralyzing the bond markets. Raw materials prices fluc-
+ tuated wildly. The price of oil spiked above $35 a barrel late in 1990 and then plunged
+ below $12 a barrel at the end of 1998 before beginning a steady rise to $30 a barrel by
+ the beginning of 2000.
+    If the size and frequency of external disturbances did not diminish, something
+ must be cushioning the blows. Advances in information technology have increased
+ manufacturers’ flexibility in responding to changes in demand. The result has been a
+ dramatic decline in inventories at every stage of the production process. In durable
+ manufacturing, the new supply method called “just-in-time” cut the ratio of invento-
+ ries to sales in half in the period from the early 1990s, to the beginning of 2002.
+ Today, an automobile assembly plant keeps only a few hours worth of parts on hand;
+ the rest are in transit to the factory, timed to arrive at just the right moment. Similarly,
+ a supermarket or super­store like Walmart or Target holds only one to two days’ ­supply
+
+
+===== PDF 667 | 印刷页 632 =====
+
+632   l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+                        of most products. The result is a great deal of flexibility in responding to changes in
+                        demand and sales.
+                           While improvements in inventory management are part of the explanation for the
+                        long period of prosperity in the 1990s, they aren’t the whole story. Every description
+                        of the recession that began in March 2001 points to the impact of an inventory
+                        adjustment. The most persistent problems emerged in the high-technology sector—
+                        semiconductors, computers, and communications equipment. Inventories also
+                        plunged sharply in the recession that began in 2007. So while the U.S. economy has
+                        become more flexible, it hasn’t changed enough to prevent fluctuations caused by
+                        unexpected events.
+                           Financial innovation probably played some role in reducing economic volatility
+                        after the early 1980s—that is, until the financial crisis of 2007–2009. Innovations
+                        in mortgages and other forms of personal credit made it easier for households and
+                        businesses to borrow. As a result, they were better able to smooth their spending
+                        during periods of temporary income fluctuations.6 As we now know, however, ris-
+                        ing levels of risky debt eventually led to record defaults on mortgages and other
+                        forms of personal credit during the financial crisis. And the loss of credit availabil-
+                        ity during the crisis helps explain the depth and duration of the recession that began
+                        in December 2007.
+                           That leaves monetary policy as the only remaining explanation for the improved
+                        economic performance. Economists now have a much better understanding of how to
+                        implement monetary policy than they did as recently as 25 years ago. To succeed in
+                        keeping inflation low and stable while at the same time keeping real growth high and
+                        stable, central bankers must focus on raising real interest rates when inflation goes up
+                        and lowering them when inflation goes down. One example is the Taylor rule (see
+                        Chapter 18) that raises the policy interest rate by 1.5 percentage points for every
+                        1 percent rise of inflation. By focusing on long-run inflation, policymakers have suc-
+                        ceeded in bringing the inflation rate down and keeping it low.
+                           Yet, while keeping inflation low and stable is necessary for reducing economic
+                        volatility, the deep recession that began in December 2007 shows that it is not suffi-
+                       cient. Low inflation did not prevent the financial crisis of 2007–2009, and history
+                       shows that such crises often are associated with deep recessions (the Great Depression
+                       being the most extreme example). It remains to be seen whether the crisis marks the
+                       end of the Great Moderation or whether it was simply a huge exception in an otherwise
+                       stable period. If households and businesses are no longer able or willing to use credit
+                       to smooth their spending over time, it may not be possible for Fed policymakers to
+                       sustain the low economic volatility of the 1985–2007 period, even if they remain
+                       ­effective in keeping inflation low.
+
+
+                       What Happens When Potential Output Changes?*
+                       In order to concentrate on the impact of shifts in dynamic aggregate demand and short-
+                       run supply, we have neglected movements in potential output. But potential output
+                       does change, and the consequences are important both for short-run movements in
+                       output and inflation and for long-run equilibrium.
+
+
+                       See, for example, Karen E. Dynan, Douglas W. Elmendorf, and Daniel Sichel, “Can Financial Innovation
+                       6
+
+                       Help Explain the Reduced Volatility of Economic Activity?” Federal Reserve Board, FEDs Working Paper
+                       No. 2005-54, August 2006.
+
+
+===== PDF 668 | 印刷页 633 =====
+
+                                                            Using the Aggregate Demand–Aggregate Supply Framework                 l   633
+
+
+
+
+    Figure 22.10        An Increase in Potential Output
+
+
+                          A. Aggregate Supply                                             B. Short-Run Equilibrium
+                       LRAS0 LRAS1                                                 π        LRAS0 LRAS1
+              π                              SRAS0
+                                                                                                              SRAS0
+                                                     SRAS1                                                                SRAS1
+             πe                                                            π e = πT
+                                                                                                  0
+                                                                                                        1
+                                                                                                                     AD
+
+                              Y0P      Y1P            Y                                           Y0P       Y1P           Y
+
+             An increase in potential output shifts both the              In the short run, the economy moves from point 0
+             short- and long-run aggregate supply curves to               to point 1.
+             the right. Before and after the shift, the short-run
+             aggregate supply curve crosses the long-run
+             aggregate supply curve at the point where π = π e.
+
+
+
+
+   To understand what happens when potential output changes, let’s trace out the conse-
+quences of a rise in YP brought on by an increase in productivity. First, recall that the
+long-run aggregate supply curve (LRAS) is vertical at the point where ­current output
+equals potential output, so when potential output rises this curve shifts to the right. But
+that’s not all. An increase in productivity reduces costs of production, so it is a positive
+supply shock as well. This shifts the short-run aggregate supply curve (SRAS) to the
+right. But how far does SRAS shift? To see, recall from Chapter 21 that the short-run
+aggregate supply curve intersects the long-run aggregate supply curve at the point where
+current inflation equals expected inflation (π e)—that’s where production costs are not
+changing. Immediately following the increase in potential o­ utput, expected inflation
+does not change, so the SRAS shifts the same horizontal distance as the LRAS does.
+From this we can conclude that an increase in potential output shifts both the long- and
+short-run aggregate supply curves to the right as shown in Panel A of Figure 22.10.
+   The short-run impact of an increase in potential output is straightforward. Assuming
+the central bank recognizes the change in potential output only with a lag, we can trace
+out the short-term impact of a change. First, because policymakers are slow to recognize
+the increase in YP, MPRC does not shift immediately: It still passes through the old level
+of potential output (​Y​P0​  ​). As a result, the AD curve also is unchanged until the MPRC
+shifts.7 In the short run, output and inflation are determined by the intersection of the
+short-run aggregate supply (SRAS) curve and the dynamic aggregate demand (AD)
+curve. Panel B of Figure 22.10 shows what happens. The economy starts at point 0 where
+
+7
+ This “lagged recognition” assumption allows us to trace out graphically the impact over time of the policy
+response to the change in potential output. It does not alter the direction of the eventual shifts in MPRC and AD,
+but it makes them easier to explain. In the remainder of the chapter, we use this simplifying assumption to help
+illustrate the impact of changes in potential output.
+
+
+===== PDF 669 | 印刷页 634 =====
+
+634   l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+                             the original short-run aggregate supply curve (SRAS0) intersects the dynamic aggregate
+                             demand curve (AD). At this original equilibrium point, output equals the initial level of
+                             potential (​YP​0​  ​) and inflation equals the central bank’s target (π T), which equals expected
+                             inflation (π e). When potential output increases to Y     ​ P​1​  ​, the short-run and long-run aggre-
+                             gate supply curves shift to SRAS1 and LRAS1. In the short run, the new equilibrium is at
+                             point 1 where SRAS1 intersects AD. We can see from the figure, initially output is higher
+                             and inflation is lower.
+                                 What happens next? After a lag, the central bank realizes potential output has risen
+                             to ​Y​1P​  ​. The path that the economy follows to the new level of potential output depends
+                             on what monetary policymakers do. If policymakers are happy with their inflation
+                             target—it could already be low enough—then they will work to move the economy to
+                             the point on the new long-run aggregate supply curve (LRAS1) consistent with that
+                             initial target. But because the higher level of potential output comes along with a
+                             lower long-run real interest rate r* (look back at Figure 21.5 on page 587), returning
+                             inflation to its initial (higher) level means shifting the monetary policy reaction curve
+                             to the right. This change in monetary policy shifts the dynamic aggregate demand
+                             curve to the right. The policy adjustment will drive output and inflation up until they
+                             reach their new long-run equilibrium levels where output equals ​Y​1P​  ​ and inflation
+                             equals its original target π T (which equals expected inflation). This case is shown in
+                             Panel A of Figure 22.11, which continues the sequential numbering scheme from
+                             Panel B of Figure 22.10.
+                                 But as we saw earlier, a positive supply shock creates an opportunity for policy-
+                             makers to reduce their inflation target. Without a conscious shift in monetary policy,
+                             at point 1 in Panel B of Figure 22.11 expected inflation exceeds current inflation, so
+                             it starts to fall, shifting the short-run aggregate supply curve to the right, driving
+
+
+ Figure 22.1 1         Policy Options following an Increase in Potential Output
+
+
+                   A. Inflation Target Unchanged                                 B. Inflation Target Reduced
+
+          π                                LRAS1                         π                            LRAS1
+                                                         SRAS1                                                     SRAS1
+                                                                                                                              SRAS2
+
+
+  π e = πT                                     2                 π e0 = π T0
+
+                                    1                                                            1
+                                                                 π e1 = π T1
+                                                         AD1                                            3
+                                                   AD0                                                        AD0
+
+                              Y0P        Y1P             Y                                Y0P        Y1P             Y
+
+  If, following an increase in potential output, policymakers’     If, following an increase in potential output, policymakers wish to
+  inflation target is unchanged, they must shift the dynamic       lower their inflation target, they will allow the economy to move
+  aggregate demand curve to the right, bringing output and         to point 3.
+  inflation to point 2.
+
+
+===== PDF 670 | 印刷页 635 =====
+
+                                                               Using the Aggregate Demand–Aggregate Supply Framework       l 635
+
+
+
+inflation down even further. We know that the SRAS continues to shift until expected
+inflation equals current inflation and current output equals potential output. Looking
+at Panel B of Figure 22.11, which continues sequentially from Panel B of
+Figure 22.10, we see that this process naturally brings us to point 3, where output
+equals the new higher level of potential output Y    ​ ​1P​  ​and inflation is below the original
+target level ​π ​0​  ​. With inflation now lower, monetary policymakers have the opportu-
+                 T
+
+nity to lower their inflation target to the level labeled π      ​  ​1T​  ​. They can do this by ensur-
+ing that the AD curve doesn’t shift, which means leaving their monetary policy
+reaction curve where it started.8
+     Federal Reserve policymakers took advantage of an increase in potential output to
+drive the U.S. inflation rate down during the 1990s. Looking back at Figure 22.1, we
+see that inflation fell gradually from 5 percent at the end of the 1990–1991 recession to
+1½ percent in 1998. This drop in inflation occurred during an economic boom. Over
+the last half of the 1990s, economic growth averaged 1½ percentage points above the
+rate for the preceding 20 years. That is, U.S. productivity (and potential output) grew
+more rapidly from 1996 to 1999 than it did from 1975 to 1995. In effect, the econo-
+my’s long-run aggregate supply curve shifted to the right, and when it did the Federal
+Reserve took the opportunity to reduce its implicit inflation target from near 5 percent to
+2 percent. At the time, this was referred to as opportunistic disinflation. Disinflation is
+the term used to describe declines in inflation; the word opportunistic indicates an
+opportunity to reduce the target inflation level.9 During the 1990s, Fed policymakers
+exploited the opportunity afforded them by positive supply shocks to permanently
+lower inflation.
+     Throughout our discussion of business cycle fluctuations, we have assigned a major
+role to shifts in the quantity of aggregate output demanded. This has led us to focus on
+how shifts in the dynamic aggregate demand curve change its point of intersection
+with an upward-sloping short-run aggregate supply curve and lead to movements in
+output and inflation.
+     An alternative explanation for business cycle fluctuations focuses on shifts in
+­potential output. This view, known as real-business-cycle theory, starts with the
+ ­assumption that prices and wages are flexible, so that inflation adjusts rapidly. That is
+  to say, the short-run aggregate supply curve shifts rapidly in response to deviations of
+  current inflation from expected inflation. This assumption renders the short-run
+  aggregate supply curve irrelevant. Equilibrium output and inflation are determined by
+  ­
+
+  the point of intersection of the dynamic aggregate demand curve and the long-run
+  aggregate supply curve, where current inflation equals expected inflation and current
+  output equals potential output. Thus, any shift in the dynamic aggregate demand curve,
+  regardless of its source, influences inflation but not output. Neither changes in aggre-
+  gate expenditure nor changes in monetary policy have any impact on the level of out-
+  put. Because inflation ultimately depends on the level of money growth, it is
+  determined by monetary policy.
+     To explain recessions and booms, real-business-cycle theorists look to fluctuations in
+  potential output. They focus on changes in productivity and their impact on GDP.
+
+
+8
+ Recall that a decline in the central bank’s inflation target shifts the monetary policy reaction curve to the left. But
+in this case, that will exactly offset the rightward shift resulting from the decline in the long-run real interest rate
+r* caused by the rise in potential output, leaving the position of the monetary policy reaction curve unchanged.
+9
+  Disinflation is very different from deflation, which is the opposite of inflation. Deflation means that aggregate
+prices are consistently falling; disinflation means falling inflation. (See Chapter 21, Your Financial World:
+Distinguishing Inflation, Deflation, and Disinflation, page 579.)
+
+
+===== PDF 671 | 印刷页 636 =====
+
+636   l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+                       ­ roductivity is a measure of output at a fixed level of inputs. An increase in productivity
+                       P
+                       means an increase in GDP for a given quantity of capital and number of workers. Shifts
+                       in productivity can be either temporary or permanent. Examples of such shifts would
+                       include changes in the availability of raw materials, changes in government regulation of
+                       labor and product markets, and inventions or management innovations that improve the
+                       economy’s productive capacity. Any of these events will shift potential output. According
+                       to real-business-cycle theory, they are the only sources of fluctuations in output.10
+
+                       What Are the Implications of Globalization for Monetary Policy?*
+                       If you look at the label of the shirt or blouse you are wearing, chances are it was
+                       ­imported from India, the Philippines, Vietnam, or somewhere else in Asia. The reason
+                        is that it is less costly to manufacture clothing in places where labor is inexpensive.
+                        The result is that clothes are cheaper in the United States: trade lowers prices. But does
+                        it also lower inflation?
+                            The simplest way to understand the macroeconomic impact of international trade is
+                        to think about it as a source of productivity-enhancing technological progress. Shifting
+                        production of clothes from domestic factories to foreign ones is the same as U.S. pro-
+                        ducers finding a new, cheaper technology for producing the same things at home.
+                        And improvements in technology increase potential output. That is something we
+                        understand.
+                            Recall from the previous section that an increase in potential output shifts both the
+                        long-run and short-run aggregate supply curves to the right. This has the immediate
+                        impact of shifting the economy along its dynamic aggregate demand curve to a point
+                        where output is higher and inflation is lower. All of this is shown in Figure 22.10 on
+                        page 633. In the long run, we know that output goes to the new, higher level of poten-
+                        tial output. But, as we discussed in the previous section, the long-run level of inflation
+                        depends on how monetary policymakers respond. Our conclusion is that globalization
+                        and trade do reduce inflation in the short run and just like any positive supply shock
+                        they provide an opportunity to reduce inflation permanently.
+                            Is globalization likely to have a sizeable impact on inflation even in the short run?
+                        Economists estimate that nearly 14 percent of personal consumption expenditures reflect
+                        the direct cost of imported final goods (excluding the contribution from
+                        U.S. services) combined with the imported content of U.S.-made goods and services.11 If
+                        import prices are stable and then start dropping at 5 percent per year, which is what hap-
+                        pened in 2001, this would reduce the rate of inflation by about 0.7 percentage point per
+                        year. With inflation averaging 2 percent per year, that is a moderate but ­temporary impact.
+                        In the long run, MV = PY, so (assuming velocity is constant) the inflation rate equals the
+                        money growth rate less the growth rate of potential output (π = %∆M − %∆YP). We just
+                        can’t get away from the fact that domestic inflation is tied to domestic monetary policy.
+
+                       Can Policymakers Stabilize Output and Inflation
+                       Simultaneously?*
+                       Our analysis of business cycles has been based on the idea that short-run fluctuations
+                       in output and inflation are caused by either demand shifts or supply shifts. And, as we
+
+                       10
+                          For a more detailed discussion of real-business-cycle theory, see Charles Plosser, “Understanding Real
+                       Business Cycles,” Journal of Economic Perspectives 3, no. 3 (Summer 1989), pp. 51–77.
+                       11
+                         See Galina Hale and Bart Hobijn, “The U.S. Content of ‘Made in China,’ ” FRBSF Economic Letter, August 8, 2011.
+
+
+===== PDF 672 | 印刷页 637 =====
+
+                                                            Using the Aggregate Demand–Aggregate Supply Framework                     l 637
+
+
+
+
+                        The Problem with Measuring Nominal GDP
+                        YOUR FINANCIAL WORLD
+
+
+  In order to set their policy-controlled interest rate as accu-          categories and computing what economists call gross do-
+  rately as possible, central bankers need to know the size of            mestic income (GDI). Income categories would include
+  the output gap. This requires measuring the level (and                  wages, rental income, interest income, and dividend income.
+  growth rate) of both current and potential real gross domes-            And because everyone is supposed to pay taxes on their in-
+  tic product (GDP) accurately. Unfortunately, this is made diffi-        come, measuring it should be straightforward.
+  cult by the fact that estimates of GDP for a specific quarter               The fact that income and expenditure are supposed to be
+  are revised for many years after the fact; and the revisions            equal doesn’t mean that they are, however. Looking at tables
+  tend to be large (see Applying the Concept: GDP: One Size               constructed by the Department of Commerce’s Bureau of
+  No Longer Fits All in Chapter 18 on pages 501–502). One of              Economic Analysis, we find a line labeled “Statistical discrep-
+  the reasons for these revisions is that government statisti-            ancy.” The amount on this line, which represents GDP calcu-
+  cians have to reconcile two methods of measuring nominal                lated from expenditures data minus GDI computed from the
+  GDP that are supposed to give the same answer. Here’s the               income data, is quite large. From 1990 to 2018, the statistical
+  problem.                                                                discrepancy between the two measures was between –1.7
+      Looking at the economy as a whole, we know that ex-                 and +2.3 percent of nominal GDP. Table 22.4 shows some
+  penditures must equal income. Eventually, every dollar                  examples for recent years. Because nominal GDP usually
+  that is earned as income must be spent on something.                    grows from 3 to 61/2 percent a year—that figure includes infla-
+  This means that one way to calculate nominal GDP is to                  tion plus real growth—changes in the statistical discrepancy
+  divide it into the various categories for which the product             can have a big impact on official estimates of overall eco-
+  is used—­   c onsumption, investment, government pur-                   nomic performance.
+  chases, and net exports—and then measure expenditure                        Although it directly affects nominal GDP, the practical im-
+  on each of these.                                                       plication of the statistical discrepancy is that it makes us un-
+      But because one person’s expenditure is another’s in-               sure about the current level of real output. Uncertainty about
+  come, total expenditure equals total income. This means that            something so crucial adds to the difficulty of making mone-
+  we can also measure nominal GDP by dividing income into                 tary policy.
+
+
+
+             Table 22.4          Nominal Gross Domestic Product and Income (US$ billions except as noted)
+
+
+
+                                                                        1993           1997             2014             2018
+
+                Nominal gross domestic product                        6,858.6          8,608.5        17,521.7         20,500.6
+                Nominal gross domestic income                         6,702.6          8,596.2        17,820.8         20,556.5
+                Statistical discrepancy                                 156.0              12.3         −299.1            −55.9
+                Statistical discrepancy (percent of GDP)                  2.3%            0.1%           −1.7%            −0.3%
+                Nominal GDP growth from previous year                     5.2%            6.3%             4.4%             5.2%
+
+
+          SOURCE: Bureau of Economic Analysis, Department of Commerce, National Income and Product Accounts Tables 1.1.5 and 1.10.
+
+
+
+
+have seen repeatedly, dynamic aggregate demand curve shifts move inflation and out-
+put in the same direction; while short-run aggregate supply shifts move inflation and
+output in opposite directions. Early in this chapter, we discussed how, by shifting their
+monetary policy reaction curve, policymakers offset demand shocks. (This is shown in
+Figure 22.7 on page 627.)
+
+
+===== PDF 673 | 印刷页 638 =====
+
+638   l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+                           Unfortunately, supply shocks are a different story. There is no way to neutralize
+                       them. For instance, take the case of a negative supply shock like an oil price increase
+                       that raises production costs. This has the immediate effect of driving output down and
+                       inflation up (see Figure 22.5 on page 622). Now consider the tools that are available to
+                       policymakers. By shifting the monetary policy reaction curve, central bankers can
+                       shift the dynamic aggregate demand curve. Is there any way to use this tool to bring
+                       the economy back to its original long-run equilibrium point quickly and painlessly?
+                       The answer is no. Monetary policymakers can shift the dynamic aggregate demand
+                       curve, but they are powerless to move the short-run aggregate supply curve. And there
+                       is no shift in the dynamic aggregate demand curve that can quickly move the economy
+                       back to its long-run equilibrium point, where current output equals potential output
+                       and current inflation equals the central bank’s target.
+                           But that’s not the end of the story. Central bankers can choose how aggressively
+                       they react to deviations of inflation from their target caused by supply shocks.
+                       They can do this by picking the slope of their monetary policy reaction curve,
+                       which then determines the slope of the dynamic aggregate demand curve. The
+                       more aggressive policymakers are in keeping current inflation close to target, the
+                       steeper their monetary policy reaction curve and the flatter the dynamic aggregate
+                       demand curve. And by controlling the slope of the dynamic aggregate demand
+                       curve policymakers choose the extent to which supply shocks translate into changes
+                       in output or changes in inflation. This means that the slope of the monetary policy
+                       reaction curve—how aggressively to react to deviations of inflation from their
+                       target—is ­really a choice about the relative volatility of inflation and output. The
+                       more central bankers stabilize inflation, the more volatile output will be, and vice
+                       versa. There is a tradeoff.
+                           To see why policymakers face a tradeoff between inflation and output volatility, we
+                       can compare two policymakers, one with a relatively steep monetary policy reaction
+                       curve (as in Panel A of Figure 22.12), and one with a relatively flat monetary policy
+                       reaction curve (as in Panel B of Figure 22.12). The first policymaker cares more about
+                       keeping inflation close to its target level than the second one does.
+                           Turning to the dynamic aggregate demand curve, Panel A of Figure 22.13 shows
+                       the relatively flat AD curve implied by the steep monetary policy reaction curve in
+                       which small deviations in inflation from the target level elicit large changes in the real
+                       interest rate. A flat dynamic aggregate demand curve, corresponding to the steep
+                       monetary policy reaction curve in Panel A of Figure 22.12, means that a negative
+                       supply shock prompts a large decline in current output and only a small increase in
+                       current inflation. By reacting aggressively, policymakers ensure that inflation (and
+                       inflation expectations) remain close to their target. The cost of following this path,
+                       however, is that stable inflation means volatile output. This is depicted in Panel A of
+                       Figure 22.13.
+                           Panel B of Figure 22.13 shows what happens when policymakers are less con-
+                       cerned about keeping inflation close to target in the short run, and more concerned
+                       about keeping current output near potential output. When policymakers worry
+                       more about short-run fluctuations in output than about temporary movements in
+                       inflation, they will choose a relatively flat monetary policy reaction curve in which
+                       movements in the real interest rate are small, even when inflation strays far from
+                       its target level. The result is a steep dynamic aggregate demand curve like the one
+                       drawn in the right panel of the figure. Notice what happens in this case following
+
+
+===== PDF 674 | 印刷页 639 =====
+
+                                                      Using the Aggregate Demand–Aggregate Supply Framework                    l    639
+
+
+
+
+Figure 22.12          The Slope of the Monetary Policy Reaction Curve
+
+
+
+                          A. Respond Aggressively to                            B. Respond Cautiously to Keep
+                          Keep Inflation Near Target                            Current Output Near Potential Output
+
+  Real Interest                                                  Real Interest
+    Rate (r)                                                       Rate (r)
+
+                 r*                                                            r*
+
+
+
+
+                                     πT        Inflation (π)                                        πT         Inflation (π)
+
+  Central bankers who are intent on keeping inflation close to   Central bankers more concerned about keeping output close
+  the target will move interest rates aggressively when          to potential will move interest rates by less in reaction to an
+  inflation rises.                                               inflation increase.
+
+
+
+
+Figure 22.13          The Policymaker’s Choice
+
+
+
+                       A. Respond Aggressively to                             B. Respond Cautiously to Keep
+                       Keep Inflation Near Target                             Current Output Near Potential Output
+          π                        LRAS                                  π                         LRAS
+                                            SRAS1                                                            SRAS1
+                                                      SRAS0                                                           SRAS0
+                                                                        π1
+         π1
+                                                                 π e0 = π T
+  π e0 = π T
+                                                          AD
+
+                                                                                                            AD
+
+                         Y1          YP                   Y                                       Y1 YP                    Y
+
+  Central bankers intent on keeping inflation close to the       Policymakers more concerned about keeping output close to
+  target will move interest rates aggressively when inflation    potential will move interest rates by less in reaction to an
+  rises and create bigger fluctuations in output.                inflation change, resulting in bigger fluctuations in inflation.
+
+
+===== PDF 675 | 印刷页 640 =====
+
+640   l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+
+                       A Guide to “Secular Stagnation”
+                       MONEY AND BANKING BLOG
+
+
+  The financial crisis and resulting recession began in 2007.      less expected inflation) that prevails in long-run equilib-
+  Over the following decade, the U.S. economy grew in real         rium—has dropped well below zero. If the actual real in-
+  terms at a very modest average annual rate of 1.6 percent,       terest rate in markets (and influenced by monetary
+  down sharply from the 3.0 percent pace that had prevailed        policymakers) persistently exceeds r*, then people will
+  from 1990 to 2007, a period that included two complete           consume and invest less than would be consistent with the
+  business cycles. By the end of 2018, the cumulative short-       economy’s potential. As a result, the argument goes, ag-
+  fall in GDP—relative to where it would have been had the         gregate demand will remain short of supply, and inflation
+  higher growth rate persisted—approached $3.5 trillion, or        will tend to decline or stay low. Moreover, a persistent
+  more than $10,000 per capita. Naturally, everyone wants to       shortfall of aggregate demand can itself diminish supply
+  know why slow growth persisted for so long and what, if          through the atrophying effect of unemployment on worker
+  anything, can be done about it.                                  skills, through the depreciation of the capital stock, and
+      The conventional explanation for the postcrisis down-        through damage to intermediaries that allocate savings to
+  shift is that the trend growth rate of potential output slowed   the most productive uses.
+  sharply. Potential output is a supply concept: In the long           Why might the natural rate of interest r* be unusually
+  run, when all prices (including wages and interest rates)        low? Proponents of secular stagnation offer a number of
+  have adjusted, aggregate supply is determined by the avail-      possibilities:
+  able capital and labor and by the technology used to com-
+  bine them to produce output. From this perspective, a               ∙ High saving, which drives asset prices up and ex-
+  long-term decline in the growth rate of real GDP means a              pected returns down.
+  slowing in the contribution to growth from one or more of           ∙ The declining cost of investment goods (think “soft-
+  those three sources.                                                  ware” versus “hardware”), which reduces invest-
+      An alternative hypothesis—proposed by former Trea-                ment outlays relative to savings.
+  sury Secretary Lawrence Summers—is that the feeble                  ∙ Increased risk (or awareness of risk) following the
+  growth performance of the past decade reflects an unusu-              financial crisis, which fosters greater caution among
+  ally prolonged shortfall of aggregate demand rather than              providers and users of funds.
+  diminished supply.*                                                 ∙ The rise of income inequality, which shifts income
+      Summers’s account of “secular stagnation” in demand               to high-savings households and thus lowers the av-
+  turns standard analysis on its head. In conventional macro-           erage propensity to consume.
+  economics, business cycles are thought of as temporary,
+  self-correcting deviations from the long-run path of poten-          If r* is in fact well below zero, can monetary policy-
+  tial output. Following a disturbance, prices and wages ad-       makers still restore the economy’s equilibrium by stimulat-
+  just to the new circumstances, equilibrium between               ing aggregate demand? Yes, but only by altering the policy
+  demand and supply is restored, and the economy returns to        framework itself. For example, the central bank could raise
+  its long-run trend.                                              its inflation target, lowering the real interest rate at the ef-
+      This conventional story has been useful in understand-       fective lower bound on nominal interest rates (see Money
+  ing post–World War II business cycles. Deviations of GDP         and Banking Blog: Is 2 Percent Still the Right Inflation
+  from its long-run trend were moderate and brief. But the         Target? page 509). Aside from monetary policy, fiscal
+  period since 2007 looks very different. By the end of 2018,      policymakers could increase spending to repair the coun-
+  real GDP was more than 14 percent below the level im-            try’s deteriorating infrastructure, thereby increasing aggre-
+  plied by the precrisis trend, and the gap was continuing to      gate demand and aggregate supply.†
+  widen. Not surprisingly, analysts have lowered estimates             So, can we distinguish between these competing ac-
+  of U.S. potential GDP.                                           counts of the ongoing growth slowdown? Is it primarily a
+      The secular stagnation story shifts the focus from sup-      supply story of slowing productivity or a demand story of
+  ply to demand. Proponents argue that the natural rate of         insufficiently low real interest rates? Table 22.5 highlights
+  interest—the real interest rate r* (the nominal interest rate    some of the differences in these two perspectives. But­
+
+
+===== PDF 676 | 印刷页 641 =====
+
+                                                                                                               Key Terms l            641
+
+
+
+
+          Table 22.5        Possible Contributors to the Growth Slowdown: Supply versus Demand
+
+
+                                 Supply                                                Demand
+           Demographics: slow labor force growth                 High private debt: reduced propensity to consume
+           Limited innovation: slow productivity growth          High public debt: reduced public investment
+           Education: reduced gains in labor quality             Falling price of investment goods: lower outlays
+           Skill atrophy: reduced gains in labor quality         Preference for safe assets: reduced investment
+           Regulation: slower firm creation                      Increased inequality: reduced propensity to
+           Regulation: trend decline in rate of job-finding      consume
+
+
+
+
+   accurately measuring the contributions of these ­factors       *See Lawrence H. Summers, “U.S. Economic Prospects: Secular
+   isn’t easy. After 2014, the acceleration of wages suggests     Stagnation, Hysteresis, and the Zero Lower Bound,” Business
+                                                                  Economics 49, no. 2 (April 2014), pp. 65–73.
+   that supply factors were limiting economic growth but—
+   consistent with the claims of stagnationists—­the process
+                                                                  †
+                                                                    Structural reforms—such as improvements in competition and in
+                                                                  hiring and firing flexibility—can stimulate growth by expanding
+   of eliminating labor slack took far longer than in previous    aggregate supply and raising r* in the process. See Coen Teulings
+   recoveries, while the pickup of wages was ­unusually           and Richard Baldwin, eds., Secular Stagnation: Facts, Causes and
+  ­modest.                                                        Cures (London: CEPR Press and VoxEU.org, 2014).
+
+
+
+
+a negative supply shock. Once more, inflation rises and output falls. But the output
+gap is small, while the deviation of inflation from expected inflation is large. The
+consequence is that expected inflation rises significantly, and adjusts only slowly
+back to the target. Stable output means volatile inflation.
+   When choosing how aggressively to respond to supply shocks, central bankers are
+deciding how to conduct stabilization policy. Do they want to ensure that inflation
+remains near target, or that output remains close to potential? When faced with a sup-
+ply shock, policymakers cannot stabilize both output and inflation. And by stabilizing
+one, the other becomes more volatile. Monetary policymakers face an inflation-output
+volatility tradeoff.
+
+
+
+
+Key Terms
+                                                                                                                                            www.moneyandbanking.com
+
+
+demand shock, 617                 real-business-cycle
+disinflation, 635                    theory, 635
+                                  supply shock, 617
+
+
+===== PDF 677 | 印刷页 642 =====
+
+                          642     l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+                                                              Using FRED: Codes for Data in This Chapter
+                                                                 Data Series                                                  FRED Data Code
+                                                                 U.S. consumer price index                                    CPIAUCSL
+                                                                 Real GDP                                                     GDPC1
+                                                                 NBER recession dates (0 = expansion, 1 = recession)          USREC
+                                                                 Recession periods, Germany                                   DEURECM
+                                                                 Recession periods, Italy                                     ITARECM
+                                                                 Recession periods, Spain                                     ESPRECM
+                                                                 Estimated probability of U.S. recession                      RECPROUSM156N
+                                                                 Ratio of manufacturers’ inventories to shipments             AMTMIS
+                                                                 Total credit market debt owed by households                  CMDEBT
+                                                                 Nominal GDP                                                  GDP
+                                                                 Real potential GDP                                           GDPPOT
+                                                                 Gross domestic income                                        GDI
+                                                                 Chile consumer price index                                   CHLCPIALLMINMEI
+                                                                 Israel consumer price index                                  ISRCPIALLMINMEI
+www.moneyandbanking.com
+
+
+
+
+                                                                 U.S. federal deficit (percent of GDP)                        FYFSGDA188S
+
+
+
+
+                                                              Chapter Lessons
+                                                              1. Short-run fluctuations in output and inflation arise from shifts in either the ­dynamic
+                           To learn more about the
+                           changing financial system, visit      aggregate demand curve or the short-run aggregate supply curve.
+                           www.moneyandbanking.com.              a. A decrease in the central bank’s inflation target shifts the dynamic aggregate
+                                                                    demand curve to the left.
+                                                                      i. In the short run, this decreases both output and inflation.
+                                                                     ii. It drives current inflation below expected inflation.
+                                                                    iii. In the long run, inflation and expected inflation fall to the new target as out-
+                                                                         put returns to potential output.
+                                                                 b. A government expenditure increase shifts the dynamic aggregate demand curve
+                                                                    to the right.
+                                                                      i. In the short run, this increases both output and inflation.
+                                                                     ii. It drives current inflation above expected inflation.
+                                                                    iii. To keep inflation from rising, monetary policymakers shift their reaction
+                                                                         curve to the left, raising the real interest rate at every level of inflation.
+                                                                    iv. Unless the central bank’s target inflation changes, the economy eventually
+                                                                         returns to its original long-run equilibrium point.
+                                                                 c. A negative supply shock shifts the short-run aggregate supply curve to the left.
+                                                                      i. In the short run, this decreases output and increases inflation.
+                                                                     ii. The rise of inflation initially drives expected inflation up, but both inflation and
+                                                                         expected inflation then begin to decline.
+                                                                    iii. Unless the central bank’s target inflation changes, the economy returns to its
+                                                                         original long-run equilibrium point.
+
+
+===== PDF 678 | 印刷页 643 =====
+
+                                                                       Conceptual and Analytical Problems l   643
+
+
+
+2. Applying the dynamic aggregate demand–aggregate supply framework we see that:
+   a. Stabilization policy is the use of monetary and fiscal policy tools to stabilize
+      output and inflation.
+        i. Monetary policy can be used to shift the dynamic aggregate demand curve
+           to offset changes in the quantity of aggregate output demanded. In practice,
+           lack of information and lags in the impact of policy changes make this very
+           difficult.
+       ii. Fiscal policy can shift the dynamic aggregate demand curve as well, but it is
+           difficult to do in a timely and effective way.
+      iii. A positive supply shock that lowers production costs and shifts the short-run
+           aggregate supply curve to the right creates an opportunity for policymakers
+           to permanently lower inflation.
+   b. Better monetary policy is the most likely explanation for the increased stability
+      of the U.S. economy from the mid-1980s until 2007.
+   c. An increase in potential output shifts both the short- and long-run aggregate
+      supply curves to the right, driving output up and inflation down, resulting in
+      expected inflation being above current inflation.
+   d. Globalization has the same impact as an increase in potential output. In the long run
+      it raises output but inflation only changes if the central bank adjusts its target.
+   e. When confronted with a shift in the short-run aggregate supply curve, central
+
+
+
+
+                                                                                                                    www.moneyandbanking.com
+      bankers face a tradeoff between output and inflation volatility.
+
+
+Conceptual and Analytical Problems                                                        ®
+
+
+
+
+ 1. Define the term stabilization policy and describe how it can be used to reduce
+    the volatility of economic growth and inflation. Do stabilization policies improve
+    welfare? (LO2)
+ 2. Explain why stabilization policies are usually pursued using monetary rather
+    than fiscal policy. (LO3)
+ 3. Explain why fiscal policy played a greater role than usual in the response to the
+    2007–2009 recession. (LO3)
+ 4. Explain why monetary policymakers cannot restore the original long-run equilib-
+    rium of the economy if, in the short run, the economy has moved to a point where
+    inflation is above target inflation and output is below potential output. (LO2)
+ 5. Explain why the rise in oil prices in 2008 created a particularly difficult situation
+    for Federal Reserve policymakers. (LO2)
+ 6. Will changes in technology affect the rate at which the short-run aggregate sup-
+    ply curve shifts in response to an output gap? Why or why not? Provide some
+    specific examples of how technology will change the rate of adjustment. (LO1)
+ 7. After examining Figure 22.6, explain the potential link between innovations in
+    financial markets and output volatility since the 1980s. You should consider both
+    the “Great Moderation” and the recession of 2007–2009 in your answer. (LO1)
+	  8.* According to real-business-cycle theory, can monetary policy affect equilibrium
+       output in either the short run or the long run? (LO1)
+*Indicates more difficult problems.
+
+
+===== PDF 679 | 印刷页 644 =====
+
+                          644 l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+                                                	  9. The economy has been sluggish, so in an effort to increase output in the short
+                                                      run, government officials have decided to cut taxes. They are considering two
+                                                      possible temporary tax cuts of equal size in terms of lost revenue. The first would
+                                                      reduce the taxes on people with incomes above the median for one year. The
+                                                      second would cut taxes on people with incomes below the median for one year.
+                                                      Which change would shift the aggregate demand curve further to the right?
+                                                      Why? (LO2)
+                                                 10. Suppose that conflict over international trade leads to a fall in consumer confi-
+                                                     dence. Starting with the economy in long-run equilibrium, use the aggregate
+                                                     demand–aggregate supply framework to illustrate what would happen to infla-
+                                                     tion and output in the short run. Assuming the central bank takes no action to
+                                                     offset this fall in confidence, what would happen to inflation and output in the
+                                                     long run? By taking no action, how has the central bank implicitly altered its
+                                                     policy goal? (LO2)
+                                                 11. If there is a fall in consumer confidence, what would happen to inflation and
+                                                     output in the long run if the central bank remained committed to its original
+                                                     inflation target and responded with an immediate policy change? Use the aggre-
+                                                     gate demand-aggregate supply framework to illustrate your answer, starting with
+                                                     the economy in long-run equilibrium. Compare the outcome to what the out-
+www.moneyandbanking.com
+
+
+
+
+                                                     come would be if the central bank did not respond explicitly to the change in
+                                                     consumer confidence. (LO2)
+                                                 12. How would a shock that reduces production costs in the economy (a positive
+                                                     supply shock) affect equilibrium output and inflation in both the short run and
+                                                     the long run? Illustrate your answer using the aggregate demand–aggregate sup-
+                                                     ply framework. You should assume that the shock does not affect the potential
+                                                     output of the economy. (LO2)
+                                                 13. Suppose the central bank took advantage of a temporary positive supply shock to
+                                                     lower its inflation target. Illustrate the impact of this change in the inflation tar-
+                                                     get using an aggregate demand–aggregate supply diagram. Compare this with a
+                                                     chart of a situation where the central bank lowers its inflation target in the
+                                                     absence of a positive supply shock. (LO3)
+                                                 14.* Suppose a natural disaster reduces the productive capacity of the economy. How
+                                                      would the equilibrium long-run real interest rate r* be affected? Assuming the
+                                                      central bank maintains its existing inflation target, illustrate the impact on the
+                                                      monetary policy reaction function and on equilibrium inflation and output both
+                                                      in the short run and in the long run. (LO1)
+                                                 15.* Monetary policymakers observe an increase in output in the economy and
+                                                      believe it is a result of an increase in potential output. If they were correct, what
+                                                      would the appropriate policy response be to maintain the existing inflation tar-
+                                                      get? If they were incorrect and the increase in output resulted simply from a
+                                                      positive supply shock, what would the long-run impact be of their policy
+                                                      response? (LO3)
+                                                 16.* Consider a previously closed economy that opens up to international trade. Use
+                                                      the aggregate demand–aggregate supply framework to illustrate a situation
+                                                      where this would lead to lower inflation in this economy in the long run. (LO2)
+
+                                                *Indicates more difficult problems.
+
+
+===== PDF 680 | 印刷页 645 =====
+
+                                                                                       Data Exploration   l   645
+
+
+
+17.* How could you use the aggregate demand–aggregate supply framework to
+     explain the impact of the financial crisis of 2007–2009 on inflation and output in
+     the economy? (LO1)
+18.* Changes in oil prices shift the short-run aggregate supply curve (SRAS). Con-
+     sider how volatility in oil prices may influence the economy’s short-run equilib-
+     rium, which occurs at the intersection of the dynamic aggregate demand (AD)
+     curve and the SRAS curve. (LO3)
+     a. Suppose the monetary policy reaction curve is relatively steep. What does this
+        imply about the slope of the AD curve? What does it imply about the variability
+        of output and inflation when the SRAS curve shifts? Explain.
+     b. Suppose the monetary policy reaction curve is relatively flat. What does this
+        imply about the slope of the AD curve? What does it imply about the vari-
+        ability of output and inflation when the SRAS curve shifts? Explain.
+19.* Suppose that a government imposes trade barriers that raise the domestic cost of
+     production and lower potential output. What would you expect to happen to
+     inflation and output in the short run and the long run, assuming monetary poli-
+     cymakers only recognize the fall in potential output with a lag and keep their
+     inflation target unchanged? (LO1)
+20.    High debt ratios led many countries in recent years to reduce government spending.
+
+
+
+
+                                                                                                                    www.moneyandbanking.com
+       Suppose the cut in spending started from a point with the economy at long-run
+       equilibrium. How might monetary policymakers react, assuming their inflation
+       target remained unchanged? (LO1)
+21.    Suppose that the anemic growth of the U.S. economy following the financial
+       crisis of 2007–2009 was a result of “secular stagnation.” Use the Fisher equation
+       to explain why raising the central bank’s inflation target could help boost eco-
+       nomic growth in circumstances where nominal interest rates are close to the
+       effective lower bound. (LO2)
+22.* Do you think GDP-linked bonds would be more useful in a relatively stable
+     economy or in an economy that is frequently buffeted in the short run by demand
+     and supply shocks, assuming these economies have similar sovereign debt bur-
+     dens? Explain your choice. (LO2)
+
+
+Data Exploration                                      ®
+
+
+
+
+For general information on using Federal Reserve Economic Data (FRED) online,
+visit www.mhhe.com/moneyandbanking6e.com and refer to the FRED resources.
+ 1. Display as a bar chart the periods since 1854 that are designated as U.S. reces-
+    sions by the National Bureau of Economic Research (FRED code: USREC). Why
+    has the frequency of recessions declined over time? Could improvements in mon-
+    etary policy have played a role? Improvements in fiscal policy? Can you think of
+    any other causes? (LO1)
+ 2. In the past, policymakers occasionally became aware of a recession only well
+    after it began. Can they do better? Plot the probability of a recession from a sta-
+    tistical model (FRED code: RECPROUSM156N). To what extent could this
+    model help improve monetary or fiscal policy or both? (LO3)
+
+*Indicates more difficult problems.
+
+
+===== PDF 681 | 印刷页 646 =====
+
+                          646   l Chapter 22  Understanding Business Cycle Fluctuations
+
+
+
+                                                  3. Compare the frequency and timing of recessions in key European economies
+                                                     since 1960. Make separate bar charts for Germany (FRED code: DEURECM),
+                                                     Italy (FRED code: ITARECM), and Spain (FRED code: ESPRECM). Do their
+                                                     business cycles appear sufficiently well aligned to make them operate easily in a
+                                                     single currency area with a common monetary policy? (LO3)
+                                                  4. To keep inflation low and steady, central banks would like to keep output reason-
+                                                     ably close to its potential level, but can they anticipate changes in potential GDP?
+                                                     Plot since 1960 the percent change from a year ago of the Congressional Budget
+                                                     Office’s estimate of potential GDP (FRED code: GDPPOT). Suppose that the
+                                                     FOMC assumed that the growth rate of potential GDP remained permanently at
+                                                     its 1960s average. What would you expect to happen to inflation? Why? (LO1)
+                                                  5. The Taylor rule includes a resource gap that can be measured either as the per-
+                                                     cent difference between actual and potential real GDP (FRED codes: GDPC1 and
+                                                     GDPPOT) or, alternatively, as the gap between the actual and natural unemploy-
+                                                     ment rates (FRED codes: UNRATE and NROU). Plot these two measures of the
+                                                     resource gap since 1960. Show the unemployment gap as the difference between
+                                                     the actual and natural unemployment rates. Show the output gap as 100 times the
+                                                     difference between actual and potential real GDP, all divided by potential GDP.
+                                                     Compare the cyclical characteristics of these two measures. (LO3)
+www.moneyandbanking.com

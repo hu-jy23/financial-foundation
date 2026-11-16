@@ -1,0 +1,177 @@
+{
+  "article_id": 3763452,
+  "selection": {
+    "article_id": 3763452,
+    "url": "https://wallstreetcn.com/articles/3763452",
+    "title": "阿斯麦的\"巅峰时刻\"！大摩：先进制程扩产潮下，2027年或迎最强盈利增长",
+    "page_display_time": "2026-01-16T16:12:20+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "B",
+    "reading_value": "按先进逻辑与DRAM需求拆解EUV设备出货和盈利弹性，保留机构的产能假设。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1928,
+    "page_image_count": 6,
+    "original_underlying_research_verified": false,
+    "catalog_number": 173
+  },
+  "url": "https://wallstreetcn.com/articles/3763452",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3763452?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:00+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/acddec30-9c3a-4585-8d4f-d86295ee9281.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "研报称，这一盈利爆发主要由三大引擎驱动： 先进逻辑代工厂的强劲需求、DRAM内存领域的大规模产能扩张，以及需求表现好于预期 。该行对阿斯麦发出了极其强烈的看涨信号，将其目标价从1000欧元大幅上调至1400欧元，并维持“增持”（Overweight）评级及“首选股”（Top Pick）地位。",
+      "path": "assets/figure_001.png",
+      "sha256": "534f05ce1cde3da1ce7b34bfd073751c48439f08ff6304a72ccc7636fb9a164e",
+      "bytes": 81436,
+      "width": 875,
+      "height": 593,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/acddec30-9c3a-4585-8d4f-d86295ee9281.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/4746f3d8-b652-483a-9066-398f4196bb6a.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "台积电资本支出大幅提升成为关键催化剂。",
+      "path": "assets/figure_002.png",
+      "sha256": "b2ad52e1a1d5ab81087496ea85c1d035955b382513d6053f79c7b312a34e3f3d",
+      "bytes": 150974,
+      "width": 1024,
+      "height": 450,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/4746f3d8-b652-483a-9066-398f4196bb6a.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/7f375d27-c57b-40db-9bdc-61f142bcc680.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "除台积电外，英特尔和三星在工艺开发方面的改善势头也将显现。大摩预计两家公司在2027年将各自采购5-6台EUV工具用于代工/逻辑业务。综合来看，2027年预计约52台工具将发往逻辑/代工领域，远高于此前预期的25-30台。",
+      "path": "assets/figure_003.png",
+      "sha256": "a84df8f2f0f36f2b5ac004593bbf68f7604855ac16a2df8fa0f30f272861330f",
+      "bytes": 49226,
+      "width": 886,
+      "height": 623,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/7f375d27-c57b-40db-9bdc-61f142bcc680.png"
+    },
+    {
+      "order": 4,
+      "source_url": "https://wpimg-wscn.awtmt.com/b824e34e-6a2a-4043-bcc0-380d76ac8fbe.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "产能稀缺导致HBM和通用DRAM的环比及同比价格增长达到近乎史无前例的水平。摩根士丹利预计这一趋势将至少持续1-2个季度，最终将促成DRAM制造领域的大规模产能建设，从而带动对阿斯麦EUV和DUV工具的需求。",
+      "path": "assets/figure_004.png",
+      "sha256": "4b1d375c16de10e880d7df14943b16ad3ddda819920cd0a4c53818a0368d7929",
+      "bytes": 60985,
+      "width": 890,
+      "height": 499,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/b824e34e-6a2a-4043-bcc0-380d76ac8fbe.png"
+    },
+    {
+      "order": 5,
+      "source_url": "https://wpimg-wscn.awtmt.com/e85fdb0f-adca-41ef-947b-1e21e1c27aea.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "摩根士丹利维持阿斯麦为首选股，采用31倍市盈率估值，目标价1400欧元。牛市情景下，基于2027年每股收益50欧元和40倍市盈率，目标价可达2000欧元。",
+      "path": "assets/figure_005.png",
+      "sha256": "21f081f577c2e610dd75bcd35f5f5c12906867d9072aa1e8619c984d4f3272b2",
+      "bytes": 74209,
+      "width": 850,
+      "height": 467,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/e85fdb0f-adca-41ef-947b-1e21e1c27aea.png"
+    },
+    {
+      "order": 6,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_006.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "阿斯麦的\"巅峰时刻\"！大摩：先进制程扩产潮下，2027年或迎最强盈利增长",
+  "page_display_time": "2026-01-16T16:12:20+08:00",
+  "page_byline": "董静",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "大摩称，受AI浪潮推动，预计2027年阿斯麦销售额达468亿欧元，每股收益同比激增57%创历史新高。这主要得益于台积电等逻辑代工的强劲需求及DRAM内存产能扩张。大摩将其目标价大幅上调至1400欧元，并维持“首选股”地位。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1997,
+  "body_sha256": "56b8057f2fa9a65f27716bd6db345efbbf4e217ab8d5d7610dc05e145eed37ec",
+  "raw_sha256": "b26d599ab44132a08d5ec5bf99cd9ee385b401c104eb5c6d6be3ceb17ac900bc",
+  "raw_bytes": 11598,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/9c900a3d-58e2-487c-85f8-287a12f9c6e3.mp3",
+  "image_occurrences": 6,
+  "html_table_count": 0,
+  "catalog_image_count": 6,
+  "catalog_text_characters": 1928,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:45+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "b26d599ab44132a08d5ec5bf99cd9ee385b401c104eb5c6d6be3ceb17ac900bc",
+      "bytes": 11598
+    },
+    "article.html": {
+      "sha256": "cbfe3bb61700a47f79fb32561725ca547d988bfd0b844f8b7bd743145b247ce4",
+      "bytes": 11932
+    },
+    "article.md": {
+      "sha256": "c0835ac48282f1f8aff7e652addc3a3bf790791e6dd5d517981679c15597927d",
+      "bytes": 6335
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:43+08:00"
+}

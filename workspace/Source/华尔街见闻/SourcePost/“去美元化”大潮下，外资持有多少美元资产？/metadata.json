@@ -1,0 +1,119 @@
+{
+  "article_id": 3745320,
+  "selection": {
+    "article_id": 3745320,
+    "url": "https://wallstreetcn.com/articles/3745320",
+    "title": "“去美元化”大潮下，外资持有多少美元资产？",
+    "page_display_time": "2025-04-16T17:36:40+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "房家瑶",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004717",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "汇率与国际资本",
+    "reading_priority": "A",
+    "reading_value": "分解外资持有美国股债的规模、区域配置和汇率风险敞口，有助理解潜在资金回流。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1123,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 51
+  },
+  "url": "https://wallstreetcn.com/articles/3745320",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3745320?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:24+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/6a14e404-0190-476a-b3d5-20aa417e1793.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "其中，外国投资者持有约18.4万亿美元的美国股票和7.3万亿美元的美国固定收益资产。自2010年以来，美国债券市场的外国持仓增加了约3万亿美元，几乎翻倍。而美国股市的外国持仓增长了15万亿美元，增幅高达六倍。令人惊讶的是，这一增长的90%来自美国资产价值的升值，而非新资金的流入。",
+      "path": "assets/figure_001.png",
+      "sha256": "4d1522e6058f3407b153dc9fdf7e4b893cfc3a1f4a51e32ab93f71fb872620bd",
+      "bytes": 51013,
+      "width": 547,
+      "height": 451,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/6a14e404-0190-476a-b3d5-20aa417e1793.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/2a32492c-ed34-43de-b922-9a92a616e800.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "德银警告称，随着外国投资者增加对美国资产的配置，其外汇风险敞口也显著上升，部分机构甚至完全不对冲外汇风险，这种美元超配状态若逆转，可能对美元汇率和全球金融市场造成显著冲击。",
+      "path": "assets/figure_002.png",
+      "sha256": "0a1a3430519942897c77719144a8d32a826449c4c07196e37edb27f74f419962",
+      "bytes": 131235,
+      "width": 1024,
+      "height": 434,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/2a32492c-ed34-43de-b922-9a92a616e800.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/ebb53a7e-f6a5-42e4-822a-5560ec2444e8.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "对于美国股票，欧洲投资者的配置比例已经从2011年的约10%增长至现在的35%。对美国国债的配置比例也从不到3%增长至接近10%。相比之下，日本对美国股票的持有比例翻倍，从8%增长至16%，但增长幅度不及欧洲，且与美国股票市场的总规模相比，日本的持股比例变化较小。",
+      "path": "assets/figure_003.png",
+      "sha256": "279aa40b8b786fb5b71838eb2019bf9d75298adf872577f742543783aa5f7af3",
+      "bytes": 77689,
+      "width": 829,
+      "height": 597,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/ebb53a7e-f6a5-42e4-822a-5560ec2444e8.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "“去美元化”大潮下，外资持有多少美元资产？",
+  "page_display_time": "2025-04-16T17:36:40+08:00",
+  "page_byline": "房家瑶",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "德意志银行最新研究显示，外国投资者持有约18.4万亿美元的美国股票和7.3万亿美元的美国债券，尤其是欧洲和日本投资者过去十五年里大幅增配美元资产。德银警告称，随着外国投资者增加对美国资产的配置，其外汇风险敞口也显著上升，部分机构甚至完全不对冲外汇风险，这种美元超配状态若逆转，可能对美元汇率和全球金融市场造成显著冲击。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1206,
+  "body_sha256": "4475edf7971654a904e6e6c16dce50d609cac25e66eb513aceb4aba96baee62b",
+  "raw_sha256": "7a0c0714b37be1bd0ab7b87b0c98296362ced0ed49adf566547979788aeac4e1",
+  "raw_bytes": 8234,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/579d54f1-7ce7-480f-8a4d-24c60c859932.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 1123,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:33+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "7a0c0714b37be1bd0ab7b87b0c98296362ced0ed49adf566547979788aeac4e1",
+      "bytes": 8234
+    },
+    "article.html": {
+      "sha256": "84d0fb0e4a73eba422e9d08d7718576df0330a563ce1b0489b1d55a0965c8da3",
+      "bytes": 8464
+    },
+    "article.md": {
+      "sha256": "29d1686e3093650d2f5185d0eb7f70fc0b218b0a9d1e7dd86a4c427c0da7cf29",
+      "bytes": 4415
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:16+08:00"
+}

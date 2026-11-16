@@ -1,0 +1,104 @@
+{
+  "article_id": 3763449,
+  "selection": {
+    "article_id": 3763449,
+    "url": "https://wallstreetcn.com/articles/3763449",
+    "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+    "page_display_time": "2026-01-16T13:57:27+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "能源、商品与航运",
+    "reading_priority": "A",
+    "reading_value": "解释电力长约、容量拍卖和新电厂融资，呈现数据中心与居民用电的成本分担。",
+    "starter_selection": true,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2868,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 88
+  },
+  "url": "https://wallstreetcn.com/articles/3763449",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3763449?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:02:16+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/66b6c193-01a2-4de5-8a8d-a5a4e01e7304.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "PJM地区的电力拍卖已成为全国电价可负担性辩论的政治焦点。2024年拍卖价格创下历史新高后，尽管宾夕法尼亚州的Shapiro与PJM达成限价协议，但随后两次拍卖的成本仍触及新高。去年12月的最新拍卖还出现6.6吉瓦的供应缺口，PJM将此归咎于大规模数据中心建设热潮。事实上，如果没有隐性价格上限，居民电费本应再上涨60%。",
+      "path": "assets/figure_001.png",
+      "sha256": "ddd427ffc8371158657d6fe47cf338cbe8b54da9bc7493eb10529b5e9e1ef4ab",
+      "bytes": 261819,
+      "width": 1024,
+      "height": 619,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/66b6c193-01a2-4de5-8a8d-a5a4e01e7304.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/b63bc16e-b315-491f-ae6d-54f0f10739e0.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "但从更长期来看，PJM预计到2036年夏季峰值负荷将以每年3.6%的速度增长至约222吉瓦，高于此前3.1%的预测。未来10年的增长总量约为65.7吉瓦。",
+      "path": "assets/figure_002.png",
+      "sha256": "2b28b903821a122a5c3065b607a707461179b8af2f633cf0ecd3cdf1d159583e",
+      "bytes": 179926,
+      "width": 678,
+      "height": 478,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/b63bc16e-b315-491f-ae6d-54f0f10739e0.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+  "page_display_time": "2026-01-16T13:57:27+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "据报道，特朗普政府将于周五宣布一项紧急干预计划，强制科技巨头参与特别批发拍卖并签订15年电力长约，为价值约150亿美元的新建电厂提供收入保障。此举意在把数据中心激增的成本“圈”在科技公司内部，守住居民电价防线，以免高电费成为共和党中期选举的“政治炸弹”。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2934,
+  "body_sha256": "9f4b64b5e69e54936ab93596b0c80edd08bf297cbdd86ce4bc86a14dc477a661",
+  "raw_sha256": "83c476090b238941aafe5702cbe85ae55272cfd3c77d62b4b1c57288b2069c35",
+  "raw_bytes": 12859,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/ed51eafe-84ca-499c-9766-4783802928b8.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 2868,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:36+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "83c476090b238941aafe5702cbe85ae55272cfd3c77d62b4b1c57288b2069c35",
+      "bytes": 12859
+    },
+    "article.html": {
+      "sha256": "def4eb33c5755e61b3e65b41373eeed797f11951baf9498f012e5cf135e2d0d1",
+      "bytes": 12710
+    },
+    "article.md": {
+      "sha256": "f09e64ee20cb3a36d7ab655142c397b81cacada74604dbb60d763c2d8a5f99f5",
+      "bytes": 8924
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:23+08:00"
+}

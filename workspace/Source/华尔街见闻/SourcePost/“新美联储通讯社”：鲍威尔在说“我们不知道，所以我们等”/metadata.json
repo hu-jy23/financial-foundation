@@ -1,0 +1,82 @@
+{
+  "article_id": 3749424,
+  "selection": {
+    "article_id": 3749424,
+    "url": "https://wallstreetcn.com/articles/3749424",
+    "title": "“新美联储通讯社”：鲍威尔在说“我们不知道，所以我们等”",
+    "page_display_time": "2025-06-19T11:35:53+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李笑寅",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004684",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "B",
+    "reading_value": "解释关税不确定性下联储观望的理由，并保留点阵图内部意见分布。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1565,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 4
+  },
+  "url": "https://wallstreetcn.com/articles/3749424",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3749424?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:15+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "“新美联储通讯社”：鲍威尔在说“我们不知道，所以我们等”",
+  "page_display_time": "2025-06-19T11:35:53+08:00",
+  "page_byline": "李笑寅",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "Timiraos表示，随着更多就业和通胀数据的出炉，美联储是否采取行动会变得更加明朗。按照鲍威尔“看数据说话”的表态，如果夏季物价因关税而大幅上涨，美联储可能继续观望；但如果关税的影响不如预期严重，且就业市场进一步降温，并出现“明确疲软”，降息可能会提前到来。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1630,
+  "body_sha256": "43a8571ea22850c22b877e37f95b031b82062fefaeccc715d64b0a86642ae29e",
+  "raw_sha256": "3249cac0fc2f03940181012e462493719ce96a8aa0726ef338628848059439df",
+  "raw_bytes": 10022,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/1077e94c-eb21-4fb4-8732-58366479cbc0.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1565,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "周三公布的点阵图",
+      "url": "https://wallstreetcn.com/articles/3749399?keyword=%E7%BE%8E%E8%81%94%E5%82%A8"
+    },
+    {
+      "text": "特朗普再度炮轰鲍威尔",
+      "url": "https://wallstreetcn.com/articles/3749387?keyword=%E7%89%B9%E6%9C%97%E6%99%AE"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:30+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "3249cac0fc2f03940181012e462493719ce96a8aa0726ef338628848059439df",
+      "bytes": 10022
+    },
+    "article.html": {
+      "sha256": "a3e13b9b8850dbef6a2c46283dc7b3a4dce9cb438c4edaf4ec2442db2d3dafcb",
+      "bytes": 9668
+    },
+    "article.md": {
+      "sha256": "1999e921aaecb09170ceca6217aab5bb485fca9608653643b79a0dcd5fbe5dbc",
+      "bytes": 5668
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:07+08:00"
+}

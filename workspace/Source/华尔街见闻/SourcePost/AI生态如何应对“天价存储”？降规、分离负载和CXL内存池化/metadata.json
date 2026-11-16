@@ -1,0 +1,119 @@
+{
+  "article_id": 3783065,
+  "selection": {
+    "article_id": 3783065,
+    "url": "https://wallstreetcn.com/articles/3783065",
+    "title": "AI生态如何应对“天价存储”？降规、分离负载和CXL内存池化",
+    "page_display_time": "2026-10-06T16:46:50+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "A",
+    "reading_value": "比较降规、推理负载分离和CXL内存池化三种应对短缺的路径，分析技术替代如何改变需求。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2444,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 180
+  },
+  "url": "https://wallstreetcn.com/articles/3783065",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783065?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:02+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/0d6b2bdd-f46a-4cca-ad5e-702bc3e8418d.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "然而，降规并非真正意义上的解决方案。 报告强调，当一层内存容量被削减，数据压力必然向下转移，HBM和LPDDR的缩水正在为NAND和网络互联带来增量需求，内存瓶颈发生了位移而非消失。",
+      "path": "assets/figure_001.png",
+      "sha256": "4230903e23b13660dbcfc5271b4a10071ce9658c7737c894259c812c11a5b4b8",
+      "bytes": 183778,
+      "width": 893,
+      "height": 574,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/0d6b2bdd-f46a-4cca-ad5e-702bc3e8418d.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/6bbdda5f-5172-457f-821c-7eba7bebbf09.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "摩根士丹利认为， 这三个向量的持续演进决定了降规只能是临时性措施，一旦供应缓解，行业将迅速回补至更高规格，被压制的需求将更容易被吸收。",
+      "path": "assets/figure_002.png",
+      "sha256": "96a71e0fee3da109811e5b856e4080064a74a73d6e3d7194c414582c1dfa221e",
+      "bytes": 125361,
+      "width": 1024,
+      "height": 524,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/6bbdda5f-5172-457f-821c-7eba7bebbf09.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/992b4a49-6f29-4b8a-9711-3d9081e05920.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "摩根士丹利将Cerebras列为负载分离架构中最直接的纯正受益标的。Cerebras晶圆级处理器将大量SRAM与计算单元集成于同一硅片，显著降低数据在处理器与外部内存间的移动频率，在解码阶段优势突出。更重要的是，负载分离可实质性改善Cerebras Cloud的经济模型——据Cerebras与AMD披露，联合系统可在维持Cerebras推理速度的前提下将吞吐量提升最高5倍，每部署单元可产生更多收入，每token成本同步下降。",
+      "path": "assets/figure_003.png",
+      "sha256": "194edc5076ee77bb2111aa272f83b02afbde4c4ee180455fd2719af7a3dd220b",
+      "bytes": 278146,
+      "width": 885,
+      "height": 398,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/992b4a49-6f29-4b8a-9711-3d9081e05920.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "AI生态如何应对“天价存储”？降规、分离负载和CXL内存池化",
+  "page_display_time": "2026-10-06T16:46:50+08:00",
+  "page_byline": "许超",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "内存短缺正成为AI扩张的最大\"卡脖子\"难题，但产业界并未坐等晶圆厂救场。降规、推理负载分离、CXL内存池化——三条绕道策略正在重塑AI算力格局，并催生新投资机会。摩根士丹利点名Astera Labs、Marvell、Cerebras为核心受益标的，同时维持Micron与SanDisk增持，判断本轮内存短缺周期远未终结。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2520,
+  "body_sha256": "d63e8a3a1ae7d165d0dfecca9ca63fa6df5ca776aae1c86edb8ddb20f62cef6e",
+  "raw_sha256": "290ede36ab2eb2a7113b8a488280c58cced41ea5c6438bb704e6f6e7b74f8c98",
+  "raw_bytes": 11147,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/1679d584-b50b-4133-8e3d-94f9cbcaf92d.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 2444,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:46+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "290ede36ab2eb2a7113b8a488280c58cced41ea5c6438bb704e6f6e7b74f8c98",
+      "bytes": 11147
+    },
+    "article.html": {
+      "sha256": "6ba5b3dd3eee6f1107b7ab7225558626eac4041b7e8f9aaf99e925005b8eb648",
+      "bytes": 11338
+    },
+    "article.md": {
+      "sha256": "bdb8dd9e7dd5fd24b0c5261558d743422707147404a21a7f1489abda7fc75543",
+      "bytes": 7418
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:44+08:00"
+}

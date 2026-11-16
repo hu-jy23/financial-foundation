@@ -1,0 +1,43 @@
+{
+  "id": "B6",
+  "title": "The Brave New World of Monetary Policy Operations — Cecchetti、Schoenholtz，2019-06-17",
+  "directory": "B6_货币政策操作的新世界_2019",
+  "original_language": "en",
+  "source_urls": [
+    "https://www.moneyandbanking.com/commentary/2019/6/14/the-brave-new-world-of-monetary-policy-operations",
+    "https://www.moneyandbanking.com/commentary/tag/Excess%2Breserves"
+  ],
+  "files": [
+    {
+      "file": "货币政策操作的新世界_英文原文.html",
+      "source_url": "https://www.moneyandbanking.com/commentary/2019/6/14/the-brave-new-world-of-monetary-policy-operations",
+      "resolved_url": "https://www.moneyandbanking.com/commentary/2019/6/14/the-brave-new-world-of-monetary-policy-operations",
+      "scope": "网页原文",
+      "bytes": 129509,
+      "sha256": "d91dac4a1819ca325a570ab5d0e47798e373c888b7003f3d426b1bb2006face7",
+      "page_title": "The Brave New World of Monetary Policy Operations — Money, Banking and Financial Markets",
+      "text_file": "货币政策操作的新世界_英文原文.txt",
+      "extracted_characters": 14228,
+      "offline_file": "货币政策操作的新世界_英文原文_离线阅读.html",
+      "images": [
+        {
+          "file": "images/image_01.png",
+          "source_url": "https://images.squarespace-cdn.com/content/v1/52cdc300e4b012a81d31c03d/1560524758319-1N3KQAD7MWTO8RMZ60FE/Funds+Rate.png",
+          "bytes": 41572,
+          "sha256": "c29c12e6de56a7ef5e3ec0fe40bc7f68c1586bf6db13e3dabff79de3aa82e627"
+        },
+        {
+          "file": "images/image_02.png",
+          "source_url": "https://images.squarespace-cdn.com/content/v1/52cdc300e4b012a81d31c03d/1560524817845-BRMY9JBRQEM36W09EZOO/Reserve+Demand+Chart.png",
+          "bytes": 42446,
+          "sha256": "86ddfc1128ccc72abbd7453d4aca9b8505ffa347ce0a517cf2be671168e2baa5"
+        }
+      ],
+      "image_failures": []
+    }
+  ],
+  "failures": [],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "acquisition_status": "已取得所列原文文件；尚未精读"
+}

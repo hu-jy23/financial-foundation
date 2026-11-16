@@ -1,0 +1,82 @@
+{
+  "article_id": 3745317,
+  "selection": {
+    "article_id": 3745317,
+    "url": "https://wallstreetcn.com/articles/3745317",
+    "title": "对于市场最关心的“关税和AI”，这两个财报至关重要，现在答案出了一半",
+    "page_display_time": "2025-04-16T15:10:15+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": "董静、赵颖",
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "B",
+    "reading_value": "把关税不确定性传至设备订单、数据中心投资和晶圆代工指引，保留财报前预期。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1490,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 165
+  },
+  "url": "https://wallstreetcn.com/articles/3745317",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3745317?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:56+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "对于市场最关心的“关税和AI”，这两个财报至关重要，现在答案出了一半",
+  "page_display_time": "2025-04-16T15:10:15+08:00",
+  "page_byline": "董静",
+  "source_label": "董静、赵颖",
+  "source_url": "",
+  "subtitle": "芯片行业面临关税威胁和市场AI需求担忧，阿斯麦最新出炉的财报显示Q1新增订单环比骤降44.5%，远低于预期。台积电将于明天发布财报，越来越多的分析师预测台积电业绩将疲软，将下调或撤回业绩指引。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1567,
+  "body_sha256": "21e3dd8bc84f4350563048bafccf12e89db2b1461146839d37d37d174c5ba5a6",
+  "raw_sha256": "ff0232b2bf5b53e2bba15006d018543afc52c362df91c9bc43bee1647ff760eb",
+  "raw_bytes": 8335,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/ea1386bf-20de-441f-ab02-15c51ab93910.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1490,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "华尔街见闻此前提及",
+      "url": "https://wallstreetcn.com/articles/3745314"
+    },
+    {
+      "text": "据新华社报道",
+      "url": "https://wallstreetcn.com/articles/3745106"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:44+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "ff0232b2bf5b53e2bba15006d018543afc52c362df91c9bc43bee1647ff760eb",
+      "bytes": 8335
+    },
+    "article.html": {
+      "sha256": "5a7ba33db72f04685e4ba0d5e98a8421c143474bc03050602bc9366e2c761bd7",
+      "bytes": 8173
+    },
+    "article.md": {
+      "sha256": "abd760d6b88981f0ca9f9e97a54919c55b90cd4c341224a974f62dd40672e771",
+      "bytes": 5140
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:41+08:00"
+}

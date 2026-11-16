@@ -1,0 +1,139 @@
+{
+  "article_id": 3753499,
+  "selection": {
+    "article_id": 3753499,
+    "url": "https://wallstreetcn.com/articles/3753499",
+    "title": "稳股市，楼市呢？",
+    "page_display_time": "2025-08-18T07:56:18+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": "长江证券伍戈",
+    "page_source_url": null,
+    "page_attribution_note": "本文作者：伍戈，来源：伍戈经济笔记，原文标题：《稳股市，楼市呢？》",
+    "category": "中国宏观与政策",
+    "reading_priority": "A",
+    "reading_value": "比较股市与楼市的政策传导，讨论总量政策、信用与居民需求的约束。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1233,
+    "page_image_count": 4,
+    "original_underlying_research_verified": false,
+    "catalog_number": 64
+  },
+  "url": "https://wallstreetcn.com/articles/3753499",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3753499?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:27+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/c2abbde1-5b7b-4661-825b-02e633bffb2e",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "来源：WIND，笔者测算",
+      "path": "assets/figure_001.gif",
+      "sha256": "b4e02c07f03515b561e812727093de8cc6aa887328a29a36cc660d97cd822337",
+      "bytes": 541323,
+      "width": 800,
+      "height": 561,
+      "content_type": "image/gif",
+      "final_url": "https://wpimg-wscn.awtmt.com/c2abbde1-5b7b-4661-825b-02e633bffb2e"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/5bfa7ad3-a063-4434-b79a-a0a83e2b33df",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "来源：WIND，笔者测算",
+      "path": "assets/figure_002.gif",
+      "sha256": "71a99ef03c44dc16f3e7dbc0a288804732f357720407c6a5c068176584ead2c3",
+      "bytes": 548002,
+      "width": 800,
+      "height": 561,
+      "content_type": "image/gif",
+      "final_url": "https://wpimg-wscn.awtmt.com/5bfa7ad3-a063-4434-b79a-a0a83e2b33df"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/1d87ce6a-e5e8-4043-879d-e94198961ddb",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "来源：WIND，笔者测算",
+      "path": "assets/figure_003.gif",
+      "sha256": "609c79b5ad7c2665399fc043f291e88fb42f7c9493bc3d8ea2d1c0a929c3eb26",
+      "bytes": 571614,
+      "width": 800,
+      "height": 561,
+      "content_type": "image/gif",
+      "final_url": "https://wpimg-wscn.awtmt.com/1d87ce6a-e5e8-4043-879d-e94198961ddb"
+    },
+    {
+      "order": 4,
+      "source_url": "https://wpimg-wscn.awtmt.com/1cc5564f-aa18-4fde-9f1d-097042e46761",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "来源：WIND，笔者测算",
+      "path": "assets/figure_004.gif",
+      "sha256": "08470674dd86f149fc617acfc978d4a27de1a11d7e82878346a9384582890c75",
+      "bytes": 606793,
+      "width": 800,
+      "height": 561,
+      "content_type": "image/gif",
+      "final_url": "https://wpimg-wscn.awtmt.com/1cc5564f-aa18-4fde-9f1d-097042e46761"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "稳股市，楼市呢？",
+  "page_display_time": "2025-08-18T07:56:18+08:00",
+  "page_byline": "董静",
+  "source_label": "长江证券伍戈",
+  "source_url": "",
+  "subtitle": "长江证券认为，股市上涨主要源于去年9月货币工具支持，但与企业盈利等基本面显著背离，持续性有待验证。楼市方面，过去三年多轮新政效果有限，各国经验表明总量性政策和实际利率调整才是关键，当前低通胀环境下需超常规政策。展望未来，地产结构性政策或加码。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1301,
+  "body_sha256": "a6c25c9831454c0c1b2a6c64e40da0d2bf8518b3662a1205cb76da448a72d3be",
+  "raw_sha256": "b8c42ac4ac295c3a1bd928fde5fdf568b9d41b2cc8c43140ed826dfe721a92d1",
+  "raw_bytes": 11054,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/1611e2a6-2629-46ba-ae79-dfaa17ef2a2b.mp3",
+  "image_occurrences": 4,
+  "html_table_count": 0,
+  "catalog_image_count": 4,
+  "catalog_text_characters": 1233,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "伍戈经济笔记",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI4NjMyNTUwMw==&mid=2247488541&idx=1&sn=0efebafa1df5eef5ab2f45bf8ea2e6b8&chksm=eac47d87eaefadd5cb4719cfaf0325a7a8f21ce4da3ea1d78ee888ecb8b8d4153c4a69736025&mpshare=1&scene=23&srcid=0817bPxyhNi61gQPEaNL1esT&sharer_shareinfo=5a0f7fb3b3194ba7ce0e2e0e512f7c56&sharer_shareinfo_first=42cc093f93d7e3a786733b6722a3169d#rd"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:34+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "b8c42ac4ac295c3a1bd928fde5fdf568b9d41b2cc8c43140ed826dfe721a92d1",
+      "bytes": 11054
+    },
+    "article.html": {
+      "sha256": "015a2226313d67c4d53123f988bccd27ed0e7eaa46456a2fdb167412d03f5ebc",
+      "bytes": 10683
+    },
+    "article.md": {
+      "sha256": "fa746ee600d662630d3e8f2e94c87b6911227529ff490e619c16fe615b24f6d6",
+      "bytes": 5071
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:18+08:00"
+}

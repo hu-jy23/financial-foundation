@@ -1,0 +1,104 @@
+{
+  "article_id": 3784406,
+  "selection": {
+    "article_id": 3784406,
+    "url": "https://wallstreetcn.com/articles/3784406",
+    "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
+    "page_display_time": "2026-10-25T11:45:59+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "AI投资与商业化",
+    "reading_priority": "B",
+    "reading_value": "用竞争博弈和长协违约条款解释投资延续性，保留75%为该机构当时的判断。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1920,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 162
+  },
+  "url": "https://wallstreetcn.com/articles/3784406",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784406?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:55+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/b2b7e31f-21f5-43a7-8239-037dcc2535fe.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "融资已成为填补资金缺口的重要手段。报告显示，Alphabet于2026年6月通过普通股和强制可转换优先股融资496亿美元；Meta于第二季度发行249亿美元债券，并暂停股票回购。Meta董事会还批准发行无投票权的C类股，为AI投资提供资金支持。",
+      "path": "assets/figure_001.png",
+      "sha256": "25b7c16f7c30dc272995fe93b4f6e67b26ba573226e8f2f84c2a32d2e195d357",
+      "bytes": 104553,
+      "width": 1024,
+      "height": 239,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/b2b7e31f-21f5-43a7-8239-037dcc2535fe.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/0ce00716-28d5-4ea1-bd6e-e6a01bc1f6ff.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "野村将未来走势划分为三种情景： 竞赛持续的概率约75%，资本开支放缓约20%，融资失败约5%。其中，融资渠道关闭才是最可能迫使企业被动收缩、进而打破当前投资格局的风险。",
+      "context_after": "除融资风险外，电力供给不足也可能限制AI基础设施扩张。Sightline Climate调查显示，2026年计划新增的数据中心容量中，约30%至50%面临延期风险，超过11GW的容量尚无动工迹象。",
+      "path": "assets/figure_002.png",
+      "sha256": "d6cd12d5baab63224f12008ffc64684445e1d0944bd288ed07b1e4780a1b59a9",
+      "bytes": 115663,
+      "width": 1024,
+      "height": 331,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/0ce00716-28d5-4ea1-bd6e-e6a01bc1f6ff.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "野村：AI军备竞赛有75%的概率继续，2027年存储芯片短缺已基本锁定",
+  "page_display_time": "2026-10-25T11:45:59+08:00",
+  "page_byline": "李佳",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "野村认为，AI军备竞赛陷入难以退出的困局，科技巨头即使自由现金流承压，仍可能继续加码投资。报告预计，竞赛延续的概率约为75%，2027年存储器供应量和价格已通过长期协议基本锁定。融资市场关闭是打破竞赛的主要风险，电力短缺则可能推迟芯片部署，但未必改变长期需求。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1997,
+  "body_sha256": "a1c02a380f9d708c5a0f34bca3f6e31a5a1d16a39b4d506d07ea93839ae2e1e5",
+  "raw_sha256": "27ff90404d1e14b7174465a79f0cbdd1dec7fe6e2a563c1c27e32b464061fdf2",
+  "raw_bytes": 10137,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/c2925c59-e395-4d72-afe6-d3412fa37e42.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 1920,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:44+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "27ff90404d1e14b7174465a79f0cbdd1dec7fe6e2a563c1c27e32b464061fdf2",
+      "bytes": 10137
+    },
+    "article.html": {
+      "sha256": "113a3869da966009dc947ad5ae5bfec10ece07a9093c84c3c5565dd923f9c0d1",
+      "bytes": 10250
+    },
+    "article.md": {
+      "sha256": "3d33424aa14270b083414d588be1f0cb02817f66400feca40cdea43cab387db8",
+      "bytes": 6308
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:40+08:00"
+}

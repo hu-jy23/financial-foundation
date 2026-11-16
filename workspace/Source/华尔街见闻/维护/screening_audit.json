@@ -1,0 +1,189 @@
+{
+  "compiled_on": "2026-11-04",
+  "methods": [
+    "public search",
+    "article body links and related recommendations",
+    "public author pages",
+    "historical breakfast link directories"
+  ],
+  "author_entries": [
+    {
+      "name": "董静",
+      "url": "https://wallstreetcn.com/authors/120000004826"
+    },
+    {
+      "name": "鲍奕龙",
+      "url": "https://wallstreetcn.com/authors/120000004827"
+    },
+    {
+      "name": "卜淑情",
+      "url": "https://wallstreetcn.com/authors/120000004518"
+    },
+    {
+      "name": "杨宸",
+      "url": "https://wallstreetcn.com/authors/120000004919"
+    },
+    {
+      "name": "张雅琦",
+      "url": "https://wallstreetcn.com/authors/120000004773"
+    },
+    {
+      "name": "赵颖",
+      "url": "https://wallstreetcn.com/authors/120000004514"
+    }
+  ],
+  "representative_exclusions_not_exhaustive": [
+    {
+      "id": "3763468",
+      "reason": "标题和发布时间为2026年，正文出现“这意味着，2024年上半年…”等时间错配，暂不纳入质量清单。",
+      "title": "大摩2026全球展望：美国强经济推迟降息，日央行全年按兵不动，中国出口持续扩大...",
+      "url": "https://wallstreetcn.com/articles/3763468",
+      "page_display_time": "2026-01-16T18:34:25+08:00"
+    },
+    {
+      "id": "3784537",
+      "reason": "与3784433同为中金AI挤出传统需求框架，保留覆盖更完整的3784433，避免重复计数。",
+      "title": "AI从\"朋友\"变\"敌人\"：中金测算中国云厂商ROIC仅11.9%，对内需挤出或快于美国",
+      "url": "https://wallstreetcn.com/articles/3784537",
+      "page_display_time": "2026-10-27T11:35:20+08:00"
+    },
+    {
+      "id": "3785089",
+      "reason": "与3785076同一世界黄金协会季度材料，后者覆盖投资、央行及ETF更完整。",
+      "title": "金价跌了！全球央行，也在狂买黄金：三个月买了整整321吨",
+      "url": "https://wallstreetcn.com/articles/3785089",
+      "page_display_time": "2026-11-03T19:27:29+08:00"
+    },
+    {
+      "id": "3742970",
+      "reason": "综合收盘行情，分析较分散；仅作为发现相关文章的入口。",
+      "title": "关税威胁加剧，标普跌入调整区间，纳指跌近2%，英特尔和量子计算股逆市大涨，黄金历史新高",
+      "url": "https://wallstreetcn.com/articles/3742970",
+      "page_display_time": "2025-03-14T06:50:18+08:00"
+    },
+    {
+      "id": "3738297",
+      "reason": "政策发布会原文，属于事实与制度材料，未作为本轮分析资讯计数。",
+      "title": "发改委最新表态！关于2025经济增长目标、超长期特别国债、提振消费......",
+      "url": "https://wallstreetcn.com/articles/3738297",
+      "page_display_time": "2025-01-03T14:09:07+08:00"
+    },
+    {
+      "id": "3783356",
+      "reason": "与3783272高度重合，且章节标题出现“660亿桶”等需核实的数量表述，保留3783272。",
+      "title": "全球原油和成品油库存已经告急！高盛模型测算“油价中的风险溢价逼近历史最高”",
+      "url": "https://wallstreetcn.com/articles/3783356",
+      "page_display_time": "2026-10-11T10:49:25+08:00"
+    },
+    {
+      "id": "3775365",
+      "reason": "与3773787同属存储供给约束，且供需比口径表述需要进一步核对，本轮不重复收入。",
+      "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
+      "url": "https://wallstreetcn.com/articles/3775365",
+      "page_display_time": "2026-06-24T11:16:39+08:00"
+    },
+    {
+      "id": "3783982",
+      "reason": "与3784003对同一轮CoreWeave争议的解释高度重复，保留后者及含敏感性分析的3783944。",
+      "title": "华尔街集体为CoreWeave恐慌“灭火”：别拿一家公司否定整个AI周期！",
+      "url": "https://wallstreetcn.com/articles/3783982",
+      "page_display_time": "2026-10-20T09:43:17+08:00"
+    },
+    {
+      "id": "3784046",
+      "reason": "主要论证已被3784003覆盖，不重复计数。",
+      "title": "CoreWeave会是2026年的硅谷银行吗？",
+      "url": "https://wallstreetcn.com/articles/3784046",
+      "page_display_time": "2026-10-20T22:44:07+08:00"
+    },
+    {
+      "id": "3784026",
+      "reason": "同一轮CDS对冲潮已由3784900更完整覆盖。",
+      "title": "AI债务风险引发对冲潮：Mag 7 CDS交易量激增4倍，多家AI企业保护成本创历史新高",
+      "url": "https://wallstreetcn.com/articles/3784026",
+      "page_display_time": "2026-10-20T18:02:31+08:00"
+    },
+    {
+      "id": "3784647",
+      "reason": "与3773787的供给瓶颈解释高度重叠，本轮保留前者；以后可用作预期更新。",
+      "title": "高盛存储专家会：产能扩张“远水难解近渴”，DRAM涨价或持续至2028年，HBM明年均价预计暴涨122%",
+      "url": "https://wallstreetcn.com/articles/3784647",
+      "page_display_time": "2026-10-28T13:51:26+08:00"
+    },
+    {
+      "id": "3785097",
+      "reason": "同日政策解释已由3785129更系统覆盖。",
+      "title": "央行将上调金融机构外汇存款准备金率，释放什么信号？",
+      "url": "https://wallstreetcn.com/articles/3785097",
+      "page_display_time": "2026-11-03T20:52:43+08:00"
+    },
+    {
+      "id": "3785105",
+      "reason": "融资供给与投资者承接能力已由3784910覆盖，新增信息以行情和利差为主。",
+      "title": "AI军备竞赛推高融资成本：美国科技企业融资溢价创2003年以来最高",
+      "url": "https://wallstreetcn.com/articles/3785105",
+      "page_display_time": "2026-11-04T02:06:13+08:00"
+    },
+    {
+      "id": "3785071",
+      "reason": "对Elliott及AI融资风险的综合改写与现有入选篇重复。",
+      "title": "美股AI泡沫已经破了？",
+      "url": "https://wallstreetcn.com/articles/3785071",
+      "page_display_time": "2026-11-03T15:09:05+08:00"
+    },
+    {
+      "id": "3785126",
+      "reason": "“20次全部为正”与后文“延续至第22次”存在样本计数疑点，且与3784841的季节性论证重复。",
+      "title": "德银复盘美股历史规律：中选后趋于上涨，但这一次可能不一样",
+      "url": "https://wallstreetcn.com/articles/3785126",
+      "page_display_time": "2026-11-04T09:08:27+08:00"
+    },
+    {
+      "id": "3750124",
+      "reason": "与3750088解读同一月PMI，保留后者较完整的工作日和跨国比较框架。",
+      "title": "6月PMI延续反弹的背后",
+      "url": "https://wallstreetcn.com/articles/3750124",
+      "page_display_time": "2025-06-30T21:30:55+08:00"
+    },
+    {
+      "id": "3755660",
+      "reason": "夹杂对官员投票立场的激进猜测，机制解释和证据不足以支持本轮入选。",
+      "title": "Miran、Cook都获准参会投票，周四美联储决议大戏开演，首现“四方混战”？",
+      "url": "https://wallstreetcn.com/articles/3755660",
+      "page_display_time": "2025-09-16T10:28:23+08:00"
+    },
+    {
+      "id": "3745360",
+      "reason": "主要报告TIC持仓数字，机制分析较少，本轮不作为分析资讯计数。",
+      "title": "美债风暴前一个月，美国海外债主持有的美债创2021年6月来最大增幅",
+      "url": "https://wallstreetcn.com/articles/3745360",
+      "page_display_time": "2025-04-17T04:01:10+08:00"
+    },
+    {
+      "id": "3758216",
+      "reason": "模型使用与训练来源的部分推断证据较弱，文风和论证质量未达到本轮入选要求。",
+      "title": "美国AI公司们，开始青睐Made in China的大模型",
+      "url": "https://wallstreetcn.com/articles/3758216",
+      "page_display_time": "2025-10-29T21:36:42+08:00"
+    },
+    {
+      "id": "3757146",
+      "reason": "金银资金和借贷分析有价值，但正文对央行购买范围的泛化表述需核实，暂不收入。",
+      "title": "黄金有央行支撑而白银没有，高盛：投资金额小幅回落也会导致白银价格大幅回调",
+      "url": "https://wallstreetcn.com/articles/3757146",
+      "page_display_time": "2025-10-14T14:54:34+08:00"
+    }
+  ],
+  "copyright_handling": "Links, metadata and original reading-value notes only; no article body archive included.",
+  "not_selected_does_not_imply_reviewed_and_rejected": true,
+  "artifacts": [
+    {
+      "name": "华尔街见闻_公开分析文章_206篇_20250101-20261104.md",
+      "sha256": "60137fccfc874f93125e7c89b7cdf5d867d927d0c190ef02041239bff405ea57"
+    },
+    {
+      "name": "WSCN_PUBLIC_ANALYSIS_206_20250101_20261104.json",
+      "sha256": "b23db6e40aea3abb61bcfd613f5162aa72cec7782646e267d8f3ae0682260cdd"
+    }
+  ]
+}

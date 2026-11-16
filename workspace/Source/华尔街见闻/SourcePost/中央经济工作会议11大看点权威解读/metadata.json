@@ -1,0 +1,78 @@
+{
+  "article_id": 3761228,
+  "selection": {
+    "article_id": 3761228,
+    "url": "https://wallstreetcn.com/articles/3761228",
+    "title": "中央经济工作会议11大看点权威解读",
+    "page_display_time": "2025-12-12T06:45:03+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "鲍奕龙",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004827",
+    "page_source_label": "上海证券报",
+    "page_source_url": null,
+    "page_attribution_note": "本文来源：上海证券报",
+    "category": "中国宏观与政策",
+    "reading_priority": "B",
+    "reading_value": "政策原文配合专家解释，覆盖财政规模、消费、房地产和地方债的政策含义。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 6087,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 67
+  },
+  "url": "https://wallstreetcn.com/articles/3761228",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3761228?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:29+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "中央经济工作会议11大看点权威解读",
+  "page_display_time": "2025-12-12T06:45:03+08:00",
+  "page_byline": "鲍奕龙",
+  "source_label": "上海证券报",
+  "source_url": "",
+  "subtitle": "上证报挑选的要点包括：首次提出“灵活高效运用降准降息等多种政策工具”，制定实施城乡居民增收计划，优化“两新”政策实施，“推动投资止跌回稳”，首次提出‘能源强国建设’，鼓励收购存量商品房重点用于保障性住房等。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 6110,
+  "body_sha256": "f46ef5468683b2d0249b08f62573a696559333084463bc677f456ea51236a3f8",
+  "raw_sha256": "af6277b46636428fc9b2eb7c3b911299a9873549a870ad8365a91f55a62c542b",
+  "raw_bytes": 25539,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/54846020-927a-48f6-9075-9165c4ba5a0e.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 6087,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "上海证券报",
+      "url": "https://paper.cnstock.com/html/2025-12/12/content_2157133.htm"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:34+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "af6277b46636428fc9b2eb7c3b911299a9873549a870ad8365a91f55a62c542b",
+      "bytes": 25539
+    },
+    "article.html": {
+      "sha256": "b3c2ee905834807e9801d50398203f2ec35a5484af1a168a15512ae013e27b32",
+      "bytes": 24992
+    },
+    "article.md": {
+      "sha256": "95e492379c22dad9aff645dfc19082cda3035831ad10779c6e7b9699ea3c1656",
+      "bytes": 19169
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:19+08:00"
+}

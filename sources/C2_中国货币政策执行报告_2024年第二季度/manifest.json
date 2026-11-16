@@ -1,0 +1,24 @@
+{
+  "id": "C2",
+  "title": "中国货币政策执行报告：2024年第二季度 — 中国人民银行，2024-08-09",
+  "directory": "C2_中国货币政策执行报告_2024年第二季度",
+  "original_language": "zh",
+  "source_urls": [
+    "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5427706/2024080916563291755.pdf"
+  ],
+  "files": [
+    {
+      "file": "中国货币政策执行报告_2024年第二季度_中文原文.pdf",
+      "source_url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5427706/2024080916563291755.pdf",
+      "resolved_url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/5427706/2024080916563291755.pdf",
+      "scope": "中文报告全文",
+      "bytes": 1275941,
+      "sha256": "6859bb7e6d3b67c971c000d95093ad93838dbcd9d41b476b9864ea7bebeb6f1c",
+      "pages": 58
+    }
+  ],
+  "failures": [],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "acquisition_status": "已取得所列原文文件；尚未精读"
+}

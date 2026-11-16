@@ -1,0 +1,2068 @@
+
+--- PDF 1 ---
+This International Student Edition is for use outside of the U.S.
+
+
+
+
+                                                  SIXTH EDI TIO N
+Money, Banking,
+ and Financial Markets
+ Stephen G. Cecchetti                 Kermit L . Schoenholtz
+
+
+--- PDF 2 ---
+Money, Banking, and Financial Markets
+                                        Sixth Edition
+
+
+
+                      Stephen G. Cecchetti
+                Brandeis International Business School
+
+                     Kermit L. Schoenholtz
+                                 New York University
+                  Leonard N. Stern School of Business
+
+
+--- PDF 3 ---
+MONEY, BANKING, AND FINANCIAL MARKETS
+
+Published by McGraw-Hill Education, 2 Penn Plaza, New York, NY 10121. Copyright ©2021 by McGraw-
+Hill Education. All rights reserved. Printed in the United States of America. No part of this publication
+may be reproduced or distributed in any form or by any means, or stored in a database or retrieval system,
+without the prior written consent of McGraw-Hill Education, including, but not limited to, in any network
+or other electronic storage or transmission, or broadcast for distance learning.
+
+Some ancillaries, including electronic and print components, may not be available to customers outside the
+United States.
+
+This book is printed on acid-free paper.
+
+1 2 3 4 5 6 7 8 9 LWI 25 24 23 22 21 20
+
+ISBN 978-1-260-57136-3
+MHID 1-260-57136-X
+
+Cover Image: ©NASA images/Shutterstock
+
+
+
+
+All credits appearing on page or at the end of the book are considered to be an extension of the ­copyright page.
+
+The Internet addresses listed in the text were accurate at the time of publication. The inclusion of a website does
+not indicate an endorsement by the authors or McGraw-Hill Education, and McGraw-Hill Education does not
+guarantee the accuracy of the information presented at these sites.
+
+
+
+
+mheducation.com/highered
+
+
+--- PDF 4 ---
+Dedication
+
+
+To my father, Giovanni Cecchetti, who argued tirelessly that financial markets are not
+efficient; and to my grandfather, Albert Schwabacher, who patiently explained why
+inflation is destructive.
+                                                                 Stephen G. Cecchetti
+
+
+To my wife, Elvira Pratsch, who continues to teach me what is true, good, and
+beautiful.
+                                                        Kermit L. Schoenholtz
+
+
+--- PDF 5 ---
+About the Authors
+
+                                Stephen G. Cecchetti is                                       Kermit L. Schoenholtz
+                                Rosen Family Chair in In-                                     is the Henry Kaufman
+                                ternational Finance at the                                    Professor of the History
+                                Brandeis International                                        of Financial Institutions
+                                Business School (http://                                      and Markets in the
+                                people.brandeis.edu/~                                         Department of Eco-
+                                                                                              ­
+                                cecchett/). He previously                                     nomics of New York
+                                taught at Brandeis from                                       University’s Leonard N.
+                                2003 to 2008. Before re-                                      Stern School of Busi-
+                                joining Brandeis in 2014,                                     ness, where he teaches
+                                ­Cecchetti completed a five-                                  courses on money and
+                                 year term as Economic Ad-                                    banking (http://pages.
+viser and Head of the Monetary and Economic                    stern.nyu.edu/~kschoenh). He also directs NYU
+Department at the Bank for International Settlements in        Stern’s Center for Global Economy and Business
+Basel, Switzerland. During his time at the Bank for In-        (www.stern.nyu.edu/cgeb). Schoenholtz was
+ternational Settlements, ­Cecchetti was involved in nu-        ­Citigroup’s global chief economist from 1997 until
+merous postcrisis global regulatory reform initiatives,         2005.
+including the work of the Basel Committee on Banking                Schoenholtz joined Salomon Brothers in 1986,
+Supervision and the ­Financial Stability Board.                 working in its New York, Tokyo, and London of-
+      He has also taught at the New York University             fices. In 1997, he became chief economist at
+­Leonard N. Stern School of Business and at The Ohio            ­Salomon, after which he became chief economist at
+ State University. In addition to his other appointments,        Salomon Smith ­Barney and later at Citigroup.
+ ­Cecchetti served as Executive Vice President and Direc-           Schoenholtz has published extensively for the
+  tor of Research, Federal Reserve Bank of New York              professional investment community about financial,
+  (1997–1999); Editor, Journal of Money, Credit, and             economic, and policy developments; more recently,
+  Banking (1992–2001); Research Associate, National              he has contributed to policy-focused scholarly re-
+  Bureau of Economic Research (1989–2011); and                   search in economics. He is a member of the Finan-
+  ­Research ­Fellow, Centre for Economic Policy Research         cial Research Advisory Committee of the U.S.
+   (2008–present), among others.                                 Treasury’s Office of Financial Research, a panel
+      Cecchetti’s research interests include inflation and       member of the U.S. Monetary Policy Forum, and a
+   price measurement, monetary policy, macroeconomic             member of the Council on Foreign Relations.
+   theory, economics of the Great Depression, and the eco-       He also has served as a member of the Executive
+   nomics of financial regulation.                               Committee of the London-based Centre for Eco-
+      Cecchetti received an SB in Economics from the             nomic Policy Research.
+   Massachusetts Institute of Technology in 1977 and a              From 1983 to 1985, Schoenholtz was a Visiting
+   PhD in Economics from the University of California            Scholar at the Bank of Japan’s Institute for Monetary
+   at Berkeley in 1982. In 2016, he received an Honor-           and Economic Studies. He received an MPhil in eco-
+   ary Doctorate in Economics from the University of             nomics from Yale University in 1982 and an AB
+   Basel.                                                        from Brown University in 1977.
+
+
+
+
+iv
+
+
+--- PDF 6 ---
+Preface
+
+The world of money, banking, and financial markets         on the tools, rules, and structures themselves. It is an
+is constantly evolving. Every year, people explore         approach designed to give students the lifelong abil-
+new ways to pay for purchases, save for the future,        ity to understand and evaluate whatever financial in-
+and borrow to meet current needs.                          novations and developments they may one day
+    New technology is an ongoing source of change.         confront.
+Internet banking makes it easier than ever for indi-
+viduals to take control of their finances. And smart-
+phones not only allow American college students to
+pay for their morning coffee but also are giving hun-      The Core Principles
+dreds of millions of people in poor countries their
+first access to the financial system.
+                                                           Approach
+    In some instances, crises provided the impetus for     Toward that end, the entire content of this book is
+change. For example, new regulations aimed at mak-         based on five core principles. Knowledge of these
+ing the financial system safer have pushed many banks      principles is the basis for understanding what the
+to take fewer risks than they did just a few years ago.    financial system does, how it is organized, how it is
+Financial markets also have become more resilient and      linked to the real economy, and how it is changing. If
+less likely to need public support. And monetary poli-     you understand these five principles, you will under-
+cymakers, especially in places where economic growth       stand the future:
+has slowed and deflation is a risk, have adopted a slew
+of policies never seen before. In much of Europe and           1. Time has value.
+Japan, interest rates have fallen below zero—breaking          2. Risk requires compensation.
+through what had long been seen as a permanent                 3. Information is the basis for decisions.
+­barrier—while new policies are in place to boost              4. Markets determine prices and allocate
+ bank lending and restore inflation and growth to pre-            resources.
+ crisis levels.                                                5. Stability improves welfare.
+    The same things that are reshaping the global fi-
+ nancial system also are transforming the study of         These five core principles serve as a framework
+ money and banking. Some old questions are surfac-         through which to view the history, current status,
+ ing with new intensity: How can individuals use the       and future development of money and banking.
+ changing financial system to improve their lives?         They are discussed in detail in Chapter 1; through-
+ How can governments ensure that the financial sys-        out the rest of the text, marginal icons remind
+ tem remains stable? How should we balance the need        students of the principles that underlie particular
+ for financial resilience with the goals of competition,   discussions.
+ efficiency, and innovation? And how can monetary             Focusing on core principles has created a book
+ policymakers keep inflation low, employment high,         that is both concise and logically organized. This ap-
+ and both of them stable?                                  proach does require some adjustments to the tradi-
+    Against this background, students who memorize         tional methodology used to teach money and
+ the operational details of today’s financial system are   banking, but for the most part they are changes in
+ investing in a short-lived asset. Our purpose in writ-    emphasis only. That said, some of these changes have
+ ing this book is to focus on the basic functions served   greatly improved both the ease of teaching and the
+ by the financial system while deemphasizing its cur-      value students draw from the course. Among them
+ rent structure and rules. Learning the economic ratio-    are the emphasis on risk and on the lessons from the
+ nale behind current financial tools, rules, and           financial crisis; use of the term financial instrument;
+ structures is much more valuable than concentrating       parallel presentation of the Federal Reserve and the
+                                                                                                                 v
+
+
+--- PDF 7 ---
+vi   l Preface
+
+
+
+European Central Bank; a streamlined, updated sec-          Federal Reserve Economic
+tion on monetary economics; and the adoption of an
+integrated global perspective.                              Data (FRED)
+                                                            Money, Banking, and Financial Markets systemati-
+                                                            cally integrates the use of economic and financial
+Innovations in This Text                                    data from FRED, the online database provided free
+                                                            of charge to the public by the Federal Reserve Bank
+In addition to the focus on core principles, this book      of St. Louis. As of this writing, FRED offers nearly
+introduces a series of innovations designed to foster       600,000 data series from more than 85 sources,
+coherence, relevance, and timeliness in the study of        including indicators for about 200 countries. Infor-
+money and banking.                                          mation on using FRED appears in Appendix B to
+                                                            Chapter 1.
+The Money and Banking Blog                                     Through frequent use of FRED, students will
+                                                            gain up-to-date knowledge of the U.S. and other
+The global economy and financial system of the 21st         economies and an understanding of the real-world
+century is evolving quickly. Changes in technology,         challenges of economic measurement; they will also
+in the structure of financial institutions and markets,     gain skills in analysis and data manipulation that
+and in monetary and regulatory policy are occur-            will serve them well for years to come. Many of the
+ring at a pace that far outstrips the normal three-         graphs in this book were produced (and can be eas-
+or four-year cycle at which textbooks are revised.          ily updated) using FRED. In addition, end-of-­
+We designed the Money and Banking blog to keep              chapter Data Exploration problems call on students
+examples and applications current. Available at             to use FRED to analyze key economic and financial
+www.moneyandbanking.com, the blog provides timely           indicators highlighted in that chapter. (For detailed
+commentary on events in the news and on questions of        instructions for using FRED online to answer the
+more lasting interest.                                      Data Exploration problems in Chapters 1 to 10, visit
+    The blog is closely linked to this book. Like the       www.mhhe.com/moneyandbanking6e and click on
+book, it aims to enhance students’ understanding of         Data Exploration Hints.) Students can even do some
+the world around them. Based on the five core prin-         assignments using the FRED app for their mobile
+ciples of money and banking, each blog entry is as-         devices.
+sociated with a specific chapter. Students following
+the blog will learn how current events affect the vari-
+ous parts of the financial system—money, financial
+                                                            Impact of the Crises
+instruments, financial markets, financial institutions,     The effects of the global financial crisis of 2007–
+financial regulators, and central banks.                    2009 and the euro-area crisis that began in 2010
+    The material from the blog also is integrated into      transformed money, banking, and financial markets.
+the book in two ways. First, each chapter includes a        Accordingly, from beginning to end, the book inte-
+“Money and Banking Blog” boxed reading. These               grates the issues raised by these crises and by the
+are short versions of postings that have appeared on        responses of policymakers.
+www.moneyandbanking.com since the publication of                 The concept of a liquidity crisis surfaces in
+the previous edition of this text. These excerpts de-       ­Chapter 2, and the risks associated with leverage and
+scribe current issues that highlight the lessons in the      the rise of shadow banking are introduced in Chapter 3.
+body of the chapter. Second, the website includes a          Issues specific to the 2007–2009 crisis—including
+listing of the posts by chapter. This listing allows stu-    securitization, rating agencies, subprime mort-
+dents and instructors alike to find new, up-to-date          gages, over-the-counter trading, and complex financial
+material that illustrates the lessons and core princi-       instruments like credit-default swaps—are included in
+ples emphasized in each chapter.                             the appropriate intermediate chapters of the text.
+    To receive the latest commentary as it is posted         ­Chapter 16 explores the role of the European Central
+every week or so, subscribe to the blog at                    Bank in managing the euro-area crisis. More broadly,
+www.moneyandbanking.com. You can also follow                  the sources of threats to the financial system as a whole
+the authors on Twitter (@MoneyBanking1).                      are identified throughout the book, and there is a
+
+
+--- PDF 8 ---
+                                                                                                      Preface l vii
+
+
+
+f­ocused discussion on regulatory initiatives to limit         bonds, stocks, futures, options, and insurance
+ such systemic threats. Finally, we present—in a logical       ­contracts. Doing so clears up the confusion that
+ and organized manner—the unconventional monetary               can arise when students arrive in a money and bank-
+ policy tools, including the use of negative interest rates     ing class fresh from a course in the principles of
+ and the concept of the effective lower bound, that have      ­economics.
+ become so prominent in postcrisis policy debates and
+ remain relevant today.
+                                                              Parallel Presentation of the
+                                                              Federal Reserve and the
+Early Introduction of Risk
+                                                              European Central Bank
+It is impossible to appreciate how the financial sys-
+tem works without understanding risk. In the mod-             To foster a deeper understanding of central banking
+ern financial world, virtually all transactions transfer      and monetary policy, the presentation of this material
+some degree of risk between two or more parties.              begins with a discussion of the central bank’s role and
+These risk trades can be extremely beneficial, as they        objectives. Descriptions of the Federal Reserve and
+are in the case of insurance markets. But there is still      the European Central Bank follow. By starting on a
+potential for disaster. In 2008, risk-trading activity at     theoretical plane, students gain the tools they need to
+some of the world’s largest financial firms threatened        understand how all central banks work. This avoids
+the stability of the international financial system.          focusing on institutional details that may quickly
+    Even though risk is absolutely central to an under-       become obsolete. Armed with a basic understand-
+standing of the financial system, most money and              ing of what central banks do and how they do it, stu-
+banking books give very little space to the topic. In         dents will be prepared to grasp the meaning of future
+contrast, this book devotes an entire chapter to defin-       changes in institutional structure.
+ing and measuring risk. Chapter 5 introduces the                  Another important innovation is the parallel dis-
+concept of a risk premium as compensation for risk            cussion of the two most important central banks in
+and shows how diversification can reduce risk. Be-            the world, the Federal Reserve and the European
+cause risk is central to explaining the valuation of fi-      Central Bank (ECB). Students of the 21st century are
+nancial instruments, the role of financial                    ill-served by books that focus entirely on the U.S. fi-
+intermediaries, and the job of central bankers, the           nancial system. They need a global perspective on
+book returns to this concept throughout the chapters.         central banking, the starting point for which is a de-
+                                                              tailed knowledge of the ECB.
+
+Emphasis on Financial Instruments
+                                                              Modern Treatment of Monetary
+Financial instruments are introduced early in the
+book, where they are defined based on their eco-
+                                                              Economics
+nomic function. This perspective leads naturally to           The discussion of central banking is followed by a
+a discussion of the uses of various instruments and           simple framework for understanding the impact of
+the determinants of their value. Bonds, stocks, and           monetary policy on the real economy. Modern cen-
+derivatives all fit neatly into this framework, so they       tral bankers think and talk about changing the inter-
+are all discussed together.                                   est rate when inflation deviates from its target and
+    This approach solves one of the problems with             output deviates from its normal level. Yet traditional
+existing texts, use of the term f­ inancial market to re-     treatments of monetary economics employ aggregate
+fer to bonds, interest rates, and foreign exchange. In        demand and aggregate supply diagrams, which relate
+its conventional microeconomic sense, the term mar-           output to the price level. Our approach is consistent
+ket signifies a place where trade o­ ccurs, not the in-       with that in the most recent editions of the leading
+struments that are traded. This book follows standard         macroeconomics textbooks and directly links output
+usage of the term market to mean a place for trade. It        to inflation, simplifying the exposition and highlight-
+uses the term financial instruments to describe virtu-        ing the role of monetary policy. Because this book
+ally all financial arrangements, including loans,             also skips the IS-LM framework, its presentation
+
+
+--- PDF 9 ---
+viii l Preface
+
+
+
+of monetary economics is several chapters shorter.         d­ atabase of the Federal Reserve Bank of St. Louis.
+Only those topics that are most important in a mon-         The book often uses FRED data for figures and
+etary economics course are covered: long-run money          tables, and every chapter calls on students to use
+growth and inflation and short-run monetary policy          FRED to solve end-of-chapter problems. Chapter 2
+and business cycles. This streamlined treatment of          examines money both in theory and in practice.
+monetary theory is not only concise but more mod-           Chapter 3 follows with a bird’s-eye view of finan-
+ern and more relevant than the traditional approach.        cial instruments, financial markets, and financial
+It helps students to see monetary policy changes as         institutions. (Instructors who prefer to discuss the
+part of a strategy rather than as one-off events, and       financial system first can cover Chapters 2 and 3 in
+it gives them a complete understanding of business          reverse order.)
+cycle fluctuations.
+                                                           Part II: Interest Rates, Financial Instru-
+                                                           ments, and Financial Markets. ​Part II con-
+Integrated Global Perspective                              tains a detailed description of financial instruments
+Technological advances have dramatically reduced           and the financial theory required to understand
+the importance of a bank’s physi­cal location, produc-     them. It begins with an explanation of present value
+ing a truly global financial system. Twenty-five years     and risk, followed by specific discussions of bonds,
+ago money and banking books could afford to focus          stocks, derivatives, and foreign exchange. Students
+primarily on the U.S. financial system, relegating         benefit from concrete examples of these concepts.
+international topics to a separate chapter that could be   In Chapter 7 (The Risk and Term Structure of In-
+considered optional. But in today’s financial world,       terest Rates), for example, students learn how the
+even a large country like the United States cannot be      information contained in the risk and term struc-
+treated in isolation. The global financial system is       ture of interest rates can be useful in forecasting. In
+truly an integrated one, rendering separate discussion     Chapter 8 (Stocks, Stock Markets, and Market Ef-
+of a single country’s institutions, markets, or policies   ficiency), they learn about stock bubbles and how
+impossible. This book incorporates the discussion of       those anomalies influence the economy. And in
+international issues throughout the text, emphasizing      Chapter 10 (Foreign Exchange), they study the Big
+when national borders are important to bankers and         Mac index and learn to understand the concepts of
+when they are not.                                         purchasing power parity and interest rate parity.
+                                                           Throughout this section, two ideas are emphasized:
+                                                           that financial instruments transfer resources from
+Organization                                               savers to investors, and that in doing so, they trans-
+                                                           fer risk to those best equipped to bear it.
+This book is organized to help students understand
+both the financial system and its economic effects on      Part III: Financial Institutions.           In Part III,
+their lives. That means surveying a broad series of top-   the focus shifts to financial institutions. Chapter 11
+ics, including what money is and how it is used; what      introduces the economic theory that is the basis for
+a financial instrument is and how it is valued; what a     our understanding of the role of financial intermedi-
+financial market is and how it works; what a financial     aries. Through a series of examples, students see the
+institution is and why we need it; and what a central      problems created by asymmetric information as well
+bank is and how it operates. More important, it means      as how financial intermediaries can mitigate those
+showing students how to apply the five core principles     problems. The remaining chapters in Part III put the-
+of money and banking to the evolving financial and         ory into practice. Chapter 12 presents a detailed dis-
+economic arrangements that they inevitably will con-       cussion of banking, the bank balance sheet, and the
+front during their lifetimes.                              risks that banks must manage. Chapter 13 provides a
+                                                           brief overview of the financial industry’s structure,
+Part I: Money and the Financial S
+                                ­ ystem.                   and Chapter 14 explains financial regulation, includ-
+Chapter 1 introduces the core principles of money          ing a discussion of regulation to limit threats to the
+and banking, which serve as touchstones throughout         financial system as a whole and of efforts to limit the
+the book. It also presents FRED, the free online           increased regulatory burden.
+
+
+--- PDF 10 ---
+                                                                                                    Preface l    ix
+
+
+
+Part IV: Central Banks, Monetary Policy, transmission mechanism in some detail and ad-
+and Financial S
+              ­ tability. Chapters 15 through dresses key challenges facing central banks, such as
+19 survey what central banks do and how they do it.      asset price bubbles, the effective lower bound for
+This part of the book begins with a discussion of the    nominal rates, and the evolving structure of the fi-
+role and objectives of central banks, which leads nat-   nancial system.
+urally to the principles that guide central bank de-        For those instructors who have the time, we rec-
+sign. Chapter 16 applies those principles to the         ommend closing the course with a rereading of the
+Federal Reserve and the European Central Bank,           first chapter and a review of the core principles.
+highlighting the strategic importance of their numeri-   What is the future likely to hold for the six parts of
+cal inflation objectives and their communications.       the financial system: money, financial instruments,
+Chapter 17 presents the central bank balance sheet,      financial markets, financial institutions, regulatory
+the process of multiple deposit creation, and the        agencies, and central banks? How do students envi-
+money supply. Chapters 18 and 19 cover operational       sion each of these parts of the system 20 or even
+policy, based on control of both the interest rate and   50 years from now?
+the exchange rate. Chapter 18 also introduces the
+monetary transmission mechanism and presents a va-
+riety of unconventional monetary policy tools, in-       What’s New in the
+cluding negative interest rates and the concept of the
+effective lower bound, that have become so promi-        Sixth Edition?
+nent in recent years. The goal of Part IV is to give     Many things have happened since the last edition. For
+students the knowledge they will need to cope with       that reason, all of the figures and data have been updated
+the inevitable changes that will occur in central bank   to reflect the most recent available information. In addi-
+structure.                                               tion, the authors have made many changes to enhance
+                                                         the sixth edition of Money, Banking, and Financial Mar-
+Part V: Modern Monetary Economics.                The    kets. What follows is only a sample of these changes.
+last part of the book covers modern monetary eco-
+nomics. While most books cover this topic in six or
+more chapters, this one does it in four. This stream-
+                                                         New Topics in the Integrated
+lined approach concentrates on what is important,        Global Perspective
+presenting only the essential lessons that students      The sixth edition reflects the wide range of monetary
+truly need. Chapter 20 sets the stage by exploring       and regulatory developments that have taken place
+the relationship between inflation and money             since 2018. New topics introduced or discussed in
+growth. Starting with inflation keeps the presenta-      much greater detail include:
+tion simple and powerful, and emphasizes the way
+monetary policymakers think about what they do. A           ∙	The role of paper money and virtual currencies
+discussion of aggregate demand, aggregate supply,           ∙	Mobile banking and financial inclusion
+and the determinants of inflation and output follows.       ∙ Modernizing the payments system
+Consistent with the presentation in recent editions of      ∙ Bond market liquidity
+leading macroeconomic textbooks, Chapter 21 pres-
+                                                            ∙ The distribution of wealth
+ents a complete macroeconomic model with a dy-
+namic aggregate demand curve that integrates                ∙ Replacing LIBOR
+monetary policy directly into the presentation, along       ∙ Private versus public equity
+with short- and long-run aggregate supply curves. In        ∙ Intangible capital
+Chapter 22 the model is used to help understand the         ∙ Fiscal sustainability
+sources of business cycles, as well as a number of          ∙	Stress testing banks to ensure resilience
+important applications that face monetary policy-
+                                                            ∙	Cyber risk
+makers in the world today. Each application stands
+on its own, and the applications are ordered in in-         ∙ Negative interest rates
+creasing difficulty to allow maximum flexibility in         ∙ Chinese exchange rate policy
+their use. Finally, Chapter 23 explores the monetary        ∙ The threat to Fed independence
+
+
+--- PDF 11 ---
+x l Preface
+
+
+
+   ∙   Measuring tail risk                                     The Cloudy Future of Peer-to-Peer Lending
+   ∙   Big data and the macroeconomy                              (Chapter 12)
+   ∙   Secular stagnation                                      Fiscal Sustainability (Chapter 15)
+                                                               Is 2 Percent Still the Right Inflation Target?
+   ∙   Balance of payments crises
+                                                                  (Chapter 18)
+                                                               Sudden Stops: Understanding Balance-of-
+The most extensive changes are in Chapter 12, which               Payments Crises (Chapter 19)
+includes a new section on cyber risk; in Chapter 14,           The Phillips Curve (Chapter 21)
+which includes a discussion of continued reforms to            Secular Stagnation (Chapter 22)
+financial regulation in the aftermath of the financial         GDP at Risk (Chapter 23)
+crisis; and in Chapter 18, which includes a full treat-
+ment of the Federal Reserve’s evolving operational             Applying the Concept
+policy regime.                                                 Modernizing U.S. Payments: Faster, Cheaper and
+                                                                  More Secure (Chapter 2)
+                                                               Raising Equity: Public versus Private (Chapter 8)
+Changes at the Federal Reserve                                 Financing Intangible Capital (Chapter 11)
+and the ECB                                                    Eclipsing LIBOR (Chapter 13)
+                                                               Better Capitalized Banks Lend More and Lend
+The discussion of the Federal Reserve and the ECB                 Better (Chapter 14)
+now considers their evolving communications strat-             The Threat to Fed Independence (Chapter 15)
+egy (Chapter 16); the use of unconventional policy             Time Consistency (Chapter 15)
+tools, including negative interest rates and the dra-          Central Bank Digital Currency (Chapter 16)
+matic growth in central bank balance sheets, aimed             What Should the Fed Own? (Chapter 17)
+at addressing first the financial crisis and then the          GDP: One Size No Longer Fits All (Chapter 18)
+weak economic recoveries that followed (Chapter                China’s Changing Exchange Rate Regime
+18); the interactions between monetary policy and                 (Chapter 19)
+financial stability (Chapter 18); and the impairment           GDP-Linked Bonds (Chapter 22)
+of the monetary transmission process during the cri-
+sis (Chapter 23). It also reflects the sharply increased       Lessons from the Crisis
+threat to Fed independence under President Trump               Central Counterparties and Systemic Risk
+(Chapter 15).                                                    (Chapter 9)
+                                                               The Three Phases of the Financial Crisis of
+Updated Coverage of                                              2007–2009 (Chapter 14)
+Current Events
+Overall, nearly 30 of the 140 inserts in the previous edi-   Supplements for
+tion have been replaced or altered substantially. These      Instructors
+changes capture new developments in the key areas of
+technological change, the financial crisis, inequality,      The following ancillaries are available for quick
+regulatory reform, and monetary policy.                      download and convenient access via the Instructor
+   Here is a partial list of the new or revised features:    Resource material available through McGraw-Hill
+                                                             Connect®.
+   Money and Banking Blog
+   Virtual Frenzies: Bitcoin and Blockchain
+      ­(Chapter 2)
+                                                             Solutions Manual
+   Banking the Masses: 2018 Edition (Chapter 3)              Prepared by James Fackler (University of Kentucky)
+   Investing in College (Chapter 4)                          and Roisin O’Sullivan (Smith College), this manual
+   On the Distribution of Wealth (Chapter 5)                 contains detailed solutions to the end-of-chapter
+   Bond Market Liquidity: Should We Be Worried?              questions—Conceptual and Analytical problems and
+       (Chapter 6)                                           Data Exploration questions.
+
+
+--- PDF 12 ---
+                                                                                                    Preface l   xi
+
+
+
+Test Bank                                                 support your assurance of learning initiatives with a
+                                                          simple, yet powerful solution.
+The revised test bank includes more than 2,500               Instructors can use Connect to easily query for
+multiple-choice and 600 short-answer and essay            learning outcomes/objectives that directly relate to the
+questions. The test bank can be used both as a study      learning objectives of your course. You can then use
+guide and as a source for exam questions. It has been     the reporting features of Connect to aggregate student
+computerized to allow for both selective and random       results in similar fashion, making the collection and
+­generation of test questions.                            presentation of assurance of learning data simple
+                                                          and easy.
+Test Builder
+Available within Connect, Test Builder is a cloud-
+based tool that enables instructors to format tests       AACSB Statement
+that can be printed or administered within an LMS.        McGraw-Hill Global Education is a proud corporate
+Test Builder offers a modern, streamlined interface       member of AACSB International. Understanding
+for easy content configuration that matches course        the importance and value of AACSB accreditation,
+needs, without requiring a download.                      Money, Banking, and Financial Markets has sought
+   Test Builder allows you to:                            to recognize the curricula guidelines detailed in the
+  ∙ access all test bank content from a particular        AACSB standards for business accreditation by con-
+    title.                                                necting questions in the text and test bank to the
+  ∙ easily pinpoint the most relevant content             general knowledge and skill guidelines found in the
+    through robust filtering options.                     AACSB standards.
+                                                             The statements contained in ­Money, Banking, and
+  ∙ manipulate the order of questions or scramble         Financial Markets are provided only as a guide for
+    questions and/or answers.                             the users of this text. The AACSB leaves content cov-
+  ∙ pin questions to a specific location within a test.   erage and assessment within the purview of individ-
+  ∙ determine your preferred treatment of algorith-       ual schools, the mission of the school, and the faculty.
+    mic questions.                                        While Money, Banking, and Financial Markets and
+  ∙ choose the layout and spacing.                        the teaching package make no claim of any specific
+  ∙ add instructions and configure default settings.      AACSB qualification or evaluation, we have within
+                                                          Money, Banking, and Financial Markets labeled
+Test Builder provides a secure interface for bet-         questions according to the general knowledge and
+ter protection of content and allows for just-in-time     skills areas.
+updates to flow directly into assessments.
+
+PowerPoint Slides                                         McGraw-Hill Customer Care
+Updated presentation slides outline the main points
+in each ­chapter and reproduce major graphs and charts.   Contact Information
+This handy, colorful supplement can be edited, printed,   At McGraw-Hill, we understand that getting the most
+or rearranged to fit the needs of your course.            from new technology can be challenging. That’s why
+                                                          our services don’t stop after you purchase our prod-
+                                                          ucts. You can reach our Product Specialists 24 hours a
+Assurance of Learning                                     day to get product-training online. Or you can search
+Ready                                                     our knowledge bank of Frequently Asked Questions
+                                                          on our support website. For Customer Support, call
+Many educational institutions today are focused on        800-331-5094, or visit www.mheducation.com/
+the notion of assurance of learning, an important ele-    highered/contact.html. One of our Technical Sup-
+ment of some accreditation standards. Money, Bank-        port Analysts will be able to assist you in a timely
+ing, and Financial Markets­is designed specifically to    fashion.
+
+
+--- PDF 13 ---
+                          Learning Tools Walkthrough
+
+
+                          Learning Objectives                                                                                                                                     Core Principle Icons
+                          The learning objectives (LOs) introduced at the start of                                                                                                 The entire text discussion is organized around the fol-
+
+
+    2
+  Chapter
+                          each chapter highlight the material and concepts to be                                                                                                 78lowing
+                                                                                                                                                                                      l Chapter 4five
+                                                                                                                                                                                                  Future core       principles:              Time has value; risk requires
+                             Money      and   the Payments
+                                                                                                                                                                                                          Value, Present Value, and Interest Rates
+
+                          mastered. Every end-of-chapter   problem is denoted by                                                                                                   compensation; information is the basis for decisions;
+                          theSystem
+                                                                                                                                                                                                       is complicated because we need to add up the future values of forty $1,000 deposits,
+                             LO to which it relates for reinforcement.                                                                                                             markets seteach       prices
+                                                                                                                                                                                                              made in aand       allocate
+                                                                                                                                                                                                                         different  year, but doingresources;
+                                                                                                                                                                                                                                                    so uses the concept and       ­value.
+                                                                                                                                                                                                                                                                         of futures tability
+                                                                                                                                                                                                                                                                                          The first
+                                                                                                                                                                                                       $1,000 is deposited for 40 years, so its future value is
+                                                                                                                                                                                   improves welfare. Exploring                                 these      principles
+                                                                                                                                                                                                                                       $1,000(1.04) = $4,801.02 40
+                                                                                                                                                                                                                                                                                is   the    basis
+                                                                                                                                                                                   for learningThewhat                the     financial            system        does,
+                                                                                                                                                                                                             second $1,000 is deposited for 39 years, so its future value is  how      it  is
+                                    Learning Objectives                                                                                                                            ­organized, and how it is linked                    $1,000(1.04)to= the      real economy.
+                                                                                                                                                                                                                                                        $4,616.37
+                                                                                                                                                                                                                                                                39
+
+
+                                                                                                                                                                                                       and so on. The practical implication of this calculation is that buying one less soda or
+                                    After reading this chapter, you should be able to:                                                                                              They are discussed candy bar per dayin  isn’tdetail       inyourChapter
+                                                                                                                                                                                                                                  just good for                    1;it’sthroughout
+                                                                                                                                                                                                                                                     physical health;     good for your financialthe
+                                                                                                                                                                                                       health, too.
+                                       LO1        Define money and describe its functions.
+                                                                                                                                                                                    rest of the text, marginal icons remind students of the
+                                                                                                                                                                                                       Present Value
+                                       LO2        Discuss the different methods of payment and the future of money.
+                                                                                                                                                                                    principles that             underlie particular discussions.
+                                                                                                                                                                                                       It’s easy to see why future value is important. We often want to know what savings and
+                                       LO3        Explain how the money supply is measured and how it is linked to economic
+                                                  growth and inflation.                                                                                                                                      investments will be worth in the future. But that isn’t the only thing we need to know.
+                                                                                                                                                                                                             There is another, somewhat different task that we face with some regularity. We need
+                                                                                                                                                                                                             to be able to figure out how much a payment promised in the future is worth today. Say
+                                                                                                                                                                                                             you agree to make a $225 loan, and the borrower offers to repay you either $100 a year
+                                                                                       The makers of the board game Monopoly print on                                                                        for three years or $125 a year for two years. Which offer should you take? Answering
+                                                                                       average about $50 billion of Monopoly money                                                                           this question means figuring out the current value of the promised payments on the
+                                                                                       every year. Every new game has bills totaling                                                                         dates when they will be made. To do that, we’ll use the concept of present value,
+                                                                                       20,580 Monopoly dollars. At a cost of less than                                                                       sometimes referred to as present discounted value.
+                            24 l Chapter 2 Money and the Payments System
+                                                                                       20 U.S. dollars per set, this “money” would be a
+                                                                                       good deal if you could buy things other than                                                                          The Definition         In our discussion of future value, we used the term present value
+                                                                                                                                                                                                             to mean the initial amount invested or deposited. The way we used the term suggests
+                                                                                       Boardwalk and Park Place with it. Unfortunately,                                                                      its technical definition: Present value is the value today (in the present) of a payment
+                                                     Debit Cards versusattempts           Credit   to Cards
+                                                                                                        pay for groceries, books, or rent with                                                               that is promised to be made in the future. Put another way, present value is the amount
+                                                                                       this particular form of money have been unsuc-                                                                        that must be invested today in order to realize a specific amount on a given future date.
+                                                     YOUR FINANCIAL WORLD              cessful. And that’s probably a good thing. Since                                                                      Financial instruments promise future cash payments, so we need to know how to value
+                                                                                       the mid-1930s, Parker Brothers has sold more                                                                          those payments. Present value is an integral component of the computation of the price
+                                                                                       than 250 million Monopoly games, containing                                                                           of all financial instruments.
+                                                                                                                                                                                                                 To understand the calculation of present value, go back to future value. Remember
+                              When you go shopping, should you pay with a credit card  more or thanA 4     trillion
+                                                                                                        credit         Monopoly
+                                                                                                                card creates   a deferreddollars,
+                                                                                                                                             payment. orThemoreissuer
+                                                                                                                                                                                                             that at a 5 percent interest rate, the future value one year from now of a $100 invest-
+                              a debit card? To decide, you need to understand the               agrees to make the payment for you, and you repay the debt
+                              difference between the two. First make sure you knowthan
+                              one of your cards is which. Usually an ATM card (the one
+                                                                                        which twice
+                                                                                       ofthat
+                                                                                                later. U.S.    official
+                                                                                                       That sounds    good,currency
+                                                                                                                             but there’s ain circulation
+                                                                                                                                           catch. If you’re lateas
+                                                                                           2019.ing, there’s a late fee. And if you don’t pay the entire debt
+                                                                                                                                                                 pay-
+                                                                                                                                                                                  Lessons from the Crisis    ment today is $105. It follows that at this same 5 percent interest rate, the present value
+                                                                                                                                                                                                             of $105 one year from now is $100. All we did was invert the future value calculation.
+                              you got from the bank when you opened your checking
+                                                                                           When     we pay for our purchases in the real
+                                                                                                every month, you pay interest on the balance—at what is                                                          Reversing the calculation in general terms is just as easy. Start with the fact that the
+                                                                                                                                                                                  These boxes explain concepts or issues that are both
+                              account) is a debit card. But check to make sure.                 usually a very high interest rate. If you do pay your entire
+                                  What’s the real difference, from the shopper’s point world,     we card
+                                                                                            of credit    have  debtlots     of choices:
+                                                                                                                     every month,               crisp
+                                                                                                                                    however, there     is nonew
+                                                                                                                                                             late fee
+                                                                                                                                                                                                             future value of a payment equals the current investment times one plus the interest
+                              view? A debit card works just like a check, only faster.$20
+                                                                                        When bills,
+                                                                                                and no credit
+                                                                                                          interestcards,     debityou
+                                                                                                                   charge. Hence,     cards,
+                                                                                                                                          get an checks,
+                                                                                                                                                  interest-freeorloan                                        rate: FV = PV × (1 + i) [equation (1)]. Divide both sides of this expression by (1 + i)
+                              you write a paper check, it usually takes a day or two to go
+                              through
+                                ParkertheBrothers’s
+                                             system. A debit                           more
+                                                                                                from the time you make the purchase to the time you pay the
+                                                                                               complicated        electronic       methods.      Regardless
+                                                               card transaction goes through balance. If you can pay off your credit cards in full and on
+                                                         bestselling
+                                                                                                                                                                                  integral to the chapter and central to understanding how
+                                                                                                                                                                                                             to get an expression for how much we need to invest today to realize the future value
+                                                                                                                                                                                                             one year from today. The result is
+                              right away. The electronic message gets to your bank of      the choice
+                                                                                                time, it’s towe
+                                                                                                              yourmake,       weto use
+                                                                                                                                   arethem.
+                                                                                                                                          using money to
+                                                                                                                                                                                  the financial crisis of 2007–2009 and the subsequent
+                                                                                       on the                       advantage
+                                board                                                                                                                                                                                                                    FV
+                                      day,game.                                                                                                                                                                                                  PV = ______                                       (3)
+                              same
+                                                                                       buy ourThey
+                                            and your account is debited immediately. So, if
+                              you want to use your debit card, your account balance has to
+                                                                                                   food      and clothes and pay our bills. To
+                                                                                                    Credit cards have another advantage over debit cards.
+                                                                                                       help you build a credit history, which you’ll need when
+                                                                                                                                                                                                                                                       (1 + i)
+                                                                                       make
+                                                                                          and sure    wecomes
+                                                                                                            can do     it, thousands       ofBecause
+                                                                                                                                               peopledebit work
+                                                                                                                                                                                  crisis in thePresent
+                                                                                                                                                                                                 eurovaluearea      transformed              thebyworld        ofinterest
+                                                                                                                                                                                                                                                                    money,
+                                Dave Donaldson/Alamy Stock Photo
+                              be higher than the payment you want to make. During               the time           to buy  a car or a house.                    cards                                       = Future  value of the payment divided  (One plus the         rate)
+                                through
+                              after           every
+                                     the financial      night,
+                                                   crisis        for inthe
+                                                          that began        payments
+                                                                         2007, debit card system
+                                                                                          use   arereally      never ofsleeps.
+                                                                                                     just extensions                And
+                                                                                                                            your bank       the volume
+                                                                                                                                        account,   they don’t ofshow
+
+                                                                                                                                                                                  banking, and financial markets.                       The      topics range from
+                              sharply outpaced credit card activity, as lenders and borrowers   potential lenders that you are creditworthy. In fact, some                                       In our example, we see that
+                                payments is astounding. The Federal Reserve reports that in 2016 there were nearly 150
+                              sought to slow the expansion (or even reduce the outstanding businesses, like car rental companies, require their custom-
+                                billion     noncash debt.payments made in the United ers         States,
+                                                                                                    to use less
+                                                                                                             credit than    12this
+                                                                                                                                percent
+                                                                                                                                   reason. of which were                                                                             $105
+                                                                                                                                                                                                                             FV = ______
+                                                                                                                                                                                                                           ______
+                              level)  of household                                                                  cards for                                                                                                             = $100
+                                paper checks. That means something like 69 million paper checks and over 500 million
+                                electronic payments were processed on an average business day. And, regardless of how
+                                                                                                                                                                                  specific aspects       of the crisis            such as shadow banks and
+                                                                                                                                                                                                                           (1 + i) (1.05)
+                                                                                                                                                                                              so the present value of $105 one year from now, at a 5 percent interest rate, is
+                                you choose to pay,            the that
+                                                          ensure   pathresources
+                                                                          that thearepayment
+                                                                                       allocatedfollows       is pretty
+                                                                                                  to their best            complicated.
+                                                                                                                   uses. What     matters are the relative prices                 central bank     policy responses to broad concepts like
+                                                                                                                                                                                              indeed $100.
+
+                          Your Financial
+                                   that productWorld
+                                   of goods and services. When the
+                                                                 22price of one product is higher than the price of another,
+                                               is worth more to both producers and consumers. Using dollars makes these                                                           liquidity, leverage, sovereign default, and systemic risk.
+                                                        comparisons easy. Imagine what would happen if we needed to compute relative prices                                                                                                                                                 Financial Instruments         l 49
+                          These boxes forshow        students that the concepts taught in the
+                                            each pair of goods. With two goods, we would need only one price. With three goods,
+                                        we would need three prices. But with 100 goods, we would need 4,950 prices, and with                                           cec26786_ch04_073-100.indd 78                                                                                                                             01/10/19 2:10 PM
+
+
+                          text are relevant     to   their50 million
+                                        would need nearly        everyday           lives.
+                                                                         prices. Using money asAmong
+                                                                                                a yardstick andthe
+                                                                                                      1
+                                                                                                                quotingtopics
+                                        10,000 goods (substantially less than the 42,000 products in a typical supermarket), we
+                                                                                                                        all prices
+_ch02_022-043.indd 22                                                                                                                                                    30/09/19 1:30 PM                    Leverage
+                          covered are the      importance of saving for retirement, the
+                                        in dollars certainly is easier.
+                                                                                                                                                                                                             LESSONS FROM THE CRISIS
+                          risk in takingStore
+                                           on aofvariable-rate
+                                                      Value                      mortgage, the desirability
+                                        For money to function as a means of payment, it has to be a store of value, too. That
+                          of owning a diversified
+                                        is, if we are going to portfolio,           and
+                                                                 use money to pay for  goodstechniques
+                                                                                             and services, then itfor
+                                                                                                                   must retain its
+                                                                                                                                                                                        Households and firms often borrow to make investments. Ob-
+                                                                                                                                                                                        taining a mortgage for a new home or selling a corporate
+                                                                                                                                                                                                                                                              When highly leveraged financial institutions experience a
+                                                                                                                                                                                                                                                          loss, they usually try to reduce their leverage—that is, to
+                                        worth from day to day. Sellers are much less likely to accept things that are perishable,
+                          getting the most      out      of theSo the financial
+                                                                        means of paymentnews.
+                                                                                                                                                                                        bond to build a new plant are common examples. The use of         deleverage—by selling assets and issuing securities that
+                                        like milk  or lettuce.                           has to be durable and capable of trans-                                                        borrowing to finance part of an investment is called leverage.*   raise their net worth (see accompanying figure). However,
+                                                        ferring purchasing power from one day to the next. Paper currency does degrade with                                             Leverage played a key role in the financial crisis of 2007–       everyone in the financial system cannot deleverage at once.
+                                                                                                                                                                                        2009, so it is worth understanding how leverage relates to        When too many institutions try to sell assets simultaneously,
+                                                        use ($1 bills have an estimated life span of 70 months in circulation), but regardless of                                       risk and how it can make the financial system vulnerable.         their efforts will almost surely prove counterproductive: fall-
+                                                        its physical condition, it is usually accepted at face value in transactions.                                                        Modern economies rely heavily on borrowing to make           ing prices will mean more losses, diminishing their net worth
+                                                            Of course, money is not the only store of value. We hold our wealth in lots of other                                        investments. They are all leveraged. Yet, the more leverage,      further, raising leverage, and making the assets they hold
+                                                        forms—stocks, bonds, houses, even cars. Many of these are actually preferable to                                                the greater the risk that an adverse surprise will lead to        seem riskier, thereby compelling further sales.
+                                                        money as stores of value. Some, like bonds, pay higher interest rates than money.                                               bankruptcy. If two households own houses of the same                  This “paradox of leverage” reinforces the destabilizing li-
+                                                                                                                                                                                        value, the one that has borrowed more—the one that is more        quidity spiral discussed in Chapter 2 (see Lessons from the
+                                                        Others, like stocks, offer the potential for appreciation in nominal value, which money                                         highly leveraged and has less net worth—is the more likely        Crisis: Market Liquidity, Funding Liquidity, and Making Mar-
+                                                                                                                                                                                        to default during a temporary slump in income. This example       kets). Both spirals feed a vicious cycle of falling prices and
+                                                        1
+                                                         The general formula is that for n goods we need n(n − 1)/2 prices, so for 10,000 goods, the number would be                    could apply equally well to firms, financial institutions, or     widespread deleveraging that was a hallmark of the financial
+                                                        10,000(9,999)/2 = 49,995,000.                                                                                                   even countries.                                                   crisis of 2007–2009. The financial system steadied only af-
+                                                                                                                                                                                             Financial institutions are much more highly leveraged        ter massive government interventions in response to the
+                                                                                                                                                                                        than households or firms, typically owning assets of about        plunge of many asset prices.
+                                                                                                                                                                                        10 times their net worth. During the crisis, some important fi-
+                                                                                                                                                                                        nancial firms leveraged more than 30 times their net worth.†      *For a technical definition of leverage, see the Tools of the Trade
+                                                                                                                                                                                        Such high leverage meant that these firms would be vulner-        box in Chapter 5. For the evolution of U.S. commercial bank
+                                                                                                                                                                                        able even to a minor decline in the value of their assets. For    leverage, look at the FRED data series “EQTA.”
+                                                                                                                                                                                        example, when a borrower is leveraged more than 30 times,         †
+                                                                                                                                                                                                                                                            A bank’s net worth—its assets minus liabilities—is commonly
+                  cec26786_ch02_022-043.indd 24                                                                                                                                         a drop
+                                                                                                                                                                               30/09/19 1:30 PM as small as 3 percent in asset prices could eliminate     known as bank capital. We will discuss this in more detail in
+                                                                                                                                                                                        the cushion created by the net worth and lead to bankruptcy.      Chapter 12.
+
+
+                                                                                                                                                                                                                                           Deleveraging Spiral
+
+
+                                                                                                                                                                                                                                                     Bank
+
+
+--- PDF 14 ---
+          34       l      Chapter 2 Money and the Payments System
+
+
+
+
+                                                          Virtual Frenzies: Bitcoin and Blockchain
+                                                          MONEY AND BANKING BLOG
+
+
+             Bitcoin is the oldest and most prominent of more than                           Let’s have a closer look at Bitcoin itself. Some coun-
+             2,500 cryptocurrencies—sometimes called “virtual cur- tries classify Bitcoin as a commodity, subjecting it to capi-
+             rencies”—that have come into existence since 2008. Devo- tal gains taxation, or severely restricting its use. In no
+             tees hope these “tokens” will revolutionize many aspects country can Bitcoin be widely exchanged for goods and
+             of finance, including everyday payments. Cryptocurren- services. As a result, in early 2019 Bitcoin accounted for
+             cies like Bitcoin are a type of digital currency based on a less than 200 thousand daily transactions globally, com-
+             peer-to-peer network designed to allow for the verification pared with more than 500 million dollar transactions in the
+             of transfers without the need for a government authority or United States alone.
+             any trusted third party. The technology used to record                          Bitcoin’s value is extremely unstable: The dollar value of
+             ownership—blockchain—is an ever-growing, encrypted a single Bitcoin surged from just pennies in 2010 to nearly
+             public ledger of transactions spread over a network of $20,000 at the peak in December 2017, before plunging
+             computers. Promoters of this “distributed ledger technol- back below $3,200 a year later. Since 2014, the daily per-                                                                               Measuring Money l 37
+             ogy” believe that it will have broad applications in sup- centage change in Bitcoin’s U.S. dollar value has ranged
+          Money
+             portingand     Banking
+                      payments           Blog
+                                in any currency.                                         from –22 percent to +32 percent. Had Bitcoin been em-
+                                                                                                                           The Consumer Price Index
+                 Advocates claim that Bitcoin and other cryptocurren- ployed as a unit of account                                            over this period, all other prices
+          One article per chapter is featured from the authors’ blog                                                       TOOLS OF THE TRADE
+             cies have two important advantages: (1) their value cannot would have been subject to enormous day-to-day swings.
+          at www.moneyandbanking.com.             These readings show
+             be undermined by government fiat (because its value is                          Initially,      Bitcoin’s anonymity made                                           it popular with
+          howcreated
+               concepts   introduced
+                      and controlled  byin
+                                         thethe  chapter
+                                             network      are applied
+                                                       of users and a settoof money launderers,
+                                                                                                    Understanding how to measure inflation is central to under-
+
+                                                                                                    eye on measures like thetax           evaders,
+                                                                                                                                            price index (CPI) to and
+                                                                                                                                                                       And for 2021, we get $165. Choosing 2020 as the base year,
+
+                                                                                                                                                                           drugCosttraffickers.
+                                                                                                    standing economics and finance. Most of us keep a close the index level in each year equals
+                                                                                                                                 consumer                        help                     of the basket in current year
+          contemporary     issuesnot
+                                   in by
+                                      money     and banking,
+                                                         and (2)including
+                                                                                                                                                                             CPI =                                         × 100                     ___________________________
+
+             unchanging rules,           government),               users can Perhaps the           powermost            notorious              users
+                                                                                                    gauge the value of our salary increases or the purchasing
+                                                                                                            of the money   we hold. And adjusting             offorBitcoin
+                                                                                                                                                    interest rates                     were partici-
+                                                                                                                                                                                      Cost of the basket in base year
+                                                                                                                                                                       The result of this computation is the fifth column of the table.
+
+          changes
+             remaininanonymous
+                       technology,    regulation,   and the electronically
+                                                              mechanisms ofpants in theThe CPIonline
+                                                                                                    inflation is critical for making investment decisions. (See
+                                  while  making payments                                            Chapter   4.)               black market known
+                                                                                                                  is designed to answer the following question:
+                                                                                                                                                                                    as Silk Road,
+                                                                                                                                                                            Finally, we can use the index number to compute the in-
+                                                                                                                                                                       flation rate from the previous year. From 2020 to 2021, this
+
+             and efficiently.
+          monetary    policy.                                                            which theHow  U.S.         government shut downmeans
+                                                                                                          much more would it cost for people to purchase today
+                                                                                                    the same basket of goods and services that they actually
+                                                                                                                                                                          in       2013. In
+                                                                                                                                                                                 that
+
+                                                                                                                                                                          Inflation rate 2021 =
+                                                                                                                                                                                                       2016,
+                                                                                                                                                                                                  CPI in 2021 − CPI in 2020
+                                                                                                                                                                                                                                  × 100                           _____________________
+
+                 However, cryptocurrencies lack the three key charac- most Bitcoin                            currency the CPI, everytransactions                  wereUsing executed                on2.2ex-
+                                                                                                    bought at some fixed time in the past?                                                                CPI in 2020
+                                                                                                        To calculate                  few years statisticians at the            the numbers from Table           to compute the inflation
+
+             teristics of money: They are not a commonly accepted changes in                               China,
+                                                                                                                bought. This probably
+                                                                                                                              gives us the basket of to
+                                                                                                                                                      goodsget
+                                                                                                                                                             and ser-around government
+                                                                                                    Bureau of Labor Statistics (BLS) survey people to find out rate in 2021, we get that
+                                                                                                    what they                                                                              110 − 100                                                      ________
+                                                                                                    vices bought by the typical consumer. Next, every month the                                      × 100 = 10%
+                                                                                                                                                                                              100
+             means of exchange, do not provide a reliable         unit of ac- controls on
+                                                             Applying Present Value l 85
+                                                                                                            moving
+                                                                                                    BLS collects  information oncapital             out
+                                                                                                                                  the prices of thousands   ofof
+                                                                                                                                                               goodsthe
+                                                                                                    and services—everything from breakfast cereal to gasoline to
+                                                                                                                                                                       and forcountry.
+                                                                                                                                                                                  2022 the result is A year
+
+             count, and do not offer a stable store of value. As for later, thewashing              theChinese                government
+                                                                                                                                 surveys allows statisticians virtually              banned             these
+                                                                                                              machines to the cost of cable television. Combining                          120 − 110                                                      ________
+                                                                                                                                                                                                     × 100 = 9.1%
+                                                                                                                                                                                              110
+                                                                                                         expenditure and price                                to com-
+                                                                                                                                                                       (These numbers are just for illustration. The U.S. inflation rate
+             blockchain,
+                       How extensive
+                           Much Is Ourexperimentation      is underway to transactions.
+                                                                                                    pute the current cost of the basket. Finally, this current cost is
+                                        Distant Future Worth?                                       compared to a benchmark to yield an index. And the percent-
+                                                                                                    age change in this index is a measure of inflation.
+                                                                                                                                                                       is closer to 2 percent.)
+                                                                                                                                                                            Inflation measured using the CPI tells us how much more
+             determine    whether
+                       APPLYING THEitCONCEPT
+                                       can beat out existing payments                        Other people
+                                                                                                     governments
+                                                                                                        To see how this works, let’salso        have
+                                                                                                                                       look at an  example. paid
+                                                                                                                                                             Assume greater
+                                                                                                             spend 25 percent of their income on food, 50 per-
+                                                                                                                                                                                          attention to
+                                                                                                                                                                       money we need to give people to restore the purchasing
+                                                                                                                                                                       power they had in the earlier period when the survey
+
+             mechanisms.                                                                 activity incent
+                                                                                                       digital           currencies in recent years.
+                                                                                                          on housing, and 25 percent on transportation. That’s         was
+                                                                                                                                                                                       And, despite
+                                                                                                                                                                              done. But adjustments in wages based on fixed-
+                                                                                                    the survey information. Examples of the prices are in expenditure-weight inflation indexes like the CPI are known to
+                                                                                                                                                                           Table 2.2. Importantly, these are the prices of exactly the   overcompensate people in an unintended way. This overstate-
+             Many people worry about the challenges their descend-                 What discount rate should we use to value things in the
+                                                                                                                                                                           same bundle of food, the same size and quality of housing,    ment of inflation comes from what is known as substitution
+             ants will face. There are plenty of things to fret about, rang-   distant future? For questions like this, economists usually                                                                                               bias. Because inflation is not uniform, the prices of some prod-
+                                                                                                                                                                           and the same transportation for each year.
+             ing from the threat of rising sea levels in this century to the   look at market prices.                                                                                                                                    ucts will increase by more than the prices of others. People can
+                                                                                                                                                                               Using the numbers in Table 2.2 we can compute the cost
+             long-range challenge of managing radioactive waste,                   Various measures suggest that the appropriate rate is in                                                                                              escape some of the inflation by substituting goods and ser-
+                                                                                                                                                                           of the basket of goods in each year:
+             which can be toxic for many thousands of years. Physicist         the range of 1 to 2½ percent. For example, in recent years                                                                                                vices that have sustained less inflation for those that have sus-
+             Stephen Hawking has argued that human beings “won’t               the long-term U.S. Treasury inflation-indexed bond yield has                                Cost of the basket in 2020                                    tained more. By assuming that any substitution makes people
+             survive another 1,000 years without escaping our fragile          averaged around 1 percent. At the upper end of the range,                                      = 0.25 × Price of food + 0.5 × Price of housing            worse off, the index overstates the impact of price changes. To
+             planet.”                                                          research examining land leases with several hundred years                                            + 0.25 × Price of transportation
+                                                                                                                                                                                                                                         address this problem, and take into account changes in spend-
+
+                                                         them together, and invest them in short-term marketable debt issued by large corpora-
+                  How much ought we be willing to spend now to avoid
+             damage 100 years from now that will cost $1 at that
+                                                                               of maturity points to a rate close to 2½ percent.
+                                                                                   Policy disagreements among serious analysts of climate                                     = 0.25 × $100 + 0.5 × $200 + 0.25 × $100
+                                                                                                                                                                              = $150
+                                                                                                                                                                                                                                         ing patterns, the Bureau of Labor Statistics in 2002 began
+                                                                                                                                                                                                                                         changing the weights every two years. Nevertheless, many
+                                                                                                                                                                                                                                         economists believe that the CPI still overstates inflation.
+                                                         tions. Money-market mutual fund shares can be issued by nonbank financial interme-
+             time? The answer depends on many factors, including the           change are closely related to their views on the appropriate
+             relative affluence of our descendants, the degree of uncer-       discount rate. One well-known report applied a relatively low
+             tainty about the future, and the possibility of existential       discount rate of 1.4 percent and called for a large tax on car-
+             threats.
+                                                         diaries, such as brokerage firms. They do carry
+                  To simplify the question, suppose that the only thing we
+                                                                                                                               Table 2.2
+                                                                               bon emissions to limit future losses from climate change. A
+                                                                                                                                          check-writing                  privileges. M2 is the
+                                                                                                                                           Computing the Consumer Price Index
+                                                                               different analysis used a relatively high 4.3 percent discount
+
+                                                         most commonly quoted monetary aggregate in the United States, because its move-
+             care about is the present value of the expected losses asso-
+             ciated with a preventable future disaster. In that case, the
+                                                                               rate and called for a carbon tax only about one-tenth the
+                                                                               level implied by the 1.4 percent rate analysis. Why? The low
+                                                                                                                                                                                                    Price of           Price of        Price of                  Cost of              Consumer
+
+                                                         ments are most closely related to interest rates and economic growth.
+             discount rate we use is critical for determining what we          discount rate puts a great deal more weight on losses that
+                                                                                                                                                                                      Year           Food              Housing      Transportation             the Basket             Price Index
+             should do today. For example, for a disaster that is 100 years    are predicted to occur hundreds of years in the future.
+             away, the value today of a $1 future loss at an annual dis-           Of course, it’s not just about discount rates. It’s about the                                     2020            $100               $200             $100                     $150                    100
+                                                               To clarify what the monetary aggregates mean, let’s compare their size to the size
+             count rate of 1 percent is $0.37. But at a discount rate of
+             2 percent, the present value drops to $0.14. And at 4 percent,
+                                                                               scale of future losses, too. If policy actions today can prevent a
+                                                                               calamity that threatens life on earth, then people might judge the
+                                                                                                                                                                                     2021
+                                                                                                                                                                                     2022
+                                                                                                                                                                                                       110
+                                                                                                                                                                                                       120
+                                                                                                                                                                                                                         205
+                                                                                                                                                                                                                         210
+                                                                                                                                                                                                                                          140
+                                                                                                                                                                                                                                          180
+                                                                                                                                                                                                                                                                    165
+                                                                                                                                                                                                                                                                    180
+                                                                                                                                                                                                                                                                                          110
+                                                                                                                                                                                                                                                                                          120
+             day would not make economic sense.          of the economy. In the fourth quarter of 2018, nominal U.S. gross domestic product
+             it is less than $0.02. Spending more than these amounts to-       appropriate discount rate to be quite low because they would
+                                                                               not weight the value of future lives any lower than their own.
+
+
+          Applying the Concept                           (GDP) was $20.501 trillion. Putting that number into the same units as those in
+                                                         Table 2.1, that’s $20,501 billion. So GDP is nearly five and one-half times larger than
+          These         sections
+           be 7.3 percent.                 showcase
+                            Clearly, the three
+                                                         M1history
+                                               payments are better
+           to do quite a bit of work to figure it out.
+                                                                               and
+                                                                   for you as the
+                                                                   and more
+                                                                                   lender,examine
+                                                                                           but we had
+                                                                                        than 40 percent issues larger Tools
+                                                                                                                       than M2.
+                                                                                                                               of the Trade
+          relevant to the public policy                               debate          to   illustrate
+                                                                Which one of the M’s should weThese       how                 boxes
+                                                                                                                         use to          teach useful
+                                                                                                                                  understand             inflation?skills, That’s
+                                                                                                                                                                              including
+                                                                                                                                                    cec26786_ch02_022-043.indd 37
+                                                                                                                                                                                         how to
+                                                                                                                                                                                      a difficult
+                                                                                                                                                                                                                                                                                                             30/09/19 1:30 PM
+
+
+           Bonds: The Basics
+          ideas       introduced in the question
+           One of the most common uses of the concept
+                                                          chapter          can
+                                                            of present valuewhose
+                                                                                     be applied
+                                                                                            answer
+                                                                               is in the valuation  of
+                                                                                                        to
+                                                                                                        hasthe
+                                                                                                             changedreadoverbond
+                                                                                                                             time.and       stock
+                                                                                                                                        Until   the tables,
+                                                                                                                                                         early 1980s,   how toeconomists
+                                                                                                                                                                                  read charts, and
+                                                                                                                                                                                             and
+          world         around us. Subjects
+           is issued as part of an arrangement to borrow.
+                                                                 include central
+           bonds. A bond is a promise to make a series of payments on specific future dates. It
+                                                         policymakers
+                                                              In essence, the borrower,   looked  bank digital
+                                                                                            or seller, at M1. But withhow the
+                                                                                                                            to dointroduction
+                                                                                                                                      some simple          ofalgebraic
+                                                                                                                                                                substitutes        for standard
+                                                                                                                                                                                calculations.  Some
+          currency,             the replacement          checkingofissue
+                                                                       LIBOR,  accounts,   andbonds
+           gives an IOU to the lender, or buyer, in return for some amount of money. Both gov-
+           ernments and corporations       need to borrow,  so both         bonds.    Because      the
+                                                                                                     especially money-market
+                                                                                                                      provide brief    mutual
+                                                                                                                                          reviews    fund  of shares,
+                                                                                                                                                                materialM1      frombecame   less
+                                                                                                                                                                                      the principles
+          heightened               threat        to    Fed   independence.
+           create obligations, they are best thought of as legal contracts that (1) require the
+           borrower to make payments to the lender and (2) specify what happens if the bor-                           of economics course, such as the relationship between
+           rower fails to do so.
+               Because there are many different kinds of bonds, to focus our discussion, we’ll look                   the current account and the capital account in the
+           at the most common type, a coupon bond. Say a borrower who needs $100 “issues” or
+           sells a $100 coupon bond to a lender. The bond issuer is required to make annual pay-
+           ments, called coupon payments. The annual amount of those payments (expressed as a
+                                                                                                                      balance of payments.
+          percentage of the amount borrowed) is called the coupon rate. If the coupon rate is
+          5 percent, then the borrower/issuer pays the lender/bondholder $5 per year per $100
+          borrowed. The yearly coupon payment equals the coupon rate times the amount
+
+
+cec26786_ch02_022-043.indd 34                                                                                                                                                                                                                                                                           30/09/19 1:30 PM
+
+
+--- PDF 15 ---
+                   interest rate that occurs. Someone who is making an economically important decision
+                   will do so based on the expected real interest rate. Some time later, that person will look
+                   back and compute the real interest rate actually paid or received. The first of these is
+                   known as the ex ante real interest rate, meaning “before the fact.” The second, or real-
+                   ized rate, is the ex post real interest rate, meaning “after the fact.” We can always com-
+                   pute the ex post real interest rate, because we know the nominal interest rate and the
+                   inflation rate there actually was. But it is the ex ante real interest rate that we really want
+
+
+
+                 End-of-Chapter Features
+                   to know.
+
+
+
+
+                   Key Terms
+                   basis point, 77                          face value, 86                  par value, 86
+                   bond, 85                                 fixed-payment loan, 84          present value, 78
+                   compound interest, 75                    future value, 74                principal, 86
+                   coupon bond, 85                          internal rate of return, 83     real interest rate, 89
+                   coupon payment, 85                       maturity date, 86               rule of 72, 77
+                   coupon rate, 85                          nominal interest rate, 89       yield, 74
+
+
+
+                   Using FRED: Codes for Data in This Chapter                                                                        FRED Data Codes
+
+
+
+
+                                                                                                                                                                         www.moneyandbanking.com
+                                                                                                                                     The FRED table lists key economic and financial
+                            Data Series                                          FRED Data Code
+                            1-year Treasury bill rate                            TB1YR
+                                                                                                                                     ­indicators relevant to the chapter and the codes
+                            3-month Treasury bill rate                           TB3MS                                                by which they are accessed in FRED, the free
+                            Consumer price index                                 CPIAUCSL
+                            1-year inflation expectations (Michigan survey)      MICH                                                 online ­database provided by the Federal Reserve
+                            Brazil Treasury bill rate
+                            Brazil consumer price index
+                                                                                 INTGSTBRM193N
+                                                                                 BRACPIALLMINMEI
+                                                                                                                                      Bank of St. Louis. With the data codes, students
+                            China discount rate                                  INTDSRCNM193N                                        can use FRED to analyze key economic patterns
+                            China consumer price index
+                            10-year Treasury constant maturity rate
+                                                                                 CHNCPIALLMINMEI
+                                                                                 GS10
+                                                                                                                                      and illuminate the ideas in the chapter. See
+                            10-year Treasury inflation-indexed yield             FII10                                                Appendix B to Chapter 1 for help using FRED
+                            5-year Treasury constant maturity rate
+                            5-year Treasury inflation-indexed yield
+                                                                                 GS5
+                                                                                 FII5
+                                                                                                                                      and refer to www.mhhe.com/moneyandbanking6e.
+                                                                                                                                                                                                              Data Exploration   l 43
+
+
+
+                                                                                                                         22.   What are some of the main obstacles to a faster, more efficient U.S. payments
+                                                                                                                               system and how might they be overcome? (LO2)
+                                                                                                                         23.   What are some advantages and disadvantages of a government continuing to
+                                                                                                                               issue paper currency in the face of widespread financial innovation? (LO3)
+cec26786_ch04_073-100.indd 93                                                                                                                             01/10/19 2:11 PM
+
+                 Data Exploration                                                                                        Data Exploration                                                          ®
+
+
+
+
+                 Detailed end-of-chapter ­questions ask                                                           For detailed instructions on using Federal Reserve Economic Data (FRED) online to
+                                                                                             Conceptual and Analytical Problems    l the
+                                                                                                                                      41 following problems, visit www.mhhe.com/moneyandbanking6e
+                 students to use FRED to analyze                                                                  answer    each of
+                                                                                                                  and refer to the FRED Resources and Data Exploration Hints.
+                 economic             and financial data relevant to
+                      c. For financial institutions, market liquidity is the ease with which they can sell a
+                                                                                                                  1. Find the most recent level of M2 (FRED code: M2SL) and of the U.S. population
+                                                                                                                      (FRED code: POP). Compute the quantity of money divided by the population.
+                 the chapter.            Appendix
+                          security or loan                  B
+                                            for money. Funding
+                          borrow to acquire a security or loan.
+                                                                to    Chapter
+                                                                  liquidity            1
+                                                                             is the ease with which they can          (Note that M2 is measured in billions of dollars and population is in thousands of
+                                                                                                                      individuals.) Do you think your answer is large? Why? (LO1)
+                 provides
+                   2. Money makes  information
+                                       the payments systemon work.
+                                                                using  The FRED
+                                                                             payments system is the web of
+                                                                                                                  2. Reproduce Figure 2.3 from 1960 to the present, showing the percent change from a
+                      arrangements that allows people to exchange goods and services. There are three
+                 andbroadsets     the stage
+                              categories           forall its
+                                         of payments,           useusethereafter.
+                                                          of which       money at some stage.
+                                                                                                                      year ago of M1 (FRED code: M1SL) and M2 (FRED code: M2SL). Comment on
+                                                                                                                      the pattern over the last five years. Would it matter which of the two monetary
+                      a. Cash
+                 Theb. Checks
+                          Data Exploration questions have                                                             aggregates you looked at? (LO3)
+
+
+
+
+                                                                                                                                                                                                                                          www.moneyandbanking.com
+                      c. Electronic payments                                                                      3.  Which usually grows faster: M1 or M2? Produce a graph showing M2 divided by
+                 now       been
+                   3. In the  future, integrated
+                                      money will be usedinto     Connect
+                                                          less and  less as a means of payment.                       M1. When this ratio rises, M2 outpaces M1 and vice versa. What is the long-run
+                                                                                                                      pattern? Is the pattern stable? (LO3)
+                 as4. assignable            content
+                      To understand the links             to
+                                                between money  help      you
+                                                                 and inflation,  we need to measure the quan-
+                      tity of money in the economy. There are two basic measures of money: M1 and M2.             4. To complete payments, do you think people need more or less currency per dollar of
+                 incorporate real-time data into your
+                      M1,   the  narrowest  measure, includes   only  the  most  liquid assets. M2, a broader         transactions than they did 30 years ago? After stating your hypothesis, plot currency in
+                                                                                                                      circulation as a percent of GDP from 1990 (FRED Codes: CURRENCY and GDP).
+                      measure, includes assets not usable as a means of payment.
+                 course!
+                      a. Countries with high money growth have high inflation.                                        Was  your intuition consistent with the data? What might account for the trend you
+                         b. In countries with low inflation, money growth is a poor forecaster of inflation.               observe? (LO1)
+                                                                                                                         5. Plot the annual inflation rate based on the percent change from a year ago of the
+
+                   Conceptual and Analytical Problems                                                                ®
+                                                                                                                                            Conceptual and Analytical Problems
+                                                                                                                            consumer price index (FRED code: CPIAUCSL). Comment on the average and
+                                                                                                                            variability of inflation in the 1960s, the 1970s, and the most recent decade. (LO3)
+                                                                                                                                               www.moneyandbanking.com
+
+
+
+
+                       1.
+                        Describe four ways you could pay for your morning cup of coffee. What are the                                       Each chapter contains at least 18 conceptual and
+                        advantages and disadvantages of each? (LO2)
+                    2. You are the owner of a small sandwich shop. A buyer may offer one of several                                         ­analytical problems at varying levels of difficulty,
+                        payment methods: cash, a check drawn on a bank, a credit card, or a debit
+                        card. Which of these is the least costly for you? Explain why the others are more                                    which reinforce the lessons in the chapter. All of the
+                        expensive. (LO2)
+                    3. Explain how money encourages specialization, and how specialization improves
+                                                                                                                                             problems are available as assignable ­content within
+                        everyone’s standard of living. (LO3)                                                                                 Connect, McGraw-Hill’s ­homework ­management
+                    4.* Could the dollar still function as the unit of account in a totally cashless
+                        society? (LO2)                                                                                                       platform, organized around ­learning objectives to
+                    5. Give four examples of ACH transactions you might make. (LO2)
+                                                                                                                                             make it easier to plan, track, and ­analyze student
+                    6. A subset of European Union countries have adopted the euro, while the
+                        remaining member countries have retained their own currencies. What are the                                          performance across different learning outcomes.
+                        advantages of a common currency for someone who is traveling through
+                        Europe? (LO1)
+                    7. Why might each of the following commodities not serve well as money? (LO2)
+                        a. Tomatoes
+                        b. Bricks
+                        c. Cattle
+                    8. Despite the efforts of the U.S. Treasury and the Secret Service, someone discov-
+                        ers a cheap way to counterfeit $100 bills. What will be the impact of this discov-
+                        ery on the economy? (LO3)                                                cec26786_ch02_022-043.indd 43                                                                                                    30/09/19 1:30 PM
+                    9. What do you think accounts for the widespread adoption of mobile-based pay-
+                        ment services in emerging economies? (LO2)
+                   10. Over a nine-year period in the 16th century, King Henry VIII reduced the silver
+                        content of the British pound to one-sixth its initial value. Why do you think he did
+                   *
+                       Indicates more difficult problems.
+
+
+--- PDF 16 ---
+Acknowledgments
+
+I owe thanks to many more people than I can ­possibly        student who has sat in a classroom with me. Several
+list, including a large number of academics, central         deserve special mention for the time and effort they
+bankers, and financial market participants around            put into helping with the manuscript: Margaret Mary
+the world. A few of these deserve special mention.           McConnell of the Federal Reserve Bank of New York,
+I would like to thank Robert M. Solow, who set               Roisin O’Sullivan of Smith College, Stefan Krause for-
+me on the path doing economics as a 20-year-old              merly of the Banque de France, Lianfa Li of Peking
+undergraduate; George A. A   ­ kerlof, whose inspiration     University, Craig Evers of Brevan Howard, and
+still guides me, even more than 35 years after he            Georgios Karras of the University of Illinois at Chicago.
+signed my dissertation; William J. McDonough, who               And finally, there is my family; my wife, Ruth, and
+gave me the opportunity to watch and ask questions           our sons, Daniel and Ethan. For years they put up with
+from inside the Federal Reserve; Peter R. Fisher, who        my daily routine of writing, rewriting, and rewriting
+was my day-to-day guide to what I was seeing during          again and again. To them I owe the biggest thanks.
+my time at the Fed; and Jaime Caruana and Hervé
+­Hannoun, whose patience and understanding helped
+ me appreciate the global central bank community.                                     Stephen G. Cecchetti
+     Of my numerous collaborators and colleagues                             Brandeis International Business School
+ over the years, Nelson Mark (now at the University
+ of Notre Dame) is the most important. In addition,
+ ­Michael Bryan has been a constant source of help                  There is not enough space here to thank the many
+  and encouragement, as have numerous friends                people who taught me about financial markets and
+  throughout the central banking world.                      ­institutions during my more than two decades of
+     Among all of the professional colleagues who             work as a market economist, but a few deserve spe-
+  took the time to read early versions of the manu-           cial mention. Hugh Patrick was an inspiration in
+  script, I would like to single out Jim Fackler for his      graduate school and remains a friend and guide. In
+  insight and patience. This book is much better for the      the financial markets, I benefited especially from the
+  time he generously devoted to correcting my logical         wisdom of Henry Kaufman and the economists he
+  mistakes and helping ensure that the exercises would        gathered at S  ­ alomon Brothers in the 1980s—Richard
+  reinforce the lessons in each chapter.                      Berner, Robert ­     D iClemente, John Lipsky, and
+     Without all the people at McGraw-Hill this book          ­Nicholas Sargen. The members of the economics
+  would never have been written. Gary Burke and Paul           team that I was privileged to lead at Salomon (and
+  Shensa first convinced me that I could write this book,      later at Citi) continued my education, including
+  and then taught me how. Erin Strathmann worked tire-         (among many others) Lewis A        ­ lexander, Robert
+  lessly (and daily) to improve the book. Betty Morgan         D iClemente, Don Hanna, Michael Saunders,
+                                                               ­
+  made my sentences and paragraphs readable. And all           ­Christopher ­Wiegand, and Jeffrey Young.
+  of the people in production and design turned the                 I also owe an extraordinary debt to my colleagues
+  words and charts into a beautiful, readable book. Start-      at the New York University ­Leonard N. Stern School
+  ing with the third edition, Gregg Forte has made              of Business, who welcomed me, gave me the privi-
+  notable contributions through his skilled editing of the      lege of teaching excellent students, and entrusted me
+  manuscript. And, for the last three editions, Christina       with the honor of directing Stern’s ­Center for Global
+  Kouvelis has done the hard work of ensuring everyone          Economy and Business (www.stern.nyu.edu/cgeb).
+  maintained the high standard.                                 For their sustained ­support and guidance, I thank for-
+     Without students, universities would not exist. And        mer Deans Thomas Cooley and Peter Henry, current
+  without a class in money and banking to teach, I would        Dean Rangarajan Sundaram, former Vice Dean Ingo
+  not have written this book. I owe a debt to every             Walter, and the distinguished current and former
+                                                                                                                    xv
+
+
+--- PDF 17 ---
+xvi   l Acknowledgments
+
+
+
+chairs of the Department of Economics—the late            especially grateful for the support of Viral Acharya,
+­David Backus, Luis Cabral, Paul Wachtel, Lawrence        Gian Luca C   ­ lementi, Christopher Conlon, Robert
+ White, and Stanley Zin. David Backus, Kim Ruhl,          Engle, Mervyn King, Matthew Richardson, Maher
+ and Michael Waugh gave me the tools to teach MBA         Said, Bruce Tuckman, Vaidyanathan Venkateswaran,
+ students. Jennifer Carpenter has been my partner as      and Robert Whitelaw. Finally, many thanks to Corey
+ Associate Director of the Center for Global Economy      Feldman for his research assistance in the preparation
+ and Business, while John Asker, Michael Dickstein,       of this sixth edition.
+ Thomas Philippon, Kim Ruhl, Laura V        ­ eldkamp,       Of course, my greatest debt is to my wife, Elvira
+ Paul Wachtel, and Michael Waugh have all served as       Pratsch. I also thank my sister and brother, Sharon
+ Center research group co­ordinators and my advisors.     and Andy.
+ Jonathan ­  Robidoux keeps the Center operating
+ ­efficiently and with a smile each day. Many o­ thers
+  deserve thanks for making Stern the thriving research                           Kermit L. Schoenholtz
+  and teaching environment that it is today, but I am       New York University Leonard N. Stern School of Business
+
+
+
+Reviewers
+Thank you to the following contributing reviewers for this and previous editions.
+Burton Abrams                                             James Butkiewicz
+University of Delaware                                    University of Delaware
+Douglas Agbetsiafa                                        Anne Bynoe
+Indiana University at South Bend                          Pace University
+Pedro Albuquerque                                         Douglas Campbell
+University of Minnesota at Duluth                         University of Memphis
+Abdiweli Ali                                              Giorgio Canarella
+Niagara University                                        California State University at Los Angeles
+Thomas Martin Allen                                       Bolong Cao
+Texas A&M University                                      Ohio University, Athens
+Brad Altmeyer                                             Tina Carter
+South Texas College                                       Florida State University at Tallahassee
+Harjit Arora                                              Matthew S. Chambers
+Lemoyne College                                           Towson University
+Foued Ayari                                               Dong Cho
+Bernard M. Baruch College                                 Wichita State University
+Raymond Batina                                            Nan-Ting Chou
+Washington State University                               University of Louisville
+Clare Battista                                            Isabelle Delalex
+California Polytechnic State University                   Pace University
+Larry Belcher                                             Mamit Deme
+Stetson University                                        Middle Tennessee State University
+Robert Boatler                                            Seija Doolittle
+Texas Christian University                                Delaware Technical Community College at Wilmington
+Christa Bouwman                                           David Doorn
+Case Western Reserve University                           University of Minnesota at Duluth
+Latanya Brown                                             Demissew Ejara
+Bowie State University                                    William Patterson University
+
+
+--- PDF 18 ---
+                                                                          Acknowledgments l xvii
+
+
+
+Paul Emberton                                 Chris Kauffman
+Texas State University                        University of Tennessee at Knoxville
+Robert Eyler                                  Andrew Kayanga
+Sonoma State University                       Dillard University
+Gregory Fallon                                Kathy Kelly
+College of Saint Joseph                       University of Texas, Arlington
+Richard Froyen                                Kent Kimbrough
+University of North Carolina at Chapel Hill   Duke University
+Craig Furfine                                 Paul Kubik
+University of Chicago                         DePaul University
+William Gavin                                 Pamela Labadie
+Washington University                         George Washington University
+Ronald Gilbert                                Larry Landrum
+Texas Tech University                         Virginia Western Community College
+Gregory Gilpin                                Tom Lee
+Montana State University                      California State University at Northridge
+Lance Girton                                  Serpil Leveen
+University of Utah                            Montclair State University
+Stuart Glosser                                Melissa Lind
+University of Wisconsin at Whitewater         University of Texas, Arlington
+William L. Goffe                              Mark Longbrake
+Oswego State University of New York           Ohio State University at Columbus
+Stephan F. Gohmann                            Fiona Maclachlan
+University of Louisville                      Manhattan College
+Elias Grivoyannis                             Michael Madaris
+Yeshiva University                            William Carey University
+Joanne Guo                                    Ellie Mafi-Kreft
+Pace University                               Indiana University
+David Hammes                                  Vincent Marra
+University of Hawaii at Hilo                  University of Delaware
+Scott Hein                                    Ralph May
+Texas Tech University                         Southwestern Oklahoma State University
+Ying Huang                                    Robert McAuliffe
+Manhattan College                             Babson College
+Julio Huato                                   Chris McHugh
+Saint Francis College                         Tufts University
+Owen Irvine                                   Alice Melkumian
+Michigan State University at East Lansing     Western Illinois University
+Aaron Jackson                                 Alla Melkumian
+Bentley College                               Western Illinois University
+Yongbok Jeon                                  Jianjun Miao
+University of Utah at Salt Lake City          Boston University
+George Jouganatos                             Peter Mikek
+California State University at Sacramento     Wabash College
+Chulhee Jun                                   Ossama Mikhail
+Texas Technical University                    University of Central Florida
+
+
+--- PDF 19 ---
+xviii   l Acknowledgments
+
+
+
+Kyoko Mona                                Souren Soumbatiants
+Bernard M. Baruch College                 Franklin University
+Ray Nelson                                Richard Stahl
+Brigham Young University                  Louisiana State University at Baton Rouge
+James Nguyen                              Herman Stekler
+Southeastern Louisiana University         George Washington University
+David O’Dell                              Mark Strazicich
+McPherson College                         Appalachian State University
+Roisin O’Sullivan                         William Stronge
+Smith College                             Florida Atlantic University
+Dennis O’Toole                            Scott Sumner
+Virginia Commonwealth University          Bentley College
+Daniel Owens                              Philip Tew
+University of North Dakota                University of Mississippi
+Hilde Patron-Boenheim                     Sven N. Thommesen
+University of West Georgia                Auburn University
+Robert Pennington                         Mark Toma
+University of Central Florida             University of Kentucky at Lexington
+Dennis Placone                            Kudret Topyan
+Clemson University                        Manhattan College
+Hamideh Ramjerdi                          Brian Trinque
+William Patterson University              University of Texas at Austin
+Ronald Ratti                              Rubina Vohra
+University of Western Sydney, Australia   New Jersey City University
+Rupert Rhodd                              William Walsh
+Florida Atlantic University at Davie      University of St. Thomas
+Kevin Salyer                              Dale Warmingham
+University of California, Davis           Rutgers University at New Brunswick
+Julia Sampson                             Chao Wei
+Malone College                            George Washington University
+Drew Saunders                             Mark Weinstock
+Purdue University                         Pace University
+Timothy J. Schibik                        Niklas Westelius
+University of Southern Indiana            Hunter College
+Sherrill Shaffer                          Eugene White
+University of Wyoming                     Rutgers University at New Brunswick
+Eugene Sherman                            Ruhai Wu
+Baruch College                            Florida Atlantic University
+Anna Shostya                              King-Yuen Yik
+Bernard M. Baruch College                 University of Michigan at Ann Arbor
+Harindar Singh                            Derek Yonai
+Grand Valley State University             Campbell University
+Robert Sonora
+Fort Lewis College
+
+
+--- PDF 20 ---
+Brief Contents
+
+Part I        Money and the Financial System
+chapter 1     An Introduction to Money and the Financial System 1
+chapter 2     Money and the Payments System 22
+chapter 3     Financial Instruments, Financial Markets, and Financial Institutions 44
+
+Part II       Interest Rates, Financial Instruments, and Financial Markets
+chapter 4     Future Value, Present Value, and Interest Rates 73
+chapter 5     Understanding Risk 101
+chapter 6     Bonds, Bond Prices, and the Determination of Interest Rates 129
+chapter 7     The Risk and Term Structure of Interest Rates 158
+chapter 8     Stocks, Stock Markets, and Market Efficiency 184
+chapter 9     Derivatives: Futures, Options, and Swaps 211
+chapter 1 0   Foreign Exchange 238
+
+Part III      Financial Institutions
+chapter 1 1   The Economics of Financial Intermediation 266
+chapter 1 2   Depository Institutions: Banks and Bank Management      294
+chapter 1 3   Financial Industry Structure 326
+chapter 1 4   Regulating the Financial System 357
+
+Part IV       Central Banks, Monetary Policy, and Financial Stability
+chapter 1 5   Central Banks in the World Today 393
+chapter 1 6   The Structure of Central Banks: The Federal Reserve and the European Central Bank 421
+chapter 1 7   The Central Bank Balance Sheet and the Money Supply Process 448
+chapter 1 8   Monetary Policy: Stabilizing the Domestic Economy 479
+chapter 1 9   Exchange Rate Policy and the Central Bank 521
+
+Part V        Modern Monetary Economics
+chapter 20    Money Growth, Money Demand, and Modern Monetary Policy 553
+chapter 2 1   Output, Inflation, and Monetary Policy 577
+chapter 22    Understanding Business Cycle Fluctuations 615
+chapter 23    Modern Monetary Policy and the Challenges Facing Central Bankers 647
+
+
+
+
+                                                                                                  xix
+
+
+--- PDF 21 ---
+                                                                       ®
+
+
+
+
+FOR INSTRUCTORS
+ You’re in the driver’s seat.
+ Want to build your own course? No problem. Prefer to use our turnkey,
+ prebuilt course? Easy. Want to make changes throughout the semester?
+                                                                                                                      65%
+ Sure. And you’ll save time with Connect’s auto-grading too.                                                          Less Time
+                                                                                                                      Grading
+
+                                                                           They’ll thank you for it.
+                                                                           Adaptive study resources like SmartBook® 2.0
+                                                                           help your students be better prepared in less
+                                                                           time. You can transform your class time from
+                                                                           dull definitions to dynamic debates. Find out
+                                                                           more about the powerful personalized learning
+                                                                           experience available in SmartBook 2.0 at
+                                                                           www.mheducation.com/highered/connect/
+                                                                           smartbook
+           Laptop: McGraw-Hill; Woman/dog: George Doyle/Getty Images
+
+
+
+
+      Make it simple,                                                              Solutions for your
+      make it affordable.                                                          challenges.
+      Connect makes it easy with seamless                                          A product isn’t a solution. Real
+      integration using any of the major                                           solutions are affordable, reliable,
+      Learning Management Systems—                                                 and come with training and
+      Blackboard®, Canvas, and D2L, among                                          ongoing support when you need it
+      others—to let you organize your course                                       and how you want it. Our Customer
+      in one convenient location. Give your                                        Experience Group can also help
+      students access to digital materials at                                      you troubleshoot tech problems—
+      a discount with our inclusive access                                         although Connect’s 99% uptime
+      program. Ask your McGraw-Hill                                                means you might not need to call
+      representative for more information.                                         them. See for yourself at status.
+                                                                                   mheducation.com
+      Padlock: Jobalou/Getty Images                                                 Checkmark: Jobalou/Getty Images
+
+
+--- PDF 22 ---
+                                                                                                   FOR STUDENTS
+Effective, efficient studying.
+Connect helps you be more productive with your study time and get better grades using tools like
+SmartBook 2.0, which highlights key concepts and creates a personalized study plan. Connect sets
+you up for success, so you walk into class with confidence and walk out with better grades.
+
+
+Study anytime, anywhere.                                                                             “I really liked this
+Download the free ReadAnywhere app and access                                                        app—it made it easy
+your online eBook or SmartBook 2.0 assignments                                                       to study when you
+when it’s convenient, even if you’re offline. And
+                                                                                                     don't have your text-
+since the app automatically syncs with your eBook
+and SmartBook 2.0 assignments in Connect, all of                                                     book in front of you.”
+your work is available every time you open it. Find
+out more at www.mheducation.com/readanywhere                                                         - Jordan Cunningham,
+                                                                                                     Eastern Washington University
+
+
+                                                                    No surprises.
+                                                                    The Connect Calendar and Reports tools keep you on track with
+                                                                    the work you need to get done and your assignment scores. Life
+                                                                    gets busy; Connect tools help you keep learning through it all.
+
+
+       Calendar: owattaphotos/Getty Images
+
+
+
+
+Learning for everyone.
+McGraw-Hill works directly with Accessibility Services
+Departments and faculty to meet the learning needs
+of all students. Please contact your Accessibility
+Services office and ask them to email
+accessibility@mheducation.com, or visit
+www.mheducation.com/about/accessibility
+for more information.
+
+Top: Jenner Images/Getty Images, Left: Hero Images/Getty Images, Right: Hero Images/Getty Images
+
+
+--- PDF 23 ---
+
+
+--- PDF 24 ---
+Contents
+
+About the Authors    iv                                   CHAPTER 2    MONEY AND THE PAYMENTS SYSTEM 22
+Preface v                                                 Money and How We Use It             23
+Learning Tools Walkthrough xii                                Means of Payment           23
+Acknowledgments      xv                                       Unit of Account       23
+Part I       Money and the Financial System                   Store of Value    24
+                                                          The Payments System        25
+CHAPTER 1    AN INTRODUCTION TO MONEY
+             AND THE FINANCIAL SYSTEM 1
+                                                              Commodity and Fiat Monies            25
+The Six Parts of the Financial System   2                     Checks   27
+The Five Core Principles of Money and Banking         4       Electronic Payments         29
+    Core Principle 1: Time Has Value    4                 The Future of Money        32
+    Core Principle 2: Risk Requires                       Measuring Money       32
+      Compensation 5                                      Key Terms    40
+    Core Principle 3: Information Is the Basis for        Using FRED: Codes for Data in This Chapter              40
+      Decisions 5                                         Chapter Lessons      40
+    Core Principle 4: Markets Determine Prices            Conceptual and Analytical Problems            41
+      and Allocate Resources 6
+                                                          Data Exploration     43
+    Core Principle 5: Stability Improves Welfare 7
+Special Features of This Book 8
+                                                          CHAPTER 3    FINANCIAL INSTRUMENTS,
+    Your Financial World 8                                             FINANCIAL MARKETS, AND
+    Applying the Concept 9                                             FINANCIAL INSTITUTIONS 44
+
+    Lessons from the Crisis    9                          Financial Instruments      46
+    Money and Banking Blog         10                         Uses of Financial Instruments         47
+    Tools of the Trade    10                                  Characteristics of Financial Instruments:
+                                                                Standardization and Information 48
+    End-of-Chapter Sections 12
+                                                              Underlying versus Derivative
+The Organization of This Book 12                                Instruments 50
+Key Terms 13                                                  A Primer for Valuing Financial
+Using FRED: Codes for Data in This Chapter       13             Instruments 50
+Chapter Lessons     14                                        Examples of Financial Instruments              51
+Conceptual and Analytical Problems 14                     Financial Markets 53
+Data Exploration 16                                           The Role of Financial Markets         54
+Appendix A to Chapter 1: Measuring Economic                   The Structure of Financial Markets             55
+  Activity, Prices, and the Inflation Rate 17                 Characteristics of a Well-Run Financial
+Appendix B to Chapter 1: Using FRED         20                  Market 62
+
+
+                                                                                                                  xxiii
+
+
+--- PDF 25 ---
+xxiv    l Contents
+
+
+
+Financial Institutions 63                             Reducing Risk through Diversification 116
+       The Role of Financial Institutions 64              Hedging Risk 117
+       The Structure of the Financial Industry   64       Spreading Risk 118
+Key Terms       68                                    Key Terms 122
+Using FRED: Codes for Data in This Chapter 68         Using FRED: Codes for Data in This Chapter       122
+Chapter Lessons 69                                    Chapter Lessons 122
+Conceptual and Analytical Problems 70                 Conceptual and Analytical Problems       123
+Data Exploration 72                                   Data Exploration     126
+                                                      Appendix to Chapter 5: The Mathematics of
+Part II         Interest Rates, Financial               Diversification 127
+                Instruments, and Financial            CHAPTER 6     BONDS, BOND PRICES, AND THE
+                Markets                                             DETERMINATION OF INTEREST
+                                                                    RATES 129
+CHAPTER 4       FUTURE VALUE, PRESENT VALUE,          Bond Prices   130
+                AND INTEREST RATES 73
+                                                         Zero-Coupon Bonds          130
+Valuing Monetary Payments Now
+  and in the Future 74                                   Fixed-Payment Loans            131
+    Future Value and Compound Interest 74                Coupon Bonds        132
+    Present Value 78                                     Consols     132
+Applying Present Value 82                             Bond Yields    133
+    Internal Rate of Return 83                           Yield to Maturity       133
+    Bonds: The Basics 85                                 Current Yield      134
+Real and Nominal Interest Rates 89                       Holding Period Returns          135
+Key Terms 93                                          The Bond Market and the Determination
+                                                        of Interest Rates 137
+Using FRED: Codes for Data in This Chapter 93
+                                                         Bond Supply, Bond Demand,
+Chapter Lessons 94
+                                                           and Equilibrium in the Bond Market         137
+Conceptual and Analytical Problems 94
+                                                         Factors That Shift Bond Supply        141
+Data Exploration  97
+                                                         Factors That Shift Bond Demand         142
+Appendix to Chapter 4: The Algebra of
+                                                         Understanding Changes in Equilibrium Bond
+  Present-Value Formulas 99
+                                                           Prices and Interest Rates 145
+CHAPTER 5       UNDERSTANDING RISK 101                Why Bonds Are Risky         146
+Defining Risk 102                                        Default Risk      147
+Measuring Risk 103                                       Inflation Risk     151
+    Possibilities, Probabilities, and                    Interest Rate Risk       152
+       Expected Value 103
+                                                      Key Terms     153
+    Measures of Risk 106
+                                                      Using FRED: Codes for Data in This Chapter       153
+Risk Aversion, the Risk Premium,
+   and the Risk-Return Tradeoff 113                   Chapter Lessons      154
+Sources of Risk:                                      Conceptual and Analytical Problems       154
+   Idiosyncratic and Systematic Risk 115              Data Exploration  157
+
+
+--- PDF 26 ---
+                                                                                                  Contents l xxv
+
+
+
+CHAPTER 7    THE RISK AND TERM STRUCTURE                 Key Terms 206
+             OF INTEREST RATES 158
+                                                         Using FRED: Codes for Data in This Chapter                206
+Ratings and the Risk Structure
+  of Interest Rates 159                                  Chapter Lessons     206
+    Bond Ratings 159                                     Conceptual and Analytical Problems 207
+    Commercial Paper Ratings 164                         Data Exploration    209
+    The Impact of Ratings on Yields    164
+                                                         CHAPTER 9    DERIVATIVES: FUTURES, OPTIONS,
+Differences in Tax Status and                                         AND SWAPS 211
+  Municipal Bonds 167
+                                                         The Basics: Defining Derivatives         212
+The Term Structure of Interest Rates   169
+                                                         Forwards and Futures 213
+    The Expectations Hypothesis 170
+                                                             Margin Accounts and Marking to Market             215
+    The Liquidity Premium Theory 173
+                                                             Hedging and Speculating with Futures            216
+The Information Content of Interest Rates        174
+                                                             Arbitrage and the Determinants of
+    Information in the Risk Structure of                       Futures Prices 217
+       Interest Rates 174
+                                                         Options   219
+    Information in the Term Structure of
+                                                             Calls, Puts, and All That: Definitions          219
+       Interest Rates 175
+                                                             Using Options    220
+Key Terms 178
+                                                             Pricing Options: Intrinsic Value and the
+Using FRED: Codes for Data in This Chapter         179         Time Value of the Option 223
+Chapter Lessons    179                                       The Value of Options: Some Examples             226
+Conceptual and Analytical Problems 180                   Swaps 227
+Data Exploration 182                                         Interest Rate Swaps     228
+                                                             Credit Default Swaps 232
+CHAPTER 8    STOCKS, STOCK MARKETS,
+             AND MARKET EFFICIENCY 184                   Key Terms    233
+The Essential Characteristics                            Using FRED: Codes for Data in This Chapter                233
+  of Common Stock 185                                    Chapter Lessons     233
+Measuring the Level of the Stock Market      188         Conceptual and Analytical Problems            235
+    The Dow Jones Industrial Average 189                 Data Exploration    237
+    The Standard & Poor’s 500 Index        189
+    Other U.S. Stock Market Indexes    191               CHAPTER 10 FOREIGN EXCHANGE 238
+    World Stock Indexes 191                              Foreign Exchange Basics      240
+Valuing Stocks 193                                           The Nominal Exchange Rate           240
+    Fundamental Value and the                                The Real Exchange Rate        241
+      Dividend-Discount Model 193                            Foreign Exchange Markets        244
+    Why Stocks Are Risky    195                          Exchange Rates in the Long Run          245
+    Risk and the Value of Stocks 196                         The Law of One Price     245
+    The Theory of Efficient Markets    199                   Purchasing Power Parity        246
+Investing in Stocks for the Long Run 200                 Exchange Rates in the Short Run         250
+The Stock Market’s Role in the Economy       203             The Supply of Dollars    250
+
+
+--- PDF 27 ---
+xxvi    l Contents
+
+
+
+       The Demand for Dollars    251                  CHAPTER 12 DEPOSITORY INSTITUTIONS:
+                                                                 BANKS AND BANK MANAGEMENT 294
+       Equilibrium in the Market for Dollars 252
+                                                      The Balance Sheet of Commercial Banks              295
+       Shifts in the Supply of and
+          Demand for Dollars 252                          Assets: Uses of Funds        295
+       Explaining Exchange Rate Movements 253             Liabilities: Sources of Funds      298
+Government Policy and                                     Bank Capital and Profitability      300
+  Foreign Exchange Intervention 255                       Off-Balance-Sheet Activities       305
+Key Terms      257                                    Bank Risk: Where It Comes from and
+Using FRED: Codes for Data in This Chapter 258          What to Do about It 306
+Chapter Lessons 258                                       Liquidity Risk    307
+Conceptual and Analytical Problems 259                    Credit Risk    310
+Data Exploration    262                                   Interest Rate Risk     311
+Appendix to Chapter 10: Interest Rate Parity and          Trading Risk     314
+  Short-Run Exchange Rate Determination 263               Cyber Risk and Other Operational Risks 316
+                                                          Other Risks      317
+Part III       Financial Institutions                 Key Terms    319
+CHAPTER 11 THE ECONOMICS OF                           Using FRED: Codes for Data in This Chapter               320
+           FINANCIAL INTERMEDIATION 266               Chapter Lessons      320
+The Role of Financial Intermediaries 268              Conceptual and Analytical Problems           321
+       Pooling Savings 271                            Data Exploration     325
+       Safekeeping, Payments System Access,
+          and Accounting 271
+                                                      CHAPTER 13 FINANCIAL INDUSTRY STRUCTURE 326
+       Providing Liquidity 273
+                                                      Banking Industry Structure       328
+       Diversifying Risk 274
+                                                          A Short History of U.S. Banking          328
+       Collecting and Processing Information    274
+                                                          Competition and Consolidation        330
+Information Asymmetries and
+   Information Costs 275                                  The Globalization of Banking        333
+       Adverse Selection 276                              The Future of Banks      336
+       Solving the Adverse Selection Problem 278      Nondepository Institutions       337
+       Moral Hazard: Problem and Solutions 281            Insurance Companies          338
+Financial Intermediaries and                              Pension Funds      344
+   Information Costs 284                                  Securities Firms: Brokers, Mutual Funds, and
+       Screening and Certifying to Reduce                   Investment Banks 346
+          Adverse Selection 285                           Finance Companies        347
+       Monitoring to Reduce Moral Hazard       286        Government-Sponsored Enterprises           348
+Key Terms      288                                    Key Terms    351
+Using FRED: Codes for Data in This Chapter 289        Using FRED: Codes for Data in This Chapter               352
+Chapter Lessons 289                                   Chapter Lessons      352
+Conceptual and Analytical Problems 290                Conceptual and Analytical Problems           353
+Data Exploration 292                                  Data Exploration     355
+
+
+--- PDF 28 ---
+                                                                                             Contents l xxvii
+
+
+
+CHAPTER 14 REGULATING THE FINANCIAL                       Low, Stable Inflation   400
+           SYSTEM 357
+                                                          High, Stable Real Growth      401
+The Sources and Consequences of Runs, Panics,
+  and Crises 359                                          Financial System Stability    402
+The Government Safety Net 363                             Interest Rate and Exchange Rate
+                                                             Stability 403
+    The Unique Role of Banks and
+      Shadow Banks 364                                Meeting the Challenge: Creating
+                                                        a Successful Central Bank 404
+    The Government as Lender of Last Resort     365
+                                                          The Need for Independence          406
+    Government Deposit Insurance     367
+                                                          The Need for Accountability
+    Problems Created by the Government                      and Transparency 407
+      Safety Net 368
+                                                          The Policy Framework, Policy Tradeoffs,
+Regulation and Supervision of the                           and Credibility 409
+  Financial System 370
+                                                          Decision Making by Committee 411
+    Restrictions on Competition 373
+                                                      Fitting Everything Together:
+    Asset Holding Restrictions and Minimum               Central Banks and Fiscal Policy       411
+      Capital Requirements 374
+                                                      Key Terms    415
+    Disclosure Requirements    375
+                                                      Using FRED: Codes for Data in This Chapter               416
+    Supervision and Examination 377
+                                                      Chapter Lessons    416
+    Stress Tests   377
+                                                      Conceptual and Analytical Problems           417
+    Evolving Challenges for Regulators
+      and Supervisors 381                             Data Exploration   419
+    Micro-Prudential versus                           CHAPTER 16 THE STRUCTURE OF CENTRAL
+      Macro-Prudential Regulation     382                        BANKS: THE FEDERAL RESERVE AND
+    Regulatory Reform: The                                       THE EUROPEAN CENTRAL BANK 421
+      Dodd-Frank Act of 2010 385                      The Structure of the Federal Reserve System          422
+Key Terms 388                                             The Federal Reserve Banks      423
+Using FRED: Codes for Data in This Chapter    388         The Board of Governors       425
+Chapter Lessons    389                                    The Federal Open Market Committee              428
+Conceptual and Analytical Problems 390                Assessing the Federal Reserve System’s
+Data Exploration 391                                    Structure 431
+                                                          Independence from Political Influence          432
+Part IV      Central Banks, Monetary Policy,              Decision Making by Committee 432
+             and Financial Stability                      Accountability and Transparency          432
+                                                          Policy Framework     434
+CHAPTER 15 CENTRAL BANKS IN THE
+                                                      The European Central Bank        434
+           WORLD TODAY 393
+The Basics: How Central Banks Originated                  Organizational Structure      436
+  and Their Role Today 394                                Accountability and Transparency          439
+    The Government’s Bank     394                         The Price Stability Objective and
+    The Bankers’ Bank 396                                   Monetary Policy Strategy 439
+Stability: The Primary Objective                      Key Terms 444
+   of All Central Banks 398                           Using FRED: Codes for Data in This Chapter               444
+
+
+--- PDF 29 ---
+xxviii l Contents
+
+
+
+Chapter Lessons 444                                      Discount Lending, the Lender of Last Resort,
+Conceptual and Analytical Problems 445                     and Crisis Management 487
+Data Exploration 447                                     Reserve Requirements       490
+                                                     Operational Policy at the European
+CHAPTER 17 THE CENTRAL BANK BALANCE SHEET              Central Bank 490
+           AND THE MONEY SUPPLY PROCESS 448              The ECB’s Target Interest Rate and
+The Central Bank’s Balance Sheet     450                   Open Market Operations 491
+    Assets 451                                           The Marginal Lending Facility      491
+    Liabilities 451                                      The Deposit Facility 492
+    The Importance of Disclosure     453                 Reserve Requirements       492
+    The Monetary Base    454                         Linking Tools to Objectives: Making Choices    493
+Changing the Size and Composition of                     Desirable Features of a Policy
+  the Balance Sheet 454                                    Instrument 494
+    Open Market Operations     455                       Inflation Targeting 496
+    Foreign Exchange Intervention 456                A Guide to Central Bank Interest Rates:
+    Discount Loans 458                                 The Taylor Rule 497
+    Cash Withdrawal     458                          Unconventional Policy Tools      501
+The Deposit Expansion Multiplier 460                     Forward Guidance      505
+    Deposit Creation in a Single Bank      460           Quantitative Easing    506
+    Deposit Expansion in a System                        Targeted Asset Purchases     508
+      of Banks 462                                       Making an Effective Exit     509
+The Monetary Base and the Money
+                                                     Concluding Remarks       513
+  Supply 465
+                                                     Key Terms    513
+    Deposit Expansion with Excess Reserves
+      and Cash Withdrawals 465                       Using FRED: Codes for Data in This Chapter     514
+    The Arithmetic of the Money                      Chapter Lessons    514
+      Multiplier 467
+                                                     Conceptual and Analytical Problems      516
+    The Limits of the Central Bank’s Ability
+                                                     Data Exploration   518
+      to Control the Quantity of Money 472
+Key Terms    474                                     Appendix to Chapter 18: Monetary Policy
+                                                       Operations and the Reverse Repo Rate 519
+Using FRED: Codes for Data in This Chapter 474
+Chapter Lessons 475                                  CHAPTER 19 EXCHANGE RATE POLICY
+Conceptual and Analytical Problems 475                          AND THE CENTRAL BANK 521
+Data Exploration 477                                 Linking Exchange Rate Policy
+                                                        with Domestic Monetary Policy       523
+CHAPTER 18 MONETARY POLICY: STABILIZING THE              Inflation and the Long-Run Implications
+           DOMESTIC ECONOMY 479                             of Purchasing Power Parity 523
+The Federal Reserve’s Conventional                       Interest Rates and the Short-Run Implications
+  Policy Toolbox 482                                        of Capital Market Arbitrage 524
+    The Target Federal Funds Rate and the Interest       Capital Controls and the
+      on Excess Reserves 484                               Policymakers’ Choice 526
+
+
+--- PDF 30 ---
+                                                                                       Contents l xxix
+
+
+
+Mechanics of Exchange Rate Management       528       Targeting Money Growth:
+    The Central Bank’s Balance Sheet 528                The Fed and the ECB 569
+
+    Sterilized Intervention   531                 Key Terms    573
+                                                  Using FRED: Codes for Data in
+The Costs, Benefits, and Risks of
+                                                    This Chapter 573
+  Fixed Exchange Rates 532
+                                                  Chapter Lessons    573
+    Assessing the Costs and Benefits 532
+                                                  Conceptual and Analytical Problems         574
+    The Danger of Speculative Attacks 534
+                                                  Data Exploration    576
+    Summarizing the Case for a
+      Fixed Exchange Rate 536
+Fixed Exchange Rate Regimes 537                   CHAPTER 21 OUTPUT, INFLATION,
+                                                             AND MONETARY POLICY 577
+    Exchange Rate Pegs and the Bretton            Output and Inflation in the Long Run       578
+      Woods System 537
+                                                      Potential Output     578
+    Hard Pegs: Currency Boards
+      and Dollarization 539                           Long-Run Inflation     579
+Key Terms 545                                     Monetary Policy and the Dynamic
+                                                    Aggregate Demand Curve 580
+Using FRED: Codes for Data in
+  This Chapter 545                                    Aggregate Expenditure and the
+                                                        Real Interest Rate 582
+Chapter Lessons    546
+                                                      Inflation, the Real Interest Rate, and
+Conceptual and Analytical Problems 547                   the Monetary Policy Reaction
+Data Exploration 549                                     Curve 586
+Appendix to Chapter 19: What You Really               The Dynamic Aggregate Demand
+  Need to Know about the Balance of                     Curve 591
+  Payments 550                                    Aggregate Supply 595
+                                                      Short-Run Aggregate Supply       595
+Part V       Modern Monetary Economics
+                                                      Shifts in the Short-Run Aggregate
+CHAPTER 20 MONEY GROWTH, MONEY DEMAND,                   Supply Curve 596
+           AND MODERN MONETARY POLICY 553             The Long-Run Aggregate Supply
+Why We Care about Monetary                              Curve 597
+ Aggregates 554                                   Equilibrium and the Determination
+The Quantity Theory and the                         of Output and Inflation 601
+  Velocity of Money 556                               Short-Run Equilibrium      601
+    Velocity and the Equation of Exchange 557         Adjustment to Long-Run Equilibrium           601
+    The Quantity Theory of Money 558                  The Sources of Fluctuations in Output
+    The Facts about Velocity 559                        and Inflation 603
+The Demand for Money 562                              What Causes Recessions?      604
+    The Transactions Demand for Money      562    Key Terms    606
+    The Portfolio Demand for Money 564            Using FRED: Codes for Data in
+Targeting Money Growth in a                         This Chapter 607
+  Low-Inflation Environment         566           Chapter Lessons    607
+    The Instability of U.S. Money Demand    566   Conceptual and Analytical Problems         608
+
+
+--- PDF 31 ---
+xxx l Contents
+
+
+
+Data Exploration 611                                 CHAPTER 23 MODERN MONETARY POLICY
+                                                                AND THE CHALLENGES FACING
+Appendix to Chapter 21: The Dynamic Aggregate
+                                                                CENTRAL BANKERS 647
+  Demand–Aggregate Supply Model 612
+                                                     The Monetary Policy
+CHAPTER 22 UNDERSTANDING BUSINESS                      Transmission Mechanism       649
+           CYCLE FLUCTUATIONS 615                       The Traditional Channels:
+Sources of Fluctuations in Output                         Interest Rates and Exchange Rates      649
+  and Inflation 617                                     Bank-Lending and Balance-Sheet Channels 650
+    Shifts in the Dynamic Aggregate                     Asset-Price Channels: Wealth and
+       Demand Curve 617                                   Investment 655
+    Shifts in the Short-Run Aggregate                   Financial Crises and the Transmission of
+       Supply Curve 622                                    Monetary Policy 656
+Using the Aggregate Demand–Aggregate                 The Challenges Modern Monetary
+  Supply Framework 623                                 Policymakers Face 658
+    How Do Policymakers Achieve Their                   Booms and Busts in Property
+      Stabilization Objectives? 623                       and Equity Prices 659
+    What Accounts for the Great                         Deflation and the Effective Lower Interest
+      Moderation? 629                                     Rate Bound 662
+    What Happens When Potential Output                  The Evolving Structure
+      Changes? 632                                        of the Financial System    666
+    What Are the Implications of Globalization for   Key Terms    668
+      Monetary Policy? 636
+                                                     Using FRED: Codes for Data in This Chapter        669
+    Can Policymakers Stabilize Output and
+                                                     Chapter Lessons    669
+      Inflation Simultaneously? 636
+                                                     Conceptual and Analytical Problems    670
+Key Terms    641
+                                                     Data Exploration   672
+Using FRED: Codes for Data in
+  This Chapter 642
+Chapter Lessons 642                                  Glossary    G-1
+Conceptual and Analytical Problems 643               Notation Index N-1
+Data Exploration 645                                 Index I-1
+
+
+--- PDF 32 ---
+                                                                                Contents l xxxi
+
+
+
+
+Learning Tools
+Chapter 1                                       Applying the Concept:
+Your Financial World:                             High Interest Rates, Low Interest Rates 92
+  Guard Your Identity 9                         Chapter 5
+Chapter 2                                       Applying the Concept:
+Your Financial World:                             It’s Not Just Expected Return That Matters 104
+  Debit Cards versus Credit Cards 24            Tools of the Trade:
+Your Financial World:                             The Impact of Leverage on Risk 110
+  Modernizing U.S. Payments: Faster, Cheaper,   Lessons from the Crisis:
+  and More Secure 29                              Systemic Risk 112
+Lessons from the Crisis:                        Your Financial World:
+  Market Liquidity, Funding Liquidity, and        Your Risk Tolerance 116
+  Making Markets 31                             Applying the Concept:
+Money and Banking Blog:                           Do U.S. Households Benefit When Growth
+  Virtual Frenzies: Bitcoin and Blockchain 34     Is Stable? 118
+Tools of the Trade:                             Money and Banking Blog:
+  The Consumer Price Index 37                     On the Distribution of Wealth 120
+Applying the Concept:                           Chapter 6
+  Cash Is King, but $100 Bills Are              Your Financial World:
+  for Crooks 38                                   Know Your Mortgage 132
+Chapter 3                                       Tools of the Trade:
+Lessons from the Crisis:                          Reading the Bond Page 138
+  Leverage 49                                   Applying the Concept:
+Your Financial World:                             When Russia Defaulted 147
+  Disability Income Insurance 52                Applying the Concept:
+Tools of the Trade:                               Securitization 148
+  Trading in Financial Markets 56               Your Financial World:
+Applying the Concept:                             Bonds Indexed to Inflation 149
+  Basics of High-Frequency Trading 61           Money and Banking Blog:
+Lessons from the Crisis:                          Bond Market Liquidity: Should
+  Shadow Banks 63                                 We Be Worried? 150
+Money and Banking Blog:                         Chapter 7
+  Banking the Masses 66                         Lessons from the Crisis:
+Chapter 4                                         Subprime Mortgages 161
+Your Financial World:                           Money and Banking Blog:
+  How Long Does Your Investment                   In Search of Better Credit Assessments 162
+  Take to Double? 77                            Your Financial World:
+Lessons from the Crisis:                          Your Credit Rating 166
+  Risk Taking and the Search for Yield 79       Lessons from the Crisis:
+Tools of the Trade:                               Asset-Backed Commercial Paper 168
+  Computing Compound Annual Rates 82            Applying the Concept:
+Applying the Concept:                             The Flight to Quality 175
+  How Much Is Our Distant Future Worth? 85      Chapter 8
+Money and Banking Blog:                         Your Financial World:
+  Investing in College 86                         A Home Is a Place to Live 187
+Your Financial World:                           Tools of the Trade:
+  What Is Your Risk-Free Rate? 90                 Reading Stock Indexes in the Business News 190

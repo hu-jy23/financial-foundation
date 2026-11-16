@@ -1,0 +1,1600 @@
+
+
+===== PDF 496 | 印刷页 460 =====
+
+OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+   CHAPTER
+
+
+
+   10 FINANCIAL STABILITY
+                   POLICY
+
+                 10.1 INTRODUCTION
+                 Before the financial crisis, macroeconomics textbooks paid little attention to financial
+                 stability. The prevailing view was that financial crises were of only historical impor-
+                 tance for high-income countries. In this book, the groundwork for understanding the
+                 issues surrounding financial stability policy is established in Chapters 5, 8, and 9.
+                   Financial stability is at risk when small shocks to one bank can threaten the stability
+                 of the financial system as a whole (systemic risk). This can happen when a bank is so
+                 large or interconnected that its failure could cause serious disruption to the banking
+                 system and, as a result, to the functioning of the real economy.1 As we saw in Chapter 9,
+                 the failure of a relatively small but highly interconnected bank, Lehman Brothers,
+                 produced contagion across banks and financial markets that was transmitted around
+                 the world. Suddenly, vulnerabilities in the global financial system were revealed.
+                   The existence of systemically important banks presents governments with a
+                 dilemma illustrated spectacularly in the global financial crisis: both the option of
+                 saving them, and of letting one fail carry dangers. Since the crisis, governments
+                 around the world have--for the first time--introduced regulations directed specifically
+                 at systemically important banks, i.e. at the problem of ‘too big to fail’. A sustained effort
+                 to develop financial stability policy followed.
+                   The chapter begins by summarizing the nature of the financial stability problem
+                 before turning to the design of policy, including the relationships between financial
+                 stability, monetary, and fiscal policies. The analysis of financial stability policy covers
+                 both structural reforms (capital adequacy for banks, resolution regimes for insolvent
+                 banks, and the demarcation of retail from investment banks) as well as macro-
+                 prudential policy as an ongoing component of financial stability policy. An instrument
+                 of macro-prudential policy is a change in the loan to value ratio for mortgages.
+                   The following section looks at the implementation of financial stability policy
+                 in practice. Financial innovation, including in response to new financial stability
+
+
+                    1
+                      For comprehensive coverage of regulatory reform around the world and its rationale,
+                 see Buch et al. (2021) ‘CORE insight too big to fail: lessons from a decade of financial sec-
+                 tor reforms’ https://www.core-econ.org/insights/too-big-to-fail/text/01.html, and watch this
+                 video (https://www.youtube.com/watch?v=S4pwc5oxuRQ). See also Bolton et al. (2019) Sound at
+                 last? Assessing a decade of financial regulation. CEPR.
+
+
+===== PDF 497 | 印刷页 461 =====
+
+                                                 OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+                                                            10.2 Financial stability: The problem and policy design   461
+
+regulations, can create a vulnerability that could trigger the next crisis, so later in the
+chapter we outline new developments in banking technology and institutions as well
+as in digital currencies that are on the radar of policy makers concerned with financial
+stability. Some of these developments were accelerated by the pandemic, including the
+services offered by FinTech and Big Tech companies, the role of crypto-currencies and
+stablecoins, and the debate about central bank digital currency and citizen accounts
+at the central bank.
+
+
+10.2 FINANCIAL STABILITY: THE PROBLEM
+AND POLICY DESIGN
+10.2.1 The problem of ﬁnancial stability
+The problem of financial stability arises because of the vulnerability of the financial
+system to contagion from a crisis in a bank of systemic importance. The banking
+system is essential not only to the economy’s payments system but also to the
+allocation of credit and to providing facilities through which households can save.
+The linkages between households, firms, and banks through their balance sheets (see
+Chapter 5) are the conduits for contagion and help to explain the transmission from a
+crisis in banking to spending, lending and saving decisions and to the macroeconomy.
+The models in Chapter 8 set out the dynamics of positive feedback processes through
+which the ‘contagion’ of a financial market boom and crisis occur.
+  Financial instability arising from the external effects of risk-taking by banks is a
+market failure. The magnitude of those external effects creates a moral hazard problem
+for government: knowing that the failure of a bank of systemic importance will have
+economy-wide consequences, banks can expect rescue, which incentivizes more risk-
+taking. The result is that banks enjoy an implicit subsidy from the government, which
+reduces their cost of funding and increases their volume of risky borrowing and
+lending. Banks become more leveraged.
+  The problem of financial stability is summarized in Figure 10.1. In the top row, we
+see that the risk-taking choices made by banks explained in Chapter 8 and illustrated
+using the Value at Risk model set out there affect systemic risk and the probability
+of crisis. This is amplified by the vulnerability of banks to a fall in the value of their
+assets, summarized by their capital shortfall (a reflection of their choice of leverage).
+The vertical arrows in both directions between the first and second rows mean that the
+initial choices by the banks depend on how they expect the government to respond to
+bank failure. The more likely banks think bail-out is, the greater is the implicit funding
+subsidy they anticipate, the greater will be their risk-taking and the potential damage
+to the wider economy (bottom row).
+
+10.2.2 Structural policies for ﬁnancial stability
+One way of reducing the implicit funding subsidy to banks is to control leverage by
+imposing capital requirements, which increases their capacity to absorb losses. This is
+a method of reducing the wedge between the private and social cost of borrowing, and
+thereby internalizing the external effect of the bank’s choices. The second approach
+
+
+===== PDF 498 | 印刷页 462 =====
+
+  OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+462   Financial stability policy
+
+
+
+                                            Choices of                      Probability of crisis       Choices of
+                                          banks affecting                            ×              governments about
+                                           systemic risk                                              resolution and
+                                                                             Capital shortfall
+                                                                                                          bailout
+
+
+
+
+                                                     Market perceptions of implicit funding subsidy
+
+
+
+
+                                                      Broader effects on the economy and markets
+
+
+                            Figure 10.1 The economics of financial instability and policy design
+                            Source: Financial Stability Board (FSB) 2021.
+
+
+
+                            to policy arising from the logic of Figure 10.1 focuses on the bail-out regime. The more
+                            successful is the government in dealing with failing banks without bailing them out,
+                            the lower will be the implicit funding subsidy, and hence, the lower the systemic risk.
+                            The third and complementary approach is to separate the activities of retail banks,
+                            which are essential for the economy to function, from those of investment banks, thus
+                            ruling out rescue of the latter.
+
+                            Structural policy---capital adequacy requirements
+                            Requiring banks to be less leveraged by having larger capital (equity) requirements
+                            would make them safer and reduce the chance of failure of a systemically important
+                            bank, the threat of a financial crisis, and the need for a state bail-out.
+                               The argument that a higher capital ratio makes a bank safer is straightforward and
+                            we have seen it already: when a bank (or any other entity like a household or a firm)
+                            has high leverage (a low capital ratio), it only takes a small fall in the value of assets for
+                            the equity to be wiped out and the bank to be insolvent. For example, if a bank has a
+                            capital ratio of 3% (i.e. equity is 3% of assets), then a loss of 1% in the value of assets
+                            (due for example to a fall in asset prices by 1%) wipes out one-third of the equity of
+                            the bank. By contrast, if equity amounts to 25% of assets, then a 1% fall in the value of
+                            assets wipes out only 4% of equity. In the first case the solvency of the bank is clearly
+                            threatened by a 1% fall in the price of assets; in the latter it is not.
+                               Figure 9.4 in Chapter 9 shows the leverage of UK banks between 1960 and 2018. The
+                            upswing in the financial cycle is clearly shown by the sharp rise in the series in the
+                            years preceding the crisis. The series peaks in 2008 at leverage of 35. To put this into
+                            the discussion of capital ratios above, a leverage of 50 is equivalent to a capital ratio
+                            of 2.9%. The high leverage and low capital ratios of the UK banks meant they were
+                            vulnerable to solvency crises once the downswing in the financial cycle took hold. By
+                            2018, the UK banks’ leverage ratio was equal to 15, which is equivalent to a capital ratio
+                            of 6.7%, more than twice the level in 2008.
+
+
+===== PDF 499 | 印刷页 463 =====
+
+                                                     OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+                                                                  10.2 Financial stability: The problem and policy design   463
+
+(a) Initial situation:             (b) Raising capital ratio           (c) Raising capital ratio
+Low capital ratio                  by increasing equity                by reducing assets
+
+
+
+
+                                                Debt
+             Debt
+  Assets                             Assets                                         Debt
+                                                                        Assets
+
+
+
+                                                Equity
+             Equity                                                                Equity
+
+
+Figure 10.2 Two potential responses to new regulation of a higher capital ratio.
+
+
+
+
+  Figure 10.2 illustrates two alternative ways in which a bank can increase its capital
+ratio. Figure 10.2b shows the bank responding to the new regulation by increasing its
+equity, leaving the scale of its operation unchanged (total assets). It increases its equity
+by some combination of:
+
+• selling new shares;
+• reducing dividend pay-outs and/or bonuses and salaries.
+
+  In panel c, a higher capital ratio is achieved by leaving the amount of equity
+unchanged and shrinking the bank’s assets. The latter method results in a smaller
+bank.2 Banks oppose regulation that would require substantially higher capital ratios.
+One reason banks favour debt finance over equity is because tax systems favour debt.3
+We turn to the theory behind the choice between debt and equity finance.
+
+Does the funding structure between debt and equity matter for companies,
+including banks?
+Having a higher capital ratio means that banks would have to finance a higher propor-
+tion of their business with equity (selling shares) rather than with debt (borrowing).
+We begin by asking whether for a non-financial company, its cost of capital depends
+on the relationship between debt and equity in its funding. In an important result in
+the theory of corporate finance, the Modigliani-Miller (MM) (1958) theorem showed
+
+
+  2
+    See Jenkins (2011) for a more complete discussion of the tools banks can use to increase equity
+or shrink assets.
+  3
+    See Vickers (2012) for a further discussion of these issues.
+
+
+===== PDF 500 | 印刷页 464 =====
+
+  OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+464   Financial stability policy
+
+
+                            the conditions under which the overall cost of finance to a firm does not depend on
+                            the balance of financing between debt and equity.4
+                               The logic of the result is reasonably intuitive and goes as follows:
+
+                            • The equity (or share) holders in a company are the residual owners, which means
+                              they get any returns to the firm’s activities once the parties with contracts with the
+                               firm have been paid (i.e. suppliers, workers, tax owed to the government, interest
+                               owed to banks, interest owed to bondholders).
+                            • As well as having the chance of upside returns, equity owners bear more risk than
+                              the suppliers of debt finance.
+                            • To compensate them for the additional risk, equity owners require a higher return.
+                            • At first sight, this makes it sound as if imposing a higher capital ratio would increase
+                              the cost of capital to a company because of the need of the equity owners for a higher
+                               return than the suppliers of debt.
+                            • However, this ignores the effect of the change in financing mix on the riskiness of
+                              the firm: a firm with higher equity is less risky because it has a larger buffer of capital
+                               to absorb any losses.
+                            • Hence, a higher share of equity in the firm’s finances lowers risk, which in turn lowers
+                              the required return to the equity holders: the overall cost of capital to the firm does
+                               not change.
+
+                               The cost of capital to the firm depends on the value of the firm and underlying risks
+                            and not on the financing mix: if it did not, it would be possible to make a profit through
+                            arbitrage by either buying debt and selling equity or vice versa.
+
+                            Does the Modigliani–Miller theorem apply to banks?
+                            The direct application of MM to banks would say that the argument that higher capital
+                            ratios would raise the cost of capital to banks ignores the effect of a higher capital
+                            ratio in reducing risk: with lower risk, equity holders would require a lower rate of
+                            return and overall funding costs would be unchanged. But we know that banks differ
+                            from ordinary companies because the government is unlikely to allow a systemically
+                            important bank to fail. The different treatment of the bankruptcy of banks from that
+                            of ordinary companies affects the interpretation of the MM result.
+                               We have already discussed an important reason why from a social cost perspective,
+                            the funding mix of banks is not irrelevant. Acting in their own self-interest, banks will
+                            choose a lower than socially optimal capital ratio. The public suffers if the share of
+                            equity is too low (leverage is too high) because of the greater risk of financial crisis
+                            and of state bail-out. If the capital ratio is raised, this reduces the taxpayer liability
+                            (in the event of insolvency) and increases the private cost of capital. By reducing the
+                            potential liability of the government, the cost of finance to the government goes down,
+                            but goes up for the private bond and shareholders of the bank.
+
+
+
+                               4
+                                   See Modigliani and Miller (1958).
+
+
+===== PDF 501 | 印刷页 465 =====
+
+                                                   OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+                                                               10.2 Financial stability: The problem and policy design   465
+
+  John Vickers, who chaired the UK’s Independent Commission on Banking, concludes:
+‘So MM might hold taking the public and private sectors together, while it fails
+for the private sector in isolation. Again we have a reason why private and social
+incentives for greater bank capital may diverge’.5 The results of research are presented
+in the economist Anat Admati’s November 2012 Congressional Testimony (Admati and
+Hellwig, 2013). The conclusion is that there are few clearly identifiable social costs
+associated with imposing higher capital ratios on banks to offset the substantial social
+gains associated with reducing the risk of financial crisis.
+
+Is there empirical evidence about the effect of higher capital ratios?
+The empirical evidence provided by Miles et al. (2013) suggests that better capitalized
+banks would reduce the likelihood of financial distress, would be in a better position
+to make good loans because they will avoid very risky ones, and would probably be
+smaller because of the reduction in the probability of state support. This points toward
+substantial net benefits for the economy. An empirical study of German bank lending
+finds that better capitalized banks do not lend less.6
+
+Structural policy---resolution regimes
+Increasing the capital ratios of systemically important banks is aimed at reducing the
+probability of bank failure by reducing the value of the implicit funding subsidy and
+therefore the incentive for excessive risk-taking. The second policy seeks to reduce
+the likelihood of bail-out itself, which if successful also reduces the implicit funding
+subsidy by shifting the costs of restructuring a failing bank from the taxpayer to the
+owners and creditors of the bank.
+  Comparing bankruptcy of non-financial firms and banks helps clarify the role of
+resolution regimes for banks. Among non-financial firms, bankruptcy is commonplace
+and there is a clear pecking order through which the remaining assets of the firm are
+distributed to meet its obligations. The firm’s resources are distributed in the form
+of payments to suppliers, wages to workers and taxes owed to the government. Only
+when these have been paid can bondholders receive something for their bonds: the
+size of the ‘haircut’ applied to bonds will depend on the remaining assets of the firm.
+Equity holders are wiped out when the firm goes bankrupt.
+  By contrast, if a bank is systemically important and on the verge of bankruptcy, the
+state steps in and bails out the bank by providing capital in exchange for shares. By
+preventing bankruptcy because it represents a threat to the continuity of core banking
+services, the action of the government places costs on the taxpayer and leaves the
+bank’s bondholders unscathed. It would only be in a situation in which the bank actually
+went bankrupt that the bondholders who had lent to the bank would lose money.
+
+
+
+  5
+    Excerpt taken from p. 11 of Vickers (2012). See also Anat Admati’s November 2012 Con-
+gressional Testimony available at http://financialservices.house.gov/uploadfiles/hhrg-112-ba15-
+ba04-wstate-aadmati-20121129.pdf. Also see Admati and Hellwig (2013) for a more thorough
+overview of their research on financial regulation.
+  6
+    See Buch and Prieto (2012).
+
+
+===== PDF 502 | 印刷页 466 =====
+
+  OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+466   Financial stability policy
+
+
+                               Resolution arrangements are not credible---i.e. they will not remove the presump-
+                            tion of rescue by the state, and hence of risky behaviour, unless the loss-absorbers in
+                            the bank are sufficiently high. To this end, higher capital ratios are augmented by other
+                            reforms such as contingent capital, which is debt (bonds) that is converted into equity
+                            (and therefore goes to the bottom of the queue for repayment) in a near-bankruptcy
+                            situation. More of the losses are absorbed by the private sector and state rescue is
+                            avoided (or reduced in size).
+                               Another component of a resolution regime is bail-in, which refers to compulsory
+                            haircuts applied to bondholders that write down the value of bonds when the bank is
+                            on the point of failing. Bail-in works like this: those first to bear losses are the bank’s
+                            shareholders. The value of their equity is reduced to reflect the losses that have been
+                            incurred. If the amount of capital is not large enough to absorb all the losses, the next
+                            in line to bear them are the bank’s bondholders. As explained above, the value of these
+                            bonds is subject to a haircut or they are converted into equity. Depositors whose
+                            deposits are not insured are the next in line to lose. Finally, the deposit insurance
+                            scheme may absorb some losses (on behalf of those with insured deposits).
+
+                            Structural policy---retail versus investment bank activities
+                            For the private resolution of failing banks to be credible, it is also necessary that
+                            there is a mechanism to ensure that the provision of core banking services can be
+                            maintained while the problematic activities of the bank are wound up or restructured.
+                            In our simple modelling framework of two types of bank (retail banks and investment
+                            banks) and universal banks that combine both, the retail banks are responsible for
+                            the provision of core banking services relating to the payments system, deposits, and
+                            lending (including overdrafts) to households and small and medium-sized firms. A
+                            policy of structural reform would strictly limit the presumption of government rescue
+                            to those parts of the bank that are essential to core banking services. The UK, EU, and
+                            US moved in broadly similar directions to alter the institutional structure of banking
+                            in pursuit of these aims.
+
+
+                            10.2.3 Macro-prudential policy
+                            Recalling the difference between the financial cycle and the business cycle from
+                            Chapter 8 and the build-up of financial imbalances during the period of low and stable
+                            inflation in the Great Moderation in Chapter 9, it is clear that relying on the central
+                            bank’s business cycle stabilization policy is not a guarantee of financial stability. In
+                            addition to the structural reforms, this led to proposals for the introduction of policies
+                            to be implemented by a ‘financial policy committee’ to stabilize the financial cycle.
+                            Such policies--intervening to dampen positive feedback processes, including via the
+                            financial accelerator in house price bubbles (Chapter 8)--are referred to as macro-
+                            prudential policies.
+
+                            Counter-cyclical macro-prudential regulation
+                            One way of implementing macro-prudential regulation is that in a financial cycle
+                            upswing, loan-to-value ratios for housing would be reduced and bank capital adequacy
+                            ratios raised. This would help to dampen the boom by interrupting the upswing in the
+
+
+===== PDF 503 | 印刷页 467 =====
+
+                                                   OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+                                                               10.2 Financial stability: The problem and policy design   467
+
+housing and financial sectors. In a downswing, the opposite would happen. By raising
+loan-to-value ratios, macroprudential intervention would help the economy to recover
+from the consequences of the downswing of the financial cycle by helping to revive the
+housing sector.
+  Aside from time-varying loan-to-value ratios, which are the most commonly used
+measure, a number of other macroprudential tools have been introduced including
+caps for mortgage loans, capital requirements and limits to credit growth in specific
+sectors.7 The research by Akinci and Olmstead-Rumsey looks at the effectiveness of
+macroprudential policies in targeting the sources of financial instability, namely, bank
+credit growth, housing credit growth, and house price appreciation, similar to the
+variables that constitute the financial cycle indicator presented in Figures 8.3 and 8.5.
+  Their main findings are that macroprudential policies have been:
+
+• used much more actively since the financial crisis than before and have more often
+  been tightening rather than easing actions;
+• mainly targeted at the housing sector;
+• effective in reducing bank credit growth and house price appreciation when targeted
+  directly at limiting the rise in house prices.
+
+
+The interaction of policies for ﬁnancial and macroeconomic stability
+The analytical distinction between the financial cycle and the business cycle is helpful
+in considering the interaction of policies for financial and macroeconomic stability.
+The task of a financial policy committee is to find ways of identifying the build-up of
+a financial cycle. It would implement macro-prudential policies as described above,
+especially in relation to housing. Macro-prudential policies are counter-cyclical in
+relation to the upswing of a financial cycle.
+  The financial cycle figures in Chapter 8 (Figures 8.3 and 8.5) indicate that business
+cycle recessions coincide with many different phases of the financial cycle. Suppose
+the economy is in a business cycle recession. In the language of the 3-equation model,
+following its policy rule, the monetary policy committee seeks to boost aggregate
+demand to get the economy on to the MR curve, and it does this by reducing the
+interest rate. Yet at the same time, the financial policy committee may be worried
+about the longer-run build-up of a housing-collateral fuelled financial cycle and it
+would therefore like to see a reduction in loan-to-value ratios. Policies in relation to
+housing credit are therefore pulling in opposite directions.
+  Moreover:
+
+      There is often political opposition to macroprudential policy from legislators
+      and the public, who have regularly pushed back on measures to dampen
+      economic growth in an effort to prevent or avoid relatively rare events.
+                                                   (Elliott, Feldberg, and Lehnert 2013)
+
+
+
+
+  7
+   For an analysis of the measures introduced and their efficacy in 57 high-income and emerging
+economies, see Akinci and Olmstead-Rumsey (2018).
+
+
+===== PDF 504 | 印刷页 468 =====
+
+  OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+468   Financial stability policy
+
+
+                                   It is perhaps for this reason that, for example, no US government agency has
+                                   authority to impose a maximum loan-to-value ratio on all mortgages—one of
+                                   the macroprudential tools most often used in other countries.
+                                                                                                       (Tarullo 2019)
+
+                            Financial policy committees and the ‘growth at risk’ criterion
+                            The institutional arrangements for responsibility for financial stability vary across
+                            countries. In the UK, macroprudential regulation is the responsibility of the Bank of
+                            England, and the Financial Policy Committee sits alongside the better known Monetary
+                            Policy Committee. The FPC’s responsibility is more difficult to summarize in a loss
+                            function of the kind used in the 3-equation model for an inflation-targeting central
+                            bank (i.e. the trade-off between minimizing the squared deviations of inflation from
+                            target and output from equilibrium).
+                               The trade-off faced by an FPC can be thought of in terms of that between:
+
+                            • greater safeguarding of the resilience of the financial system; versus
+                            • worsening the terms on which banks provide their core services to households and
+                              firms.
+
+                               Monetary and macroprudential policy makers have different time horizons over
+                            which to deliver their results. Our analysis of financial and business cycles in Chapter
+                            8 highlighted the lower frequency of financial cycles and the quote above by Tarullo
+                            emphasized that as compared with recessions, financial crises are rare events.
+                               A step toward codifying the remit for macroprudential policy in the form of a trade-
+                            off uses the concept of ‘growth at risk’, also referred to as ‘GDP at risk’. This refers to the
+                            percentage of GDP that is at risk from financial instability (Cecchetti and Schoenholtz,
+                            2017, Carney, 2020). This concept builds on the idea of risk management introduced
+                            in Chapter 8 with the concept of ‘value at risk’. Policy makers inevitably face great
+                            uncertainty about the future and routinely make forecasts about the distribution of
+                            possible out-turns.
+
+                            • In their routine forecasting to decide on changes in the policy rate (or in QE), the
+                              monetary policy maker focuses on the expected outcome in terms of the output gap
+                               and forecast inflation of a rise in bank credit to GDP, for example.
+                            • By contrast, the macroprudential policy maker’s concern is with the worst, say, 5%
+                              of the projected outcomes, which if it materialized would threaten financial stability.
+
+                               The concept of growth at risk is vividly illustrated in Figure 10.3. The middle red line
+                            shows the expected (median) growth, one year ahead. The upper line shows that there
+                            is a 5% chance of growth being that much higher than expected, and the lower one
+                            the 5% chance of growth being that much below the median. The lower line captures
+                            the concept of the growth at risk from the rare event of a financial crisis.
+                               Based on the argument by Cecchetti and Schoenholtz (2017), ‘growth at risk’ could
+                            fulfil for the FPC the role played by the inflation fan chart in the analysis and
+                            communications of the monetary policy maker. In the Bank of England’s Inflation
+                            Report, a fan chart is used to illustrate the central forecast for inflation and the
+                            uncertainty around it (see Figure 4.1). Similarly, the FPC could show the growth forecast
+                            and the growth at risk at various time horizons. A forecast spike as shown in the chart
+
+
+===== PDF 505 | 印刷页 469 =====
+
+                                                                       OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+                                                                                       10.3 Implementing financial stability reform   469
+
+                                                          95th percentile     median          5th percentile
+                               10
+
+
+
+                                5
+One-year-ahead forecast for
+ global growth, 1991–2016
+
+
+
+
+                                0
+
+
+
+                              –5
+
+
+
+                              –10
+
+
+
+                              -15
+
+
+
+                              -20
+                                 1991   1993 1995   1997 1999 2001 2003 2005 2007 2009 2011    2013 2015
+
+Figure 10.3 One-Year-Ahead forecast for Global Growth, 1991–2016.
+Note: The middle line shows the expected (median) growth, one year ahead; the upper line
+shows that there is a 5% chance of growth being that much higher than expected; the lower
+line, the 5% chance of growth being that much below the median.
+Source: IMF Global Financial Stability Report, October 2017.
+
+
+    for 2009 would be a signal of elevated risk of financial instability and justify prudential
+    policy action.
+                A major effort would be needed to explain to the public the factors leading the
+    growth at risk from financial instability to rise and fall. For example, what is the role
+    of rising house prices, or household, corporate, or government debt in increasing
+    the probability of a seriously bad outcome for the economy? Whereas there has
+    been a huge investment in the communications strategy of monetary policy makers,
+    awareness of the role of financial stability policy makers is much lower.
+                Effective management of financial cycles through macro-prudential policy may be
+    very difficult. This highlights the importance of structural reforms to the financial
+    system and, in addition, to the housing market in countries where the latter is an
+    important source of financial instability.
+
+
+    10.3 IMPLEMENTING FINANCIAL STABILITY REFORM
+    The financial crisis was global in scope.8 The Financial Stability Board (FSB), an interna-
+    tional body that was created in 2009 and includes all G20 countries, sets international
+    standards and monitors financial stability. It works with the older institution of the
+
+
+      8
+        This section draws heavily on Buch et al. (2021) CORE Insight: Too big to fail (available at:
+    https://www.core-econ.org/insights/too-big-to-fail/text/too-big-to-fail.html#the-reforms),
+    where more detailed evidence is presented.
+
+
+===== PDF 506 | 印刷页 470 =====
+
+  OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+470   Financial stability policy
+
+
+                            Basel Committee on Banking Supervision. As explained in Chapter 9, the Basel II
+                            standards for the prudential regulation of banks that were in force prior to the
+                            crisis allowed banks discretion in determining the risk weights for their assets when
+                            calculating how well capitalized they were. This was one of the regulatory failures that
+                            contributed to the crisis.
+                               Basel III (2010) tightened up capital adequacy requirements for banks for the
+                            reasons explained earlier. Risk-weighted capital ratios were raised and a second capital
+                            requirement (measured by the leverage ratio, which is the inverse of the unweighted
+                            capital ratio) was introduced. Responding to the key role in the crisis of banks that were
+                            ‘too big to fail’ or ‘too inter-connected to fail’, the category of a systemically important
+                            bank (SIB) was defined. Such banks were required to satisfy additional requirements
+                            (reflecting the negative external effects of their activities). The FSB monitors SIBs: at
+                            the end of 2018, the largest number of SIBs were in the UK, where 3 of the 14 based there
+                            were deemed global SIBs or GSIBs. The largest number of global SIBs were present in
+                            the US with 8.9
+                               The FSB defines a level of total loss absorbing capacity (such as through bonds that
+                            are convertible to equity in order to absorb losses) above the Basel III minimum. This
+                            ties in with the design of resolution regimes, for which the FSB sets standards and
+                            monitors implementation.
+                               Returning to the framework of Figure 10.1 we can ask how the new regulatory
+                            regimes have affected bank and government behaviour in turn.
+                               Banks have increased their capital ratios and the increases have been greater for
+                            SIBs, especially global SIBs (see Figure 10.4). The right panel of Figure 10.4 shows
+                            that although it has increased, the second measure of capital adequacy (capital/total
+                            assets, i.e. the inverse of the leverage ratio) remains lower for the globally systemically
+                            important banks. It is possible that this reflects their greater diversification, which
+                            reduces risk. By mid-2021, most of the GSIBs had met the requirements for their
+                            total loss absorbing capacity by issuing debt that can be bailed in under conditions
+                            of bank failure.
+                               As explained earlier, higher bank capital would be expected to be reflected in lower
+                            bank profitability as measured by the return on equity. Reducing the implicit funding
+                            subsidy for SIBs means higher costs, which ceteris paribus would reduce profits. The
+                            objective of reducing the riskiness of bank behaviour is consistent with a lower private
+                            return on equity for bank shareholders.
+                               Concerns that banks would meet higher capital requirements by shrinking their
+                            lending (panel (c) of Figure 10.2) were somewhat allayed by the evidence that the overall
+                            availability of credit to the economy did not decline. For individual banks, restructuring
+                            that has occurred for example, under public ownership for some failed UK banks
+                            (e.g. Royal Bank of Scotland), resulted in smaller (and safer) banks. More generally,
+                            the market shares of systemically important banks have fallen as other smaller banks
+                            and non-banks have expanded to supply credit. This was the intended effect of the
+                            new regulations but there is always the danger that new forms of shadow banking
+
+
+                               9
+                                 For a full list of countries, see Figure 3 in the Buch et al. (2021) Core Insight: Too big to
+                            fail (available at: https://www.core-econ.org/insights/too-big-to-fail/text/too-big-to-fail.
+                            html#the-reforms).
+
+
+===== PDF 507 | 印刷页 471 =====
+
+                                                                                                                      OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+                                                                                                                                                                                        10.4 Financial innovation and regulation                              471
+
+                           a. Risk-weighted capital ratios                                                                                                  b. Unweighted capital ratios
+                      18                                                                                                                               10
+
+
+
+
+                                                                                                                             Tier 1 captial/total assets
+                      16                                                                                                                                9
+Tier 1 captial/RWAs
+
+                      14                                                                                                                                8
+                      12                                                                                                                                7
+                                                                                                                                                        6
+                      10
+                                                                                                                                                        5
+                      8
+                                                                                                                                                        4
+                      6
+                                                                                                                                                        3
+                      4                                                                                                                                 2
+                      2                                                                                                                                 1
+                      0                                                                                                                                 0
+                                                       2009
+                                                              2010
+
+
+                                                                            2012
+                                  2006
+
+
+                                                2008
+
+
+
+
+                                                                                   2013
+
+
+
+                                                                                                        2016
+
+
+                                                                                                                      2018
+                           2005
+
+
+
+
+                                                                                                 2015
+                                                                     2011
+
+
+
+                                                                                          2014
+                                         2007
+
+
+
+
+                                                                                                               2017
+
+
+
+
+                                                                                                                                                            2005
+                                                                                                                                                                   2006
+                                                                                                                                                                          2007
+                                                                                                                                                                                 2008
+                                                                                                                                                                                        2009
+                                                                                                                                                                                               2010
+                                                                                                                                                                                                      2011
+                                                                                                                                                                                                             2012
+                                                                                                                                                                                                                    2013
+                                                                                                                                                                                                                           2014
+                                                                                                                                                                                                                                  2015
+                                                                                                                                                                                                                                         2016
+                                                                                                                                                                                                                                                2017
+                                                                                                                                                                                                                                                       2018
+                                                                                                 G-SIBs                               D-SIBs                                 Control group
+
+Figure 10.4 Risk-weighted and unweighted capital ratios for systemically important banks (%).
+Note: The chart illustrates how risk-weighted (RWAs = risk-weighted assets) and unweighted capital ratios
+have evolved for domestic and global banks that are systemically important (D-SIBs, G-SIBs), and banks that
+are not systemically important (the control group). The vertical line at 2012 separates the pre-‘too big to fail’
+reforms period from the post-reforms period.
+Source: Financial Stability Board (2021).
+
+
+will emerge to take advantage of gaps in regulatory coverage. This requires constant
+vigilance by the regulators at global and national levels.
+                Better capitalized banks reduce systemic risk but the degree of interconnectedness
+of banks also matters. After falling sharply in the financial crisis, interconnectedness
+has moved above the previous peak. Taking this into account, the FSB concludes in its
+2021 report that the overall level of systemic risk has not changed much, although the
+influence of the global systemically important banks has declined somewhat.10
+                The Covid-19 pandemic stressed the world’s banking system. However, the rapid
+intervention by central banks to supply liquidity, and by governments to support
+households and firms, relieved the pressure on banks and as a consequence, the
+resilience of the financial system was not fully tested.11 Regular stress testing of the
+banking system resumed following the pandemic.12
+
+
+10.4 FINANCIAL INNOVATION AND REGULATION
+During the Covid-19 pandemic changes already under way in financial innovation
+accelerated: the extension of digitalization for consumer transactions, electronic pay-
+ments and banking services, and the market penetration of both FinTech and Big Tech
+
+
+  10
+      See also research by Goodhart et al. (2021) that documents ongoing sources of financial
+instability:    https://cepr.org/voxeu/columns/current-bail-design-does-not-resolve-too-big-
+fail-problem
+   11
+      See for example Reichlin et al. (2021): https://cepr.org/voxeu/columns/urgent-reform-eu-
+resolution-framework-needed
+  12
+      See the Bank of England’s 2022/23 stress testing (https://www.bankofengland.co.uk/news/
+2022/ september/key-elements-of-the-2022-stress-test).
+
+
+===== PDF 508 | 印刷页 472 =====
+
+  OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+472   Financial stability policy
+
+
+                            in services previously limited to regulated banks. In public debate, cryptocurrencies
+                            and stablecoins gained greater prominence, as did central bank digital currency.
+                               To understand the newly emerging landscape, it is useful to recall the functions
+                            performed by banks in conventional fractional reserve systems.
+
+                            • Banks are intermediaries that perform maturity transformation by making long-
+                              term loans and taking deposits that must be returned on demand. In many countries,
+                               housing loans are a very important segment of this business. The fractional reserve
+                               basis of the system makes banks vulnerable to runs.
+                            • In Europe and Japan, banks also provide most of the debt finance for companies
+                              through bank loans (market-based debt finance in the form of the sale of corporate
+                               bonds is much more important in the US). Given information asymmetries, bank
+                               lending relies on long-term relationships between bank and borrower to reduce the
+                               extent of credit rationing and credit exclusion.
+                            • Traditionally banks have had a monopoly over retail and wholesale payment services
+                              because only they have access to reserve accounts at the central bank, which are
+                               required for clearing transactions with other banks.
+
+                            10.4.1 Regulatory, ﬁnancial, and technological innovations
+                            The introduction of higher capital adequacy and liquidity requirements for banks was a
+                            response to the financial crisis.13 As we have seen, one way banks met the higher capital
+                            requirements–especially in the challenging environment of low interest rates–was by
+                            shrinking their lending. A financial system with smaller, safer banks was viewed as an
+                            acceptable outcome of the reforms. However, this provided a window for non-banks
+                            in the form of FinTech and Big Tech firms to enter the market supplying some bank
+                            services. FinTech refers to start-ups that supply financial services using innovations
+                            in information and automation technologies, including the use of artificial intelligence
+                            to enable more accurate assessments of individual credit risk at low cost. Big Tech
+                            refers to platform-based large companies: Alibaba, Amazon, Apple, Baidu, Facebook,
+                            Google, and Tencent, for example, which are already or are capable of supplying
+                            financial services.
+                               Both types of firm have been very successful in attracting talent, which has enabled
+                            rapid innovation combining large data-bases (in the case of Big Tech firms from their
+                            social media and search engine businesses) with artificial intelligence and machine
+                            learning technology to challenge the fractional reserve-based model of the regulated
+                            traditional banks. However, the extent of the challenge across the three functions of
+                            banks is not yet clear. For example, to what extent could the big data capabilities
+                            of these firms provide a substitute for the accumulation of information through
+                            relationship banking in the traditional sector? As of 2023, neither type of entrant has
+                            made serious incursion into the deposit-taking business of banks, which probably
+                            reflects the regulatory burden that would come with it.
+
+
+                              13
+                                This section draws on Carletti et al. (2020) ‘Introduction’, which is recommended as a source
+                            for greater detail.
+
+
+===== PDF 509 | 印刷页 473 =====
+
+                                                 OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+                                                                        10.4 Financial innovation and regulation   473
+
+  Another new technology is disrupting the landscape. This is blockchain or the
+so-called distributed ledger. In Chapter 5, we discussed how the pervasiveness of
+information asymmetries prevents disintermediated (i.e. direct between borrow and
+lender) trades with verifiable contracts. Banks sit between borrowers and lenders
+as the intermediaries that enable transactions to occur that otherwise would not,
+including at different maturities. And the central bank supplies the trust in the fiat
+currency in which the disintermediated trades take place. Blockchain is a new tech-
+nology that its most ambitious proponents see as substituting for the technology and
+institutions of intermediated finance (through commercial banks), and the services of
+the central bank.
+  We discuss different kinds of unregulated currencies below. Aside from crypto-
+currencies, the broader promise of the distributed ledger technology is that it
+can connect borrower and lender directly using blockchain technology and smart
+(verifiable) contracts, cutting out banks as the intermediary. Its resource-intensive
+‘mining’ technology provided a novel decentralized consensus mechanism to conduct
+the costly verification of the double-entry ledger of transactions. It is proposed
+as a substitute for the virtually resource-free trust in fiat money created by a
+well-functioning central bank. It is useful to distinguish between the following
+entities:
+
+• FinTech firms: FinTech firms are present in lending, payment systems, financial
+  advising and insurance. FinTech credit remains a small share of total credit (includ-
+  ing in China, where its footprint is largest), with a larger role in low-income countries
+  with large unbanked populations. These firms are not banks---their funding struc-
+  ture has more equity than banks; they do not have depositors and face a higher cost
+  of capital.
+• Big Tech platforms: Apart from being nimble, FinTech firms are at a disadvantage as
+  compared with Big Tech. The latter have a huge customer-information base of both
+  businesses and households, brand recognition, and loyalty. The combination creates
+  high switching costs across platforms. If Big Tech firms make serious inroads into
+  the provision of financial services (payments, insurance, lending), they could become
+  dominant players.
+• DeFi (decentralized finance) platforms: This sector provides a range of financial
+  services using cryptocurrency and stablecoins based on the blockchain (distributed
+  ledger) technology through smart contracts without using intermediaries.
+• Regulated banks: As a consequence of their charters as regulated banks, they retain
+  access to cheaper funding using the fractional reserve system. This gives them a
+  competitive advantage. They have large and ‘sticky’ customer bases but also costly
+  legacy assets like branch networks and operate in a more constrained regulatory
+  environment than before the financial crisis.
+
+Table 10.1 distinguishes between physical and digital money in the columns, and
+between regulated and unregulated currencies in the rows. The final column helps
+clarify the role of banks, FinTech and Big Tech firms. We return to cryptocurrency and
+central bank digital currency (CBDC) below.
+
+
+===== PDF 510 | 印刷页 474 =====
+
+  OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+474     Financial stability policy
+
+
+                                                     Currency format
+
+                                         Physical            Digital                   Digital ‘money’ issued/used by
+
+                                                                                       Commercial banks,
+                                                             Electronic bank
+                                                                                       including those without
+                                         Banknotes and       money (deposits
+                         Regulated                                                     physical branches such as
+                                         coins               in bank accounts)
+                                                                                       Revolut and Monzo
+
+                                                                                       FinTech and Big Tech provide
+                                                                                       payments services--mostly
+                                                             E-money such as           innovating on the ‘front end’
+                                                             electronic wallets        (customer-business); leaving
+                                                                                       the back end unchanged
+                                                                                       through a master bank account
+
+
+      Legal status                                           Central bank digital      Central bank
+                                                             currency (CBDC)
+
+                                         Some local          Cryptocurrency,           Anonymous private
+                         Unregulated                         stablecoins
+                                         currencies, e.g.
+                                         Brixton pound
+                                                                                       Big Tech; FinTech. Mobile
+                                                             Virtual currency, e.g.    phone providers create
+                                                             Alipay, M-Pesa in         digital repositories of value
+                                                             Kenya, Libra              that can be used as a form of
+                                                                                       payment outside the
+                                                                                       regulated payments system
+
+  Table 10.1 Examples of the legal status and currency format of different forms of ‘money’.
+
+                                 We have emphasized that the newcomers (FinTech and Big Tech) are not deposit-
+                              taking institutions making loans on a fractional reserve basis. To do so, they would
+                              have to become banks and accept the regulation that comes with it.
+
+                              10.4.2 Cryptocurrencies, stablecoins, and DeFi platforms
+                              Using the classification introduced in Table 10.1, unregulated digital money takes many
+                              different forms. In this section, we focus on unbacked cryptocurrencies and stable-
+                              coins. The key difference between them is that unlike stablecoins, cryptocurrencies
+                              are not backed by anything. The value of a bitcoin (an unbacked cryptocurrency), for
+                              example, depends solely on how much someone is prepared to pay for it at a point
+                              in time. Unbacked cryptocurrencies account for more than 90% of crypto assets.
+                              Stablecoins make up about 5% and by contrast, as explained below, have a reserve
+                              backing, which can be conventional currency. An important factor driving the appeal
+                              of cryptocurrencies is that they do not rely on the structures of central banks, gov-
+                              ernments, and banks.14 This is also the case for DeFi (decentralized finance) platforms.
+
+
+
+                                14
+                                 A useful resource is the developer documentation on Ethereum’s website: https://ethereum.
+                              org/en/developer/docs/
+
+
+===== PDF 511 | 印刷页 475 =====
+
+                                                   OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+                                                                             10.4 Financial innovation and regulation   475
+
+Cryptocurrency
+Recall that in a modern economy, most money is created by banks. Its ability to
+satisfy all three properties of money (unit of account, means of exchange, and store of
+value) derives from well-functioning governance arrangements among central bank,
+government, and banks (see Figure 9.2). People trust bank money in high-income
+economies because the government guarantees deposits and will bail out failing banks
+in extremis. They trust base money because of the governance or constitution, of the
+central bank, which prevents it from monetizing any arbitrary spending decisions by
+government.
+  These reasons for trust in fiat money alert us to the possibility that in many
+countries, the institutions may not be robust enough to provide the necessary assur-
+ances. This explains why the currency of another country can become the ‘money’
+in circulation. The US dollar is legal tender in a handful of independent countries
+(including Panama, Zimbabwe, Ecuador, El Salvador, and Timor-Leste, according to
+the IMF).
+  The supply of crypto does not rely on a central bank or any government body.
+The ‘official’ public ledger (basically the blockchain of all transactions) is maintained
+by a public community of miners, instead of a large, central bank. The production
+function uses the input of energy to produce the output of crypto. It works like this:
+miners compete to solve a complex system of mathematical equations using a so-
+called ‘Hashing algorithm’. A mining rig is made up of Graphics Processing Units (GPUs)
+capable of running up to 30 million maths equations every second. This in turn is an
+infinitesimal fraction of the number of maths operations happening every second on
+cryptocurrency networks. Individual miners therefore often join a so-called ‘mining
+pool’, cumulating hashing power with thousands of other miners around the world
+and competing with other mining pools. Transactions in cryptocurrencies are verified
+through this process, which updates the ledger. Miners who solve the problem first
+are rewarded with crypto in return for their bookkeeping efforts. Since the Hashing
+algorithm is common to all miners, profits solely depend on the processing power of
+their computers and on the amount of electricity consumed.
+  Such a decentralized system of consensus formation allows for a sense of security
+amongst its users as there is no need to worry about any governmental or political
+upheaval that may occur that would devalue certain currencies. For illegal transac-
+tions, there is no government oversight. The environmental impact of cryptocurrency
+mining is substantial; a study by the University of Cambridge estimated that bitcoin
+mining alone consumes 121.36 terawatt-hours a year.15 A country consuming this
+amount of energy per year would be in the top 30 energy users worldwide, just ahead
+of Argentina. In addition, according to Cambridge’s estimates, only 39% of this energy
+comes from renewable sources.
+
+
+
+
+ 15
+    This estimate is updated regularly by the Cambridge Centre for Alternative Finance. Latest
+data on bitcoin network power demand as well as details on how this is assessed is available at:
+https://ccaf.io/cbeci/index
+
+
+===== PDF 512 | 印刷页 476 =====
+
+  OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+476   Financial stability policy
+
+
+                                        a. Confirmed transactions per day                                           b. Network value to transactions ratio
+                              400,000                                                                        100
+
+
+
+
+                                                                                 Bitcoin: Network value to
+                                                                                 transactions ratio (NVT)
+                              350,000                                                                         90
+       transactions per day
+        Bitcoin: confirmed
+
+
+
+                                                                                                              80
+                              300,000
+                                                                                                              70
+                              250,000                                                                         60
+                              200,000                                                                         50
+                              150,000                                                                         40
+                                                                                                              30
+                              100,000
+                                                                                                              20
+                               50,000                                                                         10
+                                   0                                                                           0
+                                        2009
+                                        2010
+                                         2011
+                                         2012
+                                         2013
+                                         2014
+                                         2015
+                                         2016
+                                         2017
+                                         2018
+                                         2019
+                                        2020
+                                         2021
+                                        2022
+
+
+
+
+                                                                                                                   2010
+                                                                                                                          2011
+                                                                                                                                 2012
+                                                                                                                                        2013
+                                                                                                                                               2014
+                                                                                                                                                      2015
+                                                                                                                                                             2016
+                                                                                                                                                                    2017
+                                                                                                                                                                           2018
+                                                                                                                                                                                  2019
+                                                                                                                                                                                         2020
+                                                                                                                                                                                                2021
+       Figure 10.5 Bitcoins: confirmed transactions per day and Network Value to Transaction (NVT) ratio (30 day
+       averages).
+       Source: Data from Blockchain.com, accessed October 2022.
+
+
+
+                                            Charting the use of bitcoin indicates the extent to which it satisfies each of the
+                                          three necessary conditions for ‘money’. Referring to its use as a means of exchange,
+                                          Figure 10.5a shows the confirmed daily transactions made with bitcoins. Use grew
+                                          rapidly until late in 2017, since when it appears to have plateaued with high volatility.
+                                            The appeal of bitcoin as a risky asset rather than a medium of exchange is illustrated
+                                          by Figure 10.5b, which shows the ratio of the market value of the stock of bitcoins to
+                                          the value of transactions financed by them; this is often referred to as ‘Network Value
+                                          to Transaction ratio’ (NVT). The ratio has declined but remains above 4 and is volatile.
+                                          A high NVT indicates that market capitalization remains above utilization of on-chain
+                                          transaction volume.16
+                                            Secondly, although growing, the use of bitcoin as a unit of account remains sporadic
+                                          and limited to very specific environments, such as crowdfunding for blockchain start-
+                                          ups and on gambling sites (and presumably also for black economy activities).
+                                            Thirdly, to serve as a store of value, a currency needs to be stable. Figure 10.6 plots
+                                          a measure of volatility (the 90-day moving coefficient of variation) for bitcoin and
+                                          compares it with the volatility of equities proxied by the S&P 500. The far higher
+                                          volatility of bitcoin is evident from the chart.
+
+                                          Stablecoins
+                                          Because of the volatility of cryptocurrencies, another type of unregulated digital
+                                          money emerged in the form of stablecoins. The key design feature is to maintain a
+                                          peg (typically one to one) between the stablecoin and an official numeraire (typically
+                                          the US dollar). Eichengreen (2019) explains the different types of stablecoin and their
+                                          corresponding limitations as a form of money.
+
+
+                                           16
+                                              A more detailed discussion on how NVT is computed and its implications is available at:
+                                          https://academy.glassnode.com/indicators/nvt/nvt-ratio
+
+
+===== PDF 513 | 印刷页 477 =====
+
+                                                                        OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+                                                                                          10.4 Financial innovation and regulation   477
+
+                                                                                       Bitcoin          S&P
+                                          0.6
+ 90-day moving coefficient of variation
+
+                                          0.5
+
+
+
+                                          0.4
+
+
+
+                                          0.3
+
+
+
+                                          0.2
+
+
+                                          0.1
+
+
+
+                                           0
+                                            2014   2015   2016   2017   2018   2019    2020      2021
+
+
+Figure 10.6 Bitcoin volatility compared to the S&P 500, 2014–22.
+Note: Volatility is computed as a 90-days moving average coefficient of variation.
+Source: Data from Yahoo Finance; https://ﬁnance.yahoo.com/quote/BTC-USD/history/, October 2022 and S&P
+Dow Jones Indices LLC, S&P 500 [SP500], retrieved from FRED, Federal Reserve Bank of St. Louis;
+https://fred.stlouisfed.org/series/SP500, January 12, 2023. S&P© and S&P 500© are registered trademarks of
+Standard & Poor’s Financial Services LLC, and Dow Jones© is a registered trademark of Dow Jones Trademark
+Holdings LLC. © 2023 S&P Dow Jones Indices LLC, its afﬁliates and/or its licensors. All rights reserved.
+
+
+
+Type 1 is a fiat currency fully collateralized stablecoin. A fully backed stablecoin is
+costly to operate, as every new unit needs to be funded by commercial bank deposits.
+Hence, such a currency is not likely to be scalable as there is no real incentive to
+hold the stablecoin as opposed to deposits at commercial banks. However, in 2021,
+Tether rapidly expanded its stock of tokens and it has revealed that they are now
+backed by riskier assets. Regulators are concerned about possible risks for financial
+stability.17
+                   In countries where there is very limited access to accounts at commercial banks, a
+fully backed stablecoin can play an important role in extending financial inclusion.
+The most well developed example is M-Pesa in Kenya. Unlike Tether, the assets
+of M-Pesa are fully collateralized: ‘When you purchase e-money units, you deliver
+Kenyan currency to an agent, who creates fresh M-Pesa units on your behalf with
+Safararicom/M-Pesa. The exchange of e-money for shillings is free, provided the
+
+
+  17
+     See Tett, G. (2021), ‘Stablecoin investors may be due a wake-up call’. Article published
+in Financial Times, 14 October 2021. https://www.ft.com/content/b729cf08-6beb-4d75-b19e-
+779d2d3a14ce
+
+
+===== PDF 514 | 印刷页 478 =====
+
+  OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+478   Financial stability policy
+
+
+                            correct cash-collateral (shillings) is delivered, and is something that adds to the
+                            M-Pesa money supply.’18 The shillings are re-invested in a Trust Fund and held in
+                            commercial bank accounts approved by the Government of Kenya.
+
+                            Type 2    is a crypto collateralized stablecoin (e.g. Dai). In this case it is another crypto-
+                            currency that is held as collateral to back the stablecoin. The obvious drawback of this
+                            type of stablecoin is that the collateral value is highly volatile; hence, the stablecoin
+                            must be overcapitalized (i.e. over-collateralized) to be a credible store of value.
+
+                            Type 3 is a partially collateralized stablecoin. To maintain a stable value, the platform
+                            sells and buys Saga tokens in return for Ethereum (another cryptocurrency) and
+                            invests the proceeds in the fiat currencies that make up the IMF’s Special Drawing
+                            Rights (SDR) basket. As specified in the Saga white paper: ‘. . . inherent value is derived
+                            from a combination of factors: market confidence, usefulness as means of exchange,
+                            sentiment, and future prospects.’ Hence, if doubt arises about the convertibility of Saga
+                            tokens into the currencies in the SDR basket, investors will seek to cash out producing
+                            a collapse in the value of the token.
+
+                            Type 4    is an uncollateralized stablecoin. In this case so-called smart contracts are
+                            used to manage the supply of the digital coin with the goal of maintaining its value
+                            against the dollar. The stablecoin platform issues both digital coins and digital bonds,
+                            and the smart contract sells bonds for coins when the price of the latter dips and vice
+                            versa in terms of dollars. Clearly, the viability of such schemes depends on success in
+                            achieving growth of the platform, since without additional stablecoin holders, there
+                            will be nothing with which to pay bondholders.19
+
+                            This overview of crypto and stablecoins highlights their shortcomings as money. A
+                            great deal of talent has been attracted into the crypto and stablecoin communities.
+                            However limited are the prospects for crypto as ‘money’, a different use case has
+                            emerged. It has spawned the development of non-fungible tokens and the associated
+                            digital market places. Work is under way to investigate the potential for blockchain
+                            technology and tokenization to enable purchasers of climate-related bonds to track
+                            the associated carbon credits ‘in real time’. The possibility of attaching future carbon
+                            offsets via tokens to green bonds could make such bonds more attractive. Innovations
+                            in digital money and blockchain technology have attracted the attention of central
+                            banks exploring central bank digital currency as well as green bonds, and also of policy
+                            makers concerned about risks to financial stability
+
+
+
+
+                              18
+                                 Quote from Izabella Kaminska’s article: Kaminska, I. (2012), ‘More on M-pesa and e-money’.
+                            Article published in Financial Times, 20 July 2012. https://www.ft.com/content/7befd715-be92-
+                            34f1-be58-df775e5677a5. For evidence on the impact of M-Pesa on poverty, see Suri, T. and Jack, W.
+                            (2016), ‘The long-run poverty and gender impacts of mobile money’, Science 354(6317), 1288–1292.
+                            doi:https://doi.org/10.1126/science.aah5309.
+                              19
+                                 Eichengreen (2019) highlights the similarity between such a financing structure and a Ponzi
+                            scheme, which is a fraud in which existing investors in the scheme are paid from the investments
+                            of new participants, rather than from the returns to the investment.
+
+
+===== PDF 515 | 印刷页 479 =====
+
+                                                        OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+                                                                                    10.4 Financial innovation and regulation   479
+
+Implications for ﬁnancial stability
+1. Asset price volatility: Asset price volatility is only a financial stability concern when
+   there are knock-on effects to the financial system and the real economy. To date,
+   banks have limited direct exposure to crypto and this risk is limited.
+2. Leverage and interconnection with the banking system: However, the spillover
+   from crypto price falls could occur through the liquidity channel as leveraged
+   investors have to sell crypto and other assets quickly to acquire liquidity, sending
+   the prices yet lower. A lack of transparency means it is impossible to know the size
+   of this risk.
+3. Payments system: This relates to stablecoins because the price volatility of
+   unbacked crypto makes them unsuitable for use as a settlement asset in payment
+   systems. Stablecoins have the potential to create a parallel payments system. There
+   is a risk to financial stability---the payments system---unless the standards that
+   apply to the conventional payments system apply to a stablecoin-based payment
+   system that is, or could become, of systemic importance.
+4. Substitution from banks: The stability of banks could be at risk if in a nascent
+   banking panic, depositors run to stablecoin.20
+
+DeFi (decentralized ﬁnance) platforms
+In 2022, this was a recent phenomenon attracting the attention of financial stability
+regulators.21 These platforms are defined by using both unbacked cryptocurrency and
+stablecoins to create a variety of financial services. The platform aggregates these
+services, which are provided through smart contracts on a blockchain without an
+intermediary. Unlike traditional finance, anyone who can provide the required amount
+of collateral can use the platform in an automated transaction. Anyone can access
+the code. In contrast to traditional finance, there is no element of trust involved.
+Identities and credit-ratings are not checked. This is replaced on DeFi platforms by
+the requirement that transactions are over-collateralized and the enforcement of
+the required margins through smart contracts. This emergent decentralized financial
+services system has no governance structure and there are no ‘rules of the game’ or
+disclosure to enable monitoring of systemic risks.
+
+10.4.3 Central bank digital currency
+The Bank of England explains what a central bank digital currency is:
+
+     (CBDC) would represent a new form of money in the economy and be available
+     to the public for general use. Unlike banknotes, CBDC would be electronic. And
+     unlike reserves, which are electronic money holdings by financial institutions
+     at the central bank, CBDC would be available to households and businesses. For
+
+
+ 20
+     See Cunliffe, J. (2021), ‘Is ‘crypto’ a financial stability risk?’. https://www.bankofengland.co.uk/
+speech/2021/october/jon-cunliffe-swifts-sibos-2021
+  21
+     Financial Stability Board (2022), ’Assessment of risks to financial stability from crypto-assets’.
+https://www.fsb.org/wp-content/uploads/P160222.pdf
+
+
+===== PDF 516 | 印刷页 480 =====
+
+  OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+480   Financial stability policy
+
+
+                                    this reason, CBDC is sometimes described as being similar to a ‘digital banknote’.
+                                    Issued by the Bank of England, CBDC would be the safest form of digital money
+                                    available for use by the general public.
+
+                               There are many possible configurations of CBDC under consideration in central
+                            banks around the world.22 One suggestion is that citizens would be able to have their
+                            own reserve accounts at the central bank, earning the policy rate (interest on reserves).
+                            The implications for commercial banks are one consideration in the design of a CBDC.
+                            An important issue is the potential run on commercial banks in a time of financial
+                            market stress if households have the option of withdrawing deposits and lodging them
+                            in their account at the central bank. This could be mitigated by the central bank lending
+                            the commercial banks reserves to replace the deposits.
+                               A survey of 66 central banks on motivations behind the introduction of retail CBDCs
+                            shows that the safety and efficiency of domestic payments and financial stability are
+                            the most important ones (Boar and Wehrli, 2021). Also, many respondents cited the
+                            decreasing use of cash and the need for financial inclusion for those without access to
+                            bank accounts for digital transactions. The survey results show that, consistent with
+                            the earlier discussion of M-Pesa, the financial inclusion motivation is even stronger in
+                            lower income economies.
+                               A related reason for introducing CBDCs is to facilitate the transmission of monetary
+                            policy. If retail accounts at the central bank earned the policy rate, then there would
+                            be a direct transmission of changes in monetary policy to households. In a world
+                            in which banknotes have largely disappeared from use, the central bank could set
+                            negative interest rates, releasing it from the zero lower bound constraint. Alternatively,
+                            in situations where the government deems it necessary to make direct money transfers
+                            to households (such as in a pandemic), the use of CBDC could facilitate this.
+                               With the rapid displacement of banknotes by digital payments, central banks wish to
+                            ensure that the payments infrastructure is not run solely by the private sector. In an
+                            interesting parallel with debates in the 1980s about privatization of other essential
+                            infrastructure services like water, electricity and telecommunications, the aim of
+                            policy makers is to take advantage of the innovations arising in the private sector while
+                            ensuring that external costs are accounted for. A major concern is that the network
+                            character of the payments infrastructure is likely to produce a private monopoly in
+                            digital transactions unless there is participation by a CBDC. The spillovers from a
+                            failure of the digital payments system to the rest of the economy are very high and
+                            not internalized by a private sector provider.
+                               The Bank of England suggests that central banks should provide the minimum level
+                            of infrastructure for the digital payments system to be resilient, fast, reliable and
+                            efficient but that it should encourage ‘diverse participants’ including banks, FinTech,
+                            and Big Tech firms to respond to the needs of end users.
+                               Issues of anonymity and privacy are under debate in relation to CBDC. One of the
+                            attractions of crypto is anonymity. Survey evidence in the US indicates that traditional
+
+
+
+                              22
+                                   See https://cbdctracker.org
+
+
+===== PDF 517 | 印刷页 481 =====
+
+                                                 OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+                                                                         10.4 Financial innovation and regulation   481
+
+financial institutions like banks are ranked more trustworthy with handling data safely
+than, in order, FinTechs, government agencies, and Big Techs. Traditional financial
+institutions also rank above FinTechs and non-financial services companies in studies
+of a large number of high- and middle-income countries (Armantier et al., 2021 and
+Chen et al., 2021). Although the use of blockchain technology is under discussion in
+relation to CBDC, there is no necessary connection between the two. CBDC benefits
+from the ‘cheap’ technology of the production of trust that is characteristic of fiat
+money and does not require the extremely costly energy-intensive mining to verify
+transactions by ‘proof of work’ on the distributed ledger that is the hallmark of
+bitcoin. The Ethereum cryptocurrency shifted from ‘proof of work’ to the less energy-
+intensive ‘proof of stake’ method of validating transactions in 2022, but there may
+be inherent (rather than technological) contradictions in scaling up the transactions
+that can be handled in the blockchain (i.e. processed and settled) while maintaining
+decentralization and security.
+  There are implications for financial stability. Central banks and financial regulators
+at national and global levels are actively exploring CBDC and its possible implications
+for financial stability. This work is influenced by the innovations in the private digital
+currency space and the regulatory issues emerging there. One argument is that a
+CBDC could play a role in mitigating some of the risks arising from private digital cur-
+rencies. It could reinforce the traditional role that base money plays in underpinning
+private money (bank money). However, the following concerns have been identified.23
+
+1. Risks to financial intermediation: This is the risk that a central bank digital
+   currency could lead to the substitution of deposits at the central bank replacing
+   those in banks, threatening their business model. However, it is noted that banks
+   have responded to such threats repeatedly over history and that given the expected
+   take-up of CBDC, this is unlikely to be a major financial stability threat.
+2. Risks in a banking crisis: Taken more seriously is the possibility that when a CBDC
+   exists, this could increase the risk of a bank run because, in contrast to banknotes,
+   the CBDC can be held in large volumes. If there was fear of a run on a retail bank,
+   depositors would withdraw their deposits and place them in their CBDC account,
+   exacerbating the run on the bank. However, existing institutional defences against
+   a bank run in the form of banking regulation of capitalization, deposit insurance
+   and resolution regimes are substantial. It has been suggested that a CBDC could
+   assist effective regulation by providing real-time information on deposit flows and
+   enabling the central bank to stabilize expectations rapidly.
+
+
+
+
+  23
+     Panetta, F., Mehl, A., Newmann, C. M. and Jamet, J. F. (2022), ’Monetary policy and
+financial stability implications of central bank digital currencies’, VoxEU/Columns 13 April
+2022. https://cepr.org/voxeu/columns/monetary-policy-and-financial-stability-implications-
+central-bank-digital-currencies
+
+
+===== PDF 518 | 印刷页 482 =====
+
+  OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+482   Financial stability policy
+
+
+                            10.5 CONCLUSIONS
+                            The financial crisis shifted the attention of macroeconomic policy makers away from
+                            the twin objectives of inflation targeting and public debt management, which had pre-
+                            occupied them since the 1980s. It revealed the following:
+
+                            • Inflation-targeting monetary policy alone cannot be relied on to safely stabilize the
+                              economy when it is in the upswing phase of a financial cycle.
+                            • In the upswing, borrowing by the household and banking sectors is too high, and
+                              makes the economy vulnerable to a financial crisis. This process is driven by banks,
+                               who receive an implicit subsidy for risk-taking.
+                            • In a normal recession, monetary policy relies for its effectiveness on reducing
+                              interest rates to induce more borrowing by households and firms (a move down the
+                               IS curve to the right). It is therefore especially ill-suited to work well in a recession
+                               following a financial crisis when households and firms are seeking to reduce their
+                               leverage because of the debt-overhang.
+                            • The state of government finances is flattered by the upswing of a financial cycle
+                              because the housing and financial sectors provide strong inflows of tax revenue.
+                            • A financial crisis dramatically worsens the government’s fiscal position for three
+                              reasons: (a) operation of the automatic stabilizers; (b) discretionary fiscal stimulus
+                               in the crisis phase; (c) bailing out banks.
+                            • The desire for de-leveraging by households and banks leads governments to use
+                              fiscal policy to support aggregate demand in a post-crisis recession. This further
+                               worsens the government’s fiscal position, increasing government debt.
+
+                               In response to these lessons, in the post-crisis world, central banks have seen
+                            their remits widen to include more responsibility for banking regulation and financial
+                            system oversight. We can summarize the findings of this chapter as follows:
+
+                             1. Financial stability reforms include structural measures (raising capital adequacy
+                                   ratios, improving resolution regimes so that bail-in and not bail-out is the default,
+                                   separating retail from shadow banking activities) and the associated surveillance
+                                   at national and international level. New institutions such as a Financial Policy
+                                   Committee have been introduced to implement ongoing macro-prudential reg-
+                                   ulation including loan-to-value ratios. The concept of ‘growth at risk’ has the
+                                   potential to help discipline consideration and communication of policy trade-offs
+                                   by comparing, for example, short-term gains accruing from lower interest rates
+                                   (which encourage risk-taking) with the potential long-term threat to financial
+                                   stability.
+                             2. Reduced bank lending following the global financial crisis brought about a system
+                                   of somewhat smaller, safer commercial banks, opening a window for Fintech and
+                                   Big Tech firms to enter the market by providing bank-like services. Moreover,
+                                   blockchain has garnered attention as a potential substitute for the technology and
+                                   institutions of commercial banks and, to some extent, the services of central banks.
+                                   However, unregulated currencies like crypto do not qualify as ‘money’ due to their
+
+
+===== PDF 519 | 印刷页 483 =====
+
+                                                  OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+                                                                                         Questions and Problems   483
+
+  high volatility and very limited use as a medium of exchange. Nevertheless, the
+  appeal of different forms of digital payments has prompted a discussion around
+  the introduction of central bank digital currencies (CBDCs), which many central
+  banks believe could provide more safety and efficiency in domestic payments,
+  address problems of financial inclusion and improve the transparency of monetary
+  policy.
+3. The upside of the financial innovation brought about directly by FinTech and Big
+  Tech firms and cryptocurrencies, and indirectly by the response to competition by
+  incumbent banks, is new services and greater financial inclusion. This needs to be
+  evaluated in the light of the implications for financial stability and for competition
+  in the longer term. More efficient and varied financial services can reduce risks. But
+  under the pressure of greater competition, incumbent banks take riskier decisions
+  and the screening of risky entrepreneurial projects may get worse. In China, Big
+  Tech firms are depositing customer funds directly with banks rather than going
+  through the payments system supervised by the central bank, potentially creating
+  an unregulated parallel payment system. Risk-taking may be transferred from banks
+  to the new players, creating systemic risk outside the regulated sector. As we saw
+  in Chapter 9, it was the spillover from the unregulated shadow banking sector to
+  banks that was at the core of the global financial crisis of 2007–09, as had been the
+  case for many earlier financial crises.
+
+
+
+
+        QUESTIONS AND PROBLEMS FOR CHAPTER 10
+        CHECKLIST QUESTIONS
+            1. What is the relationship between a bank’s leverage and its risk-weighted
+              capital adequacy ratio? Refer to the relevant elements of the bank’s
+              balance sheet.
+
+            2. Evaluate the following claim: ‘Higher capital ratios for banks are costly for
+              society as they increase banks’ cost of capital’.
+
+            3. Explain in your own words what the Modigliani-Miller theorem proves.
+              Is there any difference in applying it to banks and non-banks?
+
+            4. Explain how replacing a ‘bail-out’ regime by a ‘bail-in’ one could be
+              expected to influence a bank’s business model.
+
+            5. Use Figure 10.1 to provide a one-paragraph summary of what went wrong
+              in the global financial crisis.
+
+            6. Compare how a bank’s bondholders fare in a bail-in as compared with a
+              bail-out regime.
+
+
+===== PDF 520 | 印刷页 484 =====
+
+  OUP CORRECTED PROOF – FINAL, 2/11/2023, SPi
+
+
+
+
+484   Financial stability policy
+
+
+                                    7. Justify a scenario in which, for macroprudential reasons, the loan-to-
+                                      value ratio for home loans is reduced.
+
+                                    8. What is an implicit funding subsidy to banks? Who pays and who receives
+                                      the subsidy and why?
+
+                                    9. How do stablecoins differ from a cryptocurrency like bitcoin and from
+                                      a Central Bank Digital Currency? Do they pose different risks to the
+                                      financial system?
+
+                                   10. How have digital finance technologies contributed to consumer welfare?
+                                      Provide examples from high- and low-income economies.
+
+
+                                   PROBLEMS
+                                   1. Should central banks burst asset price bubbles? In your answer, specify
+                                      the asset class you are considering, and refer to analysis of this question
+                                      by officials in a central bank (other than the US Federal Reserve). Consider
+                                      how a bubble can be identified, whether all bubbles are bad, and what is
+                                      the central bank’s role in bursting a bubble.
+
+                                   2. What could explain why there was no financial crisis following the loss
+                                      of $5 trillion in the dotcom crash of the early 2000s but there was one
+                                      following the loss of $1.2 trillion in the sub-prime crisis of 2008? What
+                                      would be the estimated loss if the price of bitcoin fell to zero? Would you
+                                      expect the consequences to be more like the dotcom or the sub-prime
+                                      crisis?
+
+                                   3. Go to CORE Econ’s CORE Insight: Too big to fail: Lessons from a decade
+                                      of financial sector reforms and complete Exercise 1 on the balance sheet
+                                      of Barclays Bank and how it changed between 2006 and 2020. https://
+                                      www.core-econ.org/insights/too-big-to-fail/text/01.html#exercise-1-
+                                      transformation-of-bank-balance-sheet-composition
+
+                                   4. Go to CORE Econ’s CORE Insight: Too big to fail: Lessons from a decade
+                                      of financial sector reforms and complete Exercise 2 on the evolution of
+                                      the funding cost advantages of systemically important banks. https://
+                                      www.core-econ.org/insights/too-big-to-fail/text/01.html#exercise-2-
+                                      evolution-of-sibs-funding-cost-advantages
+
+
+                                   INTERESTED IN EXPLORING THESE TOPICS FURTHER?
+                                   Visit www.oup.com/he/carlin-soskice to consolidate and extend your learn-
+                                   ing with the multiple-choice questions accompanying this chapter.

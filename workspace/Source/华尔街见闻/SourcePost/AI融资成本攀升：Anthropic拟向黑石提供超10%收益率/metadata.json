@@ -1,0 +1,73 @@
+{
+  "article_id": 3783838,
+  "selection": {
+    "article_id": 3783838,
+    "url": "https://wallstreetcn.com/articles/3783838",
+    "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
+    "page_display_time": "2026-10-17T16:14:47+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "信用与融资结构",
+    "reading_priority": "B",
+    "reading_value": "拆解AI芯片融资的分层、票息、发行折价和风险溢价，提供真实交易结构案例。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1316,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 44
+  },
+  "url": "https://wallstreetcn.com/articles/3783838",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783838?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:20+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
+  "page_display_time": "2026-10-17T16:14:47+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "Anthropic正推进代号“Project North Star”的600亿美元芯片债务融资，创历史纪录。为筹得资金，公司向锚定投资人黑石集团提供逾10%收益率，借贷成本仅四个月即显着飙升。此举意在上市前锁定算力储备，以高息套利押注上市后通过评级提升降低成本。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1399,
+  "body_sha256": "a9c2560676a734b073720d81a4725f9c08526361738a7c8f96f673c210d14b02",
+  "raw_sha256": "bad6e949d0be7aef1c7f84405da319963f8dd97962757d7a129cc9ecb15aada8",
+  "raw_bytes": 7281,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/dc10a70b-92e7-4d15-aa01-a33dab3f1b3c.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1316,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "bad6e949d0be7aef1c7f84405da319963f8dd97962757d7a129cc9ecb15aada8",
+      "bytes": 7281
+    },
+    "article.html": {
+      "sha256": "c3be49fd53ff6d8b8e7f57f7544f3c2ca86ff17272661a1f49b0fa0fad4ceee3",
+      "bytes": 7033
+    },
+    "article.md": {
+      "sha256": "df5552d30703f0516c92ea308c45e1a68ee6357770badc0daa2719a17ed9efeb",
+      "bytes": 4346
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:15+08:00"
+}

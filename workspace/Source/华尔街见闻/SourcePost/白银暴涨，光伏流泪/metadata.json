@@ -1,0 +1,98 @@
+{
+  "article_id": 3763442,
+  "selection": {
+    "article_id": 3763442,
+    "url": "https://wallstreetcn.com/articles/3763442",
+    "title": "白银暴涨，光伏流泪",
+    "page_display_time": "2026-01-16T12:55:41+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "鲍奕龙",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004827",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "能源、商品与航运",
+    "reading_priority": "A",
+    "reading_value": "量化白银涨价向光伏组件成本的传导，并讨论停产、提价与节银替代。",
+    "starter_selection": true,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1549,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 87
+  },
+  "url": "https://wallstreetcn.com/articles/3763442",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3763442?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:33+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/c170b9b7-ce3e-4eaf-bc07-ba8628de7e39.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "这种涨幅摧毁了光伏行业的成本模型。 据彭博新能源财经数据显示，银浆在光伏组件总成本中的占比，已从2023年的3.4%飙升至目前的29%。银浆已经正式取代硅料，成为光伏组件的第一大成本要素。",
+      "path": "assets/figure_001.png",
+      "sha256": "9fe6a905505f3b6aec678658c159855f56d9c4b74a3872293f4ca19f4e49e466",
+      "bytes": 40002,
+      "width": 911,
+      "height": 531,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/c170b9b7-ce3e-4eaf-bc07-ba8628de7e39.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "白银暴涨，光伏流泪",
+  "page_display_time": "2026-01-16T12:55:41+08:00",
+  "page_byline": "鲍奕龙",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "据彭博新能源财经数据显示，银浆在光伏组件总成本中的占比，已从2023年的3.4%飙升至目前的29%。银浆已经正式取代硅料，成为光伏组件的第一大成本。白银涨价潮下，光伏制造商正提高价格，并加快用铜等更便宜的材料替代白银的计划，预计今年该行业白银的使用量将减少约 17%。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1620,
+  "body_sha256": "44395ca41a7ef21c596dee15d902e56bc78026a93b84ad77c0dfa5f620a58dc4",
+  "raw_sha256": "462e1d230cd9469eea2d675d13a69bcf2db3d0903ae47b1cbbad5e086514dce3",
+  "raw_bytes": 9952,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/6b4da3dd-3049-4c21-92da-69aa9fcbbf8c.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1549,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "华尔街见闻提及",
+      "url": "https://wallstreetcn.com/articles/3763411"
+    },
+    {
+      "text": "此前华尔街见闻提及",
+      "url": "https://wallstreetcn.com/articles/3762276"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:36+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "462e1d230cd9469eea2d675d13a69bcf2db3d0903ae47b1cbbad5e086514dce3",
+      "bytes": 9952
+    },
+    "article.html": {
+      "sha256": "e31cd560d436ed577e76d812a4f66a1d2bd7682b994b472ce0d3f5ac00bbaa1f",
+      "bytes": 9417
+    },
+    "article.md": {
+      "sha256": "5f19c34df147559533f9d1a75d37498cc549af2756a2993c3f341761a7df16a9",
+      "bytes": 5399
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:23+08:00"
+}

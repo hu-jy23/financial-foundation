@@ -1,0 +1,117 @@
+{
+  "article_id": 3784527,
+  "selection": {
+    "article_id": 3784527,
+    "url": "https://wallstreetcn.com/articles/3784527",
+    "title": "黄金避险逻辑变了！大摩：股市暴跌时未必管用，但能对冲美债危机",
+    "page_display_time": "2026-10-27T10:27:04+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "黄金与贵金属",
+    "reading_priority": "A",
+    "reading_value": "比较黄金在股票和国债抛售中的不同表现，说明避险作用依赖被对冲风险和具体样本。",
+    "starter_selection": true,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2225,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 82
+  },
+  "url": "https://wallstreetcn.com/articles/3784527",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784527?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:32+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/23e08d00-171e-40a2-8546-8716c0a21782.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "在这一逻辑转变的背景下，摩根士丹利维持黄金为金属类资产首选， 并设定2027年第二季度目标价5000美元/盎司。 尽管美联储自2023年以来首次重启加息、10年期美债收益率升至本世纪初以来高位，金价仍较8月高点仅回落约10%，目前维持在4000美元/盎司上方。摩根士丹利将这一韧性归因于央行持续购金与ETF资金大规模流入所形成的结构性需求支撑。",
+      "path": "assets/figure_001.png",
+      "sha256": "aca0c17bdf9d47240e9bac678fa9f650ae36283abd3345e9a8527d22fc777f1f",
+      "bytes": 468626,
+      "width": 1234,
+      "height": 926,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/23e08d00-171e-40a2-8546-8716c0a21782.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_002.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "黄金避险逻辑变了！大摩：股市暴跌时未必管用，但能对冲美债危机",
+  "page_display_time": "2026-10-27T10:27:04+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "摩根士丹利表示，黄金对冲股市的神话已经结束。2020年以来，黄金在极端股市抛售中非但不能护盘，反而放大损失；但在美债剧烈抛售时，其缓冲价值却日益凸显，正从利率交易工具蜕变为对抗财政与主权信用风险的核心武器。央行购金创纪录、ETF单季净流入史上最高，结构性需求重塑金价逻辑，大摩目标价直指2027年5000美元/盎司。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2297,
+  "body_sha256": "785cd6e38d42e11f2a4640bc8655c6f5638d6aace260047e7a1adea22696d7d1",
+  "raw_sha256": "38163a72442638a0a09d1f67027e2d29e0b4d00ef01f0bc46314ff9868398a15",
+  "raw_bytes": 11649,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/1670bb1c-575d-4a22-a2d2-c11c9942add3.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 2225,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:36+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "38163a72442638a0a09d1f67027e2d29e0b4d00ef01f0bc46314ff9868398a15",
+      "bytes": 11649
+    },
+    "article.html": {
+      "sha256": "ae89baa5fdc9f1b2c682fcf358d81998847c95517fb10b811f8017ac5dd35094",
+      "bytes": 11395
+    },
+    "article.md": {
+      "sha256": "a938d53025652ecd5404d79c3a0fee842be9779c14acf579d666e715c319df29",
+      "bytes": 7696
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:22+08:00"
+}

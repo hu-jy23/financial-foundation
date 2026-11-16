@@ -1,0 +1,216 @@
+{
+  "id": "A2",
+  "title": "Economics of Money and Banking — Perry Mehrling",
+  "directory": "A2_货币与银行课程_Mehrling",
+  "original_language": "en",
+  "source_urls": [
+    "https://sites.bu.edu/perry/lectures/mb-lectures/",
+    "https://sites.bu.edu/perry/files/2019/01/Lec-07-Repos-Postponing-Settlement.pdf",
+    "https://sites.bu.edu/perry/files/2019/01/Lec-12-Lender-or-Dealer-of-Last-Resort.pdf"
+  ],
+  "files": [
+    {
+      "file": "Lecture_05_Lec-05-The-Central-Bank-as-a-Clearinghouse.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-05-The-Central-Bank-as-a-Clearinghouse.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-05-The-Central-Bank-as-a-Clearinghouse.pdf",
+      "scope": "第5讲完整讲义",
+      "bytes": 171178,
+      "sha256": "9a65dd89ba98e0523d397f6b7ba6470d82ccf20fc5f877d5de72a1043f4e0c57",
+      "pages": 5
+    },
+    {
+      "file": "Lecture_06_Lec-06-Federal-Funds-Final-Settlement.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-06-Federal-Funds-Final-Settlement.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-06-Federal-Funds-Final-Settlement.pdf",
+      "scope": "第6讲完整讲义",
+      "bytes": 130943,
+      "sha256": "9fd18ef90d3f1bf6c884835cbb89a0ea7f30207bd5622bd9d709b2808a8008cc",
+      "pages": 7
+    },
+    {
+      "file": "Lecture_04_Lec-04-The-Money-View-Micro-and-Macro.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-04-The-Money-View-Micro-and-Macro.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-04-The-Money-View-Micro-and-Macro.pdf",
+      "scope": "第4讲完整讲义",
+      "bytes": 174070,
+      "sha256": "9ff903c0302a35fcff88c7fe81feb86628750e57d4bda939572dfe885604076b",
+      "pages": 10
+    },
+    {
+      "file": "Lecture_03_Lec-03-Money-and-the-State-Domestic.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-03-Money-and-the-State-Domestic.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-03-Money-and-the-State-Domestic.pdf",
+      "scope": "第3讲完整讲义",
+      "bytes": 194098,
+      "sha256": "2da48d2bbb13e29b35d56ed340eef6354d5068d855108aec7f79edb9f4eefdfa",
+      "pages": 7
+    },
+    {
+      "file": "Lecture_01_Lec-01-The-Four-Prices-of-Money.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-01-The-Four-Prices-of-Money.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-01-The-Four-Prices-of-Money.pdf",
+      "scope": "第1讲完整讲义",
+      "bytes": 95259,
+      "sha256": "e9f9b1921b15c581f72cf9dac002560b2a1b37019bfac1f01d09543ba4842588",
+      "pages": 5
+    },
+    {
+      "file": "Lecture_09_Lec-09-The-World-that-Bagehot-Knew.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-09-The-World-that-Bagehot-Knew.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-09-The-World-that-Bagehot-Knew.pdf",
+      "scope": "第9讲完整讲义",
+      "bytes": 188466,
+      "sha256": "3687e92cf176c8ffc1907e5ff7febcfb4da51df06766f78faf328f08db0e8306",
+      "pages": 8
+    },
+    {
+      "file": "Lecture_02_Lec-02-The-Natural-Hierarchy-of-Money.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-02-The-Natural-Hierarchy-of-Money.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-02-The-Natural-Hierarchy-of-Money.pdf",
+      "scope": "第2讲完整讲义",
+      "bytes": 147279,
+      "sha256": "2ab6e4a22d017b41adfb62321db084f395b08f0ac8f3e7ccd15361c9eb30521d",
+      "pages": 8
+    },
+    {
+      "file": "Lecture_11_Lec-11-Banks-and-The-Market-for-Liquidity.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-11-Banks-and-The-Market-for-Liquidity.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-11-Banks-and-The-Market-for-Liquidity.pdf",
+      "scope": "第11讲完整讲义",
+      "bytes": 220196,
+      "sha256": "4be49ac75c60b70d55114728fcac7d67685cf24b693bd5eb2fc94c1074acfd7e",
+      "pages": 7
+    },
+    {
+      "file": "Lecture_13_Lec-13-Chartalism-Metallism-and-Key-Currencies.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-13-Chartalism-Metallism-and-Key-Currencies.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-13-Chartalism-Metallism-and-Key-Currencies.pdf",
+      "scope": "第13讲完整讲义",
+      "bytes": 412327,
+      "sha256": "6c39bb12fbcc9919754dd3bdee939b5eba7e7f1ca99f9cd818321137364d870d",
+      "pages": 9
+    },
+    {
+      "file": "Lecture_14_Lec-14-Money-and-the-State-International.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-14-Money-and-the-State-International.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-14-Money-and-the-State-International.pdf",
+      "scope": "第14讲完整讲义",
+      "bytes": 188633,
+      "sha256": "5785549fbbca95535ca7ec49f72a2c9d62389024f80d858b3ab64921337b495d",
+      "pages": 6
+    },
+    {
+      "file": "Lecture_10_Lec-10-Dealers-and-Liquid-Security-Markets.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-10-Dealers-and-Liquid-Security-Markets.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-10-Dealers-and-Liquid-Security-Markets.pdf",
+      "scope": "第10讲完整讲义",
+      "bytes": 146052,
+      "sha256": "7edc4d419055c3da051571d2acf7a824443e13d90f381560dd267602fea72ef2",
+      "pages": 7
+    },
+    {
+      "file": "Lecture_08_Lec-08-Eurodollars-Parallel-Settlement.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-08-Eurodollars-Parallel-Settlement.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-08-Eurodollars-Parallel-Settlement.pdf",
+      "scope": "第8讲完整讲义",
+      "bytes": 46823,
+      "sha256": "62619b1d65380a003eff0deba11eac8bd04a8521e475601f6f7a18e4b81efbb0",
+      "pages": 8
+    },
+    {
+      "file": "Lecture_12_Lec-12-Lender-or-Dealer-of-Last-Resort.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-12-Lender-or-Dealer-of-Last-Resort.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-12-Lender-or-Dealer-of-Last-Resort.pdf",
+      "scope": "第12讲完整讲义",
+      "bytes": 275999,
+      "sha256": "c0fc3e3c2a11f8883befbe467748609f2485ed05f19b83b2d7f6349b1e471fac",
+      "pages": 11
+    },
+    {
+      "file": "Lecture_07_Lec-07-Repos-Postponing-Settlement.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-07-Repos-Postponing-Settlement.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-07-Repos-Postponing-Settlement.pdf",
+      "scope": "第7讲完整讲义",
+      "bytes": 41350,
+      "sha256": "6d222028e4cf522cb119db37f36a604d644d63911446b8e0c516283a27be0a6a",
+      "pages": 6
+    },
+    {
+      "file": "Lecture_15_Lec-15-Banks-and-Global-Liquidity.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-15-Banks-and-Global-Liquidity.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-15-Banks-and-Global-Liquidity.pdf",
+      "scope": "第15讲完整讲义",
+      "bytes": 582222,
+      "sha256": "6fd2e82d79b9bdddb9889f26da98c328509b5f7477ddb1eeebd42d3df414d760",
+      "pages": 6
+    },
+    {
+      "file": "Lecture_16_Lec-16-Foreign-Exchange.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-16-Foreign-Exchange.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-16-Foreign-Exchange.pdf",
+      "scope": "第16讲完整讲义",
+      "bytes": 1238848,
+      "sha256": "130c71cb7af5e9df4c6120f5b31fe5a3ee309d7be11d024f86b7cab301725e81",
+      "pages": 7
+    },
+    {
+      "file": "Lecture_17_Lec-17-Direct-and-Indirect-Finance.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-17-Direct-and-Indirect-Finance.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-17-Direct-and-Indirect-Finance.pdf",
+      "scope": "第17讲完整讲义",
+      "bytes": 282918,
+      "sha256": "319eaf1658b35495f8570464bd614cbbd68a914dbc212ba0486faf3f46d2929f",
+      "pages": 9
+    },
+    {
+      "file": "Lecture_18_Lec-18-Forwards-and-Futures.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-18-Forwards-and-Futures.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-18-Forwards-and-Futures.pdf",
+      "scope": "第18讲完整讲义",
+      "bytes": 133341,
+      "sha256": "19b67a1bcce2827da9c7505fa34bc6fc513faac4600c6a365302c755675bcc11",
+      "pages": 8
+    },
+    {
+      "file": "Lecture_20_Lec-20-Credit-Derivatives.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-20-Credit-Derivatives.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-20-Credit-Derivatives.pdf",
+      "scope": "第20讲完整讲义",
+      "bytes": 132618,
+      "sha256": "874f3f56f1aff39c76ac207bdcfa888758171b2f2b90eeaf7afaaa97851a03d1",
+      "pages": 7
+    },
+    {
+      "file": "Lecture_19_Lec-19-Interest-Rate-Swaps.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-19-Interest-Rate-Swaps.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-19-Interest-Rate-Swaps.pdf",
+      "scope": "第19讲完整讲义",
+      "bytes": 174159,
+      "sha256": "19d93916a9f1dc87412652754b0cf57a26ef9cac8b51a12996c8c3ce817e88bc",
+      "pages": 6
+    },
+    {
+      "file": "Lecture_22_Lec-22-Touching-the-Elephant-three-views.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-22-Touching-the-Elephant-three-views.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-22-Touching-the-Elephant-three-views.pdf",
+      "scope": "第22讲完整讲义",
+      "bytes": 388946,
+      "sha256": "661e60b437af4ae6e19745ebb3bf6c55b5275d969dab1e3283b329e584ca6343",
+      "pages": 11
+    },
+    {
+      "file": "Lecture_21_Lec-21-Shadow-Banking-Central-Banking.pdf",
+      "source_url": "https://sites.bu.edu/perry/files/2019/01/Lec-21-Shadow-Banking-Central-Banking.pdf",
+      "resolved_url": "https://sites.bu.edu/perry/files/2019/01/Lec-21-Shadow-Banking-Central-Banking.pdf",
+      "scope": "第21讲完整讲义",
+      "bytes": 647117,
+      "sha256": "062191cbb1e2e77a2ca67961788a33be860c51a7727a380e20748ec29a9234b4",
+      "pages": 30
+    }
+  ],
+  "failures": [],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "acquisition_status": "已取得所列原文文件；尚未精读",
+  "note": "已取得官网22讲全部PDF讲义；未下载课程视频。"
+}

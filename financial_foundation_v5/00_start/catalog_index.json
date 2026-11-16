@@ -2,17 +2,17 @@
   "counts": {
     "concepts": {
       "groups": 18,
-      "items": 163,
+      "items": 165,
       "p0": 21,
-      "complete": 163,
+      "complete": 165,
       "pending": 0
     },
     "mechanisms": {
       "groups": 16,
-      "items": 71,
+      "items": 75,
       "p0": 21,
-      "complete": 65,
-      "pending": 6
+      "complete": 75,
+      "pending": 0
     },
     "excluded_concepts": {
       "items": 186,
@@ -20,24 +20,6 @@
     },
     "deferred": {
       "items": 2
-    },
-    "selection": {
-      "original_concepts": 349,
-      "baseline_keep": 159,
-      "restored": 5,
-      "already_kept_requested_restore": 1,
-      "removed": 1,
-      "final_keep": 163,
-      "specified_moves": 5,
-      "specified_splits": 3,
-      "mechanisms_before": 175,
-      "mechanisms_added": 2,
-      "mechanisms_needing_node_review": 0,
-      "mechanisms_reviewed": 177,
-      "mechanisms_selected": 71,
-      "mechanisms_excluded": 106,
-      "mechanism_names_restored": 36,
-      "initial_build_nodes": 234
     },
     "excluded_mechanisms": {
       "items": 106
@@ -114,6 +96,23 @@
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../10_concepts/通货膨胀.md"
+        },
+        {
+          "id": "C-LABOR-WAGE-POWER",
+          "name": "雇主工资制定权",
+          "scope": "招聘替代与换岗约束下的雇主工资定价空间",
+          "priority": "P1",
+          "status": "complete",
+          "path": "../10_concepts/雇主工资制定权.md",
+          "planned_path": "../10_concepts/雇主工资制定权.md",
+          "catalog_anchor": "C-LABOR-WAGE-POWER",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-LABOR-WAGE-POWER",
+          "selection_status": "confirmed_step1",
+          "selection_basis": "T1_T2_source_review_20261103",
+          "selection_confirmed_on": "2026-11-03",
+          "role": "domain_objects",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         }
       ],
       "role": "domain_objects"
@@ -311,7 +310,9 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/量化宽松QE.md"
+          "planned_path": "../10_concepts/量化宽松QE.md",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "C-POL-QT",
@@ -500,7 +501,9 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/主权信用风险与CDS.md"
+          "planned_path": "../10_concepts/主权信用风险与CDS.md",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "C-FISCAL-15",
@@ -597,7 +600,9 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/信用评级与迁移.md"
+          "planned_path": "../10_concepts/信用评级与迁移.md",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "C-CREDIT-10",
@@ -676,7 +681,9 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "user_requested_restore",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/金融周期.md"
+          "planned_path": "../10_concepts/金融周期.md",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         }
       ],
       "role": "domain_objects"
@@ -803,7 +810,9 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/资本流动与资本管制.md"
+          "planned_path": "../10_concepts/资本流动与资本管制.md",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "C-FX-14",
@@ -930,7 +939,9 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/投资级公司债.md"
+          "planned_path": "../10_concepts/投资级公司债.md",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "C-BOND-06",
@@ -1116,6 +1127,23 @@
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../10_concepts/基差.md"
+        },
+        {
+          "id": "C-DERIV-CCP",
+          "name": "中央对手方与集中清算",
+          "scope": "交易对手替换、集中净额、担保与关键节点风险",
+          "priority": "P1",
+          "status": "complete",
+          "path": "../10_concepts/中央对手方与集中清算.md",
+          "planned_path": "../10_concepts/中央对手方与集中清算.md",
+          "catalog_anchor": "C-DERIV-CCP",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-DERIV-CCP",
+          "selection_status": "confirmed_step1",
+          "selection_basis": "T1_T2_source_review_20261103",
+          "selection_confirmed_on": "2026-11-03",
+          "role": "domain_objects",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         }
       ],
       "role": "domain_objects"
@@ -1167,7 +1195,9 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/程序化交易与做市.md"
+          "planned_path": "../10_concepts/程序化交易与做市.md",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "C-FLOW-11",
@@ -1774,7 +1804,9 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/IPO、再融资与退市.md"
+          "planned_path": "../10_concepts/IPO、再融资与退市.md",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "C-ASIA-10",
@@ -1901,7 +1933,9 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/欧洲央行与欧元区成员国.md"
+          "planned_path": "../10_concepts/欧洲央行与欧元区成员国.md",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "C-GLOBAL-07",
@@ -2410,7 +2444,9 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/商业银行业.md"
+          "planned_path": "../10_concepts/商业银行业.md",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "C-SECTOR-02",
@@ -2425,7 +2461,9 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/保险业.md"
+          "planned_path": "../10_concepts/保险业.md",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "C-SECTOR-03",
@@ -2670,18 +2708,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-IR-NOMINAL",
-            "C-IR-TIPS",
-            "C-IR-BEI",
-            "C-INFLATION-09",
-            "C-LIQ-MARKET"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "名义/实际收益率与通胀补偿分解",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/通胀补偿的定价分解.md",
           "logic_groups": [
             {
@@ -2733,19 +2761,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-EXPECT-SURPRISE",
-            "C-IR-POLICY",
-            "C-EXPECT-13",
-            "C-POL-QE",
-            "C-IR-CURVE",
-            "C-IR-TERM"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "货币政策意外与收益率曲线",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/货币政策冲击的期限结构传导.md",
           "logic_groups": [
             {
@@ -2805,19 +2822,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-GLOBAL-01",
-            "C-EXPECT-13",
-            "C-EXPECT-09",
-            "C-IR-POLICY",
-            "C-IR-CURVE",
-            "C-EQUITY-09"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "央行信息效应与政策冲击",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/央行公告的政策效应与信息效应.md",
           "logic_groups": [
             {
@@ -2874,18 +2880,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-POL-QE",
-            "C-MONEY-CBBS",
-            "C-FISCAL-DURATION",
-            "C-BOND-DURATION",
-            "C-IR-TERM"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "QE与久期风险转移",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/QE的久期风险转移.md",
           "logic_groups": [
             {
@@ -2934,11 +2930,8 @@
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-QT-LIQ",
           "context_terms": [],
           "related_mechanism_ids": [],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "QT与准备金、ONRRP及资金市场",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/QT与准备金、ONRRP及资金市场.md",
           "logic_groups": [
             {
@@ -2997,11 +2990,8 @@
           "selection_update": "user_requested_v5",
           "context_terms": [],
           "related_mechanism_ids": [],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "利率走廊与隔夜利率传导",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/利率走廊.md",
           "logic_groups": [
             {
@@ -3055,18 +3045,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-MONEY-13",
-            "C-MONEY-CBBS",
-            "C-MONEY-RESERVES",
-            "C-MONEY-14",
-            "C-FISCAL-07"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "TGA收支与准备金变化",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/TGA收支对准备金的影响.md",
           "logic_groups": [
             {
@@ -3112,18 +3092,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-MONEY-14",
-            "C-MONEY-19",
-            "C-ASSET-UST",
-            "C-FISCAL-07",
-            "C-MONEY-10"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "ONRRP流出与国库券需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/货币基金在ONRRP与国库券之间的配置.md",
           "logic_groups": [
             {
@@ -3169,18 +3139,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-IR-POLICY",
-            "C-MONEY-03",
-            "C-MONEY-19",
-            "C-CREDIT-15",
-            "C-CREDIT-04"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "利率上调与存款迁移",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/利率上调与存款迁移.md",
           "logic_groups": [
             {
@@ -3225,11 +3185,8 @@
           "selection_update": "user_requested_v5",
           "context_terms": [],
           "related_mechanism_ids": [],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "收益率曲线陡峭化与平坦化",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/收益率曲线陡峭化与平坦化.md",
           "logic_groups": [
             {
@@ -3294,19 +3251,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-INFLATION-10",
-            "C-INFLATION-13",
-            "C-INFLATION-07",
-            "C-INF-EXPECT",
-            "C-EXPECT-11"
-          ],
-          "node_mapping_status": "active_nodes",
-          "node_mapping_note": "通货膨胀为解释对象；央行可信度承接预期锚定。工资与单位劳动成本继续作为正文变量。",
-          "original_catalog_name": "工资—价格反馈",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/工资—价格反馈.md",
           "logic_groups": [
             {
@@ -3323,6 +3269,41 @@
                 "C-POL-CREDIBILITY"
               ],
               "related_mechanism_ids": []
+            }
+          ],
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
+        },
+        {
+          "id": "R-GROWTH-HYSTERESIS",
+          "name": "衰退后的就业疤痕",
+          "scope": "长期失业、技能与劳动参与的持续损伤",
+          "priority": "P1",
+          "status": "complete",
+          "path": "../20_mechanisms/衰退后的就业疤痕.md",
+          "planned_path": "../20_mechanisms/衰退后的就业疤痕.md",
+          "catalog_anchor": "R-GROWTH-HYSTERESIS",
+          "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-GROWTH-HYSTERESIS",
+          "selection_status": "confirmed_step1",
+          "selection_basis": "T1_T2_source_review_20261103",
+          "selection_confirmed_on": "2026-11-03",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103",
+          "node_ids": [
+            "C-IR-POLICY"
+          ],
+          "related_mechanism_ids": [
+            "R-GROWTH-04"
+          ],
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-IR-POLICY"
+              ],
+              "related_mechanism_ids": [
+                "R-GROWTH-04"
+              ]
             }
           ]
         }
@@ -3489,29 +3470,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-FISCAL-DEFICIT",
-            "C-FISCAL-07",
-            "C-MONEY-13",
-            "C-FISCAL-DURATION",
-            "C-BOND-DURATION",
-            "C-LIQ-FUND",
-            "C-IR-TERM",
-            "C-MONEY-CBBS",
-            "C-POL-QE",
-            "C-POL-QT",
-            "C-FLOW-07",
-            "C-FLOW-14",
-            "C-FX-08",
-            "C-MAC-OUTPUTGAP",
-            "C-POL-REACTION",
-            "C-IR-REAL"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "国债供给的定价机制",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/国债供给的定价机制.md"
         },
         {
@@ -3545,18 +3505,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-FISCAL-05",
-            "C-FISCAL-DEFICIT",
-            "C-FISCAL-06",
-            "C-MACRO-01",
-            "C-FISCAL-11"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "债务动态：利率、增长与初级余额",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/政府债务动态.md",
           "logic_groups": [
             {
@@ -3608,18 +3558,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-FISCAL-07",
-            "C-ASSET-UST",
-            "C-CREDIT-10",
-            "C-MONEY-10",
-            "C-BOND-15"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "国债供给与抵押品便利收益定价",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/国债供给与抵押品便利收益定价.md",
           "logic_groups": [
             {
@@ -3659,11 +3599,8 @@
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-FISCAL-08",
           "context_terms": [],
           "related_mechanism_ids": [],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "债务上限事件与短券局部溢价",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/债务上限风险的短券定价.md",
           "logic_groups": [
             {
@@ -3715,18 +3652,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-FISCAL-13",
-            "C-FISCAL-06",
-            "C-FISCAL-DURATION",
-            "C-POL-CREDIBILITY",
-            "C-INF-EXPECT"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "财政主导与通胀预期",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/财政主导与通胀预期.md",
           "logic_groups": [
             {
@@ -3772,18 +3699,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-FISCAL-14",
-            "C-CREDIT-01",
-            "C-CREDIT-02",
-            "C-FISCAL-12",
-            "C-CREDIT-15"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "主权信用与银行资产负债表反馈",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/主权信用与银行资产负债表反馈.md",
           "logic_groups": [
             {
@@ -3838,17 +3755,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-CREDIT-02",
-            "C-CREDIT-01",
-            "C-CREDIT-14",
-            "C-CREDIT-05"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "银行资本约束与信贷供给",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/银行信贷的资本约束.md",
           "logic_groups": [
             {
@@ -3865,7 +3773,9 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "R-BANKING-02",
@@ -3895,18 +3805,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-CREDIT-01",
-            "C-CREDIT-04",
-            "C-IR-POLICY",
-            "C-MONEY-03",
-            "C-BOND-DURATION"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "银行负债成本、资产重定价与息差",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/银行负债成本、资产重定价与息差.md",
           "logic_groups": [
             {
@@ -3925,7 +3825,9 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "R-CREDIT-COLLATERAL",
@@ -3958,18 +3860,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-MACRO-17",
-            "C-CREDIT-10",
-            "C-CREDIT-05",
-            "C-CREDIT-LEVERAGE",
-            "C-MACRO-08"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "资产价格、抵押品与信用扩张",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/金融加速器.md",
           "logic_groups": [
             {
@@ -3986,7 +3878,9 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "R-LIQ-SPIRAL",
@@ -4017,19 +3911,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-DERIV-14",
-            "C-CREDIT-10",
-            "C-CREDIT-LEVERAGE",
-            "C-FLOW-08",
-            "C-FLOW-03",
-            "C-LIQ-FUND"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "保证金提高、去杠杆与价格冲击",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/保证金驱动的流动性螺旋.md",
           "logic_groups": [
             {
@@ -4076,18 +3959,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-CREDIT-03",
-            "C-CREDIT-15",
-            "C-LIQ-MARKET",
-            "C-MONEY-03",
-            "C-CREDIT-01"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "流动性错配与挤兑",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/流动性错配下的挤兑机制.md",
           "logic_groups": [
             {
@@ -4146,19 +4019,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-INFLATION-02",
-            "C-BASIC-NOMREAL",
-            "C-CREDIT-LEVERAGE",
-            "C-MACRO-17",
-            "C-MACRO-06"
-          ],
-          "node_mapping_status": "active_nodes",
-          "node_mapping_note": "以物价变化、金融周期与抵押品连接债务通缩；名义债务、收入和实际负担留在正文。",
-          "original_catalog_name": "债务通缩与实际债务负担",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/债务通缩.md",
           "logic_groups": [
             {
@@ -4205,18 +4067,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-CREDIT-13",
-            "C-CREDIT-01",
-            "C-CREDIT-02",
-            "C-CREDIT-07",
-            "C-CREDIT-12"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "证券化与风险转移、激励变化",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/证券化中的风险转移与激励.md",
           "logic_groups": [
             {
@@ -4268,18 +4120,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-MONEY-11",
-            "C-CREDIT-10",
-            "C-CREDIT-15",
-            "C-LIQ-FUND",
-            "C-CREDIT-01"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "最后贷款人与恐慌缓解",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/最后贷款人的危机干预.md",
           "logic_groups": [
             {
@@ -4334,11 +4176,8 @@
           "selection_update": "user_requested_v5",
           "context_terms": [],
           "related_mechanism_ids": [],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "金融周期与系统性风险的积累、扩散",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/金融周期中的系统性风险积累与扩散.md",
           "logic_groups": [
             {
@@ -4367,6 +4206,45 @@
                 "C-CREDIT-16"
               ],
               "related_mechanism_ids": []
+            }
+          ],
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
+        },
+        {
+          "id": "R-CREDIT-RATIONING",
+          "name": "信贷配给",
+          "scope": "信息不对称下的价格与授信数量门槛",
+          "priority": "P1",
+          "status": "complete",
+          "path": "../20_mechanisms/信贷配给.md",
+          "planned_path": "../20_mechanisms/信贷配给.md",
+          "catalog_anchor": "R-CREDIT-RATIONING",
+          "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CREDIT-RATIONING",
+          "selection_status": "confirmed_step1",
+          "selection_basis": "T1_T2_source_review_20261103",
+          "selection_confirmed_on": "2026-11-03",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103",
+          "node_ids": [
+            "C-SECTOR-01",
+            "C-CREDIT-10"
+          ],
+          "related_mechanism_ids": [
+            "R-BANKING-01",
+            "R-CREDIT-COLLATERAL"
+          ],
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-SECTOR-01",
+                "C-CREDIT-10"
+              ],
+              "related_mechanism_ids": [
+                "R-BANKING-01",
+                "R-CREDIT-COLLATERAL"
+              ]
             }
           ]
         }
@@ -4409,18 +4287,8 @@
           "related_mechanism_ids": [
             "R-USD-GLOBAL"
           ],
-          "previous_node_ids": [
-            "C-IR-NOMINAL",
-            "C-FX-06",
-            "C-FX-08",
-            "C-FX-09",
-            "C-FX-10"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "利率平价与远期汇率",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/利率平价.md",
           "logic_groups": [
             {
@@ -4473,11 +4341,8 @@
           "related_mechanism_ids": [
             "R-FX-PARITY"
           ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "美元融资依赖的传导机制",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/美元融资依赖的传导机制.md",
           "logic_groups": [
             {
@@ -4535,18 +4400,8 @@
           "related_mechanism_ids": [
             "R-USD-GLOBAL"
           ],
-          "previous_node_ids": [
-            "C-MONEY-12",
-            "C-FX-10",
-            "C-FX-15",
-            "C-LIQ-FUND",
-            "C-CREDIT-01"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "美元互换额度与跨币种基差",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/美元互换额度对跨币种基差的影响.md",
           "logic_groups": [
             {
@@ -4600,19 +4455,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-FX-03",
-            "C-FX-17",
-            "C-FX-08",
-            "C-CREDIT-LEVERAGE",
-            "C-VOL-IVRV",
-            "C-FLOW-03"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "日元套息与平仓反馈",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/日元套息交易的平仓反馈.md",
           "logic_groups": [
             {
@@ -4660,18 +4504,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-FX-08",
-            "C-FX-10",
-            "C-ASIA-13",
-            "C-ASSET-UST",
-            "C-IR-CURVE"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "汇率对冲成本与跨境债券配置",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/汇率对冲成本对跨境债券配置的影响.md",
           "logic_groups": [
             {
@@ -4716,18 +4550,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-FX-13",
-            "C-FX-14",
-            "C-FX-18",
-            "C-MONEY-RESERVES",
-            "C-MONEY-06"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "资本流出、储备干预与本币流动性",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/资本流出、储备干预与本币流动性.md",
           "logic_groups": [
             {
@@ -4758,7 +4582,9 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103"
         },
         {
           "id": "R-INTERNATIONAL-12",
@@ -4783,11 +4609,8 @@
           "selection_update": "user_requested_v5",
           "context_terms": [],
           "related_mechanism_ids": [],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "全球美元体系与美元主导地位",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/美元主导地位的形成与维持.md",
           "logic_groups": [
             {
@@ -4842,11 +4665,8 @@
           "selection_update": "user_requested_v5",
           "context_terms": [],
           "related_mechanism_ids": [],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "美元信用与储备多元化",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/美元信用与储备多元化.md",
           "logic_groups": [
             {
@@ -4898,11 +4718,8 @@
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-INTERNATIONAL-14",
           "context_terms": [],
           "related_mechanism_ids": [],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "港元联系汇率与HIBOR传导",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/港元联系汇率与HIBOR传导.md",
           "logic_groups": [
             {
@@ -4948,11 +4765,8 @@
           "selection_update": "user_requested_v5",
           "context_terms": [],
           "related_mechanism_ids": [],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "人民币国际化",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/人民币国际化.md",
           "logic_groups": [
             {
@@ -4981,6 +4795,39 @@
                 "C-BOND-03"
               ],
               "related_mechanism_ids": []
+            }
+          ]
+        },
+        {
+          "id": "R-FX-TRADE-ADJUSTMENT",
+          "name": "汇率贬值后的贸易收支调整",
+          "scope": "合同计价、价格传递与贸易数量调整时序",
+          "priority": "P1",
+          "status": "complete",
+          "path": "../20_mechanisms/汇率贬值后的贸易收支调整.md",
+          "planned_path": "../20_mechanisms/汇率贬值后的贸易收支调整.md",
+          "catalog_anchor": "R-FX-TRADE-ADJUSTMENT",
+          "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-FX-TRADE-ADJUSTMENT",
+          "selection_status": "confirmed_step1",
+          "selection_basis": "T1_T2_source_review_20261103",
+          "selection_confirmed_on": "2026-11-03",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103",
+          "node_ids": [
+            "C-FX-USD"
+          ],
+          "related_mechanism_ids": [
+            "R-INTERNATIONAL-12"
+          ],
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-FX-USD"
+              ],
+              "related_mechanism_ids": [
+                "R-INTERNATIONAL-12"
+              ]
             }
           ]
         }
@@ -5015,18 +4862,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-EQUITY-08",
-            "C-ASIA-05",
-            "C-IR-NOMINAL",
-            "C-BOND-05",
-            "C-ASIA-06"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "高股息资产与债券替代需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/高股息资产的债券替代效应.md",
           "logic_groups": [
             {
@@ -5079,18 +4916,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-EQUITY-18",
-            "C-EQUITY-16",
-            "C-EXPECT-MARKET",
-            "C-IR-NOMINAL",
-            "C-EQUITY-01"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "并购、监管审批与事件价差",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/并购价差定价.md",
           "logic_groups": [
             {
@@ -5140,18 +4967,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-FLOW-05",
-            "C-ASIA-04",
-            "C-FLOW-01",
-            "C-FLOW-03",
-            "C-LIQ-FUND"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "ETF申赎套利与基础资产价格",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/ETF申赎套利.md",
           "logic_groups": [
             {
@@ -5203,18 +5020,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-EQUITY-14",
-            "C-FLOW-07",
-            "C-FLOW-05",
-            "C-FLOW-02",
-            "C-FLOW-03"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "指数调整与被动资金交易",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/指数调整的被动资金效应.md",
           "logic_groups": [
             {
@@ -5263,18 +5070,8 @@
           "related_mechanism_ids": [
             "R-MARKET-08"
           ],
-          "previous_node_ids": [
-            "C-FLOW-12",
-            "C-VOL-IVRV",
-            "C-CREDIT-LEVERAGE",
-            "C-FLOW-02",
-            "C-FLOW-03"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "波动率目标策略与顺周期调仓",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/波动率目标策略的顺周期反馈.md",
           "logic_groups": [
             {
@@ -5325,19 +5122,8 @@
           "related_mechanism_ids": [
             "R-MARKET-07"
           ],
-          "previous_node_ids": [
-            "C-FLOW-12",
-            "C-EQUITY-14",
-            "C-ASSET-UST",
-            "C-INF-INFLATION",
-            "C-MACRO-05",
-            "C-VOL-IVRV"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "风险平价与股债相关性变化",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/风险平价与股债相关性变化.md",
           "logic_groups": [
             {
@@ -5393,18 +5179,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-FLOW-11",
-            "C-FLOW-13",
-            "C-CREDIT-LEVERAGE",
-            "C-FLOW-03",
-            "C-FLOW-08"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "CTA趋势跟随与行情反馈",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/CTA趋势跟随的价格反馈.md",
           "logic_groups": [
             {
@@ -5455,18 +5231,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-EXPECT-INFO",
-            "C-EXPECT-15",
-            "C-FLOW-16",
-            "C-EXPECT-09",
-            "C-FLOW-13"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "新闻传播、投资者注意力与价格延迟反应",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/新闻传播、投资者注意力与价格延迟反应.md",
           "logic_groups": [
             {
@@ -5516,18 +5282,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-ASIA-08",
-            "C-FLOW-02",
-            "C-FLOW-01",
-            "C-FLOW-03",
-            "C-EXPECT-SURPRISE"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "涨跌停与跨日价格发现",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/涨跌停制度下的跨日价格发现.md",
           "logic_groups": [
             {
@@ -5588,18 +5344,8 @@
           "related_mechanism_ids": [
             "R-DERIVATIVES-02"
           ],
-          "previous_node_ids": [
-            "C-DERIV-01",
-            "C-DERIV-15",
-            "C-IR-NOMINAL",
-            "C-EQUITY-08",
-            "C-COMMOD-11"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "现货期货持有成本定价",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/现货期货持有成本定价.md",
           "logic_groups": [
             {
@@ -5646,11 +5392,8 @@
           "selection_update": "user_requested_v5",
           "context_terms": [],
           "related_mechanism_ids": [],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "基差交易与融资压力",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/基差交易.md",
           "logic_groups": [
             {
@@ -5707,18 +5450,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-DERIV-07",
-            "C-DERIV-17",
-            "C-FLOW-10",
-            "C-FLOW-02",
-            "C-FLOW-03"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "做市商Gamma对冲与价格反馈",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/做市商Gamma对冲的价格反馈.md",
           "logic_groups": [
             {
@@ -5762,18 +5495,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-DERIV-04",
-            "C-VOL-IVRV",
-            "C-DERIV-13",
-            "C-DERIV-14",
-            "C-DERIV-17"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "波动率风险溢价与卖波收益风险",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/波动率风险溢价与卖波收益风险.md",
           "logic_groups": [
             {
@@ -5831,19 +5554,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-DERIV-06",
-            "C-DERIV-13",
-            "C-DERIV-11",
-            "C-FLOW-14",
-            "C-DERIV-16"
-          ],
-          "node_mapping_status": "active_nodes",
-          "node_mapping_note": "用已入选的波动率对象连接期权定价；偏斜和尾部保险需求继续在机制中解释。",
-          "original_catalog_name": "偏斜与尾部保险需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/偏斜与尾部保险需求.md",
           "logic_groups": [
             {
@@ -5892,18 +5604,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-BOND-07",
-            "C-BOND-11",
-            "C-BOND-DURATION",
-            "C-IR-CURVE",
-            "C-DERIV-17"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "MBS负凸性与利率对冲反馈",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/MBS负凸性引发的利率对冲反馈.md",
           "logic_groups": [
             {
@@ -6030,21 +5732,8 @@
           "related_mechanism_ids": [
             "R-INTERNATIONAL-13"
           ],
-          "previous_node_ids": [
-            "C-IR-REAL",
-            "C-ASSET-GOLD",
-            "C-IR-POLICY",
-            "C-IR-NOMINAL",
-            "C-INF-EXPECT",
-            "C-GLOBAL-14",
-            "C-FLOW-14",
-            "C-FLOW-GOLDETF"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "黄金的机会成本机制",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/黄金的机会成本机制.md"
         },
         {
@@ -6069,17 +5758,8 @@
           "related_mechanism_ids": [
             "R-INTERNATIONAL-13"
           ],
-          "previous_node_ids": [
-            "C-ACTOR-CB",
-            "C-FX-14",
-            "C-GLOBAL-14",
-            "C-ASSET-GOLD"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "央行购金与黄金需求结构",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/央行购金与黄金需求结构.md",
           "logic_groups": [
             {
@@ -6131,19 +5811,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-EQUITY-14",
-            "C-ASSET-UST",
-            "C-INF-INFLATION",
-            "C-MACRO-05",
-            "C-POL-REACTION",
-            "C-IR-TERM"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "股债相关性与通胀/增长主导状态",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/股债相关性与通胀／增长主导状态.md",
           "logic_groups": [
             {
@@ -6203,18 +5872,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-COMMOD-03",
-            "C-COMMOD-10",
-            "C-COMMOD-13",
-            "C-INF-INFLATION",
-            "C-MACRO-06"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "原油供给中断与价格、通胀、增长",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/原油供给冲击的宏观传导.md",
           "logic_groups": [
             {
@@ -6269,18 +5928,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-COMMOD-10",
-            "C-COMMOD-11",
-            "C-COMMOD-12",
-            "C-DERIV-01"
-          ],
-          "node_mapping_status": "active_nodes",
-          "node_mapping_note": "以原油、天然气、工业金属和农产品作为可储存商品的研究入口；库存、便利收益和期货曲线保留为正文变量。具体适用性随材料展开。",
-          "original_catalog_name": "库存与便利收益、期货曲线",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/库存与便利收益、期货曲线.md",
           "logic_groups": [
             {
@@ -6317,8 +5966,8 @@
           "node_ids": [
             "C-COMMOD-06"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/矿业投资与供给的周期反馈.md",
           "catalog_anchor": "R-COMMODITY-08",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-COMMODITY-08",
           "context_terms": [
@@ -6339,20 +5988,72 @@
               "name": "盈利、收入与利润率"
             }
           ],
-          "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-COMMOD-15",
-            "C-MACRO-08",
-            "C-COMMOD-06",
-            "C-COMMOD-10",
-            "C-EQ-EARNINGS"
+          "related_mechanism_ids": [
+            "R-COMMODITY-03"
           ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "矿业资本开支与长期供给周期",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/矿业投资与供给的周期反馈.md"
+          "planned_path": "../20_mechanisms/矿业投资与供给的周期反馈.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-COMMOD-06"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-COMMOD-06"
+              ],
+              "related_mechanism_ids": [
+                "R-COMMODITY-03"
+              ]
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-COMMOD-06"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
+        },
+        {
+          "id": "R-RESOURCE-FX-COMPETITION",
+          "name": "资源繁荣与非资源出口竞争力",
+          "scope": "资源收入预期经汇率影响非资源出口竞争力",
+          "priority": "P1",
+          "status": "complete",
+          "path": "../20_mechanisms/资源繁荣与非资源出口竞争力.md",
+          "planned_path": "../20_mechanisms/资源繁荣与非资源出口竞争力.md",
+          "catalog_anchor": "R-RESOURCE-FX-COMPETITION",
+          "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-RESOURCE-FX-COMPETITION",
+          "selection_status": "confirmed_step1",
+          "selection_basis": "T1_T2_source_review_20261103",
+          "selection_confirmed_on": "2026-11-03",
+          "last_source_review_on": "2026-11-03",
+          "last_source_batch": "T1_T2_20261103",
+          "node_ids": [
+            "C-COMMOD-03",
+            "C-FX-USD"
+          ],
+          "related_mechanism_ids": [
+            "R-OIL-SHOCK"
+          ],
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-COMMOD-03",
+                "C-FX-USD"
+              ],
+              "related_mechanism_ids": [
+                "R-OIL-SHOCK"
+              ]
+            }
+          ]
         }
       ]
     },
@@ -6382,18 +6083,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-CHINA-06",
-            "C-MONEY-RESERVES",
-            "C-CREDIT-05",
-            "C-CHINA-05",
-            "C-CHINA-09"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "降准与银行信贷、资金价格",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/降准的资金与信贷传导.md",
           "logic_groups": [
             {
@@ -6434,11 +6125,8 @@
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CHINA-02",
           "context_terms": [],
           "related_mechanism_ids": [],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "政策利率、LPR与实体融资成本",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/政策利率的LPR传导渠道.md",
           "logic_groups": [
             {
@@ -6491,19 +6179,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-CN-TSF",
-            "C-CHINA-04",
-            "C-CHINA-05",
-            "C-BOND-04",
-            "C-MACRO-08",
-            "C-MACRO-06"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "社融结构、信用脉冲与实体需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/社融结构、信用脉冲与实体需求.md",
           "logic_groups": [
             {
@@ -6559,18 +6236,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-CHINA-16",
-            "C-CHINA-14",
-            "C-CHINA-15",
-            "C-SECTOR-06",
-            "C-EQUITY-04"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "地产销售、现金流与土地购置",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/房地产开发的现金流循环.md",
           "logic_groups": [
             {
@@ -6629,18 +6296,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-CHINA-11",
-            "C-CHINA-02",
-            "C-CHINA-16",
-            "C-SECTOR-07",
-            "C-FISCAL-16"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "土地收入、地方财政与基建",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/土地财政的基建融资机制.md",
           "logic_groups": [
             {
@@ -6698,19 +6355,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-CHINA-13",
-            "C-CHINA-12",
-            "C-BOND-04",
-            "C-CREDIT-14",
-            "C-SECTOR-07",
-            "C-EQUITY-04"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "地方化债与银行、城投及企业回款",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/地方化债的资产负债表传导.md",
           "logic_groups": [
             {
@@ -6767,19 +6413,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-MONEY-03",
-            "C-CREDIT-15",
-            "C-SECTOR-03",
-            "C-FLOW-07",
-            "C-BOND-03",
-            "C-CHINA-09"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "存款搬家、资管需求与债市",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/存款迁移的债市传导.md",
           "logic_groups": [
             {
@@ -6836,11 +6471,8 @@
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CHINA_MARKET-07",
           "context_terms": [],
           "related_mechanism_ids": [],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "A/H分割与相对估值",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/A／H溢价的市场分割机制.md",
           "logic_groups": [
             {
@@ -6906,18 +6538,8 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-TECH-12",
-            "C-TECH-01",
-            "C-TECH-13",
-            "C-TECH-03",
-            "C-TECH-02"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "模型效率、推理成本与总算力需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "authored_logic_groups",
           "planned_path": "../20_mechanisms/模型效率、推理成本与总算力需求.md",
           "logic_groups": [
             {
@@ -6956,8 +6578,8 @@
           "node_ids": [
             "C-TECH-03"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/平台网络效应.md",
           "catalog_anchor": "R-TECH-12",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-TECH-12",
           "context_terms": [
@@ -6979,19 +6601,32 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-TECH-16",
-            "C-TECH-03",
-            "C-TECH-13",
-            "C-EQ-EARNINGS",
-            "C-EQUITY-06"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "平台网络效应、竞争与定价权",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/平台网络效应.md"
+          "planned_path": "../20_mechanisms/平台网络效应.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-TECH-03"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-TECH-03"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-TECH-03"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -7009,8 +6644,8 @@
             "C-FX-USD",
             "C-FX-02"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/关税的跨境成本分担.md",
           "catalog_anchor": "R-GEOPOLITICS-02",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-GEOPOLITICS-02",
           "context_terms": [
@@ -7036,20 +6671,35 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-GLOBAL-08",
-            "C-INFLATION-05",
-            "C-EQ-EARNINGS",
-            "C-FX-06",
-            "C-MACRO-15"
-          ],
-          "node_mapping_status": "active_nodes",
-          "node_mapping_note": "关联物价与已入选货币对象；关税、成本分担、利润和贸易量在正文解释。币种是初始研究入口。",
-          "original_catalog_name": "关税与进口价格、利润及汇率",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/关税的跨境成本分担.md"
+          "planned_path": "../20_mechanisms/关税的跨境成本分担.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-INF-INFLATION"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-FX-USD",
+                "C-FX-02"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-INF-INFLATION",
+                "C-FX-USD",
+                "C-FX-02"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-GEOPOLITICS-07",
@@ -7059,8 +6709,8 @@
           "node_ids": [
             "C-SECTOR-13"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/养老金资产配置的人口结构约束.md",
           "catalog_anchor": "R-GEOPOLITICS-07",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-GEOPOLITICS-07",
           "context_terms": [
@@ -7082,19 +6732,32 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-MACRO-14",
-            "C-SECTOR-13",
-            "C-BOND-DURATION",
-            "C-FLOW-07",
-            "C-MACRO-07"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "人口结构与养老金资产配置",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/养老金资产配置的人口结构约束.md"
+          "planned_path": "../20_mechanisms/养老金资产配置的人口结构约束.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-SECTOR-13"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-SECTOR-13"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-SECTOR-13"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     },
@@ -7112,8 +6775,8 @@
             "C-ASSET-UST",
             "C-MONEY-19"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/稳定币发行赎回对短券需求的影响.md",
           "catalog_anchor": "R-CRYPTO-02",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CRYPTO-02",
           "context_terms": [
@@ -7127,19 +6790,38 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-CRYPTO-03",
-            "C-ASSET-UST",
-            "C-MONEY-19",
-            "C-MONEY-03",
-            "C-FISCAL-07"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "稳定币发行赎回与短券需求",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/稳定币发行赎回对短券需求的影响.md"
+          "planned_path": "../20_mechanisms/稳定币发行赎回对短券需求的影响.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CRYPTO-03",
+                "C-ASSET-UST",
+                "C-MONEY-19"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CRYPTO-03",
+                "C-ASSET-UST",
+                "C-MONEY-19"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-CRYPTO-03",
+                "C-ASSET-UST",
+                "C-MONEY-19"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         },
         {
           "id": "R-CRYPTO-04",
@@ -7152,8 +6834,8 @@
             "C-LIQ-MARKET",
             "C-CRYPTO-01"
           ],
-          "status": "pending",
-          "path": null,
+          "status": "complete",
+          "path": "../20_mechanisms/永续合约的强平瀑布.md",
           "catalog_anchor": "R-CRYPTO-04",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CRYPTO-04",
           "context_terms": [
@@ -7163,19 +6845,39 @@
             }
           ],
           "related_mechanism_ids": [],
-          "previous_node_ids": [
-            "C-CRYPTO-05",
-            "C-DERIV-14",
-            "C-LIQ-MARKET",
-            "C-CREDIT-LEVERAGE",
-            "C-CRYPTO-01"
-          ],
-          "node_mapping_status": "active_nodes",
-          "original_catalog_name": "永续合约杠杆与强平瀑布",
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "node_mapping_stage": "initial_catalog_associations",
-          "planned_path": "../20_mechanisms/永续合约的强平瀑布.md"
+          "planned_path": "../20_mechanisms/永续合约的强平瀑布.md",
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-CRYPTO-05",
+                "C-DERIV-14",
+                "C-CRYPTO-01"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-CRYPTO-05",
+                "C-DERIV-14",
+                "C-LIQ-MARKET",
+                "C-CRYPTO-01"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-CRYPTO-05",
+                "C-DERIV-14",
+                "C-LIQ-MARKET"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
         }
       ]
     }
@@ -7199,22 +6901,13 @@
     }
   ],
   "schema_version": 4,
-  "updated": "2026-10-30",
+  "updated": "2026-11-03",
   "notes": [
-    "初步建图节点已由用户确认：concepts 163项、mechanisms 71项。两类目录构成当前制作范围。",
-    "selection_status=confirmed_initial_build 表示节点已入选；status=pending 表示正文待制作，complete表示已有经审阅正文。",
-    "excluded_concepts、excluded_mechanisms及deferred仅保留追溯信息，不属于节点或制作任务。",
-    "node_ids只含已入选对象；context_terms是正文变量与背景术语，不是隐式节点。相关关系用related_mechanism_ids表达。",
-    "未完成关系的node_ids是初始关联入口；具体逻辑组与适用情境在后续精读、制作时细化。成品逻辑组与正文一致。",
-    "路径与catalog_ref相对于00_start。稳定ID保留，改名和退出目录均留可追溯记录。",
-    "名称按机制含义、研究范围与具体关系确定；已采纳36项原名恢复，177项勾叉保持71/106。",
-    "正文完整性、证据覆盖日期与实时更新状态见各正文；目录确认不代表222份待制作正文已完成。",
-    "build_baseline保存2026-10-25建图起点；当前正文进度见counts与build_progress。2026-10-27新增黄金、政策利率与目标区间两篇。",
-    "2026-10-27国债供给关联Concepts试产新增6篇：main只执笔融资流动性；两名GPT-6-Astra medium分别执笔2篇和3篇，main逐篇审阅。该机制关联8个对象现均有正文。",
-    "2026-10-29按定稿标题命名Concept／Mechanism文件；ID保持稳定，planned_path记录全部234项的目标路径。目录接入已有158篇经审阅正文，经济解释未改。"
+    "正式范围为163个对象、71个机制，初步建图阶段234篇正文已完成。",
+    "对象、机制ID及名称以正式目录为准；普通变量保留在正文中解释。",
+    "正文证据截止与具体缺口见各页，完成状态不表示实时市场信息。"
   ],
   "package_version": "v5",
-  "packaged_at": "2026-10-27",
   "excluded_concepts": [
     {
       "id": "C-BASIC-NOMREAL",
@@ -13705,26 +13398,6 @@
       "original_group_title": "数字资产传导"
     }
   ],
-  "release_revision": "initial_build_baseline",
-  "build_baseline": {
-    "id": "initial_build_v5_20261025",
-    "selection_status": "confirmed",
-    "confirmed_on": "2026-10-25",
-    "objects": 163,
-    "mechanisms": 71,
-    "total_nodes": 234,
-    "authored_nodes": 4,
-    "pending_nodes": 230
-  },
-  "maintenance_revision": "title_filenames_20261029",
-  "build_progress": {
-    "as_of": "2026-10-30",
-    "authored_nodes": 228,
-    "pending_nodes": 6,
-    "complete_concepts": 163,
-    "complete_mechanisms": 65,
-    "review": "../50_reviews/FULL_BUILD_20261028/MAIN_REVIEW.json"
-  },
   "file_naming": {
     "rule": "confirmed_title.md",
     "guide": "FILE_NAMING.md",

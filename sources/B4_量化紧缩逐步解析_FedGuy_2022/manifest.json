@@ -1,0 +1,22 @@
+{
+  "id": "B4",
+  "title": "Quantitative Tightening Step-by-Step — Joseph Wang／FedGuy，2022-01-06",
+  "directory": "B4_量化紧缩逐步解析_FedGuy_2022",
+  "original_language": "en",
+  "source_urls": [
+    "https://fedguy.com/quantitative-tightening-step-by-step/",
+    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20190731a.htm",
+    "https://www.federalreserve.gov/newsevents/pressreleases/monetary20191011a.htm"
+  ],
+  "files": [],
+  "failures": [
+    {
+      "url": "https://fedguy.com/quantitative-tightening-step-by-step/",
+      "file": "量化紧缩逐步解析_英文原文.html",
+      "error": "网页正文过短，尚未确认取得全文"
+    }
+  ],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "acquisition_status": "未取得正文；访问受限"
+}

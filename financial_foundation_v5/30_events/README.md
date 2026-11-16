@@ -16,4 +16,4 @@
 
 本区可继续积累材料；文件数和章节数不计入234个对象／关系节点。现有working_draft状态保留具体整理与核实缺口，节点目录定稿不意味着材料已穷尽。制作方法见[Event／Source指南](../00_start/EVENT_SOURCE_GUIDE.md)。
 
-原有 18 个事件／观察 ID 均保留，合并的条目以同名锚点定位。对应关系见[迁移记录](../50_reviews/EVENT_MIGRATION.json)。来源、原件与延伸阅读见[Source 入口](../40_sources/README.md)。
+原有 18 个事件／观察 ID 均保留，合并的条目以同名锚点定位。来源、原件与延伸阅读见[Source 入口](../40_sources/README.md)。

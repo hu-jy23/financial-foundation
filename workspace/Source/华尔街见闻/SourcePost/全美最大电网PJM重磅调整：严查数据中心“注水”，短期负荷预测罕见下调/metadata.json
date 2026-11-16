@@ -1,0 +1,89 @@
+{
+  "article_id": 3763458,
+  "selection": {
+    "article_id": 3763458,
+    "url": "https://wallstreetcn.com/articles/3763458",
+    "title": "全美最大电网PJM重磅调整：严查数据中心“注水”，短期负荷预测罕见下调",
+    "page_display_time": "2026-01-16T16:29:12+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "能源、商品与航运",
+    "reading_priority": "A",
+    "reading_value": "解释负荷预测审核如何改变容量采购，区分项目落地延迟和长期需求。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1289,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 89
+  },
+  "url": "https://wallstreetcn.com/articles/3763458",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3763458?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:33+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/d983df7d-73ac-4083-a1af-753be7b61574.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "据PJM称，预测下调主要源于三方面因素： 对计划建设的数据中心和大型负荷实施更严格审查，以及更新电动汽车和经济活动预测。 其中，大型负荷审查使今年夏季峰值预测下降0.7%，经济活动调整贡献0.5%降幅，电动汽车因素影响0.1%。",
+      "path": "assets/figure_001.png",
+      "sha256": "2b28b903821a122a5c3065b607a707461179b8af2f633cf0ecd3cdf1d159583e",
+      "bytes": 179926,
+      "width": 678,
+      "height": 478,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/d983df7d-73ac-4083-a1af-753be7b61574.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "全美最大电网PJM重磅调整：严查数据中心“注水”，短期负荷预测罕见下调",
+  "page_display_time": "2026-01-16T16:29:12+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "PJM下调2028年夏季峰值需求预测2.6%，主要源于对数据中心等大型负荷实施更严格审查。分析师指出，此调整反映项目延期而非需求疲软。长期看，PJM将2036年负荷年增长率上调至3.6%，预示电力市场持续偏紧，未来容量拍卖价格或仍触及上限。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1371,
+  "body_sha256": "50ab502f55e64dcc28ba79fbb3aae61c008939e362361dae4070f47d5d466930",
+  "raw_sha256": "7fc810767cb79fd5ab3dcff3214e400bf1952392b5a440e27d37416ea20025be",
+  "raw_bytes": 7595,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/738faadc-16c6-46fb-ae08-f4e603f7a4b5.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1289,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:36+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "7fc810767cb79fd5ab3dcff3214e400bf1952392b5a440e27d37416ea20025be",
+      "bytes": 7595
+    },
+    "article.html": {
+      "sha256": "569584bbf0c3a4ccc7d0f7f4fb895bed8db1fd79f1605e734b64a4c64a93222a",
+      "bytes": 7479
+    },
+    "article.md": {
+      "sha256": "5fd217ac276d2e81ccd7387539818a6d4fd3b52945488d48bf8b9291e0cc7c99",
+      "bytes": 4521
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:23+08:00"
+}

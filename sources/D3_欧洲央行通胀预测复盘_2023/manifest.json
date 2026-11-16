@@ -1,0 +1,54 @@
+{
+  "id": "D3",
+  "title": "An Updated Assessment of Short-Term Inflation Projections by Eurosystem and ECB Staff — Chahad等，ECB Economic Bulletin 1/2023",
+  "directory": "D3_欧洲央行通胀预测复盘_2023",
+  "original_language": "en",
+  "source_urls": [
+    "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ecb.ebbox202301_06~df570a38fd.en.html"
+  ],
+  "files": [
+    {
+      "file": "通胀预测复盘_英文原文.html",
+      "source_url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ecb.ebbox202301_06~df570a38fd.en.html",
+      "resolved_url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ecb.ebbox202301_06~df570a38fd.en.html",
+      "scope": "网页原文",
+      "bytes": 117489,
+      "sha256": "e1c66c98b796f76adfddb80da9cf719c8bbea5aa07aabcbf63d66b0a2c952787",
+      "page_title": "An updated assessment of short-term inflation projections by Eurosystem and ECB staff",
+      "text_file": "通胀预测复盘_英文原文.txt",
+      "extracted_characters": 12976,
+      "offline_file": "通胀预测复盘_英文原文_离线阅读.html",
+      "images": [
+        {
+          "file": "images/image_01.png",
+          "source_url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ebbox202301_06/ecb.ebbox202301_06.en_img0.png?2315a099f3fc365ffd64b9d5946c7212",
+          "bytes": 17440,
+          "sha256": "d37584999d058db8737d708cd53e05555fddb75142c506cc58d6131eaa92f03c"
+        },
+        {
+          "file": "images/image_02.png",
+          "source_url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ebbox202301_06/ecb.ebbox202301_06.en_img1.png?bdd1bbbd1de038b566af3db75d8c36e9",
+          "bytes": 17533,
+          "sha256": "9a11333534d991c5ecca76a899304f1d8f890a1240f044d1f8aa3fcbd4823f2d"
+        },
+        {
+          "file": "images/image_03.png",
+          "source_url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ebbox202301_06/ecb.ebbox202301_06.en_img2.png?bea7342a8fc5db3b46fbf75a0d6e05fd",
+          "bytes": 20173,
+          "sha256": "12a9e223743cb0e376c9a112707ef8c998ca8976f3f8ea5aa103ebf4cb4a9ae5"
+        },
+        {
+          "file": "images/image_04.png",
+          "source_url": "https://www.ecb.europa.eu/press/economic-bulletin/focus/2023/html/ebbox202301_06/ecb.ebbox202301_06.en_img3.png?5b6b7f33beb3e9cbc7c2d0a383e49aa4",
+          "bytes": 5938,
+          "sha256": "21961aa28a94eeb06f3c79394dcbd8e5c777f01339310c5bd897d0f3146c0c8f"
+        }
+      ],
+      "image_failures": []
+    }
+  ],
+  "failures": [],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "acquisition_status": "已取得所列原文文件；尚未精读"
+}

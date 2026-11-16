@@ -1,0 +1,21 @@
+{
+  "id": "A5",
+  "title": "Fixed Income Securities: Tools for Today’s Markets，第4版 — Tuckman、Serrat，2022",
+  "directory": "A5_固定收益证券_第4版_2022",
+  "original_language": "en",
+  "source_urls": [
+    "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119835622"
+  ],
+  "files": [],
+  "failures": [
+    {
+      "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119835622",
+      "file": "出版社书目与目录.html",
+      "error": "403 Client Error: Forbidden for url: https://onlinelibrary.wiley.com/doi/book/10.1002/9781119835622"
+    }
+  ],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "note": "尚未取得整本教材；本地文件仅为目录、导论、书目或注明的章节工作稿。",
+  "acquisition_status": "教材正文未取得；书目页直接访问受限"
+}

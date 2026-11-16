@@ -1,0 +1,132 @@
+{
+  "article_id": 3772475,
+  "selection": {
+    "article_id": 3772475,
+    "url": "https://wallstreetcn.com/articles/3772475",
+    "title": "美股CTA买入骤降，标普500一旦跌3%或引发千亿美元抛售潮",
+    "page_display_time": "2026-05-18T10:38:36+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "跨资产与市场结构",
+    "reading_priority": "A",
+    "reading_value": "拆解CTA、风险平价、波控、Gamma及杠杆ETF的机械资金流，含情景与触发条件。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2384,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 116
+  },
+  "url": "https://wallstreetcn.com/articles/3772475",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3772475?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:41+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/6e81c26c-1ea7-4e73-90a8-b9117cdcc883.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "区域分布上，欧洲未来一周买盘相对偏高，但并未改变总量层面的整体方向。系统性股票资金的下一步动作，更偏向卖出而非追涨。",
+      "path": "assets/figure_001.png",
+      "sha256": "c637a07651889b324b17fcbbbc7dd3c0a0f73a320e91476f3a480dcf206a6b2a",
+      "bytes": 61533,
+      "width": 592,
+      "height": 484,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/6e81c26c-1ea7-4e73-90a8-b9117cdcc883.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/77f580cb-76a0-45b2-8681-b730de8f5062.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "这构成了当前股票市场最为尴尬的结构：上涨时系统性资金不再大量追入，下跌时距离触发线尚有距离，但一旦触及，抛售量级将迅速放大。",
+      "path": "assets/figure_002.png",
+      "sha256": "923f39cb973747b08da22df4448aabb97b7901e9ebba88cc11b2d530c07d58c0",
+      "bytes": 47711,
+      "width": 469,
+      "height": 491,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/77f580cb-76a0-45b2-8681-b730de8f5062.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_003.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "美股CTA买入骤降，标普500一旦跌3%或引发千亿美元抛售潮",
+  "page_display_time": "2026-05-18T10:38:36+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "美银模型显示，CTA增量买入空间十分有限，而下行平仓风险正在加剧。关键触发位如下：标普500约在现货下方3%，罗素2000约在下方5%，欧洲和日本股指约在下方10%，纳指未来一周触发概率较低。一旦上述水平被击穿，CTA全球股票卖盘可能达到约1000亿美元，其中美国约500亿美元、欧洲约350亿美元、亚洲约150亿美元。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2454,
+  "body_sha256": "647296502b92674f85b49ea6a85fdc3be5c8ad220166f5a06e749f417ceaf460",
+  "raw_sha256": "23297bd876f4fda36fff8749c9f10e81f06a862932c4ac596a526129a6e79cea",
+  "raw_bytes": 13063,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/2c933a5e-aba3-49e8-900e-e684f1078770.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 2384,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:39+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "23297bd876f4fda36fff8749c9f10e81f06a862932c4ac596a526129a6e79cea",
+      "bytes": 13063
+    },
+    "article.html": {
+      "sha256": "ea12e461de09ede8d2a612f8599e5c1e509e273b7916d37d944a297e85aaa279",
+      "bytes": 12748
+    },
+    "article.md": {
+      "sha256": "1722b7bfa8159883f6d0cc887934c48b75bcc0016f02c85ad48af7c4070caf4a",
+      "bytes": 7874
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:28+08:00"
+}

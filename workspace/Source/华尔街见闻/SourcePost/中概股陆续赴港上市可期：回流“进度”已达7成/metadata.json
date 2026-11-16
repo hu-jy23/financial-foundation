@@ -1,0 +1,119 @@
+{
+  "article_id": 3745335,
+  "selection": {
+    "article_id": 3745335,
+    "url": "https://wallstreetcn.com/articles/3745335",
+    "title": "中概股陆续赴港上市可期：回流“进度”已达7成",
+    "page_display_time": "2025-04-16T19:18:01+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "郑敏芳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004475",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "跨资产与市场结构",
+    "reading_priority": "B",
+    "reading_value": "梳理中概股回港上市进度及上市结构，补充跨市场融资渠道背景。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 3184,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 106
+  },
+  "url": "https://wallstreetcn.com/articles/3745335",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3745335?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:36+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/0ede1491-3530-402e-8212-618071c50635.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "对于仍有赴美上市规划的中资企业而言，当下的资本运作路径又当如何规划，变化随时发生。",
+      "context_after": "早在中美首次发生经贸关税摩擦的2018年以来，有关中概股的摘牌风险就已形成。",
+      "path": "assets/figure_001.png",
+      "sha256": "25b0f32d9fe3151498e6b24041af4a9e4956044432904776c313c5e2a4e347ee",
+      "bytes": 36300,
+      "width": 702,
+      "height": 568,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/0ede1491-3530-402e-8212-618071c50635.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/0a4341bd-a8dc-40ec-b62f-cc23d0314928.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "这意味着，目前中概股的7成以上已完成了“回港”。",
+      "context_after": "港股加速回流的背后，与港交所在7年前释放的制度红利有关。",
+      "path": "assets/figure_002.png",
+      "sha256": "979f361e49bc8d5e3905525349ca3505aebd8847d4cc507193e393f380e211f4",
+      "bytes": 23826,
+      "width": 623,
+      "height": 396,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/0a4341bd-a8dc-40ec-b62f-cc23d0314928.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/2caeeb62-a1dd-418d-8c29-51495d025ab8.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "随着此次风波再起，一旦拼多多回港成功，则其余18家未回港的公司在中概股总市值占比将不到1成。",
+      "context_after": "从美股市场“返港”，并非不能带来可观的融资助力。",
+      "path": "assets/figure_003.png",
+      "sha256": "deb7095fa5baafedb8f6c48f598473d07d588eecd37542085c9a780482518191",
+      "bytes": 95113,
+      "width": 720,
+      "height": 798,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/2caeeb62-a1dd-418d-8c29-51495d025ab8.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "中概股陆续赴港上市可期：回流“进度”已达7成",
+  "page_display_time": "2025-04-16T19:18:01+08:00",
+  "page_byline": "郑敏芳",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "不打无准备之仗",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 3208,
+  "body_sha256": "280df25972a062d82f7239d495242fdadc3a84cfc9c2b1b27dce0d65f503e07b",
+  "raw_sha256": "f28b3315f260746b4cef01874d2ddcb600e08b9f1172beb346facfc5f4e813d0",
+  "raw_bytes": 16716,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/87674e14-ba9f-47e3-ad76-ba0c4812b7b0.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 3184,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:37+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "f28b3315f260746b4cef01874d2ddcb600e08b9f1172beb346facfc5f4e813d0",
+      "bytes": 16716
+    },
+    "article.html": {
+      "sha256": "67f30e85c1996a6d85a90469e8fc4ad9074b7ca5856f7ec5079a26a88ff63b35",
+      "bytes": 15484
+    },
+    "article.md": {
+      "sha256": "18ea12438b34727700e41bb6706d270d6a24d943ba54069f40f3a19787497b00",
+      "bytes": 9679
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:26+08:00"
+}

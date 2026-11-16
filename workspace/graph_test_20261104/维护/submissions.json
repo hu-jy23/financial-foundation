@@ -1,0 +1,43 @@
+{
+  "agent0": {
+    "sha256": "0368a1855e6531e3d9aa6be1b392e30fb52f79d9a5eb30ea8007252fefd94017",
+    "characters": {
+      "Q01": 270,
+      "Q02": 269,
+      "Q03": 281,
+      "Q04": 283,
+      "Q05": 297,
+      "Q06": 279,
+      "Q07": 283,
+      "Q08": 294,
+      "Q09": 280,
+      "Q10": 297
+    },
+    "access_declaration": {
+      "internet_used": false,
+      "external_files_read": [],
+      "notes": "只用本消息与自身知识"
+    }
+  },
+  "agent1": {
+    "sha256": "64cfc163c5cd824a8a788fb57299cfa13aabfc849cdd82d6902dd796877cef57",
+    "characters": {
+      "Q01": 280,
+      "Q02": 304,
+      "Q03": 315,
+      "Q04": 316,
+      "Q05": 323,
+      "Q06": 341,
+      "Q07": 318,
+      "Q08": 351,
+      "Q09": 327,
+      "Q10": 336
+    },
+    "access_declaration": {
+      "internet_used": false,
+      "graph_access_method": "graph_access.py",
+      "external_files_read": [],
+      "notes": "只读冻结graph，没有查看源文或答案"
+    }
+  }
+}

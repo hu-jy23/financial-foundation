@@ -1,0 +1,126 @@
+{
+  "run_id": "korea_01",
+  "article_id": 3784053,
+  "title": "低估值为何没有立即变成承接：韩股买方结构与规则交易的试作",
+  "problem": "文章要解释的是：分析师盈利预测仍在上调、远期市盈率已很低，为什么韩股继续下跌？它把估值判断与实际执行需求的错位联系起来：回购减速、外国及境内机构的配置、趋势信号与杠杆产品可能同时改变承接。值得建立的是这些主体如何形成边际订单，以及现有证据能否区分订单压力与对未来基本面的重新判断。",
+  "passages": [
+    {
+      "location": "估值节，图1；盈利预期节，图7",
+      "quote": "“KOSPI整体仅以8.4倍远期市盈率交投，处于历史第11百分位。”；“两家公司的远期盈利预测……持续上修。”",
+      "analysis": "先校准比较集合。图1蓝线排除的还有SK Square、SK Inc与Samsung C&T，8.4倍对应的范围应按图注保存；全KOSPI与该集合的历史位置不同。价格下降、盈利预测上升，本身就会压低远期PE，这三条观察不能被当作三个独立证据。分析师一致预期也未必等于边际交易者的现金流判断；风险补偿提高、预测滞后等解释仍然存在。",
+      "method": "在同一指数范围与预测版本下分解价格和预期盈利，再比较两者的更新时序；把作者的“流动性驱动”作为需要解释的判断。"
+    },
+    {
+      "location": "买盘来源节，图4",
+      "quote": "“三星已完成其回购计划，SK海力士也已接近尾声，这一关键买盘来源正在消退。”",
+      "analysis": "需要辨认谁原本会在什么时间买多少。图4标题说回调与回购速度放缓同时出现，图尾公司净购买仍为正；它支持“比高峰少买”，不支持全市场买盘消失。两家公司计划收尾与整个公司部门总买盘也有范围差别。所谓无人接盘，应具体解释为在原价格附近、所需时间内的承接不足。",
+      "method": "按主体和执行时段拆分潜在订单；区分购买水平、购买速度变化和净卖出，核对先后次序及可承接深度。"
+    },
+    {
+      "location": "趋势策略节，图5",
+      "quote": "“趋势跟踪类投资者……从极度净多头转为净空头。”",
+      "analysis": "图5画的是Momentum signal，标题保留likely，正文却把它写成已经观察到的持仓。适合记录的是摩根大通据模型信号推断仓位转向的当时分析。已有CTA机制已说明信号、风险缩放、头寸和订单是不同环节；转为空头也不等于未来必有同额卖出或马上回补。",
+      "method": "沿信号—目标敞口—存量头寸—待执行交易逐步解释，用真实持仓与成交才能继续判断价格反馈。"
+    },
+    {
+      "location": "杠杆ETF节，图6",
+      "quote": "“资金流出规模出乎意料地有限，而存续中的杠杆头寸在急跌日仍会持续形成机械性卖压。”",
+      "analysis": "这是最值得展开的机制缺口。图6把AUM与累计流入分开，还区分境内宽基、单股和境外产品；高AUM不直接给出卖单。若产品按日恢复固定正杠杆，即使不赎回，价格变化也会触发目标敞口调整；其规则与CTA趋势信号、波动率目标和保证金补款均有不同。需核对具体产品倍数、方向、重置周期与实施工具，才能把条件推理用于韩股实际交易。",
+      "method": "先用明确假设下的资产负债表算例推导再平衡需求，再按产品拆分，最后与期货、互换或现货执行及同期承接能力对应。"
+    },
+    {
+      "location": "末节，图8",
+      "quote": "“这一分化难以长期并行存在，终将出现收敛或共振。”",
+      "analysis": "两条采用不同纵轴的指数曲线可以展示近期路径差别，无法给出必然收敛的期限或锚。共同半导体暴露值得研究，但成分权重、币种和当地持有人可能影响表现。不能用一张走势叠图就把韩股下跌解释成美国半导体随后下跌的先行信号。",
+      "method": "统一币种、收益口径与窗口后比较共同暴露及剩余差异；历史领先性、可交易约束和价格联系要分别寻找依据。"
+    }
+  ],
+  "structures": [
+    {
+      "name": "2026年10月韩股：估值、边际买盘与规则交易的争论",
+      "kind": "event",
+      "parent": "",
+      "inherits": "引用C-EQ-ERP、C-LIQ-MARKET、C-FLOW-05及R-MARKET-09中的通用解释。",
+      "difference": "把同一段时期的估值、回购、策略信号、杠杆产品和盈利预测放在一起，保存摩根大通的判断及其推断边界。",
+      "why_register": "作为一个跨对象的完整分析单元，可以比较后来买盘恢复、预测修订和行情演变，避免同一组证据被拆散复制。",
+      "inline_alternative": "放在市场流动性或CTA单页会让其承担多种不同规则的整段叙事。",
+      "decision": "建议以Event／analysis_note为主要维护位置；不新增“历史级便宜”概念。"
+    },
+    {
+      "name": "日重置杠杆ETF的再平衡反馈",
+      "kind": "new_mechanism",
+      "parent": "C-FLOW-05、R-MARKET-09、R-MARKET-07与R-LIQ-SPIRAL为关联入口，均不直接作为父项。",
+      "inherits": "复用ETF交易层次、净资产与敞口，以及订单相对市场容量的基本解释。",
+      "difference": "触发来自恢复合同杠杆倍数；ETF申赎、趋势信号、波动率预算和现金补款各有不同的决定规则。",
+      "why_register": "该具体规则可在不同市场反复产生可分析的交易需求，旧页没有完整承载；无需为每个国家复制关系。",
+      "inline_alternative": "可先在韩股事件中写条件性解释，但持续积累产品规则与案例会使该事件承担通用机制职责。",
+      "decision": "提出独立机制候选，本轮先写条件性样稿；补核产品条款前，不将本次韩股卖量或冲击归因视作已证实。"
+    },
+    {
+      "name": "韩国股票市场／韩股杠杆ETF的子层级",
+      "kind": "section",
+      "parent": "无合适的严格父项；宽基ETF C-ASIA-04并不覆盖图6的全部单股与境外产品。",
+      "inherits": "可通过关联复用已有股权、ETF与流动性知识。",
+      "difference": "本文提供一个市场阶段以及混合产品集合，尚未说明稳定的市场对象边界与产品清单。",
+      "why_register": "本篇未显示独立注册这两项能增加多少维护收益；单靠国家名或同图出现不足以建立继承。",
+      "inline_alternative": "在事件中说明KOSPI与产品集合范围，分别链接相关机制。",
+      "decision": "本轮不注册子概念，也不注册“韩股版CTA／杠杆ETF反馈”子关系；国家与日期作为案例范围。"
+    }
+  ],
+  "sample_title": "为什么没有赎回，杠杆产品仍可能减少敞口",
+  "sample": "摩根大通在这篇2026年10月20日文章中，把高位存续的杠杆ETF规模视作韩股后续压力的一项条件。理解这项判断，需要把基金份额变化与既有份额的组合调整分开。图6显示规模和累计流量，尚未直接给出底层卖单。\n\n以每日恢复2倍多头、没有申赎且忽略费用的简化借款组合为例：初始净资产100，风险资产敞口200，负债100。标的当天下跌10%后，资产为180，净资产为80；若继续维持2倍目标，目标敞口应为160，需减少20。由此产生的调整不要求持有人先赎回。下跌之后净资产下降得更快，恢复目标倍数会收缩头寸；上涨时则可能增加敞口。\n\n这解释了存量规模为什么值得观察：在相同规则和收益变化下，存续规模越大，潜在调整金额越大。但图6混合境内宽基、单股与境外产品，未列出倍数、方向及实际执行方式。基金使用互换或期货时，敞口调整也不能直接记为同额现货抛售；交易对手的对冲与其他买盘会影响最终冲击。因此，本次韩股的有效观察应是具体产品目标与实际头寸的差额、执行时段及市场承接，而不是把“规模高”直接改写成“仍有固定金额要卖”。",
+  "limitations": [
+    "原文的“基本面未恶化”“无人接盘”和SOX与KOSPI终将收敛均未由本地证据独立确证；EPS预测、股价与PE之间还存在算术关联。",
+    "图4只能支持公司购买速度变化；外国与境内机构实际流量、持仓与市场深度未取得。图5是模型信号，不能当真实CTA仓位。",
+    "日重置2倍算例为本次条件性推理，不是韩国某只基金合同或历史交易；实际产品倍数、方向、实施工具及调仓量仍未核对。",
+    "原图清晰度有限，图1排除清单与图6分类可辨认，但未从低清图片估取逐日数值，也未取得摩根大通原报告。",
+    "说明文档按要求读取；两份目录检查标题全览与相关条目，形成记录阅读导论和本题相关行，未逐项复核所有历史候选。模型与思考档位为继承且不可核验。"
+  ],
+  "guidance_feedback": "纲领让阅读先停在“低PE为何没有立即形成承接”这个问题，继而沿估值口径、主体订单与合同规则选择方法。测试补充允许比较独立页与事件，帮助我拒绝只加“韩国”标签的子关系。旧机制模板和JSON中的parent、inherits等字段仍容易把分析推向层级设计；应允许parent为空或仅普通关联。闭合的报道叙事也容易使agent直接接受“流动性驱动”；应继续用图注、测量口径和缺失的中间环节约束归因，而不把所有内容都写成免责限制。",
+  "reading": {
+    "documents": [
+      "Source/华尔街见闻/实验_20261113/说明/README.md",
+      "Source/华尔街见闻/实验_20261113/说明/TEST_TASK.md",
+      "Source/华尔街见闻/实验_20261113/说明/SUBSTRUCTURE_DISCUSSION.md",
+      "Source/华尔街见闻/维护/ARTICLE_AUTHORING_CHARTER.md",
+      "Source/华尔街见闻/实验_20261113/说明/NODE_SELECTION_GUIDE.md",
+      "Source/华尔街见闻/实验_20261113/说明/AUTHORING_STANDARD.md",
+      "Source/华尔街见闻/实验_20261113/说明/EVENT_SOURCE_GUIDE.md",
+      "Source/华尔街见闻/实验_20261113/说明/REVIEW_CHECKLIST.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/00_start/README.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/00_start/PROJECT_PLAN.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONVERSATION_MEMORY.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/00_start/BATCH_TASK.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/00_start/FILE_NAMING.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONCEPT_SELECTION_HISTORY.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/00_start/MECHANISM_SELECTION_HISTORY.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONCEPT_IMPORT_LIST.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/00_start/MECHANISM_IMPORT_LIST.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/00_start/templates/CONCEPT_TEMPLATE.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/00_start/templates/MECHANISM_TEMPLATE.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/00_start/templates/EVENT_TEMPLATE.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/00_start/templates/SOURCE_NOTE_TEMPLATE.md",
+      "Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md"
+    ],
+    "graph_pages": [
+      "financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/宽基ETF.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/ETF申赎与二级市场交易.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/市场流动性.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/股权风险溢价ERP.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/CTA趋势跟随的价格反馈.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/保证金驱动的流动性螺旋.md",
+      "financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/波动率目标策略的顺周期反馈.md"
+    ],
+    "figures": [
+      "Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_001.png",
+      "Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_002.png",
+      "Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_003.png",
+      "Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_004.png",
+      "Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_005.png",
+      "Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_006.png",
+      "Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_007.png",
+      "Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_008.png"
+    ]
+  },
+  "summary": "将韩股这段争论作为跨对象事件维护；提出日重置杠杆ETF反馈的独立机制候选，本轮不注册国家标签式子概念或子关系。"
+}

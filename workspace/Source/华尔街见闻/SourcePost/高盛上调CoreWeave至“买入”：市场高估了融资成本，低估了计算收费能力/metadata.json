@@ -1,0 +1,117 @@
+{
+  "article_id": 3783944,
+  "selection": {
+    "article_id": 3783944,
+    "url": "https://wallstreetcn.com/articles/3783944",
+    "title": "高盛上调CoreWeave至“买入”：市场高估了融资成本，低估了计算收费能力",
+    "page_display_time": "2026-10-19T20:53:26+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "卜淑情",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004518",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "AI投资与商业化",
+    "reading_priority": "A",
+    "reading_value": "围绕每兆瓦收入、uIRR与WACC做敏感性分析，明确多头论证依赖的盈利条件。",
+    "starter_selection": true,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2811,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 159
+  },
+  "url": "https://wallstreetcn.com/articles/3783944",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783944?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:02:17+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/d44c5fb7-fbae-4c1c-ab63-c7128ac5e712.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "高盛在报告中直接援引\"Finance 101\"框架， 指出CoreWeave的企业价值与其无杠杆内部收益率（uIRR）和加权平均资本成本（WACC）之间的利差高度相关，并认为市场正在低估uIRR的上修幅度，同时高估了WACC的上升空间。",
+      "path": "assets/figure_001.png",
+      "sha256": "e7375c52a9f9737c6cebf2545857976757e2137efbc9ab87ef5051d5d4b33e03",
+      "bytes": 110398,
+      "width": 1024,
+      "height": 385,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/d44c5fb7-fbae-4c1c-ab63-c7128ac5e712.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_002.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "高盛上调CoreWeave至“买入”：市场高估了融资成本，低估了计算收费能力",
+  "page_display_time": "2026-10-19T20:53:26+08:00",
+  "page_byline": "卜淑情",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "高盛将CoreWeave评级从“中性”上调至“买入”，目标价106美元，较最新收盘价61.39美元有约73%的上涨空间。高盛认为，市场过度担忧其融资成本，却低估了算力收费潜力：GPU及客户合同支持的资产抵押融资并不完全受公司债收益率左右，而每兆瓦年收入有望从目前的1000万美元升至1300万美元，带动投资回报率改善。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2878,
+  "body_sha256": "07de6830263a8d3f56b7e627e17e646f8ad1473ae270618c6db184518c97e1bc",
+  "raw_sha256": "d8824074205741e3c8437d951e96a90c36188a2f03c333b7fd63ad115569e559",
+  "raw_bytes": 12335,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/94e60241-47c6-4bf5-9dd1-799f758bb184.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 2811,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:43+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "d8824074205741e3c8437d951e96a90c36188a2f03c333b7fd63ad115569e559",
+      "bytes": 12335
+    },
+    "article.html": {
+      "sha256": "1b2dcd9f0e00c90a83cb359945aabda6f07a4fee6e0109ff18670cf8ada07f50",
+      "bytes": 12286
+    },
+    "article.md": {
+      "sha256": "fda77ccc9bcf6121879f2e6779b18c5f02fc621bd256a4eecbcaa974823c985f",
+      "bytes": 8410
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:40+08:00"
+}

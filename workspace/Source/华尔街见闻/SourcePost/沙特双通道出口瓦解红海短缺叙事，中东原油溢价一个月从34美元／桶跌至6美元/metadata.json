@@ -1,0 +1,73 @@
+{
+  "article_id": 3784699,
+  "selection": {
+    "article_id": 3784699,
+    "url": "https://wallstreetcn.com/articles/3784699",
+    "title": "沙特双通道出口瓦解红海短缺叙事，中东原油溢价一个月从34美元/桶跌至6美元",
+    "page_display_time": "2026-10-29T01:18:28+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "杨宸",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004919",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "能源、商品与航运",
+    "reading_priority": "B",
+    "reading_value": "把替代出口通道、船舶追踪盲区与原油现货价差联系起来，补充实物供应判断。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1405,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 99
+  },
+  "url": "https://wallstreetcn.com/articles/3784699",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784699?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:34+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "沙特双通道出口瓦解红海短缺叙事，中东原油溢价一个月从34美元/桶跌至6美元",
+  "page_display_time": "2026-10-29T01:18:28+08:00",
+  "page_byline": "杨宸",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "沙特东西输油管道的复通，重启红海延布港，与霍尔木兹海峡双线出口。据Vortexa数据，沙特10月日均出口量约为650万桶，与9月的660万桶基本持平。衡量海湾地区现货市场强弱的阿曼-迪拜价差单月暴跌逾80%，从34美元/桶骤降至6美元。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1482,
+  "body_sha256": "b1eeadc547b4d0a704a818c53c8aff6f44b9692e8f4a770d8617aef320a00c7a",
+  "raw_sha256": "3b4c26d4063b5782793b5c190a717d2cff40e8b85294853042d0115c4f56b3c6",
+  "raw_bytes": 8763,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/587f8139-012f-41bf-9566-1a84113cc8e7.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1405,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:37+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "3b4c26d4063b5782793b5c190a717d2cff40e8b85294853042d0115c4f56b3c6",
+      "bytes": 8763
+    },
+    "article.html": {
+      "sha256": "5f7ad1f3a60d827e9413ce697138cd8390073374a4651843b4318046a71a10fa",
+      "bytes": 8372
+    },
+    "article.md": {
+      "sha256": "218831dec4c6dad66bb0cd37dd311dfdd9b7c1f00b342594168890d7cc98e84f",
+      "bytes": 5043
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:25+08:00"
+}

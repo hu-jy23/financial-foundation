@@ -1,0 +1,89 @@
+{
+  "article_id": 3783691,
+  "selection": {
+    "article_id": 3783691,
+    "url": "https://wallstreetcn.com/articles/3783691",
+    "title": "台积电法说会：Q4营收指引超预期6%，全年增速上调至44%，考虑在美进一步扩产",
+    "page_display_time": "2026-10-15T16:16:50+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "A",
+    "reading_value": "台积电完整法说会覆盖技术节点、海外扩产和先进封装，可保留需求预期及资本开支承诺。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 15188,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 181
+  },
+  "url": "https://wallstreetcn.com/articles/3783691",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783691?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:03+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/e637bf76-0637-4f0a-94d0-90228ce9f821.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "台积电预计第四季度毛利率为65%至67%，市场预估为66.1%；营业利益率为56.5%至58.5%，市场预估为58%。上述预测基于1美元兑31.8新台币的汇率假设。",
+      "path": "assets/figure_001.png",
+      "sha256": "f391830494cd02ffeac42f956c8b305b30db6effa24023edbda6613975f3d597",
+      "bytes": 136390,
+      "width": 1024,
+      "height": 498,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/e637bf76-0637-4f0a-94d0-90228ce9f821.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "台积电法说会：Q4营收指引超预期6%，全年增速上调至44%，考虑在美进一步扩产",
+  "page_display_time": "2026-10-15T16:16:50+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "台积电预计第四季度销售额区间为523亿至543亿美元，将2026年全年营收增速预期从此前的“略高于40%”上调至约44%。CEO透露，公司已就产能合作事宜与马斯克旗下Terafab展开洽谈。公司正考虑在亚利桑那州以外进一步扩大美国产能，得克萨斯州已在选址评估之列。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 14894,
+  "body_sha256": "1ffc54b41987076e034a928926d126bf727ac013a151f1c7254a27f8f1b96957",
+  "raw_sha256": "621c7671bccd00b8726addeaeef29994d16d4ac19f31c7a6dbacd729ca9c2701",
+  "raw_bytes": 60272,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/68f8937f-19b8-4215-8f08-33d46b87bfaa.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 15188,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:46+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "621c7671bccd00b8726addeaeef29994d16d4ac19f31c7a6dbacd729ca9c2701",
+      "bytes": 60272
+    },
+    "article.html": {
+      "sha256": "2516339b1b8877badcc5f3403eff8b0294300122d76c32177b37af55532aea8a",
+      "bytes": 55831
+    },
+    "article.md": {
+      "sha256": "6f3ec98d68d7eebcb534def1a38678c616f6b6d1032af3206a3ea64df0b50bea",
+      "bytes": 43781
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:44+08:00"
+}

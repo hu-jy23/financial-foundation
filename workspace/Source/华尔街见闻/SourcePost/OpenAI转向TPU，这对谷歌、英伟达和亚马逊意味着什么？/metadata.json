@@ -1,0 +1,106 @@
+{
+  "article_id": 3750097,
+  "selection": {
+    "article_id": 3750097,
+    "url": "https://wallstreetcn.com/articles/3750097",
+    "title": "OpenAI转向TPU，这对谷歌、英伟达和亚马逊意味着什么？",
+    "page_display_time": "2025-06-30T16:53:32+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "B",
+    "reading_value": "讨论TPU采用对云平台、GPU供给和自研芯片生态的影响，保留机构的竞争判断。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1455,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 167
+  },
+  "url": "https://wallstreetcn.com/articles/3750097",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3750097?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:56+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_001.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "OpenAI转向TPU，这对谷歌、英伟达和亚马逊意味着什么？",
+  "page_display_time": "2025-06-30T16:53:32+08:00",
+  "page_byline": "许超",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "大摩表示，对谷歌而言，这是OpenAI对其AI基础设施能力的重要背书，将推动谷歌云业务增长并巩固其在ASIC生态系统中的领先地位；对英伟达而言，虽然面临产能约束挑战，但仍将保持GPU市场主导地位；对亚马逊而言，OpenAI合作伙伴名单中缺少AWS可能暴露其产能限制和Trainium芯片竞争力不足的问题。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1531,
+  "body_sha256": "944ce573a7543322bdbd04382689882e5daf05768b4e71e2feb6706ca08847d6",
+  "raw_sha256": "8df3ce7eb169687fd61474f9b2655a471114c5257d804793812f6dcd7e5d2554",
+  "raw_bytes": 9086,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/e552493f-badb-4476-b712-f0efa7532385.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1455,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "华尔街见闻之前消息",
+      "url": "https://wallstreetcn.com/articles/3750030"
+    },
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:45+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "8df3ce7eb169687fd61474f9b2655a471114c5257d804793812f6dcd7e5d2554",
+      "bytes": 9086
+    },
+    "article.html": {
+      "sha256": "f834fb9a588f259bf5239bd4ab1ddce496d0fc9329714edb33dda1523818623c",
+      "bytes": 8790
+    },
+    "article.md": {
+      "sha256": "abf7e7d0f82e2cfc55cee4c770d2eed16c139fd53a983088a1eb0138ee73407f",
+      "bytes": 5053
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:41+08:00"
+}

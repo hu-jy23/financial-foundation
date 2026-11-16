@@ -2,19 +2,38 @@
 id: C-FISCAL-14
 type: concept
 title: 主权信用风险与CDS
-status: reviewed_seed
-draft_author: "/root/full_b006"
+status: step1_reviewed
+draft_author: /root/full_b006
 model: gpt-6-astra
 reasoning_effort: medium
-reviewed_by: /root
-updated: 2026-10-28
+reviewed_by:
+- /root/step1_selector_reviewer
+- /root
+updated: 2026-11-03
 evidence_as_of: 2025-03-28
-source_ids: [S-C-FISCAL-14-01, S-C-FISCAL-14-02, S-C-FISCAL-14-03, S-C-FISCAL-14-04, S-C-FISCAL-14-05]
+edited_by:
+- /root/step1_t2_maker
+editor_model: inherited_unverified
+editor_reasoning_effort: inherited_unverified
+source_ids:
+- S-C-FISCAL-14-01
+- S-C-FISCAL-14-02
+- S-C-FISCAL-14-03
+- S-C-FISCAL-14-04
+- S-C-FISCAL-14-05
+- S-T2-6E-CH9-CDS-CONFIDENCE
+candidate_ids:
+- T2-U07-B
+step1_reviewed_on: '2026-11-03'
+original_reviewed_by: /root
+edit_scope: 已审候选 T2-U07-B 的正文与来源整合
 ---
 
 # 主权信用风险与CDS
 
 > 执笔：`/root/full_b006`，GPT-6-Astra，medium；制作日2026-10-28。重组资料截止2025-03-28；美国CDS历史采用2023年10月研究，未取得2026年可复核报价。本页的定价示例均为假设，不代表任何国家实时违约概率。
+
+> 本次编辑：`/root/step1_t2_maker`，2026-11-03；依据T2第6版整合T2-U07-B，本次增量已审。
 
 ## 概念定义
 
@@ -101,6 +120,8 @@ ICE／Markit公告记录，2012-03-19 15:30 GMT希腊信用事件拍卖最终价
 
 本次ISDA希腊裁决原站访问403，因此不在正文复述其精细法律判断。拍卖事实来自实际取得的交易基础设施公告；2014定义用于解释一般合同框架，不能倒套到2012年合约认定过程。
 
+Cecchetti与Schoenholtz事后回顾希腊危机时认为，政策方尝试避免重组触发CDS，可能使持有人怀疑保护能否覆盖经济损失，因而减少对其他弱主权债的持有并缩表。后来希腊CDS实际赔付，不能倒推此前没有对冲信心冲击。这是教材作者的条件性解释，本页未据此识别净卖出或信贷收缩的规模，也不补写未核法律裁决。[S-T2-6E-CH9-CDS-CONFIDENCE](#S-T2-6E-CH9-CDS-CONFIDENCE)
+
 ### 2023年美国：更贵的保护未必代表历史最高违约概率
 
 Benzoni等人在2023年10月研究中，使用一年期美国主权CDS与可交割国债价格重建债务上限时期的市场隐含风险。作者指出，美国主权CDS多数以欧元计价；其跨事件比较假设违约时汇率变化预期没有显著改变，不能当作纯美元无汇率风险保险。[S-C-FISCAL-14-02](#S-C-FISCAL-14-02)
@@ -137,3 +158,5 @@ Benzoni等人在2023年10月研究中，使用一年期美国主权CDS与可交�
 <a id="S-C-FISCAL-14-05"></a>**S-C-FISCAL-14-05**：Ghana Ministry of Finance，*Press Conference—Completion of the Exchange Offer and Consent Solicitation*，[官方讲话](https://www.mofep.gov.gh/node/1854)，正文为2024年交换说明，页面未提供可核精确发表日。核读PAR／DISCO选项、票息与到期及利息拖欠说明；未用其“未来几周交换”等说法替代较晚报告的实际结算日期。
 
 缺口：ISDA自站希腊裁决及2014发布说明访问403，合同原件通过银行托管取得；缺少2026年统一期限、币种、条款及成交状态的CDS曲线；加纳案例未取得CDS结算材料，故只解释债务重组损失口径。上述缺口分别限制触发事件法律细节、实时风险比较与重组—CDS定量对应，不能以一般公式补出缺失事实。
+
+<a id="S-T2-6E-CH9-CDS-CONFIDENCE"></a>**S-T2-6E-CH9-CDS-CONFIDENCE** — Stephen G. Cecchetti、Kermit L. Schoenholtz，*Money, Banking and Financial Markets*，第6版ISE，©2021，ISBN 9781260571363。第9章PDF267—268／印刷232—233；采用作者对合同可信度与持债意愿的事后解释。 [本地教材PDF](<../../source_2/T2 货币银行 Money Banking and Financial Markets/Money, Banking and Financial Markets, 6e ISE (Stephen G. Cecchetti, Kermit L. Schoenholtz) (z-library.sk, 1lib.sk, z-lib.sk).pdf#page=267>)。

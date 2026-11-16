@@ -1,0 +1,132 @@
+{
+  "article_id": 3750086,
+  "selection": {
+    "article_id": 3750086,
+    "url": "https://wallstreetcn.com/articles/3750086",
+    "title": "苹果、Meta、谷歌...谁将打造人形机器人时代的“安卓”系统？",
+    "page_display_time": "2025-06-30T18:57:45+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "AI投资与商业化",
+    "reading_priority": "B",
+    "reading_value": "从开源生态、开发者、制造数据和部署补贴讨论机器人平台竞争，长期规模预测需单独检验。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2228,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 147
+  },
+  "url": "https://wallstreetcn.com/articles/3750086",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3750086?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:51+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/96b60170-3f53-44b4-af57-a5fde99caea7.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "过去一个月，科技巨头们在机器人领域的开源布局明显加速。这些公司希望通过开源策略，将AI工具扩展到物理世界，同时将开发者更深入地绑定到各自的生态系统中。",
+      "path": "assets/figure_001.png",
+      "sha256": "42e664ae563b81d3be4047a86895a817da29da79d4f8848ebd401b0637845e04",
+      "bytes": 305441,
+      "width": 1127,
+      "height": 618,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/96b60170-3f53-44b4-af57-a5fde99caea7.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/88e9fd4a-298e-4b4a-b1f6-6e9e084b4ef1.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "报告指出，中国在制造业和智能方面的优势不容小觑。制造业和物理智能密不可分，而AI赋能机器人技术的最终障碍是数据获取，这与制造能力直接相关。胜负将由构建和部署数据物理节点（机器人）来收集数据并驱动AI改进飞轮的能力决定。",
+      "path": "assets/figure_002.png",
+      "sha256": "bb34c3eea35c86ebc3c2d2ca02b92e56ddd7dd108e4d6bc1a4820e2fcb1450dc",
+      "bytes": 26895,
+      "width": 621,
+      "height": 304,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/88e9fd4a-298e-4b4a-b1f6-6e9e084b4ef1.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_003.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "苹果、Meta、谷歌...谁将打造人形机器人时代的“安卓”系统？",
+  "page_display_time": "2025-06-30T18:57:45+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "大摩表示，科技巨头希望通过开源将AI工具扩展到物理世界，同时将开发者更深入地绑定到各自的生态系统中。但目前未来\"安卓系统\"赢家尚未确定，中国凭借制造业基础和政策支持方面的优势，可能在这场\"机器人竞赛\"中占据领先地位。预计到2050年全球人形机器人市场年收入可达5万亿美元，累计采用量将达到10亿台，这一规模大约是2024年全球20大汽车制造商总收入的两倍。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2292,
+  "body_sha256": "53928dc30e315decca61bb14faf997fecab621c13ad9acd7b09a09dbd32292ce",
+  "raw_sha256": "29c535e530e08c49dfb76e1431a5df2b09a3ed7a255b728d742334adbc301df3",
+  "raw_bytes": 12608,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/a3b94b02-3775-4f0b-a594-1bc6bb441a1e.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 2228,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:43+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "29c535e530e08c49dfb76e1431a5df2b09a3ed7a255b728d742334adbc301df3",
+      "bytes": 12608
+    },
+    "article.html": {
+      "sha256": "9f6cd8057ec4438009ecc977f3cc1bc529051ef46ec163702f9dec9fb3006111",
+      "bytes": 12478
+    },
+    "article.md": {
+      "sha256": "7dd9fe7db9af6e0774c3bed8af8bfb4d4870b0ca9c71ec58a008bbab6ec4899f",
+      "bytes": 7536
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:37+08:00"
+}

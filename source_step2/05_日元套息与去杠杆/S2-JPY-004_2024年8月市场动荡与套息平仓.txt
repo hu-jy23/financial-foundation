@@ -1,0 +1,343 @@
+BIS Bulletin
+                                         No 90
+
+The market turbulence and carry trade
+unwind of August 2024
+Matteo Aquilina, Marco Lombardi, Andreas Schrimpf and
+Vladyslav Sushko
+
+
+
+
+27 August 2024
+BIS Bulletins are written by staff members of the Bank for International Settlements, and from time to time
+by other economists, and are published by the Bank. The papers are on subjects of topical interest and are
+technical in character. The views expressed in them are those of their authors and not necessarily the views
+of the BIS. The authors are grateful to Inaki Aldasoro, Claudio Borio, Ingo Fender, Bryan Hardy, Patrick
+McGuire, Frank Packer, Ilhyock Shim, Hyun Song Shin, Takeshi Shirakami and Kevin Tracol for helpful
+comments and suggestions. The authors are also grateful to Alberto Americo and Ilaria Mattei for excellent
+analysis and research assistance, and to Nicola Faessler for administrative support.
+The editor of the BIS Bulletin series is Hyun Song Shin.
+
+
+
+
+This publication is available on the BIS website (www.bis.org).
+
+
+
+
+©   Bank for International Settlements 2024. All rights reserved. Brief excerpts may be reproduced or
+    translated provided the source is stated.
+
+
+
+
+ISSN: 2708-0420 (online)
+ISBN: 978-92-9259-782-5 (online)
+                   Matteo Aquilina                Marco Lombardi                   Andreas Schrimpf                  Vladyslav Sushko
+             Matteo Aquilina@bis.org          Marco.Lombardi@bis.org           Andreas.Schrimpf@bis.org          Vladyslav.Sushko@bis.org
+
+
+
+
+    The market turbulence and carry trade unwind of August 2024
+
+
+
+Key takeaways
+•       Financial market volatility resurfaced in early August as the unwinding of leveraged trades in equity and
+        currency markets amplified the initial reaction to a negative macro release in the United States. Markets
+        then stabilised quickly, and volatility receded.
+•       FX carry trades were hit hard by the deleveraging pressures. Their overall size is difficult to measure.
+        Various estimates based on both on- and off-balance sheet activity yield a rough middle ballpark of
+        ¥40 trillion ($250 billion) going into the event, which, if anything, is biased down due to data gaps.
+•       The event was yet another example of volatility exacerbated by procyclical deleveraging and margin
+        increases. Although an outright market dysfunction was averted this time, the structural features of the
+        system underpinning such episodes deserve continued attention by policymakers.
+
+
+
+    In the first days of August 2024, financial markets were rocked by an episode of significant volatility. The
+    peak of the stress occurred on 5 August, when the Japanese TOPIX index lost 12% in a single day, and the
+    VIX briefly registered levels not seen since Covid-19. The spike in volatility appears to have been amplified
+    by deleveraging pressures and increases in margins. Strategies that rely on extensive leverage and are
+    predicated on contained volatility, especially in equity, currency and options markets, were forced to
+    unwind. Among them, currency carry trades, especially those funded in yen, were the hardest hit. 1
+        This Bulletin discusses the triggers of the turbulence, examines the amplification mechanisms and
+    explores the potential for further flare-ups.
+
+
+    The triggers of the turbulence and the market movements
+
+    While the most intense market moves happened in early August, signs of fragility had appeared weeks
+    before. From the first half of July, the yen’s depreciation trend had reversed, amid rumoured Bank of Japan
+    interventions, altering the incentives for many leveraged speculators. In addition, a brief equity sell-off
+    with some signs of carry trade unwinding had occurred on 24 July. On that date, valuations of AI/tech
+    stocks, which had been exhibiting strong price momentum in previous months, had dropped by around
+    $1 trillion. In FX markets, the yen (the predominant carry trade funding currency) appreciated sharply.
+        The turbulence in early August then followed in the wake of seemingly minor news. After what was
+    perceived as a hawkish rate hike by the Bank of Japan and a more cautious approach to rate cuts by the
+    Federal Reserve, investors coalesced around a somewhat disappointing US labour market data release on
+    2 August. Investors appeared to reassess the likelihood of a potential recession, with some perceiving the
+    prevailing policy stance as too tight. In fact, the news could hardly be taken as an unequivocal sign of a
+    deteriorating outlook, let alone a looming recession. Yet, markets had become hyper-sensitive to any signs
+
+
+
+    1
+          Such strategies entail borrowing in low-yielding currencies, such as yen, to invest in higher-yielding assets in other currencies.
+          Often, they are synthetically implemented via foreign exchange (FX) derivatives such as forwards, FX swaps and options. These
+          trades tend to generate small but consistent returns as long as volatility remains subdued.
+
+
+
+    BIS Bulletin                                                                                                                          1
+of a change in growth momentum and in the associated monetary policy outlook. Thus, the news acted
+as a catalyst for an equity market correction, with the S&P 500 losing 1.8%.
+     Following the weekend, Japanese markets were hit hard by the unwinding of leveraged positions and
+carry trades (see below) and became the locus of the turbulence. On Monday 5 August the TOPIX lost 12%
+(Graph 1.A) and the Nikkei volatility index spiked to a level typically seen only during crises (Graph 2.A).
+Losses and volatility spread to other markets through the day. The Eurostoxx fell by 1.7%; the S&P 500
+lost another 3.0%; the MSCI Asia Pacific Index saw its worst drop in a year; meanwhile in off-hours trading,
+the VIX spiked to levels above 60. The tech sector suffered larger losses, but smaller firms and more cyclical
+stocks were not spared either. In Japan, bank and insurance company stocks were hit especially hard.
+    Markets then stabilised almost as quickly. By the close at the end of the week on Friday 9 August, the
+S&P 500 had recovered all the losses incurred since Monday, while the TOPIX had recovered most of them,
+and the VIX receded to much lower, albeit still relatively elevated, levels.
+
+Equity market performance and leverage                                                                                               Graph 1
+
+A. US and Japanese equity indices                                         B. An indicator of leverage in the hedge fund sector1
+Index                                                            Index                                                                      Ratio
+
+
+
+
+The darker shaded area indicates 2 August 2024–5 August 2024. The lighter shaded area indicates 6 August 2024–9 August 2024.
+1
+    Leverage is calculated as the difference between total assets and total secured borrowing via prime brokerage, over total net assets.
+
+Sources: Board of Governors of the Federal Reserve System; Bloomberg; authors’ calculations.
+
+
+
+
+The amplifiers: unwinding of leveraged positions in equities and FX carry trades
+
+This outsized market reaction to a single data release hints at a key role of amplifying factors, most notably
+deleveraging pressures amid thin markets (as is common in August). The vehemence of the move reflects
+in part the prolonged prior phase of risk-taking amid unusually low volatility. This environment had been
+particularly conducive to the build-up of leveraged positions, such as currency carry trades and related
+strategies benefiting from low volatility. In line with this, aggregate market leverage in the US hedge fund
+sector had been on an upward trajectory in the run-up to the event (Graph 1.B).
+     The spike in the VIX was associated with immediate deleveraging pressures. Upon the initial rise in
+volatility, market participants faced increased pressure to cover their leveraged positions through outright
+sales to meet margin calls or purchases of options and VIX futures, thereby further amplifying the rise in
+the VIX and the size of the volatility shock. The resulting spike in the VIX far exceeded what should have
+been expected based on the historical relationship between the VIX and S&P 500 returns (Graph 2.B).
+
+
+
+
+2                                                                                                                                   BIS Bulletin
+Outsized jump in the VIX on 5 August                                                                                          Graph 2
+
+A. The VIX and carry trade index                                     B. Changes in the VIX and S&P500 returns
+Index                                                        Index
+
+
+
+
+Sources: Bloomberg; authors’ calculations.
+
+
+
+     Large FX carry trade positions were most sensitive to the volatility spike and were largely forced to
+unwind. As carry strategies tend to generate small but consistent returns at times of market calm, but
+quickly generate steep losses as turbulence erupts, they are often portrayed as “picking up nickels in front
+of a steamroller”. A well established pattern is that spikes in volatility go hand in hand with deleveraging
+pressures and the unwinding of currency carry trades (Menkhoff et al (2012)). There is also evidence that
+US equity volatility has become closely intertwined with currency carry returns. 2 This common exposure is
+due to the fact that many equity option strategies entail implicit bets on volatility being contained, akin
+to currency carry trades. Indeed, the market dynamics of 5 August fit with the historical patterns.
+     Leveraged carry trade positions had grown rapidly before the event, but their exact size is difficult to
+estimate. Net short positions in yen futures by “speculative traders” provide a high frequency, albeit very
+partial, indication. These had reached historical peaks of around ¥2 trillion (or about $14 billion) and were
+unwound during the event (Graph 3.A). That said, currency futures are only the tip of the iceberg. Over-
+the-counter (OTC) FX derivatives are behind much larger carry trade positions. A back-of-the-envelope
+calculation for an upper bound on the size of hedge fund speculative activity with currency forwards yields
+an estimate of around $160 billion. 3 In addition, there are various other ways to implement carry trades
+and similar currency bets using off-balance sheet derivatives. For example, an open position in forwards
+can be rolled using FX swaps. 4 Furthermore, market participants also use currency options (both exchange-
+traded and OTC), especially when betting on emerging market currencies.
+     In addition to off-balance sheet (derivatives) positions, carry trades and broader yen-funded
+investment strategies can be implemented using on-balance sheet instruments. Estimates of the size of
+these activities can be gleaned from various forms of yen borrowing from banks by entities located outside
+Japan. For instance, funds channelled by foreign bank affiliates in Japan back to their headquarters often
+
+
+
+2
+        Brunnermeier et al (2008) show that carry trades incur losses when VIX rises, as margins increase and funding constraints bind.
+        Yen appreciation jumps due to small carry unwinds are also more frequent in periods of higher VIX (Nirei and Sushko (2011)).
+        Caballero and Doyle (2012) find that exposure to short equity volatility strategies helps explain carry trade portfolio returns
+3
+        The outstanding notional value of forwards and FX swaps (BIS OTC derivatives statistics) adjusted by the turnover share of
+        hedge funds and principal trading firms, and that of forwards (BIS Triennial Survey): $14.2 trillion × 5% × 24% ≈ $160 billion.
+4
+        A dollar provider in an FX swap can also convert this covered position into an open currency forward position by eliminating
+        the spot leg of the swap and selling yen spot; see https://x.com/HyunSongShin/status/1821905766439076224.
+
+
+
+BIS Bulletin                                                                                                                         3
+provide a telltale sign of interbank yen flows to fund carry trades (Hattori and Shin (2009)). These have
+nearly doubled since 2021 (Graph 3.B, grey line), to almost ¥14 trillion (or over $90 billion). BIS Global
+Liquidity Indicators further show that yen-denominated loans to non-banks resident outside Japan rose
+markedly after Covid-19, to about ¥40 trillion ($250 billion) by March 2024 (blue line). Moving beyond just
+loans to include debt instruments issued to banks by non-banks in offshore centres, such as the Cayman
+Islands (following Galati et al (2007)), BIS banking statics show that cross-border yen bank claims on this
+segment had exceeded ¥80 trillion (approximately $500 billion) prior to the event (red lines). This figure
+covers bank claims of various types, most notably on special purpose vehicles issuing yen-denominated
+secured notes to fund various investments, such as in the US collateralised loan obligation market. Thus,
+care needs to be taken when interpreting various estimates. Still, they are broadly consistent with the
+recent rise in incentives to engage in carry trades, as gauged by carry-to-risk ratios, which peaked in the
+first quarter of 2024, before policy tightening commenced in Japan (Graph 4.A).
+
+
+Indicators of yen carry trades and broader yen funding outside Japan                                                                  Graph 3
+
+A. Speculative shorts in yen futures                                      B. Bank yen funding extended to entities outside Japan
+JPY trn                                                              %                                                                  JPY trn
+
+
+
+
+The grey areas: Asian financial crisis (July 1997–December 1998) and the Great Financial Crisis (July 2007–December 2008).
+1
+  Inter-office assets of foreign banks in Japan (inverted scale); often used as a proxy for the amount of yen sourced by foreign banks in Japan
+and sent back to headquarters to fund yen carry trades. 2 Cross-border and local bank loans denominated in yen of BIS-reporting banks to
+non-banks resident outside Japan (inverted scale). 3 Cross-border yen-denominated loan and securities claims (derivatives are negligible
+in this aggregate, especially for banks in Japan) of BIS-reporting banks on non-banks resident in the following jurisdictions: Andorra, Bermuda,
+Cayman Islands, Curaçao, Gibraltar, Guernsey, Isle of Man, Jersey, Liechtenstein, and Turks and Caicos Islands (inverted scale).
+
+Sources: Bank of Japan; CFTC; BIS locational banking statistics; authors’ calculations.
+
+
+
+     An unwinding of retail traders’ positions via margin brokerage platforms likely also played a role. In
+aggregate, Japanese retail margin traders had mostly shorted the yen after the pandemic, while their
+trading volumes ballooned (Graph 4.B). Market commentaries also note that a broader set of positions by
+the retail segment were forced to unwind. The strong negative reaction of cryptoassets during the episode,
+with Bitcoin and Ethereum posting losses of up to 20%, also suggests that retail traders faced margin calls
+and may have been forced to close positions even in seemingly unrelated assets.
+     The impact of the unwinding reverberated across many currencies, reflecting the use of multiple
+sources of funding and investments by carry traders. On 5 August, the yen appreciated the most, followed
+by the Swiss franc (another popular funding currency) (Graph 5.A). Interestingly, the recent episode also
+involved currencies not typical in carry trade funding, most notably the offshore renminbi (CNH), which
+also appreciated notably. The Malaysian ringgit gained even more, as it was likely traded as a proxy for
+
+
+
+
+4                                                                                                                                   BIS Bulletin
+renminbi bets, but is also fairly illiquid and volatile. Among the high-yielding investment currencies, the
+Mexican peso was hit hardest, followed by the Brazilian real and South African rand (Graph 5.B).
+
+
+Yen carry trade “Sharpe ratios” and Japanese retail FX margin trading                                                           Graph 4
+
+A. Carry-to-risk ratios                                                 B. “Mrs Watanabe” FX margin trading3
+                                                                Ratio   JPY trn                                                   JPY trn
+
+
+
+
+1
+  Interest rate differential implied by currency forwards divided by FX options-implied volatility, three-month horizons. 2 Simple average
+across ARS, BRL, CNY, CZK, HKD, HUF, IDR, INR, KRW, MXN, MYR, PHP, PLN, SGD, THB, TRY and ZAR. 3 Sums of monthly trading volume
+and open positions in USDJPY, EURJPY, CHFJPY, GBPJPY, CADJPY, NZDJPY, ZARJPY, EURUSD and GBPUSD.
+
+Sources: Bloomberg; LSEG Datastream; JP Morgan Chase; The Financial Futures Association of Japan; authors’ calculations.
+
+
+
+
+Changes in exchange rates against the US dollar, 1–5 August                                                                     Graph 5
+
+A. Currencies that appreciated most                                     B. Currencies that depreciated most
+
+
+
+
+Sources: BIS bilateral exchange rates; authors’ calculations.
+
+
+
+     Overall, there were many signs of spillovers as investors liquidated other assets to cover margin calls.
+Reports suggest that the volatility spike triggered margin calls across various markets and central
+counterparties (CCPs), giving rise to procyclical deleveraging akin to, but less pronounced than, other
+recent market stress events, such as the Covid-19 crisis (Schrimpf et al (2020)). The Japan Securities
+Clearing Corporation increased initial margins for long positions of equity indexes by 60–80%, while
+margins on short positions in Japanese government bond futures increased by 43%; unsurprisingly, margin
+calls appeared to be particularly large for entities with large FX positions (Clancy (2024)). Leveraged
+positions beyond carry trades, notably some momentum strategies popular among certain hedge funds
+(so-called “managed futures”), may have also constituted an additional amplifier. While initially shorting
+
+
+
+BIS Bulletin                                                                                                                            5
+the yen during its depreciation phase, many momentum players likely went long upon the trend reversal
+earlier in July, thus further amplifying the moves.
+
+
+Underlying vulnerabilities linger
+
+Overall, markets showed substantial resilience in the face of considerable volatility. The speed of their
+recovery was remarkable. Despite multiple signs of currency carry trade unwinding, the magnitudes of
+exchange rate changes were not outsized when compared to past well-known carry crashes, and indicators
+of FX volatility did not rise nearly as much as those of equities. Trading also continued to be orderly across
+other asset classes, and liquidity conditions, while having deteriorated, still allowed for undisrupted
+trading. CCPs and their members were able to manage large changes in margins, and public authorities
+did not need to intervene to restore calm.
+     That said, the factors behind the volatility spike and large market moves have not changed
+significantly. Risk-taking in financial markets remains elevated. Only a share of various trades predicated
+on low volatility and cheap yen funding appear to have been unwound. Some broader trades funded in
+the yen, potentially involving more illiquid assets, may be unwound more sluggishly. Furthermore, there
+were already indications that some leveraged positions were quickly being rebuilt.
+     More broadly, a number of factors behind the recent turbulence reflect structural features of our
+financial system, notably the greater heft of market-based finance (Aramonte et al (2021)). Of particular
+concern are the ones that enable the build-up of large positions in periods of calm and necessitate their
+quick unwinding when volatility rises. The reliance on leverage for many of these positions implies that
+investors will have to respond more strongly to adverse shocks to avoid significant losses. If such behaviour
+takes place in a jittery and illiquid market environment, volatility could be further exacerbated, and a
+negative feedback loop could be kindled. In addition, sudden (and large) changes in margins from
+derivatives and securities positions that are not directly linked to trades that rely on low volatility could
+add further pressure to markets, infrastructures and intermediaries.
+
+
+References
+
+Aramonte, S, A Schrimpf and H S Shin (2021): “Non-bank financial intermediaries and financial stability”,
+BIS Working Papers, no 972, October.
+Brunnermeier, M, S Nagel and L Pedersen (2008): “Carry trades and currency crashes”, NBER
+Macroeconomics Annual, vol 23, no 1, pp 313–47.
+Caballero, R and J Doyle (2012): “Carry trade and systemic risk: why are FX options so cheap?”
+Massachusetts Institute of Technology Department of Economics Working Paper Series, no 12-28.
+Clancy, L (2024): “Margin calls jumped threefold as global markets sold off”, Risk.net, 7 August.
+Galati, G, A Heath and P McGuire (2007): “Evidence of carry trade activity”, BIS Quarterly Review,
+September, pp 27–41.
+Hattori, M and H S Shin (2009): “Yen carry trade and the subprime crisis”, IMF Staff Papers, vol 56, no 2.
+Menkhoff, L, L Sarno, M Schmeling and A Schrimpf (2012): “Carry trades and global foreign exchange
+volatility”, Journal of Finance, vol 62, no 2, pp 681–718.
+Nirei, M and V Sushko (2011): “Jumps in foreign exchange rates and stochastic unwinding of carry trades”,
+International Review of Economics & Finance, vol 20, no 1, pp 110–27.
+Schrimpf, A, H S Shin and V Sushko (2020): “Leverage and margin spirals in fixed income markets during
+the Covid-19 crisis”, BIS Bulletin, no 2, April.
+
+
+
+
+6                                                                                                    BIS Bulletin
+

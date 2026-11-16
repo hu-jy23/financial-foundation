@@ -1,0 +1,4 @@
+interface:
+  display_name: "Step1原材料转Map"
+  short_description: "从教材和课件理解论证，判断知识归属并交付可核对的金融Map草稿"
+  default_prompt: "使用 $step1-source-to-map 阅读指定原材料，在临时目录提出对象与机制更新并交审。"

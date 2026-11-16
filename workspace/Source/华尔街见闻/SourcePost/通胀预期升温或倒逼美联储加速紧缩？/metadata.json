@@ -1,0 +1,94 @@
+{
+  "article_id": 3741938,
+  "selection": {
+    "article_id": 3741938,
+    "url": "https://wallstreetcn.com/articles/3741938",
+    "title": "通胀预期升温或倒逼美联储加速紧缩？",
+    "page_display_time": "2025-02-26T19:48:30+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "B",
+    "reading_value": "汇集居民通胀预期与经济学家判断，讨论预期失锚如何约束联储降息路径。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1303,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 1
+  },
+  "url": "https://wallstreetcn.com/articles/3741938",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3741938?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:15+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/4747842c-92ab-40a7-a07e-b580bc75cc8d.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "特朗普政府在贸易、移民和税收等方面的政策，尤其是关税政策，加剧了民众对物价上涨的担忧。《纽约时报》25日援引经济学家的观点称， 特朗普的政策可能会推高物价。",
+      "path": "assets/figure_001.png",
+      "sha256": "ef8436fe4663ee10a541e4274622b032377623d16e6f81ed071a15c2c228ede9",
+      "bytes": 488747,
+      "width": 1024,
+      "height": 639,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/4747842c-92ab-40a7-a07e-b580bc75cc8d.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "通胀预期升温或倒逼美联储加速紧缩？",
+  "page_display_time": "2025-02-26T19:48:30+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "近期美国消费者对于未来12个月的通胀预期已上升至一年以来的最高水平。而如果通胀预期持续上升，美联储可能被迫采取更激进的紧缩政策，包括加快加息步伐或推迟降息。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1384,
+  "body_sha256": "d6fdb5110e27c74d462a543d91ef2581dfa369e5c3b5d47ae327c099f9eb2566",
+  "raw_sha256": "d47b00cc779b2fb96f49f65891c132c38a3e5a8a3619608d7a724709f0c70bef",
+  "raw_bytes": 7817,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/205c2898-325c-460d-a95c-a2fe765cbbd1.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1303,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "密歇根大学的消费者调查数据",
+      "url": "https://wallstreetcn.com/articles/3741638?keyword=%E9%80%9A%E8%83%80"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:30+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "d47b00cc779b2fb96f49f65891c132c38a3e5a8a3619608d7a724709f0c70bef",
+      "bytes": 7817
+    },
+    "article.html": {
+      "sha256": "2c1bfc457bcac4154b281cc01092b6b2e75bd5e077f53f2e3f5652ad81faca7e",
+      "bytes": 7583
+    },
+    "article.md": {
+      "sha256": "8281745b48ee7e220af00758faaad4aecfd59e94b4b9542d7fa12f1a6743f1ee",
+      "bytes": 4582
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:07+08:00"
+}

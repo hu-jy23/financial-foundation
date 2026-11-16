@@ -1,0 +1,89 @@
+{
+  "article_id": 3749342,
+  "selection": {
+    "article_id": 3749342,
+    "url": "https://wallstreetcn.com/articles/3749342",
+    "title": "刘强东决心找回失落的五年",
+    "page_display_time": "2025-06-18T13:24:44+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "王小娟",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004768",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "A",
+    "reading_value": "刘强东长访谈围绕自营、供应链、成本效率与海外本地化，可保留企业战略自述。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 4684,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 190
+  },
+  "url": "https://wallstreetcn.com/articles/3749342",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3749342?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:04+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/8c1b81b5-27b2-4082-bffb-c95079f489a2.jpeg",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "作者 | 王小娟",
+      "path": "assets/figure_001.jpg",
+      "sha256": "e71fd4f27e49ba9154040d9a0cde2533726488bdc5d4f5f19a67fc8d8efe752b",
+      "bytes": 283719,
+      "width": 1024,
+      "height": 682,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/8c1b81b5-27b2-4082-bffb-c95079f489a2.jpeg"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "刘强东决心找回失落的五年",
+  "page_display_time": "2025-06-18T13:24:44+08:00",
+  "page_byline": "王小娟",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "强势回归。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 4739,
+  "body_sha256": "fa060f81ae60f2ad15cffb1fab60953493cd0236bf6f0317d907f0cec2b9882e",
+  "raw_sha256": "985585a024663afa2fddd4a77bdca6fadc1e2f918f2e37969587037d437b0db0",
+  "raw_bytes": 19059,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/04be9383-5dc7-456f-bfe6-d4016e30c818.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 4684,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:46+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "985585a024663afa2fddd4a77bdca6fadc1e2f918f2e37969587037d437b0db0",
+      "bytes": 19059
+    },
+    "article.html": {
+      "sha256": "13a30bccfe3939358be5bbed03d379e8f673107007ec13c0f5b2d6e93084d294",
+      "bytes": 18804
+    },
+    "article.md": {
+      "sha256": "de5dde749837e77084845ba86fe9e3d478cacfa19035fdd4ba6ee562f2a679d4",
+      "bytes": 14197
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:47+08:00"
+}

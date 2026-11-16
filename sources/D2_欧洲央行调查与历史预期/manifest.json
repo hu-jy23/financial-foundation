@@ -1,0 +1,36 @@
+{
+  "id": "D2",
+  "title": "欧洲央行调查：SMA与SPF需要分别使用",
+  "directory": "D2_欧洲央行调查与历史预期",
+  "original_language": "en",
+  "source_urls": [
+    "https://www.ecb.europa.eu/stats/ecb_surveys/sma/shared/pdf/ecb.smar220725_july.en.pdf",
+    "https://www.ecb.europa.eu/stats/ecb_surveys/sma/html/all-releases.en.html",
+    "https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/pdf/ecb.spf2022q1~082bc1deaa.en.pdf",
+    "https://www.ecb.europa.eu/press/pr/date/2022/html/ecb.pr220204~3fdfbe7eb0.en.html"
+  ],
+  "files": [
+    {
+      "file": "SMA_2022年7月结果.pdf",
+      "source_url": "https://www.ecb.europa.eu/stats/ecb_surveys/sma/shared/pdf/ecb.smar220725_july.en.pdf",
+      "resolved_url": "https://www.ecb.europa.eu/stats/ecb_surveys/sma/shared/pdf/ecb.smar220725_july.en.pdf",
+      "scope": "历史调查结果",
+      "bytes": 412877,
+      "sha256": "cc1463d80eb602118504015b6b036b8f5299592a82b97a71ec34661f5ae9a186",
+      "pages": 24
+    },
+    {
+      "file": "SPF_2022年第一季度报告.pdf",
+      "source_url": "https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/pdf/ecb.spf2022q1~082bc1deaa.en.pdf",
+      "resolved_url": "https://www.ecb.europa.eu/stats/ecb_surveys/survey_of_professional_forecasters/pdf/ecb.spf2022q1~082bc1deaa.en.pdf",
+      "scope": "历史调查结果",
+      "bytes": 392710,
+      "sha256": "8040f3dd837e186461ffed97623f0deab8c24e92a5666fd3d1b6aa90cbf7601d",
+      "pages": 23
+    }
+  ],
+  "failures": [],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "acquisition_status": "已取得所列原文文件；尚未精读"
+}

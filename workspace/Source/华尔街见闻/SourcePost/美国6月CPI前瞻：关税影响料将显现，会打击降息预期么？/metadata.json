@@ -1,0 +1,89 @@
+{
+  "article_id": 3751115,
+  "selection": {
+    "article_id": 3751115,
+    "url": "https://wallstreetcn.com/articles/3751115",
+    "title": "美国6月CPI前瞻：关税影响料将显现，会打击降息预期么？",
+    "page_display_time": "2025-07-15T18:16:03+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "龙玥",
+    "page_author_url": "https://wallstreetcn.com/authors/120000002320",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "A",
+    "reading_value": "并列多家机构对关税传价、CPI构成和市场反应的判断，适合作为事前预期样本。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1885,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 5
+  },
+  "url": "https://wallstreetcn.com/articles/3751115",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3751115?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:15+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/b7f25f36-b243-4da3-84ec-6284d08fd19b.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "高盛、德银等各大投行分析师普遍认为， 关税影响将在下半年更加明显 ，但对于这种价格上涨是否构成持续通胀压力存在分歧。高盛和摩根大通倾向认为其影响将持续一段时间并抬升通胀中枢；富国银行则表示，关税推动的核心通胀上升“更像是一个颠簸而非飙升”。",
+      "path": "assets/figure_001.png",
+      "sha256": "2ef314b6f6b74de78c313590913d8d5086eb4bbe82083a84114fb25fc5a967e4",
+      "bytes": 373545,
+      "width": 1024,
+      "height": 500,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/b7f25f36-b243-4da3-84ec-6284d08fd19b.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "美国6月CPI前瞻：关税影响料将显现，会打击降息预期么？",
+  "page_display_time": "2025-07-15T18:16:03+08:00",
+  "page_byline": "龙玥",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "市场押注核心CPI环比将加速至0.3%，各大投行普遍认为，关税价格传导将在下半年加速。高盛测算关税推升家居用品等价格0.08个百分点，摩根大通则警示通胀风险上行。不过，富国银行称关税冲击更像“颠簸而非飙升”。当前货币市场对7月降息概率仅5%，全年两次降息预期稳固。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1954,
+  "body_sha256": "87d27df1a0767e733c9c542360bb2c41c3a14114014e3d19bd90aaa34c681190",
+  "raw_sha256": "c107b41bb2c0d518f5b5602d70351d3fcbae6c70eda18d74e981e49fdffc3fa6",
+  "raw_bytes": 10224,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/1e9b5e57-045b-468b-a346-6be0cddf9e18.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1885,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:30+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "c107b41bb2c0d518f5b5602d70351d3fcbae6c70eda18d74e981e49fdffc3fa6",
+      "bytes": 10224
+    },
+    "article.html": {
+      "sha256": "f54f165c8e2b79f8ed2ef2267a99b88ac7145582b6f6f78e1c02bd63ce7b53e8",
+      "bytes": 9812
+    },
+    "article.md": {
+      "sha256": "5ff8f08fdd8e9a198fde1fc8695e1656fd2b2a608d4d65545731385a9a48040a",
+      "bytes": 6158
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:07+08:00"
+}

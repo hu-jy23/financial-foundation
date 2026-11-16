@@ -1,0 +1,35 @@
+{
+  "article_count": 3,
+  "agents_per_article": 1,
+  "results": [
+    {
+      "case": "ai",
+      "concepts": 12,
+      "relations": 6,
+      "sha256": "c8e5ba83d0e6c1f615d6d515aad2653dc94dc3fbaeee0f89ca5a6a50179a8680"
+    },
+    {
+      "case": "korea",
+      "concepts": 11,
+      "relations": 6,
+      "sha256": "2ef4ee711222b25ead3fe565cab0aa80d969a486adcc2c2968da01a2c8dc9421"
+    },
+    {
+      "case": "basis",
+      "concepts": 14,
+      "relations": 6,
+      "sha256": "26409ddb3952ec59b4b7c01ba65967b832232640241297c0e14a42ed3a513ff1"
+    }
+  ],
+  "issues": [],
+  "changed_inputs": [],
+  "core_coverage_checked": [
+    "SOX",
+    "KOSPI",
+    "杠杆ETF及持仓",
+    "KOSPI三大买盘"
+  ],
+  "passed": true,
+  "local_html_links_checked": 85,
+  "broken_local_links": []
+}

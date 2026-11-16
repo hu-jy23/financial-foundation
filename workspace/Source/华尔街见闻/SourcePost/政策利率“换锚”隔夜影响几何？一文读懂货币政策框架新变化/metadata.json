@@ -1,0 +1,78 @@
+{
+  "article_id": 3784038,
+  "selection": {
+    "article_id": 3784038,
+    "url": "https://wallstreetcn.com/articles/3784038",
+    "title": "政策利率“换锚”隔夜影响几何？一文读懂货币政策框架新变化",
+    "page_display_time": "2026-10-20T20:03:49+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": "界面新闻",
+    "page_source_url": null,
+    "page_attribution_note": "本文来源：界面新闻",
+    "category": "中国宏观与政策",
+    "reading_priority": "A",
+    "reading_value": "解释政策利率期限调整、贷款多元定价及非银流动性工具，连接制度变化与利率传导。",
+    "starter_selection": true,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 3086,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 75
+  },
+  "url": "https://wallstreetcn.com/articles/3784038",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784038?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:31+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "政策利率“换锚”隔夜影响几何？一文读懂货币政策框架新变化",
+  "page_display_time": "2026-10-20T20:03:49+08:00",
+  "page_byline": "李佳",
+  "source_label": "界面新闻",
+  "source_url": "",
+  "subtitle": "短端政策利率“换锚”的同时，贷款定价体系也在发生变化。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 3148,
+  "body_sha256": "74e5c1079d73883bad0c140ade5b2913e8d1300757e1d129eaa11af402547a40",
+  "raw_sha256": "d04f6f116da541030e3b127d9030d65d8a107fc8f82835f678a7eb3ccaaf3480",
+  "raw_bytes": 13048,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/da78ef11-ea17-4445-9103-232bde49bde7.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 3086,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "界面新闻",
+      "url": "https://www.jiemian.com/article/15213251.html"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:35+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "d04f6f116da541030e3b127d9030d65d8a107fc8f82835f678a7eb3ccaaf3480",
+      "bytes": 13048
+    },
+    "article.html": {
+      "sha256": "88ed17a3600185a44184278143680926d1e5415d2b005957116cf92c4ae05128",
+      "bytes": 12836
+    },
+    "article.md": {
+      "sha256": "b0ae3f1f69cf841955e2355eb37fe072e14cd992331c5a66ec07a98d5e87c67e",
+      "bytes": 9711
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:21+08:00"
+}

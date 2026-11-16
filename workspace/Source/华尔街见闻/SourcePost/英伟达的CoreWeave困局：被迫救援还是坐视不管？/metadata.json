@@ -1,0 +1,94 @@
+{
+  "article_id": 3783657,
+  "selection": {
+    "article_id": 3783657,
+    "url": "https://wallstreetcn.com/articles/3783657",
+    "title": "英伟达的CoreWeave困局：被迫救援还是坐视不管？",
+    "page_display_time": "2026-10-15T07:58:58+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "鲍奕龙",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004827",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "信用与融资结构",
+    "reading_priority": "B",
+    "reading_value": "解释供应商兼股东的双重敞口，以及救助客户、订单与投资减值之间的反馈。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1311,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 41
+  },
+  "url": "https://wallstreetcn.com/articles/3783657",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783657?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:19+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/35b31774-eb49-4d36-921c-2e81c93306b0.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "知名财经分析师Quoth the Raven（QTR）在ZeroHedge专栏文章中分析称， 随着CoreWeave股价承压、融资渠道收窄，英伟达面临一个棘手抉择：再度出手救援，还是眼睁睁看着这家高度依赖自家芯片的云计算客户陷入流动性危机？",
+      "path": "assets/figure_001.png",
+      "sha256": "1d06c8eca2153738899656846db3cae9184fc9c6f2ffbcb0902319a283d905bd",
+      "bytes": 519368,
+      "width": 1024,
+      "height": 583,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/35b31774-eb49-4d36-921c-2e81c93306b0.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "英伟达的CoreWeave困局：被迫救援还是坐视不管？",
+  "page_display_time": "2026-10-15T07:58:58+08:00",
+  "page_byline": "鲍奕龙",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "作为CoreWeave的股东兼唯一GPU供应商，CoreWeave股价重挫让英伟达陷入两难困局。救，则每次出手都强化\"兜底预期\"，抬高下次救援门槛，且难以自拔于这场高杠杆游戏；不救，则CoreWeave流动性危机将直接砍断GPU采购需求，英伟达股权投资同步减值，市场信誉亦受重创。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1388,
+  "body_sha256": "665dba3ab02cf38154c1ae580323b0636296463e8ee6e7d6b1a1a6186fcb0c75",
+  "raw_sha256": "5b77a9a92c96cc6d852043f12a1ea724f40ae2c70a241101df1ee23cda742cf6",
+  "raw_bytes": 8359,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/e0d5bada-1cce-4825-b9d5-e7c51db1d61c.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1311,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "华尔街见闻提及",
+      "url": "https://wallstreetcn.com/articles/3783644"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "5b77a9a92c96cc6d852043f12a1ea724f40ae2c70a241101df1ee23cda742cf6",
+      "bytes": 8359
+    },
+    "article.html": {
+      "sha256": "529120afa8ec291bc3d1996fa420d0a621473b1c5fbee372e36a44da8f843ae6",
+      "bytes": 7877
+    },
+    "article.md": {
+      "sha256": "bab56bfd1d7538221907c86ee1e976d61a361e0a4e68d918dac1fbfe27fc2ff7",
+      "bytes": 4641
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:14+08:00"
+}

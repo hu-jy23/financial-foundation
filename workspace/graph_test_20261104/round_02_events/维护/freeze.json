@@ -1,0 +1,70 @@
+{
+  "created_at": "2026-11-04T17:51:49+08:00",
+  "graph": "../graph_snapshot",
+  "graph_manifest": "../维护/freeze.json",
+  "graph_nodes": [
+    165,
+    75
+  ],
+  "input_sha256": "cdcda411b2a5719102d7e03a07ca8638b77c3c0eb0dbec1b88377e4d975e11ee",
+  "gold_sha256": "efa5e3ac7eb49c948936b041f980b1d4f49feb3a2b2ecd383426a56406d8cd5b",
+  "sample_article_id_or_url_overlap": [],
+  "requested_agent_settings": {
+    "model": "gpt-6.1-sol",
+    "reasoning_effort": "high",
+    "fork_turns": "none"
+  },
+  "counts": {
+    "sources": 10,
+    "forward": 4,
+    "inverse": 3,
+    "mcq": 3
+  },
+  "selection": "依据材料是否具有具体主体、时间、观测和可形成的事件任务选10篇；没有根据graph覆盖或首轮得分筛选。",
+  "participants": {
+    "agent0": {
+      "task_name": "/root/r2_agent0",
+      "fork_turns": "none",
+      "fresh_spawn": true,
+      "requested_model": "gpt-6.1-sol",
+      "requested_reasoning_effort": "high"
+    },
+    "agent1": {
+      "task_name": "/root/r2_agent1",
+      "fork_turns": "none",
+      "fresh_spawn": true,
+      "requested_model": "gpt-6.1-sol",
+      "requested_reasoning_effort": "high"
+    },
+    "judge1": {
+      "task_name": "/root/r2_judge1",
+      "fork_turns": "none",
+      "fresh_spawn": true,
+      "requested_model": "gpt-6.1-sol",
+      "requested_reasoning_effort": "high"
+    },
+    "judge2": {
+      "task_name": "/root/r2_judge2",
+      "fork_turns": "none",
+      "fresh_spawn": true,
+      "requested_model": "gpt-6.1-sol",
+      "requested_reasoning_effort": "high"
+    },
+    "e01_judge1": {
+      "task_name": "/root/r2_e01_judge1",
+      "fork_turns": "none",
+      "fresh_spawn": true,
+      "requested_model": "gpt-6.1-sol",
+      "requested_reasoning_effort": "high",
+      "scope": "E01 final submission replaces premature draft evaluation"
+    },
+    "e01_judge2": {
+      "task_name": "/root/r2_e01_judge2",
+      "fork_turns": "none",
+      "fresh_spawn": true,
+      "requested_model": "gpt-6.1-sol",
+      "requested_reasoning_effort": "high",
+      "scope": "E01 final submission replaces premature draft evaluation"
+    }
+  }
+}

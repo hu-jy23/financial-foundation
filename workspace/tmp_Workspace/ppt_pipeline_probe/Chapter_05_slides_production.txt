@@ -1,0 +1,1410 @@
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+                   Slides for Chapter 5: Current Account
+               Determination in a Production Economy
+
+                                                      Columbia University
+
+                                                       September 6, 2022
+
+
+
+
+These are the slides for the textbook, “International Macroeconomics: A Modern Approach,” by
+Stephanie Schmitt-Grohé, Martı́n Uribe, and Michael Woodford, Princeton University Press, 2022,
+ISBN: 9780691170640.
+
+
+
+
+                                                                                                                1
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+Motivation
+
+• Investment, which consists of spending in capital goods such as
+machines, new structures, equipment, and inventories, is an im-
+portant component of aggregate demand amounting to around 20
+percent of GDP in most countries.
+
+• Investment is the most volatile component of aggregate demand,
+and, as such, it is important for understanding movements in the
+current account over the business cycle.
+
+
+
+
+                                                                                                                2
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+Preview
+
+• In this chapter we add investment in physical capital, It, to our
+theoretical model of current account determination. To do so we
+incorporate a second economic agent, namely, the firm.
+
+• We will derive the saving schedule, S(r1; A1, A2), the investment
+schedule, I(r1 ; A2), and the current account schedule, CA(r1; A1, A2),
+which are the building blocks for the graphical current account
+analysis (the Metzler diagram).
+
+• We study the adjustment of the economy to: (a) temporary
+productivity shocks; (b) anticipated future productivity shocks; (c)
+world interest rate shocks; and (d) changes in the terms of trade.
+
+Let’s begin by modeling the investment choice of firms.
+
+                                                                                                                3
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+A production economy
+
+• 2-period economy
+
+• output no longer an endowment, instead output is produced with
+physical capital.
+
+The production function for output in period t, Qt :
+
+                                                            Qt = AtF (It−1 )
+At > 0 for t = 1, 2 denotes the level of technology in period t; It−1
+denotes investment in physical capital in period t−1, which becomes
+productive in period t. That is, the investment decision of period
+t − 1 determines the capital stock in period t.
+
+
+
+                                                                                                                4
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+3 Properties of the function F (·):
+1.– output is zero when capital is zero: F (0) = 0.
+2.– output is increasing in capital: F 0(It) > 0.
+3.– output increases with capital at a decreasing rate: F 00(It ) < 0.
+
+The marginal product of capital (MPK) is defined as
+
+                                                        MPK = AtF 0(It−1 )
+
+
+Property 2 says that the M P K is positive.
+
+Property 3 says that the M P K is declining in capital. This property
+is known as diminishing marginal product of capital.
+
+An example of a production function that satisfies all three properties
+is shown on the next slide.
+
+                                                                                                                5
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                            Chapter 5: Production Economy
+
+
+
+
+            The production function and the marginal product of capital
+                                                                            (a)
+                                                  Q2
+                                                                                         Q2 = A2 F(I1 )
+
+                                                         slope = A2 F 0 (I1 ) →
+
+                                           A2 F(I1∗ )
+
+
+
+
+                                                                     I1∗                      I1
+
+
+                                                                            (b)
+
+                                              MPK
+
+
+
+
+                                                               ← slope = A2 F 00 (I1 )
+                                         A2 F 0 (I1∗ )
+                                                                                         MPK = A2 F 0 (I1 )
+
+
+                                                                     I1∗                       I1
+
+
+
+                                                                                                                                         6
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+Observations on the figure:
+
+Panel (a) displays the production function, AF (I). Panel (b) displays
+the marginal product of capital as a function of the level of capital.
+When I1 = 0, production is nil. Output increases with investment,
+but at a decreasing rate. Panels (a) and (b) are related by the
+fact that the slope of the production function at a given level of
+investment equals the level of the marginal product of capital at the
+same level of investment. For example, in the figure, the slope of the
+production function when the capital stock equals I1∗ equals the level
+of the marginal product of capital when the capital stock also equals
+I1∗. The marginal product of capital schedule is downward sloping,
+reflecting the assumption that the marginal product of capital is
+diminishing.
+
+
+
+                                                                                                                7
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”         Chapter 5: Production Economy
+
+
+
+
+Example
+Consider the production function
+                                                                               q
+                                                                 Q2 =                I1.
+In this case, A2 = 1 and F (I1) is the square root function.
+
+Are properties 1-3 satisfied?
+
+√
+ 0 = 0; property 1 holds.
+
+                        −1/2
+MPK = 1
+      2 I1                         > 0: property 2 holds, MPK positive.
+
+                                       −3/2
+dMPK/dI1 = − 1
+             4 I1                                 < 0: property 3 holds, MPK diminishing.
+
+
+
+                                                                                                                      8
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                  Chapter 5: Production Economy
+
+
+
+
+Effect of an increase in productivity on the production function and the
+marginal product of capital schedule
+
+
+               Q2                      (a)
+                                                         Q2 = A02 F(I1 )
+
+
+
+
+                                         -               Q2 = A2 F(I1 )
+
+
+
+
+                                                                               An increase in the level of technol-
+                                                                               ogy from A2 to A02 > A2 rotates
+                                                              I1               the production function counter-
+                                       (b)                                     clockwise around the origin and
+           M PK                                                                shifts the marginal product of cap-
+                                                                               ital schedule up and to the right.
+
+
+                           %
+                                                         MPK = A02 F 0 (I1 )
+                                                         MPK = A2 F 0 (I1 )
+
+
+
+                                                               I1
+
+                                                                                                                               9
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 5: Production Economy
+
+
+
+
+The investment decision of the firm
+
+Period 1: Firms borrow to finance purchases of investment goods.
+ f
+D1 = debt assumed by the firm in period 1. I1 = investment goods
+purchased in period 1.
+                                                                       f
+                                                                   D1 = I1 .                                   (1)
+
+
+Period 2: Firms produce and then sell the output: A2F (I1). Repay
+                                  f
+loan including interest: (1 + r1)D1 .
+
+Π2 = firm profits in period 2:
+                                                                                     f
+                                             Π2 = A2F (I1) − (1 + r1)D1 .                                      (2)
+              f
+Use D1 = I1 to express profits as
+
+                                              Π2 = A2F (I1) − (1 + r1)I1.                                      (3)
+
+                                                                                                                  10
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                  Chapter 5: Production Economy
+
+
+
+
+                           The optimal level of investment
+Profit Maximization Problem of the Firm
+         max Π2 = A2F (I1) − (1 + r1 )I1.
+          {I1 }
+
+First-order optimality condition:
+                     A2F 0 (I1) = 1 + r1.                              (4)
+
+The downward sloping line is the
+marginal product of capital schedule.
+The horizontal line depicts the marginal
+cost of capital schedule, which is equal                                             1 + r1
+to the gross interest rate, 1 + r1, for
+any level of investment. Firms invest up                                                                          MPK = A2 F 0 (I1 )
+to the point where the marginal product
+of capital equals the marginal cost of                                                        I1∗                       I1
+capital, I1∗ . Profits are given by the area
+below the marginal product of capital
+schedule and above the marginal cost of
+capital.
+
+
+                                                                                                                             11
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                             Chapter 5: Production Economy
+
+
+
+
+      Effect of an increase in the interest rate on investment
+
+An increase in the interest rate from r1 to
+r10 > r1 shifts the marginal cost schedule
+up. As a result, the optimal level of
+investment falls from I1∗ to I1∗0 .
+
+Profits also fall as the interest rate in-
+creases. This can be seen graphically
+from the fact that the triangular area
+below the marginal product of capital                                                1 + r10
+                                                                                                           ↑
+schedule and above the marginal cost of                                              1 + r1
+capital schedule gets smaller as the latter
+                                                                                                                            MPK = A2 F 0 (I1 )
+shifts up.
+
+It follows that investment and profits                                                         I1∗ 0 I1∗                          I1
+both are a decreasing function of the
+interest rate.
+
+
+
+
+                                                                                                                                        12
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                              Chapter 5: Production Economy
+
+
+
+
+The Effect of a Productivity Increase on the Firm’s Investment
+Choice
+
+Suppose A2 increases to A02 > A2. The
+positive productivity shock shifts the
+MPK schedule up and to the right. The
+firm expands investment until the new
+MPK schedule meets the marginal cost
+of capital schedule. Investment increases
+from I1∗ to I1∗ 0. Profits increase, because
+the area below the MPK schedule and
+above the marginal cost schedule ex-
+                                                                                              %
+pands.
+                                                                                     1 + r1
+                                                                                                                              MPK = A02 F 0 (I1 )
+It follows that, all other things equal,                                                                                      MPK = A2 F 0 (I1 )
+both investment and profits are an in-                                                            I1∗   I1∗ 0                       I1
+creasing function of the technology fac-
+tor A2.
+
+
+
+
+                                                                                                                                         13
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 5: Production Economy
+
+
+
+
+The Profit Function in Period 2
+
+Combining the last two results we have that profits are a decreasing
+function of the interest rate and an increasing function of the level
+of productivity. We can then write
+
+                                                          Π2 = Π2(r1, A2),
+                                                                                −    +
+where the function Π2(·, ·) is decreasing in its first argument, the
+interest rate, and increasing in its second argument, the productivity
+factor.
+
+
+
+
+                                                                                                                  14
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 5: Production Economy
+
+
+
+
+The Profit Function in Period 1
+
+Profits in period 1, denoted Π1, are given by
+                                                                                         f
+                                             Π1 = A1F (I0) − (1 + r0)D0 ,                                          (5)
+with
+                                                                       f
+                                                                   D0 = I0 .                                       (6)
+                                             f
+The variables I0, D0 , and r0 are all predetermined in period 1 and
+are therefore taken as exogenous by the firm in period 1. Higher
+interest rates, r0, lower profits and a higher productivity factor in
+period 1, A1, raises profits.
+
+                                                          Π1 = Π1(r0, A1).
+                                                                                −    +
+
+
+
+
+                                                                                                                      15
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 5: Production Economy
+
+
+
+
+The Investment Schedule
+
+• Aggregate investment is the sum of the investment decisions of
+individual firms.
+
+• Assume that all firms are identical. Then aggregate investment
+behaves just like investment at the firm level, decreasing in the
+interest rate and increasing in the level of technology:
+
+                                                             I1 = I(r1; A2),                                   (7)
+                                                                             −       +
+where now I1 denotes aggregate investment in period 1.
+
+We will refer to this function as the investment schedule.
+
+
+
+                                                                                                                  16
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+                                            The Investment Schedule
+
+                                                                               r1
+
+
+
+
+The investment schedule
+                         I1 = I(r1; A2)
+relates the aggregate level of invest-
+ment and the interest rate, given the
+productivity factor A2. The investment
+schedule slopes downward because the
+profit maximizing level of investment is
+decreasing in the marginal cost of capital.
+                                                                                              I(r1 ; A2 )
+
+
+
+                                                                                                    I1
+
+
+
+
+                                                                                                              17
+   Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+The effect of an increase in productivity on the investment schedule
+
+                                                                                  r1
+
+
+
+
+   The figure depicts the effect of an in-
+   crease in the productivity parameter from
+   A2 to A02.     The positive productivity
+   shock shifts the investment schedule up
+   and to the right because for every level of
+   the interest rate, the profit-maximizing
+   level of investment is now higher.
+                                                                                                               I(r1 ; A20 )
+
+
+
+                                                                                                               I(r1 ; A2 )
+
+
+
+                                                                                                                     I1
+
+
+
+
+                                                                                                                 18
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+The Consumption-Saving Decision of Households
+The budget constraints of households in the production economy are
+almost the same as in the endowment economy. The only difference
+is that now households are the owners of firms. Consequently,
+instead of receiving an endowment each period, households receive
+profit payments from firms, Π1(r0, A1) in period 1 and Π2 (r1, A2) in
+period 2.
+
+Period-1 budget constraint:
+
+                                      C1 + B1h − B0h = Π1 (r0, A1) + r0B0h                                 (8)
+Period-2 budget constraint:
+
+                                           C2 = Π2(r1, A2) + (1 + r1)B1h                                   (9)
+The intertemporal budget constraint:
+                    C2              h                Π2(r1, A2)
+             C1 +        = (1 + r0)B0 + Π1(r0, A1) +                                                    (10)
+                  1 + r1                              1 + r1
+
+                                                                                                              19
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”             Chapter 5: Production Economy
+
+
+
+
+The household chooses C1 and C2 to maximize its utility function
+
+                                                          U (C1) + β U (C2)                                       (11)
+subject to the intertemporal budget constraint
+
+                                                   C2 = (1 + r1)(Ȳ − C1)                                         (12)
+where
+                                                                                     Π2 (r1, A2)
+                             Ȳ = (1 + r0)B0h + Π1(r0, A1) +
+                                                                                      1 + r1
+The household takes Ȳ as exogenously given. The optimality con-
+ditions are the intertemporal budget constraint (12) and the Euler
+equation
+                                                         U 0(C1)
+                                                            0
+                                                                 = 1 + r1 .                                       (13)
+                                                         βU (C2)
+Note that these optimality conditions are identical to those pertain-
+ing to the endowment economy.
+
+                                                                                                                        20
+ Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”              Chapter 5: Production Economy
+
+
+
+
+The optimal intertemporal consumption choice in the production economy
+
+                                                                             The figure depicts the optimal
+                                                                             choice of consumption in periods
+C2
+                                                                             1 and 2. The intertemporal
+                                                                             budget constraint is the straight
+                                                                             downward sloping line. It crosses
+                                                                             the profit path (Π1 , Π2) at point
+                                                                             A and has a slope equal to
+Π2                               A                                           −(1 + r1). The optimal
+                                                                             consumption path (C1, C2) is at
+C2                                               B                           point B, where an indifference
+                                                                             curve is tangent to the
+                                                                             intertemporal budget constraint.
+                                                                             The figure is drawn under the
+                               Π1              C1                          C
+                                                                             assumption that the household
+                                                                             1
+
+
+
+                                                                             starts period 1 with a zero net
+                                                                             asset position, B0h = 0.
+                                                                                                                          21
+      Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                     Chapter 5: Production Economy
+
+
+
+
+      Effect of a Temporary Increase in Productivity on Consump-
+      tion
+
+                                                                                   The figure depicts the adjustment of
+                                                                                   consumption to an increase in the pro-
+                                                                                   ductivity of capital in period 1 from
+C2                                                                                 A1 to A01 > A1 holding constant the
+                                                                                   productivity of capital in period 2, A2,
+                                                                                   assuming that B0h = 0.
+
+                                                                                   Prior to the productivity shock, the profit
+                                                                                   path is at point A and the optimal
+                                                                                   consumption path is at point B. When
+Π2                               A      A0                                         productivity increases, period-1 profits
+                                                                                   increase from Π1 to Π01, and period-
+                                                                                   2 profits remain unchanged. The new
+C20
+C2                                              B
+                                                      B0                           profit path is at point A0 . The intertem-
+                                                                                   poral budget constraint shifts in a parallel
+                                                                                   fashion out and to the right. By normal-
+                                                                                   ity, consumption in both periods must
+                                                                                   increase. The new consumption path
+                               Π1     Π10     C1    C10                    C1      is at point B0 . Period-1 consumption
+                                                                                   increases by less than period-1 profits to
+                                                                                   allow period-2 consumption to increase
+                                                                                   as well.
+                                                                                                                                      22
+      Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                   Chapter 5: Production Economy
+
+
+
+
+      Effect of an Anticipated Future Productivity Increase
+      on Consumption
+
+C2                                                                                The figure depicts the effect of an in-
+                                                                                  crease in the productivity of capital in
+                                                                                  period 2 from A2 to A02, holding the
+                                                                                  productivity of capital in period 1, A1,
+                                                                                  constant, for the case that B0h = 0.
+                                                                                  The initial path of profits is at point
+Π20                              A0                                               A, and the initial optimal consumption
+                                                                                  path is at point B. The anticipated posi-
+                                                                                  tive productivity shock increases period-
+Π2                               A
+                                                                                  2 profits. The new path of profits is
+                                                     B0
+                                                                                  at point A0 . The intertemporal budget
+C20
+C2                                            B                                   constraint shifts out and to the right in a
+                                                                                  parallel fashion. By normality consump-
+                                                                                  tion in both periods must increase. The
+                                                                                  new consumption path is at point B0 .
+                                                                                  The increase in period-1 consumption is
+                               Π1           C1     C10                          C
+                                                                                  financed by an increase in borrowing.
+                                                                                  1
+
+
+
+
+                                                                                                                                    23
+     Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                     Chapter 5: Production Economy
+
+
+
+
+           Effect of an Increase in the Interest Rate on Consumption
+
+                                                                                   The figure depicts the effect of an in-
+                                                                                   crease in the interest rate from r1 to
+                                                                                   r10 > r1 , for the case that B0h = 0. The
+                                                                                   initial path of profits is at point A, and
+                                                                                   the initial optimal consumption path is
+     C2
+              ← slope = −(1 + r10 )                                                at point B. The increase in the interest
+                                                                                   rate gives rise to two negative income
+                                                                                   effects and one substitution effect all
+slope = −(1 + r1 ) ↑                                                               lowering period-1 consumption. First, it
+                                                                                   causes a reduction in profits in period 2
+                                                                                   and thus represents a negative income
+     Π2                                 A                                          effect. The new path of profits, point
+     Π20                                A0                                         A0 , is directly below the original one,
+                                          B0
+     C20
+                                                   B
+                                                                                   point A. Second, the increase in the
+     C2
+                                                                                   interest rate makes the intertemporal
+                                                                                   budget constraint steeper. Because at
+                                                                                   point B, households were borrowing, the
+                                                                                   rise in r1 represents a negative income
+                                      Π1 C10     C1                         C1
+                                                                                   effect. Finally, the increase in r1 induces
+                                                                                   a substitution effect whereby households
+                                                                                   substitute future for current consump-
+                                                                                   tion.     The new optimal consumption
+                                                                                   path, (C10 , C20 ), is point B0 .
+
+                                                                                                                                     24
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 5: Production Economy
+
+
+
+
+Taken together the above results imply that period-1 consumption is
+decreasing in the interest rate and increasing in current and expected
+future productivity. We can therefore write
+
+
+
+                                                        C1 = C(r1, A1, A2)                                      (14)
+                                                                           −         +   +
+
+
+
+
+                                                                                                                      25
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+                                                  The Saving Schedule
+
+National saving in period 1 is the difference between national income,
+Y1 and consumption, C1:
+
+                                                              S1 = Y1 − C1
+National income is the sum of net investment income and output,
+
+                                                    Y1 = r0B0 + A1F (I0),
+where B0 is the country’s net foreign asset position at the beginning
+of period 1. In turn, B0 is the sum of the household’s net asset
+                                                     f
+position, B0h , and the firm’s net asset position, −D0 , that is,
+
+                                                            B0 = B0h − D0f .                            (15)
+
+
+
+                                                                                                              26
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”               Chapter 5: Production Economy
+
+
+
+
+As r0, B0, I0 are predetermined, the only shifter of national income
+in period 1 is productivity:
+
+                                                               Y1 = Y (A1).                                         (16)
+                                                                                     +
+Combining expressions (14) and (16) we have
+
+                                             S1 = Y (A1) − C(r1, A1, A2).
+                                                                 +                   −   +   +
+National saving is increasing in the interest rate, r1, and decreasing
+in the future expected level of productivity, A2. But what about
+A1? Recall that an increase in A1 increases C1 by less than output.
+Thus, national saving increases unambiguously with an increase in
+A1. National saving can then be written as
+
+                                                        S1 = S(r1; A1, A2).                                         (17)
+                                                                          +      +       −
+
+
+
+                                                                                                                          27
+ Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                           Chapter 5: Production Economy
+
+
+
+
+                             The Saving Schedule: S1 = S(r1; A1, A2 )
+                                                                                                 +   +    −
+
+r1
+
+
+
+                                                                 S(r1 ; A1 , A2 )
+
+
+
+
+                                                                                    The saving schedule relates national sav-
+                                                                                    ing to the interest rate. It slopes upward
+                                                                                    because an increase in the interest rate
+                                                                                    induces households to postpone current
+                                                                                    consumption and increase their holdings
+                                                                                    of interest bearing assets.
+
+
+
+
+                                                                       S1
+
+
+
+
+                                                                                                                                       28
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                     Chapter 5: Production Economy
+
+
+
+
+A temporary productivity increase shifts the saving schedule to the right
+
+      r1
+
+
+
+                                                           S(r1 ; A1 , A2 )
+
+
+
+                                                           S(r1 ; A10 , A2 )
+                                                                               An increase in the productivity parameter
+                                                                               in period 1 from A1 to A01 > A1 holding
+                                                                               A2 constant shifts the savings schedule
+                                                                               down and to the right, because at every
+                                                                               level of the interest rate households save
+                                                                               part of the additional profit income gen-
+                                                                               erated by the increase in productivity for
+                                                                               future consumption.
+
+
+
+                                                                 S1
+
+
+
+
+                                                                                                                                29
+   Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                     Chapter 5: Production Economy
+
+
+
+
+An anticipated future productivity increase shifts the saving schedule to the left
+
+
+         r1                                                   S(r1 ; A1 , A20 )
+
+
+
+                                                              S(r1 ; A1 , A2 )
+
+
+                                                                                  An anticipated increase in the productiv-
+                                                                                  ity parameter from A2 to A02 > A2 leaves
+                                                                                  current income unchanged but increases
+                                                                                  future income. In period 1, households
+                                                                                  use some of the future increase in profits
+                                                                                  to increase consumption. Consequently,
+                                                                                  at every given level of the interest rate,
+                                                                                  saving declines.
+
+
+
+                                                                    S1
+
+
+
+
+                                                                                                                                   30
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”               Chapter 5: Production Economy
+
+
+
+
+The Current Account Schedule
+
+The current account is defined as national saving minus investment
+
+                                                            CA1 = S1 − I1 .
+Use the saving schedule, (17), and the investment schedule, (7), to
+obtain
+
+                                         CA1 = S1 − I1
+                                                    = S(r1; A1, A2) − I(r1; A2)
+                                                                +       +       −        −   +
+                                                    = CA(r1; A1, A2)
+                                                                    +       +        −
+
+
+This equation represents the current account schedule, which ex-
+presses the current account as an increasing function of the interest
+rate with productivity as shifters of this function.
+
+                                                                                                                          31
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”              Chapter 5: Production Economy
+
+
+
+
+                   Saving, Investment and the Current Account
+                               The Metzler Diagram
+                                   (a)                                                    (b)
+     r1                                                                              r1
+
+                                                  S(r1 ; A1 , A2 )                                   CA(r1 ; A1 , A2 )
+    r   a                                                                            ra
+
+
+
+
+     rc                                                                              rc
+
+
+
+
+     rb                                                                              rb
+
+
+                                              I(r1 ; A2 )
+
+
+                                                              S, I                        0                   CA
+
+
+The figure presents a graphical derivation of the current account schedule. Panel
+(a) depicts the saving and investment schedule. Panel (b) depicts the current
+account schedule, which is the horizontal difference between the saving and
+investment schedule.
+
+                                                                                                                         32
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+                           Equilibrium in the Production Economy
+
+We assume that the country enjoys free capital mobility. There-
+fore, in equilibrium the domestic interest rate must equal the world
+interest rate, r∗:
+                                                                    r1 = r ∗ .                          (18)
+
+
+
+
+                                                                                                              33
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                   Chapter 5: Production Economy
+
+
+
+
+              Current Account Determination in the Production Economy
+                                                                      r1
+
+
+
+                                                                                     CA(r1 ; A1 , A2 )
+
+
+
+
+                                                                       rc
+
+
+
+
+                                                                            r∗
+
+
+
+
+                                               CA1                          0                 CA
+
+
+
+Under free capital mobility the current account is determined by the intersection of
+the current account schedule and the world interest rate, r∗. In a closed economy
+the current account is nil, and the domestic interest rate is rc and is determined
+by the intersection of the current account schedule with the vertical axis.
+
+                                                                                                                              34
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                   Chapter 5: Production Economy
+
+
+
+
+ Current Account Adjustment to an Increase in the World Interest Rate
+                                                                       r1
+
+
+
+                                                                                     CA(r1 ; A1 , A2 )
+
+
+
+
+                                                                            r∗ 0
+
+
+
+
+                                                                            r∗
+
+
+
+
+                                               CA1              CA01        0                 CA
+
+
+
+The initial world interest rate is r∗ and the equilibrium current account is CA1.
+The world increases from r∗ to r∗0 > r∗. The higher interest rate leads to an
+improvement in the current account from CA1 to CA01.
+
+
+                                                                                                                              35
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                             Chapter 5: Production Economy
+
+
+
+
+     Current account adjustment to a temporary increase in productivity
+                                         (a)                                                      (b)
+             r1                                                                                   r1
+
+                   I(r1 ; A2 )             S(r1 ; A1 , A2 )   S(r1 ; A10 , A2 )
+
+                                                                                                             CA(r1 ; A1 , A2 )
+                                                                                                                CA(r1 ; A10 , A2 )
+
+             rc
+
+
+            r c0
+
+             r∗                                                                                         r∗
+
+
+
+
+                           S1      S10         I1                 S, I               CA1   CA10     0                CA
+
+
+Productivity in period 1 increases from A1 to A01 > A1. The increase in A1
+shifts the saving schedule down and to the right. The investment schedule is
+unchanged. The current account schedule shifts down and to the right. In the
+new equilibrium the current account improves to CA01, saving increases to S10 , and
+investment remains unchanged. In the closed economy, the increase in A1 causes
+a fall in the domestic interest rate from rc to rc0 and higher saving and investment.
+
+
+
+                                                                                                                                        36
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                       Chapter 5: Production Economy
+
+
+
+
+Current account adjustment to an expected future increase in productivity
+                                    (a)                                                            (b)
+     r1                                                                                           r1
+
+           I(r1 ; A2 )     I(r1 ; A02 ) S(r1 ; A1 , A02 ) S(r1 ; A1 , A2 )                                    CA(r1 ; A1 , A02 ) CA(r1 ; A1 , A2 )
+                                                        -
+                            %
+                                                                                                                  -
+    r c0
+
+
+     rc
+                                           %
+                                                                                             -
+      r∗                                                                                                 r∗
+
+
+
+
+                 S1 0 S1                  I1       I10           S, I                CA01   CA1    0                              CA
+
+
+The productivity parameter is expected to increase from A2 to A02. The investment
+schedule shifts to the right and the saving schedule shifts to the left. The current
+account schedule shifts to the left. In the open economy, investment increases
+from I1 to I10 , saving falls from S1 to S10 , and the current account deteriorates
+from CA1 to CA01. In the closed economy, the interest rate increases from rc to
+rc0.
+
+
+                                                                                                                                                     37
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+Adjustment of the Production Economy to Changes in the World Interest
+Rate and Productivity in Open and Closed Economies
+
+
+                                   r∗ ↑        A1 ↑       A2 ↑
+                               Open Closed Open Closed Open Closed
+                 S1             ↑       −   ↑       ↑   ↓      ↑∗
+                 I1             ↓       −   −       ↑   ↑      ↑∗
+                 CA1            ↑       −   ↑       −   ↓      −
+                 r1             ↑       −   −       ↓   −      ↑
+
+The table summarizes the effect of three different shocks on saving (S1), invest-
+ment (I1 ), the current account (CA1), and the domestic interest rate (r1 ). The
+shocks considered are an increase in the world interest rate (r∗ ↑), a temporary
+increase in productivity (A1 ↑), and a future expected increase in productivity
+(A2 ↑). Two different economic environments are considered: free capital mobility
+(Open) and a closed economy (Closed). ∗ Note that the result that investment
+and saving increase in the closed economy in response to an increase in A2 need
+not hold. It depends on the assumption that the horizontal shift in the saving
+schedule is smaller than that of the investment schedule. But this does not always
+have to be the case.
+
+
+                                                                                                              38
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+                          The Terms of Trade and The Current Account
+
+
+In chapter 4, we arrived at the conclusion that terms of trade shocks
+are just like endowment shocks. We will now show that this result
+extends to the production economy.
+
+Assumptions:
+—the country produces the export good (oil) and consumes the
+import good (food)
+—physical capital is an import good
+—the relative price of capital in terms of food is unity
+—T Tt = PtX /PtM , terms of trade in period t, defined as the relative
+price of the export good (oil) in terms of the import good (food).
+
+Profits in period 1: Π1 = T T1A1F (I0) − (1 + r0)I0
+
+Profits in period 2: Π2 = T T2A2F (I1) − (1 + r1)I1
+                                                                                                              39
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 5: Production Economy
+
+
+
+
+                        The profit maximization problem of firms
+
+In period 1, the firm chooses I1 to maximize Π2 taking A2, T T2, and
+r1 as given. The profit maximization condition of the firm is
+
+                                                    T T2A2F 0(I1) = 1 + r1
+Same as equation (4), except that instead of A2 it features T T2A2.
+→ a change in the terms of trade in period 2 has exactly the same
+effect on investment as a change in productivity in period 2.
+
+Investment schedule in the two good economy:
+
+                                                        I1 = I(r1 ; T T2 A2).
+                                                                         −           +
+
+
+
+
+                                                                                                                  40
+  Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 5: Production Economy
+
+
+
+
+The Household’s Problem in the Two Good Production Economy
+
+  The household’s intertemporal budget constraint continues to be (10),
+  with the only difference that now profits in periods 1 and 2 depend,
+  respectively, on T T1A1 and T T2A2 instead of A1 and A2. Therefore:
+
+                                                 C1 = C(r1, T T1 A1, T T2A2).
+                                                                    −           +      +
+
+
+  National income equals Y1 = r0B0 + Q1 = r0B0 + T T1 A1F (I0), which
+  also depends on T T1 A1 instead of just A1.
+
+  Saving, S1 = Y1 − C1, the difference between national income and
+  consumption, behaves exactly as in the one-good economy except
+  that, again, T T1 A1 and T T2 A2 take the place of A1 and A2 ,respec-
+  tively:
+                                                 S1 = S(r1, T T1A1, T T2 A2).
+                                                                   +           +       −
+
+                                                                                                                    41
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 5: Production Economy
+
+
+
+
+The current account schedule in the two good production
+economy
+
+
+
+                                           CA1 = CA(r1, T T1 A1, T T2 A2).
+                                                                      +          +   −
+
+
+It follows that the current account adjustment to terms of trade
+shocks can be read off the table on slide 38 by replacing A1 by
+A1T T1 and A2 by A2T T2 . In particular, a temporary terms of trade
+improvement (an increase in T T1 ) produces an increase in saving, an
+improvement in the current account, and no change in investment.
+And an anticipated future improvement in the terms of trade (an
+increase in T T2) causes a fall in saving, an expansion in investment,
+and a deterioration of the current account.
+
+
+                                                                                                                  42
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+An Application: Giant Oil Discoveries
+
+Are the predictions of the intertemporal production model of saving,
+investment, output, and current account determination studied in
+this chapter empirically compelling?
+
+To answer this question, we examine the dynamics triggered by
+giant oil discoveries. In the context of our model, news of a giant
+oil discovery can be interpreted as an anticipated increase in the
+productivity of capital, that is, as an anticipated increase in A2.
+
+The reason why a discovery is an anticipated productivity shock is
+that it takes time and extensive investment in oil production facilities
+to extract the oil and bring it to market. The average delay from
+discovery to production is estimated to be between 4 and 6 years.
+
+Let’s look at the figure on slide 37, which we repeat on the next
+slide.
+                                                                                                              43
+            Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                              Chapter 5: Production Economy
+
+
+
+                                    (a)                                                                        (b)
+ r1                                                                                                           r1
+
+       I(r1 ; A2 )       I(r1 ; A02 ) S(r1 ; A1 , A02 ) S(r1 ; A1 , A2 )                                                  CA(r1 ; A1 , A02 ) CA(r1 ; A1 , A2 )
+                                                      -
+                           %
+                                                                                                                              -
+rc 0
+
+
+rc
+                                             %
+                                                                                                         -
+  r∗                                                                                                                 r∗
+
+
+
+
+             S1 0 S1                       I1          I10              S, I                     CA01   CA1    0                                CA
+
+            Upon the news of the oil discovery, the investment schedule shifts up and to the right and the
+            saving schedule shifts up and to the left. The current account schedule shifts up and to the
+            left. The world interest rate does not change. Thus, the model predicts that the oil discovery is
+            followed by an investment boom, a decline in saving, and a deterioration in the current account.
+            Once the oil is brought to market (period 2 in the model, and 4 to 6 years post discovery in
+            reality), output (oil production) increases, investment falls, saving increases (to pay back the debt
+            accumulated in period 1 for the construction of oil facilities and for consumption), and the current
+            account improves.
+
+                                                                                                                                                     44
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+What Are Giant Oil Discoveries?
+Arezki, Ramey, and Sheng analyze the effects of giant oil discoveries using data
+from 180 countries over the period 1970 to 2012.
+
+They define a giant oil discovery as a discovery of an oil or gas field that contains
+at least 500 million barrels of ultimately recoverable oil equivalent. Giant oil
+discoveries are really big, with a median value of 9 percent of a year’s GDP.
+
+The sample contains in total 371 giant oil discoveries, which took place in 64
+different countries (so 116 of the 180 countries in the sample experienced no
+giant oil discoveries over the sample period).
+
+The dynamic responses are estimated using dynamic panel model estimation with
+distributed lags. Essentially, one runs a regression of the variable of interest, say
+the current account, onto its own lags, and current and lagged values of the giant
+oil discovery, and other control variables, such as a constant and time and country
+fixed effects.
+
+
+
+
+                                                                                                              45
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                                                                Chapter 5: Production Economy
+
+
+
+
+Are these predictions of the model borne out in the data? —
+Evidence from Giant Oil Discoveries
+                                                                               Saving                                                    Investment
+                                                             0.25                                                        0.25
+
+                                                              0.2                                                         0.2
+
+                                                             0.15                                                        0.15
+
+
+
+
+                                     percent of GDP
+
+
+
+
+                                                                                                      percent of GDP
+                                                              0.1                                                         0.1
+
+                                                             0.05                                                        0.05
+
+                                                               0                                                           0
+
+                                                       −0.05                                                            −0.05
+
+                                                             −0.1                                                        −0.1
+                                                                    0   5        10         15   20                             0   5        10         15   20
+                                                                        years after discovery                                       years after discovery
+
+                                                                          Current Account                                                 Output
+                                                              0.4                                                         0.3
+
+                                                              0.3                                                        0.25
+
+                                                              0.2                                                         0.2
+
+
+
+
+                                                                                                      percent changes
+                                            percent of GDP
+
+
+
+
+                                                              0.1                                                        0.15
+
+                                                               0                                                          0.1
+
+                                                             −0.1                                                        0.05
+
+                                                             −0.2                                                          0
+
+                                                             −0.3                                                       −0.05
+                                                                    0   5        10         15   20                             0   5        10         15   20
+                                                                        years after discovery                                       years after discovery
+
+
+
+The figure displays the estimated dynamic effect of an oil discovery on saving,
+investment, the current account, and output. The size of the oil discovery is
+9 percent of GDP. Saving, investment, and the current account are expressed
+in percent of GDP. Output is expressed in percent deviation from trend. Data
+source. Arezki, Rabah, Valerie A. Ramey, and Liugang Sheng, “News Shocks
+in Open Economies: Evidence from Giant Oil Discoveries,” Quarterly Journal of
+Economics 132, February 2017, 103-155, Online Appendix, Table D.I.
+                                                                                                                                                                                           46
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+What Does the Figure Tell Us?
+• Upon news of the giant oil discovery, investment experiences a boom that lasts
+for about 5 years.
+
+• Saving declines and stays below normal for about 5 years, before rising sharply
+for several years.
+
+• The current account deteriorates for 5 years and then experiences a reversal
+with a peak in year 8.
+
+• Output is relatively stable until the fifth year, and then experiences a boom.
+
+• The investment boom and the fall in saving and the current account last for
+roughly the delay from discovery to production typical in the oil industry.
+
+The estimated empirical responses are qualitatively consistent with the predictions
+of the theoretical model: The giant oil discovery induces oil companies to invest
+in the construction of drilling platforms. In addition, households anticipate higher
+profit income from the future exports of oil and as a result increase consumption
+and cut saving. Both the expansion in investment and the contraction in saving
+contribute to current account deficits in the initial years following the discovery.
+
+We conclude that the observed macroeconomic dynamics triggered by giant oil
+discoveries give credence to the intertemporal model of the current account
+studied in this chapter. This result is important because the model developed
+in this chapter is the backbone of many models in international macroeconomics.
+                                                                                                              47
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 5: Production Economy
+
+
+
+
+Summing Up
+
+• Firms invest up to a point at which the marginal product of capital equals the
+gross interest rate.
+• In the space (I1 , r1 ) the investment schedule is downward sloping. An expected
+increase in the productivity of capital, A2, shifts the investment schedule up and
+to the right.
+• In the space (S1 , r1), the saving schedule is upward sloping. An increase in the
+current productivity of capital, A1, shifts the saving schedule down and to the
+right. An expected increase in A2 shifts the saving schedule up and to the left.
+• The current account schedule is the horizontal difference between the saving
+and the investment schedules. In the space (CA1, r1) the current account schedule
+is upward sloping. An increase in A1 shifts the current account schedule down
+and to the right. An expected increase in A2 shifts the current account schedule
+up and to the left.
+• An increase in the world interest rate causes an improvement in the current
+account, an increase in saving, and a decrease in investment.
+• An increase in A1 produces an improvement in the current account. And an
+expected increase in A2 causes a deterioration in the current account.
+• Terms of trade shocks are just like productivity shocks. So their effects can be
+read off the last two bullets.
+• The observed dynamics of saving, investment, and the current account triggered
+by giant oil discoveries around the world over the period 1970 to 2012 are
+consistent with the predictions of the intertemporal model of current account
+determination developed in this chapter.
+
+                                                                                                              48
+

@@ -1,0 +1,1600 @@
+
+
+===== PDF 246 | 印刷页 211 =====
+
+ 9
+Chapter
+
+                       Derivatives: Futures, Options,
+                       and Swaps
+
+ Learning Objectives
+ After reading this chapter, you should be able to:
+   LO1     Explain what derivatives are and how they transfer risk.
+
+   LO2     Distinguish between forward and futures contracts.
+
+   LO3     Define put and call options and describe how to use them.
+
+   LO4     Show how swaps can be used to manage risk or to conceal it.
+
+
+Derivatives played a central role in the financial crisis of 2007–2009. One of the key
+events during the crisis was the fall of AIG, the world’s largest insurance company.
+Through the use of derivatives contracts, AIG had taken enormous risks that it was
+able to conceal from the view both of government officials and its trading partners.
+Each contract was arranged over the counter (OTC)—that is, directly between AIG
+and a single counterparty—rather than through an organized exchange. In the crisis,
+these hidden risks threatened the entire financial system.
+     Leading up to the crisis, the tight but largely unseen links that OTC derivatives
+created among the largest, most important global financial institutions made the entire
+system vulnerable to the weakest of those institutions. Partly as a result of the systemic
+vulnerabilities posed by OTC derivatives, phrases like “too interconnected to fail” and
+“too big to fail” filled newspapers and the media (see Chapter 5, Lessons from the
+­Crisis: Systemic Risk). Warren Buffett, the famed investor, called derivatives “weap-
+ ons of financial mass destruction.”
+     Even in the years before the financial crisis, stories detailing the abuse of deriva-
+ tives filled the pages of the business press. Derivatives were at the bottom of the scan-
+ dal that engulfed Enron immediately after it declared bankruptcy in November 2001.
+ As we have learned since then, Enron engaged in a variety of financial transactions
+ whose express purpose was to give the appearance of low debt, low risk, and high
+ profitability. This sleight of hand kept the stock price high and made shareholders
+ happy, so no one complained. In fact, no one even looked. But eventually the day of
+ reckoning came, and the company collapsed.
+     Financial derivatives were also linked to the collapse of Long-Term Capital
+ ­Management (LTCM), a Connecticut-based hedge fund, in fall 1998. On a single day
+  in August 1998, LTCM lost an astounding $553 million. By late September, the fund
+  had lost another $2 billion. That left LTCM with more than $99 billion in debt and
+  $100 billion in assets. With loans accounting for 99 percent of total assets, repayment
+                                             211
+
+
+===== PDF 247 | 印刷页 212 =====
+
+212   l Chapter 9  Derivatives: Futures, Options, and Swaps
+
+
+
+                        was nearly impossible. LTCM also had significant derivatives positions that did not
+                        show up on the balance sheet as assets or liabilities. These off-balance-sheet
+                        ­arrangements, which carried even more risk, were the primary cause of the fund’s
+                         stunningly swift losses.
+                            Derivatives also played a role in the euro-area crisis that began in earnest in 2010.
+                         Many banks that owned Greek government debt had hedged by purchasing derivatives
+                         that would compensate them if Greece defaulted (see Credit Default Swaps on
+                         page 232). But policymakers in the euro area sought to reduce Greece’s debt burden
+                         without triggering an outright default in legal terms. In the end, Greece defaulted, and
+                         the derivatives paid off. Yet, had the policymakers succeeded, financial firms that
+                         thought they were protected would have faced large, unanticipated losses. Fears of
+                         such exposure, along with doubts about the insurance provided by derivatives, likely
+                         accelerated deleveraging and aggravated financial instability.
+                            If derivatives are open to abuse, why do they exist? The answer is that when used
+                         properly, derivatives are extremely helpful financial instruments. They can be used to
+                         reduce risk, allowing firms and individuals to enter into agreements that they o­ therwise
+                         wouldn’t be willing to accept. Derivatives can also be used as insurance. For example,
+                         in winter 1998, a snowmobile manufacturer named Bombardier offered a $1,000
+                         rebate to buyers should snowfall in 44 cities total less than half what it had averaged
+                         over the preceding three years. Sales rose 38 percent. The existence of “weather deriv-
+                         atives” enabled Bombardier to undertake this risky marketing strategy. Paying the
+                         rebates would have bankrupted the company, but Bombardier purchased derivatives
+                         that would pay off if snowfall were low. By using this unorthodox form of insurance,
+                         Bombardier transferred the risk to someone else.
+                            What exactly are derivatives, and why are they so important? Though they play a
+                         critical role in our financial well-being, most people barely know what they are. This
+                         chapter will provide an introduction to the uses and abuses of derivatives.
+
+
+
+                        The Basics: Defining Derivatives
+                        To understand what derivatives are, let’s begin with the basics. A derivative is a
+                        ­financial instrument whose value depends on—is derived from—the value of some
+                         other f­ inancial instrument, called the underlying asset. Some common examples of
+                         underlying assets are stocks, bonds, wheat, snowfall, and orange juice.
+                            A simple example of a derivative is a contractual agreement between two investors
+                         that obligates one to make a payment to the other, depending on the movement in
+                         interest rates over the next year. This type of derivative is called an interest rate futures
+                         contract. Such an arrangement is quite different from the outright purchase of a bond
+                         for two reasons. First, derivatives provide an easy way for investors to profit from price
+                         declines. The purchase of a bond, in contrast, is a bet that its price will rise.1 Second,
+                         and more important, in a derivatives transaction, one person’s loss is always another
+                         person’s gain. Buyer and seller are like two people playing poker. How much each
+                         player wins or loses depends on how the game progresses, but the total amount on the
+                         table doesn’t change.
+
+
+                        1
+                          Investors can bet that prices will fall using a technique called short selling. The investor borrows an asset from
+                        its owner for a fee, sells it at the current market price, and then repurchases it later. The short seller is betting
+                        that the price of the asset will fall between the time it is sold and the time it is repurchased.
+
+
+===== PDF 248 | 印刷页 213 =====
+
+                                                                                    Forwards and Futures   l   213
+
+
+
+    While derivatives can be used to speculate, or gamble on future price movements,
+the fact that they allow investors to manage and reduce risk makes them indispensable
+to a modern economy. Bombardier used a derivative to hedge the risk of having to pay
+rebates in the event of low snowfall (we discussed hedging in Chapter 5). As we will
+see, farmers use derivatives regularly, to insure themselves against fluctuations in the
+market prices of their crops. Risk can be bought and sold using derivatives. Thus, the
+purpose of derivatives is to transfer risk from one person or firm to another.
+    When people have the ability to transfer risks, they will do things that they wouldn’t
+do otherwise. Think of a wheat farmer and a bread baker. If he or she cannot insure
+against a decline in the price of wheat, the farmer will plant fewer acres of wheat. And
+without a guarantee that the price of flour will not rise, the baker will build a smaller
+bakery. Those are prudent responses to the risks created by price fluctuations. Now
+introduce a mechanism through which the farmer and the baker can guarantee the
+price of wheat. As a result the farmer will plant more and the baker will build a bigger
+bakery. Insurance is what ­allows them to do it! Derivatives provide that ­insurance. In
+fact, by shifting risk to those willing and able to bear it, derivatives increase the
+risk-carrying capacity of the economy as a whole, improving the allocation of
+resources and increasing the level of output.
+    While derivatives allow individuals and firms to manage risk, they also allow them
+to conceal the true nature of certain financial transactions. In the same way that strip-
+ping a coupon bond separates the coupons from the principal payment, buying and
+selling derivatives can unbundle virtually any group of future payments and risks.
+A company that hesitates to issue a coupon bond for fear analysts will frown on the
+extra debt can instead issue the coupon payments and the principal payment as individ-
+ual zero-coupon bonds, using derivative transactions to label them something other
+than borrowing. Thus, if stock market analysts penalize companies for obtaining fund-
+ing in certain ways, derivatives (as we will see) allow the companies to get exactly the
+same resources at the same risk but under a different name.
+    Derivatives may be divided into three major categories: forwards and futures,
+­options, and swaps. Let’s look at each one.
+
+
+
+Forwards and Futures
+Of all derivative financial instruments, forwards and futures are the simplest to under-
+stand and the easiest to use. A forward, or forward contract, is an agreement between
+a buyer and a seller to exchange a commodity or financial instrument for a specified
+amount of cash on a prearranged future date. Forward contracts are private agree-
+ments between two parties. Because they are customized, forward contracts are very
+difficult to resell to someone else.
+   To see why forward contracts are difficult to resell, consider the example of a year-
+long apartment lease, in which the renter agrees to make a series of monthly payments
+to the landlord in exchange for the right to live in the apartment. Such a lease is a
+sequence of 12 forward contracts. Rent is paid in predetermined amounts on prear-
+ranged future dates in exchange for housing. While there is some standardization of
+leases, a contract between a specific renter and a specific landlord is unlike any other
+rental contract. Thus, there is no market for the resale or reassignment of apartment
+rental contracts.
+   In contrast, a future, or futures contract, is a forward contract that has been
+standardized and sold through an organized exchange. A futures contract specifies
+
+
+===== PDF 249 | 印刷页 214 =====
+
+214    l Chapter 9  Derivatives: Futures, Options, and Swaps
+
+
+
+
+      Table 9.1        Interest Rate Futures
+
+
+
+                          (1)            (2)             (3)             (4)            (5)           (6)             (7)
+                                                                                                                    Open
+                                       Open             High            Low            Last        Change          Interest
+
+                        Treasury Bond Futures Settlements: $100,000 face value
+                        March         146’11          147’03          146’05          146’29         +’22           13,209
+                        June          145’17          146’14          145’14          146’09         +’22         948,775
+
+  This table reports information on a contract for delivery of $100,000 face value of 10-year 6 percent coupon U.S. Treasury bonds.
+  Column (1 ). This reports the month when the contract requires delivery of the bonds from the short position/seller to the long
+  position/buyer.
+  Column (2 ). “Open” is the price quoted when the exchange opened on the morning of March 15, 2019. This need not be the
+  same as the preceding afternoon’s close. The price in the first row, 146’11, is quoted in 32nds and represents the cost of $100
+  face value worth of the 10-year 6 percent coupon U.S. Treasury bonds. In this case, the open price is 146 plus 11 32nds. The
+  price in the second row, 145’17, means 145 plus 17 32nds.
+  Columns (3 ) and (4). “High” and “Low” are the highest and lowest prices posted during the trading day.
+  Column (5 ). “Last” is the closing or settlement price at the end of the trading day on March 15, 2019. This is the price used for
+  marking to market.
+  Column (6 ). “Change” is the change in the closing price, measured in 32nds, from the preceding day’s closing price.
+  Column (7 ). “Open interest” is the number of contracts outstanding, or open. These numbers often are quite large, especially
+  when one contract is close to expiration.
+
+
+SOURCE: CME Group, March 15, 2019, www.cmegroup.com/trading/interest-rates/us-treasury/30-year-us-treasury-bond_quotes_settlements_futures.
+html#tradeDate=03%2F21%2F2019.
+
+
+
+                                that the seller—who has the short position—will deliver some quantity of a commod-
+                                ity or financial instrument to the buyer—who has the long position—on a specific
+                                date, called the settlement or delivery date, for a predetermined price. No payments are
+                                made initially when the contract is agreed to. The seller/short position benefits from
+                                declines in the price of the underlying asset, while the buyer/long position benefits
+                                from increases.2
+                                   Take the U.S. Treasury bond futures contract that trades on the ­Chicago Board of
+                                Trade (CBOT, which is a part of the CME Group). The contract specifies the deliv-
+                                ery of $100,000 face value worth of 10-year, 6 percent coupon U.S. Treasury bonds
+                                at any time during a given month, called the delivery month.3 Table 9.1 shows the
+                                prices and trading activity for this contract on March 15, 2019. The fact that the con-
+                                tract is so specific means there is no need for negotiation. And the existence of the
+                                exchange creates a natural place for people who are interested in a particular futures
+                                contract to meet and trade. Historically, exchanges have been physical locations, but
+
+                                2
+                                  The term short refers to the fact that one party to the agreement is obligated to deliver something, whether or not he
+                                or she currently owns it. The term long signifies that the other party is obligated to buy something at a future date.
+                                3
+                                 A bond issued by the U.S. Treasury with an original maturity of 10 years or less is officially called a Treasury
+                                note, but we use the term Treasury bond in this chapter for simplicity. The seller of a U.S. Treasury bond futures
+                                contract need not deliver the exact bond specified in the contract. The Chicago Board of Trade, a part of the
+                                CME Group, maintains a spreadsheet of conversion factors to use in adjusting the quantity (face value) when
+                                delivery of some other bond is made. While these particular futures allow for delivery at any time during the
+                                delivery month, other futures may require delivery on a specific day. Specifications of the contract are available
+                                at: www.cmegroup.com/trading/interest-rates/us-treasury/10-year-us-treasury-note_contract_specifications.html.
+
+
+===== PDF 250 | 印刷页 215 =====
+
+                                                                                                        Forwards and Futures   l 215
+
+
+
+with the Internet came online trading of futures. In recent years, firms have created
+virtual ­futures markets for a wide variety of products, including energy, bandwidth,
+and plastics.
+   One more thing is needed before anyone will actually buy or sell futures con-
+tracts: assurance that the buyer and seller will meet their obligations. In the case of
+the U.S. Treasury futures contract, the buyer must be sure that the seller will deliver
+the bond, and the seller must believe that the buyer will pay for it. Market partici-
+pants have found an ingenious solution to this problem. Instead of making a bilateral
+arrangement, the two parties to a futures contract each make an agreement with a
+clearing corporation. The clearing corporation, which operates like a large insur-
+ance company, is the counterparty to both sides of a transaction, guaranteeing that
+they will meet their obligations. This arrangement reduces the risk buyers and sell-
+ers face. The clearing corporation has the ability to monitor traders and the incentive
+to limit their risk taking (see Lessons from the Crisis: Central Counterparties and
+Systemic Risk).
+
+Margin Accounts and Marking to Market
+To reduce the risk it faces, the clearing corporation requires both parties to a futures
+contract to place a deposit with the corporation itself. This practice is called posting
+margin in a margin account. The margin deposits guarantee that when the contract
+comes due, the parties will be able to meet their obligations. But the clearing corpora-
+tion does more than collect the initial margin when a contract is signed. It also posts
+daily gains and losses on the contract to the margin accounts of the parties involved.4
+This process is called marking to market, and it is done daily.
+   Marking to market is analogous to what happens during a poker game. At the end
+of each hand, the amount wagered is transferred from the losers to the winner. In
+financial parlance, the account of each player is marked to market. Alternative meth-
+ods of accounting are too complicated, making it difficult to identify players who
+should be excused from the game because they have run out of resources. For simi-
+lar reasons, the clearing corporation marks futures accounts to market every day.
+Doing so ensures that sellers always have the resources to make delivery and that
+buyers always can pay. As in poker, if someone’s margin account falls below the
+minimum, the clearing corporation will sell the contracts, ending the person’s par-
+ticipation in the market.
+   An example will help you understand how marking to market works. Take the case
+of a futures contract for the purchase of 1,000 ounces of silver at $20 per ounce. The
+contract specifies that the buyer of the contract, the long position, will pay $20,000 in
+exchange for 1,000 ounces of silver. The seller of the contract, the short position,
+receives the $20,000 and delivers the 1,000 ounces of silver. We can think about this
+contract as guaranteeing the long position the ability to buy 1,000 ounces of silver for
+$20,000 and guaranteeing the short position the ability to sell 1,000 ounces of silver for
+$20,000. Now consider what happens when the price of silver changes. If the price rises
+to $21 per ounce, the seller needs to give the buyer $1,000 so that the buyer pays only
+$20,000 for the 1,000 ounces of silver. By contrast, if the price falls to $19 an ounce, the
+
+
+4
+ On March 15, 2019, the March U.S. Treasury bond futures contract in Table 9.1 rose 22/32 per $100 face
+value worth of bonds. A single contract covers 1,000 times that amount, so the value of each contract rose by
+($22/32)(1,000) = $687.50. Marking to market means that, at the end of the day for each outstanding contract,
+the clearing corporation credited the long position/buyer and debited the short position/seller $687.50.
+
+
+===== PDF 251 | 印刷页 216 =====
+
+216   l Chapter 9  Derivatives: Futures, Options, and Swaps
+
+
+
+                        buyer of the futures contract needs to pay $1,000 to the seller to make sure that the
+                        seller receives $20,000 for selling the 1,000 ounces of silver. Marking to market is the
+                        transfer of funds at the end of each day that ensures the buyers and sellers get what the
+                        contract promises.
+
+                        Hedging and Speculating with Futures
+                        Futures contracts allow the transfer of risk between buyer and seller. This transfer can
+                        be accomplished through hedging or speculation. Let’s look at hedging first. Say a
+                        government securities dealer wishes to insure against declines in the value of an inven-
+                        tory of bonds. Recall from Chapter 5 that this type of risk can be reduced by finding
+                        another financial instrument that delivers a high payoff when bond prices fall. That is
+                        exactly what happens with the sale of a U.S. Treasury bond futures contract: the seller/
+                        short position benefits from price declines. Put differently, the seller of a futures
+                        ­contract—the securities dealer, in this case—can guarantee the price at which the
+                         bonds are sold. The other party to this transaction might be a pension fund manager
+                         who is planning to purchase bonds in the future and wishes to insure against possible
+                         price increases.5 Buying a futures contract fixes the price that the fund will need to
+                         pay. In this example, both sides use the futures contract as a hedge. They are both
+                         hedgers.6
+                             Producers and users of commodities employ futures markets to hedge their risks as
+                         well. Farmers, mining companies, oil drillers, and the like are sellers of futures, taking
+                         short positions. After all, they own the commodities outright, so they want to stabilize the
+                         revenue they receive when they sell. In contrast, millers, jewelers, and oil distributors
+                         want to buy futures to take long positions. They require the commodity to do business, so
+                         they buy the futures contract to reduce risk arising from fluctuations in the cost of essen-
+                         tial inputs.
+                             What about speculators? Their objective is simple: They are trying to make a profit.
+                         To do so, they bet on price movements. Sellers of futures are betting that prices will
+                         fall, while buyers are betting that prices will rise. Futures contracts are popular tools
+                         for speculation because they are cheap. An investor needs only a relatively small
+                         amount of investment—the margin—to purchase a futures contract that is worth a great
+                         deal. Margin requirements of 10 percent or less are common. In the case of a futures
+                         contract for the delivery of $100,000 face value worth of 10-year, 6 percent coupon
+                         U.S. Treasury bonds, the Chicago Board of Trade (the clearing corporation that guar-
+                         antees the contract) requires maintaining margin of $1,050 per contract. That is, an
+                         investment of only $1,050 gives the investor the same returns as the purchase of
+                         $100,000 worth of bonds. It is as if the investor borrowed the remaining $98,950 with-
+                         out having to pay any interest.7
+                             To see the impact of this kind of leverage on the return to the buyer and seller of a
+                         futures contract, recall from footnote 4 that a rise of 22/32nds in the price of the Treasury
+                         bond futures contract meant that the long position/buyer gained $687.50, while the short
+                         position/seller lost $687.50. With a minimum initial investment of $1,050 for each con-
+                         tract, this represents a 65.5 percent gain to the futures contract buyer and a 65.5 percent
+                         loss to the futures contract seller. In contrast, the owner of the bond itself would have
+
+                        5
+                          Recall from Chapters 4 and 6 that bond prices and interest rates move in opposite directions. That means the
+                        bond dealer who sells the futures contract is insuring against interest rate increases.
+                        6
+                          Hedgers who buy futures are called long hedgers and hedgers who sell futures are called short hedgers.
+                        7
+                          It is even possible to arrange a margin account so that the balance earns interest.
+
+
+===== PDF 252 | 印刷页 217 =====
+
+                                                                                                          Forwards and Futures        l 217
+
+
+
+
+                          Central Counterparties and Systemic Risk
+                          LESSONS FROM THE CRISIS
+
+   We know that a loss of liquidity and transparency can                  occur on any given day is only a small fraction of the gross
+   threaten the financial system as a whole (see Chapter 5,               value of the trades, sharply lowering the risk of nonpayment.
+   ­Lessons from the Crisis: Systemic Risk). Lack of liquidity can             The history of CCPs reveals their practical benefits. Since
+    make trading impossible, while lack of transparency                   1925, when all U.S. futures contracts began trading through a
+    can make traders un­willing to trust one another. Both can            CCP, no contract has failed despite many subsequent finan-
+    cause markets to seize up and trigger a cascade of failures.          cial disruptions, including the Great Depression. CCPs have
+    Transparent, liquid financial markets are less prone to such          helped markets function well even when traders cannot pay.
+    systemic disruptions.                                                 For example, when one large energy futures trader (Ama-
+        How can we make markets more robust? One way is to                ranth) failed in 2006, the futures market adjusted smoothly
+    shift trading from over-the-counter (OTC) markets, where              because the CCP could use the trader’s collateral to satisfy
+    products tend to be customized, to transactions with a central        its contracts with other firms. Futures markets also absorbed
+    counterparty (CCP) in standardized financial instruments.*            the losses from the spectacular 2011 collapse of a large com-
+        OTC trading is bilateral, that is, directly between buyer         modities brokerage (MF Global) that misused customer
+    and seller, rather than through an intermediary. By contrast, a       money.
+    CCP is an entity that interposes itself between the two sides              In contrast, systemic threats and disruptions have arisen
+    of a transaction, becoming the buyer to every seller and the          repeatedly with OTC contracts: in 1998, when the possible
+    seller to every buyer. Trading on most stock, futures, and op-        demise of the hedge fund LTCM threatened numerous coun-
+    tions exchanges goes through CCPs. As a result, when you              terparties of its OTC interest rate swaps; and again, during
+    buy or sell a stock, you neither know nor care who the ulti-          the financial crisis of 2007–2009, with a number of firms ac-
+    mate seller or buyer is because you are trading with the CCP          tive in OTC derivatives, including Bear Stearns, Lehman
+    of the exchange.                                                      Brothers, and AIG.
+        When trading OTC with many partners, a firm can build                  Over the past decade, there has been an overhaul of de-
+    up excessively large positions without other parties being            rivatives markets so that today more than 60 percent of the
+    aware of the risk it is acquiring. In contrast, a CCP has the         roughly $600 trillion in derivatives contracts are centrally
+    ability, as well as the incentive, to monitor the riskiness of its    cleared. While this reduces the dangers posed by a com-
+    counterparties. Because all trades occur with the CCP, it can         plex, opaque web of bilateral relationships, it concentrates
+    see whether a trader is taking a large position on one side of        risks in the CCPs themselves. To ensure that these critical
+    a trade. Standardization of contracts also facilitates CCP            components of the financial architecture are resilient and
+    monitoring. If it finds itself trading with a risky counterparty, a   not prone to collapse, appropriate safeguards must be in
+    CCP can insist on a risk premium to protect itself. A CCP also        place so that CCPs will always have the resources to con-
+    can refuse to trade with a counterparty that may not be able          tinue operating.
+    to pay. And it can insist on frequent marking of prices to mar-
+    ket to measure and control risks effectively.                         *For more details on CCPs, see Stephen G. Cecchetti, Jacob
+        A CCP also limits its own risk through economies of scale.        ­Gyntelberg, and Marc Hollanders, “Central Counterparties for
+    Most of the trades that a CCP conducts can be offset against           Over-the-Counter Derivatives,” BIS Quarterly Review, September
+    one another. Therefore, the volume of net payments that must           2009, pp. 45–58.
+
+
+
+
+gained $687.50 on an approximately $100,000 investment, which is a gain of just 0.688
+percent! Speculators, then, can use futures to obtain very large amounts of leverage at a
+very low cost.
+
+Arbitrage and the Determinants of Futures Prices
+To understand how the price of a futures contract is determined, let’s start at the settle-
+ment date and work backward. On the settlement or delivery date, we know that the
+price of the futures contract must equal the price of the underlying asset the seller is
+obligated to deliver. The reason is simple: If, at expiration, the futures price were to
+deviate from the asset’s price, then it would be possible to make a risk-free profit by
+
+
+===== PDF 253 | 印刷页 218 =====
+
+218   l Chapter 9  Derivatives: Futures, Options, and Swaps
+
+
+
+                        engaging in offsetting cash and futures transactions. If the current market price of a
+                        bond were below the futures contract price, someone could buy a bond at the low price
+                        and simultaneously sell a futures contract (take a short position and promise to deliver
+                        the bond on a future date). Immediate exercise of the futures contract and delivery of
+                        the bond would yield a profit equal to the difference between the market price and the
+                        futures price. Thinking about this example carefully, we can see that the investor who
+                        engages in these transactions has been able to make a profit without taking on any risk
+                        or making any investment.
+                           The practice of simultaneously buying and selling financial instruments in order to
+                        benefit from temporary price differences is called arbitrage, and the people who
+                        engage in it are called arbitrageurs. Arbitrage means that two financial instruments
+                        with the same risk and promised future payments will sell for the same price. If, for
+                        example, the price of a specific bond is higher in one market than in another, an arbi-
+                        trageur can buy at the low price and sell at the high price. The increase in demand in
+                        the market where the price is low drives the price up there, while the increase in sup-
+                        ply in the market where the price is high drives the price down there, and the process
+                        continues until prices are equal in the two markets. As long as there are arbitrageurs,
+                        on the day when a futures contract is settled, the price of a bond futures contract will
+                        be the same as the market price—what is called the spot price—of the bond.
+                           So we know that on the settlement date, the price of a futures contract must equal
+                        the spot price of the underlying asset. But what happens before the settlement date?
+                        The principle of arbitrage still applies. The price of the futures contract depends on the
+                        fact that someone can buy a bond and sell a futures contract simultaneously. Here’s
+                        how it’s done. First, the arbitrageur borrows at the current market interest rate. With
+                        the funds, the arbitrageur buys a bond and sells a bond futures contract. Now the arbi-
+                        trageur has a loan on which interest must be paid, a bond that pays interest, and a
+                        promise to deliver the bond for a fixed price at the expiration of the futures contract.
+                        Because the interest owed on the loan and received from the bond will cancel out, this
+                        position costs nothing to initiate.8 As before, if the market price of the bond is below
+                        the futures contract price, this strategy will yield a profit. Thus, the futures price must
+                        move in lockstep with the market price of the bond.
+                           To see how arbitrage works, consider an example in which the spot price of a 4 per-
+                        cent coupon 10-year bond is $100, the current interest rate on a 3-month loan is also
+                        4 percent (quoted at an annual rate), and the futures market price for delivery of a
+                        4 percent, 10-year bond is $101. An investor could borrow $100, purchase the 10-year
+                        bond, and sell a bond future for $101 promising delivery of the bond in three months.
+                        The investor could use the interest payment from the bond to pay the interest on the
+                        loan and deliver the bond to the buyer of the futures contract on the delivery date. This
+                        transaction is completely riskless and nets the investor a profit of $1—without even
+                        putting up any funds. A riskless profit is extremely tempting, so the investor will con-
+                        tinue to engage in the transactions needed to generate it. Here that means continuing to
+                        buy bonds (driving the price up) and sell futures (forcing the price down) until the
+                        prices converge and no further profits are available.9
+                           Table 9.2 summarizes the positions of buyers and sellers in the futures market.
+
+                        8
+                          Unlike you and me, the arbitrageur can borrow at an interest rate that is close to the one received from the bond.
+                        There are two reasons for this. First, the arbitrageur is likely to be a large financial intermediary with a good credit
+                        rating; second, the loan is collateralized by the bond itself.
+                        9
+                          In a commodity futures contract, the futures price will equal the present value of the expected spot price on the
+                        delivery date, discounted at the risk-free interest rate.
+
+
+===== PDF 254 | 印刷页 219 =====
+
+                                                                                                               Options        l   219
+
+
+
+
+   Table 9.2        Who’s Who in Futures
+
+
+                                                Buyer of a Futures Contract             Seller of a Futures Contract
+
+     This is called the                         Long position                           Short position
+
+     Obligation of the party                    Buy the commodity or asset on the       Deliver the commodity or asset
+                                                settlement date                         on the settlement date
+
+     What happens to this person’s margin       Credited                                Debited
+     account after a rise in the market price
+     of the commodity or asset?
+
+     Who takes this position to hedge?          The user of the commodity or buyer of   The producer of the commodity
+                                                the asset who needs to insure against   or owner of the asset who needs
+                                                the price rising                        to insure against the price falling
+
+     Who takes this position to speculate?      Someone who believes that the           Someone who believes that the
+                                                market price of the commodity or        market price of the commodity or
+                                                asset will rise                         asset will fall
+
+
+
+
+Options
+Everyone likes to have options. Having the option to go on vacation or buy a new car
+is nice. The alternative to having options, having our decisions made for us, is surely
+worse. Because options are valuable, people are willing to pay for them when they can.
+Financial options are no different; because they are worth having, we can put a price
+on them.
+   Calculating the price of an option is incredibly complicated. In fact, no one knew
+how before Fischer Black and Myron Scholes figured it out in 1973. Traders immedi-
+ately programmed their famous Black-Scholes formula into the computers available at
+the time, and the options markets took off. By June 2000, the market value of out-
+standing options was in the neighborhood of $500 billion. Today, hundreds of millions
+of options contracts are outstanding, and millions of them change hands every day.
+   Before we learn how to price options, we’ll need to master the vocabulary used to
+describe them. Once we have the language, the next step is to move on to how to use
+options and how to value them.
+
+Calls, Puts, and All That: Definitions
+Like futures, options are agreements between two parties. There is a seller, called an
+option writer, and a buyer, called an option holder. As we will see, option writers
+incur obligations, while option holders obtain rights. There are two basic options,
+puts and calls.
+   A call option is the right to buy—“call away”—a given quantity of an underlying
+asset at a predetermined price, called the strike price (or exercise price), on or before a
+specific date. For example, a July 2019 call option on 100 shares of Apple stock at a
+strike price of 100 gives the option holder the right to buy 100 shares of Apple for
+$100 apiece prior to the third Friday of July 2019. The writer of the call option must
+sell the shares if and when the holder chooses to use the call option. The holder of the
+
+
+===== PDF 255 | 印刷页 220 =====
+
+220 l Chapter 9  Derivatives: Futures, Options, and Swaps
+
+
+
+                      call is not required to buy the shares; rather, the holder has the option to buy and will
+                      do so only if buying is beneficial. When the price of Apple stock exceeds the option
+                      strike price of 100, the option holder can either call away the 100 shares from the
+                      ­option writer by exercising the option or sell the option to someone else at a profit. If
+                       the market price rose to $105, for example, then exercising the call would allow the
+                       holder to buy the stock from the option writer for $100 and reap a $5 per share profit.
+                       Whenever the price of the stock is above the strike price of the call option, exercising
+                       the option is profitable for the holder, and the option is said to be in the money (as in
+                       “I’m in the money!”). If the price of the stock exactly equals the strike price, the option
+                       is said to be at the money. If the strike price exceeds the market price of the underlying
+                       asset, it is termed out of the money.
+                           A put option gives the holder the right but not the obligation to sell the underlying
+                       asset at a predetermined price on or before a fixed date. The holder can “put” the asset
+                       in the hands of the option writer. Again, the writer of the option is obliged to buy the
+                       shares should the holder choose to exercise the option. Returning to the example of
+                       Apple stock, consider a put option with a strike price of 100. This is the right to sell
+                       100 shares at $100 per share, which is valuable when the market price of Apple stock
+                       falls below $100. If the price of a share of Apple stock were $90, then exercising the
+                       put option would yield a profit of $10 per share.
+                           The same terminology that is used to describe calls—in the money, at the money,
+                       and out of the money—applies to puts as well, but the circumstances in which it is
+                       used are reversed. Because the buyer of a put obtains the right to sell a stock, the put is
+                       in the money when the option’s strike price is above the market price of the stock. It is
+                       out of the money when the strike price is below the market price.
+                           While it is possible to customize options in the same way as forward contracts, many
+                       are standardized and traded on exchanges, just like futures contracts. The mechanics of
+                       trading are the same. A clearing corporation guarantees the obligations embodied in
+                       the option—those of the option writer. And the option writer is required to post margin.
+                       Because option holders incur no obligation, they are not required to post margin.
+                           There are two types of calls and puts: American and European. American ­options
+                       can be exercised on any date from the time they are written until the day they ­expire.
+                       As a result, prior to the expiration date, the holder of an American option has three
+                       choices: (1) continue to hold the option, (2) sell the option to someone else, or (3) exer-
+                       cise the option immediately. European options can be exercised only on the day that
+                       they expire. Thus, the holder of a European option has two choices on a date prior to
+                       expiration: hold or sell. The vast majority of options traded in the United States are
+                       American.
+
+                      Using Options
+                      Who buys and sells options, and why? To answer this question, we need to understand
+                      how options are used. Options transfer risk from the buyer to the seller, so they can be
+                      used for both hedging and speculation. Let’s take hedging first. Remember that a
+                      hedger is buying insurance. For someone who wants to purchase an asset such as a
+                      bond or a stock in the future, a call option ensures that the cost of buying the asset will
+                      not rise. For someone who plans to sell the asset in the future, a put option ensures that
+                      the price at which the asset can be sold will not go down.
+                         To understand the close correspondence between options and insurance, think of
+                      the arrangement that automobile owners have with their insurance company. The
+                      owner pays an insurance premium and obtains the right to file a claim in the event
+
+
+===== PDF 256 | 印刷页 221 =====
+
+                                                                                                                         Options     l 221
+
+
+
+
+                        Should You Believe Corporate Financial Statements?
+                        YOUR FINANCIAL WORLD
+
+
+   Corporations work hard to appear as profitable as possible.        boom of the late 1990s, many firms published so-called pro
+   They employ squadrons of accountants and financial wiz-            forma financial statements based on their own definitions of
+   ards to dress up their financial statements so that reported       revenue and costs. To look profitable, these companies had
+   profits are as high and stable as possible. While financial        to make their own accounting rules. Such tinkering implies
+   statements must meet exacting accounting standards, that           that a firm has something to hide.
+   does not mean they accurately reflect a company’s true                   Second, the more open a company is in its financial
+   ­financial position. The problem is that the standards are so      ­accounting, the more likely that it is honest. One of the
+    specific they provide a road map for the creation of mis-          ­lasting effects of the credit rating failures associated with the
+    leading statements. Remember that derivatives render the            financial crisis of 2007–2009 is that investors now punish
+    names attached to particular risks and payoffs arbitrary and        companies that publish opaque financial statements.
+    irrelevant. But accounting regulations are all about names.         ­Honesty really is the best policy; the more information a firm
+    That is the way the system works, and there is nothing ille-         makes public, the more credible it will be with investors.
+    gal about it.                                                           Finally, remember that diversification reduces risk. If you
+        So what are investors supposed to do? First, never trust         own shares in many different companies, you are better pro-
+    an accounting statement that doesn’t meet the standards set          tected against the possibility that some of them will be less
+    forth by financial regulators. For example, during the Internet      than honest in their disclosures.
+
+
+
+
+of an accident. If the terms of the policy are met, the insurance company is obli-
+gated to pay the claim. If no accident occurs, then there is no claim and the insur-
+ance company makes no payment; the insurance premium is lost. In effect,
+the insurance company has sold an American call option to the car’s owner where
+the underlying asset is a working car and the strike price is zero. This call option
+can be exercised if and only if the car is damaged in an accident on any day before
+the policy expires.
+    Options can be used for speculation as well. Say that you believe that interest rates
+are going to fall over the next few months. There are three ways to bet on this possibil-
+ity. The first is to purchase a bond outright, hoping that its price will rise as interest
+rates fall. This is expensive, because you will need to come up with the resources to
+buy the bond. A second strategy is to buy a futures contract, taking the long position.
+If the market price of the bond rises, you will make a profit. As we saw in the last sec-
+tion, this is an attractive approach, because it requires only a small investment. But it
+is also very risky, because the investment is highly leveraged. Both the bond purchase
+and the futures contract carry the risk that you will take a loss, and if interest rates rise
+substantially, your loss will be large.
+    The third strategy for betting that interest rates will fall is to buy a call option on a
+U.S. Treasury bond. If you are right and interest rates fall, the value of the call option
+will rise. But if you are wrong and interest rates rise, the call will expire worthless and
+your losses will be limited to the price you paid for it. This bet is both highly leveraged
+and limited in its potential losses.
+    In the same way that purchasing a call option allows an investor to bet that the price
+of the underlying asset will rise, purchasing a put option allows the investor to bet that
+the price will fall. Again, if the investor is wrong, all that is lost is the price paid for the
+option. In the meantime, the option provides a cheap way to bet on the movement in
+the price of the underlying asset. The bet is highly leveraged, because a small initial
+
+
+===== PDF 257 | 印刷页 222 =====
+
+222   l Chapter 9  Derivatives: Futures, Options, and Swaps
+
+
+
+                        investment creates the opportunity for a large gain. But unlike a futures contract, a put
+                        option has a limited potential loss.
+                           So far we have discussed only the purchase of options. For every buyer there must
+                        be a seller. Who is it? After all, an option writer can take a large loss. Nevertheless, for
+                        a fee, some people are willing to take the risk and bet that prices will not move against
+                        them. These people are simply speculators. A second group of people who are willing
+                        to write options are insured against any losses that may arise. They are primarily deal-
+                        ers who engage in the regular purchase and sale of the underlying asset. These people
+                        are called market makers because they are always there to make the market. Because
+                        they are in the business of buying and selling, market makers both own the underlying
+                        asset so that they can deliver it and are willing to buy the underlying asset so that they
+                        have it ready to sell to someone else. If you own the underlying asset, writing a call
+                        option that obligates you to sell it at a fixed price is not that risky. These people write
+                        options to obtain the fee paid by the buyer.
+                           Writing options can also generate clear benefits. To see how, think about the case of
+                        an electricity producer who has a plant that is worth operating only when electricity
+                        prices exceed a relatively high minimum level. Such peak-load plants are relatively
+                        common. They sit idle most of the time and are fired up only when demand is so high
+                        that prices spike. The problem is that when they are not operating—which is the nor-
+                        mal state of affairs—the owner must pay maintenance charges. To cover these charges,
+                        the producer might choose to write a call option on electricity. Here’s how the strategy
+                        works. For a fee, the plant owner sells a call option with a strike price that is higher
+                        than the price at which the plant will be brought online. The buyer of the call might be
+                        someone who uses electricity and wants insurance against a spike in prices. The option
+                        fee will cover the producer’s maintenance cost while the plant is shut down. And,
+                        because the producer as option writer owns the underlying asset here—electricity—he
+                        or she is hedged against the possibility that the call option will pay off. As the price of
+                        electricity rises, the plant’s revenue goes up with it.
+                           Options are very versatile and can be bought and sold in many combinations. They
+                        allow investors to get rid of the risks they do not want and keep the ones they do want.
+                        In fact, options can be used to construct synthetic instruments that mimic the payoffs
+                        of virtually any other financial instrument. For example, the purchase of an at-the-
+                        money call and simultaneous sale of an at-the-money put gives the exact same payoff
+                        pattern as the purchase of a futures contract. If the price of the underlying asset rises,
+                        the call’s value increases just as a futures contract does, while the put remains worth-
+                        less. If the price falls, the put seller loses, just as a futures contract does, while the call
+                        is out of the money. Finally, options allow investors to bet that prices will be volatile.
+                        Buy a put and a call at the same strike price, and you have a bet that pays off only if the
+                        underlying asset price moves up or down significantly.
+                           In summary, options are extremely useful. Remember the example at the beginning
+                        of the chapter, in which the snowmobile manufacturer Bombardier purchased insurance
+                        so it could offer its customers a rebate? What it bought were put options with a payoff
+                        tied to the amount of snow that fell. The puts promised payments in the event of low
+                        snowfall. This hedged the risk the company incurred when it offered rebates to the pur-
+                        chasers of its snowmobiles. The providers of this insurance, the sellers of the snowfall
+                        options, may have been betting that snowfall would not be low. That is, they may have
+                        been speculating—but not necessarily. After all, there are many companies whose sales
+                        and profits rise during warm weather and that are well positioned to take such a risk.
+                        Insurance companies, for instance, have lower claims during warm winters, because
+                        there are fewer accidents when there is less snow. If there is little snow, the insurance
+
+
+===== PDF 258 | 印刷页 223 =====
+
+                                                                                                                            Options   l    223
+
+
+
+
+     Table 9.3          A Guide to Options
+
+
+
+                                                               Calls                                           Puts
+
+      Buyer                                 Right to buy the underlying asset at the        Right to sell the underlying asset at a
+                                            strike price prior to or on the expiration      fixed price prior to or on the expiration
+                                            date.                                           date.
+                                            “Hey, send it over!”                            “Here it is; it’s yours now!”
+      Seller (Writer)                       Obligation to sell the underlying asset at      Obligation to buy the underlying asset
+                                            the strike price prior to or on the             at the strike price prior to or on the
+                                            expiration date.                                expiration date.
+      Option is in the money when           Price of underlying asset is above              Price of underlying asset is below the
+                                            the strike price of the call.                   strike price of the put.
+      Who buys one                          Someone who:                                    Someone who:
+                                            ∙   Wants to buy an asset in the future         ∙   Wants to sell an asset in the future
+                                                and ensure the price paid will not rise.        and ensure the price paid will not fall.
+                                            ∙   Wants to bet that the price of the          ∙   Wants to bet that the price of
+                                                underlying asset will rise.                     the underlying asset will fall.
+
+      Who sells (writes) one                ∙   Someone who wants to bet that the           ∙   Someone who wants to bet that
+                                                market price of the underlying asset            the market price of the underlying
+                                                will not rise.                                  asset will not fall.
+                                            ∙   A broker who is always willing to sell      ∙   A broker who is always willing to
+                                                the underlying asset and is paid to             buy the underlying asset and is
+                                                take the risk.                                  paid to take the risk.
+
+
+
+
+company has the funds to make the payments, while if there is lots of snow, they can use
+the price they were paid to write the put to help pay the cost of the claims they face.10
+   Table 9.3 provides a summary of what options are, who buys and sells them, and
+why they do it.
+
+Pricing Options: Intrinsic Value and the
+Time Value of the Option
+An option price has two parts. The first is the value of the option if it is exercised
+immediately, and the second is the fee paid for the option’s potential benefits. We will
+refer to the first of these, the value of the option if it is exercised immediately, as the
+intrinsic value. The second, the fee paid for the potential benefit from buying
+the ­option, we will call the time value of the option to emphasize its relationship to the
+time of the option’s expiration. This means that
+                         Option price = Intrinsic value + Time value of the option
+    As an example, before we launch into a discussion of option valuation in general,
+let’s apply what we know about present value and risk analysis. Consider the example
+10
+  Bombardier purchased its snowfall insurance from Enron (prior to that company’s bankruptcy). As it turned
+out, there was sufficient snowfall, so no payments were made either from Bombardier to the buyers of the
+snowmobiles or from Enron to Bombardier.
+
+
+===== PDF 259 | 印刷页 224 =====
+
+224   l Chapter 9  Derivatives: Futures, Options, and Swaps
+
+
+
+                        of an at-the-money European call option on the stock of XYZ Corporation that expires
+                        in one month. Recall that a European option can be exercised only at expiration and
+                        that an at-the-money option is one for which the current price equals the strike price.
+                        In this case, both equal $100. So, the intrinsic value of this call option is zero. To the
+                        extent that it has any value at all, that value resides entirely in the option’s time value.
+                        Assume that, over the next month, the price of XYZ Corporation’s stock will either
+                        rise or fall by $10 with equal probability. That is, there is a probability of ½ the price
+                        will go up to $110, and there is a probability of ½ it will fall to $90. What is the value
+                        of this call option?
+                            To find the answer, we can compute the expected present value of the payoff. Let’s
+                        assume that the interest rate is so low that we can ignore it. (If the payoff were post-
+                        poned sufficiently far into the future or the interest rate were high enough, we could
+                        not ignore the present-value calculation but would have to divide by one plus the inter-
+                        est rate.) Now notice that the option is worth something only if the price goes up. In
+                        the event that XYZ’s stock price falls to $90, you will allow the option to expire with-
+                        out exercising it. For a call option, then, we need to concern ourselves with the upside,
+                        and the expected value of that payoff is the probability, ½, times the payoff, $10,
+                        which is $5. This is the time value of the option.
+                            Now think about what happens if, instead of rising or falling by $10, XYZ’s stock
+                        will rise or fall by $20. This change increases the standard deviation of the stock price.
+                        In the terminology used in options trading, the stock price volatility has increased.
+                        Doing the same calculation, we see that the expected payoff is now $10. As the vola-
+                        tility of the stock price rises, the option’s time value rises with it.
+
+                        General Considerations            In general, calculating the price of an option and how
+                        it might change means developing some rules for figuring out its intrinsic value and
+                        time value. We can do that using the framework from Chapter 3. Recall that the value
+                        of any financial instrument depends on four attributes: the size of the promised pay-
+                        ment, the timing of the payment, the likelihood that the payment will be made, and the
+                        circumstances under which the payment will be made.11 As we consider each of these,
+                        remember that the most important thing about an option is that the buyer is not obli-
+                        gated to exercise it. An option gives the buyer a choice! What this means is that some-
+                        one holding an option will never make any additional payment to exercise it, so its
+                        value cannot be less than zero.
+                           Because the options can either be exercised or expire worthless, we can con-
+                        clude that the intrinsic value depends only on what the holder receives if the option
+                        is exercised. The intrinsic value is the difference between the price of the underly-
+                        ing asset and the strike price of the option. This is the size of the payment that the
+                        option represents, and it must be greater than or equal to zero—the intrinsic value
+                        cannot be negative. For an in-the-money call, or the option to buy, the intrinsic
+                        value to the holder (the long position) is the market price of the underlying asset
+                        minus the strike price. If the call is at the money or out of the money, it has no
+                        intrinsic value. Analogously, the intrinsic value of a put, or the option to sell,
+                        equals the strike price minus the market price of the underlying asset, or zero,
+                        whichever is greater.
+                           At expiration, the value of an option equals its intrinsic value. But what about prior to
+                        expiration? To think about this question, consider an at-the-money option—one whose
+
+                         Because the pricing of European options is easier to understand, we will talk about options as if they can be
+                        11
+
+                        exercised only at the expiration date. The principles for pricing American options are the same, however.
+
+
+===== PDF 260 | 印刷页 225 =====
+
+                                                                                                                   Options    l 225
+
+
+
+
+                        Should You Accept Options as Part of Your Pay?
+                        YOUR FINANCIAL WORLD
+
+
+   What if someone offers you a job in return for a salary and       2000, Microsoft’s stock price rose from $2 to $116 per
+   stock options? Should you take it? Before you do, ask ques-       share. An employee with 1,000 options to purchase the
+   tions! Let’s look at what you need to know. Many firms that       stock at $2 would have made $114,000 by exercising them.
+   offer options on their own stock to employees view                Though Microsoft employees were winners, there are many
+   the ­options as a substitute for wages. Employees receive call    losers in the options game. Employees holding options to
+   options that give them the right to purchase the com­pany’s       purchase stock in General Motors or Lehman, both of which
+   stock at a fixed price. The strike price is usually set at the    went bankrupt in 2008, got nothing.
+   current market price of the stock, so that when employees             So what should you do? If taking the options means ac-
+   receive the options, they are at the money. Normally, the ex-     cepting a lower salary, then you are paying for them, and you
+   piration date is from 1 to 10 years in the future. ­Because the   should think hard before you take the offer. Stock options
+   options are long-term, they will have substantial value, as       are almost like lottery tickets, but with a drawing that may
+   measured by the option’s time value. But there is a catch.        not occur for years. They give you a small chance to make a
+   Employees generally are not allowed to sell them and may          large profit. But investing in the same company that pays
+   need to remain with the firm to exercise them.                    your salary is a risky business. If the company goes broke
+       Nevertheless, the price of the company’s stock could          or you lose your job, the options will be worthless to you.
+   skyrocket, so the options may bring a substantial payoff. To      So think hard before you trade a high-paying job for a
+   take an extreme example, from January 1991 to ­January            lower-paying job with options.
+
+
+
+
+intrinsic value is zero. Prior to expiration, there is always the chance that the price of the
+underlying asset will move so as to make the option valuable. This potential benefit is
+represented by the option’s time value. The longer the time to expiration, the bigger the
+likely payoff when the option does expire and, thus, the more valuable it is. Remember
+that the option payoff is asymmetric, so what is important is the chance of making profit.
+In the last example, think about what will happen if the option e­ xpires in three months
+instead of one and the stock price has an equal probability of rising or falling $10 each
+month. The expected payoff rises from $5 (for the one-month call option) to $7.50 (for
+the three-month call option). (Over three months, the stock can either rise by $30 with
+probability 1⁄8, rise by $10 with probability 3⁄8, fall by $10 with probability 3⁄8, or fall by
+$30 with probability 1⁄8. When the price falls, the call option is not exercised, so the
+expected value of the three-month call is 1⁄8 × $30 + 3⁄8 × $10 = $7.50.)
+   The likelihood that an option will pay off depends on the volatility, or standard
+deviation, of the price of the underlying asset. To see this, consider an option on Apple
+stock that is currently at the money—one with a strike price that equals the current
+price of the stock. The chance of this option being in the money by the time it expires
+increases with the volatility of Apple’s stock price. Think about an option on an asset
+whose price is simply fixed—that is, whose standard deviation is zero. This option
+will never pay off, so no one would be willing to pay for it. Add some variability to the
+price, however, and there is a chance that the price will rise, moving the option into the
+money. That is something people will pay for. Thus, the option’s time value increases
+with the volatility of the price of the underlying asset. Taking this analysis one step
+further, we know that regardless of how far the price of the underlying asset falls, the
+holder of a call option cannot lose more. In contrast, whenever the price rises higher,
+the call option increases in value. Increased volatility has no cost to the option holder,
+only benefits.
+
+
+===== PDF 261 | 印刷页 226 =====
+
+226   l Chapter 9  Derivatives: Futures, Options, and Swaps
+
+
+
+                                             Factors Affecting the Value of Options
+                           Table 9.4
+                                             Option value = Intrinsic value + Time value
+
+
+                            Increase in One Factor,                         Call                          Put
+                            Holding All Others Fixed                 (the right to buy)            (the right to sell)
+                            Increase in the strike price                  Decrease                       Increase
+                                                                    (intrinsic value falls)       (intrinsic value rises)
+                            Increase in the market price of                Increase                     Decrease
+                            the underlying asset                    (intrinsic value rises)       (intrinsic value falls)
+                            Increase in the time to expiration   Increase (time value rises)   Increase (time value rises)
+                            Increase in the volatility of the            Increase                      Increase
+                            underlying asset price                   (time value rises)            (time value rises)
+
+
+
+
+                           We have emphasized that options provide insurance, allowing investors to hedge
+                        particular risks. The bigger the risk being insured, the more valuable the insurance,
+                        and the higher the price investors will pay. Thus, the circumstances under which the
+                        payment is made have an important impact on the option’s time value. Table 9.4 sum-
+                        marizes the factors that affect the value of options.
+
+                        The Value of Options: Some Examples
+                        To see how options are valued, we can examine a simple example. The daily news
+                        reports the prices of options that are traded on organized exchanges. Table 9.5 shows
+                        the prices of Apple’s puts and calls on March 21, 2019, as reported on the website of
+                        The Wall Street Journal. Panel A shows the prices of options with different strike
+                        prices but the same expiration date, June 21, 2019. Panel B shows the prices of options
+                        with different expiration dates but the same strike price. From the top of the table we
+                        can see that the price of Apple’s stock, the underlying asset on which these options
+                        were written, was $195.09 per share at the close of that day.
+                           By examining the table, we can discover the following:
+                           ∙ At a given price of the underlying asset and time to expiration, the higher the
+                             strike price of a call option, the lower its intrinsic value and the less expensive the
+                             option. That is, as you read down the column labeled “Strike Price” in Panel A,
+                             the intrinsic value under “Calls” (Apple stock price minus the strike price) falls.
+                             For example, as the strike price goes from $190 to $195, the intrinsic value falls
+                             from $5.09 to $0.09.
+                           ∙ At a given price of the underlying asset and time to expiration, the higher the strike
+                             price of a put option, the higher the intrinsic value and the more ­expensive the option.
+                             (See the “Intrinsic Value” column for puts in Panel A.) As the strike price rises
+                             from $200 to $205, the intrinsic value of the Apple put (the strike price
+                             minus the Apple stock price) rises from $4.91 to $9.91.
+                           ∙ The closer the strike price is to the current price of the underlying asset, the
+                             larger the option’s time value. (See the two columns in Panel A labeled “Time
+                             Value of Call” and “Time Value of Put.”) For a call option with a strike price of
+                             $195 and an intrinsic value of $0.09, the time value is $9.76. As the strike price
+                             goes down to $190, the time value falls to $7.56.
+                           ∙ Deep in-the-money options have lower time value (see the time value of the
+                             calls in Panel A). Because a deep in-the-money call option is very likely to
+
+
+===== PDF 262 | 印刷页 227 =====
+
+                                                                                                                   Swaps l   227
+
+
+
+                        Prices of Apple Puts and Calls
+    Table 9.5           At the close on Thursday, March 21, 2019
+                        Apple stock price close = $195.09
+
+     A. June 21 Expiration
+
+                                              Calls                                     Puts
+
+                                          Intrinsic   Time Value                     Intrinsic Time Value of
+       Strike Price       Call Price       Value        of Call       Put Price       Value        Put
+          185.00          $15.70          $10.09        $5.61           $4.96         $0.00          $4.96
+          190.00            12.65             5.09        7.56            6.75          0.00           6.75
+          195.00              9.85            0.09        9.76            8.95          0.00           8.95
+          200.00              7.45            0.00        7.45          11.50           4.91           6.59
+          205.00              5.50            0.00        5.50          14.70           9.91           4.79
+          210.00              4.00            0.00        4.00          17.60         14.91            2.69
+     B. Strike Price of 195
+
+                                              Calls                                     Puts
+
+        Expiration                        Intrinsic   Time Value                     Intrinsic Time Value of
+          Date            Call Price       Value        of Call       Put Price       Value        Put
+          Apr 26              6.40            0.09       6.31            5.05          0.00            5.05
+          Jun 21              9.85            0.09       9.76            8.58          0.00            8.58
+          Sep 20            14.08             0.09      13.99           12.20          0.00          12.20
+               Intrinsic value of a call = Stock price − Strike price, or zero, whichever is larger
+               Intrinsic value of a put = Strike price − Stock price, or zero, whichever is larger
+                            Time value of the option = Option price − Intrinsic value
+
+
+NOTE: Prices are averages of bids and asks.
+SOURCE: The Wall Street Journal, March 21, 2019. Used with permission of Dow Jones & Company, Inc. via Copyright
+Clearance Center. http://quotes.wsj.com/AAPL/options
+
+
+
+      expire in the money, buying one is much like buying the stock itself. Note that
+      the call with a strike price of $185 and an intrinsic value of $10.09 has a time
+      value of $5.61, much less than the $9.76 time value of a call with an intrinsic
+      value of $0.09.
+    ∙ The longer the time to expiration at a given strike price, the higher the option
+      price. Looking at the prices of both puts and calls in Panel B of Table 9.5, you
+      can see that as you read down those columns and the time to expiration rises, the
+      price goes up with it. That is because the option’s time value is going up. A $195
+      Apple call that expires in April sells for $6.40, while the price of one that expires
+      five months later sells for $14.08. The same rule applies to puts.
+
+
+Swaps
+Like other derivatives, swaps are contracts that allow traders to transfer risks. Swaps
+come in numerous varieties. We will study two types: Interest rate swaps allow one
+swap party—for a fee—to alter the stream of payments it makes or receives. Interest
+rate swaps have been used widely for decades to synchronize receipts and payments.
+Credit default swaps (CDS) are more recent. CDS are a form of insurance that allow a
+
+
+===== PDF 263 | 印刷页 228 =====
+
+228   l Chapter 9  Derivatives: Futures, Options, and Swaps
+
+
+
+
+                       What Was Long-Term Capital Management Doing?
+                       APPLYING THE CONCEPT
+
+  From mid-August to late September 1998, Long-Term                 i­nstruments that could not easily be resold. The most
+  C apital Management (LTCM), a hedge fund based in
+  ­                                                                  amazing discovery was the $1 1⁄4 trillion (yes, trillion) in inter-
+  Greenwich, Connecticut, lost more than $2.5 billion,               est rate swaps. Granted, this was a notional principal of all
+  ­placing itself in danger of default. (For a detailed descrip-     the transactions added together, but the problem is that
+   tion of hedge funds, see the Tools of the Trade box in            swaps are individualized, bilateral transactions. The fact
+   Chapter 13.) The prospect of LTCM’s failure struck fear into      that LTCM was willing to make a swap agreement with a
+   world financial markets, prompting the Federal Reserve            particular counterparty was no guarantee that some other
+   Bank of New York to form a group of 14 banks and invest-          party would. Thus, a normal bankruptcy settlement, in
+   ment companies to purchase the company. How did so                which assets are sold off in the marketplace and the pro-
+   much wealth disappear so fast, and why did so many peo-           ceeds given to the failed company’s creditors, was not an
+   ple care? Until the crisis of 2007–2009, there was no com-        option. LTCM’s failure would mean it could not honor its
+   parable case in which the financial community was so              side of the agreements, which would mean the counterpar-
+   desperate to avoid a bankruptcy.                                  ties would not be able to honor their own agreements, cre-
+       The answer is that LTCM had engaged in a large num-           ating a cascade of failure. Its collapse would jeopardize the
+   ber of complex speculative transactions, including interest       entire financial system. Large banks, insurance companies,
+   rate swaps and options writing, which all failed simultane-       pension funds, and mutual fund companies with whom
+   ously. One of the bets LTCM had made was based on the             LTCM did business were at risk of being bankrupted them-
+   belief that interest rate spreads would shrink. Following the     selves.
+   Russian government bond default on August 17, 1998, finan-            In short, while one person’s derivatives loss is another’s
+   cial market participants’ willingness to take on risk declined    gain, the system works only if the winners can collect. In
+   dramatically, so the risk premium exploded. (Recall the dis-      this case, the Federal Reserve had no choice but to step in
+   cussion of this episode in Chapter 6.) As a result, the spread    and ensure that the financial system remained sound.
+   between corporate bonds and U.S. Treasury bonds grew in           LTCM was essentially sold to its creditors—the banks from
+   a way that had not recently occurred. LTCM lost billions.         which it had borrowed—and then closed down about a
+   While the interest rate spread did eventually shrink, so that     year later.*
+   the bets LTCM had made paid off in the long run, marking to
+   market drove the fund bankrupt.                                  *For a detailed history of the rise and fall of Long-Term Capital
+       The really scary part of this episode was that many          Management, see Roger Lowenstein, When Genius Failed (New
+   of the transactions LTCM had engaged in involved                 York: Random House, 2000).
+
+
+
+
+                           buyer to own a bond or mortgage without bearing its default risk. We will see that
+                           CDS played an important role in the financial crisis of 2007–2009 and were also a fac-
+                           tor in the euro-area crisis that began in 2010.
+
+                           Interest Rate Swaps
+                           Government debt managers—the people at the U.S. Treasury who decide when and
+                           how to issue U.S. Treasury bonds, notes, and bills—do their best to keep public bor-
+                           rowing costs as low as possible. That means (a) selling bonds at the lowest interest
+                           rates possible and (b) ensuring that government revenues will be available when
+                           payments must be made. Because of the structure of financial markets, keeping
+                           interest costs low usually is not a problem. Demand for long-term government bonds
+                           is high. (They are used as collateral in many financial transactions.) Thus, govern-
+                           ment debt managers can sell them at relatively high prices. Selling long-term debt
+                           also limits rollover risk if future investors come to doubt the government’s willing-
+                           ness or ability to repay.
+
+
+===== PDF 264 | 印刷页 229 =====
+
+                                                                                                                    Swaps l   229
+
+
+
+    Managing government revenues is more of a challenge. Revenues tend to rise
+d­ uring economic booms and fall during recessions. Even if tax revenues fall, the
+ government must still make its bond payments. Short-term interest rates, like tax
+ revenues, tend to move with the business cycle, rising during booms and falling
+ during recessions (see Chapter 21). Ensuring that future interest expenses
+ match future tax ­revenues might be easier if government borrowers issued short-
+ term bonds.
+    This difficulty leaves the public debt manager in a quandary. Which is more
+ important, keeping interest costs and rollover risk down by issuing long-term debt or
+ matching costs with tax revenues by issuing short-term debt? Fortunately, derivatives
+ allow government debt managers to meet both these goals using a tool called an
+ interest rate swap.
+
+Understanding Interest Rate Swaps                 Interest rate swaps are agreements
+between two counterparties to exchange periodic interest rate payments over some
+future period, based on an agreed-upon amount of principal—what’s called the
+notional principal. The term notional is used here because the principal of a swap is
+not borrowed, lent, or exchanged; it just serves as the basis for calculation of the peri-
+odic cash flows between the counterparties to the swap. In the simplest type of interest
+rate swap, one party agrees to make payments based on a fixed interest rate, and in
+exchange the counterparty agrees to make payments based on a floating interest rate.
+The effect of this agreement is to transform fixed-rate payments into floating-rate pay-
+ments and vice versa. For example, as we write in 2019, the conventional five-year
+swap rate is the rate paid for five years by the fixed-rate payer in return for receiving
+floating payments of three-month LIBOR.12
+   Figure 9.1 shows a typical interest rate swap. A bank agrees to make payments to
+a swap dealer at a fixed interest rate, say, 7 percent, in exchange for payments based
+on a floating rate determined in the market. Both payments are based on the same
+
+
+
+     Figure 9.1         An Interest Rate Swap Agreement
+
+
+
+
+                                             Pays Floating Rate
+
+                  Bank                                                                 Dealer
+
+                                         Pays 7% Fixed Rate
+          Fixed-Rate Payer                                                    Floating-Rate Payer
+
+The bank agrees to pay a fixed rate to the swap dealer in exchange for payments based on a floating rate.
+The fixed-rate payments match the bank’s loan income, while the floating-rate payments match the payments
+promised to the bank’s deposit holders.
+
+
+12
+  The London Interbank Offered Rate (LIBOR), the rate at which banks in London make short-term loans to
+each other, often serves as the floating rate. LIBOR is expected to disappear as an interest rate benchmark after
+2021. In that case, the industry will substitute a different short-term rate. (See Chapter 13 page 335.)
+
+
+===== PDF 265 | 印刷页 230 =====
+
+230 l Chapter 9  Derivatives: Futures, Options, and Swaps
+
+
+
+                      agreed-upon principal, say $100 million. That is, the notional principal on the swap
+                      is $100 million. The bank is the fixed-rate payer and the swap dealer is the float-
+                      ing-rate payer. Put slightly differently, the two parties enter into a series of for-
+                      ward agreements in which they agree today to exchange interest payments on a
+                      series of future dates for the life of the swap. As in a futures contract, no payment
+                      is made at the outset.
+                         Now let’s return to the government debt manager’s problem. Remember that the
+                      government can issue long-term debt cheaply but its revenues tend to fluctuate with
+                      the short-term interest rate, going up when short-term interest rates rise and down
+                      when they fall. The solution is to sell long-term bonds and then enter into an interest
+                      rate swap. The government becomes the floating-rate payer for the term of the
+                      bonds.
+
+                      Pricing and Using Interest Rate Swaps                     Pricing interest rate swaps means
+                      figuring out the fixed interest rate to be paid. To do so, financial firms begin by noting
+                      the market interest rate on a U.S. Treasury bond of the same maturity as the swap,
+                      called the benchmark. The rate to be paid by the fixed-rate payer, called the swap rate,
+                      will be the benchmark rate plus a premium. The difference between the benchmark rate
+                      and the swap rate, called the swap spread, is a measure of risk: For example, the spread
+                      of the 10-year swap rate over the 10-year Treasury bond yield averaged about ¼ per-
+                      centage point during the 10 years through 2015. In recent years, the swap spread has
+                      attracted substantial attention as a measure of systematic risk, or overall risk in the
+                      economy (see Chapter 5). When it widens, it signals that general economic conditions
+                      are deteriorating.13
+                           Interest rate swaps are just one example of the exchange of future payoffs. I­ nvestors
+                      engage in a wide variety of swaps involving foreign exchange and equities, though
+                      ­interest rate swaps are the most important. By one estimate, by mid-2018, the notional
+                       value of interest rate swaps worldwide was $350 trillion––more than 13 times the total
+                       of foreign currency swaps at the time.14
+                           Who uses all these interest rate swaps? Two groups have a comparative advantage
+                       in issuing bonds of a particular maturity. The first group is government debt manag-
+                       ers, who find long-term fixed-rate bonds cheaper to issue but prefer short-term
+                       ­variable-rate obligations for matching revenues with expenses. The second group
+                        uses interest rate swaps to reduce the risk generated by commercial activities. The
+                        prime example is a bank that obtains funds by offering interest-bearing checking
+                        accounts but makes mortgage loans at a fixed rate. In essence, the bank is issuing
+                        short-term variable-rate bonds (the checking accounts) and buying long-term fixed-
+                        rate bonds (the mortgages) with the borrowed funds. The problem is, changes in the
+                        slope of the yield curve create risk. That is, the revenue from the mortgages may fall
+                        short of the payments due on the checking accounts. Swaps insure the bank against
+                        such a shortfall.
+                           In thinking about the size and importance of particular interest rate swaps, we need
+                        to keep several points in mind. The first is that the primary risk in a swap is the risk that
+                        one of the parties will default. Aside from a major financial crisis, that risk is not very
+
+                      13
+                         However, the information content of swap spreads can change for a variety of reasons. For example, when they
+                      turned negative in late 2015, the likely cause was an increase in bank capital requirements that made certain
+                      types of trading more costly. For a detailed description, see Nina Boyarchenko, Pooja Gupta, Nick Steele, and
+                      Jacqueline Yen, “Negative Swap Spreads,” Economic Policy Review of the Federal Reserve Bank of New York
+                      25, no. 20 (October 2018).
+                      14
+                         Data on interest rate swaps are collected and regularly published by the Bank for International Settlements
+                      in Basel, Switzerland. For recent information, see its website, www.bis.org.
+
+
+===== PDF 266 | 印刷页 231 =====
+
+                                                                                                                             Swaps l        231
+
+
+
+
+                       The VIX: The Thing to Fear Is the Lack of Fear Itself
+                       MONEY AND BANKING BLOG
+
+
+  The VIX (https://fred.stlouisfed.org/series/VIXCLS) has been       they add to the riskiness of their portfolios. They can do
+  called the fear index. It is a measure of the uncertainty and      this in various ways, including by raising leverage, extend-
+  risk that investors see over the near future (specifically, the    ing maturity transformation, and purchasing assets with a
+  next 30 days). Constructed from options on S&P 500 In-             higher probability of default.
+  dex futures, the VIX is technically a gauge of what is                 When volatility suddenly rises—as it did in the finan-
+  called implied volatility.*                                        cial crisis—these intermediaries try to “de-risk” their port-
+       The technicalities are not all that important, as the VIX     folios. That means reducing leverage, reducing maturity
+  and similar options-based measures of implied volatility           transformation, and selling high-risk assets. Importantly, if
+  track financial conditions pretty well. When implied vola-         everyone does this at the same time, as often happens
+  tility is low, stock market liquidity and valuations are usu-      when volatility jumps, their actions can trigger a “fire
+  ally high; when implied volatility is high, stock trading is       sale,” pushing down prices and reducing capital in the fi-
+  more difficult and valuations suffer.                              nancial system. This procyclical behavior amplifies the
+       But why, then, do people worry when the VIX stays low         stock market boom–bust cycle and is very destabilizing.
+  for a long time? The concern is that unusually low volatility          Reflecting the experience of the financial crisis, both
+  breeds risk. The logic goes like this: When implied volatility     investors and policymakers now associate periods of very
+  is high, investors are cautious because there is a great deal of   low volatility with a destabilizing reach for yield. For ex-
+  uncertainty about the future. Conversely, when implied vol-        ample, in her June 2014 press conference, Federal Reserve
+  atility is low, investors are confident that the likelihood of     Chair Janet Yellen linked them directly: “to the extent that
+  big moves in asset prices is low. Being more confident, in-        low levels of volatility may induce risk-taking behavior
+  vestors are willing to take greater risk—to pay a higher price     that, for example, entails [an] excessive buildup in leverage
+  for small expected gains—because they see little downside.         or maturity extension, things that can pose risk to financial
+  We call that kind of risk taking “reaching for yield.”             stability later on, that is a concern.”
+       Put differently, low volatility causes complacency.               Central banks don’t claim to know when the level of
+  When investors underestimate market risks, the prices of           volatility is “just right.” Indeed, no particular level of ex-
+  risky assets rise to levels that are unwarranted by funda-         pected volatility will always be optimal. But monetary pol-
+  mentals. Lofty asset prices can plummet when events                icymakers do know that keeping interest rates low for a
+  prompt investors to reassess risk. When that happens, both         long time tends to stimulate the economy at least partly
+  actual and expected volatility typically surge, causing in-        because it depresses expected volatility and encourages in-
+  vestors to become cautious in unison.                              vestors to take risks.
+       During 2005 and 2006, before the financial crisis, the            A crucial question for policymakers and investors alike
+  VIX fluctuated in a narrow range somewhat above 10, but            is, when do policies to suppress volatility go too far? That
+  it remained low—well below the 20-year average of 19.8.            is, when does the resulting risk of financial instability start
+  In October 2008, however, at the peak of the crisis, it            to outweigh the potential gain from boosting output? The
+  jumped to a record above 80!                                       VIX can’t answer that question, but it is a useful warning
+       To see how the low, precrisis level of implied volatility     about complacency.
+  might have made the financial system vulnerable, consider
+  the following example: suppose that financial institutions         *
+                                                                      Option-pricing models (like the classic Black-Scholes model)
+  target a certain level of risk in their portfolio of assets.       deliver a measure of future expected risk—called implied volatility
+  Measures of portfolio risk—like the widely used “value at          because it is implied by the model—calculated from the risk-free
+                                                                     interest rate, the price of the underlying asset, and the key attributes
+  risk” (VaR) gauge—are positively related to volatility.            of the option, namely, its market price, strike price, and maturity.
+  Consequently, when intermediaries expect volatility to be          The model-implied volatility is the expected annualized standard
+  unusually low, maintaining the targeted VaR requires that          deviation of the price of the underlying asset.
+
+
+
+high because the other side can enter into another agreement to replace the one that
+failed. (The case of Long-Term Capital Management, described in A      ­ pplying the
+­Concept on page 228, is a ­notable exception when widespread default became a real
+possibility.) S
+              ­ econd, unlike futures and options, swaps are not traded on organized
+
+
+===== PDF 267 | 印刷页 232 =====
+
+232   l Chapter 9  Derivatives: Futures, Options, and Swaps
+
+
+
+                        exchanges; they are bilateral agreements between two financial intermediaries. For var-
+                        ious reasons, a bank that enters into a swap agreement with another bank may not want
+                        to make the same kind of arrangement with a pension fund. Thus, swaps are very diffi-
+                        cult to resell.
+
+                        Credit Default Swaps
+                        On September 16, 2008, the Federal Reserve Bank of New York, part of the U.S. ­central
+                        bank, made an extraordinary $85 billion loan to American International Group (AIG).
+                        AIG, the largest insurance company in the world, was on the verge of collapse because
+                        it had sold several hundred billion dollars’ worth of credit default swaps (CDS).
+                            A CDS is a credit derivative that allows lenders to insure themselves against the risk that
+                        a borrower will default. The buyer of a CDS makes payments—like insurance premiums—
+                        to the seller, and the seller agrees to pay the buyer if an underlying loan or security defaults.
+                        The CDS buyer pays a fee to transfer the risk of default—the credit risk—to the CDS seller.
+                            Using CDS, a lender can make a loan without facing the possibility of default. By
+                        combining a loan with a CDS to insure against default, a lender who is good at identi-
+                        fying attractive loan opportunities and collecting the loan payments can function effi-
+                        ciently, while letting someone else worry about the default risk. This division of labor
+                        can improve resource allocation.
+                            A CDS agreement often lasts several years and requires that collateral be posted to
+                        protect against the inability to pay of either the seller or the buyer of the insurance. For
+                        example, the seller provides collateral to ensure that the buyer will be paid in the event
+                        that the underlying loan or security defaults and the seller is unable to pay. The collat-
+                        eral for a CDS varies with the credit rating of the seller and buyer.
+                            The market for CDS expanded astronomically in the years before the financial crisis
+                        of 2007–2009 but then shrank rapidly. The volume of CDS (based on the initial value
+                        of the underlying assets), which was about $6 trillion at the end of 2004, soared to
+                        $58 trillion at the end of 2007 before plunging to $33 trillion two years later. By mid-
+                        2018, it had fallen below $8.5 trillion.
+                            CDS contributed to the financial crisis in three important ways: (1) fostering uncer-
+                        tainty about who bears the credit risk on a given loan or security, (2) making the lead-
+                        ing CDS sellers mutually vulnerable, and (3) making it easier for sellers of insurance
+                        to assume and conceal risk.
+                            Financial institutions do not report the amount of their CDS purchases and sales, so
+                        their depositors or investors do not know how much risk they bear. This loss of trans­
+                        parency makes the financial system more vulnerable to a shock that threatens trust in
+                        counterparties.
+                            Because CDS contracts are traded over the counter (OTC), even traders cannot
+                        identify others who take on concentrated positions on one side of a trade. As a result,
+                        CDS dealers—typically the largest financial institutions—are collectively exposed to a
+                        failure by any weak dealer, much like a train can go off the tracks when one flimsy car
+                        derails. When you read the phrase “too interconnected to fail” in the financial news,
+                        think of the mutual—but hidden—vulnerabilities of the large CDS vendors. So long as
+                        CDS trading lacks transparency, the lingering worry is that a failure of one institution
+                        could bring down the financial system as a whole (see Lessons from the Crisis: Central
+                        Counterparties and Systemic Risk on page 217).
+                            As noted earlier, derivatives used properly can improve the allocation of risk
+                        and foster healthy risk taking. It follows that undermining the credibility of deriva-
+                        tive contracts can have a damaging impact. The euro-area crisis that began in
+
+
+===== PDF 268 | 印刷页 233 =====
+
+                                                                                            Chapter Lessons l               233
+
+
+
+­ eptember 2010 presents a notable example. Having observed the U.S. crisis, euro-
+S
+area policymakers feared that a chaotic default on Greek sovereign debt would lead
+to a catastrophic ­financial disruption. Consequently, they hoped to restructure Greek
+debt without a legal “event of default” that would trigger large CDS payouts.
+   As an unintended consequence, however, their actions encouraged doubt about the
+value of CDS as insurance, making banks and others even less willing to hold the debt of
+other weak euro-area sovereigns (e.g., Ireland, Italy, Portugal, and Spain), not just Greece.
+Uncertainty encouraged banks to shrink their balance sheets, adding to downward pres-
+sure on credit supply and the economy at a delicate stage of the crisis. Eventually, Greece’s
+default prompted a CDS payout without augmenting the crisis, but doubts about CDS and
+other means of hedging (such as short selling) probably had already added to the turmoil.
+
+
+
+
+Key Terms
+American option, 220              European option, 220          margin, 215
+arbitrage, 218                    fixed-rate payer, 230         notional principal, 229
+call option, 219                  floating-rate payer, 230      put option, 220
+central counterparty              forward, 213                  strike price, 219
+   (CCP), 217                     forward contract, 213         swap, 229
+credit default swap               future, 213                   swap spread, 230
+   (CDS), 232                     futures contract, 213         time value of the
+derivatives, 212                  interest rate swap, 229          option, 223
+
+
+Using FRED: Codes for Data in This Chapter
+
+
+
+
+                                                                                                                                   www.moneyandbanking.com
+   Data Series                                                   FRED Data Code
+   5-year U.S. swap rate                                         ICERATES1100USD5Y
+   5-year U.S. Treasury yield                                    GS5
+   10-year U.S. Treasury yield                                   GS10
+   Central bank liquidity swaps held by Federal Reserve          SWPT
+   CBOE Volatility Index: VIX                                    VIXCLS
+   Wilshire 5000 price index                                     WILL5000PR
+   St. Louis Fed Financial Stress Index                          STLFSI
+
+
+
+
+Chapter Lessons
+1. Derivatives transfer risk from one person or firm to another. They can be used in
+                                                                                                To learn more about the
+   any combination to unbundle risks and resell them.                                           changing financial system, visit
+                                                                                                www.moneyandbanking.com.
+2. Futures contracts are standardized contracts for the delivery of a specified quantity
+   of a commodity or financial instrument on a prearranged future date, at an
+
+
+===== PDF 269 | 印刷页 234 =====
+
+                          234   l Chapter 9  Derivatives: Futures, Options, and Swaps
+
+
+
+                                                     a­ greed-upon price. They are a bet on the movement in the price of the underlying
+                                                      asset on which they are written, whether it is a commodity or a financial instrument.
+                                                      a. Futures contracts are used both to decrease risk, which is called hedging, and to
+                                                          increase risk, which is called speculating.
+                                                      b. The futures clearing corporation, as the counterparty to all futures contracts,
+                                                          guarantees the performance of both the buyer and the seller.
+                                                      c. Participants in the futures market must establish a margin account with the clear-
+                                                          ing corporation and make a deposit that ensures they will meet their obligations.
+                                                      d. Futures prices are marked to market daily, as if the contracts were sold and
+                                                          ­repurchased every day.
+                                                      e. Because no payment is made when a futures contract is initiated, the transac-
+                                                           tion allows an investor to create a large amount of leverage at a very low cost.
+                                                      f. The prices of futures contracts are determined by arbitrage within the market for
+                                                           immediate delivery of the underlying asset.
+                                                  3. Options give the buyer (option holder) a right and the seller (option writer) an obli-
+                                                     gation to buy or sell an underlying asset at a predetermined price on or before a
+                                                     fixed future date.
+                                                     a. A call option gives the holder the right to buy the underlying asset.
+                                                     b. A put option gives the holder the right to sell the underlying asset.
+                                                     c. Options can be used both to reduce risk through hedging and to speculate.
+www.moneyandbanking.com
+
+
+
+
+                                                     d. The option price equals the sum of its intrinsic value, which is the value if the
+                                                        option is exercised, plus the time value of the option.
+                                                     e. The intrinsic value depends on the strike price of the option and the price of the
+                                                        underlying asset on which the option is written.
+                                                     f. The time value of the option depends on the time to expiration and the volatility
+                                                        in the price of the underlying asset.
+                                                  4. Interest rate swaps are agreements between two parties to exchange a fixed for a
+                                                     variable interest rate payment over a future period.
+                                                     a. The fixed rate payer in a swap typically pays the U.S. Treasury bond rate plus a risk
+                                                        premium.
+                                                     b. The flexible-rate payer in a swap normally pays the London Interbank Offered
+                                                        Rate (LIBOR).
+                                                     c. Interest rate swaps are useful when a government, firm, or investment company
+                                                        can borrow more cheaply at one maturity but would prefer to borrow at a differ-
+                                                        ent maturity.
+                                                     d. Swaps can be based on an agreed-upon exchange of any two future sequences of
+                                                        payments.
+                                                  5. Credit default swaps (CDS) are a form of insurance in which the buyer of the insur-
+                                                     ance makes payments (like insurance premiums) to the seller, who in turn agrees to
+                                                     pay the buyer if an underlying loan or security defaults.
+                                                     a. A CDS agreement often lasts several years and requires that collateral be posted
+                                                        to protect against the inability to pay of the seller or the buyer of insurance.
+                                                     b. If financial institutions do not report CDS sales and purchases, it is not clear who
+                                                        bears credit risk on a given loan or security.
+                                                     c. When CDS are traded over the counter, even traders cannot identify others who
+                                                        take on concentrated risks on one side of a trade.
+                                                  6. Derivatives allow firms to arbitrarily divide up and rename risks and future
+                                                     ­payments, rendering their actual names irrelevant.
+
+
+===== PDF 270 | 印刷页 235 =====
+
+                                                                      Conceptual and Analytical Problems l   235
+
+
+
+Conceptual and Analytical Problems                                                       ®
+
+
+
+
+ 1.    An agreement to lease a car can be thought of as a set of derivative contracts.
+       Describe them. (LO2)
+ 2.    How is entering into a forward contract similar to barter? Can you think of costs
+       associated with forward contracts that are minimized or eliminated with futures
+       contracts? (LO2)
+ 3.    The E-mini S&P 500 futures contract is one-fifth the size of the standard futures
+       contract and can be traded on the 24-hour CME ­Globex electronic trading sys-
+       tem. What might be some of the advantages of a futures contract with these
+       properties? (LO1)
+ 4.    A hedger buys a futures contract, taking a long position in the wheat futures
+       market. What are the hedger’s obligations under this contract? Describe the risk
+       that is hedged in this transaction, and give an example of someone who might
+       enter into such an arrangement. (LO1)
+ 5.    A futures contract based on a payment of $250 times the S&P 500 Index is traded
+       on the Chicago Mercantile Exchange. At an index level of 1,000 or more, the
+       contract calls for a payment of over $250,000. It is settled by a cash payment
+
+
+
+
+                                                                                                                   www.moneyandbanking.com
+       between the buyer and the seller. Who are the hedgers and who are the specula-
+       tors in the S&P 500 futures market? (LO1)
+ 6.    Explain why trading derivatives on centralized exchanges rather than in over-the-
+       counter markets helps reduce systemic risk. Can you think of a way in which
+       more trading on centralized exchanges might increase risk? (LO1)
+ 7.     What are the risks and rewards of writing and buying options? Are there any
+       c­ircumstances under which you would get involved? Why or why not?
+        (Hint: Think of a case in which you own shares of the stock on which you are
+        considering writing a call.) (LO3)
+ 8.    Suppose XYZ Corporation’s stock price rises or falls with equal probability by
+       $30 each month, starting where it ended the previous month. What is the value
+       of a three-month at-the-money European call option on XYZ’s stock if the stock
+       is priced at $100 when the option is purchased? (LO3)
+ 	9.* Why might a borrower who wishes to make fixed interest rate payments and who
+      has access to both fixed- and floating-rate loans still benefit from becoming a
+      party to a fixed-for-floating interest rate swap? (LO4)
+10.    Concerned about possible disruptions of the supply of oil from the Middle East,
+       the chief financial officer (CFO) of American Airlines would like to hedge the
+       risk of an increase in the price of jet fuel. What tools could the CFO use to hedge
+       this risk? (LO3)
+11.* How does the existence of derivatives markets enhance an economy’s ability to
+     grow? (LO1)
+12.    Credit default swaps provide a means to insure against default risk and require
+       the posting of collateral by buyers and sellers. Explain how these “safe-sounding”
+       derivative products contributed to the 2007–2009 financial crisis. (LO4)
+
+*Indicates more difficult problems.
+
+
+===== PDF 271 | 印刷页 236 =====
+
+                          236 l Chapter 9  Derivatives: Futures, Options, and Swaps
+
+
+
+                                                      13.     What kind of an option should you purchase if you anticipate selling $1
+                                                              million of Treasury bonds in one year’s time and wish to hedge against the
+                                                              risk of interest rates rising? (LO3)
+                                                      14.     You sell a bond futures contract and, one day later, the clearinghouse
+                                                              informs you that it had credited funds to your margin account. What hap-
+                                                              pened to interest rates over that day? (LO2)
+                                                      15.     You are completely convinced that the price of copper is going to rise sig-
+                                                              nificantly over the next year and want to take as large a position as you can
+                                                              in the market but have limited funds. How could you use the futures mar-
+                                                              ket to leverage your position? (LO2)
+                                                      16.     Suppose copper is selling at $3 a pound and the margin requirement for a
+                                                              futures contract for 25,000 pounds of copper is $8,000. (LO2)
+                                                              a. Calculate your return if you purchase one copper futures contract and
+                                                                 copper prices rise to $3.10 a pound.
+                                                              b. How does this compare with the return you would have made if you had
+                                                                 simply purchased $8,000 worth of copper and sold it a year later?
+                                                              c. Compare the risk involved in each of these strategies.
+                                                      17.     Suppose you were the manager of a bank that raised most of its funds from
+                                                              short-term variable-rate deposits and used these funds to make fixed-rate
+www.moneyandbanking.com
+
+
+
+
+                                                              mortgage loans. Should you be more concerned about rises or falls in
+                                                              short-term interest rates? How could you use interest rate swaps to hedge
+                                                              against the interest rate risk you face? (LO4)
+                                                      18.* The following table shows the interest rates on the fixed and floating bor-
+                                                           rowing choices available to three firms. Firms A and B want to be exposed
+                                                           to a floating interest rate while Firm C would prefer to pay a fixed interest
+                                                           rate. Which pair(s) of firms (if any) should borrow in the market they do
+                                                           not want and then enter into a fixed-for-floating interest rate swap? (LO4)
+
+
+                                                                                                   Fixed Rate                                     Floating Rate
+
+                                                            Firm A                                       7%                                    LIBOR + 50 bps
+                                                            Firm B                                      12%                                    LIBOR + 150 bps
+                                                            Firm C                                      10%                                    LIBOR + 150 bps
+
+
+                                                      NOTE: LIBOR, which stands for London Interbank Offered Rate, is a floating interest rate that serves as a reference
+                                                      rate. It is expected to be replaced after 2021.
+
+
+                                                      19.     Suppose, prior to the European financial crisis, you were considering
+                                                              investing in Greek Government bonds but had some concerns about the
+                                                              creditworthiness of the Greek Government. Why, despite your concerns,
+                                                              might you still make such an investment? (LO1, LO4)
+                                                      20.     You and a colleague both follow the movements of the VIX, an index
+                                                              based on options prices that reflects investors’ expectations for stock mar-
+                                                              ket volatility. Suppose, according to the VIX, implied volatility is expected
+                                                              to be low for a protracted period. Your colleague sees this as unambigu-
+                                                              ously good news. Why might you disagree? (LO3)
+                                                      *Indicates more difficult problems.
+
+
+===== PDF 272 | 印刷页 237 =====
+
+                                                                                          Data Exploration   l 237
+
+
+
+Data Exploration                                      ®
+
+
+
+
+For detailed instructions on using Federal Reserve Economic Data (FRED) online to
+answer each of the following problems, visit www.mhhe.com/moneyandbanking6e
+and refer to FRED Resources and Data Exploration Hints.
+1. Central banks occasionally engage in “liquidity swaps” with each other. Plot and
+   interpret the Fed’s provision of dollar liquidity swaps (FRED code: SWPT) to other
+   central banks since 2007. To facilitate your interpretation, view the FRED “Notes”
+   about this data series. (LO4)
+2. Define the five-year swap rate and then plot it (FRED code:
+   ICERATES1100USD5Y). Describe how and when parties might use the swap
+   rate. (LO4)
+3. Risk-averse investors care greatly about asset price volatility. Using the FRED
+   “Notes” about the data series, briefly define the VIX Volatility Index (FRED code:
+   VIXCLS) of the Chicago Board Options Exchange (CBOE). Plot monthly since
+   2004 the VIX and the percent change from a year ago of the Wilshire 5000 stock
+   market index (FRED code: WILL5000PR). Interpret the graph. (LO3)
+4. Is the VIX volatility index (FRED code: VIXCLS) an indicator of broader financial mar-
+
+
+
+
+                                                                                                                     www.moneyandbanking.com
+   ket volatility? Using weekly data ending on Fridays, plot from 1994 the VIX, with its
+   scale on the left axis, and the St. Louis Federal Reserve Bank index of financial stress
+   (FRED code: STLFSI), with its scale on the right axis. Describe the financial
+   stress index and comment on how closely related it is to the VIX. (LO3)

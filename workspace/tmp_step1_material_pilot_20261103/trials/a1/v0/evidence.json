@@ -1,0 +1,296 @@
+{
+  "unit": "A1第3章",
+  "full_read_pdf_pages": [
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72
+  ],
+  "additional_read_pdf_pages": [
+    23,
+    24,
+    141
+  ],
+  "claims": [
+    {
+      "id": "A1-01",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        50,
+        51,
+        52
+      ],
+      "printed_pages": "29–31",
+      "section": "3.1.1",
+      "attribution": "原文明确结论",
+      "claim": "操作目标与最终目标区分；本轮仅作定位，不生成独立节点。",
+      "visual_inspection_pages": [],
+      "inspection_files": []
+    },
+    {
+      "id": "A1-02",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        52,
+        53,
+        54,
+        55
+      ],
+      "printed_pages": "31–34",
+      "section": "3.1.2",
+      "attribution": "原文明确结论",
+      "claim": "自然利率套利逻辑、预期条件与名义下限；本章承认两时点图不足以完整指定动态。",
+      "visual_inspection_pages": [],
+      "inspection_files": []
+    },
+    {
+      "id": "A1-03",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        55,
+        56,
+        57,
+        58
+      ],
+      "printed_pages": "34–37",
+      "section": "3.1.3",
+      "attribution": "原文明确结论",
+      "claim": "四种实际回报、融资利差与数量约束，使简单政策基准复杂化。",
+      "visual_inspection_pages": [
+        56
+      ],
+      "inspection_files": [
+        "inspection/pdf-56.png"
+      ]
+    },
+    {
+      "id": "A1-04",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        61,
+        62,
+        63,
+        64
+      ],
+      "printed_pages": "40–43",
+      "section": "3.2",
+      "attribution": "原文明确结论",
+      "claim": "自主因素相对实施职能定义，净额汇总后银行存款为政策净操作减自主因素。",
+      "visual_inspection_pages": [
+        64
+      ],
+      "inspection_files": [
+        "inspection/pdf-64.png"
+      ]
+    },
+    {
+      "id": "A1-05",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        63,
+        64,
+        67
+      ],
+      "printed_pages": "42–43,46",
+      "section": "3.2–3.3",
+      "attribution": "本库口径整理",
+      "claim": "M含日终常备工具净使用，事前OMO不含。由表3.6–3.9和时序区分，不冒充同一个固定符号。",
+      "visual_inspection_pages": [
+        64
+      ],
+      "inspection_files": [
+        "inspection/pdf-64.png"
+      ]
+    },
+    {
+      "id": "A1-06",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        65,
+        66,
+        67,
+        68
+      ],
+      "printed_pages": "44–47",
+      "section": "3.3",
+      "attribution": "原文明确结论",
+      "claim": "上限、地板、对称走廊的数量关系与两端工具，共用机制解释。",
+      "visual_inspection_pages": [
+        68
+      ],
+      "inspection_files": [
+        "inspection/pdf-68.png"
+      ]
+    },
+    {
+      "id": "A1-07",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        67,
+        68
+      ],
+      "printed_pages": "46–47",
+      "section": "3.3.3",
+      "attribution": "原文明确结论",
+      "claim": "日内时序、短缺概率加权式、对称分布中点与正态形式。",
+      "visual_inspection_pages": [
+        68
+      ],
+      "inspection_files": [
+        "inspection/pdf-68.png"
+      ]
+    },
+    {
+      "id": "A1-08",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        68
+      ],
+      "printed_pages": "47",
+      "section": "3.3.3",
+      "attribution": "本库自设算例",
+      "claim": "iD=2%、iB=4%、短缺概率25%得到2.5%，50%得到3%；没有历史主体归属。",
+      "visual_inspection_pages": [
+        68
+      ],
+      "inspection_files": [
+        "inspection/pdf-68.png"
+      ]
+    },
+    {
+      "id": "A1-09",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        69,
+        70
+      ],
+      "printed_pages": "48–49",
+      "section": "3.4.1–3.4.1.4",
+      "attribution": "原文明确结论",
+      "claim": "央行抵押安排兼顾信用保护、资产充足、传导覆盖与顺周期性。",
+      "visual_inspection_pages": [],
+      "inspection_files": []
+    },
+    {
+      "id": "A1-10",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        71,
+        72
+      ],
+      "printed_pages": "50–51",
+      "section": "3.4.1.5/Table3.10",
+      "attribution": "原文明确结论",
+      "claim": "在表内假设下，L+S-D+d≤(1-h1)L+(1-h2)S，d*=D-h1L-h2S。",
+      "visual_inspection_pages": [
+        71,
+        72
+      ],
+      "inspection_files": [
+        "inspection/pdf-71.png",
+        "inspection/pdf-72.png"
+      ]
+    },
+    {
+      "id": "A1-11",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        71
+      ],
+      "printed_pages": "50",
+      "section": "3.4.1.5/Table3.10",
+      "attribution": "本库自设算例",
+      "claim": "L80/S20/D90/h1.2/h2.1，K82、d*72；h1提高至.3时K74、d*64。",
+      "visual_inspection_pages": [
+        71
+      ],
+      "inspection_files": [
+        "inspection/pdf-71.png"
+      ]
+    },
+    {
+      "id": "A1-ERR-01",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        71
+      ],
+      "printed_pages": "50",
+      "section": "3.4.1.4",
+      "attribution": "原文内部不一致，暂停采用",
+      "claim": "原页同时出现58%、正的Phi逆.01值2.33及不一致方差单位；仅记录，未静默修正。",
+      "visual_inspection_pages": [
+        71
+      ],
+      "inspection_files": [
+        "inspection/pdf-71.png"
+      ]
+    },
+    {
+      "id": "A1-ERR-02",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        66
+      ],
+      "printed_pages": "45",
+      "section": "3.3.2",
+      "attribution": "与原型日期冲突，待外部核对",
+      "claim": "书中自2005年的美国地板表述与原型2008准备金付息起点不一致，正文不采用该日期。",
+      "visual_inspection_pages": [],
+      "inspection_files": []
+    },
+    {
+      "id": "A1-VERSION",
+      "source_file": "../../../inputs/A1_中央银行导论_2021.pdf",
+      "source_sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+      "pdf_pages": [
+        50,
+        72,
+        141
+      ],
+      "printed_pages": "29,51,C1",
+      "section": "chapter front / 3.4.1.5 / correction",
+      "attribution": "版本与更正范围",
+      "claim": "本地第3章2026更正，补回可用抵押品约5万亿句子；该量未在此处给明确统计时点。",
+      "visual_inspection_pages": [
+        72,
+        141
+      ],
+      "inspection_files": [
+        "inspection/pdf-72.png",
+        "inspection/pdf-141.png"
+      ]
+    }
+  ]
+}

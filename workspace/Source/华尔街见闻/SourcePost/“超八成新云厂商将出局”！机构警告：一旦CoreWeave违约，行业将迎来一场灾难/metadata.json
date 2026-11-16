@@ -1,0 +1,104 @@
+{
+  "article_id": 3783693,
+  "selection": {
+    "article_id": 3783693,
+    "url": "https://wallstreetcn.com/articles/3783693",
+    "title": "“超八成新云厂商将出局”！机构警告：一旦CoreWeave违约，行业将迎来一场灾难",
+    "page_display_time": "2026-10-15T15:20:13+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "信用与融资结构",
+    "reading_priority": "B",
+    "reading_value": "连接新云厂商资本开支、利息负担和行业整合风险；机构淘汰率属于预测。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1840,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 42
+  },
+  "url": "https://wallstreetcn.com/articles/3783693",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783693?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:20+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/ed5ce651-0e8e-446b-a753-e5b2a1f24f2a.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "Gartner的报告为本已动荡的市场再添变量。该机构预计， 到2030年AI基础设施行业面临减值风险的资产规模将超过3.5万亿美元，并预测行业整体要到2032年底才有望达到12%的最低回报率门槛。",
+      "path": "assets/figure_001.png",
+      "sha256": "920d85b1b4e949592902c478f8c1197c84d33cbf73da2c85af0d4704c4e93da5",
+      "bytes": 564280,
+      "width": 1024,
+      "height": 591,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/ed5ce651-0e8e-446b-a753-e5b2a1f24f2a.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/11ca32d7-c025-492c-a88c-c35958914879.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "卖方机构或将Gartner的80%淘汰预测解读为行业整合的积极信号——强者吸收弱者，幸存者以折价获取GPU，AI建设大潮继续推进。",
+      "path": "assets/figure_002.png",
+      "sha256": "a3356a569775f871f96b11fa2a9afcadec8674c203cdc42caa459f29095280e3",
+      "bytes": 803251,
+      "width": 1024,
+      "height": 610,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/11ca32d7-c025-492c-a88c-c35958914879.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "“超八成新云厂商将出局”！机构警告：一旦CoreWeave违约，行业将迎来一场灾难",
+  "page_display_time": "2026-10-15T15:20:13+08:00",
+  "page_byline": "许超",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "AI算力租赁行业正经历估值重构。CoreWeave单日暴跌15.5%，五年期CDS利差飙至1117个基点，隐含违约概率高达63%；Gartner警告，2030年前逾八成新兴云厂商将无法独立存续，行业面临减值风险资产超3.5万亿美元。超支与回报之间4.9万亿美元的剪刀差，正将这场AI盛宴推向信用危机边缘。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1916,
+  "body_sha256": "e43077d9728095d5fe286af4647ada94180e032f10ad56b8a80a8811bde83315",
+  "raw_sha256": "7e45496863913fcf0282835567eb4aec41527dbfc8d91e7803b31ea226c422a1",
+  "raw_bytes": 9632,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/dd731a59-5f9a-4d5a-8ed4-14530435bbbd.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 1840,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "7e45496863913fcf0282835567eb4aec41527dbfc8d91e7803b31ea226c422a1",
+      "bytes": 9632
+    },
+    "article.html": {
+      "sha256": "9edf8b9aca13200b20e778f7b76afc3af38416e251138ca4dd659ec2add4627e",
+      "bytes": 9492
+    },
+    "article.md": {
+      "sha256": "a3db0913207ad8723d132ae25ad5cd29b1453cd33604d8452d11525bf2c69462",
+      "bytes": 5809
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:14+08:00"
+}

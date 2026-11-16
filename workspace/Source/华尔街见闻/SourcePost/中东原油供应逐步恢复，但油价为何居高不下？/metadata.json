@@ -1,0 +1,73 @@
+{
+  "article_id": 3783272,
+  "selection": {
+    "article_id": 3783272,
+    "url": "https://wallstreetcn.com/articles/3783272",
+    "title": "中东原油供应逐步恢复，但油价为何居高不下？",
+    "page_display_time": "2026-10-09T17:04:48+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "能源、商品与航运",
+    "reading_priority": "A",
+    "reading_value": "介绍包含非OECD库存的油价模型及风险溢价，解释出口恢复与高油价并存。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1398,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 95
+  },
+  "url": "https://wallstreetcn.com/articles/3783272",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783272?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:34+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "中东原油供应逐步恢复，但油价为何居高不下？",
+  "page_display_time": "2026-10-09T17:04:48+08:00",
+  "page_byline": "李佳",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "高盛认为，波斯湾原油出口虽已恢复至2025年平均水平或更高，但全球可见库存降至2017年以来近历史低位，叠加地缘政治风险溢价高企，油价仍获支撑。9月布伦特平均风险溢价达22美元/桶，为有记录以来第二高。只要供应中断担忧未消，库存偏紧与风险溢价就可能限制油价回落。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1479,
+  "body_sha256": "e9a17fac49a862084d3a602d3265bc3343b08f93fe4dc16e0e3cc37566f2dcb8",
+  "raw_sha256": "1743a681f5e4999173357c0b037fdc9b45c9a4f0cf934a54a9f186a556c1662d",
+  "raw_bytes": 7884,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/d884ddcc-a9b4-437f-84fc-6a5f616bccfd.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1398,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:37+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "1743a681f5e4999173357c0b037fdc9b45c9a4f0cf934a54a9f186a556c1662d",
+      "bytes": 7884
+    },
+    "article.html": {
+      "sha256": "837d042ccae7583dfa92905e238adb4fb2047738a6098e467bbf9796d27f0418",
+      "bytes": 7691
+    },
+    "article.md": {
+      "sha256": "cd082a2d5ce5fdd0c128250e355dfb68c186b18bbbfb20c8d15ab6f1ba77f1cd",
+      "bytes": 5062
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:24+08:00"
+}

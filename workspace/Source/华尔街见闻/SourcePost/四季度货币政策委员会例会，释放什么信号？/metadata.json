@@ -1,0 +1,78 @@
+{
+  "article_id": 3738387,
+  "selection": {
+    "article_id": 3738387,
+    "url": "https://wallstreetcn.com/articles/3738387",
+    "title": "四季度货币政策委员会例会，释放什么信号？",
+    "page_display_time": "2025-01-04T18:50:14+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "潘凌飞",
+    "page_author_url": "https://wallstreetcn.com/authors/65",
+    "page_source_label": "广发证券钟林楠",
+    "page_source_url": null,
+    "page_attribution_note": "本文作者： 钟林楠（执业证号：S0300519110001），来源：郭磊宏观茶座 (ID:gh_15a7a9ed7121)，华尔街见闻专栏作者，原文标题：《四季度货币政策委员会例会的五点增量信息》",
+    "category": "中国宏观与政策",
+    "reading_priority": "A",
+    "reading_value": "对照央行历次会议措辞，展开政策强度、工具及内外均衡的变化，含完整研报论证。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 3708,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 62
+  },
+  "url": "https://wallstreetcn.com/articles/3738387",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3738387?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:26+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "四季度货币政策委员会例会，释放什么信号？",
+  "page_display_time": "2025-01-04T18:50:14+08:00",
+  "page_byline": "潘凌飞",
+  "source_label": "广发证券钟林楠",
+  "source_url": "",
+  "subtitle": "一是再度明确“择机降准降息”，新一轮政策操作周期有望开启；二是新增“加大货币信贷投放力度”的表述，开年信贷如果放量，则二三季度经济继续企稳回升将有更大的概率；三是在稳汇率问题上表述较为明确和坚决.",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 3782,
+  "body_sha256": "d37e6c90293e31a5341c9f331b8e206cd5cbc2a71033e5a56e284664616404c4",
+  "raw_sha256": "c91c2b0ee5f163cbbbb20ec1b002767c905b455c32adf722cfe3b9271bbad2dc",
+  "raw_bytes": 16921,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/23c2a2c2-7dd5-4c56-a030-dc3ca9a5e336.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 3708,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "郭磊宏观茶座",
+      "url": "http://mp.weixin.qq.com/s?__biz=MzI1NzAwODc3Nw==&mid=2651310622&idx=1&sn=ac20695f99781174417b95fae1a61c6f&chksm=f05fa8fc19290fbc6c5896f8a9ce088f94c425775ac6f8fb14d73179235a62cbf13dd13ed98a&scene=0&xtrack=1"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:34+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "c91c2b0ee5f163cbbbb20ec1b002767c905b455c32adf722cfe3b9271bbad2dc",
+      "bytes": 16921
+    },
+    "article.html": {
+      "sha256": "6cf8a15512fc9f3870f25fb4f28aedd293abf5fa69c41fb229215e793de8a9d3",
+      "bytes": 16173
+    },
+    "article.md": {
+      "sha256": "dee5602d58e1c7909ac08a9d87e83c4592b85efd612b0bf326ede003536d7a5b",
+      "bytes": 12087
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:18+08:00"
+}

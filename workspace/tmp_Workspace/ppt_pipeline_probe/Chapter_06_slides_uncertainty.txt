@@ -1,0 +1,787 @@
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+                                             Slides for Chapter 6:
+
+                    Uncertainty and the Current Account
+
+                                                      Columbia University
+
+                                                       September 6, 2022
+
+
+
+
+These are the slides for the textbook, “International Macroeconomics: A Modern Approach,” by
+Stephanie Schmitt-Grohé, Martı́n Uribe, and Michael Woodford, Princeton University Press, 2022,
+ISBN: 9780691170640.
+
+
+
+                                                                                                                                 1
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Motivation
+
+• In the postwar period, the U.S. economy was much more volatile
+prior to the 1980s than thereafter. The relatively tranquil period
+post-1984 is called the Great Moderation.
+
+• The Great Moderation period coincided with the emergence of
+large U.S. current account deficits.
+
+• This chapter expands the open economy model of Chapter 3 to
+introduce uncertainty.
+
+• This modification allows us to understand the effect of changes
+in the aggregate level of uncertainty on consumption, saving, the
+trade balance, and the current account.
+
+
+                                                                                                                                 2
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+The Great Moderation
+
+The volatility of U.S. output declined significantly starting in the
+early 1980s. This phenomenon has become known as the Great
+Moderation.
+
+The next slide illustrates this point by showing that output growth
+has been much smoother in the post-1984 subsample than it was in
+the pre-1984 subsample.
+
+
+
+
+                                                                                                                                 3
+ Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Quarterly real per capita GDP growth in the United States: 1947Q2-2017Q4
+                                        4
+                                                   standard deviation = 1.2                      standard deviation = 0.6
+
+
+                                        3
+
+
+
+
+                                        2
+
+
+
+
+                                        1
+                             percent
+
+
+
+
+                                        0
+
+
+
+
+                                       −1
+
+
+
+
+                                       −2                                               ← 1984
+
+
+
+
+                                       −3
+                                            1950     1960          1970       1980          1990          2000          2010
+                                                                                 Year
+
+
+
+ Notes. The figure displays the growth rate of real GDP per capita in the United
+ States during the postwar period. This variable became less volatile after 1984.
+ Its standard deviation was twice as large in the pre-1984 period than thereafter,
+ 1.2 versus 0.6 percent. This phenomenon is known as the Great Moderation.
+
+                                                                                                                                                               4
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+A commonly used measure of volatility in macroeconomic data is
+the standard deviation.
+
+According to this statistic, postwar U.S. output growth became half
+as volatile after 1983.
+
+The standard deviation of quarter-to-quarter real per capita output
+growth was 1.2 percent over the period 1947Q1 to 1983Q4 and
+only 0.6 percent over the period 1984Q1 to 2017Q4.
+
+
+
+
+                                                                                                                                 5
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+                                    Causes of the Great Moderation
+
+3 explanations:
+
+good luck
+
+good policy
+
+structural change.
+
+
+
+
+                                                                                                                                 6
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+                                            The good-luck hypothesis
+
+says that by chance starting in the early 1980s the U.S. economy
+has been blessed with smaller shocks.
+
+
+
+
+                                                                                                                                 7
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 6: Uncertainty and the Current Account
+
+
+
+
+                                         The good-policy hypothesis
+
+gives credit to the government:
+
+— good monetary policy: aggressive low inflation policy started by
+the Volcker Fed and continued by the Greenspan Fed.
+
+— good regulatory policy: early 1980s regulation Q (or Reg Q) was
+abandoned. Reg Q imposed a ceiling on the interest rate that banks
+could pay on deposits. Regulation Q introduces a financial distortion
+that exacerbates with inflation. When expected inflation goes up (as
+it did in the 1970s) the real interest rate on deposits, given by the dif-
+ference between the interest rate on deposits and expected inflation,
+falls and can even become negative, inducing depositors to with-
+draw their funds from banks. As a consequence, banks are forced
+to reduce the volume of loans generating a credit-crunch-induced                     ::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+recession.
+                                                                                                                                     8
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+                                   The structural change hypothesis
+
+maintains that the Great Moderation was in part caused by structural
+change, particularly in inventory management and in the financial
+sector. These technological developments, the argument goes, al-
+lowed firms to display smoother flows of production, distribution,
+sales, employment, and inventories, thereby reducing the amplitude
+of the business cycle.
+
+We will not dwell on which of the proposed explanations of the Great
+Moderation has more merit. Our interest is in possible connections
+between the Great Moderation and the significant current account
+deterioration observed in the United States over the post-1984 pe-
+riod.
+
+
+                                                                                                                                 9
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                     Chapter 6: Uncertainty and the Current Account
+
+
+
+
+The Great Moderation and the Emergence of Current Account Imbalances
+                                       4
+
+
+                                       3            mean = 0.34                                 mean = -2.8
+
+
+                                       2
+
+
+                                       1
+
+
+                                       0
+                     Percent of GDP
+
+
+
+
+                                      −1
+
+
+                                      −2
+
+
+                                      −3
+
+
+                                      −4
+
+
+                                      −5
+
+
+                                      −6                                             ← 1984
+
+                                           1950   1960       1970         1980           1990      2000         2010
+                                                                             Year
+
+
+Notes. Current-account-to-GDP ratio in the United States from 1947Q1 to 2017Q4.
+
+
+                                                                                                                                                 10
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+During the period 1947Q1-1983Q4 the United States experienced
+on average positive current account balances of 0.34 percent of
+GDP. Starting in the early 1980s, large current account deficits
+averaging 2.8 percent of GDP opened up.
+
+The emergence of persistent current account deficits in the United
+States coincided with the beginning of the Great Moderation in
+1984.
+
+
+
+
+                                                                                                                               11
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+                                        U.S. Summary Statistics
+
+  Statistic                                                        1947Q1-1983Q4 1984Q1-2017Q4
+  Std. Dev. Output Growth                                               1.2%          0.6%
+  Average CA/GDP                                                       0.34%         -2.8%
+
+
+
+
+                                                                                                                               12
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+                     An Open Economy With Uncertainty
+
+
+
+
+                                                                                                                               13
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Motivation: Is there a causal relation linking the Great Moderation
+with the emergence of current account deficits?
+
+To address this question, we will modify the endowment economy
+of chapter 3 by assuming that the endowment in period 2, Q2, is
+uncertain.
+
+Intuition: Facing an uncertain income in period 2, households are
+likely to engage in precautionary saving in period 1. This would allow
+them to hedge against a bad income realization in period 2. Thus,
+consumption should fall in period 1. Since the period-1 endowment
+is unchanged, the trade balance must improve.
+
+Implication: If this intuition is right, the decline in income un-
+certainty observed during the Great Moderation should lead to an
+elevation in current account deficits.
+
+                                                                                                                               14
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Starting Point: An Economy without Uncertainty
+
+Assumptions
+• Endowments Q1 = Q2 = Q and Q is known with certainty.
+• The utility function is ln C1 + ln C2
+• Zero initial assets, B0 = 0, and zero interest rate, r∗ = 0.
+
+Then, the intertemporal budget constraint is C1 + C2 = 2Q. Using
+this expression to get rid of C2 in the utility function, the optimiza-
+tion problem of the household is
+                                                 max ln C1 + ln(2Q − C1)
+                                                 {C1 }
+                              1
+First order condition: C1 = 2Q−C
+                         1      1
+Solution: C1 = Q. Thus, we have T B1 = Q − C1 = 0, CA1 =
+r0B0 + T B1 = 0.
+
+Intuition: Output is perfectly smooth so consumption is also per-
+fectly smooth. No need to use the current account to smooth
+consumption over time.
+                                                                                                                               15
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Introducing Uncertainty
+Suppose now that the period-1 endowment continues to be Q, but
+that the period-2 endowment is uncertain. Specifically,
+                                                (
+                                                     Q + σ with probability 1/2
+                                   Q2 =                                         .
+                                                     Q − σ with probability 1/2
+This is a mean preserving increase in uncertainty:
+                       1          1
+                                     E(Q2 ) =
+                         (Q + σ) + (Q − σ) = Q
+                       2          2
+The parameter σ measures the degree of uncertainty:
+                                                                                     1           1
+Variance of Q2 = E(Q2−E(Q2 ))2 =                                                       (Q+σ−Q)2 + (Q−σ−Q)2 = σ 2
+                                                                                     2           2
+                                                                                         q
+                             Standard deviation of Q2 =                                      var(Q2 ) = σ
+
+
+
+                                                                                                                                            16
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Intertemporal Budget Constraints
+
+
+                          (
+                               2Q + σ − C1 with probability 1/2 (good state)
+             C2 =
+                               2Q − σ − C1 with probability 1/2 (bad state)
+
+
+
+
+                                                                                                                               17
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Expected Utility
+Assume that households care about the expected value of utility.
+
+
+
+                                                            ln C1 + E ln C2,                                               (1)
+
+
+
+
+                                                                                                                               18
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+The Household’s Maximization Problem
+
+Using the two state contingent intertemporal budget constraints
+shown in slide 17 to eliminate C2 from the lifetime utility func-
+tion (1), the household problem is to choose C1 to maximize
+
+
+                                          1                  1
+                         ln C1 +            ln(2Q + σ − C1) + ln(2Q − σ − C1).
+                                          2                  2
+
+The first-order optimality condition associated with this problem is
+
+
+                                                   "                                       #
+                                  1    1     1              1
+                                     =               +             .                                                       (2)
+                                  C1   2 2Q + σ − C1   2Q − σ − C1
+
+
+LHS: marginal utility of consumption in period 1.
+RHS: expected marginal utility of consumption in period 2.
+                                                                                                                               19
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Precautionary Saving
+Is the optimal consumption level under certainty, C1 = Q, also
+optimal under uncertainty? Let’s check this by setting C1 = Q
+in optimality condition (2)
+                                                       "                                   #
+                                   1 ? 1       1          1
+                                     =              +
+                                   Q   2 2Q + σ − Q   2Q − σ − Q
+                                                       2
+                                                           !
+                                           Q     1    Q        1
+                                     =   2   2
+                                               =     2   2
+                                                             >
+                                       Q −σ      Q Q −σ        Q
+So C1 = Q isn’t the solution, as it makes the LHS of (2) less than
+the RHS. Since the LHS is decreasing in C1 and the RHS increasing
+in C1, we have that the optimal C1 satisfies
+
+                                                                     C1 < Q
+We conclude that a mean-preserving increase in uncertainty induces
+a fall in consumption and an increase in saving. This increase in
+saving is called precautionary saving.
+
+                                                                                                                               20
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Uncertainty, the Trade Balance, and the Current Account
+An increase in uncertainty causes an improvement in the trade bal-
+ance and the current account:
+
+                                                        T B1 = Q − C1 > 0.
+
+                                                   CA1 = r0B0 + T B1 > 0
+(since B0 is assumed to be 0.) Recalling that under certainty
+T B1 = CA1 = 0, we have that a mean-preserving increase in uncer-
+tainty leads to an improvement in the trade balance and the current
+account. Similarly, a fall in uncertainty causes a deterioration in the
+trade balance and the current account.
+
+Viewed through the lens of this model, the reduction in output
+volatility that came with the Great Moderation should have con-
+tributed to the observed concurrent deterioration of the U.S. current
+account.
+
+                                                                                                                               21
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Incomplete Asset Markets
+
+In period 1, bond holding is given by
+
+                                                               B1 = Q − C1
+
+
+If σ increases, C1 falls, so B1 increases.
+
+So, an increase in uncertainty raises the country’s net foreign asset
+position.
+
+Notice that B1 is a bond that pays the same return in period 2—
+namely 1 + r∗—regardless of the state of nature in period 2. Thus,
+the household cannot buy a portfolio of assets with desired state-
+contingent payments in period 2—such as one that pays more in the
+low-endowment state and less in the high-endowment state.
+
+For this reason, we say that the present model has incomplete asset
+markets.
+                                                                                                                               22
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+                                       Complete Asset Markets
+                                       and the Current Account
+
+
+
+
+                                                                                                                               23
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Introduction
+• In the economy studied thus far households face uninsurable in-
+come risk. This is because the only financial instrument available to
+them (B1 = Q − C1) is one whose period-2 payoff (B1) is the same
+in the good and bad state.
+
+• Households would like to buy a portfolio of assets that pays more
+in the state in which the endowment is low than in the state in which
+the endowment is high.
+
+• Here, we introduce such possibility by assuming the existence of
+state-contingent claims.
+
+• In this environment, households do not need to rely on precau-
+tionary saving to cover themselves against the occurrence of the
+low-endowment state.
+
+                                                                                                                               24
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+State Contingent Claims
+
+Suppose that in period 1 there exist the following two assets, known
+as state contingent claims:
+
+• One asset pays 1 unit of goods in the good state of period 2 and
+0 in the bad state. Its price is P g .
+
+• The other asset pays 1 unit in the bad state and 0 in the good
+state. Its price is P b.
+
+• This economy is said to have complete asset markets because
+households can buy asset portfolios with any payoff pattern across
+states in period 2:
+–If the household wishes to have a portfolio that pays x units of
+goods in the good state and y units in the bad state, then, in period
+1, it must simply purchase x units of the asset that pays in the
+good state and y units of the asset that pays in the bad state. This
+portfolio costs P g x + P by. This was not possible in the economy
+with a single bond studied earlier in this chapter.
+                                                                                                                               25
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Redundancy of Additional Assets
+The 2 state contingent claims allow us to replicate any conceivable
+asset.
+
+Example: A Risk-Free Bond
+A risk-free bond is an asset that costs one unit of good in period 1
+and pays 1 + r1 units of good in every state of period 2, where r1
+is the risk-free interest rate. Consider now constructing a portfolio
+of contingent claims that has the same payoff as the risk-free bond,
+that is, a portfolio that pays 1 + r1 in every state of period 2. This
+portfolio must contain 1 + r1 units of each of the two contingent
+claims. The price of this portfolio in period 1 is (P g + P b )(1 + r1).
+This price must equal the price of the risk free bond, namely 1,
+otherwise a pure arbitrage opportunity would allow agents to become
+infinitely rich. So we have that
+                                      1
+                         1 + r1 = g         .
+                                   P + Pb
+Thus, the gross risk-free interest rate is the inverse of the price of
+a portfolio that pays one unit of good in every state of period 2.
+                                                                                                                               26
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”         Chapter 6: Uncertainty and the Current Account
+
+
+
+
+The Household’s Budget Constraints
+
+The budget constraint in period 1 is
+
+                                                  C1 + P g B g + P bB b = Q,                                                     (3)
+where B g and B b are the quantities of state contingent claims pur-
+chased in period 1.
+
+In period 2, there is one budget constraint for each state
+                                                                          g
+                                      good state:                     C2 = Q + σ + B g                                           (4)
+                                        bad state:                     C2b = Q − σ + B b                                         (5)
+
+
+
+
+                                                                                                                                     27
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+The Household’s Optimization Problem
+                                               g
+Use these budget constraints to eliminate C1, C2, and C2b from the
+expected utility function ln C1 + E ln C2.
+
+The household’s problem is then to choose B g and B b to maximize
+                           1                   1
+         ln(Q − P g B g − P bB b ) +
+                             ln(Q + σ + B g ) + ln(Q − σ + B b ).
+                           2                   2
+The associated optimality conditions are:
+                                                              1    1 1 1
+                                                                 = g    g                                                  (6)
+                                                              C1  P 2 C2
+and
+                                                              1    1 1 1
+                                                                 = b    b
+                                                                          .                                                (7)
+                                                              C1  P 2 C2
+
+
+Note: 2 optimality conditions, 1 per state. Compare with the
+incomplete market economy with just one risk-free bond, where we
+only have 1 such optimality condition (1 Euler equation).
+                                                                                                                               28
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Free International Capital Mobility
+
+In this case, the prices of state contingent claims must be the same
+domestically and abroad:
+
+                                                                  P g = P g∗
+and
+                                                                  P b = P b∗.
+Thus, the world interest rate, 1 + r∗, must satisfy
+                                                                                1
+                                                       1 + r∗ =              g∗   b∗
+                                                                                     .
+                                                                            P +P
+
+As we did in the one-bond economy we assume that
+
+                                                                     r∗ = 0.
+
+
+                                                                                                                                   29
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Assumption: Foreign Investors Make 0 Expected Profits
+The revenue in period 1 of a foreign investor who sells B g and B b
+units of state contingent claims is
+
+                                                            P g∗B g + P b∗B b
+If this amount was invested in a risk-free bond, in period 2 it pays
+
+                                                 (1 + r∗)(P g∗B g + P b∗B b)
+in both states. But foreign investor must pay B g if the state is good
+and B b if the state is bad:
+
+                payoff in good state: (1 + r∗)(P g∗B g + P b∗B b ) − B g
+                   payoff in bad state: (1 + r∗)(P g∗B g + P b∗B b ) − B b
+                                                      1 B g − 1 B b = 0, or,
+So, expected profits is (1 + r∗)(P g∗B g + P b∗B b) − 2       2
+rearranging and recalling the assumption that r = 0,∗
+
+(P g∗ − 1/2)B g + (P b∗ − 1/2)B b = 0.
+Since B g and B b are arbitrary, we have that
+                              Pg = Pb = 21
+
+                                                                                                                               30
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Equilibrium
+
+Using the result that P g = P b = 1/2, to replace P g and P b in the
+household’s optimality conditions (6) and (7), we obtain
+                                                                             g
+                                                            C1 = C2 = C2b .
+Thus, complete asset markets allows households to completely smooth
+consumption across time and states of nature.
+
+
+
+
+                                                                                                                               31
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Equilibrium (cont.)
+                                  g
+Combine the result that C1 = C2 = C2b with the budget con-
+straints (3), (4), and (5) to get
+                                                     B g = −σ,
+                                                     B b = σ,
+                                                             g
+                                                     C1 = C2 = C2b = Q.
+Thus, the household takes a short position in contingent claims that
+pay in the good state and a long position in claims that pay in the
+bad state.
+The trade balance and current account are
+                                               T B1 = Q − C1 = 0
+                                               CA1 = r0B0 + T B1 = 0.
+Thus, under complete financial markets precautionary saving is zero
+and the link between the level of uncertainty and the current account
+disappears.
+Note that the net asset position is nil (B g + B b = 0), but gross
+positions (B g = −σ and B b = σ) increase with uncertainty.
+                                                                                                                               32
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 6: Uncertainty and the Current Account
+
+
+
+
+Summing Up
+
+• Great Moderation (1984-): lower output growth volatility. Three
+main explanations: good luck, good policy, and structural change.
+
+• The Great Moderation coincided with the beginning of sizable U.S.
+current account deficits.
+
+• A model of an open economy with uncertain future endowments
+predicts that an increase in uncertainty causes an increase in pre-
+cautionary saving and improvements in the trade balance and the
+current account.
+
+• Under complete markets the positive relationship between the level
+of uncertainty and the current account disappears.
+
+
+                                                                                                                               33
+

@@ -1,0 +1,1760 @@
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Slides for Chapter 9: The Real Exchange Rate and
+              Purchasing Power Parity
+
+                                                      Columbia University
+
+                                                       September 6, 2022
+
+
+
+
+These are the slides for the textbook, “International Macroeconomics: A Modern Approach,” by
+Stephanie Schmitt-Grohé, Martı́n Uribe, and Michael Woodford, Princeton University Press, 2022,
+ISBN: 9780691170640.
+
+
+
+
+                                                                                                                                                1
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Introduction
+
+You might have noticed that sometimes Europe seems much cheaper
+than the United States and sometimes it is the other way around.
+The real exchange rate measures how expensive a foreign country
+is relative to the home country.
+The real exchange rate tracks the evolution over time of the price of
+a represenative basket of goods abroad in terms of baskets of goods
+at home.
+When the price of a basket of goods abroad is the same as the price
+of a basket of goods at home. we say that purchasing power parity
+holds.
+
+Two important empirical questions:
+• how large and persistent are deviations from purchasing power
+parity?
+• what factors determine deviations from purchasing power parity?
+
+This chapter is devoted to studying these and other related ques-
+tions.
+                                                                                                                                                2
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+                                           The Law of One Price
+
+
+
+
+                                                                                                                                                3
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+When a good costs the same abroad and at home, we say that the
+law of one price (LOOP) holds.
+
+Formally, the LOOP holds for a given good if
+
+                                                                  P = EP ∗,
+where
+P = domestic-currency price of a particular good in the domestic
+country,
+P ∗ = foreign-currency price of the same good in the foreign country,
+and
+E = the nominal exchange rate (domestic-currency price of one unit
+of foreign currency).
+
+
+
+                                                                                                                                                4
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Should the LOOP hold?
+
+In a frictionless world, yes. If a can of coke costs 2 dollars in the US
+and 5 dollars in Guatemala, you could become infinitely rich buying
+cans of coke in the US and selling them in Guatemala.
+
+Reasons why the LOOP may not hold: International trans-
+portation costs, distribution costs (loading and unloading, domestic
+transportation, storage, advertising, and retail services).
+
+Type of goods for which the LOOP holds pretty well: com-
+modities (e.g., gold, oil, soy beans, wheat), luxury consumer goods
+(e.g., Rolex watches, Hermes neckties, and Montblanc fountain
+pens).
+
+Type of goods for which the LOOP doesn’t hold well: personal
+services (e.g., health care, education, restaurant meals, domestic
+services, and personal care, such as haircuts), housing, transporta-
+tion, and utilities.
+                                                                                                                                                5
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+The Big Mac and the LOOP
+
+Does the LOOP hold for Big Macs? This is an interesting case
+because: (1) Big Macs are produced more or less the same way all
+over the world; (2) prices are readily available. (3) it’s a popular
+good.
+
+The Big Mac real exchange rate: measures how many U.S. Big
+Macs it takes to buy one Big Mac abroad. Formally,
+                                                                 EP                  BigMac∗
+                                                       eBigMac =                               .
+                                                                               P BigMac
+where
+eBigMac = Big Mac real exchange rate.
+P BigMac = dollar price of a Big Mac in the United States.
+P BigMac∗ = foreign-currency price of a Big Mac in a foreign country.
+
+                       LOOP holds for the Big Mac when eBigMac = 1.
+
+                                                                                                                                                    6
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+              The Big-Mac Real Exchange Rate, January 2019
+
+
+       Country                            P BigMac∗              E   EP BigMac∗                 eBigMac           E BigMac P P P
+       Switzerland                          6.50                1.02   6.62                      1.19                  0.86
+       United States                        5.58                 1     5.58                        1                    1
+       Canada                               6.77                0.75   5.08                      0.91                  0.82
+       Euro area                            4.05                1.15   4.64                      0.83                  1.38
+       China                               20.90                0.15   3.05                      0.55                  0.27
+       India                                178                 0.01   2.55                      0.46                  0.03
+       Russia                             110.17                0.01   1.65                      0.30                  0.05
+
+
+
+
+                                                                                                                                                7
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Takeaways from the table
+
+• The table shows that the law of one price does not hold well for
+the Big Mac:
+• Example 1: in Russia a Big Mac sells for the equivalent of $1.65,
+whereas in the United States it sells for $5.58 ⇒ 1 Big Mac in Russia
+buys you only 0.3 Big Macs in the US. That is, the Big Mac real
+exchange rate is 0.3.
+• Example 2: In Switzerland a Big Mac sells for the equivalent of
+$6.62. So one Big Mac in Switzerland buys you 1.19 Big Macs in
+the US. The Big Mac real exchange rate is 1.19.
+
+Why is the Big Mac so expensive in some countries and so cheap in
+others? Look at the international tradability of its components:
+
+(1) Highly Tradable: grain (wheat and sesame seeds), meat, and
+dairy (cheese). These components represent a small fraction of the
+total cost of a Big Mac.
+(2) Hardly Tradable: labor (compare the wage per hour of a short-
+order cook in the US vs India), rent, electricity, and water. Large
+share of the cost of a Big Mac.
+                                                                                                                                                8
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                                                                                       Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+            Changes in Big Mac Real Exchange Rates from 2006 to 2019
+                                                                                            0.4
+
+
+                                                                                            0.2               URY
+                                                                                                        THA
+                                                                                                  CHN
+
+
+
+
+                                     Change in the Big Mac real exchange rate: 2006−2019
+                                                                                                                          SGP
+                                                                                             0                   LKA
+                                                                                                                             AUS              USA
+                                                                                                        HKG
+                                                                                                          PHL            CRI
+                                                                                                         IDN             JPN            BRA
+                                                                                                        MYS             PAK ARE                   CAN
+                                                                                                           EGY                      KORNZL
+                                                                                                                       POL          COL
+                                                                                                                                     CZE
+                                                                                           −0.2            UKR                SAU
+                                                                                                                                            CHL
+                                                                                                              RUS      ZAF
+                                                                                                                                   HUN
+                                                                                                                              TWN
+                                                                                                                             ARG MEX   PER                 EUZ
+                                                                                           −0.4                                                                        SWE
+                                                                                                                                                         GBR
+                                                                                                                                                                                   CHE
+                                                                                                                                      TUR
+
+                                                                                           −0.6
+
+                                                                                                                                                                             DNK
+
+
+                                                                                           −0.8
+
+
+                                                                                            −1
+
+
+                                                                                           −1.2                                                                                                              NOR
+
+
+
+
+                                                                                           −1.4
+                                                                                              0.4             0.6             0.8             1         1.2        1.4      1.6       1.8       2      2.2         2.4
+                                                                                                                                                   Big Mac real exchange rate in 2006
+
+
+
+• What’s plotted: the change in the Big Mac real exchange rate, eBigMac =
+EP BigMac∗ /P BigMac , between 2006 and 2019 against the Big Mac real exchange rate
+in 2006 for 40 countries.
+• How to read it: Because, by definition, the Big Mac real exchange rate is
+always equal to one for the United States, this country is located at coordinate
+(1, 0). Countries left of the vertical line were relatively cheaper than the US in
+2006. Countries below the horizontal line became relatively cheaper than the US
+between 2006 and 2019.
+• Takeaway: most countries were cheaper than the United States in 2006 and
+many of them became even cheaper by 2019 (diverged from LOOP).
+                                                                                                                                                                                                                                                    9
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+                                        Purchasing Power Parity
+
+
+
+
+                                                                                                                                              10
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Purchasing power parity (PPP) is the generalization of the idea of
+the law of one price for broad baskets of goods representative of
+households’ actual consumption, as opposed to a single good.
+
+
+
+
+                                                                                                                                              11
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+The Real Exchange Rate
+
+The real exchange rate, denoted e, is defined as
+                                                                      EP ∗
+                                                                   e=      .
+                                                                       P
+where
+P = domestic-currency price of a basket of goods in the domestic
+country.
+P ∗ = foreign-currency price of a basket of goods in the foreign
+country.
+• The real exchange rate measures how expensive the foreign country
+is relative to the home country: it indicates the relative price of a
+consumption basket in the foreign country in terms of consumption
+baskets in the home country.
+• When e = 1, we say that absolute purchasing power parity
+holds.
+
+                                                                                                                                              12
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Absolute PPP
+
+• Testing whether absolute PPP holds requires data on the prices
+of the domestic basket, P , and the foreign basket, P ∗.
+
+• Such data is difficult, time consuming, and expensive to collect.
+
+• The only available data source is the World Bank’s International
+Comparison Program (ICP). About every six years ICP collects price
+level data of more than 1,000 individual goods for 199 countries.
+
+• From this raw data, the ICP produces, for each country, an
+estimate of P and P ∗. Data for the nominal exchange rate, E, is
+readily available and thus one can compute e, which allows testing
+for absolute PPP.
+
+
+                                                                                                                                              13
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Empirical Evidence on Absolute PPP
+
+Look at the next table.
+• What’s Shown:
+— the dollar real exchange rate, e = EP ∗/P U S ,
+— the nominal exchange rate, E (dollar price of one unit of foreign
+currency), and
+— the PPP exchange rate, E P P P = P U S /P ∗ . (Ignore this one for
+now, we’ll discuss it later.)
+• Notation: The variable P ∗ denotes the foreign-currency price of
+a basket in the foreign country, and P U S denotes the dollar price of
+a basket in the United States.
+• Where, When?: in selected countries in 2011.
+• How To Interpret It?: If absolute PPP held, then a basket of
+goods that costs 100 dollars in the United States should also cost
+100 dollars in every country.
+• Takeaway: The table suggests that there are large deviations
+from absolute PPP. For example, a basket that in 2011 cost 100
+dollars in the United States cost 163 dollars in Switzerland and only
+27 dollars in Egypt.
+                                                                                                                                              14
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+         Deviations From Absolute PPP in Selected Countries
+                    Country           e        E      EP P P
+                    Switzerland     1.63     1.13     0.69
+                    Australia       1.56     1.03     0.66
+                    Japan           1.35    0.0125  0.00931
+                    United Kingdom  1.12     1.60     1.43
+                    Germany         1.08     1.39     1.28
+                    United States     1        1        1
+                    South Korea    0.7711 0.0009023 0.00117
+                    China           0.54     0.15     0.29
+                    Vietnam         0.33   4.88e-05 0.000149
+                    India           0.32     0.02     0.07
+                    Bangladesh      0.31     0.01     0.04
+                    Pakistan        0.28     0.01     0.04
+                    Egypt           0.27     0.17     0.62
+Notes. Authors calculations based on data from “Purchasing Power Parities and
+Real Expenditures of World Economies, Summary of Results and Findings of the
+2011 International Comparison Program,” Table 6.1, The World Bank, 2014.
+
+
+                                                                                                                                              15
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+How does the ICP real exchange rate compare with the Big Mac
+real exchange rate?
+
+This is shown in the graph on the next slide with plots e against
+eBigMac.
+
+
+
+
+                                                                                                                                              16
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                                           Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+          Comparing the ICP and Big-Mac Real Exchange Rates in 2011
+                                                                  1.8
+
+                                                                                                                        45−degree line →
+                                                                                                                                                  CHE
+                                                                  1.6
+                                                                                                                  AUS
+
+
+                                                                  1.4
+                                                                                                        JPN
+
+
+
+
+                                         ICP real exchange rate
+                                                                  1.2
+
+                                                                                                                  DEU
+                                                                   1                                USA
+
+                                                                                                                                BRA
+                                                                  0.8
+                                                                                              KOR
+
+
+                                                                                      MEX                                            VEN
+                                                                  0.6
+                                                                                CHN
+
+
+                                                                  0.4
+                                                                          IND
+                                                                                 EGY
+                                                                  0.2
+                                                                    0.4         0.6     0.8         1           1.2      1.4      1.6      1.8    2     2.2   2.4
+                                                                                                              Big−Mac real exchange rate
+
+
+
+
+• What’s Shown: the World Bank’s International Comparison Program (ICP)
+real exchange rate (RER) against The Economist’s Big-Mac real exchange rate
+for 57 countries in 2011.
+• Interpretation:    the Big-Mac real exchange rate is highly correlated (0.81)
+with its ICP counterpart.
+• Takeaway: the Big Mac real exchange rate is a good proxy measure of how
+expensive different countries are relative to one another.
+• Why is this relevant: The ICP RER is difficult and costly to construct and
+is produced only every 6 years. The Big Mac RER is easy to construct and is
+produced at least once a year by The Economist.
+                                                                                                                                                                                                      17
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+                                            PPP Exchange Rates
+
+
+
+
+                                                                                                                                              18
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Definition
+
+The PPP exchange rate is the nominal exchange rate that would
+make the consumption basket in two countries equally expensive.
+Formally, letting E P P P denote the PPP exchange rate, we have that
+
+                                                              E P P P P ∗ = P,
+P = price level in the domestic country
+P ∗ = price level in the foreign country.
+
+If E P P P > E ⇒ the domestic country is more expensive than the
+foreign country (P > EP ∗) and we say that the foreign currency is
+undervalued.
+
+If E P P P < E ⇒ the domestic country is less expensive than the
+foreign country (P < EP ∗) and we say that the foreign currency is
+overvalued.
+                                                                                                                                              19
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Big Mac PPP Exchange Rates
+
+Following the above definition, the Big-Mac real exchange rate is
+given by
+                                                                  P BigMac U S
+                                                 E BigMac P P P =              .
+                                                                   P BigMac∗
+
+Take another look at the table on slide 7, which shows the Big Mac
+PPP exchange rate and is reproduced on the next slide.
+
+• for Switzerland E BigMac P P P < E ⇒ Switzerland is more expensive
+than the US, and the Swiss franc is overvalued relative to the dollar.
+
+• for India E BigMac P P P > E ⇒ India is cheaper than the US, and the
+Indian rupee is undervalued relative to the dollar.
+
+
+                                                                                                                                              20
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+              The Big-Mac Real Exchange Rate, January 2019
+
+
+       Country                            P BigMac∗              E   EP BigMac∗                 eBigMac           E BigMac P P P
+       Switzerland                          6.50                1.02   6.62                      1.19                  0.86
+       United States                        5.58                 1     5.58                        1                    1
+       Canada                               6.77                0.75   5.08                      0.91                  0.82
+       Euro area                            4.05                1.15   4.64                      0.83                  1.38
+       China                               20.90                0.15   3.05                      0.55                  0.27
+       India                                178                 0.01   2.55                      0.46                  0.03
+       Russia                             110.17                0.01   1.65                      0.30                  0.05
+
+
+
+
+                                                                                                                                              21
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Does China Manipulate Its Currency to Gain Competitiveness?
+
+• A number of policymakers and observers have suggested that
+China has put in place policies conducive to an undervaluation of
+its currency with the intention to boost China’s competitiveness in
+international trade.
+
+• The table shows that E BigMac P P P for China is 0.27 dollar per yuan,
+while the market exchange rate, E, is 0.15 dollar per yuan. This
+means that, according to the Big Mac PPP exchange rate, the yuan
+is undervalued relative to the dollar. This gives credence to the
+critics.
+
+• But later we will argue that if we take into account the different
+levels of economic development in the US and China, this conclusion
+is far less clear.
+
+                                                                                                                                              22
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”    Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+           PPP Exchange Rates for Baskets of Goods
+
+                                      Country                               e         E   EP P P
+                                      Switzerland                         1.63       1.13 0.69
+                                      United States                        1          1     1
+                                      China                               0.54       0.15 0.29
+                                      India                               0.32       0.02 0.07
+                                      Egypt                               0.27       0.17 0.62
+This table shows an excerpt from the table presented on slide 15 earlier.
+The last column displays PPP exchange rates.
+PPP exchange rates are constructed using the price level data (P ∗ ) from the 2011
+ICP program for baskets of goods, which contain hundreds of goods.
+
+• Takeaways: Similar pattern of under- and over-valuation of currencies as
+suggested by the Big Mac PPP exchange rates: In particular
+– the Swiss franc is overvalued and
+– the Indian rupee and Chinese yuan are significantly undervalued.
+
+
+
+                                                                                                                                               23
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+   PPP Exchange Rates and Standard of Living Comparisons
+
+Standard of Living Comparison are Tricky
+
+• The problem is that prices of similar goods vary widely across
+borders.
+
+• Example: in 2011 GDP per capita was 49,782 dollars in the United
+States but only 1,533 dollars in India. Can we conclude that the
+average American is 32 times richer than the average Indian? What
+if a given amount of dollars buys more goods and services in India
+than in the United States?
+
+• Let’s calculate how many burgers one can buy with each per capita
+GDP: A Big Mac costs 5.58 dollars in the United States but only
+2.55 dollars in India. So one U.S. per capita GDP buys 8,922 Big
+Macs and one Indian per capita GDP buys 601 Big Macs. Thus, in
+terms of Big Macs, Americans are 15 times richer than Indians.
+
+• Still a big income gap, but not as large as the one suggested by
+the simple ratio of dollar GDPs.
+                                                                                                                                              24
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Per Capita GDP at PPP Exchange Rate Now compare GDPs
+per capita measured in units of baskets of goods. Let
+GDP I = GDP per capita in India in Indian rupees.
+P I = the rupee price of one basket of goods in India.
+⇒ GDP I /P I = per capita GDP in India in units of baskets of goods.
+Similarly, let GDP U S and P U S be GDP in the United States and the
+price of one basket of goods in the United States, both measured
+in dollars.
+⇒ GDP U S /P U S = per capita GDP in the United States measured in
+units of baskets of goods.
+                                                  GDP U S /P U S
+    ⇒ Ratio of Incomes in Baskets of Goods =
+                                                    GDP I /P I
+                                                       1     GDP U S
+                                               =
+                                                  P U S /P I GDP I
+                                                      GDP U S
+                                               =    P P P,I     I
+                                                                  .
+                                                  E         GDP
+E P P P,I GDP I is called per capita GDP at P P P exchange rate; it’s
+denoted GDP P P P,I and represents per capita GDP in India when
+baskets of goods are priced in dollar prices of the United States.
+                                                                                                                                              25
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Look at the Next Table
+
+It shows GDP per capita in dollars at market exchange rates and at
+PPP exchange rates.
+
+
+
+
+                                                                                                                                              26
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”      Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+GDP Per Capita at Market and PPP Exchange Rates in 2011
+
+              Country                                    GDP              GDPPPP                GDP U S            GDP U S
+                                                                                                 GDP               GDP P P P
+              Norway                                    99035                        61879         0.50                  0.80
+              Switzerland                               83854                        51582         0.59                  0.97
+              Australia                                 65464                        42000         0.76                  1.19
+              United States                             49782                        49782            1                     1
+              Japan                                     46131                        34262         1.08                  1.45
+              Germany                                   44365                        40990         1.12                  1.21
+              United Kingdom                            39241                        35091         1.27                  1.42
+              South Korea                               22388                        29035         2.22                  1.71
+              China                                      5456                        10057         9.12                  4.95
+              Egypt                                      2888                        10599        17.24                  4.70
+              Vietnam                                    1543                         4717        32.26                 10.55
+              India                                      1533                         4735        32.47                 10.51
+              Pakistan                                   1255                         4450        39.68                 11.19
+              Bangladesh                                  874                         2800        56.95                 17.78
+
+
+                                                                                                                                                 27
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+In India, GDP per capita was 1,533 dollars when measured at market
+exchange rates but 4,735 dollars when measured at PPP exchange
+rates.
+
+per capita GDP in the United States in 2011 was 49,782 dollars.
+
+⇒ the average American is 32 times as rich as the average Indian
+when GDP is converted into dollars at market exchange rates, but
+11 times as rich when GDP is converted at PPP exchange rates.
+
+• This shows that on average prices in India are lower than in the
+United States.
+
+Is this a more general pattern? Are poor countries cheaper than rich
+countries? Look at the next graph.
+
+
+                                                                                                                                              28
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                                      Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Rich Countries are More Expensive than Poor Countries
+                                                                      Higher Prices in Rich Countries
+                                                                1.8
+
+
+                                                                                                                                                          Switzerland
+                                                                1.6
+
+
+
+                                                                1.4
+                                     Real exchange rate, 2011                                                                                     Japan
+
+
+                                                                1.2
+
+                                                                                                                                                  Germany
+                                                                 1                                                                                 United States
+
+                                                                                                                               Brazil
+                                                                0.8
+                                                                                                                                         Korea
+
+                                                                                                                                                            Qatar
+                                                                0.6
+                                                                                                                   China
+                                                                        Liberia
+
+                                                                0.4
+                                                                       Burundi                    India
+                                                                            Ethiopia
+
+                                                                0.2
+                                                                               500                 2000               8000                32000             128000
+                                                                                       GDP per capita at market exchange rates, 2011, log scale
+
+
+
+
+• What’s shown? the dollar real exchange rate, e = EP ∗/P U S , against per capita
+GDP at market exchange rates in 2011 for 177 countries.
+• Takeaway: countries with higher per capita incomes tend to be more expensive.
+• Note: China is not an outlier casting doubt on the claim that the yuan is
+manipulated.
+
+
+                                                                                                                                                                                                 29
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+                           Relative Purchasing Power Parity
+
+
+
+
+                                                                                                                                              30
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Relative Purchasing Power Parity
+• Most studies of purchasing power parity focus on changes in the
+real exchange rate, rather than on its level.
+• Why? To calculate the change in the real exchange rate, one can
+use Consumer Price Indices, which are readily available for many
+countries at a relatively high frequency (typically monthly).
+• The consumer price index does not provide information about the
+price of a basket of goods, but about its change.
+                                             Et Pt∗
+               relative PPP holds if ∆et ≡ ∆        = 0,
+                                              Pt
+where et = real exchange rate at time t, Et = nominal exchange rate
+at time t, Pt, and Pt∗ = domestic and foreign consumer price indices
+at time t, and ∆ = change over time.
+• When ∆et < 0 we say that the real exchange appreciates. The
+domestic country becomes more expensive.
+• When ∆et > 0 we say that the real exchange depreciates. The
+domestic country becomes less expensive.
+                                                                                                                                              31
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Does Relative PPP Hold in the Long Run?
+
+• The next figure plots the logs of the price index in the United
+States, PtU S , and the price index in the United Kingdom expressed
+in U.S. dollars, Et PtU K , over the period 1870-2018.
+
+• Recall that the level of the price index in a particular year is
+meaningless; only its change provides information. So, without loss
+of information, the figure normalizes PtU S and Et PtU K to 1 (or their
+logs to 0) in 1870.
+
+• The figure shows that over the past 148 years the United States
+did not become systematically cheaper or more expensive than the
+United Kingdom.
+
+• This suggests that relative PPP holds in the long run between
+these two countries.
+                                                                                                                                              32
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”      Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+            U.S. and U.K. Consumer Price Indices in Dollars: 1870-2018
+             3.5
+
+
+
+                3
+
+
+
+             2.5
+
+
+
+                2
+
+
+
+             1.5
+
+
+
+                1
+
+
+
+             0.5
+
+
+
+                0
+
+                                                                                                                       ln P US
+                                                                                                                       ln (EP UK )
+            −0.5
+              1870             1890             1910            1930             1950       1970             1990            2010
+
+
+                                                                                                                                                 33
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”     Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Does Relative PPP Hold in the Long Run for Other Countries?
+Let et be the real exchange rate of a given country with the United
+States in period t. Then,
+                                                                     Et PtU S
+                                                                et =          .
+                                                                        Pt
+where Pt and PtU S = the consumer price indices in the country
+considered and the US at time t. Et = exchange rate at time t,
+defined as the price of one dollar in terms of the country’s currency.
+The real depreciation rate of the country’s currency against the U.S.
+dollar, denoted rt , is the growth rate of et ,
+
+                                                         et            (Et /Et−1)(PtU S /Pt−1
+                                                                                          US )
+                                  1 + rt =                      =                                              .
+                                                       et−1                          Pt/Pt−1
+Let t = Et /Et−1 − 1 denote the nominal depreciation rate of the
+country’s currency against the U.S. dollar, and πt = Pt/Pt−1 − 1 and
+πtU S = PtU S /Pt−1
+                U S − 1 inflation rates in the country considered and in
+the United States. This yields
+
+                                                   r   (1 + t )(1 + πtU S )
+                                              1 + t =                       .
+                                                           (1 + πt )
+                                                                                                                                                34
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Taking the natural logarithm and using the approximation ln(1+x) ≈
+x
+                                                        rt = t + πtU S − πt .
+Relative P P P holds if the real exchange rate does not change over
+time, rt = 0:
+
+                                     Relative PPP holds if t = πt − πtU S .
+In words, relative PPP holds if the rate of depreciation of the
+country’s currency against the dollar, t , is equal to the inflation
+differential between the country considered and the United States,
+πt − πtU S .
+Let , π, and π U S be the averages of t , πt , and πtU S over a long
+period of time. Then,
+
+                    Relative PPP holds in the long run if  = π − π U S .
+The next slide suggests that this expression holds for many countries
+...
+                                                                                                                                              35
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                  Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+       Average Inflation Differentials and Depreciation Rates, 1960-2017
+                                                            30
+
+
+
+
+                                                            25
+
+
+
+
+                                                            20
+                                     0 (percent per year)
+
+
+                                                            15
+
+
+
+
+                                                            10
+
+
+
+
+                                                             5
+
+
+                                                                                                           rich
+                                                                                                           emerging
+                                                             0
+                                                                                                           poor
+                                                                                                           45−degree line
+
+                                                                 0   5      10           15          20       25            30
+                                                                         π − πU S (percent per year)
+
+
+
+What’s Shown? Each marker represents a country. There are 45 countries: 13
+rich, 17 emerging, and 15 poor.
+Takeaway: Most countries line up close to the 45-degree line, indicating that
+relative PPP holds well in the long run.
+
+                                                                                                                                                             36
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Does Relative PPP Hold in the Short Run?
+Take another look at the figure on slide 33 displaying the price levels
+of the UK and the US expressed in the same currency.
+
+Notice that sometimes the two prices get closer together and some-
+times they move apart. This mean that sometimes the US becomes
+relatively cheaper and sometimes relatively more expensive than the
+UK.
+
+The next figure displays the dollar/pound real depreciation rate, rt
+between 1870 and 2018. The object plotted is the year-to-year
+change in the distance between the solid and the broken lines in the
+figure on slide 33.
+The takeaway of the figure is that rt moves around quite a bit. The
+standard deviation of rt is 9.3 percent. This means that typically,
+from one year to the next, the United States becomes almost 10
+percent more expensive or cheaper than the United Kingdom.
+
+This suggests that relative PPP does not hold in the short run.
+                                                                                                                                              37
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”        Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Year-Over-Year Percent Change in the Dollar-Pound Real Exchange Rate:
+1870-2018
+                                                      30
+
+
+
+
+                                                      20
+
+
+
+
+                                                      10
+                            0rt (percent per year)
+
+
+
+
+                                                       0
+
+
+
+
+                                                     −10
+
+
+
+
+                                                     −20
+
+
+
+
+                                                     −30
+
+
+
+
+                                                     −40
+                                                       1870   1890   1910   1930   1950   1970       1990        2010
+
+
+The figure shows that the dollar-pound real exchange rate changes significantly
+from one year to the next, suggesting that relative PPP does not hold in the short
+run.
+
+
+                                                                                                                                                   38
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+                                      How Wide Is the Border?
+
+
+
+
+                                                                                                                                              39
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Are short-run deviations from relative PPP due to the existence
+of a country border or do they hold more broadly across different
+geographic locations?
+Two factors that can explain failures in relative PPP across cities:
+(1) Transportation Costs: It might pay for NYC households to
+shop in nearby Newark to exploit relatively small differences in prices.
+But it would take much larger price differences to induce NYC
+households to shop in Philadelphia. Therefore, differences in prices
+are likely to be larger between NYC and Philly than between NYC
+and Newark.
+(2) An International Border: It can introduce impediments for
+prices to equalize across locations, including:
+(a) movements in nominal exchange rates in combination with rigidi-
+ties in local currency prices;
+(b) movements in trade frictions that contribute to market seg-
+mentation across countries, such as tariffs, quotas, and government
+regulation.
+So we could observe that even though New York is much farther
+away from Los Angeles than from Toronto, relative PPPs fail more
+significantly for the NY-Toronto pair than for the NY-LA pair.
+                                                                                                                                              40
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+The Effect of Distance and a Border on Deviations from
+Relative PPP
+The real exchange rate between cities c1 and c2 for a basket of
+goods g is given by
+                                                                                             g
+                                                        g                  Ec1,c2,t Pc2,t
+                                                     ec1,c2,t =                       g            ,
+                                                                                     Pc1,t
+                  g                    g
+where Pc1,t and Pc2,t are the price indices of basket g in cities c1 and
+c2 at time t, and
+Ec1,c2,t = nominal exchange rate between cities c1 and c2 in period
+t. (Clearly, if c1 and c2 are in the same country, then Ec1,c2,t = 1.)
+
+     g
+Let σc1,c2 be the standard deviation of ∆ ln egc1,c2,t taken across time
+periods.
+
+                  g
+A large value of σc1,c2 indicates large changes in violations of relative
+PPP in the short run.
+                                                                                                                                                      41
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+How Distance and Borders Affect Relative PPP
+Engel and Rogers∗ estimate the following regression:
+           g                                                                                                                  g
+        σc1,c2 = constant + 0.00106 ln dc1,c2 + 0.0119 Bc1,c2 + µc1,c2,
+where dc1,c2 denotes the distance in miles between cities c1 and c2,
+Bc1,c2 is a variable that takes the value 1 if cities c1 and c2 are
+separated by an international border and zero otherwise, and µgc1,c2
+is a regression residual.
+They used bi-monthly data on prices of 14 baskets of goods, 14 US
+cities, and 9 Canadian cities observed over the period September
+                                                         g
+1978 to December 1994. So they have 3542 values of σc1,c2    .
+
+Takeaway: Short-run deviations from relative PPP are increasing
+in distance and in the existence of a border.
+
+∗ CharlesEngel and John H. Rogers, “How Wide is the Border?,” American
+  Economic Review 86, December 1996, 1112-1124.
+
+                                                                                                                                              42
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+The Border Effect
+
+Counterfactual Experiment: Suppose cities c1 and c2 are sepa-
+rated by a border. If we were to remove the border, by how much
+                                                            g
+should we increase the distance between c1 and c2 so that σc1,c2
+stays the same? To answer this question, note that:
+                         g
+• The border increases σc1,c2 by 0.0119.
+                                              g
+• Increasing the distance by one mile raises σc1,c2 by
+                                g
+                          ∂σc1,c2           ∂ ln dc1,c2             1
+                                  = 0.00106             = 0.00106        .
+                          ∂dc1,c2            ∂dc1,c2              dc1,c2
+The average distance between two cities in the Engel-Rogers dataset
+is 1,100 miles.
+                                      g
+Then on average each mile increases σc1,c2 by
+                                    g
+                             ∂σc1,c2                                   1
+                                             = 0.00106                     = 0.00000096364.
+                             ∂dc1,c2                                  1100
+Therefore, the border is equivalent to increasing the distance by
+0.0119/0.00000096364 ≈ 12,000 miles. This is quite a wide border!
+                                                                                                                                              43
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Takeaway
+
+The evidence suggests that
+
+(a) the amplitude of short-run deviations from relative PPP is in-
+creasing in the distance separating two locations; and
+
+
+
+(b) the mere existence of an international border separating two
+locations adds significantly to this amplitude.
+
+In turn, (b) implies that factors such as exchange rate volatility, local
+price rigidities, tariffs, quotas, and cross-border regulations play an
+important role in determining the size of changes in real exchange
+rates in the short run.
+
+
+                                                                                                                                              44
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+                Nontradable Goods and Deviations from
+                       Purchasing Power Parity
+
+
+
+
+                                                                                                                                              45
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Tradable and Nontradable Goods
+• We have documented the existence of large and persistent devia-
+tions from purchasing power parity. — Example: in 2011 a basket of
+goods that cost 100 dollar in the United States cost only 32 dollars
+in India.
+• One reason why price differences tend to persist is that not all
+goods are internationally tradable.
+• For these goods, transportation costs are too large for international
+trade to be profitable.
+— Example: no one would fly to India just because a haircut there
+is 10 times cheaper.
+• This type of goods and services are called nontradable goods.
+— Examples of nontradable goods: services (haircuts, restaurant
+meals, housing, primary health, education).
+— Examples of tradable goods: commodities (wheat, corn, soybean,
+metals, minerals, oil, etc.) and many manufactured goods.
+• Nontradables make up a significant share output, typically above
+50 percent.
+                                                                                                                                              46
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Nontradables and Deviations from PPP
+Let PT = domestic price of tradables, and
+PN = domestic price of nontradables.
+PT∗ and PN
+         ∗ the corresponding foreign prices.
+
+Suppose the LOOP holds for tradable goods,
+
+                                                                PT = EPT ∗.
+But the LOOP does not hold for nontradable goods PN 6= EPN ∗.
+
+The price level, P , is is an average of P T and P N ,
+
+                                                            P = φ(PT , PN ),
+the function φ(·, ·) is increasing in PT and PN and homogeneous of
+degree one (HD1). HD1 means that if P T and P N increase by x
+percent, then P also increases by x percent.
+Examples of HD1 functions: φ(PT , PN ) = (PT + PN )/2 and
+φ(PT , PN ) = (PT )γ (PN )1−γ , with γ ∈ (0, 1).
+
+                                                                                                                                              47
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+The price level in the foreign country is also an average of the prices
+of tradables and nontradables
+                            P ∗ = φ(PT∗ , PN
+                                           ∗ ).
+
+The real exchange rate is
+                                                                  EP ∗
+                                                    e =
+                                                                   P
+                                                                  Eφ(PT∗ , PN
+                                                                            ∗)
+                                                         =
+                                                                   φ(PT , PN )
+                                                                  EPT∗ φ(1, PN∗ /P ∗ )
+                                                                                  T
+                                                         =
+                                                                   PT φ(1, PN /PT )
+                                                                  φ(1, PN∗ /P ∗ )
+                                                         =                   T .
+                                                                  φ(1, PN /PT )
+Interpretation: the real exchange rate depends on the relative price
+of nontradables in terms of tradables across countries.
+                                                                    ∗
+                                                                   PN
+                                                          e < 1 if P ∗ < PN.
+                                                                         PT
+                                                                    T
+Back to the India-US example: This expression says that India is cheaper than
+the US because the relative price of nontradables in terms of tradables is lower in
+India than in the US.
+                                                                                                                                              48
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+               Trade Barriers and Real Exchange Rates
+
+
+
+
+                                                                                                                                              49
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+We now analyze deviations from PPP that may arise even when all
+goods are traded.
+
+Specifically, we study deviations from PPP that arise because gov-
+ernments impose trade barriers, such as import tariffs, export subsi-
+dies, and quotas, that artificially distort relative prices across coun-
+tries.
+
+Consider, for simplicity, an economy in which all goods are interna-
+tionally tradable.
+
+Suppose further that there are two types of tradable goods, im-
+portables and exportables.
+
+Importable goods are goods that are either imported or produced
+domestically but coexist in the domestic market with identical or
+highly substitutable imported goods.
+
+Exportable goods are goods that are produced domestically and sold
+in foreign and possibly domestic markets.
+                                                                                                                                              50
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+The Real Exchange Rate Without Trade Barriers
+
+Let
+ ∗ and P ∗ denote the world prices of importables and exportables
+PM      X
+and
+PM and PX the domestic prices of importables and exportables.
+
+The LOOP holds for each type of good
+                                                  ∗
+                                           PX = EPX                                  ∗ ,
+                                                                          and PM = EPM
+The domestic and foreign price levels are
+
+                                P = φ(PX , PM )                           and P ∗ = φ(PX
+                                                                                       ∗ , P ∗ ).
+                                                                                            M
+The real exchange rate, e = EP ∗/P , can then be written as
+          EP ∗   Eφ(PX∗ ,P∗ )   φ(EP ∗ , EP ∗ )   φ(PX , PM )
+      e=       =          M   =      X     M    =             =1
+           P      φ(PX , PM )    φ(PX , PM )      φ(PX , PM )
+Interpretation: If all goods are tradable and no trade barriers are
+in place, both countries are equally expensive.
+                                                                                                                                              51
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+The Real Exchange Rate with Import Tariffs
+
+Suppose the domestic government imposes a tariff τ on imports.
+
+                    ∗ to the foreign producer and τ EP ∗ to the
+The importer pays EPM                                 M
+local government.
+
+The domestic price of the importable good increases by a factor of
+1+τ
+                                                                       ∗ .
+                                                        PM = (1 + τ )EPM
+And the real exchange rate becomes
+                              Eφ(PX∗ ,P∗ )    φ(EP  ∗ , EP ∗ )
+                           e=          M =          X     M
+                               φ(PX , PM )     ∗ , (1 + τ )EP ∗ ) < 1,
+                                           φ(EPX               M
+Interpretation: Import tariffs make the domestic country more
+expensive relative to the foreign country.
+
+                                                                                                                                              52
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+                Home Bias and the Real Exchange Rate
+
+
+
+
+                                                                                                                                              53
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+• Thus far we have seen that PPP may fail because not all goods
+are tradable or because of the presence of trade barriers, such as
+import tariffs.
+
+• We now study how PPP can fail when the weights with which a
+particular good enters in the consumption basket is different across
+countries.
+
+• Such differences in weights reflect primarily differences in tastes
+across countries. In turn, national tastes could be acquired via
+resource abundance or production specialization. Example: Argen-
+tines might spend a larger fraction of their budgets on beef than
+Germans do, and Germans might spend relatively more on cars than
+Argentines.
+
+• Such a preference for domestically produced goods is called home
+bias.
+
+• Intuition: If the price of beef relative to the price of cars goes
+up, the price index goes up proportionally more in Argentina than in
+Germany, simply because Argentines spend more on beef.
+                                                                                                                                              54
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Let’s Formalize the Idea of Home Bias
+
+Suppose that the consumer price indices in Argentina and Germany,
+P and P ∗, are geometric averages of the prices of beef and cars in
+each country, Pb and Pc in Argentina and Pb∗ and Pc∗ in Germany:
+
+                                                         P = (Pb)γ (Pc)1−γ
+and
+                                                      ∗    ∗  γ ∗ ∗ 1−γ ∗
+                                                     P = (Pb ) (Pc )      .
+where γ ∈ (0, 1) and γ ∗ ∈ (0, 1) are parameters, capturing the impor-
+tance of beef in the Argentine and German consumption baskets.
+
+Now, if Argentines have a strong preference for beef and Germans
+for cars, we have
+                                                     home bias ⇒ γ > γ ∗.
+
+                                                                                                                                              55
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+The Real Exchange Rate with Home Bias
+
+Suppose beef and cars are freely traded so that the LOOP holds:
+                                               Pb = EPb∗                   and Pc = EPc∗,
+where E is the nominal exchange rate (pesos per euro). Then, the
+real exchange rate is
+                   ∗         ∗            ∗          ∗       !γ−γ ∗
+               ∗
+             EP ∗γ
+            (P ) (P ) ∗  1−γ            γ
+                                 (P /E) (Pc/E)   1−γ      Pc
+ e=      = E b γ c 1−γ = E b             γ    1−γ
+                                                       =            .
+      P       (Pb) (Pc)             (Pb) (Pc)             Pb
+Result: Because γ > γ ∗, an increase in the price of beef relative to
+cars causes a real appreciation of the peso (a fall in e).
+
+Intuitively, if the relative price of beef increases, then the price of
+the Argentine consumption basket, P , increases by more than the
+price of the German consumption basket, P ∗, since beef has a larger
+weight in the Argentine basket than in the German basket.
+
+• Note: If γ = γ ∗, then e = 1 and PPP holds. So any departure
+from PPP here is due to home bias.
+                                                                                                                                              56
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+                    Price Indices and Standards of Living
+
+
+
+
+                                                                                                                                              57
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+We have seen that the price level φ(PT , PN ), should be increasing
+and homogeneous of degree one in the prices of the goods that enter
+the consumption basket (in this example, tradable and nontradable
+goods).
+
+We stated that the function φ(PT , PN ) is an average of PT and PN .
+
+But what type of average? What weights should the average place
+on PT and PN ? Is the price index useful to measure standards of
+living?
+
+Example, suppose your money income increases by 10 percent and
+the price level increases by 11 percent. Are you better off or worse
+off? Would you be worse off if all of the increase in the price level
+is accounted for by an increase in the price of beef and you are a
+vegetarian?
+
+In this section, we analyzes these and other related questions.
+                                                                                                                                              58
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”             Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Microfoundations of the Price Level
+
+Suppose the utility function is
+
+                                                                      U (C),
+where C = current consumption and U (·) is an increasing function.
+
+Suppose that C is a composite of tradable and nontradable con-
+sumption given by the aggregator function
+                                                                            γ        1−γ
+                                                              C = CT CN                    ,                                                        (1)
+where CT = consumption of tradable goods and CN = consumption
+of nontradable goods, and γ ∈ (0, 1) is a parameter.
+
+Example: A Big Mac (C) is a composite of tradable goods (C T ,
+e.g., beef, wheat, cheese) and nontradable goods (C N , e.g., the
+labor provided by cooks, store rent, utilities).
+
+                                                                                                                                                        59
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”             Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Definition: The consumer price level, P , is the minimum amount of
+money necessary to purchase one unit of the composite consumption
+good C. Formally,
+
+                                            P =            min          {PT CT + PN CN }
+                                                       {CT ,CN }
+subject to
+                                                                   1−γ
+                                                              CTγ CN   = 1,
+To solve this problem, begin by solving the constraint for CN to get
+                                                                                     −γ
+                                                                                     1−γ
+                                                                CN = CT                    .                                                        (2)
+Use this to eliminate CN from the objective function to get
+                                                                 (                                  −γ )
+                                                                                                   1−γ
+                                            P = min PT CT + PN CT                                             .                                     (3)
+                                                       {CT }
+
+
+
+                                                                                                                                                        60
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”    Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Take the derivative and set it to 0:
+                                     −1
+                             γ
+                       PT −     PN CT1−γ = 0.
+                            1−γ
+Solving for CT , we obtain
+                                                                   "                 #1−γ
+                                                                         γ PN
+                                                     CT =                                   .                                              (4)
+                                                                       1 − γ PT
+Use this to eliminate CT from (2) to get
+                                                                    "                #−γ
+                                                                          γ PN
+                                                      CN =                                  .                                              (5)
+                                                                        1 − γ PT
+Intuition: the last two expressions say that as the nontradable
+good becomes relatively more expensive (PN /PT goes up), there
+is a substitution away from nontradables and toward tradables in
+the production of the unit of composite consumption.
+
+
+                                                                                                                                               61
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”      Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Finally, use (4) and (5) to eliminate CT and CN from (3) to obtain
+                                                                           γ     1−γ
+                                                            P = PT PN                  A,
+where A ≡ γ −γ (1 − γ)−(1−γ) is a constant.
+
+Important to Note: the weights assigned to the prices of tradable
+and nontradable goods are related to the weights assigned to the
+corresponding goods in the aggregator function. Now we know
+where the price level comes from.
+
+
+
+
+                                                                                                                                                 62
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Prices, Income, and Welfare
+
+The amount of consumption one can buy with a given income Y is
+                                   Y
+                                     .                               C=
+                                   P
+Since utility depends on C, we have that, if the price level is correctly
+measured, changes in real income, Y /P , reflect changes in welfare.
+
+Example: suppose that γ = 0.25, and that in the course of one
+year nominal income increased by 10 percent (%∆Y = 0.1), the
+price of tradables by 12 percent (%∆PT = 0.12) and the price of
+nontradables by 8 percent (%∆PN = 0.08). Is the household better
+off or worse off relative to the previous year?
+
+
+
+                                                                                                                                              63
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+The percent increase in the amount of consumption the consumer
+can enjoy this year is given by
+                                                Y
+                           %∆C = %∆
+                                                P
+                                            = %∆Y − %∆P
+                                            = %∆Y − γ%∆PT − (1 − γ)%∆PN
+                                            = 0.1 − 0.25 × 0.12 − 0.75 × 0.08
+                                            = 1%.
+This means that the consumer is better off. Intuition: The intuition
+behind this increase in welfare is that the price that increases pro-
+portionally more than income corresponds to a good (the tradable
+good) that is not too important in the generation of composite
+consumption (γ small).
+
+
+
+                                                                                                                                              64
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+What if the Weight γ is Badly Measured?
+
+Let’s redo the exercise using a weight γ̃ = 0.75. Under this incorrect
+weight, the change in real income is
+                                       Y
+                              %∆               = 0.1 − 0.75 × 0.12 − 0.25 × 0.08
+                                       P
+                                               = −1%,
+which leads to the misleading conclusion that consumers are worse
+off and can afford 1% less consumption than in the previous year.
+
+Intuition: The problem here is that the statistical office is assigning
+too much weight to the price that increased more.
+
+What can the statistical office do to measure γ correctly?
+
+Obviously, asking people what they think γ is in their utility function
+wouldn’t go too long.
+                                                                                                                                              65
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+How to Estimate γ
+
+Fortunately, there is a way to calculate γ.
+
+Dividing (4) by (5) and solving for γ yields
+                                                               PT C T
+                                                       γ=                 .
+                                                          PT C T + PN C N
+This expression says that γ equals the ratio of expenditure on trad-
+able in total expenditure.
+
+Statistical agencies periodically conduct surveys asking individuals
+about their expenditure behavior and use this information as an
+input in the construction of price indices.
+
+
+
+                                                                                                                                              66
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Summing Up This chapter is concerned with differences in costs of living
+across countries.
+
+Key concepts: the law of one price (LOOP), purchasing power parity (PPP), the
+real exchange rate, tradable and nontradable goods, home bias, and price indices.
+
+• The LOOP states that the same good must have the same price across countries
+or regions when expressed in a common currency.
+
+• There exist large and systematic deviations from the LOOP.
+
+• Absolute PPP extends the concept of the LOOP to baskets of goods. It says
+that consumption baskets must have the same price across countries or regions
+when expressed in a common currency.
+
+• Observed deviations from absolute PPP are large and persistent.
+
+• The real exchange rate is the relative price of a basket of goods in a foreign
+country in terms of a basket of goods in the domestic country. By definition,
+when absolute PPP holds, the real exchange rate is one.
+
+• Relative PPP holds when the real exchange rate does not change over time.
+
+• In the data, relative PPP holds over the long run, but fails over the short run.
+
+• Rich countries are systematically more expensive than poor countries.
+
+                                                                                                                                              67
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Summing Up (cont.)
+• The PPP exchange rate is the nominal exchange rate that makes PPP hold.
+Evaluating GDP per capita at PPP exchange rates allows for meaningful compar-
+isons of standards of living.
+
+• Deviations from PPP across locations are accounted for by a number of factors:
+
+ Distance between the two locations, which can be a reflection of transportation
+costs.
+
+ The existence of an international border separating the two locations. This
+can reflect the presence of nominal exchange-rate volatility, local-currency price
+rigidity, cross-border regulations, import and export tariffs, and trade quotas.
+
+ The existence of nontradable goods. Nontradable goods are goods that are
+domestically produced, but are neither importable nor exportable.
+
+• If the weights on prices that enter the consumer price index differ across
+countries, then variations in relative prices can lead to variations in real exchange
+rates. If domestically produced goods make up a bigger share of the domestic
+basket than of the foreign basket and hence receive a larger weight in the home
+country’s price index than in the foreign country’s price index, then we say there
+is home bias in consumption.
+
+• The imposition of import tariffs or export subsidies makes the country more
+expensive relative to the rest of the world, that is, it causes a real exchange rate
+appreciation.
+                                                                                                                                              68
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 9: The Real Exchange Rate and Purchasing Power Parity
+
+
+
+
+Summing Up (concluded)
+• The optimal price index assigns weights to individual prices that correspond
+to the weight of the associated good in the consumer’s utility function. When
+nominal income is deflated by the optimal price index, variations in real income
+represent variations in welfare in the same direction.
+
+
+
+
+                                                                                                                                              69
+

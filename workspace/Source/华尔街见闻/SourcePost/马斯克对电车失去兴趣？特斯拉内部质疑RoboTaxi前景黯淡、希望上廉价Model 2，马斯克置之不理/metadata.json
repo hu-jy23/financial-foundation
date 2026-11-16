@@ -1,0 +1,104 @@
+{
+  "article_id": 3745293,
+  "selection": {
+    "article_id": 3745293,
+    "url": "https://wallstreetcn.com/articles/3745293",
+    "title": "马斯克对电车失去兴趣？特斯拉内部质疑RoboTaxi前景黯淡、希望上廉价Model 2，马斯克置之不理",
+    "page_display_time": "2025-04-16T09:02:56+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "B",
+    "reading_value": "通过内部测算与产品选择，展示Robotaxi投入和廉价车型之间的资源配置取舍。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1719,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 187
+  },
+  "url": "https://wallstreetcn.com/articles/3745293",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3745293?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:04+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/8c363884-550e-492e-bcfc-51570dc14ec7.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "投资者现在面临的是，是否相信马斯克的AI愿景能够补偿甚至超过电动汽车业务放缓带来的损失，而这一切都取决于Robotaxi能否实现马斯克预期的宏伟预期。",
+      "path": "assets/figure_001.png",
+      "sha256": "b7ac2f8dfa08fd780cf0820a3f46b5c14a1d48af2ac076b51b12a9cb0b6e8467",
+      "bytes": 71643,
+      "width": 891,
+      "height": 643,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/8c363884-550e-492e-bcfc-51570dc14ec7.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/9fa81a9a-55a3-48d3-bb9d-472de1078776.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "马斯克的政治活动也对公司施加了进一步压力。他为特朗普的总统竞选投入了2.77亿美元，并利用X平台放大了有争议且常常不实的言论。",
+      "path": "assets/figure_002.png",
+      "sha256": "a2ac87748a75e7888fda46e4efe57718948751c669ceb3259dc8ca65afae5d3b",
+      "bytes": 46915,
+      "width": 1055,
+      "height": 685,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/9fa81a9a-55a3-48d3-bb9d-472de1078776.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "马斯克对电车失去兴趣？特斯拉内部质疑RoboTaxi前景黯淡、希望上廉价Model 2，马斯克置之不理",
+  "page_display_time": "2025-04-16T09:02:56+08:00",
+  "page_byline": "董静",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "报道称，在马斯克看来，他推动电动汽车行业发展的主要目标已经实现。剩下的大多是一些更琐碎的事情，比如推出新车型以及迎合华尔街分析师的情绪。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1788,
+  "body_sha256": "0bcc85c4dc02a7e677e17dc53e27d04218e13687f7bf7b52dc1adf4c754377f1",
+  "raw_sha256": "9323445a980a646578928887a922f41bc4b8186fff1ea00214f77b266cc275bc",
+  "raw_bytes": 9769,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/68e8a3e8-a548-4bb5-ba52-e70ae8c4c116.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 1719,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:46+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "9323445a980a646578928887a922f41bc4b8186fff1ea00214f77b266cc275bc",
+      "bytes": 9769
+    },
+    "article.html": {
+      "sha256": "eee7ecd86af582a0532944db431a4a0def10ae159e525a420bfdd2afe19ca0a6",
+      "bytes": 9886
+    },
+    "article.md": {
+      "sha256": "37641e037218a0f2e26786a257b628f2b3821f4d325a61cf0639106ba710175e",
+      "bytes": 5488
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:46+08:00"
+}

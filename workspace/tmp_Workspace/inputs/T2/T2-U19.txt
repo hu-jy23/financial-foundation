@@ -1,0 +1,2317 @@
+
+
+===== PDF 612 | 印刷页 577 =====
+
+21
+Chapter
+
+                       Output, Inflation,
+                       and Monetary Policy
+
+ Learning Objectives
+ After reading this chapter, you should be able to:
+   LO1     Describe the determinants of output and inflation in the long run.
+
+   LO2     Show the role of monetary policy in the dynamic aggregate demand curve.
+
+   LO3     Characterize aggregate supply in the short run and the long run.
+
+   LO4     Explain short-run and long-run equilibrium using the dynamic aggregate
+           demand and aggregate supply curves.
+
+
+Governments publish economic data constantly. Almost every day we receive new
+information on some aspect of the economy with news stories quoting experts on what
+it all means. Is inflation on the way up? Is the economy on the verge of recession? An
+important part of such analyses is speculation about the impact of the new data on
+monetary policy. In our discussion of central banking, we noted that conjecture about
+policymakers’ likely reaction fills the financial news. And no wonder, for members of
+the committees that set interest rates—the FOMC in the United States and the Govern-
+ing Council in the euro area—always tie their policy actions to current and expected
+future economic conditions.
+    Needless to say, everyone is preoccupied with monetary policy. While traders in the
+financial markets are trying to outguess each other, to make a profit by betting on the
+next move in interest rates, the rest of us are just hoping the central bank will succeed
+in keeping inflation low and real growth high. How do policymakers do it? What is the
+mechanism through which changes in the interest rate influence inflation and output?
+And what are the limits of policymakers’ power to control the economy?
+    As we just learned in Chapter 20, in the long run, inflation is tied to money growth.
+Over periods of several decades, high money growth leads to high inflation. Further-
+more, long-run growth depends on technology, the size of the capital stock, the number
+of people who can work, and the skills of the workers. But over shorter periods of
+months or years, changes in the rate of money growth tell us little about future move-
+ments in the inflation rate. That is especially true when inflation is low, as it has been
+throughout much of the industrialized world over the past two decades.
+    The objective of this chapter is to understand fluctuations in inflation and real
+output and how central banks use conventional interest rate policy to stabilize them.
+To do it, we will develop a macroeconomic model of fluctuations in the business
+cycle in which monetary policy plays a central role. From this, we will see that
+
+                                            577
+
+
+===== PDF 613 | 印刷页 578 =====
+
+578   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+                        short-run movements in inflation and output can arise from two sources: shifts in the
+                        quantity of aggregate output demanded (i.e., changes in consumption, investment,
+                        government spending, or net exports) and shifts in the quantity of aggregate output
+                        supplied (that is, changes in normal production and in the use of that capacity).
+                        Modern monetary policymakers work to reduce the volatility that each of these cre-
+                        ates by adjusting the target interest rate.
+                           We will develop our macroeconomic model in three steps, beginning with a descrip-
+                        tion of long-run equilibrium. We then move on to derive the dynamic aggregate
+                        demand curve, which shows the quantity of real output demanded by those people who
+                        use it at each level of inflation, that is, how real output is related to changes in the
+                        prices, not just their level. Here we will see the critical role of monetary policy. Then,
+                        we introduce aggregate supply, which is the level of real output supplied by firms at
+                        each level of inflation. There is both a short-run and a long-run version of the aggre-
+                        gate supply curve. In the short run, equating dynamic aggregate demand with short-
+                        run aggregate supply gives us the equilibrium levels of output and inflation. Business
+                        cycles are movements in this short-run equilibrium. And because we have built mone-
+                        tary policy into the model, we will see how modern central banks can use their policy
+                        tools to stabilize short-run fluctuations in output and inflation. (The appendix to this
+                        chapter contains an algebraic version of the model.)
+                           As we proceed through the chapter, keep in mind that our ultimate objective is to
+                        understand how modern central bankers determine the level or range of the target
+                        interest rate. When policymakers change the target rate, what are they reacting to, and
+                        what is the impact on the economy?
+
+
+
+                        Output and Inflation in the Long Run
+                        A useful way to understand fluctuations in the business cycle is as deviations from
+                        some benchmark or long-run equilibrium level. The booms and recessions that make
+                        up business cycles are temporary movements away from this long-run equilibrium
+                        level. So we begin with the following question: What would the levels of inflation and
+                        output be if nothing unexpected happened for a long time? The answer to this question
+                        is that in the long run, current output equals potential output—the level of output
+                        given existing technology and normal use of resources—and the inflation rate equals
+                        the level implied by the rate of money growth.
+
+
+                        Potential Output
+                        Potential output is what the economy is capable of producing when its resources are
+                        used at normal rates. Imagine you are running a company that produces baseball bats for
+                        the Milwaukee market. You have estimated the demand for bats based on the i­ nformation
+                        available to you, purchased machines, and hired workers to operate them. If everything
+                        goes according to plan, you’ll make a nice profit. But suddenly the M
+                                                                                            ­ ilwaukee Brewers,
+                        a team that has never won a World Series, wins the championship and the number of
+                        kids who play baseball in your area increases dramatically. Your bat sales skyrocket. To
+                        meet the increased demand, you begin running your factory around the clock.
+                           What happened? The fact that the Brewers have won the World Series has driven
+                        your output above the normal level—that is, above your potential output. Now, what if
+                        the local professional basketball team, the Milwaukee Bucks, were suddenly success-
+                        ful? This would create a boom in the sale of basketballs at the expense of baseball
+                        equipment, forcing you to cut back on production below normal levels. The reduction
+
+
+===== PDF 614 | 印刷页 579 =====
+
+                                                                                      Output and Inflation in the Long Run            l   579
+
+
+
+
+                         Distinguishing Inflation, Deflation, and Disinflation
+                         YOUR FINANCIAL WORLD
+
+
+   What do people mean when they refer to inflation and                  driving up that month’s consumer price index (CPI) by 1 percent.
+   ­deflation?                                                           The next month, however, prices don’t change, so the CPI is
+         In normal conversation, people often use the word infla-        unchanged as well. At the end of this episode, the month-to-
+    tion when they are referring to price increases. If the price of     month inflation rate is where it started, at zero, but the price
+    gasoline or the cost of a basket of groceries rises, that’s infla-   level as measured by the CPI is 1 percent higher.
+    tion. When The Wall Street Journal reports that the inflation            In recent years, as price increases have slowed and
+    rate was one-tenth of 1 percent over the past month, it means        even turned negative, deflation and disinflation also have
+    that the average price level went up. But these common               been added to the common vocabulary, but these two
+    uses of the term inflation do not distinguish such one-time          words mean very different things. Deflation is simply the op-
+    changes in the price level from an ongoing rise in prices.           posite of inflation: inflation is a sustained rise in the price
+         Economists use the term in the latter sense. To them, in-       level, whereas deflation is a sustained decline. And just as a
+    flation means a continuously rising price level—that is, a sus-      one-time rise in prices has no impact on the trend of infla-
+    tained rise that continues for a substantial period. In              tion, a one-time drop in prices has no impact on the trend of
+    discussing changes in inflation, economists emphasize the            deflation.
+    distinction between temporary and permanent changes. A                   In contrast, disinflation means a slowdown in the pace of
+    temporary change is a one-time adjustment in the price level         inflation, not a decline in prices. But it could lead there. Con-
+    that does not change the trend of inflation, while a perma-          sider the recent history of global price developments. Over
+    nent change is a rise or fall in the trend.                          the past two decades, disinflation has reduced inflation to
+         To see the difference, consider an example in which the         such a low level in a few advanced economies that they face
+    inflation rate is zero. Then, gasoline prices suddenly rise,         the risk of outright deflation.
+
+
+
+
+in the rate at which you use your resources would drive your output level below the
+potential level at which you could produce.
+    Over time, conditions at your baseball bat factory are likely to change. First, if you
+come to believe that an increase or decrease in the demand for your product is permanent,
+you will change the scale of your factory, redesigning it to enlarge or reduce its size. And
+second, technological improvements allow you to increase the factory’s production at
+given levels of capital and labor. In other words, your factory’s normal level of output
+evolves over time—usually going up, but occasionally going down. So, in the short run
+production can deviate from normal, while in the long run the normal level itself changes.
+    What is true for the Milwaukee bat manufacturer is true for the economy as a whole.
+There is a normal level of production that defines potential output. But potential output
+is not a fixed level. Because the amount of labor and capital in an economy can grow,
+and improved technology can increase the efficiency of the production process, potential
+output tends to rise over time. Furthermore, unexpected events can push current output
+away from potential output, creating what is called an output gap. When current output
+climbs above potential it creates an expansionary output gap; when current output
+falls below potential, it creates a recessionary output gap. These output gaps eventually
+cancel each other out, so that in the long run, current output equals potential output.
+
+Long-Run Inflation
+The other key to long-run equilibrium is inflation. In the last chapter, we saw that the
+equation of exchange, MV = PY, implies that money growth plus the change in the
+velocity of money equals inflation plus real growth:
+                                    %∆M + %∆V = %∆P + %∆Y
+
+
+===== PDF 615 | 印刷页 580 =====
+
+580   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+                       where M is the quantity of money, V is the velocity of money, P is the price level, Y is
+                       real output, and “%∆” stands for percentage change. We can restate this equation in
+                       terms of potential output, which we will call Y P. In the long run, because current out-
+                       put equals potential output, real growth must equal growth in potential output (%∆Y =
+                       %∆Y P) and changes in velocity are unimportant (%∆V = 0). From this we can con-
+                       clude that, in the long run, inflation equals money growth minus growth in potential
+                       output (%∆P = %∆M − %∆YP).
+                          While central bankers focus primarily on controlling short-term nominal interest
+                       rates, they keep an eye on money growth. They know that when they adjust the target
+                       nominal interest rate, their action affects the rate at which money grows. That is what
+                       ultimately determines inflation. But in the short run, over periods even as long as a few
+                       years, fluctuations in velocity weaken this link substantially.
+                          We turn now to a discussion of the role of monetary policy in the determination of
+                       fluctuations in current output and inflation. To understand that role, we need to
+                       develop a simple macroeconomic model—a shorthand description of the economy that
+                       helps us organize our thinking.
+
+
+                       Monetary Policy and the Dynamic
+                       Aggregate Demand Curve
+                       Policymakers know that money growth is an important benchmark for tracking
+                       long-run inflation trends. In fact, when faced with very high inflation, central bank-
+                       ers will focus almost exclusively on controlling money growth. Reducing the growth
+                       of the money supply is the only way to bring down inflation of 50 or 100 percent
+                       per year.
+                          But with 1 or 2 or even 5 percent inflation, restraining money growth is not a cen-
+                       tral short-run policy objective. Under such circumstances, modern central bankers
+                       concentrate on manipulating interest rates in order to keep inflation low and close the
+                       gap between current and potential output. Thus, the Federal Reserve Open Market
+                       Committee’s policy statements announce and explain interest rate decisions or planned
+                       changes in the scale and composition of Fed assets, but make virtually no mention of
+                       money growth. If we want to understand the role of central bankers in stabilizing the
+                       economy—and particularly how policymakers themselves think about their role—we
+                       need to examine the connection between short-term interest rates and policymakers’
+                       inflation and output objectives.
+                          Because our task is somewhat complex, it is useful to have an overview of
+                       where we are going. The goal is to understand the relationship between inflation
+                       and the quantity of aggregate output demanded by those people that use it. To get
+                       there, we will proceed in three steps. First, we examine the relationship between
+                       aggregate expenditure and the real interest rate. Next, we study how monetary
+                       policymakers adjust their interest rate instrument in response to changes in infla-
+                       tion. And finally, we put these two together to construct the dynamic aggregate
+                       demand curve that relates output and inflation. A short summary, also shown in
+                       Figure 21.1, is as follows:
+                          1. Aggregate expenditure and the real interest rate. We begin with a description
+                             of how aggregate expenditure—primarily investment and consumption—­
+                             depends on the real interest rate. As the real interest rate rises, investment
+                             and consumption fall, reducing the level of aggregate expenditure. There is a
+
+
+===== PDF 616 | 印刷页 581 =====
+
+                                                         Monetary Policy and the Dynamic Aggregate Demand Curve                      l   581
+
+
+
+
+  Figure 2 1 . 1       Inflation, Monetary Policy, and Aggregate Demand
+
+
+
+       Current                                          Real Interest                                               Quantity of
+      Inflation                                            Rate                                                     Aggregate
+                                Monetary                                                Consumption                  Output
+                               policy reacts                                           and investment               Demanded
+                                                                                             fall
+
+When inflation rises, policymakers react by raising the real interest rate. Higher real interest rates reduce consumption and investment,
+lowering the quantity of aggregate output demanded.
+
+
+
+      d­ ownward-sloping relationship between the quantity of aggregate expenditure
+       and the real interest rate.
+   2. Inflation, the real interest rate, and the monetary policy reaction curve. Next,
+       we will see that monetary policymakers respond to increases in inflation by rais-
+       ing their policy-controlled interest rate. And, importantly, they raise their nomi-
+       nal policy rate by more than the change in inflation (see, for example, the Taylor
+       rule on pages 497–503). So, because of the way policymakers react, when infla-
+       tion rises, the real interest rate goes up. There is an upward-sloping relationship
+       between inflation and the real interest rate that we will call the monetary policy
+       reaction curve.
+   3. The dynamic aggregate demand curve. Putting 1 and 2 together—the fact that
+       monetary policymakers react to higher inflation by raising the real interest rate
+       and that a higher real interest rate reduces the level of aggregate expenditure—
+       gives us a relationship between inflation and the quantity of aggregate output
+       demanded that we will call the dynamic aggregate demand curve. And like con-
+       ventional demand curves, this one slopes down, so that’s how we will draw it.
+       The dynamic aggregate demand curve is a downward-sloping relationship
+       between inflation and aggregate output.
+     Before continuing, it is important to keep in mind that economic decisions of house-
+holds to consume and of firms to invest depend on the real interest rate, not the
+­nominal interest rate. So, to alter the course of the economy, central banks must influ-
+ ence the real interest rate. As it turns out, in the short run, when monetary policymak-
+ ers operating in a credible policy framework change the nominal interest rate, they
+ change the real interest rate. To see why, remember that the nominal interest rate (i)
+ equals the real interest rate (r) plus expected inflation (πe): i = r + πe. Solving this for
+ r tells us that r = i − πe, or the real interest rate equals the nominal interest rate minus
+ expected inflation. Importantly, inflation expectations reflect the credibility of the
+ ­central bank—its record of matching word and deed (see the discussion of credibility
+  on pages 409–410). For a central bank that is effective at stabilizing inflation and out-
+  put, inflation expectations adjust slowly in response to changes in economic condi-
+  tions. This means that when policymakers alter i, πe doesn’t change, so changes in the
+  nominal interest rate alter the real interest rate.
+     Data for the past several decades make it clear that movements in the short-term
+  nominal interest rate are also movements in the short-term real interest rate. To see this,
+  look at Figure 21.2, which plots the nominal and real three-month Treasury bill rates.
+
+
+===== PDF 617 | 印刷页 582 =====
+
+582        l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+
+   Figure 21.2              The Nominal and Real Three-Month Treasury Bill Rates
+
+
+                 12
+                 10
+                  8
+                  6
+   Percent (%)
+
+
+
+
+                  4
+                  2
+                  0
+                 –2
+                 –4
+                 –6
+                  1983 1985 1987 1989 1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019
+                                                   Nominal Interest Rate                          Real Interest Rate
+
+
+The real Treasury bill rate is computed as the monthly nominal three-month Treasury bill rate minus expected inflation for the next year
+from the University of Michigan’s Survey of Consumers. The FRED data codes are TB3MS and MICH, respectively.
+SOURCE: Federal funds rate data are from the Federal Reserve; inflation expectations data are drawn from the median expected change in prices during the next
+12 months, Table 32 of the Michigan Survey, available at www.sca.isr.umich.edu.
+
+
+
+                                 The figure shows that these two short-term interest rates rise and fall together (with a
+                                 correlation of 0.98). So, when one changes, so does the other. We also know that the
+                                 interest rate on three-month Treasury bills moves closely with the overnight interest
+                                 rate that the FOMC controls. This means that when the Federal Reserve raises its nom-
+                                 inal interest rate target, it raises the real interest rate with it.
+                                    The real interest rate, then, is the lever through which monetary policymakers influ-
+                                 ence the real economy. In changing real interest rates, they influence consumption,
+                                 investment, and other components of aggregate expenditure. Let’s see how this all works.
+
+                                 Aggregate Expenditure and the Real Interest Rate
+                                 The Components of Aggregate Expenditure and the Real Interest Rate​
+                                 To understand the impact of monetary policy on the economy we need to link the real
+                                 interest rate to the level of output. This task requires a detailed description of aggre-
+                                 gate expenditure and its relationship to the real interest rate. The best way is to start
+                                 with the national income accounting identity from principles of economics that ana-
+                                 lyzes the uses of the economy’s output. Doing so allows us to divide aggregate
+                                 expenditure into four parts:
+                                 Aggregate expenditure = Consumption + Investment + Government purchases + (Exports − Imports)
+                                             Y              =         C         +        I       +               G               +       (X      −     M)
+
+                                 The terms in this expression are defined as follows:
+                                     1. Consumption (C ) is spending by individuals for items like food, clothing,
+                                        ­housing, transportation, entertainment, and education, accounting for around
+                                         68 percent of GDP.
+
+
+===== PDF 618 | 印刷页 583 =====
+
+                                                          Monetary Policy and the Dynamic Aggregate Demand Curve   l   583
+
+
+
+    2. Investment (I ) is spending by firms for additions to the physical capital they use
+       to produce goods and services.1 Examples would include new buildings and
+       equipment. The cost of newly constructed residential homes, as well as the
+       change in the level of business inventories, is also included. All together, these
+       expenditures averaged 17 percent of U.S. GDP since 2000.
+    3. Government purchases (G) is spending on goods and services by federal, state,
+       and local governments. New military equipment and schools fall into this cate-
+       gory, as well as the salaries of public school teachers, police officers, and fire-
+       fighters; but transfers, like unemployment insurance payments and Social
+       ­Security, are not included. Total federal, state, and local government purchases
+        in the United States averaged around 19 percent of GDP since 2000.
+    4. Net exports equals exports minus imports (X − M). Remember that exports are
+        goods and services produced in one country and sold to residents of another
+        country; imports are purchases of foreign-made goods and services. The differ-
+        ence between the two represents the net expenditure for domestically produced
+        goods.2 Since 2000, U.S. net exports have been negative, averaging −4 percent
+        of GDP.
+    For our purposes, it is helpful to think of aggregate expenditure as having two parts,
+one that is sensitive to changes in the real interest rate and one that is not. Three of the
+four components of aggregate expenditure—consumption, investment, and net
+­exports—are sensitive to changes in the real interest rate. Among these, investment is
+ the most important. Deciding whether to replace an existing machine or purchase a
+ new one is a complicated matter, dependent on a comparison of the revenue generated
+ by the investment with the cost of financing it. This decision boils down to a compar-
+ ison of the return on the investment and the cost of borrowing to finance it.3 An invest-
+ ment can be profitable only if its internal rate of return exceeds the cost of borrowing.
+ From this, we can conclude that the higher the cost of borrowing, the less likely that an
+ investment will be profitable. Because borrowers and lenders both care about the real
+ return, we see immediately that the higher the real interest rate, the lower the level of
+ investment. Higher interest rates also reduce residential investment—the construction
+ of new homes—as larger mortgage payments make houses less affordable.
+    While investment may be the most important component of aggregate expenditure
+ that is sensitive to real interest rates, it isn’t the only one. Consumption and net exports
+ respond to the real interest rate as well. What is true for a business considering an
+ investment, for example, is true for a family thinking of buying a new car. Higher real
+ interest rates mean higher inflation-adjusted car-loan payments, which make new cars
+ more costly. Furthermore, as the real interest rate rises, the reward to saving goes up.
+ More saving means lower consumption.
+    The case of net exports is more complicated. Briefly, when the real interest rate in
+ the United States rises, U.S. financial assets become more attractive to foreigners.4
+
+1
+  Remember that economists use the term investment differently from the way it is used in the business press. In
+the business press, an investment is a financial instrument like a stock or bond that people use as a means of
+holding their wealth. Importantly, though, people who make such a “financial investment” or who purchase a
+house from its current owner aren’t creating anything new; they are buying something that already exists. To an
+economist, investment is the creation of new physical capital.
+2
+  Net exports are often referred to as the current account surplus: see the appendix to Chapter 19, What You
+Really Need to Know about the Balance of ­Payments.
+3
+  See the discussion of internal rate of return in Chapter 4.
+4
+  There is a more detailed discussion in Chapter 10.
+
+
+===== PDF 619 | 印刷页 584 =====
+
+584 l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+                          This rise in the desirability of U.S. assets to foreigners increases the foreign demand
+                          for dollars, causing the dollar to appreciate (see Chapter 10, pages 251–253, for the
+                          impact of the policy interest rate on the exchange rate). The higher the value of the
+                          dollar, the more expensive U.S. exports will be, and the cheaper U.S. imports will be.
+                          Together, lower exports and higher imports mean lower net exports. Again, the higher
+                          real interest rate has reduced a component of aggregate expenditure.
+                             Finally, there is government expenditure. While changes in the real interest rate
+                          may have an impact on the government’s budget by raising the cost of borrowing, the
+                          effect is likely to be small, so we will ignore it.
+                             For three of the four components of aggregate expenditure, then, our conclusion is
+                          the same: When the real interest rate rises:
+                             ∙ Consumption (C ) falls because the reward to saving and the cost of financing
+                                 purchases are now higher.
+                             ∙ Investment (I ) falls because the cost of financing has gone up.
+                             ∙ Net exports (X − M) fall because the domestic currency has appreciated, making
+                                 imports cheaper and exports more expensive.
+                                                                                     Thus, as shown in Figure 21.3, a rise in
+   Figure 21.3
+                                                                                     the real interest rate reduces the level
+                          Aggregate Expenditure and the Real Interest Rate
+                                                                                     of aggregate expenditure.5
+                                                                                        Bear in mind, though, that the compo-
+                                                                                     nents of aggregate expenditure can
+        Real Interest                                                                change for reasons unrelated to the real
+               Rate (r)                                                              interest rate. Consumption or investment
+                                                                                     can rise when individuals or businesses
+                                                                                     become more confident about their
+                                                                                     future income or sales, or when their net
+                                                                                     worth increases. Government purchases
+                                                           AE                        can increase because of a change in fiscal
+                                                                                     policy, and net exports can climb because
+                                                    Aggregate Expenditure            of movement in the exchange rate. Any
+                                                                                     of these would shift the aggregate
+                                                                                     expenditure curve in Figure 21.3, increas-
+A fall in the real interest rate leads to an increase in aggregate expenditure.
+                                                                                     ing the level of a­ ggregate expenditure at
+                                                                                     every level of the real interest rate.
+                                     Table 21.1 provides a summary of the relationship between aggregate expenditure
+                                 and the real interest rate.
+                                     We can see immediately how the relationship between the real interest rate and the
+                                 level of aggregate expenditure helps central bankers achieve one of their objectives: stabi-
+                                 lizing current output at a level close to potential output. When economic activity speeds
+                                 up or slows down and current output moves above or below potential output, policymak-
+                                 ers can adjust the real interest rate in an effort to close the expansionary or recessionary
+                                 gap. But as we have emphasized repeatedly throughout our study of monetary policy,
+                                 central bankers spend much of their time worrying instead about keeping inflation low.
+
+                          The Long-Run Real Interest Rate          Before diving into a description of the rela-
+                          tionship between monetary policy and inflation, there is one more thing we must do.
+                          We need to figure out what happens to the real interest rate over the long run. Earlier
+
+                          5
+                           If you have studied intermediate macroeconomics, you will recognize this relationship as the “IS” curve.
+
+
+===== PDF 620 | 印刷页 585 =====
+
+                                                           Monetary Policy and the Dynamic Aggregate Demand Curve               l   585
+
+
+
+
+    Table 21.1        The Relationship between Aggregate Expenditure and the Real Interest Rate
+
+
+
+     What is it?                         The downward-sloping relationship between the quantity of aggregate expenditure
+                                         (C + I + G + NX ) and the real interest rate (r).
+
+     Why does it slope down?             When the real interest rate rises, the components of aggregate expenditure, especially
+                                         consumption and investment, fall.
+
+     When does it shift?                 When aggregate expenditure goes up for reasons unrelated to changes in the real
+                                         interest rate, the relationship shifts to the right. Examples include:
+
+                                         1. Increases in optimism that drive up consumption or investment.
+                                         2. Rising net worth that increases spending.
+                                         3. Changes in fiscal policy that raise government expenditure or reduce taxes.
+                                         4. Increases in net exports that are unrelated to changes in the real interest rate.
+
+
+
+
+we discussed the concept of potential output and noted the economy’s tendency to
+move toward that normal level over time. In this section we have examined how vari-
+ous components of aggregate expenditure respond to the real interest rate. We have
+seen that higher real interest rates, holding constant things like business and consumer
+confidence as well as government expenditure, are associated with lower levels of
+aggregate expenditure. Putting these two discussions together, we can conclude that
+there must be some level of the real interest rate at which aggregate expenditure equals
+potential output. That is, there is some level of aggregate expenditure that is consistent
+with the normal level of output toward which the economy moves over the long run.
+This concept is important enough that we will give it a name, the long-run real ­interest
+rate. The long-run real interest rate, which we will call call r* (“r-star”), equates the
+level of aggregate expenditure to the quantity of potential output. (Note that r* is the
+same as the neutral or “natural” rate of interest that we described in Chapter 18.)
+    To figure out the level of r*, take the aggregate expenditure curve drawn in Figure
+21.3 and find the interest rate that is consistent with the quantity of potential output
+(Y P).6 You can see how to do it in Figure 21.4. This figure helps us understand the two
+possible reasons that the long-run real interest rate can change: (1) shifts in the aggre-
+gate expenditure curve, and (2) changes in the level of potential output.
+    First, take the case in which the level of potential output remains fixed, but there is
+a rise in some of the components of aggregate expenditure that do not respond to the
+real interest rate. One example of this is a rise in government purchases (all other
+things held equal). When G goes up, it increases the level of aggregate expenditure at
+every real interest rate, shifting the aggregate expenditure curve to the right. The result
+
+
+6
+ Computing a numerical estimate for the long-run real interest rate is unfortunately complicated because it is
+related to the return on capital investment (adjusted for risk) in the economy as a whole, a quantity that is very
+difficult to calculate. Furthermore, it can change over time. For example, in the early 2000s, one estimate of
+the “natural rate” of interest in the United States put it in the range of 2½ to 3 percent. More recently it has
+fallen, and appears to be in the range between ½ and 1 percent. See Kathryn Holston, Thomas Laubach, and
+John C. Williams, “Measuring the Natural Rate of Interest: International Trends and Determinants,” Journal
+of International Economics 108, supplement 1 (May 2017), pp. S39–S75. For recent data, see www.newyorkfed.
+org/research/policy/rstar.
+
+
+===== PDF 621 | 印刷页 586 =====
+
+586   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+
+                            Figure 21.4        The Long-Run Real Interest Rate
+
+
+
+                                     Real Interest
+                                         Rate (r)
+                                       Long-Run
+                                     Real Interest
+                                        Rate (r*)
+
+
+
+                                                                                              AE
+
+                                                          Potential Output (YP)            Aggregate Expenditure
+
+                        The long-run real interest rate (r*) equates aggregate expenditure with potential output (Y P).
+
+
+
+                        is shown in Panel A of Figure 21.5. For the level of aggregate expenditure to remain
+                        equal to the (unchanged) quantity of potential output, the interest-sensitive compo-
+                        nents of aggregate expenditure must fall. For that to happen, r* must rise.7 Besides
+                        government purchases, there are portions of consumption, investment, and net exports
+                        that are not sensitive to the real interest rate. If any of those components rises, driving
+                        aggregate expenditure up at every level of the real interest rate, r* must go up.
+                            What about the second case in which a change in potential output causes a change
+                        in r*? This has an inverse effect on the real interest rate. When the quantity of poten-
+                        tial output rises, the level of aggregate expenditure must rise with it. As we have
+                        seen, an increase in the level of aggregate expenditure requires a decline in the real
+                        interest rate. (Take a look at Panel B of Figure 21.5.) In addition, when potential
+                        output goes up, r* falls.
+                            In summary, the long-run real interest rate (r*) is that level at which aggregate
+                        expenditure (C + I + G + NX ) equals potential output (Y P ). When components of
+                        ­aggregate expenditure that are not sensitive to the real interest rate rise, r* rises with
+                         them. But when potential output rises, r* falls. Importantly, the level of r* is a conse-
+                         quence of the structure of the economy; it is not something policymakers can choose.
+
+                        Inflation, the Real Interest Rate,
+                        and the Monetary Policy Reaction Curve
+                        We now move to the second of the three steps in our derivation of the relationship
+                        between inflation and the level of aggregate output demanded: In response to changes
+                        in inflation, policymakers adjust their policy-controlled interest rate.
+
+                        7
+                         This effect is related to what is sometimes called “crowding out.” The idea is that government spending can
+                        take the place of investment. The more common type of crowding out occurs when the government borrows
+                        funds to increase spending, thereby increasing the supply of bonds. An increase in the supply of bonds drives
+                        the price of bonds down, increasing the interest rate, and reducing investment. When the economy is operating
+                        at its potential and the government borrows, firms can’t, so investment is crowded out.
+
+
+===== PDF 622 | 印刷页 587 =====
+
+                                                      Monetary Policy and the Dynamic Aggregate Demand Curve                       l 587
+
+
+
+
+  Figure 21.5         Change in the Long-Run Real Interest Rate
+
+
+
+    Real         A. Shifts in Aggregate Expenditure              Real         B. Changes in Potential Output
+    Interest                                                     Interest
+    Rate (r)                                                     Rate (r)
+             r*1                                                          r*0
+            r*0                                                         r*1
+
+
+                                                       AE1                                                     AE
+                                           AE 0
+                               YP                 Aggregate                           YP0     YP1                  Aggregate
+                                                  Expenditure                                                      Expenditure
+
+                  When aggregate expenditure shifts right from                When potential output increases from Y P0 to Y P1 ,
+                  AE0 to AE1 , the long-run real interest rate                the long-run real interest rate falls from r*0 to r*1 .
+                  increases from r*0 to r*1 .
+
+
+
+
+    In early 2019, consumer price inflation in the United States was rising at a rate
+of around 2 percent per year, while current output was roughly equal to the
+­Congressional Budget Office’s estimate of potential output. In this context, at the
+ conclusion of its meeting on December 18, 2018, the Federal Open Market Com-
+ mittee released a statement that read, in part: “The Committee judges that some
+ further gradual increases in the target range for the federal funds rate will be con-
+ sistent with sustained expansion of economic activity, strong labor market condi-
+ tions, and inflation near the Committee’s symmetric 2 percent objective over the
+ medium term.”
+    That is, FOMC members had concluded that economic conditions justified raising
+ the real interest rate in an effort to ensure that output would grow consistently with its
+ potential and that inflation would remain near its target. Furthermore, they made clear
+ the likelihood that, provided the economy expanded in line with their projections,
+ there would be additional interest rate increases in the coming year.
+    Statements made by the European Central Bank’s Governing Council following its
+ meeting the previous week revealed a somewhat different perspective. On December
+ 13, 2018, the ECB left the interest rate on its deposit facility at a then-record low (of
+ −0.4 percent). There, circumstances were quite different. With inflation at 1.6 percent
+ and slowly rising toward the target, the statement following the meeting read, “Based
+ on our regular economic and monetary analyses, we decided to keep . . . interest rates
+ unchanged. We continue to expect them to remain at their present levels at least
+ through the summer of 2019, and in any case for as long as necessary to ensure the
+ continued sustained convergence of inflation to levels that are below, but close to, 2%
+ over the medium term.” While the Governing Council made clear that interest rates
+ were not going to rise for at least another nine months, it did announce the end of its
+ asset purchase program, which had begun in early 2015 (see Chapter 18 on unconven-
+ tional monetary policy tools beginning on page 503).
+
+
+===== PDF 623 | 印刷页 588 =====
+
+588 l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+
+                              Investment and the Business Cycle
+                              APPLYING THE CONCEPT
+
+  Fluctuations in investment are one of the most important                      what we are really talking about is a drop in investment.
+  sources of changes in aggregate expenditure. Over short pe-                       What causes the level of investment to change? The tools
+  riods of a quarter or a year, consumption and government                      we have developed suggest two possibilities: changes in the
+  purchases tend to be fairly stable; and net exports are just too              real interest rate and changes in expectations about future
+  small to account for much of the variation in aggregate out-                  business conditions. Remember, an investment will be profita-
+  put. So understanding fluctuations in the business cycle                      ble when its real internal rate of return exceeds its real cost of
+  means understanding changes in investment.                                    financing. Once again, the real interest rate is what matters in
+      To grasp this point, look at Figure 21.6, which plots the ra-             economic decisions. The higher the real cost of financing, the
+  tio of investment to gross domestic product over the past 58                  less likely that an investment will be profitable. And the lower
+  years. The shaded bars designate recessions. Note that from                   the expected future revenue from an investment is, the lower
+  1960 to 2018, investment fluctuated from less than 13 percent                 the real internal rate of return will be. So the higher the real
+  of GDP to nearly 21 percent of GDP. More to the point, during                 interest rate and the less optimistic businesspeople are about
+  every recession, investment itself falls by between 2 and 5                   the future, the fewer investments firms will undertake and the
+  percent of GDP, which is roughly the same size as the fall in                 more likely the economy will fall into recession.
+  GDP itself. In other words, when we talk about a recession,
+
+
+
+              Figure 21.6               Investment and the Business Cycle: The Ratio of Investment to GDP
+
+
+                     21
+                     20
+                     19
+                     18
+       Percent (%)
+
+
+
+
+                     17
+                     16
+                     15
+                     14
+                     13
+                     12
+                      1960   1965       1970     1975     1980      1985      1990      1995     2000      2005      2010      2015     2020
+
+
+      SOURCE: Ratio of nominal gross domestic investment (FRED code: GPDI) to nominal gross domestic product (FRED code: GDP), seasonally
+      adjusted at annual rates, from the Department of Commerce, Bureau of Economic Analysis. Shaded bars denote recessions, dated by the
+      National Bureau of Economic Research.
+
+
+
+
+                                       While the specifics differ, both statements clearly indicate that policymakers set
+                                    their short-run nominal interest rate targets in response to economic conditions in gen-
+                                    eral, and inflation in particular.8 Low inflation leads central banks to ease monetary
+                                    conditions by lowering interest rates.
+                                    8
+                                     The fact that policy does not have an immediate impact on either inflation or output complicates matters
+                                    substantially. In fact, interest rate changes must anticipate changes in inflation and output, so they must be based
+                                    on forecasts as much as on current levels. That is why, in their public comments, central bankers nearly always
+                                    refer to inflation expectations and to likely future developments.
+
+
+===== PDF 624 | 印刷页 589 =====
+
+                                                         Monetary Policy and the Dynamic Aggregate Demand Curve   l   589
+
+
+
+   These two examples are representative of the sorts of things central bankers com-
+monly say. Looking at the details, we can conclude that when current inflation is
+high or current output is running above potential output, central bankers will set a
+relatively high policy interest rate; when current inflation is low or current output is
+well below potential, they will set a low policy interest rate. Importantly, central
+bankers envision themselves as reacting to changes in the economic environment.
+And while they state their policies in terms of nominal interest rates, they do so
+knowing that changes in the nominal interest rate will translate into changes in the
+real interest rate. As we have discussed, these changes in the real interest rate influ-
+ence the economic decisions of firms and households. We can summarize all of this
+in the form of a monetary policy reaction curve (MPRC) that approximates the
+behavior of central bankers.
+
+Deriving the Monetary Policy Reaction Curve                   We introduced a version of
+the monetary policy reaction curve in Chapter 18 when we looked at a rule of thumb
+(the Taylor rule) for understanding how the FOMC sets its federal funds rate target.
+There we saw that in order to ensure that deviations of inflation from the target rate are
+only temporary, policymakers respond to changes in inflation by changing the real
+interest rate in the same direction. That is, higher current inflation requires a policy
+response that raises the real interest rate, and lower current inflation requires a policy
+response that lowers the real interest rate. This means that the monetary policy reac-
+tion curve slopes upward as shown in Figure 21.7.
+   Where do we draw the reaction curve? What determines its location? The location
+depends on where policymakers would like the economy to end up in the long run,
+which is the equilibrium toward which the economy tends over time. For the real inter-
+est rate, the economy moves toward the long-run real interest rate that equates aggre-
+gate expenditure with potential output. That interest rate is shown as r* in Figure 21.7.
+For inflation, the answer is the central bank’s target level (πT ). The monetary policy
+
+
+
+  Figure 21.7          The Monetary Policy Reaction Curve
+
+
+
+              Real Interest
+                Rate (r)
+                                                                         Monetary Policy
+                                                                         Reaction Curve
+               Long-Run
+              Real Interest
+               Rate (r*)
+
+
+
+
+                                            Target Inflation (πT )              Inflation (π)
+
+Monetary policymakers react to increases in current inflation by raising the real interest rate, while
+decreases lead them to lower it. The monetary policy reaction curve is located so that the central bank’s
+target inflation is consistent with the long-run real interest rate, which equates aggregate expenditure
+with potential output.
+
+
+===== PDF 625 | 印刷页 590 =====
+
+590   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+                              reaction curve is set so that when current inflation equals target inflation, the real
+                              interest rate equals the long-run real interest rate. That is, r = r* when π = πT.
+                                 While the long-run real interest rate and the inflation target tell us the location of
+                              the monetary policy reaction curve, what governs its slope? Is the curve steep or flat?
+                              The answer is that the slope depends on policymakers’ objectives. When central bank-
+                              ers decide how aggressively to pursue their inflation target, and how willing they are
+                              to tolerate temporary changes in inflation, they are determining the slope of the mon-
+                              etary policy reaction curve. They are deciding whether to respond to deviations of
+                              current inflation from target inflation with small or large changes in the real interest
+                              rate. Policymakers who are aggressive in keeping current inflation near target will
+                              have a steep monetary policy reaction curve; while those who are less concerned will
+                              have a reaction curve that is relatively flat. We look at the implications of this differ-
+                              ence at the end of the next chapter.
+
+                              Shifting the Monetary Policy Reaction Curve                  When policymakers adjust the
+                              real interest rate, they are either moving along a fixed monetary policy reaction curve or
+                              shifting the curve. A movement along the curve is a reaction to a change in current infla-
+                              tion. A shift in the curve represents a change in the level of the real interest rate at every
+                              level of inflation. To see what can shift the monetary policy reaction curve, we need to
+                              examine the variables we held constant when we drew the curve in Figure 21.7. In that
+                              analysis, we held both target inflation πT and the long-run real interest rate r* fixed. If
+                              either of these variables changes, the entire curve shifts. Looking at Figure 21.8, we can
+                              see that a decrease in πT shifts the curve to the left (Panel A), as does an increase in r*
+                              (Panel B). Analogously, a decline in the long-run real interest rate r*, or an increase in
+                              the inflation target πT, shifts the monetary policy reaction curve to the right.
+                                 From our earlier discussion, we know that the long-run real interest rate r* is deter-
+                              mined by the structure of the economy. Central bank policymakers cannot choose it.
+                              What if r* were to rise as a consequence of an increase in government purchases, or
+
+
+
+ Figure 21.8            Shifting the Monetary Policy Reaction Curve
+
+
+
+
+                  A. The Inflation Target                                      B. The Long-Run Real Interest Rate
+      r                                 MPRC1                           r                                   MPRC1
+                                                     MPRC0                                                               MPRC0
+                                                                        r*1
+
+      r*                                                                r*0
+
+
+
+
+                            πT1          πT0               π                                              πT                    π
+
+
+      A decline in the inflation target from πT0 to πT1 shifts the      An increase in the long-run real interest rate from
+      monetary policy reaction curve to the left from MPRC0             r*0   to r*1   shifts the monetary policy reaction curve to
+      to MPRC1 .                                                        the left from MPRC0 to MPRC1 .
+
+
+===== PDF 626 | 印刷页 591 =====
+
+                                                           Monetary Policy and the Dynamic Aggregate Demand Curve                   l     591
+
+
+
+
+    Table 21.2        The Monetary Policy Reaction Curve
+
+
+
+     What is it?                               The upward-sloping relationship between inflation (π) and the real interest rate
+                                               (r) set by monetary policymakers.
+
+     Why does it slope upward?                 When inflation rises, monetary policymakers raise the real interest rate.
+
+     What determines its location?             Drawn so that, when current inflation equals target inflation (π = πT), policymakers set
+                                               the real interest rate equal to the long-run real interest rate (r = r*).
+
+     When does it shift?                       1. When the central bank’s inflation target (πT) changes. A decline shifts the curve
+                                                  to the left.
+                                               2. When the long-run real interest rate (r*) changes. An increase shifts the curve to
+                                                  the left.
+
+
+
+
+some other component of aggregate expenditure that is not sensitive to the real interest
+rate? The result of such an increase is a shift to the left in the monetary policy reaction
+curve as shown in Panel B of Figure 21.8. Remember that the curve is drawn so that
+the real interest rate equals its long-run level at the point where inflation meets the
+central bank’s target. An increase in r* means that policymakers have to set a higher
+real interest rate at every level of current inflation. Assuming that policymakers have
+not changed their inflation target, this shift means that the long-run nominal interest
+rate rises as well.
+   Table 21.2 summarizes the properties of the monetary policy reaction curve
+(MPRC).
+
+The Dynamic Aggregate Demand Curve
+Deriving the Dynamic Aggregate Demand Curve                         We are now ready to
+move to the third and final step outlined at the beginning of this section: The construc-
+tion of the dynamic aggregate demand (AD) curve that relates inflation and the level
+of output, accounting for the fact that monetary policymakers respond to changes in
+current inflation by changing the interest rate. Doing it means answering the following
+question: What happens to the quantity of aggregate output demanded when current
+inflation changes? From our earlier discussion, we know that central bankers respond
+to an increase in current inflation by raising the real interest rate. That is, they move
+along their monetary policy reaction curve (shown in Figure 21.7). We also know that
+a higher real interest rate lowers the level of aggregate expenditure by reducing invest-
+ment, consumption, and net exports. (That’s in Figure 21.3.) Putting these two together,
+we see that when inflation rises, the quantity of aggregate output demanded falls.
+Inflation and the quantity of aggregate output demanded move in opposite directions,
+so the dynamic aggregate demand curve shown in Figure 21.9 slopes downward.9
+
+9
+ Figuring out the location of the dynamic aggregate demand curve is somewhat complicated. To do it, recall that
+along the monetary policy reaction curve the real interest rate equals the long-run real interest rate r* at the
+point where inflation equals the central bank’s target level. And r* is the level at which aggregate expenditure
+equals potential output. This all means that the dynamic aggregate demand curve must go through the point
+where output equals potential output at the same time that inflation equals target inflation. We will come back to
+this in the next chapter.
+
+
+===== PDF 627 | 印刷页 592 =====
+
+592   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+                                                                                        To understand the dynamic aggre-
+  Figure 21.9       The Dynamic Aggregate Curve                                     gate demand curve, think about what
+                                                                                    happens when current inflation rises.
+                                                                                    In response, monetary policymakers
+        Inflation (π)                                                               raise the real i­nterest rate, moving
+                                                                                    the economy upward along the mone-
+                                       Dynamic Aggregate Demand
+                                                                                    tary policy reaction curve. The
+                                                       (AD)
+                                                                                    higher real interest rate reduces the
+                                                                                    i nterest-sensitive components of
+                                                                                    ­
+                                                                                    aggregate expenditure (consumption,
+                                                                                    investment, and net ­exports), causing
+                                                                                    a fall in the quantity of ­a ggregate
+                                                      Output (Y)                    output demanded by the people in the
+                                                                                    economy who use it. Higher current
+                                                                                    inflation means less a­ ggregate output
+As inflation rises, monetary policymakers increase the real interest rate, lowering demanded. In contrast, in response to
+interest rate-sensitive components of aggregate expenditure.
+                                                                                    lower current inflation, policymakers
+                                                                                    ­reduce the real interest rate, moving
+                              downward along the monetary policy reaction curve. Their action raises con-
+                              sumption, investment, and net ­exports, causing the quantity of aggregate output
+                              demanded to rise. Thus, changes in current inflation move the economy along a
+                              downward-sloping dynamic aggregate demand curve. (Take a look back at Fig-
+                              ure 21.1 and the summary that goes along with it.)
+
+                         Why the Dynamic Aggregate Demand Curve Slopes Down                            To recap,
+                         the dynamic aggregate demand curve slopes down because higher current inflation
+                         induces policymakers to raise the real interest rate, depressing various components of
+                         aggregate expenditure. But this is only one reason that increases in inflation are asso-
+                         ciated with falling levels of aggregate output demanded by the people who use it.
+                         Economists have suggested a number of others. One is that the higher the rate of infla-
+                         tion for a given rate of money growth, the lower the level of real money balances in the
+                         economy. That is, when P grows faster than M, (M/P) falls. And with a lower level of
+                         real money balances, people purchase fewer goods. This is the implication of the equa-
+                         tion of exchange (MV = PY). So, even if the monetary policymakers do not change the
+                         real interest rate when inflation goes up—the monetary policy ­reaction curve is flat—
+                         the effect of inflation on real money balances causes the d­ ynamic aggregate demand
+                         curve to slope down.
+                            In addition, higher inflation reduces wealth, which lowers consumption.
+                         It does this in two ways. First, inflation means that the money everyone holds is
+                         gradually declining in value. Second, inflation is bad for the stock market, because
+                         as it rises, uncertainty about inflation rises with it, rendering equities a relatively
+                         more risky and hence less attractive investment. A drop in the value of stocks
+                         reduces wealth.
+                            Yet another reason for the downward slope of the dynamic aggregate demand curve
+                         is that inflation can have a greater impact on the poor than it does on the wealthy,
+                         redistributing income to those who are better off. For example, minimum-wage work-
+                         ers tend to have incomes that are fixed in dollar terms, so inflation erodes their pur-
+                         chasing power. And because the rich consume a smaller portion of their income than
+                         others, saving a greater portion than the poor (who can’t afford to save at all), this
+
+
+===== PDF 628 | 印刷页 593 =====
+
+                                               Monetary Policy and the Dynamic Aggregate Demand Curve   l   593
+
+
+
+redistribution lowers consumption in the economy as a whole, reducing the quantity of
+aggregate output demanded.
+   Then there is the fact that inflation creates risk; the higher the inflation rate, the
+greater the risk. Most people want to insure themselves against risk, and that means
+increased saving, just in case. More saving means a lower level of consumption and
+lower quantity of aggregate output demanded. Finally, there is the fact that rising
+inflation makes foreign goods cheaper in relation to domestic goods, driving imports
+up and net exports down. In every case, higher inflation means a lower level of
+aggregate output demanded, causing the dynamic aggregate demand curve to slope
+downward.
+
+Shifting the Dynamic Aggregate Demand Curve                       In deriving the d­ ynamic
+aggregate demand curve, we saw that increases in inflation bring a monetary policy
+response that raises the real interest rate. Those movements in the real interest rate, in
+turn, cause changes in the quantity of aggregate output demanded by those who use it,
+moving the economy along the dynamic aggregate demand curve. In our derivation we
+held constant the location of both the aggregate expenditure curve and the monetary
+policy reaction curve. In the first case, we assumed that factors influencing demand
+other than the real interest rate were fixed; and in the second, that the inflation target
+and the long-run real interest rate were fixed. Shifts in any of these will shift the
+dynamic aggregate demand curve.
+     Let’s start by looking at shifts in the aggregate expenditure curve. In the absence of
+any change in monetary policy, changes in components of aggregate expenditure not
+caused by movements in the real interest rate shift the dynamic aggregate ­demand
+curve. That is, changes in consumption, investment, government purchases, or net
+exports that are unrelated to changes in the real interest rate shift the dynamic
+­aggregate demand curve, with declines leading to contractions and increases leading
+ to expansions.
+     To understand these sources of shifts in the dynamic aggregate demand curve,
+ take the case of an increase in consumer confidence. When people become more
+ optimistic about the future, believing that the risk of being laid off has eased, they
+ are more likely to purchase a new car or go on an expensive vacation. Increases in
+ consumer confidence tend to raise consumption at every level of the real interest rate,
+ increasing the level of aggregate expenditure. Assuming unchanged monetary policy,
+ this shifts the dynamic aggregate demand curve to the right (as shown in the top
+ panel of Figure 21.10 on page 594).
+     What is true for consumer confidence is true for all of the components of aggregate
+ expenditure. Increased optimism about future business prospects raises investment at
+ every level of the real interest rate, shifting the dynamic aggregate demand curve to
+ the right. Increases in government spending (or decreases in taxes) increase aggregate
+ expenditure and have the same effect. And increases in net exports that are ­unrelated
+ to the real interest rate do the same thing—they are expansionary, shifting the d­ ynamic
+ aggregate demand curve to the right.
+     Turning to the monetary policy reaction curve, whenever it shifts, the dynamic
+ aggregate demand curve shifts, too. To see why, consider an increase in the central
+ bank’s inflation target, what some people might characterize as a permanent easing
+ of monetary policy. The result is the opposite of the decline shown in Panel A of
+ Figure 21.8. The rise in the inflation target shifts the monetary policy reaction curve
+ to the right, lowering the real interest rate that policymakers set at every level of
+
+
+===== PDF 629 | 印刷页 594 =====
+
+594   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+
+                             Figure 21.10      Shifting the Dynamic Aggregate Demand Curve
+
+
+                                                 Changes in Components of Aggregate Expenditure
+
+                                    C , I , G , NX
+                                    Increases in consumption, investment, π
+                                    government expenditure, or net exports
+                                    (all unrelated to the real interest rate)
+                                    shift the dynamic aggregate demand
+                                    curve to the right.
+                                                                                                                      Y
+                                                 Shifts in the Monetary Policy Reaction Curve
+
+                                    πT
+                                                                              π
+                                    Increases in the central bank’s inflation
+                                    target shift the dynamic aggregate
+                                    demand curve to the right.
+                                    r*
+                                    Decreases in the long-run real interest
+                                                                                                                      Y
+                                    rate shift the dynamic aggregate demand
+                                    curve to the right.
+
+
+
+                        inflation. At the new, higher inflation target, the lower real interest rate increases the
+                        quantity of aggregate output demanded at every level of inflation, shifting the
+                        dynamic aggregate demand curve to the right.
+                            Changes in the long-run real interest rate r* shift the dynamic aggregate demand
+                        curve as well. To see why, consider a case in which the level of potential output
+                        increases. Because r* equates aggregate expenditure with potential output, when
+                        potential output rises, r* must fall, driving up the interest-rate-sensitive components of
+                        aggregate expenditure. This has the same effect on the monetary policy reaction curve
+                        as an increase in policymakers’ inflation target. A fall in the long-run real interest rate
+                        r* shifts the curve to the right, reducing the real interest rate policymakers set at every
+                        level of inflation and shifting the dynamic aggregate demand curve to the right.10
+                            Looking at these two changes, we see that any shift in the monetary policy reac-
+                        tion curve shifts the dynamic aggregate demand curve in the same direction.
+                        ­Expansionary monetary policy that lowers the interest rate associated with each level
+                         of inflation increases the quantity of aggregate output demanded at each level of
+                         inflation and shifts the dynamic aggregate demand curve to the right (as shown in the
+                         bottom panel of Figure 21.10). And contractionary monetary policy that raises
+                         the interest rate associated with each level of inflation decreases the quantity of
+                         aggregate output demanded at each level of inflation, shifting the dynamic aggregate
+                         demand curve to the left.
+
+                         In the next chapter, we will examine what happens if the central bank observes the change in potential output
+                        10
+
+                        only with a lag, temporarily delaying the shift of the MPRC curve shown in Panel B of Figure 21.8.
+
+
+===== PDF 630 | 印刷页 595 =====
+
+                                                                                                                   Aggregate Supply l   595
+
+
+
+
+   Table 21.3          The Dynamic Aggregate Demand Curve
+
+
+
+     What is it?                          The downward-sloping relationship between inflation and the quantity of aggregate
+                                          output demanded by the people who use it.
+
+     Why does it slope down?              1. A rise in inflation leads monetary policymakers to raise the real interest rate (along
+                                             the monetary policy reaction curve).
+                                          2. A higher real interest rate drives down the interest-sensitive components of
+                                             ­aggregate expenditure (especially consumption and investment).
+
+     When does it shift?                  When aggregate demand goes up for reasons unrelated to changes in the real interest
+                                          rate, the relationship shifts to the right. Examples include:
+                                          1. Changes in components of aggregate expenditure not sensitive to the real i­nterest
+                                             rate (monetary policy unchanged).
+                                          2. Shifts in the monetary policy reaction curve.
+
+
+
+
+   Table 21.3 summarizes the properties of the dynamic aggregate demand curve.
+
+
+Aggregate Supply
+The dynamic aggregate demand curve is downward-sloping. It tells us that higher
+current inflation is associated with a lower quantity of aggregate output demanded.
+But this alone doesn’t explain how inflation and the quantity of output are deter-
+mined by those people who use it. To do that, we need to introduce an aggregate
+supply curve. The aggregate supply curve tells us where along the dynamic aggregate
+demand curve the economy ends up. So, to complete the analysis, we now move to an
+examination of aggregate supply and the behavior of the firms that produce the econ-
+omy’s output. Critically, there are short-run and long-run versions of the aggregate
+supply curve. When combined with the dynamic aggregate demand curve, the short-
+run aggregate supply curve tells us where the economy settles at any particular time;
+while the long-run curve, together with dynamic aggregate demand, tells us the lev-
+els of inflation and the quantity of output that the economy is moving toward in the
+long term.
+
+
+Short-Run Aggregate Supply
+The short-run aggregate supply (SRAS) curve is the upward-sloping relationship
+between current inflation and the quantity of output.11 It tells us that as inflation
+rises, producers increase the quantity of output supplied. The reason is that prices
+of factors used as inputs in production, especially wages paid to workers, are costly
+
+11
+  The short-run aggregate supply curve is a close relative of the Phillips curve that you may have already seen. The
+Phillips curve is the downward-sloping relationship between inflation and unemployment. Because unemployment
+is related to the level of output—higher output means lower unemployment—there is a clear correspondence.
+
+
+===== PDF 631 | 印刷页 596 =====
+
+596   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+                                                                              to a­ djust, so they change infrequently. In
+  Figure 21.11        Short-Run Aggregate Supply Curve                        the short run, they are sticky. For produc-
+                                                                              ers, this means that costs of production—
+                                                                              wages paid to workers, rents paid for
+      Inflation (π)                                                           buildings, prices paid for raw material
+                                                                              inputs—are fixed in the short run, so
+                                                                              increases in prices of the things that firms
+                                            Short-Run                         sell mean higher profits and more
+                                      Aggregate Supply Curve                  ­supply. Put a­ nother way, in the ­short term,
+                                             (SRAS)                            production costs don’t change much, so
+                                                                               when product (or retail) prices rise firms
+                                                                               increase supply in order to take advantage.
+                                                    Output (Y)                 From this we can conclude that in the short
+                                                                               run, higher inflation elicits more aggregate
+                                                                               output supplied by the firms that produce it
+Inflation persistence means the short-run aggregate supply curve slopes up.    (see ­Figure 21.11).
+
+
+                            Shifts in the Short-Run Aggregate Supply Curve
+                            Changes in product-price inflation create movements along a short-run aggregate sup-
+                            ply curve. In coming to this conclusion, we assumed that production costs didn’t
+                            change. What if they do? When production costs change, the short-run aggregate sup-
+                            ply curve shifts. A shift of the SRAS curve can happen for one of two reasons:
+
+                                1. Changes in expectations of future inflation.
+                                2. Factors that drive production costs up or down.
+
+                            Let’s look at each one of these in some detail.
+                                 To understand the importance of inflation expectations in determining the loca-
+                            tion of the short-run aggregate supply curve, note that workers and firms care
+                            about real wages and real product prices—the level of c­ ompensation and profits
+                            measured in goods and services that they can purchase. As we mentioned earlier,
+                            it is costly to adjust wages and prices, so they change infrequently. More impor-
+                            tantly, during months or even years for which they are fixed, inflation erodes the
+                            real wages paid to workers and real prices charged by firms. This makes everyone
+                            ­concerned about future inflation, and the higher expected inflation is, the faster
+                             ­n ominal wages and nominal prices will rise. As a result, changes in inflation
+                              expectations are analogous to changes in production costs. An increase in expected
+                              inflation increases production costs, lowering production at every level of current
+                              inflation and shifting the short-run aggregate supply curve to the left as shown in
+                              the top panel of Figure 21.12.
+                                 Given the key role of inflation expectations in determining the location of the short-
+                              run aggregate supply curve, it is important to understand how these expectations are
+                              determined. To keep things simple, we assume that people form their expectations
+                              based on their recent experience. That is, inflation expectations this year are roughly
+                              equal to actual inflation last year. This assumption has the important implication that
+                              when actual inflation rises above what is currently expected, inflation expectations
+                              will go up. And, analogously, if actual inflation turns out to be lower than expected
+                              inflation, expectations will go down.
+
+
+===== PDF 632 | 印刷页 597 =====
+
+                                                                                                              Aggregate Supply l 597
+
+
+
+
+     Figure 21.1 2      Shifting the Short-Run Aggregate Supply Curve
+
+
+
+                                                      π                                   SRAS1
+           Expected π
+           A rise in expected future inflation shifts                                       SRAS0
+           the short-run aggregate supply curve
+           to the left from SRAS0 to SRAS1.
+
+                                                                                              Y
+
+                                                                π                         SRAS1
+           Costs of Production Inputs
+           A rise in costs of inputs into the                                               SRAS0
+           production process, like energy, shifts
+           the short-run aggregate supply curve
+           to the left from SRAS0 to SRAS1.
+                                                                                              Y
+
+
+
+     Changes in the prices of raw material inputs, as well as other external ­factors
+that change production costs, shift the short-run aggregate supply curve as well.
+The most common example of an input price change is a movement in the price of
+energy. When oil prices rise, increasing the cost of production, firms are forced to
+raise the prices of their products. The sharp increases in oil prices in the 1970s,
+from $3.50 a barrel in 1973 to $10 a barrel in 1976 and $39 a barrel in 1980,
+­contributed to inflation during that decade. 12 Conversely, when oil prices fall, as
+ they did in 1986 and again in 1999, inflation tends to fall. The same thing happens
+ when labor costs rise, as they do when payroll taxes increase or the cost of
+ employer-­provided health insurance rises. An increase in production costs causes
+ the short-run aggregate supply curve to shift to the left, as shown in the lower panel
+ of ­Figure 21.12.
+
+
+The Long-Run Aggregate Supply Curve
+The final step in completing our discussion of output and inflation fluctuations is to
+examine the long run. What happens after prices and wages have had time to make the
+adjustments that in the long run bring output and inflation back to normal? The answer
+(from the first part of this chapter) is that the economy moves to the point where cur-
+rent output equals potential output, and inflation equals expected inflation, while the
+level of inflation itself is determined by money growth. The implications of this answer
+are that in the long run, current output must equal potential output, and inflation must
+be determined by monetary policy. That is, in the long run, output and inflation are
+unrelated, and the long-run aggregate supply (LRAS) curve is vertical at the point
+where current output equals potential output.
+
+12
+  Compared with this episode, the surge of oil prices in 2007–2008 had far less impact on inflation because
+long-term inflation expectations were well anchored.
+
+
+===== PDF 633 | 印刷页 598 =====
+
+598   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+
+                       The Phillips Curve
+                       MONEY AND BANKING BLOG
+
+
+  Economists have debated the relationship between                 not going to put pressure on inflation in one direction or
+  ­inflation and unemployment at least since A. W. Phillips        the other.†
+   published his study of U.K. data from 1861 to 1957 over              Friedman and Phelps had not come to their conclusions
+   60 years ago.* The idea that a tight or slack labor market      in a vacuum. While the first half of the 1960s was charac-
+  should result in faster or slower wage gains seems like a        terized by extremely low inflation—prices rose roughly
+  natural corollary to standard economic thinking about how        11/ 4 percent per year and wages 3 percent—the second half
+  prices respond to imbalances between demand and supply.          of the 1960s looked quite different. By the end of the de-
+  But, over the years, disputes about this Phillips curve rela-    cade, prices were going up at a rate of more than 4 percent
+  tionship have been and remain fierce.                            per year and wages were rising at a 6 percent annual rate.
+       As the U.S. labor market tightened in the late 2010s,            Taking these lessons to heart, researchers sought to
+  with the unemployment rate sinking to levels not seen            patch their estimated Phillips curves, adding various bells
+  since the 1960s, policymakers were facing the question           and whistles. Nevertheless, the 1970s brought major new
+  whether inflation would make a comeback. How useful              challenges for Phillips-curve adherents. First, there was the
+  is the Phillips curve as a guide for Federal Reserve poli-       combination of high inflation and high unemployment,
+  cymakers who wish to achieve a 2 percent inflation tar-          known as stagflation (the blue triangles in the upper part
+  get over the long run?                                           of the Figure 21.13). Second, building on the Friedman
+       Despite evidence of a negative relationship between         and Phelps logic, Robert Lucas emphasized the impor-
+  wage inflation and unemployment, there are reasons to            tance of focusing on deviations of inflation from what is
+  believe that central banks ought not to rely on a stable         expected.‡ In this formulation, the inflation–unemploy-
+  Phillips curve for setting monetary policy. To understand        ment relationship becomes a mere artifact that is inher-
+  why, we can look at some data. Figure 21.13 plots the            ently unstable, not something policymakers can exploit.
+  civilian unemployment rate (horizontal axis) and wage                 The policy lessons following from these developments
+  inflation two years later (vertical axis). It divides the ob-    are profound. For example, if forward-looking expecta-
+  servations into three distinct periods: the 1960s (red           tions dominate inflation dynamics, then it should be pos-
+  squares); the 1970s, 1980s, and 1990s (blue triangles);          sible to lower inflation without inducing high levels of
+  and 2000 to 2016 (black circles). Amid the scatter plots,        unemployment. Instead, a credible policy commitment,
+  the chart also shows simple regression estimates for each        which convinces people that a resolute central bank will
+  period. While there appears to be a relationship in the          set policy to lower inflation, can itself be sufficient to
+  early and later periods (the lines fit well), the three inter-   lower inflation. Put differently, if people ­believe policy-
+  vening decades are another story altogether.                     makers will act to lower inflation, the ­authorities can
+       Looking at these data, it is unsurprising that, based       achieve this goal without inducing a ­recession.
+  on experience through the early 1960s, many U.S. ob-                  Today, economists agree that commitment is key to
+  servers concluded that there was a stable, negative rela-        promoting price stability. Many people believe that an
+  tionship between the level of unemployment and the               aggressive, speedy effort to lower inflation (buttressed
+  level of inflation. As a result, policymakers thought they       by a policy commitment) is less costly in terms of unem-
+  could choose where along this tradeoff they wanted the           ployment than a gradual one. In practice, however, com-
+  economy to operate.                                              mitment has its limits. The Volcker disinflation of the
+       But, to the extent that there was a consensus, it was       early 1980s that was accompanied by a large rise in the
+  short-lived. In the late 1960s, Milton Friedman and Ed-          unemployment rate is a case in point.
+  mund Phelps noted that Phillips had failed to distinguish             Macroeconomic models like the one that we study in
+  real wages from nominal wages, and it is deviations of           this chapter clearly link inflation to economic slack.
+  unemployment from some normal (or natural) rate that             That is, they incorporate a Phillips curve. However, un-
+  should matter for wage changes. The first point means            like their antecedents, these formulations do not lead to
+  that it is essential to take account of expected inflation,      an exploitable tradeoff between inflation and unemploy-
+  while the second implies that changes in economic struc-         ment. Instead, they imply that there is a tradeoff be-
+  ture can lead to movements in unemployment that are              tween the volatility of inflation and the volatility of the
+
+
+===== PDF 634 | 印刷页 599 =====
+
+                                                                                                                                Aggregate Supply l       599
+
+
+
+
+   Figure 21.13                                       Wage Inflation and the Unemployment Rate (quarterly), 1960–2016
+
+
+                                       12
+
+
+                                       10
+      Wage Inflation Two Years Later
+
+
+
+
+                                                             1960s
+                                                Inflation = 10.5 – 1.24*Unemp
+                                                           R² = 0.76
+                                       8
+
+                                                                                                                 1970s, 80s and 90s
+                                       6                                                                  Inflation = 5.30 – 0.05*Unemp
+                                                                                                                      R² = 0.00
+
+
+                                       4
+
+                                                         2000 to 2016
+                                       2        Inflation = 4.56 – 0.37*Unemp
+                                                            R² = 0.70
+
+
+                                       0
+                                            0               2               4            6       8         10                    12            14
+                                                                                Civilian Unemployment Rate
+
+                                                                      1960s       1970s, 80 & 90s        2000 to 2016
+
+
+SOURCE: FRED.
+
+
+
+output gap (see Chapter 22, page 638). Put differently,                                     1861–1957,” Economica 25, no. 100 (November 1958),
+the models that frequently guide central bank thinking                                      pp. 283–299.
+today allow policymakers to choose only the relative                                        †
+                                                                                              Milton Friedman, “The Role of Monetary Policy.” Presidential
+speed at which they wish to return inflation to its target                                  address delivered at the 80th Annual Meeting of the American
+                                                                                            Economic Association; published in American Economic
+or the unemployment rate to its norm. As a guide for                                        Review 58, no. 1 (March 1968), pp. 1–17; Edmund S. Phelps,
+policy, the simple relationship between inflation and the                                   “Phillips Curves, Expectations of Inflation and Optimal
+unemployment rate is no more reliable today than it was                                     Unemployment over Time,” Economica 34, no. 135 (August
+50 years ago.                                                                               1967), pp. 254–281.
+                                                                                            ‡
+                                                                                              Robert Lucas Jr., “Expectations and the Neutrality of
+*A. W. Phillips, “The Relation between Unemployment and the                                 Money,” Journal of Economic Theory 4, no. 2 (April 1972),
+Rate of Change of Money Wage Rates in the United Kingdom,                                   pp. 103–124.
+
+
+===== PDF 635 | 印刷页 600 =====
+
+600    l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+                      Short- and Long-Run Aggregate                          This conclusion makes sense. In deriving
+ Figure 21.14                                                             the short-run aggregate supply curve, we noted
+                      Supply Curves
+                                                                          that inflation depends on inflation expecta-
+                                                                          tions. That is, when workers and firms make
+                                        LRAS
+                   π                                                      the wage and price decisions that determine
+                                                           SRAS           today’s inflation, they do it with an eye toward
+                                                                          future inflation. And an increase in expected
+          Expected
+                                                                          inflation shifts the short-run aggregate supply
+          Inflation
+                                                                          curve to the left (as in ­Figure 21.12).
+             (π )
+                e
+                                                                             We also noted that when current inflation
+                                                                          deviates from expected inflation, expected
+                                                                          inflation will change. That is, if expectations
+                                                                          turn out to be too low or too high, they will
+                                                                          rise or fall. Since changes in inflation expec-
+                                         YP                Y              tations shift the short-run aggregate supply
+                                                                          curve, it follows that, for the economy to be
+The long-run aggregate supply curve (LRAS) is vertical at the point where in long-run equilibrium, current inflation
+current output equals potential output.                                   must equal expected inflation. So at any
+                                                                          point along the long-run aggregate supply
+                            curve, current output equals potential output (Y = Y P) and current inflation equals
+                            expected inflation (π = πe). This is drawn in Figure 21.14, where the upward-sloping
+                            short-run aggregate supply curve (SRAS) intersects the vertical long-run aggregate
+                            supply curve (LRAS) at the point where inflation equals expected inflation.
+                                 Table 21.4 provides a summary of the properties of the short- and long-run
+                            aggregate supply curves.
+
+
+  Table 21.4         Aggregate Supply
+
+
+
+                                        Short-Run Aggregate Supply Curve (SRAS)         Long-Run Aggregate Supply Curve
+                                                                                                    (LRAS)
+
+      What is it?                       The upward-sloping relationship between        The vertical relationship between
+                                        inflation (π) and the quantity of aggregate    inflation (π) and the quantity of
+                                        output (Y) supplied by the firms that          aggregate output supplied.
+                                        produce it.
+
+      What is its slope?                Because production costs adjust slowly,        In the long run, all prices and wages
+                                        increases in product prices make it            adjust and the economy moves to the
+                                        profitable to increase quantity supplied, so   point where current output equals
+                                        the SRAS is upward sloping.                    potential output, so the LRAS
+                                                                                       is vertical at Y = Y P.
+
+      What determines its location?     It intersects the long-run aggregate supply    The LRAS is vertical at potential
+                                        curve (LRAS) where inflation equals            output.
+                                        expected inflation (π = πe).
+
+      When does it shift?               1. When expected inflation increases, the      When potential output (Y P ) changes,
+                                           SRAS shifts to the left.                    the LRAS shifts. An increase in Y P
+                                        2. When production costs rise, the SRAS        shifts the LRAS to the right; a
+                                           shifts to the left.                         decrease shifts it to the left.
+
+
+===== PDF 636 | 印刷页 601 =====
+
+                                                               Equilibrium and the Determination of Output and Inflation l   601
+
+
+
+Equilibrium and the Determination
+of Output and Inflation
+Short-Run Equilibrium
+We now have the tools we need to understand both the movements in output and infla-
+tion in the short run and their determination in the long run. Short-run equilibrium is
+determined by the intersection of the dynamic aggregate demand curve (AD) with the
+short-run aggregate supply curve (SRAS). Combining the AD curve from Figure 21.9
+and the SRAS curve from Figure 21.11, we get Figure 21.15. Current output and infla-
+tion are determined by the intersection at point E in the figure. And, like all supply and
+demand diagrams, changes in inflation and output arise from shifts in either supply,
+demand, or both. We’ll have a detailed look at the sources and consequences of these
+shifts in Chapter 22.13
+
+
+Adjustment to Long-Run Equilibrium
+ What happens when current inflation deviates from expected inflation? Earlier we
+ saw that changes in expected inflation shift the short-run aggregate supply curve.
+ This means that unless current inflation equals expected inflation, the economy can-
+ not be in long-run equilibrium. To see how adjustment to long-run equilibrium
+ works, let’s look at two cases: one in which current inflation is above expected
+­inflation (π > πe) and one in which it is below expected inflation (π < πe). These
+ two cases correspond to situations in which current output is above (Y > YP) or
+
+
+
+
+     Figure 21.15          Short-Run Determination of Output and Inflation
+
+
+
+                                π                                          SRAS
+
+
+                                                         E
+                                π0
+
+
+
+                                                                            AD
+
+
+
+                                                         Y0                      Y
+
+
+In the short run, inflation and output are determined by the intersection of the short-run aggregate
+supply curve (SRAS) and the dynamic aggregate demand curve (AD), at point E above.
+
+
+13
+     The appendix to this chapter derives the short-run equilibrium in an algebraic model.
+
+
+===== PDF 637 | 印刷页 602 =====
+
+602     l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+                                below potential output (Y < YP). That is, these reflect movements along short-run
+                                aggregate supply curves in which expansionary output gaps push current inflation
+                                above expected inflation and recessionary output gaps depress current inflation
+                                below expected inflation.
+                                   Turning to the details, in the first case current inflation exceeds expected infla-
+                                tion (π0 > π
+                                           ​ 0​e​  ​) and current output exceeds potential output (Y0 > Y P). Because infla-
+                                tion expectations follow current inflation, they will rise, exerting upward pressure
+                                on wages and production costs, shifting the short-run aggregate supply curve to the
+                                left. This process continues until inflation expectations are equal to the current
+                                level of inflation, which will occur at the point where output equals potential out-
+                                put (Y = YP), as shown in Panel A of Figure 21.16. At first, the quantity of aggre-
+                                gate output demanded equals the quantity supplied in the short run at point 0, but
+                                current inflation (π0) is greater than expected inflation (​π​0e​  ​). As a result, inflation
+                                expectations rise, shifting the short-run aggregate supply curve to the left until it
+                                reaches point 1, where current inflation equals expected inflation. Only at this
+                                point do inflation and output stop changing.
+                                   Now consider the second case, in which current inflation is below expected
+                                inflation (π0 < ​π​0e​ ​) and current output is lower than potential output (Y0 < YP).
+                                Because people form their expectations based on recent experience, inflation
+                                expectations begin to fall, shifting the short-run aggregate supply curve to the right.
+                                Again, the process continues until current inflation equals expected inflation, at
+                                which point current output will be equal to potential output. This is shown in
+                                Panel B of Figure 21.16.
+
+
+
+   Figure 21.16           Adjustment to Long-Run Equilibrium
+
+
+                   A. Current Inflation Is Greater                                             B. Current Inflation Is Less
+                      Than Expected Inflation                                                     Than Expected Inflation
+
+                           LRAS                                                                                  LRAS
+         π                                                                           π                                                    SRAS
+
+         πe1                     1                                                  πe0
+                                                            SRAS
+                                       0                                                                   0
+         π0                                                                         π0
+         πe0
+                                                                                    πe1                                 1
+
+                                                         AD                                                                   AD
+
+
+                              YP      Y0                       Y                                          Y0        YP                     Y
+
+Panel A: At the initial short-run equilibrium point 0, current inflation is greater than expected inflation (π > ​​πe​o​​),​  so expected inflation rises.
+This shifts the short-run aggregate supply curve (SRAS) to the left. This process continues until the economy reaches point 1, where
+current inflation and expected inflation are equal (π = π ​ e​1​  ​).
+Panel B: At the initial short-run equilibrium point 0, current inflation is less than expected inflation (π < ​​πe​o​​),​  so expected inflation falls. This
+shifts the short-run aggregate supply curve (SRAS) to the right. This process continues until the economy reaches point 1, where current
+inflation and expected inflation are equal (π = ​πe1​​  ​).
+
+
+===== PDF 638 | 印刷页 603 =====
+
+                                                 Equilibrium and the Determination of Output and Inflation l   603
+
+
+
+   This example has several important implications. First, it shows that the economy
+has a self-correcting mechanism. When actual inflation moves away from expected
+inflation, output moves away from its long-run equilibrium level. Furthermore, at this
+point inflation also moves away from the central bank’s target and policymakers
+respond by changing the real interest rate. This moves the economy along the dynamic
+aggregate demand curve until it returns to its long-run equilibrium. Second, the fact
+that inflation changes whenever there is an output gap reinforces our conclusion that in
+the long run output returns to potential output. This is why we drew the long-run
+aggregate supply curves as a vertical line in the figures.
+   Long-run equilibrium is the point at which the economy comes to rest. Because we
+will be using it as a benchmark for understanding fluctuations, it is important to list its
+properties. As we noted earlier, in the long run, current inflation must equal expected
+inflation. Furthermore, when current output equals potential output, the real interest
+rate equals the long-run real interest rate. And going back to the monetary policy reac-
+tion curve, we know that policymakers set the real interest rate equal to this long-run
+level when current inflation equals their inflation target. So there are three conditions
+for long-run equilibrium:
+   1. Current inflation equals expected inflation (π = πe),
+   2. Current output equals potential output (Y = YP), and
+   3. Current inflation is steady and equal to target inflation (π = πT).
+
+
+The Sources of Fluctuations in Output and Inflation
+The next chapter uses the framework we have just developed to help us understand a
+series of problems that are of direct interest to policymakers. But before getting to that,
+let’s finish up with a brief discussion of the possible sources of fluctuations in U.S.
+inflation and real growth and then a quick examination of the data. What might have
+caused these fluctuations over the past half century?
+    Looking at the macroeconomic model, we can see that output and inflation
+movements can arise from either demand or supply shifts. To figure how we might
+tell them apart, notice that while shifts in either the dynamic aggregate demand
+curve or the short-run aggregate supply curve can have the same effect on inflation,
+they have opposite effects on output. So, if the dynamic aggregate demand curve
+shifts to the right, increasing inflation, it will result in higher output as well. By
+contrast, when the short-run aggregate supply curve shifts to the left, inflation rises
+and output falls. That is, the possible sources of fluctuations are: (1) shifts in the
+dynamic aggregate demand curve that cause output and inflation to rise and fall
+together, moving in the same direction; and (2) shifts in the short-run aggregate
+supply curve that move output and inflation in opposite directions, one rises when
+the other one falls.
+    So, what are the likely sources of economic fluctuations? Let’s start with inflation.
+Recall that in long-run equilibrium, inflation equals the central bank’s target, which is
+equal to inflation expectations. So, if we see inflation rise or fall permanently, it must be
+that policymakers changed their inflation target, consciously or not. By contrast, short-
+run inflation fluctuations have more than one possible source. Inflation goes up in the
+short run either when the dynamic aggregate demand curve shifts to the right, or when
+the short-run aggregate supply curve shifts to the left. The first of these comes from
+either increases in the components of aggregate expenditure that are not sensitive to the
+real interest rate (higher government expenditure, business optimism, or consumer
+
+
+===== PDF 639 | 印刷页 604 =====
+
+604   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+                       c­ onfidence) or a permanent easing of monetary policy (when the monetary policy reac-
+                        tion curve shifts to lower the real interest rate at every level of inflation). Each of these
+                        shifts dynamic aggregate demand to the right, increasing inflation. The second comes
+                        from higher inflation expectations or increases in the costs of production, like a rise in oil
+                        prices—each of which shifts the short-run aggregate supply curve to the left, driving
+                        inflation up.14
+                           Turning to output, there are again two possible sources of fluctuations. Output
+                        drops when either the dynamic aggregate demand curve or the short-run aggregate
+                        supply curve shift to the left. For demand, either a decline in aggregate expenditure or
+                        a shift to the left in the monetary policy reaction curve drives current output below
+                        potential output. This brings up the interesting possibility that policymakers could be
+                        the sources of recessions. On the supply side, increases in either production costs or
+                        inflation expectations drive output down (at the same time that they drive inflation
+                        up). Which is it? Let’s see if we can figure it out.
+
+                       What Causes Recessions?
+                       For years, economists have argued over the cause of recessions. Is it (1) shifts in the
+                       dynamic aggregate demand curve brought about by changes in consumer confidence,
+                       business optimism, or monetary policy; or (2) shifts in the short-run aggregate supply
+                       curve caused by increases in oil prices and other production costs? We can make some
+                       progress toward figuring out the answer by recalling that with a shift in the dynamic
+                       aggregate demand curve output and inflation move in the same direction, while a shift
+                       in short-run aggregate supply moves output and inflation in opposite directions. So if
+                       demand shifts were the cause of recessions, we should see inflation decline when out-
+                       put falls. And if production cost increases were the source, then we should see infla-
+                       tion rise as the economy weakens.
+                          Table 21.5 lists the dates of recessions since the mid-1950s. The peak (column 1) is
+                       the beginning of the recession, when economic activity was at its highest before begin-
+                       ning to slide, and the trough (column 2) is the lowest point of the recession, when
+                       economic activity began to rise. The third column of the table shows the change in
+                       inflation from the beginning to the end of the recession. Note that inflation fell in
+                       seven of the past nine recessions. The recession of 1973–1975 (in bold) is the only
+                       case in which inflation rose. Oil prices tripled in 1973, driving up production costs and
+                       shifting the short-run aggregate supply curve to the left. The result was a protracted
+                       recession and a dramatic increase in inflation.
+                          It appears that three-quarters of the recessions in the past half century can be
+                       traced to shifts in the dynamic aggregate demand curve. Let’s go further and figure
+                       out what caused these AD shifts. Was it falling aggregate expenditure brought
+                       about by changes in people’s attitudes, or was it the actions of monetary policymak-
+                       ers? To see, we can look at one more piece of evidence: the behavior of interest
+                       rates. Figure 21.17 shows that shortly before each recession starts, just to the left of
+                       each of the shaded bars, the interest rate tends to rise. This suggests that Federal
+                       Reserve policy is at least partly to blame for the business cycle downturns over the
+                       past half century. But why would policymakers have chosen to cause these reces-
+                       sions? The answer is to bring down inflation. Especially in the late 1970s, when the
+
+                       14
+                         As we will discuss in the next chapter, when oil prices rise, the long-run aggregate supply curve may shift as well.
+
+
+===== PDF 640 | 印刷页 605 =====
+
+                                                                  Equilibrium and the Determination of Output and Inflation l                          605
+
+
+
+
+   Table 21.5           Inflation during Recessions
+
+
+
+      Peak                                   Trough                                 Inflation Change
+
+      August 1957                            April 1958                              3.6 to     3.5 ↓
+      April 1960                             February 1961                           1.7 to     1.4 ↓
+      December 1969                          November 1970                           5.7 to     5.4 ↓
+      November 1973                          March 1975                              7.9 to 10.0 ↑
+      January 1980                           July 1980                              13.0 to 12.4 ↓
+      July 1981                              November 1982                          10.3 to     4.4 ↓
+      July 1990                              March 1991                              4.7 to     4.7 =
+      March 2001                             November 2001                           2.9 to     1.8 ↓
+      December 2007                          June 2009                               4.2 to −1.2 ↓
+
+
+SOURCE: Inflation is the 12-month percent change in the all-items CPI-U from the Bureau of Labor Statistics (CPIAUCSL).
+Business cycle peaks and troughs are from the NBER (USREC). FRED data codes are in parentheses.
+
+
+
+
+inflation rate was over 10 percent per year, something had to be done. The only
+thing the Fed could do under such circumstances was to raise interest rates, reduc-
+ing the interest-sensitive components of aggregate expenditure in the process and
+triggering a recession. The low inflation we enjoy today is the result of the Fed’s
+tough policy decisions.
+
+
+
+
+   Figure 21.17           Interest Rates and the Business Cycle
+
+
+               18
+               16
+               14
+               12
+         Percent
+
+
+
+
+               10
+                8
+                6
+                4
+                2
+                0
+              20 1
+              19 4
+              19 7
+              19 0
+              19 3
+              19 6
+              19 9
+              19 2
+              19 5
+              19 8
+              19 1
+              19 4
+              19 7
+              19 0
+              19 3
+              19 6
+              20 9
+              20 2
+              20 5
+              20 8
+
+
+              20 4
+              20 7
+                20
+                 1
+                 5
+                5
+                6
+                6
+                6
+                6
+                7
+                7
+                7
+                8
+                8
+                8
+                9
+                9
+                9
+                9
+                0
+                0
+                0
+
+
+                1
+                1
+              19
+
+
+
+
+SOURCE: The solid line represents the three-month Treasury bill rate (TB3MS); the shaded bars denote recessions, as dated by the National Bureau of Economic
+Research. The FRED data code is in parentheses.
+
+
+===== PDF 641 | 印刷页 606 =====
+
+                          606   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+
+                                                 Zero Matters
+                                                 APPLYING THE CONCEPT
+
+                            The invention of the number zero transformed mathematics          just another price that can go down as easily as it can go up.
+                            and laid the foundations for modern science.                      Experience indicates otherwise. When average wage infla-
+                                Zero matters in economics, too. Arithmetically, it sepa-      tion is low, there are fewer wage cuts and more instances of
+                            rates economic growth from contraction. It also divides infla-    zero wage change than you would expect if wages were
+                            tion from deflation. But, in two important economic senses,       completely flexible. What that means is that deflation pushes
+                            inflation and deflation are not symmetrical: first, central       real labor costs up in a destabilizing way.
+                            banks cannot lower interest rates much below zero; and sec-            Downward wage rigidity makes mild deflations more
+                            ond, employers find it more difficult to cut wages than to        troublesome than mild inflations. The experience of some
+                            raise them.                                                       periphery euro-area countries over the past few years il-
+                                In setting their interest rate policies, central banks face   lustrates the problem. Despite the record levels of unem-
+                            an effective lower bound (see Chapter 18). This makes infla-      ployment in those countries, institutional factors hindered
+                            tion of 2 percent and deflation of 2 percent very different.      firms’ ability to cut workers’ wages, which depressed
+                            When inflation is 2 percent and the central bank lowers the       the demand for labor. Spain’s experience is especially
+                            nominal interest rate to zero to battle a recession, it thus      ­instructive: its unemployment rate rose by 15 percentage
+                            lowers the expected real interest rate (the nominal interest       points at the same time that hourly wages rose by nearly
+                            rate minus the expected rate of inflation) to –2 percent           14 percent!
+                            (that’s minus 2 percent). In contrast, with deflation of 2 per-        Fears of deflation can easily be overdone: the economic
+                            cent, the real rate is +2 percent. Since the real, rather than     impact of an annual price change of –0.1 percent is virtually
+                            the nominal, interest rate is what influences employment           indistinguishable from that of +0.1 percent. Yet, because they
+                            and growth, monetary policymakers are better able to sta-          are limited by the effective lower bound for nominal interest
+                            bilize economic activity using conventional interest rate          rates, conventional monetary policy tools are ill-suited to re-
+                            policy in a world of modest inflation than in a world of mod-      storing price stability in the face of a persistent annual defla-
+                            est deflation.                                                     tion rate of 1 or 2 percent. And the presence of downward
+                                Added to this constraint on nominal interest rates is          wage rigidities makes things even worse.
+                            downward nominal wage rigidity. You might think wages are              The bottom line: zero matters.
+
+
+
+
+                                                     Key Terms
+                                                     aggregate expenditure                government                            net exports, 583
+                                                       (AE) curve, 612                       purchases, 583                     output gap, 579
+                                                     consumption, 582                     investment, 583                       potential output, 578
+www.moneyandbanking.com
+
+
+
+
+                                                     dynamic aggregate                    long-run aggregate supply             recessionary output
+                                                       demand (AD)                           (LRAS) curve, 597                     gap, 579
+                                                       curve, 591                         long-run real interest                short-run aggregate supply
+                                                     expansionary                            rate, 585                             (SRAS) curve, 595
+                                                       output gap, 579                    monetary policy
+                                                                                             reaction curve, 589
+
+
+===== PDF 642 | 印刷页 607 =====
+
+                                                                                           Chapter Lessons l 607
+
+
+
+Using FRED: Codes for Data in This Chapter
+   Data Series                                                   FRED Data Code
+   Real GDP                                                      GDPC1
+   Potential real GDP                                            GDPPOT
+   Consumer price index less food and energy                     CPILFESL
+   Federal funds rate                                            FEDFUNDS
+   U.S. 10-year Treasury constant maturity rate                  GS10
+   U.S. 5-year Treasury constant maturity rate                   GS5
+   U.S. 5-year Treasury inflation-indexed yield                  FII5
+   Moody’s Baa yield                                             BAA
+   U.S. 3-month Treasury bill rate                               TB3MS
+   1-year inflation expectations (Michigan survey)               MICH
+   Real personal consumption expenditures                        PCECC96
+   Real gross private domestic investment                        GPDIC1
+   Real net exports of goods and services                        NETEXC
+   Real government outlays                                       GCEC1
+
+
+
+
+                                                                                                                                  www.moneyandbanking.com
+   NBER recession dates (0 = expansion, 1 = recession)           USREC
+   CBOE volatility index: VIX                                    VIXCLS
+   Index of consumer sentiment (Michigan survey)                 UMCSENT
+   Price of oil                                                  WTISPLC
+
+
+
+
+Chapter Lessons
+1. In the long run:
+                                                                                               To learn more about the
+   a. Current output equals potential output, which is the level of output the economy         changing financial system, visit
+      produces when its resources are used at normal rates.                                    www.moneyandbanking.com.
+
+   b. Inflation equals money growth minus growth in potential output.
+2. The dynamic aggregate demand curve is a downward-sloping relationship between
+   inflation and the quantity of output demanded by those who use it:
+   a. Aggregate expenditure = Consumption + Investment + Government purchases
+      + Net exports.
+        i. Aggregate expenditure falls when the real interest rate rises.
+       ii. The long-run real interest rate r* equates aggregate expenditure with poten-
+           tial output.
+   b. Monetary policy is described by an upward-sloping monetary policy reaction
+      curve.
+        i. When policymakers change the nominal interest rate, they change the real
+           interest rate as well, because expected inflation usually doesn’t change
+           quickly.
+       ii. Policymakers react to increases in inflation by increasing the real interest rate
+           (as the Taylor rule indicates).
+
+
+===== PDF 643 | 印刷页 608 =====
+
+                          608   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+                                                       iii. The monetary policy reaction curve is set so that the real interest rate equals the
+                                                            long-run real interest rate r* when inflation equals the central bank’s target.
+                                                       iv. The monetary policy reaction curve shifts when either the inflation target
+                                                            changes or r* changes.
+                                                    c. Movements along the dynamic aggregate demand curve occur when monetary
+                                                       policymakers react to changes in inflation by adjusting the real interest rate.
+                                                    d. The dynamic aggregate demand curve shifts when:
+                                                         i. An increase in consumer confidence, business optimism, government pur-
+                                                            chases, or net exports shifts the dynamic aggregate demand curve to the
+                                                            right.
+                                                        ii. The monetary policy reaction curve shifts to the right, shifting the dynamic
+                                                            aggregate demand curve to the right.
+                                                 3. The aggregate supply curve tells us the amount of output producers are willing to
+                                                    supply at given levels of inflation.
+                                                    a. The short-run aggregate supply curve slopes up because, in the short run, costs
+                                                       of production adjust more slowly than output prices.
+                                                    b. Production cost changes shift the short-run aggregate supply curve. These occur
+                                                       when:
+                                                         i. Expectations about future inflation change.
+                                                        ii. Raw material prices, such as the cost of energy, change.
+www.moneyandbanking.com
+
+
+
+
+                                                    c. The long-run aggregate supply curve is vertical at potential output.
+                                                         i. Along the long-run aggregate supply curve, expected inflation equals current
+                                                            inflation.
+                                                        ii. The long-run aggregate supply curve shifts when either the amounts of capi-
+                                                            tal and labor used in the economy change or productivity changes.
+                                                       iii. The short-run aggregate supply curve intersects the long-run aggregate
+                                                            ­supply curve at the point where inflation equals expected inflation.
+                                                 4. Equilibrium output and inflation are determined by the intersection of the dynamic
+                                                    aggregate demand curve and either the short-run or long-run aggregate supply
+                                                    curve.
+                                                    a. The short-run equilibrium point is located where the dynamic aggregate d­ emand
+                                                       curve intersects the short-run aggregate supply curve.
+                                                    b. The long-run equilibrium point is located where the dynamic aggregate demand
+                                                       curve intersects the long-run aggregate supply curve. At that point, inflation
+                                                       equals expected inflation, which equals the inflation target, and current output
+                                                       equals potential output.
+                                                    c. Fluctuations in output and inflation come from either:
+                                                         i. Demand shifts, which cause them to rise and fall together.
+                                                        ii. Supply shifts, which cause one to rise as the other falls.
+
+
+
+                                                 Conceptual and Analytical Problems
+                                                                                                                                              ®
+
+
+
+
+                                                   1. Explain the determinants of potential output growth. (LO1)
+                                                  2.* Explain how a recessionary output gap would emerge in an economy where the
+                                                      long-run aggregate supply curve is persistently shifting to the right. (LO1)
+                                                   3. Describe the determinants of the long-run real interest rate, r*, and speculate on
+                                                      the sort of events that would make it fluctuate. (LO1)
+                                                 *Indicates more difficult problems.
+
+
+===== PDF 644 | 印刷页 609 =====
+
+                                                                       Conceptual and Analytical Problems l   609
+
+
+
+ 4. Explain how and why the components of aggregate expenditure depend on the
+    real interest rate. Be sure to distinguish between real and nominal interest rates,
+    and explain why the distinction matters. (LO2)
+ 5.* Suppose that the aggregate expenditure curve for an economy can be expressed
+     algebraically as
+                                      AE = 3,000 − 2,500r
+		 where AE is aggregate expenditures and r is the real interest rate expressed as a
+   decimal. If the level of potential output in this economy is 2,975, what is the
+   long-run real interest rate, r*? (LO2)
+ 6. Suppose the U.S. economy is in equilibrium at the long-run real interest rate (r*)
+    that prevails when aggregate expenditure equals potential output. Draw a dia-
+    gram of aggregate expenditure showing this initial equilibrium. Then suppose
+    that foreign demand for U.S. exports falls due to a recession abroad. Show how
+    r* will change and explain your results. (LO1)
+ 7. The European Central Bank’s primary objective is price stability. Policymakers
+    interpret this objective to mean keeping inflation below, but close to, 2 percent, as
+    measured by a euro-area consumer price index. In contrast, the Fed has a dual objec-
+    tive of price stability and maximum sustainable employment. How might you expect
+
+
+
+
+                                                                                                                    www.moneyandbanking.com
+    the monetary policy reaction curves of the two central banks to differ? Why? (LO2)
+ 8.* Explain why the short-run aggregate supply curve is upward sloping. Under
+     what circumstances might it be vertical? (LO3)
+ 9.* Assume the short-run aggregate supply curve can be expressed algebraically as
+                                      Ys = 4,200 + 4,000π
+		 where Ys is aggregate supply, and the dynamic aggregate demand curve can be
+   written as
+                                      Yd = 4,300 − 1,000π
+		 where Yd is aggregate demand. Find the numerical values for equilibrium output,
+   Y, and the equilibrium inflation rate, π, in the short run. (LO4)
+10.    Consider Panel B of Figure 21.16 where, at the initial short-run equilibrium
+       point 0, current inflation is below expected inflation and output is below poten-
+       tial output. Suppose that the initial inflation target was at the level corresponding
+       to point 1, but the central bank chooses to stimulate demand to speed the adjust-
+       ment to long-run equilibrium. What action must the central bank take and what
+       are the costs and benefits of such a policy? (LO4)
+ 11. Suppose the real interest rate unexpectedly falls in the absence of other economic
+     changes. What would you expect to happen to (a) consumption, (b) investment,
+     and (c) net exports in the economy? (LO3)
+12.* Economy A and Economy B are similar in every way except that in Economy A,
+     50 percent of aggregate expenditure is sensitive to changes in the real interest
+     rate and in Economy B, 70 percent of aggregate expenditure is sensitive to
+     changes in the real interest rate. (LO2)
+     a. Which economy will have a steeper aggregate expenditure curve?
+     b. How would the dynamic aggregate demand curves differ given that the mon-
+        etary policy reaction curve is the same in both countries?
+		     Explain your answers.
+*Indicates more difficult problems.
+
+
+===== PDF 645 | 印刷页 610 =====
+
+                          610   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+                                                   13. Given the expected relationship between the real interest rate and investment,
+                                                       how would you explain a scenario where investment continued to fall despite low
+                                                       or even negative real interest rates? (LO3)
+                                                   14. State whether each of the following will result in a movement along or a shift in
+                                                       the monetary policy reaction curve and in which direction the effect will
+                                                       be. (LO2)
+                                                       a. Policymakers increase the real interest rate in response to a rise in current
+                                                          inflation.
+                                                       b. Policymakers increase their inflation target.
+                                                       c. The long-run real interest rate falls.
+                                                   15. Suppose a natural disaster wipes out a significant portion of the economy’s capi-
+                                                       tal stock, reducing the potential level of output. What would you expect to hap-
+                                                       pen to the long-run real interest rate, r*? What impact would this have on the
+                                                       monetary policy reaction curve and the dynamic aggregate demand curve? (LO2)
+                                                   16. Suppose there were a wave of investor optimism in the economy. What would the
+                                                       impact be on the dynamic aggregate demand curve? (LO2)
+                                                   17. Explain how each of the following affects the short-run aggregate supply curve.
+                                                       (LO3)
+                                                       a. Firms and workers reduce their expectations of future inflation.
+www.moneyandbanking.com
+
+
+
+
+                                                       b. There is a fall in current inflation.
+                                                       c. There is a fall in oil prices.
+                                                   18. Suppose the economy is in short-run equilibrium at a level of output that exceeds
+                                                       potential output. How would the economy self-adjust to return to long-run equi-
+                                                       librium? (LO4)
+                                                   19. Why do you think the surge in oil prices in 2007–2008 had a much smaller i­ mpact
+                                                       on inflation expectations compared with the oil price shocks of the 1970s? (LO4)
+                                                   20.* You read a news story blaming the central bank for pushing the economy into
+                                                        recession. The article goes on to mention that not only has output fallen below its
+                                                        potential level but that inflation had also risen. If you were to respond defending
+                                                        the central bank, what argument would you make? (LO4)
+                                                   21. For each of the following economies, select the term—inflation, deflation, or
+                                                       disinflation—that best describes what the economy is experiencing. (LO1)
+
+
+                                                                                                               March     April    May
+
+                                                       Annual percent change in the consumer price index
+
+                                                       Economy A                                               –1.5%    –1.5%    –1.5%
+
+                                                       Economy B                                                3.2%     2.3%     0.8%
+
+                                                       Economy C                                                1.5%     1.5%     1.5%
+
+
+
+                                                   22. As a monetary policymaker, would you be more concerned if the aggregate price
+                                                       level were persistently rising by 2 percent or persistently falling by 1 percent?
+                                                       Explain your answer. (LO3)
+                                                  *Indicates more difficult problems.
+
+
+===== PDF 646 | 印刷页 611 =====
+
+                                                                                      Data Exploration   l   611
+
+
+
+23. A Phillips Curve postulates a negative relationship between inflation and eco-
+    nomic slack. However, the relationship between wage inflation and lagged
+    unemployment appeared more negative in the 1960s than in the period since
+    2000. In the macroeconomic model presented in this chapter, which curve would
+    be altered by this “flattening” of the Phillips Curve? (LO3)
+
+
+Data Exploration                                    ®
+
+
+
+
+For general information on using Federal Reserve Economic Data (FRED) online,
+visit www.mhhe.com/moneyandbanking6e.com and refer to the FRED resources.
+ 1. Are long-term inflation expectations “well anchored”? Using monthly data since
+    2003, plot a measure of long-term inflation expectations based on the difference
+    between the yields on a five-year Treasury bond (FRED code: GS5) and a five-
+    year Treasury Inflation-Protected Securities (TIPS) bond (FRED code: FII5).
+    What do you conclude? How did the financial crisis of 2007–2009 affect the
+    measure? (LO1)
+ 2. Is investment sensitive to the real interest rate? Plot since 1990 a measure of the
+    real interest rate—based on the difference between Moody’s Baa corporate bond
+
+
+
+
+                                                                                                                   www.moneyandbanking.com
+    yield (FRED code: BAA) and a survey of expected inflation (FRED code:
+    MICH)—and (on the right scale) the share of investment (FRED code: GPDIC96)
+    in real GDP (FRED code: GDPC1). Explain the cyclical pattern. (LO2)
+ 3. How sensitive is private investment to risk? Plot since 2004 the share of real
+    gross private domestic investment (FRED code: GPDIC96) in real GDP (FRED
+    code: GDPC1) and (on the right scale) a measure of anticipated stock market
+    volatility (FRED code: VIXCLS). Explain the pattern. (LO2)
+ 4. A recession may reflect declines in aggregate demand, aggregate supply, or both.
+    Are swings in consumer sentiment characteristic of recessions? Plot a measure of
+    sentiment (FRED code: UMCSENT), and discuss its evolution during the reces-
+    sions since 1980. Explain why consumer sentiment is an important example of an
+    aggregate demand shock. (LO2, LO3)
+ 5. How often are negative supply shocks associated with recessions? Plot on a quar-
+    terly basis since 1971 the real price of oil—measured as the ratio of the nominal
+    spot price of West Texas intermediate oil (FRED code: WTISPLC) to the U.S. con-
+    sumer price index (CPIAUCSL). Identify recessions that may have been triggered
+    in part by an oil price shock. (LO4)
+
+
+===== PDF 647 | 印刷页 612 =====
+
+                          612   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+
+                                                  Appendix to Chapter 21
+                                                  The Dynamic Aggregate
+                                                  Demand–Aggregate Supply Model
+
+
+
+                                                  An algebraic version of the macroeconomic model presented in Chapter 21 begins
+                                                  with the aggregate expenditure (AE) curve shown in Figure 21.4.15 Because con-
+                                                  sumption and investment are sensitive to the real interest rate, we can write this as
+
+                                                                                              Yt = Y – αrt + dt(A1)
+www.moneyandbanking.com
+
+
+
+
+                                                  where Yt is current real output; r t is the__
+                                                                                                current level of the real interest rate; dt is
+                                                  a transitory change in demand; and Y​    ​​ is the level of autonomous components of
+                                                  aggregate demand that are not sensitive to the interest rate, including government
+                                                  spending and the portions of consumption and investment driven by consumer
+                                                  and business confidence. The positive parameter α represents the sensitivity of
+                                                  aggregate expenditure to changes in the real interest rate. The larger α is, the
+                                                  steeper the slope of the AE curve in Figure 21.4. (You may be familiar with a
+                                                  version of equation (A1) from introductory macroeconomics, where it is labeled
+                                                  as an “IS” curve.)
+                                                     In the chapter, we noted that the long-run real interest rate (r*) equates the level of
+                                                  aggregate expenditure (Yt) to potential output (YP). Equation (A1) allows us to derive
+                                                  that as
+                                                        Y–Y    P
+                                                   r* = ​ ______
+                                                  	​             (A2)​
+                                                            α ​
+                                                     Note that r* also is the same as the natural rate of interest that we defined __     in
+                                                  ­ hapter 18. Equation (A2) has the immediate implication that increases in ​​Y​​ drive r*
+                                                  C
+                                                  up. For example, as government expenditure rises or improved business confidence
+                                                  boosts investment, the long-run real interest rate will rise.
+                                                     Next, we turn to the monetary policy reaction curve (MPRC). To simplify the exposi-
+                                                  tion, we use a version of the Taylor rule from Chapter 18 that focuses only on deviations
+                                                  of current inflation from the central bank’s target and excludes the output gap. Following
+                                                  the discussion in this chapter associated with Figure 21.7, we can write this as
+
+                                                                                          rt = r* + γ(πt – πT)(A3)
+
+
+
+                                                   This algebraic model also is a simplified version of the model presented in Chapter 15 of the ninth edition of
+                                                  15
+
+                                                  N. Gregory Mankiw’s Macroeconomics (New York: Worth, 2016).
+
+
+===== PDF 648 | 印刷页 613 =====
+
+                                                                 The Dynamic Aggregate Demand–Aggregate Supply Model l 613
+
+
+
+where πt is current inflation, πT denotes the central bank’s inflation target, r* is the
+ natural rate of interest, and the positive parameter γ represents how aggressively
+­policymakers react to inflation deviations from their target.16
+    Substituting equation (A3) into equation (A1), and using the solution for the long-
+run real interest rate in equation (A2) gives us the dynamic aggregate demand (AD)
+curve shown in Figure 21.7:
+
+ πt = πT – ​ ___
+	​              1 ​  ​ (Y – YP) + ​ ___
+             ​  αγ       t
+                                    ​  αγ     t   ( )
+                                       1 ​  ​d (A4)​
+                                                                          ( )
+   Looking at this, we see first that when current output equals potential output, and in
+the absence of any transitory shocks, then current inflation equals the central bank’s
+target level (πt = πT). Second, consistent with the negative slope of the AD curve in
+Figure 21.7, as output rises, inflation falls. Third, the larger the sensitivities of expend-
+iture to the real interest rate (α) and of monetary policy to the inflation gap (γ), the
+flatter the AD curve.
+   Next, we turn to the short-run aggregate supply (SRAS) curve drawn in Figure 21.11.
+We can write this as
+	​
+ πt = π
+      ​ e​t​  ​+ β(Yt – YP) + st(A5)​
+where ​π​te​  ​is expected inflation, β is a positive parameter equal to the reciprocal of the
+
+
+
+
+                                                                                                                             www.moneyandbanking.com
+responsiveness of output to a pickup in current output price inflation relative to
+expected inflation, and st represents things that drive up production costs, like increases
+in the price of oil. You may recognize this as a version of the Phillips curve.
+   To complete the model, we need to characterize how inflation expectations are
+formed. There are a number of ways to do this. For our purposes, the simplest is to
+assume that people simply set their current inflation expectations at the same level of
+actual inflation they have recently experienced. Often referred to as “adaptive expecta-
+tions,” we can write this as
+	​​π​et​  ​= πt–1(A6)​
+     Substituting equation (A5) into equation (A4), we get
+                                          πt = πt–1 + β(Yt – YP) + st(A7)
+The short-run equilibrium of the economy is characterized by the point where the AD
+curve (A3) crosses the SRAS curve (A6). The solution for inflation is as follows:
+
+	​(πt – πT ) = ​ _______
+                   1 + αβγ       (          ​ )   β
+                 ​  1 ​  ​ (πt–1 – πT ) + ​ _______
+                                               1 + αβγ t          (            ) (
+                                                                ​  1 ​  ​st(A8)​
+                                                      ​  ​d + ​ _______
+                                                                  1 + αβγ                          )
+     And for output, we get something similar:
+
+                        (            )
+                      ​  1 ​  ​ (Yt–1 – YP) + ​ _______
+        (Yt – YP) = ​ _______
+                        1 + αβγ                          (            )           αγ
+                                                ​  1 ​  ​ (dt – dt – 1) – ​ _______
+                                                  1 + αβγ
+                                                                            ​            (
+                                                                                      ​  ​s (A9)
+                                                                               1 + αβγ t               )
+The algebraic model of inflation and output reflected in equations (A8) and (A9)
+incorporates key features of the geometric version presented in the chapter. These
+include the following (some of which will be explored further in Chapter 22):
+16
+   This formulation assumes that the nominal interest rate implied by the sum of the real interest rate (rt) and the
+expected inflation rate (​πe​t​  ​) remains above the effective lower bound. For simplicity of exposition, equation (A3)
+also implicitly incorporates the Fisher equation described in Chapter 4—namely, the nominal interest rate equals
+the real interest rate plus expected inflation—by assuming that the central bank alters the real interest rate when
+it changes the nominal interest rate.
+
+
+===== PDF 649 | 印刷页 614 =====
+
+                          614   l Chapter 21  Output, Inflation, and Monetary Policy
+
+
+
+                                                     ∙∙ A demand shock, dt, shifts the AD curve along the SRAS curve, moving output
+                                                        and inflation in the same direction.
+                                                     ∙∙ A supply shock, st, shifts the SRAS curve along the AD curve, moving output
+                                                        and inflation in opposite directions.
+                                                     ∙∙ An aggressive central bank that is highly responsive to inflation deviations (so
+                                                        that γ is high) has a steep MPRC, resulting in a flat AD curve.
+                                                     ∙∙ In the face of a demand shock, dt, an aggressive central bank that is highly respon-
+                                                        sive to inflation (so that γ is high) can keep inflation close to target in the short
+                                                        run, while also minimizing the impact of the shock on the output gap.
+                                                     ∙∙ In the face of a supply shock, st, an aggressive central bank that is highly respon-
+                                                        sive to inflation deviations (so that γ is high) can keep inflation close to target
+                                                        in the short run, but doing so will amplify the impact of the supply shock on the
+                                                        output gap.
+                                                     ∙∙ Shocks die out slowly. Here’s the logic: The terms α, β, and γ are all positive, so
+                                                        their product, (αβγ), is positive as well. This means that the term in the denominator
+                                                        on the right-hand side of equations (A8) and (A9), namely (1 + αβγ), is greater than
+                                                        one. Consequently, the coefficients on lagged inflation in (A8) and on lagged out-
+                                                        put in (A9) are less than one. This means that the shock fades gradually with time.
+www.moneyandbanking.com

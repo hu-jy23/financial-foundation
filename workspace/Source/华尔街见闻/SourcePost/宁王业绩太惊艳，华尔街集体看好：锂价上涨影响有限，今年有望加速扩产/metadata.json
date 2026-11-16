@@ -1,0 +1,132 @@
+{
+  "article_id": 3767128,
+  "selection": {
+    "article_id": 3767128,
+    "url": "https://wallstreetcn.com/articles/3767128",
+    "title": "宁王业绩太惊艳，华尔街集体看好：锂价上涨影响有限，今年有望加速扩产",
+    "page_display_time": "2026-03-10T16:00:55+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "B",
+    "reading_value": "从原材料传导、产品结构和产能利用率解释宁德时代单位盈利，连接成本与竞争优势。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1881,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 199
+  },
+  "url": "https://wallstreetcn.com/articles/3767128",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3767128?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:07+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/039e3561-3d19-4dcb-9386-4e16126d1b85.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "数据背后更值得关注的是结构性变化： 在国内乘用车市场份额增长承压的同时，欧洲市场份额从2024年的37%大幅跃升至2025年的43%，成为驱动全球份额提升的核心引擎。",
+      "path": "assets/figure_001.png",
+      "sha256": "e878f1481686e8d9cfbb1362287f3691fb29956dedb3b9bf0ca4af477098e275",
+      "bytes": 243602,
+      "width": 1199,
+      "height": 387,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/039e3561-3d19-4dcb-9386-4e16126d1b85.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/2736c032-64cd-477d-bd00-ce356fdacf6a.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "然而，宁德时代管理层在电话会上的回应极为淡定：",
+      "path": "assets/figure_002.png",
+      "sha256": "cbf6ea3b2196832a537777b4f57dd52f1228f911739c5e285a55ca04337ff9e6",
+      "bytes": 116320,
+      "width": 931,
+      "height": 553,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/2736c032-64cd-477d-bd00-ce356fdacf6a.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_003.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "宁王业绩太惊艳，华尔街集体看好：锂价上涨影响有限，今年有望加速扩产",
+  "page_display_time": "2026-03-10T16:00:55+08:00",
+  "page_byline": "许超",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "宁德时代四季度净利润暴增57%，全年狂赚722亿；产能利用率创历史高位103%，欧洲市场份额更从37%跃升至43%。面对锂价飙涨26%的市场恐慌，管理层一句\"单位净利润保持稳定\"彻底打消疑虑。汇丰、野村等机构集体上调目标价，A股隐含最高31%上行空间。\"宁王\"2026年增长故事，才刚刚开始。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1950,
+  "body_sha256": "9b0dbec64560bcd1c39f35e05af08be499cd3ae0fb28ee39bcac3d29bccc699d",
+  "raw_sha256": "29e0c9c78e43d9fcb6fc6c93c753dcbc9f5dd380d370b6fa0e09bc05fbe726e7",
+  "raw_bytes": 10992,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/2113e9c1-be49-4d3a-a1c3-2240a6a5d535.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 1881,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:47+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "29e0c9c78e43d9fcb6fc6c93c753dcbc9f5dd380d370b6fa0e09bc05fbe726e7",
+      "bytes": 10992
+    },
+    "article.html": {
+      "sha256": "ad66eb6405bea9151e6790044e33ab3b73137be4f8497eebd1beb601f7a4ff39",
+      "bytes": 10842
+    },
+    "article.md": {
+      "sha256": "5da282741db7ebb7e0cfc4be91195b4474506a03522efc80f69896c710f38f06",
+      "bytes": 6432
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:48+08:00"
+}

@@ -1,0 +1,89 @@
+{
+  "article_id": 3783190,
+  "selection": {
+    "article_id": 3783190,
+    "url": "https://wallstreetcn.com/articles/3783190",
+    "title": "美债反转还要等多久？CTA空头已达极端，但主动资金的卖压尚未结束",
+    "page_display_time": "2026-10-08T18:00:46+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "国债与财政",
+    "reading_priority": "A",
+    "reading_value": "区分CTA空头、主观久期持仓和风险平价的交易约束，避免把拥挤度直接等同反转。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1175,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 31
+  },
+  "url": "https://wallstreetcn.com/articles/3783190",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783190?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:18+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/9b541649-2189-472c-8e8c-5f89673488a5.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "与量化基金相反，主动型投资者此前积累的久期多头仍未完全消化。美国规模最大的20只主动债券共同基金，其久期beta近期仍处于历史偏高水平；美国平衡型共同基金的债券久期beta同样高于历史均值，近几个月已经开始主动压缩。",
+      "path": "assets/figure_001.png",
+      "sha256": "1d3754038ec0844864eb1a05664ede0ecf5d6265d3bba54803697e2ecde2fddb",
+      "bytes": 383554,
+      "width": 1024,
+      "height": 780,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/9b541649-2189-472c-8e8c-5f89673488a5.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "美债反转还要等多久？CTA空头已达极端，但主动资金的卖压尚未结束",
+  "page_display_time": "2026-10-08T18:00:46+08:00",
+  "page_byline": "李佳",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "摩根大通认为，主观资金规模更大，其持续减仓仍将给美债价格带来压力，短期收益率更可能继续上行。不过，CTA空头已较为拥挤，若行情反转，空头回补可能放大美债涨势。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1259,
+  "body_sha256": "cfd15edd8d93eaf745e2163ac7c3fe881e67eb846c5ded98a41f856127b8805a",
+  "raw_sha256": "0ef026db072570a2b1ad6e73c9b2b088615bb3a2f742c22200a5a55fd91543a0",
+  "raw_bytes": 7601,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/b44586b7-0516-4f63-b45c-41a312bf0d94.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1175,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "0ef026db072570a2b1ad6e73c9b2b088615bb3a2f742c22200a5a55fd91543a0",
+      "bytes": 7601
+    },
+    "article.html": {
+      "sha256": "9dcb29d3eff28a6a8e59ab43e2d6cf7e9aae2192805b92296a031e70c4f4bc04",
+      "bytes": 7563
+    },
+    "article.md": {
+      "sha256": "91a733ecad386c85f4504802fed513d406d78a868d7458b907545aa1b952d54e",
+      "bytes": 4296
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:13+08:00"
+}

@@ -1,0 +1,78 @@
+{
+  "article_id": 3745287,
+  "selection": {
+    "article_id": 3745287,
+    "url": "https://wallstreetcn.com/articles/3745287",
+    "title": "进口订单暴跌，货运需求减少，美国港口预警“贸易冻结”",
+    "page_display_time": "2025-04-16T07:44:00+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": "环球时报",
+    "page_source_url": null,
+    "page_attribution_note": "本文来源：环球时报，原文标题《进口订单暴跌，货运需求减少，美国港口预警“贸易冻结”》",
+    "category": "能源、商品与航运",
+    "reading_priority": "B",
+    "reading_value": "串联抢出口、订单冻结、停航与港口拥堵，保留不同期限下的贸易传导。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2118,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 85
+  },
+  "url": "https://wallstreetcn.com/articles/3745287",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3745287?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:33+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "进口订单暴跌，货运需求减少，美国港口预警“贸易冻结”",
+  "page_display_time": "2025-04-16T07:44:00+08:00",
+  "page_byline": "董静",
+  "source_label": "环球时报",
+  "source_url": "",
+  "subtitle": "贸易数据平台Vizion提供的数据显示，由于关税不确定性，过去七天，前往美国的集装箱预订量相比前一周大幅下降67%，从美国出发的集装箱预订量下降40%。未来几周“航运公司将大规模停航”。美国最大的港口之一加州长滩港预测2025年下半年货运量可能暴跌20%，洛杉矶港5月起下降10%。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2200,
+  "body_sha256": "aedfd3763630f215ea281a965f82abb05b9abd4e6a590648c71aa153ab8f89b8",
+  "raw_sha256": "bd05937ddf8f377089ef296c495fd12f8c9556ecfb9016b8f879186d0557abc0",
+  "raw_bytes": 9893,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/793145ed-f4a7-4af9-a54f-abc3d2848bcc.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2118,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "环球时报",
+      "url": "https://world.huanqiu.com/article/4MICS1Yr9WW"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:36+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "bd05937ddf8f377089ef296c495fd12f8c9556ecfb9016b8f879186d0557abc0",
+      "bytes": 9893
+    },
+    "article.html": {
+      "sha256": "b0f2a78db9ec7476e73655dc910e738cc1037950928d245cb72764c75519db04",
+      "bytes": 9786
+    },
+    "article.md": {
+      "sha256": "17bca445ab06bb77857505761f0c1151a93629c7bdbf9d5177b34f33df6259fe",
+      "bytes": 7108
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:23+08:00"
+}

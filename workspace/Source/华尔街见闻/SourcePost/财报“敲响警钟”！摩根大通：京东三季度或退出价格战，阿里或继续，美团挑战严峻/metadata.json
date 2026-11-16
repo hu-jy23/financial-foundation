@@ -1,0 +1,121 @@
+{
+  "article_id": 3753509,
+  "selection": {
+    "article_id": 3753509,
+    "url": "https://wallstreetcn.com/articles/3753509",
+    "title": "财报“敲响警钟”！摩根大通：京东三季度或退出价格战，阿里或继续，美团挑战严峻",
+    "page_display_time": "2025-08-18T09:07:04+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "B",
+    "reading_value": "用外卖投入损失、现金承受能力与战略位置解释三家平台的竞争选择。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1444,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 193
+  },
+  "url": "https://wallstreetcn.com/articles/3753509",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3753509?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:05+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/d8719a08-cfe5-4e3a-8292-003347cd5807.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "摩根大通称，对应的每单亏损方面， 京东预计为8元，阿里巴巴为1.87元 。投资者应 密切关注即将公布的阿里巴巴和美团2025年二三季度财报 ，特别留意其盈利能力的下行风险。",
+      "path": "assets/figure_001.png",
+      "sha256": "5d76cbba447ae1546411fec159f44d178fab227481b69916ed9cd70273c8ce27",
+      "bytes": 121452,
+      "width": 1024,
+      "height": 313,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/d8719a08-cfe5-4e3a-8292-003347cd5807.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_002.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "财报“敲响警钟”！摩根大通：京东三季度或退出价格战，阿里或继续，美团挑战严峻",
+  "page_display_time": "2025-08-18T09:07:04+08:00",
+  "page_byline": "董静",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "摩根大通称，京东二季度外卖投资损失130亿元，超出预期30%。基于此，摩根大通上调阿里三季度外卖损失预期至300亿元以上。三大巨头面临分化命运：京东因财务压力或率先在三季度退出价格战；阿里准备打持久战，将继续投资外卖业务；美团作为传统霸主面临最严峻挑战，市场份额和利润双重下滑风险突出。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1516,
+  "body_sha256": "cadda8f0d46e92572f9ffdc70d99156e2787ecd42810f78a0fb4a4bbcc2beac7",
+  "raw_sha256": "ad832b4ec0336589d2918ac88a702f378a39a0c500fb1c096b88a259641504df",
+  "raw_bytes": 10184,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/5e437665-07ae-4384-8b27-e995051bf69f.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 1444,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "见闻此前文章",
+      "url": "https://wallstreetcn.com/articles/3753330"
+    },
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:47+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "ad832b4ec0336589d2918ac88a702f378a39a0c500fb1c096b88a259641504df",
+      "bytes": 10184
+    },
+    "article.html": {
+      "sha256": "fe8121d26a3dff7647ba7ffdcbe7ec348af72eb29fc6bde91ae49a39f619e48a",
+      "bytes": 9997
+    },
+    "article.md": {
+      "sha256": "3477b99b4d364693673ac76ee11e2e0db993b887aaf1c689f60e8b2f71dad435",
+      "bytes": 5522
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:47+08:00"
+}

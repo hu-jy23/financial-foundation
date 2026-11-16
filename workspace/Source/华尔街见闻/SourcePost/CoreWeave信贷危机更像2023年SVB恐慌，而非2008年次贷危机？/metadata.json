@@ -1,0 +1,73 @@
+{
+  "article_id": 3784003,
+  "selection": {
+    "article_id": 3784003,
+    "url": "https://wallstreetcn.com/articles/3784003",
+    "title": "CoreWeave信贷危机更像2023年SVB恐慌，而非2008年次贷危机？",
+    "page_display_time": "2026-10-20T14:51:36+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "信用与融资结构",
+    "reading_priority": "A",
+    "reading_value": "区分有担保项目贷款和无担保债券，并讨论局部风险向整个AI周期外推的边界。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 3975,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 45
+  },
+  "url": "https://wallstreetcn.com/articles/3784003",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784003?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:21+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "CoreWeave信贷危机更像2023年SVB恐慌，而非2008年次贷危机？ ",
+  "page_display_time": "2026-10-20T14:51:36+08:00",
+  "page_byline": "许超",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "当前的关键不是CoreWeave会不会倒，而是算力定价能否支撑起这个周期的融资逻辑。这个问题的答案，将决定这场恐慌的最终归宿。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 4032,
+  "body_sha256": "a4b9dcb95eed3ba1bf412b93157011b76023936cceaa60ef0fd8b7a045435c76",
+  "raw_sha256": "15c3f4bbd50ee15cd0d76d82c48004d6889915575afe8053a370d0e606e1188d",
+  "raw_bytes": 14869,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/e551bec6-f1d0-45ef-82f7-4f599dd91747.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 3975,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:33+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "15c3f4bbd50ee15cd0d76d82c48004d6889915575afe8053a370d0e606e1188d",
+      "bytes": 14869
+    },
+    "article.html": {
+      "sha256": "134ba5a446994949f724465378f562e7a2420979f8d682240f9b3b22e6390d5b",
+      "bytes": 14293
+    },
+    "article.md": {
+      "sha256": "00655ba398015351c1d1e046ac7877fc3c402710984834e67d1662807e5219af",
+      "bytes": 10800
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:15+08:00"
+}

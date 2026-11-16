@@ -1,0 +1,73 @@
+{
+  "article_id": 3763483,
+  "selection": {
+    "article_id": 3763483,
+    "url": "https://wallstreetcn.com/articles/3763483",
+    "title": "司法部传票适得其反？鲍威尔去留难题恐将美联储拖入“影子主席”时代",
+    "page_display_time": "2026-01-16T20:49:41+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "B",
+    "reading_value": "拆解主席任期与理事任期差异，以及联储内部制衡和继任安排的不确定性。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2090,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 14
+  },
+  "url": "https://wallstreetcn.com/articles/3763483",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3763483?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:16+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "司法部传票适得其反？鲍威尔去留难题恐将美联储拖入“影子主席”时代",
+  "page_display_time": "2026-01-16T20:49:41+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "特朗普“以法逼宫”反陷困局，司法部传票或迫使鲍威尔在2026年主席任满后留任理事，以捍卫央行独立性。此举恐导致美联储出现“双教皇”并立的权力格局，引发市场对“谁在掌权”的困惑，更令特朗普的新主席提名与未来货币政策陷入前所未有的政治漩涡。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2167,
+  "body_sha256": "80c395e5d86d45c2f0afe9aa4ca6ac7509dbc56d529a6e8570585b81b0c1a506",
+  "raw_sha256": "afb4dd39345c97d3d00ed3c132c959f98b70dcde3898d40ce017c5b7c6038a11",
+  "raw_bytes": 9974,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/4897f227-db3b-4871-bae6-ef77e2c64795.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2090,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "afb4dd39345c97d3d00ed3c132c959f98b70dcde3898d40ce017c5b7c6038a11",
+      "bytes": 9974
+    },
+    "article.html": {
+      "sha256": "71e46d6b262e6cd8a34434cddfed3cd450816da4e05f62aec19803fc88ef5f28",
+      "bytes": 9732
+    },
+    "article.md": {
+      "sha256": "9be4969bec2f7fea4b22c88e17a93e651c769d861da8cb6fd4e3c9345e47b590",
+      "bytes": 6958
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:09+08:00"
+}

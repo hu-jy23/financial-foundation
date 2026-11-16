@@ -1,0 +1,73 @@
+{
+  "article_id": 3767095,
+  "selection": {
+    "article_id": 3767095,
+    "url": "https://wallstreetcn.com/articles/3767095",
+    "title": "芯片冷却重要原料！霍尔木兹海峡“锁住”氦气，韩国进口总量的64.7%来自卡塔尔",
+    "page_display_time": "2026-03-10T09:05:56+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "能源、商品与航运",
+    "reading_priority": "B",
+    "reading_value": "沿氦气和溴的供应集中度、运输与库存解释海峡中断如何传导至芯片制造。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1052,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 90
+  },
+  "url": "https://wallstreetcn.com/articles/3767095",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3767095?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:33+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "芯片冷却重要原料！霍尔木兹海峡“锁住”氦气，韩国进口总量的64.7%来自卡塔尔",
+  "page_display_time": "2026-03-10T09:05:56+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "伊朗冲突引发霍尔木兹海峡封锁，卡塔尔三处氦气设施停运，全球三分之一氦气供应骤然蒸发。韩国64.7%氦气依赖卡塔尔进口，溴来源亦高度集中于以色列，半导体关键原料双双告急，这场中东危机正将代价直接传导至每一块芯片。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1136,
+  "body_sha256": "65bebc39ddb38e3e62d01d9f506d7323be70abaea4a9cfdc8e915da00d284d29",
+  "raw_sha256": "8af25084b3ad266e59bbdfcd019fd5dd3471db7256fe301104cda165f1873e31",
+  "raw_bytes": 6993,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/4e4a8842-9604-4692-8778-3665a8ae6bfd.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1052,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:37+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "8af25084b3ad266e59bbdfcd019fd5dd3471db7256fe301104cda165f1873e31",
+      "bytes": 6993
+    },
+    "article.html": {
+      "sha256": "fbb1dfaaa93ea6d6642c558023f431b8b4261073e29e2a8e25b0a91d0bfe9cc2",
+      "bytes": 7002
+    },
+    "article.md": {
+      "sha256": "afc8b5d2314567430ec19d1ca8f1bfa7be5d61de2c33ae448502c5be825cb90f",
+      "bytes": 4065
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:23+08:00"
+}

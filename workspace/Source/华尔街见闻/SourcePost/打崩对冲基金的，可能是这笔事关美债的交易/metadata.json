@@ -1,0 +1,89 @@
+{
+  "article_id": 3744862,
+  "selection": {
+    "article_id": 3744862,
+    "url": "https://wallstreetcn.com/articles/3744862",
+    "title": "打崩对冲基金的，可能是这笔事关美债的交易",
+    "page_display_time": "2025-04-09T16:03:47+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李笑寅",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004684",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "国债与财政",
+    "reading_priority": "A",
+    "reading_value": "拆解美债—利率互换交易，连接银行流动性需求、互换利差和监管预期。",
+    "starter_selection": true,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1257,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 25
+  },
+  "url": "https://wallstreetcn.com/articles/3744862",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3744862?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:17+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/fb0f375d-edf8-46bf-9185-7ed99f593e96.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "Columbia Threadneedle的利率策略师Ed Al-Hussainy直言：",
+      "path": "assets/figure_001.png",
+      "sha256": "048922713c5c85f052880587411953f905801dae9ffd8a0dc1642ce1c5d2d27a",
+      "bytes": 357851,
+      "width": 822,
+      "height": 632,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/fb0f375d-edf8-46bf-9185-7ed99f593e96.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "打崩对冲基金的，可能是这笔事关美债的交易",
+  "page_display_time": "2025-04-09T16:03:47+08:00",
+  "page_byline": "李笑寅",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "为了应对贸易战带来的经济前景恶化，美国的银行正在抛售美债以筹集现金，这一举动推动互换合约的表现超过美债，导致曾经备受对冲基金青睐的“押注美债优于互换”的互换利差交易加速崩溃。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1331,
+  "body_sha256": "67a2ef8b3f125adc79794ace438f48c4616af40e454b45a37c06a1e7c25582d0",
+  "raw_sha256": "ed4ba1ffd13dca0f6f51e869d04a7378a5d239e5132daaeab9f6011c1718d93b",
+  "raw_bytes": 8302,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/2bd46f3c-dcbb-482d-8a34-cfd60294f39d.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1257,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "ed4ba1ffd13dca0f6f51e869d04a7378a5d239e5132daaeab9f6011c1718d93b",
+      "bytes": 8302
+    },
+    "article.html": {
+      "sha256": "7791679e4f6f2c4c75db7dd21d4fbb3ebe632819f391d8a27b71cdd4bc2e552e",
+      "bytes": 8224
+    },
+    "article.md": {
+      "sha256": "f510ee96b4e9c1f90eb2f7d995a4d80787257e56d46013d3f1776331c9ae50d4",
+      "bytes": 4436
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:12+08:00"
+}

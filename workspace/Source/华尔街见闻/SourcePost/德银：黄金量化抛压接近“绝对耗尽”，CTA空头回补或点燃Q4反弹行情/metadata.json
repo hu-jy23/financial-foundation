@@ -1,0 +1,132 @@
+{
+  "article_id": 3783795,
+  "selection": {
+    "article_id": 3783795,
+    "url": "https://wallstreetcn.com/articles/3783795",
+    "title": "德银：黄金量化抛压接近“绝对耗尽”，CTA空头回补或点燃Q4反弹行情",
+    "page_display_time": "2026-10-16T19:40:58+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "卜淑情",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004518",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "黄金与贵金属",
+    "reading_priority": "B",
+    "reading_value": "解析量化去杠杆、CTA回补与实物需求的不同作用，价格触发位保留为当时模型输出。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1786,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 81
+  },
+  "url": "https://wallstreetcn.com/articles/3783795",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783795?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:32+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/80260c45-7348-49d0-b16a-db6f4ffc5bd1.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "德银模拟数据显示，在几乎所有价格情景下， 算法交易系统目前均偏向买入黄金。 与此同时，现货流量追踪数据显示，即便在强于预期的CPI数据公布后金价承压，当日现货黄金净流入仍录得强劲表现，买盘主要来自商业参与者。这一组合信号进一步强化了德银对黄金短期走势的乐观判断。",
+      "path": "assets/figure_001.png",
+      "sha256": "a681f094241485ce2ba1f98b94ef2f02df4a3d748f27adf72c4ce3b4e4ee53a0",
+      "bytes": 257434,
+      "width": 1024,
+      "height": 772,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/80260c45-7348-49d0-b16a-db6f4ffc5bd1.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/d3c2f085-bf0f-45dd-b4f9-2d0f176f7ff5.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "这一去杠杆过程在贵金属市场引发了无差别买盘——由于CTA基金此前在贵金属板块持有净空头头寸，量化基金的去杠杆行为反而推动了贵金属的被动买入。 德银预计， 本次去杠杆将迫使CTA基金在黄金上回补相当于最大仓位规模20%的空头，在白银上增加7%，在铂金上增加13%，在钯金上增加15%。",
+      "path": "assets/figure_002.png",
+      "sha256": "325b456e2385d83d30ad301ac1ba70ce402f3f22fc816e6da7a08e86d121a61c",
+      "bytes": 148120,
+      "width": 1024,
+      "height": 671,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/d3c2f085-bf0f-45dd-b4f9-2d0f176f7ff5.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_003.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "德银：黄金量化抛压接近“绝对耗尽”，CTA空头回补或点燃Q4反弹行情",
+  "page_display_time": "2026-10-16T19:40:58+08:00",
+  "page_byline": "卜淑情",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "德银认为，量化基金风险平价组合去杠杆规模已达2010年以来第90百分位，黄金算法卖盘接近\"绝对耗尽\"，CTA空头回补或形成自我强化的买入循环，支撑四季度金价走强。不过，金价仍需突破约4370美元/盎司才能触发新一轮大规模程序化买入。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1863,
+  "body_sha256": "0484fe05f2de683d4f62eca94aff87077a16477057cc872ea94672d0177b468a",
+  "raw_sha256": "9fa953fb0d1f63a3629cb6448b0eb18f384853a4a1df8ffa1d8e3de31fccb850",
+  "raw_bytes": 10780,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/1a404d91-f2da-40a6-86b0-d6afa14d07c5.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 1786,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:36+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "9fa953fb0d1f63a3629cb6448b0eb18f384853a4a1df8ffa1d8e3de31fccb850",
+      "bytes": 10780
+    },
+    "article.html": {
+      "sha256": "cf2d7a57c92014bd81b2c66e921e45077c57e84691c494afa70ff31c36b5c254",
+      "bytes": 10907
+    },
+    "article.md": {
+      "sha256": "2c1289f8b7079254a93aa5800608c942d7f9e3ac6d5d5976864473f1c5220e0b",
+      "bytes": 6372
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:22+08:00"
+}

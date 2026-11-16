@@ -1,0 +1,1613 @@
+
+
+===== PDF 682 | 印刷页 647 =====
+
+23
+Chapter
+
+                       Modern Monetary Policy
+                       and the Challenges Facing
+                       Central Bankers
+
+ Learning Objectives
+ After reading this chapter, you should be able to:
+   LO1     Analyze the monetary policy transmission mechanism.
+
+   LO2     Discuss key challenges facing monetary policymakers.
+
+
+As we saw earlier, the financial crisis of 2007–2009 and the recession it triggered were
+by far the most widespread and costly since the Great Depression. And, although the
+financial disruptions began in the United States, they spread to almost all corners of
+the global economy. Indeed, the peak-to-trough decline of GDP was greater in many
+countries than in the United States (see Panel A of Figure 23.1). The subsequent crisis
+in the euro area triggered even larger economic losses in Greece, Ireland, Italy,
+­Portugal, and Spain.
+    The response of monetary policymakers was likewise unprecedented. Interbank
+ lending rates—the target of central bank policy—plunged in the United States,
+ Japan, and much of Europe (see Panel B of Figure 23.1). And many central banks
+ deployed unconventional monetary policy tools—including forward guidance,
+ quantitative easing, and targeted asset purchases—to compensate for the collapse
+ of intermediation and the fragility of financial markets. Although monetary poli-
+ cies failed to prevent the global crisis, they nevertheless helped contain it. Around
+ mid-2009, the worldwide plunge in GDP bottomed out, and most economies began
+ growing again. Some, like China’s, had regained strength even earlier, partly
+ because of an ­extraordinary fiscal expansion. Similarly, the threat of an imminent
+ breakup of the euro area receded in the latter half of 2012 following the ECB’s
+ extraordinary interventions (see Chapter 16).
+    Yet, many observers worried that the aftermath of these financial crises would dim
+ the economic outlook for years to come. Some of the concerns stemmed from the dete-
+ rioration of fiscal conditions—a number of countries racked up record fiscal deficits
+ and surges in government debt in reaction to the crisis. But the damage to the global
+ financial system posed at least as big and pervasive a problem.
+    Deep, long recessions are frequently followed by unusually sharp and long-lived
+ economic rebounds. But the experience of previous financial crises—especially the
+ Great Depression and the 1990s breakdown in Japan—led policymakers to worry that
+ the rebound from the crisis of 2007–2009 would be weaker than the norm. They
+                                          647
+
+
+===== PDF 683 | 印刷页 648 =====
+
+648   l Chapter 23  Modern Monetary Policy and the Challenges Facing Central Bankers
+
+
+
+
+ Figure 23.1                 Economic Activity and Policy Rates during the Financial Crisis of 2007–2009 and Thereafter
+
+
+       A. Peak-to-Trough Percent Change of Real GDP during the Financial Crisis of 2007–2009
+                                               United              Euro United
+                     Australia Canada France   States   Korea      Area Kingdom Italy Germany Japan                   Mexico Ireland Turkey
+             0
+         –2
+         –4
+         –6
+         –8
+      –10
+      –12
+      –14
+      –16
+      NOTE: The U.S. peak and trough occurred in fourth quarter 2007 and second quarter 2009, respectively. In the other countries, the dates
+      differed somewhat, but the troughs occurred by third quarter 2009.
+      SOURCES: Organization for Economic Co-operation and Development and authors' calculations.
+
+       B. Overnight Interbank Lending Rates, 2006–2019
+                     6                                                                                                                      6
+                                                Lehman Collapse
+                     5                                                                                                                      5
+
+                     4                                                                                                                      4
+       Percent (%)
+
+
+
+
+                                                                                                                                                Percent (%)
+                     3                                                                                                                      3
+
+                     2       Bear                                                                                                           2
+                          Stearns
+                     1       Run                                                                                                            1
+
+                     0                                                                                                                      0
+
+               –1                                                                   –1
+                2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+                                    Euro Area     Japan     United States
+         SOURCES: Bank of Japan, European Central Bank, and Federal Reserve Board.
+
+
+
+
+                                    expected that anxious banks would make credit expensive and difficult to obtain, that
+                                    investors would be cautious about buying securitized assets, and that U.S. households
+                                    would prefer to save more and borrow less. Policymakers also made clear that a period
+                                    of increased regulation and prolonged fiscal repair lay ahead, which added to the hesi-
+                                    tancy among intermediaries.
+                                       The aggregate demand and supply framework described in Chapter 21 helps us
+                                    ­understand many sources of inflation and fluctuations in the business cycle as well as
+
+
+===== PDF 684 | 印刷页 649 =====
+
+                                                                 The Monetary Policy Transmission Mechanism   l   649
+
+
+
+how stabilization policy works. But it does not explain why policymakers in many
+countries doubted that conventional monetary policy would be sufficient to counter
+the crisis of 2007–2009. And it does not explain the weakness of the recoveries follow-
+ing financial crises. To understand these concerns, we must return to the question of
+how monetary policy affects the economy.
+    Chapter 17 described how central banks influence the economy by controlling their bal-
+ance sheet. Chapter 18 described how, in normal times, monetary policymakers use their
+balance sheet to control the interest rate banks charge each other for overnight loans. We
+learned that the real interest rate is the nominal interest rate minus the rate of expected infla-
+tion. Because the expected rate of inflation generally changes only slowly in low- and
+­moderate-inflation economies, changing the target for the policy interest rate also changes
+ the short-run real interest rate. In Chapter 21, we saw that the components of aggregate
+ expenditure are sensitive to the real interest rate, so by changing the real interest rate, poli-
+ cymakers can influence real economic activity. Yet, the 2007–2009 experience (as well as
+ that of Japan in the 1990s) suggests that conventional interest rate policy does not always
+ work. Even lowering their policy rates below zero—as the Bank of Japan, the ECB, and
+ several smaller central banks did—has not prompted a strong expansion in these economies.
+ To see why not, we need to look at all the ways that monetary policy a­ ctions ­affect real eco-
+ nomic activity—that is, all the channels through which monetary ­policy is transmitted.
+    Examining the transmission mechanism of monetary policy is the first of this chap-
+ ter’s two main topics. The second topic is the question of why, in the aftermath of
+ financial crises like the 2007–2009 episode, monetary policy and the challenges facing
+ central bankers are especially difficult.
+
+
+The Monetary Policy Transmission Mechanism
+Anytime the central bank alters the size of its balance sheet, the effects ripple through
+the economy, changing nearly everyone’s behavior. Households adjust their spending
+on houses and cars. Companies rethink their decisions about how much and how fast
+to grow. Exchange rates change, bond and stock prices move, and banks adjust their
+balance sheets. In fact, we would be challenged to find a financial or economic deci-
+sion that is unaffected. To fully appreciate how conventional monetary policy works,
+then, we need to examine the various ways in which changes in the policy-controlled
+interest influence the quantity of aggregate output demanded in the economy as a
+whole. These are referred to collectively as the channels of the monetary policy
+transmission mechanism. We will begin with the traditional interest rate and
+exchange rate channels. Next we will study the role of banks and finally the impor-
+tance of asset price movements, including the prices of stocks and houses.
+
+The Traditional Channels:
+Interest Rates and Exchange Rates
+Central banks, such as the Federal Reserve, the European Central Bank, and the Bank
+of Japan, target a very short-term (usually overnight) interest rate. In the Fed’s case,
+for example, a change of conventional policy is a change in the target range for the
+federal funds rate. And as we saw in Chapter 21, a change in a central bank’s policy
+interest rate represents a change in the real interest rate, which has a direct effect on
+total spending. The lower the real interest rate, the higher investment, consumption,
+and net exports will be.
+
+
+===== PDF 685 | 印刷页 650 =====
+
+650 l Chapter 23  Modern Monetary Policy and the Challenges Facing Central Bankers
+
+
+
+                         Let’s review this process. As the real interest rate falls, financing becomes less
+                      expensive, so firms become more likely to undertake investment projects and families
+                      more likely to purchase new cars. Changes in the real interest rate also affect the
+                      exchange rate. When the real interest rate falls, investor demand for U.S. assets falls
+                      with it, lowering the demand for and increasing the supply of dollars, reducing the dol-
+                      lar’s value (see Chapter 19, Figure 19.2). That is, an easing of monetary policy—by
+                      which we mean a decrease in the target nominal interest rate, which lowers the real
+                      interest rate—leads to a depreciation of the dollar. A less valuable dollar, in turn,
+                      drives up the cost of imported goods and services, reducing imports from abroad. At
+                      the same time, however, the lower value of the dollar makes U.S. goods and services
+                      cheaper to foreigners, so they will buy more of them. Together, lower imports and
+                      higher exports mean higher net exports, or an increase in total spending.
+                         While these traditional channels of monetary policy transmission make sense theo-
+                      retically, they present a practical problem. Though changes in monetary policy do influ-
+                      ence firms’ decisions to purchase new equipment and build new buildings, the interest
+                      rate channel is not very powerful. That is, data suggest that the investment component of
+                      total spending isn’t very sensitive to interest rates, which should not be a surprise to us.
+                      At the end of our discussion of financial intermediation in Chapter 11, we saw that
+                      information problems often make external financing too difficult and costly for firms to
+                      obtain, either directly in the financial markets or indirectly through institutions. As a
+                      result, the vast majority of investments are financed by businesses themselves,
+                      through their own funds. While a small change in the interest rate does change the
+                      cost of external financing, it doesn’t have much of an effect on investment decisions.
+                         The impact of short-term interest rates on household decisions is also rather mod-
+                      est. The problem is that people’s decisions to purchase cars or houses depend on
+                      longer-term interest rates rather than the policymakers’ short-run target rate. So house-
+                      hold consumption decisions will change only to the extent that changing the target
+                      interest rate affects long-term interest rates. And the overall effect isn’t that large.
+                         As for the effect of monetary policy on the exchange rate, once again, theory and
+                      practice differ. In the real world, the policy-controlled interest rate is just one of many
+                      factors that shift the demand and supply for the dollar on foreign exchange markets.
+                      The rather long list, described in Chapter 10, includes a change in the riskiness of
+                      domestic investment relative to foreign investment; a change in the preference of U.S.
+                      consumers for foreign-produced goods and services; and a change in foreigners’
+                      income and wealth. The influence of these other factors may overwhelm the impact of
+                      monetary policy on the exchange rate and net exports.
+                         Thus, after careful analysis, we must conclude that the traditional channels of mon-
+                      etary policy transmission aren’t very powerful. Yet evidence shows that monetary
+                      policy is effective. When policy-controlled interest rates go up, the quantity of aggre-
+                      gate output demanded does go down. The dynamic aggregate demand curve slopes
+                      down. Something else must be amplifying the impact of monetary policy changes on
+                      real economic activity. Otherwise, no one would care about the central bank’s periodic
+                      policy statements. To figure out what that link might be, we turn now to a discussion
+                      of two alternative transmission channels: the behavior of banks, and the impact of
+                      stock and real estate markets.
+
+                      Bank-Lending and Balance-Sheet Channels
+                      Four times a year the Federal Reserve conducts an opinion survey on bank-lending
+                      practices. Addressed to the senior loan officers who oversee lending policies at the 60
+
+
+===== PDF 686 | 印刷页 651 =====
+
+                                                                            The Monetary Policy Transmission Mechanism                l 651
+
+
+
+
+                          Correlation Does Not Imply Causality
+                          TOOLS OF THE TRADE
+
+
+   Suppose we notice that the higher the crime rate in a neigh-           some third factor drives up the interest rate, forcing growth
+   borhood, the more often police are present. Should we infer            down at the same time? In that case, the interest rate be-
+   that the police are causing crime? Surely not. Nor should we           comes another implication of the fundamental cause of re-
+   conclude from the fact that hospitals are filled with doctors          cession, an increase in oil prices.
+   that doctors make people ill. A fundamental principle of                   How can we eliminate this problem and determine the
+   sound logical reasoning is that correlation does not imply             extent to which monetary policy actually causes economic
+   causality. The fact that two events happened together does             fluctuations? The answer is that we need to look for clear
+   not indicate a causal link.                                            evidence that particular monetary policy actions are unre-
+        In the physical sciences, where researchers can conduct           lated to this sort of third factor. Some years ago, Christina
+   controlled experiments, establishing a causal link is not a seri-      Romer and David Romer of the University of California at
+   ous challenge. We know from scientific trials that antibiotic          Berkeley read through the records of the Federal Reserve’s
+   drugs really do eliminate infections. It’s not just chance that the    interest rate decisions since 1946. They identified a series of
+   people who take them feel better. But in economics, establish-         dates on which FOMC members stated unambiguously that
+   ing a causal relationship is much more difficult. How can we be        they were raising interest rates to combat inflation. Each of
+   sure that monetary policy affects real economic activity? Our          these episodes was followed by a recession. Romer and
+   theories tell us that when policymakers raise the nominal inter-       Romer argued that, because the intention in each of these
+   est rate, the real interest rate goes up, depressing aggregate         instances was to fight inflation, the FOMC’s actions were not
+   expenditure and lowering real economic activity. But do we             the result of the level of GDP at the time. Instead, it was mon-
+   have any hard-and-fast evidence of this relationship?                  etary policy actions that were the fundamental cause.* With
+        The answer is that we do have some evidence that                  hard work and ingenuity, economists are ultimately able to
+   higher interest rates are associated with lower levels of real         distinguish causality from correlation.
+   growth. Look back at Figure 21.17 (page 605), and you’ll see
+   the pattern: when interest rates rise, growth falls. But does           *See Christina D. Romer and David H. Romer, “Does Monetary
+   that mean that increases in the interest rate cause                     Policy Matter? A New Test in the Spirit of Friedman and
+   ­recessions? What if, simultaneously, an increase in oil prices         Schwartz,” in O. J. Blanchard and S. Fischer, eds., NBER
+    depresses real growth, causing policymakers to raise the in-          ­Macroeconomic ­Annual (Cambridge, MA: MIT Press, 1989),
+    terest rate in order to head off rising inflation? That is, what if    pp. 121–170.
+
+
+
+
+or so largest banks in the country, the survey contains questions about both the demand
+for and the supply of loans. On the demand side, the questions have to do with the
+quantity and quality of loan applications. On the supply side, they have to do with the
+relative difficulty of getting a loan, as well as the rates borrowers must pay. This sur-
+vey provides important information to monetary policymakers. Without it, they would
+not be able to tell whether a change in the quantity of new loans granted resulted from
+a shift in supply or a shift in demand. Was a drop in the quantity of new loans the
+result of fewer applications or a tightening of credit standards? Did interest rate spreads
+climb because the quality of borrowers declined or because banks became more risk
+averse? Policymakers at the Fed care about the answers to these questions because if
+banks stop making loans, some businesses can’t borrow to finance their investment
+projects, and economic growth slows.
+   The fact is that banks are essential to the operation of a modern economy. They
+direct resources from savers to investors and solve problems caused by information
+asymmetries. Financial intermediaries specialize in screening borrowers to ensure
+they are creditworthy and in monitoring loan recipients to guarantee that they use
+borrowed funds as they said they would. But banks are not only the hub of the finan-
+cial system; they are also the conduit through which monetary policy is transmitted to
+
+
+===== PDF 687 | 印刷页 652 =====
+
+652   l Chapter 23  Modern Monetary Policy and the Challenges Facing Central Bankers
+
+
+
+                       the economy. When policymakers change the size of the central bank’s balance sheet,
+                       their action has an immediate impact on commercial bank balance sheets because it
+                       affects the level of reserves they hold. To understand monetary policy changes com-
+                       pletely, then, we need to look carefully at how they affect the banking system. That
+                       means we need to examine the impact of policy changes on banks and bank lending.
+
+                       Banks and Bank Lending               For the vast majority of individuals and firms, the
+                       cost of issuing either stocks or bonds is prohibitive. These borrowers do not have
+                       access to capital market financing; instead, they must go to banks, which step in to
+                       reduce the information costs small borrowers face. A small business that is denied a
+                       bank loan has nowhere else to turn, so the project it wishes to undertake goes unfunded.
+                       When banks stop lending, then, a large class of borrowers simply can’t obtain financ-
+                       ing. Thus, bank lending is an important channel through which monetary policy affects
+                       the economy.1 By altering the supply of funds to the banking system, policymakers can
+                       affect banks’ ability and willingness to lend. This policy mechanism is referred to as the
+                       bank-lending channel of monetary policy transmission.
+                          To see how the bank-lending channel works, think about the immediate conse-
+                       quences of an open market purchase (see Figure 17.2 on page 456). Recall that an open
+                       market operation involves an exchange of securities for reserves between the banking
+                       system and the central bank. When the central bank purchases securities from commer-
+                       cial banks, it pays for them with reserves. So after an open market purchase, banks have
+                       fewer securities and more reserves that usually bear lower interest. Unless bank manag-
+                       ers do something, their revenues will fall. The natural reaction of the banks is to lend the
+                       new funds. These new loans work their way through the banking system through the
+                       process of multiple deposit creation, increasing the supply of loans throughout the econ-
+                       omy. (Take a look back at the section on the deposit expansion multiplier in Chapter 17,
+                       pages 460 to 465.) In short, an open market purchase has a direct impact on the supply
+                       of loans, increasing their availability to those who depend on banks for financing.
+                          Monetary policymakers are not the only people who can influence bank-lending
+                       practices. Financial regulators can, too. Changes in financial regulations, such as an
+                       increase or decrease in the amount of capital banks are required to hold when they
+                       make certain types of loans, will have an impact on the amount of bank lending as
+                       well. In 1980, for example, President Jimmy Carter authorized the Federal Reserve to
+                       impose a series of credit controls in an attempt to reduce bank lending and, with it, the
+                       level of output and inflation. A mild recession followed. In the early 1990s, the econ-
+                       omy failed to make a strong recovery from the recession after the first Gulf War. Care-
+                       ful examination of the historical record suggests that the disappointing economic
+                       performance was a direct consequence of a slowdown in bank lending. At the time,
+                       bank balance sheets were very weak, having been eroded by large loan losses during
+                       the banking crises of the 1980s. Subsequent experience in Japan and the euro area
+                       confirms that undercapitalized banks are less able to lend to healthy borrowers.
+                          Figure 23.2 plots two surveys of how credit conditions for large and small nonfarm
+                       businesses vary over time. One line shows the net share of banks tightening standards
+                       for loans to large firms (at least $50 million in annual sales); the other shows the share
+                       of small firms that view credit as harder to obtain (than three months earlier) minus the
+
+                       1
+                        Studies of how and why monetary policy is transmitted through bank lending and balance sheets include Ben
+                       Bernanke and Mark Gertler, “Inside the Black Box: The Credit Channel of Monetary Policy Transmission,”
+                       Journal of Economic Perspectives 9 (Fall 1995), pp. 27–45. The role of the bank-lending channel during the
+                       global financial crisis is the focus of Leonardo Gambacorta and David Marqués-Ibañez, “The Bank Lending
+                       Channel: Lessons from the Crisis,” Economic Policy 26 (April 2011), pp. 135–182.
+
+
+===== PDF 688 | 印刷页 653 =====
+
+                                                                                      The Monetary Policy Transmission Mechanism l 653
+
+
+
+
+    Figure 23.2            Survey Measures of Changing Credit Conditions by Firm Size
+
+
+              90                                                                                                                                  16
+              80
+                                                                                                                                                  14
+              70
+              60                                                                                                                                  12
+              50
+                                                                                                                                                  10
+              40
+              30                                                                                                                                  8
+              20
+                                                                                                                                                  6
+              10
+               0                                                                                                                                  4
+             –10
+             –20                                                                                                                                  2
+             –30                                                                                                                                  0
+               90
+
+                        92
+
+                                94
+
+                                         96
+
+                                                 98
+
+                                                         00
+
+                                                                 02
+
+                                                                         04
+
+                                                                                  06
+
+                                                                                          08
+
+                                                                                                  10
+
+                                                                                                          12
+
+                                                                                                                  14
+
+                                                                                                                          16
+
+                                                                                                                                  18
+
+                                                                                                                                           20
+             19
+
+                     19
+
+                             19
+
+                                      19
+
+                                              19
+
+                                                      20
+
+                                                               20
+
+                                                                       20
+
+                                                                               20
+
+                                                                                       20
+
+                                                                                               20
+
+                                                                                                       20
+
+                                                                                                               20
+
+                                                                                                                       20
+
+                                                                                                                               20
+
+                                                                                                                                         20
+                                                   Large Firms (Left)                      Small Firms (Right)
+
+NOTE: For large firms, credit conditions are tightening when the figure is above zero and easing when it is below zero. For small firms, a higher figure indicates
+that the net share of firms concerned about credit availability is greater than before.
+SOURCES: For large businesses, Federal Reserve Board's survey of senior loan officers at selected banks; for small businesses, survey of firms by the National
+Federation of Independent Business. (FRED code: DRTSCILM.)
+
+
+
+share that view credit as easier to obtain. In both cases, credit conditions typically tighten
+in recessions and ease in booms. Note, however, that small firms—which depend more
+on bank loans than large firms—sometimes face tight credit conditions even in eco-
+nomic recoveries.2 The figure shows that happening in 1992 and again in the aftermath
+of the financial crisis of 2007–2009. A cutback in lending to creditworthy small firms
+that want to expand or to qualified households that wish to buy a home creates “financial
+headwinds” that limit the pace of national economic growth during recovery. This is a
+key reason policymakers worry that the recovery from a recession caused by a financial
+crisis may be weaker than the recovery from a recession caused by other factors.
+
+Firms’ Balance Sheets and Household Net Worth Besides its influence on
+the willingness of banks to lend, monetary policy has an important effect on the credit-
+worthiness of borrowers—or at least on their perceived creditworthiness. This b   ­ alance
+sheet channel of monetary policy transmission works because monetary policy has a
+direct influence on the net worth of potential borrowers. Specifically, an easing of mon-
+etary policy improves firms’ and households’ balance sheets, increasing their net worth.
+In turn, these increases in net worth reduce the problems of moral hazard and adverse
+selection, lowering the information costs of lending and allowing borrowers to obtain
+financing more easily. Recall that the higher the net worth of a borrower, the more
+likely that the lender will be repaid. The result is a smaller credit risk premium.
+2
+ Small firms are critical to private, nonfarm U.S. economic activity and employment: they account for about
+half of output and generate up to 80 percent of net new jobs each year (see Traci L. Mach and John D. Wolken,
+“Financial Services Used by Small Businesses: Evidence from the 2003 Survey of Small Business Finances,”
+Federal Reserve Bulletin, October 2006, pp. A167–A195).
+
+
+===== PDF 689 | 印刷页 654 =====
+
+654   l Chapter 23  Modern Monetary Policy and the Challenges Facing Central Bankers
+
+
+
+
+                       Don’t Count on Inflation to Bail You Out
+                       YOUR FINANCIAL WORLD
+
+
+  When policymakers lower interest rates, their aim is to en-      to rise rapidly. While you will typically receive annual in-
+  courage people to borrow. Central bankers know that low-         creases in your real wage (adjusted for inflation), they are
+  interest mortgages make it possible for people to buy homes      likely to be fairly modest. In fact, for the economy as a
+  they otherwise couldn’t afford. And low-interest car loans al-   whole, pay raises tend to match the rate of productivity
+  low them to buy a new car earlier than they would otherwise.     growth, which is usually around 2 percent. So don’t be
+  In lowering interest rates, the FOMC is counting on a surge      tempted into thinking that, though your budget may be
+  in borrowing to drive output higher. But while the increase in   tight when you take out a loan, future salary raises will
+  debt may help the economy as a whole, it can be dangerous        remedy the problem.
+  for some individuals. They may borrow too much and end up             The strategy of counting on salary increases to help elim-
+  with more debt than they can manage.                             inate debt amounts to counting on inflation to bail you out.
+      The problem with debt is that it must be repaid. Mak-        It’s true that inflation can be helpful to people who are in
+  ing sure you can repay your debts means carefully calcu-         debt because it reduces the burden of repayment. But if
+  lating what you can afford—not just now but over the             policymakers at the Fed are doing their job, which is to keep
+  entire term of the loan. To avoid overextending yourself,        inflation low, hoping inflation will help you pay off your loans
+  don’t borrow on the assumption that your income is going         is a strategy that is likely to backfire.
+
+
+
+
+                              There are two ways in which a monetary policy expansion can improve borrowers’
+                          net worth. First, as we have already discussed, an expansionary policy drives up asset
+                          prices, increasing the value of firms and the wealth of households. Higher equity and
+                          property prices mean higher net worth, which implies lower information costs and
+                          greater ease in obtaining financing. The increase in home equity loans that follows a
+                          real estate boom is an example of this process. With an increase in household wealth,
+                          banks are willing to step up their lending.
+                              The second way that a monetary policy expansion can improve borrowers’ net worth
+                          has to do with the drop in interest rates. Most borrowers already have loans that they are
+                          in the process of repaying; lower interest rates reduce the burden of repayment. For a
+                          firm, the drop in the cost of financing increases the difference between revenues and
+                          expenses, raising profits and increasing the firm’s value. Something similar happens for
+                          individuals. When interest rates fall, people who hold variable-rate loans enjoy lower
+                          interest payments.
+                              For both businesses and households, the resulting improvement in net worth reduces
+                          the information problems that plague the lending relationship. Why? To evaluate a bor-
+                          rower’s creditworthiness, banks look at the percentage of revenue or income that is
+                          devoted to loan payments. At lower interest rates, that percentage will be lower, making
+                          it easier to qualify for larger loans. The conclusion is that as interest rates fall, the supply
+                          of loans increases.
+                              It is worth pausing to emphasize that information is the driving force in the bank-
+                          lending and balance sheet channels of monetary policy transmission. Information ser-
+                          vices are central to banks’ role in the financial system because they help address the
+                          problems of adverse selection and moral hazard. The primacy of information in bank-
+                          ing has some important implications for our understanding of the link between the
+                          financial system and the real economy. It means that financial instability, which is char-
+                          acterized by large and unpredictable moves in asset prices, accompanied by widespread
+                          bankruptcy, will reduce lenders’ willingness to supply financing. It also means that
+
+
+===== PDF 690 | 印刷页 655 =====
+
+                                                             The Monetary Policy Transmission Mechanism   l 655
+
+
+
+accounting scandals, such as the ones that plagued U.S. companies in 2001 and 2002,
+will have an effect on the economy as a whole. When bankers are worried about the
+accuracy of accounting information, they will be less willing to make loans to anyone.
+Inferior information leads to an increase in adverse selection, reducing bank lending,
+lowering investment, and ultimately depressing the quantity of aggregate output
+demanded.
+   The channels of monetary policy transmission depend on the structure of the financial
+                                                                                 ­
+
+system. To the extent that banks are unimportant sources of funds for firms and indi-
+viduals, the bank-lending channel is minor. As we will see at the end of this chapter, the
+rise of loan brokers and asset-backed securities diminished the importance of the bank-
+lending channel until the financial crisis of 2007–2009. But, following that crisis, infor-
+mation problems and the resulting balance sheet effects persisted for some time. While
+technology has made the processing of increasing amounts of information easier and
+cheaper, it seems unlikely to solve the problems of adverse selection and moral hazard,
+which make net worth such an important determinant of a borrower’s creditworthiness.
+
+Asset-Price Channels: Wealth and Investment
+When the interest rate moves, so do asset prices. Specifically, a fall in the interest rate
+tends to push stock and real estate prices up. This relationship between the interest rate
+and the stock and real estate markets is referred to as the asset-price channel of mon-
+etary policy transmission. To understand it, we must first figure out why a change in
+the interest rate might cause a movement in asset prices. Then we must explain how a
+change in asset prices can influence the quantity of aggregate output demanded.
+   To see how the interest rate influences stock prices, recall that the fundamental value
+of a stock is the present value of the stream of its future dividends. The lower the inter-
+est rate is, the higher the present value is and, therefore, the higher the stock price will
+be. Added to this relationship is the fact that an easing of monetary policy might well
+improve consumer and business confidence in the prospects for future growth. More
+growth means more revenue and higher profits and that, too, will drive up stock prices.
+In fact, because current stock prices are based largely on expectations of future growth
+and future interest rates, they tend to move in anticipation of a cut in interest rates.
+   Monetary policy affects real estate markets in the same way that it influences stock
+markets. The mechanism is straightforward. When policymakers reduce their ­interest
+rate target, it drives the mortgage rate down. Lower mortgage rates mean higher
+demand for residential housing, driving up the prices of existing homes.
+   In short, when the central bank reduces its target interest rate, the stock and real
+estate markets are likely to boom. Then what? Stock and property prices affect both
+individual consumption and business investment. For individuals, a rise in stock and
+real estate prices means an increase in wealth. The richer people become, the more
+they will consume. If stock values go high enough, shareholders can actually buy the
+luxury cars they have been wanting, or take the fancy vacations they’ve been dreaming
+of, or maybe both. The conclusion is that higher asset prices mean increased wealth
+and consumption.
+   Just as consumption is affected by stock price movements, so is investment. As
+stock prices rise, firms find it easier to raise funds by issuing new shares. That is, they
+gain access to financing in the primary capital market. To see why, think of a simple
+example in which the price of a company’s stock suddenly increases. In the mean-
+time, nothing has happened to the cost of a new investment and hence to its internal
+rate of return. But at the higher stock price, financing is now cheaper. This story
+
+
+===== PDF 691 | 印刷页 656 =====
+
+656   l Chapter 23  Modern Monetary Policy and the Challenges Facing Central Bankers
+
+
+
+
+                           Table 23.1        The Monetary Policy Transmission Mechanism
+
+
+
+                            Channel                       Mechanism
+
+                            Interest rates                Lower interest rates reduce the cost of investment, making more
+                            (traditional channel)         projects profitable.
+                            Exchange rates                Lower interest rates reduce the attractiveness of domestic
+                            (traditional channel)         investment, depressing the value of the currency and increasing
+                                                          net exports.
+                            Bank lending                  An easing of monetary policy raises the level of bank reserves
+                                                          and bank deposits, increasing the supply of funds.
+                            Firms’ balance sheets         Lower interest rates raise firms’ profits, increasing their net worth
+                                                          and reducing the problems of adverse selection and moral
+                                                          hazard.
+                            Household net worth           Lower interest rates raise individuals’ net worth, improving their
+                                                          creditworthiness and allowing them to increase their borrowing.
+                            Asset prices                  Higher stock prices and real estate values fuel an increase in both
+                                                          business investment and household consumption.
+
+
+
+
+                       should sound familiar. Recall the way in which the traditional interest rate channel
+                       influences investment: a lower real interest rate means a lower cost of financing,
+                       which raises the profitability of investment projects. As a result, borderline invest-
+                       ment projects suddenly become profitable when real interest rates fall. The same
+                       thing happens when stock prices rise. As financing becomes less expensive, more
+                       investments become profitable. In short, when asset markets boom, so does business
+                       investment in new equipment and buildings.3
+                          Overall, changes in monetary policy influence aggregate expenditure in the econ-
+                       omy through a variety of channels that are summarized in Table 23.1. Each of the
+                       transmission mechanisms works slightly differently, but they all lead us to the same
+                       conclusion: When interest rates rise, the quantity of aggregate output demanded falls
+                       so the dynamic aggregate demand curve slopes down.
+
+                       Financial Crises and the Transmission of Monetary Policy
+                       We have seen that monetary policy is transmitted to the economy through financial
+                       intermediaries and through asset prices. Yet, financial conditions deteriorated through
+                       much of the crisis of 2007–2009, even as central bankers were cutting interest rates
+                       aggressively. What prevented policy easing from being transmitted as usual to the real
+                       economy?
+                           The answer is that the crisis intensified the fundamental problems of asymmetric
+                       ­information—adverse selection and moral hazard—that affect the provision of credit
+                        in a modern economy. In general, a reduction in the quality of information about
+
+                       3
+                        This line of reasoning, known as Tobin’s q-theory, was originally developed by the Nobel Prize–winning
+                       economist James Tobin. Tobin pointed out that the question of whether or not a firm invests should depend on
+                       the ratio of the market value of its shares to the replacement cost of its plant and equipment, which he called q.
+                       When q is greater than one—that is, when a firm’s stock-market value exceeds its cost of rebuilding—investment
+                       in new plant and equipment is cheap relative to the value placed on it in the financial markets. When q is less
+                       than one, embarking on new investments isn’t worthwhile.
+
+
+===== PDF 692 | 印刷页 657 =====
+
+                                                              The Monetary Policy Transmission Mechanism   l   657
+
+
+
+potential borrowers makes it more difficult for them to borrow. In the financial
+­crisis, the widespread losses at intermediaries in general and the heightened uncer-
+ tainty about the damage suffered by specific intermediaries reduced confidence in
+ their ability to repay loans and thus virtually shut off the availability of credit
+ to many of them. The hesitancy to lend in this episode was not unlike the com-
+ mon reluctance of buyers to acquire a used car when it might be a lemon (see
+ pages 276–278). In short, funding liquidity dried up. As for households and nonfi-
+ nancial firms, their net worth fell substantially, which greatly reduced their ability to
+ borrow, so they responded by cutting spending. The result of this was a destabilizing
+ feedback loop between worsening economic prospects and the deterioration of finan-
+ cial conditions that ­influence spending.
+    The process started in 2006 with the downturn in U.S. housing prices that led to
+ widespread mortgage defaults. Major lenders—particularly in the United States and
+ Europe—faced enormous and growing losses. Insufficient screening and monitoring
+ had resulted in too many risky mortgages (see Chapter 11, Lessons from the C        ­ risis:
+ Information Asymmetry and Securitization, page 280). Losses from U.S. mortgage-
+ backed se­curities and related financial instruments sharply depressed the capital in
+ the financial system (see Chapter 12, Lessons from the Crisis: Insufficient Bank
+ Capital, page 312). As a result, intermediaries were compelled to deleverage (see
+ Chapter 3, Lessons from the Crisis: Leverage, page 49). They even stopped lending
+ to each other—especially in the aftermath of the Lehman failure in September
+ 2008—because they doubted the solvency of their counterparties or were simply
+ uncertain about who would bear the losses (recall the Chapter 9 discussion of credit
+ default swaps).
+    The result was an intense scramble for funding that led to a near collapse of the finan-
+ cial system. Only the aggressive supply of reserves from central banks and of new capi-
+ tal from governments made it possible to restore the basic function of financial
+ intermediaries and markets. With the usual policy transmission mechanism obstructed
+ during the crisis, the Federal Reserve and other central banks also used unconventional
+ policy tools to directly influence key financial conditions that affect spending in the
+ economy. The Fed’s acquisitions of mortgage-backed securities and commercial paper
+ stand out in this regard. Over time, expressions of central bank intent to keep interest
+ rates low over an extended period (forward guidance) also influenced the w  ­ illingness of
+ investors to purchase other important assets, like equities and private-sector debt.
+    The bottom line: when the policy transmission mechanism is obstructed, central
+ banks cannot assume that a cut in their target policy rate will ease the financial condi-
+ tions that influence the economy. Indeed, through most of the crisis of 2007–2009,
+ rate cuts did not even halt the deterioration of financial conditions, let alone improve
+ them. Even after policy rates had fallen close to zero, financial conditions remained
+ weak for some time.
+    The impairment of monetary policy transmission was at least as severe in the crisis
+ of the euro area. In general, firms and households cannot borrow at a cost less than their
+ governments, so rising default premiums on sovereign debt in 2011 and 2012 also
+ worsened financial conditions for private borrowers in several of the countries on the
+ geographic periphery of the euro area—Greece, Ireland, Italy, Portugal, and Spain. The
+ ECB found it extremely difficult to offset this differential in funding access and cost.
+ The central bank lowered its target interest rate and became the lender of last resort to
+ these countries’ banks. Yet, the supply of credit by the banks to firms and households
+ diminished sharply. Only in the summer of 2012, when the ECB offered to become a
+ lender of last resort to the crisis-stricken periphery governments, did the resulting
+
+
+===== PDF 693 | 印刷页 658 =====
+
+658   l Chapter 23  Modern Monetary Policy and the Challenges Facing Central Bankers
+
+
+
+
+                        Debt, the Great Recession, and the Awful Recovery
+                        APPLYING THE CONCEPT
+
+  Was a high level of household debt a major cause of the               i­ncomes. And the cooling of the boom drove down con-
+  Great Recession, which began in 2007, and the weak recov-              sumption more sharply than in a normal recession, exacer-
+  ery, which started in 2009? If so, would reforming debt con-           bating the bust that was the Great Recession.
+  tracts make the economy less prone to severe disruptions?                  These facts do not diminish the critical role of intermedia-
+        Cycles make it difficult to distinguish cause and effect. Did    tion in the 2007–2009 crisis, which turned vicious only after
+  rising debt boost house prices, or was it the other way around?        the September 2008 failure of Lehman Brothers.
+  And what was the relationship between the fall in house prices             But high levels of household debt, which led to foreclosure
+  and the decline in household spending and employment?                  and bankruptcy, made things worse than they otherwise would
+       House of Debt, an important recent book, shows that (1) a         have been. And securitization of many of the mortgages made
+  dramatic easing of credit standards for low-quality borrowers          it nearly impossible for lenders and borrowers to agree on
+  fed the U.S. mortgage boom in the years leading up to the              what might have been mutually beneficial write-downs.
+  Great Recession, (2) the mortgage boom was a major force driv-             This has led some economists to propose new “mort-
+  ing up U.S. housing prices, and (3) the burden of high mortgage        gages” that shift part of the risk of house price declines to
+  debt among those with lower incomes drove down consump-                lenders and away from borrowers. Instead of merely being
+  tion as house prices sank, contributing to the loss of jobs.*          lenders, the suppliers of funds would become part owners of
+       The book shows that housing prices rose more sharply in           the collateral. In exchange, they would receive a portion of
+  zip codes where less-qualified borrowers (with lower in-               the increased value of the house when it is sold.
+  comes and wealth) were relatively numerous and gained ac-                  We now know that a boom in conventional mortgages
+  cess to mortgage credit. Beginning as early as 2005,                   can lead to a housing bust and debt burdens that generate
+  residents in these same zip codes then cut their consump-              and prolong a deep recession. But we still need to know
+  tion on cars and other durable goods by the most as house              much more about the relationship between debt and the
+  price increases began to slow and then reverse. Having risen           business cycle; that would help us understand whether
+  the most, house prices in those places also fell the furthest          changing the form of debt contracts can further stabilize the
+  when the nationwide bubble burst. And workers who pro-                 economy.
+  vided services nearby were the most likely to lose their jobs.
+       In other words, an extraordinary credit expansion stoked         *See Atif Mian and Amir Sufi, House of Debt (Princeton, NJ:
+  the housing boom, especially among families with lower                Princeton University Press, 2014).
+
+
+
+
+                            decline of sovereign risk premiums begin to relieve private-sector financial stress. Even
+                            in 2016, the ECB continued to introduce new policy tools designed to promote bank
+                            lending and to narrow the differential lending rates across member countries.
+                               Financial conditions matter in economic upturns, too. When central banks hike
+                            rates to slow an economy, their success will depend on whether financial conditions
+                            respond. If an asset price bubble is under way, as it was in the United States in 2004–
+                            2006, the economic impact of central bank policy tightening probably will be smaller
+                            than usual. As a result, central banks must always take into account the workings of
+                            the monetary policy transmission mechanism in order to achieve their goals of eco-
+                            nomic and price stability.
+
+
+                            The Challenges Modern Monetary
+                            Policymakers Face
+                            The financial crisis of 2007–2009 was a “game changer” for the practitioners and the-
+                            orists of monetary policy. Surely no one assumes now that monetary policy is a hard-
+                            and-fast science—that a few equations coupled with some statistical analysis and the
+
+
+===== PDF 694 | 印刷页 659 =====
+
+                                                                                    The Challenges Modern Monetary Policymakers Face   l   659
+
+
+
+help of a big computer will suffice. To do their job well, central bankers need a detailed
+understanding of how both the financial system and the real economy will react to
+their policy changes.
+   That job would be tough enough in a world that is standing still, but the dynamism
+that is such a pervasive and desirable feature of today’s economy makes the job all the
+more difficult. In fact, modern monetary policymakers face a series of daunting chal-
+lenges. In this section, we will look at three that grew more prominent thanks to the
+financial crisis of 2007–2009. First, stock prices and property values have a tendency
+to go through boom and bust cycles. Second, policymakers’ options are limited, as we
+have seen by the fact that the nominal interest rate cannot fall below the effective lower
+bound (somewhat below zero). Third, the structures of the economy and the financial
+system are constantly evolving, and the latter may be affected greatly by changing
+regulation in the years ahead.
+
+Booms and Busts in Property and Equity Prices
+Nearly everyone agrees that we would all be better off without skyrocketing increases
+in property and stock prices followed by sudden collapses. The unprecedented surge
+and collapse in U.S. housing prices was the ultimate source of the financial crisis of
+2007–2009. Since the Great Depression of the 1930s, housing prices had declined
+nationwide in only three years, and then only slightly. Real house prices had been rea-
+sonably stable, because inflation offset the trend rise of nominal house prices. The
+spike in house prices in the years preceding the crisis was spectacularly unprecedented
+(see Figure 23.3). At the time, some argued that it was a bubble and therefore must
+burst and cause severe economic damage. Others said that housing fundamentals—­
+growing household income, lower mortgage rates, and the like—had boosted afford-
+ability, which both justified the price surge and made it sustainable.4 The ensuing
+
+
+
+    Figure 23.3                                U.S. Real Housing Price Index, 1890–2019 (1890 = 100)
+
+
+                                         200
+            Index of Real House Prices
+
+
+
+
+                                         180
+                                         160
+                                         140
+                                         120
+                                         100
+                                          80
+                                          60
+                                          1890 1900 1910 1920 1930 1940 1950 1960 1970 1980 1990 2000 2010 2020
+
+
+SOURCE: From Irrational Exuberance, 3rd ed. (Princeton, NJ: 2015). Updates from www.econ.yale.edu/~shiller/ data/Fig3-1.xls.
+
+
+4
+ For an assessment of the role of monetary policy in the housing bubble, see Jane Dokko et al., “Monetary
+Policy and the Global Housing Bubble,” Economic Policy 26, no. 66 (2011), pp. 233–283.
+
+
+===== PDF 695 | 印刷页 660 =====
+
+660 l Chapter 23  Modern Monetary Policy and the Challenges Facing Central Bankers
+
+
+
+
+  Figure 23.4      The Nasdaq Composite Index, 1985–2019
+
+
+          8,000
+          7,000
+          6,000
+          5,000
+          4,000
+          3,000
+          2,000
+          1,000
+              0
+                1985
+                       1987
+                              1989
+                                     1991
+                                            1993
+                                                   1995
+                                                          1997
+                                                                 1999
+                                                                        2001
+                                                                               2003
+                                                                                      2005
+                                                                                             2007
+                                                                                                    2009
+                                                                                                           2011
+                                                                                                                  2013
+                                                                                                                         2015
+                                                                                                                                2017
+                                                                                                                                       2019
+SOURCE: NASDAQ OMX Group (FRED code: NASDAQCOM).
+
+
+
+                          collapse in home prices settled the debate, bringing on a financial and economic con-
+                          traction more severe and widespread than even most pessimists expected.
+                              Abrupt changes in asset prices, like the U.S. house price bubble, affect virtually
+                          every aspect of economic activity. Looking back at the first part of this chapter, we can
+                          see that changes in asset prices have a direct impact on both consumption and invest-
+                          ment. Bubbles—which are identified after the fact by a sharp rise and then a sharp
+                          decline in prices—are damaging in part because the wealth effects they create cause
+                          consumption to surge and then contract just as rapidly. Equity bubbles—like the boom
+                          in the Internet sector in the late 1990s—allow firms to finance new projects more eas-
+                          ily, causing investment to boom and then bust (see Figure 23.4).
+                              Bubbles are particularly damaging when their collapse impairs the balance sheets
+                          of leveraged intermediaries, risking a deleveraging spiral (see Chapter 3, Lessons
+                          from the Crisis: Leverage, page 49). The Great Depression, Japan’s experience in the
+                          1990s, the global crisis of 2007–2009, and the subsequent euro-area crisis all exem-
+                          plify this pattern. For example, the loss of capital in the financial system in 2007–
+                          2009 could have led to catastrophe without extraordinary government actions. In
+                          contrast, the collapse of the Internet bubble of the late 1990s had a relatively minor
+                          impact because intermediaries faced limited credit exposure and remained well cap-
+                          italized.
+                              The devastating worldwide effects of the reversal in U.S. house prices beginning
+                          in 2006 have focused renewed attention on how monetary policymakers should react
+                          to asset price bubbles. Should the Federal Reserve have raised interest rates earlier or
+                          more aggressively in 2003–2006 when house prices were soaring? There are, and
+                          were, arguments on both sides.5 Proponents of a policy of “leaning against bubbles”
+
+                          5
+                           An early example of the case for intervention may be found in Stephen G. Cecchetti, Hans Genberg, and Sushil
+                          Wadhwani, “Asset Prices in a Flexible Inflation Targeting Framework,” in William C. Hunter, George G.
+                          Kaufman, and Michael Pomerleano, eds., Asset Price Bubbles: Implications for Monetary, Regulatory and
+                          International Policies (Cambridge, MA: MIT Press, 2002), pp. 427–444. For an early version of the case
+                          against, see Ben Bernanke and Mark Gertler, “Should Central Banks Respond to Movements in Asset Prices?”
+                          American Economic Review, May 2001, pp. 253–257.
+
+
+===== PDF 696 | 印刷页 661 =====
+
+                                                                    The Challenges Modern Monetary Policymakers Face   l   661
+
+
+
+say that stabilizing inflation and real growth means raising interest rates to discour-
+age bubbles from developing in the first place. If successful, this policy would reduce
+the credit booms that accompany bubbles, along with the busts that inevitably follow.
+    Opponents of this interventionist view argue that bubbles are too difficult to iden-
+tify when they are developing. They point to the debate about U.S. housing prices in
+2004 and 2005 as evidence that views were not unanimous. However, the fact that an
+economic phenomenon is difficult to measure is no excuse for ignoring it. Indeed, we
+have no choice: As we saw in the discussion of monetary policy transmission, macro-
+economic forecasts rest on estimates of future wealth and stock prices. Without them,
+there is no way to forecast either consumption or investment.
+    Opponents of leaning against bubbles used to argue that central banks should sim-
+ply wait until the bubble bursts and only then react aggressively to limit the fallout on
+the economy by cleaning up the mess. They pointed to the Great Depression and the
+1990s in Japan as examples of what can happen if the central bank attempts to prick a
+bubble with interest rate policy. Critics of an activist response also pointed to the mild
+U.S. recession in 2001—despite the collapse of the bubble for Internet stocks—as a
+successful instance of how policy can stabilize inflation and the economy in the face
+of a burst asset price bubble.
+    The crisis of 2007–2009 undermined the rosy view that policymakers can sit back
+and clean up after a bubble bursts. Having seen financial conditions collapse even
+with the policy rate set at zero, and having experienced the deepest global downturn
+since World War II, few central bankers remain sanguine about using conventional
+­interest rate policy to limit the fallout from asset price bubbles after they burst. How-
+ ever, central bankers still worry that interest rates are only a blunt tool and that prick-
+ ing an asset price bubble could require rate hikes so severe that they would bludgeon
+ the economy and reduce the likelihood of hitting a central bank’s objective for infla-
+ tion. If the rate hikes were applied more cautiously to halt, say, a housing price bub-
+ ble, it would be, as one economist put it, “like adding a grain of sand a day to a scale
+ that is weighing a car.”
+    Today, there is a more nuanced case against using interest rates to prick asset price
+ bubbles: namely, that the proper policy toolkit for addressing bubbles is not interest
+ rates but the macro-prudential regulatory tools that we discussed in Chapter 14.
+ According to this view, bubbles are a major threat when they are associated with an
+ expansion of credit that exposes the financial system to the eventual collapse of asset
+ prices. As a result, the best response may be to adjust regulatory rules, including tem-
+ porarily raising capital requirements, in an effort to inhibit intermediaries from extend-
+ ing such risky credits in economic booms.
+    The macro-prudential regulatory approach would help avoid the more destructive
+ option of having to tighten interest rates across the whole economy to address a bubble
+ in a specific asset. Yet, this approach still depends on the foresight and judgment of
+ regulators to limit the buildup of a menacing asset price bubble. Moreover, policy­
+ makers acknowledge the difficulty of limiting systemic risks through the use of macro-
+ prudential policies alone. The ability of intermediaries to evade regulations and to
+ conceal risk taking reduces the effectiveness of regulation and supervision, while rais-
+ ing interest rates allows policy “to get into all of the cracks” in the financial system,
+ including shadow banks and systemically important financial markets.6
+
+6
+ Federal Reserve Board Governor Jeremy Stein articulated the potential benefits of using interest rate policy
+to limit systemic risk in a speech at the Federal Reserve Bank of St. Louis: “Overheating in Credit Markets:
+Origins, Measurement, and Policy Responses,” February 7, 2013.
+
+
+===== PDF 697 | 印刷页 662 =====
+
+662 l Chapter 23  Modern Monetary Policy and the Challenges Facing Central Bankers
+
+
+
+                          While the crisis of 2007–2009 has not settled this debate, it has advanced the discus-
+                      sion substantially.7 Many policymakers remain reluctant to raise interest rates to address
+                      asset bubbles, but they no longer rule it out. Using interest rates to combat asset price
+                      bubbles now is more likely to be viewed as a backup approach for extreme circumstances,
+                      if the first-best methods of macro-prudential regulation fail to limit a systemic threat.
+
+                      Deflation and the Effective Lower Interest Rate Bound
+                      In Chapter 18, we noted that nominal interest rates cannot be deeply negative—that
+                      there is an effective lower bound (ELB). In contrast to the concept of a zero lower
+                      bound (ZLB), the ELB is below zero due to the transactions costs of storing, transport-
+                      ing, and insuring cash. The reason is that investors can always hold cash, so bonds
+                      must have yields above the ELB to attract bondholders. While this point may strike you
+                      as something only investors should worry about, it is not. The fact that nominal interest
+                      rates can’t fall below the ELB restricts what monetary policymakers can do. Look back
+                      at Panel B of Figure 23.1 on page 648 and you will see that the policy target rate in
+                      2009 was virtually zero in Japan and the United States, and only modestly higher in the
+                      euro area. Even though the global economy was sinking, policymakers believed that
+                      they had little scope to lower rates further. (As of 2016, policy rates in the euro area
+                      and Japan declined somewhat below zero, as central bankers experimented with getting
+                      closer to the ELB, the level of which is not precisely known.) The risk of becoming
+                      caught in precisely such a predicament has concerned central bankers around the world
+                      at least since ­Japan’s experience with near-zero interest rates in the 1990s.
+                          The problem posed by the ELB is a serious one. To understand why, we can do an
+                      exercise based on the macroeconomic model presented in Chapters 21 and 22. Think
+                      about the consequences of a shock that depresses aggregate expenditure. The shock
+                      could be caused by a decline in investment due to a fall in business prospects; by an
+                      appreciation of the dollar due to a deteriorating investment climate abroad, which has
+                      increased foreign demand for dollars; or by a decline in individuals’ confidence in the
+                      future. Regardless of the source, the slowdown drives spending down at every level of
+                      inflation and the real interest rate, shifting the dynamic aggregate demand curve to the
+                      left. The immediate consequence of this drop in the quantity of aggregate output
+                      demanded is that real output falls below potential output, creating a recessionary out-
+                      put gap that puts downward pressure on inflation. Under normal circumstances, mon-
+                      etary policymakers would react to the decline in inflation by cutting the nominal
+                      interest rate enough to lower the real interest rate. Their action would increase spend-
+                      ing, raise real output, and eliminate the output gap.
+                          Now let’s make a small adjustment to this story and assume that, when the shock
+                      occurs, inflation is zero and the policy interest rate that central bankers control is at the
+                      ELB. Under these conditions, the decline in aggregate demand still drives real output
+                      below potential output, placing downward pressure on inflation. But when inflation
+                      falls, it drops below zero so that, on average, prices are falling. The result is deflation.
+                          Deflation isn’t necessarily a problem, unless the shock that moves the economy away
+                      from its long-run equilibrium is big enough to drive output down to such a low level that
+                      policymakers can’t bring it up, even by setting their nominal interest rate target at the
+                      ELB. At that point, we have arrived at one of the central banker’s worst nightmares: a
+
+                      For one view of how the financial crisis should alter monetary policy practices more generally, see Olivier
+                      7
+
+                      Blanchard, Giovanni Dell’Ariccia, and Paulo Mauro, “Rethinking Macroeconomic Policy,” IMF Staff Position
+                      Note, February 12, 2010, SPN/10/03.
+
+
+===== PDF 698 | 印刷页 663 =====
+
+                                                                  The Challenges Modern Monetary Policymakers Face l   663
+
+
+
+nominal interest rate that cannot be reduced, accompanied by deflation and real output
+that is below potential. Recall that when current output is below potential output, so that
+there is a recessionary output gap, current inflation is below expected inflation and
+expected inflation falls. In this case, that drives deflation down further. Because the
+nominal interest rate is at the ELB, policymakers cannot counter the worsening deflation
+by lowering it. Instead, the real interest rate rises, reducing spending, shifting the
+dynamic aggregate demand curve to the left, and expanding the recessionary output gap
+even more. The result is a deflationary spiral in which deflation grows worse and worse.
+   Deflation also aggravates information problems in ways that inflation does not.
+Deflation makes it more difficult for businesses to o­ btain f­ inancing for new projects.
+Without financing there is no investment; without investment there is no growth. The
+primary reason this happens is that debt is measured in fixed dollars, and deflation
+makes those dollars more valuable. Thus, deflation increases the real value of a firm’s
+liabilities without affecting the real value of its assets. At a lower net worth, companies
+are suddenly less creditworthy.
+   In short, the combination of deflation and the effective lower bound can have a
+devastating impact on growth by short-circuiting the process that normally stabilizes
+the economy so that it is no longer self-correcting. Concern about the instabilities of a
+deflationary spiral helped animate the central bank response to the crisis of 2007–
+2009, even though the crisis began with inflation above desirable levels. Policymakers
+were concerned that the deep recession itself could lower inflation expectations too far
+and raise real interest rates in a destabilizing manner.
+   Can policymakers do anything to avoid this pitfall? The answer is yes; there are
+ways to minimize the chances of this sort of catastrophe. Policymakers can choose
+from three strategies. First, they can set their inflation objective with the perils of defla-
+tion in mind; second, they can act boldly when there is even a hint of deflation; and
+third, they can utilize the unconventional policy tools that we discussed in Chapter 18.
+   The difficulties posed by the effective lower bound arise only when central bankers
+have achieved their objective of low, stable inflation. When inflation is high, so is the
+nominal interest rate; chances are therefore remote that the interest rate will hit the
+ELB. This observation suggests that central bankers should set their inflation objective
+high enough to minimize the possibility of a deflationary spiral. Indeed, some econo-
+mists have proposed raising the inflation level that many central banks target
+(see Chapter 18, Money and Banking Blog: Is 2 Percent Still the Right Inflation
+Target? pages 509–510).
+   Reducing the interest rate significantly and rapidly when faced with the possibility of
+hitting the ELB is another approach to avoiding deflation. Central bankers call this strat-
+egy “acting preemptively,” which means working hard to avoid ever reaching the point
+where interest rates hit their hard bottom. Acting ­preemptively was one reason why the
+FOMC reduced the target federal funds rate by 5.25 percentage points toward zero in a
+series of 10 cuts between September 2007 and December 2008. Dramatic actions of that
+sort are meant to ensure that the economy will recover before deflation can take hold.
+   Finally, as we saw in Chapter 18, central bankers have at their disposal a range of
+unconventional policy tools that they can employ when the traditional interest rate
+target, an overnight rate, hits the lower bound.8 These include forward guidance,
+
+8
+ For an early discussion of unconventional monetary policy options, see the speech by then-Federal Reserve
+Board governor, later chair, Ben S. Bernanke, “Deflation: Making Sure ‘It’ Doesn’t Happen Here,” remarks
+before the National Economists Club, Washington, D.C., November 21, 2001. The speech is available on the
+Federal Reserve Board’s website at www.federalreserve.gov.
+
+
+===== PDF 699 | 印刷页 664 =====
+
+664 l Chapter 23  Modern Monetary Policy and the Challenges Facing Central Bankers
+
+
+
+
+                       GDP at Risk
+                       MONEY AND BANKING BLOG
+
+
+  A policy framework for financial stability has three essential     above 5.58 percent and a 5 percent chance that it will be
+  elements: a measurable objective, a set of tools, and a dy-        below 2.86 percent. The lower dashed line—the one that
+  namic model that links the two. Researchers and policymak-         spikes down in late 2008—is a gauge of GDP at risk.
+  ers remain at an early stage in developing such a framework.           Figure 23.5 also reveals some fundamental properties
+  Here, we describe a useful step in constructing a quantifiable     of the IMF’s estimates. The level of the top dashed line
+  objective: the concept and measurement of GDP at risk.             hardly changes. In fact, over the entire 25-year period, the
+      Whether considering the risks of the economy as a whole        95th percentile of the GDP growth distribution moves be-
+  or those of a single financial intermediary, risk management       tween a high of 5.99 percent and a low of 4.57 percent.
+  requires controlling the probability of catastrophe. So, to un-    This is in sharp contrast with the gauge of GDP at risk (the
+  derstand GDP at risk, start with Value at Risk (VaR, see           lower dashed line), which ranges from +3.59 percent to
+  Chapter 5, page 109). Financial intermediaries use VaR to          −14.53 percent. Importantly, these large downward move-
+  quantify, at a given probability, the worst possible loss over a   ments are temporary: For most of the period since 1991,
+  specific time horizon. Thus, a commercial bank risk man-           GDP at risk is not far below the median.
+  ager might limit the daily worst-case loss of a trader who             Why does the lower tail of the growth distribution have
+  controls $100 million in assets to $10 million at a 0.1 percent    such a wider range than the upper tail? At the top, there are
+  probability. That means that, given the historical experience,     short-run capacity constraints that make producing more
+  the trader cannot take a position that has more than one           very costly. By contrast, on the downside, the only limit is
+  chance in a thousand of losing 10 percent in a single day.         that firms shut down. That’s a decline of 100 percent.
+      Like VaR, GDP at risk aims to measure the worst out-               The GDP-at-risk gauge represents a notable step for-
+  comes that could occur. These are the low-probability,             ward for policymakers. It has three useful characteristics.
+  high-cost events that are commonly known as tail risks.            First, the concept is based on agreed social objectives: high
+  Simple measures of dispersion, like the standard deviation,        real economic growth and low unemployment. Second, be-
+  often fail to account for the size of the bad (left) tail of the   cause GDP itself is widely known, focusing on GDP at risk
+  distribution. There are circumstances when the lower tail          simplifies communication. Finally, quantifying GDP at
+  gets fatter—the probability of very bad events rises—­             risk can help discipline discussions of policy tradeoffs. At
+  without materially raising the standard deviation.                 short horizons, central bankers aim to encourage risk tak-
+      Consider, for example, what happened in the fall of            ing when they lower interest rates: Faced with an eco-
+  1998, when Russia defaulted on its domestic debt and               nomic slowdown, they wish to stimulate lending. Over
+  Long Term Capital Management, the large hedge fund,                longer horizons, however, increased private leverage can
+  collapsed. At the time, point forecasts for the aggregate          create fragilities. So, policymakers want to know the ex-
+  price level and the GDP gap, as well as the standard devia-        tent to which lower interest rates reduce GDP at risk in the
+  tion of these projections, stayed roughly the same. But the        near term, and raise it in the longer term.
+  probability in the left tail of the distribution—the chance            For several decades prior to the 2007–2009 crisis,
+  of a very bad outcome—rose. When such tail risks rise,             many central banks with a price stability objective had
+  acting as risk managers, policymakers reasonably respond           achieved low and stable inflation. Today, with financial
+  to their perception that GDP at risk has gone up.                  stability taking on such importance, we also expect central
+      How can we measure GDP at risk? Using a complex                bank policies that will lower the probability and the sever-
+  statistical technique, researchers at the IMF computed the         ity of a crisis. But delivering on this means having appro-
+  probability distribution of the one-year-ahead forecast for        priate risk measures, the tools for maintaining stability,
+  global growth.* Figure 23.5 displays their results. The solid      and models that show how to use the tools to achieve the
+  red line is the median of their forecast distribution: this is     stability objective. GDP at risk is an important step for-
+  the central forecast for global growth. The upper and lower        ward in meeting this challenge.
+  dashed lines are the 5th and 95th percentiles of the distri-
+  bution, respectively. So, for example, in the fourth quarter
+  of 2016, the median forecast for growth in 2017 was 3.67           *The IMF’s October 2017 Global Financial Stability Report
+  percent—that’s the final point on the red line. The dashed         describes how to use quantile regression techniques to estimate
+  lines tell us there is a 5 percent chance that growth will be      the distribution of growth outcomes.
+
+
+===== PDF 700 | 印刷页 665 =====
+
+                                                                            The Challenges Modern Monetary Policymakers Face l 665
+
+
+
+
+          Figure 23.5                          One-Year-Ahead Density Forecast for Global Growth, 1991–2016
+
+
+
+                                         5                                                                                    5
+        Annual Rate Percentage Change
+
+
+
+
+                                         0                                                                                    0
+
+
+
+
+                                        –5                                                                                    –5
+
+
+
+
+                                –10                                                                                           –10
+
+
+
+
+                                –15                                                                                           –15
+                                  1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015
+                                             Median (percent)      95th percentile (percent)       5th percentile (percent)
+
+     SOURCE: Figure 3.1.2, IMF Global Financial Stability Report, October 2017.
+
+
+
+
+q­ uantitative easing, and targeted asset purchases—all of which were actively employed
+ by central bankers in the financial crisis of 2007–2009, by the ECB in the euro-area
+ crisis and by the Bank of Japan in its battle against deflation. The ­mechanics are
+ straightforward. Central bankers use forward guidance to influence long-term bond
+ yields, which depend in part on expectations about future policy rates. They use quan-
+ titative easing and targeted asset purchases to control the size of their balance sheet
+ and the mix of assets that they hold. During normal times, policymakers control the
+ supply of their reserve liabilities in order to meet a target interest rate. But even if the
+ short-run target rate drops to the lower bound, monetary policymakers retain their abil-
+ ity to expand their balance sheet. They can continue to purchase securities or make
+ loans to banks to increase the size of the monetary base.
+     Everyone agrees that unconventional policy options are feasible. And we have seen
+ their frequent use over the past decade in Europe, Japan, and the United States. Never-
+ theless, central bankers are reluctant to use such tools and, when used, are eager to exit
+ as soon as improvements in the economy make it safe for them to do so. One reason for
+ this aversion to unconventional tools is continued uncertainty about how and why they
+
+
+===== PDF 701 | 印刷页 666 =====
+
+666   l Chapter 23  Modern Monetary Policy and the Challenges Facing Central Bankers
+
+
+
+                       work and how to apply them effectively. Monetary policymaking rests on quantitative
+                       estimates of the impact of a change in the target interest rate on the central bank’s
+                       objectives. Policymakers have some idea of how a reduction of 25 or 50 basis points in
+                       the federal funds rate would affect output and inflation over the next year or two. But
+                       they have much less confidence about what the quantitative impact of an unconven-
+                       tional policy option will be. What is the effect on prices, consumption, and investment
+                       if the supply of reserves increases by a factor of 100 (as it did in the United States in
+                       September–October 2008) or if the central bank doubles its assets by purchasing
+                       $1 trillion of mortgage-backed securities (as the Fed did in 2009)?
+                           Beyond the uncertainty about their impact, another key reason for keeping uncon-
+                       ventional policy tools unconventional is that policy exit—­reducing the size of the bal-
+                       ance sheet and restoring the mix of securities to a conventional portfolio of shorter-term
+                       government instruments—may be difficult. As we saw in Chapter 18, the ability to pay
+                       interest on reserves allows a central bank to tighten ­policy—by hiking the deposit rate
+                       that forms the floor for the overnight lending rate—even if policymakers choose tem-
+                       porarily not to sell the unconventional assets on the balance sheet. Nevertheless, cen-
+                       tral banks prefer assets that are liquid and that do not tilt the playing field in favor of
+                       specific private borrowers. And although they may wish to sell assets acquired in
+                       unconventional policy moves—including bonds with default risk and long-term
+                       bonds—in doing so they may suffer a loss. If a central bank faced sufficient losses, it
+                       might wish to ask the government to replenish its capital. Such reliance on government
+                       could add to inflation expectations if it were viewed as a threat to central bank inde-
+                       pendence.
+
+                       The Evolving Structure of the Financial System
+                       Monetary policy works through its effects on the financial system. Thus, differences in
+                       financial structure across countries may help explain differences in the effectiveness of
+                       monetary policy. By extension, changes in financial structure will change the impact
+                       of monetary policy. Recall from the first part of this chapter that one of the channels
+                       through which monetary policy influences real output and inflation is its impact on the
+                       supply of bank loans. By influencing bank lending, policymakers can affect the ease
+                       with which individuals and firms obtain financing.
+                           Banks are crucial to this mechanism. As the nature of banking changes, we would
+                       expect the importance of this channel of monetary policy transmission to change along
+                       with it, and that has been the case. In the United States, for example, banks are no lon-
+                       ger as important a source of financing as they once were. Thirty years ago, they
+                       ­accounted for virtually all the credit in the U.S. economy. At the time the crisis of
+                        2007–2009 hit, direct bank loans had fallen to less than 60 percent of total credit
+                        extended.
+                           The shift away from bank financing and toward securities financing in the capital
+                        markets means that the bank-lending channel of monetary policy became less impor-
+                        tant in the decades before the financial crisis that began in 2007. The decline of banks
+                        as a source of finance was accompanied by a corresponding rise in the importance of
+                        securities markets and of shadow banks—including securities brokers, money-market
+                        mutual funds, and government-sponsored enterprises (GSEs). Recall the asset-backed
+                        securities discussed in Chapter 3. Mortgage-backed and other asset-backed securities
+                        surged in volume over the past 30 years. In 1980, mortgage-backed securities
+                        accounted for only $0.1 trillion of the $1.5 trillion in U.S. mortgages outstanding. By
+                        2009, they surpassed half of the nearly $15 trillion in mortgages outstanding.
+
+
+===== PDF 702 | 印刷页 667 =====
+
+                                                                 The Challenges Modern Monetary Policymakers Face   l 667
+
+
+
+    To create mortgage-backed securities, a broker bundles together a large number of
+home mortgages and then sells shares in the pool. Investors in mortgage-backed secu-
+rities purchase shares in the revenue from the underlying financial instruments—in
+this case, the mortgage payments made by homebuyers. Although their home
+purchase began with a bank loan, homebuyers in this way ultimately obtain a form
+of financing that is almost equivalent to capital market financing. Over the years,
+securitization—the process of pooling streams of revenue from loans and other receiv-
+ables into marketable securities—has expanded in scope and size; it now includes car
+loans, credit card debt, student loans, equipment leases, and even movie box-office receipts.
+    Yet, the financial crisis that ended in 2009 is having a greater impact on the shape
+of the financial system than any event since the Great Depression. Importantly, it has
+interrupted the trend toward capital market finance: securitization has declined or
+slowed since 2006. For example, the volume of asset-backed commercial paper in the
+United States, which surpassed $1.2 trillion in the summer of 2007, stood at just 21
+percent of that level at the end of 2018.
+    In the aftermath of the financial crisis, U.S. government agencies became the domi-
+nant source of new housing finance, either through direct loans or through guarantees.
+More than a decade after the crisis began, the GSEs and federal agencies still backed
+nearly two-thirds of U.S. mortgage originations, up from less than 40 percent in the
+2004–2006 period.9 Yet, the future of the housing-related GSEs remains highly uncer-
+tain, with many observers calling for them to be dismantled. After the GSEs were
+placed under the direct control of the federal government in 2008, the government
+injected more than $150 billion to restore their positive net worth. In 2011, the U.S.
+Treasury proposed to wind them down gradually by raising their guarantee fees, reduc-
+ing the size of loans eligible for a guarantee, and shrinking their portfolios of mort-
+gages.10 In 2012, the GSEs doubled their guarantee fees. And, by 2018, their mortgage
+portfolios had plunged by about three-fourths from the peaks prior to 2010. Yet, as of
+early 2019, they remained under federal control, and the prospects for reform remained
+uncertain.
+    And, at this writing, the impact of the most far-reaching U.S. regulatory reform
+since the 1930s—the Dodd-Frank Act of 2010—remains far from clear. First, many
+key elements of the new financial regulatory measures remain untried, including the
+Dodd-Frank apparatus for resolving a systemic intermediary. Second, the election of
+2016 brought to power a new U.S. legislature and administration that sought to reduce
+the regulatory burdens of Dodd-Frank, both by changing the law and through regula-
+tory discretion. In addition to reducing the costs imposed on small banks, the 2018
+Economic Growth, Regulatory Relief, and Consumer Protection Act also eased the
+capital requirements on medium-sized institutions. Separately, in a series of reports
+assessing the regulatory landscape, the Treasury proposed a number of changes that
+would ease supervision of the largest institutions. Finally, the Financial Stability Over-
+sight Council reversed its own prior decisions, removing the last two large nonbanks
+from the category of “systemically important financial intermediaries” that are subject
+to the strict supervision of the Federal Reserve.
+    Amid all this change, it is too soon to say how the postcrisis financial system will
+evolve. Will the trend toward securities finance resume? In part, that will depend on
+
+9
+ See Urban Institute Housing Finance Policy Center, “Housing Finance at a Glance: Monthly Chartbook,” page 8,
+December 2018, www.urban.org/sites/default/files/publication/99554/december_chartbook_2018_0.pdf.
+10
+  See U.S. Treasury, “Reforming America’s Housing Finance Market: A Report to Congress,” February 2011,
+www.treasury.gov/initiatives/documents/reforming%20america%27s%20housing%20finance%20market.pdf.
+
+
+===== PDF 703 | 印刷页 668 =====
+
+                          668   l Chapter 23  Modern Monetary Policy and the Challenges Facing Central Bankers
+
+
+
+                                                 how regulators behave. A macro-prudential regulator—of the kind that we discussed in
+                                                 Chapter 14—will try to limit intermediaries’ incentives for taking systemic risk.
+                                                    Will macro-prudential regulation prevent the restoration of securitization? Probably
+                                                 not: regulators are aware that effective securitization can lead to a better diversification
+                                                 of risk. But unlike the incomplete securitization that prevailed earlier, effective securi-
+                                                 tization must avoid leaving concentrations of securitized assets on the balance sheets
+                                                 of intermediaries that make them vulnerable to collapsing asset price bubbles. Conse-
+                                                 quently, macro-prudential regulation will tend to restrain the future pace of securitiza-
+                                                 tion, at least compared to the boom years preceding the financial crisis.
+                                                    However the financial system evolves, the pattern will be a critical one for central
+                                                 bankers, who need to know the quantitative impact their policies are likely to have. As
+                                                 the structure of the financial system changes, the effect of a 25- or 50-basis-point move
+                                                 in the federal funds rate will doubtless change with it. The changing effectiveness of
+                                                 conventional monetary policy likely will require central bankers to update their uncon-
+                                                 ventional policy tools, too. Central bankers will always have to assess how the finan-
+                                                 cial system is altering the monetary transmission mechanism.
+                                                    The changing nature of the financial system is important for individuals as well as
+                                                 policymakers. As the characteristics of money, banks, and loans evolve, we will all
+                                                 adjust how we pay for our purchases, how we hold our wealth, and how we obtain
+                                                 credit. Our use of currency will likely continue to decline. U.S. banks that now receive
+                                                 interest on their reserves may continue to hold far more of them than before the finan-
+                                                 cial crisis. In Europe and Japan, investors may turn to cash if central banks try to lower
+                                                 the policy rate even closer to the effective lower bound. Perhaps some country will
+                                                 eliminate cash altogether, allowing for deeply negative interest rates.
+                                                    No one can predict exactly when or to what extent these changes will occur, but
+                                                 now that you have reached the end of this book, you know how to think about them.
+                                                 And your skills in finding and analyzing economic and financial data will help you
+                                                 stay up to date as the financial system evolves. You understand the economic role of
+                                                 financial institutions as well as what a central bank is and how it operates. Together
+                                                 with the aggregate demand–aggregate supply model, this knowledge gives you a
+                                                 framework with which to comprehend the evolution of the financial system, its effects
+                                                 on monetary policy, and its effects on you personally.
+
+
+
+
+                                                 Key Terms
+                                                 asset price channel, 655       exchange rate                   monetary policy
+                                                 balance sheet channel, 653        channel, 649                   transmission
+www.moneyandbanking.com
+
+
+
+
+                                                 bank-lending channel, 652      interest rate channel, 649        mechanism, 649
+
+
+===== PDF 704 | 印刷页 669 =====
+
+                                                                                       Chapter Lessons l 669
+
+
+
+Using FRED: Codes for Data in This Chapter
+   Data Series                                                 FRED Data Code
+   Real GDP                                                    GDPC1
+   U.S. 3-month Treasury bill rate                             TB3MS
+   U.S. 10-year Treasury constant maturity rate                GS10
+   German government bond yield                                INTGSBDEM193N
+   Italian government bond yield                               INTGSBITM193N
+   Spanish government bond yield                               INTGSBESM193N
+   1-year inflation expectations (Michigan survey)             MICH
+   Real trade-weighted U.S. dollar index: Broad                TWEXBPA
+   Trade-weighted U.S. dollar index: Broad                     TWEXBMTH
+   Household net worth                                         TNWBSHNO
+   Disposable personal income                                  DPI
+   Personal saving rate                                        PSAVERT
+   S&P Case-Shiller 20-city home price index                   SPCS20RSA
+   S&P Case-Shiller U.S. National Home Price Index             CSUSHPISA
+
+
+
+
+                                                                                                                              www.moneyandbanking.com
+   Consumer price index                                        CPIAUCSL
+   Net percentage of domestic banks tightening standards on
+                                                               DRTSCLCC
+   credit cards
+   Gross federal debt held by the public as percent of gross
+                                                               FYPUGDA188S
+   domestic product
+
+
+
+
+Chapter Lessons
+1. Monetary policy influences the economy through several channels.
+                                                                                           To learn more about the
+   a. The traditional channels of monetary policy transmission are interest rates and      changing financial system, visit
+      exchange rates.                                                                      www.moneyandbanking.com.
+
+        i. Interest rates influence consumption and investment.
+       ii. Exchange rates affect net exports.
+   b. Monetary policy affects the supply of bank loans, changing the availability of
+      bank financing to firms and individuals.
+   c. Monetary policy can change firms’ and households’ net worth, affecting their
+      creditworthiness as borrowers.
+   d. The asset-price channel of monetary policy transmission works through stock
+      and real estate prices.
+        i. Stock and property prices influence household wealth and consumption.
+       ii. Stock prices also affect businesses’ ability and incentive to raise funds and
+           make investments.
+2. Monetary policymakers face significant challenges. To be successful, they require
+   a. Accurate estimates of potential GDP, even when its growth trend is shifting.
+   b. An understanding of how to cope with the problems created by the effective
+      lower bound on nominal interest rates and the possibility of deflation.
+
+
+===== PDF 705 | 印刷页 670 =====
+
+                          670   l Chapter 23  Modern Monetary Policy and the Challenges Facing Central Bankers
+
+
+
+                                                        c. A knowledge of how and when to react to the possibility of a stock or real
+                                                           estate boom (and bust).
+                                                        d. An awareness of the changing structure of the financial system and a knowl-
+                                                           edge of how to react to it.
+
+
+                                                 Conceptual and Analytical Problems                                                      ®
+
+
+
+
+                                                 	  1. Explain how an open market purchase of securities by a central bank affects the
+                                                       banking system’s balance sheet, and discuss the potential impact on the supply of
+                                                       bank loans. (You may wish to refer to Chapter 17 in answering this question.) (LO1)
+                                                 	  2. Explain why you might expect the recovery from the 2007–2009 recession to be
+                                                       weaker than normal. (LO1)
+                                                 	  3.* Explain why the traditional interest rate channel of monetary policy transmission
+                                                        from monetary policy actions to changes in investment and consumption deci-
+                                                        sions may be relatively weak. (LO1)
+                                                 	  4. Explain why monetary policymakers’ actions in cutting the target range for the
+                                                       federal funds rate to 0 to 1∕4 percent were not sufficient to boost economic activ-
+                                                       ity during the recession of 2007–2009. (LO2)
+www.moneyandbanking.com
+
+
+
+
+                                                 	  5. When monetary policymakers hit the effective lower bound with their policy
+                                                       rate, they have the option to turn to unconventional tools of monetary policy.
+                                                       How do these unconventional tools work, and why might policymakers be reluc-
+                                                       tant to use them except in very difficult circumstances? (LO2)
+                                                 	  6. The government decides to place limits on the interest rates banks can pay their
+                                                       depositors. Seeing that alternative investments pay higher interest rates, deposi-
+                                                       tors withdraw their funds from banks and place them in bonds. Will their action
+                                                       have an impact on the economy? If so, how? (LO1)
+                                                 	  7. New developments in information technology have simplified the assessment of
+                                                       individual borrowers’ creditworthiness. What are the likely consequences for the
+                                                       structure of the financial system? For monetary policy? (LO2)
+                                                 	  8.* Describe the theory of the exchange rate channel of the monetary transmission
+                                                        mechanism. How, through the exchange rate, does an interest rate increase influ-
+                                                        ence output? Why is this link difficult to find in practice? (LO1)
+                                                 	  9. Why might the effective lower bound on nominal interest rates lead policymak-
+                                                       ers to raise their inflation objective? (LO2)
+                                                  10. Considering the role of the U.S. house price bubble in the financial crisis of
+                                                      2007–2009, how do you think monetary policymakers should respond to bubbles
+                                                      in asset markets? (LO2)
+                                                  11. For each of the following, explain whether the response is theoretically consis-
+                                                      tent with a tightening of monetary policy and identify which of the traditional
+                                                      channels of monetary policy is at work: (LO1)
+                                                      a. Firms become more likely to undertake investment projects.
+                                                      b. Households become less likely to purchase refrigerators and washing
+                                                         machines.
+                                                      c. Net exports fall.
+                                                 *Indicates more difficult problems.
+
+
+===== PDF 706 | 印刷页 671 =====
+
+                                                                   Conceptual and Analytical Problems l   671
+
+
+
+ 12. In Country A suppose that changes in short-term interest rates translate quickly
+     into changes in long-term interest rates, while in Country B long-term interest
+     rates do not respond much to changes in short-term rates. In which country
+     would you expect the interest rate channel of monetary policy to be stronger?
+     Explain your answer. (LO1)
+ 13. Consider a situation where central bank officials repeatedly express concern that
+     output exceeds potential output, implying that the economy is overheating.
+     ­Although they haven’t implemented any policy moves as yet, the data show that
+      consumption of luxury goods has begun to slow. Explain how this behavior
+      could reflect the asset-price channel of monetary policy at work. (LO1)
+ 14. Do you think the balance sheet channel of monetary policy would be stronger or
+     weaker if: (LO1)
+     a. Firms’ balance sheets in general are very healthy?
+     b. Firms have a lot of existing variable-rate debt?
+ 15. In the wake of the financial crisis of 2007–2009, would you expect the bank-
+     lending channel to have become more or less important in the United States?
+     Explain your answer. (LO2)
+ 16.* Suppose there is an unexpected slowdown in the rate of productivity growth in
+      the economy so that forecasters consistently overestimate the growth rate of
+
+
+
+
+                                                                                                                www.moneyandbanking.com
+      GDP. If the central bank bases its policy decisions on the consensus forecast,
+      what would be the likely consequences for inflation assuming it maintains its
+      existing inflation target? (LO2)
+ 17. Suppose the policy interest rate controlled by the central bank and the inflation
+     rate were both zero. Explain in terms of the aggregate demand–aggregate supply
+     framework how the economy could fall into a deflationary spiral if it were hit by
+     a negative aggregate demand shock. (LO2)
+18.* Use the aggregate demand–aggregate supply framework to show how a boom
+      in equity prices might affect inflation and output in the short run. Describe
+      the long-run impact on inflation and output (a) if the central bank implicitly
+      allows its inflation target to rise and (b) if it retains its original inflation
+     ­t arget. (LO2)
+ 19. Compare the impact of a given change in monetary policy in two economies that
+     are similar in every way except that in Economy A the financial system has a
+     large shadow banking system providing many alternatives to bank financing,
+     while in Economy B bank loans account for almost all of the financing in the
+     economy. (LO1)
+ 20. If the anemic growth experienced in the U.S. economy since the financial crisis
+     primarily reflects slower growth of the labor force and slowing technological
+     innovation, can monetary policy be used to address the problem? (LO2)
+ 21. In which of the following economies do you think the bank lending channel
+     would play a more important role, everything else being equal: an economy
+     dominated by large, financially sophisticated firms, or an economy consisting of
+     a large number of small firms. Explain your choice. (LO1)
+ 22. How might the concept of GDP at Risk help central banks pursue a financial
+     stability objective? (LO2)
+*Indicates more difficult problems.
+
+
+===== PDF 707 | 印刷页 672 =====
+
+                          672   l Chapter 23  Modern Monetary Policy and the Challenges Facing Central Bankers
+
+
+
+                                                 23.    Recent financial regulatory reforms have eased capital requirements for banks.
+                                                        Under what circumstances might lowering capital requirements affect economic
+                                                        growth? (LO1)
+
+
+                                                 Data Exploration                                    ®
+
+
+
+
+                                                 For general information on using Federal Reserve Economic Data (FRED) online,
+                                                 visit www.mhhe.com/moneyandbanking6e.com and refer to the FRED resources.
+                                                   1. In conducting monetary policy, the European Central Bank (ECB) must balance
+                                                      the needs of euro-area countries with differing economic conditions. Plot since
+                                                      1990 the yield spread between government bonds in Italy (FRED code:
+                                                      INTGSBITM193N) and Germany (FRED code: INTGSBDEM193N), along
+                                                      with the yield spread between government bonds in Spain (FRED code:
+                                                      INTGSBESM193N) and Germany. Discuss the yield spreads after 2008, and
+                                                      explain how they reflect policy challenges for the ECB. (LO2)
+                                                   2. How important is the balance sheet channel of monetary policy? Plot since 1996
+                                                      the net tightening of credit standards for consumer and credit card loans (FRED
+                                                      code: DRTSCLCC) and (on the right scale) household net worth (FRED code:
+www.moneyandbanking.com
+
+
+
+
+                                                      TNWBSHNO). Do banks adjust lending conditions when household balance
+                                                      sheets improve or deteriorate? (LO1)
+                                                   3. Among the challenges facing central banks around the world is the elevated level
+                                                      of public debt. Plot U.S. federal debt held by the public as a percent of gross
+                                                      domestic product (FRED code: FYPUGDA188S), and discuss the problems that
+                                                      government debt could pose for the Federal Reserve in the future. (LO2)
+                                                  	4.* Some critics argue that the Federal Reserve stoked the housing price bubble after
+                                                       2000 by keeping monetary policy too stimulative. To investigate, first plot from
+                                                       2000 to 2007 on a quarterly basis the Taylor rule gap—the difference between the
+                                                       Taylor rule (as described in Chapter 18 Data Exploration Problem 1) and the
+                                                       federal funds rate. Add to this plot on the right scale an index of U.S. housing
+                                                       prices (FRED code: SPCS20RSA). Does the evidence support the critics’ claim?
+                                                       What other evidence might be sought? (LO1)
+                                                   5. Prior to the crisis, neither policymakers nor investors anticipated the impact of
+                                                      falling housing prices on the U.S. financial system. To see whether similar risks
+                                                      exist today, plot since 1990 U.S. real housing prices: namely, the Case-Shiller
+                                                      U.S. National Home Price index divided by the level of consumer prices (FRED
+                                                      code: CSUSHPISA and CPIAUCSL). Discuss the result and explain why hous-
+                                                      ing matters so much for the financial system. (LO2)
+
+
+
+
+                                                 *Indicates more difficult problems.

@@ -1,0 +1,73 @@
+{
+  "article_id": 3749415,
+  "selection": {
+    "article_id": 3749415,
+    "url": "https://wallstreetcn.com/articles/3749415",
+    "title": "以退为进？微软“放话”：与OpenAI谈不好，那就不谈了",
+    "page_display_time": "2025-06-19T10:13:04+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "AI投资与商业化",
+    "reading_priority": "B",
+    "reading_value": "拆解微软与OpenAI的股权、技术访问和收入分成安排，呈现合同如何影响谈判地位。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1294,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 146
+  },
+  "url": "https://wallstreetcn.com/articles/3749415",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3749415?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:51+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "以退为进？微软“放话”：与OpenAI谈不好，那就不谈了",
+  "page_display_time": "2025-06-19T10:13:04+08:00",
+  "page_byline": "董静",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "据报道，知情人士透露，如果双方无法就关键问题达成一致，微软已考虑直接终止复杂的谈判进程。这些关键分歧包括微软在OpenAI未来结构中应占多大股份等核心利益分配问题。一旦谈判破裂，微软将依靠现有商业合同保持对OpenAI技术的访问权直至2030年。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1374,
+  "body_sha256": "8ce5af9a3145fa514a5f34f91ccfe513722863f3ba561e1e79927ba55efe79ca",
+  "raw_sha256": "104e38da2149cca019aef791789da22af6b14ff8ccde09a8789de2e5d3fc1f63",
+  "raw_bytes": 7731,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/06146a26-a57b-4dae-a67d-b2392551aee4.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1294,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:42+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "104e38da2149cca019aef791789da22af6b14ff8ccde09a8789de2e5d3fc1f63",
+      "bytes": 7731
+    },
+    "article.html": {
+      "sha256": "5da00f40293d66c41c6b64c7f3d5ab307c50747860312f1f4db7ace4a6a98ae5",
+      "bytes": 7604
+    },
+    "article.md": {
+      "sha256": "5293168379ccd49273b1b2b652d14d74275da63133dd52b65a9923d44045cd6a",
+      "bytes": 4471
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:34+08:00"
+}

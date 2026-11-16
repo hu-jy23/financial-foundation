@@ -1,0 +1,94 @@
+{
+  "article_id": 3783248,
+  "selection": {
+    "article_id": 3783248,
+    "url": "https://wallstreetcn.com/articles/3783248",
+    "title": "谭谈：央行为什么发布关于人民币汇率的政策立场",
+    "page_display_time": "2026-10-09T13:26:40+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": "玉渊潭天",
+    "page_source_url": null,
+    "page_attribution_note": "本文来源：玉渊潭天",
+    "category": "汇率与国际资本",
+    "reading_priority": "B",
+    "reading_value": "解释汇率政策表述中的贸易、顺差与经济结构争议；保留评论者立场。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2849,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 56
+  },
+  "url": "https://wallstreetcn.com/articles/3783248",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783248?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:25+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/a1d61e72-ffab-42f8-b1bf-b62c1d8eda02.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "过去几年，全球经济经历了疫情冲击、能源危机、通胀、贸易保护主义抬头以及产业链重组。如今，美欧面对的一个共同问题，是本土制造业的竞争力不足和贸易失衡。",
+      "path": "assets/figure_001.jpg",
+      "sha256": "0e0a729ead3359ac0364ef3927f4afc699267b9660f5759300e0c5fbd4db4d08",
+      "bytes": 183432,
+      "width": 1024,
+      "height": 1364,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/a1d61e72-ffab-42f8-b1bf-b62c1d8eda02.jpeg"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "谭谈：央行为什么发布关于人民币汇率的政策立场",
+  "page_display_time": "2026-10-09T13:26:40+08:00",
+  "page_byline": "董静",
+  "source_label": "玉渊潭天",
+  "source_url": "",
+  "subtitle": "玉渊潭天认为，这释放三大核心信号：汇率由市场决定，非人为操控，汇改以来人民币累计升值23%，\"操纵汇率\"纯属无稽之谈；IMF评估结果被曲解误用，若按实际有效汇率指数法，人民币实为小幅高估0.5%；经常账户顺差是结构性问题，逆差国低储蓄、高消费才是根源。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2887,
+  "body_sha256": "4cc077f1070ad1497568e42f96c3b8bdfa03a83d97cb91fbd784aa95ac9cbb74",
+  "raw_sha256": "cfefc4f158093508c275e66997802ee8fdeb28fd1f947e86c3664b093f776351",
+  "raw_bytes": 15166,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/33269746-4296-456e-ae0b-09d4166e2766.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 2849,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "玉渊潭天",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzU3Njg3MTIxMA==&mid=2247583786&idx=1&sn=f8855c86be6a218ef416b5428e4fd81d&chksm=fc45489e3fbea97836d984f70f44a2b0dae4b91ea5471d507b4c8235aa79d452ad0053468d46&mpshare=1&scene=23&srcid=10091ePGbVZHDx8C5cYzjBVj&sharer_shareinfo=688150c813366afa32b6d4cfcbe9ab51&sharer_shareinfo_first=688150c813366afa32b6d4cfcbe9ab51#rd"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:33+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "cfefc4f158093508c275e66997802ee8fdeb28fd1f947e86c3664b093f776351",
+      "bytes": 15166
+    },
+    "article.html": {
+      "sha256": "aece658fff595894bcbf1d46fcb3e53784a4c1cc64305f0390373bb7392062f0",
+      "bytes": 14136
+    },
+    "article.md": {
+      "sha256": "f0c352cf548905af65272950f3b376474c8ef321f936d8514cf4b4ee156ed765",
+      "bytes": 9791
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:17+08:00"
+}

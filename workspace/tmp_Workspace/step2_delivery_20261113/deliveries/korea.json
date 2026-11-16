@@ -1,0 +1,290 @@
+{
+  "article_id": 3784053,
+  "case": "korea",
+  "files": [
+    {
+      "path": "10_concepts/费城半导体指数SOX.md",
+      "operation": "new",
+      "id": "C-S2-SOX",
+      "type": "concept",
+      "title": "费城半导体指数SOX",
+      "why": "为持续研究半导体股票组合及跨市场比较建立独立对象；不与KOSPI混为同一指数。"
+    },
+    {
+      "path": "10_concepts/韩国综合股价指数KOSPI.md",
+      "operation": "new",
+      "id": "C-S2-KOSPI",
+      "type": "concept",
+      "title": "韩国综合股价指数KOSPI",
+      "why": "KOSPI承载明确市场身份、研究样本、估值口径及持续历史，不为每个剔除样本另建节点。"
+    },
+    {
+      "path": "10_concepts/杠杆ETF.md",
+      "operation": "new",
+      "id": "C-S2-LEVERAGED-ETF",
+      "type": "concept",
+      "title": "杠杆ETF",
+      "why": "具有特殊倍数与重置规则的ETF产品；关联旧ETF页复用基础知识，持仓口径融入本页，不另造持仓节点。",
+      "knowledge_dependencies": [
+        "C-FLOW-05"
+      ]
+    },
+    {
+      "path": "20_mechanisms/杠杆ETF再平衡的价格反馈.md",
+      "operation": "new",
+      "id": "R-S2-LETF-REBALANCE",
+      "type": "mechanism",
+      "title": "杠杆ETF再平衡的价格反馈",
+      "why": "日度倍数恢复具有区别于申赎套利和波动率目标的触发过程，独立解释净流出有限时的调仓及价格反馈。",
+      "node_ids": [
+        "C-S2-LEVERAGED-ETF",
+        "C-FLOW-05",
+        "C-LIQ-MARKET"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-S2-LEVERAGED-ETF",
+            "C-FLOW-05"
+          ],
+          "related_mechanism_ids": [
+            "R-MARKET-04"
+          ]
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-S2-LEVERAGED-ETF",
+            "C-LIQ-MARKET"
+          ],
+          "related_mechanism_ids": [
+            "R-MARKET-09"
+          ]
+        }
+      ],
+      "related_mechanism_ids": [
+        "R-MARKET-04",
+        "R-MARKET-09"
+      ]
+    },
+    {
+      "path": "20_mechanisms/KOSPI三大买盘与边际承接.md",
+      "operation": "new",
+      "id": "R-S2-KOSPI-BUYERS",
+      "type": "mechanism",
+      "title": "KOSPI三大买盘与边际承接",
+      "why": "将韩国市场具体三类主体的行动条件、需求变化和持续历史集中维护；不复制一般流动性定义。",
+      "node_ids": [
+        "C-S2-KOSPI",
+        "C-LIQ-MARKET"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-S2-KOSPI",
+            "C-LIQ-MARKET"
+          ],
+          "related_mechanism_ids": [
+            "R-S2-LETF-REBALANCE",
+            "R-MARKET-09"
+          ]
+        }
+      ],
+      "related_mechanism_ids": [
+        "R-S2-LETF-REBALANCE",
+        "R-MARKET-09"
+      ]
+    },
+    {
+      "path": "30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md",
+      "operation": "new",
+      "id": "E-WS-3784053",
+      "type": "analysis_note",
+      "title": "韩国股市低估值与买盘收缩：2026年10月分析",
+      "why": "在一个连续分析中保留8图、关键数字、机构判断、竞争解释和跨对象情境。"
+    },
+    {
+      "path": "40_sources/S-WS-3784053.md",
+      "operation": "new",
+      "id": "S-WS-3784053",
+      "type": "source_note",
+      "title": "韩国股市低估值与买盘收缩：来源与核读范围",
+      "why": "集中登记本地正文8图、补充一手定义及实际核读边界，正文以链接复用。"
+    },
+    {
+      "path": "10_concepts/ETF申赎与二级市场交易.md",
+      "operation": "update",
+      "id": "C-FLOW-05",
+      "type": "concept",
+      "title": "ETF申赎与二级市场交易",
+      "why": "增加杠杆基金内部调仓这一层及案例入口；原份额、申赎与历史统计解释保留。"
+    },
+    {
+      "path": "20_mechanisms/CTA趋势跟随的价格反馈.md",
+      "operation": "update",
+      "id": "R-MARKET-09",
+      "type": "mechanism",
+      "title": "CTA趋势跟随的价格反馈",
+      "why": "在logic-1历史及预期下补入韩国动量信号案例，区分模型目标和已观察持仓；不重写旧机制。",
+      "node_ids": [
+        "C-FLOW-11"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-FLOW-11"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-FLOW-11"
+          ],
+          "related_mechanism_ids": []
+        }
+      ],
+      "related_mechanism_ids": []
+    }
+  ],
+  "coverage": [
+    {
+      "name": "费城半导体指数SOX",
+      "decision": "new",
+      "path": "10_concepts/费城半导体指数SOX.md",
+      "reason": "独立指数对象、比较口径及历史入口"
+    },
+    {
+      "name": "韩国综合股价指数KOSPI",
+      "decision": "new",
+      "path": "10_concepts/韩国综合股价指数KOSPI.md",
+      "reason": "独立市场对象，区分全体和剔除样本"
+    },
+    {
+      "name": "杠杆ETF",
+      "decision": "new",
+      "path": "10_concepts/杠杆ETF.md",
+      "reason": "继承ETF基础，保存特殊目标与重置知识"
+    },
+    {
+      "name": "杠杆ETF持仓与存续敞口",
+      "decision": "inline",
+      "path": "10_concepts/杠杆ETF.md#holdings",
+      "reason": "产品内部观测职责，实际解释五种量"
+    },
+    {
+      "name": "企业股票回购",
+      "decision": "inline",
+      "path": "20_mechanisms/KOSPI三大买盘与边际承接.md",
+      "reason": "讲清回购身份、授权与执行，不另造主体页"
+    },
+    {
+      "name": "外资与境内机构的股票需求",
+      "decision": "inline",
+      "path": "20_mechanisms/KOSPI三大买盘与边际承接.md#logic-1",
+      "reason": "按身份分组展开具体承接过程"
+    },
+    {
+      "name": "远期市盈率及历史分位",
+      "decision": "inline",
+      "path": "10_concepts/韩国综合股价指数KOSPI.md#valuation",
+      "reason": "估值口径随对象与剔除样本保存"
+    },
+    {
+      "name": "盈利预测与实际盈利",
+      "decision": "inline",
+      "path": "30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md#earnings",
+      "reason": "保存图7样本及预测与实现的区别"
+    },
+    {
+      "name": "趋势跟随与CTA",
+      "decision": "reuse",
+      "path": "10_concepts/趋势跟随与CTA.md",
+      "reason": "已有定义与策略基础充分"
+    },
+    {
+      "name": "市场流动性与边际承接",
+      "decision": "reuse",
+      "path": "10_concepts/市场流动性.md",
+      "reason": "复用已有深度与冲击定义，具体主体写新关系"
+    },
+    {
+      "name": "RSI与200日均线",
+      "decision": "inline",
+      "path": "30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md#valuation",
+      "reason": "技术描述就地解释，保留原图2/3"
+    },
+    {
+      "name": "KOSPI三大买盘与边际承接",
+      "decision": "new",
+      "path": "20_mechanisms/KOSPI三大买盘与边际承接.md",
+      "reason": "具体市场主体关系和持续历史"
+    },
+    {
+      "name": "固定日度杠杆目标与再平衡订单",
+      "decision": "new",
+      "path": "20_mechanisms/杠杆ETF再平衡的价格反馈.md#logic-1",
+      "reason": "独立于申赎套利的触发过程"
+    },
+    {
+      "name": "ETF持仓存量、净流量与机械性交易",
+      "decision": "update",
+      "path": "10_concepts/ETF申赎与二级市场交易.md#leveraged-etf-layer",
+      "reason": "旧页补入口；产品口径在杠杆ETF页维护"
+    },
+    {
+      "name": "趋势信号、风险缩放与实际订单",
+      "decision": "update",
+      "path": "20_mechanisms/CTA趋势跟随的价格反馈.md#korea-20261020",
+      "reason": "在旧逻辑后接实际新闻判断"
+    },
+    {
+      "name": "低估值与买入能力的不同步",
+      "decision": "inline",
+      "path": "30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md#valuation",
+      "reason": "由ERP与流动性解释具体情境，不重复建通用节点"
+    },
+    {
+      "name": "KOSPI与SOX的共同暴露及表现差异",
+      "decision": "inline",
+      "path": "10_concepts/费城半导体指数SOX.md#comparison",
+      "reason": "比较方法放SOX，历史图与预警放完整事件；不将未识别渠道注册机制"
+    }
+  ],
+  "sources_read": [
+    {
+      "path": "Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md",
+      "scope": "全文；metadata；全部8张原图逐张核看"
+    },
+    {
+      "url": "https://indexes.nasdaq.com/Index/Overview/SOX",
+      "scope": "2026-11-13 Index Description与Quick Facts，未采用当前行情"
+    },
+    {
+      "url": "https://indexes.nasdaq.com/docs/methodology_SOX.pdf",
+      "scope": "2026版权8页版本，PDF页1—4，页7变更记录；未核外引手册及历史名单"
+    },
+    {
+      "url": "https://global.krx.co.kr/contents/GLB/02/0201/0201010100/GLB0201010100.jsp",
+      "scope": "仅KRX官方搜索摘要，正文未取得"
+    },
+    {
+      "url": "https://open.krx.co.kr/contents/OPN/01/01010101/OPN01010101.jsp",
+      "scope": "官方摘要；请求正文403"
+    },
+    {
+      "url": "https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec",
+      "scope": "2023-08-29公告定义、每日重置、衍生品、多日复合与单股部分"
+    }
+  ],
+  "notes": [
+    "3个对象、2个关系、1个完整分析、1个来源；更新旧ETF页与CTA关系各1页。",
+    "全部内容仅写独立graph快照，未改正式仓库或00_start。",
+    "回购正文“去年8月底”与图4明显加速年份不同，已保留差异；未取得JPM原报告、公司回购公告和基金底表。",
+    "现有ETF页标题与职责是申赎及二级交易，不强行为杠杆ETF设置分类父节点；knowledge_dependencies记录基础知识复用，也不挂到限定A股范围的宽基ETF。",
+    "新条目仍为step2_draft；旧页保留原作者与审阅元数据，新增editor及editing_status。"
+  ]
+}

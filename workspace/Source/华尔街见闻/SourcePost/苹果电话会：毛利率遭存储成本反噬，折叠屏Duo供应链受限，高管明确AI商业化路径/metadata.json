@@ -1,0 +1,94 @@
+{
+  "article_id": 3785028,
+  "selection": {
+    "article_id": 3785028,
+    "url": "https://wallstreetcn.com/articles/3785028",
+    "title": "苹果电话会：毛利率遭存储成本反噬，折叠屏Duo供应链受限，高管明确AI商业化路径",
+    "page_display_time": "2026-11-03T10:31:28+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "鲍奕龙",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004827",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "A",
+    "reading_value": "完整电话会覆盖存储成本、产品供给、AI收费与现金政策，可保存管理层预期及分析师追问。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 19681,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 205
+  },
+  "url": "https://wallstreetcn.com/articles/3785028",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3785028?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:08+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/dba7f5ba-c85f-471e-a528-a4d6f3a40c26.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "苹果新任CEO的首份“成绩单”虽创下第四财季营收历史新高，但受大中华区表现不及预期、假日季毛利率承压以及折叠屏供需失衡等多重因素拖累，华尔街的乐观情绪消退。",
+      "path": "assets/figure_001.png",
+      "sha256": "2b1bd159509c0ad0cd24a67f23e0845e7daf8091d1aff030cbea5a5d68544f60",
+      "bytes": 1030955,
+      "width": 1024,
+      "height": 565,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/dba7f5ba-c85f-471e-a528-a4d6f3a40c26.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "苹果电话会：毛利率遭存储成本反噬，折叠屏Duo供应链受限，高管明确AI商业化路径",
+  "page_display_time": "2026-11-03T10:31:28+08:00",
+  "page_byline": "鲍奕龙",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "受“史无前例”的内存涨价及Siri AI云端成本影响，12月假日季毛利率指引降至45%-46%；备受瞩目的折叠屏iPhone Duo遭遇严重产能瓶颈，且高管坦言“无法预测供需平衡时间”。尽管CEO首次明确了AI变现路径：通过对云端AI功能“设定使用上限”，倒逼重度用户订阅iCloud+，但对未来AI智能体战略却模糊回应。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 19534,
+  "body_sha256": "419ffc52e404a35e75dfadca03bd18dd291f8953920c97691375c99429f8e492",
+  "raw_sha256": "f2facd0932d37c11c9cb3538df5431675fe4bd2e360c36f81dfdd23c3c928126",
+  "raw_bytes": 64951,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/af3f8dc8-99a7-42f0-9309-75c9722bd00e.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 19681,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "华尔街见闻提及",
+      "url": "https://wallstreetcn.com/articles/3785024"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:47+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "f2facd0932d37c11c9cb3538df5431675fe4bd2e360c36f81dfdd23c3c928126",
+      "bytes": 64951
+    },
+    "article.html": {
+      "sha256": "c576499fccefd0b21bdd0bb5c9cc12ed17086fe4f87eba76baf98a4f45ee678d",
+      "bytes": 61239
+    },
+    "article.md": {
+      "sha256": "3ee018ad30eaf0b5b15a58bb0448f632f5662ad22482c7bf7e1300d3736c40be",
+      "bytes": 52476
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:50+08:00"
+}

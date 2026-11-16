@@ -1,0 +1,94 @@
+{
+  "article_id": 3784014,
+  "selection": {
+    "article_id": 3784014,
+    "url": "https://wallstreetcn.com/articles/3784014",
+    "title": "长鑫刺穿“存储泡沫”？",
+    "page_display_time": "2026-10-20T16:09:44+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": "腾讯科技",
+    "page_source_url": null,
+    "page_attribution_note": "本文来源：腾讯科技",
+    "category": "半导体与算力硬件",
+    "reading_priority": "A",
+    "reading_value": "解释财报好于过去却不及预期、涨价斜率与提前囤货之间的反馈。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 4090,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 182
+  },
+  "url": "https://wallstreetcn.com/articles/3784014",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784014?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:03+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/2cd0b004-2f3f-4d55-9d7e-7a7514e9128f.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "10月14日，马斯克在社交平台上炮轰存储价格太贵，他说：“美光在未来内存价格方面一直很合理，而其他公司则狮子大开口，这一点是今天客户不会忘记的。”",
+      "context_after": "某种程度上，涨价像是一个市场化的调节器，在一定阶段，客户可以接受持续的价格上涨，但到了上涨的临界点，下游客户可能也会因为承受不起而做对应的调整，取消超额预订部分的单子，就是一种典型的代表。",
+      "path": "assets/figure_001.png",
+      "sha256": "e9ad2b909f9aaaf27364f839e2881f6ddb899aa8d9b7beb1b8942a0a36672a7f",
+      "bytes": 513519,
+      "width": 1024,
+      "height": 947,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/2cd0b004-2f3f-4d55-9d7e-7a7514e9128f.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "长鑫刺穿“存储泡沫”？",
+  "page_display_time": "2026-10-20T16:09:44+08:00",
+  "page_byline": "李佳",
+  "source_label": "腾讯科技",
+  "source_url": "",
+  "subtitle": "长鑫科技业绩创纪录，股价却下跌，核心问题在于涨价对利润的拉动效应减弱：第三季度营收环比增长15%至20%，归母净利润仅增长1%至4%。相比价格上涨近九成时利润环比三位数增长，如今涨价一成多，利润增幅已降至个位数。叠加AI产业链风险担忧，板块调整持续向上游传导。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 4123,
+  "body_sha256": "73bdd6a53a28dbf62b15e94cc677df7fcee4889b95b1ca70cc0e13f34c3e53f0",
+  "raw_sha256": "7d6522c6090e99fd5d95684cad45fd5e532e3bd01ce8b0acf1b94d7ec97d9bb0",
+  "raw_bytes": 17140,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/1d849f77-62ff-43a6-99f4-c01550823a07.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 4090,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "腾讯科技",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mjc1NjM3MjY2MA==&mid=2691573550&idx=1&sn=20d023cb5edc08b8545e78c415ccb9d5&chksm=a85eae9928de8f146e9a034fd4298c413490157b067f0f41eb94ea36affeeb3fe7e16ed2afc1&mpshare=1&scene=23&srcid=1020hEJ9PnidB4VwovtmGynn&sharer_shareinfo=d06b6245cbeafbbbdf6ef199c9d07a32&sharer_shareinfo_first=d06b6245cbeafbbbdf6ef199c9d07a32#rd"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:46+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "7d6522c6090e99fd5d95684cad45fd5e532e3bd01ce8b0acf1b94d7ec97d9bb0",
+      "bytes": 17140
+    },
+    "article.html": {
+      "sha256": "675dc262f350f5d3057b2affaffac3b846a424c84b7e99ba75a8bbcd1c2ac412",
+      "bytes": 16624
+    },
+    "article.md": {
+      "sha256": "03b5fedf6033b94b949ef1bccfa3f3cbdd9e7a594c653d1f473521b14095c663",
+      "bytes": 12495
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:45+08:00"
+}

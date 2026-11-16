@@ -1,0 +1,89 @@
+{
+  "article_id": 3784209,
+  "selection": {
+    "article_id": 3784209,
+    "url": "https://wallstreetcn.com/articles/3784209",
+    "title": "资金加速回流日债！日本投资者连续第五周抛售外债，创四年最长纪录",
+    "page_display_time": "2026-10-22T16:34:28+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "汇率与国际资本",
+    "reading_priority": "B",
+    "reading_value": "用跨境债券流量区分银行与寿险行为，并讨论相对收益率对资金回流节奏的影响。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1241,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 58
+  },
+  "url": "https://wallstreetcn.com/articles/3784209",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784209?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:26+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/ddc2e794-8869-48b5-b4d0-dc1df8a441d9.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "日本10年期国债收益率年内大幅攀升，累计涨幅超过80个基点，对长期将资产配置于海外的日本机构投资者构成明显吸引力。收益率此前曾触及三十年高位，尽管近期避险买盘有所推动，令其从高位小幅回落，但整体仍处历史性高位区间。",
+      "path": "assets/figure_001.png",
+      "sha256": "54578a61f631590129a36911b98cb0d91a63a35def9f9d3c34457494f14c43f5",
+      "bytes": 109655,
+      "width": 1024,
+      "height": 676,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/ddc2e794-8869-48b5-b4d0-dc1df8a441d9.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "资金加速回流日债！日本投资者连续第五周抛售外债，创四年最长纪录",
+  "page_display_time": "2026-10-22T16:34:28+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "截至10月17日当周，日本投资者净抛售外国长期债券1616亿日元，连续第五周录得净卖出，创下四年来最长连续抛售纪录。核心驱动是日本10年期国债收益率年内上行逾80个基点，吸引资本回流。国内银行主导抛售，寿险机构拟增配国内债券，其2.5万亿美元资产动向受关注。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1323,
+  "body_sha256": "0e2b0bb86cb4204f89fd597ad854784bb0ca78e69bf2d41f43bc36479b2ef1af",
+  "raw_sha256": "eccc584e15698a70af043676f3486fc97c8093eaa1c9d4257237e092e365fe06",
+  "raw_bytes": 7979,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/09b84e32-39b6-4dc4-ab32-f9f2d5571bf7.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1241,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:33+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "eccc584e15698a70af043676f3486fc97c8093eaa1c9d4257237e092e365fe06",
+      "bytes": 7979
+    },
+    "article.html": {
+      "sha256": "d7dfc873c608558b1c32f1c031b1fb872cc7a94ab8328bceea80a65bab9f22ba",
+      "bytes": 7807
+    },
+    "article.md": {
+      "sha256": "66e39ef929b85f00bc75b615548e7a4774477ca7a731d0bde075f97942d46a79",
+      "bytes": 4684
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:17+08:00"
+}

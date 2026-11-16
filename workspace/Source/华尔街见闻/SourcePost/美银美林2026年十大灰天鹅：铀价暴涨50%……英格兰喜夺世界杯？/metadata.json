@@ -1,0 +1,207 @@
+{
+  "article_id": 3763441,
+  "selection": {
+    "article_id": 3763441,
+    "url": "https://wallstreetcn.com/articles/3763441",
+    "title": "美银美林2026年十大灰天鹅：铀价暴涨50%……英格兰喜夺世界杯？",
+    "page_display_time": "2026-01-16T17:17:17+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "跨资产与市场结构",
+    "reading_priority": "B",
+    "reading_value": "以反共识情景串联美元、权益、核能和信用资产，并回看上一年的预测。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 3263,
+    "page_image_count": 8,
+    "original_underlying_research_verified": false,
+    "catalog_number": 112
+  },
+  "url": "https://wallstreetcn.com/articles/3763441",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3763441?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:40+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/a7903dff-a5fa-4877-a098-065f62b4faf7.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "总的来看，硬数据指标升至+0.4个标准差（2022年4月以来最高），而软数据情绪指标仍处于-0.8个标准差的低位。",
+      "path": "assets/figure_001.png",
+      "sha256": "5fc5f275117c641bd1f72afaa49a59e8d4d4d429c6f5329a25e945c3c4d0f733",
+      "bytes": 58579,
+      "width": 545,
+      "height": 432,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/a7903dff-a5fa-4877-a098-065f62b4faf7.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/ab4e9c64-bd8a-4767-ad0b-32a22d51cd4a.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "预测三：等权重美股指数跑赢市场",
+      "path": "assets/figure_002.png",
+      "sha256": "d3633481933bdcc56cdf0d8dfedd35d7a85ba09110b072c14db36832be04e7f0",
+      "bytes": 47747,
+      "width": 545,
+      "height": 544,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/ab4e9c64-bd8a-4767-ad0b-32a22d51cd4a.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/87e1c378-face-499b-adbc-befc882fa2ce.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "预测五：无人军事系统推动防务板块升级",
+      "path": "assets/figure_003.png",
+      "sha256": "b23bc80aa983d8e7179cd40172caf3183949a7df4a0852dfbc4be1813cf964c0",
+      "bytes": 58478,
+      "width": 543,
+      "height": 564,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/87e1c378-face-499b-adbc-befc882fa2ce.png"
+    },
+    {
+      "order": 4,
+      "source_url": "https://wpimg-wscn.awtmt.com/fcede441-7a11-4782-9c45-93b79905f794.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "预测八：ETF资产超越七国集团（除美国）市值",
+      "path": "assets/figure_004.png",
+      "sha256": "74a6e917bfa4b9fde8a1491970d395dfa4242b306e5bd587545f4d10020af0cf",
+      "bytes": 63117,
+      "width": 539,
+      "height": 538,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/fcede441-7a11-4782-9c45-93b79905f794.png"
+    },
+    {
+      "order": 5,
+      "source_url": "https://wpimg-wscn.awtmt.com/589598e6-7541-4a58-b4f9-99a5cae46650.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "预测十：英格兰赢得世界杯",
+      "path": "assets/figure_005.png",
+      "sha256": "75145313fcdd6d9587530e3821e8205bf4561dcbd72006b43415c9101cee035a",
+      "bytes": 34365,
+      "width": 544,
+      "height": 432,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/589598e6-7541-4a58-b4f9-99a5cae46650.png"
+    },
+    {
+      "order": 6,
+      "source_url": "https://wpimg-wscn.awtmt.com/cfe36147-32cd-4925-8e6c-4649f8b79a07.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "美银美林对其2025年十大预测进行了回顾：",
+      "path": "assets/figure_006.png",
+      "sha256": "9f192fadfc91a9fe25cdb88c14d1597e6c084c41a10a1d8cdcb5ce5d2d75f287",
+      "bytes": 49567,
+      "width": 542,
+      "height": 478,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/cfe36147-32cd-4925-8e6c-4649f8b79a07.png"
+    },
+    {
+      "order": 7,
+      "source_url": "https://wpimg-wscn.awtmt.com/88e274d5-f751-41f6-b31f-4f3e2be78b15.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_007.png",
+      "sha256": "01e83d12849a5b63a5da9943473943f2a8654354bfb871e67c3dacdeb21e7e7d",
+      "bytes": 79743,
+      "width": 1167,
+      "height": 341,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/88e274d5-f751-41f6-b31f-4f3e2be78b15.png"
+    },
+    {
+      "order": 8,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_008.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "美银美林2026年十大灰天鹅：铀价暴涨50%……英格兰喜夺世界杯？",
+  "page_display_time": "2026-01-16T17:17:17+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "美银美林预测，美国经济增长2.6%，等权重美股指数跑赢市场，美元走弱引发全球汇市“再平衡”，铀价暴涨超50%至历史新高，无人军事系统推动防务板块升级，新兴市场债券成为全球最佳资产，违约率下降，CLO ETF可能跑赢美债，ETF资产超越七国集团（除美国）市值，充裕流动性支持封闭式基金发行大年，英格兰赢得世界杯。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 3277,
+  "body_sha256": "857771e88fcc9c5bfbcf0524b883d97a8e608b5712e56b58ed71b89d14151132",
+  "raw_sha256": "8e36631179f017f16fb34685ab01267df6f9bae7c77835a2086d39c6709e799d",
+  "raw_bytes": 21016,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/da80569f-e701-4918-ba9b-73e1f9dbad50.mp3",
+  "image_occurrences": 8,
+  "html_table_count": 0,
+  "catalog_image_count": 8,
+  "catalog_text_characters": 3263,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:39+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "8e36631179f017f16fb34685ab01267df6f9bae7c77835a2086d39c6709e799d",
+      "bytes": 21016
+    },
+    "article.html": {
+      "sha256": "1505ad57ae3d7f12ca44f01f53861e3aa5fdcaac721ee7e17766ca92f846706e",
+      "bytes": 20726
+    },
+    "article.md": {
+      "sha256": "f417904afe623250c0c371fe88191dd6a9a29ed2cf9d56c2a64aa23f3f6a4a9f",
+      "bytes": 10536
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:28+08:00"
+}

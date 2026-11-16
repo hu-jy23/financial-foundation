@@ -1,35 +1,27 @@
-# 金融关系／机制正式目录 v5
+# 金融关系／机制正式目录
 
-初步建图范围确认：2026-10-25。共 **71 个关系／机制，16 个主题组**；正文 **65 份已完成、6 份待完成主审**（进度更新：2026-10-30）。
+共75个机制，16个主题组；正文已全部完成。关联对象来自[对象目录](CONCEPT_IMPORT_LIST.md)，普通变量保留在正文中解释。
 
-本表只列已确认入选的关系。原177项的勾叉与最终名称见[完整审阅表](../50_reviews/MECHANISM_SELECTION_177.md)，未入选106项见[旧ID登记](MECHANISM_ARCHIVE.md)。
+制作与维护见[制作标准](AUTHORING_STANDARD.md)，结构化数据见[索引](catalog_index.json)，文件规则见[文件命名](FILE_NAMING.md)。
 
-名称采用已修订版本，并恢复用户确认的36项原名。恢复名称不改变勾叉；其中未入选者仍保留在审阅记录中。
-
-关联对象均来自正式对象目录；其余变量放在正文术语栏。未完成条目的关联对象为初始研究入口，具体逻辑组在制作时依据材料细化。
-
-节点范围已确定；pending表示正文尚未完成主审（包括未制作或已有待审稿）。命名、解释与研究要求见[制作标准](AUTHORING_STANDARD.md)，结构化数据见[索引](catalog_index.json)。
-
-正文文件名使用定稿标题；ID保留在元数据及本表中，全部计划路径见索引的`planned_path`。规则见[文件命名](FILE_NAMING.md)。
-
-| 主题组 | 条目 | P0 | 成品 | 待完成主审 |
-|---|---:|---:|---:|---:|
-| 测量、恒等式与预期 | 1 | 1 | 1 | 0 |
-| 货币政策与利率传导 | 9 | 5 | 9 | 0 |
-| 增长、就业与通胀机制 | 1 | 0 | 1 | 0 |
-| 财政与债务机制 | 6 | 2 | 6 | 0 |
-| 信用与金融稳定机制 | 9 | 3 | 9 | 0 |
-| 跨境、美元与汇率机制 | 10 | 3 | 10 | 0 |
-| 股票与公司定价机制 | 2 | 1 | 2 | 0 |
-| 资金流与市场微观结构 | 7 | 0 | 7 | 0 |
-| 衍生品与波动机制 | 6 | 1 | 6 | 0 |
-| 黄金与跨资产机制 | 3 | 2 | 3 | 0 |
-| 能源与商品机制 | 3 | 1 | 2 | 1 |
-| 中国信用、地产与财政传导 | 7 | 2 | 7 | 0 |
-| 中国资产与政策机制 | 1 | 0 | 1 | 0 |
-| 科技与AI产业机制 | 2 | 0 | 1 | 1 |
-| 政治、制度与长期变化 | 2 | 0 | 0 | 2 |
-| 数字资产传导 | 2 | 0 | 0 | 2 |
+| 主题组 | 条目 | P0 |
+|---|---:|---:|
+| 测量、恒等式与预期 | 1 | 1 |
+| 货币政策与利率传导 | 9 | 5 |
+| 增长、就业与通胀机制 | 2 | 0 |
+| 财政与债务机制 | 6 | 2 |
+| 信用与金融稳定机制 | 10 | 3 |
+| 跨境、美元与汇率机制 | 11 | 3 |
+| 股票与公司定价机制 | 2 | 1 |
+| 资金流与市场微观结构 | 7 | 0 |
+| 衍生品与波动机制 | 6 | 1 |
+| 黄金与跨资产机制 | 3 | 2 |
+| 能源与商品机制 | 4 | 1 |
+| 中国信用、地产与财政传导 | 7 | 2 |
+| 中国资产与政策机制 | 1 | 0 |
+| 科技与AI产业机制 | 2 | 0 |
+| 政治、制度与长期变化 | 2 | 0 |
+| 数字资产传导 | 2 | 0 |
 
 ## 测量、恒等式与预期
 
@@ -56,6 +48,7 @@
 | ID | 关系名称 | 关联对象 | 正文术语／相关关系 | 范围 | 优先级 | 正文状态 |
 |---|---|---|---|---|---|---|
 | <a id="R-GROWTH-04"></a>R-GROWTH-04 | 工资—价格反馈 | [通货膨胀 C-INF-INFLATION](../10_concepts/通货膨胀.md)；[央行可信度 C-POL-CREDIBILITY](../10_concepts/央行可信度.md) | [工资增长（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-INFLATION-10)；[单位劳动成本（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-INFLATION-13)；[服务、商品与住房通胀（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-INFLATION-07)；[通胀预期（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-INF-EXPECT)；[预期锚定（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EXPECT-11) | 议价制度与预期锚定 | P1 | complete／[正文](../20_mechanisms/工资—价格反馈.md) |
+| <a id="R-GROWTH-HYSTERESIS"></a>R-GROWTH-HYSTERESIS | 衰退后的就业疤痕 | [政策利率与目标区间 C-IR-POLICY](../10_concepts/政策利率与目标区间.md) | [工资—价格反馈 R-GROWTH-04](../20_mechanisms/工资—价格反馈.md) | 长期失业、技能与劳动参与的持续损伤 | P1 | complete／[正文](../20_mechanisms/衰退后的就业疤痕.md) |
 
 ## 财政与债务机制
 
@@ -81,6 +74,7 @@
 | <a id="R-BANKING-09"></a>R-BANKING-09 | 证券化中的风险转移与激励 | [证券化与资产支持证券 C-CREDIT-13](../10_concepts/证券化与资产支持证券.md)；[银行资本与杠杆率 C-CREDIT-02](../10_concepts/银行资本与杠杆率.md)；[影子银行与非银金融 C-CREDIT-12](../10_concepts/影子银行与非银金融.md) | [商业银行资产负债表（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CREDIT-01)；[违约概率与回收率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CREDIT-07) | 分层、信息和监管 | P1 | complete／[正文](../20_mechanisms/证券化中的风险转移与激励.md) |
 | <a id="R-BANKING-10"></a>R-BANKING-10 | 最后贷款人的危机干预 | [常备工具与最后贷款人 C-MONEY-11](../10_concepts/常备工具与最后贷款人.md)；[抵押品与折扣率haircut C-CREDIT-10](../10_concepts/抵押品与折扣率haircut.md)；[挤兑与存款迁移 C-CREDIT-15](../10_concepts/挤兑与存款迁移.md)；[融资流动性 C-LIQ-FUND](../10_concepts/融资流动性.md) | [商业银行资产负债表（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CREDIT-01) | 抵押、可得性和道德风险 | P1 | complete／[正文](../20_mechanisms/最后贷款人的危机干预.md) |
 | <a id="R-BANKING-12"></a>R-BANKING-12 | 金融周期中的系统性风险积累与扩散 | [金融周期 C-CREDIT-16](../10_concepts/金融周期.md)；[抵押品与折扣率haircut C-CREDIT-10](../10_concepts/抵押品与折扣率haircut.md)；[融资流动性 C-LIQ-FUND](../10_concepts/融资流动性.md)；[市场流动性 C-LIQ-MARKET](../10_concepts/市场流动性.md)；[银行资本与杠杆率 C-CREDIT-02](../10_concepts/银行资本与杠杆率.md) | — | 信用扩张、杠杆和资产价格反馈；抵押、融资及银行约束如何促成风险积累与扩散。 | P1 | complete／[正文](../20_mechanisms/金融周期中的系统性风险积累与扩散.md) |
+| <a id="R-CREDIT-RATIONING"></a>R-CREDIT-RATIONING | 信贷配给 | [商业银行业 C-SECTOR-01](../10_concepts/商业银行业.md)；[抵押品与折扣率haircut C-CREDIT-10](../10_concepts/抵押品与折扣率haircut.md) | [银行信贷的资本约束 R-BANKING-01](../20_mechanisms/银行信贷的资本约束.md)；[金融加速器 R-CREDIT-COLLATERAL](../20_mechanisms/金融加速器.md) | 信息不对称下的价格与授信数量门槛 | P1 | complete／[正文](../20_mechanisms/信贷配给.md) |
 
 ## 跨境、美元与汇率机制
 
@@ -96,6 +90,7 @@
 | <a id="R-INTERNATIONAL-13"></a>R-INTERNATIONAL-13 | 美元信用与储备多元化 | [美元 C-FX-USD](../10_concepts/美元.md)；[外汇储备 C-FX-14](../10_concepts/外汇储备.md)；[美国国债 C-ASSET-UST](../10_concepts/美国国债.md)；[黄金 C-ASSET-GOLD](../10_concepts/黄金.md)；[国际支付与清算体系 C-GLOBAL-13](../10_concepts/国际支付与清算体系.md) | — | 美元信用、资产权利与储备配置变化；替代资产的流动性、收益和托管约束。 | P1 | complete／[正文](../20_mechanisms/美元信用与储备多元化.md) |
 | <a id="R-INTERNATIONAL-14"></a>R-INTERNATIONAL-14 | 港元联系汇率与HIBOR传导 | [港元联系汇率 C-FX-05](../10_concepts/港元联系汇率.md)；[资本流动与资本管制 C-FX-13](../10_concepts/资本流动与资本管制.md)；[银行准备金 C-MONEY-RESERVES](../10_concepts/银行准备金.md)；[政策利率与目标区间 C-IR-POLICY](../10_concepts/政策利率与目标区间.md)；[融资流动性 C-LIQ-FUND](../10_concepts/融资流动性.md) | — | 资金流和货币发行局 | P1 | complete／[正文](../20_mechanisms/港元联系汇率与HIBOR传导.md) |
 | <a id="R-RMB-INTERNATIONALIZATION"></a>R-RMB-INTERNATIONALIZATION | 人民币国际化 | [人民币与离岸人民币 C-FX-02](../10_concepts/人民币与离岸人民币.md)；[资本流动与资本管制 C-FX-13](../10_concepts/资本流动与资本管制.md)；[外汇储备 C-FX-14](../10_concepts/外汇储备.md)；[国际支付与清算体系 C-GLOBAL-13](../10_concepts/国际支付与清算体系.md)；[中国国债与政策性金融债 C-BOND-03](../10_concepts/中国国债与政策性金融债.md) | — | 人民币跨境结算、融资和储备使用的联系，以及支付渠道、资本流动制度与资产供给约束。 | P1 | complete／[正文](../20_mechanisms/人民币国际化.md) |
+| <a id="R-FX-TRADE-ADJUSTMENT"></a>R-FX-TRADE-ADJUSTMENT | 汇率贬值后的贸易收支调整 | [美元 C-FX-USD](../10_concepts/美元.md) | [美元主导地位的形成与维持 R-INTERNATIONAL-12](../20_mechanisms/美元主导地位的形成与维持.md) | 合同计价、价格传递与贸易数量调整时序 | P1 | complete／[正文](../20_mechanisms/汇率贬值后的贸易收支调整.md) |
 
 ## 股票与公司定价机制
 
@@ -141,7 +136,8 @@
 |---|---|---|---|---|---|---|
 | <a id="R-OIL-SHOCK"></a>R-OIL-SHOCK | 原油供给冲击的宏观传导 | [原油与Brent/WTI C-COMMOD-03](../10_concepts/原油与Brent／WTI.md)；[OPEC与闲置产能 C-COMMOD-13](../10_concepts/OPEC与闲置产能.md)；[通货膨胀 C-INF-INFLATION](../10_concepts/通货膨胀.md) | [商品库存与库存消费比（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-10)；[家庭消费（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-06) | 库存和需求弹性 | P0 | complete／[正文](../20_mechanisms/原油供给冲击的宏观传导.md) |
 | <a id="R-COMMODITY-03"></a>R-COMMODITY-03 | 库存与便利收益、期货曲线 | [原油与Brent/WTI C-COMMOD-03](../10_concepts/原油与Brent／WTI.md)；[天然气与LNG C-COMMOD-04](../10_concepts/天然气与LNG.md)；[铜与工业金属 C-COMMOD-06](../10_concepts/铜与工业金属.md)；[农产品 C-COMMOD-09](../10_concepts/农产品.md) | [商品库存与库存消费比（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-10)；[便利收益与储存成本（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-11)；[升水、贴水与期货曲线（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-12)；[期货与远期（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-DERIV-01) | 交割地和可用库存 | P1 | complete／[正文](../20_mechanisms/库存与便利收益、期货曲线.md) |
-| <a id="R-COMMODITY-08"></a>R-COMMODITY-08 | 矿业投资与供给的周期反馈 | [铜与工业金属 C-COMMOD-06](../10_concepts/铜与工业金属.md) | [矿业资本开支与供给弹性（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-15)；[企业投资与资本开支（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-08)；[商品库存与库存消费比（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-10)；[盈利、收入与利润率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQ-EARNINGS) | 建设时滞、品位和需求 | P1 | pending／待完成主审 |
+| <a id="R-COMMODITY-08"></a>R-COMMODITY-08 | 矿业投资与供给的周期反馈 | [铜与工业金属 C-COMMOD-06](../10_concepts/铜与工业金属.md) | [矿业资本开支与供给弹性（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-15)；[企业投资与资本开支（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-08)；[商品库存与库存消费比（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-COMMOD-10)；[盈利、收入与利润率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQ-EARNINGS) | 建设时滞、品位和需求 | P1 | [complete／正文](../20_mechanisms/矿业投资与供给的周期反馈.md) |
+| <a id="R-RESOURCE-FX-COMPETITION"></a>R-RESOURCE-FX-COMPETITION | 资源繁荣与非资源出口竞争力 | [原油与Brent/WTI C-COMMOD-03](../10_concepts/原油与Brent／WTI.md)；[美元 C-FX-USD](../10_concepts/美元.md) | [原油供给冲击的宏观传导 R-OIL-SHOCK](../20_mechanisms/原油供给冲击的宏观传导.md) | 资源收入预期经汇率影响非资源出口竞争力 | P1 | complete／[正文](../20_mechanisms/资源繁荣与非资源出口竞争力.md) |
 
 ## 中国信用、地产与财政传导
 
@@ -166,18 +162,18 @@
 | ID | 关系名称 | 关联对象 | 正文术语／相关关系 | 范围 | 优先级 | 正文状态 |
 |---|---|---|---|---|---|---|
 | <a id="R-TECH-03"></a>R-TECH-03 | 模型效率、推理成本与总算力需求 | [人工智能算力 C-TECH-01](../10_concepts/人工智能算力.md)；[云服务与超大规模云厂商 C-TECH-03](../10_concepts/云服务与超大规模云厂商.md)；[GPU与AI加速器 C-TECH-02](../10_concepts/GPU与AI加速器.md) | [AI模型能力与推理成本（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-TECH-12)；[AI应用收入与商业化（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-TECH-13) | 单位成本下降和需求弹性 | P1 | complete／[正文](../20_mechanisms/模型效率、推理成本与总算力需求.md) |
-| <a id="R-TECH-12"></a>R-TECH-12 | 平台网络效应 | [云服务与超大规模云厂商 C-TECH-03](CONCEPT_IMPORT_LIST.md#C-TECH-03) | [平台竞争与网络效应（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-TECH-16)；[AI应用收入与商业化（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-TECH-13)；[盈利、收入与利润率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQ-EARNINGS)；[估值倍数PE/PB/EV-EBITDA（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQUITY-06) | 切换成本、开放生态与监管 | P1 | pending／待完成主审 |
+| <a id="R-TECH-12"></a>R-TECH-12 | 平台网络效应 | [云服务与超大规模云厂商 C-TECH-03](CONCEPT_IMPORT_LIST.md#C-TECH-03) | [平台竞争与网络效应（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-TECH-16)；[AI应用收入与商业化（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-TECH-13)；[盈利、收入与利润率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQ-EARNINGS)；[估值倍数PE/PB/EV-EBITDA（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQUITY-06) | 切换成本、开放生态与监管 | P1 | [complete／正文](../20_mechanisms/平台网络效应.md) |
 
 ## 政治、制度与长期变化
 
 | ID | 关系名称 | 关联对象 | 正文术语／相关关系 | 范围 | 优先级 | 正文状态 |
 |---|---|---|---|---|---|---|
-| <a id="R-GEOPOLITICS-02"></a>R-GEOPOLITICS-02 | 关税的跨境成本分担 | [通货膨胀 C-INF-INFLATION](../10_concepts/通货膨胀.md)；[美元 C-FX-USD](../10_concepts/美元.md)；[人民币与离岸人民币 C-FX-02](../10_concepts/人民币与离岸人民币.md) | [关税、配额与贸易壁垒（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-GLOBAL-08)；[生产者价格指数PPI（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-INFLATION-05)；[盈利、收入与利润率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQ-EARNINGS)；[名义汇率与实际汇率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FX-06)；[贸易余额与净出口（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-15) | 成本分担、替代和报复 | P1 | pending／待完成主审 |
-| <a id="R-GEOPOLITICS-07"></a>R-GEOPOLITICS-07 | 养老金资产配置的人口结构约束 | [养老金与退休负债 C-SECTOR-13](CONCEPT_IMPORT_LIST.md#C-SECTOR-13) | [人口与劳动供给（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-14)；[久期、修正久期与DV01（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-BOND-DURATION)；[基金流量与资产配置（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FLOW-07)；[储蓄率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-07) | 缴费、支付和负债期限 | P1 | pending／待完成主审 |
+| <a id="R-GEOPOLITICS-02"></a>R-GEOPOLITICS-02 | 关税的跨境成本分担 | [通货膨胀 C-INF-INFLATION](../10_concepts/通货膨胀.md)；[美元 C-FX-USD](../10_concepts/美元.md)；[人民币与离岸人民币 C-FX-02](../10_concepts/人民币与离岸人民币.md) | [关税、配额与贸易壁垒（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-GLOBAL-08)；[生产者价格指数PPI（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-INFLATION-05)；[盈利、收入与利润率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-EQ-EARNINGS)；[名义汇率与实际汇率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FX-06)；[贸易余额与净出口（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-15) | 成本分担、替代和报复 | P1 | [complete／正文](../20_mechanisms/关税的跨境成本分担.md) |
+| <a id="R-GEOPOLITICS-07"></a>R-GEOPOLITICS-07 | 养老金资产配置的人口结构约束 | [养老金与退休负债 C-SECTOR-13](CONCEPT_IMPORT_LIST.md#C-SECTOR-13) | [人口与劳动供给（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-14)；[久期、修正久期与DV01（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-BOND-DURATION)；[基金流量与资产配置（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FLOW-07)；[储蓄率（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MACRO-07) | 缴费、支付和负债期限 | P1 | [complete／正文](../20_mechanisms/养老金资产配置的人口结构约束.md) |
 
 ## 数字资产传导
 
 | ID | 关系名称 | 关联对象 | 正文术语／相关关系 | 范围 | 优先级 | 正文状态 |
 |---|---|---|---|---|---|---|
-| <a id="R-CRYPTO-02"></a>R-CRYPTO-02 | 稳定币发行赎回对短券需求的影响 | [稳定币 C-CRYPTO-03](CONCEPT_IMPORT_LIST.md#C-CRYPTO-03)；[美国国债 C-ASSET-UST](../10_concepts/美国国债.md)；[货币市场基金 C-MONEY-19](../10_concepts/货币市场基金.md) | [广义货币与存款（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MONEY-03)；[国债总发行与净发行（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FISCAL-07) | 储备结构和资金来源 | P1 | pending／待完成主审 |
-| <a id="R-CRYPTO-04"></a>R-CRYPTO-04 | 永续合约的强平瀑布 | [加密资产杠杆与永续合约 C-CRYPTO-05](CONCEPT_IMPORT_LIST.md#C-CRYPTO-05)；[保证金与追加保证金 C-DERIV-14](../10_concepts/保证金与追加保证金.md)；[市场流动性 C-LIQ-MARKET](../10_concepts/市场流动性.md)；[比特币 C-CRYPTO-01](CONCEPT_IMPORT_LIST.md#C-CRYPTO-01) | [杠杆与去杠杆（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CREDIT-LEVERAGE) | 资金费率、保证金和深度 | P1 | pending／待完成主审 |
+| <a id="R-CRYPTO-02"></a>R-CRYPTO-02 | 稳定币发行赎回对短券需求的影响 | [稳定币 C-CRYPTO-03](CONCEPT_IMPORT_LIST.md#C-CRYPTO-03)；[美国国债 C-ASSET-UST](../10_concepts/美国国债.md)；[货币市场基金 C-MONEY-19](../10_concepts/货币市场基金.md) | [广义货币与存款（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-MONEY-03)；[国债总发行与净发行（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-FISCAL-07) | 储备结构和资金来源 | P1 | [complete／正文](../20_mechanisms/稳定币发行赎回对短券需求的影响.md) |
+| <a id="R-CRYPTO-04"></a>R-CRYPTO-04 | 永续合约的强平瀑布 | [加密资产杠杆与永续合约 C-CRYPTO-05](CONCEPT_IMPORT_LIST.md#C-CRYPTO-05)；[保证金与追加保证金 C-DERIV-14](../10_concepts/保证金与追加保证金.md)；[市场流动性 C-LIQ-MARKET](../10_concepts/市场流动性.md)；[比特币 C-CRYPTO-01](CONCEPT_IMPORT_LIST.md#C-CRYPTO-01) | [杠杆与去杠杆（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CREDIT-LEVERAGE) | 资金费率、保证金和深度 | P1 | [complete／正文](../20_mechanisms/永续合约的强平瀑布.md) |

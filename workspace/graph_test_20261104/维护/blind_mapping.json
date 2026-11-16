@@ -1,0 +1,42 @@
+{
+  "Q01": {
+    "A": "agent1",
+    "B": "agent0"
+  },
+  "Q02": {
+    "A": "agent0",
+    "B": "agent1"
+  },
+  "Q03": {
+    "A": "agent0",
+    "B": "agent1"
+  },
+  "Q04": {
+    "A": "agent1",
+    "B": "agent0"
+  },
+  "Q05": {
+    "A": "agent0",
+    "B": "agent1"
+  },
+  "Q06": {
+    "A": "agent0",
+    "B": "agent1"
+  },
+  "Q07": {
+    "A": "agent0",
+    "B": "agent1"
+  },
+  "Q08": {
+    "A": "agent0",
+    "B": "agent1"
+  },
+  "Q09": {
+    "A": "agent0",
+    "B": "agent1"
+  },
+  "Q10": {
+    "A": "agent0",
+    "B": "agent1"
+  }
+}

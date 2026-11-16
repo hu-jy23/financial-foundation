@@ -1,0 +1,73 @@
+{
+  "article_id": 3763460,
+  "selection": {
+    "article_id": 3763460,
+    "url": "https://wallstreetcn.com/articles/3763460",
+    "title": "美国要问全球主权基金“收税”",
+    "page_display_time": "2026-01-16T16:40:12+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "汇率与国际资本",
+    "reading_priority": "B",
+    "reading_value": "讨论主权基金税收豁免、直接贷款和控制权认定对私募投资结构的影响；按提案时点阅读。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2295,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 54
+  },
+  "url": "https://wallstreetcn.com/articles/3763460",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3763460?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:25+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "美国要问全球主权基金“收税”",
+  "page_display_time": "2026-01-16T16:40:12+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "美国国税局拟修改税法第892条款，大幅扩展“商业活动”定义，直接冲击全球主权财富基金及公共养老基金。一旦新规落地，主权基金的直接贷款、私募联合投资等行为将失去税收豁免，甚至面临追溯征税风险。这可能迫使数千亿美元资金放弃直接投资模式，转向被动策略或撤离美国市场。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2368,
+  "body_sha256": "75c8230e76b52a80c387f76c231232b7236796860b397d68c6981e170c25782c",
+  "raw_sha256": "df0128a838300c4b7e77f9c97f271d255d713f43e3eea1890d39b902488d9522",
+  "raw_bytes": 11236,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/b4ede5fa-a615-4c31-a1cb-bf3eaf2729f5.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2295,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:33+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "df0128a838300c4b7e77f9c97f271d255d713f43e3eea1890d39b902488d9522",
+      "bytes": 11236
+    },
+    "article.html": {
+      "sha256": "bd366cd627be3fbce99a6dd89778a47420f87f841f20f693c0da9f120e823902",
+      "bytes": 10933
+    },
+    "article.md": {
+      "sha256": "a475510b9b4746eb2249bedfc96ac6af5a798cdfbac93169826079a10f05b4f5",
+      "bytes": 7495
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:16+08:00"
+}

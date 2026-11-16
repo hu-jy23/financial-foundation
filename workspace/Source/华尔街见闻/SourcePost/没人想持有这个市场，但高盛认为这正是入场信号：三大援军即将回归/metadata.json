@@ -1,0 +1,73 @@
+{
+  "article_id": 3783671,
+  "selection": {
+    "article_id": 3783671,
+    "url": "https://wallstreetcn.com/articles/3783671",
+    "title": "没人想持有这个市场，但高盛认为这正是入场信号：三大援军即将回归",
+    "page_display_time": "2026-10-15T10:30:58+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "龙玥",
+    "page_author_url": "https://wallstreetcn.com/authors/120000002320",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "跨资产与市场结构",
+    "reading_priority": "A",
+    "reading_value": "把回购窗口、基金财年、外资与CTA分开讨论，给出日历相关的资金流机制。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2532,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 126
+  },
+  "url": "https://wallstreetcn.com/articles/3783671",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783671?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:46+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "没人想持有这个市场，但高盛认为这正是入场信号：三大援军即将回归",
+  "page_display_time": "2026-10-15T10:30:58+08:00",
+  "page_byline": "龙玥",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "市场情绪跌至“对等关税日”4月的低点，但高盛资金流向团队认为美股技术面正在悄然转变。企业回购窗口将于10月底至11月大规模重开，共同基金年末抛压在万圣节后消退，散户和外国投资者的历史性季节性买盘随即接棒——回购、散户、外资三股力量几乎将同时回归。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2591,
+  "body_sha256": "98c9d1b754e73a59b4681ee80affce3384964e6e3e2599464f3827e9f8edbbb3",
+  "raw_sha256": "1bdc13d8fdec187edbfc9aa905cd31cf0a4b1cba535fcd5b0d007d34235aae15",
+  "raw_bytes": 12294,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/de73d2da-4e51-498d-bb5f-6592fcee567e.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2532,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:40+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "1bdc13d8fdec187edbfc9aa905cd31cf0a4b1cba535fcd5b0d007d34235aae15",
+      "bytes": 12294
+    },
+    "article.html": {
+      "sha256": "864b91339a3f7a01ab6a542456e8d92523212b2d46fef7665d01cf9273f6fbd2",
+      "bytes": 12028
+    },
+    "article.md": {
+      "sha256": "23379db7018ca474dd2644e9441455ff6906eba2a0f5a1e1bcfbfb66eb00e23c",
+      "bytes": 7864
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:30+08:00"
+}

@@ -1,0 +1,89 @@
+{
+  "article_id": 3784885,
+  "selection": {
+    "article_id": 3784885,
+    "url": "https://wallstreetcn.com/articles/3784885",
+    "title": "英特尔：PC先塌，代工仍“稍后再说”",
+    "page_display_time": "2026-10-30T23:23:29+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": "研外之意",
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "A",
+    "reading_value": "拆分PC、数据中心和外部代工的利润与现金流，解释当季业绩和远期估值的错位。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2784,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 204
+  },
+  "url": "https://wallstreetcn.com/articles/3784885",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784885?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:08+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/aa093d04-d4f6-4d88-9678-2194aa1c3c3b.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "英特尔曾经靠PC吃饭，制程一步步落后之后，前任首席执行官基辛格（Pat Gelsinger）押上 IDM 2.0：自家晶圆厂不只给自己做，还要能接外部单，砸钱建厂、追先进制程。",
+      "path": "assets/figure_001.png",
+      "sha256": "659941aeba11542388780e55a6d61893ec990487b6e0382df4c463a115ca64ee",
+      "bytes": 44463,
+      "width": 873,
+      "height": 651,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/aa093d04-d4f6-4d88-9678-2194aa1c3c3b.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "英特尔：PC先塌，代工仍“稍后再说”",
+  "page_display_time": "2026-10-30T23:23:29+08:00",
+  "page_byline": "许超",
+  "source_label": "研外之意",
+  "source_url": "",
+  "subtitle": "服务器订单还在排队，AI需求没有崩，变的是定价：PC被内存成本按住，毛利率指引下移，外部代工仍写不进模型，明年自由现金流又大概率转负。市场不愿再给尚未兑现的代工时间表和 PC 复苏斜率买单。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2850,
+  "body_sha256": "f2aa47fb5d9c94efa5aa905f8a59af25380456a6ae6bec4067c529b4bbf22e10",
+  "raw_sha256": "61f89588249b62b66b4b11804db4181ababe94a15b8d019f96e0628941f41c4f",
+  "raw_bytes": 11820,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/59c1502d-9882-4b52-ae34-844068bfe5e4.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 2784,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:47+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "61f89588249b62b66b4b11804db4181ababe94a15b8d019f96e0628941f41c4f",
+      "bytes": 11820
+    },
+    "article.html": {
+      "sha256": "d657967f4da45bf8932211379cff43eac5931ca838cada8ff981b9e5f2dba30c",
+      "bytes": 11757
+    },
+    "article.md": {
+      "sha256": "c050d8d84a6aaf45351f3794a77d6f83ad113e7a93aac527594f884946028c24",
+      "bytes": 8445
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:49+08:00"
+}

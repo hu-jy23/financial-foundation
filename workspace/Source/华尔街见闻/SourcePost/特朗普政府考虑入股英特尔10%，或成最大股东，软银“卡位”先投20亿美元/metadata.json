@@ -1,0 +1,89 @@
+{
+  "article_id": 3753574,
+  "selection": {
+    "article_id": 3753574,
+    "url": "https://wallstreetcn.com/articles/3753574",
+    "title": "特朗普政府考虑入股英特尔10%，或成最大股东，软银“卡位”先投20亿美元",
+    "page_display_time": "2025-08-19T07:56:00+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "和钊宇",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004705",
+    "page_source_label": "赵雨荷",
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "B",
+    "reading_value": "解释补贴转股权的融资结构，区分新增资金与原有补贴加速拨付。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1719,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 168
+  },
+  "url": "https://wallstreetcn.com/articles/3753574",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3753574?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:56+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/e2ec0850-3111-4ab3-afc5-451cdba558ef.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "媒体分析称，这项政府援助的一个关键问题在于是否能帮助英特尔重振业务。英特尔当前销售增长停滞、持续亏损，并且难以恢复其在行业中的技术领先地位。新任首席执行官陈立武正试图扭转局势，但他目前的主要措施集中在削减成本和裁员上。",
+      "path": "assets/figure_001.png",
+      "sha256": "79df6c18f9033cc39e2d42ee81287128eba2702e702980d711bc60ff28582ed3",
+      "bytes": 35914,
+      "width": 707,
+      "height": 500,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/e2ec0850-3111-4ab3-afc5-451cdba558ef.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "特朗普政府考虑入股英特尔10%，或成最大股东，软银“卡位”先投20亿美元",
+  "page_display_time": "2025-08-19T07:56:00+08:00",
+  "page_byline": "和钊宇",
+  "source_label": "赵雨荷",
+  "source_url": "",
+  "subtitle": "据报道，特朗普政府正在讨论通过将《美国芯片与科学法案》的部分或全部拨款转换为股权，以持有英特尔约10%的股份。按英特尔当前市值计算，约10%的股份价值约为105亿美元，并未超过原计划补贴额。与此同时，软银已率先行动，同意以每股23美元的价格向英特尔投资20亿美元。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1798,
+  "body_sha256": "e15012fcbb7da2e3f9ca7f1b0eb6b941478ff4bbcfb0a66f03b07b01df53e37a",
+  "raw_sha256": "9e22921833ced008481116414c607bd50c578066a6f2c3c20a2e05402320974d",
+  "raw_bytes": 9551,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/41b508e1-c370-45ef-aebf-e44e1a18ea98.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1719,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:45+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "9e22921833ced008481116414c607bd50c578066a6f2c3c20a2e05402320974d",
+      "bytes": 9551
+    },
+    "article.html": {
+      "sha256": "c539c09041d3d082bfab694fb85996bafc9861d52d76e7eac5536c6b4974f4ac",
+      "bytes": 9110
+    },
+    "article.md": {
+      "sha256": "06f13159bcde4b1d08228e48be44bc35aa2781491ee855a66591ccf843f2ac4b",
+      "bytes": 6042
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:42+08:00"
+}

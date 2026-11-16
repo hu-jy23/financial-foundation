@@ -1,0 +1,73 @@
+{
+  "article_id": 3785053,
+  "selection": {
+    "article_id": 3785053,
+    "url": "https://wallstreetcn.com/articles/3785053",
+    "title": "高盛大幅上调油价预测：地缘风险溢价将持续主导原油走势",
+    "page_display_time": "2026-11-03T11:49:30+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "能源、商品与航运",
+    "reading_priority": "B",
+    "reading_value": "记录高盛油价模型中风险溢价与供应中断假设的更新，包含双向情景。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1351,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 101
+  },
+  "url": "https://wallstreetcn.com/articles/3785053",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3785053?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:34+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "高盛大幅上调油价预测：地缘风险溢价将持续主导原油走势",
+  "page_display_time": "2026-11-03T11:49:30+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "高盛石油研究主管Struyven大幅上调油价预测，伦特原油12月目标价从90美元跳升至105美元，核心逻辑并非供需失衡，而是中东地缘风险溢价长期高企。重大石油供应冲击往往持续数年，并对产能造成持久损伤，目前危机尤为集中体现在炼化及柴油供应环节。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1431,
+  "body_sha256": "c4b610ab38a812ca857da888b1f74cf2e9fa284f67c2835bfa86af6167e2c374",
+  "raw_sha256": "1996789870951e689e616dda7d870b361b64a2dbc35f00bcac6150d5ccf4ef0f",
+  "raw_bytes": 8004,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/7e08296c-05fe-4f25-9f9d-fe30522f51f9.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1351,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:37+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "1996789870951e689e616dda7d870b361b64a2dbc35f00bcac6150d5ccf4ef0f",
+      "bytes": 8004
+    },
+    "article.html": {
+      "sha256": "ebc5a9f577076218040ec2f5d1e5521e6ea5f686c0fa08973e2bda27805efc33",
+      "bytes": 7594
+    },
+    "article.md": {
+      "sha256": "26a9319498d011693a06dbab1ce01de5070801731b8435e3da2ddadb3fc7ac4f",
+      "bytes": 4774
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:25+08:00"
+}

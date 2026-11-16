@@ -1,0 +1,73 @@
+{
+  "article_id": 3783807,
+  "selection": {
+    "article_id": 3783807,
+    "url": "https://wallstreetcn.com/articles/3783807",
+    "title": "拟增资逾21亿元，北汽蓝谷何时跨过盈利关？",
+    "page_display_time": "2026-10-16T23:04:18+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "王小娟",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004768",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "A",
+    "reading_value": "用北汽蓝谷案例区分销量、毛利与现金周转，解释经营改善后为何仍可能需要增资。",
+    "starter_selection": true,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 3363,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 201
+  },
+  "url": "https://wallstreetcn.com/articles/3783807",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783807?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:08+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "拟增资逾21亿元，北汽蓝谷何时跨过盈利关？",
+  "page_display_time": "2026-10-16T23:04:18+08:00",
+  "page_byline": "王小娟",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "规模效应已初现。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 3423,
+  "body_sha256": "d1f4985047d7bb4a44651e05afd1e3d92eb37106f95695664ece08af73335d4f",
+  "raw_sha256": "d0bd0a64c55a3a8a11dae3ef17a933bac7194e2e424c821d53f0d692d0dcc3ba",
+  "raw_bytes": 13864,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/063b1784-a804-48ce-ba06-0564f7f592c3.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 3363,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:47+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "d0bd0a64c55a3a8a11dae3ef17a933bac7194e2e424c821d53f0d692d0dcc3ba",
+      "bytes": 13864
+    },
+    "article.html": {
+      "sha256": "29255bb7e876f10983e84cf576f69470eda49748b1eee7c87f79ec6de9d06224",
+      "bytes": 13422
+    },
+    "article.md": {
+      "sha256": "c287850bf47a41f5d7f75e296db00892ee24c378f03ea55674c1677ca79a4e35",
+      "bytes": 10393
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:49+08:00"
+}

@@ -1,0 +1,219 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage{report-style-en}
+
+\begin{document}
+\reporttitle
+
+\lead{Abstract}
+This study investigates how a continually revised body of financial knowledge can support event understanding by large language model investment agents: selecting relevant mechanisms, interpreting specific situations, and updating assessments. As of November 13, 2026, the project has constructed a Financial Knowledge Map with 240 concept and mechanism nodes, completed an initial integration round from two textbooks, organized institutional sources and 206 professional analysis articles, and completed content-production pilots on AI credit financing, Korean equities, and Treasury basis trades. Two exploratory comparisons found no score gain from using the current Map. The work has established a knowledge prototype, source-processing methods, and experimental records. Further work will integrate the pilot content, accumulate actor-specific and temporal knowledge, and develop more discriminating tests of its contribution.
+
+\section{Research Question and Approach}
+
+\lead{Objective.}
+The project studies the process between receiving event information and forming an analytical assessment: identifying new information, selecting relevant background, interpreting implications relative to prior expectations, and revising judgments as evidence changes. Knowledge construction provides the present research entry point. The aim is to establish retrievable, traceable, and revisable background and examine whether its continued accumulation improves event understanding.
+
+\lead{Central question.}
+The effects of an economic change depend on actors, contracts, financing conditions, and time horizons. General mechanisms suggest explanatory channels, while their application requires identifying contemporaneous constraints and information. The working hypothesis is that connecting general knowledge to specific actors, historical states, and earlier judgments can support context selection, comparison of explanations, and revision. Its effectiveness remains to be tested.
+
+\lead{Development route.}
+Four stages guide construction: a provisional prototype based on model prior, calibrated through examples; foundational revision using textbooks and systematic sources; accumulation of entities, relationships, and timelines through event analysis; and evaluation using instructor slides and other materials. New sources may change both the prototype's content and structure.
+
+\lead{Current position.}
+The prototype and the first integration round from two textbooks are complete. Work has progressed to event-content production and integration. Three article pilots have produced knowledge explanations and analyses, pending integration into formal entries. Two exploratory comparisons are also complete. Relative to the opening plan, this phase has emphasized practical knowledge construction and source processing; systematic literature comparison and refinement of the final research question remain ongoing.
+
+\newpage
+\section{Knowledge Design and Foundational Construction}
+
+\subsection{Organizing concepts, relationships, and time}
+
+\lead{Concepts and specific entities.}
+Concept pages explain an object's meaning, components, institutional arrangements, and measurement, while recording its evolution. For example, the central-clearing entry explains how a central counterparty intervenes, which exposures netting covers, and the responsibilities of margin and default management. A standalone entry requires a clear explanatory role and value for continued accumulation; ordinary terms can be explained in relevant prose.
+
+\lead{Mechanisms and specific relationships.}
+Mechanism pages explain how changes produce outcomes through actors' behavior and constraints: who is affected, how incentives, risks, or feasible choices change, how actors respond, and which conditions govern the result. Event analysis also reveals financing, trading, and position relationships among specific actors. These can first be explained in context, with their generality assessed through subsequent comparison.
+
+\lead{Temporal records and knowledge inheritance.}
+The Map consists of linked Markdown entries. General definitions and mechanisms have a primary maintenance location; specific objects can inherit that foundation and accumulate their own differences and histories. AI-related corporate CDS, for example, reuse CDS fundamentals while tracking financing roles, protection demand, and pricing differences. Temporal records distinguish information dates, observations, contemporaneous judgments, and later revisions. Expectations specify actors, objects, horizons, and conditions. This structure remains under pilot calibration.
+
+\subsection{Prototype and textbook integration}
+
+Repeated discussion of a few examples established explanatory depth, the division between objects and mechanisms, and selection principles. The prototype then expanded to 163 concepts and 71 mechanisms, totaling 234 nodes. An initial revision round used Carlin and Soskice's macroeconomics text and Cecchetti and Schoenholtz's monetary economics text~\cite{carlin,cecchetti}. Reading covered the introduction and Chapters 1--18 of the former and Chapters 1--23 of the acquired sixth ISE edition of the latter, organized into 36 units.
+
+The round proposed 72 candidates, retained 29, produced 24 full drafts, and integrated 23 pages after consolidation: six new entries and 17 updates. The formal Map currently contains 165 concepts and 75 mechanisms, totaling 240 nodes.
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{@{}L{0.20\textwidth}Y@{}}
+\toprule
+Output & Representative content \\
+\midrule
+New concepts (2) & Central counterparties and central clearing; employer wage-setting power. \\
+New mechanisms (4) & Employment scarring after recessions; credit rationing; trade-balance adjustment after depreciation; resource booms and non-resource export competitiveness. \\
+Updated pages (17) & Financial accelerator; wage--price feedback; bank capital constraints on lending; financial cycles; capital flows and controls, among others. \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+The financial-accelerator update distinguishes housing-equity withdrawal, credit conditions, and prospective buyers' down-payment saving, explaining why house-price changes affect households differently. The clearing entry explains reduced bilateral exposures and concentration at a common node. Adopted material retains edition and page references; further sources may revise explanations and their organization.
+
+\newpage
+\section{Event Sources and Content-Production Pilots}
+
+\subsection{Source collections and production method}
+
+\lead{Source foundation.}
+The official and institutional collection covers seven themes: US inflation, European inflation, Chinese demand and property, US fiscal financing, yen carry trades, gold demand, and trade expectations. It contains 71 readable items; eight additional items lack full text. The professional-analysis collection contains 206 public Wallstreetcn articles, with displayed dates from January 1, 2025 to November 4, 2026, and 770 figure occurrences. Offline reading, Markdown text, and full-text search are available. Acquisition, reading, and adoption are recorded separately.
+
+\lead{Turning sources into knowledge.}
+Textbooks are read as continuous chapters and complete arguments, followed by screening, drafting, review, and revision. Slides require tracing dependencies across lectures and reading captions, conditions, and counterexamples. Article production begins with complete text and figure reading, an inventory of important objects and relationships, comparison with the existing Map, and necessary foundational explanations. Analysis then examines the change being explained, actors' arrangements, and inferences. Placement follows the resulting knowledge: new entries, updates, or reuse. Sources may reshape the existing structure.
+
+\lead{Pilot organization.}
+Three article pilots are complete. One subagent per article inherited the project's principles and context, handled the task continuously, and submitted material for central review. Outputs cover 37 concept-inventory items and 18 relationship-inventory items, including reuse, proposed updates, and new explanations. These counts do not represent new nodes. Pilot review is complete; integration into the formal Map remains in progress.
+
+\subsection{Representative cases and methodological lessons}
+
+\lead{AI credit financing: instruments and specific exposures.}
+The AI CDS article~\cite{aicds} involves corporate CDS, CDX indexes, supplier financing, proxy hedging, and credit basis. The pilot first explains instruments and participants, then examines how customer repayment risk connects to suppliers' orders, claims, and guarantees. It compares credit fundamentals and protection demand as explanations of repricing. General CDS knowledge and AI firms' specific financing relationships have distinct maintenance roles, avoiding repeated instrument definitions across events.
+
+\lead{Korean equities: valuation and actual buying capacity.}
+The Korean-market article~\cite{korea} prompted explanations of KOSPI, SOX, leveraged ETFs, and position measures, alongside corporate repurchases, foreign investors, and domestic institutions. Analysis distinguishes valuation appeal, funding constraints, and actual orders; holdings, net flows, and daily rebalancing are explained separately. Index comparisons require attention to samples and industry exposures. Visual co-movement alone does not establish causality.
+
+\lead{Treasury basis trades: mechanisms and transaction arrangements.}
+Existing entries cover much of the Treasury article's foundation~\cite{basis}. Additions focus on asset managers, hedge funds, and dealers, together with financing, margin, and intermediary balance-sheet constraints. The pilot distinguishes the news date from the periods studied in cited research, examines the scope of figures and regressions, and records researchers' policy proposals separately from implemented policy.
+
+\newpage
+\section{Exploratory Comparisons and Results}
+
+\subsection{Design and main observations}
+
+Two small experiments examined the current Map's contribution to event analysis. Both conditions used fresh sessions with the same requested \texttt{gpt-6.1-sol / high} configuration. A used model prior and the shared question material; B could additionally retrieve from a frozen Map. Prompts were identical. Both conditions were instructed to avoid the web, original articles, and reference answers; read-only tools logged Map access. No operating-system-level access isolation was established.
+
+\lead{Round 1: general mechanism explanation.}
+Stratified random sampling selected ten articles, each yielding one contextual explanation question. Questions and reference criteria were locked before answering, and answers were scored anonymously. Both groups scored 100/100. Review found that the questions omitted actors, dates, and market baselines while supplying substantial mechanism cues, creating a clear ceiling effect.
+
+\lead{Round 2: specific events and expectation formation.}
+Ten different events retained actors, information dates, observations, and assessment horizons. The test contained four forward-looking questions, three retrospective explanation questions, and three multiple-choice questions, with a November 4, 2026 information cutoff. Reference criteria and choice keys were locked in advance; each final answer received two anonymous assessments. A scored 96.25 and B 95.75. Both answered all three choice items correctly. B scored higher on one question, tied on seven, and lower on two.
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{@{}YrrL{0.28\textwidth}@{}}
+\toprule
+Test & Prior only & Prior + Map & Main observation \\
+\midrule
+Round 1: 10 mechanism questions & 100.00 & 100.00 & Clear ceiling effect. \\
+Round 2: 10 event questions & 96.25 & 95.75 & No observed score gain. \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+In Round 2, B made 32 search or read calls and consulted 14 distinct files. All 17 citations were locatable and supported by access records. On CoreWeave, B developed contract protection and financing conditions but omitted the realized pricing baseline supplied in the question. On AI CDS, neither condition fully used cross-company differences to constrain explanations. Access records help diagnose such knowledge-application problems.
+
+\subsection{Interpretation and research implications}
+
+\lead{Scope of the findings.}
+Neither experiment showed a score gain from the current Map. Samples are small and scores near the ceiling; the 0.5-point difference in Round 2 does not establish a stable effect. Scoring assesses explanation and expectation formation given supplied information. Sixteen conditional forecasts are recorded, but outcomes remain unevaluated. The experiments therefore provide no measured market-direction accuracy or investment return.
+
+\lead{Components requiring separate tests.}
+Knowledge accumulation depends on whether relevant information exists, can be retrieved, and is correctly applied. The current Map emphasizes general concepts and mechanisms, while shared prompts supply much event-specific information. Further tests must examine whether actor-specific facts, temporal connections, and historical assessments provide useful information. An original-text retrieval comparison will help distinguish coverage, retrieval, application, and reading costs.
+
+\newpage
+\section{Open Problems and Further Work}
+
+\subsection{Main issues to address}
+
+\lead{Integration and continued maintenance.}
+The three pilots have produced explanatory drafts. Integration must determine primary maintenance locations, reconcile repeated definitions, connect inherited knowledge and events, and check coherence after adoption. The next phase will complete these cases before expanding related sources, calibrating the full route from article to formal entry. News reading will continue to contribute foundational concepts and relationships.
+
+\lead{A testable research question.}
+Further work asks whether a continually maintained Financial Knowledge Map helps models produce more accurate, complete, and grounded analysis when tasks require background retrieval across events, recovery of earlier judgments, and updating with new evidence. Literature comparison will focus on context selection, knowledge organization, and evidence updating. ReAct's information-acquisition process~\cite{react} and FinSearchComp's financial retrieval tasks~\cite{finsearch} provide references for method comparison; experiments still require case-specific design.
+
+\lead{Time boundaries and evaluation validity.}
+Restricting external sources in historical tasks cannot ensure that model prior excludes later outcomes. Historical explanation and prospective prediction will therefore use separate designs, specifying cutoffs, conditions, and observation horizons, with test sources withheld from construction. ForecastBench's submission of predictions before outcomes are known~\cite{forecastbench} offers a reference. Instructor-slide testing must distinguish material previously used in construction from held-out content.
+
+\subsection{Plan for approximately five further weeks}
+
+The schedule covers the remaining period of the opening report's ten-week plan. Expansion will depend on integration quality and experimental diagnosis.
+
+\begin{center}
+\small
+\begin{tabularx}{\textwidth}{@{}L{0.16\textwidth}Y L{0.28\textwidth}@{}}
+\toprule
+Period & Main work & Expected outputs \\
+\midrule
+Nov.\ 14--20 & Complete entry production and integration review for the three pilots; align placement and update rules. & Formal entries or updates; revised production and review guidance. \\
+Nov.\ 21--27 & Expand related events, tracking actor states, institutional disagreement, and revisions; extend literature comparison. & Traceable timeline cases; a research question and method comparison. \\
+Nov.\ 28--Dec.\ 4 & Freeze held-out material; compare model prior, original-text retrieval, and Map retrieval; design staged information updates. & Prespecified questions, scoring rules, access records, and comparisons. \\
+Dec.\ 5--18 & Analyze failures, knowledge additions, and retrieval costs; test on held-out instructor slides; complete the phase review. & Evaluation and limitations; literature review and a subsequent research plan. \\
+\bottomrule
+\end{tabularx}
+\end{center}
+
+Comparisons will seek to align source coverage, information cutoffs, model settings, and retrieval budgets, reporting question-level differences and failure causes. If expanded knowledge still brings no observable benefit, selection, organization, or research scope will be revised. The phase aims to establish inspectable cases and experimental evidence to support the final choice of research question and method.
+
+\newpage
+\begin{thebibliography}{9}
+\small
+\setlength{\itemsep}{7pt}
+\setlength{\parskip}{0pt}
+
+\bibitem{carlin}
+Wendy Carlin and David Soskice.
+\textit{Macroeconomics: Institutions, Instability, and Inequality}.
+Oxford University Press, 2024. ISBN 9780198838661.
+The project used the introduction and Chapters 1--18 of the acquired version, retaining adopted page references.
+
+\bibitem{cecchetti}
+Stephen G. Cecchetti and Kermit L. Schoenholtz.
+\textit{Money, Banking and Financial Markets}.
+6th edition, International Student Edition. McGraw-Hill Education, \copyright{}2021.
+ISBN 9781260571363. The project used Chapters 1--23.
+
+\bibitem{aicds}
+Yilong Bao.
+A Repeat of 2008! Understanding AI CDS, Wall Street's Hottest Trade.
+Wallstreetcn, displayed date October 31, 2026.
+\href{https://wallstreetcn.com/articles/3784900}{Original public article}.
+In Chinese; title translated.
+
+\bibitem{korea}
+Chen Yang.
+Korean Equities at Historically Cheap Valuations: Why Are Buyers Absent?
+Wallstreetcn, displayed date October 20, 2026.
+\href{https://wallstreetcn.com/articles/3784053}{Original public article}.
+In Chinese; title translated.
+
+\bibitem{basis}
+Yu Zhang.
+Understanding the Treasury Selloff and Basis Trades.
+Abridged republication by Wallstreetcn, displayed date April 9, 2025; page byline: Xiaoyin Li.
+Originally published as an overseas weekly report on Treasury fragility and hedge-fund basis trades.
+\href{https://wallstreetcn.com/articles/3744871}{Public article}.
+In Chinese; titles translated.
+
+\bibitem{react}
+Shunyu Yao, Jeffrey Zhao, Dian Yu, et al.
+ReAct: Synergizing Reasoning and Acting in Language Models.
+\textit{International Conference on Learning Representations}, 2023.
+\href{https://arxiv.org/abs/2210.03629v3}{arXiv:2210.03629v3}.
+
+\bibitem{finsearch}
+Liang Hu, Jianpeng Jiao, Jiashuo Liu, et al.
+FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial Search and Reasoning.
+2025. \href{https://arxiv.org/abs/2509.13160v1}{arXiv:2509.13160v1}.
+
+\bibitem{forecastbench}
+Ezra Karger, Houtan Bastani, Chen Yueh-Han, et al.
+ForecastBench: A Dynamic Benchmark of AI Forecasting Capabilities.
+\textit{International Conference on Learning Representations}, 2025.
+\href{https://arxiv.org/abs/2409.19839v5}{arXiv:2409.19839v5}.
+
+\end{thebibliography}
+
+
+\vspace{8pt}
+{\small
+\lead{Report basis.}
+Progress statistics are current to November 13, 2026. Formal Map nodes and article-pilot inventory items are counted separately. Adopted textbook locations, sources and figures, pilot outputs, test questions, answers, access records, and scores are retained for inspection. News dates follow page displays and institutional views retain their attribution. Publication and version details follow the verification record of November 12, 2026.
+}
+
+\end{document}

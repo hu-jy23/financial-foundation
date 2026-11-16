@@ -1,0 +1,1637 @@
+
+
+===== PDF 193 | 印刷页 158 =====
+
+ 7
+Chapter
+
+          The Risk and Term Structure
+          of Interest Rates
+
+              Learning Objectives
+              After reading this chapter, you should be able to:
+               LO1       Explain the links between credit risk, bond ratings, and bond yields.
+
+               LO2       Distinguish taxable and tax-free bonds.
+
+               LO3       Define the yield curve and interpret it using the expectations hypothesis and
+                         liquidity premium theory.
+
+               LO4       Discuss how yields anticipate future economic activity.
+
+
+          On October 5, 1998, William McDonough, president of the Federal Reserve Bank of
+          New York, declared “I believe that we are in the most serious financial crisis since World
+          War II.”1 Since August 17, when the Russian government had defaulted on some of its
+          bonds, deteriorating investor confidence had increased volatility in the financial markets.
+          Bond markets were the hardest hit; as lenders re-evaluated the relative risk of holding
+          different bonds, some prices plummeted while others soared. This simultaneous increase
+          in some interest rates and decline in others—a rise in what are called interest rate
+          spreads—was a clear sign to McDonough that the substantial stress the financial mar-
+          kets were experiencing could easily spread to the wider economy, affecting everyone.
+             Changes in bond prices, and the associated changes in interest rates, can have a
+          pronounced effect on borrowing costs corporations face. The experience of Ford and
+          General Motors (GM), the American automobile manufacturers, provides an instructive
+          example. Like virtually every large company, the two carmakers borrow to maintain and
+          expand their businesses. And the amounts are very large. By 2005, Ford’s borrowing
+          exceeded $150 billion while GM’s was nearly twice that. The two companies produce
+          almost one-third of the cars and trucks Americans buy. And they buy quite a few—just
+          over 17¼ million in 2018. But for years before the financial crisis that began in 2007, the
+          fortunes of U.S. automakers were declining. Plummeting sales in the recession of 2007–
+          2009 triggered massive losses that eventually led to the bankruptcy of GM. Even before
+          GM’s failure, the perceived riskiness of Ford and GM’s bonds led to a decline in the price
+          investors were willing to pay for them. A fall in bond prices means an increase in interest
+          rates and a corresponding rise in the cost the auto companies have to pay to borrow.
+          1
+           McDonough’s job was to monitor financial market developments for the Federal Reserve System, to devise
+          government reaction to such financial crises, and to formulate policies that prevented crises. As we will see in
+          our discussion of the structure of the Federal Reserve System in Chapter 16, the Federal Reserve Bank of
+          New York is the largest of the 12 district banks in the Federal Reserve System. The president of that bank plays
+          a special role as the eyes and ears of the government in world financial markets.
+                                                                158
+
+
+===== PDF 194 | 印刷页 159 =====
+
+                                                                            Ratings and the Risk Structure of Interest Rates l              159
+
+
+
+   These examples highlight the need to understand the differences among the many
+types of bonds that are sold and traded in financial markets. What was it about the
+movement in the prices of different bonds that McDonough found so informative?
+How did information about profitability affect investors’ willingness to lend to GM and
+Ford? To answer these questions, we will study the differences among the multitude of
+bonds issued by governments and private corporations. As we will see, these bonds
+differ in two crucial respects: the identity of the issuer and the time to maturity. The
+purpose of this chapter is to examine how each of these affects the price of a bond, and
+then to use our knowledge to interpret fluctuations in a broad variety of bond prices.
+
+
+Ratings and the Risk Structure
+of Interest Rates
+Default is one of the most important risks a bondholder faces. Not surprisingly, the
+risk that an issuer will fail to make a bond’s promised payments varies substantially
+from one borrower to another. The risk of default is so important to potential investors
+that independent companies have come into existence to evaluate the creditworthiness
+of potential borrowers. These firms, sometimes called rating agencies, estimate the
+likelihood that a corporate or government borrower will make a bond’s promised pay-
+ments. The first such ratings began in the United States more than 100 years ago. Since
+1975, the U.S. government has acknowledged a few firms as “nationally recognized
+statistical rating organizations” (NRSROs), a designation that has encouraged inves-
+tors and governments worldwide to rely on their ratings. In 2010, sweeping financial
+reform legislation (called the Dodd-Frank Wall Street Reform and Consumer Protec-
+tion Act) included provisions to reduce reliance on ratings agencies. Let’s look at these
+companies and the information that they produce.
+
+Bond Ratings
+The best-known bond rating services are Moody’s and Standard & Poor’s.2 These
+companies monitor the status of individual bond issuers and assess the likelihood
+that a lender/bondholder will be repaid by a borrower/bond issuer. Companies
+with good credit—those with low levels of debt, high p­ rofitability, and sizable
+amounts of cash assets—earn high bond ratings. A high rating suggests that a
+bond issuer will have little problem meeting a bond’s payment obligations.
+   Table 7.1 reports the rating systems of Moody’s and Standard & Poor’s. As
+you can see, they are very similar. Both systems are based on letters and bear a
+broad similarity to the rankings in minor-league baseball. Firms or governments                              SOURCE: grzegorz knec/Alamy Stock
+with an ­exceptionally strong financial position carry the highest ratings and are                           Photo
+
+able to issue the highest-rated bonds, Triple A. Johnson & Johnson, Microsoft,
+and the government of Canada are all ­examples of entities with Aaa bond ratings.3
+
+2
+  Fitch is a third, less well-known bond rating company. In addition to the big three, seven small agencies also
+now enjoy the U.S. government’s NRSRO designation.
+3
+  U.S. government debt is a standard of comparison for other dollar-denominated debt because it is widely
+perceived as among the world’s safest financial instruments. In August 2011, however, reacting to the rising
+debt burden and what it called “political risks,” Standard & Poor’s downgraded long-term U.S. Treasury debt to
+AA+. In September 2012, Moody’s warned that it may downgrade U.S. debt from Aaa to Aa1 (the highest Aa
+category) if U.S. budget negotiations in 2013 failed to put the ratio of federal debt to GDP on a declining path in
+the medium term. Nevertheless, as of early 2019, the Moody’s rating of U.S. debt remained stable at Aaa.
+
+
+===== PDF 195 | 印刷页 160 =====
+
+160    l Chapter 7  The Risk and Term Structure of Interest Rates
+
+
+
+
+      Table 7.1          A Guide to Bond Ratings
+
+
+
+                                              Standard                                                               Examples of Issuers with
+                               Moody’s        & Poor’s       Description                                             Bonds Outstanding in 2016
+      Investment Grade         Aaa            AAA            Bonds of the best quality with the smallest             Johnson & Johnson
+                                                             risk of default. Issuers are exceptionally              Microsoft
+                                                             stable and dependable.                                  Canada
+                               Aa             AA             Highest quality with slightly higher degree of          Google/Alphabet
+                                                             long-term risk.                                         Procter & Gamble
+                                                                                                                     South Korea
+                               A              A              High-medium quality, with many strong                   JPMorgan Chase
+                                                             attributes but somewhat vulnerable to                   Wells Fargo
+                                                             changing economic conditions.                           China
+                               Baa            BBB            Medium quality, currently adequate but                  Hewlett Packard
+                                                             perhaps unreliable over the long term.                  Italy
+                                                                                                                     Portugal
+      Noninvestment,           Ba             BB             Some speculative element, with moderate                 Goodyear Tire
+      Speculative Grade                                      security but not well safeguarded.                      Nokia
+                                                                                                                     Brazil
+                               B              B              Able to pay now but at risk of default in the           Hertz
+                                                             future.                                                 Greece
+                                                                                                                     Kenya
+      Highly Speculative       Caa            CCC            Poor quality, clear danger of default.                  Ferrellgas Partners
+                                                                                                                     Sable Permian Resources
+                               Ca             CC             Highly speculative quality, often in default.
+                               C              C              Lowest-rated, poor prospects of repayment               Venezuela*
+                                                             though may still be paying.
+                               D              D              In default.
+
+
+*While the Moodys rating for Venezuela is C, the Standard and Poor’s rating is SD for “selective default.”
+For a more detailed definition of ratings see Moody’s website, www.moodys.com, or Standard and Poor’s website, www.standardandpoors.com.
+
+                                      The top four categories, Aaa down to Baa in the Moody’s scheme, are considered
+                                   investment-grade bonds, meaning they have a very low risk of default. These ratings
+                                   are reserved for most government issuers as well as corporations that are among the
+                                   most financially sound.4 Famously, these top ratings also were awarded to many risky
+                                   mortgage-backed securities (see Lessons from the Crisis: Subprime Mortgages on
+                                   page 161) that later plunged in value, triggering the financial crisis of 2007–2009
+                                   (see Money and Banking Blog: In Search of Better Credit Assessments on page 162).
+                                   Table 7.1 gives examples of governments and firms in selected rating levels above
+                                   default in early 2019.
+                                      The distinction between investment-grade and speculative, noninvestment-grade
+                                   bonds is an important one. A number of regulated institutional investors, among them
+                                   some insurance companies, pension funds, and commercial banks, are not allowed to
+                                   invest in bonds that are rated below investment grade, that is, below Baa on Moody’s
+                                   scale or BBB on Standard & Poor’s scale.5
+                                   4
+                                     Government debt ratings are important, as they generally create a ceiling on the ratings for private companies
+                                   in that country.
+                                   5
+                                    Restrictions on the investments of financial intermediaries, such as insurance companies, are a matter for government
+                                   regulators. There is no comprehensive reference for all of the legal restrictions that force financial firms to sell bonds
+                                   whose ratings fall below Baa. In many cases, such as those of bond mutual funds, the restrictions are self-imposed.
+
+
+===== PDF 196 | 印刷页 161 =====
+
+                                                                         Ratings and the Risk Structure of Interest Rates l                     161
+
+
+
+
+                         Subprime Mortgages
+                         LESSONS FROM THE CRISIS
+
+   The financial crisis of 2007–2009 initially was known as the        term of the loan. This structure gives borrowers an incentive
+   subprime crisis because of the mortgage-backed s­ ecurities         to replace their mortgage after the early years to obtain a
+   (MBS, see page 52) that helped trigger the ­crisis in the           new, low teaser rate or a fixed-rate loan. This process is
+   United States. What is a subprime mortgage? What role does          called refinancing. Rising house prices make it possible to
+   it play in the mortgage market? And how did it contribute to        refinance even when a borrower’s ability to pay is low be-
+   the financial crisis?                                               cause the lender can sell the house to recover the loan if the
+        A residential mortgage is called subprime when it does         borrower fails to make timely payments.
+   not meet key standards of creditworthiness that apply to a               During the housing bubble, starting in 2002, the volume
+   conventional prime mortgage.* Conventional prime mort-              of subprime loans surged as mortgage lenders relaxed their
+   gages are those that satisfy the rules for inclusion in a collec-   lending standards. Borrowers could obtain loans with lower
+   tion or pool of mortgages to be guaranteed by a U.S.                down payments (high LTVs) and ever-poorer documentation.
+   government agency. For this reason, conventional prime              A complacent belief that the rise in nationwide house prices
+   mortgages also are called qualifying or conforming mort-            that had continued since the 1930s would persist indefinitely
+   gages.† Prime mortgages in which the loan amount exceeds            encouraged lending to borrowers with progressively lower
+   a government-specified limit are called jumbo prime and do          ability to pay. When house prices started to fall in 2006,
+   not qualify for the government guarantee.                           home values began to sink “below water”—that is, the home
+        The purpose of the creditworthiness standards is to in-        price fell to less than the amount of the mortgage—and lend-
+   crease the likelihood that the borrower will be able to repay the   ers became unwilling to refinance many subprime loans. A
+   loan. Reducing borrower defaults lowers the cost to the govern-     wave of defaults followed. And further house price declines
+   ment agency of its guarantee for the mortgage pools that back       meant that lenders would not be able to recover the loan
+   the MBS. The lending standards for qualifying mortgages typi-       amounts in the increasingly likely event that borrowers
+   cally include rules about the borrower’s income, wealth, and        would not be able to pay.
+   credit score (see Your Financial World: Your Credit Rating on            Even at their peak, outstanding subprime mortgages
+   page 166). The standards also cover the size of mortgage, the       probably accounted for less than 15 percent of overall residen-
+   price of the home, and the ratio between those two amounts—         tial mortgages (which were $11 trillion in 2007)—and only a
+   known as the loan-to-value ratio, or LTV ratio.                     fraction of these were of really terrible quality. So why did
+        Subprime loans may fail to meet some or all of these           subprime mortgage defaults trigger the financial disrup-
+   standards for a qualifying mortgage. Typically, a loan is           tions of 2007–2009? The key reason is that some large,
+   subprime if it is made to someone with a low credit score           highly leveraged financial institutions held a sizable volume
+   or whose income may be low relative to the price of the             of MBS backed by subprime mortgages. Buying the MBS
+   home; or if the LTV is high; or if the borrower does not            had allowed the institutions to increase their leverage and
+   provide sufficient documentation of his or her ability to           risk taking (see Chapter 5) at the same time that they
+   pay. All of these factors make the loan more risky. Put dif-        earned fees for new MBS issuance. In effect, some financial
+   ferently, a subprime loan has a higher probability of default       institutions “bet the house” on subprime mortgage securi-
+   than qualifying loans.                                              ties, and the price collapse of those securities threatened
+        Like conventional mortgages, the subprime type comes           their existence.
+   in two forms: fixed-rate and adjustable-rate mortgages (the
+   latter are called ARMs—Chapter 6). And like conventional            *There is another category of nonprime mortgages called alt-A
+   ARMs, subprime ARMs typically provide a low interest rate—          that fall between prime and subprime in their default probability.
+   known as a teaser rate—for the first two or three years. But        †
+                                                                        The guarantee on a conforming mortgage pool lowers the default
+   once this initial period ends, the interest rate resets to a        risk on a security backed by the pool. As a result, investors will pay
+   higher level—often, a much higher level—for the remaining           more for the security and borrowers can obtain a cheaper mortgage.
+
+
+
+
+   Bonds issued by Goodyear, Hertz, and the governments of Brazil and Kenya are in the
+noninvestment, speculative grade. These companies and countries may have difficulty
+­meeting their bond payments but are not at risk of immediate default. The final c­ ategory in
+ Table 7.1, highly speculative bonds, consists of debts that are in serious risk of default.
+ Bonds issued by Venezuela are in this category.
+   Bonds with ratings below investment grade are often referred to as junk bonds or
+ sometimes more politely as high-yield bonds (a ­reminder that to obtain a high yield,
+
+
+===== PDF 197 | 印刷页 162 =====
+
+162     l Chapter 7  The Risk and Term Structure of Interest Rates
+
+
+
+
+                           In Search of Better Credit Assessments
+                           MONEY AND BANKING BLOG
+
+
+      Credit rating agencies (CRAs) are businesses that played            ratings, including (typically) a “super-senior AAA rating”
+      a central role in the financial crisis of 2007–2009. Al-            for the top tranche. A key element was that the CRAs used
+      most immediately after the crisis hit, the CRAs’ sky-high           statistical models that did not account for the increased
+      ratings of mortgage-backed securities (MBS) were seen               threat of a large nationwide decline of housing prices. These
+      as one of the villains in the drama. Without the complic-           models effectively ignored the vulnerability created by the
+      ity of CRAs, it is hard to see how the lending that fed the         unprecedented house price boom that began around 2000.
+      housing boom could have been sustained.                             Believing that the securities were safe, MBS investors did
+           In 2014, the Securities and Exchange Commission (SEC)          little to monitor the quality of the underlying mortgages.
+      issued two guidelines to reform the operations of CRAs. As               But once housing prices across the country tipped lower
+      one of the regulatory reforms mandated by the Dodd-Frank            in 2007 and mortgages started to default in unison, CRAs
+      Act of 2010, the CRA rules were a long time coming, but             slashed their ratings, fueling the MBS bust in a mirror im-
+      they are not likely to achieve their intended goals.                age of the process in which their high ratings had propelled
+           During the years before the crisis, financial institutions     the boom. Of all the asset-backed securities (and collateral-
+      assembled vast numbers of MBS pools, each composed of               ized debt obligations) rated AAA between 2005 and 2007,
+      several thousand subprime (low-quality) mortgages, yet              more than 80 percent had fallen by at least four rating
+      the vast majority of MBS supported by such pools received           notches by mid-2009 and were no longer investment grade!
+      the highest-quality credit rating. How could that happen?                CRAs had strong incentives to pump up ratings.
+      The basic approach was to cut up each pool into pieces              Given that the issuer of the securities pays for the rating,
+      (tranches). All of the cash from the underlying mortgages           the most obvious incentive was the concentration of
+      flowed initially to the highest-grade tranche, which had            their paying clients: in the half-dozen years before 2007,
+      first claim, and any remaining cash flowed to each succes-          the top five MBS issuers accounted for 40 percent of the
+      sively lower-grade tranche. This “waterfall” pattern of             MBS market, resulting in a large volume of repeat
+      ­filling the top vessel first was supposed to make the              business. The resulting conflict of interest led to a docu-
+       top-quality tranche backed by each pool virtually risk free.       mented bias toward high ratings.
+           The CRAs were central to this alchemy. They blessed the             This brings us to the two SEC rules intended to
+       tranche structure, rewarding MBS pools with extravagant            ­address the problems with bond ratings. The first one
+
+
+
+                               investors must take a large risk).6 There are two types of junk bonds. The first type,
+                               called fallen angels, were once investment-grade bonds, but their issuers fell on
+                               hard times. The second are cases in which little is known about the risk of the issuer.
+                                  MCI WorldCom, the telecommunications giant purchased by Verizon in early 2006,
+                               was one company whose bond rating fluctuated between investment grade and junk.
+                               When it began issuing bonds in 1997, the firm was below investment grade (Moody’s
+                               Ba). MCI WorldCom saw its rating rise for several years, until it peaked as a Moody’s
+                               A from mid-1999 to the end of 2001. Taking advantage of this investment-grade rating,
+                               MCI WorldCom issued $11.8 billion worth of bonds in May 2001. Just one year later,
+                               MCI WorldCom’s rating dropped back to where it started, Ba, and its 10-year bonds
+                               were trading for 44 cents on the dollar, less than half of their initial prices. By mid-
+                               2002, as the company filed for bankruptcy, its bonds had fallen one more notch to B.
+                                  Sovereigns can be “fallen angels,” too. For example, bonds issued by Greece were
+                               rated A (investment grade) as recently as the spring of 2010. As the financial crisis in
+                               the euro area intensified, the rating agencies repeatedly lowered Greece’s credit rating
+
+                               6
+                                Junk bond is an informal term used to mean a highly speculative security that has a low rating; it has no exact
+                               or formal definition.
+
+
+===== PDF 198 | 印刷页 163 =====
+
+                                                                        Ratings and the Risk Structure of Interest Rates l            163
+
+
+
+
+    r­ equires CRAs to establish controls to limit the conflict       That is, the incentive problems are the same on both sides
+     of interest arising from the “issuer pays” arrangement.          of this transaction.
+     To improve transparency, the second rule compels the                 For example, the performance of an asset manager
+     CRAs to publish reams of information about the pools             whose portfolio includes bonds is measured relative to a
+     they are rating.                                                 benchmark with bonds in specific rating categories. A
+          Will this help? Probably not much. Take the transpar-       manager who buys bonds with an inflated rating will boost
+     ency rule first. It is addressed to the market for U.S. MBS      the expected return on the portfolio relative to the bench-
+     that are not government insured—known as “private-label”         mark while concealing the increased risk—at least until
+     MBS. In 2018, however, private-label MBS issuance was            there are actual losses. Because funds that perform poorly
+     less than 5 percent of its peak levels in 2005–2006! The         are often shut down, the survival of the outperformers
+     lack of new issues has deprived investors of the long            makes it look like their managers have superior skills, even
+     data history necessary to assess the risk of private-label       if they merely choose riskier portfolios.
+     MBS. The additional information required by the transpar-            For a banker, the riskier the assets, the bigger the reg-
+     ency rule probably won’t improve investors’ ability to as-       ulatory capital buffer required. For small banks, the
+     sess the changing correlations that determine the risks of       measurement of risk uses a standardized approach based
+     ­private-label MBS.                                              on credit ratings. Again, a bank that holds bonds that are
+          What about CRA conflicts of interest? Here, at least        riskier than their ratings suggest can expect a higher re-
+      two problems remain. First, however much the new guide-         turn for a given level of capital.
+      lines try to separate a CRA’s ratings activity from its busi-       Addressing all of the issues associated with CRAs—
+      ness of gathering revenues, the connection is still there.      problems including faulty models, insufficient data, and
+      Analysts know that customers shop for ratings, awarding         poor incentives—may exceed anyone’s current capacity.
+      the lucrative job of rating a new bond to the firm that is      But regulators can do better than the SEC has done. One
+      most optimistic about their prospects.                          example suffices: The SEC rules for CRAs do not ad-
+          Second, and more troubling, the desire for inflated         dress the problem of ratings shopping even though re-
+      ratings is not limited to issuers; many investors, including    form proposals to address this deficiency existed well
+      asset managers and bankers, want inflated ratings, too!         before passage of the Dodd-Frank Act.
+
+
+
+ (eventually to the lowest grade, C) in the run-up to its March 2012 default. Frequent,
+ sharp downgrades during such periods of market stress raise doubts about the useful-
+ ness of the ratings in anticipating default (see also Money and Banking Blog: In Search
+ of Better Credit Assessments). Indeed, for investment-grade sovereign debt, Moody’s
+ puts the five-year default rate, as a share of issuers, at nearly 3¼ percent. The one-
+ year-ahead record is better: 12 months before their default, no sovereign issuer was
+ still rated as investment grade, but more than 1 percent of corporate defaults were.7
+     Material changes in a firm’s or government’s financial conditions precipitate changes
+ in its debt ratings. The rating services are constantly monitoring events and announcing
+ modifications to their views on the creditworthiness of borrowers. If a particular busi-
+ ness or country encounters problems (as occurs with some frequency), Moody’s and
+ ­Standard & Poor’s will lower that issuer’s bond rating in what is called a ratings
+­downgrade. Typically, an average of 2 to 3 percent of bonds that begin a year in an
+  investment-grade category—Aaa to Baa—have their ratings downgraded to one of the
+7
+ For an in-depth assessment of sovereign credit ratings, see International Monetary Fund, Global Financial
+Stability Report, “The Uses and Abuses of Sovereign Credit Ratings,” October 2010, Chapter 3. Moody’s issuer-
+weighted cumulative default-rate estimates appear in Exhibit 19 of its report Sovereign Default and Recovery
+Rates, 1983–2018, April 8, 2019.
+
+
+===== PDF 199 | 印刷页 164 =====
+
+164   l Chapter 7  The Risk and Term Structure of Interest Rates
+
+
+
+                        noninvestment grades. The MCI WorldCom downgrade in May 2002 reflected the
+                        agencies’ view that the company had too much debt and (given the dismal state of the
+                        telecommunications industry at the time) little opportunity to reduce it. R
+                                                                                                  ­ atings upgrades
+                        occur as well. Roughly 3 percent of Aa-rated bonds are upgraded to Aaa each year.8
+
+                        Commercial Paper Ratings
+                        Commercial paper is a short-term version of a bond. Both corporations and
+                        ­governments issue commercial paper. Because the borrower offers no collateral,
+                         this form of debt is unsecured. So only the most creditworthy companies can
+                         issue it.9 Moreover, the amount of commercial paper outstanding plunged during
+                         the financial crisis of 2007–2009: After peaking in mid-2007 at $2.1 trillion, it fell
+                         to about $1 trillion by 2011 and has remained there ever since. Nevertheless, finan-
+                         cial companies, such as JPMorgan and TD Bank, still issued the majority of it.
+                               Like a U.S. Treasury bill, commercial paper is issued on a discount basis, as a
+                         zero-coupon bond that specifies a single future payment with no associated coupon
+                         ­payments. For legal reasons, commercial paper usually has a maturity of less than
+                          270 days.10 Roughly one-third of all commercial paper is held by money-market
+                          ­mutual funds (MMMFs), which require very short-term assets with immediate
+                           ­liquidity. A majority of commercial paper is issued with a maturity of 5 to 45 days and
+                            is used exclusively for short-term financing.
+                               The rating agencies rate the creditworthiness of commercial paper issuers in the
+                            same way as bond issuers. Again, Moody’s and Standard & Poor’s have parallel r­ ating
+                            schemes that differ solely in their labeling (see Table 7.2). The vast majority of issu-
+                            ance is in the highest category, Moody’s P-1, with the remainder rated P-2—the P
+                            stands for prime-grade commercial paper. Speculative-grade commercial paper does
+                            exist, but not because it was originally issued as such.
+
+                        The Impact of Ratings on Yields
+                        Bond ratings are designed to reflect default risk: The lower the rating, the higher the
+                        risk of default. We know investors require compensation for risk, so everything else
+                        held equal, the lower a bond’s rating, the lower its price and the higher its yield. From
+                        Chapter 6 we know that we can think about changes in risk as shifts in the demand for
+                        bonds. Increases in risk will reduce investor demand for bonds at every price, shifting
+                        the demand curve to the left, decreasing the equilibrium price and increasing the yield
+                        (see Figure 7.1 on page 165).
+                           The easiest way to understand the quantitative impact of ratings on bond yields is
+                        to compare different bonds that are identical in every way except for the issuer’s credit
+                        rating. U.S. Treasury issues have long served as a standard for comparison because they
+                        are viewed as having little default risk. This is why they are commonly referred to as
+                        benchmark bonds, and the yields on other bonds are measured in terms of the
+
+                        8
+                         Based on authors’ estimates for the period 1983–2017 using Moody’s Annual Default Study: Corporate Default
+                        and Recovery Rates, 1920–2017, February 15, 2018, Exhibits 29 and 41.
+                        9
+                          Recall that collateral is something of value pledged by the borrower that the lender could sell if the loan is not
+                        repaid. See also Lessons from the Crisis: Asset-Backed Commercial Paper on page 168.
+                        10
+                           As described in detail by Thomas K. Hahn, “Commercial Paper,” Instruments of the Money Market (Federal
+                        Reserve Bank of Richmond, 1998, Chapter 9), the Securities Act of 1933 generally requires registration of
+                        securities, a time-consuming and expensive process. But Section 3(a) (3) of the act exempts securities with less
+                        than 270 days to maturity as long as they meet certain requirements.
+
+
+===== PDF 200 | 印刷页 165 =====
+
+                                                                             Ratings and the Risk Structure of Interest Rates l 165
+
+
+
+
+    Table 7.2          Commercial Paper Ratings
+
+
+
+                                                                                   Examples of Issuers
+                                  Standard                                         with Commercial Paper
+                     Moody’s      & Poor’s      Description                        Outstanding in 2016
+
+    Investment       P-1          A-1+, A-1     Strong likelihood of timely        Coca-Cola
+    or Prime                                    repayment.                         ExxonMobil
+    Grade                                                                          Yale University
+                     P-2          A-2           Satisfactory degree of safety General Electric
+                                                for timely repayment.         General Mills
+                                                                              Harley-Davidson
+                     P-3          A-3           Adequate degree of safety
+                                                for timely repayment.
+    Speculative,                  B, C          Capacity for repayment is
+    below Prime                                 small relative to higher-rated
+    Grade                                       issuers.
+    Defaulted                     D
+
+
+
+SOURCE: Thomas K. Hahn, “Commercial Paper,” Instruments of the Money Market, Chapter 9, Federal Reserve Bank of
+Richmond, 1998; www.moodys.com; and www.standardandpoors.com.
+
+
+spread over ­Treasuries. (Remember from the definition in Chapter 5: Risk is measured
+relative to a benchmark. For bonds, the most common benchmark is U.S. Treasury bonds.)
+   We can think of any bond yield as the sum of two parts: the yield on the benchmark
+U.S. Treasury bond plus a ­default-risk premium, sometimes called a risk spread.
+            Bond yield = U.S. Treasury yield + Default-risk premium                                               (1)
+If bond ratings properly reflect the probability of ­default,
+                                                                                                                          The Effect of an Increase
+then the lower the rating of the issuer, the higher the                                      Figure 7.1                   in Risk on Equilibrium in
+­default-risk premium in equation (1). This way of thinking                                                               the Bond Market
+ about bond yields provides us with a second insight: When
+ Treasury yields move, all other yields move with them.
+    These two predictions—that interest rates on a variety of
+ bonds will move together and that lower-rated bonds will have                                                                           S
+                                                                                            Price per Bond
+
+
+
+
+ higher yields—are both borne out by the data. To see this, let’s                                                               E0
+ look at a plot of the risk structure of interest rates. Panel A                                             P0
+ of Figure 7.2 on page 167 shows the yield to maturity for long-                                             P1
+ term bonds with three different ratings: 10-year U.S. Treasury,                                                              E1
+ Moody’s Aaa-rated, and Moody’s Baa long-term bonds. As                                                                                     D0
+ you can see from the figure, all of these yields move together.                                                                       D1
+ When the U.S. Treasury yield goes up or down, the Aaa                                                                  Quantity of Bonds
+ and Baa yields do too. While the default-risk premiums do
+ fluctuate—rising particularly in periods of financial stress—
+ changes in the U.S. Treasury yield account for most of the                               Increased risk reduces the demand for the bond at
+                                                                                          every price, shifting the demand curve to the left from
+ movement in the Aaa and Baa bond yields. Furthermore,                                    D0 to D1. The result is a decline in the equilibrium price
+ the yield on the higher-rated U.S. Treasury bond is consist-                             and quantity in the market. Importantly, the price falls
+ ently the lowest. In fact, over the years from 1971 to 2019,                             from P0 to P1 , so the yield on the bond must rise.
+
+
+===== PDF 201 | 印刷页 166 =====
+
+166 l Chapter 7  The Risk and Term Structure of Interest Rates
+
+
+
+
+                       Your Credit Rating
+                       YOUR FINANCIAL WORLD
+
+
+  Companies aren’t the only ones with credit ratings; you            loan might have an interest rate of 4 percent and monthly
+  have one, too. Have you ever wondered how someone                  payments of $221. But if your credit score was low, because
+  ­decides whether to give you a loan or a credit card? The          you missed a payment on a credit card or paid your utility bill
+   answer is that there are companies keeping track of your          late, then the interest rate could be as high as 15 percent,
+   ­financial information. They rate your creditworthiness, and      which would mean monthly payments as much as $50
+    they know more about you than you might think. Credit rat-       higher. The same principle applies to home mortgages; the
+    ing ­companies know all about your credit cards, your car        better your credit score, the lower the interest rate. It pays to
+    loan or mortgage (if you have one), and whether you pay          pay all your bills on time.*
+    your bills on time. All of this information is combined in
+    something called a credit score. If you have low levels
+                                                                     *Ironically, someone who has never had a credit card and never owed
+    of debt and pay your bills on time, you have a high
+                                                                     anyone any money has no credit history at all and so will have a low
+    credit score.                                                    credit score. You cannot start too soon in creating a record as a good
+        You care about your credit score; here’s why. Lenders        credit risk. And you are entitled to a free annual credit report from
+    use credit scores to calculate the interest rate they charge     each of the credit rating companies. To find out how to get it, go to
+    on a loan. With a top credit score, a four-year, $10,000 car     www.annualcreditreport.com.
+
+
+
+
+                          the 10-year U.S. ­Treasury bond yield averaged more than a full percentage point below
+                          the yield on Aaa bonds and two percentage points below the yield on Baa bonds.
+                              How important is one or two percentage points in yield? To see, we can do a simple
+                          computation. At an interest rate of 4 percent, the present value of a $100 payment
+                          made 10 years from now is $66.48. If the interest rate rose to 6 percent, the value of
+                          this same promise would decline to $53.86. So a two-percentage point increase in the
+                          yield, from 4 percent to 6 percent, lowers the value of the promise of $100 in 10 years
+                          by $12.62, or 19 percent!
+                              From the viewpoint of the borrower, an increase in the interest rate from 4 percent
+                          to 6 percent means paying $6 rather than $4 per year for each $100 borrowed. That is
+                          a 50 percent difference. Clearly, ratings are crucial to corporations’ ability to raise
+                          financing. Whenever a company’s bond rating declines, the cost of funds goes up,
+                          impairing the company’s ability to finance new ventures.11
+                              What is true for long-term bond yields is true for short-term bond yields; they move
+                          together, and lower ratings imply higher yields. Compare the yields on three-month U.S.
+                          Treasury bills with those on A-1/P-1 commercial paper of the same maturity (see
+                          Panel B of Figure 7.2). The two yields clearly move together, and the U.S. Treasury bill
+                          yield is always lower than the yield on commercial paper. From 1971 to 2019, the spread
+                          of commercial paper over U.S. Treasury bills averaged more than one-half of one per-
+                          centage point, or more than 50 basis points. (Recall from Chapter 6 that a basis point is
+                          one hundredth of a percentage point, or 0.01 percent.)
+                              The lesson is clear; investors must be compensated for assuming risk. The less
+                          ­creditworthy the borrower, the higher the risk of default, the lower the borrower’s
+
+
+                          11
+                             The same is true for individuals. Consider the impact on the monthly payments required to service a 30‑year,
+                          $100,000 mortgage. At an interest rate of 4 percent, payments would be approximately $477 per month. If the
+                          interest rate were to increase to 6 percent, the required monthly payments would rise to more than $600. You
+                          can compute these amounts using the formulas in the appendix to Chapter 4.
+
+
+===== PDF 202 | 印刷页 167 =====
+
+                                                                            Differences in Tax Status and Municipal Bonds l   167
+
+
+
+
+     Figure 7.2         The Risk Structure of Interest Rates
+
+
+     A. Comparing Long-Term Interest Rates
+        18
+        16
+        14
+        12
+     Yield
+
+
+
+
+        10
+         8
+         6
+         4
+         2
+         0
+         1971 1974 1977 1980 1983 1986 1989 1992 1995 1998 2001 2004 2007 2010 2013 2016 2019
+
+                                          10-Year Treasury            Moody’s Aaa            Moody’s Baa
+
+     B. Comparing Short-Term Interest Rates
+             18
+             16
+             14
+             12
+     Yield
+
+
+
+
+             10
+              8
+              6
+              4
+              2
+              0
+              1971 1974 1977 1980 1983 1986 1989 1992 1995 1998 2001 2004 2007 2010 2013 2016 2019
+
+                                                    Treasury Bills         Commercial Paper
+
+
+SOURCE: Board of Governors of the Federal Reserve System, [FRED data codes: GS10, AAA, BAA, CPN3M (since 1997), and TB3MS].
+
+
+
+r­ ating, and the higher the cost of borrowing. And the lower the rating of the bond or
+ commercial paper, the higher the yield.
+
+
+Differences in Tax Status and Municipal Bonds
+Default risk is not the only factor that affects the return on a bond. The second
+­important factor is taxes. Bondholders must pay income tax on the interest income
+ they receive from owning privately issued bonds. These are taxable bonds. In con-
+ trast, the coupon payments on bonds issued by state and local governments, called
+ ­municipal or tax-exempt bonds, are specifically exempt from taxation.12
+    The general rule in the United States is that the interest income from
+bonds issued by one government is not taxed by another government, although
+the issuing government may tax it. The interest income from U.S. Treasury
+12
+  Municipal bonds come in two varieties. Some are general-obligation bonds backed by the taxing power of the
+governmental issuer. Others are revenue bonds issued to fund specific projects; these are backed by revenues
+from the project or operator.
+
+
+===== PDF 203 | 印刷页 168 =====
+
+168     l Chapter 7  The Risk and Term Structure of Interest Rates
+
+
+
+
+                           Asset-Backed Commercial Paper
+                           LESSONS FROM THE CRISIS
+
+      Asset-backed commercial paper (ABCP) is a short-term lia-          ­ rincipal to the ABCP holders. The risk was that the issuers
+                                                                         p
+      bility with a maturity of up to 270 days. Unlike most com-         would be unable to borrow—that is, they faced rollover risk.
+      mercial paper, which is unsecured, ABCP is collateralized          If they were also unable to sell the long-term assets easily,
+      by assets that financial institutions place in a special portfo-   these shadow banks would face failure.
+      lio. As we saw in Chapter 3, collateral is something of value           ABCP rollover risk played an early role in the financial
+      that is pledged to pay a loan (in this case, CP) in the event      crisis of 2007–2009. When the value of some mortgages be-
+      that the borrower does not make the required payments.             came highly uncertain in 2007, purchasers of ABCP grew
+      ABCP has existed for decades, but it played a special role         anxious that the assets backing their commercial paper
+      in the housing boom that preceded the financial crisis of          might plunge in value. Because they had erroneously viewed
+      2007–2009.                                                         ABCP as a very low-risk security, the sudden awareness of
+           To lower their costs and limit their own asset holding,       risk caused a virtual halt to ABCP purchases. Outstanding
+      some large banks created firms (a form of shadow bank) that        commercial paper from ABCP issuers began to plunge in the
+      issued ABCP and used the money to buy mortgages and                third quarter of 2007, sinking from a peak of more than
+      other loans (see Chapter 3, Lessons from the Crisis: Shadow        $1.2 trillion to less than $300 billion in 2013. As of early 2019,
+      Banks). The payment stream generated by the loans was              it remained below that mark.
+      used to compensate the holders of the ABCP. This off-­                  Firms that had issued ABCP faced an immediate threat
+      balance-sheet financing also allowed banks to boost lever-         to their survival. Unable to sell their assets or to obtain
+      age and take more risk. When mortgage volume surged in             other funding, some failed. In other cases, banks chose to
+      the housing bubble, these shadow banks issued more ABCP            rescue their shadow banks to limit legal risks and reputa-
+      to finance their rapid expansion.                                  tional damage. As a result, those banks faced heightened
+           The mismatch between the long-term maturity of the            liquidity needs and pressures to sell assets precisely
+      ­assets (mortgages) and the short-term maturity of the liabili-    when the cost of funds had surged and asset prices were
+       ties (ABCP) posed an underappreciated threat to the ABCP          plunging. The risk that they had sought to shift off balance
+       issuers. When the ABCP matures, the issuers have to borrow        sheet returned at the worst possible time—in the midst of
+       (or to sell the underlying assets) to be able to return the       a crisis.
+
+
+
+
+                               securities is taxed by the federal government, which issued them, but not by state or local
+                               governments. In the same way, the federal government is precluded from taxing interest on
+                               municipal bonds. In an effort to make their bonds even more attractive to investors, how-
+                               ever, state and local governments usually choose not to tax the interest on their own bonds,
+                               exempting it from all income taxes.
+                                  How does a tax exemption affect a bond’s yield? Bondholders care about the return
+                               they actually receive, after tax authorities have taken their cut. If investors expect to
+                               receive a payment of $6 for holding a bond but know they will lose $1.80 of it in taxes,
+                               they will act as if the return on the investment is only $4.20. That is, investors base
+                               their decisions on the after-tax yield.
+                                  Calculating the tax implications for bond yields is straightforward. Consider a
+                               one-year $100 face value taxable bond with a coupon rate of 6 percent. This is a
+                               promise to pay $106 in one year. If the bond is selling at par, at a price of $100, then
+                               the yield to maturity is 6 percent. From the point of view of the government issuers,
+                               the bondholder receives $6 in taxable income at maturity. If the tax rate is 30 per-
+                               cent, the tax on that income is $1.80, so the $100 bond yields $104.20 after taxes. In
+                               other words, at a 30 percent tax rate, a 6 percent taxable bond yields the equivalent
+                               of 4.2 percent.
+                                  This same calculation works for any interest rate and any bond, which allows us to
+                               derive a relationship between the yields on taxable and tax-exempt bonds. The rule is
+
+
+===== PDF 204 | 印刷页 169 =====
+
+                                                                                         The Term Structure of Interest Rates l 169
+
+
+
+that the yield on a tax-exempt bond equals the taxable bond yield times one minus the
+tax rate:
+             Tax-exempt bond yield = (Taxable bond yield) × (1 − Tax rate)                           (2)
+For an investor with a 30 percent tax rate, then, we can compute the tax-exempt
+yield on a 10 percent bond by multiplying 10 percent times (1 − 0.3), or 7 percent.
+Overall, the higher the tax rate, the wider the gap between the yields on taxable and
+tax-exempt bonds.
+
+
+The Term Structure of Interest Rates
+A bond’s tax status and rating aren’t the only factors that affect its yield. In fact, bonds
+with the same default rate and tax status but different maturity dates usually have
+­different yields. Why? The answer is that long-term bonds are like a composite of a
+ series of short-term bonds, so their yield depends on what people expect to happen in
+ years to come. In this section, we will develop a framework for thinking about future
+ interest rates.
+    The relationship among bonds with the same risk characteristics but different
+ maturities is called the term structure of interest rates.
+    In studying the term structure of interest rates, we will focus our attention on Treas-
+ ury yields; see Figure 7.3. Comparing information on 3-month (the blue line) and
+ 10-year (the green line) Treasury issues, we can draw three conclusions:
+   1. Interest rates of different maturities tend to move together. The bulk of the varia-
+      tion in short- and long-term interest rates is in the same direction. That is, the
+      blue and green lines clearly move together.
+   2. Yields on short-term bonds are more volatile than yields on long-term bonds.
+      The blue line moves over a broader range than the green line.
+   3. Long-term yields tend to be higher than short-term yields. The green line usu-
+      ally, but not always, lies above the blue line.
+
+
+
+  Figure 7.3            The Term Structure of Treasury Interest Rates
+
+
+
+           18
+           16
+           14
+           12
+   Yield
+
+
+
+
+           10
+            8
+            6
+            4
+            2
+            0
+            1971 1974 1977 1980 1983 1986 1989 1992 1995 1998 2001 2004 2007 2010 2013 2016 2019
+
+                                            3-Month Treasury Bills              10-Year Treasury Bonds
+
+
+SOURCE: Board of Governors of the Federal Reserve System. [FRED data codes: TB3MS and GS10]
+
+
+===== PDF 205 | 印刷页 170 =====
+
+170           l Chapter 7  The Risk and Term Structure of Interest Rates
+
+
+
+                                     Default risk and tax differences cannot explain these relationships. What can?
+                                  We will examine two explanations, the expectations hypothesis and the liquidity
+                                  premium theory.
+
+
+                                  The Expectations Hypothesis
+                              Over the years, economists have proposed and discarded numerous theories to explain
+                              the term structure of interest rates. We can benefit from their hard work and ignore all
+                              the ones they found wanting. The first one we will focus on, called the expectations
+                              hypothesis of the term structure, is straightforward and intuitive. If we think about
+                              yields as the sum of a risk-free interest rate and a risk premium, the expectations
+                              ­hypothesis focuses on the first of those elements. It begins with the observation that
+                               the risk-free interest rate can be computed, assuming there is no uncertainty about the
+                               future. That is, we know not just the yield on bonds available today but the yields that
+                               will be available on bonds next year, the year after that, and so on.
+                                  To understand the implications of this statement, think about an investor who
+                               wishes to purchase a bond and hold it for two years. Because there is no uncertainty,
+                               the investor knows the yield today on a bond with two years to maturity, as well as the
+                               yields on a one-year bond purchased today and on a second one-year bond purchased
+                               one year from now. Being sure about all of these, the investor will be indifferent
+                               between holding the two-year bond and holding a series of two one-year bonds. Cer-
+                               tainty means that bonds of different maturities are perfect substitutes for each other.
+                               This is the essence of the expectations hypothesis.
+                                  To see how this works, assume that the current one-year interest rate is 5 percent.
+                               The expectations hypothesis implies that the current two-year interest rate should
+                               equal the average of 5 percent and the one-year interest rate one year in the future. If
+                                                            that future interest rate is 7 percent, then the current two-
+                                                            year interest rate will be (5 + 7)/2 = 6%.
+  Figure 7.4            The U.S. Treasury                      According to the expectations hypothesis, then, when
+                        Yield Curve                         interest rates are expected to rise in the future, long-term
+                                                            interest rates will be higher than short-term interest rates.
+                                                            This means that the yield curve, which plots the yield to
+         3.5
+                                                            maturity on the vertical axis and the time to maturity on
+         3.0        Yesterday
+                                                            the horizontal axis, will slope up. (The Wall Street Jour-
+                    1 year ago
+         2.5                                                nal’s Credit Market column often includes a plot of a
+      Yield to Maturity
+
+
+
+
+         2.0                                                yield curve for U.S. Treasury issues like the one shown in
+         1.5
+                                                            Figure 7.4.) Analogously, the expectations hypothesis
+                                                            implies that if interest rates are expected to fall, the yield
+         1.0
+                                                            curve will slope down. And if interest rates are expected
+         0.5                                                to remain unchanged, the yield curve will be flat. (See
+           0                                                Figure 7.5.)
+              1 3 6 1 2 3 5 7 10 20 30                         If bonds of different maturities are perfect substitutes for
+              Months Years
+                             Maturity                       each  other, then we can construct investment strategies that
+                                                            must have the same yields. Let’s look at the investor with a
+                                                            two-year horizon. Two possible strategies are available to
+The figure plots the yields on Treasury bills and bonds for this investor:
+January 31, 2019.
+                                                                   A. Invest in a two-year bond and hold it to maturity. We
+SOURCE: U.S. Department of the Treasury, www.treasury.gov/
+resource-center/data-chart-center/interest-rates/Pages/TextView.      will call the interest rate associated with this invest-
+aspx?data=yield; or FRED.                                             ment i2t (“i” stands for the interest rate, “2” for two
+
+
+===== PDF 206 | 印刷页 171 =====
+
+                                                                                                       The Term Structure of Interest Rates l           171
+
+
+
+
+      Figure 7.5                   The Expectations Hypothesis and Expectations of Future Short-Term Interest Rates
+      Yield to Maturity
+
+
+
+
+                                                            Yield to Maturity
+
+
+
+
+                                                                                                               Yield to Maturity
+                          Time to Maturity                                      Time to Maturity                                   Time to Maturity
+
+        Interest rates are expected to rise.                   Interest rates are expected to                    Interest rates are expected to fall.
+                                                               remain unchanged.
+
+
+       years, and “t” for the time period, which is today). Investing one dollar in this
+       bond will yield (1 + i2t)(1 + i2t) two years later.
+    B. 
+       Invest in two one-year bonds, one today and a second when the first
+       one ­matures. The one-year bond purchased today has an interest rate of i1t
+       (“1” stands for one year). The one-year bond ­purchased one year from now
+       has an interest rate of ​ie1t
+                                  ​  ​
+                                     +1
+                                       ​where “t + 1” stands for one time period past period t,
+       or next year. The “e,” which stands for expected, indicates that this is the one-
+       year interest rate investors expect to obtain one year ahead. Because we are
+       assuming that the future is known, this expectation is certain to be correct. A
+       dollar invested using this strategy will return (1 + i1t)(1 + ​i1t
+                                                                        ​e ​
+                                                                          +1
+                                                                            ​) in two years.
+   The expectations hypothesis tells us that investors will be indifferent
+between these two strategies. (Remember, the bonds are perfect substitutes for each
+other.) Indifference between strategies A and B means that they must have the same
+return, so
+	​(1 + i2t)(1 + i2t) = (1 + i1t)(1 + ​ie​1t+1​)​ (3)​
+
+
+The Expectations Hypothesis of the Term Structure:
+
+      Today                                Year                                     Year                         Year
+        0   One-year interest                1     One-year interest rate,           2   One-year interest rate,  3
+              rate today                             one year ahead                        two years ahead
+                             i1t                           i​ ​1t+1
+                                                               e
+                                                                    ​​                           i​ ​1t+2
+                                                                                                     e
+                                                                                                          ​​
+
+                                                       i + ie + ie
+                                                  i3t = 1t 1t+1 1t+2
+                                                              3
+                                   Three-year interest rate = Average of three one-year rates
+
+
+If the one-year interest rate today is i 1 t = 5%, the one-year interest rate one year ahead is i​ e​1 t + ​​ 1​= 6%, and
+the one-year interest rate two years ahead, is i​ e​1t + 2​​= 7%, then the expectations hypothesis tells us that the
+three-year interest rate will be i3t = (5% + 6% + 7%)/3 = 6%.
+
+
+===== PDF 207 | 印刷页 172 =====
+
+172   l Chapter 7  The Risk and Term Structure of Interest Rates
+
+
+
+                        Expanding equation (3) and taking an approximation that is very accurate, we can
+                        write the two-year interest rate as the average of the current and future expected one-
+                        year interest rates:13
+                                                                     i1t + ​ie​1t  + 1​​
+                        	​                                  i2t = ​  ________
+                                                                             ​                           (4)​
+                                                                          2
+                        For a comparison between a three-year bond and three one-year bonds, we get
+                                       + ​i e​1t  + 1​​+ ​i e​1t  +  2​​
+                                  i______________
+                                    1t
+                        	​
+                         i3t = ​                      ​                                                                                                  (5)​
+                                                  3
+                        where the notation i3t stands for a three-year interest rate and ​i 1t​e + 2​​for the expected one-
+                        year interest rate two years from now.
+                           The general statement of the expectations hypothesis is that the interest rate on
+                        a bond with n years to maturity is the average of n expected future one-year inter-
+                        est rates:
+                                  i1t + ​i e​1t + 1​​+ ​i e​1t + 2​​+ . . . + ​i e​1t  +  n − 1​​
+                         int = ​  ___________________________
+                        	​                                      n   ​                           (6)​
+
+                        What are the implications of this mathematical expression? Does the expectations
+                        hypothesis of the term structure of interest rates explain the three observations we
+                        started with? Let’s look at each one.
+                            1. The expectations hypothesis tells us that long-term bond yields are all averages
+                               of expected future short-term yields—the same set of short-term interest rates—
+                               so interest rates of different maturities will move together. From equation (6) we
+                               see that if the current one-year interest rate, i1t, changes, all the yields at higher
+                               maturities will change with it.
+                            2. The expectations hypothesis implies that yields on short-term bonds will be more
+                               volatile than yields on long-term bonds. Because long-term interest rates are aver-
+                               ages of a sequence of expected future short-term rates, if the current 3-month
+                               interest rate moves, it will have only a small impact on the 10-year interest rate.
+                               Again, look at equation (6).14
+                            3. The expectations hypothesis cannot explain why long-term yields are nor-
+                               mally higher than short-term yields because it implies that the yield curve
+                               slopes upward only when interest rates are expected to rise. To explain why
+                               the yield curve normally slopes upward, the expectations hypothesis would sug-
+                               gest that interest rates are normally expected to rise. But as the data in Figure 7.3
+                               on page 169 show, interest rates have been trending downward for nearly
+                               30 years, so anyone constantly forecasting interest rate increases would have
+                               been sorely disappointed.
+                           The expectations hypothesis has gotten us two-thirds of the way toward understand-
+                        ing the term structure of interest rates. By ignoring risk and assuming that investors
+                        view short- and long-term bonds as perfect substitutes, we have explained why yields
+
+                        13
+                           Expanding (3) gives us 2i2t + ​i2​2t​​  = i1t + ​i​1te + 1​​+ (i1t)(​i1t​e +1​)​ . The squared term on the left-hand side and the product
+                        term on the right-hand side of this equation are small, and their difference is even smaller. Using the example of
+                        5 percent and 7 percent for the one-year interest rates, we can see that ignoring the two product terms means
+                        ignoring [(0.06)2 − (0.05 × 0.07)]/2 = (0.0036 − 0.0035)/2 = 0.00005, an error of 0.005 percentage points.
+                        14
+                           Take a simple example in which the one-year and two-year interest rates, i1t and i2t, are both 5 percent. If the
+                        one-year interest rate increases to 7 percent, then the two-year interest rate will rise to 6 percent. The two move
+                        together, and the short-term rate is more volatile than the long-term rate.
+
+
+===== PDF 208 | 印刷页 173 =====
+
+                                                                     The Term Structure of Interest Rates l   173
+
+
+
+at different maturities move together and why short-term interest rates are more vola-
+tile than long-term rates. But we have failed to explain why the yield curve normally
+slopes upward. To understand this, we need to extend the expectations hypothesis to
+include risk. After all, we all know that long-term bonds are riskier than short-term
+bonds. Integrating this observation into our analysis will give us the liquidity premium
+theory of the term structure of interest rates.
+
+The Liquidity Premium Theory
+Throughout our discussion of bonds, we emphasized that even default-free bonds
+are risky because of uncertainty about inflation and future interest rates. What are
+the implications of these risks for our understanding of the term structure of interest
+rates? The answer is that risk is the key to understanding the usual upward slope of
+the yield curve. Long-term interest rates are typically higher than short-term inter-
+est rates ­because long-term bonds are riskier than short-term bonds. Bondholders face
+both inflation and interest rate risk. The longer the term of the bond, the greater both
+types of risk.
+    The reason for the increase in inflation risk over time is clear-cut. Remember
+that bondholders care about the purchasing power of the return—the real return—
+they receive from a bond, not just the nominal dollar value of the coupon payments.
+Computing the real return from the nominal return requires a forecast of future
+inflation, or expected future inflation. For a three-month bond, an investor need
+only be concerned with inflation over the next three months. For a 10-year bond,
+however, computation of the real return requires a forecast of inflation over the
+next decade.
+    In summary, uncertainty about inflation creates uncertainty about a bond’s real
+return, making the bond a risky investment. The further we look into the future, the
+greater the uncertainty about inflation. We are more uncertain about the level of infla-
+tion several years from now than about the level of inflation a few months from now,
+which implies that a bond’s inflation risk increases with its time to maturity.
+    What about interest rate risk? Interest rate risk arises from a mismatch between the
+investor’s investment horizon and a bond’s time to maturity. Remember that if a bond-
+holder plans to sell a bond prior to maturity, changes in the interest rate (which cause
+bond prices to move) generate capital gains or losses. The longer the term of the bond,
+the greater the price changes for a given change in interest rates and the larger the
+potential for capital losses.
+    Because some holders of long-term bonds will want to sell their bonds before they
+mature, interest rate risk concerns them. These investors require compensation for the
+risk they take in buying long-term bonds. As in the case of inflation, the risk increases
+with the term to maturity, so the compensation must increase with it.
+    What are the implications of including risk in our model of the term structure of
+interest rates? To answer this question, we can think about a bond yield as having two
+parts, one that is risk free and another that is a risk premium. The expectations
+­hypothesis explains the risk-free part, and inflation and interest rate risk explain the
+ risk premium. Together they form the liquidity premium theory of the term
+ structure of interest rates. Adding the risk premium to equation (6), we can express
+ this theory mathematically as
+                                    i1t + ​i​1t  +                     . . . + ​i e​
+                                                   1​​+ ​i​1t  +  2​​+             1t  +  n − 1​​
+                                             e             e
+
+ 	​                  int = rpn + ​  ___________________________
+                                                                  
+                                                                n    ​                          (7)​
+
+where rpn is the risk premium associated with an n-year bond. The larger the risk, the
+higher the risk premium, rpn, is. Because risk rises with maturity, rpn increases with n,
+
+
+===== PDF 209 | 印刷页 174 =====
+
+174   l Chapter 7  The Risk and Term Structure of Interest Rates
+
+
+
+                        and the yield on a long-term bond includes a larger risk premium than the yield on a
+                        short-term bond.
+                           To get some idea of the size of the risk premium rpn, we can look at the average
+                        slope of the term structure over a long period. From 1985 to early 2016, the difference
+                        between the interest rate on a 10-year Treasury bond and that on a 3-month Treasury
+                        bill averaged nearly two percentage points. It is important to keep in mind that this risk
+                        premium will vary over time. For example, if inflation is very stable or the variability
+                        of the real interest rate were to fall, then the 10-year bond risk premium could easily
+                        fall below one percentage point.
+                           Can the liquidity premium theory explain all three of our conclusions about the term
+                        structure of interest rates? The answer is yes. Like the expectations hypothesis, the
+                        liquidity premium theory predicts that interest rates of different maturities will move
+                        together and that yields on short-term bonds will be more volatile than yields on long-
+                        term bonds. And by adding a risk premium that grows with time to maturity, it explains
+                        why long-term yields are higher than short-term yields. Because the risk premium
+                        increases with time to maturity, the liquidity premium theory tells us that the yield curve
+                        will normally slope upward; only rarely will it lie flat or slope downward. (A flat yield
+                        curve means that interest rates are expected to fall; a downward-sloping yield curve
+                        suggests that the financial markets are expecting a significant decline in interest rates.)
+
+
+                        The Information Content of Interest Rates
+                        The risk and term structure of interest rates contain useful information about overall
+                        economic conditions. These indicators are helpful in evaluating both the present health
+                        of the economy and its likely future course. Risk spreads provide one type of informa-
+                        tion, the term structure another. In the following sections we will apply what we have
+                        just learned about interest rates to recent U.S. economic history and show how fore-
+                        casters use these tools.
+
+                        Information in the Risk Structure of Interest Rates
+                        When the overall growth rate of the economy slows or turns negative, it strains private
+                        businesses, increasing the risk that corporations will be unable to meet their financial
+                        obligations. The immediate impact of an impending recession, then, is to raise the risk
+                        premium on privately issued bonds. Importantly, though, an economic slowdown or
+                        recession does not affect the risk of holding government bonds.
+                           The increased risk of default is not the same for all firms. The impact of a recession
+                        on companies with high bond ratings is usually small, so the spread between U.S.
+                        Treasuries and Aaa-rated bonds of the same maturity is not likely to move by much.
+                        But for issuers whose finances were precarious prior to the downturn, the effect is
+                        quite different. Those borrowers who were least likely to meet their payment obliga-
+                        tions when times were good are even less likely to meet them when times turn bad.
+                        There is a real chance that they will fail to make interest payments. Of course, firms for
+                        which even the slightest negative development might mean disaster are the ones that
+                        issue low-grade bonds. The lower the initial grade of the bond, the more the default-
+                        risk premium rises as general economic conditions deteriorate. The spread between
+                        U.S. Treasury bonds and junk bonds widens the most.
+                           Panel A of Figure 7.6 shows annual GDP growth over four decades superim-
+                        posed on shading that shows the dates of recessions. (We’ll learn more about
+                        recession dating in Chapter 22.) Notice that during the shaded periods, growth is
+
+
+===== PDF 210 | 印刷页 175 =====
+
+                                                                               The Information Content of Interest Rates l 175
+
+
+
+
+                         The Flight to Quality
+                         APPLYING THE CONCEPT
+
+   Standing in the middle of an open field during a thunder-           to quality. Yields on U.S. Treasuries plummeted, while those
+   storm is a good way to get hurt, so few people do it. Instead,      on corporate bonds rose. Risk spreads widened quickly; the differ-
+   they take shelter. Investors do exactly the same thing during       ence between U.S. Treasury bills and commercial paper rates
+   financial storms; they look for a safe place to put their invest-   more than doubled, from its normal level of half a percentage
+   ments until the storm blows over. In ­practical terms, that         point to over one percentage point. The debt of countries
+   means selling risky investments and buying the safest instru-       with emerging markets was particularly hard hit.
+   ments they can: U.S. Treasury bills, notes, and bonds. An in-           This flight to quality was what William McDonough called
+   crease in the demand for government bonds coupled with a            “the most serious financial crisis since World War II” (see the
+   decrease in the demand for virtually everything else is called      opening of this chapter). Because people wanted to hold
+   a flight to quality. When it happens, there is a dramatic in-       only U.S. Treasury securities, the financial markets had
+   crease in the ­difference between the yields on safe and risky      ceased to function properly. McDonough worried that the
+   bonds—the risk spread rises.                                        problems in the financial markets would spread to the econ-
+       When the government of Russia defaulted on its bonds in         omy as a whole. They didn’t in the 1998 episode, but they did
+   August 1998, the shock set off an almost unprecedented flight       in the much larger financial crisis of 2007–2009.
+
+
+
+
+usually negative. In Panel B of Figure 7.6, GDP growth is drawn as the red line and
+the green line is the spread between yields on Baa-rated bonds and U.S. Treasury
+bonds. Note that the two lines move in opposite directions. (The correlation
+between the two series is −0.57.) That is, when the risk spread rises, output falls.
+The risk spread provides a useful indicator of general economic activity, and
+because financial markets operate every day, this information is available well
+before GDP data, which is published only once every three months. During the
+financial crisis of 2007–2009, the spread reached its widest level (5.6 percentage
+points) since the Great Depression of the 1930s.
+
+Information in the Term Structure of Interest Rates
+Like information on the risk structure of interest rates, information on the term
+­structure—particularly the slope of the yield curve—helps us to forecast general eco-
+ nomic conditions. Recall that according to the expectations hypothesis, long-term
+ interest rates contain information about expected future short-term interest rates. And
+ according to the liquidity premium theory, the yield curve usually slopes upward. The
+ key term in this statement is usually. On rare occasions, short-term interest rates
+ exceed long-term yields. When they do, the term structure is said to be inverted, and
+ the yield curve slopes downward.
+    An inverted yield curve is a valuable forecasting tool because it predicts a general
+ economic slowdown. Because the yield curve slopes upward even when short-term
+ yields are expected to remain constant—it’s the average of expected future short-term
+ interest rates plus a risk premium—an inverted yield curve signals an expected fall in
+ short-term interest rates. If interest rates are comparatively high, they serve as a brake
+ on real economic activity. As we will see in Part IV, monetary policymakers adjust
+ short-term interest rates in order to influence real economic growth and inflation.
+ When the yield curve slopes downward, it indicates that policy is tight because
+ ­policymakers are attempting to slow economic growth and inflation.
+
+
+===== PDF 211 | 印刷页 176 =====
+
+176    l Chapter 7  The Risk and Term Structure of Interest Rates
+
+
+
+
+   Figure 7.6                            The Risk Spread and GDP Growth
+
+
+
+           A. GDP Growth with Recessions Shaded
+                                 10
+         Percentage Change (%)
+
+
+
+
+                                  8
+                                  6
+                                  4
+                                  2
+                                  0
+                                 –2
+                                 –4
+                                 –6
+                                  1970   1975      1980       1985       1990       1995        2000         2005         2010         2015         2020
+
+                                                                                 GDP Growth
+
+           B. GDP Growth with Risk Spread
+                                 10                                                                                                                    6
+         Percentage Change (%)
+
+
+
+
+                                  8                                                                                                                    5
+                                  6
+
+
+
+
+                                                                                                                                                              Spread (%)
+                                  4                                                                                                                    4
+                                  2                                                                                                                    3
+                                  0                                                                                                                    2
+                                 –2
+                                 –4                                                                                                                    1
+                                 –6                                                                                                                    0
+                                  1970   1975      1980       1985       1990       1995        2000         2005         2010         2015         2020
+
+                                                      GDP Growth (left scale)                Risk Spread (right scale)
+
+
+SOURCE: Bureau of Economic Analysis and Board of Governors of the Federal Reserve System. GDP growth is the percentage change from the same quarter of the
+previous year, while the yield spread is the difference between the average yield on Baa and 10-year U.S. Treasury bonds during the quarter. Shaded periods denote
+recessions. (FRED data codes: GDPC1, BAA, GS10, and USREC.)
+
+
+                                                Careful statistical analysis confirms the value of the yield curve as a forecasting
+                                             tool.15 Figure 7.7 shows GDP growth and the slope of the yield curve, measured as the
+                                             difference between the 10-year and 3-month yields—what is called a term spread.
+                                             Panel A of Figure 7.7 shows GDP growth (as in Figure 7.6) together with the contem-
+                                             poraneous term spread (the growth and the term spread at the same time). Notice that
+                                             when the term spread falls, GDP growth tends to fall somewhat later. In fact, when the
+                                             yield curve becomes inverted, the economy tends to go into a recession roughly a year
+                                             later. Panel B of Figure 7.7 makes this clear. At each point, GDP growth in the current
+                                             year (e.g., 1990) is plotted against the slope of the yield curve one year earlier
+                                             (e.g., 1989). The two lines clearly move together; their correlation is +0.43. What the
+
+                                              See Arturo Estrella and Frederic S. Mishkin, “The Yield Curve as a Predictor of U.S. Recessions,” Federal
+                                             15
+
+                                             Reserve Bank of New York, Current Issues in Economics and Finance 2, no. 7 (June 1996). To learn what the
+                                             current yield curve tells about the U.S. economic outlook, see the latest monthly analysis of economists at the
+                                             Federal Reserve Bank of Cleveland: www.cleveland.fed.org/research/data/yield_curve.
+
+
+===== PDF 212 | 印刷页 177 =====
+
+                                                                                            The Information Content of Interest Rates l 177
+
+
+
+
+   Figure 7.7                         The Term Spread and GDP Growth
+
+
+
+         A. Current Term Spread and GDP Growth
+                              10                                                                                                                  5
+     Percentage Change (%)
+
+
+
+
+                               8                                                                                                                  4
+                               6                                                                                                                  3
+
+
+
+
+                                                                                                                                                         Spread (%)
+                               4                                                                                                                  2
+                               2                                                                                                                  1
+                               0                                                                                                                  0
+                              –2                                                                                                                 –1
+                              –4                                                                                                                 –2
+                              –6                                                                                                                 –3
+                               1970   1975    1980    1985      1990         1995         2000         2005        2010         2015         2020
+
+                                             GDP Growth (left scale)            Current Term Spread (right scale)
+
+         B. GDP Growth with Term Spread 1 Year Earlier
+                              10                                                                                                                  5
+      Percentage Change (%)
+
+
+
+
+                               8                                                                                                                  4
+                               6                                                                                                                  3
+
+
+
+
+                                                                                                                                                         Spread (%)
+                               4                                                                                                                  2
+                               2                                                                                                                  1
+                               0                                                                                                                  0
+                              –2                                                                                                                 –1
+                              –4                                                                                                                 –2
+                              –6                                                                                                                 –3
+                               1970   1975    1980    1985      1990         1995         2000         2005        2010         2015         2020
+
+                                         GDP Growth (left scale)            Term Spread 1 Year Earlier (right scale)
+
+
+SOURCE: Bureau of Economic Analysis and Board of Governors of the Federal Reserve System. GDP growth is the percentage change from the same quarter of
+the previous year, while the term spread is the difference between the average yield on a 10-year U.S. Treasury bond and a 3-month U.S. Treasury bill during the
+quarter. In Panel B, the spread is lagged 1 year. Shaded periods denote recessions (FRED data codes: GDPC1, GS10, TB3MS, and USREC).
+
+
+
+data show is that when the term spread falls, GDP growth tends to fall one year later.
+The yield curve is a valuable forecasting tool.
+   An example illustrates the usefulness of this information. In the left-hand panel of
+Figure 7.8, we can see that on January 23, 2001, the yield curve sloped downward from
+3 months to 5 years, then upward for maturities to 30 years. This pattern indicated that
+interest rates were expected to fall over the next few years. Eight months later, after mon-
+etary policy had eased and the U.S. economy had slowed substantially, the Treasury yield
+curve sloped upward again (see the right-hand panel of ­Figure 7.8). At that point, growth
+was at a virtual standstill, and policymakers were doing everything they could to get the
+economy moving again. They had reduced ­interest rates by more than three percentage
+points over a period of less than nine months. Thus, investors expected little in the way of
+short-term interest rate reductions. This prediction turned out to be wrong, however;
+interest rates kept falling after the terrorist attacks of September 11, 2001. They contin-
+ued to fall through the remainder of 2001 as the economy went into a mild recession.
+
+
+===== PDF 213 | 印刷页 178 =====
+
+                          178   l Chapter 7  The Risk and Term Structure of Interest Rates
+
+
+
+
+                                                    Figure 7.8             The U.S. Treasury Yield Curve in 2001
+
+
+
+                                                                    January 23, 2001                          August 17, 2001
+                                                                    6.50%                                     6.00%
+                                                                             Monday                                   Friday
+                                                                             1 week ago                       5.50    1 week ago
+                                                                    6.00
+                                                                             4 weeks ago                      5.00    4 weeks ago
+                                                                    5.50                                      4.50
+                                                                                                              4.00
+                                                                    5.00
+                                                                                                              3.50
+                                                                    4.50                                      3.00
+                                                                            3 6 1 2          5 10 30                 3 6 1 2   5 10 30
+                                                                            Mos Yr           Maturities              Mos Yr    Maturities
+
+
+                                                  SOURCE: Board of Governors of the Federal Reserve System.
+
+
+
+
+                                                     The yield curve did not predict the depth or duration of the recession of
+                                                  2007–2009. One- and two-year market rates did not anticipate the persistent
+                                                  plunge of overnight rates. As financial institutions weakened in the crisis, the
+                                                  widening risk spread signaled a severe economic downturn, providing a more use-
+                                                  ful predictor in this episode.
+                                                     We started this chapter by asking why different types of bonds have different yields
+                                                  and what it is we can learn from those differences. After a bit of work, we can now see
+                                                  that differences in both risk and time to maturity affect bond yields. The less likely the
+                                                  issuer is to repay or the longer the time to maturity, the riskier a bond and the higher its
+                                                  yield. Even more important, both increases in the risk spread and an inverted yield
+                                                  curve suggest troubled economic times ahead.
+
+
+
+
+                                                  Key Terms
+                                                  benchmark bond, 164                     junk bond, 161                   risk structure of interest
+                                                  commercial paper, 164                   liquidity premium theory of         rates, 165
+www.moneyandbanking.com
+
+
+
+
+                                                  expectations hypothesis                    the term structure, 173       spread over
+                                                     of the term                          municipal bonds, 167                Treasuries, 165
+                                                     structure, 170                       prime-grade commercial           taxable bond, 167
+                                                  fallen angel, 162                          paper, 164                    tax-exempt bond, 167
+                                                  flight to quality, 175                  rating, 159                      term spread, 176
+                                                  interest rate spread, 158               ratings downgrade, 163           term structure of interest
+                                                  inverted yield curve, 175               ratings upgrade, 164                rates, 169
+                                                  investment-grade bond, 160              risk spread, 165                 yield curve, 170
+
+
+===== PDF 214 | 印刷页 179 =====
+
+                                                                                            Chapter Lessons l 179
+
+
+
+Using FRED: Codes for Data in This Chapter
+   Data Series                                                     FRED Data Code
+   Moody’s Aaa corporate bond yield                                AAA
+   Moody’s Baa corporate bond yield (monthly)                      BAA
+   BofA Merrill Lynch US corporate BBB effective yield             BAMLC0A4CBBBEY
+   BofA Merrill Lynch US high-yield BB effective yield             BAMLH0A1HYBBEY
+   BofA Merrill Lynch US high-yield B effective yield              BAMLH0A2HYBEY
+   BofA Merrill Lynch US high-yield CCC or below effective yield   BAMLH0A3HYCEY
+   10-year Treasury constant maturity rate (monthly)               GS10
+   3-month Treasury bill rate                                      TB3MS
+   3-month AA nonfinancial commercial paper rate                   CPN3M
+   Consumer price index                                            CPIAUCSL
+   Real GDP                                                        GDPC1
+   Brazil Treasury bill rate                                       INTGSTBRM193N
+   3-month AA financial commercial paper rate                      CPF3M
+   Moody’s seasoned Baa corporate bond yield (weekly)              WBAA
+
+
+
+
+                                                                                                                                 www.moneyandbanking.com
+   10-year Treasury constant maturity rate (weekly)                WGS10YR
+   St. Louis Fed Financial Stress Index                            STLFSI
+   Long-term U.S. government bond yield                            LTGOVTBD
+
+
+
+
+Chapter Lessons
+1. Bond ratings summarize the likelihood that a bond issuer will meet its payment
+                                                                                              To learn more about the
+   obligations.                                                                               changing financial system, visit
+   a. Highly rated investment-grade bonds are those with the lowest risk of default.          www.moneyandbanking.com.
+
+   b. If a firm encounters financial difficulties, its bond rating may be downgraded.
+   c. Commercial paper is the short-term version of a privately issued bond.
+   d. Junk bonds are high-risk bonds with very low ratings. Firms that have a high
+      probability of default issue these bonds.
+   e. Investors demand compensation for default risk in the form of a risk premium.
+      The higher the risk of default, the lower a bond’s rating, the higher its risk pre-
+      mium, and the higher its yield.
+2. Municipal bonds are usually exempt from income taxes. Because investors care
+   about the after-tax returns on their investments, these bonds have lower yields than
+   bonds whose interest payments are taxable.
+3. The term structure of interest rates is the relationship between yield to maturity and
+   time to maturity. A graph with the yield to maturity on the vertical axis and the time
+   to maturity on the horizontal axis is called the yield curve.
+   a. Any theory of the term structure of interest rates must explain three facts:
+        i. Interest rates of different maturities move together.
+       ii. The yields on short-term bonds are more volatile than the yields on long-
+           term bonds.
+      iii. Long-term yields are usually higher than short-term yields.
+
+
+===== PDF 215 | 印刷页 180 =====
+
+                          180   l Chapter 7  The Risk and Term Structure of Interest Rates
+
+
+
+                                                     b. The expectations hypothesis of the term structure of interest rates states that long-
+                                                        term interest rates are the average of expected future short-term interest rates. This
+                                                        hypothesis explains only the first two facts about the term structure of interest rates.
+                                                     c. The liquidity premium theory of the term structure of interest rates, which is
+                                                        based on the fact that long-term bonds are riskier than short-term bonds, explains
+                                                        all three facts in part a.
+                                                  4. The risk structure and the term structure of interest rates both signal financial mar-
+                                                     kets’ expectations of future economic activity. Specifically, the likelihood of a
+                                                     recession will be higher when:
+                                                     a. The risk spread, or the range between low- and high-grade bond yields, is wide.
+                                                     b. The yield curve slopes downward, or is inverted, so that short-term interest rates
+                                                        are higher than long-term interest rates.
+
+
+                                                  Conceptual and Analytical Problems                                                           ®
+
+
+
+
+                                                   1.    Consider a firm that issued a large quantity of commercial paper in the period
+                                                         leading to a financial crisis. (LO1)
+                                                         a.	How would you expect the credit rating of the commercial paper to evolve as
+                                                             the crisis unfolds?
+www.moneyandbanking.com
+
+
+
+
+                                                         b.	Would you alter your prediction if, rather than commercial paper, the firm
+                                                             was instead issuing asset-backed commercial paper?
+                                                   2.    Suppose that a major foreign government defaults on its debt. What, if anything,
+                                                         will happen to the position and slope of the U.S. Treasury yield curve? (LO1)
+                                                   3.    What was the connection between house price movements, the growth in sub-
+                                                         prime mortgages, and securities backed by these mortgages—on the one hand—
+                                                         and—on the other hand—the difficulties encountered by some financial
+                                                         institutions during the 2007–2009 financial crisis? (LO1)
+                                                   4.    Suppose that the interest rate on one-year bonds is 4 percent and is expected to be
+                                                         5 percent in one year and 6 percent in two years. Using the expectations hypothesis,
+                                                         compute the yields in two- and three-year bonds and plot the yield curve. (LO3)
+                                                   5.* According to the liquidity premium theory, if the yields on both one- and two-
+                                                       year bonds are the same, would you expect the one-year yield in one year’s time
+                                                       to be higher, lower, or the same? Explain your answer. (LO3)
+                                                   6.    You have $1,000 to invest over an investment horizon of three years. The bond
+                                                         market offers various options. You can buy (i) a sequence of three one-year
+                                                         bonds; (ii) a three-year bond; or (iii) a two-year bond followed by a one-year
+                                                         bond. The current yield curve tells you that the one-year, two-year, and three-
+                                                         year yields to maturity are 3.5 percent, 4.0 percent, and 4.5 percent, respec-
+                                                         tively. You expect that one-year interest rates will be 4 percent next year and
+                                                         5 percent the year after that. Assuming annual compounding, compute the
+                                                         return on each of the three investments, and discuss which one you would
+                                                         choose. (LO3)
+                                                   7.* Suppose that the yield curve shows that the one-year bond yield is 3 percent,
+                                                       the two-year yield is 4 percent, and the three-year yield is 5 percent. Assume
+                                                       that the risk premium on the one-year bond is zero, the risk premium on the
+                                                  *Indicates more difficult problems.
+
+
+===== PDF 216 | 印刷页 181 =====
+
+                                                                      Conceptual and Analytical Problems l   181
+
+
+
+       two-year bond is 1 percent, and the risk premium on the three-year bond is
+       2 percent. (LO3)
+       a. What are the expected one-year interest rates next year and the following year?
+       b.	If the risk premiums were all zero, as in the expectations hypothesis, what
+           would the slope of the yield curve be?
+ 8.* If inflation and interest rates become more volatile, what would you expect to
+     see happen to the slope of the yield curve? (LO3)
+ 9. Suppose your local government, threatened with bankruptcy, decided to tax
+    the interest income on its own bonds as part of an effort to rectify serious
+    budgetary woes. What would you expect to see happen to the yields on these
+    bonds? (LO2)
+10.* Suppose the yields on tax-exempt local government bonds in Problem 9 initially
+     were below the Treasury yields of the same maturity. If the tax-exempt status
+     were then removed from the local government bonds, would you expect their
+     yields spreads versus treasuries to narrow, to disappear, or change sign? Explain
+     your answer. (LO1, LO2)
+11.    Suppose the risk premium on U.S. corporate bonds increases. How would the
+       change affect your forecast of future economic activity, and why? (LO4)
+
+
+
+
+                                                                                                                   www.moneyandbanking.com
+12.     If regulations restricting institutional investors to investment-grade bonds were
+       lifted, what do you think would happen to the spreads between yields on
+       ­investment-grade and speculative-grade bonds? (LO1)
+13.    Consider a struggling emerging market economy where, in contrast to developed
+       economies, the perceived risk associated with holding sovereign bonds is
+       affected by the state of the economy. Suppose vast quantities of valuable miner-
+       als were unexpectedly discovered on government-owned land. How might the
+       government’s bond rating be affected? Using the model of demand and supply
+       for bonds, what would you expect to happen to the yields on that country’s gov-
+       ernment bonds? (LO1, LO4)
+14.    Select the circumstance in which the impact on government bond yields of a new
+       source of revenue (such as a natural resource discovery) would be largest.
+       Explain your choice.
+       a.	Before the discovery, the government was heavily indebted with a crippling
+           debt-service burden or
+       b.	Before the discovery, the government had a very low debt burden. (LO1, LO4)
+15.    The misrating of mortgage-backed securities by rating agencies contributed to
+       the financial crisis of 2007–2009. List some recommendations you would make
+       to avoid such mistakes in the future. (LO1)
+16.    How do you think the abolition of investor protection laws would affect the risk
+       spread between corporate and government bonds? (LO1)
+17.    You and a friend are reading The Wall Street Journal and notice that the Treas-
+       ury yield curve is slightly upward sloping. Your friend comments that all looks
+       well for the economy but you are concerned that the economy is heading for
+       trouble. Assuming you are both believers in the liquidity premium theory, what
+       might account for your difference of opinion? (LO3, LO4)
+
+*Indicates more difficult problems.
+
+
+===== PDF 217 | 印刷页 182 =====
+
+                          182   l Chapter 7  The Risk and Term Structure of Interest Rates
+
+
+
+                                                  18.    Do you think the term spread was an effective predictor of the recession that
+                                                         started in December 2007? Why or why not? (LO4)
+                                                  19.* Given the data in the accompanying table, would you say that this economy is
+                                                       heading for a boom or for a recession? Explain your choice. (LO4)
+
+
+                                                                                 3-Month            10-Year              Baa Corporate
+                                                                               Treasury Bill     Treasury Bond            10-Year Bond
+
+                                                        January                    1.00%             3.0%                    7.0%
+                                                        February                   1.05              3.5                     7.2
+                                                        March                      1.10              4.0                     7.5
+                                                        April                      1.20              4.3                     7.7
+                                                        May                        1.25              4.5                     7.8
+
+
+
+
+                                                  20.    Suppose recent regulatory reforms relating to credit rating agencies are perceived
+                                                         to improve the reliability and accuracy of credit ratings of corporate bonds.
+                                                         Imagine further that you manage a corporation interested in issuing new bonds,
+www.moneyandbanking.com
+
+
+
+
+                                                         in addition to past issues by the firm that already trade in the market. Identify
+                                                         one way in which your firm might lose and one way in which it might gain from
+                                                         these reforms. Explain your answer. (LO1)
+
+
+                                                  Data Exploration                                         ®
+
+
+
+
+                                                  For detailed instructions on using Federal Reserve Economic Data (FRED) online to
+                                                  answer each of the following problems, visit www.mhhe.com/moneyandbanking6e
+                                                  and refer to the FRED Resources and Data Exploration Hints.
+                                                  1. Did the financial crisis of 2007–2009 affect financial and nonfinancial firms to the
+                                                     same extent? For the period beginning in 2006, plot the spread between the interest
+                                                     rates on three-month nonfinancial commercial paper (FRED code: CPN3M) and
+                                                     three-month Treasury bills (FRED code: TB3MS). Plot a similar spread using the
+                                                     interest rates on three-month financial commercial paper (FRED code: CPF3M)
+                                                     and Treasury bills (FRED code: TB3MS). Compare the evolution of these two
+                                                     spreads. (LO1)
+                                                  2. The Federal Reserve Bank of St. Louis publishes a weekly index of financial stress
+                                                     (FRED code: STLFSI) that summarizes strains in financial markets, including
+                                                     liquidity problems. For the period beginning in 1994 plot this index and, as a sec-
+                                                     ond line, the difference between the weekly Baa corporate bond yield (FRED code:
+                                                     WBAA) and the weekly 10-year U.S. Treasury bond yield (FRED code:
+                                                     WGS10YR). Does the index STLFSI provide an early warning of stress? (LO4)
+                                                  3. How did the Great Depression (1929–1933) and the Great Recession of 2007–2009
+                                                     affect expectations of corporate default? To investigate, construct for each of those
+                                                     periods a separate plot of the corporate bond yield spread. For the Depression
+                                                     period, plot from 1930 to 1933 the difference between the Baa corporate bond yield
+
+                                                  *Indicates more difficult problems.
+
+
+===== PDF 218 | 印刷页 183 =====
+
+                                                                                      Data Exploration   l 183
+
+
+
+  (FRED code: BAA) and the long-term government bond yield (FRED code:
+  ­LTGOVTBD). For the Great Recession, plot from 2007 to 2009 the difference
+   between the Baa yield (FRED code: BAA) and the 10-year Treasury bond yield
+   (FRED code: GS10). Compare the plots. (LO1)
+4. How reliably does an inverted yield curve anticipate a recession? How far in
+   advance? Plot from 1970 (as in Figure 7.7A) the difference between the 10-year
+   Treasury yield (FRED code: GS10) and the 3-month Treasury bill rate (FRED
+   code: TB3MS). Discuss the variability of the time between an inversion of the yield
+   curve and the subsequent recession. (LO3, LO4)
+5. Download the data used from the graph produced in Data Exploration Problem 4
+   and (a) find the most recent period for which the yield curve was (approxi-
+   mately) flat and (b) the longest time period for which the yield curve was inverted.
+   (LO3, LO4)
+
+
+
+
+                                                                                                                 www.moneyandbanking.com

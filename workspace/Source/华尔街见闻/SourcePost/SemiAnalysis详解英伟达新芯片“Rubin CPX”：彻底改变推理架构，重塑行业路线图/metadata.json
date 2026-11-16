@@ -1,0 +1,177 @@
+{
+  "article_id": 3755680,
+  "selection": {
+    "article_id": 3755680,
+    "url": "https://wallstreetcn.com/articles/3755680",
+    "title": "SemiAnalysis详解英伟达新芯片“Rubin CPX”：彻底改变推理架构，重塑行业路线图",
+    "page_display_time": "2025-09-16T20:28:29+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": "硬AI",
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "A",
+    "reading_value": "展开预填充与解码分离的推理架构，解释带宽、显存及互联选择如何改变产业链需求。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 3960,
+    "page_image_count": 6,
+    "original_underlying_research_verified": false,
+    "catalog_number": 170
+  },
+  "url": "https://wallstreetcn.com/articles/3755680",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3755680?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:00+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/27c27cf7-f684-49a6-b85f-782214d96fe8.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "而Rubin CPX正是为解决这一痛点而生，它“瘦身”了内存带宽，转而强调计算FLOPS。 Rubin CPX拥有20 PFLOPS的FP4密集计算能力，但仅配备了2TB/s的内存带宽和128GB的GDDR7内存。相比之下，双芯片R200提供33.3 PFLOPS的FP4密集计算能力和20.5TB/s的内存带宽以及288GB的HBM。",
+      "path": "assets/figure_001.png",
+      "sha256": "01f62e7331320a8a06083a70d7c3723312e8361bcb3b0c2871bd57d74365b83a",
+      "bytes": 23971,
+      "width": 795,
+      "height": 343,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/27c27cf7-f684-49a6-b85f-782214d96fe8.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/6b594813-0d5c-45fc-a252-9e07b2eb2b2c.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "而Rubin CPX正是为解决这一痛点而生，它“瘦身”了内存带宽，转而强调计算FLOPS。 Rubin CPX拥有20 PFLOPS的FP4密集计算能力，但仅配备了2TB/s的内存带宽和128GB的GDDR7内存。相比之下，双芯片R200提供33.3 PFLOPS的FP4密集计算能力和20.5TB/s的内存带宽以及288GB的HBM。",
+      "context_after": "这将带来成本效益的显著提升，SemiAnalysis报告指出，将HBM切换为更便宜的GDDR7内存，每GB成本可降低50%以上。这意味着，在预填充阶段，Rubin CPX能够以远低于R200的成本，提供高效的计算能力，从而大幅降低总体拥有成本（TCO）。",
+      "path": "assets/figure_002.png",
+      "sha256": "407df2b07976c5a40abf27040e3bc3dc7d0a6dfb1c8d77dd9648b7c34c723d69",
+      "bytes": 171989,
+      "width": 805,
+      "height": 353,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/6b594813-0d5c-45fc-a252-9e07b2eb2b2c.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/785e1978-d8cb-4f88-b61f-f6219f9e01aa.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "Rubin CPX的另一个重要优势在于其对预填充流水线并行（Pipeline Parallelism）的优化。",
+      "path": "assets/figure_003.png",
+      "sha256": "8eca496fdd8d790faf2d9e82e1bb2c9fbbb83437df4206a56abe1233d7300fcd",
+      "bytes": 66797,
+      "width": 733,
+      "height": 429,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/785e1978-d8cb-4f88-b61f-f6219f9e01aa.png"
+    },
+    {
+      "order": 4,
+      "source_url": "https://wpimg-wscn.awtmt.com/d2d29ca0-951f-4bdf-b38d-7f9a49ea4330.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "分析显示，当序列长度超过32k时，FLOPS利用率达到100%，而内存带宽利用率下降。使用R200进行纯预填充操作时，每小时总拥有成本浪费达0.90美元，而Rubin CPX通过使用成本更低的内存显著降低了这种浪费。",
+      "path": "assets/figure_004.png",
+      "sha256": "29071b1513089b1e5fcf2391509408a3c441a368f1590ae1b77b0928e651b92d",
+      "bytes": 63035,
+      "width": 800,
+      "height": 377,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/d2d29ca0-951f-4bdf-b38d-7f9a49ea4330.png"
+    },
+    {
+      "order": 5,
+      "source_url": "https://wpimg-wscn.awtmt.com/95b744c7-575d-4188-a1a0-1115533043ae.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "在管道并行推理中，Rubin CPX的PCIe Gen6 x16接口提供约1Tbit/s单向带宽，足以处理现代MoE前沿LLM的预填充任务。Rubin CPX提供更大内存容量，但使用的是\"较低质量\"的GDDR7内存，每GB成本不到HBM的一半。从内存供应商角度看，GDDR7利润率较低，因为技术要求不高且竞争更激烈(如Samsung可以供应)。",
+      "path": "assets/figure_005.png",
+      "sha256": "29a4d62a9aa11196c8f211495fcdd1db9824f7cca8eda3d8427a986fcfd46cb1",
+      "bytes": 51903,
+      "width": 790,
+      "height": 471,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/95b744c7-575d-4188-a1a0-1115533043ae.png"
+    },
+    {
+      "order": 6,
+      "source_url": "https://wpimg-wscn.awtmt.com/a2d73611-121b-4320-b724-153afec77339.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_006.png",
+      "sha256": "8c491a41acb7aaee7a5fb9771eed325f853832053025072bbcc193354d5602ce",
+      "bytes": 781711,
+      "width": 1024,
+      "height": 416,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/a2d73611-121b-4320-b724-153afec77339.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "SemiAnalysis详解英伟达新芯片“Rubin CPX”：彻底改变推理架构，重塑行业路线图",
+  "page_display_time": "2025-09-16T20:28:29+08:00",
+  "page_byline": "赵颖",
+  "source_label": "硬AI",
+  "source_url": "",
+  "subtitle": "SemiAnalysis报告指出，Rubin CPX的推出，其重要性仅次于2024年3月GB200 NVL72 Oberon机架级形态的。该芯片通过专门优化预填充阶段，强调计算FLOPS而非内存带宽。这可能导致HBM需求下降，GDDR7内存需求激增，三星成为最大受益者。此外，英伟达竞争对手或将不得不再次重新配置他们的整个路线图，就像Oberon架构改变了整个行业的路线图一样。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 4014,
+  "body_sha256": "0dbb2c1cd9fd1bc19c5405a6b124959e027fe0a2f03619a02242cbce920a0c78",
+  "raw_sha256": "3642f2fe534fcc644dd8f5a304f6523c98c4672e82e062ba5e7c4256138c11c0",
+  "raw_bytes": 16411,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/7c742567-cb27-45fe-b13c-be9bd8a49089.mp3",
+  "image_occurrences": 6,
+  "html_table_count": 0,
+  "catalog_image_count": 6,
+  "catalog_text_characters": 3960,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "近期",
+      "url": "https://wallstreetcn.com/articles/3755301"
+    },
+    {
+      "text": "微信公众号“硬AI”",
+      "url": "https://mp.weixin.qq.com/s/2rfpVmedXuAVybneRhpkIg"
+    },
+    {
+      "text": "移步这里",
+      "url": "https://mp.weixin.qq.com/s/2rfpVmedXuAVybneRhpkIg"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:45+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "3642f2fe534fcc644dd8f5a304f6523c98c4672e82e062ba5e7c4256138c11c0",
+      "bytes": 16411
+    },
+    "article.html": {
+      "sha256": "ae6d9489825d1474786b2bb56ec5d293837002c870eb9e00f929cb3837f81ca5",
+      "bytes": 16596
+    },
+    "article.md": {
+      "sha256": "2aea20252e6682ca9b8b5b06268b3db4eb46913849cf0cf0cff2ffa7dd0a7b5f",
+      "bytes": 10761
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:42+08:00"
+}

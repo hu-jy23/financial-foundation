@@ -1,0 +1,561 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>三篇文章：基础知识与进一步分析</title><style>
+:root{--bg:#f5f2e9;--paper:#fffdf8;--ink:#20332e;--muted:#63736c;--line:#d8dfd4;--accent:#226b57}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.8 system-ui,"Microsoft YaHei",sans-serif}header,main,nav,footer{max-width:1240px;margin:auto}header{padding:64px 40px 32px}h1{font-size:clamp(36px,5.2vw,66px);line-height:1.25;letter-spacing:-.035em;margin:12px 0 22px;max-width:1000px}h2{font-size:30px;line-height:1.45;margin:8px 0 24px}h3{font-size:22px;line-height:1.55}h4{font-size:18px;margin:20px 0 10px}h5{font-size:16px;margin:15px 0 6px}a{color:var(--accent);text-underline-offset:3px;overflow-wrap:anywhere}p{margin:10px 0 16px}.eyebrow{font-size:12px;font-weight:750;letter-spacing:.12em;color:var(--accent);text-transform:uppercase}.lead{font-size:20px;max-width:790px;color:var(--muted)}.stats{display:flex;gap:70px;margin-top:32px}.stats div{display:flex;flex-direction:column}.stats strong{font:500 36px/1.3 Georgia,serif}.stats span{font-size:13px;color:var(--muted);margin-top:6px}nav{display:flex;gap:24px;padding:14px 40px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);flex-wrap:wrap}nav a{font-size:14px;text-decoration:none}main{padding:0 40px}main>section{padding:46px 0;border-bottom:1px solid var(--line);scroll-margin-top:20px}.findings{padding-left:24px;font-size:18px}.findings li{padding:8px 0;max-width:1000px}.findings p{margin:0}.case-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}.case-note{background:var(--paper);border:1px solid var(--line);padding:24px}.case-note h3{margin:6px 0 12px}.case-note img{max-width:100%;height:auto;margin-top:16px}.caption,.muted{color:var(--muted);font-size:14px}.table-wrap{overflow:auto}table{width:100%;border-collapse:collapse;background:var(--paper);font-size:14px}th,td{padding:16px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}th{color:var(--muted);font-size:12px;min-width:90px}td:nth-child(2){min-width:250px}td:nth-child(3){min-width:210px}td:nth-child(4){min-width:230px}.controls{display:flex;flex-wrap:wrap;align-items:end;gap:24px;margin:0 0 22px}.controls label{font-size:12px;color:var(--muted)}input{display:block;padding:10px 12px;background:var(--paper);border:1px solid #bfcbbb;font:inherit;min-width:290px}button{padding:10px 17px;border:1px solid #bfcbbb;color:var(--ink);background:transparent;font:inherit;cursor:pointer}.active{color:#fff;background:var(--accent);border-color:var(--accent)}details.agent{background:var(--paper);border:1px solid var(--line);margin:12px 0}summary{cursor:pointer}details.agent>summary{padding:20px;display:grid;grid-template-columns:85px 1fr 38px;gap:14px;align-items:start;list-style:none}.run{font-size:12px;font-weight:750;color:var(--accent);padding-top:4px}.expand{font-size:12px;color:var(--muted);padding-top:4px}details[open]>.inside{border-top:1px solid var(--line)}.inside{padding:12px 28px 28px}.inside h3{margin-top:30px}.passage{padding:12px 0;border-bottom:1px solid var(--line)}blockquote{border-left:3px solid #83a98e;margin:14px 0;padding:12px 18px;background:#eff3eb;white-space:pre-wrap}.method{font-size:14px;color:var(--muted)}.structure{padding:10px 0 18px;border-bottom:1px solid var(--line)}.pill{display:inline-block;font-size:11px;font-weight:500;border:1px solid #b6c9b5;padding:2px 9px;border-radius:20px;vertical-align:middle}.field{display:grid;grid-template-columns:120px 1fr;gap:12px;margin:7px 0}.field>b{font-size:12px;color:var(--muted);padding-top:4px}.field p{margin:0 0 8px}.sample{font-size:17px;padding:20px;background:#f6f4ec;border-left:3px solid #b19a67}.reading{font-size:13px;overflow-wrap:anywhere}.reading summary{margin-top:18px}.boundary{padding:18px 24px;background:#eaf0e5;font-size:14px;color:#485e50;margin-top:24px}footer{padding:28px 40px 50px;color:var(--muted);font-size:12px}button:focus-visible,a:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid #be9a40;outline-offset:3px}[hidden]{display:none!important}@media(max-width:800px){header{padding:32px 20px}main{padding:0 20px}nav{padding:14px 20px;gap:16px}.stats{gap:35px}.case-grid{grid-template-columns:1fr}h2{font-size:25px}.field{grid-template-columns:1fr;gap:0}details.agent>summary{grid-template-columns:72px 1fr}.expand{display:none}.inside{padding:8px 18px 20px}input{min-width:230px}main>section{padding:32px 0}}@media print{nav,.controls{display:none}.case-grid{display:block}details.agent{break-inside:avoid}body{background:white}}
+ main section{scroll-margin-top:16px}.stats{flex-wrap:wrap}dl{overflow-wrap:anywhere}.sample{overflow-wrap:anywhere}</style></head><body><header><p class="eyebrow">FINANCIAL FOUNDATION / 2026.11.13</p><h1>先补齐重要知识，<br>再展开文章分析。</h1><p class="lead">三篇文章，各一个继承完整上下文的subagent。概念与关系覆盖在前，深入解释和结构安排在后。</p><div class="stats"><div><strong>3</strong><span>篇文章／试作</span></div><div><strong>37</strong><span>项概念清单条目</span></div><div><strong>18</strong><span>项关系清单条目</span></div></div><p class="muted">清单包含引用与更新，以上数量不等于新增节点数；正式graph尚未接入本轮提案。</p></header><nav><a href="#overview">修改与顺序</a><a href="#coverage">覆盖检查</a><a href="#results">三篇成果</a><a href="#docs">说明文件</a></nav><main><section id="overview"><h2>本轮如何调整</h2><p>通读与看图 → 重要概念／关系清单 → 对照现有graph → 基础解释制作 → 进一步分析 → 内容维护安排 → 主agent审阅。</p><ul class="findings"><li><p><strong>每篇只分派一个继承完整上下文的agent。</strong> 重要知识覆盖和深入分析由同一篇任务连续完成，主agent统一审阅。</p>
+</li><li><p><strong>基础制作已有实际产物。</strong> SOX、KOSPI、CDX、CoreWeave及工具规则都进入核心解释；已有充分内容的概念与关系引用旧页，新增知识不再仅作为Event的背景被略过。</p>
+</li><li><p><strong>关系覆盖包括具体主体。</strong> 韩国稿展开企业回购、外资和境内机构的承接联系；美债稿展开资管者、基金与交易商的分工，不要求每条联系都先成为一个通用机制。</p>
+</li><li><p><strong>清单与注册分开。</strong> 37项概念、18项关系包括引用、更新与正文解释。下一步正式入库仍需去重、核对来源和确定维护位置，不据清单数量增加节点。</p>
+</li></ul></section><section id="coverage"><h2>重点内容是否真正写出</h2><ul><li><p>韩国：SOX已给出指数身份、修正市值加权、行业范围与比较用途，并引用Nasdaq概览；不再只出现在收敛假说的批评中。</p>
+</li><li><p>韩国：KOSPI与剔除样本分开；杠杆ETF与其持仓／存续敞口分开；三大买盘的行动条件及当时观察形成了关系解释。KRX完整方法书未取得，这一边界仍需保留。</p>
+</li><li><p>AI CDS：12项概念覆盖通用CDS、CDX、报价、成交与存量、经营主体等；6项关系把供应商融资、代理保护、基差和期限分化实际展开。</p>
+</li><li><p>美债基差：14项概念、6项关系说明两腿、融资、保证金、中介与政策方案；没有因为现有机制完整就只提交一段新闻评论。</p>
+</li></ul></section><section id="results"><h2>三篇文章的基础与分析</h2><p><a href="#ai">AI CDS：先补齐工具、标的与参与者，再分析重新定价</a> · <a href="#basis">一文读懂隔夜美债崩盘的“罪魁”——基差交易</a> · <a href="#korea">韩国跌出“历史级便宜”，为何无人接盘？</a></p><p><button id="open">展开全部知识条目</button> <button id="close">收起知识条目</button></p></section><section id="ai"><p class="eyebrow">3784900 · 单篇单agent</p><h2>AI CDS：先补齐工具、标的与参与者，再分析重新定价</h2><p><a href="../SourcePost/2008%E5%86%8D%E7%8E%B0%EF%BC%81%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E5%8D%8E%E5%B0%94%E8%A1%97%E6%9C%80%E7%83%AD%E9%97%A8%E4%BA%A4%E6%98%93%EF%BC%9AAI%20CDS/article.md">本地原文</a> · <a href="../SourcePost/2008%E5%86%8D%E7%8E%B0%EF%BC%81%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E5%8D%8E%E5%B0%94%E8%A1%97%E6%9C%80%E7%83%AD%E9%97%A8%E4%BA%A4%E6%98%93%EF%BC%9AAI%20CDS/article.html">HTML原文</a> · <a href="%E6%88%90%E6%9E%9C/ai.md">知识与分析草稿MD</a> · <a href="%E6%88%90%E6%9E%9C/ai.json">完整结果JSON</a></p><div class="boundary"><p>重要工具、指数与参与者已补齐；CDX和CoreWeave比前轮获得了更明确的基础位置。报价与存量说明帮助读者理解后续比较。CDX人数规则只核了官方摘要，具体系列与成分未复原；新闻合同与发行数字也没有全面核实。</p>
+</div><h3>文章问题</h3><p>共同AI扩张为何对应不同企业、不同期限和不同工具的不同信用价格，需要先明确CDS、CDX、信用基差、报价方式、成交／持仓以及供应商融资的含义，才能讨论融资风险与保护需求。</p>
+<h3>重要概念与对象</h3><div class="table-wrap"><table><thead><tr><th>内容</th><th>处理</th><th>现有覆盖</th></tr></thead><tbody><tr><td><a href="#ai-concepts-0">信用违约互换CDS与企业单一名称CDS</a></td><td>更新／通用入口候选</td><td><p>C-FISCAL-14《主权信用风险与CDS》已含通用合约、报价与测度解释，但主体为主权；企业范围需要单独明确。</p>
+</td></tr><tr><td><a href="#ai-concepts-1">CDX信用衍生品指数</a></td><td>新建候选</td><td><p>现有CDS页提供工具基础，未发现独立CDX对象页。</p>
+</td></tr><tr><td><a href="#ai-concepts-2">AI相关企业CDS</a></td><td>专题子概念候选</td><td><p>尚无该专题页；现有云服务、NVIDIA、信用利差和主权CDS各承载部分背景。</p>
+</td></tr><tr><td><a href="#ai-concepts-3">信用利差与风险中性概率</a></td><td>引用／补案例</td><td><p>C-CREDIT-SPREAD《信用利差》；C-EXPECT-05《主观概率与风险中性概率》；C-FISCAL-14报价部分。</p>
+</td></tr><tr><td><a href="#ai-concepts-4">CDS—现金债基差</a></td><td>更新／子概念候选</td><td><p>C-DERIV-15《基差》以现券—期货为重点；C-FISCAL-14及C-CREDIT-SPREAD已有信用工具比较入口。</p>
+</td></tr><tr><td><a href="#ai-concepts-5">CDS期限曲线与3s5s</a></td><td>正文解释／工具入口更新</td><td><p>C-IR-CURVE《收益率曲线》提供期限结构语言；C-FISCAL-14有主权CDS期限讨论。</p>
+</td></tr><tr><td><a href="#ai-concepts-6">固定票息与预付点数</a></td><td>引用／补清具体读数</td><td><p>C-FISCAL-14已解释固定票息加初始价款，可作为通用工具知识复用。</p>
+</td></tr><tr><td><a href="#ai-concepts-7">CDS成交量与未平仓名义金额</a></td><td>正文解释／更新</td><td><p>现有CDS页有名义额与净风险的区别，需补本次图示。</p>
+</td></tr><tr><td><a href="#ai-concepts-8">供应商融资、贷款与担保</a></td><td>重要更新／概念候选</td><td><p>C-TECH-03《云服务与超大规模云厂商》区分投资、应收款与回款，需补信用责任的解释。</p>
+</td></tr><tr><td><a href="#ai-concepts-9">超大规模云厂商与芯片供应商</a></td><td>引用／补横向比较</td><td><p>C-TECH-03《云服务与超大规模云厂商》及NVIDIA等既有企业页。</p>
+</td></tr><tr><td><a href="#ai-concepts-10">CoreWeave与新型算力租赁商</a></td><td>具体对象候选</td><td><p>现有数据中心、云服务与GPU对象提供背景，未发现CoreWeave独立正文。</p>
+</td></tr><tr><td><a href="#ai-concepts-11">信用评级与投资级／高收益</a></td><td>引用</td><td><p>C-CREDIT-08《信用评级与迁移》</p>
+</td></tr></tbody></table></div><details class="agent" id="ai-concepts-0"><summary><span class="run">更新／通用入口候选</span><span>信用违约互换CDS与企业单一名称CDS</span><span class="expand">展开</span></summary><div class="inside"><p>全篇讨论的合约工具；不能仅把术语放进历史材料。</p>
+<div class="sample"><p>CDS是在指定参考实体与信用事件条件下转移信用风险的合同。保护买方支付约定保费，保护卖方在合约规定的事件后按条款结算。参考实体不等于交易对手：企业可能是信用风险的观察对象，保护承诺由另一交易方提供。单一名称CDS围绕一个参考实体；其买方可以持有债券、贷款或其他相关资产，也可以表达信用观点，因此应另查交易动机。企业CDS的触发、债务顺位、可交割义务与结算安排须按合同确认，不能无条件沿用主权特有条款。通用解释可从现有页复用并整理为共享入口，主权特征保留原位。</p>
+</div><h4>对照现有graph</h4><p>C-FISCAL-14《主权信用风险与CDS》已含通用合约、报价与测度解释，但主体为主权；企业范围需要单独明确。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-concepts-1"><summary><span class="run">新建候选</span><span>CDX信用衍生品指数</span><span class="expand">展开</span></summary><div class="inside"><p>理解文中8%成分与16%风险份额、投资级与高收益的参照。</p>
+<div class="sample"><p>CDX是一组可交易的CDS指数，其合约把多个参考实体的信用风险集合起来。S&amp;P官方说明北美IG与HY分别跟踪投资级及高收益信用，通常分别覆盖125与100个流动参考实体。应按系列、期限和具体方法书确认构成；成分名单、评级及换期会变化。指数合约与某组单一名称合约不必具有完全相同的交易价格。文章所说AI实体占8%成分、16%隐含风险，后者不是简单的人数比例，也不意味着违约概率16%；本文没有给出其风险度量，不能据此重建组合风险权重。</p>
+</div><h4>对照现有graph</h4><p>现有CDS页提供工具基础，未发现独立CDX对象页。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li><li><p><a href="https://www.spglobal.com/spdji/en/index-family/fixed-income/tradables/cdx-north-america/">https://www.spglobal.com/spdji/en/index-family/fixed-income/tradables/cdx-north-america/</a></p></li><li><p><a href="https://www.spglobal.com/spdji/en/documents/methodologies/sp-cdx-hy-ig-index-rules.pdf">https://www.spglobal.com/spdji/en/documents/methodologies/sp-cdx-hy-ig-index-rules.pdf</a></p></li></ul></div></details><details class="agent" id="ai-concepts-2"><summary><span class="run">专题子概念候选</span><span>AI相关企业CDS</span><span class="expand">展开</span></summary><div class="inside"><p>文章的持续研究标的群，保存同一产业主题下的内部差异。</p>
+<div class="sample"><p>AI相关企业CDS在本文中指围绕AI扩张相关企业的一组信用保护标的，并非一种具有统一法律条款的新合约。研究范围包括云厂商与芯片供应商，另以CoreWeave作高收益观察；应区分投资级十名称样本与外围对照，不能合成一个没有说明权重的平均值。该研究对象复用CDS定义，自己的内容是各企业的融资角色、客户信用责任、保护交易用途和报价差异，以及这些联系如何随时间变化。成员范围和观测窗口应随引用材料说明。</p>
+</div><h4>对照现有graph</h4><p>尚无该专题页；现有云服务、NVIDIA、信用利差和主权CDS各承载部分背景。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-concepts-3"><summary><span class="run">引用／补案例</span><span>信用利差与风险中性概率</span><span class="expand">展开</span></summary><div class="inside"><p>避免将价格上涨直接等同真实违约频率提高。</p>
+<div class="sample"><p>现金债信用利差是债券收益或贴现补偿相对指定基准曲线的差额，通常包含违约损失、风险补偿及流动性等成分。CDS报价还受合同与交易条件影响。即使在简化模型中由利差、回收假设和期限反推概率，得到的也首先是与价格相容的风险调整量。记录本次利差变动时应同时保留绝对水平与起点：图2中博通47到168bp的相对涨幅大，甲骨文180到271bp的期末水平却更高。两种比较用途不同。</p>
+</div><h4>对照现有graph</h4><p>C-CREDIT-SPREAD《信用利差》；C-EXPECT-05《主观概率与风险中性概率》；C-FISCAL-14报价部分。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-concepts-4"><summary><span class="run">更新／子概念候选</span><span>CDS—现金债基差</span><span class="expand">展开</span></summary><div class="inside"><p>文章最主要的跨工具比较量。</p>
+<div class="sample"><p>本文采用CDS保护利差减匹配现金债信用利差的方向，单位为基点。正值表示在相应口径下保护报价高于现金债额外补偿。两侧应尽量匹配参考实体、期限、债务顺位、币种和合同覆盖，并说明现金债利差基准；upfront须先在相应合同输入下转换，不能直接相减。信用风险共同上升不自动产生基差变化；两市场不同的持有者需求、融资、借券、流动性与保护承接也会改变相对价格。它的口径可跨行业复用，本次AI历史单独引用，避免套用现券—期货交割公式。</p>
+</div><h4>对照现有graph</h4><p>C-DERIV-15《基差》以现券—期货为重点；C-FISCAL-14及C-CREDIT-SPREAD已有信用工具比较入口。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-concepts-5"><summary><span class="run">正文解释／工具入口更新</span><span>CDS期限曲线与3s5s</span><span class="expand">展开</span></summary><div class="inside"><p>同一五年期报价掩盖的期限差异是文章的重要证据。</p>
+<div class="sample"><p>CDS期限曲线比较同一参考实体、同一时点不同保护期限的报价。本文图6的3s5s指五年期利差减三年期利差，并同时展示该差额占五年期利差的比例。斜率小意味着两期限报价更接近，不能直接解释成企业未来安全，也不能仅凭曲线确认某个期限的真实违约概率。亚马逊与谷歌五年期报价相近，3s5s分别18与27bp，说明较短期限定价仍有差别。分析需要同时考虑信用风险期限分布与集中对冲需求。</p>
+</div><h4>对照现有graph</h4><p>C-IR-CURVE《收益率曲线》提供期限结构语言；C-FISCAL-14有主权CDS期限讨论。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-concepts-6"><summary><span class="run">引用／补清具体读数</span><span>固定票息与预付点数</span><span class="expand">展开</span></summary><div class="inside"><p>读懂CoreWeave15.5点并与基点报价区分。</p>
+<div class="sample"><p>标准化CDS可以约定固定票息，并以起初支付的价款调整保护腿与保费腿的现值差。upfront点数以名义本金的一定比例表达，一点对应名义本金的1%；在相应报价约定下15.5点意味着每100名义本金15.5的初始价款，还需连同后续固定票息理解。这不是15.5%的年保费，也不是15.5%的违约概率。ISDA提供upfront与利差之间的标准转换方法，所需合同与曲线输入不能省略；报价形式本身不单独证明受困。本文未取得CoreWeave具体标准票息，故不转换成一个虚构bp数值。</p>
+</div><h4>对照现有graph</h4><p>C-FISCAL-14已解释固定票息加初始价款，可作为通用工具知识复用。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li><li><p><a href="https://www.cdsmodel.com/">https://www.cdsmodel.com/</a></p></li></ul></div></details><details class="agent" id="ai-concepts-7"><summary><span class="run">正文解释／更新</span><span>CDS成交量与未平仓名义金额</span><span class="expand">展开</span></summary><div class="inside"><p>文章用以支持交易活动和风险需求扩张的量。</p>
+<div class="sample"><p>成交量累计一段时间内成交的合约名义金额；未平仓金额是尚存续的合同规模，两者属于流量与存量。图4为四周滚动平均的周成交，图5截至10月23日，图9又使用双轴及不同金额单位。换手可以很大而未平仓变化较小，抵销安排也影响净口径。每笔保护交易都有买卖双方，名义额增长不直接等于现金净流入、净看空比例或最终损失。本文未给清总额／净额及聚合方法，应保留原图口径，避免混加。</p>
+</div><h4>对照现有graph</h4><p>现有CDS页有名义额与净风险的区别，需补本次图示。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-concepts-8"><summary><span class="run">重要更新／概念候选</span><span>供应商融资、贷款与担保</span><span class="expand">展开</span></summary><div class="inside"><p>解释芯片供应商如何增加对客户的信用暴露。</p>
+<div class="sample"><p>供应商融资通过直接授信、安排融资等方式帮助客户完成采购。直接贷款形成客户未来偿付的债权；担保则按合同约定在触发时承担付款责任，两者与股权投资、一般应收账款并不相同。分析应分别追踪设备交付、资金提供者、回款路径、抵押与追索。销售增长可以与新增信用暴露同时发生；有担保不等于已发生同额损失，存在关联融资也不自动证明销售无效。文章的具体交易金额仍为转引，未由合同核实。</p>
+</div><h4>对照现有graph</h4><p>C-TECH-03《云服务与超大规模云厂商》区分投资、应收款与回款，需补信用责任的解释。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-concepts-9"><summary><span class="run">引用／补横向比较</span><span>超大规模云厂商与芯片供应商</span><span class="expand">展开</span></summary><div class="inside"><p>共同AI主题内不同的经营与融资角色。</p>
+<div class="sample"><p>超大规模云厂商投入数据中心等资源以交付云与计算服务；芯片供应商销售计算设备并经营相应软硬件生态。两者都可能进行资本投入与融资，但支出回收、客户集中、投资安排和债务承担不同。本文比较MSFT、GOOGL、AMZN、META、ORCL及芯片相关名称时，角色分组帮助定位解释，不能代替逐公司财务分析。SPCX、INTC等图中成员也需按具体样本说明，不将“AI”作为同质风险评级。</p>
+</div><h4>对照现有graph</h4><p>C-TECH-03《云服务与超大规模云厂商》及NVIDIA等既有企业页。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-concepts-10"><summary><span class="run">具体对象候选</span><span>CoreWeave与新型算力租赁商</span><span class="expand">展开</span></summary><div class="inside"><p>全文高收益观察对象，不能仅在报价纠错处出现。</p>
+<div class="sample"><p>本文把CoreWeave作为与AI算力和数据中心有关的新型云服务商来观察。理解这一主体，要把它租用或建设的设施、所配置设备、卖给客户的算力服务及支持投入的融资联系起来。设备投入先发生、客户回款随后实现时，融资条件与合同质量会影响可持续扩张。本文提供其CDS报价、交易量与未平仓变化，尚不足以重建完整资产负债表或全部客户结构。对象页可以先保留清楚的经营身份与已具名的历史观察，后续融资和合同资料在同一主体下继续积累。</p>
+</div><h4>对照现有graph</h4><p>现有数据中心、云服务与GPU对象提供背景，未发现CoreWeave独立正文。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-concepts-11"><summary><span class="run">引用</span><span>信用评级与投资级／高收益</span><span class="expand">展开</span></summary><div class="inside"><p>解释指数分组与CoreWeave对照范围。</p>
+<div class="sample"><p>评级是按方法和期限形成的信用意见，投资级与高收益分类用于许多债券、指数和机构约束；它不等同CDS触发裁决，也不保证同等级报价相同。本文投资级十名称与高收益观察分开，能避免把不同样本的报价和交易规模直接聚合。具体评级、系列成分与持有规则应按其日期核对。</p>
+</div><h4>对照现有graph</h4><p>C-CREDIT-08《信用评级与迁移》</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><h3>重要关系</h3><div class="table-wrap"><table><thead><tr><th>内容</th><th>处理</th><th>现有覆盖</th></tr></thead><tbody><tr><td><a href="#ai-relations-0">供应商融资把订单风险与客户偿付风险连接起来</a></td><td>重要更新／独立机制候选</td><td><p>旧云服务页已有商业关联提醒；金融加速器不能替代这条具体责任。</p>
+</td></tr><tr><td><a href="#ai-relations-1">非持债者以企业CDS管理相关风险</a></td><td>更新／专题关系</td><td><p>CDS旧页允许未持债交易，新增产业代理对冲解释。</p>
+</td></tr><tr><td><a href="#ai-relations-2">保护供求与价差交易约束影响CDS—现金债基差</a></td><td>更新／关系候选</td><td><p>C-DERIV-15与C-CREDIT-SPREAD需补工具之间的具体过程。</p>
+</td></tr><tr><td><a href="#ai-relations-3">相近长期报价下的期限分化与集中对冲</a></td><td>专题历史关系</td><td><p>现有期限曲线知识可引用，本次差异独立保存。</p>
+</td></tr><tr><td><a href="#ai-relations-4">正信用基差的两腿交易与残余风险</a></td><td>专题解释／工具过程候选</td><td><p>R-DERIVATIVES-02主要为现券—期货，不可直接当本交易的父机制。</p>
+</td></tr><tr><td><a href="#ai-relations-5">指数持有与主题信用风险集中</a></td><td>基础关系解释</td><td><p>尚无CDX专页；需与指数工具定义连接。</p>
+</td></tr></tbody></table></div><details class="agent" id="ai-relations-0"><summary><span class="run">重要更新／独立机制候选</span><span>供应商融资把订单风险与客户偿付风险连接起来</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>客户</p>
+</li><li><p>供应商</p>
+</li><li><p>贷款或担保提供者</p>
+</li></ul><div class="sample"><p>供应商为客户提供融资支持，使采购在客户自身资金不足时仍能进行，同时取得贷款债权或担保责任。若客户现金流转弱，后续采购减少与已有债权回收恶化可能同时影响供应商；担保则按条款触发付款。客户集中时，多个业务渠道可能共同暴露于同一产业冲击。过程是否进一步影响供应商自身融资，还要看其资金缓冲、敞口与合同安排；不能从一次CDS走阔宣告闭环已经发生。</p>
+</div><h4>对照现有graph</h4><p>旧云服务页已有商业关联提醒；金融加速器不能替代这条具体责任。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-relations-1"><summary><span class="run">更新／专题关系</span><span>非持债者以企业CDS管理相关风险</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>股票基金</p>
+</li><li><p>放贷银行</p>
+</li><li><p>CDS保护卖方</p>
+</li></ul><div class="sample"><p>银行贷款与股票基金持股产生不同损失路径，管理人可以购买参考实体的CDS，或选择与原敞口共同暴露较强的企业作为代理保护。保护的市值可能在利差扩大时增加，从而在违约前提供部分抵销，但原资产与参考实体、期限、结算条件不匹配会留下对冲偏差。买方未持现金债并不取消原风险；实际采用何种工具仍需持仓证据。卖方获得保费并承担约定赔付及交易期间的市场风险。</p>
+</div><h4>对照现有graph</h4><p>CDS旧页允许未持债交易，新增产业代理对冲解释。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-relations-2"><summary><span class="run">更新／关系候选</span><span>保护供求与价差交易约束影响CDS—现金债基差</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>保护买方</p>
+</li><li><p>保护卖方</p>
+</li><li><p>现金债投资者</p>
+</li><li><p>价差交易者</p>
+</li></ul><div class="sample"><p>若保护买入需求集中增加，愿意卖保护的机构会要求相应补偿；现金债的持有人和交易条件未必同步变化，CDS相对现金债便可能变贵。价差交易者能够通过两边头寸增加供给或需求，但要取得债券、融资、抵押品和风险额度，承担合同覆盖及期限不匹配。因此价差不会仅凭抽象套利关系立即消失。图3与这项解释相容，仍不能单独识别实际买家或各因素的价格贡献。</p>
+</div><h4>对照现有graph</h4><p>C-DERIV-15与C-CREDIT-SPREAD需补工具之间的具体过程。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-relations-3"><summary><span class="run">专题历史关系</span><span>相近长期报价下的期限分化与集中对冲</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>亚马逊</p>
+</li><li><p>谷歌</p>
+</li><li><p>相关贷款人及对冲者</p>
+</li></ul><div class="sample"><p>文中巴克莱用定期贷款的买盘压力解释亚马逊3s5s较平。贷款风险的期限分布、保护交易集中在哪一期限，会影响这一解释是否成立；同样的曲线也可能与不同的信用风险期限分布相容。把五年期水平近似固定后比较三年与五年的价差，能够提出需要核验的差异，无法单独识别具体贷款的因果作用。保存报告时应并列原观察、机构解释与尚待匹配的期限。</p>
+</div><h4>对照现有graph</h4><p>现有期限曲线知识可引用，本次差异独立保存。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-relations-4"><summary><span class="run">专题解释／工具过程候选</span><span>正信用基差的两腿交易与残余风险</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>现金债卖空者</p>
+</li><li><p>CDS保护卖方</p>
+</li><li><p>券源提供者</p>
+</li></ul><div class="sample"><p>文章建议卖出甲骨文现金债、同时卖出CDS保护。两腿大致以空现金信用、承接衍生品信用的组合表达CDS相对更贵这一判断，不能把“卖保护”误读成减少信用风险。若基差按所用口径收窄，组合可能获益；损益还依赖两腿敏感度匹配、借券与融资成本、合约赔付和退出价格。仅匹配五年CDS与2032年债券的名称并不构成精确风险抵销。本轮保存巴克莱当时的相对价值判断，不给出本库交易建议。</p>
+</div><h4>对照现有graph</h4><p>R-DERIVATIVES-02主要为现券—期货，不可直接当本交易的父机制。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><details class="agent" id="ai-relations-5"><summary><span class="run">基础关系解释</span><span>指数持有与主题信用风险集中</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>CDX持有者</p>
+</li><li><p>各参考实体</p>
+</li><li><p>AI相关样本</p>
+</li></ul><div class="sample"><p>指数持有者取得一组参考实体的信用敞口，个别产业的利差或风险贡献变化会改变组合风险结构。成分数量占比与风险贡献占比可不同，后者需要度量、权重和敏感度。本文8%与16%的比较提示集中暴露值得研究，却没有说明构造，不能据此认定同量风险翻倍，也不能把报价波动风险等同最终违约损失。</p>
+</div><h4>对照现有graph</h4><p>尚无CDX专页；需与指数工具定义连接。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md</p>
+</li></ul></div></details><h3>进一步分析</h3><h3>从完整知识清单回到本文问题</h3>
+<p>本文的重要内容跨越合约工具、指数、产业角色和交易参与者。先解释这些对象以后，才可以理解同一“AI”主题为何没有同一风险价格。本文保留的观察日也不同：主要报价图截至10月28日，交易存量图部分截至10月23日，所述研报日期10月29日，网页日期10月31日。应以各自时点保存，不能拼成当天一致的市场截面。</p>
+<h3>三种差异分别要求解释</h3>
+<p>图2中博通47到168bp、甲骨文180到271bp，前者相对涨幅较高而后者期末水平更高；英伟达46到125bp的涨幅很高，增加的79bp仍少于甲骨文的91bp。涨幅、绝对增加与期末水平保存不同认识。按芯片供应商与云厂商分类后，要追踪实际贷款、担保与资金来源，才能判断哪一种风险联系与这些变化对应。</p>
+<p>图3则将同一信用主题放在两种工具中比较。若客户融资责任增加，现金债与CDS都可能响应；若特定机构更集中使用CDS，还可能出现额外的相对价格变化。两条路径可以共存，不能把全部涨幅解释为违约风险，也不能把基差全部当成交易噪声。本文没有参与者持仓与保护供给资料，现有证据尚不能分配两条路径的贡献。</p>
+<p>图6的亚马逊／谷歌对照提供另一个切口：总体五年期保护成本相近，期限结构仍不同。保存这一差异，是为了让未来材料能核对贷款期限、对冲期限与交易集中度；不能仅据一张截面图确认“错误定价”。图7的英特尔负基差同样是比较线索，尚不足以单独证明供应商融资解释。</p>
+<h3>历史判断与后续观察</h3>
+<p>巴克莱买博通保护、讨论亚马逊期限组合、卖甲骨文基差，是报告时点基于上述解释形成的三种判断，各自对应不同风险与工具。专题页应保存理由、期限和具体报价语义。后续可观察客户回款及融资责任变化、匹配现金债与CDS是否继续分化、特定期限买盘和保护承接是否改变。若新证据只支持某家企业的特定安排，就收窄原来覆盖整个行业的解释。</p>
+<p>CoreWeave应作为不同样本的主体继续研究，其upfront当前15.5低于图8约20的高点，说明“价格较高”和“最近上升”不能混写。债券超配与CDS昂贵可以针对不同价格、期限和目的，需要进一步比较其收益与风险判断。最后，文章与2008的比较实际展开在保护需求和相对价格；系统性危机还涉及保护卖方、杠杆、抵押品与损失传递，不能据本篇完成危机重演推断。</p>
+<h3>维护与结构安排</h3><ul><li><dl><dt>name</dt><dd><p>通用CDS与AI专题</p>
+</dd><dt>proposal</dt><dd><p>建议整理通用CDS工具入口；AI相关企业CDS可作为引用通用知识的专题集合候选，企业类别不挂为主权风险的下位类。本文已写出的基础解释无论是否注册子页都应保留。</p>
+</dd></dl></li><li><dl><dt>name</dt><dd><p>CDX与CoreWeave</p>
+</dd><dt>proposal</dt><dd><p>它们都进入重要知识清单并已有核心解释；CDX作为交易指数、CoreWeave作为具体经营与融资主体，分别比较独立对象页的维护收益，不以能否成为母子关系决定是否制作。</p>
+</dd></dl></li><li><dl><dt>name</dt><dd><p>关系位置</p>
+</dd><dt>proposal</dt><dd><p>供应商融资、代理对冲和信用基差的过程先充分写清，再与旧图审阅是否新增关系；现券—期货基差交易和金融加速器不提供自动继承。期限与当期交易建议可在专题章节持续维护。</p>
+</dd></dl></li></ul><details><summary>限制、实际阅读与外部来源</summary><ul><li><p>原文公司发行、担保和财报数字没有逐一回查；基础解释不意味着核实全部新闻事实。</p>
+</li><li><p>CDX与AI群体的具体系列、成员、风险16%算法，现金债匹配规则与CoreWeave票息尚缺，不能重建统一报价或概率。</p>
+</li><li><p>原文50亿美元“翻倍至200亿美元”有算术冲突；成交量、未平仓与现金流不能混用。</p>
+</li><li><p>阅读形成记录与目录以总述、完整标题／ID浏览及本题相关条目为主；部分长说明和正文读取了相关范围，未重新审阅所有历史排除或外部来源。</p>
+</li><li><p>具体模型与思考档位继承且不可独立核验。</p>
+</li></ul><ul><li><dl><dt>url</dt><dd><p><a href="https://www.cdsmodel.com/">https://www.cdsmodel.com/</a></p></dd><dt>reading_scope</dt><dd><p>首页背景：固定票息、upfront及标准转换，不复现模型代码。</p>
+</dd></dl></li><li><dl><dt>url</dt><dd><p><a href="https://www.spglobal.com/spdji/en/index-family/fixed-income/tradables/cdx-north-america/">https://www.spglobal.com/spdji/en/index-family/fixed-income/tradables/cdx-north-america/</a></p></dd><dt>reading_scope</dt><dd><p>官方索引家族简介：IG/HY覆盖目的。</p>
+</dd></dl></li><li><dl><dt>url</dt><dd><p><a href="https://www.spglobal.com/spdji/en/documents/methodologies/sp-cdx-hy-ig-index-rules.pdf">https://www.spglobal.com/spdji/en/documents/methodologies/sp-cdx-hy-ig-index-rules.pdf</a></p></dd><dt>reading_scope</dt><dd><p>官方方法书检索摘录的定义段，IG125与HY100；未通读方法书或核现行成分。</p>
+</dd></dl></li></ul><dl><dt>documents</dt><dd><ul><li><p>Source/华尔街见闻/维护/ARTICLE_AUTHORING_CHARTER.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/AUTHORING_STANDARD.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/EVENT_SOURCE_GUIDE.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/NODE_SELECTION_GUIDE.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/README.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/REVIEW_CHECKLIST.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/SUBSTRUCTURE_DISCUSSION.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/TEST_TASK.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/README.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/PROJECT_PLAN.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONVERSATION_MEMORY.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONCEPT_IMPORT_LIST.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/MECHANISM_IMPORT_LIST.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONCEPT_SELECTION_HISTORY.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/MECHANISM_SELECTION_HISTORY.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/templates/CONCEPT_TEMPLATE.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/templates/MECHANISM_TEMPLATE.md</p>
+</li></ul></dd><dt>graph_pages</dt><dd><ul><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/主权信用风险与CDS.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/信用利差.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/基差.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/云服务与超大规模云厂商.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md</p>
+</li></ul></dd><dt>figures</dt><dd><ul><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_001.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_002.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_003.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_004.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_005.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_006.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_007.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_008.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/assets/figure_009.png</p>
+</li></ul></dd></dl></details><h3>对本轮说明的反馈</h3><p>先列重要对象，使前轮容易略过的CDX指数、CoreWeave主体、成交／存量与报价知识实际进入制作。随后分析不必停留在校对作者推断；读者已有足够基础去理解参与者和相对价格。仍应防止把清单变成全部术语释义：已充分覆盖者引用原页，新增解释按文章中的用途展开，注册只决定维护位置。</p>
+</section><section id="basis"><p class="eyebrow">3744871 · 单篇单agent</p><h2>一文读懂隔夜美债崩盘的“罪魁”——基差交易</h2><p><a href="../SourcePost/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E9%9A%94%E5%A4%9C%E7%BE%8E%E5%80%BA%E5%B4%A9%E7%9B%98%E7%9A%84%E2%80%9C%E7%BD%AA%E9%AD%81%E2%80%9D%E2%80%94%E2%80%94%E5%9F%BA%E5%B7%AE%E4%BA%A4%E6%98%93/article.md">本地原文</a> · <a href="../SourcePost/%E4%B8%80%E6%96%87%E8%AF%BB%E6%87%82%E9%9A%94%E5%A4%9C%E7%BE%8E%E5%80%BA%E5%B4%A9%E7%9B%98%E7%9A%84%E2%80%9C%E7%BD%AA%E9%AD%81%E2%80%9D%E2%80%94%E2%80%94%E5%9F%BA%E5%B7%AE%E4%BA%A4%E6%98%93/article.html">HTML原文</a> · <a href="%E6%88%90%E6%9E%9C/basis.md">知识与分析草稿MD</a> · <a href="%E6%88%90%E6%9E%9C/basis.json">完整结果JSON</a></p><div class="boundary"><p>旧图覆盖较充分，选择复用而非同义新建。三主体分工、现金时点与中介占用的解释有实际内容；图5不同回归规格及4月新闻与2020经验的时间差得到辨认。对冲式购债保留为研究者政策方案，没有写成已实施的工具。</p>
+</div><h3>文章问题</h3><p>一组有助于连接国债现券与期货的交易，为何会在融资和资本约束下放大市场压力？本文还需解释三类参与者的分工及作者为何提出对冲式购债，并分清2020年经验、2025年新闻归因和政策建议。</p>
+<h3>重要概念与对象</h3><div class="table-wrap"><table><thead><tr><th>内容</th><th>处理</th><th>现有覆盖</th></tr></thead><tbody><tr><td><a href="#basis-concepts-0">美国国债现券与国债期货</a></td><td>引用＋补交易工具说明</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/美国国债.md；基差.md及20_mechanisms/基差交易.md含期货说明</p>
+</td></tr><tr><td><a href="#basis-concepts-1">基差</a></td><td>引用</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/基差.md</p>
+</td></tr><tr><td><a href="#basis-concepts-2">最便宜可交割券与转换因子</a></td><td>引用现有小节</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/基差.md；20_mechanisms/基差交易.md</p>
+</td></tr><tr><td><a href="#basis-concepts-3">回购融资</a></td><td>引用</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/回购与逆回购.md</p>
+</td></tr><tr><td><a href="#basis-concepts-4">抵押品折扣与杠杆</a></td><td>引用</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/抵押品与折扣率haircut.md</p>
+</td></tr><tr><td><a href="#basis-concepts-5">期货初始保证金与变动保证金</a></td><td>引用</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/保证金与追加保证金.md；20_mechanisms/基差交易.md</p>
+</td></tr><tr><td><a href="#basis-concepts-6">对冲基金及相对价值策略</a></td><td>正文解释／对象候选</td><td><p>正式目录没有独立对冲基金对象；基差交易页已有该主体作用</p>
+</td></tr><tr><td><a href="#basis-concepts-7">资产管理者与久期需求</a></td><td>正文解释＋引用</td><td><p>养老金与退休负债.md及基差交易.md已有部分解释</p>
+</td></tr><tr><td><a href="#basis-concepts-8">经纪交易商与中介资产负债表</a></td><td>补充主体解释／对象候选</td><td><p>程序化交易与做市.md；银行资本与杠杆率.md；基差交易.md分散覆盖</p>
+</td></tr><tr><td><a href="#basis-concepts-9">银行资本与补充杠杆率</a></td><td>引用＋具体语境补充</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/银行资本与杠杆率.md</p>
+</td></tr><tr><td><a href="#basis-concepts-10">融资流动性与市场流动性</a></td><td>引用</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/融资流动性.md；市场流动性.md</p>
+</td></tr><tr><td><a href="#basis-concepts-11">中央对手方与集中清算</a></td><td>引用</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/中央对手方与集中清算.md</p>
+</td></tr><tr><td><a href="#basis-concepts-12">净期货持仓与基差头寸测量</a></td><td>引用＋图表口径说明</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md的规模测量与历史段</p>
+</td></tr><tr><td><a href="#basis-concepts-13">对冲式购债与久期中性</a></td><td>补充政策方案解释</td><td><p>基差交易、QE的久期风险转移、最后贷款人等页提供相关知识，未在本轮确认独立完整政策小节</p>
+</td></tr></tbody></table></div><details class="agent" id="basis-concepts-0"><summary><span class="run">引用＋补交易工具说明</span><span>美国国债现券与国债期货</span><span class="expand">展开</span></summary><div class="inside"><p>识别两条交易腿和最终交割联系</p>
+<div class="sample"><p>现券是政府债务证券，持有者实际支付购券款并取得约定现金流；国债期货是标准化的未来交割安排，建仓时通常支付保证金而非全部债券价格。二者都承载利率暴露，但交易现金要求不同。国债期货可交割一组符合条件的债券，买现券卖期货的数量必须考虑转换因子及利率敏感度。国债期货与联邦基金期货的标的、交割和报价含义不同，不应因都与利率有关而互相代替。现图已在基差及机制页说明，本轮不另造同义节点。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/美国国债.md；基差.md及20_mechanisms/基差交易.md含期货说明</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/美国国债.md；基差.md及20_mechanisms/基差交易.md含期货说明</p>
+</li></ul></div></details><details class="agent" id="basis-concepts-1"><summary><span class="run">引用</span><span>基差</span><span class="expand">展开</span></summary><div class="inside"><p>价差机会、损益和历史图的观测对象</p>
+<div class="sample"><p>文章采用现金券价格减期货价格乘转换因子的口径。这是特定现金券相对特定合约月的价格比较，仍需统一净价、应计利息和时点；不是到手利润。计入票息、回购融资、交割选择和交易成本以后才可判断经济性。现图还指出研究者可能用反向的年化收益指标，不能仅凭“扩大”两个字确定基金赚亏。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/基差.md</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/基差.md</p>
+</li></ul></div></details><details class="agent" id="basis-concepts-2"><summary><span class="run">引用现有小节</span><span>最便宜可交割券与转换因子</span><span class="expand">展开</span></summary><div class="inside"><p>解释期货与哪只债券联系及对冲比例</p>
+<div class="sample"><p>转换因子用于按合约规则调整不同可交割债券的交割金额；CTD是按价格、转换因子及融资等交割经济性最有利的券。它不等于票面价最低的券，利率和融资条件变化会改变选择。本文示意图以CTD为现券腿，省略这一基础会误以为任何国债与任一期货都天然收敛。该知识由现有基差小节维护。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/基差.md；20_mechanisms/基差交易.md</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/基差.md；20_mechanisms/基差交易.md</p>
+</li></ul></div></details><details class="agent" id="basis-concepts-3"><summary><span class="run">引用</span><span>回购融资</span><span class="expand">展开</span></summary><div class="inside"><p>为基金现券头寸供资，连接交易商及现金贷款人</p>
+<div class="sample"><p>基金交出国债取得现金，并约定以后偿还资金取回证券，经济上以证券支持借款；现金提供者看同一笔交易为逆回购。基金可用借款支付绝大部分购券款，却必须在到期时续借或归还。回购利率影响持有成本，期限与授信影响能否持续持仓；短期回购支持较长期收敛交易形成滚续需求。这里的回购不指公司购回自己的股票。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/回购与逆回购.md</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/回购与逆回购.md</p>
+</li></ul></div></details><details class="agent" id="basis-concepts-4"><summary><span class="run">引用</span><span>抵押品折扣与杠杆</span><span class="expand">展开</span></summary><div class="inside"><p>说明少量权益为何支持大头寸，以及补款触发</p>
+<div class="sample"><p>以抵押品市值V为分母，折扣h时可借资金简化为(1-h)V。余下hV至少要以其他资金支持，但基金还须承担期货保证金和现金缓冲，故不能把1/h直接当其整体杠杆。券价下降或折扣上升都会缩小借款能力，可能要求补券、补现或还款；这些需求与最终信用损失、回购利息不同。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/抵押品与折扣率haircut.md</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/抵押品与折扣率haircut.md</p>
+</li></ul></div></details><details class="agent" id="basis-concepts-5"><summary><span class="run">引用</span><span>期货初始保证金与变动保证金</span><span class="expand">展开</span></summary><div class="inside"><p>说明两腿对冲后仍有现金压力</p>
+<div class="sample"><p>初始保证金覆盖潜在平仓风险，变动保证金结算已经发生的盯市盈亏。空头在期货上涨时可能须及时付现；现券升值不会自动把现金划到保证金账户。即使总利率暴露较小，付款时刻、账户和可调拨现金仍可迫使交易提前退出。文章把保证金上调作为风险之一，不能由波动本身认定实际保证金已经提高。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/保证金与追加保证金.md；20_mechanisms/基差交易.md</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/保证金与追加保证金.md；20_mechanisms/基差交易.md</p>
+</li></ul></div></details><details class="agent" id="basis-concepts-6"><summary><span class="run">正文解释／对象候选</span><span>对冲基金及相对价值策略</span><span class="expand">展开</span></summary><div class="inside"><p>本文主要融资持券与期货空头主体</p>
+<div class="sample"><p>对冲基金是一类投资组织与策略载体的统称，不意味着每家基金都在对冲或都做基差。本篇关注其中以杠杆组织相对价值交易的一组基金：通过现券多头与期货空头减少共同利率变化的影响，主要承受相对价格、融资和履约现金风险。图2的基金期货空头是头寸分类，不能把全部空头一一识别为本策略。本轮先补主体说明；是否建立一般对冲基金页需依据更完整的组织、投资者和策略内容判断。</p>
+</div><h4>对照现有graph</h4><p>正式目录没有独立对冲基金对象；基差交易页已有该主体作用</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md</p>
+</li></ul></div></details><details class="agent" id="basis-concepts-7"><summary><span class="run">正文解释＋引用</span><span>资产管理者与久期需求</span><span class="expand">展开</span></summary><div class="inside"><p>解释谁提供期货多头需求以及为什么不全买现券</p>
+<div class="sample"><p>资产管理者在本文是一组承担最终利率暴露的投资者角色，含养老金、保险与债券基金等。它们可能为匹配负债或配置债券风险，同时使用现券与期货；期货以保证金取得暴露，减少即期购券现金需求，但保留结算要求。不能将三类角色模型中“唯一承担久期”推广为真实市场只有资管者有利率风险。不同基金的负债、流动性和约束仍要分别研究。</p>
+</div><h4>对照现有graph</h4><p>养老金与退休负债.md及基差交易.md已有部分解释</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md</p>
+</li></ul></div></details><details class="agent" id="basis-concepts-8"><summary><span class="run">补充主体解释／对象候选</span><span>经纪交易商与中介资产负债表</span><span class="expand">展开</span></summary><div class="inside"><p>同时涉及做市、回购中介和相对价值持仓</p>
+<div class="sample"><p>交易商可以向基金提供融资、暂时持有客户出售的现券、报价撮合买卖，并自行经营价差。各业务占用资金、资本、风险限额和操作能力，风险抵销也依法律与净额安排而定。因此，期货和现券利率风险接近抵销，并不保证交易商能够无限扩张总头寸。压力时买入客户现券会增加库存和资金占用，进而改变其他业务的报价与额度。本文对主体的多重角色值得在机制中集中说明，不能简单等同于一种做市算法。</p>
+</div><h4>对照现有graph</h4><p>程序化交易与做市.md；银行资本与杠杆率.md；基差交易.md分散覆盖</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/银行资本与杠杆率.md</p>
+</li></ul></div></details><details class="agent" id="basis-concepts-9"><summary><span class="run">引用＋具体语境补充</span><span>银行资本与补充杠杆率</span><span class="expand">展开</span></summary><div class="inside"><p>解释中介为何不能无限接盘</p>
+<div class="sample"><p>银行杠杆约束将资本与一定口径的总暴露相联系，并非只按资产信用风险计提。低信用风险国债也会占用某些资产负债表资源，受约束的中介可能收缩回购或现券库存。实际能否净额、哪些交易进入分母及业务所属实体需按制度核查。本文把SLR列为限制，不足以确认每家交易商在2020年或2025年压力中都由这一条约束主导。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/银行资本与杠杆率.md</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/银行资本与杠杆率.md</p>
+</li></ul></div></details><details class="agent" id="basis-concepts-10"><summary><span class="run">引用</span><span>融资流动性与市场流动性</span><span class="expand">展开</span></summary><div class="inside"><p>分别承载基金能否付现、市场能否吸收出售</p>
+<div class="sample"><p>融资流动性关注在付款时限内取得现金或合格抵押品的能力；市场流动性关注在给定时间和规模下成交所需的让价与成本。基金缺现金而集中卖券，会增加中介库存；中介承接变弱又可能使价格恶化和融资条件收紧。这两个概念应分别保留，不能把回购利率、买卖价差与资金量混成一个指标。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/融资流动性.md；市场流动性.md</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/融资流动性.md；市场流动性.md</p>
+</li></ul></div></details><details class="agent" id="basis-concepts-11"><summary><span class="run">引用</span><span>中央对手方与集中清算</span><span class="expand">展开</span></summary><div class="inside"><p>理解图1基础设施和政策替代方案</p>
+<div class="sample"><p>中央对手方介入交易双方之间，并依规则收取保证金、组织盯市和违约处置。净额抵销或跨保证金可以降低某些组合占用，但清算方仍须管理违约与付款时点风险。图1把回购清算与期货清算画在不同位置，不能假设同一基金的两腿会自动实时互抵。强制清算也不会取消投资者赎回或基金权益亏损造成的退出。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/中央对手方与集中清算.md</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/中央对手方与集中清算.md</p>
+</li></ul></div></details><details class="agent" id="basis-concepts-12"><summary><span class="run">引用＋图表口径说明</span><span>净期货持仓与基差头寸测量</span><span class="expand">展开</span></summary><div class="inside"><p>解释图2与图3能证明什么</p>
+<div class="sample"><p>期货净空头、净回购借款和实际成套基差头寸不是同一量。图3把基金回购借款与有符号的期货持仓相对照；借款上升、净期货头寸更负，与该交易结构相容，但不排除其他策略。右图是相对基准日的头寸变化，空头回补表现为数值上升。其正负号不能被读成新增多头资金或投资收益。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md的规模测量与历史段</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md的规模测量与历史段</p>
+</li></ul></div></details><details class="agent" id="basis-concepts-13"><summary><span class="run">补充政策方案解释</span><span>对冲式购债与久期中性</span><span class="expand">展开</span></summary><div class="inside"><p>解释本文政策建议的工具组合</p>
+<div class="sample"><p>对冲式购债同时持有现券并建立抵消利率暴露的衍生品空头，目标是承接受压持仓、减少中介负担，同时尽量保留市场总体久期。它是研究者建议的干预设计，仍承担基差、执行及资产负债表风险，不能仅凭“久期中性”认定所有金融条件均不变。是否成为正式工具及实施条款须另查政策披露。</p>
+</div><h4>对照现有graph</h4><p>基差交易、QE的久期风险转移、最后贷款人等页提供相关知识，未在本轮确认独立完整政策小节</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p><a href="https://www.brookings.edu/articles/treasury-market-dysfunction-and-the-role-of-the-central-bank/">https://www.brookings.edu/articles/treasury-market-dysfunction-and-the-role-of-the-central-bank/</a></p></li></ul></div></details><h3>重要关系</h3><div class="table-wrap"><table><thead><tr><th>内容</th><th>处理</th><th>现有覆盖</th></tr></thead><tbody><tr><td><a href="#basis-relations-0">资管期货需求—基金基差交易—交易商中介</a></td><td>引用＋整合三主体解释</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md</p>
+</td></tr><tr><td><a href="#basis-relations-1">融资与保证金需求导致基差提前平仓</a></td><td>引用</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md及保证金驱动的流动性螺旋.md</p>
+</td></tr><tr><td><a href="#basis-relations-2">交易商库存承接与融资中介的相互挤占</a></td><td>重要更新候选</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md及市场流动性相关正文</p>
+</td></tr><tr><td><a href="#basis-relations-3">国债供给增加与基差中介需求</a></td><td>局部补充／历史解释</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/国债供给的定价机制.md及基差交易.md</p>
+</td></tr><tr><td><a href="#basis-relations-4">集中清算、保证金规则与强制退出</a></td><td>引用＋政策边界说明</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/中央对手方与集中清算.md；保证金驱动的流动性螺旋.md</p>
+</td></tr><tr><td><a href="#basis-relations-5">对冲式购债承接受压组合</a></td><td>新关系候选／先写政策方案小节</td><td><p>与现有QE久期转移和危机流动性支持普通关联</p>
+</td></tr></tbody></table></div><details class="agent" id="basis-relations-0"><summary><span class="run">引用＋整合三主体解释</span><span>资管期货需求—基金基差交易—交易商中介</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>资产管理者</p>
+</li><li><p>对冲基金</p>
+</li><li><p>交易商</p>
+</li><li><p>现券／期货／回购</p>
+</li></ul><div class="sample"><p>资管者选择期货多头获得债券暴露，相对需求可提高期货价格；基金买入现券、卖出期货，借回购维持资产，将资管需求转化为现券持有。交易商提供融资和交易通道。该安排平时把两市场连接起来，收益中的一部分补偿资金、资本及实际持仓服务；不能只用“发现低买高卖机会”解释参与者为何长期分工。现页已具有这条主线，可补充一张按现金、证券、保证金分线的主体图。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md</p>
+</li></ul></div></details><details class="agent" id="basis-relations-1"><summary><span class="run">引用</span><span>融资与保证金需求导致基差提前平仓</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>基金</p>
+</li><li><p>回购出借人</p>
+</li><li><p>期货清算／经纪商</p>
+</li></ul><div class="sample"><p>当回购续借减少、折扣提高或保证金现金需求超过缓冲，基金可能在预期收敛前卖出现券并买回期货。两腿对冲减少利率暴露，但并不同步提供现金。集中退出使现券相对更便宜、期货相对更贵，可能继续压低尚未退出者的组合价值。这条过程已有充分解释，不重复注册“美债强平子关系”。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md及保证金驱动的流动性螺旋.md</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md及保证金驱动的流动性螺旋.md</p>
+</li></ul></div></details><details class="agent" id="basis-relations-2"><summary><span class="run">重要更新候选</span><span>交易商库存承接与融资中介的相互挤占</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>交易商</p>
+</li><li><p>出售现券的基金</p>
+</li><li><p>其他融资客户</p>
+</li></ul><div class="sample"><p>基金退出需要有人接收现金券。若交易商承接，库存和相应融资增加；若其资本或风险限额紧，新增库存会提高其他业务的边际占用，可能使回购额度和做市报价变差。基金面对更差的融资和成交条件，又可能加快退出。这个反馈应明确由哪项约束起作用；本文2020年图中几个利差同时跳变，尚未分离库存、监管和共同冲击的贡献。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md及市场流动性相关正文</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md及市场流动性相关正文</p>
+</li></ul></div></details><details class="agent" id="basis-relations-3"><summary><span class="run">局部补充／历史解释</span><span>国债供给增加与基差中介需求</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>财政发行</p>
+</li><li><p>资产管理者</p>
+</li><li><p>对冲基金</p>
+</li><li><p>交易商</p>
+</li></ul><div class="sample"><p>新增国债若更多通过偏好合成暴露的投资者持有，会增加现金券融资与衍生品对冲的中介需求。当中介承接能力增长较慢，市场可能要求更高服务补偿或形成更大脆弱性。这条联系取决于发行结构与最终投资者，不是每新增一美元国债必然产生固定比例的基差头寸。图5回归中含时间固定效应的一列系数接近零，说明文章“发行100亿、空头扩大5亿”并非所有设定共同的常数。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/国债供给的定价机制.md及基差交易.md</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/国债供给的定价机制.md及基差交易.md</p>
+</li></ul></div></details><details class="agent" id="basis-relations-4"><summary><span class="run">引用＋政策边界说明</span><span>集中清算、保证金规则与强制退出</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>CCP</p>
+</li><li><p>基金</p>
+</li><li><p>交易商</p>
+</li></ul><div class="sample"><p>清算与净额安排可能减少组合占用，较高初始保证金也可限制事前杠杆，但压力中参数收紧会增加即时现金需求。基金因投资者赎回或权益损失退出时，即使两腿采用集中清算也仍需资金。因此制度改变要分别讨论事前持仓规模、平时融资效率和压力现金路径，不能把“清算更多”直接等同于没有挤压。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/中央对手方与集中清算.md；保证金驱动的流动性螺旋.md</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/中央对手方与集中清算.md；保证金驱动的流动性螺旋.md</p>
+</li></ul></div></details><details class="agent" id="basis-relations-5"><summary><span class="run">新关系候选／先写政策方案小节</span><span>对冲式购债承接受压组合</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>央行</p>
+</li><li><p>基金</p>
+</li><li><p>交易商</p>
+</li><li><p>期货市场</p>
+</li></ul><div class="sample"><p>研究者建议极端压力时央行承接现券，并以衍生品对冲久期，从而缓解中介负担。该目标与直接从市场移走久期的资产购买有区别。需要继续检查对冲工具、保证金现金、退出安排及风险分担；本轮把它保存为具名政策方案，不写成已实行制度，也不承诺必然无道德风险。</p>
+</div><h4>对照现有graph</h4><p>与现有QE久期转移和危机流动性支持普通关联</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/article.md</p>
+</li><li><p><a href="https://www.brookings.edu/articles/treasury-market-dysfunction-and-the-role-of-the-central-bank/">https://www.brookings.edu/articles/treasury-market-dysfunction-and-the-role-of-the-central-bank/</a></p></li></ul></div></details><h3>进一步分析</h3><h2>先重建正常交易，再解释为何失灵</h2>
+<p>本文的基础知识多数在现图已存在，但三类主体各自为什么参与，值得放在一起讲清。资产管理者需要最终债券风险暴露；基金以融资支持现券、用期货抵消部分利率风险；交易商提供持仓与资金服务。这使平时的相对价值交易可以改善两市场联系，也使压力同时穿过现货、融资与保证金账户。基础清单由此覆盖工具、参与者和测量，并不限于基差这个词。</p>
+<h2>4月9日的新闻框架与材料证据不是同一时间</h2>
+<p>文章编者按用隔夜美债收益率上涨引入基差交易，但所引华创研报署4月1日，主要图表描述2020年3月及2016年以来头寸结构。因此本文能说明一种脆弱性渠道，尚不能独立证明4月8—9日的急跌由该渠道主导。旧图后来收录的2025年7月及2026年6月研究，讨论了现金—期货基差与掉期利差套利的差别。整理时应保留这些较晚解释的日期，而不将它们倒填为4月9日交易者已知信息。</p>
+<h2>图的符号和回归规格会改变叙事</h2>
+<p>图3左侧借款为正、空头为负，所谓高度负相关首先与交易的记账方向有关。右侧空头回补对应净头寸变化上升，不能误读成新增多头。图4中的现券—期货价差、回购中介价差、买卖价差及掉期利差同步变化，适合比较几条压力渠道；它们不直接识别交易商吸收现券的独立因果贡献。</p>
+<p>图5回归前几列国债供给系数约为−0.05，加入时间固定效应的第四列为0.007且未标显著。这张表支持继续研究供给与中介需求的联系，也提示关系对设定敏感。正文可保存研究者的解释，不能把简化的100亿对应5亿写成预测规则。本文的资产管理者“唯一承担久期”也应限于其三类主体分析框架。</p>
+<h2>未来观察与当时判断</h2>
+<p>把本文作为2025年4月的风险讨论保存，重点观察成套策略的减仓、实际回购续作、保证金现金需求和交易商承接。期货空头减少、国债收益率上升中的任何一条，都不足以独立确认被迫平仓。相对价格恶化且融资与补款约束同时生效时，压力放大路径更值得关注；中介和其他投资者若能及时承接，相对价差也可能吸引新增资本。</p>
+<p>对冲式购债是本文值得补入的政策讨论：它试图承接组合与中介服务，同时减少久期信号。作者方案不直接等同于央行承诺。后续若出现正式政策、不同干预效果或监管参数变化，应各按公开日期更新相关逻辑。</p>
+<h3>维护与结构安排</h3><ul><li><dl><dt>content</dt><dd><p>基差及现金—期货交易</p>
+</dd><dt>arrangement</dt><dd><p>继续引用现有C-DERIV-15与R-DERIVATIVES-02，不新增同义概念或“美债基差交易”子关系。</p>
+</dd><dt>reason</dt><dd><p>现有页已经以美国国债为主要范围，且包含本文多数风险链条。</p>
+</dd></dl></li><li><dl><dt>content</dt><dd><p>资产管理者、基金、经纪交易商的分工</p>
+</dd><dt>arrangement</dt><dd><p>本轮补为机制中的集中主体说明；一般机构对象候选需要各自实质组织内容，不因本文三类角色强制注册三页。</p>
+</dd><dt>reason</dt><dd><p>先把当前需要的主体知识讲清，避免以未注册为由省略。</p>
+</dd></dl></li><li><dl><dt>content</dt><dd><p>对冲式购债</p>
+</dd><dt>arrangement</dt><dd><p>先作为具名政策方案进入相关逻辑；可提独立关系候选，与QE久期风险转移普通关联。</p>
+</dd><dt>reason</dt><dd><p>目标和工具组合值得解释，但不能仅凭对冲就继承全部QE政策结论。</p>
+</dd></dl></li><li><dl><dt>content</dt><dd><p>2025年4月新闻与2020年压力历史</p>
+</dd><dt>arrangement</dt><dd><p>在对应逻辑下保留当时归因及后续争论，必要时共享一个专题分析位置。</p>
+</dd><dt>reason</dt><dd><p>新闻的解释需要同既有机制连接，但不能把早期经验当成当日因果确认。</p>
+</dd></dl></li></ul><details><summary>限制、实际阅读与外部来源</summary><ul><li><p>未逐笔复核2020年620亿、570亿以及买卖价差2.7倍等转引数字；图示提供的是二手研究证据。</p>
+</li><li><p>外部只核读Brookings研究介绍页面的作者、版本说明及摘要；该页2025年12月更新，不是2025年4月历史网页快照，未通读最终论文或重新估计模型。</p>
+</li><li><p>没有逐机构账户、融资展期和保证金订单，不能量化基差交易对2025年4月跌幅的贡献。</p>
+</li><li><p>原图1中部分小字清晰度有限；图5回归规格可辨，但未取得回归样本与识别说明。</p>
+</li><li><p>正式说明、模板及目录形成记录以总述、相关条目和本轮补充为主；相关长页读取定义、关键逻辑与证据边界，未回查其所有来源。模型与档位继承且不可核验。</p>
+</li></ul><ul><li><dl><dt>url</dt><dd><p><a href="https://www.brookings.edu/articles/treasury-market-dysfunction-and-the-role-of-the-central-bank/">https://www.brookings.edu/articles/treasury-market-dysfunction-and-the-role-of-the-central-bank/</a></p></dd><dt>scope</dt><dd><p>实际读作者、初发/更新日期、会议草稿与最终版说明、三主体及政策建议摘要；未读最终论文全文。</p>
+</dd><dt>version</dt><dd><p>页面标初发2025-03-26、更新2025-12-16；当前取得版本。</p>
+</dd></dl></li></ul><dl><dt>documents</dt><dd><ul><li><p>Source/华尔街见闻/维护/ARTICLE_AUTHORING_CHARTER.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/README.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/TEST_TASK.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/SUBSTRUCTURE_DISCUSSION.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/AUTHORING_STANDARD.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/NODE_SELECTION_GUIDE.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/EVENT_SOURCE_GUIDE.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/REVIEW_CHECKLIST.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/README.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/PROJECT_PLAN.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONVERSATION_MEMORY.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONCEPT_IMPORT_LIST.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/MECHANISM_IMPORT_LIST.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONCEPT_SELECTION_HISTORY.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/MECHANISM_SELECTION_HISTORY.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/templates/CONCEPT_TEMPLATE.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/templates/MECHANISM_TEMPLATE.md</p>
+</li></ul></dd><dt>graph_pages</dt><dd><ul><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/美国国债.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/基差.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/回购与逆回购.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/抵押品与折扣率haircut.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/保证金与追加保证金.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/融资流动性.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/中央对手方与集中清算.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/银行资本与杠杆率.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/基差交易.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/保证金驱动的流动性螺旋.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/国债供给的定价机制.md</p>
+</li></ul></dd><dt>figures</dt><dd><ul><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_001.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_002.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_003.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_004.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/一文读懂隔夜美债崩盘的“罪魁”——基差交易/assets/figure_005.png</p>
+</li></ul></dd></dl></details><h3>对本轮说明的反馈</h3><p>先列基础对象后再分析，避免因核心基差机制已在旧图就只交一个新闻评论。新增收益主要来自完整说明三类主体、工具差别、符号测量与政策设计。旧页相当充分，注册新页应少，但知识覆盖不应随之缩减。子关系也不应由“美债”前缀触发；现有机制本就主要讨论美债。</p>
+</section><section id="korea"><p class="eyebrow">3784053 · 单篇单agent</p><h2>韩国跌出“历史级便宜”，为何无人接盘？</h2><p><a href="../SourcePost/%E9%9F%A9%E5%9B%BD%E8%B7%8C%E5%87%BA%E2%80%9C%E5%8E%86%E5%8F%B2%E7%BA%A7%E4%BE%BF%E5%AE%9C%E2%80%9D%EF%BC%8C%E4%B8%BA%E4%BD%95%E6%97%A0%E4%BA%BA%E6%8E%A5%E7%9B%98%EF%BC%9F/article.md">本地原文</a> · <a href="../SourcePost/%E9%9F%A9%E5%9B%BD%E8%B7%8C%E5%87%BA%E2%80%9C%E5%8E%86%E5%8F%B2%E7%BA%A7%E4%BE%BF%E5%AE%9C%E2%80%9D%EF%BC%8C%E4%B8%BA%E4%BD%95%E6%97%A0%E4%BA%BA%E6%8E%A5%E7%9B%98%EF%BC%9F/article.html">HTML原文</a> · <a href="%E6%88%90%E6%9E%9C/korea.md">知识与分析草稿MD</a> · <a href="%E6%88%90%E6%9E%9C/korea.json">完整结果JSON</a></p><div class="boundary"><p>覆盖检查通过：SOX、KOSPI、杠杆ETF、持仓状态和三大买盘都有实质解释。SOX概览由Nasdaq支持；KOSPI仅取得KRX官方检索摘要，不能宣称已核完整现行方法。新增对象、产品规则与当时买盘联系分别组织，重要基础知识与进一步分析能够衔接。</p>
+</div><h3>文章问题</h3><p>按当时预测盈利衡量的低估值为何没有转成足够的即时买盘？需要先解释KOSPI、SOX、杠杆ETF及持仓等基本对象，再比较不同主体如何将价值判断、风险目标和执行要求变成订单。</p>
+<h3>重要概念与对象</h3><div class="table-wrap"><table><thead><tr><th>内容</th><th>处理</th><th>现有覆盖</th></tr></thead><tbody><tr><td><a href="#korea-concepts-0">费城半导体指数SOX</a></td><td>新建候选</td><td><p>现行正式目录与正文未见SOX；恒生指数页可复用指数身份与权重的解释方法。</p>
+</td></tr><tr><td><a href="#korea-concepts-1">韩国综合股价指数KOSPI</a></td><td>新建候选</td><td><p>现行图未有KOSPI对象；C-EQUITY-14是正文术语，不是现成父节点。</p>
+</td></tr><tr><td><a href="#korea-concepts-2">杠杆ETF</a></td><td>新建候选</td><td><p>C-FLOW-05解释ETF层次；C-ASIA-04宽基ETF重点为境内A股宽基，不足以替代杠杆产品规则。</p>
+</td></tr><tr><td><a href="#korea-concepts-3">杠杆ETF持仓与存续敞口</a></td><td>正文解释</td><td><p>ETF页有资产、份额、资金流的通用区分；缺少杠杆目标下的存续敞口解释。</p>
+</td></tr><tr><td><a href="#korea-concepts-4">企业股票回购</a></td><td>正文解释</td><td><p>C-EQUITY-08在背景术语中保留；货币市场《回购与逆回购》不是此对象。</p>
+</td></tr><tr><td><a href="#korea-concepts-5">外资与境内机构的股票需求</a></td><td>正文解释</td><td><p>市场流动性可引用承接解释，但没有本文韩国投资者的具体状态。</p>
+</td></tr><tr><td><a href="#korea-concepts-6">远期市盈率及历史分位</a></td><td>正文解释</td><td><p>估值计算属于既有正文背景；本次补口径即可。</p>
+</td></tr><tr><td><a href="#korea-concepts-7">盈利预测与实际盈利</a></td><td>正文解释</td><td><p>可在相关估值或具体指数页说明。</p>
+</td></tr><tr><td><a href="#korea-concepts-8">趋势跟随与CTA</a></td><td>引用</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/趋势跟随与CTA.md</p>
+</td></tr><tr><td><a href="#korea-concepts-9">市场流动性与边际承接</a></td><td>引用</td><td><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/市场流动性.md</p>
+</td></tr><tr><td><a href="#korea-concepts-10">RSI与200日均线</a></td><td>正文解释</td><td><p>本轮融入价格观察，无需预先注册。</p>
+</td></tr></tbody></table></div><details class="agent" id="korea-concepts-0"><summary><span class="run">新建候选</span><span>费城半导体指数SOX</span><span class="expand">展开</span></summary><div class="inside"><p>文章用它与KOSPI比较，必须明确比较的两种组合各代表什么。</p>
+<div class="sample"><p>SOX是PHLX Semiconductor Sector Index的代码，由Nasdaq提供的指数说明将它定义为采用修正市值加权、覆盖主要从事半导体设计、分销、制造和销售企业的行业股票指数。当前官方概览列30个成分、美元计价。它是按规则计算的股票组合，不等于美国半导体产业实物产量，也不等于某一只ETF。</p>
+<p>研究其变化，要看成分公司的业务暴露、权重集中及观察期间；大型公司的变化会有不同贡献。它与韩国股票指数共享部分行业需求，却包含不同企业、业务组合和投资者。比较时应统一收益区间、币种与价格／含分红口径，不能直接比较两种点位大小。此处采用本轮核读的概览定义，不假定已恢复2026年10月20日的成分和权重。</p>
+</div><h4>对照现有graph</h4><p>现行正式目录与正文未见SOX；恒生指数页可复用指数身份与权重的解释方法。</p>
+<h4>来源</h4><ul><li><p><a href="https://indexes.nasdaq.com/Index/Overview/sox">https://indexes.nasdaq.com/Index/Overview/sox</a></p></li><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/恒生指数与恒生科技指数.md</p>
+</li></ul></div></details><details class="agent" id="korea-concepts-1"><summary><span class="run">新建候选</span><span>韩国综合股价指数KOSPI</span><span class="expand">展开</span></summary><div class="inside"><p>新闻所讨论市场的主要观察对象，估值、订单和ETF暴露需要与它对应。</p>
+<div class="sample"><p>KOSPI是韩国交易所KOSPI市场的综合股票价格指标。KRX官方检索摘要说明其采用市值口径，并以1980年1月4日为100点的基准。它代表特定市场的组合变化，不能直接等同韩国全部经济活动、全部上市市场或单一半导体行业。</p>
+<p>本文至少使用三种观察范围：整个KOSPI、剔除若干大型公司的估值集合、剔除存储企业后的盈利预测集合。图1蓝线排除Samsung、Hynix、SK Square、SK Inc及Samsung C&amp;T；8.4倍不能填成整个KOSPI的估值。建立对象页时需保存本体和各研究剔除样本的区别，而不为每一次剔除都另建节点。</p>
+</div><h4>对照现有graph</h4><p>现行图未有KOSPI对象；C-EQUITY-14是正文术语，不是现成父节点。</p>
+<h4>来源</h4><ul><li><p><a href="https://global.krx.co.kr/contents/GLB/02/0201/0201010100/GLB0201010100.jsp">https://global.krx.co.kr/contents/GLB/02/0201/0201010100/GLB0201010100.jsp</a></p></li><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li></ul></div></details><details class="agent" id="korea-concepts-2"><summary><span class="run">新建候选</span><span>杠杆ETF</span><span class="expand">展开</span></summary><div class="inside"><p>理解无明显赎回时为何仍可能调整底层风险。</p>
+<div class="sample"><p>杠杆ETF通过持有资产、融资或衍生品等方式，追求指定期间内相对某个基准的放大收益目标。SEC说明这类产品通常以每日目标设计，超过一天的结果可能显著偏离简单的累计收益倍数。倍数、正反方向和重置周期必须按产品规则说明。</p>
+<p>例如忽略费用，基准先涨10%再跌约9.09%，两日回到起点；每日2倍产品先涨20%再跌约18.18%，100约变成98.18。路径与每日重置会改变长期结果。本篇并未给出相关韩国产品清单，因此可以讲清一般规则，不能宣称图6所有产品都有同一目标。</p>
+</div><h4>对照现有graph</h4><p>C-FLOW-05解释ETF层次；C-ASIA-04宽基ETF重点为境内A股宽基，不足以替代杠杆产品规则。</p>
+<h4>来源</h4><ul><li><p><a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec">https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec</a></p></li><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/ETF申赎与二级市场交易.md</p>
+</li></ul></div></details><details class="agent" id="korea-concepts-3"><summary><span class="run">正文解释</span><span>杠杆ETF持仓与存续敞口</span><span class="expand">展开</span></summary><div class="inside"><p>文章最关心的存量状态，需区分持有人份额与基金底层头寸。</p>
+<div class="sample"><p>“持仓”可以指投资者持有的ETF份额，也可以指基金为达到目标所持有的现货、期货或掉期敞口。基金净资产是资产减负债后的权益，名义敞口则是对标的价格变化的风险规模；两者不是同一个金额。给定净资产与目标倍数，可以估计目标敞口，实际头寸还随行情、资金流和执行进度变化。</p>
+<p>图6左侧AUM高位只说明所示产品净资产规模仍大；右侧累计流入提供另一种量。它们都不能直接代表“明天还要卖多少”。要把存量转成待执行订单，需知道产品的标的、方向、倍数、旧头寸与新目标。此状态解释放在杠杆ETF对象内，并在韩股历史中记录当时读数。</p>
+</div><h4>对照现有graph</h4><p>ETF页有资产、份额、资金流的通用区分；缺少杠杆目标下的存续敞口解释。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li><li><p><a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec">https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec</a></p></li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/ETF申赎与二级市场交易.md</p>
+</li></ul></div></details><details class="agent" id="korea-concepts-4"><summary><span class="run">正文解释</span><span>企业股票回购</span><span class="expand">展开</span></summary><div class="inside"><p>三大买盘中具有明确计划和执行安排的一类。</p>
+<div class="sample"><p>企业股票回购是发行人使用资金买回本公司股票的安排，实施时会形成相应股票需求，并影响公司现金与股权结构。授权总额、实际执行和剩余额度分别观察；允许回购不表示当天已经买入，计划完成也不表示自动重新启动。</p>
+<p>本文讨论的意义是计划性需求减弱。企业从每天较多买入变成较少买入，会降低其他条件不变时的承接，但“少买”不是同额净卖出。具体计划完成的事实需公司披露支持；本地图4只显示公司部门购股速度变化。</p>
+</div><h4>对照现有graph</h4><p>C-EQUITY-08在背景术语中保留；货币市场《回购与逆回购》不是此对象。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONCEPT_CONTEXT_TERMS.md</p>
+</li></ul></div></details><details class="agent" id="korea-concepts-5"><summary><span class="run">正文解释</span><span>外资与境内机构的股票需求</span><span class="expand">展开</span></summary><div class="inside"><p>三大买盘其余两类的主体划分。</p>
+<div class="sample"><p>外资与境内机构按投资者身份划分，并非统一策略。外资可能主动配置、被动跟踪或对冲；境内机构也受到各自资金来源、负债、风险预算和授权约束。净卖出是一定范围内买入少于卖出，不能据此认定所有成员离场。</p>
+<p>研究当期承接，需要将同一期间的主体净交易与可动用资金、配置限制和执行时间联系起来。本文把外资持续卖出、国内机构需求有限作为报告判断，但本地材料没有完整逐日交易数据，不能直接分配两类主体各造成多少跌幅。</p>
+</div><h4>对照现有graph</h4><p>市场流动性可引用承接解释，但没有本文韩国投资者的具体状态。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/市场流动性.md</p>
+</li></ul></div></details><details class="agent" id="korea-concepts-6"><summary><span class="run">正文解释</span><span>远期市盈率及历史分位</span><span class="expand">展开</span></summary><div class="inside"><p>“便宜”的具体含义与比较基础。</p>
+<div class="sample"><p>远期市盈率把当前价格或组合市值与指定未来期间的预测盈利比较。较低倍数说明按该预测支付的价格较少，可能对应较高要求回报，也可能反映市场不相信预测能实现。历史第11百分位描述在所选样本分布中的相对位置，不表示未来上涨概率为89%。价格下跌和盈利预测上修都会压低该比率，因此三者不能视为三个彼此独立的证据。</p>
+</div><h4>对照现有graph</h4><p>估值计算属于既有正文背景；本次补口径即可。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/股权风险溢价ERP.md</p>
+</li></ul></div></details><details class="agent" id="korea-concepts-7"><summary><span class="run">正文解释</span><span>盈利预测与实际盈利</span><span class="expand">展开</span></summary><div class="inside"><p>判断文章所谓基本面没有恶化的证据边界。</p>
+<div class="sample"><p>盈利预测是对未来期间利润或每股收益的估计，会受分析师信息、模型与更新时点影响。预测上调不等于利润已经实现；市场可能更早改变对远期需求、尾部损失或盈利可持续性的判断。本文图7是剔除存储后的EPS估计序列，不能单凭该图证明两家存储公司的具体预测版本。记录时保留预测主体、样本、预测期和形成日期。</p>
+</div><h4>对照现有graph</h4><p>可在相关估值或具体指数页说明。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li></ul></div></details><details class="agent" id="korea-concepts-8"><summary><span class="run">引用</span><span>趋势跟随与CTA</span><span class="expand">展开</span></summary><div class="inside"><p>理解策略从信号到仓位及订单的过程。</p>
+<div class="sample"><p>复用C-FLOW-11及R-MARKET-09。趋势策略根据价格等信号设定方向和风险敞口，实际订单取决于目标与原持仓之差。图5是动量信号，标题使用likely；它是机构推断仓位的代理，不能直接填作已观察全行业净空头。空头降低风险也可能产生买回，信号为负不意味着未来一直卖出。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/趋势跟随与CTA.md</p>
+<h4>来源</h4><ul><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/趋势跟随与CTA.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/CTA趋势跟随的价格反馈.md</p>
+</li><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li></ul></div></details><details class="agent" id="korea-concepts-9"><summary><span class="run">引用</span><span>市场流动性与边际承接</span><span class="expand">展开</span></summary><div class="inside"><p>把无人接盘转成可解释的成交条件。</p>
+<div class="sample"><p>复用C-LIQ-MARKET给定数量、时间与价格让步的定义。已经发生的成交必有买方；本文“无人接盘”更适合指旧价格附近愿意即时承接的数量不足。估值吸引力提高不保证资金能在卖方的时间要求内入场，卖方可能需要让价寻找承接。成交量、价差、深度与价格冲击应分别观察。</p>
+</div><h4>对照现有graph</h4><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/市场流动性.md</p>
+<h4>来源</h4><ul><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/市场流动性.md</p>
+</li><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li></ul></div></details><details class="agent" id="korea-concepts-10"><summary><span class="run">正文解释</span><span>RSI与200日均线</span><span class="expand">展开</span></summary><div class="inside"><p>文章用于描述价格路径和策略观察，不是独立需求证据。</p>
+<div class="sample"><p>RSI依据给定回看期内上涨与下跌幅度构造相对强弱读数；200日均线平滑较长窗口价格。二者描述已有价格路径，跌入常用超卖区或偏离均线并不识别买家现金、目标仓位或反转日期。本文可保存当时技术观察，但不能把低估值、低RSI与偏离均线简单当作相互独立的买入理由。</p>
+</div><h4>对照现有graph</h4><p>本轮融入价格观察，无需预先注册。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li></ul></div></details><h3>重要关系</h3><div class="table-wrap"><table><thead><tr><th>内容</th><th>处理</th><th>现有覆盖</th></tr></thead><tbody><tr><td><a href="#korea-relations-0">KOSPI三大买盘与边际承接</a></td><td>新关系候选／具体历史解释</td><td><p>市场流动性提供一般承接过程，缺本文具体主体状态。</p>
+</td></tr><tr><td><a href="#korea-relations-1">固定日度杠杆目标与再平衡订单</a></td><td>新机制候选</td><td><p>ETF申赎套利与波动率目标均有相关基础，触发规则不同。</p>
+</td></tr><tr><td><a href="#korea-relations-2">ETF持仓存量、净流量与机械性交易</a></td><td>更新候选</td><td><p>已有ETF页充分区分份额交易与申赎，本轮补杠杆目标联系。</p>
+</td></tr><tr><td><a href="#korea-relations-3">趋势信号、风险缩放与实际订单</a></td><td>引用并增加历史入口</td><td><p>R-MARKET-09已有完整过程。</p>
+</td></tr><tr><td><a href="#korea-relations-4">低估值与买入能力的不同步</a></td><td>正文展开并更新案例</td><td><p>ERP与市场流动性可提供两侧解释。</p>
+</td></tr><tr><td><a href="#korea-relations-5">KOSPI与SOX的共同暴露及表现差异</a></td><td>新关系候选／比较研究</td><td><p>图中没有SOX或KOSPI对应对象，需先补两对象再研究联系。</p>
+</td></tr></tbody></table></div><details class="agent" id="korea-relations-0"><summary><span class="run">新关系候选／具体历史解释</span><span>KOSPI三大买盘与边际承接</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>企业股票回购</p>
+</li><li><p>外资</p>
+</li><li><p>境内机构</p>
+</li><li><p>KOSPI</p>
+</li></ul><div class="sample"><p>企业回购按计划执行，外资按组合配置及风险约束交易，境内机构按自身现金与授权决定承接。三者同时减少净购买时，同一时间窗口的出售需要更低价格才能吸引其他买方。具体传导要分别观察原买入规模、减少幅度和执行时间；不能把买盘减弱、主动卖出和等待入场合并成一种行为。</p>
+<p>按报道，2026年10月前两家大型公司回购接近结束，外资净卖出、本地机构需求有限。若回购重新执行或长线机构增加风险，承接条件可能改善；若卖方急售和风险预算收缩同时延续，估值下降仍可伴随价格继续让步。本文图4只支持企业购股减速的同期观察，尚未证明三类主体的具体因果贡献。</p>
+</div><h4>对照现有graph</h4><p>市场流动性提供一般承接过程，缺本文具体主体状态。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/市场流动性.md</p>
+</li></ul></div></details><details class="agent" id="korea-relations-1"><summary><span class="run">新机制候选</span><span>固定日度杠杆目标与再平衡订单</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>杠杆ETF</p>
+</li><li><p>净资产</p>
+</li><li><p>风险敞口</p>
+</li><li><p>市场承接</p>
+</li></ul><div class="sample"><p>给定每日恢复2倍多头目标、无申赎、忽略费用的假设：净资产100对应风险敞口200。标的下跌10%使原敞口市值180、净资产80；新目标为160，须减少20敞口。基金份额没有赎回，调仓仍会发生。若多个产品同向且执行集中，潜在卖单会随存续规模增加，但最终价格影响取决于其他买方和交易深度。</p>
+<p>这种触发来自固定倍数，不等同于风险估计提高后降低目标倍数，也不等同于套利者转换ETF份额。通过期货或掉期实现时，基金调仓不直接等于同额现货卖出，还需追踪交易对手净额和对冲。</p>
+</div><h4>对照现有graph</h4><p>ETF申赎套利与波动率目标均有相关基础，触发规则不同。</p>
+<h4>来源</h4><ul><li><p><a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec">https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec</a></p></li><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/ETF申赎与二级市场交易.md</p>
+</li></ul></div></details><details class="agent" id="korea-relations-2"><summary><span class="run">更新候选</span><span>ETF持仓存量、净流量与机械性交易</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>杠杆ETF持仓</p>
+</li><li><p>AUM</p>
+</li><li><p>申赎</p>
+</li><li><p>再平衡</p>
+</li></ul><div class="sample"><p>净流出有限意味着一定统计口径下申购与赎回相对接近，存续资产仍可能承载大量风险。持有人二级交易、基金净申赎与存续基金内部再平衡分别改变不同层次。图6同时展示AUM与累计流量，但没有产品倍数与方向；应先按境内宽基、单股、离岸产品映射各自标的，再判断实际可能冲击KOSPI或其他资产的交易。不能将总规模直接乘一次跌幅当作已经发生的卖量。</p>
+</div><h4>对照现有graph</h4><p>已有ETF页充分区分份额交易与申赎，本轮补杠杆目标联系。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/ETF申赎与二级市场交易.md</p>
+</li></ul></div></details><details class="agent" id="korea-relations-3"><summary><span class="run">引用并增加历史入口</span><span>趋势信号、风险缩放与实际订单</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>CTA</p>
+</li><li><p>动量信号</p>
+</li><li><p>旧持仓</p>
+</li><li><p>目标暴露</p>
+</li></ul><div class="sample"><p>价格信号先影响目标方向与规模，再与旧头寸、波动率预算和执行限制共同决定订单。由多转空可能需要卖出；转空完成后，风险缩放要求缩小空头可能反而买回。文中图5只给动量代理，故保存为摩根大通关于仓位方向的当时判断。需要真实头寸或方法规则，才能进一步估计剩余卖压与回补潜力。</p>
+</div><h4>对照现有graph</h4><p>R-MARKET-09已有完整过程。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/CTA趋势跟随的价格反馈.md</p>
+</li></ul></div></details><details class="agent" id="korea-relations-4"><summary><span class="run">正文展开并更新案例</span><span>低估值与买入能力的不同步</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>远期PE</p>
+</li><li><p>盈利预测</p>
+</li><li><p>长期配置者</p>
+</li><li><p>风险预算</p>
+</li></ul><div class="sample"><p>较低价格在其他条件相同时可能提高预期回报，配置决策仍取决于对盈利预测的信任、持有期风险与可用资本。长线投资者即使认可回报，也可能等待波动及执行条件改善；趋势或杠杆策略则遵循另外的目标函数。盈利预测上修与价格下跌可以由要求回报提高、预测调整滞后或交易约束共同形成。文章资金解释值得研究，但不能由两种序列背离独立确定下跌主因。</p>
+</div><h4>对照现有graph</h4><p>ERP与市场流动性可提供两侧解释。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/股权风险溢价ERP.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/市场流动性.md</p>
+</li></ul></div></details><details class="agent" id="korea-relations-5"><summary><span class="run">新关系候选／比较研究</span><span>KOSPI与SOX的共同暴露及表现差异</span><span class="expand">展开</span></summary><div class="inside"><ul><li><p>KOSPI</p>
+</li><li><p>SOX</p>
+</li><li><p>存储企业</p>
+</li><li><p>全球半导体需求</p>
+</li></ul><div class="sample"><p>两种股票组合可以共同受半导体订单、AI投资和盈利预期影响，权重、业务分布、币种、交易时间及持有人又不同。因此共同冲击可能产生同向行情，也可能因各自敞口不同产生分化。建立比较时先计算同起点、同币种与同收益口径的表现，再区分行业共因子与当地资金因素。</p>
+<p>图8的双轴点位不能证明两指数必须收敛，更不能决定谁带动谁。本文关于韩国弱势可能预警美国半导体反弹受阻的判断可作为有日期的机构／作者观点保存；后续需要观察共同收入冲击、重叠持有人或风险预算渠道，才能说明实际传播。</p>
+</div><h4>对照现有graph</h4><p>图中没有SOX或KOSPI对应对象，需先补两对象再研究联系。</p>
+<h4>来源</h4><ul><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/article.md</p>
+</li><li><p><a href="https://indexes.nasdaq.com/Index/Overview/sox">https://indexes.nasdaq.com/Index/Overview/sox</a></p></li></ul></div></details><h3>进一步分析</h3><h2>从“便宜”到谁能够买入</h2>
+<p>报道2026年10月20日称，韩股盈利预测仍上修而股价重挫，回购减速、外资卖出与国内机构需求弱同时出现。先把对象补清，可以发现三种比较并不自动一致：全KOSPI估值、剔除多家巨头的8.4倍估值，以及剔除存储企业的EPS序列。它们应分别保存。预测盈利是分母中的估计，不是已经实现的现金，因此价格下降与EPS上修没有排除市场对远期盈利、风险补偿或预测可信度的重新判断。</p>
+<p>资金解释的实质在于各类主体的行动条件不同。企业完成回购计划后不会因价格更低自动续买；外资可能调整其他市场及汇率敞口；本地机构可有现金、授权或风险预算约束。对后一项，本文尚未给出具体规则，只能提出待检验的解释。长期回报改善与即时承接能力因而可能不同步。图4末端企业购买仍为正，恰应研究买入速度怎样变化，不能写成所有买方已消失。</p>
+<h2>杠杆ETF把存量状态连接到可能订单</h2>
+<p>产品基础解释揭示了比“资金撤退”更具体的过程：存续基金为恢复日度目标倍数，可以在不发生赎回时调整风险。这里的两倍算例是合同前提下的推导，并未确认韩国图中全部产品都如此运作。下一步归因需要产品类别、方向、重置与原持仓，再结合执行时点及市场承接。高AUM提示规模基础，不能独立给出方向和价格贡献。</p>
+<p>趋势策略又有不同触发器。图5只画动量信号，标题保留likely；在记录机构判断时，应继续区分模型目标与实际持仓。实际转空后若缩小风险，订单可能是买回，不能把已完成的去杠杆再次计算为未来卖压。</p>
+<h2>把SOX纳入认识，才能比较两种市场</h2>
+<p>SOX有自己的产业范围与权重，KOSPI则是另一股票市场组合。先建立两个对象，才能进一步研究共同盈利暴露怎样与本地交易需求相互作用。文章将两指数分化解释为全球AI风险预警，提出了一个有研究意义的判断；仅有双轴图还没有说明收敛锚或风险传递方向。</p>
+<p>对于未来几日到数周，本文关于进一步抛售或反弹的判断，应按当时信息保存并保留条件：回购或配置需求恢复、规则化调整趋缓、盈利预测继续维持时，承接可能改善；若盈利预期下修或风险承受继续下降，低倍数也无法确定反转时点。后来的观察应按日期更新，不能反填成当时已知的事实。</p>
+<h3>维护与结构安排</h3><ul><li><dl><dt>name</dt><dd><p>SOX、KOSPI对象</p>
+</dd><dt>decision</dt><dd><p>提出两个具体对象候选，内容已在concepts展开。股票指数的一般方法可复用背景术语，两个具体指数并列，不把SOX挂在KOSPI下，也不为凑父项创建空泛页。</p>
+</dd></dl></li><li><dl><dt>name</dt><dd><p>杠杆ETF及持仓</p>
+</dd><dt>decision</dt><dd><p>杠杆ETF可作一般ETF产品知识的子概念候选，父项职责另审；持仓状态先在产品页观测部分展开，并保存韩国当期历史。宽基／单股描述底层范围，杠杆目标是另一分类维度。</p>
+</dd></dl></li><li><dl><dt>name</dt><dd><p>KOSPI三大买盘</p>
+</dd><dt>decision</dt><dd><p>保留为有实际解释的关系候选或KOSPI关系章节。它组织具体主体，不宣称已经识别三种资金的因果贡献；若内容长期扩充，按独立维护收益决定注册。</p>
+</dd></dl></li><li><dl><dt>name</dt><dd><p>进一步市场分析</p>
+</dd><dt>decision</dt><dd><p>完整分析与图表可在KOSPI当期历史或独立专题中维护一次；SOX和产品基本知识照样制作。固定日度杠杆过程可成为独立机制，与CTA、波动率目标和ETF套利保持关联。</p>
+</dd></dl></li></ul><details><summary>限制、实际阅读与外部来源</summary><ul><li><p>KOSPI发行方网页访问受限，仅核到KRX官方搜索摘要；没有取得完整当前方法书，未补造细节。</p>
+</li><li><p>SOX定义依据本轮可读Nasdaq概览；未复原2026年10月20日成分、权重与指数历史版本。</p>
+</li><li><p>没有回查摩根大通原研报、公司回购披露和韩国ETF实际合同；文章交易与财务数字保持转引身份。</p>
+</li><li><p>全文已读，实际图片核看图1、4、5、6、7、8；图2、3的技术指标说明依据文字，本次未独立核图中逐日数值。</p>
+</li><li><p>形成记录读取经过与原则、目录定位了相关条目；相关长成品阅读定义与核心逻辑部分，未回查全部外部原件。模型和思考档位为继承且不可独立核验。</p>
+</li></ul><ul><li><dl><dt>url</dt><dd><p><a href="https://indexes.nasdaq.com/Index/Overview/sox">https://indexes.nasdaq.com/Index/Overview/sox</a></p></dd><dt>scope</dt><dd><p>全文概览中指数描述、30成分与USD字段；不采用当前行情作为原文时点行情。</p>
+</dd></dl></li><li><dl><dt>url</dt><dd><p><a href="https://global.krx.co.kr/contents/GLB/02/0201/0201010100/GLB0201010100.jsp">https://global.krx.co.kr/contents/GLB/02/0201/0201010100/GLB0201010100.jsp</a></p></dd><dt>scope</dt><dd><p>KRX官方检索摘要：KOSPI市场及市值口径、1980年基准；未取得正文。</p>
+</dd></dl></li><li><dl><dt>url</dt><dd><p><a href="https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec">https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-alerts/sec</a></p></dd><dt>scope</dt><dd><p>SEC公告定义与每日目标及多日表现差异部分，作为产品基础说明，非韩国产品合同。</p>
+</dd></dl></li></ul><dl><dt>documents</dt><dd><ul><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/AUTHORING_STANDARD.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/EVENT_SOURCE_GUIDE.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/NODE_SELECTION_GUIDE.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/README.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/REVIEW_CHECKLIST.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/SUBSTRUCTURE_DISCUSSION.md</p>
+</li><li><p>Source/华尔街见闻/实验_20261113_基础与分析/说明/TEST_TASK.md</p>
+</li><li><p>Source/华尔街见闻/维护/ARTICLE_AUTHORING_CHARTER.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/README.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/PROJECT_PLAN.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONVERSATION_MEMORY.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONCEPT_SELECTION_HISTORY.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/MECHANISM_SELECTION_HISTORY.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONCEPT_IMPORT_LIST.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/MECHANISM_IMPORT_LIST.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/CONCEPT_CONTEXT_TERMS.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/templates/CONCEPT_TEMPLATE.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/00_start/templates/MECHANISM_TEMPLATE.md</p>
+</li></ul></dd><dt>graph_pages</dt><dd><ul><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/ETF申赎与二级市场交易.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/市场流动性.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/股权风险溢价ERP.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/恒生指数与恒生科技指数.md</p>
+</li><li><p>financial_foundation_v5_20261027/financial_foundation_v5/20_mechanisms/CTA趋势跟随的价格反馈.md</p>
+</li></ul></dd><dt>figures</dt><dd><ul><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_001.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_004.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_005.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_006.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_007.png</p>
+</li><li><p>Source/华尔街见闻/SourcePost/韩国跌出“历史级便宜”，为何无人接盘？/assets/figure_008.png</p>
+</li></ul></dd></dl></details><h3>对本轮说明的反馈</h3><p>先知识清单后结构取舍，纠正了前轮只讨论SOX—KOSPI收敛证据却没有讲SOX是什么的问题。概念和关系各有实际内容后，分析更容易说明哪些比较成立、哪些关键环节还未知。仍应防止把重要清单扩大成所有术语的独立注册；本轮把持仓、盈利预测和技术指标分别安排为必要解释、引用或对象内小节。</p>
+</section><section id="docs"><h2>修改了哪些说明</h2><ul><li><p>ARTICLE_AUTHORING_CHARTER.md：增加“先找重要知识，再深入解释”，明确Step2仍承担基础建设，知识清单与注册清单分开。</p>
+</li><li><p>本轮README与TEST_TASK：取消同文多agent重复试作；要求完整概念／关系覆盖及实际核心解释，再写进一步分析，取消“一段样稿即可交付”。</p>
+</li><li><p>AUTHORING_STANDARD测试版：调整制作顺序，已有知识引用，缺失与重要增量实际展开。</p>
+</li><li><p>NODE_SELECTION_GUIDE测试版：先发现重要知识，再决定位置；原型未入选、暂无父项或采用Event均不能直接取消解释。</p>
+</li><li><p>EVENT_SOURCE_GUIDE测试版：完整事件不能替代必要的对象和产品知识。</p>
+</li><li><p>REVIEW_CHECKLIST测试版：覆盖优先，韩国稿明确检查SOX、KOSPI、杠杆ETF持仓及主要买盘关系。</p>
+</li><li><p>SUBSTRUCTURE_DISCUSSION测试版：注册讨论后置，子层级继续按继承差异与维护收益判断。正式标准与graph正文未修改。</p>
+</li></ul><p><a href="../%E7%BB%B4%E6%8A%A4/ARTICLE_AUTHORING_CHARTER.md">制作纲领</a> · <a href="%E8%AF%B4%E6%98%8E/README.md">本轮流程</a> · <a href="%E8%AF%B4%E6%98%8E/TEST_TASK.md">交付任务</a> · <a href="%E8%AF%B4%E6%98%8E/SUBSTRUCTURE_DISCUSSION.md">子层级讨论</a></p><p><a href="%E8%AF%B4%E6%98%8E/AUTHORING_STANDARD.md">AUTHORING_STANDARD.md</a> · <a href="%E8%AF%B4%E6%98%8E/NODE_SELECTION_GUIDE.md">NODE_SELECTION_GUIDE.md</a> · <a href="%E8%AF%B4%E6%98%8E/EVENT_SOURCE_GUIDE.md">EVENT_SOURCE_GUIDE.md</a> · <a href="%E8%AF%B4%E6%98%8E/REVIEW_CHECKLIST.md">REVIEW_CHECKLIST.md</a></p><div class="boundary"><p>每篇只分派一个agent；主agent统一审阅，没有为同文生成多个并行版本。运行继承完整上下文，具体模型与档位未独立核验。原新闻与补查资料的读取范围在各篇结果中说明，转引数字不自动视为已核实事实。</p></div><p><a href="run_manifest.json">运行记录</a> · <a href="review.json">审阅记录</a> · <a href="checks.json">检查记录</a></p></section></main><footer>本地报告 · 重要知识覆盖与正式注册分别判断</footer><script>document.getElementById('open').onclick=()=>document.querySelectorAll('details.agent').forEach(x=>x.open=true);document.getElementById('close').onclick=()=>document.querySelectorAll('details.agent').forEach(x=>x.open=false);document.querySelectorAll('a[href^="#"]').forEach(a=>a.onclick=()=>{const x=document.querySelector(a.getAttribute('href'));if(x?.tagName==='DETAILS')x.open=true});</script></body></html>

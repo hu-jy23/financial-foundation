@@ -1,0 +1,113 @@
+{
+  "article_id": 3744872,
+  "selection": {
+    "article_id": 3744872,
+    "url": "https://wallstreetcn.com/articles/3744872",
+    "title": "关税战会如何摧毁“美元循环”？美债已掀起风暴，接下来有个关键时点",
+    "page_display_time": "2025-04-09T14:16:58+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "汇率与国际资本",
+    "reading_priority": "B",
+    "reading_value": "从日本投资者配置、相对债券收益和拍卖需求讨论美元资产资金循环；属于情景分析。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1138,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 50
+  },
+  "url": "https://wallstreetcn.com/articles/3744872",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3744872?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:24+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/4cccbe4f-f369-45a5-96e5-1ec4999de526.jpeg",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "财经金融博客Zerohedge点评称，这是一场非常糟糕的拍卖， 仅略好于新冠和硅谷银行危机时的3年期债券拍卖。 不过好的一面是，虽然美国国内机构需求崩盘，但外国买家目前仍在继续支撑美国国债。 但问题是，外国投资者还能继续为美国财政赤字买单多久？这个疑问并不会很快消失。",
+      "path": "assets/figure_001.jpg",
+      "sha256": "04ddbb82a14362f7bedd599b55ab81d8f5038daa70ffbf26e0d49a5f1c1f8736",
+      "bytes": 193527,
+      "width": 1131,
+      "height": 673,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/4cccbe4f-f369-45a5-96e5-1ec4999de526.jpeg"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/9a58cd2b-fcfc-489b-9b70-756eb875e3b4.jpeg",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "目前市场担心， 随着日本新财年开始，日本投资者可能大规模调整其配置策略，将资金从美债转向收益更具吸引力的欧洲债券。 此举将进一步挑战美国国债的全球地位，并可能在特朗普关税政策、德国财政扩张等多重因素影响下，引发全球债券市场格局重构，直接影响投资者的收益和风险敞口。",
+      "path": "assets/figure_002.jpg",
+      "sha256": "44840f69e5fb23491243dcc993ff06aca5e5ed345d006a74c4e8486dbfa446ff",
+      "bytes": 184762,
+      "width": 1131,
+      "height": 676,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/9a58cd2b-fcfc-489b-9b70-756eb875e3b4.jpeg"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "关税战会如何摧毁“美元循环”？美债已掀起风暴，接下来有个关键时点",
+  "page_display_time": "2025-04-09T14:16:58+08:00",
+  "page_byline": "许超",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "目前投资者紧盯本周接下来的十年及三十年期美债拍卖，伴随着日本新财年开始，日本投资者可能大规模调整其配置策略，将资金从美债转向收益更具吸引力的欧洲债券。此举将进一步挑战美国国债的全球地位，并可能在特朗普关税政策、德国财政扩张等多重因素影响下，引发全球债券市场格局重构。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1221,
+  "body_sha256": "d584281c75e5e5a948f9c461cd85958a2621ce994ecb256d8af909569ca1883e",
+  "raw_sha256": "fab46d323f84cd05d1adbacbf5ef2812ce97e9160fa5f7b2d371678635d1a347",
+  "raw_bytes": 8685,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/ab95a3d7-8819-4859-ab47-6fc86b242afb.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 1138,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "三年期美债拍卖“惨淡收场”",
+      "url": "https://wallstreetcn.com/articles/3744847?keyword=%E7%BE%8E%E5%80%BA%E6%8B%8D%E5%8D%96"
+    },
+    {
+      "text": "此前分析文章指出",
+      "url": "https://wallstreetcn.com/articles/3743707"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:33+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "fab46d323f84cd05d1adbacbf5ef2812ce97e9160fa5f7b2d371678635d1a347",
+      "bytes": 8685
+    },
+    "article.html": {
+      "sha256": "4d15e762d9369a1ce69bbc2d77a621e08ee19537699a175aed7a064f51524d44",
+      "bytes": 8074
+    },
+    "article.md": {
+      "sha256": "9591214519c1008488b2dcb1f7314495a3c5cafd8e07b2099631231ee7bbdd39",
+      "bytes": 4618
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:16+08:00"
+}

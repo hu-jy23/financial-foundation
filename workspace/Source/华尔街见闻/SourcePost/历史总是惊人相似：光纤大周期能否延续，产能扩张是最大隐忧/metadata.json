@@ -1,0 +1,89 @@
+{
+  "article_id": 3767163,
+  "selection": {
+    "article_id": 3767163,
+    "url": "https://wallstreetcn.com/articles/3767163",
+    "title": "历史总是惊人相似：光纤大周期能否延续，产能扩张是最大隐忧",
+    "page_display_time": "2026-03-10T21:14:47+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "杨宸",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004919",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "A",
+    "reading_value": "对照上一轮光纤周期分析需求来源和扩产滞后，讨论价格上行如何触发供给反应。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1521,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 177
+  },
+  "url": "https://wallstreetcn.com/articles/3767163",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3767163?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:01+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/f16b61c7-bf2e-4f24-bd26-122ed39e9548.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "本轮价格回升始于2025年下半年， 核心驱动力来自数据通信需求激增带来的供给收紧、海外电信需求复苏，以及光纤无人机带来的增量需求。",
+      "path": "assets/figure_001.png",
+      "sha256": "2a180b73e096aa3d11e66c295d0b8440483edd093eff5c3b07e59b9544afa73d",
+      "bytes": 116184,
+      "width": 1368,
+      "height": 498,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/f16b61c7-bf2e-4f24-bd26-122ed39e9548.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "历史总是惊人相似：光纤大周期能否延续，产能扩张是最大隐忧",
+  "page_display_time": "2026-03-10T21:14:47+08:00",
+  "page_byline": "杨宸",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "目前光纤需求回暖驱动价格上涨。瑞银认为，2017年行业曾经历相似情景，行业在需求提升驱动价格上涨后大幅扩产，但最终需求落地节奏不及预期，产能却如期投放，导致光纤和相关公司股价大跌。本轮周期能否走出不同的结局，很大程度上取决于供给端的自律程度。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1592,
+  "body_sha256": "8446612f86f41db4bb7575e331380e78aa0abea1b5de83cbbc76cd26cb928447",
+  "raw_sha256": "0a66255ff1d98d5ed790097afc8720107ce2185ea23e39c5fccf85ac3884c3f4",
+  "raw_bytes": 9873,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/6aa2c06f-1a83-4294-9ab9-269647dbb674.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1521,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:45+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "0a66255ff1d98d5ed790097afc8720107ce2185ea23e39c5fccf85ac3884c3f4",
+      "bytes": 9873
+    },
+    "article.html": {
+      "sha256": "08bbebc95f3af5751d06f66a96dd3bf705ba49202349b32269a8f1c9001f8d2f",
+      "bytes": 9460
+    },
+    "article.md": {
+      "sha256": "2bbbe4cb9f53d01323d5bde8bc7311507c7b4e121d67040756cd32da2bcc9c35",
+      "bytes": 5370
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:43+08:00"
+}

@@ -1,0 +1,94 @@
+{
+  "article_id": 3753515,
+  "selection": {
+    "article_id": 3753515,
+    "url": "https://wallstreetcn.com/articles/3753515",
+    "title": "杰克逊霍尔央行年会，鲍威尔关键发声，为何华尔街一致“示警”",
+    "page_display_time": "2025-08-18T13:58:51+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李笑寅",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004684",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "B",
+    "reading_value": "汇集巴克莱、美银和野村的会前论证，展示市场降息定价与机构判断的分歧。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1939,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 6
+  },
+  "url": "https://wallstreetcn.com/articles/3753515",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3753515?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:15+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/f402c68d-2842-4afb-884d-f2a27b56f2bf.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "因此，报告认为，从经济数据看，今年支持降息的理由远不如去年充分。",
+      "path": "assets/figure_001.png",
+      "sha256": "da575439c2816d6045a30b66ddd621ed5da739f2fe8834f72ff8b577ebdcea32",
+      "bytes": 39939,
+      "width": 681,
+      "height": 305,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/f402c68d-2842-4afb-884d-f2a27b56f2bf.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "杰克逊霍尔央行年会，鲍威尔关键发声，为何华尔街一致“示警”",
+  "page_display_time": "2025-08-18T13:58:51+08:00",
+  "page_byline": "李笑寅",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "考虑到距离9月会议还有一系列数据尚未公布，野村预计鲍威尔不会在周五给出“明确承诺”，美银甚至预计鲍威尔会秉持强硬的鹰派立场，与市场的宽松预期相悖。大摩则预计，鲍威尔会在讲话中继续强调通胀风险，抵制市场的降息预期。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2010,
+  "body_sha256": "058da754212c3d0b8e8bbafea0827c6e7b1f9ead2d1939ed0224ab9d4364ca97",
+  "raw_sha256": "83e93c6ce6c95ef708783f53948353f822c04a209a1337bf923d05addb8fee27",
+  "raw_bytes": 10136,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/1b3ccf26-04a6-497e-b195-3176957ca956.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1939,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "大摩则预计",
+      "url": "https://wallstreetcn.com/articles/3753452"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:30+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "83e93c6ce6c95ef708783f53948353f822c04a209a1337bf923d05addb8fee27",
+      "bytes": 10136
+    },
+    "article.html": {
+      "sha256": "61bb786d1ddb815a17f86b18f833a6055634ed5da59c9a1634a98d5875b49671",
+      "bytes": 10055
+    },
+    "article.md": {
+      "sha256": "e3f29b798a8fdbf2a1175c49baec5838279e3e76455b6dbc51182bb8bca862ff",
+      "bytes": 6647
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:08+08:00"
+}

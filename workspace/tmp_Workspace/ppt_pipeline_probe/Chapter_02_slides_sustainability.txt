@@ -1,0 +1,268 @@
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 2: CA Sustainability
+
+
+
+
+Slides for Chapter 2: Current Account Sustainability
+
+                                                      Columbia University
+
+                                                       September 6, 2022
+
+
+
+
+These are the slides for the textbook, “International Macroeconomics: A Modern Approach,” by
+Stephanie Schmitt-Grohé, Martı́n Uribe, and Michael Woodford, Princeton University Press, 2022,
+ISBN: 9780691170640.
+
+
+
+
+                                                                                                              1
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 2: CA Sustainability
+
+
+
+
+Motivation
+
+A natural question that arises from our description of the recent
+history of the U.S. external accounts is whether the observed trade
+and current account deficits are sustainable in the long run. In this
+chapter, we develop a framework to address this question.
+
+
+
+
+                                                                                                              2
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 2: CA Sustainability
+
+
+
+
+Can a Country Run a Perpetual Trade Balance Deficit?
+
+It depends on whether the country is a net debtor or a net creditor. If
+it is a net debtor, that is, if its net international investment position
+(NIIP) is negative, then the answer is no. For in this case, the
+country will have to run a trade balance surplus at some point to
+service its debt.
+
+If the country is a net creditor to the rest of the world, that is, if
+its net international investment position is positive, then it can run
+a perpetual trade deficit and finance it with the interest generated
+by its net investments abroad.
+
+Let’s analyze this issue more formally.
+
+
+                                                                                                              3
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 2: CA Sustainability
+
+
+
+
+Consider an economy that lasts for two periods. It starts period 1
+with NIIP of B0. Let r denote the interest rate. Then, the country’s
+net investment income in period 1 is given by
+
+                             Net investment income in period 1 = rB0 .
+Let the trade balance in period 1 be denoted T B1.                                     Then, the
+country’s NIIP at the end of period 1 is∗
+
+                                                   B1 = (1 + r)B0 + T B1                                 (1)
+A similar expression holds in period 2
+
+                                                   B2 = (1 + r)B1 + T B2                                 (2)
+At the end of period 2, the country cannot hold assets or debts
+because no one will be alive in period 3 to collect (the world ends
+in period 2). This means that
+
+                                                                    B2 = 0.                              (3)
+∗
+    In what follows, we assume that the income balance is equal to net investment
+    income and that net unilateral transfers and valuation changes are zero.
+                                                                                                              4
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 2: CA Sustainability
+
+
+
+
+Combining (1), (2), and (3) yields
+                                                                 T B2
+                                            (1 + r)B0 = −T B1 −         ,                                (4)
+                                                                (1 + r)
+which states that initial NIIP including interest, (1 + r)B0 , equals
+the present discounted value of trade deficits. It is clear from this
+expression that if the country starts out as a net debtor, B0 < 0,
+then it must run a trade balance surplus at some point. However, if
+the country starts out as a net creditor, B0 > 0, then it can afford
+running trade deficits in both periods.
+
+One can show that this result holds not just for two-period economies,
+but for economies lasting any number of periods, including an infinite
+number of periods.
+
+Since the United States is a net debtor, the present analysis implies
+that it will have to revert its trade balance deficits at some point in
+the future.
+                                                                                                              5
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 2: CA Sustainability
+
+
+
+
+Can a Country Run a Perpetual Current Account
+Deficit?
+
+The answer to this question is, again, yes, provided the country’s
+initial net international investment position is positive. To see this,
+recall that the change in the NIIP is the current account
+
+                                                           CA1 = B1 − B0.
+Similarly, in period 2 we have
+
+                                                           CA2 = B2 − B1
+Combining these two expressions to eliminate B1 and recalling that
+B2 = 0, we obtain
+                                                       B0 = −CA1 − CA2,
+which implies that the country can run current account deficits in
+both periods only if the initial NIIP is positive. This result holds for
+economies lasting any finite number of periods.
+                                                                                                              6
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 2: CA Sustainability
+
+
+
+
+The Current Account: Gap between Saving and Investment
+
+In any period, say period t, saving, investment, and the current
+account are linked by the identity
+                                                             CAt = St − It .
+This expression is intuitive. The country’s saving in excess of what
+is needed to finance domestic investment must be allocated to
+purchases of foreign assets—where else could those resources go?
+But the change in the net foreign asset position is precisely the
+current account.
+
+To derive the above identity more formally, recall that a country’s
+aggregate supply of goods and services in any given period t is the
+sum of gross domestic product, denoted Qt , and imports, denoted
+IMt . The aggregate demand for goods and services is the sum of
+private consumption, Ct, government consumption, Gt, investment,
+It , and exports, Xt:
+                                            Qt + IMt = Ct + Gt + It + Xt
+                                                                                                              7
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 2: CA Sustainability
+
+
+
+
+Now add net investment income, rBt−1 , to both sides of the previous
+expression and recall that the trade balance is the difference between
+imports and exports, or
+
+                                                          T Bt = Xt − IMt ,
+to get
+                              Qt + rBt−1 = Ct + Gt + It + T Bt + rBt−1
+The sum of GDP and net investment income is known as national
+income (or gross national income, GNP), denoted Yt.
+
+                                  national income, GN Pt = Qt + rBt−1
+Also, recall from slide 4 that the sum of net investment income and
+the trade balance is the current account,
+
+                                                      CAt = rBt−1 + T Bt .
+Thus, we can write
+
+                                                  Yt = Ct + Gt + It + CAt                                (5)
+                                                                                                              8
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 2: CA Sustainability
+
+
+
+
+Finally, the difference between national income and private and
+public consumption is national saving, or
+
+                                                         St = Yt − Ct − Gt .
+Combining this expression with (5), we get the expression we were
+looking for
+                                                             CAt = St − It ,
+which says that the current account is the gap between saving and
+investment.
+
+
+
+
+                                                                                                              9
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 2: CA Sustainability
+
+
+
+
+The Current Account as the Gap between National Income
+and Domestic Absorption
+
+Domestic absorption is defined as the sum of private consumption,
+government consumption, and investment. Letting At denote do-
+mestic absorption, we have
+
+                                                         At = Ct + Gt + It.
+Combining this expression with (5), we can express the current
+account as
+                                                             CAt = Yt − At,
+which states that the current account is the gap between national
+income and the domestic absorption of goods and services.
+
+
+
+                                                                                                            10
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 2: CA Sustainability
+
+
+
+
+Summing Up
+
+• A country that is a net external debtor cannot run a perpetual
+trade balance deficit.
+
+• A country that is a net external debtor cannot run a perpetual
+deficit in the current account. This result applies to economies that
+last for any finite number of periods. For infinite horizon economies,
+perpetual current account deficits are possible even if the country
+is an external debtor, if the economy is growing and dedicates a
+growing amount of resources to pay interest on its external debt.
+
+• The current account can be expressed as the gap between saving
+and investment, CAt = St − It, as the gap between national income
+and domestic absorption, CAt = Yt − At, as the change in the
+country’s net foreign asset position, CAt = Bt − Bt−1 , or as the sum
+of net investment income and the trade balance, CAt = rBt−1 +T Bt .
+All four expressions are identities that must hold at any time in any
+country.
+                                                                                                            11
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 2: CA Sustainability
+
+
+
+
+The Road Ahead
+
+• All four of the above expressions for the current account are
+accounting identities. They do not provide any explanation, or
+theory, of the determinants of the current account.
+
+• To understand what determines the current account we need a
+model, that is, a story of the economic behavior of households,
+firms, governments, and foreign residents. This is the focus of the
+following chapters.
+
+
+
+
+                                                                                                            12
+

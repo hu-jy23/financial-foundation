@@ -1,0 +1,139 @@
+{
+  "article_id": 3783389,
+  "selection": {
+    "article_id": 3783389,
+    "url": "https://wallstreetcn.com/articles/3783389",
+    "title": "中欧经贸谈判点评：全面贸易冲突风险下降",
+    "page_display_time": "2026-10-12T08:07:47+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "龙玥",
+    "page_author_url": "https://wallstreetcn.com/authors/120000002320",
+    "page_source_label": "华泰睿思",
+    "page_source_url": null,
+    "page_attribution_note": "本文来源：华泰睿思",
+    "category": "贸易与国际政策",
+    "reading_priority": "B",
+    "reading_value": "从汽车出口数量、生产布局和贸易条款解释谈判对产业链的具体影响。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2074,
+    "page_image_count": 4,
+    "original_underlying_research_verified": false,
+    "catalog_number": 137
+  },
+  "url": "https://wallstreetcn.com/articles/3783389",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783389?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:50+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/b764654b-05de-410a-acc9-b44cf5b75996.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_001.jpg",
+      "sha256": "f6a9416a19eb7e1a90a55daf4ab0f24e7984bb9c11a8ae7012c90ab6d6eb461f",
+      "bytes": 67342,
+      "width": 1024,
+      "height": 832,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/b764654b-05de-410a-acc9-b44cf5b75996.jpeg"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/cc3b5ac0-c793-4282-92ec-1aef13d6e966.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_002.jpg",
+      "sha256": "608fd8a30552dffc76848eea968ff81ba237f07da7ee5291c6defe4ad410c38a",
+      "bytes": 60118,
+      "width": 1024,
+      "height": 842,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/cc3b5ac0-c793-4282-92ec-1aef13d6e966.jpeg"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/bb07a740-c0a3-441b-9d53-bbc12f9d8328.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_003.jpg",
+      "sha256": "a9acc6530bd241fd6ab12d151748a64cf1809c369e0a2153cf1082d7155cc3c6",
+      "bytes": 62338,
+      "width": 1024,
+      "height": 773,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/bb07a740-c0a3-441b-9d53-bbc12f9d8328.jpeg"
+    },
+    {
+      "order": 4,
+      "source_url": "https://wpimg-wscn.awtmt.com/40d4c994-de0a-458a-9b82-388672316636.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "本文来源： 华泰睿思",
+      "path": "assets/figure_004.jpg",
+      "sha256": "db2cc620f3a4d509d5694ca1c1e93ea538e03ba4a00f7c14919e76e57f3b7702",
+      "bytes": 46510,
+      "width": 1024,
+      "height": 782,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/40d4c994-de0a-458a-9b82-388672316636.jpeg"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "中欧经贸谈判点评：全面贸易冲突风险下降",
+  "page_display_time": "2026-10-12T08:07:47+08:00",
+  "page_byline": "龙玥",
+  "source_label": "华泰睿思",
+  "source_url": "",
+  "subtitle": "华泰证券认为，中欧双方各退一步，以时间换空间，以解决长期贸易分歧，能继续谈下去就是最大的胜利。然而，不容忽视的是双方结构性失衡与矛盾根深蒂固。短期关注10月15-16日举行的欧盟峰会（European Council）的态度和立场变化。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2145,
+  "body_sha256": "9c43659877b75584274a02b35ea77ab471a0079c71c44221c086eb0eee5dcb5b",
+  "raw_sha256": "aaecc8bff2d1d8cc15f5fe84d52ce7985417cd2bdaabae10e0797f4e5022dbf3",
+  "raw_bytes": 11177,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/8ffafe16-0f03-43e4-891f-fab1dece511d.mp3",
+  "image_occurrences": 4,
+  "html_table_count": 0,
+  "catalog_image_count": 4,
+  "catalog_text_characters": 2074,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "华泰睿思",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA5NDI5MDQwMg==&mid=2649868290&idx=1&sn=aa497ccda024aeaf77503de244638dae&chksm=89d4da05987776816d8b9e8f21009710699c6226da5ba7c6bdbd638a9c64e45a3a0adea50d54&mpshare=1&scene=23&srcid=1012BqT2yzDrieD0J53isIu6&sharer_shareinfo=2605044f03ccb14bc89c5ab7b757b4cb&sharer_shareinfo_first=2605044f03ccb14bc89c5ab7b757b4cb#rd"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:41+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "aaecc8bff2d1d8cc15f5fe84d52ce7985417cd2bdaabae10e0797f4e5022dbf3",
+      "bytes": 11177
+    },
+    "article.html": {
+      "sha256": "da3dfb7158eaa9688cbdac02195365695a10bd948aaee0167adc604d198bb423",
+      "bytes": 11251
+    },
+    "article.md": {
+      "sha256": "b44699acacce8dcac2b59ecff5faff0934e7bb9518cca68b988fed9f1676ed86",
+      "bytes": 6785
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:32+08:00"
+}

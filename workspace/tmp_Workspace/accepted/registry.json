@@ -1,0 +1,445 @@
+{
+  "金融加速器": {
+    "candidate_ids": [
+      "T1-U01-A"
+    ],
+    "source_draft": "drafts/T1/金融加速器.md",
+    "reviewed_draft_sha256": "9525ebdd0f1dccd9ce6bb1e8849c7addf5013a57003bec79cdccf87c3f3650a3",
+    "accepted_file": "accepted/20_mechanisms/金融加速器.md",
+    "accepted_sha256": "82aff7cba7643c7989a6a90da385d03cbc8093eeae9ce513390b2d2c4cd2b4b2",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "20_mechanisms/金融加速器.md",
+    "formal_sha256": "510191d76de14117d039646cf2c1880d265d55799bab19619e0c95b7b39e934e",
+    "source_draft_retained": false
+  },
+  "工资—价格反馈": {
+    "candidate_ids": [
+      "T1-U02-A",
+      "T1-U12-B"
+    ],
+    "source_draft": "drafts/T1/工资—价格反馈.md",
+    "reviewed_draft_sha256": "d2f93d012f1f8ca5593726ee69fe64299d13828bd2c8e6a6ed9b8d109d257053",
+    "accepted_file": "accepted/20_mechanisms/工资—价格反馈.md",
+    "accepted_sha256": "4af51bbcf0ada41e90a28e2e74dc96cf1b67c7e119b4bd80d340ecf5ed6f2633",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "20_mechanisms/工资—价格反馈.md",
+    "formal_sha256": "527e376b2b7b152e8c5f0300b815220214fb271062301c6db154db2009cea283",
+    "source_draft_retained": false
+  },
+  "程序化交易与做市": {
+    "candidate_ids": [
+      "T2-U01-A"
+    ],
+    "source_draft": "drafts/T2/程序化交易与做市.md",
+    "reviewed_draft_sha256": "ba54f32e6e27c13e1ef1a3d625ff2f5db517ad63ad1ea0a724c20466b14a1af1",
+    "accepted_file": "accepted/10_concepts/程序化交易与做市.md",
+    "accepted_sha256": "ad61f83df6ed3b1b439287d3cb47b751fea0e073c1bff3a10e98fe4d89375659",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "10_concepts/程序化交易与做市.md",
+    "formal_sha256": "c0e62c1b42eaeb69c2f9ac3964d7cfe5d522d288917e8db560e70dc8abcf2b67",
+    "source_draft_retained": false
+  },
+  "金融周期中的系统性风险积累与扩散": {
+    "candidate_ids": [
+      "T2-U02-A",
+      "T1-U07-A"
+    ],
+    "source_draft": "drafts/T1/金融周期中的系统性风险积累与扩散.md",
+    "reviewed_draft_sha256": "4a3b5aa12eb58daa02da8434cb509a67dcc4cb19bbf14f6881a3550b3d49f368",
+    "accepted_file": "accepted/20_mechanisms/金融周期中的系统性风险积累与扩散.md",
+    "accepted_sha256": "1e044f051ff3919b8465fa416af093ba99446b2292e2e868840723c2c0390b6c",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "20_mechanisms/金融周期中的系统性风险积累与扩散.md",
+    "formal_sha256": "ffb8f9f848f2efd70e9f6905f0b2357df0a59bd0096a1845c14252f652c35c42",
+    "source_draft_retained": false
+  },
+  "保险业": {
+    "candidate_ids": [
+      "T2-U03-A",
+      "T2-U11-A"
+    ],
+    "source_draft": "drafts/T2/保险业.md",
+    "reviewed_draft_sha256": "a77990b5c529258ded31d7189425cbdcb8bbabcdbe161f69017eb492a92f87f3",
+    "accepted_file": "accepted/10_concepts/保险业.md",
+    "accepted_sha256": "4ff5ab03cd516319254e4066446af631be080da87cff524dc7a44ff12a0b683a",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "10_concepts/保险业.md",
+    "formal_sha256": "ef9f740e3c2226fff8e504cc3dcefb01701115846697504686397cc1eb545138",
+    "source_draft_retained": false
+  },
+  "投资级公司债": {
+    "candidate_ids": [
+      "T2-U04-A"
+    ],
+    "source_draft": "drafts/T2/投资级公司债.md",
+    "reviewed_draft_sha256": "45641b847abbae620f7ca73e8f9467aea23e238aacb84e63d253a1d63c756dba",
+    "accepted_file": "accepted/10_concepts/投资级公司债.md",
+    "accepted_sha256": "a761d181e3882da781323d0350d6348299eb0d0fbfb51006d5933044f8aca168",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "10_concepts/投资级公司债.md",
+    "formal_sha256": "a47f221afc9778659c78855f62cf53a508034663c74b4a78bbc6045c3e959fae",
+    "source_draft_retained": false
+  },
+  "衰退后的就业疤痕": {
+    "candidate_ids": [
+      "T1-U03-A"
+    ],
+    "source_draft": "drafts/T1/衰退后的就业疤痕.md",
+    "reviewed_draft_sha256": "b3ab42575fbf64d6321206de9a82ae8a9262ee7358220633f0efd328f132c6d9",
+    "accepted_file": "accepted/20_mechanisms/衰退后的就业疤痕.md",
+    "accepted_sha256": "70530dc71a028d04b39fd5eaff2d911b9f4ebd3ab841315a9eff0f41b53f4ed6",
+    "target_type": "new_node",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "20_mechanisms/衰退后的就业疤痕.md",
+    "formal_sha256": "f53496807ac3c27ab134cebf87083fa13f6f421c169ca928cb82648da01ce832",
+    "source_draft_retained": false
+  },
+  "信贷配给": {
+    "candidate_ids": [
+      "T1-U04-A"
+    ],
+    "source_draft": "drafts/T1/信贷配给.md",
+    "reviewed_draft_sha256": "af633d90543f270004698a5e7c23eb34fa4fe6504f6e3224ab1feeeb6b53b24a",
+    "accepted_file": "accepted/20_mechanisms/信贷配给.md",
+    "accepted_sha256": "9bf3358ec97b4ed3b25732cb356ed7a7165c0ead40ae92e8e1f8ce03157e1246",
+    "target_type": "new_node",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "20_mechanisms/信贷配给.md",
+    "formal_sha256": "02bfab84c0ad7c62902e5a235671f05355c1d2cef7d20693ea6a42291ea118e8",
+    "source_draft_retained": false
+  },
+  "信用评级与迁移": {
+    "candidate_ids": [
+      "T2-U05-A"
+    ],
+    "source_draft": "drafts/T2/信用评级与迁移.md",
+    "reviewed_draft_sha256": "3085c19016cc37dc2e1b8c1f38f5ae10849b48991aa758d749b2265c2fc654ef",
+    "accepted_file": "accepted/10_concepts/信用评级与迁移.md",
+    "accepted_sha256": "8b2b7b7acf0c26f01fd5b364ffc16e17169da7193fb1be6220888eafbce442ac",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "10_concepts/信用评级与迁移.md",
+    "formal_sha256": "44e56f4d024d636e0dfeb9ecc53957e02c2ae342c443df581bc56ea0a78b5714",
+    "source_draft_retained": false
+  },
+  "IPO、再融资与退市": {
+    "candidate_ids": [
+      "T2-U06-A"
+    ],
+    "source_draft": "drafts/T2/IPO、再融资与退市.md",
+    "reviewed_draft_sha256": "18e426df8f81033ddd3ad56a62b161c46944b118a672fb6d0672a7fb98f334ab",
+    "accepted_file": "accepted/10_concepts/IPO、再融资与退市.md",
+    "accepted_sha256": "4bd7d8d7f3d707bbe8c0535f7314be4b52b1d9961234b87b874486fc49fd0cea",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "10_concepts/IPO、再融资与退市.md",
+    "formal_sha256": "bb709b7139e734ae66c6d82ecc50388c69bb83371c7d5dd2649debd818a3d123",
+    "source_draft_retained": false
+  },
+  "量化宽松QE": {
+    "candidate_ids": [
+      "T1-U05-A"
+    ],
+    "source_draft": "drafts/T1/量化宽松QE.md",
+    "reviewed_draft_sha256": "dc77e8045423eed9bb8bf1ec6b8334dd1d87d43208b1fcb2c26ad3498de4d2d7",
+    "accepted_file": "accepted/10_concepts/量化宽松QE.md",
+    "accepted_sha256": "494f37e1f960ac4c3c03902e63ca413921f8bad80dcbf6434af77091d80a1c08",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "10_concepts/量化宽松QE.md",
+    "formal_sha256": "7f0224835aea9adc72147eece4b2b3fb2b1f78dcbd8c78aece8ed66bab5f30fd",
+    "source_draft_retained": false
+  },
+  "欧洲央行与欧元区成员国": {
+    "candidate_ids": [
+      "T1-U06-A",
+      "T1-U11-A",
+      "T1-U11-B"
+    ],
+    "source_draft": "drafts/T1/欧洲央行与欧元区成员国.md",
+    "reviewed_draft_sha256": "94257238c40a36b97eac36a2e947fba16969445a0e07265d61bfe0769581e667",
+    "accepted_file": "accepted/10_concepts/欧洲央行与欧元区成员国.md",
+    "accepted_sha256": "a48011a18565a8697947f43b9cc85f18c5a6462c2fa2218aa530a9817408e19b",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "10_concepts/欧洲央行与欧元区成员国.md",
+    "formal_sha256": "284ae315ed3901930b95a8dd194fd9a243804b3697363897b9d763a24fb9b0e7",
+    "source_draft_retained": false
+  },
+  "金融周期": {
+    "candidate_ids": [
+      "T1-U08-A"
+    ],
+    "source_draft": "drafts/T1/金融周期.md",
+    "reviewed_draft_sha256": "554a06767d0395e046e58845f7a9fb94e85bbb21f375d51b9ee2621dd65c827d",
+    "accepted_file": "accepted/10_concepts/金融周期.md",
+    "accepted_sha256": "d551156c1d7f60439f7dc76c683e11bb3a71c6c95c76ab81cdb8653f88340a97",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "10_concepts/金融周期.md",
+    "formal_sha256": "0acf0e3b40fe1d7a3fe3069d8acf4fab3f7a090161509365a3bde249408001bb",
+    "source_draft_retained": false
+  },
+  "中央对手方与集中清算": {
+    "candidate_ids": [
+      "T2-U07-A"
+    ],
+    "source_draft": "drafts/T2/中央对手方与集中清算.md",
+    "reviewed_draft_sha256": "5af80b7d985a9597c02556a44c7fa82af07fe3493dcc60367919d4f307f79e68",
+    "accepted_file": "accepted/10_concepts/中央对手方与集中清算.md",
+    "accepted_sha256": "36c62ad14f9bf2665147e5f1173247fef88c26ed206ef17b061dc0899ea491b4",
+    "target_type": "new_node",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "10_concepts/中央对手方与集中清算.md",
+    "formal_sha256": "b4028ab91f17e47e96f28816729002dc8389efb34cb9f7e53de5f7395a8bf536",
+    "source_draft_retained": false
+  },
+  "汇率贬值后的贸易收支调整": {
+    "candidate_ids": [
+      "T1-U09-A"
+    ],
+    "source_draft": "drafts/T1/汇率贬值后的贸易收支调整.md",
+    "reviewed_draft_sha256": "68e23dbb3b2c0997863a2ef181ba300411f13b5b5752b718d262766d8c9d1c81",
+    "accepted_file": "accepted/20_mechanisms/汇率贬值后的贸易收支调整.md",
+    "accepted_sha256": "39277136610744bf76919adedcf95e310e5318d3ec4bad7bbd18911a3341db18",
+    "target_type": "new_node",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "20_mechanisms/汇率贬值后的贸易收支调整.md",
+    "formal_sha256": "e1db794d16e22c5fd477b0a09078f02c67546f4b2eaea1151b3f90cc450d9c10",
+    "source_draft_retained": false
+  },
+  "主权信用风险与CDS": {
+    "candidate_ids": [
+      "T2-U07-B"
+    ],
+    "source_draft": "drafts/T2/主权信用风险与CDS.md",
+    "reviewed_draft_sha256": "09ddee291f27f0bcab7e9f3d33cd2a96c5ba65eb828e5b1b23d4516e7014c60a",
+    "accepted_file": "accepted/10_concepts/主权信用风险与CDS.md",
+    "accepted_sha256": "1347708a7c9dcc23f204575b60405e4dc6c7ec5070d568410f8337e2adeb93f8",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "10_concepts/主权信用风险与CDS.md",
+    "formal_sha256": "894d0c1ee0eeeb75118afed6245a9d0db6ef7c398c6561a667efd959b1a1ac77",
+    "source_draft_retained": false
+  },
+  "商业银行业": {
+    "candidate_ids": [
+      "T2-U09-A"
+    ],
+    "source_draft": "drafts/T2/商业银行业.md",
+    "reviewed_draft_sha256": "30256b4735c06b6cf7549379ba89817748d616dc1bbf7c8ad486b181d4e8acf4",
+    "accepted_file": "accepted/10_concepts/商业银行业.md",
+    "accepted_sha256": "98da87e1a7e9f25658099a8d12c0aa9edfa6ea0d3f66d1610f4a3c53d9f1715e",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "10_concepts/商业银行业.md",
+    "formal_sha256": "55c69f3ca414cc05e0629c926187e42da373c36081cfa5728468a989391c16a3",
+    "source_draft_retained": false
+  },
+  "银行负债成本、资产重定价与息差": {
+    "candidate_ids": [
+      "T2-U10-B"
+    ],
+    "source_draft": "drafts/T2/银行负债成本、资产重定价与息差.md",
+    "reviewed_draft_sha256": "c683e309ca6fa139e110769cfbfea6f78399311feccd52d2cbb31c83c5c3e050",
+    "accepted_file": "accepted/20_mechanisms/银行负债成本、资产重定价与息差.md",
+    "accepted_sha256": "4372edb292e3d4496c072e994072fd75cf733c66f762d0ed37ba9a14d9476065",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "20_mechanisms/银行负债成本、资产重定价与息差.md",
+    "formal_sha256": "dbcada26c7317577bc36d375ffb9ec1411f03a41d4ee94714cb4fbb4da24ec1f",
+    "source_draft_retained": false
+  },
+  "资本流动与资本管制": {
+    "candidate_ids": [
+      "T1-U09-B"
+    ],
+    "source_draft": "drafts/T1/资本流动与资本管制.md",
+    "reviewed_draft_sha256": "7aada13c7fbaae931ef92b98f125d425cdc04519c74350dd57e90f444d85c2a1",
+    "accepted_file": "accepted/10_concepts/资本流动与资本管制.md",
+    "accepted_sha256": "f0a7883f8055e5c6f3b88077d3bb7acf15f76732d978ca4bfe4a3bdea961ea1d",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "10_concepts/资本流动与资本管制.md",
+    "formal_sha256": "756c2d57d80a4e94198d01198b94a848ce06dd46b7cf231dbe2c67cfce636dcb",
+    "source_draft_retained": false
+  },
+  "银行信贷的资本约束": {
+    "candidate_ids": [
+      "T2-U12-A",
+      "T2-U12-B"
+    ],
+    "source_draft": "drafts/T2/银行信贷的资本约束.md",
+    "reviewed_draft_sha256": "66e3ff5f782c8790527e3eb809e7f1c4b36ddb73f0334e804b7adef23e276e8e",
+    "accepted_file": "accepted/20_mechanisms/银行信贷的资本约束.md",
+    "accepted_sha256": "458b02eefa67272a2379d7446dcd1fb7c4565c964faaf24c4076bbe70d7057a5",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "20_mechanisms/银行信贷的资本约束.md",
+    "formal_sha256": "df763afa1b2349cc937affb746c92249231b9f5a3d1a8853633956025e051fc6",
+    "source_draft_retained": false
+  },
+  "资源繁荣与非资源出口竞争力": {
+    "candidate_ids": [
+      "T1-U10-A"
+    ],
+    "source_draft": "drafts/T1/资源繁荣与非资源出口竞争力.md",
+    "reviewed_draft_sha256": "1300b0426ab7405820ec3e6b4e073594342f4a63a47f4ffdb6152aee7a8deebd",
+    "accepted_file": "accepted/20_mechanisms/资源繁荣与非资源出口竞争力.md",
+    "accepted_sha256": "c4b613d31115bf558304fda546813d9d4859778027666ad97b1e57ebcad6e6fc",
+    "target_type": "new_node",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "20_mechanisms/资源繁荣与非资源出口竞争力.md",
+    "formal_sha256": "3b45e813fed6a4428a3a7b140a3a6615b5e2bc4346035def721fc993296cbe66",
+    "source_draft_retained": false
+  },
+  "雇主工资制定权": {
+    "candidate_ids": [
+      "T1-U12-A"
+    ],
+    "source_draft": "drafts/T1/雇主工资制定权.md",
+    "reviewed_draft_sha256": "0808ad3b8b9d72e15da639c43577506c9dec10cec9a90d26d744309d3cd58258",
+    "accepted_file": "accepted/10_concepts/雇主工资制定权.md",
+    "accepted_sha256": "892d5fc00097c184457ec1f4aa17de3483ed0c11ae0ba77faaa9db9e57d08239",
+    "target_type": "new_node",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "10_concepts/雇主工资制定权.md",
+    "formal_sha256": "7065e412b2338784234d2bc2caecbc3482e4d13b91afcf33e806e49178290809",
+    "source_draft_retained": false
+  },
+  "资本流出、储备干预与本币流动性": {
+    "candidate_ids": [
+      "T2-U17-A"
+    ],
+    "source_draft": "drafts/T2/资本流出、储备干预与本币流动性.md",
+    "reviewed_draft_sha256": "63c5ed9178faa2323875faaf02a29ad7a2ee38cdad367addf987fb50e2989b5e",
+    "accepted_file": "accepted/20_mechanisms/资本流出、储备干预与本币流动性.md",
+    "accepted_sha256": "42dc0453296f3db9084f55ff9a9bf30324f73b7af2a6458bf7e675db882cd38a",
+    "target_type": "existing_update",
+    "review_scope": "本轮教材增量及接入；保留的旧稿外部来源未重新核验",
+    "reviewers": [
+      "/root/step1_selector_reviewer",
+      "/root"
+    ],
+    "formal_merged": true,
+    "formal_path": "20_mechanisms/资本流出、储备干预与本币流动性.md",
+    "formal_sha256": "b6c3075b6a65d3abef4310927684ab4727ef75d13de03fa99c1348125c3e38ae",
+    "source_draft_retained": false
+  }
+}

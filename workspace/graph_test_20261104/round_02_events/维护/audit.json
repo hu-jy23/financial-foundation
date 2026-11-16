@@ -1,0 +1,202 @@
+{
+  "freeze_unchanged": true,
+  "input_and_gold_unchanged": true,
+  "citations": [
+    {
+      "id": "E01",
+      "path": "10_concepts/融资流动性.md",
+      "line_start": 35,
+      "line_end": 37,
+      "quote": "| 额度与准入 | 出借人是否愿意提供资金、给谁提供、可用额度多少，以及承诺是否附条件 |",
+      "role": "一般背景",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E01",
+      "path": "10_concepts/融资流动性.md",
+      "line_start": 83,
+      "line_end": 83,
+      "quote": "信用额度的合同总额与届时可提取金额要分开",
+      "role": "一般背景",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E02",
+      "path": "10_concepts/主权信用风险与CDS.md",
+      "line_start": 68,
+      "line_end": 68,
+      "quote": "CDS通常不要求保护买方始终持有等额参考债券。",
+      "role": "一般背景",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E02",
+      "path": "10_concepts/主权信用风险与CDS.md",
+      "line_start": 105,
+      "line_end": 105,
+      "quote": "融资成本、债券可得性、结算币种和具体保护覆盖不一致，也会阻止无成本套利。",
+      "role": "一般背景",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E03",
+      "path": "10_concepts/原油与Brent／WTI.md",
+      "line_start": 21,
+      "line_end": 21,
+      "quote": "原油是经过地面分离后仍以液态存在的天然烃类混合物，是炼制汽油、柴油、航空燃料及石化原料的投入品。",
+      "role": "一般背景",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E03",
+      "path": "10_concepts/原油与Brent／WTI.md",
+      "line_start": 55,
+      "line_end": 55,
+      "quote": "库存充裕却缺乏空余储罐时，接收新增油又会带来很高边际成本。",
+      "role": "一般背景",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E04",
+      "path": "20_mechanisms/CTA趋势跟随的价格反馈.md",
+      "line_start": 47,
+      "line_end": 47,
+      "quote": "实际合约目标还须根据乘数、价格和币种换算，并减去已有张数才得到订单；久期型利率工具通常还需用DV01统一风险。",
+      "role": "直接支持",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E05",
+      "path": "10_concepts/Meta.md",
+      "line_start": 46,
+      "line_end": 46,
+      "quote": "“用户增长”“算法改善”“价格上涨”是需要检验的不同贡献，不能由收入一个总数全部归因于AI。",
+      "role": "一般背景",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E05",
+      "path": "10_concepts/Meta.md",
+      "line_start": 58,
+      "line_end": 58,
+      "quote": "新模型与设备生态则可能要等待产品采用及商业模式成熟。",
+      "role": "一般背景",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E06",
+      "path": "20_mechanisms/政策利率的LPR传导渠道.md",
+      "line_start": 34,
+      "line_end": 34,
+      "quote": "政策利率下行改变边际融资价格，不会使所有历史存款、贷款和内部计价同时调整。",
+      "role": "直接支持",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E07",
+      "path": "10_concepts/黄金.md",
+      "line_start": 67,
+      "line_end": 67,
+      "quote": "分析“需求走强”时，要说明所指是吨数、金额、持仓变化还是交易活跃程度。",
+      "role": "直接支持",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E07",
+      "path": "10_concepts/稳定币.md",
+      "line_start": 37,
+      "line_end": 37,
+      "quote": "因此不能将每次铸造都当作新美元进入，更不能将每日转账额当成新发行。",
+      "role": "一般背景",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E08",
+      "path": "10_concepts/汇率中间价与跨境宏观审慎.md",
+      "line_start": 39,
+      "line_end": 39,
+      "quote": "采用“人民币／美元”直接标价时，数字上升表示人民币对美元贬值；数字下降表示升值。",
+      "role": "直接支持",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E09",
+      "path": "10_concepts/国企央企与资本回报考核.md",
+      "line_start": 54,
+      "line_end": 54,
+      "quote": "判断资本回报质量，要把利润表、经营现金流和营运资本变动相互核对。",
+      "role": "直接支持",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E09",
+      "path": "10_concepts/国企央企与资本回报考核.md",
+      "line_start": 29,
+      "line_end": 29,
+      "quote": "其现金、资产与负债属于该公司，不能把集团的整体利益直接当作所有交易的合理性依据。",
+      "role": "一般背景",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E10",
+      "path": "10_concepts/HBM与存储芯片.md",
+      "line_start": 63,
+      "line_end": 63,
+      "quote": "减少重复读写、提高数据复用，会改变所需带宽；扩大模型、上下文或并行服务量又可能增加内存压力。",
+      "role": "直接支持",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    },
+    {
+      "id": "E10",
+      "path": "10_concepts/HBM与存储芯片.md",
+      "line_start": 31,
+      "line_end": 31,
+      "quote": "每一层解决不同容量、带宽、延迟和成本问题。",
+      "role": "一般背景",
+      "quote_found": true,
+      "read_record": true,
+      "passed": true
+    }
+  ],
+  "citation_count": 17,
+  "passed_citations": 17,
+  "issues": [],
+  "graph_operations": {
+    "read": 16,
+    "search": 16
+  },
+  "unique_read_files": 14,
+  "returned_characters": 66091
+}

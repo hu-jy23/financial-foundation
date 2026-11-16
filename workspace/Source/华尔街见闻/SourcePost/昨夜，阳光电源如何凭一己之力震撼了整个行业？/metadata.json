@@ -1,0 +1,94 @@
+{
+  "article_id": 3758141,
+  "selection": {
+    "article_id": 3758141,
+    "url": "https://wallstreetcn.com/articles/3758141",
+    "title": "昨夜，阳光电源如何凭一己之力震撼了整个行业？",
+    "page_display_time": "2025-10-29T10:06:19+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "鲍奕龙",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004827",
+    "page_source_label": "赶碳号科技",
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "B",
+    "reading_value": "从现金流、借款、减值和储能业务解读阳光电源财报；属于行业作者分析，需保留其判断立场。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 4465,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 196
+  },
+  "url": "https://wallstreetcn.com/articles/3758141",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3758141?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:06+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/5b537732-e972-4e77-8635-477e1d54fd28.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "阳光电源爆表的三季报进一步印证一个事实：海外储能爆单是真的，而且越是在头部企业身上体现得就越明显，即所谓“强者恒强”！",
+      "path": "assets/figure_001.png",
+      "sha256": "e243c501c271aa4d0217babde404c6093efec2d96728951df350b7f328b16b5a",
+      "bytes": 812093,
+      "width": 1024,
+      "height": 458,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/5b537732-e972-4e77-8635-477e1d54fd28.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "昨夜，阳光电源如何凭一己之力震撼了整个行业？",
+  "page_display_time": "2025-10-29T10:06:19+08:00",
+  "page_byline": "鲍奕龙",
+  "source_label": "赶碳号科技",
+  "source_url": "",
+  "subtitle": "阳光电源2025年前三季度营收664亿元（增长33%），净利润119亿元（增长56%），单季利润41.5亿元。海外储能业务爆单，毛利率保持34%高位，经营现金流暴涨超1100%至99亿元，同时削减负债52亿元。公司布局AI数据中心电源等新业务，展现龙头企业穿越周期的韧性。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 4506,
+  "body_sha256": "fbb73d99eeefa576607b7467494039db4038275f0a7968f43871f8b66b03371a",
+  "raw_sha256": "93af71e9a83578433d767a5e33561f6062b3d1dafa7a91a0fe8a2d113e9e9899",
+  "raw_bytes": 21007,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/23526045-81a1-4401-bbac-4da7294918d3.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 4465,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "赶碳号科技",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NDc3MzIyMw==&mid=2247513903&idx=1&sn=9922cc4afce881b960a0dad1758662d4&chksm=cf27d455cd4b60b347400a2b752a3def3aa52255cddc7da607de3dee761169768a26179b70ff&mpshare=1&scene=23&srcid=1029nsMDKtgz26e2dCPA8Zc6&sharer_shareinfo=bc2b463c2a874ce4299d0a8f5a4cd5c9&sharer_shareinfo_first=bc2b463c2a874ce4299d0a8f5a4cd5c9#rd"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:47+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "93af71e9a83578433d767a5e33561f6062b3d1dafa7a91a0fe8a2d113e9e9899",
+      "bytes": 21007
+    },
+    "article.html": {
+      "sha256": "a3aff661f5bd108019b4a425ef93011f672b75515c3343ba60fcec0b43a214a6",
+      "bytes": 20055
+    },
+    "article.md": {
+      "sha256": "464c4cfa7b4959d8efeec5626db3bff78268298720d6cc0fcccddbd4ef2812b9",
+      "bytes": 14333
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:48+08:00"
+}

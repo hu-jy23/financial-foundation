@@ -1,0 +1,147 @@
+{
+  "article_id": 3773787,
+  "selection": {
+    "article_id": 3773787,
+    "url": "https://wallstreetcn.com/articles/3773787",
+    "title": "存储缺口为什么难补？大摩：无尘室不足+光刻机产能受限，想扩也扩不了",
+    "page_display_time": "2026-06-03T20:14:48+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "卜淑情",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004518",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "A",
+    "reading_value": "把存储供给弹性落到无尘室、EUV及HBM晶圆消耗，说明扩产为何滞后。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2078,
+    "page_image_count": 4,
+    "original_underlying_research_verified": false,
+    "catalog_number": 178
+  },
+  "url": "https://wallstreetcn.com/articles/3773787",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3773787?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:02+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/b969fd5b-15f4-4361-921f-13a9e0f42d67.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "NAND市场的供需格局同样偏紧。大摩指出，超大规模云厂商正在持续抢占高性能NAND份额，这一趋势正在从结构上重塑这一品类的需求画像，而供给侧的调整明显滞后。",
+      "path": "assets/figure_001.png",
+      "sha256": "eb1699906b424b33afdb6ec7ec1b05b5762f428258d073efcfdb53c1eadb8214",
+      "bytes": 66535,
+      "width": 846,
+      "height": 624,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/b969fd5b-15f4-4361-921f-13a9e0f42d67.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/ef9fbbe1-b264-4375-aa09-31810706ae68.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_002.png",
+      "sha256": "8b7e76b63122040539f482f7b6b95684ef95780d700e00a371666fe1ce3d54ea",
+      "bytes": 33070,
+      "width": 873,
+      "height": 192,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/ef9fbbe1-b264-4375-aa09-31810706ae68.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/d0c841e1-f3ee-4ab0-91bc-ea22fae385c8.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_003.png",
+      "sha256": "94b344c6ab18b69bc404a66a1b62323a3e842adfffd8cbe24f20345cd7531123",
+      "bytes": 157056,
+      "width": 876,
+      "height": 195,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/d0c841e1-f3ee-4ab0-91bc-ea22fae385c8.png"
+    },
+    {
+      "order": 4,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_004.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "存储缺口为什么难补？大摩：无尘室不足+光刻机产能受限，想扩也扩不了",
+  "page_display_time": "2026-06-03T20:14:48+08:00",
+  "page_byline": "卜淑情",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "存储芯片正成为AI时代最稀缺的战略资源。摩根士丹利指出，受无尘室建设周期漫长、EUV光刻机供应受限等物理瓶颈影响，DRAM和NAND供需失衡局面未来2至3年难以缓解。AI云厂商持续高价抢购HBM和高性能存储，推动存储价格进入上升周期。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2148,
+  "body_sha256": "c49bb129fa692a1b53fc15d6b2939f220683bbe4291ef84738796825a95b728c",
+  "raw_sha256": "82d2042c2c5a6e6f6baa178e2f3a906730ceeac9979756ffb42f50e19aa66713",
+  "raw_bytes": 11613,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/19cbc8d9-5ae0-4f0b-a2f2-aecca6d8de5b.mp3",
+  "image_occurrences": 4,
+  "html_table_count": 0,
+  "catalog_image_count": 4,
+  "catalog_text_characters": 2078,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:46+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "82d2042c2c5a6e6f6baa178e2f3a906730ceeac9979756ffb42f50e19aa66713",
+      "bytes": 11613
+    },
+    "article.html": {
+      "sha256": "e5f1ca25127af24fcd2e1b93243291ce950bdbd1c2b10175d9c47bcac0e8c23f",
+      "bytes": 12020
+    },
+    "article.md": {
+      "sha256": "6c3f8b109bc27521d1e03b3b8cad7abc38be61674da57efc254b717a7f760fc9",
+      "bytes": 6882
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:43+08:00"
+}

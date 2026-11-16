@@ -1,0 +1,89 @@
+{
+  "article_id": 3744882,
+  "selection": {
+    "article_id": 3744882,
+    "url": "https://wallstreetcn.com/articles/3744882",
+    "title": "大摩交易员一线解读美股：快钱已经跑了，散户还未投降，外资是最大疑问",
+    "page_display_time": "2025-04-09T15:44:36+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李笑寅",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004684",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "跨资产与市场结构",
+    "reading_priority": "B",
+    "reading_value": "区分对冲基金、散户与海外资金，给出仓位变化及后续调整的判断条件。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1377,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 105
+  },
+  "url": "https://wallstreetcn.com/articles/3744882",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3744882?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:35+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/92ae90ba-cb50-4d84-867f-743ade8a935a.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "大摩补充称，虽然结构性资金从美国流出的情况尚待观察，并非QDS的基本情景，但可能推动极端左尾风险。",
+      "path": "assets/figure_001.png",
+      "sha256": "eb986b8a045dd82151911865476e19273f3b09d8ba1065d3fd1af2c6604d857b",
+      "bytes": 412507,
+      "width": 1024,
+      "height": 922,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/92ae90ba-cb50-4d84-867f-743ade8a935a.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "大摩交易员一线解读美股：快钱已经跑了，散户还未投降，外资是最大疑问",
+  "page_display_time": "2025-04-09T15:44:36+08:00",
+  "page_byline": "李笑寅",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "大摩认为，在所有资金流动动态中，美国以外的实际资金有可能产生最大的下行影响——如果外资开始质疑“美国例外论”并撤出美国市场，那么股市将承受更多下行风险，预计未来几个月市场可能将面临新一轮探底。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1452,
+  "body_sha256": "c2306a90855e2600421a658ad6850f044d2cd9c8b60fab83b6ba32033be41b61",
+  "raw_sha256": "8a7adec14060c5890e3c04a3223881bf72efb214f66e87ec55a45007fe9a0e71",
+  "raw_bytes": 8604,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/d9165911-c311-4d18-b721-4dbc3df53a86.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1377,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:37+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "8a7adec14060c5890e3c04a3223881bf72efb214f66e87ec55a45007fe9a0e71",
+      "bytes": 8604
+    },
+    "article.html": {
+      "sha256": "dee1eaff72dd56f409ba9c0082ebf48c2f4b867e96c172e07a5628eb4a6cd44e",
+      "bytes": 8548
+    },
+    "article.md": {
+      "sha256": "a5be05e7b8cf66eb5799ab4f206b03b0867ec78166922aa761931ddef839d1ee",
+      "bytes": 4845
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:26+08:00"
+}

@@ -1,0 +1,90 @@
+{
+  "article_id": 3753501,
+  "selection": {
+    "article_id": 3753501,
+    "url": "https://wallstreetcn.com/articles/3753501",
+    "title": "协议宣布了，但美国关税“迟迟未降”，欧日韩很焦虑",
+    "page_display_time": "2025-08-18T08:31:28+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李笑寅",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004684",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "贸易与国际政策",
+    "reading_priority": "B",
+    "reading_value": "区分贸易协议宣布与实际执行，分析行政延迟如何延续汽车和钢铁企业的关税成本。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2172,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 136
+  },
+  "url": "https://wallstreetcn.com/articles/3753501",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3753501?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:50+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "协议宣布了，但美国关税“迟迟未降”，欧日韩很焦虑",
+  "page_display_time": "2025-08-18T08:31:28+08:00",
+  "page_byline": "李笑寅",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "目前，欧盟、日本、韩国仍面临25%的汽车关税，英国钢铁业25%的关税也迟迟未能按协议降至零，这些国家只能在猜测中等待，不确定这究竟是行政流程的拖沓，还是预示着更复杂的谈判困境。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2234,
+  "body_sha256": "b9262943b4a575230453ab590da5be320752ff6f1c7d90f9adec29be8fd0d033",
+  "raw_sha256": "14a49a3ef03f9746034e6a4c134757426d875f51e99971db7037142833ad60b6",
+  "raw_bytes": 12207,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/91b37892-b2c2-42b4-95d3-790ba65d5622.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2172,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "据新华社，",
+      "url": "http://www.news.cn/world/20250725/4fb8326aac4a45b681becbd9137a1c7b/c.html"
+    },
+    {
+      "text": "据新华社，",
+      "url": "http://www.news.cn/world/20250729/7e696fdb7ff74c7ea10b811b4cc34a92/c.html"
+    },
+    {
+      "text": "据央视新闻，",
+      "url": "http://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=17372396545890140116&toc_style_id=feeds_default&share_to=copy_url&track_id=8707b009-3a04-412f-8417-943116e8a087"
+    },
+    {
+      "text": "据央视新闻，",
+      "url": "https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=712245471184482832"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:41+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "14a49a3ef03f9746034e6a4c134757426d875f51e99971db7037142833ad60b6",
+      "bytes": 12207
+    },
+    "article.html": {
+      "sha256": "1cac20cea30de033c12b7b22f601db8c14aa8d4cc2ea495f0759c6d941b36412",
+      "bytes": 11745
+    },
+    "article.md": {
+      "sha256": "02c4afddb1ccfa0bf8c90de4471f1cf7b922c7bddc6a83e9fe61b760090b5cd7",
+      "bytes": 7487
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:32+08:00"
+}

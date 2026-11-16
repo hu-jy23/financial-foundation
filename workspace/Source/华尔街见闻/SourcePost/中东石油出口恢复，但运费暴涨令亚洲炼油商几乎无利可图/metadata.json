@@ -1,0 +1,73 @@
+{
+  "article_id": 3783923,
+  "selection": {
+    "article_id": 3783923,
+    "url": "https://wallstreetcn.com/articles/3783923",
+    "title": "中东石油出口恢复，但运费暴涨令亚洲炼油商几乎无利可图",
+    "page_display_time": "2026-10-19T16:26:32+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "能源、商品与航运",
+    "reading_priority": "A",
+    "reading_value": "把出口恢复、运费保险、官方售价和炼油裂解利润连起来，解释供给恢复的收益分配。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1973,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 97
+  },
+  "url": "https://wallstreetcn.com/articles/3783923",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783923?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:34+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "中东石油出口恢复，但运费暴涨令亚洲炼油商几乎无利可图",
+  "page_display_time": "2026-10-19T16:26:32+08:00",
+  "page_byline": "董静",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "亚洲炼油商每桶毛利约40美元，运费即吞噬33美元，净利润压缩至7美元左右，占比高达82%；而美欧同行这一比例仅16%。为留住买家，中东产油国被迫给出高达每桶30美元折扣，以价换量却难换利润。分析认为，这场靠牺牲产油国底线换来的出口复苏，实则是一场海市蜃楼。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2047,
+  "body_sha256": "18802c66402d23b7378875873f97beff7512e559c583c9c36ecb5aab0b2157ce",
+  "raw_sha256": "897cde49ab5c03bd6d6c5f8633c8831fabf9f5722c518a11640177cad0470f83",
+  "raw_bytes": 10639,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/038a33f2-7e48-48a1-b3a3-902d45faa4e8.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1973,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:37+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "897cde49ab5c03bd6d6c5f8633c8831fabf9f5722c518a11640177cad0470f83",
+      "bytes": 10639
+    },
+    "article.html": {
+      "sha256": "1dd49934492bd50a15335081bdb56704cf3bb3c3f6bbc39e0af59ebf4861254d",
+      "bytes": 10259
+    },
+    "article.md": {
+      "sha256": "a8dc54ce1bb14ebedfed600b5287c5ce29dfe2cbdbaae7a20d82e889181d6ac0",
+      "bytes": 6799
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:25+08:00"
+}

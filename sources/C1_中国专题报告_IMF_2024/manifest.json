@@ -1,0 +1,21 @@
+{
+  "id": "C1",
+  "title": "People’s Republic of China: Selected Issues，IMF CR24/50，2024年2月",
+  "directory": "C1_中国专题报告_IMF_2024",
+  "original_language": "en",
+  "source_urls": [
+    "https://www.imf.org/en/publications/cr/issues/2024/02/08/peoples-republic-of-china-selected-issues-544651",
+    "https://www.imf.org/-/media/files/publications/cr/2024/english/1chnea2024002.pdf"
+  ],
+  "files": [],
+  "failures": [
+    {
+      "url": "https://www.imf.org/-/media/files/publications/cr/2024/english/1chnea2024002.pdf",
+      "file": "中国专题报告_英文原文.pdf",
+      "error": "403 Client Error: Forbidden for url: https://www.imf.org/-/media/files/publications/cr/2024/english/1chnea2024002.pdf"
+    }
+  ],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "acquisition_status": "未取得正文；访问受限"
+}

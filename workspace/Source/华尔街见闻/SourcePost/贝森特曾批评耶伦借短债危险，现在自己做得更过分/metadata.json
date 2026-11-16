@@ -1,0 +1,73 @@
+{
+  "article_id": 3784311,
+  "selection": {
+    "article_id": 3784311,
+    "url": "https://wallstreetcn.com/articles/3784311",
+    "title": "贝森特曾批评耶伦借短债危险，现在自己做得更过分",
+    "page_display_time": "2026-10-23T18:48:05+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "国债与财政",
+    "reading_priority": "A",
+    "reading_value": "分析债务期限缩短、再融资风险及银行监管和稳定币需求的共同作用。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1671,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 35
+  },
+  "url": "https://wallstreetcn.com/articles/3784311",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784311?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:19+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "贝森特曾批评耶伦借短债危险，现在自己做得更过分",
+  "page_display_time": "2026-10-23T18:48:05+08:00",
+  "page_byline": "李佳",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "11月4日，美国财政部将公布下一季度发债计划，市场预计，贝森特将进一步提高短债发行占比、加大长期国债回购力度，以利用较低的短端利率压低融资成本，同时应对长期美债需求变化。但这一策略也意味着美国需要更频繁地为到期债务再融资，未来利率上升将推高偿债成本，而高企的财政赤字仍难以通过调整债务期限解决。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1751,
+  "body_sha256": "7cac46bdfce53e18cc2ad89e2c927370bf8671cf3582a6eb8641420bc9a144c3",
+  "raw_sha256": "b3582f047cbaf595cae53fc6ca626e59b61f0040dff2e658969065afc76dadcb",
+  "raw_bytes": 9443,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/b8aa416e-44d3-4e27-996b-6203626979b6.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1671,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "b3582f047cbaf595cae53fc6ca626e59b61f0040dff2e658969065afc76dadcb",
+      "bytes": 9443
+    },
+    "article.html": {
+      "sha256": "3c85965ca8581614ad153752b00abc64f9b00c785c768a9f3721966c57c59ed8",
+      "bytes": 9192
+    },
+    "article.md": {
+      "sha256": "455e1ca84a1a5f5dd851bc0c7498d141184dfa2182ea96c7d3f5b8460aa605b0",
+      "bytes": 6068
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:13+08:00"
+}

@@ -1,0 +1,117 @@
+{
+  "article_id": 3767113,
+  "selection": {
+    "article_id": 3767113,
+    "url": "https://wallstreetcn.com/articles/3767113",
+    "title": "对于油价，除了海峡重启，“其他都不重要”",
+    "page_display_time": "2026-03-10T15:55:01+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "能源、商品与航运",
+    "reading_priority": "A",
+    "reading_value": "按供应中断时长建立油价情景，并比较战略储备、增产及替代进口的补偿能力。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1735,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 91
+  },
+  "url": "https://wallstreetcn.com/articles/3767113",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3767113?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:33+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/18724b7e-a2f5-462c-a36a-12371e245ed5.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "报告对SPR释放的效果给予了较为审慎的评价。财政部长贝森特表示将持续宣布平抑市场的措施，G7据报也在讨论协调释放紧急石油储备。",
+      "path": "assets/figure_001.png",
+      "sha256": "de9437fa9905ed6a181d03e6365e0d8bd9e8e1a91c3982aa3d9c8812a08d7687",
+      "bytes": 63874,
+      "width": 931,
+      "height": 375,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/18724b7e-a2f5-462c-a36a-12371e245ed5.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_002.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "对于油价，除了海峡重启，“其他都不重要”",
+  "page_display_time": "2026-03-10T15:55:01+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "德意志银行最新研报指出，油价突破100美元/桶，意味着市场正定价逾一个月的海峡中断；若升至130-150美元，则对应三个月关闭预期。SPR释放、俄油豁免均杯水车薪——每日300万桶的释放能力远不及1700-2000万桶的缺口。特朗普明言油价不会约束军事决策，海峡重启时间表成为一切的答案。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1808,
+  "body_sha256": "dc1400798c4a7318d8aa070895ba5abead694d176bb1715fa886ca61a06cee80",
+  "raw_sha256": "a92b033e19b4b668bfd64219bf94801bd505614246d81fc74efc5a378d1c8bd7",
+  "raw_bytes": 10434,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/64373bea-e041-40b5-aedb-369f74f7e214.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 1735,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:37+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "a92b033e19b4b668bfd64219bf94801bd505614246d81fc74efc5a378d1c8bd7",
+      "bytes": 10434
+    },
+    "article.html": {
+      "sha256": "52018e2708c02e4dbc936f55515b732ee8265f9d1b8d1408275ce064ee92c034",
+      "bytes": 9964
+    },
+    "article.md": {
+      "sha256": "b054b38b20d341c5e5e514863e495911fec3414341d6adf81281c80ea8607bb9",
+      "bytes": 6101
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:24+08:00"
+}

@@ -1,0 +1,1845 @@
+
+
+===== PDF 483 | 印刷页 448 =====
+
+17
+Chapter
+
+          The Central Bank Balance
+          Sheet and the Money
+          Supply Process
+
+           Learning Objectives
+           After reading this chapter, you should be able to:
+             LO1     Describe the central bank’s balance sheet and the monetary base.
+
+             LO2     Explain how the central bank’s balance sheet changes.
+
+             LO3     Calculate the deposit expansion multiplier.
+
+             LO4     Analyze the link between the monetary base and the money supply.
+
+
+          On the morning of September 11, 2001, four hijacked planes crashed: two into the World
+          Trade Center towers in New York City, one into the Pentagon in ­Washington, D.C., and
+          one in a field in western Pennsylvania. Thousands of people died, and the world changed.
+          The disruptions were enormous. All nonmilitary aircraft in the United States were
+          immediately grounded and U.S. airspace was closed. In the Wall Street area, power and
+          communications networks were shut down, closing the financial markets. Yet New
+          Yorkers found they could still go to an ATM anywhere outside the immediate neighbor-
+          hood of the attacks and withdraw cash. Despite the massive disruptions in the Wall
+          Street area, the electronic network that processed the withdrawals continued to work.
+              Conditions were anything but normal inside the financial community, where the
+          risk of a systemwide collapse was very real. But because of the immediate action of
+          Federal Reserve officials, the financial system held together, and most of us never
+          realized how close we came to catastrophe. At 11:45 a.m., three hours after the attacks
+          began, the Federal Reserve Board issued a terse statement: “The Federal Reserve is
+          open and operating. The discount window is available to meet liquidity needs.” Over
+          the next week, people throughout the Federal Reserve System made sure there was
+          enough money circulating to keep the economy going. They bought nearly $100 ­billion
+          worth of U.S. Treasury securities, extended tens of billions of dollars in loans to U.S.
+          banks, and provided foreign central banks with the billions of dollars they needed to
+          ensure that commercial banks in their countries could meet their obligations. They did
+          it all from backup sites because the Federal Reserve’s primary operating site, two
+          blocks from the World Trade Center, was inaccessible.
+              This was one of the great successes of modern central banking. In extraordinary
+          ­circumstances, quick action by the Fed kept the financial markets afloat. While some
+
+                                                      448
+
+
+===== PDF 484 | 印刷页 449 =====
+
+                                                       ﻿The Central Bank Balance Sheet and the Money Supply Process l   449
+
+
+
+institutions and individuals will never recover from the terrorist attacks, the financial
+system—one of the terrorists’ primary targets—returned to near normal within weeks.
+   Many observers assign part of the blame for the financial crisis of 2007–2009 to the
+policies of the Federal Reserve. However, most would agree that the Fed’s extraordi-
+nary actions in 2008–2009 were critical in preventing a complete meltdown of the U.S.
+(and global) financial system. As one former Fed chair put it, the Fed under Chairman
+Ben Bernanke went to the limits of its powers to secure financial stability in the depths
+of crisis.
+   Many of the Fed’s actions in the crisis of 2007–2009 were unprecedented or had not
+been seen since the 1930s. For the first time since the Great Depression, the Fed lent
+to nonbanks and even to nonfinancial companies. The central bank created new mech-
+anisms to increase the overall supply of liquidity and to deliver it where and when it
+was needed. Following the failure of Lehman Brothers in September 2008, the Fed
+became the “intermediary of last resort,” allowing its assets to double in a matter of
+weeks—an unparalleled expansion. To substitute for markets that had stopped func-
+tioning normally, the Fed acquired more than $1 trillion of loans and securities that
+had previously been traded in the market. More than a decade later, these extraordi-
+nary actions still affect the Fed’s balance sheet, in contrast to the brief and much
+smaller policy actions after September 11, 2001.
+   The stories of the financial crises of September 11, 2001, and of 2007–2009 stand
+in stark contrast to what happened in the 1930s, when policy failures led to the col-
+lapse of the U.S. banking system and precipitated the Great Depression. At the time,
+Federal Reserve officials didn’t fully understand how their actions affected the supply
+of credit in the economy. They failed to recognize the link between changes in the
+Fed’s balance sheet and the growth rate of money. They thought that so long as they
+supplied more and more cash to the economy, and so long as commercial bank account
+balances at the Federal Reserve banks were growing, money and credit were easily
+available. They were wrong. The financial system collapsed because the Fed officials
+had failed to provide the liquidity that sound banks needed to stay in business. As a
+result, virtually no one could borrow; both the amount of credit and the quantity of
+money in the economy plummeted.
+   The Fed’s policymakers did their best in the 1930s, and their best wasn’t very good.
+But at least they did it in public, which is not always the case. When the economy is
+suffering, or when central bankers are taking actions they aren’t supposed to, they have
+a tendency to hide what they are doing. At times, central bankers have delayed publi-
+cation of statistics or distorted the information they did provide. That’s what the cen-
+tral bank of Thailand did in 1997. The Bank of Thailand was committed to stabilizing
+the value of its currency, the Thai baht, at an exchange rate of about 26 to one U.S.
+dollar. To do so, officials had to convince foreign exchange traders that they had
+enough dollars to buy baht if market participants started to sell. To be convinced, cur-
+rency traders had to see the numbers. But in summer 1997, officials at the Bank of
+Thailand refused to tell anyone, even their own Minister of Finance, how many dollars
+the bank held.1 When the truth got out, and everyone learned that the cupboard was
+bare, the baht collapsed, ending 1997 at 50 to one dollar.
+1
+ The Bank of Thailand hadn’t actually sold its dollar reserves on the open market. Officials had engaged in
+forward transactions that committed them to sell the dollars in the future. Thus, they could claim to have dollars
+that in reality were committed to others. For a detailed description of this episode, see Paul Blustein, The
+Chastening: Inside the Crisis That Rocked the Global Financial System and Humbled the IMF (New York:
+PublicAffairs, 2001).
+
+
+===== PDF 485 | 印刷页 450 =====
+
+450   l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+                          To appreciate what went right in the Fed’s response to September 2001 and to the
+                       crisis of 2007–2009—and what went wrong both in the United States in the 1930s
+                       and in Thailand in 1997—we need to understand how the central bank interacts with
+                       the financial system. What is it that central banks buy and sell? What are the assets
+                       and liabilities on their balance sheets? How do they control those assets and liabili-
+                       ties, and why might they want to hide them from the public? More to the point, how
+                       is the central bank’s balance sheet connected to the money and credit that flow
+                       through the economy? Where do the trillions of dollars in our bank accounts actually
+                       come from? In answering these questions, we will combine our knowledge of how
+                       central banks work with our understanding of commercial bank operations. Let’s see
+                       how the system works.
+
+
+                       The Central Bank’s Balance Sheet
+                       As the government’s banker and the bankers’ banker, the central bank engages in
+                       numerous financial transactions. It supplies currency, provides deposit accounts to the
+                       government and commercial banks, makes loans, and buys and sells securities and
+                       foreign currency. All these activities cause changes in the central bank’s balance
+                       sheet. Because the balance sheet is the foundation of any financial institution, under-
+                       standing the day-to-day operation of a central bank must start with an understanding of
+                       its assets and liabilities and how they change. The structure of the balance sheet gives
+                       us a window through which we can study how the institution operates.
+                           Central banks publish their balance sheets regularly. The Federal Reserve and the
+                       European Central Bank both do so weekly; you can find the information on their web-
+                       sites. (To get a sense of the changing scale and composition of the Fed’s balance sheet,
+                       see Applying the Concept on page 452.) Publication is a critical part of the transpar-
+                       ency that makes monetary policy effective. The actual published data are complicated
+                       and include items we don’t need to worry about here. Instead, we’ll focus on a stripped-
+                       down version of the balance sheet, one that has been reduced to the most important
+                       components. Figure 17.1 shows the major assets and liabilities that appear in every
+                       central bank’s balance sheet in one form or another. Note that the entries are divided not
+                       only into columns, with assets on the left and liabilities on the right, but into categories
+                       as well. The top row shows the assets and liabilities the central bank holds in its role as
+                       the government’s bank, and the bottom row shows the assets and liabilities it holds as
+                       the bankers’ bank. Let’s examine each entry, starting with the assets.
+
+
+
+
+                         Figure 17.1       The Central Bank’s Balance Sheet
+
+
+                                                                Assets                       Liabilities
+
+                           Government’s bank       Securities                     Currency
+                                                   Foreign exchange reserves      Government’s account
+
+                           Bankers’ bank           Loans                          Accounts of the commercial
+                                                                                  banks (reserves)
+
+
+===== PDF 486 | 印刷页 451 =====
+
+                                                                                         The Central Bank’s Balance Sheet   l   451
+
+
+
+Assets
+The central bank’s balance sheet shows three basic assets: securities, foreign exchange
+reserves, and loans. The first two are needed so that the central bank can perform its
+role as the government’s bank; the loans are a service to commercial banks. Let’s look
+at each one in detail.
+    1. Securities are the primary assets of most central banks. Traditionally, the Fed exclu-
+       sively held Treasury securities, mostly short maturity. However, during the 2007–
+       2009 financial crisis, the central bank chose to acquire a variety of riskier assets,
+       including more than $1 trillion of mortgage-backed securities (MBS, page 52),
+       making MBS temporarily the largest component of Federal Reserve assets. Later,
+       the central bank sharply boosted purchases of medium- and long-term Treasury
+       instruments, restoring U.S. government debt to the top rank. The quantity of securi-
+       ties that the Fed holds is controlled through purchases and sales known as open
+       market operations. It is important to ­emphasize that independent central banks, not
+       fiscal authorities, determine the quantity and mix of securities they purchase.
+    2. Foreign exchange reserves are the central bank’s and government’s balances of
+       foreign currency. These are held in the form of bonds issued by foreign govern-
+       ments. For example, the Fed holds euro-denominated bonds issued by the
+       ­German government as well as yen-denominated bonds issued by the Japanese
+        government. These reserves are used in foreign exchange interventions, when
+        officials attempt to change the market values of various currencies.
+    3. Loans are usually extended to commercial banks. But, in 2008 and 2009, as part
+        of its extraordinary response to the financial crisis, the Fed made substantial loans
+        to nonbanks as well. There are several kinds of loans, and their importance varies
+        depending on how the central bank operates. Discount loans are the loans the
+        Fed makes when commercial banks need short-term cash. Discount loans usually
+        are in the millions of dollars, but the volume temporarily surged in 2008 to
+        beyond $400 billion as the Fed battled the liquidity crisis (see Chapter 2, ­Lessons
+        from the Crisis: Market Liquidity, Funding Liquidity, and Making Markets).
+   Prior to the financial crisis of 2007–2009, the Fed controlled the federal funds rate
+and the availability of money and credit by adjusting its holdings of liquid securities,
+primarily short-term Treasury bills (see Chapter 18). Foreign exchange reserves play
+only a small role in Fed policy, and (aside from crises) loans are almost always modest.
+At other central banks, this ranking of assets often differs. For example, the ECB’s
+primary assets prior to the euro-area crisis were collateralized loans (repos) to the
+banks, rather than securities, but that ranking has reversed in recent years as the ECB
+expanded its securities holdings rapidly.2 In many trade-dependent economies, the pri-
+mary focus is often on the level of foreign exchange reserves.
+
+Liabilities
+Turning to the liabilities side of the central bank’s balance sheet, we see three major
+entries: currency, the government’s deposit account, and the deposit accounts of the
+commercial banks. Again, these can be divided into two groups based on their ­purpose.
+The first two items allow the central bank to perform its role as the government’s bank,
+
+2
+ Where the government debt market is neither deep nor liquid—as in many euro-area countries—adjustments in
+bank lending can be more effective than purchases and sales of securities as a means of central bank control.
+
+
+===== PDF 487 | 印刷页 452 =====
+
+452   l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+
+                      The Fed’s Balance Sheet: Impact of the Crisis
+                      APPLYING THE CONCEPT
+
+  The Federal Reserve’s response to the crisis of 2007–2009
+  transformed the size and composition of its assets and liabil-                           Balance Sheet of the Federal Reserve:
+  ities in unprecedented fashion. Table 17.1 contrasts the            Table 17.1           December 2009 and December 2007
+  ­balance sheet at an early stage of the crisis (December                                 (Billions of dollars, month-end)
+   2007) with that after the worst of the crisis had passed
+   (­December 2009).                                                                                     2009           2007
+       The massive expansion of the balance sheet stands out.
+   At the end of the two-year period, the amount of assets          Assets
+   was 2.5 times larger—$2.2 trillion versus $900 billion. Most        Securities                     $ 1,835       $   797
+   of this increase occurred in September and October 2008,
+   following the collapse of Lehman Brothers. Under normal            Of which:
+   circumstances, such an increase would be expected to               Mortgage-backed                       901              0
+   drive up prices and nominal GDP. But this time, nominal             Federal agency debt                  158              0
+   GDP barely moved. Instead, the Fed’s actions helped pre-
+                                                                     Foreign exchange                       25            47
+   vent a repeat of the plunge of the money supply and nomi-
+                                                                      reserves
+   nal GDP that occurred in the Great Depression (see In the
+   Blog: Monetary Policy: A Lesson Learned on page 473).               Loans                                276            25
+       As for the composition of the assets, we can see that           Gold                                  11            11
+   the increase was concentrated in securities, which surged           Other assets                          91            14
+   by more than $1 trillion to reach 2.3 times the amount
+                                                                    Total                                2,239           894
+   held at the beginning of the period. Purchases of
+   mortgage-backed and U.S. agency securities more than             Liabilities
+   accounted for this gain. The Fed also boosted its lending
+   sharply, accepting a wide variety of collateral. Some of the        Currency                       $   883       $    792  
+   most illiquid assets acquired in its emergency operations           Governments’ accounts                149              5
+   (including those related to the failure of Bear Stearns in        Commercial bank                     1,073            11
+   March 2008 and the collapse of AIG in September 2008)              deposits
+   remain on the Fed’s books as of 2016. In the discussion of
+                                                                       Other liabilities                     81            49
+   unconventional monetary policy in Chapter 18, we will take
+   a closer look at the changing scale and mix of the Fed’s         Total                                2,187           857
+   assets during the crisis.
+       The liability side of the balance sheet also was trans-      Capital (Assets minus             $   52        $      37
+   formed during the crisis: commercial bank deposits rose          Liabilities)
+   nearly 100 times! This surge was triggered by the post-­
+                                                                       Notes (period mean):
+   Lehman panic, when the Fed sought to calm banks des-
+   perately seeking a liquidity cushion by purchasing more             Nominal GDP                    $14,454       $14,338
+   securities and boosting discount lending. Yet, even after           M1                                 1,696         1,376
+   the liquidity crisis subsided in 2009, banks showed a clear         M2                                 8,544         7,501
+   desire to hold massive excess reserves. Lending their re-
+   serves at low interest rates to risky borrowers was unat-
+   tractive for banks that faced a much higher cost of capital     NOTE: “Securities” includes all forms of repurchase agreements.
+   than before the crisis. Beginning in October 2008, banks        “Foreign exchange reserves” does not include the U.S. Treasury
+   also received interest on their reserves held at the Fed        Exchange Stabilization fund.
+   (the policy tool of paying interest on reserves is discussed    SOURCE: Federal Reserve release H.4.1 and U.S. Treasury
+   in Chapter 18), further diminishing the opportunity cost of     and Federal Reserve Foreign Exchange Operations,
+   holding reserves.                                               Quarterly Report, Table 1.
+
+
+
+
+                          while the third allows it to fulfill its role as the bankers’ bank. Let’s look at each in
+                          turn, again using the example of the United States to illustrate some important details.
+                             1. Currency. Nearly all central banks have a monopoly on the issuance of the cur-
+                                rency used in everyday transactions. Take a look at the top of any dollar bill and
+
+
+===== PDF 488 | 印刷页 453 =====
+
+                                                                        The Central Bank’s Balance Sheet   l   453
+
+
+
+     you will see the words “Federal Reserve Note.” Currency—that is, currency cir-
+     culating in the hands of the nonbank public—is the principal liability of most
+     central banks.
+  2. Government’s account. Governments need a bank account just like the rest of
+     us. They must have a place to deposit their income and a way to pay for the
+     things they buy. The central bank provides the government with an a­ ccount into
+     which the government deposits funds (primarily tax revenues) and from which
+     the government writes checks and makes electronic payments. By ­shifting funds
+     between its accounts at commercial banks and the Fed, the Treasury usually
+     keeps its account balance at the Fed fairly constant. However, to i­mprove the
+     Fed’s ability to purchase assets during the financial crisis, the Treasury tempo-
+     rarily increased its central bank deposits, which peaked at more than $500 bil-
+     lion in November 2008.
+  3. Commercial bank accounts (reserves). Commercial bank reserves are the sum of
+     two parts: deposits at the central bank plus the cash in the bank’s own vault. The
+     first of these functions like the commercial bank’s checking account. In the same
+     way that you can take cash out of a commercial bank, the bank can withdraw its
+     deposits at the central bank. And just as you can instruct your bank to transfer some
+     part of your account balance to someone else, a commercial bank can transfer a
+     portion of its deposit account balance to another bank. Vault cash is part of
+     reserves; it is not part of item 1, which includes only cash held by the nonbank
+     public. Because a bank’s vault cash is available to meet depositors’ withdrawal
+     demands, it serves the insurance function for which reserves are designed.
+     Reserves are assets of the commercial banking system and liabilities of the cen-
+     tral bank. Reflecting policy actions taken during and after financial crises,
+     reserves constitute the largest liability of both the Fed and the ECB as of 2019.
+   Of all central bank liabilities, bank reserves are the most important in determining
+the quantity of money and credit in the economy, and for this reason, they play a cen-
+tral role in monetary policy operations. Increases normally lead to a rise in deposits
+and to growth in the availability of money and credit; decreases do the opposite. As we
+saw in Chapter 12, there are two types of reserves: those that banks are required to
+hold, called required reserves, and those they hold voluntarily, called excess reserves.
+Originally, the government required banks to hold a certain level of reserves to ensure
+banks’ safety and soundness. However, as a result of financial innovations that reduce
+the demand for checkable deposits, required reserves declined well below the level of
+overall reserves that banks wish to hold. Indeed, today’s bankers hold excess reserves
+both as insurance against unexpected outflows and for use in conducting their day-to-
+day business.
+
+
+The Importance of Disclosure
+Buried in the mountain of paper that every central bank publishes is a statement of the
+bank’s own financial condition. This balance sheet contains what is probably the most
+important information that any central bank makes public. Every responsible central
+bank in the world discloses its financial position regularly, most of them every week.
+In the same way that shareholders require a periodic accounting of the activities of the
+companies they own, we are all entitled to the information on our central bank’s bal-
+ance sheet. Without public disclosure of the level and change in the size of foreign
+exchange reserves and currency holdings, it is impossible for us to tell whether
+the ­policymakers are doing their job properly. Publication of the balance sheet is an
+
+
+===== PDF 489 | 印刷页 454 =====
+
+454   l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+                       essential aspect of central bank transparency. Delays, like those during the Mexican
+                       debt crisis of 1994–1995, are a clear sign of impending disaster.
+                          Another sign of trouble is misrepresentation of the central bank’s financial position.
+                       A particularly egregious case of lying by a central bank occurred in the Philippines in
+                       1986, when then-President Ferdinand Marcos was desperate to r­emain in power.
+                       We know now that Marcos ordered the central bank to print enormous amounts of cur-
+                       rency so that he could try to buy enough individual votes to win the election. And the
+                       central bank kept quiet about the elaborate scheme to conceal the monetary expansion.3
+
+                       The Monetary Base
+                       Together, currency in the hands of the public and reserves in the banking system—the
+                       privately held liabilities of the central bank—make up the monetary base, also called
+                       high-powered money. As we will see in the next section, the central bank can control
+                       the size of the monetary base, the base on which all other forms of money stand. (The
+                       term high-powered comes from the fact that the quantity of money and credit in the
+                       economy is a multiple of currency plus banking system reserves.) As we will see later
+                       in this chapter, when the monetary base increases by a dollar, the quantity of money
+                       typically rises by several dollars.
+                           To get some sense of the relationship between the monetary base and the quantity
+                       of money, we can look at a few numbers. In January 2019, the U.S. monetary base was
+                       $3.34 trillion. At the same time, M1 was $3.74 trillion and M2 was $14.47 trillion. So
+                       M1 was was barely 12 percent larger than the monetary base, while M2 was more than
+                       four times greater than the monetary base. Later in the chapter we’ll return to these
+                       relationships and learn how the financial crisis of 2007–2009 altered them. But first,
+                       let’s see how the central bank adjusts its balance sheet and changes the size of the
+                       monetary base.
+
+
+                       Changing the Size and Composition
+                       of the Balance Sheet
+                       Unlike you and me, the central bank controls the size of its balance sheet. That is,
+                       policymakers can enlarge or reduce their assets and liabilities at will, without asking
+                       anyone. We can’t do that. To see the point, think about a simple transaction you engage
+                       in regularly, like buying $50 worth of groceries. When you arrive at the checkout
+                       counter, you have to pay for your purchases. Let’s say you do it with a check. When the
+                       supermarket deposits your check in the bank, your $50 moves through the payments
+                       system. It is credited to the supermarket’s account and, eventually, debited from yours.
+                       As long as you started with at least $50 in your checking account, the process works
+                       smoothly. The grocery store’s bank account is $50 larger and yours is $50 smaller.
+                          Now think about a standard transaction in which the central bank buys a $1 million
+                       government security. What’s the difference between this purchase and yours at the
+                       grocery store? First, there is its size. The central bank’s transaction is 20,000 times as
+                       big as yours. But that’s not all. To see another important difference, let’s look at the
+                       mechanics of the security purchase. To pay for the bond, the central bank writes a
+
+
+                       3
+                        Newspaper stories at the time documented what happened in the Philippines. See, for example, Chris Sherwell,
+                       “Banknotes in Triplicate Add to Filipino’s Confusion,” Financial Times, February 22, 1986.
+
+
+===== PDF 490 | 印刷页 455 =====
+
+                                                                Changing the Size and Composition of the Balance Sheet   l   455
+
+
+
+$1 million check payable to the bond dealer who sells the bond. (In real life, the trans-
+action is done electronically.) After the check is deposited, the dealer’s commercial
+bank account is credited $1 million. The commercial bank then sends the check back
+to the central bank. When it gets there, something unusual happens. Remember, at the
+end of your check’s journey, your bank debited your checking account $50. But when
+the central bank’s $1 million check is returned, the central bank credits the reserve
+account of the bank presenting it $1 million. And that’s it. The central bank can simply
+buy things (the $1 million bond, for instance) and then create liabilities to pay for them
+(the $1 million increase in reserves in the banking system). It can increase the size of
+its balance sheet as much as it wants.
+    Turning to the specifics of this process, we’ll look at four types of transactions:
+(1) an open market operation, in which the central bank buys or sells a security; (2) a
+foreign exchange intervention, in which the central bank buys or sells foreign currency
+reserves; (3) the extension of a discount loan to a commercial bank by the central
+bank; and (4) the decision by an individual to withdraw cash from the bank. Each of
+these has an impact on both the central bank’s balance sheet and the banking system’s
+balance sheet. Open market operations, foreign exchange interventions, and discount
+loans all affect the size of the central bank’s balance sheet and change the size of the
+monetary base. Cash withdrawals by the public are different. They shift components of
+the monetary base, changing the composition of the central bank’s balance sheet but
+leaving its size unaffected.
+    To figure out the impact of each of these four transactions on the central bank’s bal-
+ance sheet, we need to remember one simple rule: When the value of an asset on the
+balance sheet increases, either the value of another asset decreases so that the net change
+is zero or the value of a liability rises by the same amount. What’s true for assets is also
+true for liabilities. An increase in a liability is balanced either by a decrease in another
+liability or by an increase in an asset. The principle is the same regardless of whose
+balance sheet we are looking at.
+    In the following sections, we will discuss these transactions in the context of the
+­Federal Reserve’s institutional structure. As we go through the examples, remember
+ that the securities and foreign exchange transactions are managed by the Federal
+ ­Reserve Bank of New York, while discount loans are extended by all 12 Reserve Banks.
+
+Open Market Operations
+When the Federal Reserve buys or sells securities in financial markets, it engages in
+open market operations. These open market purchases and sales have a straightfor-
+ward impact on the Fed’s balance sheet. To see how the process works, take the com-
+mon case in which the Federal Reserve Bank of New York purchases $1 billion in U.S.
+Treasury bonds from a commercial bank.4 To pay for the bonds, the Fed transfers
+$1 billion into the reserve account of the seller. The exchange is done electronically.
+Panel A of Figure 17.2 shows the change in the Federal Reserve’s balance sheet. This
+is called a T-account. The left side shows the change in assets and the right side gives
+the change in liabilities. Panel A of Figure 17.2 shows the impact of this open market
+purchase on the Fed’s balance sheet: its assets and liabilities both go up $1 billion,
+increasing the monetary base by the same amount.
+
+4
+ The Fed purchases securities from a list of primary government securities dealers, which includes a
+combination of banks and securities dealers. While we could examine the mechanics of the Fed’s purchase
+assuming the other side is a dealer, it would complicate the analysis without providing additional insight.
+
+
+===== PDF 491 | 印刷页 456 =====
+
+456    l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+
+ Figure 17. 2                Balance Sheet Changes after the Federal Reserve Purchases a U.S. Treasury Bond
+
+
+               A. Federal Reserve’s Balance Sheet                                             B. Banking System’s Balance Sheet
+
+                   Assets                               Liabilities                             Assets                        Liabilities
+
+      Securities             +$1 billion     Reserves             +$1 billion      Reserves               +$1 billion
+      (U.S. Treasury bond)                                                         Securities             –$1 billion
+                                                                                   (U.S. Treasury bond)
+
+
+
+
+                                        What is the impact of the Fed’s open market purchase on the banking system’s bal-
+                                    ance sheet? The Fed exchanged $1 billion in securities for $1 billion in reserves, both
+                                    of which are banking system assets. Panel B of Figure 17.2 shows the balance sheet
+                                    effect of the exchange.
+                                        Note that there are no changes on the liabilities side of the banking system’s balance
+                                    sheet, and the changes on the asset side sum to zero.
+                                        Looking at Figure 17.2, you’ll notice that reserves are an asset to the banking sys-
+                                    tem but a liability to the Federal Reserve. This may seem confusing, but it shouldn’t.
+                                    It’s like your own bank account. The balance in that account is your asset, but it is your
+                                    bank’s liability.
+                                        Before we move on, we should note that if the Fed sells a U.S. Treasury bond
+                                    through what is known as an open market sale, the impact on everyone’s balance
+                                    sheet is reversed. All the credits in the two figures become debits and vice versa. The
+                                    Fed’s balance sheet shrinks, as does the monetary base; the banking system’s reserves
+                                    decline, while its securities holdings increase.5
+
+                                    Foreign Exchange Intervention
+                                    What happens if the U.S. Treasury instructs the Federal Reserve to buy $1 billion worth
+                                    of euros? The answer is that the Federal Reserve Bank of New York buys ­German
+                                    ­government bonds, denominated in euros, from the foreign exchange departments of
+                                     large commercial banks and pays for them with dollars.6 Like an open market bond
+                                     purchase, this transaction is done electronically and the $1 billion payment is credited
+                                     directly to the reserve account of the bank from which the bonds were bought. The
+                                     ­impact on the Fed’s balance sheet is almost identical to that of the open market opera-
+                                      tion, as Panel A of Figure 17.3 shows. The Fed’s assets and liabilities both rise by $1
+                                      billion, and the monetary base expands with them.
+                                         Because the Federal Reserve bought the euros from a commercial bank, the impact
+                                      on the banking system’s balance sheet is straightforward. The result, shown in Panel B
+                                      of Figure 17.3, is nearly identical to the impact when the Fed bought bonds through an
+
+                                    5
+                                      Prior to the financial crisis of 2007–2009, the Fed virtually never sold securities. It always bought; the only
+                                    question was how much. The Fed had always intentionally left itself in a position in which it needed to buy
+                                    securities on a temporary basis through repurchase agreements. In the early stages of the crisis, however, the
+                                    Fed sold securities to limit the expansion of its balance sheet. From 2017 to 2019, the Fed gradually reduced its
+                                    balance sheet by limiting the replacement of maturing securities.
+                                    6
+                                      As a technical matter, the Fed first purchases euro currency with dollars and then uses the proceeds to buy the
+                                    German government bonds. But because it owns the euro currency for a very short time, only a few hours, we
+                                    are ignoring that intermediate transaction.
+
+
+===== PDF 492 | 印刷页 457 =====
+
+                                                                    Changing the Size and Composition of the Balance Sheet           l   457
+
+
+
+
+                           What Should the Fed Own?
+                           APPLYING THE CONCEPT
+
+  There is always a great deal of discussion about the size of                 A minimum-risk portfolio has three distinct advantages.
+  the Fed’s balance sheet. The total quantity of securities                First, holding entirely short-term Treasury debt counters the
+  owned rose from less than $800 billion in 2007 to more than              frequent criticism from Congress and others that by purchas-
+  $4.5 trillion in 2015. Meanwhile, the composition of the bal-            ing MBS to support the housing market, the Fed strays into
+  ance changed dramatically. Prior to the crisis, the Fed owned            fiscal policy (“picking winners” among the users of funds)
+  exclusively U.S. Treasury securities. From 2008 to 2010, it              and oversteps its mandate. Second, a low-risk portfolio re-
+  purchased substantial quantities of mortgage-backed secu-                moves the Fed from interference in the market determina-
+  rities (MBS), driving the fraction of Treasurys down to as low           tion of liquidity and maturity risk premia, in line with its
+  as 37 percent. As of August 2019, the Fed held a total of                approach to credit risk. Third, by sharply dialing back the
+  $3.8 trillion in securities, 42 percent ($1.5 trillion) of which         riskiness of its portfolio in normal times, the Fed maximizes
+  were MBS.                                                                the firepower available to counter threats to financial and
+       All of this brings up an important question: What should            economic stability when they inevitably arise.
+  the Fed own? More specifically, what is the appropriate mix                  Importantly, however, saying that the Fed should own
+  (rather than the scale) of the Fed’s asset holdings?                     exclusively short-term Treasury notes and bills says noth-
+       A simple and compelling answer is that in normal times,             ing about the appropriate quantity it should hold. Should
+  when the economy is expanding and absent any financial                   the balance sheet be equivalent to its level in 2007, when
+  strains, the Fed should aim for a balance sheet that has mini-           authorities held enough Treasury securities to accommo-
+  mal liquidity, maturity, and credit risk. In practical terms, this       date the demand for currency and very little more? Or,
+  means a securities portfolio composed largely of Treasury                should the balance sheet be much larger, providing abun-
+  bills and short-term notes, with an average maturity that is             dant reserves to the banking system? In early 2019, the
+  very short.                                                              FOMC decided that it will maintain a relatively abundant
+       Such a minimalist portfolio satisfies two objectives. First,        supply of reserves over the medium term and will continue
+  the holdings are as riskless as possible. And second, the ac-            to exercise policy control primarily through interest rate
+  tions of the Fed distort financial markets as little as possible.        tools (see Chapter 18 for details). In any case, to the extent
+  Because the federal government issues or guarantees the                  that banks are indifferent between holding reserves at the
+  domestic securities held by the Fed, credit risk already is              Fed and Treasury bills, a low-risk portfolio in normal
+  minimal. To reduce liquidity and maturity risk, holdings                 times makes the magnitude of the Fed’s balance sheet
+  should be short maturity.                                                less salient.
+
+
+
+open market purchase (see Figure 17.2). In both cases, the banking system’s securities
+portfolio falls by $1 billion and reserve balances rise by an equal amount. The only
+difference is the exact assets that decline. In a standard open market operation, the
+reduction is in bank holdings of U.S. government bonds; here it is in their holdings of
+euro-denominated assets.
+
+
+  Figure 17. 3          Balance Sheet Changes after the Federal Reserve Purchases a German Government Bond
+
+
+            A. Federal Reserve’s Balance Sheet                                           B. Banking System’s Balance Sheet
+
+               Assets                            Liabilities                               Assets                     Liabilities
+
+    Foreign exchange                                                          Reserves              +$1 billion
+    reserves            +$1 billion   Reserves             +$1 billion
+                                                                              Securities            –$1 billion
+    (German government bonds
+                                                                              (German government bonds)
+    in euros)
+
+
+===== PDF 493 | 印刷页 458 =====
+
+458    l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+
+ Figure 17.4               Balance Sheet Changes after the Federal Reserve Makes a Discount Loan
+
+
+               A. Federal Reserve’s Balance Sheet                                        B. Banking System’s Balance Sheet
+
+                  Assets                           Liabilities                             Assets                          Liabilities
+
+      Discount loans   +$100 million    Reserves           +$100 million      Reserves          +$100 million   Discount loans     +$100 million
+
+
+
+
+                                Discount Loans
+                                The Federal Reserve does not force commercial banks to borrow money; the banks
+                                ask for loans. To get one, a borrowing bank must provide collateral.7 While this
+                                usually takes the form of U.S. Treasury bonds, the Fed has always been willing to
+                                accept a broad range of securities and loans as the collateral for lending to banks.
+                                During the crisis, when discount loans surged, this willingness facilitated lending.
+                                Not surprisingly, when the Fed makes such a loan, it changes the balance sheet of
+                                both institutions. For the borrowing bank, the loan is a liability that is matched by
+                                an offsetting increase in the level of its reserve account. For the Fed, the loan is
+                                an asset that is created in exchange for a credit to the borrower’s reserve
+                                account. The impact on the Federal Reserve’s balance sheet is shown in Panel A of
+                                Figure 17.4.
+                                   Note that the increase in loans is an asset to the Fed, while the change in reserves
+                                increases its liabilities. Once again, the impact on the Fed’s balance sheet is the same
+                                as that of an open market purchase or an increase in foreign exchange reserves. The
+                                extension of credit to the banking system raises the level of reserves and expands the
+                                monetary base.
+                                   The impact on the banking system’s balance sheet mirrors the impact on the Fed,
+                                with reserves and loans both increasing. In this case, however, commercial banks have
+                                increased the size of their balance sheet by borrowing from the Fed (see Panel B of
+                                Figure 17.4).
+                                   In summary, open market purchases, an increase in foreign exchange reserves, and
+                                the extension of discount loans all increase the reserves available to the banking sys-
+                                tem, expanding the monetary base. We turn now to a different type of transaction, one
+                                that affects only the composition—not the size—of the monetary base.
+
+                                Cash Withdrawal
+                                The Federal Reserve can always shift its holdings of various assets, selling U.S.
+                                ­Treasury bonds and using the proceeds to buy Japanese yen, or engaging in an offset-
+                                 ting sale of a U.S. Treasury security after a bank takes out a discount loan. But the
+                                 same is not true of its liabilities. Because the Fed stands ready to exchange reserves for
+
+                                7
+                                 Remember, collateral is the term used to describe specific assets pledged by a borrower that a lender can seize
+                                in the event of nonpayment. To obtain a discount loan, a bank must identify specific assets (usually bonds) that
+                                the Fed can take if the bank doesn’t repay the loan. The ECB, which relies primarily on collateralized lending to
+                                implement policy, publishes each day a list of eligible collateral. As of January 2019, that list contained more
+                                than 28,000 financial instruments.
+
+
+===== PDF 494 | 印刷页 459 =====
+
+                                                                Changing the Size and Composition of the Balance Sheet             l 459
+
+
+
+
+  Figure 17.5         Balance Sheet Changes after a Private Person Withdraws Cash from His or Her Bank Account
+
+
+                                              A. Nonbank Public’s Balance Sheet
+
+                                                 Assets                         Liabilities
+
+                                   Currency                  +$100
+                                   Checkable deposits        –$100
+
+
+
+
+           B. Federal Reserve’s Balance Sheet                                       C. Banking System’s Balance Sheet
+
+             Assets                           Liabilities                             Assets                     Liabilities
+
+                                 Currency                   +$100        Reserves              –$100   Checkable deposits      –$100
+                                 Reserves                   –$100
+
+
+
+
+c­urrency on demand, it does not control the mix between the two. The nonbank
+­public—the people who hold the cash—controls that.
+    You may be surprised to learn that when you take cash from an ATM, you are
+ changing the Federal Reserve’s balance sheet. The reason is that vault cash is part of
+ reserves, while the currency holdings of the nonbank public—your cash and ours—are
+ not. By moving your own assets out of your bank and into currency, you force a shift
+ from reserves to currency on the Fed’s balance sheet. The transaction is complicated,
+ involving the nonbank public (you and me), the banking system, and the central bank,
+ so understanding it means looking at three balance sheets.
+    Consider an example in which you withdraw $100 from your checking account.
+ This transaction changes the composition of the asset side of your balance sheet, as
+ shown in Panel A of Figure 17.5. (Because there is no change in your liabilities, the
+ changes in the asset side of your balance sheet must sum to zero.)
+    But that isn’t all. By taking $100 out of the cash machine, you had an impact on your
+ bank’s balance sheet as well. Remember, cash inside the bank—vault cash—counts as
+ reserves, so by withdrawing cash from your bank, you decreased the banking system’s
+ reserves. The change in the banking system’s T-account is shown in Panel C of Figure 17.5.
+    It should come as no surprise to you that when you take your money out of the
+ bank, the bank’s balance sheet shrinks. Here we see that your cash withdrawal forced
+ the banking system to contract its balance sheet. Note that the change in bank assets
+ equals the change in bank liabilities.
+    Finally, there is the Federal Reserve. Remember, the Fed controls the size of its
+ own balance sheet, so your transactions can’t affect that. But what you can do is
+ change the composition of the Fed’s liabilities. By withdrawing cash, you changed the
+ amount of currency outstanding—a change that shows up on the Fed’s balance sheet
+ as a shift from reserves to currency. Both are liabilities. Panel B of Figure 17.5 shows
+ what the Fed’s balance sheet looks like. Note that the monetary base hasn’t changed.
+ Remember that the monetary base equals currency plus reserves, and one went up
+ while the other went down. But the relative size of each component of the monetary
+ base has changed.
+
+
+===== PDF 495 | 印刷页 460 =====
+
+460    l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+                      Changes in the Size and Composition of the Federal Reserve’s Balance Sheet
+  Table 17.2
+                      and the Monetary Base
+
+
+      Transaction              Initiated by          Typical Action            Impact
+
+      Open market              Central bank          Purchase of Treasury      Increases reserves, the size of the Fed’s
+      operation                                      bond                      balance sheet, and the monetary base
+
+      Foreign exchange         Central bank          Purchase of German        Increases reserves, the size of the Fed’s
+      intervention                                   government bond           balance sheet, and the monetary base
+
+      Discount loan            Commercial bank       Extension of loan to      Increases reserves, the size of the Fed’s
+                                                     commercial bank           balance sheet, and the monetary base
+
+      Cash withdrawal          Nonbank public        Withdrawal of cash        Decreases reserves and increases
+                                                     from ATM                  currency, leaving the size of the Fed’s
+                                                                               balance sheet and the monetary base
+                                                                               unchanged
+
+
+
+
+                               Table 17.2 summarizes the impact of each of the four transactions we have just
+                            studied on the size and composition of the Federal Reserve’s balance sheet. Open mar-
+                            ket operations and foreign exchange interventions are both done at the discretion of the
+                            central bank, while the level of discount borrowing is decided by the commercial
+                            banks. The nonbank public decides how much currency to hold.
+                               It is worth noting that there are countries where the process works differently. As we
+                            will see in Chapter 19, when a central bank wishes to control its country’s e­ xchange
+                            rate rather than the domestic interest rate, one way to do so is to stand ready to buy and
+                            sell foreign currency. In such cases, foreign exchange intervention is not truly under the
+                            central bank’s control. Instead, the private sector decides when the purchases and sales
+                            are made and how large they are. That is essentially what the Bank of Thailand was
+                            doing in 1997, and when it started to run out of foreign c­ urrency reserves, the system
+                            collapsed.
+
+
+                            The Deposit Expansion Multiplier
+                            Central bank liabilities form the base on which the supplies of money and credit are
+                            built; that is why they are called the monetary base. The central bank controls the
+                            monetary base, causing it to expand and contract. But most of us don’t focus much
+                            attention on the monetary base. Our primary interest is in the broader measures of
+                            money, M1 and M2, which are mostly liabilities of private banks. Recall from Chap-
+                            ter 2 that M1 is currency plus demand deposits and M2 adds time deposits to M1. This
+                            is the money we think of as available for transactions. What is the relationship between
+                            the central bank’s liabilities and these broader measures of money? How do reserves
+                            ­become bank deposits? The answer is that the banking system makes them, in a pro-
+                             cess called multiple deposit creation.
+
+                            Deposit Creation in a Single Bank
+                            To see how deposits are created, let’s start with an open market purchase in which the
+                            Federal Reserve buys $100,000 worth of securities from a bank called First Bank.
+
+
+===== PDF 496 | 印刷页 461 =====
+
+                                                                                                      The Deposit Expansion Multiplier l            461
+
+
+
+
+  Figure 17. 6            Changes in First Bank’s Balance Sheet after the Fed’s Purchase of a U.S. Treasury Bond
+
+
+                                                                   A. Immediate Impact
+
+                                                        Assets                          Liabilities
+
+                                          Reserves                 +$100,000
+                                          Securities               –$100,000
+
+
+
+
+                 B. After the Extension of a Loan                                        C. After Withdrawal by the Borrower
+
+                 Assets                              Liabilities                             Assets                              Liabilities
+
+    Reserves              +$100,000   Checkable deposits           +$100,000    Reserves                        $0   Checkable deposits        $0
+    Securities            –$100,000                                             Securities             –$100,000
+    Loans                 +$100,000                                             Loans                  +$100,000
+
+
+
+
+While First Bank may have its own reasons for selling the securities, we are assuming
+that the Fed initiated the transaction. So if First Bank doesn’t sell the securities, some
+other bank will.
+    The Fed’s purchase leaves the bank’s total assets unchanged, but it shifts $100,000
+out of securities and into reserves, increasing reserves by the amount of the open mar-
+ket purchase. The impact on First Bank’s balance sheet is shown in Panel A of
+­Figure 17.6. (It is similar to Panel B of Figure 17.2.)
+    What does First Bank do in response to this change in the composition of its
+ assets? The bank’s management must do something. After all, it just sold a U.S.
+ Treasury bond to the Fed and received reserves that typically bear a lower interest
+ rate in exchange. If it does nothing, the bank’s revenue will fall, and so will its profits.
+ With liabilities unchanged, the increase in First Bank’s reserves doesn’t affect the
+ quantity of reserves the bank is required to hold, so it counts as an increase in excess
+ reserves. Remember that banks hold reserves for two reasons: because regulators
+ require them and because banks need them to conduct their daily business. But when
+ reserves rise in response to the sale of a security, something profitable has to be done
+ with the proceeds.
+    The most natural thing for a bank to do is to lend out the excess—and no more. To
+ keep the example simple, assume that First Bank has just received a loan application
+ from Office Builders Incorporated (OBI). OBI is seeking $100,000 to finance the con-
+ tinued construction of an office building. First Bank approves the loan and credits
+ OBI’s checking account with an additional $100,000. Figure 17.6 Panel B shows First
+ Bank’s balance sheet immediately after the loan is made.
+    OBI did not take out its $100,000 loan to leave it in First Bank’s checking account.
+ The company borrowed to pay suppliers and employees. So OBI’s financial officer
+ proceeds to write checks totaling $100,000. As First Bank makes good on OBI’s
+ checks, OBI’s checking account balance falls, but so does First Bank’s reserve account
+ balance. When the entire $100,000 loan has been spent, First Bank’s balance sheet
+ looks like Panel C of Figure 17.6.
+
+
+===== PDF 497 | 印刷页 462 =====
+
+462     l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+                                    In summary, following a $100,000 open market purchase of securities by the Fed,
+                                 First Bank makes a loan equal to the amount of newly created excess reserves. That
+                                 loan replaces the securities as an asset on First Bank’s balance sheet.
+
+                                 Deposit Expansion in a System of Banks
+                                 First Bank’s loan and OBI’s expenditures can’t be the end of the story because the
+                                 suppliers and employees paid by OBI took their checks to the bank and deposited
+                                 them. As the checks made their way through the payments system, First Bank’s
+                                 reserves were transferred to the reserve accounts of the suppliers’ and employees’
+                                 banks. Only the Fed (the central bank) can create and destroy the monetary base. The
+                                 nonbank public determines how much of it ends up as reserves in the banking system
+                                 and how much is in currency; all the banks can do is move the reserves they have
+                                 around among themselves. So, assuming cash holdings don’t change following an open
+                                 market purchase, the reserves created by the Fed must end up somewhere. Let’s follow
+                                 them to see where they go.
+                                     We’ll start by making four assumptions that allow us to focus on the essential parts
+                                 of the story: (1) banks hold no excess reserves; (2) the reserve requirement is 10 per-
+                                 cent of checking account deposits; (3) when the level of checking account deposits and
+                                 loans changes, the quantity of currency held by the nonbank public does not; and
+                                 (4) when a borrower writes a check, none of the recipients of the funds deposit
+                                 them back in the bank that initially made the loan. Now, let’s say that OBI uses the
+                                 $100,000 loan to pay for steel girders from American Steel Co. American Steel depos-
+                                 its the $100,000 in its bank, Second Bank, which credits American’s checking account.
+                                 When OBI’s check clears, Second Bank’s reserve account at the Federal Reserve Bank
+                                 is credited with $100,000. That’s the transfer of reserves from First Bank. The result is
+                                 shown in Panel A of Figure 17.7.
+                                     The additional $100,000 in American Steel’s checking account is costly for Second
+                                 Bank to service. American Steel will want to receive interest on its idle balance as well
+                                 as access to it for payments. And the reserves Second Bank just received usually pay less
+
+
+
+  Figure 17.7             Changes in Balance Sheets
+
+
+      A. Second Bank after American Steel’s Deposit                                    B. Second Bank after Extension of a Loan
+                 Assets                          Liabilities                                Assets                            Liabilities
+
+      Reserves       +$100,000     American Steel’s            +$100,000        Reserves          +$10,000       American Steel’s           +$100,000
+                                   checking account                                                              checking account
+
+                                                                                Loan              +$90,000
+
+
+
+                                        C. Third Bank after Deposit and Extension of a Loan
+                                                      Assets                            Liabilities
+
+                                          Reserves             +$ 9,000    Checking account           +$90,000
+                                          Loan                 +$81,000
+
+
+
+
+Assuming a 10 percent reserve requirement, banks hold no excess reserves, and there are no changes in currency holdings.
+
+
+===== PDF 498 | 印刷页 463 =====
+
+                                                                          The Deposit Expansion Multiplier l     463
+
+
+
+interest than a loan. In the same way that First Bank lent out
+its new reserves following the Fed’s open market purchase,      Figure 17.8         Multiple Deposit Creation
+Second Bank will make a loan after American Steel has
+made its deposit. How large will the loan be? Because the
+reserve requirement is 10 percent, Second Bank must hold                         Federal Reserve
+an additional $10,000 in reserves against the new $100,000
+                                                                  $100,000 Reserves            $100,000 Securities
+deposit. Individual banks can’t make loans that exceed their
+excess reserves, so the largest loan Second Bank can make
+is $90,000—and that’s what it does. (Remember, we’re                                First Bank
+assuming banks hold no excess reserves.) If the borrower
+                                                                                           $100,000 Loan
+immediately uses the $90,000 loan, Second Bank’s balance
+sheet will look like Figure 17.7 Panel B.
+    This new loan, and the reserves that go with it, must go                   Office Builders Inc.
+somewhere, too. Let’s say that it is deposited in yet
+                                                                                           $100,000 Payment
+another bank, Third Bank, which makes a loan equal to 90
+percent of the new deposit. The change in Third Bank’s
+balance sheet is shown in Panel C of Figure 17.7. (Recall,                     American Steel Co.
+we’re assuming that the owner of the checking account at                                   $100,000 Deposit
+Third Bank doesn’t withdraw any cash.)
+    At this point, a $100,000 open market purchase has
+created $100,000 + $90,000 = $190,000 in new checking                Second Bank retains $10,000 in reserves
+account deposits at Second Bank and Third Bank and                                         $90,000 Loan
+$100,000 + $90,000 + $81,000 = $271,000 in new com-
+bined loans at First Bank, Second Bank, and Third Bank.
+But the process doesn’t stop there. The $81,000 loan                   Third Bank retains $9,000 in reserves
+from Third Bank is deposited into Fourth Bank, where it                                    $81,000 Loan
+creates an additional $81,000 in checking account depos-
+its. Fourth Bank then makes a loan that is 90 percent of
+                                                                      Fourth Bank retains $8,100 in reserves
+$81,000, or $72,900, and the $72,900 is deposited. And
+so on, as shown in Figure 17.8.                                                            $72,900 Loan
+    Table 17.3 shows the consequences of a $100,000 open
+market purchase for the banking system as a whole. As
+                                                                       Fifth Bank retains $7,290 in reserves
+the $100,000 in new reserves spreads through the banking
+system, it generates $1,000,000 in deposits and $1,000,000                                 $65,610 Loan
+in loans. With a 10 percent reserve requirement, each
+added dollar in reserves expands to $10 in deposits,                                  and on
+increasing the quantity of money by a factor of 10.                                   and on.
+    With a bit of algebra, we can derive a formula for the
+deposit expansion multiplier—the increase in commer- Assuming a 10 percent reserve requirement, banks hold
+cial bank deposits following a one-dollar open market no excess reserves, and there are no changes in currency
+purchase, (assuming there are no excess reserves in the holdings.
+banking system and no changes in the amount of currency
+held by the nonbank public).
+    There’s an easy way and a hard way to figure out the size of the deposit expansion
+multiplier. Let’s start with the easy way. Imagine that the entire banking system is
+composed of a single bank—call it the Monopoly Bank. When the country’s banking
+system is made up of just one bank, everyone has to use it. That means that any pay-
+ment made from one person to another is just a transfer between two accounts in the
+Monopoly Bank. Because the managers of the Monopoly Bank know this, they don’t
+need to worry about losing reserves when they make a loan.
+
+
+===== PDF 499 | 印刷页 464 =====
+
+464   l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+                                         Multiple Deposit Expansion following a $100,000 Open Market Purchase
+                          Table 17.3
+                                         Assuming a 10% Reserve Requirement
+
+
+                                                        Increase                 Increase           Increase
+                           Bank                       in Deposits                in Loans         in Reserves
+
+                           First Bank                  $       0             $ 100,000             $      0
+                           Second Bank                 $ 100,000             $     90,000          $ 10,000
+                           Third Bank                  $   90,000            $     81,000          $  9,000
+                           Fourth Bank                 $   81,000            $     72,900          $  8,100
+                           Fifth Bank                  $   72,900            $     65,610          $  7,290
+                           Sixth Bank                  $   65,610            $     59,049          $  6,561
+                                  .                          .                        .                  .
+                                  .                          .                        .                  .
+                                  .                          .                        .                  .
+                           The Banking System          $1,000,000            $1,000,000            $100,000
+
+
+
+
+                          So here’s the question. For each dollar change in reserves arising from a transac-
+                       tion with the Fed, how much can the Monopoly Bank change its deposits? If we
+                       continue to assume that the Monopoly Bank holds no excess reserves and that there
+                       is no change in currency held by the nonbank public, then its level of reserves is just
+                       the required reserve ratio rD times its deposits. If required reserves are RR and
+                       deposits are D, the level of reserves can be expressed as
+                                                             RR = rDD(1)
+                       Any change in deposits creates a corresponding change in reserves, expressed as
+                                                           ∆RR = rD∆D(2)
+                          Now let’s go back to the question we started with: What is the change in the level of
+                       deposits following a one-dollar change in reserves? From equation (2), we can see that
+                       the answer is
+                       	​                                  ∆D = __​  r1  ​ ∆RR(3)​
+                                                                      D
+                       So for every dollar increase in reserves, deposits increase by (1/rD). This is the simple
+                       deposit expansion multiplier. If the reserve requirement is 10 percent, as it was in our
+                       example, then the simple deposit expansion multiplier equals (1/0.1) = 10, and a
+                       $100,000 open market purchase generates a $1,000,000 = 10 × $100,000 increase in
+                       the quantity of money. To see why this makes sense, note that if deposits rose by more
+                       than $1,000,000 following the addition of $100,000 in reserves, the banking system
+                       would violate the reserve requirement. And if deposits rose by less than 10 times the
+                       change in reserves, some banks would be holding excess reserves, which violates one
+                       of the assumptions we made at the outset.
+                          The hard way to compute the simple deposit expansion multiplier is to look
+                       at Table 17.3 and add up the entries. Notice that starting with Third Bank, each entry
+                       in the column “Increase in Deposits” equals (1 − rD) times the entry above it, where rD
+                       is the reserve requirement (measured as a decimal). With a reserve requirement of
+                       10 percent, rD = 0.10, (1 − rD) = 0.90, so each entry is 0.90 times the one above it.
+
+
+===== PDF 500 | 印刷页 465 =====
+
+                                                               The Monetary Base and the Money Supply l 465
+
+
+
+For ­example, $90,000 equals 0.90 times $100,000; $81,000 equals 0.90 times $90,000.
+Thus, a one-dollar increase in reserves creates an increase in deposits equal to the sum
+of this series: [1 + (1 − rD) + (1 − rD)2 + (1 − rD)3 + . . .]. Using a formula from the
+appendix to Chapter 4, we can determine that this expression equals (1/rD).
+    Before we continue, it is important to emphasize that there is nothing magical about
+increases in reserves and deposit expansion. A decrease in reserves will generate a
+deposit contraction in exactly the same way. That is, a $100,000 open market sale, in
+which the Fed sells a security in exchange for reserves, will reduce the level of depos-
+its. From equation (3), we see that with a 10 percent reserve requirement, the contrac-
+tion in deposits is 10 × $100,000 = $1,000,000.
+
+
+The Monetary Base and the Money Supply
+We have made considerable headway in understanding the link between the central
+bank’s balance sheet and the quantity of money in the economy. A change in reserves
+precipitates a significant change in the level of loans and checkable deposits in the
+banking system. But the simple deposit expansion multiplier is too simple. In deriving
+it, we ignored a few important details.
+    First, we assumed that banks lent out the entirety of the reserves that were not
+required, leaving no excess reserves in the banking system. In fact, banks do hold some
+excess reserves, in part to protect against unexpected deposit outflows, but also for
+other reasons. Demand for excess reserves can change dramatically and unpredictably.
+For example, during the financial crisis of 2007–2009, excess reserves surged as banks
+built a safety cushion to insure themselves against the loss of funding liquidity (see
+Chapter 2, Lessons from the Crisis: Market Liquidity, Funding Liquidity, and Making
+Markets) and unanticipated drawdowns of credit lines.
+    Second, we ignored the fact that the nonbank public holds cash. As people’s account
+balances rise, they have a tendency to hold more cash. From our discussion of the cen-
+tral bank’s balance sheet, we know that when individuals change their cash holdings,
+they change the level of reserves in the banking system. Both these considerations
+affect the relationship among reserves, the monetary base, and the quantity of money
+in the economy. Let’s look at the relationship in more detail.
+
+Deposit Expansion with Excess Reserves
+and Cash Withdrawals
+To see how important excess reserves and cash holdings are, we can go back through
+the deposit expansion story, this time taking them into account. Assume that banks
+want to hold excess reserves equal to 5 percent of checking account deposits and that
+the holder of a checking account withdraws 5 percent of a deposit in cash. Recall that
+the reserve requirement is 10 percent.
+   To understand the implication of these changes, let’s go back to the example in
+the last section, in which the Fed purchased $100,000 worth of securities from
+First Bank (Panel A of Figure 17.6), which proceeded to make a $100,000 loan to
+Office Builders Incorporated (Panel B of Figure 17.6). OBI then used the
+$100,000 to purchase steel from American Steel, which withdrew the funds from
+First Bank and deposited them in a checking account in Second Bank. This brings
+us to the T-account in Panel A of Figure 17.7. If American Steel takes some of the
+$100,000 in cash and Second Bank wishes to hold excess reserves, then the next
+loan cannot be $90,000.
+
+
+===== PDF 501 | 印刷页 466 =====
+
+466   l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+
+                       Has Paper Money Outlived Its Purpose?
+                       YOUR FINANCIAL WORLD
+
+
+  Serious people have suggested that we eliminate paper                   Not so fast, you say. If the United States eliminated its
+  currency.* Paper money facilitates criminality and estab-          paper currency, criminals would shift to euros, yen, sterling,
+  lishes the effective lower bound for nominal interest rates.       and the like—so then, wouldn’t all major currencies have to
+  So why not just get rid of it? We could replace it with elec-      be made electronic in order to combat criminality? The an-
+  tronic money that could be monitored for illicit transactions      swer is surely yes. If one major currency goes electronic, any
+  and would carry an interest rate as low as policymakers            other country that issues a trusted currency would have to
+  wish—even a sizably negative rate (see Applying the Con-           get rid of at least its large-denomination notes. In addition,
+  cept: Negative Nominal Interest Rates: Blast from the Past?,       countries would have to tax or forbid private currencies that
+  page 469).                                                         could substitute for the public varieties.
+       There is an enormous amount of currency out there. For             However, paper currency carries significant economic ben-
+  dollars, the value in circulation worldwide is in the range of     efits. Governments receive seignorage (the ability to acquire
+  $5,300 per U.S. resident and about €3,600 per euro-area            real goods and services in exchange for fiat currency) for issu-
+  resident. In Japan, the number is more than 40 percent             ing notes and coin. That income probably exceeds by a signif-
+  greater. than in the United States And most of the notes in        icant margin the revenue gained from reducing tax evasion.
+  circulation are in large denominations: 80 percent of U.S.              Another, very different, and more powerful argument for
+  currency is in $100 bills, 48 percent of euros is in bills of      keeping cash around is this: the anonymity of paper currency
+  €100 or more, and ¥10,000 notes account for 93 percent of          is a source of freedom. Yes, people sometimes misuse that
+  ­Japanese paper currency. Out of concern that high-value           freedom for criminal gain. But in a society with only elec-
+   notes facilitate criminality, in 2016 the ECB decided to elimi-   tronic currency, the government could use the resulting de-
+   nate further issuance of the €500 note.                           tailed knowledge of payments to exert tyrannical control.
+       Law-abiding taxpayers simply do not keep this amount of       There is a very real sense in which we are what we buy, so
+   cash around. The natural conclusion is that the extraordinary     protecting our privacy requires having the option of anonym-
+   volume of currency—especially the large-denomination              ity in payments. Cash provides that option.
+   component—results from illegal activity ranging from tax               Paper currency is at the heart of how we choose to or-
+   evasion to organized crime.                                       ganize our society. There are means other than eliminating
+       In the absence of paper money, central banks could re-        cash—less effective but also less threatening to personal lib-
+   duce the nominal interest rate as far as they want by setting a   erties—to expose the shadow economy. And as the recent
+   negative interest rate on banks’ reserve deposits; and banks      financial crisis has shown, central banks still have policy al-
+   would presumably turn around and charge their customers           ternatives when the short-term interest rate hits zero.
+   for holding deposit balances. Very negative interest rates
+   could help battle deep economic slumps like the Great Re-         *See Kenneth S. Rogoff, The Curse of Cash (Princeton, NJ:
+   cession of 2007–2009.                                             Princeton University Press, 2016).
+
+
+
+
+                              Assuming that American Steel removes 5 percent of its new funds in cash, that
+                           leaves $95,000 in the checking account and $95,000 in Second Bank’s reserve account.
+                           (Look back at Panel C of Figure 17.5 to see the impact of a cash withdrawal on the
+                           banking system’s balance sheet.) Because Second Bank wishes to hold excess reserves
+                           equal to 5 percent of deposits, it will want to keep reserves of 15 percent of $95,000,
+                           or $14,250. That means making a loan of only $80,750. Instead of Panel B of Fig-
+                           ure 17.7, Second Bank’s balance sheet looks like Figure 17.9.
+                              We can continue as before, following the proceeds of Second Bank’s loan as it is
+                           deposited in Third Bank. Assuming that the depositor of the loan’s proceeds wishes to
+                           hold 5 percent of the deposit in cash and that Third Bank wants to hold excess reserves
+                           equal to 5 percent of deposits, the increase in deposits will be $80,750 minus $4,037.50
+                           equals $76,712.50, and Third Bank will make a loan of $65,205.63, keeping reserves
+                           of $11,506.87. Compare these numbers with the ones in Table 17.3 and you will see
+
+
+===== PDF 502 | 印刷页 467 =====
+
+                                                                            The Monetary Base and the Money Supply   l 467
+
+
+
+                       Change in Second Bank’s Balance Sheet following a Deposit and
+  Figure 17.9
+                       Extension of a Loan
+
+                    Assets                                           Liabilities
+
+     Required reserves          +$ 9,500        American Steel’s checking account           +$95,000
+
+     Excess reserves            +$ 4,750
+     Loan                       +$80,750
+
+
+
+Assuming excess reserves and cash holdings. Note: American Steel also has $5,000 in cash.
+
+how much smaller the deposit expansion becomes if we take into account excess
+reserves and cash withdrawals.
+   In the last section, we derived the result that a one-­dollar change in reserves created a
+change in deposits equal to one over the reserve requirement, or (1/rD). So, for an rD of
+10 per­cent, a $1 change in reserves generated a $10 change in deposits. But now the analysis
+is more complicated and the deposit expansion is smaller. The desire of banks to hold
+excess ­reserves and the desire of account holders to withdraw cash both reduce the impact
+of a given change in reserves on the total deposits in the system. The more excess reserves
+banks desire to hold, and the more cash the public withdraws, the smaller the impact. In
+fact, these two factors operate in the same way as an increase in the reserve requirement.
+
+The Arithmetic of the Money Multiplier
+To better understand the relationship between deposits and reserves, we can derive the
+money multiplier, which shows how the quantity of money (checking account deposits
+plus currency) is related to the monetary base (reserves in the banking system plus
+currency held by the nonbank public). Keep in mind that the monetary base is the
+quantity that the central bank can control.
+   If we label the quantity of money M and the monetary base MB, the money multi-
+plier m is defined by the relationship
+                                           M = m × MB(4)
+To derive the money multiplier, we start with a few simple relationships: money equals
+currency (C) plus checkable deposits (D); the monetary base (MB) equals currency
+plus reserves in the banking system (R); and reserves equal required reserves (RR) plus
+excess reserves (ER). Writing these relationships as simple equations, we have
+         M=C+D             Money = Currency + Checkable deposits(5)
+         MB = C + R            Monetary base = Currency + Reserves(6)
+            R = RR + ER        Reserves = Required reserves + Excess reserves(7)
+These are just accounting definitions; the next step is to incorporate the behavior of
+banks and individuals. Starting with banks, we know that their holdings of required
+reserves depend on the required reserve ratio rD. But what about excess reserves? In our
+earlier discussion, we assumed that banks hold excess reserves as a proportion of their
+deposits, and that the amount of excess reserves a bank holds depends on the costs and
+benefits of holding them. The cost of excess reserves is the interest on the loans that
+could be made with them, less the interest received on reserve balances, while the
+
+
+===== PDF 503 | 印刷页 468 =====
+
+468   l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+                       b­ enefits have to do with safety should deposits be withdrawn suddenly. The higher the
+                        interest rate on loans, the lower banks’ excess reserves will be; the greater banks’ con-
+                        cern over the possibility of deposit withdrawals, the higher their excess reserves will be.
+                           Labeling the excess reserve-to-deposit ratio {ER/D}, we can rewrite the reserve
+                        equation (7) as
+                                R = RR + ER Reserves = Required reserves + Excess reserves
+                                  = rD  D + {ER/D}D(8)
+                                  = (rD + {ER/D})D
+                       That is, banks hold reserves as a proportion of their deposits.
+                          Turning to the nonbank public, we need to take account of their currency holdings.
+                       Again, as in the preceding example, we assume that people hold currency as a fraction
+                       of their deposits. That is,
+                                                             C = {C/D}D(9)
+                       where {C/D} is the currency-to-deposit ratio. The decision of how much currency to
+                       hold depends on costs and benefits in the same way as the decision to hold excess
+                       reserves. The cost of currency is the interest it would earn on deposit, while the benefit
+                       is its lower risk and greater liquidity. As interest rates rise, cash becomes less desira-
+                       ble. But if the riskiness of alternative holdings rises or liquidity falls, then cash
+                       becomes more desirable, and {C/D} will rise.
+                           Bringing all these elements together, we can rewrite the expression for the mone-
+                       tary base using the reserve and currency expressions. That gives us
+                                MB = C + R         Monetary base = Currency + Reserves
+                                     = {C/D}D + (rD + {ER/D})D(10)
+                                     = ({C/D} + rD + {ER/D})D
+                       We see now that the monetary base has three uses: required reserves, excess ­reserves,
+                       and cash in the hands of the nonbank public. But our interest is in the relationship
+                       between the quantity of money and the monetary base. To find this, we can solve equa-
+                       tion (10) for the level of deposits.
+
+                       	​   ​           1
+                        D = __________________     ​ × MB(11)​
+                               {C/D} + rD + {ER/D}
+
+                       This expression tells us how much deposits change with a change in the monetary base.
+                       Notice that if we ignore excess reserves and cash withdrawals, so that {ER/D} and {C/D}
+                       both equal zero, we get the same result as in equation (3), that a change in deposits equals
+                           1
+                       (​​ __
+                           rD ​​) times the change in the monetary base. For a reserve requirement of 10 percent, that
+                       meant that a one-dollar change in the monetary base increased deposits by $10. Adding
+                       the excess reserve-to-deposit and currency-to-deposit ratios that we used in the example
+                       after Figure 17.9, 5 percent each, this equation tells us that a one-dollar increase in the
+                       monetary base will increase deposits by [1/(0.10 + 0.05 + 0.05)] = 5.
+                                Returning to the derivation of the money multiplier, we can take the expression for
+                       money and rewrite it as
+
+                                      M = C + D  Money = Currency + Checkable deposits
+                                         = {C/D}D + D(12)
+                                         = ({C/D} + 1) D
+
+
+===== PDF 504 | 印刷页 469 =====
+
+                                                                             The Monetary Base and the Money Supply               l   469
+
+
+
+
+                        Negative Nominal Interest Rates: Blast from the Past?
+                        APPLYING THE CONCEPT
+
+  Goldsmiths were the forerunners of modern bankers. Origi-           pay customers for their deposits. As a matter of arithmetic, that
+  nally, they issued receipts to those who paid them a fee to         would mean that if the bank’s interest rate spread is three per-
+  place gold in their vaults. These receipts eventually gave rise     centage points (a fairly representative level) and assets yielded
+  to fractional reserve banking, as goldsmiths used a portion of      –1 percent, the bank would offer depositors –4 percent.
+  the gold to make loans.                                                 But who would want to pay 4 percent of their deposit bal-
+       Today, we might be on our way back to the original form        ance each year to the bank when they can hold cash instead?
+  of goldsmith safekeeping, but instead of guarding our gold,         Of course, people willingly pay for services that come with a
+  banks will be storing our physical cash—our dollar, Swiss           deposit account, like safekeeping, check writing, automated
+  franc, yen, or euro notes!                                          payments, and web access to their accounts. If these services
+       This story is tied to an important puzzle regarding negative   are worth about 1 percent of the balance, then that leaves 3
+  nominal interest rates: how far below zero can they go?             percent more that depositors would have to pay the bank.
+  ­Answer: somewhat, but beyond that still-unknown level, a           However, since withdrawing all your money from the bank
+   point exists at which our handling of cash will revert to the      and holding it as cash would be highly inconvenient, banks
+   early days of the goldsmiths.                                      can still help businesses and households in this case. How?
+       Starting in late 2014, several central banks indeed            Like the goldsmiths of yore, banks can rent out vault space.
+   pushed their deposit rates below zero. The ECB’s was set               Suppose, for example, that banks were to offer to con-
+   at –0.20 percent, while the Swiss National Bank set its at –0.75   vert customers’ deposit accounts into “cash reserve ac-
+   percent, meaning commercial banks had to pay to make de-           counts” (CRAs), which hold only currency and so do not
+   posits at the central bank. If the rates had gone sharply lower,   represent reserve balances at the central bank. Bankers can
+   the commercial banks might have started to charge their            organize CRAs so that a customer’s funds are available dur-
+   depositors—the general public—to hold their funds.                 ing the business day, and at night they are held as piles of
+       This seems upside down. Lenders paying borrowers to            currency in the bank’s vault. At night, the currency belongs
+   borrow? Isn’t there a zero lower bound for nominal interest        to customers; during the day it is the asset balancing the
+   rates? Could those central banks have pushed their rates           CRA liability on the bank’s own account.
+   even further below zero?                                               Crucially, the CRA cash in the bank’s vault is not available
+       We don’t know what the “effective lower bound” (ELB) is.       to be lent out. That is, the deposit expansion multiplier does
+   But, if central banks try to lower rates below the ELB, com-       not operate when depositors hold currency.
+   mercial bank depositors would shift their funds into cash and          What would happen if policymakers try to stimulate the
+   banks would shrink their balance sheets. So long as there is       economy by reducing interest rates below the ELB threshold
+   abundant cash that earns a zero interest rate, there exists an     that prompts bank customers to favor CRAs over deposits?
+   ELB on nominal interest rates: namely, zero less the costs of      Banks would store customers’ cash for a small fee and let
+   storing, transferring, and insuring cash.                          them use it to make payments. Thus, instead of providing
+       Why? Recall that bankers run what is called a “spread”         further economic stimulus, such a rate cut would reduce the
+   business, charging borrowers a higher rate for loans than they     supply of bank credit and tighten monetary conditions!
+
+
+
+
+Substituting D from equation (11) gives us the final answer:
+
+            {C/D} + 1
+        __________________
+	​
+ M = ​    
+            ​ × MB(13)​
+        {C/D} + rD + {ER/D}
+
+                      Money = Money multiplier × Monetary base
+   This result is somewhat complicated, but it is worth studying. Equation (13), high-
+lighted by the red rectangle, tells us that the quantity of money in the economy depends
+on four variables:
+  1. The monetary base, which is controlled by the central bank.
+  2. The reserve requirement imposed by regulators on banks that accept deposits.
+  3. The desire on the part of banks to hold excess reserves.
+  4. The demand for currency by the nonbank public.
+
+
+===== PDF 505 | 印刷页 470 =====
+
+470   l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+                           To see how the quantity of money in the economy changes, we can look at the
+                       impact of each of these four elements. The first is the easiest. We know that if the
+                       monetary base increases, holding bank and public behavior constant, the quantity of
+                       money increases. Looking at the second and third elements—those factors affecting
+                       reserves—we see that an increase in either the reserve requirement or banks’ excess
+                       reserve holdings decreases the money multiplier. So for a fixed level of the monetary
+                       base, an increase in either rD or {ER/D} reduces M.
+                           Finally, there is the currency-to-deposit ratio. What happens when ­individuals
+                       ­increase their currency holdings at a fixed level of the monetary base? Because
+                        {C/D} appears in both the numerator and the denominator of the money multiplier
+                        in equation (13), we can’t immediately tell whether the change creates an expan-
+                        sion or a contraction. Fortunately, logic gives us the answer that is correct when-
+                        ever, as has usually been the case, deposits exceed total reserves. (Reserves have
+                        surpassed checkable deposits since 2008 but remain well below total deposits.)
+                        When an individual withdraws cash from the bank, he or she increases currency in
+                        the hands of the public and ­decreases reserves, so the monetary base is unaffected.
+                        But the decline in reserves ­creates a multiple deposit contraction. (Remember,
+                        every dollar in reserves creates more than a dollar’s worth of deposits, raising the
+                        quantity of money more than a dollar.) Because each extra dollar held in currency
+                        raises M by only a dollar, when reserves are converted to currency, the money sup-
+                        ply contracts. Table 17.4 summarizes the effect of changes in the four components
+                        of the money supply.
+                           A short numerical example illustrates the computation of the money multiplier.8
+                        At the end of 2018, banks held required reserves of $123.7 billion and excess
+                        reserves of $1,567.7 billion. Currency in the hands of the public was $1,709.3 bil-
+                        lion, while d­ eposit accounts (demand deposits plus other checkable deposits)
+                        amounted to $2,158.5 ­billion. These amounts imply that the required reserve ratio
+                        (rD) was (123.7/2,158.5) = 0.06; the excess reserve-to-deposit ratio {ER/D} was
+                        (1,567.7/2,158.5) = 0.73; and the currency-to-deposit ratio {C/D} was
+                        (1,709.3/2,158.5) = 0.79. Substituting these amounts into equation (13), we get the
+                        M1 money multiplier:
+
+                                    0.79 + 1
+                       	​   _______________
+                            ​     ​ = ____
+                        m =                       ​  1.79 ​ = 1.13                                                            (14)​
+                               0.79 + 0.06 + 0.73 1.58
+
+                          That year-end 2018 value for the M1 multiplier is nearly 30 percent less than
+                       the value preceding the financial crisis of 2007–2009. The plunge reflected a surge
+                       in excess reserves, which boosted the excess reserve-to-deposit ratio {ER/D} from
+                       only 0.03 at the end of 2006 to 0.73 at the end of 2018. Replacing 0.73 with 0.03
+                       in equation (14) raises the multiplier to 1.87. The enormous level of excess
+                       reserves at the end of 2018 reflected both the low opportunity cost of holding
+                       reserve balances and the lingering caution among banks in the aftermath of the
+                       financial crisis.
+
+                       8
+                        The example in the following paragraph is based on the Federal Reserve Board’s H.3 and H.6 releases that are
+                       neither seasonally adjusted nor adjusted for changes in reserve requirements. In addition, the excess reserve
+                       number used is not the official one, but includes “surplus vault cash,” which serves the same economic purpose as
+                       conventionally calculated excess reserves. While the H.3 release no longer reports excess reserves, these can be
+                       estimated by subtracting reserve balances required (FRED code: RESBALREQ) from total reserve balances
+                       maintained (FRED code: RESBALNS). Note that these new measures of reserves exclude vault cash.
+
+
+===== PDF 506 | 印刷页 471 =====
+
+                                                                             The Monetary Base and the Money Supply                  l      471
+
+
+
+
+                      The Impact on Money Supply
+                      LESSONS FROM THE CRISIS
+
+The central bank supplies the monetary base—the sum of               increase of nearly 20 times. And because banks had virtually
+bank reserves and currency in circulation—but it is banks            no interest in lending out these reserves, almost all of the
+and the banking system that supply money. This chapter               increase flowed into excess reserves.*
+­explains this useful adage: Bank behavior determines the                    The behavior of the monetary aggregates M1 and M2
+ deposit expansion multiplier—the increase in the quantity of        highlights the impact of bank caution. Over those five
+ money that comes from an extra dollar of reserves.                  months, the absolute increase of M2—$538 billion—was
+      The financial crisis of 2007–2009 highlighted the role of      smaller than the Fed’s addition to reserves! Instead of
+ bank behavior in the money supply process. When the crisis          the normal multiple deposit expansion, the crisis led
+ peaked in September 2008, the deposit expansion multiplier          to only a fractional expansion. Banks were so wary that
+ plummeted to a fraction of its normal value. Why?                   they ­accumulated reserves in excess of demand deposits.
+      The standard process of deposit expansion assumes that         As a result, the M2 money multiplier plunged by
+ banks wish to lend out most of an additional dollar of re-          about half, while the M1 multiplier dropped below 1 (see
+ serves supplied by the Fed. Multiple deposit expansion oc-          Figure 17.10).
+ curs as the banking system repeatedly lends the extra asset                 What would have happened if the Federal Reserve had
+ until the Fed’s addition to reserves is used up.                    not met the radical increase in the demand for excess
+      However, following the collapse of Lehman Brothers             ­reserves? The experience of the Great Depression suggests
+ in September 2008, banks panicked. In seeking to hold                that banks, desperate for liquid assets, would have cut back
+ more excess reserves, they short-circuited the deposit               loans to healthy borrowers much more aggressively, and the
+ ­expansion process, and the deposit expansion multiplier             money supply would have collapsed (see In the Blog: Mone-
+  collapsed.                                                          tary Policy: A Lesson Learned on page 473).
+      What caused the panic? The liquidity crisis threatened                 The Fed learned a key lesson from its 1930s failure: A
+  the banks’ survival (see Chapter 2, Lessons from the C  ­ risis:    panic by banks can undermine the money supply even if
+  Market Liquidity, Funding Liquidity, and Making ­Markets).          bank reserves and currency in circulation are growing.
+  Excess reserves that banks hold at the Fed are the most             ­Supporting the money supply may require an explosion of
+  liquid assets in the U.S. financial system. They can be used         the monetary base until the panic-driven demand for
+  to make a payment or be converted into cash immediately.             ­reserves recedes. The lesson paid off: the aggressive
+  Amid the crisis, the extra profits that banks might be able to        ­liquidity supply by the Federal Reserve in the financial ­crisis
+  make by lending out their excess reserves were far too                 of 2007–2009 was a critical difference between this epi-
+  small to be worth the risk they faced—failure if they couldn’t         sode and the Great Depression.
+  make a payment or honor a withdrawal ­request when
+  necessary.                                                         *In October 2008, the Federal Reserve began paying interest on
+      The Fed met the surge in liquidity demand in unprece-          reserves (see the Chapter 18 discussion of this policy tool). This
+  dented fashion. During the five months following August            shift helps explain why reserve demand stayed high even as the
+  2008, officials added more than $800 billion to reserves—an        ­crisis receded.
+
+
+
+
+Table 17.4        Factors Affecting the Quantity of Money
+
+
+
+ Factor                                     Who Controls It           Change          Impact on M
+
+ Monetary base                              Central bank              Increase        Increase
+ Required reserve-to-deposit ratio          Central bank              Increase        Decrease
+ Excess reserve-to-deposit ratio            Commercial banks          Increase        Decrease
+ Currency-to-deposit ratio                  Nonbank public            Increase        Decrease
+
+
+===== PDF 507 | 印刷页 472 =====
+
+472 l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+                                      The Limits of the Central Bank’s Ability
+                                      to Control the Quantity of Money
+                                      At this point, we might discuss why the various factors affecting the quantity of money
+                                      change over time. For example, market interest rates affect the cost of holding both
+                                      excess reserves and currency. So as interest rates increase, we would expect to see both
+                                      {ER/D} and {C/D} fall, increasing the money multiplier and the quantity of money. If
+                                      these changes in the money multiplier were predictable, a tight link would exist
+                                      between the monetary base and the quantity of money—a link the central bank might
+                                      choose to exploit in its policymaking. While such a link made sense in a discussion of
+                                      the U.S. economy in the 1930s, and might still be important in some emerging econo-
+                                      mies, for countries with sophisticated financial systems it no longer is. In places like
+                                      the United States, Europe, and Japan, the link between the central bank’s balance sheet
+                                      and the quantity of money circulating in the economy has become too weak and unpre-
+                                      dictable to be exploited for policy purposes.9
+                                         The problem is that the money multiplier is just too variable; you can see it in the
+                                      data. Figure 17.10 plots the ratio of M1 and M2 to the monetary base from 1980
+                                      to 2019. The results are striking. Both money multipliers were reasonably stable dur-
+                                      ing the 1980s, but then began to fall steadily over the next decade or so, and then
+                                      plunged after the failure of Lehman Brothers in 2008 (see Lessons from the Crisis:
+                                      The Impact on Money Supply on page 471). From 1994 to 2019, the M1 multiplier fell
+                                      from almost 3 to a bit more than 1.
+
+
+  Figure 17.10                 The M1 and M2 Money Multipliers, 1980–2019
+
+
+                       3.5                                                                                                             13
+                                                                    M1                                                                 12
+                       3.0                                      (left scale)                                                           11
+    M1/Monetary Base
+
+
+
+
+                                                                                                                                             M2/Monetary Base
+                       2.5                                                                                                             10
+                                                                                                                                       9
+                       2.0                                                                                                             8
+                       1.5                                     M2                                                                      7
+                                                          (right scale)                                                                6
+                       1.0                                                                                                             5
+                                                                                                                                       4
+                       0.5
+                                                                                                                                       3
+                       0.0                                                                                                             2
+                        1980   1984       1988       1992        1996       2000       2004       2008        2012       2016       2020
+
+SOURCE: Board of Governors of the Federal Reserve System (FRED data codes: M1SL, M2SL, and AMBSL).
+
+
+                                      9
+                                       For 20 years, the Federal Reserve was required to publish target ranges for the growth rate of the monetary
+                                      aggregates. Twice a year, in the Monetary Policy Report to Congress, we could count on getting a look at the
+                                      FOMC’s targets for money growth. That is, until the July 2000 issue. Buried in a footnote of that report was the
+                                      following announcement: “At its June meeting, the FOMC did not establish ranges for growth of money and
+                                      debt in 2000 and 2001. The legal requirement to establish and to announce such ranges had expired, and . . . for
+                                      many years [they] have not provided useful benchmarks for the conduct of monetary policy.” See footnote 2 in
+                                      Section 1 of the report, available on the Federal Reserve Board’s website.
+
+
+===== PDF 508 | 印刷页 473 =====
+
+                                                                       The Monetary Base and the Money Supply l                  473
+
+
+
+
+                    Monetary Policy: A Lesson Learned
+                    MONEY AND BANKING BLOG
+
+
+In October 2014, the Federal Reserve completed the fi-          willingness of the banking system to convert reserves into
+nal round of asset purchases in the extraordinary cycle of      loans and deposits fell even more sharply than it did in the
+monetary easing that the Federal Open Market Commit-            1930s—yet, there was far less damage. The reason is that,
+tee (FOMC) began in 2007. These massive balance sheet           immediately following the collapse of Lehman Brothers in
+expansions were designed to counter the impact of the           September 2008, the Fed boosted the supply of reserves
+Great Financial Crisis. It is worth examining what they         from $45 billion to more than $800 billion in a matter of
+achieved.                                                       weeks. Over the next four years, the monetary policymakers
+    Back in November 2002, then-Governor Ben Bernanke           continued this massive expansion of reserves through its
+gave a speech titled “Deflation: Making Sure ‘It’ Doesn’t       policy known as quantitative easing (see Chapter 18 for a
+Happen Here.” His message: The 1930s taught us that             detailed description of QE).
+avoiding deflation after a financial crisis required aggres-        The Federal Reserve’s dramatic QE operations, along
+sive monetary accommodation. Having learned this lesson,        with the efforts of prudential and fiscal policymakers to
+Chairman Bernanke and his FOMC colleagues in 2007               stabilize the banks, prevented another collapse of the broad
+and thereafter took actions that their 1930s predecessors       money supply. Instead, from early 2008 to early 2019,
+had not.* The result was the Great Recession, not another       M2 grew at a 5.9 percent annual rate, while annual CPI
+Great Depression.                                               inflation averaged 1.7 percent.
+    The depth and duration of these two “Great” downturns           The success of the Fed’s actions and the responses of
+differed markedly. During the Great Depression, consumer        the banks reveal a key insight about the relationship of
+prices and output each plunged by nearly 30 percent from        money, banking, and inflation. Quite a few observers ar-
+their 1929 peak to their 1933 trough. And, it took until        gued that the massive increase in reserves would lead to an
+1936 for real GDP to regain its pre-Depression level. By        uncontrolled inflation. Had the money multiplier been sta-
+contrast, in the Great Recession, the consumer price index      ble, they would have been right. However, when a financial
+fell by 3.2 percent during the second half of 2008 but then     crisis impairs the banking system, increases in reserves typ-
+regained its previous level in less than a year. Likewise,      ically do not translate into broad money creation, so they
+output fell by 4.2 percent from end-2007 to mid-2009 but        are not inflationary. In fact, the experience of the 1930s
+regained its precrisis peak by late 2010.                       taught us that, without aggressive action by the Federal Re-
+    Although other government policies (including fiscal        serve, a financial crisis leads to deflation and depression.
+stimulus, deposit insurance, and bank recapitalizations)            Returning to where we started, then-governor Bernanke
+played important roles, we credit the Federal Reserve with      had preceded his November 2002 speech about deflation
+having prevented another depression. To see why, let’s          with one earlier in the month on the occasion of Milton
+compare the evolution of reserves in the U.S. banking sys-      Friedman’s 90th birthday. He described how Friedman and
+tem over the two periods. Reserves are the deposits of          Anna Schwartz, in their A Monetary History of the United
+commercial banks at the Federal Reserve. The Fed con-           States, connected money and monetary policy to growth
+trols the overall volume of reserves through its purchase       and employment. Bernanke concluded with the following
+and sale of securities.                                         promise:
+    During the Great Depression, the Fed failed to respond
+to the worst financial crisis in U.S. history. It held aggre-      Let me end my talk by abusing slightly my status as an
+gate reserves roughly constant from 1928 to 1933 while             official representative of the Federal Reserve. I would
+nearly 40 percent of U.S. banks failed. As a result, the           like to say to Milton and Anna: Regarding the Great
+quantity of broad money—M2—plunged by 36 percent                   Depression. You’re right, we did it. We’re very sorry.
+from its peak in 1929 to its trough in 1932, while the M2          But thanks to you, we won’t do it again.
+money multiplier fell by nearly half. The predictable result       And they didn’t!
+was a historic plunge in prices, output, and employment.
+    The contrast with the recent episode could not be more
+                                                                * For a firsthand account of U.S. monetary policy during and after
+striking. The M2 money multiplier fell by two-thirds after      the crisis, see Ben S. Bernanke, The Courage to Act: A Memoir of
+2008 (see Figure 17.10 in the text). That is, the ability and   a Crisis and Its Aftermath (New York: Norton, 2015).
+
+
+===== PDF 509 | 印刷页 474 =====
+
+                          474   l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+                                                     If the problem were confined to M1, policymakers could turn to controlling M2.
+                                                 But as the data show, the M2 multiplier has followed roughly the same pattern as the
+                                                 M1 multiplier, falling from 12 in the mid-1980s to 8 by the end of the 1990s, and
+                                                 plunging to 4 as of 2019.
+                                                     The conclusion is clear: The relationship between the monetary base and the quan-
+                                                 tity of money is not something that a central bank can exploit for short-run p­ olicy
+                                                 purposes. Instead, interest rates have become the monetary policy tool of choice,
+                                                 while, in a financial crisis, other balance sheet tools help ­address liquidity needs and
+                                                 market disruptions more directly. That is the subject of the next chapter.
+
+
+
+
+                                                 Key Terms
+                                                 central bank’s balance                 foreign exchange            open market
+                                                    sheet, 450                             intervention, 451           purchase, 455
+                                                 currency-to-deposit                    foreign exchange            open market sale, 456
+                                                    ratio, 468                             reserves, 451            required reserve ratio, 464
+                                                 deposit expansion                      high-powered money, 454     required reserves, 453
+                                                    multiplier, 463                     monetary base, 454          reserves, 453
+                                                 discount loans, 451                    multiple deposit            T-account, 455
+                                                 excess reserves, 453                      creation, 460            vault cash, 453
+                                                 excess reserve-to-deposit              open market
+                                                    ratio, 468                             operations, 455
+
+
+                                                 Using FRED: Codes for Data in This Chapter
+www.moneyandbanking.com
+
+
+
+
+                                                     Data Series                                             FRED Data Code
+                                                     Nominal GDP                                             GDP
+                                                     M1                                                      M1SL
+                                                     M2                                                      M2SL
+                                                     Monetary base                                           AMBSL
+                                                     Monetary base (NSA)                                     BOGMBASE
+                                                     Currency in circulation (weekly)                        CURRENCY
+                                                     Currency in circulation (monthly)                       CURRSL
+                                                     Checkable deposits (weekly)                             TCD
+                                                     Checkable deposits (monthly)                            TCDSL
+                                                     Total reserve balances maintained (NSA)                 RESBALNS
+                                                     Reserve balance requirements (NSA)                      RESBALREQ
+                                                     Discount window borrowings                              DISCBORR
+                                                     Treasury securities held by Fed (NSA)                   TREAST
+                                                     Federal Reserve assets (NSA)                            WALCL
+                                                     MBS held by Fed (NSA)                                   WSHOMCB
+
+
+                                                 NSA, not seasonally adjusted.
+
+
+===== PDF 510 | 印刷页 475 =====
+
+                                                                     Conceptual and Analytical Problems l               475
+
+
+
+Chapter Lessons
+1. The central bank uses its balance sheet to control the quantity of money and credit
+                                                                                            To learn more about the
+   in the economy.                                                                          changing financial system, visit
+   a. The central bank holds assets and liabilities to meet its responsibilities as the     www.moneyandbanking.com.
+
+      government’s bank and the bankers’ bank.
+   b. Central bank assets include securities, foreign exchange reserves, and loans.
+   c. Central bank liabilities include currency, the government’s account, and reserves.
+   d. Reserves equal commercial bank account balances at the central bank plus vault
+      cash.
+   e. The monetary base, also called high-powered money, is the sum of currency and
+      reserves, the two primary liabilities of the central bank.
+2. The central bank can manage the size of its balance sheet.
+   a. The central bank can increase the size of its balance sheet, raising reserve
+      ­liabilities and expanding the monetary base, through:
+           i. Open market purchases of domestic securities.
+          ii. The purchase of foreign exchange reserves (in the form of bonds issued by a
+              foreign government).
+       iii. The extension of a loan to a commercial bank.
+
+
+
+
+                                                                                                                               www.moneyandbanking.com
+   b. The central bank can decrease the size of its balance sheet, lowering reserve
+       ­liabilities and reducing the monetary base, through the sale of domestic or
+        ­foreign securities.
+   c. The public’s cash withdrawals from banks shift the central bank’s liabilities from
+         reserves to currency and shrink the size of the banking system balance sheet.
+3. Bank reserves are transformed into checkable deposits through multiple deposit
+   creation. In the simplest case, this process is limited by the reserve requirement.
+   a. When a bank’s reserves increase, the bank makes a loan that becomes a deposit
+      at a second bank.
+   b. The second bank then makes another loan, but the amount of the loan is limited
+      by the reserve requirement.
+   c. This process continues until deposits have increased by a multiple that is equal to
+      one over the reserve requirement.
+4. The money multiplier links the monetary base to the quantity of money in the economy.
+   a. The size of the money multiplier depends on:
+          i. The reserve requirement.
+         ii. Banks’ desire to hold excess reserves.
+      iii. The public’s desire to hold currency.
+   b. While the central bank controls the level of the monetary base, it cannot control
+      the money multiplier. Financial crises can trigger dramatic changes in the
+      ­multiplier.
+   c. Changing payments technology has weakened the connection between the
+       ­central bank’s balance sheet and the quantity of money.
+
+
+
+Conceptual and Analytical Problems                                                      ®
+
+
+
+
+ 1. Follow the impact of a $100 cash withdrawal through the entire banking system,
+    assuming that the reserve requirement is 10 percent and that banks have no desire
+    to hold excess reserves. (LO3)
+
+
+===== PDF 511 | 印刷页 476 =====
+
+                          476   l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+                                                   2. Suppose a major bank needs to borrow $20 billion overnight that it cannot obtain
+                                                      from private creditors. The Fed is willing to make a discount loan of $20 billion
+                                                      provided that it will not alter interbank lending rates. How can it do so? (LO1)
+                                                   3. Compute the impact on the money multiplier of a fall in the currency-to-deposit
+                                                      ratio from 10 percent to 8 percent when the reserve requirement is 10 percent of
+                                                      deposits, and banks’ desired excess reserves are 3 percent of deposits. (LO3)
+                                                   4. Does the Federal Reserve frequently purchase or sell gold or foreign exchange as
+                                                      part of its efforts to change the money supply? (LO1)
+                                                   5. Consider an open market purchase by the Fed of $5 billion of Treasury bonds.
+                                                      What is the impact of the purchase on the bank from which the Fed bought the
+                                                      ­securities. Compute the impact on M1 assuming that (1) the required reserve
+                                                       ratio is 10 percent, (2) the bank does not wish to hold extra reserves, and (3) the
+                                                       public does not wish to hold currency. (LO3)
+                                                   6. When you withdraw cash from your bank’s ATM, what happens to the size of the
+                                                      Fed’s balance sheet? Is there any reason for the Fed to react to your action? (LO1)
+                                                 	  7.* Why is currency circulating in the hands of the nonbank public considered a
+                                                        ­liability of the central bank? (LO1)
+                                                   8. How did the financial crisis of 2007–2009 affect the size and composition of the
+www.moneyandbanking.com
+
+
+
+
+                                                      balance sheet of the Federal Reserve? (LO1)
+                                                   9. Suppose the currency-to-deposit ratio is 0.25, the excess reserve-to-deposit ratio
+                                                      is 0.05, and the required reserve ratio is 0.10. Which will have a larger impact on
+                                                      the money multiplier: a rise of 0.05 in the currency ratio or in the excess reserves
+                                                      ratio? (LO4)
+                                                  10. Is the money multiplier model still useful for policymakers in the United States?
+                                                      If not, why not? (LO4)
+                                                  11. Based on Figure 17.10, explain why the multipliers fell sharply with the onset of
+                                                      the financial crisis of 2007–2009. Why did they remain at this lower level after
+                                                      the crisis ended? (LO3)
+                                                  12. The U.S. Treasury maintains accounts at commercial banks. What would be the
+                                                      consequences for the money supply if the Treasury shifted funds from one of
+                                                      those banks to the Fed? (LO2)
+                                                 13.* Explain how an incomplete understanding at the Federal Reserve of the relation-
+                                                      ship between the central bank’s balance sheet and the money supply contributed
+                                                      to the Great Depression. How did the Fed’s behavior during the financial crisis
+                                                      of 2007–2009 illustrate that it had learned a valuable lesson from the Great
+                                                      Depression? (LO4)
+                                                  14. Suppose you examine the central bank’s balance sheet and observe that since the
+                                                      previous day, reserves had fallen by $100 million. In addition, on the asset side
+                                                      of the central bank’s balance sheet, securities had fallen by $100 million. What
+                                                      activity did the central bank carry out earlier in the day to lead to these changes
+                                                      in the balance sheet? Do you think the central bank was aiming to increase,
+                                                      decrease, or maintain the size of the money supply? (LO3, LO4)
+                                                  15. Suppose you observe a fall in reserves of $100 million on the central bank’s bal-
+                                                      ance sheet as well as a fall of $100 million in securities held by the central bank.
+                                                 *Indicates more difficult problems.
+
+
+===== PDF 512 | 印刷页 477 =====
+
+                                                                                       Data Exploration   l   477
+
+
+
+       Do you think the size of the banking system’s balance sheet would be affected
+       immediately by these changes to the central bank’s balance sheet? Explain your
+       answer. (LO2)
+ 16. Do you think the Federal Reserve successfully carried out its role as lender of
+     last resort in the wake of the terrorist attacks on September 11, 2001? Why or
+     why not? (LO2)
+17.* In carrying out open market operations, the Federal Reserve usually buys and
+     sells U.S. Treasury securities. Suppose the U.S. government paid off all its debt.
+     Could the Federal Reserve continue to carry out open market operations? (LO2)
+ 18. In which of the following cases will the size of the central bank’s balance sheet
+     change? (LO2)
+     a. The Federal Reserve conducts an open market purchase of $100 million U.S.
+        Treasury securities.
+     b. A commercial bank borrows $100 million from the Federal Reserve.
+     c. The amount of cash in the vaults of commercial banks falls by $100 million
+        due to withdrawals by the public.
+19.* You read a story reporting a major scandal about the Federal Deposit Insurance
+     Corporation that is likely to undermine the public’s confidence in the banking
+     system. What impact, if any, do you think this scandal might have on the rela-
+
+
+
+
+                                                                                                                    www.moneyandbanking.com
+     tionship between the monetary base and the money supply? (LO4)
+20.    Use your knowledge of the money multiplier to explain why the massive increase
+       in bank reserves that began in the 2007–2009 financial crisis has not resulted in
+       uncontrolled inflation. (LO3)
+21.    Explain the distinction between the “zero lower bound” and the “effective lower
+       bound” on nominal interest rates. If interest rates were pushed below the effec-
+       tive lower bound, what would be the likely impact on the money multiplier and
+       the supply of bank credit? (LO3, LO4)
+22.    Assuming normal financial and economic conditions, what are the main advan-
+       tages of a central bank maintaining low-risk, short-term assets on its balance
+       sheet? (LO2)
+
+
+Data Exploration                                     ®
+
+
+
+
+For general information on using Federal Reserve Economic Data (FRED) online,
+visit www.mhhe.com/moneyandbanking6e and refer to the FRED Resources.
+ 1. Plot on a weekly basis the ratio of currency (FRED code: CURRENCY) to check-
+    able deposits (FRED code: TCD) from the start of 2000 through 2002 and then
+    remove the recession bar. Download the data and identify the week of the down-
+    ward spike in the graph. Do you think the spike reflects the currency term in the
+    numerator or the deposits term in the denominator? Explain your reasoning. (LO2)
+ 2.* Figure 17.10 shows a sharp decline of the M1 money multiplier in 2008. What
+     caused the drop? Using the monthly indicators for currency (FRED code:
+     CURRSL), total reserve balances maintained (FRED code: RESBALNS),
+     reserve balances required (FRED code: RESBALREQ), and checkable deposits
+
+*Indicates more difficult problems.
+
+
+===== PDF 513 | 印刷页 478 =====
+
+                          478   l Chapter 17  The Central Bank Balance Sheet and the Money Supply Process
+
+
+
+                                                       (FRED code: TCDSL), plot since 2000 the currency-to-deposit ratio and the
+                                                       excess reserve-to-deposit ratio. Which one caused the M1 money multiplier to
+                                                       plunge? (Hint: To estimate excess reserves, see footnote 8. Divide RESBALREQ
+                                                       by 1,000 to convert the units to billions of dollars.) (LO3)
+                                                  3. In the Great Depression, the Fed allowed the money supply to decline. To con-
+                                                     firm that the Federal Reserve learned from this lesson, plot since 2000 the M2
+                                                     multiplier—the ratio of M2 (FRED code: M2SL) to the monetary base (FRED
+                                                     code: AMBSL)—and, on the right axis, the level of M2. Explain how the Fed
+                                                     was conducting policy in order to sustain the expansion of M2. (LO4)
+                                                  4. Prior to the financial crisis of 2007–2009, the Fed seldom reduced its holdings of
+                                                     Treasury securities. Plot for the 2007–2009 period the Fed’s Treasury holdings
+                                                     (FRED code: TREAST) and its total assets (FRED code: WALCL) on a weekly
+                                                     basis. Did the Fed’s practices change during the crisis? If so, how? (Hint: Exam-
+                                                     ine Table 17.1 to help with your response.) (LO2)
+                                                  5. Thousands of the data series on FRED are provided directly by the Board of
+                                                     Governors of the Federal Reserve System, including hundreds of indicators
+                                                     from the Fed’s weekly balance sheet report (H.4.1 Factors Affecting Reserve
+                                                     Balances). How does this balance sheet transparency affect the conduct of mon-
+www.moneyandbanking.com
+
+
+
+
+                                                     etary policy? (LO1)

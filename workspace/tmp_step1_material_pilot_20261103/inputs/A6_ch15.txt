@@ -1,0 +1,1441 @@
+
+=== PDF页395／印刷页343 ===
+                              Tools of Monetary Policy
+Learning Objectives
+15.1 Illustrate the market    Preview
+for reserves, and dem-           n this chapter, we examine the tools of monetary policy used by the Fed to control
+onstrate how changes             the money supply and interest rates. Because the Fed’s use of these policy tools has
+in monetary policy can           such an important impact on interest rates and economic activity, it is vital to under-
+affect the equilibrium fed-   stand how the Fed wields them in practice and how relatively useful each tool is.
+eral funds rate.                   In recent years, the Federal Reserve has increasingly focused on the federal funds
+15.2 Summarize how            rate (the interest rate on overnight loans of reserves from one bank to another) as the
+conventional monetary         primary instrument of monetary policy. Since February 1994, the Fed has announced a
+policy tools are imple-       federal funds rate target at each Federal Open Market Committee (FOMC) meeting, an
+mented and the relative       announcement that is watched closely by market participants because it affects interest
+advantages and limita-        rates throughout the economy. Thus, to fully comprehend how the Fed uses its tools in
+tions of each tool.           the conduct of monetary policy, we must understand not only their effect on the money
+15.3 Explain the key          supply but also their direct effect on the federal funds rate and how they can be used to
+monetary policy tools         help achieve a federal funds rate that is close to the target. The chapter therefore begins
+that are used when con-       with a supply and demand analysis of the market for reserves to explain how the Fed’s
+ventional policy is no        settings for the four tools of monetary policy—open market operations, discount pol-
+longer effective.             icy, reserve requirements, and the interest paid on excess reserves—determine the fed-
+15.4 Identify the distinc-    eral funds rate. We next go on to look in more detail at each of these tools of monetary
+tions and similarities        policy to see how they are used in practice and to gain a sense of their relative advan-
+between the monetary          tages, We then examine the nonconyentional tools of monetary policy that the Federal
+policy tools of the Federal   Reserve was forced to use during the extraordinary circumstances of the 2007-2009
+Reserve and those of the      financial crisis and the coronavirus pandemic in 2020. The chapter ends with a discussion
+                              of the tools of monetary policy used by other central banks besides the Federal Reserve.
+European Central Bank.
+
+
+15.1 THE MARKET FOR RESERVES AND THE FEDERAL
+     FUNDS RATE
+                              LO 15.1 |llustrate the market for reserves, and demonstrate how changes in monetary
+                              policy can affect the equilibrium federal funds rate.
+
+                              In Chapter 14, we saw how open market operations (changes in nonborrowed reserves)
+                              and Federal Reserve lending (changes in borrowed reserves) affect the balance sheet of
+                              the Fed and the amount of reserves. The market for reserves is where the federal funds
+                              rate is determined, and this is why we turn to a supply and demand analysis of this
+                              market to analyze how the tools of monetary policy affect the federal funds rate.
+                                                                                                                 343
+
+
+=== PDF页396／印刷页344 ===
+344       PART    4       Central Banking and the Conduct of Monetary Policy
+
+
+                                 Demand and Supply in the Market for Reserves
+                                 The analysis of the market for reserves proceeds in a similar fashion to the analysis of
+                                 the bond market that we conducted in Chapter 5. First, we derive demand and sup-
+                                 ply curves for reserves. Then, the market equilibrium in which the quantity of reserves
+                                 demanded equals the quantity of reserves supplied determines the level of the federal
+                                 funds rate, the interest rate charged on the loans of these reserves.
+
+                                 Demand Curve           To derive the demand curve for reserves, we need to ask what hap-
+                                 pens to the quantity of reserves demanded by banks, holding everything else constant, as
+                                 the federal funds rate changes. Recall from Chapter 14 that the amount of reserves can be
+                                 split up into two components: (1) required reserves, which are equal to the required reserve
+                                 ratio times the amount of deposits on which reserves are required; and (2) excess reserves,
+                                 the additional reserves banks choose to hold. Therefore, the quantity of reserves demanded
+                                 by banks equals required reserves plus the quantity of excess reserves demanded. Excess
+                                 reserves are insurance against deposit outflows, and the cost of holding these excess reserves
+                                 is their opportunity cost—the interest rate that could have been earned on lending these
+                                 reserves out minus the interest rate that is earned on these reserves, igo,
+                                     Before the fall of 2008, the Federal Reserve did not pay interest on reserves, but
+                                 since then it has paid interest on excess reserves at a level that is typically set near the
+                                 federal funds rate target and therefore changes when the target changes. When the fed-
+                                 eral funds rate is above the rate paid on excess reserves, ig.,, then as the federal funds
+                                 rate decreases, the opportunity cost of holding excess reserves falls. Holding every-
+                                 thing else constant, including the quantity of required reserves, the quantity of reserves
+                                 demanded rises. Consequently, the demand curve for reserves, R“, slopes downward
+                                 in Figure | when the federal funds rate is above i,,,. If, however, the federal funds rate
+                                 begins to fall below the interest rate paid on excess reserves i,.,, banks do not lend
+                                 in the overnight market at a lower interest rate. Instead, they just keep on adding to
+                                 their holdings of excess reserves indefinitely. The result is that the demand curve for
+                                 reserves, R“, becomes flat (infinitely elastic) at i... in Figure 1.
+Mini-lecture
+
+
+   FIGURE 1
+   Equilibrium in the                                Federal                With excess supply of
+                                                   Funds Rate               reserves at if, the federal
+   Market for Reserves                                                      funds rate falls to i;.
+   Equilibrium occurs at the
+   intersection of the supply
+   curve R® and the demand
+   curve R*, at point 1 and an
+   interest rate of iff
+
+
+
+
+                                                           j         With excess demand
+                                                               oer   for reserves at if, the                       R?
+                                                                     federal funds rate
+                                                                     rises to i,
+
+
+                                                                                               NBR        Quantity of
+                                                                                                          Reserves, R
+
+
+=== PDF页397／印刷页345 ===
+                                          CHAPTER         15       Tools of Monetary Policy           345
+
+
+Supply Curve            The supply of reserves, R°, can be broken up into two components:
+the amount of reserves that are supplied by the Fed’s open market operations, called
+nonborrowed reserves (NBR), and the amount of reserves borrowed from the Fed, called
+borrowed reserves (BR). The primary cost of borrowing from the Fed is the interest rate
+charged by the Fed on these loans—the discount rate, ij, which is set at a fixed amount
+above the federal funds target rate and thus changes when the target changes. Because
+borrowing federal funds from other banks is a substitute for borrowing (taking out dis-
+count loans) from the Fed, if the federal funds rate ig is below the discount rate iy, then
+banks will not borrow from the Fed. Borrowed reserves will be zero because borrowing
+in the federal funds market is cheaper. Thus, as long as ig remains below ig, the supply
+of reserves will just equal the amount of nonborrowed reserves supplied by the Fed,
+NBR, and so the supply curve will be vertical, as shown in Figure 1. If, however, the
+federal funds rate begins to rise above the discount rate, then banks will not borrow in
+the federal funds market at all but rather will borrow from the Fed at the discount rate,
+and so the federal funds rate cannot rise above the discount rate. The result is that the
+supply curve becomes flat (infinitely elastic) at iz, as shown in Figure 1.
+
+Market Equilibrium                Market equilibrium occurs when the quantity of reserves
+demanded equals the quantity Supplied, R’= R@. Equilibrium therefore occurs at
+the intersection of the demand curve R¢ and the supply curve R° at point 1, with an
+equilibriam federal funds rate of ig. When the federal funds rate is above the equilibrium
+rate at if, more reserves are supplied than are demanded (excess supply), and so the
+federal funds rate falls to i, as shown ey the downward arrow. When the federal funds
+rate is below the equilibrium rate at iffmore reserves are demanded than are supplied
+(excess demand), and so the federal funds rate rises, as shown by the upward arrow.
+(Note that Figure 1 is drawn so that ig is above ig because the Federal Reserve typically
+keeps the discount rate substantially above the target for the federal funds rate.)
+
+
+How Changes in the Tools of Monetary Policy Affect the
+Federal Funds Rate
+Now that we understand how the federal funds rate is determined, we can examine
+how changes in the four tools of monetary policy—open market operations, discount
+lending, reserve requirements, and the interest rate paid on excess reserves—affect the
+market for reserves and the equilibrium federal funds rate.
+
+Open Market Operations                   The effect of an open market operation depends on
+whether the supply curve initially intersects the demand curve in its downward-sloped
+section or in its flat section. Panel (a) of Figure 2 shows what happens if the intersection
+initially occurs on the downward-sloped section of the demand curve. We have already
+seen that an open market purchase leads to a greater quantity of reserves supplied; this
+is true at any given federal funds rate because of the higher amount of nonborrowed
+reserves, which rises from NBR, to NBR). An open market purchase therefore shifts the
+supply curve to the right from Rj to R} and moves the equilibrium from point 1 to point 2,
+lowering the federal funds rate ane if to if.! The same reasoning implies that an open
+market sale decreases the quantity of nonborrowed reserves supplied, shifts the supply
+
+'We come to the same conclusion if we use the money supply framework outlined in Chapter 14, along with the
+liquidity preference framework outlined in Chapter 5. An open market purchase raises reserves and the money
+supply, and then the liquidity preference framework shows that interest rates fall as a result.
+
+
+=== PDF页398／印刷页346 ===
+346       PART          4      Central Banking and the Conduct of Monetary Policy
+
+Mini-lecture
+
+
+
+              Federal                                                                  Federal                                              :
+                                             Step 1. An open                                Rat                         Step 1. An open
+            Funds Rate
+                                              market purchase         -              Funds    Rate                     ‘ market purchase
+                                             shifts the supply                                                          shifts the supply
+                                              curve to the right...                                                     curve to the right...
+
+
+
+
+                                                                              ~ Step 2. but the
+                                                                                federal funds
+         Step 2.                                                                rate cannot fall
+         causing                                                                below the interest
+         the federal                                                            rate paid on
+         funds rate                                                             excess reserves.
+         to fall.
+
+                                                                                   ec   aerial:
+                                                                                   lg = le = loer
+
+
+
+                                         NBR;    NBR.        Quantity of                                             NBR,     NBR» Quantity of
+                                                             Reserves, R                                                             Reserves, R
+
+                              (a) Supply curve initially intersects                                     (b) Supply curve initially intersects
+                                  d emand curve in its                                                      demand curve in its flat section
+                                  d ownward-sloping section
+
+   FIGURE 2            Response to an Open Market Operation
+                       An open market purchase increases nonborrowed reserves and hence the reserves supplied, and shifts the
+                       supply curve from Rj to R}, In panel (a), the equilibrium moves from point 1 to point 2, lowering the
+                       federal funds rate ne iy to if. In panel (b), the equilibrium moves from point 1 to point 2, but the fed-
+                       eral funds rate remains unchanged, iy = if == oer
+
+
+
+
+                                    curve to the left, and causes the federal funds rate to rise. Because this is the typical situa-
+                                    tion—since the Fed usually keeps the federal funds rate target above the interest rate paid
+                                    on excess reserves—the conclusion is that an open market purchase causes the federal
+                                    funds rate to fall, whereas an open market sale causes the federal funds rate to rise.
+                                         However, if the supply curve initially intersects the demand curve on its flat sec-
+                                    tion, as in panel (b) of Figure 2, open market operations have no effect on the fed-
+                                    eral funds rate. To see this, let’s again look at an open market purchase that raises
+                                    the quantity of reserves supplied, which shifts the supply curve from Rj to R$. How-
+                                    ever, this time we consider the case in which ij = i,., initially. The shift in the supply
+                                    curve moves the equilibrium from point 1 to point 2, but the federal funds rate remains
+                                     unchanged at ipo, because the interest rate paid on excess reserves, i,.,, sets a floor for
+                                     the federal funds rate.’
+
+                                     *The federal funds rate can be slightly below the floor set by the interest rate paid on excess reserves because some
+                                     big lenders in the federal funds market, particularly Fannie Mae and Freddie Mac, are not banking institutions and
+                                     so cannot keep deposits in the Federal Reserve and get paid the Fed’s interest rate on excess reserves. Thus if they
+                                     have excess funds to lend in the federal funds market, they may have to accept a federal funds rate lower than the
+                                     interest rate the Fed pays on excess reserves, To make sure that the federal funds rate does not fall much below
+                                     the floor set by the interest rate on excess reserves, the Federal Reserve has set up another borrowing facility, the
+                                     reverse repo facility, in which these nonbank lenders can lend to the Fed and earn an interest rate that is close to the
+                                     interest rate the Fed pays on excess reserves,
+
+
+=== PDF页399／印刷页347 ===
+                                                                               CHAPTER                15       Tools of Monetary Policy            347
+
+Mini-lecture
+
+
+
+               Federal                                                                      Federal
+           Funds Rate                           Step 1. Lowering                      Funds Rate
+                                                the discount rate
+                                                shifts the supply
+                                                curve down...
+
+                                                                                                                               Step 1. Lowering
+                                                                                                                               the discount rate
+                                                                                                                               shifts the supply
+                                                                                                                               curve down...
+
+     Step 2. but         j                                                    Step2. and      in === ig
+     does not lower                                                           lowers the
+     the federal                                                              federal                  2
+     funds rate,                                                              funds rate.     f/f =/g
+
+
+                                                                                                  loer
+
+
+
+
+                                          NBR           Quantity of                                                                Quantity of
+                                                       Reserves, R                                                                 Reserves, R
+
+                             (a) No discount lending (BR = 0)                                              (b) Some discount lending (BR > 0)
+
+
+   FIGURE3            Response to a Change in the Discount Rate
+                      In panel (a), when the discount rate is lowered by the Fed from ij to ij, the horizontal section, of
+                      the supply curve falls, as in R}, and the equilibrium federal funds rate qemains unchanged at ij.
+                      In panel (b), when the discount rate is lowered by the Fed from i} to ij, the horizontal section of
+                      the supply curve Rj falls, and the equilibrium federal funds rate falls from ijto if as borrowed
+                      reserves increase.
+
+
+
+
+                                    Discount Lending                  The effect of a discount rate change depends on whether the
+                                   demand curve intersects the supply curve in its vertical section or its flat section.
+                                   Panel (a) of Figure 3 shows what happens if the intersection occurs on the verti-
+                                   cal section of the supply curve so that there is no discount lending and borrowed
+                                   reserves, BR, are zero. In this case, when the discount rate is lowered by the Fed from
+                                   i} to i7, the horizontal section of the supply curve falls, as in R§, but the intersection
+                                   of the supply and demand curves remains at point 1. Thus, in this case, no change
+                                   occurs in the equilibrium federal funds rate, which remains at ij. Because this is the
+                                   typical situation—since the Fed now usually keeps the discount rate above its target
+                                   for the federal funds rate—the conclusion is that most changes in the discount rate
+                                   have no effect on the federal funds rate.
+                                        However, if the demand curve intersects the supply curve on its flat section so that
+                                   there is some discount lending (i.e., BR > 0), as in panel (b) of Figure 3, changes in
+                                   the discount rate do affect the federal funds rate. In this case, initially discount lend-
+                                   ing is positive and the equilibrium federal funds tate equals the discount rate, if = ig.
+                                   When the discount rate is lowered by the Fed from i} to ij, the horizontal section of the
+                                   supply curve Rj falls, moving the equilibrium from point 1 to point 2, and the equilib-
+                                   rium federal funds rate falls fromif to if (= i7), as shown in panel (b).In this case, BR
+                                   increases from BR to BR).
+
+
+=== PDF页400／印刷页348 ===
+348       PART     4      Central Banking and the Conduct of Monetary Policy
+
+Mini-lecture
+
+
+   FIGURE 4
+   Response to a Change in                                 Federal
+   Required Reserves                                     Funds Rate
+   When the Fed raises reserve
+   requirements, required
+   reserves increase, which
+   raises the demand for
+   reserves, The demand curve                                       5                                              Step 1. Increasing
+   shiftsraefrom R# to R4, the                       Step 2. and                                                   the reserve require-
+                                                     the federal                                                   ment causes the
+   equilibrium moves from                            funds rate                                                    demand curve to
+   point 1 to point 2, and the                       rises.          A                                             shift to the right...
+   federal funds rate rises from
+   iy to if.
+
+
+
+                                                                                                                            Quantity of
+                                                                                                                            Reserves, R
+
+
+
+
+                                   Reserve Requirements                      When the required reserve ratio increases, required
+                                   reserves increase and hence the quantity of reserves demanded increases for any given
+                                   interest rate. Thus a rise in the required reserve ratio shifts the demand. curve to the
+                                   right from R¢ to R4 in Figure 4, moves the equinbrium from point 1 to point 2, and in
+                                   turn raises the federal funds rate from ij to if. The result is that when the Fed raises
+                                   reserve requirements, the federal funds rate rises.°
+                                        Similarly, a decline in the required reserve ratio lowers the quantity of reserves
+                                   demanded, shifts the demand curve to the left, and causes the federal funds rate to fall.
+                                   When the Fed decreases reserve requirements, the federal funds rate falls.
+
+                                   Interest on Excess Reserves The effect of a change in the interest rate paid by
+                                   the Fed on excess reserves depends on whether the supply curve intersects the demand
+                                   curve in its downward-sloping section or its flat section. Panel (a) of Figure 5 shows what
+                                   happens if the intersection occurs on the demand                       curve’s downward-sloping section,
+                                   where the equilibrium federal funds rate is above the interest rate paid On excess reserves.
+                                   In this case, when the interest rate on Sess reserves is raised fromil,, to i2,,, the horizontal
+                                   section of the demand curves rises, as in R$, but the intersection of the supply and demand
+                                   curves remains at point 1. However, if the supply curve intersects the demand curve
+                                   on its flat section, where the equilibrium federal funds rate is equal to the interest rate
+                                   paid on excess reserves, as in panel (b) of Figure 5, arise in the interest rate on excess reserves
+                                   fromid,, to i, moves the equilibrium to point 2, where the equilibrium federal funds rate
+                                   rises from ig = iL, to if = i2o. When the federal funds rate is at the interest rate paid on
+                                   excess reserves, a rise in the interest rate on excess reserves raises the federal funds rate.
+
+                                   *Because an increase in the required reserve ratio means that the same amount of reserves is able to support a
+                                   smaller amount of deposits, a rise in the required reserve ratio leads to a decline in the money supply. Using the
+                                   liquidity preference framework from Chapter 5, the fall in the money supply results in a rise in interest rates, yield-
+                                   ing the same conclusion given in the text—that raising reserve requirements leads to higher interest rates.
+
+
+=== PDF页401／印刷页349 ===
+                                                                                    CHAPTER               15   Tools of Monetary Policy                349
+
+Mini-lecture
+
+
+
+               Federal                                                                          Federal
+           Funds Rate                                                                        Funds Rate
+
+
+
+
+                                                                          RS                              j                                          RSs
+
+                                                 Step 1. A rise in                                                            Step 1. A rise in
+                                                 the interest rate on                                                         the interest rate on
+                                                 excess reserves                                                              excess reserves
+                                                      ;       12
+                                                 from Iggr tO lige. - «                                                       ffOM iger tO iger --
+     Step 2. leaves                                                            Step 2. ralses
+     the federal         i                                                     the federal
+     funds rate                                                                funds rate to
+     unchanged.          5                                                     i2 = j?
+                                                                               ff    oer *
+
+
+
+
+                                           NBR           Quantity of                                                    NBR           Quantity of
+                                                         Reserves, R                                                                  Reserves, R
+                                             reveal    4                                                                    aera    :
+                                      (a) Initial i¢ > icer                                                        (b) Initial ig = igor
+
+   FIGURES            Response to a Change in the Interest Rate on Excess Reserves
+                      In panel (a), when the equilibrium federal funds rate is above the interest rate paid on excess reserves, a
+                      rise in the interest rate on excess reserves from it,, to i2,, raises the horizontal section of the demand curve,
+                      as in R§, but the equilibrium federal funds rate remains unchanged at ij. In panel (b), when the equilibrium
+                      federal funds rate is equal to the interest rate paid on excess reserves, a rise in the interest rate on excess
+                      reserves from ij, tO ize. raises the equilibrium federal funds rate from {jp= ijey to iff= teer.
+
+
+
+
+APPLICATION                         How the Federal Reserves Operating Procedures
+a                                   Limit Fluctuations in the Federal Funds Rate
+                                    An important advantage of the Fed’s current procedures for operating the discount
+                                    window and paying interest on excess reserves is that they limit fluctuations in the
+                                    federal funds rate. We can use our supply and demand analysis of the market for
+                                    reserves to see why,
+                                         Suppose that, initially, the equilibrium federal funds rate is at the federal funds
+                                    rate target of ij in Figure 6. If the demand for reserves experiences a large unexpected
+                                    increase, the ai aie curve shifts to the right to R", where it now intersects the sup-
+                                    ply curve for reserves on the flat portion, where the equilibrium federal funds rate
+                                    i‘ equals the discount rate iz, No matter how far the demand curve shifts to the right,
+                                    the equilibrium federal funds rate i’ will stay at ig because borrowed reserves will just
+                                    continue to increase, matching the increase in demand. Similarly, if the demand for
+                                    reserves experiences a large unexpected decrease, the demand curve shifts to the left
+                                    to R’, and the supply curve intersects the demand curve on its flat portion, where the
+                                    equilibrium federal funds rate i equals the interest rate paid on excess reserves ig. No
+                                    matter how far left the demand curve shifts, the equilibrium federal funds rate stays at
+
+
+=== PDF页402／印刷页350 ===
+350          PART     4       Central Banking and the Conduct of Monetary Policy
+
+Mini-lecture
+
+
+      FIGURE 6                                                                                                             ;
+      How the Federal                                                                                           Step 1. A rightward shift
+                1         .                                                                                     of the demand curve
+      Reserves Operating                                    Federal                                             raises the federal funds
+      Procedures Limit                                    Funds Rate |pa’                 ;                  "rate to a maximum of
+      Fluctuations in the                                                                                       the discount rate.
+   Federal Funds Rate
+   A rightward shift in the
+   demand curve for reserves
+   to R” will raise the equi-                 Step 2. A leftward
+   librium federal funds rate                 shift of the demand
+   to a maximum of i = ig,                    curve lowers the
+   whereas a leftward shift                   ee
+   ofthe demand curve to                      the interest rate on
+   R® will lower the federal                  Bxceas tasorves.
+   funds rate to a minimum
+      Of ip = ther:
+                                                               '¢ = loer
+
+
+
+
+                                                                                                       NBR                      Quantity of
+                                                                                                                                Reserves, R
+
+
+
+
+                                  igey because excess reserves will keep on decreasing so that the quantity demanded of
+                                  reserves equals the quantity of nonborrowed reserves supplied.*
+                                        Our analysis therefore shows that the Federal Reserve’s operating procedures limit
+                                  the fluctuations of the federal funds rate so that it remains between ig, and ig. If the range
+                                  between i,., and ig is kept narrow enough, then fluctuations around the target rate will
+                                  be small.
+
+
+
+
+15.2 CONVENTIONAL MONETARY POLICY TOOLS
+                                  LO 15.2 Summarize how conventional monetary policy tools are implemented and
+                                  the relative advantages and limitations of each tool.
+
+                                  During normal times, the Federal Reserve uses three tools of monetary policy—open
+                                  market operations, discount lending, and reserve requirements—to control the money
+                                  supply and interest rates, and these three tools are referred to as conventional mon-
+                                  etary policy tools. We will look at each of them in turn, and then at the additional
+                                  tool of paying interest on excess reserves, to see how the Fed wields them in practice
+                                  and how relatively useful each tool is.
+
+                                  *Note that, as discussed in footnote 2, the federal funds rate can be slightly below the floor of the interest rate paid
+                                  on excess reserves.
+
+
+=== PDF页403／印刷页351 ===
+                                  CHAPTER       15      Tools of Monetary Policy     351
+
+
+Open Market Operations
+Before the global financial crisis, open market operations were the most important con-
+ventional monetary policy tool because they were the primary determinants of changes
+in interest rates and the monetary base, the main source of fluctuations in the money
+supply. Open market purchases expanded reserves and the monetary base, thereby
+increasing the money supply and lowering short-term interest rates. Open market sales
+shrank reserves and the monetary base, decreasing the money supply and raising short-
+term interest rates.
+     Open market operations fall into two categories: Dynamic open market opera-
+tions are intended to change the level of reserves and the monetary base, and defen-
+sive open market operations are intended to offset movements in other factors that
+affect reserves and the monetary base, such as changes in Treasury deposits with the
+Fed or changes in float. The Fed conducts conventional open market operations in
+U.S. Treasury and government agency securities, especially U.S. Treasury bills. The Fed
+conducts most of its open market operations in Treasury securities because the market
+for these securities is the most liquid and has the largest trading volume. It has the
+capacity to absorb the Fed’s substantial volume of transactions without experiencing
+excessive price fluctuations that would disrupt the market.
+     As we saw in Chapter 13, the decision-making authority for open market opera-
+tions is the Federal Open Market Committee (FOMC), which sets a target for the fed-
+eral funds rate. The actual execution of these operations, however, is conducted by the
+trading desk at the Federal Reserve Bank of New York, whose operations are described
+in the Inside the Fed box “A Day at the Trading Desk.”
+      Open market operations are conducted electronically through a specific set of
+dealers in government securities, known as primary dealers, by a computer system
+called TRAPS (Trading Room Automated Processing System). A message is electroni-
+cally transmitted to all the primary dealers simultaneously over TRAPS, indicating
+the type and maturity of the operation being arranged. The dealers are given several
+minutes to respond via TRAPS with their propositions to buy or sell government
+securities at various prices. The propositions are then assembled and displayed on a
+computer screen for evaluation. The desk will select all propositions, beginning with
+the most attractively priced, up to the point at which the desired amount of securities
+is purchased or sold, and it will then notify each dealer via TRAPS on which of its
+propositions have been chosen. The entire selection process is typically completed in
+a matter of minutes.
+      Defensive open market operations are of two basic types. In a repurchase agree-
+ment (often called a repo), the Fed purchases securities with an agreement that the
+seller will repurchase them in a short period of time, anywhere from 1 to 15 days from
+the original date of purchase. Because the effects on reserves of a repo are reversed on
+the day the agreement matures, a repo is actually a temporary open market purchase
+and is an especially desirable way of conducting a defensive open market purchase that
+will be reversed shortly. When the Fed wants to conduct a temporary open market sale,
+it engages in a matched sale-purchase transaction (sometimes called a reverse
+repo) in which the Fed sells securities and the buyer agrees to sell them back to the
+Fed in the near future.
+     At times, the desk may see the need to address a persistent reserve shortage or
+surplus and wish to arrange a dynamic open market operation that will have a more
+permanent impact on the supply of reserves. Outright transactions, which involve a
+purchase or sale of securities that is not self-reversing, are also conducted over TRAPS.
+
+
+=== PDF页404／印刷页352 ===
+352     PART     4      Central Banking and the Conduct of Monetary Policy
+
+
+
+
+  Inside the Fed               4 Day at the Trading Desk
+
+  The manager of domestic open market operations                    Members of the manager’s staff also contact several
+  supervises the analysts and traders who execute the           representatives of the primary dealers with whom the
+  purchases and sales of securities in the drive to hit         open market desk trades. Her staff finds out how
+  the federal funds rate target. To get a grip on what          the dealers view market conditions to get a feel for
+  might happen in the federal funds market that day,            what may happen to the prices of the securities they
+  the manager’s workday starts early in the morning,            trade in over the course of the day. They also call the
+  around 7:30 a.m., when her staff presents a review of         Treasury to get updated information on the expected
+  developments in the federal funds market the previous         level of Treasury balances at the Fed to refine their
+  day and an update on the actual amount of reserves            estimates of the supply of reserves.
+  in the banking system the day before. Then the staff              Members of the Monetary Affairs Division at the
+  produces updated reports that contain detailed forecasts      Board of Governors are then contacted, and the New
+  of what will be happening to some of the short-term           York Fed’s forecasts of reserve supply and demand
+  factors affecting the supply and demand of reserves           are compared with the Board’s. On the basis of these
+  (discussed in Chapter 14). For example, if float is           projections and the observed behavior of the fed-
+  predicted to decrease because good weather throughout         eral funds market, the desk formulates and proposes
+  the country is speeding up check delivery, the manager        a course of action to be taken that day, which may
+  of domestic open market operations knows that she will        involve plans to add reserves to or drain reserves
+  have to conduct a defensive open market operation (in         from the banking system through open market oper-
+  this case, a purchase of securities) to offset the expected   ations. If an operation is contemplated, the type, size,
+  decline in reserves and the monetary base from the            and maturity will be discussed.
+  decreased float. However, if Treasury deposits with             At about 9 a.m., a daily conference call takes
+  the Fed are predicted to fall, a defensive open market        place, linking the desk with the Office of the Direc-
+  sale would be needed to offset the expected increase          tor of Monetary Affairs at the Board of Governors and
+  in reserves. The report also predicts the change in the       with one of the four voting Reserve Bank presidents
+  public’s holding of currency. If currency holdings are        outside New York. During the call, a member of the
+  expected to rise, then, as we saw in Chapter 14, reserves     open market operations unit outlines the desk’s pro-
+  will fall, and an open market purchase is needed to raise     posed reserve management strategy for the day. After
+  reserves back up again.                                       the plan is approved, it is announced to the markets
+      This information helps the manager of domestic            at 9:30 a.m., and the desk is instructed to execute
+  open market operations and her staff decide how               immediately any temporary open market operations
+  large a change in nonborrowed reserves is needed              that are planned for that day.
+  to reach the federal funds rate target. If the amount           At times, the desk may see the need to address a
+  of reserves in the banking system is too large, many          persistent reserve shortage or surplus and may wish
+  banks will have excess reserves to lend that other            to arrange an operation that will have a more per-
+  banks may have little desire to hold, and the fed-            manent impact on the supply of reserves. These
+  eral funds rate will fall. If the level of reserves is too    operations, referred to as outright operations, involve
+  low, banks seeking to borrow reserves from the few            a straightforward purchase or sale of securities that is
+  banks that have excess reserves to lend may push the          not self-reversing, and they are traditionally executed
+  funds rate higher than the desired level. Also during         later in the day, when temporary operations are not
+  the morning, the staff will monitor the behavior of           being conducted. Even when outright operations are
+  the federal funds rate and contact some of the major          not being conducted, the manager of domestic open
+  participants in the market for reserves, which may            market operations and her staff do not sit idle for the
+  provide independent information about whether a               rest of the day. They are continually monitoring the
+  change in reserves is needed to achieve the desired           markets and bank reserves to plan for the next day’s
+  level of the federal funds rate.                              operations.
+
+
+=== PDF页405／印刷页353 ===
+                                              CHAPTER           15         Tools of Monetary Policy              353
+
+
+Discount Policy and the Lender of Last Resort
+The facility at which banks can borrow reserves from the Federal Reserve is called the
+discount window. The easiest way to understand how the Fed affects the volume of
+borrowed reserves is by looking at how the discount window operates.
+
+Operation of the Discount Window                 The Fed’s discount loans to banks are of
+three types: primary credit, secondary credit, and seasonal credit.? Primary credit is the
+discount lending that plays the most important role in monetary policy. Healthy banks
+are allowed to borrow all they want at very short maturities (usually overnight) from the
+primary credit facility, and it is therefore referred to as a standing lending facility.°
+The interest rate on these loans is the discount rate, and as we mentioned before, it is
+set higher than the federal funds rate target, usually by 100 basis points (one percentage
+point) because the Fed prefers that banks borrow from each other in the federal funds
+market so that they continually monitor each other for credit risk. As a result, in most
+circumstances the amount of discount lending under the primary credit facility is very
+small. If the amount is so small, why does the Fed have this facility?
+     The answer is that the facility is intended to be a backup source of liquidity for
+sound banks so that the federal funds rate never rises too far above the federal funds
+target set by the FOMC. We have already seen how this works in Figure 6. When the
+demand for reserves experiences a large unexpected increase, no matter how far right
+the demand curve shifts, the equilibrium federal funds rate ig will stay at ig because
+borrowed reserves will just continue to increase, and the federal funds rate can rise
+no further. The primary credit facility has thus put a ceiling on the federal funds rate
+at 1g.
+     Secondary credit is given to banks that are in financial trouble and are experienc-
+ing severe liquidity problems. The interest rate on secondary credit is typically set at
+50 basis points (0.5 percentage point) above the discount rate. The interest rate on
+these loans is set at a higher penalty rate to reflect the less-sound condition of these
+borrowers. Seasonal credit is given to meet the needs of a limited number of small
+banks in vacation and agricultural areas that have a seasonal pattern of deposits. The
+interest rate charged on seasonal credit is tied to the average of the federal funds rate
+and certificate of deposit rates. The Federal Reserve has questioned the need for the
+seasonal credit facility because of improvements in credit markets and is thus con-
+templating eliminating it at some point in the future.
+
+Lender of Last Resort         In addition to its use as a tool to influence reserves, the
+monetary base, and the money supply, discounting is important in preventing and
+coping with financial panics. When the Federal Reserve System was created, its most
+important role was intended to be as the lender of last resort; to prevent bank failures
+from spinning out of control, the Fed was to provide reserves to banks when no one
+
+
+*The procedures for administering the discount window were changed in January 2003. The primary credit facility
+replaced an adjustment credit facility whose discount rate was typically set below market interest rates, so banks
+were restricted in their access to this credit. In contrast, healthy banks now can borrow all they want from the
+primary credit facility. The secondary credit facility replaced the extended credit facility, which focused somewhat
+more on longer-term credit extensions. The seasonal credit facility remains basically unchanged.
+®This type of standard lending facility is commonly called a Lombard facility in other countries, and the interest rate
+charged on these loans is often called a Lombard rate. (This name comes from Lombardy, a region in northern Italy
+that was an important center of banking in the Middle Ages.)
+
+
+=== PDF页406／印刷页354 ===
+354   PART   4   Central Banking and the Conduct of Monetary Policy
+
+                     else would, thereby preventing bank and financial panics. Discounting is a particularly
+                     effective way to provide reserves to the banking system during a banking crisis because
+                     reserves are immediately channeled to the banks that need them most.
+                          In performing the role of lender of last resort, the Fed must use the discount tool
+                     wisely when attempting to thwart financial panics. This is an extremely important
+                     aspect of successful monetary policymaking. Financial panics can severely damage
+                     the economy because they interfere with the ability of financial intermediaries
+                     and markets to move funds to people with productive investment opportunities
+                     (see Chapter 12).
+                          Unfortunately, the discount tool has not always been used by the Fed to prevent
+                     financial panics, as the massive bank failures during the Great Depression attest. The
+                     Fed learned from its mistakes of that period and has performed admirably in its role
+                     of lender of last resort in the post-World War II period. The Fed has used its discount
+                     lending weapon several times to avoid bank panics by extending loans to troubled
+                     banking institutions, thereby preventing further bank failures.
+                          At first glance, it might seem that the presence of the FDIC, which insures depos-
+                     itors up to a limit of $250,000 per account from losses due to a bank’s failure, would
+                     make the lender-of-last-resort function of the Fed superfluous. There are two reasons
+                     why this is not the case. First, it is important to recognize that the FDIC’s insur-
+                     ance fund amounts to about 1% of the total amount of deposits held by banks. If a
+                     large number of bank failures occurred simultaneously, the FDIC would not be able
+                     to cover all the depositors’ losses. Indeed, the large number of bank failures in the
+                     1980s and early 1990s led to large losses and a shrinkage of the FDIC’s insurance
+                     fund, which reduced the FDIC’s ability to cover depositors’ losses. This fact has not
+                     weakened the confidence of small depositors in the banking system because the Fed
+                     has been ready to stand behind the banks to provide whatever reserves are needed
+                     to prevent bank panics. Second, the over $1.6 ttillion of large-denomination depos-
+                     its in the banking system are not guaranteed by the FDIC because they exceed the
+                     $250,000 limit. A loss of confidence in the banking system could still lead to runs
+                     on banks from the large-denomination depositors, and bank panics could still occur
+                     despite the existence of the FDIC. The Federal Reserve’s role as lender of last resort
+                     is, if anything, more important today than ever because of the high number of bank
+                     failures experienced in the 1980s and early 1990s and during the global financial
+                     crisis from 2007 to 2009.
+                           Not only can the Fed act as a lender of last resort to banks but it can also play
+                     the same role in the financial system as a whole. The Fed’s discount window can help
+                     prevent and address financial panics that are not triggered by bank failures, such as
+                     the Black Monday stock market crash of 1987 and the terrorist destruction of the
+                     World Trade Center in September 2001 (discussed in the Inside the Fed box, “Using
+                     Discount Policy to Prevent a Financial Panic”). Although the Fed’s role as the lender
+                     of last resort provides the benefit of preventing bank and financial panics, it does
+                     come with a cost. If a bank expects that the Fed will provide it with discount loans
+                     if it gets into trouble, then it will be willing to take on more risk, knowing that the
+                     Fed will come to the rescue if necessary. The Fed’s lender-of-last-resort role has thus
+                     created a moral hazard problem similar to the one created by deposit insurance (dis-
+                     cussed in Chapter 10): Banks take on more risk, thus exposing the deposit insurance
+                     agency, and hence taxpayers, to greater losses. The moral hazard problem is most
+                     severe for large banks, which may believe that the Fed and the FDIC view them as
+                     “too big to fail”; that is, they believe they will always receive Fed loans when they are
+                     in trouble because their failure would be likely to precipitate a bank panic.
+
+
+=== PDF页407／印刷页355 ===
+                                                                CHAPTER              15          Tools of Monetary Policy                       355
+
+
+
+
+Inside the Fed                Using Discount Policy to Prevent a Financial Panic
+
+The Black Monday Stock Market Crash of 1987                 that would make loans to the securities industry,
+and the Terrorist Destruction of the World Trade            although this did not prove to be necessary. As one
+Center in September 2001. Although October 19,              New York banker said, the Fed’s message was, “We’re
+1987, dubbed “Black Monday,” will go down in the            here. Whatever you need, we'll give you.”
+history books as the day of the largest one-day per-           The outcome of the Fed’s timely action was that a
+centage decline in stock prices to date (the Dow Jones      financial panic was averted. The markets kept func-
+Industrial Average decreased by more than 20%), it          tioning on Tuesday, and a market rally ensued that
+was on Tuesday, October 20, 1987, that financial            day, with the Dow Jones Industrial Average climbing
+markets almost stopped functioning. Felix Rohatyn,          over 100 points.
+one of the most prominent players on Wall Street,              A similar lender-of-last-resort operation was car-
+stated flatly: “Tuesday was the most dangerous day          ried out in the aftermath of the destruction of the
+we had in 50 years.”* Much of the credit for prevent-       World Trade Center in New York City on Tuesday,
+ing a market meltdown after Black Monday must be            September 11, 2001—the worst terrorist incident in
+given to the Federal Reserve System and then-chair          U.S. history. Because of the disruption to the most
+of the Board of Governors, Alan Greenspan.                  important financial center in the world, the liquid-
+   The stress of keeping markets functioning dur-           ity needs of the financial system skyrocketed. To
+ing the sharp decline in stock prices that occurred         satisfy these needs and to keep the financial system
+on Monday, October 19, meant that many brokerage            from seizing up, within a few hours of the incident,
+houses and specialists (dealer-brokers who maintain         the Fed made an announcement similar to that made
+orderly trading on the stock exchanges) were severely       after the crash of 1987: “The Federal Reserve Sys-
+in need of additional funds to finance their activities.    tem is open and operating. The discount window
+However, understandably enough, New York banks,             is available to meet liquidity needs.”” The Fed then
+as well as foreign and regional U.S. banks, who were        proceeded to provide $45 billion to banks through
+growing very nervous about the financial health of          the discount window, a 200-fold increase over the
+securities firms, began to cut back credit to the secu-     amount provided during the previous week. As a
+rities industry at the very time when it was most           result of this action, along with the injection of as
+needed. Panic was in the air. One chair of a large          much as $80 billion of reserves into the banking
+specialist firm commented that on Monday, “from             system through open market operations, the finan-
+2 p.m. on, there was total despair. The entire invest-      cial system kept functioning. When the stock mar-
+ment community fled the market. We were left alone          ket reopened on Monday, September 17, trading
+on the field.” It was time for the Fed, like the cavalry,   was orderly, although the Dow Jones Average did
+to come to the rescue.                                      decrease 7%.
+    Upon learning of the plight of the securities indus-        The terrorists were able to bring down the twin
+try, Alan Greenspan and E. Gerald Corrigan, then            towers of the World Trade Center, causing nearly
+president of the Federal Reserve Bank of New York           3,000 deaths. However, they were unable to bring
+and the Fed official most closely in touch with Wall        down the U.S. financial system because of the timely
+Street, became fearful of a spreading collapse of           actions of the Federal Reserve.
+securities firms. To prevent this collapse, Greenspan
+announced before the market opened on Tuesday,
+                                                            **Terrible Tuesday: How. the Stock Market Almost Disintegrated a Day After the
+October 20, the Federal Reserve System’s “readi-            Crash,” Wall Street Journal, November 20, 1987, 1. This article provides a fasci-
+ness to serve as a source of liquidity to support the       nating and more detailed view of the events described here and is the source of
+                                                            all the quotations cited.
+economic and financial system.” In addition to this
+                                                            “Economic Front: How Policy Makers Regrouped to Defend the Financial
+extraordinary announcement, the Fed made it clear           System,” Wall Street Journal, September 18, 2001, Al, provides more detail on
+that it would provide discount loans to any bank            this episode.
+
+
+=== PDF页408／印刷页356 ===
+356   PART   4   Central Banking and the Conduct of Monetary Policy
+
+
+                          Similarly, Federal Reserve actions to prevent financial panics may encourage
+                     financial institutions other than banks to take on greater risk. They, too, expect
+                     that the Fed will bail them out if their failure would cause or worsen a financial
+                     panic. When the Fed considers using the discount window to prevent a panic, it
+                     needs to consider the trade-off between the moral hazard cost of its role as lender of
+                     last resort and the benefit of preventing the financial panic. This trade-off explains
+                     why the Fed must be careful not to perform its function as lender of last resort too
+                     frequently.
+
+
+                     Reserve Requirements
+                     As we saw in Chapter 14, changes in the required reserve ratio affect the money sup-
+                     ply by causing the money supply multiplier to change. A rise in reserve requirements
+                     reduces the amount of deposits that can be supported by a given level of the monetary
+                     base and leads to a contraction of the money supply. A rise in reserve requirements
+                     also increases the demand for reserves and raises the federal funds rate. Conversely, a
+                     decline in reserve requirements leads to an expansion of the money supply and a fall
+                     in the federal funds rate. Because it is costly for banks to modify their reserve holdings
+                     when there is a change in reserve requirements, changes in reserve requirements are
+                     now only rarely used as a monetary policy tool.
+                          Under the Depository Institutions Deregulation and Monetary Control Act of 1980,
+                     all depository institutions, including commercial banks, savings and loan associations,
+                     mutual savings banks, and credit unions, are subject to the same reserve requirements.
+                     Up until March 2020, required reserves on all checkable deposits—including non-
+                     interest-bearing checking accounts, NOW accounts, super-NOW accounts, and ATS
+                     (automatic transfer savings) accounts—were equal to zero for the first $16.9 million of
+                     a bank’s checkable deposits, 3% on checkable deposits from $16.9 to $127.5 million,
+                     and 10% on checkable deposits over $127.5 million.’ However, to encourage banks to
+                     lend during the coronavirus crisis, on March 15, 2020, the Fed announced a reduction
+                     in reserve requirements to zero.
+
+
+                     Interest on Excess Reserves
+                     Because the Fed started paying interest on excess reserves only in 2008, this tool
+                     of monetary policy does not have a long history. For the same reason the Fed sets
+                     the discount rate above the federal funds target—that is, to encourage borrowing
+                     and lending in the federal funds market so that banks monitor each other—the
+                     Fed typically sets the interest rate on excess reserves as a floor under the federal
+                     funds target. In the aftermath of the global financial crisis, banks accumulated huge
+                     quantities of reserves and, in this situation, increasing the federal funds rate would
+                     require massive amounts of open market operations to remove these reserves
+                     from the banking system. The interest-on-excess-reserves tool came to the rescue
+                     because it can be used to raise the federal funds rate, as illustrated in panel (b) of
+                     Figure 5. Indeed, this tool of monetary policy has become the primary tool to con-
+                     trol the federal funds rate.
+
+
+
+                     "These figures are for 2020. Each year, the figures are adjusted upward by 80% of the percentage increase in
+                     checkable deposits in the United States.
+
+
+=== PDF页409／印刷页357 ===
+                                                CHAPTER        15      Tools of Monetary Policy       357
+
+
+15.3 NONCONVENTIONAL MONETARY POLICY TOOLS AND
+     QUANTITATIVE EASING IN THE WAKE OF THE GLOBAL
+     FINANCIAL CRISIS AND THE CORONAVIRUS PANDEMIC
+            LO 15.3 Explain the key monetary policy tools that are used when conventional policy
+            is no longer effective.
+
+            In normal times, conventional monetary policy tools, which expand the money supply and
+            lower interest rates, are enough to stabilize the economy. However, when the economy
+            experiences a full-scale financial crisis like the one we recently experienced, conventional
+            monetary policy tools cannot do the job, for two reasons. First, the financial system seizes
+            up to such an extent that it becomes unable to allocate capital to productive uses, and
+            so investment spending and the economy collapse, as discussed in Chapter 12. Second,
+            the negative shock to the economy can lead to the effective-lower-bound problem, in
+            which the central bank is unable to lower its policy interest rate (the federal funds rate for
+            the Fed) much below zero. A negative federal funds rate well below zero would imply that
+            banks are willing to earn a much lower return by lending in the federal funds market than
+            they could earn by holding cash in their vaults, with its zero rate of return, as occurred at
+            the end of 2008. For both of these reasons, central banks needed non-—interest-rate tools,
+            known as nonconyentional monetary policy tools, to stimulate the economy in the
+            wake of the global financial crisis and the coronavirus pandemic. These nonconventional
+            monetary policy tools take four forms: (1) liquidity provision, (2) asset purchases, (3) for-
+            ward guidance, and (4) negative interest rates on bank deposits at a central bank.
+
+            Liquidity Provision
+            Because conventional monetary policy actions were not sufficient to bolster financial
+            markets during the recent financial crisis and the coronavirus pandemic, the Federal
+            Reserve implemented unprecedented increases in its lending facilities to provide liquid-
+            ity to the financial markets.
+             1. Discount Window Expansion: At the outset of the crisis in mid-August 2007, the
+                Fed lowered the discount rate (the interest rate on loans it makes to banks) to 50 basis
+                points (0.50 percentage point) above the federal funds rate target from the normal
+                100 basis points. It then lowered it further in March 2008, to only 25 basis points
+                above the federal funds rate target. Similarly, it lowered the discount rate by 150 basis
+                points in March 2020 as a result of the coronavirus pandemic. However, because
+                bank borrowing from the discount window has a “stigma” attached to it (because
+                such borrowing suggests that the borrowing bank is desperate for funds and thus in
+                trouble), use of the discount window has proved insufficient during crises.
+            2. Term Auction Facility: To encourage borrowing by banking institutions that avoided
+               the stigma problem, in December 2007 the Fed set up a temporary Term Auction
+                Facility (TAF), in which it made loans at a rate determined through competitive
+                auctions. The TAF was more widely used than the discount window facility because
+                it enabled banks to borrow at a rate lower than the discount rate, and the rate was
+                determined competitively rather than being set at a penalty rate. The TAF auctions
+                started at amounts of $20 billion, but as the crisis worsened, the Fed raised the
+                amounts dramatically, with a total outstanding of over $400 billion. (The European
+                Central Bank conducted similar operations, with one auction in June 2008 of over
+                400 billion euros.) After the global financial crisis, the TAF was discontinued.
+
+
+=== PDF页410／印刷页358 ===
+358   PART   4   Central Banking and the Conduct of Monetary Policy
+
+
+                      3. New Lending Programs: During the global financial crisis, the Fed broadened its
+                         provision of liquidity to the financial system well beyond its traditional lending to
+                         banking institutions. These actions included lending to investment banks as well
+                         as lending to promote purchases of commercial paper, mortgage-backed securities,
+                         and other asset-backed securities. In addition, the Fed engaged in lending to J.P.
+                         Morgan to assist in its purchase of Bear Stearns and to AIG to prevent its failure.
+                         The enlargement of the Fed’s lending programs during the 2007-2009 financial
+                         crisis was indeed remarkable, expanding the Fed's balance sheet by over $1 trillion
+                         by the end of 2008, with the balance sheet expansion continuing even after 2008.
+                         During the coronavirus crisis, the Fed went even further in extending credit to
+                         nonfinancial institutions. With the backing of the U.S. Treasury, it set up facilities to
+                         lend to small businesses, corporations, and state and local governments, The num-
+                         ber of new programs introduced over the course of the crisis spawned a whole new
+                         set of abbreviations, including the TAR TSLE PDCR AMLF MMIFF CPFR TALF
+                         PMCCE SMCCE PPPLE MLE MSNLE and FIMA. These facilities are described in
+                         more detail in the Inside the Fed box “Fed Lending Facilities During the Global
+                         Financial and Coronavirus Crises.”
+
+
+                     Large-Scale Asset Purchases
+                     The Fed’s open market operations normally involve only the purchase of govern-
+                     ment securities, particularly those that are short-term. However, during the global
+                     financial crisis, the Fed started several new, large-scale-asset-purchase programs
+                     (often referred to as LSAPs) to lower interest rates for particular types of credit.
+                     Then with the coronavirus pandemic, the Fed reinstituted these large-scale-asset-
+                     purchase programs:
+                      1. In November 2008, the Fed set up a Government Sponsored Entities Purchase
+                         Program in which the Fed eventually purchased $1.25 trillion of mortgage-backed
+                         securities (MBS) guaranteed by Fannie Mae and Freddie Mac. Through these pur-
+                         chases, the Fed hoped to prop up the MBS market and to lower interest rates on
+                         residential mortgages to stimulate the housing market.
+                      2. In November 2010, the Fed announced that it would purchase $600 billion of long-
+                         term Treasury securities at a rate of about $75 billion per month. This large-scale
+                         purchase program, which became known as QE2 (which stands for Quantitative
+                         Easing 2, not the Cunard cruise ship), was intended to lower long-term interest
+                         rates. Although short-term interest rates on Treasury securities hit a floor of zero
+                         during the global financial crisis, long-term interest rates did not. Since investment
+                         projects have a long life, long-term interest rates are more relevant to investment
+                         decisions than short-term rates. The Fed's purchase of long-term Treasuries was an
+                         effort to stimulate investment spending and the economy by lowering long-term
+                         interest rates.
+                      3. In September      2012,   the Federal   Reserve   announced a third large-scale-asset-
+                         purchase program, which became known as QE3, that combined elements of QE1
+                         and QE2. Through QE3, the Fed conducted monthly purchases of $40 billion of
+                         mortgage-backed securities and $45 billion of long-term Treasuries. However, QE3
+                         differed in one major way from the previous QE programs in that its goal was not
+                         to increase assets by a fixed dollar amount but instead was open-ended, with the
+                         purchase plan set to continue “if the outlook for the labor market does not improve
+                         substantially.”
+
+
+=== PDF页411／印刷页359 ===
+                                                                 CHAPTER       15        Tools of Monetary Policy     359
+
+
+Inside the Fed                 Fed Lending Facilities During the Global Financial
+                               and Coronavirus Crises
+
+During the global financial crisis and the coronavirus        liquidity to different parts of the financial system. The
+pandemic, the Federal Reserve became very creative in         new facilities, the dates on which they were established,
+assembling a host of new lending facilities to help restore   and their functions are listed in the table below.
+
+Lending Facility                   Date Established           Function
+Term Auction                       December 12, 2007          To increase borrowing from the Fed, the TAF extends
+Facility (TAF)                                                loans of fixed amounts to banks at interest rates that
+                                                              are determined by competitive auction rather than
+                                                              set by the Fed, as with normal discount lending.
+Term Securities Lending            March 11, 2008             To provide sufficient Treasury securities to act as
+Facility (TSLF)                                               collateral in credit markets, the TSLF lends Treasury
+                                                              securities to primary dealers for terms longer than
+                                                              overnight against a broad range of collateral.
+Central Bank Liquidity             March 11, 2008, and        Swap Lines lend dollars to foreign central banks
+Swaps                              March 15, 2020             in exchange for foreign currencies so that these
+                                                              central banks can in turn make dollar loans to their
+                                                              domestic banks.
+Loans to J.P Morgan to buy         March 14, 2008             Buys $30 billion of Bear Stearns assets through
+Bear Stearns                                                  nonrecourse loans to J.P. Morgan to facilitate its
+                                                              purchase of Bear Stearns
+Primary Dealer Credit              March 16, 2008, and        PDCF lends to primary dealers (including investment
+Facility (PDCF)                    March 17, 2020             banks) so that they can borrow on terms similar to
+                                                              those on which banks borrow from the traditional
+                                                              discount window facility.
+Loans to AIG                       September 16, 2008         Loans $85 billion to AIG
+Asset-Backed Commercial            September 19, 2008         AMLF lends to primary dealers so that they can
+Paper Money Market Mutual                                     purchase asset-backed commercial paper from
+Fund Liquidity Facility                                       money market mutual funds so that these funds
+(AMLF)                                                        can sell this paper to meet redemptions from their
+                                                              investors.
+Commercial Paper Funding           October 7, 2008, and       CPFF finances purchase of commercial paper from
+Facility (CPFF)                    March 23, 2020             issuers.
+Money Market Investor              October 21, 2008           MMIFF lends to special-purpose vehicles that can
+Funding Facility (MMIFF)                                      buy a wider range of money market mutual fund
+                                                              assets.
+Term Asset-Backed Securities       November 25, 2008,         TALF lends to issuers of asset-backed securities
+Loan Facility (TALF)               and March 23, 2020         against these securities as collateral to improve
+                                                              functioning of this market.
+Money Market Mutual Fund           March 18, 2020             MMLEF lends to banks that buy money market
+Liquidity Facility (MMLF)                                     mutual fund assets.
+                                                                                                           (continued)
+
+
+=== PDF页412／印刷页360 ===
+360       PART   4    Central Banking and the Conduct of Monetary Policy
+
+
+
+  Lending Facility                 Date Established        Function
+  Primary Market Credit            March 23, 2020          PMCCF makes loans to investment-grade companies.
+  Facility (PMCCF)
+  Secondary Market Corporate       March 23, 2020          SMCCF purchases secondary market, investment-
+  Credit Facility (SMCCF)                                  grade corporate bonds.
+  Paycheck Protection Program     April 9, 2020            PPPLF provides credit to financial institutions that
+  Liquidity Facility (PPPLF)                               originate the Small Business Administration Paycheck
+                                                           Protection Program loans to small businesses.
+  Municipal Liquidity Facility     April 9, 2020           MLF purchases up to $500 billion of state and local
+  (MLF)                                                    government bonds.
+  Main Street Lending              April 9, 2020           MSNLE and MSELF purchase 95% participations
+  Program, which includes                                  in loans made by financial institutions to small
+  Main Street New Loan                                     and medium-sized businesses, with the financial
+  Facility (MSNLF) and M ain                               institution retaining 5% of the loan.
+  Street Expanded Loan
+  Facility (MSELF)
+  Temporary Foreign and            March 31, 2020          FIMA Repo facility provides repurchase agreements in
+  International Monetary                                   which international inonetary authorities temporarily
+  Authorities (FIMA)                                       exchange U.S. Treasury securities for U.S. dollars.
+  Repo Facility
+
+
+
+
+                            4, At the March 15, 2020, FOMC meeting, the Fed opened a new round of large-
+                               scale asset purchases, authorizing the purchases by at least $500 billion of Treasury
+                               securities and $200 billion of mortgage-backed securities.
+                                These liquidity-provision and large-scale-asset-purchase programs led to an
+                            unprecedented quadrupling of the Federal Reserve’s balance sheet (shown in Figure 7)
+                            from 2008 to 2014, and then a further sharp increase in the Fed’s balance sheet starting
+                            in March 2020.
+
+
+                            Quantitative Easing Versus Credit Easing
+                            As we just learned, the programs introduced by the Fed in response to the global finan-
+                            cial crisis led to an unprecedented expansion of the Federal Reserve’s balance sheet
+                            from about $900 billion to over $4 trillion by 2014. Then the Fed instituted similar
+                            programs in response to the coronavirus pandemic, leading to a further expansion to
+                            over $7 trillion in June 2020. This expansion of the balance sheet is referred to as
+                            quantitative easing because, as shown in Chapter 14, it leads to a huge increase in
+                            the monetary base. Because such an increase in the monetary base would usually result
+                            in an expansion of the money supply, it seems as though such an expansion could be
+                            a powerful force in stimulating the economy in the near term and possibly producing
+                            inflation down the road.
+                                 There are reasons to be very skeptical of this hypothesis. First, as we saw in the
+                            final application in Chapter 14, the huge expansion in the Fed’s balance sheet and the
+
+
+=== PDF页413／印刷页361 ===
+                                                                                    CHAPTER          15         Tools of Monetary Policy      361
+Real-time data
+
+
+
+            Total Federal
+          Reserve assets
+                 ($ trillions)
+
+                           8
+
+
+
+
+                           0
+                           2007   2008     2009    2010     2011    2012     2013    2014     2015     2016    2017      2018   2019   2020
+
+
+   FIGURE7          The Expansion of the Federal Reserve's Balance Sheet, 2007-2020
+                    The size of the Federal Reserve's balance sheet more than quadrupled during and after the global financial
+                    crisis and then shot up again during the coronavirus pandemic.
+                    Source: Federal Reserve Bank of St. Louis FRED database: https://fred.stlouisfed.org/series/WALCL,
+
+
+
+                                   monetary base did not result in a large increase in the money supply, because most
+                                   of the increase in the monetary base just flowed into holdings of excess reserves. Sec-
+                                   ond, because the federal funds rate had already fallen to the effective lower bound,
+                                   the expansion of the balance sheet and the monetary base could not lower short-term
+                                   interest rates any further and thereby stimulate the economy. Third, an increase in the
+                                   monetary base does not mean that banks will increase lending, because they can just
+                                   add to their holdings of excess reserves instead of making loans. Indeed, this appears
+                                   to be exactly what happened during the global financial crisis, when the huge increase
+                                   in the monetary base led primarily to a massive rise in excess reserves, and bank lend-
+                                   ing did not increase. A similar phenomenon seems to have occurred when the Bank of
+                                   Japan engaged in quantitative easing after Japan’s stock and real estate market bubbles
+                                   burst in the 1990s; yet not only did the Japanese economy fail to recover, but inflation
+                                   even turned negative.
+                                        Does skepticism about the merits of quantitative easing mean that the Fed’s non-
+                                   conventional monetary policy actions during the financial crisis were ineffective in
+                                   stimulating the economy? The Fed chair at the time, Ben Bernanke, argued that the
+                                    answer is no, because the Fed’s policies were directed not at expanding the Fed’s bal-
+                                    ance sheet but rather at credit easing—that is, altering the composition of the Fed’s
+                                    balance sheet to improve the functioning of particular segments of the credit markets.
+                                    Indeed, Bernanke was adamant that the Fed’s policies should not be characterized as
+                                    quantitative easing.
+                                         Altering the composition of the Fed’s balance sheet can stimulate the economy in
+                                    several ways. First, when the Fed provides liquidity to a particular segment of the credit
+
+
+=== PDF页414／印刷页362 ===
+362   PART   4   Central Banking and the Conduct of Monetary Policy
+
+
+                     markets that has seized up, such liquidity can help unfreeze the market and thereby
+                     enable it to allocate capital to productive uses, consequently stimulating the economy.
+                     Second, when the Fed purchases particular securities, it increases the demand for those
+                     securities and, as we saw in Chapter 6, such an action can lower the interest rates on
+                     those securities relative to rates on other securities. Thus, even if short-term interest
+                     rates have hit a floor of the effective lower bound, asset purchases can lower inter-
+                     est rates for borrowers in particular credit markets and thereby stimulate spending.
+                     For example, purchases of GSE mortgage-backed securities appear to have lowered the
+                     interest rates on these securities, which led to a substantial decrease in residential mort-
+                     gage rates. Purchases of long-term government securities could also lower their interest
+                     rates relative to short-term interest rates, and because long-term interest rates are likely
+                     to be more relevant to investment decisions, these asset market purchases could boost
+                     investment spending. Recent research appears to support this viewpoint, with estimates
+                     of the decline in long-term interest rates following the Fed’s asset-purchase programs
+                     on the order of 100 basis points (one percentage point).®
+
+
+                     Forward Guidance
+                     Although short-term interest rates could not be driven much below zero in the after-
+                     math of the global financial crisis, the Federal Reserve had the option of taking a differ-
+                     ent route in its efforts to achieve lower long-term interest rates, which, as we mentioned
+                     above, would stimulate the economy. This route involved a commitment by the Fed to
+                     keep the federal funds rate at zero for a long period of time. To see how this would
+                     work, recall our discussion of the expectations theory of the term structure of interest
+                     rates in Chapter 6. There we saw that long-term interest rates will equal an average of
+                     the short-term interest rates that markets expect to occur over the life of the long-term
+                     bond. By committing to the future policy action of keeping the federal funds rate at
+                     zero for an extended period, the Fed could lower the market’s expectations of future
+                     short-term interest rates, thereby causing the long-term interest rate to fall. Michael
+                     Woodford of Columbia University has referred to such a strategy as management of
+                     expectations, but it is more commonly referred to as forward guidance.
+                          The Fed pursued this forward-guidance strategy when it announced, after its
+                     FOMC meeting on December 16, 2008, that not only would it lower the federal funds
+                     rate target to between zero and 4% but also that “the Committee anticipates that weak
+                     economic conditions are likely to warrant exceptionally low levels of the federal funds
+                     rate for some time.” The Fed continued to use this type of language in its FOMC state-
+                     ments for several years afterward, even committing to keep the federal funds rate near
+                     zero until an actual date of mid-2013 at its FOMC meeting in August 2011 (modified
+                     to mid-2015 at later meetings). Although long-term interest rates on Treasury securi-
+                     ties did subsequently fall, it is not clear how much of this decline was due to the Fed’s
+                     forward guidance versus the general weakness of the economy.
+                          There are two types of commitments to future policy actions: conditional and
+                     unconditional. The commitment to keep the federal funds rate at zero for an extended
+                     period starting in 2008 was conditional because it stated that the decision was predi-
+                     cated on a weak economy going forward. If economic circumstances changed, the
+                     FOMC was indicating that it might abandon the commitment. Alternatively, the Fed
+
+                     8See, for example, Joseph Gagnon, Mathew Raskin, Julie Remache, and Brian Sack, “Large Scale Asset Purchases
+                     by the Federal Reserve: Did They Work?” Federal Reserve Bank of New York Economic Policy Review 17, no. 1 (May
+                     2011): 41-59,
+
+
+=== PDF页415／印刷页363 ===
+                                   CHAPTER       15       Tools of Monetary Policy        363
+
+
+could have made an unconditional commitment by just stating that it would keep the
+federal funds rate at zero for an extended period, without indicating that this decision
+might change depending on the state of the economy. An unconditional commitment
+is stronger than a conditional commitment because it does not suggest that the com-
+mitment will be abandoned and so is likely to have a larger effect on long-term interest
+rates. Unfortunately, it has the disadvantage that, even if circumstances change in such
+a way that it would be better to abandon the commitment, the Fed may feel that it can-
+not go back on its word and therefore cannot abandon the commitment.
+      The disadvantages of an unconditional commitment are illustrated by the Fed’s
+experience in the 2003-2006 period. In 2003, the Fed became worried that inflation
+was too low and that the probability of a deflation was significant. At the August 12,
+2003, FOMC     meeting, the FOMC       stated, “In these circumstances,    the Committee
+believes that policy accommodation can be maintained for a considerable period.”
+Then, when the Fed started to tighten policy at its June 30, 2004, FOMC              meeting,
+it changed its statement to “policy accommodation can be removed at a pace that is
+likely to be measured.” For the next 17 FOMC meetings, through June 2006, the Fed
+raised the federal funds rate target by exactly 4 percentage point at every single meet-
+ing. The market interpreted the FOMC’s statements as indicating an unconditional
+commitment, and this is why the Fed may have been constrained not to deviate from
+a % percentage point move at every FOMC meeting. In retrospect, this commitment
+led to monetary policy that was too easy for too long, with inflation subsequently ris-
+ing to well above desirable levels and, as discussed in Chapter 12, may have helped
+promote the housing bubble whose bursting led to such devastating consequences
+for the economy.
+     When the Fed announced a specific date for exiting from exceptionally low rates,
+many market participants viewed this announcement as an unconditional commit-
+ment, despite the Federal Reserve’s objections to such an interpretation. To avoid the
+problems associated with an unconditional commitment, in December 2012 the Fed
+changed its statement to be more clearly conditional by indicating that “the exception-
+ally low range for the federal funds rate will be appropriate at least as long as the unem-
+ployment rate remains above 6'4 percent, and inflation between one and two years
+ahead is projected to be no more than a half percentage point above the Committee’s
+2 percent longer-run goal.” With the unemployment rate approaching the 642% mark,
+at its March 2014 meeting the FOMC dropped forward guidance based on unemploy-
+ment and inflation thresholds. Subsequently, it announced that it would determine the
+timing and size of changes in the target for the federal funds rate, taking “into account
+a wide range of information, including measures of labor market conditions, indicators
+of inflation pressures and inflation expectations, and readings on financial and interna-
+tional developments.”
+
+
+Negative Interest Rates on Banks’ Deposits
+With inflation very low and their economies weak after the global financial crisis, cen-
+tral banks in Europe and Japan recently began experimenting with a new nonconven-
+tional monetary policy tool, setting interest rates on deposits held by banks at their
+central banks to be negative. In other words, banks now had to pay their central bank
+to keep deposits in the central bank. The central bank of Sweden was the first to set
+negative interest rates on bank deposits in July 2009, followed by the central bank
+of Denmark in July 2012, the ECB in June 2014, the central bank of Switzerland in
+December 2014, and the Bank of Japan in January 2016.
+
+
+=== PDF页416／印刷页364 ===
+364   PART   4   Central Banking and the Conduct of Monetary Policy
+
+
+                         Setting negative interest rates on banks’ deposits is supposed to work to stimulate
+                     the economy by encouraging banks to lend out the deposits they were keeping at the
+                     central bank, thereby encouraging households and businesses to spend more. How-
+                     ever, there are doubts that negative interest rates on deposits will have the intended,
+                     expansionary effect.
+                          First, banks might not lend out their deposits at the central bank, but instead move
+                     them into cash, There would be some cost to doing so because banks would have to
+                     build more vaults and hire security guards to protect the cash. Nonetheless, they still
+                     might prefer to do this rather than lend them out.
+                         Second, charging banks interest on their deposits might be very costly to banks if
+                     they still have to pay positive interest rates to their depositors. In this case, bank profit-
+                     ability would fall. The result might then make banks less likely to lend. So instead of
+                     being expansionary, negative interest rates on banks’ deposits could cause banks to cut
+                     back on lending and therefore be contractionary.
+                          The jury is still out on whether negative interest rates on bank deposits held
+                     at central banks will stimulate the economy as intended. Indeed, doubts about the
+                     effectiveness of this nonconventional monetary policy tool has led the Fed to rule
+                     out using this tool to stimulate the economy. However, the Federal Reserve’s views
+                     might change if the U.S. economy became much weaker and if the experience with
+                     negative interest rates in other countries suggested that this tool is effective in stimu-
+                     lating spending.
+
+
+
+15.4 MONETARY POLICY TOOLS OF THE EUROPEAN                                                         -
+     CENTRAL BANK
+                     LO 15.4 Identify the distinctions and similarities between the monetary policy tools of
+                     the Federal Reserve and those of the European Central Bank.
+
+                     Like the Federal Reserve, the European System of Central Banks (usually referred to as
+                     the European Central Bank) signals the stance of its monetary policy by setting a tar-
+                     get financing rate, which in turn sets a target for the overnight cash rate. Like the
+                     federal funds rate, the overnight cash rate is the interest rate for very short-term inter-
+                     bank loans. The monetary policy tools used by the European Central Bank are similar
+                     to those used by the Federal Reserve and involve open market operations, lending to
+                     banks, and reserve requirements.
+
+
+                     Open Market Operations
+                     Like the Federal Reserve, the European Central Bank uses open market operations as
+                     its primary tool for conducting monetary policy and setting the overnight cash rate at
+                     the target financing rate. Main refinancing operations are the predominant form of
+                     open market operations and are similar to the Fed’s repo transactions. They involve
+                     weekly reverse transactions (purchase or sale of eligible assets under repurchase or
+                     credit operations against eligible assets as collateral) that are reversed within two weeks.
+                     Credit institutions submit bids, and the European Central Bank decides which bids to
+                     accept. Like the Federal Reserve, the European Central Bank accepts the most attrac-
+                     tively priced bids and makes purchases or sales up to the point at which the desired
+                     amount of reserves is supplied. In contrast to the Federal Reserve, which conducts
+
+
+=== PDF页417／印刷页365 ===
+                                                               CHAPTER       15        Tools ofMonetary Policy       365
+
+                            open market operations in one location at the Federal Reserve Bank of New York, the
+                            European Central Bank decentralizes its open market operations by conducting them
+                            through the individual national central banks.
+                                 A second category of open market operations is longer-term refinancing opera-
+                            tions, which are a much smaller source of liquidity for the euro-area banking system
+                            and are similar to the Fed’s outright purchases or sales of securities. These operations
+                            are carried out monthly and typically involve purchases or sales of securities with a
+                            maturity of three months. They are not used for signaling the monetary policy stance,
+                            but instead are aimed at providing euro-area banks access to longer-term funds.
+
+                             Lending to Banks
+                            As is the case for the Fed, the next most important tool of monetary policy for the Euro-
+                            pean Central Bank involves lending to banking institutions, which is carried out by the
+                            national central banks, just as discount lending is performed by the individual Federal
+                            Reserve Banks. This lending takes place through a standing lending facility called the
+                            marginal lending facility. Through these facilities, banks can borrow (against eligible
+                            collateral) overnight loans from the national central banks at the marginal lending
+                            rate, which is set at 100 basis points above the target financing rate. The marginal
+                            lending rate provides a ceiling for the overnight market interest rate in the European
+                            Monetary Union, just as the discount rate does in the United States.
+
+
+                             Interest on Excess Reserves
+                            As in the United States, Canada, Australia, and New Zealand, the Eurosystem has
+                            another standing facility, the deposit facility, in which banks are paid an interest rate
+                            on excess reserves that is typically 100 basis points below the target financing rate.
+                            The prespecified interest rate on the deposit facility provides a floor for the overnight
+                            market interest rate, while the marginal lending rate sets a ceiling. The interest rate on
+                            excess reserves set by the ECB is not always positive. As discussed above, the ECB set
+                            the interest rate on excess reserves to negative values starting in June 2014.
+
+
+                             Reserve Requirements
+                            Like the Federal Reserve, the European Central Bank imposes reserve requirements
+                            such that all deposit-taking institutions are required to hold 2% of the total amount
+                            of checking deposits and other short-term deposits in reserve accounts with national
+                            central banks. All institutions that are subject to minimum reserve requirements have
+                            access to the European Central Bank’s standing lending facilities and participate in
+                            open market operations.
+
+
+
+
+1. A supply and demand analysis of the market for                the Fed makes an open market sale or raises reserve
+   reserves yields the following results: When the Fed           requirements, the federal funds rate rises. Changes in
+   makes an open market purchase or lowers reserve               the discount rate and the interest rate paid on excess
+   requirements, the federal funds rate drops. When              reserves may also affect the federal funds rate.
+
+
+=== PDF页418／印刷页366 ===
+366        PART     4        Central Banking and the Conduct of Monetary Policy
+
+
+ 2. Conventional monetary policy tools include open mar-                     purchases lead to an expansion of the central bank bal-
+      ket operations, discount policy, reserve requirements,                 ance sheet, which is referred to as quantitative easing.
+      and interest on excess reserves. Open market opera-                    Expansion of the central bank balance sheet by itself
+      tions are the primary tool used by the Fed to implement                is unlikely to have a large impact on the economy, but
+      monetary policy in normal times because they occur at                  changing the composition of the balance sheet, which
+      the initiative of the Fed, are flexible, are easily reversed,          is accomplished by liquidity provisions and asset pur-
+      and can be implemented quickly. Discount policy has                    chases and is referred to as credit easing, can have a large
+      the advantage of enabling the Fed to perform its role                  impact by improving the functioning of particular credit
+      of lender of last resort, while raising interest rates on              markets.
+      excess reserves to increase the federal funds rate elimi-          4. The monetary policy tools used by the European
+      nates the need to conduct massive open market opera-                  Central Bank are similar to those used by the Federal
+      tions to reduce reserves when banks have accumulated                  Reserve System and involve open market operations,
+      large amounts of excess reserves.                                     lending to banks, and reserve requirements. Main
+   . Conventional monetary policy tools are no longer effec-                 financing operations—open market operations in repos
+     tive when the effective-lower-bound problem occurs,                     that are typically reversed within two weeks—are the
+     in which the central bank is unable to lower short-term                 primary tool used to set the overnight cash rate at the
+      interest rates much below zero. In this situation, cen-                target financing rate. The European Central Bank also
+      tral banks use nonconventional monetary policy tools,                  operates standing lending facilities, which ensure that
+      which involve liquidity provision, asset purchases,                    the overnight cash rate remains within 100 basis points
+      and forward guidance. Liquidity provision and asset                    of the target financing rate.
+
+
+
+KEY TERMS
+conventional monetary policy                        forward guidance, p. 362                  nonconventional monetary policy
+   tools, p. 350                                    lender of last resort, p. 353                tools, p. 357
+credit easing, p. 361                               longer-term refinancing                    overnight cash rate, p. 364
+defensive open market                                 operations, p. 365                       primary dealers, p. 351
+   operations, p. 351                               main refinancing operations, p. 364        quantitative easing, p. 360
+deposit facility, p. 365                            management of expectations, p. 362         repurchase agreement
+discount window, p. 353                             marginal lending facility, p. 365             (renoe pe got
+dynamic open market operations, p. 351              marginal lending rate, p. 365              reverse transactions, p. 364
+effective-lower-bound problem, p. 357               matched sale—purchase transaction          standing lending facility, p. 353
+federal funds rate, p. 343                            (reverse repo), p. 351                   target financing rate, p. 364
+
+
+
+QUESTIONS
+ 1. If the manager of the open market desk hears that a                      defensive open market operations will the manager of
+    snowstorm is about to strike New York City, making                       the open market desk undertake?
+    it difficult to present checks for payment there and so              4 . If float decreases to below its normal level, why might the
+    raising the float, what defensive open market operations                 manager of domestic operations consider it more desir-
+    will the manager undertake?                                              able to use repurchase agreements to affect the monetary
+ 2. During the holiday season, when the public’s hold-                       base, rather than an outright purchase of bonds?
+      ings of currency increase, what defensive open market              5 . “The only way that the Fed can affect the level of bor-
+      operations typically occur? Why?                                       rowed reserves is by adjusting the discount rate.” Is
+ 3. Ifthe Treasury pays a large bill to defense contrac-                     this statement true, false, or uncertain? Explain your
+    tors and as a result its deposits with the Fed fall, what                answer.
+
+
+=== PDF页419／印刷页367 ===
+                                                                           CHAPTER        15      Tools of Monetary Policy           367
+
+     . “The federal funds rate can never be above the discount        15    Following the coronavirus pandemic in March of 2020,
+       rate.” Is this statement true, false, or uncertain? Explain          the Federal Reserve reduced the reserve requirement to
+       your answer.                                                         zero as the size of the Fed’s balance sheet approached
+       “The federal funds rate can never be below the inter-                $6 trillion. What might be the rationale for implement-
+       est rate paid on excess reserves.” Is this statement true,           ing such a change?
+       false, or uncertain? Explain your answer.                      16 . What are the advantages and disadvantages of quantita-
+       Why is paying interest on excess reserves an important               tive easing as an alternative to conventional monetary
+       tool for the Federal Reserve in managing crises?                     policy when short-term interest rates are at the effective
+                                                                            lower bound?
+       Why are repurchase agreements used to conduct most
+       short-term monetary policy operations, rather than the         17 . Why is the composition of the Fed’s balance sheet a
+       simple, outright purchase and sale of securities?                    potentially important aspect of monetary policy during
+                                                                            an economic crisis?
+10     Open market operations are typically repurchase agree-
+       ments. What does this tell you about the likely volume         18 . What is the main advantage and the main disadvantage
+       of defensive open market operations relative to the vol-             of an unconditional policy commitment?
+       ume of dynamic open market operations?                         19    In which economic conditions would a central bank
+11     Following the global financial crisis in 2008, assets on             want to use a “forward-guidance” strategy? Based on
+       the Federal Reserve’s balance sheet increased dramati-               your previous answer, can we easily measure the effects
+       cally, from approximately $800 billion at the end of                 of such a strategy?
+       2007 to $4.5 trillion in 2015. Many of the assets held         20. How do the monetary policy tools of the European Sys-
+       are longer-term securities acquired through various loan           tem of Central Banks compare to the monetary policy
+       programs instituted as a result of the crisis. In this situ-       tools of the Fed? Does the ECB have a discount lending
+       ation, how could reverse repos (matched sale—purchase              facility? Does the ECB pay banks an interest rate on
+       transactions) help the Fed reduce its assets held in an            their deposits?
+       orderly fashion, while reducing potential inflationary         2Z1. What is the main rationale behind paying negative
+       problems in the future?                                             interest rates to banks for keeping their deposits at
+12     “Discount loans are no longer needed because the pres-               central banks in Sweden, Switzerland, and Japan?
+       ence of the FDIC eliminates the possibility of bank pan-             What could happen to these economies if banks decide
+       ics.” Is this statement true, false, or uncertain?                   to loan their excess reserves, but no good investment
+13. What are the disadvantages of using loans to financial                  opportunities exist?
+       institutions to prevent bank panics?                           22. In early 2016 as the Bank of Japan began to push policy
+14, “Considering that raising reserve requirements to 100%                  interest rates negative, there was a sharp increase in
+    makes complete control of the money supply possible,                    safes for homes in Japan. Why might this be, and what
+    Congress should authorize the Fed to raise reserve                      does it mean for the effectiveness of negative interest-
+    requirements to this level.” Discuss.                                   rate policy?
+
+
+
+
+APPLIED PROBLEMS
+
+23. If a switch occurs from deposits into currency, what              25. Using the supply and demand analysis of the market
+    happens to the federal funds rate? Use the supply and                 for reserves, indicate what happens to the federal funds
+      demand analysis of the market for reserves to explain                 rate, borrowed reserves, and nonborrowed reserves,
+      your answer.                                                          holding everything else constant, under the following
+                                                                            situations.
+24. Why is it that a decrease in the discount rate does not
+    normally lead to an increase in borrowed reserves?                      a. The economy is surprisingly strong, leading to an
+      Use the supply and demand analysis of the market for                     increase in the amount of checkable deposits.
+      reserves to explain.
+
+
+=== PDF页420／印刷页368 ===
+368        PART     4      Central Banking and the Conduct of Monetary Policy
+
+
+      b. Banks expect an unusually large increase in withdraw-       . The Fed reduces reserve requirements.
+         als from checking deposit accounts in the future.          . The Fed reduces reserve requirements and then off-
+      c. The Fed raises the target federal funds rate.                sets this action by conducting an open market sale of
+      d. The Fed raises the interest rate on excess reserves          securities.
+         above the current equilibrium federal funds rate.
+
+
+
+
+DATA ANALYSIS PROBLEMS
+The Problems update with real-time data in MyLab Economics
+                                                                          a. What is the current federal funds target/
+                                                                             range, and how does it compare to the
+and are available for practice or instructor assignment.
+                                                                             effective federal funds rate?
+ 1. Real-time Data Analysis Go to the St. Louis Federal                   b. When was the last time the Fed missed its
+      Reserve FRED database, and find data on nonborrowed                    target or was outside the target range? By
+      reserves (NONBORRES) and the federal funds rate                        how much did it miss?
+      (FEDFUNDS).
+                                                                          c. For each daily observation, calculate the
+            a. Calculate the percent change in                               “miss” by taking the absolute value of the
+               nonborrowed reserves and the percentage                       difference between the effective federal
+               point change in the federal funds rate for                    funds rate and the target (use the abs(.)
+               the most recent month of data available and                   function). For the periods in which the rate
+               for the same month a year earlier.                             was a range, calculate the absolute value
+            b. Is your answer to part (a) consistent with                     of the “miss” as the amount by which the
+               what you expect from the market for                            effective federal funds rate was above or
+               reserves? Why or why not?                                      below the range. What was the average
+ 2. Real-time Data Analysis In December 2008, the                             daily miss between the beginning of
+    Fed switched from a point federal funds target to a                       2006 and the end of 2007? What was the
+    range target (and it’s possible that it will switch back                  average daily miss between the beginning
+    to a point target in the future). Go to the St. Louis                     of 2008 and December 15, 2008? What is
+      Federal Reserve FRED database, and find data on the                     the average daily miss for the period from
+      federal funds targets/ranges (DFEDTAR, DFEDTARU,                        December 16, 2008, to the most current
+      DFEDTARL) and the effective federal funds rate                          date available? Since 2006, what was the
+      (DFF). Download into a spreadsheet the data from                        largest single daily miss? Comment on the
+      the beginning of 2006 through the most current data                     Fed's ability to control the federal funds rate
+      available.                                                              during these three periods.

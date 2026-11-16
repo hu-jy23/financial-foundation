@@ -1,0 +1,710 @@
+{
+  "status": "all_mechanical_checks_passed",
+  "checks_count": 61,
+  "checks": [
+    {
+      "check": "minimum_delivery",
+      "passed": true,
+      "detail": [
+        "reading_map.md",
+        "change_proposal.md",
+        "evidence.json",
+        "brief_feedback.md",
+        "drafts/经常账户.md",
+        "drafts/资本流动与资本管制_更新片段.md"
+      ]
+    },
+    {
+      "check": "source_hash_file",
+      "passed": true,
+      "detail": "0d69e9e2dd2b3a7ae591e26c38076a4ceef9d321e3d42c476a6d0af9cee089ab"
+    },
+    {
+      "check": "source_hash_text_file",
+      "passed": true,
+      "detail": "75840223e8e9c1b9ed2241ce17a450c1fd1384744a8e7fab72beaeb5d63a2263"
+    },
+    {
+      "check": "unique_evidence_ids",
+      "passed": true,
+      "detail": [
+        "E01",
+        "E02",
+        "E03",
+        "E04",
+        "E05",
+        "E06",
+        "E07",
+        "E08",
+        "E09",
+        "E10",
+        "E11",
+        "E12",
+        "E13",
+        "E14",
+        "E15",
+        "E16",
+        "E17",
+        "E18"
+      ]
+    },
+    {
+      "check": "evidence_E01",
+      "passed": true,
+      "detail": {
+        "pages": [
+          1
+        ],
+        "attribute": [
+          "原文",
+          "版本核验"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E02",
+      "passed": true,
+      "detail": {
+        "pages": [
+          3,
+          4
+        ],
+        "attribute": [
+          "原文",
+          "模型假设",
+          "账户递推"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E03",
+      "passed": true,
+      "detail": {
+        "pages": [
+          4,
+          5
+        ],
+        "attribute": [
+          "原文",
+          "条件结论"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E04",
+      "passed": true,
+      "detail": {
+        "pages": [
+          6
+        ],
+        "attribute": [
+          "原文",
+          "条件结论"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E05",
+      "passed": true,
+      "detail": {
+        "pages": [
+          7
+        ],
+        "attribute": [
+          "原文",
+          "资源恒等式",
+          "口径解释"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E06",
+      "passed": true,
+      "detail": {
+        "pages": [
+          8
+        ],
+        "attribute": [
+          "原文",
+          "核算关系",
+          "原页措辞异常"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E07",
+      "passed": true,
+      "detail": {
+        "pages": [
+          8,
+          9
+        ],
+        "attribute": [
+          "原文",
+          "核算恒等式"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E08",
+      "passed": true,
+      "detail": {
+        "pages": [
+          10
+        ],
+        "attribute": [
+          "原文",
+          "定义",
+          "核算恒等式"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E09",
+      "passed": true,
+      "detail": {
+        "pages": [
+          11
+        ],
+        "attribute": [
+          "原文",
+          "条件结论",
+          "待核证明"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E10",
+      "passed": true,
+      "detail": {
+        "pages": [
+          4,
+          11
+        ],
+        "attribute": [
+          "原文",
+          "范围核对",
+          "原页泛称"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E11",
+      "passed": true,
+      "detail": {
+        "pages": [
+          12
+        ],
+        "attribute": [
+          "原文",
+          "解释边界"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E12",
+      "passed": true,
+      "detail": {
+        "pages": [],
+        "attribute": [
+          "原型引用"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E13",
+      "passed": true,
+      "detail": {
+        "pages": [
+          4,
+          5,
+          6
+        ],
+        "attribute": [
+          "自推",
+          "有限期推广"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E14",
+      "passed": true,
+      "detail": {
+        "pages": [
+          4,
+          5,
+          6
+        ],
+        "attribute": [
+          "自推",
+          "假设算例"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E15",
+      "passed": true,
+      "detail": {
+        "pages": [
+          3,
+          4,
+          5
+        ],
+        "attribute": [
+          "自推",
+          "显式补设条件",
+          "待核教材一般证明"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E16",
+      "passed": true,
+      "detail": {
+        "pages": [
+          4,
+          11
+        ],
+        "attribute": [
+          "自推",
+          "相容路径",
+          "假设算例"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E17",
+      "passed": true,
+      "detail": {
+        "pages": [
+          2,
+          5
+        ],
+        "attribute": [
+          "原文",
+          "作者解释",
+          "待核历史数据"
+        ]
+      }
+    },
+    {
+      "check": "evidence_E18",
+      "passed": true,
+      "detail": {
+        "pages": [
+          4,
+          6,
+          7
+        ],
+        "attribute": [
+          "自推",
+          "原型定义对齐"
+        ]
+      }
+    },
+    {
+      "check": "original_page_images",
+      "passed": true,
+      "detail": "12 rendered source pages; these files do not prove actual visual reading"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E12",
+      "passed": true,
+      "detail": "E12"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E07",
+      "passed": true,
+      "detail": "E07"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E03",
+      "passed": true,
+      "detail": "E03"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E10",
+      "passed": true,
+      "detail": "E10"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E11",
+      "passed": true,
+      "detail": "E11"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E08",
+      "passed": true,
+      "detail": "E08"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E16",
+      "passed": true,
+      "detail": "E16"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E17",
+      "passed": true,
+      "detail": "E17"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E15",
+      "passed": true,
+      "detail": "E15"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E09",
+      "passed": true,
+      "detail": "E09"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E05",
+      "passed": true,
+      "detail": "E05"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E14",
+      "passed": true,
+      "detail": "E14"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E06",
+      "passed": true,
+      "detail": "E06"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E02",
+      "passed": true,
+      "detail": "E02"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E13",
+      "passed": true,
+      "detail": "E13"
+    },
+    {
+      "check": "referenced_id_经常账户.md_E04",
+      "passed": true,
+      "detail": "E04"
+    },
+    {
+      "check": "referenced_id_资本流动与资本管制_更新片段.md_E12",
+      "passed": true,
+      "detail": "E12"
+    },
+    {
+      "check": "referenced_id_资本流动与资本管制_更新片段.md_E10",
+      "passed": true,
+      "detail": "E10"
+    },
+    {
+      "check": "referenced_id_资本流动与资本管制_更新片段.md_E11",
+      "passed": true,
+      "detail": "E11"
+    },
+    {
+      "check": "referenced_id_资本流动与资本管制_更新片段.md_E08",
+      "passed": true,
+      "detail": "E08"
+    },
+    {
+      "check": "referenced_id_资本流动与资本管制_更新片段.md_E18",
+      "passed": true,
+      "detail": "E18"
+    },
+    {
+      "check": "referenced_id_资本流动与资本管制_更新片段.md_E05",
+      "passed": true,
+      "detail": "E05"
+    },
+    {
+      "check": "referenced_id_资本流动与资本管制_更新片段.md_E02",
+      "passed": true,
+      "detail": "E02"
+    },
+    {
+      "check": "referenced_id_资本流动与资本管制_更新片段.md_E04",
+      "passed": true,
+      "detail": "E04"
+    },
+    {
+      "check": "markdown_local_links",
+      "passed": true,
+      "detail": [
+        {
+          "from": "change_proposal.md",
+          "target": "drafts/经常账户.md",
+          "exists": true
+        },
+        {
+          "from": "change_proposal.md",
+          "target": "drafts/资本流动与资本管制_更新片段.md",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../../../../financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/资本流动与资本管制.md",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../../../inputs/A3_第2章_经常账户可持续性.pdf",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../verification/",
+          "exists": true
+        },
+        {
+          "from": "drafts/经常账户.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/资本流动与资本管制_更新片段.md",
+          "target": "../../../../financial_foundation_v5_20261027/financial_foundation_v5/10_concepts/资本流动与资本管制.md",
+          "exists": true
+        },
+        {
+          "from": "drafts/资本流动与资本管制_更新片段.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/资本流动与资本管制_更新片段.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "drafts/资本流动与资本管制_更新片段.md",
+          "target": "经常账户.md",
+          "exists": true
+        },
+        {
+          "from": "drafts/资本流动与资本管制_更新片段.md",
+          "target": "../evidence.json",
+          "exists": true
+        },
+        {
+          "from": "reading_map.md",
+          "target": "../../inputs/A3_第2章_经常账户可持续性.pdf",
+          "exists": true
+        },
+        {
+          "from": "reading_map.md",
+          "target": "verification/",
+          "exists": true
+        },
+        {
+          "from": "reading_map.md",
+          "target": "../../inputs/holdout_a3_ch2/pages.txt",
+          "exists": true
+        }
+      ]
+    },
+    {
+      "check": "account_identity_-100_1",
+      "passed": true,
+      "detail": "-10"
+    },
+    {
+      "check": "account_identity_-100_2",
+      "passed": true,
+      "detail": "110"
+    },
+    {
+      "check": "finite_terminal_-100",
+      "passed": true,
+      "detail": {
+        "terminal": "0",
+        "discounted_TB_sum": "100"
+      }
+    },
+    {
+      "check": "finite_CA_sum_-100",
+      "passed": true,
+      "detail": "100"
+    },
+    {
+      "check": "account_identity_100_1",
+      "passed": true,
+      "detail": "-50"
+    },
+    {
+      "check": "account_identity_100_2",
+      "passed": true,
+      "detail": "-50"
+    },
+    {
+      "check": "finite_terminal_100",
+      "passed": true,
+      "detail": {
+        "terminal": "0",
+        "discounted_TB_sum": "-100"
+      }
+    },
+    {
+      "check": "finite_CA_sum_100",
+      "passed": true,
+      "detail": "-100"
+    },
+    {
+      "check": "two_period_first_period_discount_base",
+      "passed": true,
+      "detail": "Source page 5 expression agrees with date-zero discounting"
+    },
+    {
+      "check": "growth_identity_1",
+      "passed": true,
+      "detail": {
+        "CA": "-2",
+        "TB": "3",
+        "D": "102"
+      }
+    },
+    {
+      "check": "growth_identity_2",
+      "passed": true,
+      "detail": {
+        "CA": "-51/25",
+        "TB": "153/50",
+        "D": "2601/25"
+      }
+    },
+    {
+      "check": "growth_terminal_ratio",
+      "passed": true,
+      "detail": {
+        "ratio": "34/35",
+        "limit_basis": "positive geometric ratio below one"
+      }
+    },
+    {
+      "check": "constant_positive_B_trade_deficit",
+      "passed": true,
+      "detail": "B=100, r=5%, TB=-5 gives CA=0 and unchanged B"
+    }
+  ],
+  "computed_examples": {
+    "finite_debtor": [
+      {
+        "period": 1,
+        "TB": "0",
+        "B": "-110",
+        "CA": "-10"
+      },
+      {
+        "period": 2,
+        "TB": "121",
+        "B": "0",
+        "CA": "110"
+      }
+    ],
+    "finite_creditor": [
+      {
+        "period": 1,
+        "TB": "-60",
+        "B": "50",
+        "CA": "-50"
+      },
+      {
+        "period": 2,
+        "TB": "-55",
+        "B": "0",
+        "CA": "-50"
+      }
+    ],
+    "infinite_growth_first_two_periods": [
+      {
+        "period": 1,
+        "CA": -2.0,
+        "TB": 3.0,
+        "interest": 5.0,
+        "D": 102.0
+      },
+      {
+        "period": 2,
+        "CA": -2.04,
+        "TB": 3.06,
+        "interest": 5.1,
+        "D": 104.04
+      }
+    ]
+  },
+  "limits": [
+    "No independent content review",
+    "File presence does not prove semantic support or reading",
+    "Infinite-horizon examples verify compatibility under explicit assumptions only"
+  ]
+}

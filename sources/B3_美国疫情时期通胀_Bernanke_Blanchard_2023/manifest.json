@@ -1,0 +1,25 @@
+{
+  "id": "B3",
+  "title": "What Caused the U.S. Pandemic-Era Inflation? — Bernanke、Blanchard，2023-05-23会议稿",
+  "directory": "B3_美国疫情时期通胀_Bernanke_Blanchard_2023",
+  "original_language": "en",
+  "source_urls": [
+    "https://www.brookings.edu/wp-content/uploads/2023/04/bernanke-blanchard-conference-draft_5.23.23.pdf",
+    "https://www.brookings.edu/articles/what-caused-the-u-s-pandemic-era-inflation/"
+  ],
+  "files": [
+    {
+      "file": "Bernanke_Blanchard_20230523.pdf",
+      "source_url": "https://www.brookings.edu/wp-content/uploads/2023/04/bernanke-blanchard-conference-draft_5.23.23.pdf",
+      "resolved_url": "https://www.brookings.edu/wp-content/uploads/2023/04/bernanke-blanchard-conference-draft_5.23.23.pdf",
+      "scope": "会议稿全文",
+      "bytes": 1842958,
+      "sha256": "525a03fc978efad1f1914619c486a0185ad2af2e951174e4a99c7f4bf4657213",
+      "pages": 50
+    }
+  ],
+  "failures": [],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "acquisition_status": "已取得所列原文文件；尚未精读"
+}

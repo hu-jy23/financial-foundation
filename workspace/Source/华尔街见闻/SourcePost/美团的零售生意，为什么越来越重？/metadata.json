@@ -1,0 +1,119 @@
+{
+  "article_id": 3784785,
+  "selection": {
+    "article_id": 3784785,
+    "url": "https://wallstreetcn.com/articles/3784785",
+    "title": "美团的零售生意，为什么越来越重？",
+    "page_display_time": "2026-10-29T21:00:50+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "刘艺晨",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004819",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "A",
+    "reading_value": "分析美团由平台向自营零售扩张的采购、库存、履约和协同约束，给出商业模式层面的逻辑。",
+    "starter_selection": true,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 4275,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 203
+  },
+  "url": "https://wallstreetcn.com/articles/3784785",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784785?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:08+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/5bfc62b4-94f8-477a-8447-01c2f530434e.png",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "仅仅把商品送得更快，已经不足以保证消费者持续选择自己。",
+      "path": "assets/figure_001.png",
+      "sha256": "b281ed14192c166a7574a510cb5b76232902d44e23e439ef9631e2cacc63956c",
+      "bytes": 486989,
+      "width": 885,
+      "height": 907,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/5bfc62b4-94f8-477a-8447-01c2f530434e.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/6ec57d62-35ba-4f7a-b45c-fe9a6eaf6ded.png",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "美团内部已经出现了一些实际的协同。",
+      "path": "assets/figure_002.png",
+      "sha256": "f0189cdbf511fa8ac704f5ae840bf5fb029bf396d11b331606a4a8a47a6aaa46",
+      "bytes": 563004,
+      "width": 1024,
+      "height": 1351,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/6ec57d62-35ba-4f7a-b45c-fe9a6eaf6ded.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/1681b0ed-ca14-4c25-8e58-5ca04f98b7a2.png",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "平台越来越难以单纯依靠新增用户和消费总量扩张获得增长，而食品杂货等高频消费的购物渠道仍在变化，争取原本发生在其他渠道的交易，成为新的增长来源。",
+      "path": "assets/figure_003.png",
+      "sha256": "9a720bf91fecb19df9b863a524f3a263e5ea728e93b6a7da46b2e89b0312b273",
+      "bytes": 537924,
+      "width": 1024,
+      "height": 1484,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/1681b0ed-ca14-4c25-8e58-5ca04f98b7a2.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "美团的零售生意，为什么越来越重？",
+  "page_display_time": "2026-10-29T21:00:50+08:00",
+  "page_byline": "刘艺晨",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "赚零售的辛苦钱",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 4277,
+  "body_sha256": "9633fda000e61533f042076ea05b39891af2761967d932fb4449f3d8da4bb6a5",
+  "raw_sha256": "b3fd1ab4a0b4c01a1e559b90d734ef76164032db6fcf544612016e7764c3161f",
+  "raw_bytes": 21745,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/4635b354-8194-4f40-83a6-c527158598b8.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 4275,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:47+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "b3fd1ab4a0b4c01a1e559b90d734ef76164032db6fcf544612016e7764c3161f",
+      "bytes": 21745
+    },
+    "article.html": {
+      "sha256": "5176b974057aa6c92ce508f6039444637e1b938b20e0816ac6d90851955ef979",
+      "bytes": 20997
+    },
+    "article.md": {
+      "sha256": "9138e8be827e294156f90cdfc5adb6c7b6b3d89e6378c2bc30e455c3353591be",
+      "bytes": 13307
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:49+08:00"
+}

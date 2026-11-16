@@ -1,0 +1,119 @@
+{
+  "article_id": 3783435,
+  "selection": {
+    "article_id": 3783435,
+    "url": "https://wallstreetcn.com/articles/3783435",
+    "title": "节后债市的三个边际变化",
+    "page_display_time": "2026-10-12T21:28:32+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "中国宏观与政策",
+    "reading_priority": "A",
+    "reading_value": "从资金利率、同业存单供给与银行持仓三个环节解释债券需求变化。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1216,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 71
+  },
+  "url": "https://wallstreetcn.com/articles/3783435",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783435?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:29+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/f136dd6b-1283-477f-b923-2ce99edc9ba2.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "同业存单市场已连续两周净偿还：节前一周净偿还2032亿元，节后一周净偿还1083亿元，结束了6月以来大部分时间的净融资状态。",
+      "path": "assets/figure_001.png",
+      "sha256": "e006bc90960c5ee03ba53fe3fcf58753e2edcbbc42dd48ef6a81c39f360c5917",
+      "bytes": 109803,
+      "width": 874,
+      "height": 682,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/f136dd6b-1283-477f-b923-2ce99edc9ba2.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/e800a773-fa48-4b57-a101-f8825565e09d.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "二季度以来，中小银行持续减持债券。截至今年8月，中小银行债券持有量同比增速降至4.9%，明显低于大型银行的18.0%，9月数据预计将进一步走低。",
+      "path": "assets/figure_002.png",
+      "sha256": "244f38c4b070ac213d9d1fb9f4755dc257caef52b249076ff2eaecb4f120eb89",
+      "bytes": 97890,
+      "width": 890,
+      "height": 680,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/e800a773-fa48-4b57-a101-f8825565e09d.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/61eb59bb-bcac-4118-986a-d7f3633bfd1a.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_003.png",
+      "sha256": "8fee010e9dc334a14c3aaefabb6eaebe90d05699500c9ec3cf899c6875ecc4f8",
+      "bytes": 114114,
+      "width": 1024,
+      "height": 521,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/61eb59bb-bcac-4118-986a-d7f3633bfd1a.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "节后债市的三个边际变化",
+  "page_display_time": "2026-10-12T21:28:32+08:00",
+  "page_byline": "李佳",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "国盛证券认为，节后债市走强的三大支撑正在显现：资金价格突破此前区间下限，短端利率中枢或进一步下移；同业存单连续净偿还，银行负债融资需求减弱；中小银行债券持仓增速放缓，后续存在补仓空间。据此，10年期国债收益率有望下探至1.6%附近，30年期或接近2.0%，四季度同业存单利率则有望降至1.4%附近。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1298,
+  "body_sha256": "20b5f6b133f56824f9b8a97bd77edf3b04607e528aea6753c7686999ad4c08b6",
+  "raw_sha256": "79977a7abe06ff973292b8397db0b5d25e5e8d840771f1077f8d5a9511ccb087",
+  "raw_bytes": 8496,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/6dea9f72-87b1-49ee-8748-97faf93c0ccf.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 1216,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:35+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "79977a7abe06ff973292b8397db0b5d25e5e8d840771f1077f8d5a9511ccb087",
+      "bytes": 8496
+    },
+    "article.html": {
+      "sha256": "c7ed036e3ac8a24558da3d6999469a9af0d9c689100891034c6772c13a4f6110",
+      "bytes": 8775
+    },
+    "article.md": {
+      "sha256": "320fe7da7325166e3254c897962b4d048b8314bbba38a488a9690c2f7d4e015c",
+      "bytes": 4695
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:20+08:00"
+}

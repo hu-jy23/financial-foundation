@@ -1,0 +1,73 @@
+{
+  "article_id": 3784023,
+  "selection": {
+    "article_id": 3784023,
+    "url": "https://wallstreetcn.com/articles/3784023",
+    "title": "数字黄金一年翻三倍至550亿美元：规模仅占黄金ETF 8%，交易量已超去年全年",
+    "page_display_time": "2026-10-20T18:14:50+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "数字资产与金融创新",
+    "reading_priority": "B",
+    "reading_value": "介绍代币化黄金的渠道、使用者与市场结构，适合拓展传统ETF之外的黄金需求。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1220,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 143
+  },
+  "url": "https://wallstreetcn.com/articles/3784023",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784023?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:51+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "数字黄金一年翻三倍至550亿美元：规模仅占黄金ETF 8%，交易量已超去年全年",
+  "page_display_time": "2026-10-20T18:14:50+08:00",
+  "page_byline": "李佳",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "数字黄金市场快速扩张，规模已从2025年初的约180亿至220亿美元增至约550亿美元；2026年一季度代币化黄金累计现货交易量超900亿美元，已超2025年全年总量。代币化产品降低投资门槛、吸引年轻投资者，WGC预计到2031年市场规模或达1700亿美元。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1303,
+  "body_sha256": "fb4b1f5dfc1e1fb149b17df0638c887858ffca25f6f399c658ab080c5c85e632",
+  "raw_sha256": "62c6a2468448768894a4b944c87fef77c5743e97eaab9f0724186553ac62e496",
+  "raw_bytes": 7574,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/86c0f18f-d95c-4b28-adc9-b945a93b8599.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1220,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:42+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "62c6a2468448768894a4b944c87fef77c5743e97eaab9f0724186553ac62e496",
+      "bytes": 7574
+    },
+    "article.html": {
+      "sha256": "e8f4cc9794295aebc4efeb2dd5240747088ff7f144870ca70347882bd7ba07c0",
+      "bytes": 7414
+    },
+    "article.md": {
+      "sha256": "90e00930abf74ae55202b8985514e44675d977cb4dddad705ac0159c07d8725a",
+      "bytes": 4418
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:33+08:00"
+}

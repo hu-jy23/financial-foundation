@@ -1,0 +1,177 @@
+{
+  "article_id": 3758157,
+  "selection": {
+    "article_id": 3758157,
+    "url": "https://wallstreetcn.com/articles/3758157",
+    "title": "华尔街看中国互联网：存在\"独特的投资机会\"，拥抱AI和游戏，回避电商",
+    "page_display_time": "2025-10-29T15:09:35+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "B",
+    "reading_value": "按云、游戏和电商的竞争及利润结构拆分互联网行业，呈现行业内部估值差异。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1537,
+    "page_image_count": 6,
+    "original_underlying_research_verified": false,
+    "catalog_number": 197
+  },
+  "url": "https://wallstreetcn.com/articles/3758157",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3758157?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:07+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/d8858039-2f02-46e2-802c-0ffbcea83107.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "在AI与云业务领域，报告更看好阿里巴巴。",
+      "path": "assets/figure_001.png",
+      "sha256": "b982a163b345cd2562fad48dd5cabc133d3a2b5fa8612a0c11d48b7dc4993f67",
+      "bytes": 125021,
+      "width": 981,
+      "height": 849,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/d8858039-2f02-46e2-802c-0ffbcea83107.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/5dcba810-25ac-4b82-ba38-e6287b0a7220.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "数据显示，由于竞争加剧，电商板块的总运营利润增速已从2025年第一季度的同比增长2%急剧减速至第二季度的同比下降23%。自2025年6月以来，多数交易平台的12个月滚动EPS预测均被下调，其中美团的下调幅度最为显著。",
+      "path": "assets/figure_002.png",
+      "sha256": "55c022ccc6343ad5e3470676400cc1011d17f0a3ce430cb709d217c8971ad409",
+      "bytes": 155706,
+      "width": 1024,
+      "height": 454,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/5dcba810-25ac-4b82-ba38-e6287b0a7220.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/d40b3059-b8b2-45a8-958c-4c9c18849d25.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "尽管如此，在交易平台中，分析师相对更看好阿里巴巴。核心理由包括：（1）云收入有望持续加速；（2）在即时零售领域已成为主要的份额增长者；（3）传统电商业务势头改善。",
+      "path": "assets/figure_003.png",
+      "sha256": "2b775410a8ae7efddb0d93a48cacb86a09d6eaa09285d1f2fdf30e4a33c8ecb1",
+      "bytes": 225043,
+      "width": 1024,
+      "height": 463,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/d40b3059-b8b2-45a8-958c-4c9c18849d25.png"
+    },
+    {
+      "order": 4,
+      "source_url": "https://wpimg-wscn.awtmt.com/275d2d17-bf58-40e5-a78f-95817c0c7e5f.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "纳斯达克金龙中国指数目前交易于16倍远期12个月市盈率，恒生科技指数为20倍，而纳斯达克100指数为28倍，\"科技七巨头\"指数为33倍。",
+      "context_after": "历史对比来看，纳斯达克金龙中国指数曾在2023年初之前与纳斯达克100指数以相似估值交易，甚至在2021年交易于溢价水平。中国互联网股票相对MSCI中国指数的估值溢价目前仅为20%，而过去10年为40-80%，尽管该板块是AI驱动生产力提升的主要受益者。",
+      "path": "assets/figure_004.png",
+      "sha256": "067297e845d7d9d62f2698311cff83275f18c2e78b2e3afcd13b843377f191f0",
+      "bytes": 311877,
+      "width": 1024,
+      "height": 673,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/275d2d17-bf58-40e5-a78f-95817c0c7e5f.png"
+    },
+    {
+      "order": 5,
+      "source_url": "https://wpimg-wscn.awtmt.com/26174428-1220-42bb-ad0f-1f0fb198deca.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "这一深度折让为长期投资者提供了独特的进入机会，特别是在AI应用和游戏等高确定性增长领域。",
+      "path": "assets/figure_005.png",
+      "sha256": "bbc0e71465a9465eea6dfc3ecfe042cacb46b5aded70918e3e410c8f08df464e",
+      "bytes": 126593,
+      "width": 1024,
+      "height": 532,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/26174428-1220-42bb-ad0f-1f0fb198deca.png"
+    },
+    {
+      "order": 6,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_006.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "华尔街看中国互联网：存在\"独特的投资机会\"，拥抱AI和游戏，回避电商",
+  "page_display_time": "2025-10-29T15:09:35+08:00",
+  "page_byline": "许超",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "美银美林认为，中国互联网巨头在AI应用和商业化方面处在“最佳位置”。尽管年初至今已上涨超50%，板块的估值仍处在“不苛刻的水平”。分析师强烈建议拥抱AI应用、在线游戏领域，同时对电商平台保持谨慎，特别是受即时零售（快商务）竞争冲击的公司，腾讯目前是板块首选。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1611,
+  "body_sha256": "d7cf906933d3359ec672a89e62e72a9266fda5dd83da0ca50ef6f3773ace7799",
+  "raw_sha256": "dd26c59b29a9e9a96dd11913aa9319185d401bb646e3ca1858f7c9604477623e",
+  "raw_bytes": 10545,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/0b3257d1-7771-4915-951a-4bf6bd8634d8.mp3",
+  "image_occurrences": 6,
+  "html_table_count": 0,
+  "catalog_image_count": 6,
+  "catalog_text_characters": 1537,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:47+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "dd26c59b29a9e9a96dd11913aa9319185d401bb646e3ca1858f7c9604477623e",
+      "bytes": 10545
+    },
+    "article.html": {
+      "sha256": "f0034edc8626d6c10c5acf24f8e0e14ffe428672320a4cfde95a891d90f69d69",
+      "bytes": 10985
+    },
+    "article.md": {
+      "sha256": "e2893d43b89ee2e64736b61b925c4020dfbc1771b8bc5a1bf22ba58887befa4a",
+      "bytes": 5772
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:48+08:00"
+}

@@ -1,0 +1,1810 @@
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Slides for Chapter 11: International Capital Market
+                    Integration
+
+                                                      Columbia University
+
+                                                       September 6, 2022
+
+
+
+
+These are the slides for the textbook, “International Macroeconomics: A Modern Approach,” by
+Stephanie Schmitt-Grohé, Martı́n Uribe, and Michael Woodford, Princeton University Press, 2022,
+ISBN: 9780691170640.
+
+
+
+
+                                                                                                                                      1
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Introduction
+• In Chapter 9, we studied whether world goods markets are integrated and
+whether under free trade there is a tendency for the prices of goods and services
+to equalize across countries. In this chapter, we study whether international
+capital markets are integrated and investigate whether under free capital mobility
+there is a tendency for interest rates to equalize across countries.
+
+• Overall, the world has become more financially globalized. For example, between
+the mid 1970s and 2018 U.S. gross international liabilities grew from 15 to over
+170 percent of GDP and U.S. gross international assets jumped from 20 to over
+130 percent of GDP. A similar pattern of growth in gross international asset and
+liability positions has been observed in many countries.
+
+• A number of events have contributed to this phenomenon: capital controls
+were dismantled after the breakdown of the Bretton-Woods fixed-exchange rate
+system in the early 1970s, the creation of the European monetary union led to
+the removal of all capital controls within the euro area by 1986, and following
+accession to the WTO in the early 2000s, China has emerged as a major supplier
+of funds to world capital markets.
+
+
+
+
+                                                                                                                                      2
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+                                 Covered Interest-Rate Parity
+
+
+
+
+                                                                                                                                      3
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+• Under free capital mobility, rates of return on risk-free investments
+should be equal across countries.
+
+• One difficulty in measuring cross-country return differentials is
+that interest rates across countries are not directly comparable if
+they relate to investments in different currencies.
+
+Example:
+it = domestic interest rate (dollar); i∗t = foreign interest rate
+Dollar payoff in period t + 1 of a 1-US dollar investment made in t:
+1 + it dollars when invested in the US
+(1 + i∗t )Et+1 /Et dollars when invested abroad
+⇒ payoffs in the same currency depend not only on it and i∗t , but
+also on Et+1 /Et .
+One might be tempted to conclude that:
+—If 1 + it > (1 + i∗t )Et+1 /Et , borrow abroad and invest in US, and
+make unbounded profits.
+—If 1 + it < (1 + i∗t )Et+1 /Et, borrow in US, invest abroad, and make
+unbounded profits.
+                                                                                                                                      4
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+This investment strategy suffers, however, from a fundamental prob-
+lem.
+
+At time t, Et+1 is not known with certainty.
+
+In period t, the return associated with investing in US, 1+it , is known
+with certainty, but the return associated with investing abroad, (1 +
+i∗t )Et+1 /Et, is uncertain.
+
+Even under free capital mobility, returns knewn with certainty need
+not be equal to uncertain returns.
+
+Thus, we cannot deduce from 1 + it 6= (1 + i∗t )Et+1 /Et that there is
+a no free capital mobility.
+
+
+                                                                                                                                      5
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Forward exchange markets allow investors to cover themselves against
+exchange rate risk.
+
+Let Ft = the forward rate, which is the dollar price at time t of 1
+euro delivered and paid for at time t + 1.
+
+The dollar return of a one-dollar investment in Germany using the
+forward exchange market is:
+                                                                        ∗ Ft
+                                                                  (1 + it )
+                                                                            Et
+This return is known with certainty at time t and thus comparable
+to the return of a 1-dollar US investment.
+
+
+
+
+                                                                                                                                      6
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+The difference between the domestic return and the foreign return
+expressed in domestic currency by use of the forward exchange rate
+is known as the covered interest rate differential:
+                                                              Ft
+    Covered Interest Rate Differential = (1 + it) − (1 + i∗t ) . (1)
+                                                              Et
+
+When the covered interest rate differential is zero, we say that
+covered interest rate parity (CIP) holds.
+
+In the absence of barriers to capital mobility and for interest rates
+and forward rates that are free of default risk, a violation of CIP
+implies the existence of arbitrage opportunities. When an arbitrage
+opportunity exists there is the possibility of making unbounded prof-
+its without taking on any risk.
+
+
+                                                                                                                                      7
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Example of how to exploit violatations of CIP
+
+it = 0.07 (US rate); i∗t = 0.03(Euro rate);
+Et = 0.50 dollars per euro; Ft = 0.51 dollars per euro
+The covered interest rate differential is:
+1 + it − (1 + i∗t )Ft/Et = 1.07 − 1.03 × 1.02 = 0.0194 ⇒ CIP is violated.
+
+How to profit from this violation of CIP?
+(1) borrow 1 euro in Germany.
+(2) exchange your euro in the spot market for $0.50.
+(3) invest the $0.50 in a U.S. deposit.
+(4) buy 1.03 euros in the forward market
+(5) after 1 year, your U.S. investment yields 1.07 × $0.5 = $0.535.
+(6) execute your forward contract, that is, purchase 1.03 euros for
+0.51 × 1.03 = 0.5253 dollars and repay your German loan.
+• receipts - payments, (5)-(6), = $0.535 − $0.5253 = $0.0097 > 0.
+
+Note that this operation involved no exchange-rate risk (because you
+used the forward market), needed no initial capital, and yielded a
+pure profit of $0.0097— which makes it a pure arbitrage opportunity.
+                                                                                                                                      8
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Takeaway: for interest rates and forward rates that are free of
+default risk, the covered interest rate differential should be zero
+if there are no barriers to international capital flows. Therefore,
+the existence of nonzero covered interest-rate differentials is an
+indication of lack of free capital mobility.
+
+
+
+
+                                                                                                                                      9
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+                                                     Empirical Evidence
+
+                                                                          on
+
+                                 Covered Interest-Rate Differentials
+
+
+
+
+                                                                                                                                    10
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Covered Interest Rate Differentials in China: 1998-2021
+
+• In 2001 China became a member of the World Trade Organization.
+This required lowering barriers to trade in goods and services (tariffs
+and quotas). In this way, China became more integrated to the rest
+of the world in markets for goods and services.
+
+• Did China also become more integrated in world financial markets?
+
+• Let’s look at the observed behavior of the dollar-renminbi covered
+interest rate differential (equation (1)):
+                                                                       ∗   Ft
+                                                      (1 + it) − (1 + it )
+                                                                           Et
+where
+it = dollar interest rate in the United States,
+i∗t = renminbi interest rate in China
+Et = spot exchange rate (dollars per renminbi), and
+Ft = forward exchange rate (dollars per renminbi).
+                                                                                                                                    11
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                      Chapter 11: International Capital Market Integration
+
+
+
+
+Dollar-Renminbi Covered Interest Rate Differentials, 1998–
+2021
+                                                   10
+
+                                                    8
+
+                                                    6
+
+                                                    4
+                                Percent per year
+
+
+
+
+                                                    2
+
+                                                    0
+
+                                                    -2
+
+                                                    -4
+
+                                                    -6
+
+                                                    -8
+
+                                                   -10
+                                                     1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022
+
+
+
+Notes. The figure plots weekly observations of the dollar-renminbi covered interest
+rate differential for the period December 11, 1998 to September 24, 2021, in
+percent per year. Own calculations based on data from Bloomberg.
+
+
+                                                                                                                                                       12
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+What Does the Figure Show?
+
+• Observed deviations from covered interest rate parity are large 3.1
+percentage points on average.
+
+• In the last five years of the sample, the differential fell by about
+1 percentage point but remained sizable, 2.1 percentage points on
+average.
+
+• Large differentials are a sign of impediments to capital flows.
+
+• The sign of the differential flipped twixe: Mostly positive prior to
+October 2002 and after August 2015, and mostly negative in the
+intervening period.
+
+• A negative differential indicates impediments to capital outflows
+(Chinese wanting to invest abroad, but not being able to do it).
+
+• A positive differential indicates impediments to capital inflows
+(Chinese wanting to save abroad, but not being able to do it).
+                                                                                                                                    13
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Capital Controls and Interest Rate Differentials: Brazil 2009-
+2012
+
+• Government regulations that impede international capital flows are
+called capital controls. Examples: taxes on international inflows or
+outflows of capital, quotas on international borrowing or lending, or
+requirements to park capital inflows or outflows in nonremunerated
+domestic accounts for a given period of time.
+
+• During the global financial crisis of 2008, interest rates in devel-
+oped countries fell to near zero.
+
+• Global investors started to send funds to emerging market economies,
+where interest rates were higher. Brazil received large inflows.
+
+
+                                                                                                                                    14
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+• Brazilian authorities, concerned that capital inflows would desta-
+bilize the economy, enacted capital controls between October 2009
+and March 2012, including taxes on portfolio equity inflows, taxes
+on fixed income inflows, and unremunerated reserve requirements.
+After March 2012 they were gradually removed.
+
+• To see if capital controls were effective, let’s look at the real-dollar
+covered interest rate differential:
+                                  Et
+                          (1 + it) − (1 + i∗t )
+                                  Ft
+where
+Et = spot exchange rate (reais price of one U.S. dollar)
+Ft = 360-day forward exchange rate of U.S. dollars, and
+i∗t the 360-day U.S. dollar Libor rate.
+
+
+
+                                                                                                                                    15
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”          Chapter 11: International Capital Market Integration
+
+
+
+
+The cupom cambial
+In Brazil, the first term was called cupom cambial, that is
+                                            Et                cupom
+                                                   1 + it                  = (1 + it)
+                                            Ft
+Thus, the cupom cambial is the dollar interest rate inside Brazil.
+Then, the covered interest rate differential is
+                                                                                                   cupom
+                   covered interest rate differential                                   =        it             − i∗t .
+The next figure plots daily data for the real-dollar covered interest
+rate differential for the period January 1, 2010 to December 31,
+2012.
+
+
+
+
+                                                                                                                                           16
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”          Chapter 11: International Capital Market Integration
+
+
+
+
+Brazilian Real-U.S. Dollar Covered Interest Rate Differentials,
+2010–2012
+                                                          4
+
+
+
+                                                         3.5
+
+
+
+                                                          3
+
+
+
+                                                         2.5
+                                     percentage points
+
+
+
+
+                                                          2
+
+
+
+                                                         1.5
+
+
+
+                                                          1
+
+
+
+                                                         0.5
+
+
+
+                                                          0
+
+                                                          2010   2011                2012           2013
+
+
+
+
+Notes. The figure plots daily real-dollar covered interest rate differentials computed as the spread
+between the cupom cambial and the U.S. dollar Libor rate for the period January 1, 2010 to
+December 31, 2012. Data Source: Marcos Chamon and Márcio Garcia, ‘Capital Controls in
+Brazil: Effective?’, Journal of International Money and Finance 61, 2016, 163-187.
+
+
+
+                                                                                                                                           17
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+What Does the Figure Show?
+
+• The covered interest rate differential was around half a percentage
+point until the fall of 2010, suggesting capital controls until then,
+were not too effective.
+
+starting in the fall of 2010, the Brazilian government intensified
+capital controls and the differential started rising, reaches 4 per-
+centage points by April 2011. Thus, controls were effective during
+this periods.
+
+By early 2012, however, arbitragers seem to have found ways to
+bypass the capital control tax as differentials return to normal levels
+of around 0.5 percentage points.
+
+Message: Capital controls can be effective.
+However, if imposed on a narrowly defined set of international trans-
+actions, their effectiveness can be temporary, as financial investors
+have an incentive to find ways to avoid them.
+                                                                                                                                    18
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+   Empirical Evidence on Covered Interest Rate Differentials:
+
+                                              A Long-Run Perspective
+
+
+
+
+                                                                                                                                    19
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                               Chapter 11: International Capital Market Integration
+
+
+
+
+Dollar-Pound Covered Interest Rate Differentials: 1870-2003
+
+                                      7
+
+
+                                      6                 1914 →                                                         ← 1985
+
+
+                                      5
+
+
+                                      4
+
+
+                                      3
+                  percent per year
+
+
+
+
+                                      2
+
+
+                                      1
+
+
+                                      0
+
+
+                                     −1
+
+
+                                     −2
+
+
+                                     −3
+                                      1860   1880   1900           1920           1940           1960           1980          2000           2020
+
+Notes: The figure plots annual averages of monthly dollar-pound covered interest rate differentials. Source: Obstfeld, Maurice, and Alan M. Taylor, “Globalization and
+Capital Markets.” In Globalization in Historical Perspective, edited by M. D. Bordo, A. M. Taylor and J. G. Williamson. Chicago: University of Chicago Press, 2003.
+
+
+                                                                                                                                                                 20
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”         Chapter 11: International Capital Market Integration
+
+
+
+
+Comments on the Figure
+
+                                                                                     $/£
+What is plotted?: (1 + ius )   (1 +   uk ) Ft
+                        t    −      i t     $/£ for the period 1870 to
+                                           Et
+2003.
+
+What does the figure reveal? Small covered interest rate differ-
+entials before World War I and after 1985, suggesting a high degree
+of international capital-market integration in those two subperiods.
+High covered interest rate differentials after World War I until about
+1985, suggesting a low degree of international capital market inte-
+gration in that period.
+
+Takeaway: free capital mobility is not a modern phenomenon:
+financial capital flowed in a more or less unfettered fashion before
+World War I and after 1985.
+
+                                                                                                                                          21
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+                                                     Empirical Evidence
+
+                                                                          on
+
+                     Offshore-Onshore Interest Rate Differentials
+
+
+
+
+                                                                                                                                    22
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+• Besides covered interest rate differentials there are other interest
+rate differentials that are informative about the degree of capital
+market integration.
+
+• One alternative uses interest rates on instruments denominated in
+the same currency, for example, the U.S. dollar, issued in financial
+centers located in different countries. For example, one can compare
+the interest rate on dollar time deposits in banks located in New York
+(the onshore rate) and London (the offshore rate).
+
+• Letting it be the interest rate in period t on a dollar deposit in
+the United States and i∗t the interest rate on a dollar deposit in the
+foreign country, the offshore-onshore interest rate differential is
+                                  offshore-onshore differential = i∗t − it.
+
+• Both interest rates are on dollar deposits, → no exchange rate risk.
+
+• If both deposits are default-risk free, then, under free capital
+mobility, the offshore-onshore differential should be zero.
+                                                                                                                                    23
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                   Chapter 11: International Capital Market Integration
+
+
+
+
+Offshore-Onshore Interest Rate Differential of the U.S. Dollar:
+1981Q1-2019Q1
+                                           1
+
+
+                                          0.9
+
+
+                                          0.8
+
+
+                                          0.7
+
+
+                                          0.6
+                       percent per year
+
+
+
+
+                                          0.5
+
+
+                                          0.4
+
+
+                                          0.3
+
+
+                                          0.2
+
+
+                                          0.1
+
+
+                                           0
+                                           1980   1985   1990          1995          2000          2005          2010          2015          2020
+
+
+
+Notes: The figure plots the average quarterly offshore-onshore interest rate differential of the U.S. dollar. The offshore rate is the 3-month Euro-Dollar deposit interest
+rate, Bank of England series: IUQAED3A. The onshore rate is the 3-month certificates of deposit (CD) rate for the United States, OECD MEI series: IR3TIB.
+
+
+                                                                                                                                                                      24
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Comments on the Figure
+
+What is plotted?: i∗t − it for 1981Q1-2019Q
+
+What does the figure reveal? Dollar interest rates are higher in
+the UK than in the US prior to 1985 and after 2008. Near zero
+offshore-onshore differentials between 1990 and 2008.
+
+Takeaway: free capital mobility between 1990 and 2008, but im-
+pediments to free capital mobility in the 1980s (consistent with
+evidence from CIRD), and to some extend post 2018. The latter
+is attributed to regulations put into place post financial crisis that
+prevent financial institutions to exploit the arbitrage opportunities
+presented by non-zero offshore-onshore interest rate differentials.
+
+
+                                                                                                                                    25
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+                              Uncovered Interest Rate Parity
+
+
+
+
+                                                                                                                                    26
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+• A central concept in international finance is that of uncovered
+interest rate parity (UIP). Uncovered interest rate parity holds if:
+                                                                                     !
+                                       Et+1
+                                             ,1 + it = (1 + i∗t )Et
+                                                               (2)
+                                        Et
+where Et denotes the expectations operator conditional on informa-
+tion available in period t.
+
+• When UIP holds, the gross rate of return of 1 unit of domestic
+currency invested in domestic assets, 1 + it, is equal to the expected
+gross rate of return
+                    of 1 unit of domestic currency invested in foreign
+                                           Et+1
+assets, (1 + i∗t )Et                        Et  .
+
+• In this section we show that when households are risk averse UIP in
+general does not hold. This suggests that observing sizable uncov-
+ered interest rate differentials is not an indication of the existence
+of impediments to free capital mobility across countries. (We will
+take up this point first.)
+
+• We also present empirical evidence of violations of UIP.
+                                                                                                                                    27
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+      Asset Pricing in a 2-period Small Open Economy Model
+
+Two important interest rate parity conditions are
+
+• CIP = covered interest rate parity: (1 + it) = (1 + i∗t ) F
+                                                            E
+                                                              t
+                                                                                                               t
+
+
+                                                                                                                        E
+• UIP = uncovered interest rate parity: (1 + it ) = (1 + i∗t )Et t+1
+                                                                 E                                                           t
+
+
+Do CIP and UIP hold in an eqm asset pricing model under free
+capital mobility?
+
+
+
+
+                                                                                                                                    28
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Notation:
+
+π = probability economy is in the good state in period 2.
+1 − π = probability economy is in the bad state in period 2.
+
+Endowments:
+Period 1: Q1
+                         g
+Period 2, good state: Q2
+Period 2, bad state: Qb2
+
+Consumption:
+Period 1: C1
+                         g
+Period 2, good state: C2
+Period 2, bad state: C2b
+
+
+
+                                                                                                                                    29
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Notation (ctd.):
+
+Exchange rates:
+Period 1: E1 , spot exchange rate
+Period 1: F1, forward exchange rate
+Period 2, good state: E2g , spot exchange rate in good state
+Period 2, bad state: E2b , spot exchange rate in bad state
+
+Domestic Price Level:
+Period 1: P1
+                         g
+Period 2, good state, P2
+Period 2, bad state, P2b
+
+Interest Rates:
+i1: interest rate on domestic-currency bond held from period 1 to 2
+i∗1: interest rate on foreign-currency bond held from period 1 to 2
+
+                                                                             g
+Expectations operator: E1x2 = πx2 +(1−π)xb2 denotes the expected
+value of the random variable x2 given information in period 1.
+                                                                                                                                    30
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+With this notation, we have:
+
+Covered Interest Rate Parity (CIP):
+
+                                                                      ∗ F1
+                                                       1 + i1 = (1 + i1)
+                                                                         E1
+Uncovered Interest Rate Parity (UIP):
+                                                                        E
+                                                    1 + i1 = (1 + i∗1)E1 2
+                                                                        E1
+
+
+As we will show next, under free capital mobility, CIP holds in eqm.
+At the same time, UIP, in general, fails. For UIP to hold it would
+have to be the case that the forward rate is equal to the expected
+future spot rate, that is, it would have to be true that
+
+                                                                 F1 = E1 E2
+
+
+But this condition is not a requirement of eqm.
+                                                                                                                                    31
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Is CIP an equilibrium condition of the model economy?
+
+Features of the model
+
+• there is free capital mobility
+
+• Domestic households have access to 3 types of bonds:
+
+– B1 domestic-currency bonds with interest rate i1.
+
+– B1∗ foreign-currency bonds with interest rate i∗1 for which HH buys
+forward cover.
+
+– B̃1∗ foreign-currency bonds with interest rate i∗1, for which HH does
+not buy forward cover.
+
+
+                                                                                                                                    32
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 11: International Capital Market Integration
+
+
+
+
+Households
+                                                                                     g
+                   Expected utility = U (C1) + πU (C2) + (1 − π)U (C2b )                                                             (3)
+Budget Constraints:
+Period 1:
+                                        P1C1 + B1 + E1B1∗ + E1B̃1∗ = P1Q1                                                            (4)
+Period 2, good state:
+           g     g            g     g                                                                               g
+       P2 C2 = P2 Q2 + (1 + i1)B1 + (1 + i∗1)F1B1∗ + (1 + i∗1)E2 B̃1∗                                                                (5)
+Period 2, bad state:
+
+        P2bC2b = P2bQb2 + (1 + i1)B1 + (1 + i∗1)F1B1∗ + (1 + i∗1)E2b B̃1∗                                                            (6)
+
+
+
+
+                                                                                                                                        33
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+How to choose B1 , B1∗ , and B̃1∗ ? To maximize utility.
+
+                                                                         g
+Household problem: Pick C1, C2, C2b , B1, B1∗ , and B̃1∗ to maximize
+(3) subject to (14)-(6).
+
+To make the problem easier to characterize solve (14) for C1, (5) for
+  g
+C2, and (6) for C2b and use the resulting expressions to eliminate C1,
+  g
+C2, and C2b from (3). Then we have a single objective function in
+three unknowns, namely, B1, B1∗ , and B̃1∗ , which we pick to maximize
+expected utility.
+
+
+
+
+                                                                                                                                    34
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Solving the period-1 budget constraint for C1 yields:
+
+                                   ∗    ∗    P1Q1 − B1 − E1 B1∗ − E1B1∗
+                           C1(B1, B1, B̃1) =                            .
+                                                       P1
+                                                                                                                 g
+Solving the period-2, good state, budget constraint for C2 yields:
+                       g g                                      g
+                                                                   
+                     P   Q  + (1 + i   )B  + (1 + i ∗ ) F B∗ + E B∗
+    g      ∗    ∗      2  2          1   1          1    1 1    2 1
+  C2(B1, B1 , B̃1) =                          g                       .
+                                            P2
+Solving the period-2, bad state, budget constraint for C2b yields:
+                                                                   
+                       b  b                        ∗       ∗
+                     P1Q2 + (1 + i1)B1 + (1 + i1) F1B1 + E2 B1  b ∗
+    b      ∗    ∗
+  C2(B1, B1, B̃1 ) =                                                  .
+                                              b
+                                             P2
+
+
+
+
+                                                                                                                                    35
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                Chapter 11: International Capital Market Integration
+
+
+
+
+Now take the first order condition w.r.t. B1, this yields:
+
+                         0  1      0  g 1 + i1         0  b 1 + i1
+                     U (C1)    = πU (C2)   g + (1 − π)U (C2)
+                            P1            P2                  P2b
+Rewrite this expression as:
+                                            0  g      "
+                                                                0  b
+                                                                          #
+                                           U (C2) P1           U (C2) P1
+                             1 = (1 + i1) π 0         + (1 − π) 0
+                                           U (C1) P2g          U (C1) P2b
+Letting E1 denote the expectations operator, we have:
+                                                                                     U 0(C2) P1
+                                                                                (                 )
+                                              1 = (1 + i1)E1
+                                                                                     U 0(C1) P2
+                                          U 0(C2 ) P1
+                                                          
+Finally, let M2 ≡                         U 0(C1 ) P2
+                                                                denote the nominal mrs between period
+2 and period 1, to arrive at the following asset pricing condition:
+
+                                                      1 = (1 + i1)E1 {M2}                                                                     (7)
+
+
+                                                                                                                                                 36
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”              Chapter 11: International Capital Market Integration
+
+
+
+
+FOC w.r.t. to B1∗ (for which the HH buys forward cover):
+
+            0     E1          ∗  0  g F1                ∗  0  b F1
+           U (C1)    = π(1 + i1)U (C2) g + (1 − π)(1 + i1)U (C2) b
+                  P1                  P2                        P2
+Rewrite this expression as
+                                         0  g            "
+                                                          0  b
+                                                                   #
+                                    F   U (C ) P         U (C ) P
+                       1 = (1 + i∗1) 1 π 0 2 1g + (1 − π) 0 2 1b
+                                    E1  U (C1) P2        U (C1) P2
+
+
+Using the expectations operator notation we have:
+                                                              U 0(C2) P1
+                                                          (                          )
+                               F                                                                    F
+                  1 = (1 + i∗1) 1 E1                                                     = (1 + i∗1) 1 E1 {M2}                              (8)
+                               E1                             U 0(C1) P2                            E1
+
+
+
+
+                                                                                                                                               37
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 11: International Capital Market Integration
+
+
+
+
+Combining (7) and (8) we obtain:
+
+                                                     (1 + i1) = (1 + i∗1) F
+                                                                          E
+                                                                            1                                                        (9)
+                                                                                     1
+
+
+
+which is the covered interest rate parity condition. Thus, we
+have the answer to our question, under free capital mobility, in our
+theoretical model CIP is an equilibrium conditions. If one were to
+observe deviations from CIP, then one can conclude that there are
+obstacles to free capital mobility.
+
+
+
+
+                                                                                                                                        38
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”            Chapter 11: International Capital Market Integration
+
+
+
+
+What about Uncovered Interest Rate Parity, must it hold in eqm?
+
+Consider the FOC w.r.t B̃1∗ .
+                                       g                        b
+           0     E1          ∗  0  g E2                ∗  0  b E2
+          U (C1)    = π(1 + i1)U (C2) g + (1 − π)(1 + i1)U (C2) b .
+                 P1                  P2                        P2
+Rewrite this expression as
+                                    g 0   g      "
+                                                           b   0  b
+                                                                         #
+                              ∗    E2 U (C2) P1           E2 U (C2) P1
+                    1 = (1 + i1) π            g + (1 − π)
+                                       0
+                                   E1 U (C1) P2           E1 U 0(C1) P2b
+
+
+Using the expectations operator notation we have:
+                                                        U 0(C2) P1
+                                     (           !                           !)                         (           !           )
+                                            E2                                                                 E2
+   1 = (1 + i∗1)E1                                                                   = (1 + i∗1)E1                M2                   (10)
+                                            E1          U 0(C1) P2                                             E1
+
+
+
+                                                                                                                                             39
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Combining the asset pricing equations (8) and (10), we obtain
+
+                                                  F1E1 {M2} = E1 {E2 M2}
+but this expression does in general not imply that the forward rate,
+F1, is equal to the expected future spot rate, E1 E2. That is, it does
+not follow from here that
+
+                                                              F1 = E1 {E2 }
+Hence, in general, the model predicts that under free capital mobility
+uncovered interest rate parity fails.
+
+It follows that observed violations of UIP need not imply lack of free
+capital mobility.
+
+
+
+                                                                                                                                    40
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 11: International Capital Market Integration
+
+
+
+
+Next we wish to find conditions under which UIP holds in our model.
+
+Recall that for any pair of random variables a and b their covariance
+conditional on information available in period 1 is given by
+
+                                cov1(a, b) = E1 (a − E1 (a)) (b − E1(b))
+                                                        = E1 (ab) − E1 (a)E1(b)
+or E1 (ab) = cov1 (a, b) + E1(a)E1 (b)
+
+We then can express E1 {(E2 /E1)M2 } as
+                              (               )                                      !   (      )
+                                  E2                                 E2           E2
+                       E1            M2           = cov1                , M2 + E1    E1 {M2}
+                                  E1                                 E1           E1
+and rewrite (10) as
+                                                    "                            !       (    )                      #
+                                                                   E2           E2
+                       1 = (1 + i∗1) cov1                             , M2 + E1    E1 {M2}
+                                                                   E1           E1
+
+                                                                                                                                            41
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                    Chapter 11: International Capital Market Integration
+
+
+
+
+Suppose now that the depreciation rate, E2 /E1, is uncorrelated with
+the pricing kernel, M2, that is,
+                                                                                     !
+                                                              E2
+                                                         cov1    , M2                    =0
+                                                              E1
+Then equation (10) becomes
+                                                                               (         )
+                                                                                     E2
+                                             1 = (1 + i∗1)E1                            E1 {M2}
+                                                                                     E1
+Combine this expression with equation (8) to obtain
+                                                               F1 = E1{E2}                                                                     (11)
+which says that, in the model, if the depreciation rate, E2/E1 , is
+uncorrelated with the pricing kernel, M2, then the forward rate equals
+the expected future spot rate.
+
+And further if we combine the above expression with (7) we have
+                                                                                                 E2
+                                                                                             n        o
+                                               (1 + i1) = (1 + i∗1)E1                            E1
+or UIP holds.
+                                                                                                                                                     42
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Taking stock. We have shown that
+
+1.) under free capital mobility, CIP holds.
+
+2.) when we observe violations of UIP, we cannot conclude that this
+is evidence against free capital mobility. For even under free capital
+mobility UIP need not hold, that is, the forward rate need not equal
+the expected future spot rate.
+
+Next we will show present some empirical evidence on the failure of
+UIP.
+
+
+
+
+                                                                                                                                    43
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Carry Trade as a Test of UIP
+
+Suppose UIP holds: 1 + it = (1 + i∗t )Et [Et+1 /Et].
+
+⇒ If it > i∗t , then Et [Et+1 /Et] > 1, that is, the high interest rate
+currency is expected to depreciate.
+
+If UIP holds, one should not be able to make systematic profits
+from borrowing at the low interest rate and lending at the high
+interest-rate, since exchange rate movements would exactly offset
+the interest rate differential on average.
+
+Yet, this trading strategy, known as carry trade is widely used by
+practitioners, suggesting that it does indeed yield positive payoffs
+on average.
+
+
+                                                                                                                                    44
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+• When it is the high interest rate currency, that is, when it > i∗t ,
+the payoff from a carry trade is given by∗
+                                                                ∗ Et+1
+                     payoff from carry trade = (1 + it) − (1 + it )    ,
+                                                                    Et
+
+• Empirical studies have shown that carry trade yields positive pay-
+offs on average. For example, average payoffs from carry trade for
+the pound sterling against 10 currencies over the period 1976:1 to
+2005:12 are positive, but low, 0.0029 for 1 pound invested for one
+month.†
+
+• The fact that the average payoff from carry trade is non-zero
+means that on average the uncovered interest rate differential is not
+zero and that UIP fails.
+
+∗ If i∗ is the high interest rate currency the payoff is (1 + i∗ ) Et+1 − (1 + i ).
+      t                                                        t Et             t
+† See, Burnside, Eichenbaum, Kleshchelski, and Rebelo (2006).
+
+
+                                                                                                                                    45
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+• Carry trade is subject to crash risk. Crashes in carry trade are the
+result of sudden large movements in exchange rates. For example,
+on October 6-8, 1998 there was a large surprise appreciation of the
+Japanese Yen against the U.S. dollar. The Yen appreciated by 14
+percent (or equivalently the U.S. dollar depreciated by 14 percent).
+Suppose that you were a carry trader with 1 billion dollars short in
+Yen and long in U.S. dollars. The payoff of that carry trade in the
+span of 2 days was -140 million dollars.
+
+• Because of this crash risk and because of its low payoff relative to
+the large gross positions it requires, The Economist magazine has
+likened carry trade to “picking up nickels in front of steamrollers.”∗
+
+
+∗
+    See, “Carry on speculating,” Economic Focus, The Economist, February 24,
+    2007, page 90.
+
+                                                                                                                                    46
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+                                       The Forward Premium Puzzle
+
+
+
+
+                                                                                                                                    47
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+• When a foreign currency is ‘more expensive’ in the forward than
+in the spot market, that is, when
+
+                                                                     Ft > Et ,
+we say that the foreign currency is at a premium in the forward
+market, or, equivalently, that the domestic currency is at a discount
+in the forward market.
+
+• Conditional on CIP holding, UIP holds if and only if
+                              E       Ft
+                           Et t+1 =                            (12)
+                                Et    Et
+That is, UIP holds if and only if the domestic currency is expected
+to depreciate when the foreign currency trades at a premium in the
+forward market.
+
+
+                                                                                                                                    48
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                            Chapter 11: International Capital Market Integration
+
+
+
+
+• Consider estimating
+                                                       Et+1        Ft
+                                                            = a + b + µt+1
+                                                        Et         Et
+
+• In the data CIP holds pretty well so a testable implication of UIP
+is that a = 0 and b = 1.
+
+• Burnside (2018), for example, estimates this regression for the U.S.
+dollar against the currencies of 10 industrialized economies using
+monthly observations over the period 1976:1 to 2018:3∗ and finds
+cross-country average estimates of a and b of 0.00055 and -0.75.
+For most countries (7 out of 10), the null hypothesis that a = 0 and
+b = 1 is rejected at high significance levels of 1 percent or less.
+
+• This result is known as the forward premium puzzle.
+
+• Like the evidence on non-zero average returns to carry trade, the
+forward premium puzzle indicates that UIP is strongly rejected by
+the data.
+∗
+    The countries included in the analysis are Australia, Canada, Denmark, Germany/euro area, Japan, New Zealand, Norway, Sweden, Switzerland, United Kingdom.
+
+
+                                                                                                                                                             49
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+                                             Real Interest Rate Parity
+
+
+
+
+                                                                                                                                    50
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+• Does free capital mobility create a tendency for real interest rates
+to equalize across countries?
+
+• We will show that the answer to this question is, in general, no.
+
+• Specifically, when purchasing power parity does not hold, which—
+as shown in Chapter 8—is the case of greatest empirical interest,
+non-zero real interest rate differentials need not imply the absence
+of free capital mobility.
+
+We derive this theoretical result next.
+
+
+
+
+                                                                                                                                    51
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Model
+
+• Two-period small open economy with two assets: (i) domestic real
+bond, b1, pays (1 + r1)b1 units of the domestic consumption basket
+in period 2; (ii) foreign real bond, b∗1, pays (1 + r1∗ )b∗1 units of the
+foreign consumption basket in period 2.
+
+• Real exchange rate, et:
+                                    Et Pt∗
+                               et =
+                                     Pt
+with Pt = nominal price of a domestic basket of goods in domestic
+currency, Pt∗ = nominal price of a foreign basket of goods expressed
+in foreign currency, and Et is the nominal exchange rate, defined as
+the domestic-currency price of one unit of foreign currency.
+
+
+                                                                                                                                    52
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+The Household Problem
+
+• The utility function of the household:
+
+                                                            U (C1) + U (C2)                                                   (13)
+
+
+• Budget constraint in period 1:
+
+                                                     C1 + b1 + e1b∗1 = Q1,                                                    (14)
+• Budget constraint in period 2:
+
+                                    C2 = Q2 + (1 + r1)b1 + (1 + r1∗ )e2b∗1                                                    (15)
+
+
+• The household chooses C1, C2, b1, and b∗1 to maximize its utility
+function, (13), subject to the budget constraints in periods 1 and
+2, (14) and (15).
+
+                                                                                                                                    53
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 11: International Capital Market Integration
+
+
+
+
+Solve the period-1 budget constraint, (14) for C1, the period-2
+budget constraint, (15) for C2 and use the resulting expressions
+to eliminate consumption from the utility function to obtain
+
+                 U (Q1 − b1 − e1b∗1) + U (Q2 + (1 + r1)b1 + (1 + r1∗ )b∗1).
+FOCs:
+                                                 U 0(C1) = (1 + r1)U 0 (C2)
+                                                                          e
+                                              U 0(C1) = (1 + r1∗ )U 0 (C2) 2 .
+                                                                          e1
+These two Euler equations can be combined into:
+                                          e
+                     (1 + r1) = (1 + r1∗ ) 2 .                                                                                    (16)
+                                          e1
+
+
+• Real interest rate parity fails as long as ee2 6= 1.
+                                                                                     1
+
+
+• Takeaway: observing nonzero real interest-rate differentials need
+not be indicative of restrictions to capital mobility.
+                                                                                                                                        54
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+                                      Saving-Investment Correlations
+
+
+
+
+                                                                                                                                    55
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 11: International Capital Market Integration
+
+
+
+
+• In an influential paper Feldstein and Horioka (1980) examined data
+on average investment-to-GDP and saving-to-GDP ratios from 16
+OECD countries over the period 1960-1974 and estimate by OLS:
+          I                      S
+                                                                                  
+              = 0.035 + 0.887         + νi;      R2 = 0.91,
+        GDP i                  GDP i
+where (I/GDP )i and (S/GDP )i denote the average investment-to-
+GDP and saving-to-GDP ratios in country i for i = 1, 2, . . . , 16, over
+the period 1960-1974.
+
+• The estimated coefficient of 0.887 means that there is almost a
+one-to-one positive association between average saving rates and
+average investment rates.
+
+• The reported R2 statistic of 0.91 means that the estimated equa-
+tion fits the data quite well, as 91 percent of the cross-country
+variation in I/GDP is explained by variations in S/GDP .
+
+• The figure on the next slide plots the raw data and the estimated
+regression equation.
+                                                                                                                                        56
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”              Chapter 11: International Capital Market Integration
+
+
+
+
+Saving and Investment Rates for 16 Industrialized Countries,
+1960-1974 Averages
+                          0.4
+
+
+
+                                                                                                                   JAP
+
+                         0.35                                                   0.035 + 0.887 (S/GDP)→
+
+
+
+
+                                                                                      FIN
+                          0.3
+
+                                                                                     AUS
+                 I/GDP
+
+
+
+
+                                                                      AUS       NET
+                                                                                GER
+                         0.25                         GRENEW
+                                                            SWE
+                                                      CAN BEL
+                                                  DEN     ITA
+                                            IRE
+
+                          0.2
+                                         U.K
+                                         USA
+
+
+
+                         0.15
+                            0.15              0.2                  0.25                0.3           0.35                    0.4
+                                                                             S/GDP
+
+
+                                                                                                                                               57
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+• A positive relationship between saving and investment rates is ob-
+served not only across countries but also across time. For example,
+the next figure shown on the next slide, plots the U.S. saving and
+investment rates from 1929 to 2018.
+
+• The two series move closely together, although the comovement
+has weakened a little since the emergence of large U.S. current
+account deficits in the 1980s.
+
+
+
+
+                                                                                                                                    58
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                 Chapter 11: International Capital Market Integration
+
+
+
+
+U.S. National Saving and Investment Rates, 1929-2018
+                                      26
+
+
+                                      24
+
+
+                                      22
+
+
+                                      20
+
+
+                                      18
+                     Percent of GDP
+
+
+
+
+                                      16
+
+
+                                      14
+
+
+                                      12
+
+
+                                      10
+
+
+                                       8
+                                                                                                           Investment/GDP
+                                                                                                           Saving/GDP
+                                       6
+                                       1930   1940   1950    1960        1970        1980   1990      2000        2010
+                                                                            Year
+
+
+
+
+                                                                                                                                                  59
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+How to interpret the observed comovements?
+
+• Feldstein and Horioka argued that if capital was highly mobile
+across countries, then the correlation between saving and investment
+should be close to zero, and therefore interpreted their findings as
+evidence of low capital mobility.
+
+• Consider the identity,
+                                                                CA = S − I
+
+• In an economy without international capital mobility, the current
+account must be zero, so that S = I and saving is perfectly cor-
+related with investment. That is, lack of capital mobility implies a
+high correlation between S and I.
+
+• But what about the other way around? Does a high correlation
+between S and I necessarily imply that an economy is financially
+closed? We will show that this is not the case. Takeaway: Observ-
+ing high S-I correlations need not be informative about the degree
+of international capital market integration.
+                                                                                                                                    60
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+• Consider a small open economy with perfect capital mobility. The
+comovement of saving and investment will depend on the type of
+shocks hitting it.
+
+• Let’s first consider the case that the saving and investment sched-
+ules are affected by independent factors, then the correlation be-
+tween saving and investment will be zero. And observing high S − I
+comovements would indicate lack of free capital mobility.
+
+• In particular, shocks that shift only the saving schedule will result
+in changes in the equilibrium level of saving but will not affect the
+equilibrium level of investment Similarly, shocks that shift only the
+investment schedule will result in changes in the equilibrium level
+of investment but will not affect the equilibrium level of national
+savings.
+
+• The figure on the next slide illustrates this point.
+                                                                                                                                    61
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                    Chapter 11: International Capital Market Integration
+
+
+
+
+Response of S and I to independent shifts in
+(a) the savings schedule and (b) the investment schedule
+            r1                           (a)                                         r1                   (b)
+
+                    I(r1)                 S(r1)      S′(r1)                               I(r1)       I′(r1)                    S(r1)
+
+
+                                               →                                                  →
+
+
+
+
+             r*                                                                      r*
+
+
+
+
+                    S1      S′1     I1                  S, I                                 S1                 I1        I′1           S, I
+
+
+
+
+                                                                                                                                                     62
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+But do the Feldstein-Horioka findings of high savings-investment
+correlations necessarily imply imperfect capital mobility?
+
+The answer is no.
+
+Here we give 2 counter examples.
+
+Counterexample 1: even under perfect capital mobility, a positive
+association between S and I can arise when the same shocks shift
+the savings and investment schedules. Suppose that Q1 = A1F (I0)
+and Q2 = A2F (I1), where A1 and A2 denote productivity. Consider
+a persistent productivity shock. Assume that A1 and A2 increase
+and that A1 increases by more than A2. This situation is illustrated
+in the next slide.
+
+
+                                                                                                                                    63
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 11: International Capital Market Integration
+
+
+
+
+Response of S and I to a persistent productivity shock
+                 r
+
+
+
+                                        I(r)                     I1(r)                          S(r)                   S1(r)
+
+
+
+                                                         →                               →
+
+
+
+
+                r*
+
+
+
+
+                                        S                     S1                     I         I1                         S, I
+
+
+                                                                                                                                            64
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Comments on the Figure
+
+• In response to the increase in A2, the investment schedule shifts to the
+right to I 1 (r).
+
+• The increase in A2 produces a positive wealth effect, which shifts the
+saving schedule to the left. The increase in A1 produces an increase in
+output in period 1. Consumption-smoothing households will want to save
+part of the increase in Q1. Therefore, the effect of an increase in A1 is
+a rightward shift in the saving schedule. Because we assumed that A1
+increases by more than A2, on net the saving schedule is likely to shift to
+the right. In the figure, the new saving schedule is given by S 1(r).
+
+• Because the economy is small, the interest rate is unaffected by the
+changes in A1 and A2. As a result both saving and investment increase (to
+S 1 and I 1).
+
+• Thus, in this economy we would see that saving and investment are
+positively correlated even though the economy has free capital mobility.
+
+
+
+
+                                                                                                                                    65
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Counterexample 2: Saving and investment may be positively corre-
+lated in spite of free capital mobility in the presence of large country
+effects.
+
+Consider a shock that shifts the saving schedule to the right from
+S(r) to S 0(r).
+
+The figure on the next slide illustrates this case.
+
+The current account schedule also shifts to the right from CA(r) to
+CA0(r). As a result, the world interest rate falls from r∗ to r∗0.
+
+The fall in the interest rate leads to an increase in investment from
+I to I 0 .
+
+Thus, in a large open economy with free capital mobility, a shock
+that affects only the saving schedule can result in a positive comove-
+ment between saving and investment.
+                                                                                                                                    66
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”          Chapter 11: International Capital Market Integration
+
+
+
+
+Large open economy: response of S and I to a shift in the
+savings schedule
+           r
+                                                                                                r
+                     I(r)                         S(r)           S′(r)           CARW(r)                           CA(r)
+                                                                                                                              CA′(r)
+
+                                                   →                                                             →
+
+
+
+
+          r*                                                                                        r*
+                                                                                                    r*′
+        r*′
+
+
+
+
+                            S    S′    I I′                      S, I                CARW        0                          CA
+
+
+
+
+                                                                                                                                           67
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Takeaway:
+
+Observing a positive correlation between saving and investment is
+not necessarily an indication of lack of capital mobility.
+
+
+
+
+                                                                                                                                    68
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Summing Up
+• The forward exchange rate, Ft, is the domestic currency price of
+one unit of foreign currency to be delivered and paid for in a future
+period.
+
+• The forward discount is the ratio of the forward exchange rate to
+the spot exchange rate, Ft/Et . When the forward discount is greater
+than one, we say that the foreign currency trades at a premium and
+the domestic currency at a discount in the forward market.
+
+• Covered interest rate parity (CIP) says that the domestic interest
+rate, it, must equal the foreign interest rate, i∗t , adjusted for the
+forward discount, 1 + it = (1 + i∗t )Ft/Et .
+
+• The covered interest rate differential is equal to 1+it −(1+i∗t )Ft /Et.
+
+• The cross-currency basis is the same as the covered interest rate
+differential.
+
+• Under free capital mobility, absent default risk, covered interest
+rate differentials should be near zero.
+                                                                                                                                    69
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Summing Up (ctd.)
+
+• The offshore-onshore interest rate differential is the difference
+between the domestic nominal interest and the foreign nominal
+interest on domestic currency denominated assets.
+
+• Under free capital mobility, absent default risk, offshore-onshore
+interest rate differentials should be near zero.
+
+• Based on observed cross-country interest rate differentials, the
+developed world displayed a high degree of capital mobility between
+1870 and 1914 and again after 1985. The period 1914-1985 was
+characterized by large disruptions in international capital market
+integration. This suggests that capital market integration is not
+a monotonic process.
+
+• As a consequence of new financial regulations, covered interest
+rate differentials have displayed a slight elevation since the global
+financial crisis of 2008.
+                                                                                                                                    70
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 11: International Capital Market Integration
+
+
+
+
+Summing Up (concluded)
+
+• Uncovered interest rate parity (UIP) says that the domestic inter-
+est rate must equal the foreign interest rate adjusted for expected
+depreciation, 1 + it = (1 + i∗t )Et Et+1 /Et .
+
+• UIP is in general not implied by an equilibrium asset pricing model.
+
+• UIP is strongly rejected by the data.
+
+• Deviations from real interest rate parity can arise even under free
+capital mobility.
+
+• Observing a positive correlation between saving and investment is
+not necessarily an indication of lack of capital mobility.
+
+
+                                                                                                                                    71
+

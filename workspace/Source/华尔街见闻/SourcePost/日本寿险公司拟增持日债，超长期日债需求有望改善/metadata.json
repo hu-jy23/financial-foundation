@@ -1,0 +1,73 @@
+{
+  "article_id": 3784148,
+  "selection": {
+    "article_id": 3784148,
+    "url": "https://wallstreetcn.com/articles/3784148",
+    "title": "日本寿险公司拟增持日债，超长期日债需求有望改善",
+    "page_display_time": "2026-10-22T03:12:41+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "杨宸",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004919",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "汇率与国际资本",
+    "reading_priority": "B",
+    "reading_value": "保留日本不同寿险机构的配置计划，解释超长债收益率与资产负债匹配如何影响购债意愿。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1161,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 57
+  },
+  "url": "https://wallstreetcn.com/articles/3784148",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784148?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:25+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "日本寿险公司拟增持日债，超长期日债需求有望改善",
+  "page_display_time": "2026-10-22T03:12:41+08:00",
+  "page_byline": "杨宸",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "日本邮政保险表示计划加大日元计价债券购买力度，大同生命保险则上调了国内债券持仓目标，主要方向为企业债；明治安田生命保险计划维持日本国债持仓规模基本不变，同时将低收益债券置换为高收益品种。本周20年期国债拍卖更录得历史最高认购倍数，寿险机构已连续四个月净买入超长期日本国债。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1242,
+  "body_sha256": "a0ca104e70a5ede18eeeaffe61af4bc9c3f811c3ca17909dd2cf26baccfedc78",
+  "raw_sha256": "fd24c733a30029d97dce402e8e3d1a0cadc31751f441004e422decdfdd211a84",
+  "raw_bytes": 7453,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/444c26fb-d7eb-4475-b5c4-88caf9eba16a.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1161,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:33+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "fd24c733a30029d97dce402e8e3d1a0cadc31751f441004e422decdfdd211a84",
+      "bytes": 7453
+    },
+    "article.html": {
+      "sha256": "f1f3c145ab86ff3e09294ab23047db179f25a14d4f92c079fcfe7fa3c349b64d",
+      "bytes": 7200
+    },
+    "article.md": {
+      "sha256": "35fffdb913fba2fa9a085b32eeb83260dfadeab9a774114c063a6c248817e307",
+      "bytes": 4458
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:17+08:00"
+}

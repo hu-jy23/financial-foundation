@@ -1,0 +1,44 @@
+{
+  "latest_trials": [
+    {
+      "trial": "/mnt/d/study/投资&价值投资/小毕设/financial_foundation_20261020/tmp_step1_material_pilot_20261103/trials/a1/v2",
+      "checked_claims": 25,
+      "checked_sources": 2,
+      "mechanical_pass": true,
+      "errors": [],
+      "warnings": [],
+      "limitation": "File/link/page/hash checks do not validate semantic support, reading claims or explanation quality."
+    },
+    {
+      "trial": "/mnt/d/study/投资&价值投资/小毕设/financial_foundation_20261020/tmp_step1_material_pilot_20261103/trials/a3/v1",
+      "checked_claims": 11,
+      "checked_sources": 2,
+      "mechanical_pass": true,
+      "errors": [],
+      "warnings": [],
+      "limitation": "File/link/page/hash checks do not validate semantic support, reading claims or explanation quality."
+    },
+    {
+      "trial": "/mnt/d/study/投资&价值投资/小毕设/financial_foundation_20261020/tmp_step1_material_pilot_20261103/trials/holdout_ch2",
+      "checked_claims": 18,
+      "checked_sources": 2,
+      "mechanical_pass": true,
+      "errors": [],
+      "warnings": [],
+      "limitation": "File/link/page/hash checks do not validate semantic support, reading claims or explanation quality."
+    }
+  ],
+  "helper_checks": [
+    "discontinuous source-page coordinates preserved",
+    "out-of-range extraction rejected before writing",
+    "out-of-range claim page rejected",
+    "mismatched source SHA256 rejected"
+  ],
+  "arithmetic_checks": [
+    "A3 chapter4 nine teaching cases: budget and Euler equations",
+    "A1 collateral capacity and outflow threshold examples",
+    "A3 chapter2 two-period and growing-debt paths"
+  ],
+  "skill_frontmatter_validation": "quick_validate.py passed",
+  "boundary": "机械检查不证明语义支持；内容结论另见独立审阅与根agent审阅"
+}

@@ -1,0 +1,119 @@
+{
+  "article_id": 3783167,
+  "selection": {
+    "article_id": 3783167,
+    "url": "https://wallstreetcn.com/articles/3783167",
+    "title": "美债已在定价危机，美股为何仍岿然不动？德银揭示五大市场结构性错位",
+    "page_display_time": "2026-10-08T13:57:36+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "跨资产与市场结构",
+    "reading_priority": "A",
+    "reading_value": "保留德银对股债、油价曲线及主权利差的跨市场比较，检查各资产是否隐含不同宏观假设。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1885,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 121
+  },
+  "url": "https://wallstreetcn.com/articles/3783167",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783167?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:45+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/e2606e57-622a-4d39-bc3e-bdcbc48124a2.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "然而，欧洲股市的反应却异常平静。斯托克600指数上周仅下跌1.1%，距历史高点仍不足4%。欧元区投资级信用利差至上周五仅升至101个基点，远低于2011至2012年欧洲主权债务危机、2020年3月疫情冲击以及2022年加息周期期间的水平。",
+      "path": "assets/figure_001.png",
+      "sha256": "4512e424dd7d05277bbd82810dd4c69b82b3018c1dc86b68605182a73b35116e",
+      "bytes": 330548,
+      "width": 1024,
+      "height": 414,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/e2606e57-622a-4d39-bc3e-bdcbc48124a2.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/5eca3666-3674-40cc-8862-2ce2087333e9.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "石油期货市场的定价逻辑同样与现实存在持续偏差。自美伊冲突爆发以来，布伦特原油期货曲线长期处于深度期货溢价结构（backwardation），市场始终预期油价将在未来数月内显著回落——但这一预期迄今已被证伪超过六个月。",
+      "path": "assets/figure_002.png",
+      "sha256": "f37f9798e7719b6ac1b3973127754b73070195bca0dd06810bb52db92c69f443",
+      "bytes": 342890,
+      "width": 1024,
+      "height": 411,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/5eca3666-3674-40cc-8862-2ce2087333e9.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/9e8adf0a-81b6-404f-8b0c-1de84d171337.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "德银承认，在经济增长强劲时，收益率与股价可以同步上涨。但上周的市场走势表明，当前已不再是单纯的\"强增长\"叙事——主权利差显著走阔、信用市场承压、油价居高不下，投资者已开始质疑经济能否承受进一步加息。",
+      "path": "assets/figure_003.png",
+      "sha256": "3984c98f2904794f6a02bb797a4c8033dc50fca39aad1909c6a78597dc5872c9",
+      "bytes": 306480,
+      "width": 1024,
+      "height": 529,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/9e8adf0a-81b6-404f-8b0c-1de84d171337.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "美债已在定价危机，美股为何仍岿然不动？德银揭示五大市场结构性错位",
+  "page_display_time": "2026-10-08T13:57:36+08:00",
+  "page_byline": "许超",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "罕见“股债错位”拉响华尔街警报：当债市正为高通胀与债务风险剧烈定价时，全球股市却仍在历史高位狂欢。德银警告，顽固通胀令央行难言宽松，股债极端背离无法长存。若金融压力不减，高位的风险资产恐将迎来迟到且猛烈的抛售风暴。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1963,
+  "body_sha256": "1563e0eeb27da54e4d0021551bf0507a24a8d313742adb3f855cf914635f873f",
+  "raw_sha256": "a4e4625b9c339fc035c356a34e59b78cf32fd0b44248c94867014b38d426109f",
+  "raw_bytes": 10263,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/e6101a74-b663-49b3-aec5-6e748fda18e4.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 1885,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:40+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "a4e4625b9c339fc035c356a34e59b78cf32fd0b44248c94867014b38d426109f",
+      "bytes": 10263
+    },
+    "article.html": {
+      "sha256": "bfea8945df55742c1f4a1ee1e7bb39f242cc3e52da10d4586e0bb00925214eaf",
+      "bytes": 10443
+    },
+    "article.md": {
+      "sha256": "3e60d6427ad03720db6a65997671f045967372abc73233b13edeeceb24e4b270",
+      "bytes": 6391
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:29+08:00"
+}

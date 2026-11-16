@@ -1,0 +1,154 @@
+{
+  "article_id": 3763424,
+  "selection": {
+    "article_id": 3763424,
+    "url": "https://wallstreetcn.com/articles/3763424",
+    "title": "12月结汇数据分析",
+    "page_display_time": "2026-01-16T08:37:32+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "杨宸",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004919",
+    "page_source_label": "早安汇市",
+    "page_source_url": null,
+    "page_attribution_note": "本文来源：早安汇市",
+    "category": "汇率与国际资本",
+    "reading_priority": "A",
+    "reading_value": "分解贸易、服务与资本项结售汇，并解释CFETS篮子权重变化，数据口径清楚。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1005,
+    "page_image_count": 5,
+    "original_underlying_research_verified": false,
+    "catalog_number": 53
+  },
+  "url": "https://wallstreetcn.com/articles/3763424",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3763424?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:25+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/c4d7ee3d-4df8-441a-9201-940b96b98eab.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "从分项来看：",
+      "path": "assets/figure_001.png",
+      "sha256": "897601e0c116ce2b24c1b06f9c67caf06a76c5e50d65e748a256351d20ba1c90",
+      "bytes": 272295,
+      "width": 1316,
+      "height": 652,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/c4d7ee3d-4df8-441a-9201-940b96b98eab.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/903b877d-a402-4e15-bb4e-bb0303ce9526.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "12月结汇率上升7个百分点69%，购汇率下降4个百分点至61%。从结汇率和购汇率的劈叉，可以看出市场对于人民币转向升值情绪。",
+      "path": "assets/figure_002.png",
+      "sha256": "ef9815b0a907cd2c5cd68d5097d77374523ef30e67efd301118cf9b498cf3933",
+      "bytes": 144786,
+      "width": 1316,
+      "height": 354,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/903b877d-a402-4e15-bb4e-bb0303ce9526.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/bd217626-e5f2-4aca-b50a-38792fa8ceee.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "有如此亮眼的结汇数据，不难理解为何在目前在美元指数走高的环境下，人民币却逆势走强。 人民币CFETS指数已经突破了99关口。 指数中权重最大的三大非美货币(EUR、KRW、JPY）开年以来都表现拉垮，欧元受地缘政治拖累，韩元和日元这两个难兄难弟亚洲货币更是弱得没法看。",
+      "path": "assets/figure_003.png",
+      "sha256": "7667afdc07ddbde1660087e1ff7b7fe6ee2982dcc60b131ce58d048f29139a87",
+      "bytes": 178646,
+      "width": 962,
+      "height": 614,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/bd217626-e5f2-4aca-b50a-38792fa8ceee.png"
+    },
+    {
+      "order": 4,
+      "source_url": "https://wpimg-wscn.awtmt.com/870418ee-73fa-4fa7-b06f-106016730d4e.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "（注：外汇交易中心在2026年最新公布的CFETS篮子中，按照2024年度贸易数据作为权重进行调整，调升了韩元的比重，调低了日元的比重，因此韩元超越日元成为了人民币CFETS篮子中的第三大货币）",
+      "path": "assets/figure_004.png",
+      "sha256": "6c0c15e776f9fbd525d62d1a15c0102478e332dd264b215fa6ec80f4e1398c31",
+      "bytes": 301498,
+      "width": 1312,
+      "height": 632,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/870418ee-73fa-4fa7-b06f-106016730d4e.png"
+    },
+    {
+      "order": 5,
+      "source_url": "https://wpimg-wscn.awtmt.com/f71438d0-71b6-4e25-b7f5-9b0f2ba7566a.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "和日元相似，韩元贬值的主要原因也是资本外流。 韩国的股市主要是本土投资机构在买入，而外资买家持续净卖出。一方面，韩国散户投资大量买入美国AI股。另一方面，国民年金NPS通常在一季度加大海外投资，对韩元构成季节性贬值压力。难怪连美国财政部长贝森特也坐不住了，在周三晚间发布“口头干预”，称韩元的贬值已脱离基本面。",
+      "context_after": "总结来看，对于12月创历史新高的结汇，背后主要是三点原因： 第一，出口旺盛；第二，做多A股情绪带来海外资金流入；第三，在USDCNY破7后，市场对于人民币的升值情绪强烈，放大了年底的季节性结汇力量。",
+      "path": "assets/figure_005.png",
+      "sha256": "71ea3eaad1d68a9c64303325e65baffd632dbb9a65b9d23ba2ef28badaaaf458",
+      "bytes": 268628,
+      "width": 1308,
+      "height": 686,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/f71438d0-71b6-4e25-b7f5-9b0f2ba7566a.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "12月结汇数据分析",
+  "page_display_time": "2026-01-16T08:37:32+08:00",
+  "page_byline": "杨宸",
+  "source_label": "早安汇市",
+  "source_url": "",
+  "subtitle": "中国12月结售汇顺差999亿美元，达历史最高水平。与日元和韩元由资本外流导致的本币贬值相反，中国出口旺盛，叠加A股向好带来的海外资本流入，推动人民币逆势走强，CFETS指数突破99关口。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1087,
+  "body_sha256": "32fecb035a7f473aaca242f5384e9930bdc9384a3cb6b6515cd7759afd77e264",
+  "raw_sha256": "2823819972398d41b6803da48a43655662b95492dd49f0d361f579f82da7a739",
+  "raw_bytes": 9138,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/7de26725-9ee1-4489-afc5-88bbf23459c1.mp3",
+  "image_occurrences": 5,
+  "html_table_count": 0,
+  "catalog_image_count": 5,
+  "catalog_text_characters": 1005,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "早安汇市",
+      "url": "https://mp.weixin.qq.com/s/BdM-8igOzGuezGL8i4VQRw"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:33+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "2823819972398d41b6803da48a43655662b95492dd49f0d361f579f82da7a739",
+      "bytes": 9138
+    },
+    "article.html": {
+      "sha256": "0a437b3474b9d43f474184c511649fa257c2da1630d3dba957e265f9d443e4d0",
+      "bytes": 8999
+    },
+    "article.md": {
+      "sha256": "eff6bbe7c316c14a9a67d009ad9532873299ac8f91ba92ff8e544bbeb6a05179",
+      "bytes": 3893
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:16+08:00"
+}

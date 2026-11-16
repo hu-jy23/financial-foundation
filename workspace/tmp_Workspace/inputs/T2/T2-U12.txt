@@ -1,0 +1,2128 @@
+
+
+===== PDF 392 | 印刷页 357 =====
+
+14
+Chapter
+
+                             Regulating the
+                             Financial System
+
+    Learning Objectives
+    After reading this chapter, you should be able to:
+     LO1      Identify the sources and discuss the consequences of bank runs, bank panics,
+              and financial crises.
+
+     LO2      Explain why and how the government intervenes in the financial system, and the
+              problems the government safety net creates.
+
+     LO3      Analyze how a government regulates and supervises the financial system to
+              contain risk.
+
+
+The painful effects of the global crisis of 2007–2009 brought home the importance of
+the financial system in our lives. Millions of people lost their jobs, their homes, and
+their wealth. Healthy firms needing to borrow temporarily to pay their employees or
+suppliers faced ruin. As the crisis peaked in the fall of 2008, the global economy
+­suffered its deepest and broadest downturn since the Great Depression, and policy-
+ makers took unprecedented action to keep the crisis from precipitating a second Great
+ Depression. In 2010, after financial conditions stabilized, the U.S. government enacted
+ the most ambitious financial reforms since the 1930s. The Dodd-Frank Wall Street
+ ­Reform and Consumer Protection Act aims to prevent another crisis and to limit the
+  moral hazard from the government’s interventions during the global crisis.
+       Although no financial crisis since the 1930s has matched the severity of the 2007–
+  2009 episode, disruptions to the financial system are surprisingly frequent and
+  ­widespread. After 2010, millions of people in the euro area faced devastating losses
+   from the combination of a plunge in their sovereigns’ creditworthiness, the weakening
+   of banks holding risky debt, and rising doubts about the viability of the euro. More
+   broadly, since 1970, some 120 countries experienced 151 banking crises. Including
+   other types of financial disruptions, a crisis has occurred in an average of eight coun-
+   tries each year since 1970.1
+       And virtually no part of the world has been spared from banking crises; large,
+   advanced economies have suffered along with smaller, less developed ones. Indeed,
+   banking disruptions appear to cause greater damage and persist longer in advanced
+
+1
+ Adding in currency and sovereign debt crises, the total number of serious financial disturbances between 1970
+and 2017 approached 500. See Luc Laeven and Fabian Valencia, “Systemic Banking Crises Revisited,” IMF
+Working Paper WP/18/206, September 2018.
+
+
+                                                     357
+
+
+===== PDF 393 | 印刷页 358 =====
+
+358   l Chapter 14  Regulating the Financial System
+
+
+
+                       economies, perhaps because the financial systems are deeper and more critical for sus-
+                       taining economic efficiency. Partly as a result, governments in advanced economies also
+                       are likely to undertake a wider range of actions to support their banks, including ­liquidity
+                       support, guarantees of bank liabilities, and recapitalizations of weakened banks.
+                           When financial crises occur, governments step in and put financial intermediaries
+                       back on track. They often do so by assuming responsibility for the banking system’s
+                       ­liabilities so that depositors won’t lose their savings. But the cleanup can also require the
+                        injection of capital into failed institutions. Not only are these crises expensive to clean
+                        up, but they also can have a dramatic impact on growth in the countries where they occur.
+                           Table 14.1 shows information on the economic impact and fiscal cost of selected
+                        banking crises between 1970 and 2017. The data show what one would expect: Bigger
+
+
+                                                  Banking Crises: Output Losses, Fiscal Costs, and Public Debt Increases
+                           Table 14.1
+                                                  (Percent of GDP), 1 9 70 –2 0 1 7
+
+
+                                                                                                                                       Public Debt
+                             Country                             Crisis Dates            Output Loss             Fiscal Cost            Increase
+
+                             ADVANCED ECONOMIES
+                             Ireland                             2008–2012                  107.7                    37.6                      76.5
+                             Finland                             1991–1995                    69.6                   12.8                      43.6
+                             Greece                              2008–2012                    64.9                   28.7                      43.9
+                             Spain                               1977–1981                    58.5                    7.7                       3.8
+                             Japan                               1997–2001                    45.0                    8.6                      41.7
+                             Portugal                            2008–2012                    35.0                   11.1                      38.5
+                             Sweden                              1991–1995                    32.9                    3.6                      36.2
+                             Italy                               2008–2009                    32.2                    0.7                       8.6
+                             United States                       2007–2011                    30.0                    4.5                      21.9
+                             United Kingdom                      2007–2011                    25.3                    8.8                      27.0
+
+                             EMERGING ECONOMIES
+                             Thailand                            1997–2000                  109.3                    43.8                      42.1
+                             Latvia                              2008–2012                    93.9                    8.1                      27.6
+                             Ukraine                             2014–                        93.2                   13.9                      53.4
+                             Philippines                         1983–1986                    91.7                    3.0                      44.8
+                             Panama                              1988–1989                    85.0                   12.9                     −2.6
+                             Argentina                           2001–2003                    71.0                    9.6                      81.9
+                             Indonesia                           1997–2001                    69.0                   56.8                      67.6
+                             Brazil                              1990–1994                    62.3                    0.0                   −22.6
+                             Korea                               1997–1998                    57.6                   31.2                       9.9
+                             Cote d’Ivoire                       1988–1992                    45.0                   25.0                      13.6
+                             Median (full sample)                                             23.3                    8.7                      12.7
+
+
+                       NOTE: Output loss is the gap between actual and precrisis trend growth. Both output loss and the increase of the public debt
+                       ratio cover three years from the crisis start. Fiscal cost covers direct outlays to the financial sector. The specific country episodes
+                       are the top 10 (ranked by output loss) for which all three measures are available. The medians are calculated from the full
+                       sample of 151 banking crises.
+                       SOURCE: Laeven, Luc, and Fabián Valencia. “Systemic Banking Crises Revisited.” IMF Working Paper WP/18/206,
+                       September 2018.
+
+
+===== PDF 394 | 印刷页 359 =====
+
+                                                            The Sources and Consequences of Runs, Panics, and Crises l   359
+
+
+
+crises are worse for output. And crises in advanced economies lead to a larger increase
+in public debt as a percent of GDP.
+    Some degree of default is normal at every bank, including well-run ones. But in
+1998, when 35 percent of all loans made by Korean banks defaulted, it was more than
+just bad luck. Clearly, the Korean financial system was failing to perform one of its
+primary functions, the efficient channeling of resources from savers to borrowers so
+that credit goes to firms based on the merit of their proposed investments. Instead,
+borrowers who shouldn’t have received loans got them, and projects that shouldn’t
+have been funded went ahead. Because resources were wasted, Korea’s growth and
+income were lower than they could have been. To put the output loss shown in Table
+14.1 into perspective, Korea has invested an average of 31 percent of GDP annually
+since 1970, so the country lost nearly two years’ worth of business investment.
+    Banking crises are not a recent phenomenon; the history of commercial banking
+over the last two centuries is replete with periods of turmoil and failure. By their very
+nature, financial systems are fragile and vulnerable to crisis. Unfortunately, when a
+country’s financial system collapses, its economy goes with it, and with economic
+crisis comes the risk of violence and revolution. Keeping banks open and operating,
+then, is as essential to maintaining our way of life as a ready military defense. Because
+a healthy financial system benefits everyone, governments are deeply involved in the
+way banks and other intermediaries function. As a result, the financial sector is subject
+to voluminous rules and regulations, and financial institutions must withstand constant
+scrutiny by official examiners. The importance of this government oversight in ensur-
+ing financial stability is hard to exaggerate. When government oversight fails, as it did
+in many countries in the years before the crisis of 2007–2009 and in the run-up to the
+euro-area crisis that erupted in 2010, the costs can be enormous.
+    The purpose of this chapter is fourfold. First, we will look at the sources and conse-
+quences of financial fragility. By and large, financial crises are banking crises, so we
+will focus on that sector. Included in this group are shadow banks that, like banks,
+have liabilities that can be withdrawn at face value virtually without notice but are
+usually subject to less oversight than banks.2 Next, we will look at the institutional
+­safeguards—for instance, deposit insurance—the government has built into the system
+ in an attempt to avert financial crises. Third, we’ll study the regulatory and supervi-
+ sory environment of the banking industry. Finally, we’ll examine emerging approaches
+ to regulation that focus on the safety of the financial system rather than on individual
+ institutions.
+
+
+The Sources and Consequences
+of Runs, Panics, and Crises
+In a market-based economy, the opportunity to succeed is also an opportunity to fail.
+New restaurants open and others go out of business. Only 1 in 10 restaurants survives as
+long as three years. In principle, banks should be no different from restaurants: new
+ones should open and unpopular ones close. But few of us would want to live in a world
+where banks fail at the same rate as restaurants. Banks serve some essential functions in
+
+
+2
+ Some types of intermediaries routinely depend on short-term funding that closely substitutes for deposits,
+completely fulfilling this definition of a shadow bank. These intermediaries typically include money-market
+mutual funds and securities brokers. Other classes of intermediaries—such as hedge funds—include a range of
+firms that vary more in the extent to which they depend on short-term funding (like the repo and asset-backed
+commercial paper markets) and leverage.
+
+
+===== PDF 395 | 印刷页 360 =====
+
+360   l Chapter 14  Regulating the Financial System
+
+
+
+                                our economy: They provide access to the payments system, and they screen and monitor
+                                borrowers to reduce information problems. If your favorite restaurant closes s­ uddenly,
+                                you can still eat, but if your bank closes, you lose your ability to make purchases and
+                                pay your rent. So while no one suggests that the government appoint officials to mini-
+                                mize restaurant closings, everyone expects the government to safeguard banks.
+                                    Banks’ fragility arises from the fact that they provide liquidity to depositors. That
+                                is, they allow depositors to withdraw their balances on demand. If you want the entire
+                                amount in your checking account converted into cash, all you need to do is go to your
+                                bank and ask for it; the teller is obligated to give it to you. If a bank cannot meet this
+                                promise of withdrawal on demand because of insufficient liquid assets, it will fail.
+                                    Banks not only guarantee their depositors immediate cash on demand; they promise
+                                to satisfy depositors’ withdrawal requests on a first-come, first-served basis. This com-
+                                mitment has some important implications. Suppose depositors begin to lose confi-
+                                dence in a bank’s ability to meet their withdrawal requests. They have heard a rumor
+                                that one of the bank’s largest loans has defaulted, so that the bank’s assets may no
+                                longer cover its liabilities. True or not, reports that a bank has become insolvent can
+                                spread fear that it will run out of cash and close its doors. Mindful of the bank’s first-
+                                come, first-served policy, frenzied depositors may rush to the bank to convert their
+                                balances to cash before other customers arrive. In effect, they hope that getting to the
+                                bank early will let them withdraw their “investment” (deposit) at a price above its true
+                                value (the value of the banks’ assets). Such a bank run can cause a bank to fail.
+                                    In short, a bank run can be the result of either real or imagined problems. No bank
+                                            is immune to the loss of depositors’ confidence just because it is profitable
+                                            and sound. In practice, runs often start with shakier banks and then spread to
+                                            healthier ones as confidence erodes.
+                                                The financial crisis of 2007–2009 is replete with examples of runs on banks
+                                            and on the much less regulated shadow banks, which also provide liquidity to
+                                            the financial system. The United Kingdom faced its first run on a large bank
+                                            in more than a century when, in September 2007, depositors rushed to with-
+                                            draw funds from Northern Rock, a major housing lender (see neighboring
+                                            photos). Meanwhile, the largest savings bank in the United States, Washington
+                                            Mutual, failed when depositors fled in September 2008. That same month,
+                                            withdrawals from Wachovia Bank—at the time the fourth-largest U.S. com-
+                                            mercial bank—led to its emergency sale.
+                                                Quiet, invisible runs on shadow banks were even more dramatic, as they
+                                            ­punctuated the peaks of the financial crisis. In March 2008, short-term lenders
+                                             and other creditors stopped lending to Bear Stearns, the fifth-largest U.S. invest-
+                                             ment bank. The run halted only when the Federal Reserve Bank of New York
+                                                                                   stepped in to help the then-second-largest
+                                                                                   U.S. commercial bank, JPMorgan Chase,
+                                                                                   acquire Bear. A similar sudden stop in pri-
+                                                                                   vate lending led the U.S. government to
+                                                                                   take over Fannie Mae and Freddie
+                                                                                   Mac (the huge government-sponsored
+                                                                                   housing finance enterprises described in
+                                                                                   Chapter 13) in September 2008. The finan-
+                                                                                   cial crisis peaked later that month when a
+Crowds trying to get into the Northern Rock bank in Kingston upon                 run on Lehman Brothers—the fourth-­
+Thames, United Kingdom, on September 17, 2007.                                    largest U.S. investment bank—­precipitated
+Peter Macdiarmid/Getty Images (both images)                                       its bankruptcy. Shortly ­thereafter, losses
+
+
+===== PDF 396 | 印刷页 361 =====
+
+                                                 The Sources and Consequences of Runs, Panics, and Crises l 361
+
+
+
+on Lehman debt compelled a money-market mutual fund (MMMF) to “break the
+buck”—that is, to lower its share value below $1; that fixed value is traditionally prom-
+ised by all MMMFs so that their customers can treat their shares as if they were bank
+deposits. Fearful that other MMMFs would break the buck, investors in those funds
+rushed to withdraw their investments at the promised $1 per share, a value they thought
+might exceed the true market value of the fund’s assets. The resulting runs undermined
+a key component of the U.S. intermediation mechanism.
+    What matters during a bank run is not whether a bank is solvent, but whether it is
+liquid. Solvency means that the value of the bank’s assets exceeds the value of its lia-
+bilities—that is, the bank has a positive net worth. Liquidity means that the bank has
+sufficient reserves and immediately marketable assets to meet depositors’ demand for
+withdrawals. False rumors that a bank is insolvent can lead to a run that renders a bank
+illiquid. If people believe that a bank is in trouble, that belief alone can make it so.
+    When a bank fails, depositors may lose some or all of their deposits, and informa-
+tion about borrowers’ creditworthiness may disappear. For these reasons alone, gov-
+ernment officials work to ensure that all banks are operated in a way that minimizes
+their chance of failure. But that is not their main worry. The primary concern is that a
+single bank’s failure might cause a small-scale bank run that could turn into a system-
+wide bank panic. This phenomenon of spreading panic on the part of depositors in
+banks (or of creditors to shadow banks like MMMFs) is called contagion. Contagion
+was powerful at the peak of the 2007–2009 financial crisis, as depositors and creditors
+grew anxious about the well-being of financial intermediaries around the world.
+    Information asymmetries are the reason that a run on a single bank can turn into a
+bank panic that threatens the entire financial system. Recall from Chapter 11 that if
+there is no way to tell a good used car from a bad one, the only used cars on the market
+will be lemons. What is true for cars is even truer for banks. Most of us are not in a
+position to assess the quality of a bank’s balance sheet. In fact, because banks often
+make loans based on sophisticated statistical models, only an expert with knowledge of
+market conditions and access to all details about a bank’s assets can estimate their
+worth. Depositors, then, are in the same position as uninformed buyers in the used-car
+market: They can’t tell the difference between a good bank and a bad bank. And if the
+cost of withdrawal is tiny, who wants to keep a deposit in a bank if there is even a small
+chance that it could be insolvent? So when rumors spread that a certain bank is in trou-
+ble, depositors and other creditors begin to worry about their own banks’ financial
+condition. Concern about even one bank can create a panic that causes profitable banks
+throughout the nation to fail, leading to a complete collapse of the banking system.
+    While banking panics and financial crises can easily result from false rumors, they
+can also occur for more concrete reasons. Because a bank’s assets are a combination of
+loans and securities, anything that affects borrowers’ ability to make their loan pay-
+ments or drives down the market value of securities has the potential to imperil the
+bank’s finances. The decline of U.S. housing prices and the resulting wave of mortgage
+defaults that began in 2006 set the stage for the crisis of 2007–2009 by lowering the
+value of assets on the balance sheets of intermediaries around the world. ­Recessions—
+widespread downturns in business activity—have a clear negative impact on a bank’s
+balance sheet. When business slows, firms have a harder time paying their debts. Peo-
+ple lose their jobs and suddenly can’t make their loan payments. As default rates rise,
+bank assets lose value, and bank capital drops. With less capital, banks are forced to
+contract their balance sheets, making fewer loans. This decline in loans, in turn, means
+less business investment, which amplifies the downturn. Large asset price declines and
+deep recessions can lead to widespread failure of banks and shadow banks.
+
+
+===== PDF 397 | 印刷页 362 =====
+
+362   l Chapter 14  Regulating the Financial System
+
+
+
+
+                       The Three Phases of the Financial Crisis of 2007–2009
+                       LESSONS FROM THE CRISIS
+
+  The Financial Crisis (FC) of 2007–2009 had three distinct             With the run on Bear, everything changed. For the first
+  phases: a liquidity crisis, a solvency crisis, and a recapital-   time since the Great Depression of the 1930s, the Fed
+  ization of the system. It is worth going through each of          provided support to a supposedly solvent, but illiq-
+  these. Before we get to that, we provide a definition: a fi-      uid, nonbank. Doing so required that the Federal Reserve
+  nancial crisis is the sudden, unanticipated shift from a rea-     Board invoke its virtually forgotten emergency authority
+  sonably healthy equilibrium—characterized by highly               that (until the 2010 Dodd-Frank eliminated it) allowed col-
+  liquid financial markets, high valuations, narrow risk            lateralized lending “in unusual and exigent circumstances”
+  spreads, easily available credit, and low asset price vola-       to “any individual, partnership or corporation.”
+  tility—to a very unhealthy one with precisely the opposite            The failure of Lehman Brothers on September 15,
+  features. The term equilibrium reflects a persistent              2008, ushered in the most intense period of the deepest
+  state of financial conditions and note that—as was the            financial crisis in the United States and Europe since the
+  case for Humpty Dumpty—it is easy to shift from a good            Great Depression. The credit freeze spread broadly; not
+  financial state to a bad one, but very difficult to shift back    just uncollateralized lending, but short-term lending
+  again. The bad state is usually associated with in-               backed by investment-grade collateral also dried up. In
+  creased co-movement and volatility of asset prices; conta-        mid-September, measures of financial stress spiked far
+  gion across firms, markets, and geographic jurisdictions;         above levels seen before or since. And, the spillover to
+  and an adverse feedback between the financial system              the real economy was rapid and dramatic, with the U.S.
+  and the real economy, so that as one deteriorates it makes        economy plunging that autumn at the fastest pace since
+  the other even worse.                                             quarterly reporting began in 1947.
+       The first phase of the FC began on August 9, 2007,               Three, interrelated policy responses proved critical in
+  when the large French bank BNP Paribas suspended re-              arresting the crisis and promoting recovery. First, the Fed
+  demptions from three mutual funds invested in U.S. sub-           undertook aggressive monetary stimulus, including the in-
+  prime mortgage debt. The result was an immediate                  troduction of unconventional policy tools, such as quanti-
+  scramble for liquidity, combined with doubts about the            tative easing, targeted asset purchases, and forward
+  capital adequacy of a widening circle of intermediaries.          guidance, at the effective lower bound for interest rates
+  Market and funding liquidity dried up for financial institu-      (see Chapter 18). After Lehman, within its mandate, the
+  tions, as investors shunned all but the safest instruments        Fed did “whatever it took” to end the crisis, utilizing its
+  and slashed lending to intermediaries that might be stuck         authority to the limit. Second, officials used taxpayer
+  with toxic, low-quality assets like subprime debt. Having         funds—authorized by Congress within days of the Lehman
+  failed to screen the ultimate mortgage borrowers ade-             shock—to recapitalize the U.S. financial system. And third,
+  quately in advance, post-Paribas adverse selection under-         there was the exceptional disclosure mechanism—the first
+  mined financing mechanisms that relied on the collateral          round of macro-prudential stress tests—introduced by the
+  value of structured credit based on these mortgages. The          Federal Reserve in early 2009 to overcome the challenge
+  aggregate supply of credit to financial firms shriveled pre-      of adverse selection. Released in May 2009, the test re-
+  cisely when their need for funds surged.                          sults assuaged the worst fears about U.S. banks (see the
+       The March 14, 2008, collapse of Bear Stearns kicked          section in this chapter on pages 377–380).
+  off the second phase of the crisis. In the period between             While scholars will surely continue to debate the
+  Paribas and Bear, both liquidity and counterparty risk rose,      causes of the weak postcrisis recovery for years to come,
+  increasing stress in the financial system. During this pe-        one thing is certain: it could have been much worse. With-
+  riod, the Federal Reserve acted on an ad hoc basis to cre-        out the aggressive economic stabilization policy, speedy
+  ate and implement a broad array of lending tools, acting          government-led recapitalization of the financial system,
+  as a lender of last resort (LOLR) to key parts of the finan-      and innovative bank supervision, the United States and
+  cial system. One of the most important LOLR innovations           Europe probably would have had a second Great Depres-
+  prior to Bear was the December 2007 authorization                 sion. Given the inevitability of financial crises, it is impor-
+  of dollar swap lines with foreign central banks. Providing        tant not to forget these policy lessons: Crisis management
+  other central banks with dollars (collateralized by foreign       requires government and private financial leaders who
+  currency) that they could lend to private intermediaries in       have the knowledge, authority, resources, and willingness
+  their jurisdictions diminished the pressure for global fire       to act quickly and decisively. It is essential that everyone
+  sales of U.S. dollar assets.                                      be ready to do whatever it takes.
+
+
+===== PDF 398 | 印刷页 363 =====
+
+                                                                                                   The Government Safety Net l   363
+
+
+
+   The history of banking in the United States shows clear evidence that downturns in
+the business cycle put pressure on banks, substantially increasing the risk of panics. To
+see this, we can look at the period from 1871 to 1914, prior to the creation of the Fed-
+eral Reserve System. Over those four-plus decades, there were 11 business cycles—
+booms followed by recessions. Bank panics occurred during seven of them, five of
+which were very severe. They often started near the business cycle peak, when inves-
+tors began to anticipate a downturn. The next series of severe bank panics occurred
+during the Great Depression of the 1930s, when output fell by roughly one-third. Bank
+panics usually start with real economic events or their prospect, not just rumors.3
+   Financial disruptions can also occur whenever borrowers’ net worth falls, as it does
+during a deflation (see Applying the Concept: Deflation, Net Worth, and Information
+Costs in Chapter 11). Companies borrow a fixed number of dollars to invest in real assets
+like buildings and machines, whose values fall with deflation. The same applies to
+households acquiring houses. So a drop in prices reduces companies’ and households’
+net worth (but not their loan payments). This decline in net worth aggravates the adverse
+selection and moral hazard problems caused by information asymmetries, making loans
+more difficult to obtain. If borrowers cannot get new financing, business and residential
+investment will fall, reducing overall economic activity and raising the number of
+defaults on loans. As more and more borrowers default, banks’ balance sheets deterio-
+rate, compounding information problems and creating a full-blown crisis. This adverse
+feedback between financial and economic activity is a key characteristic of deep crises.
+
+
+The Government Safety Net
+There are three reasons for the government to get involved in the financial system:
+    1. To protect investors.
+    2. To protect bank customers from monopolistic exploitation.
+    3. To safeguard the stability of the financial system.
+   First, the government is obligated to protect small investors, many of whom are
+unable to judge the soundness of their financial institutions. While competition is sup-
+posed to discipline all the institutions in the industry, in practice only the force of law
+can ensure a bank’s integrity. As small investors, we rely on the government to protect
+us from mismanagement and malfeasance.
+   Second, the tendency for small firms to merge into large ones reduces competition,
+ultimately ending in monopolies. In general, monopolies exploit their customers, rais-
+ing prices to earn unwarranted profits. Because monopolies are inefficient, the govern-
+ment intervenes to prevent the firms in an industry from becoming too large. In the
+financial system, that means ensuring that even large banks face competition.
+   Third, the combustible mix of liquidity risk and information asymmetries means that
+the financial system is inherently unstable. A financial firm can collapse much more
+quickly than an industrial company. For a steel corporation, an electronics manufacturer,
+or an automobile maker, failure occurs slowly as customers disappear one by one. But a
+
+
+3
+ To better understand the role of business cycles in the U.S. bank runs of the 19th and 20th centuries up through
+the Great Depression, see Gary B. Gorton, Misunderstanding Financial Crises: Why We Don’t See Them
+Coming (New York: Oxford University Press, 2012).
+
+
+===== PDF 399 | 印刷页 364 =====
+
+364   l Chapter 14  Regulating the Financial System
+
+
+
+                       financial institution can create and destroy the value of its assets in an astonishingly
+                       short period, and a single firm’s failure can bring down the ­entire system.4
+                          Government officials employ a combination of strategies to protect investors and
+                       ensure the stability of the financial system. First, they provide the safety net to insure
+                       small depositors. Authorities both operate as the lender of last resort, making loans to
+                       banks that face sudden deposit outflows, and provide deposit insurance, guaranteeing
+                       that depositors receive the full value of their accounts should an institution fail. But
+                       this safety net causes bank managers to take on too much risk, leading to the regulation
+                       and supervision that we will discuss later in the chapter.
+                          This section will examine the unique role of depository institutions in our financial
+                       system. The point is that we need banks. While they are essential, they are also fragile.
+                       This leads to a discussion of the components of the safety net and the problems it cre-
+                       ates. The next section will look at the government’s responses to these problems.
+
+                       The Unique Role of Banks and Shadow Banks
+                       As the key providers of liquidity, banks ensure a sufficient supply of the means of pay-
+                       ment for the economy to operate smoothly and efficiently. This critical role and the
+                       problems associated with it make banks a key focus of attention for government regu-
+                       lators. Shadow banks are also major providers of liquidity, and following their role in
+                       the financial crisis of 2007–2009, they also have attracted intense attention from regu-
+                       lators around the world.
+                          We all rely heavily on these intermediaries for access to the payments system. If
+                       banks, MMMFs, and securities brokers were to disappear, we would no longer be able
+                       to transfer funds—at least not until someone stepped forward to take their place. Other
+                       financial institutions—insurance companies, pension funds, and the like—do not have
+                       this essential day-to-day function of facilitating payments.
+                          Furthermore, because of their role in liquidity provision, banks and shadow banks
+                       are prone to runs. These intermediaries hold illiquid assets to back their liquid liabili-
+                       ties. In the case of banks, their promise of full and constant value to depositors is based
+                       on assets of uncertain value. The fixed-value shares of MMMFs are like bank deposits
+                       in all but name. The liabilities of other shadow banks are less similar but have impor-
+                       tant deposit-like characteristics. For example, repurchase agreements are usually over-
+                       night contracts, so a repo lender can refuse to roll over the loan to a securities broker at
+                       virtually any time, an action similar to a deposit withdrawal. In contrast, pension funds
+                       and insurance companies (and even some hedge funds) may hold illiquid assets, but
+                       their liability holders cannot withdraw funds whenever they want.
+                          Moreover, banks and shadow banks are linked to one another both on their balance
+                       sheets and in their customers’ minds. Take a quick look back at Table 12.1 (page 296)
+                       and you will see that in January 2019 interbank loans made up just 0.1 percent of U.S.
+
+                       4
+                        One culprit in creating this high degree of risk is derivatives. Like dynamite, when used properly derivatives
+                       are extremely beneficial, allowing the transfer of risk to those who can best bear it. But in the wrong hands,
+                       derivatives can bring down even the largest, most respected institutions. The failure of Barings Bank in 1995 is
+                       an example. One of the oldest and best-known banks in England, Barings collapsed in just two months after a
+                       single trader wiped out the bank’s capital with losses of more than $1 billion on futures positions worth more
+                       than $17 billion. Large, opaque bets like that can be made only using derivatives. And, because they can be
+                       made in ways that are extremely difficult for government regulators to detect, these high-risk actions have the
+                       potential to put the entire financial system at risk. In the crisis of 2007–2009, the most dramatic example of a
+                       system-threatening derivatives exposure was that of American International Group (AIG), the largest U.S.
+                       insurer. In September 2008, AIG became unable to meet the obligations arising from hundreds of billions of
+                       dollars of credit default swaps (see page 232).
+
+
+===== PDF 400 | 印刷页 365 =====
+
+                                                                                                The Government Safety Net l 365
+
+
+
+commercial banking system assets—which was less than 1 percent of all bank capital.
+Prior to the crisis, interbank lending had been substantially greater and represented
+roughly one-third of all bank capital. If a bank begins to fail, it will default on its loan
+payments to other banks and thereby transmit its financial distress to them. Similarly,
+MMMFs hold large volumes of commercial paper, most of which was issued by banks.
+And (shadow) banks are among the key repo lenders to securities brokers and hedge
+funds. Banks and shadow banks are so interdependent that they are capable of initiating
+contagion throughout the financial system.
+   Other financial institutions also may pose such risks, but these intermediaries typi-
+cally are very large and few in number (see footnote 4 regarding the derivatives expo-
+sure of AIG, the largest U.S. insurer when the crisis of 2007–2009 hit). While the
+ramifications of a financial ­crisis outside the system of banks and shadow banks may be
+more limited, they are still damaging. As a result, the government also protects individ-
+uals who do business with finance companies, pension funds, and insurance companies.
+   For example, government regulations require insurance companies to provide proper
+information to policyholders and restrict the ways the companies manage their assets.
+The same is true for securities firms and pension funds, whose assets must be structured
+to ensure that they will be able to meet their obligations many years into the future.5
+
+The Government as Lender of Last Resort
+The best way to stop a bank failure from turning into a bank panic is to make sure sol-
+vent institutions can meet their depositors’ withdrawal demands. In 1873 the British
+economist Walter Bagehot suggested the need for a lender of last resort to perform
+this function. Such an institution could make loans to prevent the failure of solvent
+banks and could provide liquidity in sufficient quantity to prevent or end a financial
+panic. Specifically, Bagehot proposed that Britain’s central bank should lend freely on
+good collateral at a high rate of interest. By lending freely he meant providing liquidity
+on demand to any intermediary that asked for it. Good collateral would provide assur-
+ance of the borrowing institution’s solvency, and the high interest rate would penalize
+the borrower for failing to hold enough reserves or easily salable assets to meet deposit
+outflows and would promote rapid repayment when funding conditions normalized.
+    The existence of a lender of last resort significantly reduces, but does not eliminate,
+contagion. The series of three bank panics that occurred during the Great ­Depression
+of the 1930s is one example of the failure of a lender of last resort. While the Federal
+Reserve had the capacity and the mandate to operate as a lender of last resort in the
+1930s, it chose not to do so. In effect, policymakers acted as if the “fire” would burn
+itself out. Instead, the conflagration spread and intensified. The result was the worst
+financial disaster in the 100-plus-year history of the Federal Reserve.
+    There is another flaw in the concept of a lender of last resort. For the system to work,
+central bank officials who approve the loan applications must be able to distinguish an
+illiquid from an insolvent institution. But during a crisis, computing the market value of
+a bank’s assets is ­almost impossible, because there are no market prices. (If a bank
+could sell its marketable assets in the ­financial markets, it wouldn’t need a loan from the
+
+5
+ All nondepository institutions are subject to some form of regulation. State regulators oversee insurance
+companies; the Pension Benefits Guaranty Corporation regulates private pension funds. Securities firms are
+overseen by a combination of the Securities and Exchange Commission, a government agency, and a self-
+regulatory organization, the Financial Industry Regulatory Authority. The Commodity Futures Trading
+Commission oversees commodity brokers and derivatives exchanges. Finance companies are regulated by
+state agencies, as well as by the Federal Reserve if they are subsidiaries of bank holding companies.
+
+
+===== PDF 401 | 印刷页 366 =====
+
+366   l Chapter 14  Regulating the Financial System
+
+
+
+
+                        The Securities Investor Protection Corporation
+                        YOUR FINANCIAL WORLD
+
+
+  Brokerage firms will advertise that they are members of the         value because market prices fell, nor will it cover individu-
+  SIPC—that’s the Securities Investor Protection Corporation.         als who were sold worthless securities. The SIPC protects
+  The SIPC provides insurance in the event that a brokerage           against theft by a broker. One sizable SIPC payout in
+  firm fails, owing its customers cash and securities. It is insur-   ­recent years was to the victims of B
+                                                                                                          ­ ernard Madoff’s Ponzi
+  ance against fraud.                                                  scheme (see Chapter 11, Applying the Concept: Truth or
+      It is important to understand what SIPC insurance is             Consequences: Ponzi Schemes and Other Frauds,
+  and what it is not. If a bank accepts your deposits and              page 276).
+  uses the funds to make bad loans, your savings are pro-                  For more information on the SIPC, go to www.sipc.org.
+  tected by the FDIC against the bank’s failure. By contrast,          For comprehensive information on investor rights, look at the
+  SIPC insurance replaces missing securities or cash that              website of the Financial Industry Regulatory Authority
+  was supposed to be there—up to a limit of $500,000. It               (FINRA)—the industry’s self-regulatory body—at www.finra.
+  does not compensate individuals for investments that lost            org/investors/ProtectYourself.
+
+
+
+
+                           central bank.) Because a bank will go to the central bank for a direct loan only after
+                           having exhausted all opportunities to sell its assets and borrow from other banks with-
+                           out collateral, its illiquidity and its need to seek a loan from the government raise the
+                           question of its s­olvency. ­Officials, anxious to keep the c­ risis from deepening, are likely
+                           to be generous in evaluating the bank’s assets and to grant a loan even if they suspect the
+                           bank may be insolvent. Knowing this, bank managers will tend to take too many risks.
+                               In other words, the central bank’s difficulty in distinguishing a bank’s insolvency
+                           from its illiquidity creates moral hazard for bank managers. It is important for a lender
+                           of last resort to operate in a manner that minimizes the tendency for bankers to take
+                           too much risk in their operations.
+                               Finally, as we learned in the crisis of 2007–2009, the U.S. lender-of-last-resort
+                           mechanism has not kept pace with the evolution of the financial system. Like many
+                           government practices in the financial arena, the conventional rules for Fed discount
+                           lending were (and remain) based on the legal form of the borrower rather than on its
+                           economic function. Some intermediaries facing sudden flight by their very short-term
+                           creditors were not banks—to whom the Fed usually lends—but shadow banks, which
+                           do not normally have access to Fed loans. Only by using its emergency lending
+                           ­authority—something last done in the Great Depression of the 1930s—was the Fed
+                            able to lend to such nonbank intermediaries to stem the crisis.6
+                               During the turmoil, the Fed utilized this emergency authority repeatedly when it
+                           needed to lend to securities brokers, MMMFs, insurers, other nonbank intermediaries,
+                           and even to nonfinancial firms. Based on this emergency authority, it developed a
+                           variety of new policy tools—including the Primary Dealer Credit Facility through
+                           which the authorities lent directly to nonbank securities dealers—to deliver liquidity
+                           where and when it was needed. While this ad hoc, reactive approach helped both stem
+                           runs and counter their impact, it had limited value in preventing them in the first place.
+
+                           6
+                            The Fed’s authority to lend to nonbanks during the 2007–2009 crisis was based on Section 13(3) of the Federal
+                           Reserve Act. At the time, this rule allowed the Board of Governors “in unusual and exigent circumstances” to
+                           lend against collateral to any “individual, partnership, or corporation”—that is, to nonbanks. However, as you
+                           will see later in this chapter, the Dodd-Frank Act curtailed this emergency authority. You can view the current
+                           Federal Reserve Act at www.federalreserve.gov/aboutthefed/fract.htm.
+
+
+===== PDF 402 | 印刷页 367 =====
+
+                                                                                             The Government Safety Net l             367
+
+
+
+
+                       The Day the Bank of New York Borrowed $23 Billion
+                       APPLYING THE CONCEPT
+
+  While the existence of a lender of last resort may e
+                                                     ­ ncourage     to deliver so many securities that it was committed to paying
+  bank managers to take too many risks, very few people             out $23 billion that it did not have, at least until it could cor-
+  would argue for abolishing the safeguard outright. There          rect for the computer error.
+  have been days when the system worked exactly as it                   Without a way to come up with $23 billion quickly, BONY
+  should. November 20, 1985, was one of them. On that day           wasn’t able to make payments to sellers who had delivered
+  the Bank of New York’s computer system went h         ­ aywire.   their securities. These sellers had made additional transac-
+  BONY, as it was known, plays a central role in the U.S.           tions in the expectation that they would be paid. Unless BONY
+  ­Treasury securities market. The bank (now Bank of New York       found a way to make the promised payments, the problem
+   Mellon) acts as a clearinghouse, buying bonds from sellers       would spread to other institutions. The Federal Reserve, as
+   and then reselling them to buyers.                               lender of last resort, stepped in and made a collateralized loan
+       On November 20, a software error prevented BONY from         of $23 billion, preventing a computer problem at one very im-
+   keeping track of its Treasury bond trades.* For 90 minutes       portant bank from becoming a full-blown financial crisis.
+   transactions poured in, and the bank accumulated and paid
+   for U.S. Treasury bonds, notes, and bills. Importantly, BONY
+   promised to make payments without actually having the            *BONY’s computers could store only 32,000 transactions at a
+   funds. But when the time came to deliver the securities and      time. When more transactions arrived than the computer could
+                                                                    handle, the software’s counter restarted at zero. Because the
+   collect from the buyers, BONY employees could not tell who
+                                                                    counter number was the key to where the trading information was
+   the buyers and sellers were or what quantities and prices        stored, the information was effectively erased. (Had all the
+   they had agreed to. The ­information had been erased. By the     original transactions been processed before the counter restarted,
+   end of the day, the Bank of New York had bought and failed       there would have been no problem.)
+
+
+
+
+    Lending to nonbank intermediaries also added massively to the moral hazard usu-
+ally associated with the lender of last resort. These intermediaries generally are not
+subject to regulation or supervision by the Federal Reserve, and the level of oversight
+they received from other agencies was typically less intense and intrusive than that
+­applied to banks. Accordingly, in the absence of new oversight, the access to central
+ bank loans granted by the Fed in the crisis will encourage these borrowers to take
+ greater risks in the future.
+
+Government Deposit Insurance
+Congress’s response to the Federal Reserve’s failure to stem the bank panics of the
+1930s was to create nationwide deposit insurance. The Federal Deposit Insurance
+Corporation guarantees that a depositor will receive the full account balance up to
+some maximum amount even if a bank fails. Bank failures, in effect, become the prob-
+lem of the insurer; bank customers need not concern themselves with their bank’s risk
+taking. So long as a bank has deposit insurance, customers’ deposits are safe, even in
+the event of a run or bank failure.
+   Here’s how the system works. When a bank fails, the FDIC resolves the insolvency
+either by closing the institution or by finding a buyer. The first approach, closing the
+bank, is called the payoff method. The FDIC pays off all the bank’s depositors and
+then sells all the bank’s assets in an attempt to recover the amount paid out. Under the
+payoff method, depositors whose balances exceed the insurance limit, currently
+$250,000, suffer some losses.
+   The second approach, called the purchase-and-assumption method, is more com-
+monly applied than the payoff method. In a “P&A” transaction, the FDIC finds a firm
+
+
+===== PDF 403 | 印刷页 368 =====
+
+368   l Chapter 14  Regulating the Financial System
+
+
+
+                       that is ­willing to take over the failed bank. Because the failed institution is insolvent—
+                       on the balance sheet, its liabilities exceed its assets—no purchaser will do so for free.
+                       In fact, the FDIC has to pay banks to purchase failed institutions. That is, the FDIC
+                       sells the failed bank at a negative price. Depositors prefer the P&A method to the pay-
+                       off method because the transition is typically seamless, with the bank closing as usual
+                       at the end of the week and reopening on Monday morning under new ownership. In a
+                       purchase and assumption, no depositors, even those whose account balances exceed
+                       the deposit insurance limit, suffer a loss.
+                           No private or small public-sector insurance fund would be able to withstand a run
+                       on all the banks it insures—but the FDIC can. Because the U.S. Treasury backs the
+                       FDIC, it can withstand any crisis that does not undermine the nation’s sovereign credit
+                       standing.
+                           Since its inception, deposit insurance clearly helped prevent runs on commercial
+                       banks. Even so, it did not prevent the crisis of 2007–2009 and the runs associated with
+                       it. The prime reason is that deposit insurance covers only depository institutions. But
+                       as the financial system developed, shadow banks—money market funds, securities
+                       brokers, and the like—gained importance. Those entities are sufficiently like banks
+                       that they, too, face the risk of runs by their short-term creditors. However, these non-
+                       banks lack the benefits of deposit insurance, and, until the latter part of the crisis, they
+                       had no access to a lender of last resort. Although some traditional banks suffered runs
+                       during the crisis—mostly by large depositors with balances in excess of the insurance
+                       limit—most of the runs were against shadow banks that bid for funds in the competi-
+                       tive (“wholesale”) money markets.
+
+                       Problems Created by the Government Safety Net
+                       We know that insurance changes people’s behavior. Protected depositors have no
+                       incentive to monitor their bankers. Knowing this, bankers take on more risk than they
+                       would normally, because they get the benefits while the government assumes the costs.
+                       In protecting depositors, then, the government creates moral hazard. This is not just a
+                       theory. We can find evidence for this assertion by comparing bank balance sheets
+                       before and after the implementation of deposit insurance. Recall from Chapter 12 that
+                       commercial banks in the United States have significant leverage; their assets are nearly
+                       9 times the size of their capital. In the 1920s, before the deposit insurance system was
+                       created, banks’ ratio of assets to capital was about 4 to 1. Most economic and financial
+                       historians believe that government insurance led directly to the rise in risk.
+                            And that is not the only problem. Government officials are especially worried about
+                       the largest institutions because they can pose a threat to the entire financial system.
+                       ­Although the failure of a community bank is unfortunate, the prospect of a large finan-
+                        cial conglomerate going under is a regulator’s worst nightmare. The financial havoc
+                        that could be caused by the collapse of an institution holding more than a trillion
+                        ­dollars in assets is too much for most people even to contemplate.
+                            What this means is that some intermediaries are treated as too big to fail or too
+                         interconnected to fail. Putting such an institution through the usual mechanism for
+                         resolving a business failure—bankruptcy court—may force the bankruptcy of many
+                         households, firms, and other intermediaries that have contracted with the failed insti-
+                         tution. Thus, too big to fail really means too big or too complex to shut down or sell in
+                         an orderly fashion without large and painful spillovers. Regulators call such an institu-
+                         tion too big to resolve, and the Dodd-Frank law gave rise to a special legal designation
+                         for such a firm: systemically important financial institution (SIFI).
+
+
+===== PDF 404 | 印刷页 369 =====
+
+                                                                                                      The Government Safety Net l 369
+
+
+
+   Experience has led the managers of these too-big-to-fail intermediaries to expect
+that if their institutions begin to founder, the government will find a way to bail them
+out. Regulators allowed Lehman Brothers to fail in September 2008, but the painful
+financial and economic disruptions that ensued served only to reinforce the wide-
+spread expectation that government will bail out the largest and most interconnected
+financial institutions.
+   A bailout of a failed bank can take many forms. In most cases, the deposit insurer
+quickly finds a buyer; otherwise, the government, as lender of last resort, usually
+makes a loan to buy time to fashion a solution. Depositors whose balances do not
+exceed the insurance limit will be made whole. But in the crisis of 2007–2009, most of
+the creditors to banks were protected, not just the insured depositors. Following the
+Lehman failure, governments in Europe and the United States guaranteed all of the
+liabilities of their largest banks. In particular, they promised that the holders of new
+bonds issued by the banks would not incur losses. Without these guarantees, the evap-
+oration of funding liquidity probably would have led to a rapid cascade of failures
+because banks would be unable to fund themselves. In a number of cases, unlike in a
+normal bankruptcy, the managers of failing banks also kept their jobs.
+   During the crisis, governments also recapitalized some intermediaries—that is,
+gave them public money in return for partial ownership rights—to prevent a run by
+their creditors. In effect, governments declared recapitalized intermediaries to be too
+big to fail while they allowed many smaller institutions to go under. In the United
+States, for example, the FDIC shut down 297 banks in 2009 and 2010, the largest num-
+ber in a two-year period since 1991–1992. In these ways, the government, not the
+market, chose the winners and the losers.
+   Because it undermines the market discipline that depositors and creditors impose
+on banks and shadow banks, this too-big-to-fail policy is ripe for reform. Given the
+$250,000 insurance limit, a corporation with millions of dollars to deposit would nor-
+mally be concerned about the quality and riskiness of the assets a bank holds. If the
+bank or MMMF were to fail, the corporation would face significant losses. Thus, the
+threat of withdrawal of these large balances restrains the bank or MMMF from taking
+on too much risk.7 But for very large banks, the too-big-to-fail policy renders the
+deposit insurance ceiling meaningless. In the aftermath of the crisis of 2007–2009,
+everyone knew which banks were too big to fail and that the authorities would support
+them. With little threat that depositors will flee, bank managers are inclined to take
+greater risk than they otherwise would. The too-big-to-fail policy compounds the
+problem of moral hazard, encouraging managers of large banks to engage in extremely
+risky behavior (and putting small banks at a competitive disadvantage).
+   During the financial crisis, many shadow banks also received government bailouts
+and guarantees that foster moral hazard. Like their bank brethren, some of the largest
+shadow banks obtained government support because their failure was perceived as too
+costly in a crisis. And the problem is not limited to the too-big-to-fail class. The U.S.
+government guaranteed the liabilities of all MMMFs—most of which are small—in
+order to halt a run. Whenever the government provides such a safety net without charg-
+ing an appropriate fee for it in advance of the protection, the government creates an
+incentive for financial institutions to take risks that can threaten the system as a whole.
+
+7
+ Intermediaries can suffer what is known as a silent run when repo lenders refuse to roll over their loans to a
+securities broker or when investors electronically sell their shares in a MMMF rumored to be in trouble. Today,
+even traditional banks can suffer a silent run. If depositors with balances that exceed the insurance limit fear that
+their bank is in trouble, they needn’t line up at the teller window to get their money. They can simply go online
+to initiate an electronic withdrawal.
+
+
+===== PDF 405 | 印刷页 370 =====
+
+370 l Chapter 14  Regulating the Financial System
+
+
+
+                         Why do government authorities provide this free safety net in a crisis? After all,
+                      they know that some quick-fix policies create bad incentives and impose large burdens
+                      on taxpayers. In the midst of a crisis, however, they must balance the often-conflicting
+                      goals of crisis mitigation and crisis prevention. Frequently, there are no good choices.
+                      Like an emergency room doctor trying to save a dying patient, a government official
+                      will occasionally act to rescue the financial system from urgent threats that, if left to
+                      play out on their own, would lead to an economic catastrophe. Of course, the taxpayer
+                      foots the bill.
+                         Naturally, in the aftermath of a crisis, limiting the unintended consequences of the
+                      government safety net is the leading problem facing regulators. Some argue that too-
+                      big-to-fail institutions are simply too big to exist and that they need to be broken up,
+                      removing certain business activities from them in ways that limit incentives for risk
+                      taking. However, that approach does not eliminate the bad incentives arising from
+                      deposit insurance and from the government guarantees provided to smaller institutions
+                      during the crisis. Later in this chapter, we’ll analyze how the Dodd-Frank law addresses
+                      these challenges, and we will assess its shortcomings. We’ll also discuss how, through
+                      a variety of fees and charges, governments could discourage certain kinds of risk tak-
+                      ing, thereby limiting systemic threats.
+                         The conflict between crisis prevention and crisis mitigation exemplifies the prob-
+                      lem of time consistency (see page 27). In good times, governments and central banks
+                      typically promise not to bail out financial behemoths and other intermediaries, hoping
+                      to limit their risk taking and thus prevent a crisis. But these intermediaries know that,
+                      in bad times, policymakers will have an overwhelming incentive to bail them out to
+                      limit a crisis. If these policymakers also have the tools to implement a bailout, their
+                      good-times promises will lack credibility. When it is not feasible to make a credible
+                      commitment, policy cannot be time consistent.
+                         One approach to this problem is to remove the policy tools entirely—to substitute
+                      legal rules for discretionary bailouts. Following the crisis of 2007–2009, bankruptcy law-
+                      yers proposed to modify the bankruptcy code to make it safely applicable to the resolu-
+                      tion of large financial intermediaries.8 In 2017, the House passed the Financial Institution
+                      Bankruptcy Act that incorporated these ideas. However, the Senate did not, so it remains
+                      to be seen whether such reform will become law. Another approach—which character-
+                      izes the postcrisis regulatory reform in the United States—is to make bailouts more diffi-
+                      cult, but not impossible, for policymakers to implement. The more difficult a bailout, the
+                      less likely a crisis, but the more dangerous an actual crisis will be. There is no costless
+                      way to overcome the time-consistency challenge. As you think about the Dodd-Frank
+                      legislation, consider the extent to which it reduces this time-consistency problem, and the
+                      cost at which it does so.
+
+
+                      Regulation and Supervision of the
+                      Financial System
+                      Government officials employ three strategies to ensure that the risks created by
+                      the safety net are contained. Government regulation establishes a set of specific rules
+                      for intermediaries to follow. Government supervision provides general oversight of
+
+
+                      See, for example, Kenneth E. Scott, Thomas H. Jackson, and John B. Taylor (eds.), Making Failure Feasible:
+                      8
+
+                      How Bankruptcy Reform Can End “Too Big to Fail” (Stanford, CA: Hoover Institution Press, 2015).
+
+
+===== PDF 406 | 印刷页 371 =====
+
+                                                                         Regulation and Supervision of the Financial System l                371
+
+
+
+
+                         Better Capitalized Banks Lend More and Lend Better
+                         APPLYING THE CONCEPT
+
+   Many people seem to think that when authorities increase               s­ ystems in 2006, prior to the start of the crisis, experienced
+   capital requirements, banks lend less. The advocates of this            stronger lending growth during and after the crisis. In addi-
+   view go on to argue that, since credit is essential for eco-            tion, better-capitalized banks experience lower funding
+   nomic growth, we should not impose overly tough con-                    costs, higher growth of debt funding, and higher growth of
+   straints on banks. Put another way, there is a common belief            lending volumes.
+   that Basel III and the Dodd-Frank Act have gone too far in                  Further evidence comes from looking at Japan and Eu-
+   making the financial system safe and the cost is lower                  rope. In the 1990s, regulatory forbearance delayed a thor-
+   growth and employment.                                                  ough recapitalization of Japan’s banks for more than a
+        There are three reasons to be doubtful. First, there is little     decade. As a consequence, insolvent banks made loans to
+   evidence that higher bank capital is associated with lower              keep insolvent borrowers afloat. More recently, there is evi-
+   lending. In fact, quite the opposite. Second, given that the            dence that the impact of extremely low interest rates was
+   2007–2009 financial crisis was the result of too much                   that undercapitalized euro-area banks were able to continue
+   ­borrowing—and that overborrowing is a leading indicator of             making loans to low-quality firms.
+    financial crises—it follows that not all reductions in lending             Finally, there is the fact that decreases in lending are
+    are bad. Third, for most banks, which are very small and               not necessarily bad: again, quite the opposite. As the stud-
+    pose little threat to the financial system, regulators can ease        ies from Japan and Europe highlight, loans made by weak
+    the burden by shifting toward simpler capital requirements—            banks to insolvent, zombie firms result in an inefficient al-
+    so long as they are high enough. For the few very large, sys-          location of savings and lead to slower economic growth.
+    temic intermediaries, strict oversight still should accompany          And, who would wish to return to the overindebtedness of
+    higher capital requirements.                                           U.S. households that contributed to the vulnerability of the
+        Focusing on the first of these, higher capital does not            financial system in 2007? Given the experience of the fi-
+    hamper the aggregate supply of credit. The evidence is com-            nancial crisis, lenders need to ensure that borrowers are
+    pelling: strong banks lend to healthy borrowers, weak banks            able to pay, both to protect the financial system and to pro-
+    don’t. Those countries with better-capitalized banking                 tect taxpayers.
+
+
+
+
+financial institutions. And formal examination of an institution’s books by specialists
+provides detailed information on the firm’s operation.
+   As we look at each of these, keep in mind that the goal of government regulation is
+not to remove all the risk that investors face. Financial intermediaries themselves facil-
+itate the transfer and allocation of risk, improving economic efficiency in the process.
+Regulating risk out of existence would eliminate one of the purposes of financial insti-
+tutions. Consider also that efforts to tighten regulations on banks may push risk taking
+somewhere outside the view of the authorities. The result may not be a safer financial
+system.
+   Wary of asking taxpayers to pick up the bill for bank insolvencies, officials created
+regulatory requirements that are designed to minimize the cost of such failures to the
+public. The first screen, put in place to make sure the people who own and run banks
+are not criminals, is for a new bank to obtain a charter. Once a bank has been char-
+tered and has opened for business, a complex web of detailed regulations restricts
+competition, specifies what assets the bank can and cannot hold, requires the bank to
+hold a minimum level of capital, and makes public information about the bank’s bal-
+ance sheet.
+   As we all know, rules are one thing; enforcement is another. Posting a speed limit
+on an interstate highway is just the first step in preventing people from driving too fast.
+Unless the police patrol the highways and penalize speeding drivers, such laws are
+worthless. The same is true of banking regulations. The best-designed regulatory
+
+
+===== PDF 407 | 印刷页 372 =====
+
+372 l Chapter 14  Regulating the Financial System
+
+
+
+
+                         Table 14.2        Regulators of Depository Institutions
+
+
+
+                           Type of Intermediary      Regulators
+
+                                                     1. Federal Deposit Insurance Corporation
+                                                     2. Office of the Comptroller of the Currency
+                                                        (nationally chartered banks)
+                           Commercial banks
+                                                     3. Federal Reserve System
+                                                        (state-chartered banks that are Federal Reserve members)
+                                                     4. State authorities (all state-chartered banks)
+
+                                                     1. Office of the Comptroller of the Currency (since 2011)
+                           Savings banks
+                                                     2. Federal Deposit Insurance Corporation
+                           Savings and loans
+                                                     3. State authorities
+
+                                                     1. National Credit Union Administration
+                           Credit unions
+                                                     2. State authorities
+
+
+
+
+                      structure in the world won’t be worth the paper it’s written on unless someone moni-
+                      tors banks’ compliance. Government supervisors are the highway patrol of the banking
+                      world. They monitor, inspect, and examine banks and other intermediaries to make
+                      sure their business practices conform to regulatory requirements.
+                         Banks are regulated and supervised by a combination of the U.S. Treasury, the Fed-
+                      eral Reserve, the FDIC, and state banking authorities (see Table 14.2). The overlap-
+                      ping nature of this regulatory structure means that more than one agency works to
+                      safeguard the soundness of each bank. A bank can effectively choose its regulators by
+                      choosing whether to be a state or national bank and whether or not to belong to the
+                      Federal Reserve System. Banks can also change their legal form––say, to become a
+                      securities broker-dealer—leading to yet a different regulator (the Securities and
+                      Exchange Commission) and regulatory framework. If one regulator allows an activity
+                      that another prohibits, a bank’s managers can threaten to switch, or argue that a com-
+                      petitor who answers to a more permissive regulator has an unfair advantage.
+                         The consequences of such regulatory competition are twofold. First, regulators
+                      force each other to innovate, improving the quality of the regulations they write. But
+                      regulatory competition has a less desirable outcome: It allows bank managers to shop
+                      for the most lenient regulator—the one whose rules and enforcement are the least
+                      stringent. Especially since the repeal of the ban on interstate branching, regulatory
+                      agencies have tried to prevent this outcome. Today state authorities usually defer to the
+                      Federal Reserve, whose supervisors impose uniform regulations on all state-­chartered
+                      banks. The Comptroller of the Currency cooperates with the Fed to ensure that national
+                      banks receive similar treatment.
+                         However, the financial crisis of 2007–2009 highlighted cases of “regulator shopping” that
+                      resulted in ineffective oversight. One example was the supervision of AIG—then the
+                      largest U.S. insurer—by the small U.S. Office of Thrift Supervision (OTS) that also
+                      had supervised failed savings banks like Countrywide, IndyMac, and Washington
+                      Mutual. OTS naturally had less experience than other supervisors with the insurance
+                      business—­especially with the complex derivatives that AIG sold and with its business
+                      of lending securities. In effect, AIG had chosen its supervisor by purchasing a small
+
+
+===== PDF 408 | 印刷页 373 =====
+
+                                                                   Regulation and Supervision of the Financial System l 373
+
+
+
+
+                       Are Your Deposits Insured?
+                       YOUR FINANCIAL WORLD
+
+
+  The sign says “Each depositor insured to $250,000.” But                 Finally, if you have accounts at more than one bank, they
+  what does it really mean? Are your deposits fully insured?         will be insured separately, up to a total of $250,000 at each
+  The answer to this question can be complicated. Here are a         bank. But if the two banks merge, your accounts will be cov-
+  few things to keep in mind.                                        ered as if they had been opened at the same bank.
+      First, deposit insurance covers individuals, not ac-                Most people are unlikely to accumulate $250,000 in
+  counts. It insures depositors. This means that if you hold         even a combination of their checking and savings ­accounts,
+  your ­accounts jointly with a spouse, parent, sibling, friend,     so the $250,000 insurance limit is not something to be too
+  or business partner, the FDIC will insure each of you up to        concerned about. But the FDIC also insures “self-directed
+  $250,000, assuming that each person has an equal share             retirement accounts” as well. These retirement savings that
+  in the account. For instance, if you hold a savings account        you control are in individual retirement accounts (IRAs) and
+  jointly with your spouse or partner, deposit insurance will        the like. Many people will hit the limit well before they retire.
+  cover a total balance of $500,000, or $250,000 for each            If the interest rate is 4 percent, and you deposit $400 per
+  of you.                                                            month in one of these accounts, you will hit the $250,000
+      Second, because deposit insurance covers individuals           insurance limit in less than 30 years. But $250,000 in retire-
+  rather than accounts, if you have more than one account at         ment savings is not all that much. So insuring your retirement
+  the same bank, all in your own name, they will be insured          savings is something you will need to worry about.
+  together up to the insurance limit. For example, if you have            Finally, like all government regulations, the rules for gov-
+  a checking account, a savings account, and a personal              ernment deposit insurance can change. If you really need to
+  ­business account (an account for what is known legally as a       know whether you are insured or just want the peace of
+   sole proprietorship), they will be added together and in-         mind of knowing that your information is current, you can
+   sured up to the $250,000 maximum.                                 check the FDIC’s website, www.fdic.gov.
+
+
+
+
+savings bank years earlier. In 2010, the Dodd-Frank Act closed the OTS—the only
+regulatory agency that was shut down following the crisis—and merged it with the
+Office of the Comptroller of the Currency.
+   The arbitrary and complex structure of U.S. financial regulators does not stop with
+the banks. Some shadow banks—such as securities brokers—are subject to regulation
+by both the Securities and Exchange Commission (SEC) and the Commodity Futures
+Trading Commission (CFTC). The SEC also regulates MMMFs. Even after the Dodd-
+Frank Act, hedge funds remain lightly regulated: Aside from registering with the SEC, and
+fulfilling reporting requirements, they need only act with care (i.e., as a fiduciary).
+
+Restrictions on Competition
+One long-standing goal of financial regulators has been to prevent banks from growing
+too big and powerful, both because their failure might threaten the financial ­system and
+because banks that have no real competition exploit their customers. As we saw in
+­Chapter 13, throughout most of the 20th century banks faced numerous restrictions that
+ kept them small. And until 1999, banks could not own securities firms or insurance
+ ­companies.
+     While recent legislation has changed the banking industry, restrictions on bank size
+  remain. Bank mergers still require government approval. Before granting it, officials
+  must be convinced on two points. First, the new bank must not constitute a monopoly
+  in any geographic region. Second, if a small community bank is to be taken over by a
+  large regional bank, the small bank’s customers must be well served by the merger.
+     But government officials also worry that the greater the competition among banks,
+  the more difficulty banks will have making a profit. Competition reduces the prices
+
+
+===== PDF 409 | 印刷页 374 =====
+
+374   l Chapter 14  Regulating the Financial System
+
+
+
+                        customers must pay and forces companies to innovate in order to survive. These effects
+                        are as true of the market for deposits and loans as they are of the markets for cars and
+                        computers. Competition raises the interest rate bankers pay on deposits and lowers the
+                        interest rate they receive on loans; it spurs them to improve the quality of the services
+                        they provide. Normally we think of these effects of competition as being positive, but
+                        there is a negative side as well. Lower interest margins and reduced fee income cause
+                        bankers to look for other ways to turn a profit. Some may be tempted to assume more
+                        risk—that is, to make loans and purchase securities that are riskier than advisable, to
+                        increase leverage, or to rely excessively on short-term funding.
+                            There are two ways to avoid this type of moral hazard. First, government officials
+                        can explicitly restrict competition. That is the solution regulators have chosen in a
+                        number of countries; it was also one of the purposes of branching restrictions.9
+                        (Branching restrictions create networks of small, geographically separated independ-
+                        ent banks that face very little competition in their regions.) A second way to combat
+                        bankers’ tendency to take on too much risk is to prohibit them from making certain
+                        types of loans and from purchasing particular securities.
+                            The financial crisis of 2007–2009 accelerated the ongoing concentration in the U.S.
+                        financial system. When banks and shadow banks weakened or failed during the crisis,
+                        regulators encouraged other institutions to buy them. JPMorgan Chase, already the
+                        ­second-largest U.S. bank, acquired both Bear Stearns, the fifth-largest broker, and Wash-
+                         ington Mutual, the largest savings bank. Bank of America, the number one bank in the
+                         country, purchased both Merrill Lynch, the largest broker, and Countrywide, the biggest
+                         housing lender. And Wells Fargo, the fifth-largest commercial bank, took over ­Wachovia,
+                         the fourth-largest. As of 2018, 36 percent of deposits at U.S. commercial banks were
+                         held in only four banks—Bank of America, Citi, JPMorgan Chase, and Wells Fargo.
+                            Thus, in the process of trying to keep the crisis from deepening by merging failing
+                         banks with the largest ones, authorities made the too-big-to-fail problem even ­bigger—in
+                         a future crisis, it will be even costlier to allow these swollen intermediaries to fail. Unless
+                         their risk taking is restrained, the protected status of these megabanks will encourage their
+                         managers to take greater risks, increasing the likelihood of another crisis. Later in this
+                         chapter, we’ll see how a combination of capital requirements, limits on leverage, regula-
+                         tory scrutiny, and restrictions on their activities can help limit such systemic risks.
+
+                        Asset Holding Restrictions and Minimum Capital Requirements
+                        One way to prevent bankers from exploiting their safety net is to restrict banks’ bal-
+                        ance sheets. Such regulations take two forms: restrictions on the types of asset banks
+                        can hold and requirements that they maintain minimum levels of capital. While banks
+                        are allowed to build big office buildings and buy corporate jets for top executives, their
+                        financial assets are heavily restricted. U.S. banks cannot hold common stock.10 Regula-
+                        tions also restrict both the grade and quantity of bonds a bank can hold. For example,
+                        banks are generally prohibited from purchasing bonds that are below investment grade,
+                        and their holdings from any single private issuer cannot exceed 25 percent of their
+                        capital. The size of the loans they can make to particular borrowers is also limited. For
+
+                        9
+                         In addition, until the early 1970s, regulation restricted the interest rates U.S. banks could pay on deposits.
+                        Regulation Q prohibited interest payments on demand deposits and placed a ceiling on interest payments on
+                        time and savings deposits. Its purpose was to restrict competition in order to improve banks’ profitability.
+                        10
+                           Common stock holdings were one of the sources of the problems Japanese banks faced in the 1990s. As the
+                        Japanese stock market collapsed, the value of Japanese bank assets declined precipitously, to the point where
+                        many banks became insolvent.
+
+
+===== PDF 410 | 印刷页 375 =====
+
+                                                            Regulation and Supervision of the Financial System l   375
+
+
+
+example, the Federal Reserve requires that one bank’s exposure to another not exceed
+25 percent of the bank’s capital. While these restrictions on asset holdings are quite
+detailed, they are really just a matter of common sense and sound risk management.
+In effect, regulators are telling bankers to do what they should be doing already: hold-
+ing a well-diversified portfolio of liquid, high-grade bonds and loans.
+   Minimum capital requirements complement these limitations on bank assets. ­Recall
+that bank capital represents the net worth of the bank to its owners. Capital serves as
+both a cushion against declines in the value of the bank’s assets, lowering the likeli-
+hood of the bank’s failure, and a way to reduce the problem of moral hazard. Capital
+requirements take two basic forms. The first requires most banks to keep their ratio of
+capital to assets above some minimum level, regardless of the structure of their bal-
+ance sheets. This approach is equivalent to capping leverage, which (as we saw in
+Chapter 3, Lessons from the Crisis: Leverage) is a key means of taking risk.
+   The second requires banks to finance their activities with capital in proportion to
+the riskiness of their operations. The computation is extremely complicated and the
+rules change frequently, but basically a bank must first compute the risk-adjusted level
+of its assets given the likelihood of a loan or bond default. Then a capital charge is
+assessed against that level. Of course, banks face a multitude of other risks, including
+trading risk, operational risk, and the risk associated with their off-balance sheet oper-
+ations. Regulators require banks to finance their activities with capital based on assess-
+ments of those risks as well. (See Tools of the Trade for a description of recent changes
+in capital requirements.)
+   Unfortunately, over time, banks can learn to evade or “game” any fixed set of rules. For
+example, in the half-dozen years leading up to the 2007–2009 crisis, banks in the United
+States and Europe purchased large volumes of U.S. mortgage-backed securities precisely
+because these assets carried (misleadingly) high ratings, which reduced the capital they
+needed to hold under their national capital rules. Lower capital meant more leverage, which
+increased both risk and expected return. (See Chapter 5, Tools of the Trade.) Prior to the
+financial crisis, overall assets of the ­largest banks in Europe and the United States rose much
+faster than their risk-weighted a­ ssets. To change bank incentives, regulators of many countries
+have agreed to impose a cap on leverage and to reform the risk-weighted capital requirements
+that proved too easy to game (see Tools of the Trade in this chapter).
+
+Disclosure Requirements
+Many intermediaries are required to provide information, both to their customers about
+the cost of their products and to the financial markets about their balance sheets. Regu-
+lations regarding disclosures to customers are responsible for the small print on loan
+applications and deposit account agreements; their purpose is to protect consumers. A
+bank must tell you the interest rate charged on a loan and must do so in a standardized
+way that allows you to compare interest rates at competing banks. (This regulation is
+similar to the one that requires grocery stores to show the price of cheese, peanut but-
+ter, or popcorn per ounce, allowing customers to tell which brand or size is cheapest.)
+The bank must also tell you the fees it charges to maintain a checking account—the
+cost of check clearing, the monthly service charge, the fee for overdrafts, and the inter-
+est rate paid on the balance, if any.
+   Disclosure of accounting information to the financial markets protects depositors in
+a different way. It allows both regulators and the financial markets to assess the quality
+of a bank’s balance sheet. Because the information is published in a standardized for-
+mat according to clearly specified accounting rules, government officials can tell
+
+
+===== PDF 411 | 印刷页 376 =====
+
+376   l Chapter 14  Regulating the Financial System
+
+
+
+                                 whether a bank is obeying the regulations, and financial analysts can compare one
+                                 bank to another. With this information, both regulators and the financial markets can
+                                 penalize banks that are taking too much risk.11
+                                    One example of where disclosure is important is the measurement of a bank’s cap-
+                                 ital and its leverage (the ratio of assets to capital). As we learned in Chapter 12, a
+                                 bank’s capital—its net worth or equity—equals its assets minus its liabilities. In prac-
+                                 tice, capital turns out to be quite difficult to compute primarily because assets are
+                                 challenging to measure.
+                                    Measurement problems arise both with a simple unweighted measure of assets and
+                                 with the regulatory quantity known as risk-weighted assets. The computation of the
+                                 first is complicated by the presence of derivatives on the balance sheet of the bank.
+                                 How should you treat the fact that large banks engage in both the buying and selling of
+                                 interest rate swaps, among other things? (For an explanation of interest rate swaps, see
+                                 Chapter 9, pages 228–232.) And, because it requires the computation of the relative
+                                 riskiness of portfolios of assets that differ across banks, calculating the level of risk-
+                                 weighted assets is quite difficult as well.
+                                    To see what difference this can make, Figure 14.1 plots three measures of the capi-
+                                 tal ratio of U.S. banks with assets in excess of $1 trillion. The three metrics are based
+
+                          Risk-Weighted and Unweighted Capital Ratios for Largest U.S. Banks (ranked by asset size),
+   Figure 14.1
+                          December 2017
+
+
+                     20                                                                                               18.9
+                     18
+
+                     16
+                                                               14.5              14.1
+                          13.9
+                     14                      13.2
+                                                                                                   12.7
+                     12
+           Percent
+
+
+
+
+                     10
+                             8.1                 8.2                8.4               8.5 8.4           8.5
+                      8                             7.2                                                                    7.8
+                                6.7                                    7.1
+                                                                                                            5.8                5.9
+                      6
+
+                      4
+
+                      2
+
+                      0
+                          JPMorgan     Bank of                 Citigroup    Wells                   Goldman      Morgan
+                          Chase        America                              Fargo                   Sachs        Stanley
+                              Risk-Weighted                  Unweighted Leverage                    Unweighted Leverage
+                              Capital Ratio                  Ratio (U.S. GAAP)                      Ratio (IFRS)
+
+SOURCE: FDIC, Global Capital Index, December 2017.
+
+                                 11
+                                   Writing disclosure rules turns out to be extremely difficult, especially for off-balance sheet activities. For
+                                 example, regulators need to know whether a bank that buys or sells interest rate swaps is hedging risk on its
+                                 balance sheet or taking on more risk. Because positions can change very quickly, sometimes minute by minute,
+                                 regulators are challenged to figure out exactly what should be reported and when.
+
+
+===== PDF 412 | 印刷页 377 =====
+
+                                                         Regulation and Supervision of the Financial System l   377
+
+
+
+on (1) risk-weighted assets; (2) overall assets measured according to U.S. Generally
+Accepted Accounting Principles (GAAP) that use net derivatives positions; and (3)
+overall assets measured according to International Financial Reporting Standards
+(IFRS) that use gross derivatives positions. What we see is that reported capital var-
+ies substantially according to the measure that is used: between 12.7 and 18.9 per-
+cent of risk-weighted assets, between 6.3 and 8.5 percent of total assets measured
+using U.S. GAAP, and between 5.8 and 8.4 percent of assets under IFRS.
+
+
+Supervision and Examination
+The government enforces banking rules and regulations through an elaborate oversight
+process called supervision, which relies on a combination of monitoring and inspec-
+tion. Supervision is done both remotely, using the detailed reports banks are required to
+file, and through on-site examination. All chartered banks must file quarterly reports
+known as call reports. (Their official name is the Consolidated Reports of Condition
+and Income.) These reports detail the level and sources of banks’ earnings, asset hold-
+ings, and liabilities. Supervisors process the reports using a statistical model that allows
+them to identify institutions whose solvency is deteriorating and to spot industry trends.
+    Examiners also visit banks in person. Every depository institution that is insured by
+the FDIC is examined at least once a year. Examiners arrive at a bank unannounced
+and look into virtually every aspect of its operation. They once counted the cash in
+each teller’s drawer. While they no longer do that, they do call borrowers randomly to
+confirm that they actually have a loan and that the balance on the bank’s books is cor-
+rect. Examiners also verify that the loan collateral really exists, even visiting farms to
+make sure the grain that backs a farm loan is actually in the silo. At the largest institu-
+tions, examiners are on-site all the time. They follow a process known as continuous
+examination, which is a bit like bridge painting—once they get to the end of the pro-
+cess, they go back to the beginning and start over.
+    The most important part of a bank examination is the evaluation of past-due loans.
+Bank managers are understandably reluctant to write off a loan, wanting to keep it on
+the books as long as possible after the borrower has begun to miss payments. Loan
+officers exercise substantial discretion in deciding when to declare a loan in default.
+For example, they can choose to increase the size of the loan by the missed interest
+payments. The examiner’s job is to make sure that when borrowers stop making pay-
+ments, loans are written off and the bank’s balance sheet properly reflects the losses.
+    Supervisors use what are called the CAMELS criteria to evaluate the health of the
+banks they monitor. This acronym stands for Capital adequacy, Asset quality, Manage-
+ment, Earnings, Liquidity, and Sensitivity to risk. Examiners give the bank a rating
+from one to five in each of these categories, one being the best, and then combine the
+scores to determine the overall rating. The CAMELS ratings are not made public.
+Instead, they are used to make decisions about whether to take formal action against a
+bank or even to close it. Current practice is for supervisors to act as consultants, advis-
+ing banks how to get the highest return possible while keeping risk at an acceptable
+level that ensures they will stay in business.
+
+
+Stress Tests
+In late 2008, the solvency of the largest U.S. intermediaries was in doubt. That uncer-
+tainty made their own managers cautious about taking risk and it made potential lenders
+wary of doing business with them. The doubts and hesitancy contributed to the extreme
+fragility in many financial markets, leading to a virtual collapse of interbank lending.
+
+
+===== PDF 413 | 印刷页 378 =====
+
+378   l Chapter 14  Regulating the Financial System
+
+
+
+
+                         The Basel Accords: I, II, III, and Counting . . .
+                         TOOLS OF THE TRADE
+
+
+  Global financing took off in the 1980s as bankers realized
+  they could expand their operations across national boundar-
+                                                                              Table 14.3           1988 Basel Accord
+  ies and turn a profit internationally. While this was a welcome
+  development for most bank customers, not everyone appre-
+                                                                                                   Risk Weights
+  ciated the competition from abroad. In some countries, bank-
+  ers complained that the foreign banks that were invading
+  their turf held an unfair competitive advantage.                              Borrower                                Risk Weight
+      Because no one likes competition, we should always be                     Sovereign debt issued by                    Zero
+  suspicious of this sort of complaint. But in this case, the bank-             industrialized countries*
+  ers did have a point. Competing with a foreign bank whose
+                                                                                Claims on industrialized                     20%
+  home country allows it to hold a lower level of capital is impos-
+                                                                                countries’ banks
+  sible. Holding extra capital is costly. Banks that hold less capi-
+  tal than others, and therefore take on more ­leverage, have                   Residential mortgages                        50%
+  lower costs and can offer borrowers lower interest rates.                     Consumer and corporate                      100%
+      This legitimate complaint led to a movement to create inter-              loans
+  national regulations that would promote financial stability within
+  countries and ensure a competitive balance with banks that op-
+                                                                           *Industrialized countries are defined as members of the
+  erate globally. The result was the 1988 Basel Accord, named              Organization for Economic Cooperation and Development (OECD).
+  after the Swiss town where the world’s bank regulators meet.             Currently, 36 countries belong to the OECD, including Mexico,
+  The accord established a requirement that internationally active         Turkey, and Korea as well as the United States, Germany, Japan, and
+  banks must finance their activities with capital equal to or             Great Britain.
+  greater than 8 percent of their risk-adjusted assets. Assets
+  would be placed in one of four different categories based on
+  their risk of default. The associated risk weights would range         bank capital. Second, it created a uniform i­nternational system.
+  from zero to 100 percent (see Table 14.3).                             Finally, the accord provided a framework that less developed
+      The Basel Accord is not a law but a set of recommendations for     countries could use to improve the regulation of their banks.
+  banking regulation and supervision. The committee that writes and          While the original Basel Accord was constructive, it had—
+  amends the accord has no direct authority over the banks in any        and still has—limitations. In adjusting for asset risk, the ac-
+  country. Instead, its members work to develop a code of best prac-     cord failed to differentiate between bonds issued by the U.S.
+  tice that will help government officials around the world ensure the   government and those issued by emerging m       ­ arket countries
+  safety and soundness of their banking systems.                         like Turkey: both received a weight of zero. And a corporate
+      The Basel Accord had several positive effects. First, by           bond received a weight of 100 percent regardless of whether
+  linking minimum capital requirements to the risk a bank takes          it was AAA-rated or junk. Not only that, but a bank got no
+  on, it forced regulators to change the way they thought about          credit for reducing risk through diversification. Making one
+
+
+
+
+                             Part of the remedy was a special disclosure procedure in which the U.S. Treasury con-
+                             ducted an extraordinary set of “stress tests” on banks and, in May 2009, published
+                             the results. The tests evaluated, on a common basis, the prospective capital needs of the
+                             19 largest U.S. banks in light of the deep recession that waswell under way. While
+                             observers questioned whether the tests were stringent enough—the “stress” scenario
+                             quickly turned into the central economic forecast—the results were sufficient to reassure
+                             the government, market participants, and the banks themselves that most of the institu-
+                             tions were in fact solvent. Conditions in financial markets quickly improved. And, armed
+                             with the stress-test evidence of their well-being, most large banks were able to attract
+                             new private capital for the first time since the Lehman failure the previous September.
+                                Partly as a consequence of this favorable experience, stress tests have become a
+                             permanent part of the regulatory landscape. In the United States, the Dodd-Frank Act
+
+
+===== PDF 414 | 印刷页 379 =====
+
+                                                                      Regulation and Supervision of the Financial System l               379
+
+
+
+
+  loan of $100 million received the same risk weight as making          complex, the basics are not. By expanding the coverage of
+  1,000 loans of $100,000 each. These shortcomings encour-              assets for which banks are required to finance their activities
+  aged banks to shift their holdings t­oward riskier assets in          with capital, by raising the risk weights, and by tightening the
+  ways that did not increase their ­required bank capital.              definition of capital itself, Basel III more than doubled the
+      By the mid-1990s, bank regulators and supervisors had             capital cushion a typical bank is required to hold.
+  concluded that the Basel Accord needed revision. Starting in              Basel III goes beyond the refinements of Basel II by making
+  1998, the Basel Committee on Banking Supervision, which               three important additions. First, it set restrictions on leverage—
+  wrote the original accord, negotiated a revised framework for         the ratio of total assets to equity—that supplement capital re-
+  determining whether banks have sufficient capital. The new            quirements based on risk-weighting of assets. Because
+  Basel Accord is based on three pillars: a revised set of mini-        risk-weighting is difficult, subjective, and subject to evasion by
+  mum capital requirements; supervisory review of bank balance          banks, a leverage ratio forms a second line of defense in case
+  sheets; and increased reliance on market discipline to encour-        some assets turn out to be much riskier than anyone thought.
+  age sound risk management practices.                                      Second, the newest agreement introduces a set of
+      The first measure refines the estimation of risk-adjusted as-     three buffers over and above the minimum capital require-
+  sets to reflect more accurately the risk banks actually take. For     ment itself. Should a bank’s capital position deteriorate, Ba-
+  example, bonds issued by highly rated corporations receive a          sel III’s new capital conservation buffer restricts the
+  20 percent weight; junk bonds, a 150 percent weight. How-             payment of dividends and bonuses. The purpose is to pre-
+  ever, the low risk weights on mortgage-backed securities              serve the bank as a going concern. Next, the countercycli-
+  helped encourage risky leverage in the run-up to the crisis of        cal capital buffer rises in good times and declines in bad
+  2007—2009 (see page 375). The second measure requires                 times, helping reduce the procyclicality of credit supply. Fi-
+  supervisors to attest to the soundness of bank managers’ risk         nally, the systemic capital surcharge raises the minimum
+  estimation and control methods. Supervisors now review the            capital ­requirement on SIFIs.
+  way banks assess their risk and determine the level of capital            Third, Basel III adds a liquidity requirement that compels
+  financing needed. The third measure requires banks to make            banks to hold an amount of high-quality liquid assets (like U.S.
+  public their risk exposure and level of capital. Banks that can       Treasury securities) to meet deposit outflows and the exercise
+  show they are behaving responsibly will be rewarded in the            of contingent (preexisting) loan commitments that might occur
+  market with better credit ratings and higher stock prices.*           during a crisis. The goal is to ensure that banks can meet their
+      In the aftermath of the financial crisis of 2007–2009, reg-       obligations without relying on fire sales of their assets—some-
+  ulators refined and extended the Basel Accord, and in 2010            thing that has a negative impact on everyone else—or on
+  they agreed on Basel III, which was implemented in stages             ­borrowing from the lender of last resort, the central bank.
+  through 2018. The new agreement combines micro- and
+                                                                        *The Basel Committee on Banking Supervision constantly revises
+  macro-prudential reforms that address both institution-level          its recommendations to bank regulators. For information about the
+  and system-level risks (see the section on macro-prudential           committee’s activities and the Basel Accords in general, see its
+  regulation starting on page 382). While the details are quite         website at www.bis.org/bcbs/aboutbcbs.htm.
+
+
+
+
+now requires the Fed to conduct annual tests for SIFIs. In Europe, the European
+Banking Authority has developed a similar testing regime for banks in the European
+Union.
+   The idea behind stress testing is simple: following an episode of falling asset values,
+rising default rates, and funding strains (including deposit withdrawals and inability to
+roll over maturing liabilities), banks and other financial intermediaries should never-
+theless have sufficient capital and liquidity to meet regulatory requirements. Put differ-
+ently, the goal is for banks that experience a large loss of capital and of liquidity to
+remain able and willing to provide credit to healthy borrowers.
+   A prominent example of a stress test is the Federal Reserve’s Comprehensive
+­Capital Analysis and Review (CCAR), which examines the resilience of the largest
+ bank holding companies in the United States. In 2018, the CCAR’s most severe stress
+
+
+===== PDF 415 | 印刷页 380 =====
+
+380   l Chapter 14  Regulating the Financial System
+
+
+
+
+                       Narrow Banks Won’t Stop Bank Runs
+                       MONEY AND BANKING BLOG
+
+
+  Every financial crisis generates calls to restrict the activi-        Banks as we know them—deposit-financed lending in-
+  ties of banks. One frequent proposal is to create “narrow         stitutions with fractional rather than 100 percent reserves—
+  banks,” that is, change the legal and regulatory framework        first made an appearance in early Renaissance Italy and
+  in a way that severely limits the assets that traditional de-     have been operating in that form for nearly a thousand
+  posit-taking banks can hold. One approach to creating nar-        years. No country today requires 100 percent reserves, nor
+  row banks would require that all demand deposits be               are we aware of any major jurisdiction that ever has. The
+  invested at the central bank as the equivalent of cash. This      reason is pretty clear: traditional banks are extremely use-
+  is the “100 percent reserves” model of narrow banking.            ful. Given the chance, people will create them.
+      In the aftermath of the financial crisis of 2007–2009, nu-        Banks serve clients in two ways that are costly to repli-
+  merous commentators and experts took up a version of the          cate. First, they are experts in providing liquidity to credi-
+  narrow bank idea by proposing to split banks into two parts,      tors in the form of deposits, and to borrowers in the form
+  neither of which, supposedly, would be “runnable” (subject        of prearranged lines of credit (such as home equity loans
+  to runs).* The first part of each institution would be a narrow   that can be used when the borrower needs funds). Second,
+  bank, providing deposits that are as safe as cash. The second     banks have expertise both in screening potential borrowers
+  part would operate like a mutual fund or investment company       and then in monitoring those to whom they make loans.
+  with 100 percent equity finance; thus, unlike with fixed-­        That is, they specialize in mitigating the information prob-
+  dollar deposits, the value of its assets would fluctuate, and     lems that plague all financial transactions.
+  that “net asset value” would flow directly to the investor.           Narrow-banking proponents correctly insist that these
+      Proposals vary in how the narrow-banking system               screening and monitoring functions can be carried out by
+  would ensure the supply of liquidity demanded by the              mutual funds without having the risk reside on the balance
+  ­public and in how it would thwart the entry of runnable          sheets of the narrow banks. However, the need to tax po-
+   shadow banks. Accomplishing the latter would require an-         tential shadow banks, making it costly for them to engage
+   other government intervention, such as John Cochrane’s           in traditional banking activities, suggests that the service
+   proposal for a tax on runnable short-term debt.†                 to the economy of lending out demand deposits—a service
+      Naturally, we share the objective of preventing runs.         that would be lost under narrow banking—is at least pri-
+   But how? And at what cost?                                       vately valuable even if it creates externalities.
+
+
+
+
+                          scenario assumed, among other things, that the unemployment rate would rise to
+                          10 percent, real GDP would shrink by 9 percent, the stock market would fall by
+                          30 ­percent, and residential housing values would drop by one-fourth. Together with
+                          bank employees, supervisors then computed the impact on the level of each bank’s
+                          capital. Those institutions that were unable to withstand the stress were then forced to
+                          raise additional capital. Specifically, banks deemed to have failed the test would be
+                          required to postpone payouts to shareholders, reduce bonuses to managers, or issue
+                          additional equity into financial markets.
+                             Stress tests are arguably the most powerful prudential tool we currently have for safe-
+                          guarding the resilience of the financial system. Importantly, authorities can alter the stress
+                          scenarios as conditions change in the economy and in financial markets. If, for example,
+                          real estate markets boom, the new stress test might require that banks be able to withstand
+                          larger real estate price declines. Or, if commodity prices rise sharply, the scenario may
+                          include a more precipitous fall. By changing the stress scenarios, regulatory authorities are
+                          implicitly changing the level of capital that banks are required to hold. Passing tests with
+                          higher stresses requires more capital.
+
+
+===== PDF 416 | 印刷页 381 =====
+
+                                                                 Regulation and Supervision of the Financial System l                   381
+
+
+
+
+       This brings us to the main point: would narrow banking     meet ­withdrawal requests would force the mutual funds to
+  really eliminate runs? Would it solve the fragility problem     conduct ruinous fire sales. After this happens even once,
+  its proponents suggest is a consequence of fractional re-       people would simply flock to the narrow banks, and there
+  serve banking? We doubt it.                                     would be no source of lending. That is, a financial panic in
+       While the narrow banks themselves would not be run-        a system with narrow banks would undermine the provi-
+  nable, the mutual funds that provide the loans to house-        sion of credit.
+  holds and businesses probably would be. This seems                  Such a credit crisis would probably trigger a massive gov-
+  paradoxical: many people believe that mutual funds with         ernment intervention to support the not-so-narrow intermedi-
+  floating asset values are run-proof. However, recent re-        aries. As a result, any government precommitment to let the
+  search shows that—in the presence of small investors—           mutual fund values collapse in a crisis would not be credible,
+  relatively illiquid mutual funds are more likely to face        adding to the funds’ incentive to take on credit and liquidity
+  redemptions in the event of bad performance. The reason         risk and—contrary to the goals of narrow banking—raising
+  is the presence of “first mover” advantage: The first in-       the probability and cost of a future crisis. In short, we suspect
+  vestors to redeem their mutual fund holdings may prompt         that narrow banking lacks time consistency.
+  the fund to sell its relatively liquid assets. Those who re-        Requirements for transparency, high levels of capital
+  deem late suffer because they receive the diminished            and liquidity, and deposit insurance, combined with a cen-
+  value of the fund’s remaining, relatively illiquid assets       tral bank lender of last resort, make a financial system
+  that it is forced to sell. Thus, in a world of mutual funds     more resilient. We doubt that narrow banking would.
+  with many investors, illiquidity plays a role that is analo-
+  gous to its role in the world of traditional banks.
+                                                                  *One of many examples is Christophe Chamley, Laurence J.
+       Without deposit insurance, mutual fund runs could be       Kotlikoff, and Herakles Polemarchakis, “Limited-Purpose
+  devastating. Even modest declines in confidence, for            Banking— Moving from ‘Trust Me’ to ‘Show Me’ Banking,”
+  ­reasons that are either real or imaginary, could turn          American Economic Review: Papers & Proceedings 102, no. 3
+   into ­panics. Since the mutual funds would be holding il-      (May 2012), pp. 1–10.
+   liquid loans—remember, they are taking over that busi-         †
+                                                                   See http://faculty.chicagobooth.edu/john.cochrane/research/papers/
+   ness from banks—collective attempts at liquidation to          run_free.pdf.
+
+
+
+
+Evolving Challenges for Regulators and Supervisors
+Thus far, our discussion has focused on the regulation and supervision of depository
+institutions. But globalization and technological innovation, combined with changes in
+the law, have challenged the traditional structure of regulation and supervision. Today,
+we bank in a bazaar where a wide range of intermediaries offers a broad array of finan-
+cial services. We no longer know or care whether the product or service we buy is
+supplied by someone in town or on the other side of the country. In fact, when you call
+the bank, the person who answers the phone may live in India, for all you know. Tele-
+communication has made the location of financial service providers irrelevant.
+    Besides the globalization of financial services, other changes have challenged
+­regulators and supervisors. First, today’s marketplace offers financial instruments that
+ allow individuals and institutions to price and trade almost any risk imaginable.
+ Moreover, because derivatives allow the transfer of risk without a shift in the ownership
+ of assets, a financial institution’s balance sheet need not say much about its health. To
+ ­understand the meaning of this change, consider the traditional rules for computing the
+
+
+===== PDF 417 | 印刷页 382 =====
+
+382   l Chapter 14  Regulating the Financial System
+
+
+
+                        minimum required level of bank capital. Historically, the minimum capital level was
+                        based on measures such as the default risk of a bank’s assets. But in a world where banks
+                        can buy and sell derivatives that promise payment in the event of default—like the credit
+                        default swaps discussed in Chapter 9—such measures ­become almost meaningless. Reg-
+                        ulators and supervisors need to adapt. (See Tools of the Trade on pages 378–379 for a
+                        discussion of recent attempts at modernizing financial regulations.)
+                           Added to the challenge of globalization and financial innovation is the fact that
+                        during the 1990s, Congress removed the functional and geographic barriers that once
+                        separated commercial banking from other forms of intermediation and outlawed
+                        interstate banking. Institutions like Bank of America and JPMorgan Chase now are
+                        not just commercial banks but investment banks, insurance companies, and securities
+                        firms all rolled into one. Each part of these large organizations is regulated and super-
+                        vised by different agencies, both functionally and geographically. Surely it would
+                        serve the public interest more to minimize the likelihood that such an institution as a
+                        whole might fail rather than examine each business line separately.
+                           Realizing this truth, regulators and supervisors have begun to think about their jobs
+                        in a different way. In the future they will have no choice but to combine forces along both
+                        geographic and functional lines. State and federal agencies must either cooperate or
+                        merge, as must regulators of banks, insurance companies, and securities firms.
+                        A compelling case can be made for a super-regulator that would make the entire process
+                        more uniform and coherent, avoiding rules and practices that merely shift risk taking from
+                        an intermediary of one legal form to another. Finally, as the international financial
+                        system becomes more and more integrated, the need for cooperation across national
+                        borders continues to increase. The day may come when the world needs an interna-
+                        tional agency to formulate the rules for the global financial system.
+
+                        Micro-Prudential versus Macro-Prudential Regulation
+                        Just as important, regulators must recognize that the goal of financial stability does not
+                        mean the stability of individual financial institutions. Too often supervisors have
+                        viewed their role as ensuring that no firm fails. The government official’s job is not to
+                        stabilize the profits of an individual bank or insurance company. To do so would be to
+                        defeat the purpose of competition, rendering the entire system less efficient than it
+                        could be. Rather, the regulator’s goal should be to prevent large-scale catastrophes.
+                            The financial crisis of 2007–2009 has made avoidance of systemic threats a top
+                        priority for government (see Chapter 5, Lessons from the Crisis: Systemic Risk). As a
+                        result, regulators are broadening their focus beyond micro-prudential oversight to
+                        encompass macro-prudential regulation. Traditional regulation is micro-prudential—
+                        it aims at limiting the risks within intermediaries in order to reduce (but not eliminate)
+                        the possibility of an individual institution’s failure. Before the crisis, micro-prudential
+                        had been the sole focus of regulators, but it is insufficient to prevent systemic risks.
+                        That is the goal of macro-prudential regulation.12
+                            How does macro-prudential regulation aim to limit systemic risks?13 It treats sys-
+                        temic risk taking by an intermediary as a kind of pollution that spills over to other
+                        financial institutions and markets. To limit such costly spillovers, or externalities,
+                        regulators can use an evolving set of macro-prudential tools that work like the taxes
+                        and fees that governments use to limit pollution.
+                        12
+                           Indeed, most failures of intermediaries do not threaten the financial system, so efforts to secure the solvency
+                        of individual institutions may do little to make the financial system more secure.
+                        13
+                           The following section draws significantly on the discussion of systemic risk in the BIS Annual Report,
+                        June 2009, pp. 128–135.
+
+
+===== PDF 418 | 印刷页 383 =====
+
+                                                        Regulation and Supervision of the Financial System l   383
+
+
+
+   There are two types of externalities that pose systemic risks requiring regulatory
+intervention. These are known as (1) common exposure and (2) pro-cyclicality,
+which refers to the links between the financial sector and the economy that amplify
+boom and bust cycles.
+
+Common Exposure              When many institutions have an exposure to the same spe-
+cific risk factor, it can make the system vulnerable to a shock to that factor. The shock
+may be small, but the institutions with an exposure to it can all be brought down at
+once. In biology, for example, the animals in an ecosystem may be sensitive to changes
+in climate or chemistry or to the introduction of a new life form. Imagine the risks
+posed to the indigenous elk when wolves were returned to Yellowstone National Park.
+More dramatically, think of the mass extinctions that punctuate the history of life on
+Earth. Mass extinctions occur only infrequently, but they represent occasions in which
+many forms of life were similarly vulnerable to a change in their environment.
+    In finance, common exposures arise directly and indirectly. Intermediaries may be
+directly exposed to a frail institution through financial contracts. Or they may be
+exposed unknowingly through their counterparties, which are themselves directly
+exposed to the frail institution. Institutions might be damaged if a vulnerable interme-
+diary is driven into a fire sale of its assets at depressed prices that further undermines
+market liquidity. Finally, all institutions may be vulnerable to the same underlying
+risks, such as a wave of mortgage defaults or the inability to roll over short-term debt.
+    In the crisis of 2007–2009, risky mortgages were embedded in many financial
+instruments, infecting financial markets such as those for asset-backed commercial
+paper (see Chapter 7, Lessons from the Crisis: Asset-Backed Commercial Paper) and
+for repo loans, which are the lifeblood of securities brokers (Chapter 12). The infection
+damaged financial institutions through their portfolios and through their access to
+credit. When the contagion spread to the repo market, a biologist might say that the
+crisis became an “extinction-level event” for the species known as large U.S. investment
+banks: In the week after the fall of the Lehman Brothers investment bank in S    ­ eptember
+2008, the three largest of the remaining investment banks merged with a bank or became
+bank holding companies themselves to qualify for support from the U.S. government.
+    The problem of common exposure may be related to the size of the institution, but
+it does not have to be. Large intermediaries usually are more interconnected, so they
+are typically a greater source of systemic risk. However, even a set of small institutions
+(like MMMFs) that have identical balance sheets face common risks and in doing so
+can represent a systemic hazard. Once again, a biological analogy is instructive. To
+survive, living creatures need water in its liquid form: Their size does not matter.
+Liquidity is a matter of survival in finance, too.
+
+Pro-Cyclicality        How do the cyclical patterns in finance and other economic activ-
+ity pose systemic risks? As the crisis of 2007–2009 illustrates, financial activity is
+prone to virtuous and vicious cycles. The interaction between financial and economic
+activity can be mutually reinforcing—recall the concept of adverse feedback men-
+tioned on page 363—leading to unsustainable booms and busts.
+   In a boom, investor complacency lowers market risk premiums (i.e., investors’ opti-
+mism causes them to accept compensation that is too low for the risks they are taking).
+The lower risk premiums boost asset prices, spending, and profits and thus reinforce the
+prevailing optimism. Rising asset prices raise wealth and the value of collateral, mak-
+ing it easier for lenders to overcome the information asymmetries that lead to adverse
+selection and moral hazard. Both the value of intermediary capital and the willingness
+to leverage that capital rise, increasing credit supply and spurring new economic
+
+
+===== PDF 419 | 印刷页 384 =====
+
+384 l Chapter 14  Regulating the Financial System
+
+
+
+                      activity that encourages further euphoria—even among regulators. Rising asset prices
+                      also lower the cost of making markets, adding to liquidity and complacency.
+                         As we saw in the crisis that began in 2007, busts reverse this process. Falling asset
+                      prices depress wealth, collateral, bank capital, credit supply, and liquidity. Leveraged
+                      intermediaries scramble to deleverage (to reduce risk taking), but the financial system
+                      cannot deleverage all at once in a safe fashion. The liquidity and deleveraging spirals
+                      highlighted in the Lessons from the Crisis in Chapters 2 and 3 reinforce the v­ icious
+                      cycle both in finance and in economic activity. The depletion of c­ apital makes
+                      the financial system vulnerable even to a modest shock. And regulators typically
+                      become more cautious, urging banks to limit risky lending (even though the riskiest
+                      loans were made during the boom). Only an entity outside the financial ­system—​
+                      ­usually the ­government—​can supply the liquidity to counter a systemic crisis and, if
+                       necessary, restore the capital of the damaged intermediaries.
+
+                      Macro-Prudential Policy              To limit the kind of risk taking that can lead to a sys-
+                      temic crisis, macro-prudential regulation aims to make intermediaries bear—or
+                      ­internalize—the costs that their behavior imposes on others. In the same way, pollu-
+                       tion taxes are designed to make the polluter bear the cost of the pollution.
+                           Macro-prudential policy applies some familiar regulatory tools in unfamiliar ways.
+                       For example, regulatory capital requirements might vary with an institution’s contribu-
+                       tion to systemic risk. That contribution depends on an intermediary’s interconnected-
+                       ness and the riskiness of its balance sheet and is often correlated with its size. To be
+                       ­effective in limiting systemic threats, a systemic capital surcharge—think of a tax on
+                        pollution—would be disproportionately larger for firms that contribute the most to sys-
+                        temic risk.14 In this way, intermediaries would have an incentive to limit the systemic
+                        risks that they create, just as a pollution tax encourages polluters to clean up their act.
+                        Consistent with this approach, the Federal Reserve began in 2016 to phase in higher
+                        capital requirements corresponding to each firm’s overall systemic risk for the largest,
+                        most interconnected, U.S.-based global intermediaries. In line with international regu-
+                        latory efforts, to reduce the probability of contagion, the Fed also has required that the
+                        largest, most systemic intermediaries issue a large volume of long-term debt that can be
+                        safely written down when necessary to replenish equity capital eroded by asset losses.
+                           To counter the systemic risks from boom–bust finance, macro-prudential regulators
+                        also could make capital requirements vary with the business cycle. In good times, cap-
+                        ital requirements would rise above the long-run average to create a capital buffer
+                        against adverse shocks and to discourage euphoria. When leaner times arrive, regula-
+                        tors would allow intermediaries to use their ample capital buffer to meet the credit
+                        needs of healthy borrowers. Overall, the effect would be to dampen the cyclical swings
+                        of credit supply that can be an important source of economic instability.
+                           Other macro-prudential tools may be new and different.15 For example, regulators
+                        could require banks to buy catastrophe insurance: In the event of a systemic crisis, the
+                        payout from the insurance contract would replenish bank capital precisely when the
+                        financial system needs it. Another approach would be to have banks issue so-called
+
+                      14
+                         See Nikola Tarashev, Claudio Borio, and Kostas Tsatsaronis, “The Systemic Importance of Financial
+                      Institutions,” BIS Quarterly Review, September 2009, pp. 75–87. For one measure of U.S. financial institutions’
+                      contributions to systemic risk, see the website of the NYU Stern Volatility Lab: http://vlab.stern.nyu.edu/
+                      analysis/RISK.USFIN-MR.MES.
+                      15
+                         See, for example, Samuel Hanson, Anil Kashyap, and Jeremy Stein, “A Macroprudential Approach to
+                      Financial Regulation,” Journal of Economic Perspectives 25, no. 1 (Winter 2011), available at http://pubs.
+                      aeaweb.org/doi/pdfplus/10.1257/jep.25.1.3.
+
+
+===== PDF 420 | 印刷页 385 =====
+
+                                                         Regulation and Supervision of the Financial System l   385
+
+
+
+contingent convertible (CoCo) bonds that convert to equity in the event of a capital
+shortfall. In these ways, intermediaries would pay in advance for the potential cost of
+restoring the system’s capital in a crisis rather than relying on a future government
+capital infusion that burdens taxpayers. The price of the insurance (or the cost of
+­issuing the CoCo bond) would also function as a brake on risk taking if it rises with
+ the intermediary’s contribution to systemic risk.
+    Ultimately, addressing systemic risk will require a broad framework of macro-­
+ prudential supervision that includes (1) rules and mechanisms that promote better risk
+ management on the part of intermediaries and (2) reforms that reduce the vulnerability
+ of the financial system to the liquidation of any single financial firm. In the final section
+ of this chapter, we will see how the Dodd-Frank reform addresses these needs.
+
+Regulatory Reform: The Dodd-Frank Act of 2010
+The Dodd-Frank Wall Street Reform and Consumer Protection Act imposes the most
+far-reaching changes in U.S. financial regulation since the 1930s, when the Glass-
+Steagall Act separated the commercial side from the investment side of banking and
+when many of today’s federal financial agencies (including the FDIC and the SEC)
+were born. Like the 1930s reforms, Dodd-Frank will significantly alter the structure of
+finance—its institutions, markets, and practices—perhaps for decades.
+   The act has led to a significant and unavoidable increase in the complexity of finan-
+cial regulation. Government officials have had to design and implement hundreds of
+new rules for a wide range of financial activities, including banking, derivatives, and
+insurance. Some of these, like the Volcker rule (Section 619 of the act that restricts the
+ability of insured depository institutions to trade for their own account, invest in pri-
+vate equity funds, and own hedge funds), took years to elaborate and have resulted in
+hundreds of pages of new regulations.
+The Act’s Goals and Means              Dodd-Frank has four primary goals: (1) to make the
+financial system robust; (2) to anticipate and prevent financial crises by limiting systemic
+risk; (3) to end too big to fail; and (4) to reduce the moral hazard resulting from policy
+actions such as those taken in the 2007–2009 crisis, including the risks to U.S. taxpayers
+from government bailouts. The act addresses each of these goals in multiple ways.
+Strengthening the Financial System Dodd-Frank encourages transparency and sim-
+plification throughout the financial system and improves its resilience. Reminiscent of
+limits imposed on banks before 1999, Dodd-Frank forbids depositories from engaging
+in a variety of risky activities (as in the Volcker rule described above). It increases
+the liability of credit rating agencies for ratings errors while compelling greater disclo-
+sure to limit the agencies’ conflicts of interest (see Chapter 7, page 163, Money and
+Banking Blog: In Search of Better Credit Assessments). It requires intermediaries that
+originate and distribute asset-backed securities to have “skin in the game” through
+partial ownership of the instruments. And, consistent with the new Basel III interna-
+tional standards (see Tools of the Trade earlier in this chapter), it also encourages
+regulators to increase the capital banks hold.
+Preventing Crises through Systemic Risk Management            Led by the Treasury
+­ ecretary, Dodd-Frank’s super-committee of top U.S. regulators, the Financial ­System
+S
+Oversight Council (FSOC), aims to identify and forestall threats to the system. The
+Office of Financial Research (OFR), which expands the regulators’ data-gathering
+and analysis capacity, supports the FSOC’s effort to locate and quantify systemic
+
+
+===== PDF 421 | 印刷页 386 =====
+
+386   l Chapter 14  Regulating the Financial System
+
+
+
+                       risks. The FSOC has the authority to designate nonbanks and banks as systemically
+                       important financial institutions (SIFIs), making them subject to enhanced oversight
+                       by the Federal Reserve, including heightened capital requirements consistent with
+                       systemic risk.16 At the height of its activities, the FSOC had designated four nonbank
+                       intermediaries—American International Group (AIG), General Electric Capital Cor-
+                       poration (GECC), MetLife (MET), and Prudential (PRU)—as SIFIs. Should a SIFI’s
+                       weakness “gravely threaten” the financial system, the FSOC, together with the Fed-
+                       eral Reserve Board and the FDIC, can require it to close down under Dodd-Frank’s
+                       new resolution procedure (using the FDIC’s “Orderly Liquidation Authority”), which
+                       aims to avoid a disruptive bankruptcy like the Lehman Brothers fiasco of September
+                       2008. However, as of 2019, there were no nonbanks designated as SIFIs, renewing
+                       doubts about the government’s effort to limit too big to fail.17
+                       Ending Too Big to Fail and Reducing Moral Hazard               One leading motivation for
+                       Dodd-Frank was the desire to eliminate government bailouts of institutions whose fail-
+                       ure would be deemed too risky for the financial system. Not only are bailouts unpopu-
+                       lar, but even the possibility of them lowers the borrowing costs of the largest banks
+                       and gives those banks an incentive to take too much risk. Simply put, bailouts create
+                       moral hazard. Among other things, the act makes it much more difficult for the Fed-
+                       eral Reserve to make loans to nonbank intermediaries. (We will discuss central bank
+                       lending in more detail in Chapter 18.) Dodd-Frank also constrains the FDIC’s guaran-
+                       tee powers, which were used extensively in the crisis to sustain banks’ funding capac-
+                       ity. Finally, the act requires all SIFIs to have resolution plans (“living wills”) and gives
+                       the FDIC new powers to take over SIFIs, even if they are not banks.
+
+                       Where Dodd-Frank Falls Short            Despite its length and complexity, the Dodd-
+                       Frank Act fails to address several glaring problems that contributed to the crisis of
+                       2007–2009. It also has created a broad new difficulty.18
+                          Here are some of the biggest shortcomings:
+                            1. The act fails to streamline the U.S. regulatory apparatus, which remains complex and
+                               unwieldy, with a multiplicity of regulators that have overlapping responsibilities.
+                            2. Many government guarantees still largely come for free. The failure to charge a
+                               fee commensurate with the risk sustains moral hazard.
+                            3. As of mid-2019, Fannie Mae and Freddie Mac remain under direct federal con-
+                               trol, and still dominate U.S. housing finance (see Chapter 13, page 349, Money
+                               and Banking Blog: Still Riding the GSE Train).
+                            4. The act largely ignores key shadow banks like money-market mutual funds
+                               (MMMFs), which received a blanket federal guarantee during the crisis. MMMFs
+                               generally are too small to be SIFIs, but collectively they create systemic risk
+                               through common exposures—namely, their vulnerable short-term funding and
+                               their herdlike asset management. Dodd-Frank also does not address potentially
+                       16
+                          The act also requires that SIFIs undergo annual stress tests, such as those carried out under the Fed’s annual
+                       Comprehensive Capital Analysis and Review (see www.federalreserve.gov/bankinforeg/ccar.htm).
+                       17
+                          In an effort to end their SIFI status after having been designated by the FSOC, two of the four—GE Capital and
+                       MetLife—took steps to alter their structure and reduce their systemic importance, and were subsequently
+                       de-designated. In April 2016, MetLife’s designation as a SIFI was rescinded by a federal judge. The FSOC
+                       de-designated Prudential, the remaining nonbank SIFI, in 2018.
+                       18
+                          Many of the ideas in this section are based on Viral Acharya, Thomas F. Cooley, Matthew P. Richardson,
+                       and Ingo Walter, Regulating Wall Street: The Dodd-Frank Act and the New Architecture of Global Finance
+                       (Hoboken, NJ: Wiley, 2010).
+
+
+===== PDF 422 | 印刷页 387 =====
+
+                                                       Regulation and Supervision of the Financial System l   387
+
+
+
+     systemic financial markets—like the market for repurchase agreements (repos)—
+     that may themselves be vulnerable to a run and a fire sale.
+  5. Dodd-Frank continues to regulate according to institutional form rather than
+     function. Supervisors who compel banks and nonbank SIFIs to reduce their risk
+     taking may find, over time, that as a result of financial innovation and efforts of
+     intermediaries to circumvent regulation, systemic risk has migrated to shadow
+     banks with different legal forms.
+  6. Perhaps most important, many observers still doubt that Dodd-Frank will end
+     big bailouts. A major reason is the perception that designation as a SIFI implies
+     a government guarantee for some creditors (e.g., uninsured depositors). So long
+     as private market participants expect bailouts of SIFIs, these institutions will
+     enjoy lower funding costs than other intermediaries when capital in the financial
+     system as a whole is diminished. This funding advantage tilts the playing field
+     further in favor of SIFIs and promotes financial concentration. Over time, the
+     greater the concentration, the more that SIFIs will be seen as public utilities that
+     cannot be allowed to fail in a crisis. Breaking this vicious cycle is possible only
+     if intermediaries can fail without systemic repercussions.
+    And here is the new difficulty: While Dodd-Frank may reduce the chances of a crisis,
+past experience and the powerful dynamics of financial innovation make it likely that
+one will eventually occur. And when it does, regulators will find that Dodd-Frank lim-
+its policy flexibility (such as the new constraints on action by the Federal Reserve and
+the FDIC) in ways that could make the crisis more difficult to contain.
+
+U.S. Regulatory Backlash The Dodd-Frank Act aimed to reduce systemic risk, but
+it prompted sustained resistance from the financial industry and from some members of
+Congress. From their perspective, Dodd-Frank imposes excessive costs on the industry.
+    Some of these higher costs—such as the increase in capital requirements—seem
+unavoidable. Indeed, to the extent that higher capital requirements reduce distortions
+arising from the government safety net and from too big to fail, the social cost of
+greater regulation may be negligible, even if the private cost is substantial. And the
+benefits—the reduced frequency and severity of a crisis—appear very large.
+    However, Dodd-Frank also included policies—including renewed restrictions on
+the scope of bank activity—that add significantly to the regulatory burden without
+necessarily trimming systemic risk. Because there are simpler, less costly mechanisms
+(such as higher capital and liquidity requirements) to make the financial system more
+resilient, the law is “relatively” inefficient. Consequently, with years of experience
+since the 2010 passage of Dodd-Frank, it is natural for policymakers and practitioners
+to review what is working, what isn’t, and what was overlooked.
+    Following the 2016 elections that altered party control in the U.S. legislative and
+executive branches, the resistance to Dodd-Frank became partly enshrined in both law
+and regulatory changes. For example, in 2018 Congress passed the Economic Growth,
+Regulatory Relief, and Consumer Protection Act (EGRRCPA, also known as S.2155),
+scaling back the regulatory burden on small- and medium-sized banks as well as rais-
+ing the minimum asset threshold for designating a large bank as a SIFI. Similarly, the
+Treasury encouraged U.S. regulators to ease requirements that, in their view, made
+U.S. financial intermediaries less competitive internationally, while FSOC de-
+designated the remaining nonbank SIFI. At the same time, the Federal Reserve and the
+FDIC began to review Dodd-Frank restrictions on the scope of bank activities that
+probably did little to make the financial system more resilient.
+
+
+===== PDF 423 | 印刷页 388 =====
+
+                          388 l Chapter 14  Regulating the Financial System
+
+
+
+                                                   Nevertheless, it is difficult to argue that the United States has found a sustainable bal-
+                                                ance between the safety and the efficiency of the financial system. Most of the shortcom-
+                                                ings of Dodd-Frank remain in place—the U.S. regulatory apparatus remains uniquely
+                                                complex; the charges for federal guarantees often are too low; the GSEs are still under
+                                                federal control; the tendency to regulate by legal form remains strong; and the concerns
+                                                about “too big to fail” persist. Finally, the wave of “deregulation” could reduce the resil-
+                                                ience of the U.S. financial system. As one keen observer put it, “The history of bank
+                                                regulation in the United States is of progressive dilutions of core regulatory requirements
+                                                over a number of years, leaving the banking system as a whole vulnerable to crisis.”19
+
+                                                 Paul Tucker, Chair, The Systemic Risk Council, “Letter to Senate Banking Committee Leaders,”
+                                                19
+
+                                                February 21, 2018.
+
+
+
+
+                                                Key Terms
+                                                adverse feedback, 363               deposit insurance, 367               micro-prudential, 382
+                                                bank panic, 361                     examination, 377                     pro-cyclicality, 383
+                                                bank run, 360                       externality, 382                     regulation, 371
+                                                Basel Accord, 378                   illiquid, 361                        regulatory competition, 372
+                                                CAMELS, 377                         insolvent, 360                       shadow bank, 359
+                                                common exposure, 383                lender of last resort, 365           supervision, 377
+                                                contagion, 361                      macro-prudential, 382                too-big-to-fail policy, 369
+
+
+                                                Using FRED: Codes for Data in This Chapter
+www.moneyandbanking.com
+
+
+
+
+                                                     Data Series                                                             FRED Data Code
+                                                     Failures of depositories                                                BKFTTLA641N
+                                                     FDIC failure and assistance transactions                                BKIFDCA641N
+                                                       Purchase and assumption transactions                                  BKTTPIA641N
+                                                       Payout transactions                                                   BKTTPOA641N
+                                                     Commercial bank equity/assets ratio                                     EQTA
+                                                     Commercial bank equity/assets ratio for banks with assets less
+                                                                                                                             EQTA1
+                                                     than $300 million
+                                                     Commercial bank equity/assets ratio for banks with assets over
+                                                                                                                             EQTA5
+                                                     $20 billion
+                                                     Retail MMMFs                                                            RMFSL
+                                                     Institutional MMMFs                                                     IMFSL
+                                                     Discount window borrowings                                              DISCBORR
+                                                     Assets of the Federal Reserve System                                    WRESCRT
+                                                     Asset-backed commercial paper outstanding                               ABCOMP
+                                                     Deposits in suspended banks                                             M09039USM144NNBR
+
+
+===== PDF 424 | 印刷页 389 =====
+
+                                                                                         Chapter Lessons l 389
+
+
+
+Chapter Lessons
+1. The collapse of banks and the banking system disrupts both the payments system
+                                                                                             To learn more about the
+   and the screening and monitoring of borrowers.                                            changing financial system, visit
+   a. Intermediaries are insolvent when their liabilities exceed their assets.               www.moneyandbanking.com.
+
+   b. Because banks guarantee their depositors cash on demand on a first-come, first-
+      served basis, they are subject to runs. Shadow banks like MMMFs and securities
+      brokers also face runs because some of their liabilities can be withdrawn at face
+      value without notice.
+   c. A bank run can occur simply because depositors have become worried about a
+      bank’s soundness. Shadow banks also may face runs due to a loss of confidence.
+   d. The inability of depositors to tell a sound from an unsound bank can turn a single
+      bank’s failure into a bank panic, causing even sound banks to fail through a pro-
+      cess called contagion. Shadow banks face similar risks.
+   e. A financial crisis in which the entire system of banks and shadow banks ceases
+      to function can be caused by:
+        i. False rumors.
+       ii. The actual deterioration of balance sheets for economic reasons.
+2. The government is involved in every part of the financial system.
+
+
+
+
+                                                                                                                                www.moneyandbanking.com
+   a. Government officials may intervene in the financial system in order to:
+        i. Protect small depositors.
+       ii. Protect bank customers from exploitation.
+      iii. Safeguard the stability of the financial system.
+   b. Most financial regulations apply to depository institutions, while shadow banks
+      usually face less regulation.
+   c. Intermediaries that are less prone to runs, such as pension funds and most insurers,
+      face less intrusive government oversight than the banking industry.
+   d. The U.S. government has established a two-part safety net to protect the ­nation’s
+      financial system.
+        i. The Federal Reserve acts as the lender of last resort, providing liquidity to
+           solvent institutions in order to prevent the failure of a single intermediary
+           from becoming a systemwide panic.
+       ii. The Federal Deposit Insurance Corporation (FDIC) insures individual depositors,
+           helping prevent bank runs by reducing depositors’ incentive to flee at the
+           first whiff of trouble.
+   e. The government’s safety net encourages bank managers to take more risk than
+      they would otherwise, increasing the problem of moral hazard.
+3. Through regulation and supervision, government officials reduce the amount of
+   risk banks can take, lowering their chances of failure. Regulators and supervisors:
+   a. Restrict competition.
+   b. Restrict the types of assets banks can hold.
+   c. Require banks to hold minimum levels of capital.
+   d. Require banks to disclose their fees to customers and their financial indicators to
+      investors.
+   e. Monitor banks’ compliance with government regulations.
+4. Regulators use macro-prudential tools to limit systemic threats to the financial sys-
+   tem. Such risks usually arise from externalities—costly spillovers from the behav-
+   ior of intermediaries. These externalities have two sources: (1) common exposure of
+
+
+===== PDF 425 | 印刷页 390 =====
+
+                          390 l Chapter 14  Regulating the Financial System
+
+
+
+                                                   intermediaries to frail institutions or to underlying risks and (2) ­pro-cyclicality
+                                                   of the links between financial and economic activity, which amplifies boom
+                                                   and bust cycles.
+
+                                                Conceptual and Analytical Problems                                                      ®
+
+
+
+
+                                                 1. Explain how a bank run can turn into a bank panic. (LO1)
+                                                 2. Current technology allows large bank depositors to withdraw their funds
+                                                    ­electronically at a moment’s notice. They can do so all at the same time, without
+                                                     anyone’s knowledge, in what is called a silent run. When might a silent run
+                                                     ­happen, and why? (LO1)
+                                                 3. Explain why financial institutions such as pension funds and insurance compa-
+                                                    nies are not as vulnerable to runs as money-market mutual funds and securities
+                                                    dealers. (LO1)
+                                                 4. Explain the link between falling house prices and bank failures during the finan-
+                                                    cial crisis of 2007–2009. (LO1)
+                                                 5. Discuss the regulations that are designed to reduce the moral hazard created by
+                                                    deposit insurance. (LO3)
+www.moneyandbanking.com
+
+
+
+
+                                                 6. During the financial crisis of 2007–2009, the Federal Reserve used its emer-
+                                                    gency authority to lend to nonbank intermediaries. Explain how this extension of
+                                                    the lender-of-last-resort function added to moral hazard. (LO2)
+                                                	  7.* Why is the banking system much more heavily regulated than other areas of the
+                                                       economy? (LO3)
+                                                	  8.* Explain why, in seeking to avoid financial crises, the government’s role as regu-
+                                                       lator of the financial system does not imply it should protect individual institu-
+                                                       tions from failure. (LO2)
+                                                 9. Explain how macro-prudential regulations work to limit systemic risk in the
+                                                    ­financial system. (LO3)
+                                                10. Why were runs during the financial crisis of 2007–2009 not limited to institu-
+                                                    tions with large exposures to ­subprime mortgage lending? (LO1)
+                                                11. Suppose you have two deposits totaling $280,000 with a bank that has just
+                                                    been declared insolvent. Would you prefer that the FDIC resolve the insolvency
+                                                    under the payoff method or the purchase-and-assumption method? Explain your
+                                                    choice. (LO2)
+                                                12.* In the absence of limits on the behavior of large intermediaries, how might the
+                                                     perception of institutions being “too-big-to-fail” lead to increased concentration
+                                                     in the banking industry? (LO2)
+                                                13. One goal of the regulatory reforms that followed the 2007-2009 financial crisis
+                                                    was to address the “too-big-to-fail” problem associated with large institutions.
+                                                    How did the reforms try to address this problem? Why might they not be suffi-
+                                                    cient? (LO3)
+                                                14. A government can overcome the challenge of time consistency only if it is both
+                                                    able and willing to make credible commitments. With this in mind, how might the
+                                                    U.S. laws and procedures for bankruptcy affect the too-big-to-fail problem? (LO2)
+                                                *Indicates more difficult problems.
+
+
+===== PDF 426 | 印刷页 391 =====
+
+                                                                                         Data Exploration   l   391
+
+
+
+15. If banks’ fragility arises from the fact that they provide liquidity to depositors, as
+    a bank manager, how might you reduce the fragility of your institution? (LO1)
+16.* Why do you think bank managers are not always willing to pursue strategies to
+     reduce the fragility of their institutions? (LO1)
+17. Regulators have traditionally required banks to maintain capital-asset ratios of a
+    certain level to ensure adequate net worth based on the size and composition of
+    the bank’s assets on its balance sheet. Why might such capital adequacy require-
+    ments not be effective? (LO3)
+18. You are the lender of last resort and an institution approaches you for a loan. You
+    assess that the institution has $800 million in assets, mostly in long-term loans,
+    and $600 million in liabilities. The institution is experiencing unusually high
+    withdrawal rates on its demand deposits and is requesting a loan to tide it over.
+    Would you grant the loan? (LO2)
+19. You are a bank examiner and have concerns that the bank you are examining may
+    have a solvency problem. On examining the bank’s assets, you notice that the
+    loan sizes of a significant portion of the bank’s loans are increasing in relatively
+    small increments each month. What do you think might be going on and what
+    should you do about it? (LO3)
+
+
+
+
+                                                                                                                      www.moneyandbanking.com
+20. Deflation is the rate of decline in the aggregate price level. Why might unex-
+    pected deflation be of particular concern to someone managing a bank? (LO1)
+21. Explain how regulations that require banks to finance a greater portion of their
+    activities with equity capital might hinder economic growth. How might such
+    regulations help economic growth? (LO3)
+
+
+Data Exploration                                      ®
+
+
+
+
+For general information on using Federal Reserve Economic Data (FRED) online,
+visit www.mhhe.com/moneyandbanking6e and refer to the FRED Resources.
+ 1. When banks failed in the 1929–1933 period, the lack of deposit insurance meant
+    that depositors experienced sizable losses. How big were these losses? For Sep-
+    tember 1929 through February 1933, plot the deposits in suspended banks (FRED
+    code: M09039USM144NNBR). Download the data and sum the deposits lost to
+    bank failures in 1931. Using this total, compute its ratio to 1931 gross domestic
+    product of $77.4 billion. Using that ratio, how large would the losses be com-
+    pared to first-quarter 2016 nominal GDP of $18.3 trillion. (LO1)
+ 2. How frequently are the payoff and the purchase-and-assumption methods used
+    by the FDIC? Plot the total number of institutions receiving such assistance
+    (FRED codes: BKTTPIA641N for purchase-and-assumption; BKTTPOA641N
+    for the payoff method). On the same graph, plot as a second line the pur-
+    chase-and-assumption data separately (so that your graph will show one line
+    with the total and a second line with the purchase-and-assumption data only).
+    Describe the evolution over the long run. From what you know about the total
+    number of depository institutions, does the total number of resolutions seem
+    high or low? (LO2)
+
+*Indicates more difficult problems.
+
+
+===== PDF 427 | 印刷页 392 =====
+
+                          392   l Chapter 14  Regulating the Financial System
+
+
+
+                                                   3. Examine the capital ratios of large banks (FRED code: EQTA5) and small banks
+                                                      (FRED code: EQTA1). What can you say about the risk-taking propensity of
+                                                      these banks over the long run? How did the financial crisis of 2007–2009 influence
+                                                      the risk-taking behavior of large banks? (LO3)
+                                                   4. How important was the lender-of-last-resort function of the Federal Reserve in
+                                                      the financial crisis of 2007–2009? Beginning in 2000, plot the ratio (in percent)
+                                                      of borrowing from the Fed (FRED code: DISCBORR) to its asset holdings
+                                                      (FRED code: WRESCRT). What happened to the borrowing ratio during the
+                                                      2007–2009 financial crisis? (LO2)
+                                                   5. Shadow banks typically fund their assets by issuing liabilities of shorter maturity
+                                                      that are close substitutes for bank deposits. The maturity mismatch between their
+                                                      assets and liabilities creates rollover risk that can trigger fire sales and systemic
+                                                      disruption. Plot the outstanding level of one such liability—asset-backed com-
+                                                      mercial paper (FRED code: ABCOMP)—from the start of 2002 to the end of
+                                                      2007. Based on the plot, discuss how the use of asset-backed commercial paper
+                                                      influenced the financial crisis of 2007–2009. (LO1)
+www.moneyandbanking.com

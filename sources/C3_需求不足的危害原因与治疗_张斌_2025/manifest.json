@@ -1,0 +1,42 @@
+{
+  "id": "C3",
+  "title": "《需求不足的危害、原因与治疗》— 张斌，CF40，2025-11-07",
+  "directory": "C3_需求不足的危害原因与治疗_张斌_2025",
+  "original_language": "zh",
+  "source_urls": [
+    "https://www.cf40.org.cn/article/1/289213"
+  ],
+  "files": [
+    {
+      "file": "需求不足的危害原因与治疗_中文原文.html",
+      "source_url": "https://www.cf40.org.cn/article/1/289213",
+      "resolved_url": "https://www.cf40.org.cn/api/web/data/1/289213",
+      "retrieval": "网站公开前端接口，按页面原请求格式读取",
+      "scope": "中文网页全文",
+      "bytes": 49257,
+      "sha256": "cad423e8d8f48c1e6f25c9241cb8c1ef9d49e19aa8ec8836468fb775605c2dcf",
+      "text_file": "需求不足的危害原因与治疗_中文原文.txt",
+      "extracted_characters": 11782,
+      "offline_file": "需求不足的危害原因与治疗_中文原文_离线阅读.html",
+      "images": [
+        {
+          "file": "images/image_01.jpg",
+          "source_url": "https://www.cf40.org.cn/files/wyCoPrTmQQDSfCJM2zKKSA%3D%3D_1762517347",
+          "bytes": 92817,
+          "sha256": "3813c1168627eea448948a0c775987b7f9a01a0f4951f407a741b7eb908c9610"
+        },
+        {
+          "file": "images/image_02.png",
+          "source_url": "https://www.cf40.org.cn/files/sxvt53xncPJjeNDRgo0sZQ%3D%3D_1762517362",
+          "bytes": 63869,
+          "sha256": "4982a9a419210d3d8d84297906b55a9ef2717288f1c9ca0f4595858542740d1a"
+        }
+      ],
+      "image_failures": []
+    }
+  ],
+  "failures": [],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "acquisition_status": "已取得所列原文文件；尚未精读"
+}

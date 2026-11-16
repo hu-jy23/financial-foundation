@@ -1,0 +1,2410 @@
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                  Slides for Chapter 12: Capital Controls
+
+                                                      Columbia University
+
+                                                       September 6, 2022
+
+
+
+
+These are the slides for the textbook, “International Macroeconomics: A Modern Approach,” by
+Stephanie Schmitt-Grohé, Martı́n Uribe, and Michael Woodford, Princeton University Press, 2022,
+ISBN: 9780691170640.
+
+
+
+
+                                                                                                              1
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Introduction
+
+• In Chapter 11, we saw that over the past 120 years sometimes
+capital flowed fairly freely across countries and sometimes there were
+significant deviations from free capital mobility.
+
+• In the present chapter, we characterize the effects of capital
+controls on the current account, consumption, and welfare.
+
+• We show that capital controls can be an effective tool to reduce
+current account deficits but that absent distortions or market power
+they are welfare decreasing.
+
+• We also show that in the presence of borrowing externalities or
+market power capital control taxes can be desirable because they
+can improve welfare.
+
+                                                                                                              2
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                 Capital Controls and Interest Rate Differentials
+
+
+
+
+                                                                                                              3
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Capital controls are restrictions imposed by governments on the flow
+of financial capital into or out of a country.
+
+The imposition of capital controls gives rise to interest rate differ-
+entials that cannot be arbitraged away.
+
+Suppose that a country that initially has free capital mobility.
+
+Let it be the domestic interest rate on dollar loans (the onshore
+rate) and i∗t the foreign interest rate on dollar loans (the offshore
+rate). As we have shown in Chapter 11, under free capital mobility
+the onshore interest rate must equal the offshore interest rate,
+
+                                                                     it = i∗t .
+
+
+
+                                                                                                              4
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Suppose now that the government imposes a tax τt per dollar bor-
+rowed internationally. The tax raises the cost of borrowing one
+dollar internationally to i∗t + τt . For agents to be indifferent between
+offshore and onshore borrowing, the domestic interest rate must
+equal the sum of the foreign interest rate and the capital control
+tax rate,
+                                                                it = i∗t + τt.
+The resulting onshore-offshore interest rate differential, it −i∗t , equals
+the capital control tax rate, τt. The larger the capital control tax
+rate is, the larger the interest rate differential will be.
+
+
+
+
+                                                                                                              5
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                     Macroeconomic Effects of Capital Controls
+
+
+
+
+                                                                                                              6
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Effects of Capital Controls on Consumption, Savings, and the
+Current Account
+
+Consider a two-period small open endowment economy, like the one
+introduced in Chapter 3, with no initial assets (B0 = 0).
+
+Household preferences
+
+                                                            U (C1) + U (C2)
+
+
+Period-1 budget constraint: C1 + B1 = Q1
+
+Period-2 budget constraint: C2 = Q2 + T2 + (1 + i1)B1
+
+T2 = lump-sum transfer
+i1 = interest rate on bonds held from period 1 to period 2 (taken
+as given by the household)
+                                                                                                              7
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Optimality conditions associated with the household’s problem:
+
+
+
+                                                           U 0(C1)
+                                                             0
+                                                                   = 1 + i1                              (1)
+                                                           U (C2)
+
+                                      C2 = Q2 + T2 + (Q1 − C1)(1 + i1)                                   (2)
+
+
+
+
+                                                                                                              8
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Suppose that the government imposes a capital control tax on
+international borrowing. Let τ1 > 0 be the capital control tax rate.
+Then, if the economy is borrowing in period 1,
+
+                                                               i1 = i∗1 + τ1,
+where i∗1 is the world interest rate.
+
+The Euler equation (1) becomes
+                                                     U 0 (C1)         ∗
+                                                              = 1 + i 1 + τ1.                            (3)
+                                                     U 0 (C2)
+
+
+This expression implies that a capital control tax on international
+borrowing (τ1 > 0) distorts the intertemporal allocation of consump-
+tion by increasing the interest rate faced by the household. The tax
+creates incentives to save more and consume less in period 1.
+
+
+                                                                                                              9
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+The Government Budget Constraint
+
+Revenue from the capital control tax: τ1(−B1 ).
+
+Lump-sum transfers: T2
+
+Assume government returns the revenue from the capital control
+tax to households in a lump sum fashion. This implies the following
+period-2 government budget constraint:
+
+                                                             T2 = τ1(−B1 )                               (4)
+
+
+
+
+                                                                                                            10
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Equilibrium
+
+Using the government budget constraint (4) to eliminate T2 from
+the household’s intertemporal budget constraint (2), yields the econ-
+omy’s resource constraint
+
+                                           C2 = Q2 + (Q1 − C1)(1 + i∗1).                                 (5)
+
+
+Note that the economy’s intertemporal resource constraint is in-
+dependent of the capital control tax rate, τ1. This is because the
+government’s tax revenue is returned to households, so no resources
+are lost as a consequence of the imposition of capital controls.
+
+
+
+
+                                                                                                            11
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Equilibrium (continued)
+
+An equilibrium in the economy with capital control taxes is an allo-
+cation (C1, C2) satisfying the Euler equation (3) and the economy’s
+resource constraint (5), that is,
+                                                      U 0(C1)         ∗ +τ
+                                                              = 1 + i 1   1                              (3)
+                                                      U 0(C2)
+and
+                                           C2 = Q2 + (Q1 − C1)(1 + i∗1),                                 (5)
+given endowments Q1, Q2, the world interest rate, i∗1, and the capital
+control tax, τ1.
+
+The figure on the next slide depicts the equilibrium effects of im-
+posing a capital control tax τ1 > 0.
+
+
+                                                                                                            12
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”         Chapter 12: Capital Controls
+
+
+
+
+                Equilibrium With and Without Capital Controls
+                      C2
+
+
+
+
+                                ← slope = −(1 + i∗ )
+
+
+
+                     Q2                         A
+
+
+
+
+                     C2∗ 0                                         C
+
+
+
+
+                     C2∗                                                               B
+
+                                               slope = −(1 + i∗ + τ ) →
+
+
+
+
+                                             Q1                 C1∗ 0                C1∗     C1
+
+
+Point A represents the endowment path, point B the equilibrium consumption
+path in the absence of capital controls, and point C the equilibrium consumption
+path with capital controls.
+                                                                                                                  13
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Comments on the figure:
+The downward sloping straight line is the economy’s intertemporal resource con-
+straint, given by equation (5). The slope of this line is −(1 + i∗1).
+Point A represents the endowment path, (Q1 , Q2).
+Point B represents the optimal consumption path in the absence of capital con-
+trols, τ1 = 0. At point B, the indifference curve is tangent to the intertemporal
+resource constraint.
+In the graph, when capital controls are zero, the economy runs a trade deficit
+equal to C1∗ − Q1 > 0. Because B0 = 0, CA1 = T B1.
+Point C in the figure represents the equilibrium when the government imposes
+a capital control tax τ1 > 0. The economy’s resource constraint is unchanged.
+However, households perceive an increase in the cost of borrowing from i∗1 to i∗1+τ1 .
+The negative of the slope of the indifference curve now is 1 + i∗1 + τ1 > 1 + i∗1. The
+imposition of the capital control tax τ1 leads to a fall in C1, and an improvement
+in T B1, S1, and CA1.
+Welfare is lower at point C than at point B.
+
+Takeaway: The imposition of a capital control tax on international
+borrowing discourages current consumption and causes an increase
+in saving, a reduction in the trade deficit, a reduction in the current
+account deficit, a reduction in the country’s net external debt, and
+a reduction in welfare.
+                                                                                                            14
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                       Chapter 12: Capital Controls
+
+
+
+
+Effects of Capital Controls on Investment
+
+Consider the economy with investment of Chapter 5. To keep the
+present analysis self-contained, we go over its main elements.
+                        √
+Output in period 2: Q2 = I1
+
+I1 = the stock of capital available for production in period 2.
+
+To build this stock of capital, firms invest in period 1. In period
+1 firms borrow the amount I1 at the interest rate i1. In period 2,
+firms must pay back these loans, including interest. Thus, profits in
+period 2 are given by
+                                                                               q
+                                     period-2 profits =                              I1 − (1 + i1)I1 .
+First-order condition for profit maximization:
+                                                             1
+                                                             √ = 1 + i1 .
+                                                            2 I1
+                                                                                                                                15
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                 Chapter 12: Capital Controls
+
+
+
+
+Solving for the optimal level of investment yields
+                                                                                     !2
+                                                                          1
+                                                       I1 =                               .
+                                                                      2(1 + i1)
+
+In equilibrium the domestic interest rate, i1, will be equal to the
+world interest rate, i∗1 plus the capital control tax τ1
+                                                               i1 = i∗1 + τ1.
+
+Combining the above two expressions, we obtain
+                                                                                          !2
+                                                                      1
+                                                  I1 =                                         ,
+                                                                2(1 + i∗1 + τ1)
+
+which shows that capital controls lower investment.
+
+Takeaway: Capital control taxes distort not only the consumption-
+saving choice of households but also the investment choice of firms
+and as such are, at least in the present model, welfare decreasing.
+                                                                                                                          16
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                       Quantitative Restrictions on Capital Flows
+
+
+
+
+                                                                                                            17
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+• Capital controls can also take the form of quantitative restrictions
+on international borrowing and lending.
+
+• This form of capital controls, as we will show, is equivalent to
+those based on taxes on international capital flows.
+
+
+
+
+                                                                                                            18
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”          Chapter 12: Capital Controls
+
+
+
+
+• Suppose the government imposes the following limit on interna-
+tional borrowing
+
+                                               B1 ≥ −D;                      where D > 0.
+
+
+• This implies that: C1 ≤ Q1 + D
+
+The situation is depicted in a figure on the next slide.
+
+The endowment point is at point A and the optimal consumption
+path in the absence of quantitative capital control restrictions is at
+point B.
+
+At point B, the economy borrows from the rest of the world in order
+to finance a level of consumption, C1∗, that exceeds the period-1
+endowment, Q1, Q1 − C1∗ < 0.
+
+                                                                                                                   19
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”         Chapter 12: Capital Controls
+
+
+
+
+      Figure Equilibrium under Quantitative Capital Controls
+                      C2
+
+                                                                   ← Q1 + D
+
+                                ← slope = −(1 + i∗ )
+
+
+
+                     Q2                         A
+
+
+
+
+                     C2∗ 0                                         C
+
+
+
+
+                     C2∗                                                               B
+
+                                                    slope = −(1 + i) →
+
+
+
+
+                                             Q1                 C1∗ 0                C1∗     C1
+
+The equilibrium under free capital mobility is at point B, where C1∗ > Q1 . Quantitative capital
+controls forbid borrowing more than D, pushing households to consume Q1 + D in period 1, point
+C. The domestic interest rate under quantitative capital controls (i1) is given by the slope of the
+indifference curve at point C and is higher than the world interest rate i∗1 .
+
+                                                                                                                  20
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+When quantitative capital controls are imposed, households choose
+point C, and the borrowing constraint is binding, B1 = −D. In
+the constrained equilibrium, in period 1 the household consumes the
+endowment plus the maximum amount of borrowing allowed, D, so
+   0
+C1∗ = Q1 + D. In period 2, the household consumes its endowment,
+Q2, net of debt obligations including interest, (1 + i∗1)D, that is,
+C2 = Q2 −(1 +i∗)D. So we have that in response to the quantitative
+restrictions on capital inflows, current consumption falls from C1∗ to
+   0
+C1∗ , the trade balance and the current account shrink from Q1 −C1∗ to
+         0                                                 0
+Q1 − C1∗ = −D, and external debt falls from C1∗ − Q1 to C1∗ − Q1 = D.
+
+The quantitative capital control measure drive the domestic interest
+rate up to i1 > i∗1.
+
+
+
+                                                                                                            21
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Graphically, 1 + i1 is given by the negative of the slope of the
+indifference curve at point C .
+
+Formally, under binding quantitative capital controls the domestic
+interest rate satisfies
+                                                U 0(Q1 + D)
+                                                                 = 1 + i1 .
+                                            U 0(Q2 − (1 + i∗1)D)
+
+
+Because Q1, Q2 , D, and i∗1 are exogenously given, this expression
+represents one equation in one unknown, i1. The more stringent
+capital controls are (ie, the lower D is), the higher the domestic
+interest rate (i1) will be. We therefore have that the interest
+rate differential, i1 − i∗1 is an increasing function of the severity of
+quantitative restrictions on capital inflows.
+
+
+                                                                                                            22
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Comparing the last two figures, it is clear that quantity-based and
+tax-based capital controls give rise to the same equilibrium, in the
+sense that given a capital control tax τ1 one can find a quantita-
+tive restriction D, such that in equilibrium, consumption, the trade
+balance, the current account, the stock of external debt, and the
+interest rate differential are the same under both capital-control
+policies.
+
+
+
+
+                                                                                                            23
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                                          Borrowing Externalities
+
+
+                                                                       and
+
+                                       Optimal Capital Controls
+
+
+
+
+                                                                                                            24
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Overview
+• We have shown that capital controls can be an effective instrument
+to curb external imbalances, but that if the economy is small and
+has well functioning markets, they are welfare decreasing.
+
+• Now we introduce a market imperfection in the form of a financial
+friction whereby foreign lenders charge higher interest rates for larger
+external debt positions. This feature is called a debt-elastic interest
+rate,
+
+• The debt-elastic interest rate creates an externality: individual
+households, being atomistic participants in financial markets, fail
+to internalize that their individual borrowing decisions collectively
+determine the level of the interest rate. As a result, the economy
+overborrows.
+
+• Under these circumstances, the government has an incentive to
+impose capital controls as a way to make households internalize the
+fact that their borrowing drives the interest rate up. The optimal
+level of capital controls is positive, eliminates overborrowing, and is
+welfare increasing.
+                                                                                                            25
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                  An Economy with a Debt-Elastic Interest Rate
+
+
+
+
+                                                                                                            26
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Suppose that the interest rate at which the small open economy can
+borrow in international capital markets is increasing in the country’s
+cross-sectional average of borrowing, denoted −B̄1 . If B̄1 < 0, the
+country borrows, if B̄1 > 0 the country saves.
+
+The interest rate faced by the small open economy, denoted i∗1, is
+assumed to be debt elastic. Specifically,
+
+                                                               i∗1 = I(−B̄1 )
+
+
+where I(·) is a non-negative and non-decreasing function of external
+debt, −B̄1.
+
+
+
+
+                                                                                                            27
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                   Chapter 12: Capital Controls
+
+
+
+
+To see how a debt-elastic interest rate works, let’s consider the
+following parametric example of I(−B̄1 ):
+                                                          (
+                                                               i                     for B̄1 ≥ 0
+                                  I(−B̄1 ) =                                                     ,                       (6)
+                                                               i + δ(−B̄1 )          for B̄1 < 0
+
+
+where i and δ are positive parameters.
+
+• the country lends at the constant interest rate i
+
+• but borrows at an interest rate that increases linearly with the level
+of debt.
+
+The figure on the next slide plots this debt-elastic interest rate
+schedule.
+
+
+                                                                                                                            28
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 12: Capital Controls
+
+
+
+
+A Debt-Elastic Interest Rate
+
+
+                                                   I(−B̄1 )
+
+
+
+                                                                                     i + δ(−B̄1 )
+
+
+
+                           i
+
+
+
+
+                  B̄1                                               0                 −B̄1
+
+The figure displays an interest rate schedule, I(−B̄1), which is weakly increasing
+in the level of external debt, (−B̄1 ). Both i and δ are positive constants. For
+B̄1 > 0, the country is a net external lender, and the interest rate is constant and
+equal to i. For B̄1 < 0, the country is a net external borrower, and the interest
+rate is an increasing function of the level of debt, −B̄1.
+
+                                                                                                                    29
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Let’s now embed a debt-elastic interest rate schedule into a 2-period
+small open endowment economy of the type introduced in Chapter
+3. Let’s start with the household’s problem.
+
+Households
+
+Preferences: U (C1) + U (C2)
+
+Endowments: Q1 and Q2.
+
+No initial assets or debts, B0 = 0.
+
+Household can borrow or lend freely at the domestic interest rate i1
+via a bond, denoted B1.
+
+Budget constraint in period 1: C1 + B1 = Q1
+
+Budget constraint in period 2: C2 = Q2 + (1 + i1)B1 .
+                                                                                                            30
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Combine the budget constraints in periods 1 and 2 to obtain the
+household’s intertemporal budget constraint
+
+                                           C2 = Q2 + (1 + i1)(Q1 − C1).                                  (7)
+and use it to eliminate C2 from the lifetime utility function
+
+The household’s maximization problem then becomes
+
+                              max[U (C1) + U (Q2 + (1 + i1)(Q1 − C1))]
+                              {C1 }
+Taking derivative with respect to C1 and equating it to zero, we
+obtain the optimality condition
+
+                      U 0(C1) − U 0(Q2 + (1 + i)(Q1 − C1))(1 + i1) = 0.
+
+
+Using the fact that Q2 + (1 + i)(Q1 − C1) = C2 and rearranging, we
+obtain the usual Euler equation
+                                                          U 0(C1)
+                                                            0
+                                                                  = 1 + i1 .                             (8)
+                                                          U (C2)
+                                                                                                            31
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+The debt-elastic country interest rate
+
+Suppose that the country has free capital mobility. Let i∗1 be the in-
+terest rate charged by foreign lenders to the country in international
+capital markets. Then, in equilibrium
+
+                                                                     i1 = i∗1                            (9)
+
+
+But what is i∗1 in the present model? We assume that i∗1 is an
+increasing function of the average external debt per household.
+
+
+
+
+                                                                                                            32
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Debt of an individual household is given by −B1 = C1 − Q1 , where
+C1 is consumption of an individual household in period 1 and Q1 is
+the endowment of an individual household in period 1. Let Q̄1 and
+C̄1 denote cross-sectional averages of output and consumption in
+period 1. Then the average debt per household in period 1 is given
+by
+                                                           −B̄1 = C̄1 − Q̄1.                          (10)
+We introduce a debt-elastic interest rate by assuming that i∗1 is given
+by
+                                                              i∗1 = I(−B̄1 ),
+where I(·) is a non-negative, non-decreasing function. Using (10)
+to replace B̄1 yields i∗1 = I(C̄1 ), where Q̄1 is omitted as an argument
+of I(·). This is not a problem for the present analysis, because Q̄1
+is an exogenous variable, which we will keep constant throughout.
+
+
+                                                                                                            33
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Because all households are identical in preferences and endowments,
+in equilibrium they all consume the same amount of goods. This
+means that in equilibrium consumption per capita equals the indi-
+vidual level of consumption, C̄1 = C1. So we can write the interest
+rate parity condition as
+
+                                                           i1 = i∗1 = I(C1).
+
+
+
+
+                                                                                                            34
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+An equilibrium in the economy with a debt-elastic interest rate then
+are values for C1, C2, and i1 satisfying
+
+
+
+                                                     U 0(C1)
+                                                       0
+                                                             = 1 + i1                                 (11)
+                                                     U (C2)
+                                                  C2             Q2
+                                           C1 +        = Q1 +                                         (12)
+                                                1 + i1         1 + i1
+                                                           i1 = I(C1)                                 (13)
+given the endowments Q1 and Q2.
+
+Note that these are the same equilibrium conditions as those asso-
+ciated with the model of Chapter 3 with the only difference that in
+that model the interest rate parity condition, equation (13), takes
+the form i1 = i∗1, where i∗1 is an exogenous constant.
+
+
+                                                                                                            35
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                                               Competitive Equilibrium
+
+                                                                   without
+
+                                             Government Intervention
+
+
+
+
+                                                                                                            36
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Use the interest rate parity condition (13) to eliminate the inter-
+est rate i1 from the intertemporal budget constraint (12) and the
+Euler (11) to obtain
+
+                                        C2 = Q2 + (1 + I(C1))(Q1 − C1)                                (14)
+and
+                                                      U 0 (C1)
+                                                        0
+                                                               = 1 + I(C1).                           (15)
+                                                      U (C2)
+
+
+These two equations determine the equilibrium levels of consumption
+in periods 1 and 2.
+
+
+
+
+                                                                                                            37
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+The economy’s resource constraint
+
+Let’s start by analyzing the effect of the debt-elastic interest rate
+on the economy’s intertemporal resource constraint (IRC), equa-
+tion (14).
+• The key difference with the case of a constant interest rate is the
+slope. When the interest rate is constant, the slope is also constant
+and equal to minus 1 + i1. When the interest rate is debt elastic,
+the slope is
+                           ∂C2       h
+                                                   0
+                                                                  i
+      slope of the IRC =       = − 1 + I(C1 ) + I (C1)(C1 − Q1)
+                           ∂C1
+• As in the case of a constant interest rate, the slope is negative:
+increasing C1 requires sacrificing some C2.
+• If the country is a borrower (C1 > Q1), the slope is greater than 1+
+i1 in absolute value. Intuitively, if the country borrows an additional
+unit for consumption in period 1, in period 2 it must pay not only
+1 + i1 but also the increase in the interest rate, I 0 (C1), caused by
+the increase in debt.
+The figure on slide 40 plots the resource constraint.
+                                                                                                            38
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Equilibrium is shown in a figure on the next slide.
+
+The endowment is at point B, and the equilibrium is at point C.
+Because C1e > Q1, the country is a borrower.
+
+At point C, the indifference curve has a slope equal to minus 1 + i1,
+as dictated by the Euler equation (15), which is less (in absolute
+value) than the slope of the resource constraint, 1 + i1 < 1 + i1 +
+I 0(C1)(C1 − Q1).
+
+Clearly, there are points on the intertemporal resource constraint
+that deliver higher levels of utility than point C. Therefore the
+equilibrium is inefficient.
+
+The inefficiency originates in the fact that private households per-
+ceive the cost of C1 to be 1+i1, whereas it is 1+i1+I 0 (C1)(C1−Q1) >
+1 + i1
+
+This misperception induces households to ”overborrow”, ie consume
+more in period 1 than is socially optimal.
+                                                                                                            39
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                  Chapter 12: Capital Controls
+
+
+
+
+      Equilibrium in an Economy with Borrowing Externalities
+
+                                 C2
+                                        A
+                                                             B
+                                 Q2
+
+
+
+
+                                                                                       C
+
+                                                                                           A
+                                                            Q1                       C1e       C1
+
+The locus AA represents the economy’s intertemporal resource constraint, C2 =
+Q2 + (1 + I(C1 ))(Q1 − C1 ). The endowment is at point B. The competitive
+equilibrium without government intervention is at point C. This equilibrium is
+inefficient because there are other allocations on the resource constraint that
+yield higher utility than point C.
+                                                                                                                           40
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                                               The Efficient Allocation
+
+
+
+
+                                                                                                            41
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Imagine a benevolent social planner who allocates C1 and C2 to
+maximize households’ utility subject to the resource constraint (14)
+                                                      max U (C1) + U (C2),
+                                                   {C1,C2 }
+subject to
+                                       C2 = Q2 + (1 + I(C1 ))(Q1 − C1).                               (14)
+First-order condition:
+                U 0(C1)                    0
+                  0
+                        =  1 + I(C 1 ) + I   (C1)(C1 − Q1).         (16)
+                U (C2)
+• At the efficient allocation the slope of the indifference curve equals
+the slope of the economy’s intertemporal resource constraint.
+
+• In the competitive equilibrium, the slope of the indifference curve,
+U 0(C1)/U 0(C2), is equated to the private cost of funds, 1 + I(C1),
+whereas in the efficient allocation it is equated to the social cost of
+funds, 1 + I(C1 ) + I 0 (C1)(C1 − Q1).
+
+• The excess external borrowing in the competitive equilibrium is
+known as overborrowing.
+                                                                                                            42
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                      Chapter 12: Capital Controls
+
+
+
+
+The Efficient Allocation in an Economy with Borrowing Ex-
+ternalities
+
+                                     C2
+                                             A
+                                                              B
+
+                                                                                     D
+
+
+
+                                                                                           C
+
+                                                                                               A
+                                                             Q1               C1
+                                                                                 opt     C1e       C1
+
+The locus AA represents the economy’s resource constraint. The endowment is at
+point B. The competitive equilibrium without government intervention is at point
+C. The efficient allocation is at point D, where an indifference curve is tangent to
+the resource constraint. At point C the economy overborrows, ie, borrows more
+than is socially optimal.
+                                                                                                                               43
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                                      Optimal Capital Control Policy
+
+
+
+
+                                                                                                            44
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Can the efficient allocation be achieved in a market economy
+as opposed to a centrally planned economy? The answer is
+yes. The government can eliminate overborrowing and achieve
+the efficient allocation by imposing a capital control tax τ1 > 0.
+Recall that with capital controls, the no arbitrage conditions in
+internatioinal capital markets becomes
+                                                               i1 = i∗1 + τ1.
+Suppose that the government sets
+                                                     τ1 = I 0(C̄1)(C̄1 − Q̄1)
+Households do not internalize that τ1 depends on their own con-
+sumption. But in equilibrium C̄1 = C1, Q̄1 = Q1, and i∗1 = I(C1).
+Given this τ1, we have
+                                           i1 = I(C1) + I 0(C1)(C1 − Q1 ).
+Using this expression, the household’s optimality condition (8) be-
+comes
+              U 0(C1)                    0
+                      =  1 + I(C 1 ) + I   (C1)(C1 − Q1),
+              U 0(C2)
+                                                                                                            45
+which is identical to the optimality condition of the social planner
+(16).
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+• Because the government rebates the revenue generated by the
+capital control tax to the households in a lump-sum fashion, the
+economy’s resource constraint (14) is unchanged.
+
+• Intuitively, the capital control tax increases the effective cost
+of borrowing perceived by households, which induces them to cut
+consumption in period 1. Thus, the role of the capital control tax is
+to make households internalize that the social cost of an extra unit
+of consumption is not just 1+I(C1 ), but 1+I(C1 )+I 0 (C1)(C1 −Q1 ).
+
+• Takeaways:
+– in the presence of a borrowing externality free capital mobility
+ceases to be optimal.
+– in the economy without govt intervention, households consume
+more and borrow more in period 1 than is socially optimal.
+– capital controls now are desirable as a way to eliminate overbor-
+rowing and to increase welfare.
+                                                                                                            46
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                               Capital Mobility in a Large Economy
+
+
+
+
+                                                                                                            47
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+• When a large economy like the United States, the eurozone, or
+China increases its demand for international funds, the world interest
+rate will in general experience upward pressure.
+
+• Each individual household in the large economy takes the interest
+rate as exogenously given. But for the large country as a whole,
+the interest rate is an endogenous variable. This means that the
+government of a large economy might be able to apply policies to
+manipulate world interest rates in the country’s favor. For example,
+if the country is running a current account deficit, the government
+could impose capital controls to curb the country’s aggregate exter-
+nal borrowing and induce a fall in the world interest rate.
+
+• In this section, we characterize equilibrium in a large economy
+under free capital mobility. This analysis will serve as a building
+block to characterize national policies aimed at manipulating the
+world interest rate.
+                                                                                                            48
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+A two-country model
+
+Consider a two-period world consisting of two countries, the home
+country, denoted h, and the foreign country, denoted f .
+
+The home country receives a constant endowment over time.
+
+By contrast, the foreign country receives a lower endowment in
+period 1 than in period 2.
+
+The two economies are identical in all other respects. In particular,
+both have the same preferences for consumption and start period 1
+with no assets or debts.
+
+
+
+                                                                                                            49
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 12: Capital Controls
+
+
+
+
+Preferences in both countries take the form
+                                                                        j            j
+                                                              ln C1 + ln C2,                                  (17)
+where C1j and C2j denote consumption in periods 1 and 2, respec-
+tively, in country j = h, f .
+
+Budget constraint of households in country j in period 1
+                                                            C1j + B1j = Qj1 ,                                 (18)
+Budget constraint of households in country j in period 2
+                                                        j           j                    j
+                                                    C2 = Q2 + (1 + ij )B1,                                    (19)
+where ij denotes the interest rate in country j, for j = h, f . Opti-
+mization implies:
+                                                                    j
+                                                                C2            j
+                                                                    j
+                                                                      = 1 + i                                 (20)
+                                                                C1
+and
+                                                                 j
+                                                                    
+                                                    j   1 j    Q2
+                                                   C1 =   Q1 +     j
+                                                                     .                                       (21)
+                                                        2      1+i
+                                                                                                                    50
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”         Chapter 12: Capital Controls
+
+
+
+
+Consider the home country
+
+Assume constant endowments over time: Qh
+                                       1 = Qh =Q
+                                            2
+Setting j = h in (21), then yields
+                                                         1     Q
+                                                                                      
+                                                     h
+                                                    C1 =   Q+       .                                       (22)
+                                                         2    1+i h
+
+
+Trade balance
+                                                              h   Q           ih
+                                                           T B1 =                h
+                                                                                   .
+                                                                            21+i
+Current account schedule (recall B0h = 0).
+
+                                                             h   Q            ih
+                                                           CA1 =                 h
+                                                                                   .                        (23)
+                                                                            21+i
+Net foreign asset position
+
+                                                             h   Q            ih
+                                                            B1 =                   .                        (24)
+                                                                          2 1 + ih
+                                                                                                                  51
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Consider the foreign country
+                       f                                 f
+Assume Q1 = Q/2 and Q2 = Q
+
+Set j = f in (21) to get
+
+                                                          f      3 + if
+                                                         C1 = Q        f
+                                                                          .                           (25)
+                                                                4(1 + i )
+         f
+⇒ C1 > Q/2, for interest rate below 100 percent (i.e., for any if < 1).
+Trade balance
+                                                            f   Q if − 1
+                                                         T B1 =         f
+                                                                           ,
+                                                                4 (1 + i )
+                                                                              f
+Current account schedule (recallB0 = 0)
+
+                                                           f   Q if − 1
+                                                         CA1 =         f
+                                                                          .                           (26)
+                                                               4 (1 + i )
+Net foreign asset position
+                                                           f   Q if − 1
+                                                          B1 =             .                          (27)
+                                                               4 (1 + if )
+                                                                                                            52
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 12: Capital Controls
+
+
+
+
+Equilibrium
+
+Market clearing in world financial markets
+                                                                                     f
+                                                          CAh
+                                                            1 + CA1 = 0.                                  (28)
+
+
+Interest rate parity: under free capital mobility,
+
+                                                                     ih = if .                            (29)
+Let this interest rate be denoted i∗ and let’s refer to it as the world
+interest rate. That is, let ih = if = i∗.
+
+
+
+
+                                                                                                                53
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Solve for the equilibrium value of the world interest rate, i∗
+
+Replace ih and if by i∗ in the home and foreign current account
+schedules, equations (23) and (26). Then, use the resulting expres-
+                               f
+sions to eliminate CAh1 and CA 1 from (28) to obtain
+                                               Q i∗       Q i∗ − 1
+                                                        +             = 0.
+                                               2 1 + i∗   2 2(1 + i∗)
+Solve for i∗, the equilibrium level of the world interest rate
+                                   1                                   ∗
+                               i = ,
+                                   3
+⇒ under free capital mobility the world interest rate is 33 percent.
+
+By (26), the foreign country runs a current account deficit and
+hence the domestic country a current account surplus. It follows
+from (27), that the foreign country borrows internationally in period
+1. In turn, if the foreign country borrows, then domestic country
+must save in period 1.
+                                                                                                            54
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                      Chapter 12: Capital Controls
+
+
+
+
+Solving for the equilibrium values of Cth and B1h
+
+Setting ih = i∗ = 1/3 in equations (22) and (24) yields
+                                               7                                             1
+                                  C1h =          Q < Q;                   and        B1h =     Q > 0.
+                                               8                                             8
+From (19) we have:
+                                                                    7
+                                                       C2h =          Q > Q > C1h.
+                                                                    6
+
+Interpretation: In spite of having a flat path of endowments, which,
+if consumed, would produce a perfectly smooth path of consump-
+tion, households in the home country choose to consume less than
+their endowment in period 1 and to save. This is because foreign
+demand for funds (discussed next) drives the world interest rate up,
+inducing the home country to postpone consumption. As a result, in
+period 2 the home country can enjoy a level of consumption higher
+than its endowment.
+                                                                                                                               55
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 12: Capital Controls
+
+
+
+
+                                                                                     f   f
+Solving for the equilibrium values of Ct and B1
+
+Proceeding in an analogous fashion, we obtain the following equi-
+librium values for the foreign country’s levels of consumption and
+bond holdings:
+                            f   5     1
+                           C1 = Q > Q,
+                                8     2
+                                                              f  5
+                                                             C2 = Q < Q,
+                                                                 6
+and
+                                  1
+                          B1f = − Q < 0.
+                                  8
+Intuitively, facing an upward sloping path of endowments, the for-
+eign country borrows in period 1 to smooth consumption over time.
+So it consumes above its endowment in period 1, below its endow-
+ment in period 2, and maintains a short bond position in period
+1.
+                                                                                                                    56
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 12: Capital Controls
+
+
+
+
+The Level of Welfare under Free Capital Mobility
+
+Welfare under free capital mobility can be found by evaluating the
+utility function (17) at the respective equilibrium consumption levels.
+This yields
+                                              49
+                                                   
+                       ln C1h + ln C2h = ln      Q2               (30)
+                                              48
+for the home country, and
+                                        25 2
+                                                                                        
+                         f       f
+                     ln C1 + ln C2 = ln    Q ,
+                                        48
+for the foreign country.
+
+An implication of this result is that it does not pay for either country
+to impose capital controls so high that all intertemporal trade stops.
+
+But is there is a capital control policy that induces an equilibrium
+in which the level of welfare is higher (for the country imposing the
+controls) than in the eqm with free capital mobility?
+                                                                                                                    57
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                                   Graphical Analysis of Equilibrium
+
+                                          under Free Capital Mobility
+
+                                                   in a Large Economy
+
+
+
+
+                                                                                                            58
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Thus far we analyzed the equilibrium under free capital mobility in a
+two-country world algebraically for a specific functional form of the
+utility function, U (C) = ln C.
+
+We will now repeat the analysis but instead of following an algebraic
+approach we will use two powerful graphical objects in general equi-
+librium analysis, the offer curve and the Edgeworth box, both created
+by the Irish economist Francis Ysidro Edgeworth (1845-1926).
+
+
+
+
+                                                                                                            59
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                                                Chapter 12: Capital Controls
+
+
+
+
+The Offer Curve
+
+Given endowments, Q1 and Q2, we wish to characterize the optimal consumption
+path (C1, C2) for different values of the interest rate.
+
+Let i0 denote the interest rate such that C1 = Q1 and C2 = Q2. Next find the
+optimal (C1 , C2) for other values of i1.
+
+Starting from i1 = i0 consider a decline in the interest rate. This leads to C1 ↑
+and C2 ↓.∗
+
+Starting from i1 = i0, consider higher values of i1, by the substitution effect C1 ↓
+and C2 ↑.
+
+The figure on the next slide shows how (C1 , C2 ) change with the interest rate.
+
+It follows that the optimal consumption path as the interest rate declines describes
+a downward sloping locus in the space (C1 , C2) that crosses the endowment point.
+This locus is the offer curve.
+
+The figure on the slide after the next plots the offer curve.
+
+
+∗
+    If the income effect associated with a decline in interest rates dominates the substitution effect, it is possible that C2 ↑. In what follows we assume that the substitution
+    effect always dominates.
+
+
+                                                                                                                                                                            60
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                                                Chapter 12: Capital Controls
+
+
+
+
+Optimal Intertemporal Consumption Choice at Different In-
+terest Rates
+                                     C2j
+
+
+                                                  I2     I1 I0
+
+
+
+                                     Qj2                                A0
+
+                                                                                A1
+                                                                                                                            slope = −(1 + i 0 )
+                                                                                                 A2
+                                                                                                                            slope = −(1 + i 1 )
+
+
+                                                                                                                            slope = −(1 + i 2 )
+
+
+                                                                                            I0          I1                    I2
+
+
+
+                                                                                                                                   C1j
+                                                                     Qj1
+
+
+The figure displays the optimal consumption choice for three different values of the interest rate, i0 , i1 , and i2 , satisfying i0 > i1 > i2 . Each interest rate is associated
+with a different intertemporal budget constraint. The higher the interest rate is, the steeper the intertemporal budget constraint will be. The intertemporal budget
+constraint I 0 I 0 is induced by the highest of the three interest rates, and the intertemporal budget constraint I 2 I 2 by the lowest. The associated optimal consumption
+path induced by the interest rate associated with budget constraint I 0 I 0 is the endowment point, A0 . The intertemporal budget constraints I 1 I 1 and I 2 I 2 produce
+optimal consumption choices given by points A1 and A2 , respectively. The offer curve (not shown) connects points A0 , A1 , A2 .
+
+
+                                                                                                                                                                            61
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                 Chapter 12: Capital Controls
+
+
+
+
+                                                       The Offer Curve
+
+                                             j
+                                         C2
+                                                       J
+
+                                                             A0
+                                            j
+                                         Q2
+                                                                     A1
+                                                                                     A2
+                                                                                          J
+
+
+
+
+                                                             j                                 j
+                                                         Q1                                   C1
+
+The offer curve is the locus JJ, which connects all optimal consumption allocations at different
+interest rates. The offer curve crosses the endowment point A0 . The figure also shows the
+indifference curve that crosses the endowment point. At the endowment point this indifference
+curve is tangent to the offer curve. All points on the offer curve other than the endowment point
+are preferred to the endowment point itself.
+                                                                                                                          62
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+The Edgeworth Box
+We now construct the Edgeworth Box, which is shown on the next slide.
+
+• The length of the horizontal side of the box is the global endowment of goods
+in period 1, Qh1 + Qf1.
+
+• The height of the box is the global endowment in period 2, Qh2 + Qf2.
+
+• The southwest corner of the box is the origin of the foreign country and
+is indicated by the symbol O f . For the foreign country, consumption and the
+endowment in period 1 are measured on the horizontal axis from the origin O f to
+the right, and consumption and the endowment in period 2 are measured on the
+vertical axis from O f upward. Welfare of households in the foreign country rises
+as the allocation (C1f , C2f ) moves northeast in the box.
+
+• The northeast corner of the box is the origin of the home country and is indicated
+by the symbol O h . For this country, consumption and the endowment in period
+1 are measured on the horizontal axis from O h to the left, and consumption and
+the endowment in period 2 are measured on the vertical axis from O h downward.
+Welfare of households in the home country rises as the allocation (C1h , C2h ) moves
+southwest in the box.
+
+• The endowments of the two countries are given by point A0.
+
+• Any point in the box represents an allocation of consumption across time and
+countries that can be achieved with the existing global endowments.
+                                                                                                            63
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”         Chapter 12: Capital Controls
+
+
+
+
+             The Edgeworth Box — before adding offer curves
+                                                                                     Qh1
+                                                                                           Oh
+      Qf2 + Qh2
+
+                                                           0
+                                                                                            Qh2
+                                                       A
+
+
+
+
+                    Qf2
+
+
+
+
+                                                                                                  Qf1 + Qh1
+                      Of
+                                      Qf1
+
+The width of the box is equal to the world endowment of goods in period 1, Qf1 + Qh1. The heights
+of the box is equal to the world endowment of goods in period 2, Qf2 + Qh2 . The origin of the
+foreign country is O f and the origin of the home country is O h . The endowment point is A0.
+
+
+
+                                                                                                                  64
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+• Next, we add the offer curves to the Edgeworth box. This is shown
+in the figure on the next slide.
+
+• The offer curve of the foreign country is the locus F F .
+
+• The offer curve of the home country is the locus HH.
+
+• Both offer curves must cross the endowment point A0.
+
+
+
+
+                                                                                                            65
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”             Chapter 12: Capital Controls
+
+
+
+
+          The Edgeworth Box — after adding the offer curves
+                                                                                     Qh1
+                                                                                               Oh
+      Qf2 + Qh2
+                                                  F                                             Qh2
+                                                       A0
+                                              H
+
+
+
+
+                    Qf2
+
+                                                                                           F
+
+                                                                                           H
+
+                                                                                                      Qf1 + Qh1
+                      Of
+                                      Qf1
+
+The offer curve of the foreign country is the locus F F , and the offer curve of the home country is
+the locus HH. Both offer curves must cross the endowment point, A0. For a given country, any
+point on the country’s offer curve is preferred to the endowment point. The slope of a straight
+line from a point on the offer curve, of country f say, to A0 is equal to −(1 + if ). For points to
+the right of A0 the interest rate if is lower than the autarky interest rate and for points on the
+offer curve FF to the left of A0 the interest rate supporting that allocation, if , is higher.
+
+                                                                                                                      66
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Equilibrium Under Free Capital Mobility
+The figure on the next slide presents the equilibrium allocation.
+
+• The equilibrium under free capital mobility is given by point B, where the two
+offer curves intersect for a second time.
+
+• In equilibrium, the foreign country, which has a relatively low endowment in
+period 1, borrows from the home country.
+
+• The equilibrium world interest rate, i∗, is determined by the slope of the line
+that connects points A0 and B. This line is the intertemporal budget constraint
+faced by the domestic and foreign households at the equilibrium world interest
+rate i∗ . This interest rate is lower than the domestic interest rate in the foreign
+country under financial autarky, which is determined by the slope of the foreign
+household’s indifference curve at the endowment point A0. By the same logic,
+we have that the equilibrium interest rate under free capital mobility, i∗, is higher
+than the domestic interest rate in the home country under financial autarky.
+
+• We have therefore established that allowing for free capital mobility eliminates
+interest rate differentials.
+
+• Because in equilibrium both countries are on their respective offer curves, they
+are both better off than under autarky. Thus free capital mobility is welfare
+improving.
+
+                                                                                                            67
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                            Chapter 12: Capital Controls
+
+
+
+
+Equilibrium Under Free Capital Mobility in a Two-Country
+Model
+                                                                                     Qh1
+                                                                                                              Oh
+      Qf2 + Qh2
+                                                  F                                                            Qh2
+                                                       A0
+                                              H
+
+
+
+
+                    Qf2
+                                                                                      B
+                                                                                           F
+
+                                                                                           H
+                                                                                               ← slope= −(1 + i∗ )
+
+                                                                                                                     Qf1 + Qh1
+                      Of
+                                      Qf1
+
+The equilibrium under free capital mobility is point B. The slope of the line that connects points
+A0 and point B is −(1 + i∗ ), where i∗ is the equilibrium world interest rate under free capital
+mobility.
+
+
+                                                                                                                                     68
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+The Allocation Under Free Capital Mobility is Pareto Optimal
+
+• At point B the indifference curves of the home and foreign house-
+holds both have a slope equal to −(1 + i∗).
+
+• Thus, at point B the indifference curves of the home and foreign
+households are tangent to each other.
+
+• This implies that at no point inside the Edgeworth box can both
+countries be better off than at point B. In other words, any other
+attainable consumption allocation makes at least one country worse
+off relative to the allocation associated with the equilibrium under
+free capital mobility.
+
+• When an equilibrium has this property, we say that it is Pareto
+optimal.
+
+                                                                                                            69
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Optimal Capital Controls in a Large Economy
+
+• A large country that is borrowing has monopsony power in inter-
+national funds markets. Unlike the country as a whole, individual
+households do not have market power in financial markets as they
+are atomistically small. Thus, exploiting the country’s market power
+can only be achieved via government intervention.
+
+• For a large country that is a borrower, capital controls have two
+opposing macroeconomic effects: (1) they distort the intertemporal
+allocation, which is welfare decreasing. (2) they lower the world
+interest rate, which is welfare increasing. We will now present an
+economy in which this tradeoff is resolved in favor of (2).
+
+• Let’s go back to the algebraic example introduced earlier. Recall
+the foreign country was the borrower and the home country the
+lender.
+                                                                                                            70
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”    Chapter 12: Capital Controls
+
+
+
+
+• Assume that in response to capital controls imposed by the foreign
+country, the home country does not retaliate by imposing its own
+capital controls.
+
+⇒ demand for international funds by home country still is
+                                                                   Q         i∗
+                                                             B1h =              ∗
+                                                                                  .                    (31)
+                                                                           21+i
+
+• We turn to the setting of the optimal capital control tax, τ , in
+country f next.
+
+
+
+
+                                                                                                             71
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 12: Capital Controls
+
+
+
+
+Earlier, we analyzed an economy with capital control taxes and here
+we will repeat some of these results to keep the presentation self-
+contained.
+
+• The capital control tax τ creates a wedge between the world
+interest rate and the interest rate in the foreign country,
+
+                                                                if = i∗ + τ.                              (32)
+
+
+• Government rebates capital control tax revenue via lump sum
+transfers, T
+                                                                                     f
+                                                                 T = −τ B1 .                              (33)
+
+
+• Budget constraints of the household:
+                                           f            fQ
+                                        C1 + B1 =                                                         (34)
+                                                         2
+                                                     f                     f
+                                                    C2 = Q + T + (1 + if )B1                              (35)
+
+                                                                                                                72
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 12: Capital Controls
+
+
+
+
+Combining (32), (33), and (35), in eqm we have that
+                                                        f                                f
+                                                     C2 = Q + (1 + i∗)B1 ,                                    (36)
+which implies that country f, in eqm, does not loose any resources
+due to the capital control tax.
+
+The government of country f internalizes that:
+                                         f
+(1) in eqm world capital market clears: B1 + B1h = 0
+(2) demand by country h for funds is: B1h = Q  i∗
+                                            2 1+i∗
+                                                                                         f              f
+(3) in eqm total period 2 resources are: C2 = Q + (1 + i∗)B1 , and
+(4) C1f + B1f = Q
+                2.
+
+                                                                     f               f
+From here we can express C1 and C2 as functions of the world
+interest rate i∗
+                        f   Q 1 + 2i∗
+                       C1 =                             (37)
+                            2 1 + i∗
+and
+                        f   Q
+                      C2 = (2 − i∗).                    (38)
+                            2
+                                                                                                                    73
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”            Chapter 12: Capital Controls
+
+
+
+
+                                                                                         f     f
+Now use these two expressions to eliminate C1 and C2 from the
+utility function of the foreign household to obtain
+
+
+
+                                                 Q 1 + 2i∗
+                                                                     !
+                                                                               Q
+                                                                                        
+                                         ln                               + ln   (2 − i∗) .
+                                                  2 1 + i∗                     2
+
+
+This is the indirect lifetime utility function because it is expressed in
+terms of a price, the world interest rate, i∗, instead of consumption,
+  f       f
+C1 and C2 .
+
+
+
+
+                                                                                                                     74
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                 Chapter 12: Capital Controls
+
+
+
+
+The government of country f solves:
+                                                       Q 1 + 2i∗
+                                             "                              !                 #
+                                                                                     Q
+                                                                                         
+                                   max ln                                       + ln   (2 − i∗)
+                                    {i∗ }               2 1 + i∗                     2
+
+Taking the derivative of the indirect utility function with respect to
+i∗ and setting it to zero yields
+                                                          ∗ 2  ∗ 1
+                                                         i + 2i − = 0,
+                                                                                     2
+                                                                          q
+The two solutions are: i∗ = −1±                                               3 . The only economically sensible
+                                                                              2
+(ie i∗ > −1) solution is
+                                                                            s
+                                   3
+                                     = 0.22,        i∗ = −1 +
+                                   2
+or 22 percent. Under optimal capital controls the world interest rate
+is lower than under free capital mobility (22 versus 33 percent).
+
+Intuitively, because the foreign country is a borrower it benefits
+from a lower world interest rate. (By the same token, the home
+country, a lender, does not benefit.)
+                                                                                                                          75
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                   Chapter 12: Capital Controls
+
+
+
+
+Country f welfare: ln( 25.2122
+                          48   Q2 ) under optimal capital controls (ver-
+        25  2
+sus ln( 48 Q ) under free capital mobility)
+
+Country h welfare? Find consumption from:
+                                                  f           f                                  f       f
+                    C1h = Qh
+                           1 + Q1 − C1 ;                                  and        C2h = Qh
+                                                                                            2 + Q2 − C2
+
+
+Country h welfare: ln(1.0103Q2) under optimal capital controls (of
+country f) (versus ln(1.0208Q2) under free capital mobility).
+
+Optimal capital controls raise welfare in country f and lower it in
+country h.
+
+
+
+
+                                                                                                                            76
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 12: Capital Controls
+
+
+
+
+The domestic interest rate in country f under optimal capital
+controls
+
+Find if : From Euler equation:
+                                                                              f
+                                                           1+i        = C2           = 1.5
+                                                                           f
+                                                                          C1
+That is, the domestic interest rate increases from if = 0.33 under
+free capital mobility to if = 0.5. Why? Because the gov’t must
+incentivate private households to borrow less.
+
+Find τ :
+                                          τ = if − i∗ = 0.5 − 0.22 = 0.28
+
+
+The tax rate on capital inflows is a hefty 28 percent.
+
+                                                                                                                    77
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Because the capital controls raise the domestic interest rate (if ),
+the current account deficit of the foreign economy falls from
+
+   f
+B1 = −0.1250Q under free capital mobility to
+
+   f
+B1 = −0.0918Q under optimal capital controls.
+
+
+
+
+                                                                                                            78
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Graphical Analysis of Optimal Capital Controls in a Large
+Economy
+
+
+
+
+                                                                                                            79
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 12: Capital Controls
+
+
+
+
+Let’s now use the Edgeworth box to analyze optimal capital controls
+in the foreign country, see the figure on the next slide.
+• In setting capital controls, the objective of the foreign country is to attain a
+point on the home country’s offer curve, HH, that maximizes the foreign country’s
+utility. The foreign country is constrained to pick a point on the home country’s
+offer curve because, by construction, only the allocations on the offer curve can
+be obtained as a market outcome, that is, by an appropriate choice of the world
+interest rate. Consequently, the allocation associated with the optimal capital
+control policy is one at which an indifference curve of the foreign country is
+tangent to the offer curve of the home country.
+• This allocation is point C in the figure. The indifference curve attained by the
+foreign country under optimal capital controls is U U .
+                                                                                     0
+• The world interest rate under optimal capital controls (i∗ ), is defined by the
+slope of the line that connects points A0 and C. Clearly, this line is flatter than
+the one connecting points A0 and B. This means that the imposition of optimal
+capital controls causes the world interest rate to fall.
+• Also, the optimal capital control policy in the foreign country makes the foreign
+country better off at the expense of the home country, whose welfare goes down.
+Recall that the equilibrium under free capital mobility is Pareto optimal, so the
+improvement in the foreign country’s welfare must be welfare decreasing for the
+home country.
+• These results echo those obtained algebraically earlier
+                                                                                                                80
+ Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                             Chapter 12: Capital Controls
+
+
+
+
+ Optimal Capital Controls in a Large Economy
+                                                                                      Qh1
+                                                                                                                     Oh
+Qf2 + Qh2
+                                              F                                                                        Qh2
+                                                   A0      U
+                                          H
+
+
+
+                                                                          C
+
+
+
+             Qf2                                                                                U
+                                                                                       B
+                                                                                            F                           0
+                                                                                                     slope = −(1 + i∗ )
+
+                                                                                            H   slope = −(1 + i∗ )
+
+                                                                                                                              Qf1 + Qh1
+               Of
+                                 Qf1
+ The offer curve of the home country is HH and that of the foreign country is F F . The endowment
+ is at point A0. The equilibrium under free capital mobility is at point B, and the equilibrium under
+ optimal capital controls in the foreign country is at0 point C. The interest rate under free capital
+ mobility is i∗ and under optimal capital controls i∗ < i∗ . The indifference curve attained by the
+ foreign country under optimal capital controls is U U . The fact that this indifference curve is not
+ tangent to the intertemporal budget constraint that crosses point C implies that the equilibrium
+ with capital controls is Pareto inefficient.
+                                                                                                                                       81
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+The Allocation Under Optimal Capital Controls is Inefficient
+
+• The equilibrium under optimal capital controls in the foreign coun-
+try fails to be efficient. Let’s show why.
+
+• At point C, by construction the indifference curve of the home
+country (not shown) must be tangent to the intertemporal budget
+                                               0
+constraint associated with the interest rate i∗ .
+
+•The indifference curve of the foreign country (the locus UU), on
+the other hand, is tangent to the offer curve of country h (the locus
+HH).
+
+• Since the budget constraint and the offer curve (the locus HH)
+intersect at C, the slopes of the home and foreign indifference curves
+at point C are not the same.
+
+• This implies that the equilibrium allocation under capital controls
+is inefficient in the sense that the home country could be made
+better off without making the foreign country worse off.
+                                                                                                            82
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                                                            Retaliation
+
+
+
+
+                                                                                                            83
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+• Thus far, we have assumed that, as the foreign country imposes
+controls on capital inflows, the home country does not retaliate by
+imposing its own restrictions on capital flows.
+
+• Because the home country is a large economy, it will in general
+have an incentive to retaliate. In turn, the foreign country would
+have an incentive to readjust its capital control policy in response
+to the retaliation of the home country.
+
+• The equilibrium that will emerge under this strategic interaction
+depends on what type of game the two countries play in setting
+capital controls. We will focus on one type of game known as Nash
+equilibrium.
+
+• Essentially, in a Nash equilibrium each country sets its own capital
+control tax optimally taking as given the capital tax rate of the other
+country. An equilibrium is reached when the capital control tax that
+each country takes as given is indeed the tax rate that is optimal
+for the other country.
+                                                                                                            84
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                                      Equilibrium Requirements
+
+As shown earlier, the intertemporal resource constraint with capital
+controls is the same as in the case without capital controls, that is,
+for j = h, f , we have
+                                                      j            j
+                                                j    C2      j    Q2
+                                               C1 +     ∗
+                                                          = Q1 +     ∗
+                                                                       .                              (39)
+                                                    1+i          1+i
+
+And the Euler equations continue to be requirements of equilibrium:
+                                                                   j
+                                                               C2            j
+                                                                   j
+                                                                     = 1 + i   .                      (40)
+                                                               C1
+
+
+
+
+                                                                                                            85
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 12: Capital Controls
+
+
+
+
+                               Consumption in the Foreign Country
+
+The foreign country imposes controls on capital inflows:
+
+                                                               if = i∗ + τ f ,
+
+
+Setting j = f in (39) and (40) and solving for C1f and C2f , yields
+                                                                                     f
+                                                              f    Q2
+                                           f    f  ∗   f
+                                                             Q1 + 1+i∗
+                                          C1 = K (i , τ ) ≡
+                                                                1+i∗+τ f
+                                                            1 + 1+i∗
+and
+                                                             f    Qf2
+                             f    f ∗ f             ∗   f
+                                                            Q1 + 1+i∗
+                            C2 = L (i , τ ) ≡ (1 + i + τ )
+                                                               1+i∗ +τ f
+                                                           1 + 1+i∗
+
+where i∗ and τ f are endogenous variables.
+
+                                                                                                                86
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+                                 Consumption in the Home Country
+
+The home country imposes controls on capital outflows.
+
+                                                               ih = i∗ − τ h .
+Setting j = h in (39) and (40) and solving for C1h and C2h, yields
+
+
+
+                                                               h    Qh2
+                                            h    h  ∗   h
+                                                              Q1 + 1+i  ∗
+                                           C1 = K (i , τ ) ≡
+                                                                 1+i∗ −τ h
+                                                             1 + 1+i∗
+and
+                                                              h    Qh
+                                                                    2
+                              h    h ∗ h             ∗   h
+                                                             Q1 + 1+i ∗
+                             C2 = L (i , τ ) ≡ (1 + i − τ )              ,
+                                                                1+i∗−τ h
+                                                            1 + 1+i∗
+
+where i∗ and τ h are endogenous variables to be determined in equi-
+librium.
+                                                                                                            87
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 12: Capital Controls
+
+
+
+
+Market clearing in the goods market in period 1 requires that
+global consumption equal the global endowment,
+                                                                                     f
+                                  K f (i∗, τ f ) + K h(i∗, τ h) − Q1 − Qh
+                                                                        1 = 0.
+This equation expresses the world interest rate as an implicit function
+of the tax rates in the home and foreign countries. We then write
+
+                                                             i∗ = I(τ f , τ h).
+Using this relation to eliminate i∗ from consumption in both periods
+in the home and foreign countries we can write
+                                        f
+                                    C1 = K̃ f (τ f , τ h) ≡ K f (I(τ f , τ h), τ f ),
+
+                                         f
+                                     C2 = L̃f (τ f , τ h) ≡ Lf (I(τ f , τ h), τ f ),
+
+                                    C1h = K̃ h(τ f , τ h) ≡ K h(I(τ f , τ h), τ h),
+
+                                     C2h = L̃h(τ f , τ h) ≡ Lh(I(τ f , τ h), τ h).
+
+                                                                                                                88
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+The government of the foreign country picks τ f to maximize the
+utility of the foreign household taking as given the tax rate in the
+home country, τ h.
+                                                 h                        i
+                                                f  f   h         f  f   h
+                                       max ln K̃ (τ , τ ) + ln L̃ (τ , τ )
+                                       {τ f }
+The first-order condition is
+                                                 f                             f
+                                             K̃1 (τ f , τ h)  L̃1(τ f , τ h)
+                                               f    f     h
+                                                             + f f h = 0,
+                                             K̃ (τ , τ )      L̃ (τ , τ )
+                    f                                    f
+where K̃1 (τ f , τ h) and L̃1(τ f , τ h) denote, respectively, the partial
+derivatives of K̃ f (τ f , τ h) and L̃f (τ f , τ h) with respect to the first
+argument, τ f . This optimality condition implicitly defines the tax
+rate in the foreign country, τ f , as a function of the tax rate in the
+home country, τ h. We write the solution for τ f as
+                                                              τ f = Rf (τ h).
+This relationship is called the reaction function of the foreign coun-
+try. It represents the optimal tax response of the foreign country as
+a function of the tax rate in the home country.
+                                                                                                            89
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                   Chapter 12: Capital Controls
+
+
+
+
+Likewise, the government of the home country chooses τ h to
+                                                           h      f       h          h   f   h
+                                                h                                                i
+                                      max ln K̃ (τ , τ ) + ln L̃ (τ , τ ) ,
+                                       {τ h}
+
+taking as given τ f .
+
+The associated first-order condition is
+                                             K̃1h(τ f , τ h)  L̃h
+                                                                1 (τ f , τ h)
+                                                h   f     h
+                                                             + h f h = 0.
+                                             K̃ (τ , τ )      L̃ (τ , τ )
+
+
+Solving this expression for τ h, we can write
+
+                                                               τ h = Rh(τ f ),
+which is the reaction function of the home country.
+
+
+
+                                                                                                                            90
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+The figure on the next slide displays the reaction functions of the
+home and foreign countries in the space (τ h, τ f ) for the algebraic
+example studied earlier.
+• The Nash equilibrium is at point A, where the two reaction functions intersect.
+
+• In the Nash equilibrium τ f = 0.18 and τ h = 0.30.
+
+• The cross country interest rate differential, if − ih = τ f + τ h , widens from 28
+(=28+0) percent when the home country is passive to 48(=18+30) percent when
+the home country retaliates.
+
+• Point B in the figure corresponds to the case in which the foreign country
+behaves strategically and the home is passive, which is the case we studied in
+Section . Comparing points A and B, we see that retaliation by the home country
+makes the foreign country lower its capital control tax rate (28 versus 18 percent).
+
+• Point C in the figure corresponds to the case in which the home country behaves
+strategically and the foreign country is passive.
+
+• Regardless of whether a country is borrowing or lending, retaliation by the other
+country lowers its own capital control taxes relative to the situation in which the
+other country is passive.
+
+
+                                                                                                            91
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                             Chapter 12: Capital Controls
+
+
+
+
+Capital Control Reaction Functions of the Home and Foreign
+Governments
+                                           0.5
+                                                                                                             Rf (τ h )
+                                                                                                             Rh (τ f )
+                                          0.45
+
+
+                                           0.4
+
+
+                                          0.35
+
+
+                                           0.3
+                                                     B
+                                     τf
+
+
+
+
+                                          0.25
+
+
+                                           0.2
+                                                                                           A
+
+                                          0.15
+
+
+                                           0.1
+
+
+                                          0.05
+
+                                                                                                  C
+                                            0
+                                                 0       0.05   0.1   0.15   0.2   0.25   0.3   0.35   0.4   0.45        0.5
+                                                                                    τh
+
+The function Rf (τ h) is the reaction function of the foreign country. It expresses the optimal
+capital control tax rate of the foreign country as a function of the tax rate of the home country.
+Similarly, Rh(τ f ) is the reaction function of the home country, representing the optimal tax rate
+in the home country as a function of the foreign country’s tax rate. The intersection of the
+two reaction functions gives the Nash equilibrium capital control tax rates in the two countries.
+Replication file: tauf_tauh_num.m in two_country.zip.
+
+                                                                                                                                                      92
+  Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”      Chapter 12: Capital Controls
+
+
+
+
+      Comparison of Equilibria Under Alternative Capital Control Policies
+                                                             Welfare
+Policy                   i ∗   τ f   τ h    CA  f        f              h
+Autarky                   –     –    –        0    ln(0.5000Q ) ln(1.0000Q2 )
+                                                              2
+
+Free Capital Mobility   0.33    0    0    -0.125Q ln(0.5208Q2) ln(1.0208Q2 )
+Home Country Passive    0.22 0.28    0    -0.092Q ln(0.5253Q2) ln(1.0103Q2 )
+Foreign Country Passive 0.55    0   0.35 -0.073Q ln(0.5082Q2) ln(1.0318Q2 )
+Retaliation—Nash Eqm    0.45 0.18 0.30 -0.060Q ln(0.5111Q2) ln(1.0219Q2 )
+
+  Comments:
+  • Not surprisingly, intertemporal trade, as measured by the absolute size of the current account,
+  is the largest under free capital mobility and the smallest under optimal capital controls with Nash
+  retaliation.
+  • Also not surprisingly, a country’s welfare is the highest when it imposes optimal capital controls
+  and the other country is passive.
+  • It is somewhat surprising, however, that the home country is better off under optimal capital
+  controls with retaliation than under free capital mobility. Thus, it is optimal for the home country
+  to impose capital controls regardless of whether this triggers a capital control war or not. This is
+  not the case for the foreign country, which prefers free capital mobility to a capital control war.
+  • An interesting question is whether it pays for the foreign country to compensate the home
+  country for abiding to free capital mobility.
+  • Finally, if one country imposes optimal capital controls unilaterally, it is in the interest of the other
+  country to retaliate. To see this, note that in both countries welfare is higher under retaliation
+  than in the absence thereof.
+
+
+
+                                                                                                                 93
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Summing Up
+
+• Capital controls drive a wedge between the domestic interest rate
+and the world interest rate.
+
+• If under free capital mobility, a small country borrows from the rest
+of the world, then the imposition of capital controls drives domestic
+interest rates up, depresses current consumption, and improves the
+current account.
+
+• If under free capital mobility, a small country lends to the rest
+of the world, then the imposition of capital outflow controls lowers
+domestic interest rates, increases current consumption, and worsens
+the current account.
+
+• In a small open economy without distortions, capital controls are
+always welfare decreasing.
+                                                                                                            94
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Summing Up (continued)
+
+• In the presence of borrowing externalities, capital controls can be
+welfare increasing, as they can be effective in eliminating overbor-
+rowing.
+
+• In a two-country world, free capital mobility is in general preferred
+to financial autarky.
+
+• In a two-country world, free capital mobility results in a Pareto
+optimal allocation, that is, any other feasible allocation makes at
+least one country worse off.
+
+• For an economy that has market power in global financial markets
+it might be welfare improving to impose capital controls to move
+the world interest rate in its favor.
+
+                                                                                                            95
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 12: Capital Controls
+
+
+
+
+Summing Up (concluded)
+
+• A large economy that runs a current account deficit benefits from
+imposing controls on capital inflows that drive the world interest
+rate down provided the rest of the world does not retaliate.
+
+• A large economy that runs a current account surplus benefits from
+imposing controls on capital outflows that drive the world interest
+rate up provided the rest of the world does not retaliate.
+
+• In a two-country world, the allocation under optimal capital con-
+trols fails to be Pareto efficient, that is, there is a feasible reallocation
+of resources that would make at least one country better off without
+making the other country worse off.
+
+• In a two-country world, if one country imposes optimal capital
+controls unilaterally, it is in the interest of the other country to
+retaliate.
+
+• In a two-country world, it may be welfare improving for one country
+to initiate a capital control war.
+                                                                                                            96
+

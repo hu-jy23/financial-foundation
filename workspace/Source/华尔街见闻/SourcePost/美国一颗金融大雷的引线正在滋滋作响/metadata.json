@@ -1,0 +1,78 @@
+{
+  "article_id": 3744853,
+  "selection": {
+    "article_id": 3744853,
+    "url": "https://wallstreetcn.com/articles/3744853",
+    "title": "美国一颗金融大雷的引线正在滋滋作响",
+    "page_display_time": "2025-04-09T09:26:17+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "鲍奕龙",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004827",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "信用与融资结构",
+    "reading_priority": "B",
+    "reading_value": "解释私募份额转让中“捆绑新基金承诺”的安排，以及退出约束怎样加剧流动性压力。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1193,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 36
+  },
+  "url": "https://wallstreetcn.com/articles/3744853",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3744853?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:19+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "美国一颗金融大雷的引线正在滋滋作响",
+  "page_display_time": "2025-04-09T09:26:17+08:00",
+  "page_byline": "鲍奕龙",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "私募股权行业正处于有史以来最脆弱的状态之一。私募股权公司采用“捆绑销售”策略，要求投资者转让股权需先承诺注资新基金，致二级市场交易减缓，此前机构投资者折价甩卖持仓。若股市继续下跌或月底不恢复，投资者或将大举抛售。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1277,
+  "body_sha256": "eba36f345545336606df20a032850dce4de6e8e893c0e715b81541b87ecb151b",
+  "raw_sha256": "31d5b3b413d4d3437384976e5b1a85f7eee9b9df4c95d8cc13813993c70b0d38",
+  "raw_bytes": 7180,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/ee99ae2c-8718-46fc-a283-fab46cf77d8b.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1193,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "华尔街见闻曾报道",
+      "url": "https://wallstreetcn.com/articles/3744665"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "31d5b3b413d4d3437384976e5b1a85f7eee9b9df4c95d8cc13813993c70b0d38",
+      "bytes": 7180
+    },
+    "article.html": {
+      "sha256": "ec6c878cf670e1d43bed3dd4f8f8d20ad058cac9e82851c48e97fa5aa9028ca1",
+      "bytes": 6998
+    },
+    "article.md": {
+      "sha256": "984196ec00d18a7b7967737ed318f5ee17a32364ce9b4cd96ae0f614bf96d39f",
+      "bytes": 4242
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:13+08:00"
+}

@@ -1,0 +1,805 @@
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+   Slides for Chapter 4: Terms of Trade, the World
+   Interest Rate, Tariffs, and the Current Account
+
+                                                      Columbia University
+
+                                                       September 6, 2022
+
+
+
+
+These are the slides for the textbook, “International Macroeconomics: A Modern Approach,” by
+Stephanie Schmitt-Grohé, Martı́n Uribe, and Michael Woodford, Princeton University Press, 2022,
+ISBN: 9780691170640.
+
+
+
+
+                                                                                                                                                         1
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Motivation
+
+Thus far, we have studied the adjustment to endowment shocks.
+
+Other important shocks for open economies are shocks to
+
+
+   • the terms of trade
+
+
+   • the world interest rate
+
+
+   • tariffs
+
+
+What happens with consumption, the trade balance, and the current
+account in response to these shocks?
+
+                                                                                                                                                         2
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Terms-of-Trade Shocks
+
+Thus far, we have studied an economy with a single good. House-
+holds consume and are endowed with, say, bananas. Sometimes the
+country exports bananas and sometimes it imports bananas.
+
+However, the goods countries export may be different from the
+goods the country imports. Some oil producing countries, for exam-
+ple, export mostly oil and import consumption goods such as food,
+electronics, and automobiles.
+
+Let’s make the model more realistic and study an economy in which
+households like to consume a good different from the good they are
+endowed with.
+
+The relative price of exports in terms of imports is known as the
+terms of trade.
+                                                                                                                                                         3
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+The Terms of Trade
+
+Let P1X and P1M be the prices of exports and imports in period 1.
+
+The terms of trade in period 1, denoted T T1, is
+                                                                                P1X
+                                                                T T1 ≡                .
+                                                                                P1M
+
+
+Continuing with the example of an oil exporter, if the price of oil
+is $90 per barrel and the price of wheat is $10 per bushel, then
+P1X = 90, P1M = 10, and the terms of trade is 9, or T T1 = 9. Here,
+T T1 represents the price of oil in terms of wheat and indicates the
+amount of wheat that the country can afford to import if it exports
+one barrel of oil. Put differently, T T1 = 9 means that with one barrel
+of oil the country can buy 9 bushels of wheat.
+
+                                                                                                                                                         4
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+The Intertemporal Budget Constraint
+
+The budget constraint in period 1 is
+
+                                          C1 + B1 − B0 = r0B0 + T T1Q1.
+
+
+The budget constraint in period 2 is
+
+                                          C2 + B2 − B1 = r1B1 + T T2Q2.
+
+
+Using the transversality condition B2 = 0 and combining the two
+budget constraints to eliminate B1, yields the intertemporal budget
+constraint
+                  C2                              T T2Q2
+           C1 +         = (1 + r0)B0 + T T1Q1 +          .
+                1 + r1                            1 + r1
+Note that it is identical to its counterpart in the one-good economy,
+except that here we have T T1Q1 and T T2 Q2 instead of Q1 and Q2.
+                                                                                                                                                         5
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Effects of Terms-of-Trade Shocks
+
+We just deduced that terms-of-trade shocks are just like output
+shocks. If income in period 1, T T1 Q1, goes up, the household doesn’t
+care whether this is due to an increase in T T1 or Q1.
+
+Consequently, the adjustment to terms of trade shocks is identical
+to the adjustment to endowment shocks:
+
+The country finances temporary changes in the terms of trade by
+changing the current account (upwardly if the shock is positive and
+downwardly if it is negative), to smooth consumption over time.
+
+The country adjusts to permanent terms-of-trade shocks by mostly
+changing consumption (upwardly if the shock is positive and down-
+wardly if it is negative), with little movement in the current account.
+
+                                                                                                                                                         6
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Terms-of-Trade Shocks and Imperfect Information
+
+When a shock hits the economy, it is not easy to tell whether it is
+permanent or temporary.
+
+Agents must form expectations about the duration of the shock,
+which may or may not be validated by future developments.
+
+When expectations are not fulfilled, the behavior of the economy
+may ex-post look at odds with the prediction of the intertemporal
+theory of current account determination.
+
+
+
+
+                                                                                                                                                         7
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Suppose that initially T T1 = T T2 = T T and Q1 = Q2 = Q. Suppose
+now that in period 1 the terms of trade appreciate by ∆ > 0 in
+period 1 and by 2 × ∆ in period 2.
+
+How does the current account adjust to this development?
+
+If households expect the improvement in period 1 to be transitory
+(T T2 = T T ), then the current account in period 1 will improve,
+CA1 ↑.
+
+But if households correctly anticipate that the future terms of trade
+will be even better by rising to T T + 2 × ∆ in period 2, then the
+current account in period 1 will deteriorate, CA1 ↓, as households
+will borrow against their higher expected future income.
+
+The takeaway from this hypothetical example is that what matters
+for the determination of the current account is the expected path
+of income, not just current income.
+
+This point is important for analyzing actual historical episodes, as
+the example on the next slide illustrates.
+                                                                                                                                                         8
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Imperfect Information, the Price of Copper and the Chilean
+Current Account
+
+We will look at the dynamics of the Chilean current account during
+the copper price boom of the early 2000 and argue that the observed
+dynamics are consistent with the predictions of the intertemporal
+theory of the current account if one takes into account that Chile
+underestimated how long the copper price boom would last and to
+what heights the copper prices would rise.
+
+Copper is the main export product of Chile (more than 50% of
+exports). Thus, an increase in the world copper price represents a
+positive terms-of-trade shock for Chile.
+
+In the early 2000s, the price of copper began to rise vigorously
+(it more than tripled) after it had been relatively stable during the
+preceding two decades. (See the figure on the next slide.)
+                                                                                                                                                         9
+   Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Forecast versus Actual Price of Copper, Chile, 2001–2013
+               400
+
+
+
+
+               350
+
+
+
+
+               300
+
+
+
+
+               250
+
+
+
+
+               200
+
+
+
+
+               150
+
+
+
+
+               100
+
+                                                                                                         Actual Copper Price
+                                                                                                         Forecast over next 10 years
+                50
+                 2001                2003                2005                2007               2009                 2011                 2013
+
+                                                                                                                                                          10
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Observations on the figure: (1) The crossed broken line shows the
+actual real price of copper in U.S. dollar cents of 2015 per metric
+pound from 2001 to 2013. (2) Between 2003 and 2007, the copper
+price rose from 120 to over 350 cents and then stayed that high
+until the end of the sample, 2013. [Yes, there was a dip during the
+global financial crisis of 2008, but it was temporary.]
+
+Mapping this episode into our model, we can think of the period
+2003-2007 as period 1 and the years after 2007 at period 2, and
+that T T1 increased and that T T2 also increased by as much as T T1
+if not more.
+
+The intertemporal theory of the current account, then predicts that
+CA1 should not have improved, it should either have stayed the same
+(under the interpretation that T T1 and T T2 both went up by about
+the same) or it should have deteriorated (under the interpretation
+of the data that T T1 went up and T T2 went up by even more).
+
+Let’s take a look at the graph on the next slide to see if this is what
+actually happened.
+                                                                                                                                                       11
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+                                       The Current Account, Chile, 2001-2013
+
+
+
+                                       5
+
+
+                                       4
+
+
+                                       3
+
+
+                                       2
+                     percent of GDP
+
+
+
+
+                                       1
+
+
+                                       0
+
+
+                                      −1
+
+
+                                      −2
+
+
+                                      −3
+
+
+                                      −4
+                                           2001   2003         2005           2007         2009            2011            2013
+
+                                                                                                                                                       12
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+The figure on slide 12 shows the Chilean current account experienced
+a significant improvement between 2003 and 2007 from deficits of
+around one percent of GDP to surpluses of about three percent of
+GDP.
+
+This behavior of the CA contradicts, on the face of it, the predictions
+of the intertemporal theory of the current account. However, this
+prediction of the model hinges on the assumption that people had
+perfect foresight about the copper price. But the assumption that
+people could forsee that the rise of the price of copper would be
+long lasting turns out to be wroing.
+
+
+
+
+                                                                                                                                                       13
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+How do we know? Take again a look at the figure on slide 10.
+
+It also plots the forecast of the average real price of copper over the
+next ten years produced by Chilean economic experts.
+
+The plot reveals that until 2007 the experts expected the increase
+in the copper price to be transitory. For example, in 2005 experts
+predicted that the average copper price between 2005 and 2015
+would be below 100. Only by 2013, did forecasters seem to believe
+that high copper prices were there to stay.
+
+In light of these expectations about the path of the price of copper,
+the behavior of the current account is no longer in conflict with
+the predictions of the intertemporal model. For it predicts that in
+response to an improvement in the terms of trade that is expected
+to be temporary, the current account should improve, which is what
+indeed happened.
+                                                                                                                                                       14
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+World Interest Rate Shocks
+
+Movements in world interest rates have been identified as impor-
+tant factors driving business cycles and the external accounts in
+economies that are open to trade in goods and financial assets.
+
+
+
+
+                                                                                                                                                       15
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+What happens when the interest rate changes?                                                                         Two potentially
+opposing effects:
+
+Substitution Effect: A higher interest rate makes bonds more
+attractive ⇒ consumption falls and saving increases.
+
+Income Effect:
+– If households are borrowing, the interest rate hike makes them
+poorer (income effect is negative) ⇒ consumption falls and saving
+increases. In this case, the income and substitution effects reinforce
+each other.
+
+– If households are lending, the interest rate hike makes them richer
+(income effect is positive) ⇒ consumption increases and saving falls.
+In this case, the income and substitution effects oppose each other.
+
+[When the income and substitution effect oppose each other, we
+assume that preferences are such that the substitution effect dom-
+inates to ensure that saving is always an increasing function of the
+interest rate.]
+                                                                                                                                                       16
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Adjustment to an Increase in the World Interest Rate
+
+The next figure displays the effect of an increase in the world interest
+rate on consumption.
+
+• Prior to the interest rate increase, the optimal consumption path
+is point B.
+
+• Then the world interest rate increases from r∗ to r∗ + ∆. This
+causes the intertemporal budget constraint to rotate clockwise around
+the endowment point A (we are assuming that B0 = 0).
+
+• The new optimal consumption path is point B0.
+
+• The increase in the interest rate causes period-1 consumption to
+fall from C1 to C10 and period-2 consumption to increase from C2 to
+C20 .
+
+• Thus, the trade balance T B1 = Q1 − C1 and the current account
+CA1 = T B1 + r0B0 both improve.
+                                                                                                                                                       17
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+         Adjustment to an Increase in the World Interest Rate
+                                                                      (B0 = 0)
+
+
+                     C2
+                                      ← slope = −(1 + r∗ + ∆)
+
+
+
+
+                                  slope = −(1 + r ∗ ) →
+                     Q2                                           A
+
+                     C20                                                B0
+
+                     C2                                                              B
+
+
+
+
+                                                                Q1    C10            C1                                           C1
+
+
+
+                                                                                                                                                       18
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Import Tariffs
+
+Does an increase in import tariffs reduce imports and thereby im-
+prove the trade balance?
+
+It turns out that an increase in import tariffs can have either a
+positive, a negative, or no effect on a country’s trade balance.
+
+What matters is not the import tariff per se but how it compares to
+expected future import tariffs.
+
+Intuitively, if the current import tariff is higher than the future one,
+then imports are relatively expensive in the current period and import
+demand should fall. This would improve the trade balance in the
+current period.
+
+But if the imposition of import tariffs is permanent, then there is
+no reason to shift consumption across time periods, and the import
+tariff will have no effect on the trade balance.
+                                                                                                                                                       19
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+How to embed an import tariff in our model?
+
+• Assume that there are two goods, an export good and an import
+good as in the analysis of terms-of-trade shocks.
+
+• Assume that the government rebates the revenues generated by
+the import tariff to households in a lump sum fashion.
+
+• Let τt denote the import tariff in period t = 1, 2.
+
+• Let Lt denote the lump sum transfer in period t = 1, 2.
+
+
+
+
+                                                                                                                                                       20
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Household budget constraints in periods 1 and 2:
+
+                          (1 + τ1)C1 + B1 = T T1 Q1 + L1 + (1 + r0)B0                                                                               (1)
+
+                                (1 + τ2)C2 = T T2Q2 + L2 + (1 + r1)B1.                                                                              (2)
+The intertemporal budget constraint:
+                                                                          (1 + τ2)C2
+                                           (1 + τ1 )C1 +                             = Ỹ ,                                                         (3)
+                                                                            1 + r1
+where
+                                                         T T2Q2 + L2
+                         Ỹ = (1 + r0)B0 + T T1Q1 + L1 +
+                                                            1 + r1
+is lifetime wealth, which the household takes as given.
+
+
+
+
+                                                                                                                                                       21
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+The Household’s Maximization Probem
+
+                                                     max U (C1 ) + βU (C2 )
+                                                  {C1 ,C2 }
+
+subject to (3). Solve (3) for C2 and use resulting expression to
+replace C2 from the household’s lifetime utility function. This yields
+                                                                                                                            !
+                                                                        1 + r1
+                         max             U (C1) + βU                           (Ỹ − (1 + τ1)C1) .
+                         {C1}                                           1 + τ2
+The first-order condition associated with this problem is the Euler
+equation
+                            1 + τ1
+                  U 0(C1) =        β(1 + r1)U 0(C2).           (4)
+                            1 + τ2
+
+
+
+
+                                                                                                                                                       22
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+The government rebates any revenue from the import tariff to
+households in a lump sum fashion
+
+The government budget constraint in period t = 1, 2:
+
+                                                                   Lt = τt Ct
+Combining this expression with the households’ intertemporal budget
+constraint (2) gives the economy-wide resource constraint
+                   C2                            T T2Q2
+            C1 +         = (1 + r0)B0 + T T1Q1 +        ,          (5)
+                 1 + r∗                          1 + r∗
+which is the same as in the economy without tariffs. This is intuitive
+because the government returns the tariff revenue to its citizens
+(who paid for the tariffs).
+
+
+
+                                                                                                                                                       23
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+An equilibrium is a consumption path (C1, C2) and a domestic
+interest rate r1 such that the Euler equation (4) holds, the economy
+wide resource constraint (5) is satisfied and interest rate parity holds,
+that is,
+                     0       1 + τ1
+                   U (C1) =         β(1 + r1)U 0(C2)                 (4)
+                             1 + τ2
+                                 C2                            T T2 Q2
+                          C1 +        = T T1 Q1 + (1 + r0)B0 +                                                                                      (5)
+                               1 + r∗                          1 + r∗
+and
+                                                                    r1 = r ∗ ,                                                                      (6)
+given τ1 , τ2, T T1Q1 , T T2Q2, (1 + r0)B0, and r∗.
+
+We are now ready to analyze the adjustment to changes in import
+tariffs.
+
+
+                                                                                                                                                       24
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+A Temporary Increase in Import Tariffs
+Experiment: Initially τ1 = τ2 = 0.
+
+Then a temporary tariff is imposed: ∆τ1 > 0 and ∆τ2 = 0.
+
+The figure on the next slide shows the adjustment:
+
+Prior to the imposition of import tariffs (τ1 = τ2 = 0) the optimal consumption
+path is at point B.
+
+Changes in import tariffs leave the intertemporal resource constraint (the down-
+ward sloping solid line) unchanged.
+
+A temporary increase in import tariffs (∆τ1 > 0 and ∆τ2 = 0) pushes the optimal
+consumption path to point C, where the slope of the indifference curve (the
+broken line) is steeper than at point B, (1 + τ1)(1 + r∗ ) > (1 + r∗). The increase
+in import tariffs causes period-1 consumption to decline (C10 < C1), and the trade
+balance in period 1 to improve (T T1Q1 − C10 > T T1Q1 − C1 ).
+
+The indifference curve associated with point C lies southwest of that associated
+with point B implying that the tariff is welfare reducing.
+
+
+
+                                                                                                                                                       25
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Adjustment to changes in import tariffs
+                     C2
+
+
+
+                                           . slope = −(1 + τ1 )(1 + r∗ )
+
+
+
+
+                     C20                          C
+
+
+
+
+                     C2                                                   B
+
+
+
+
+                                                       slope = − 1+r
+                                                                      ∗
+                                                                      %
+                                                                 1+τ2                        D
+                     C200
+
+
+                                                                                                           ← slope = −(1 + r∗ )
+
+
+                                                C10                       C1               C100                                  C1
+
+
+
+
+                                                                                                                                                       26
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+A Permanent Increase in Import Tariffs
+
+Experiment: Initially τ1 = τ2 = 0.
+
+Then a permanent tariff is imposed: ∆τ1 = ∆τ2 > 0.
+
+The permanent increase in import tariffs has no effect on the equi-
+librium consumption path because the import tax rates cancel out
+of the Euler equation (4).
+
+
+
+
+                                                                                                                                                       27
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+An Anticipated Future Increase in Import Tariffs
+Experiment: Initially τ1 = τ2 = 0.
+
+In period 1, agents learn that a tariff will be imposed in period 2: ∆τ1 = 0 and
+∆τ2 > 0.
+
+The figure on slide 26 shows the adjustment.
+
+Prior to the imposition of import tariffs (τ1 = τ2 = 0) the optimal consumption
+path is at point B. Changes in import tariffs leave the intertemporal resource
+constraint (the downward sloping solid line) unchanged.
+
+An anticipated future increase in import tariffs (∆τ2 > 0 and ∆τ1 = 0) pushes the
+optimal consumption path to point D, where the slope of the indifference curve is
+flatter, (1 + r∗)/(1 + τ2 ) < (1 + r∗ ). The expected future increase in import tariffs
+causes period-1 consumption to increase from C1 to C100 and the trade balance to
+deteriorate in period 1.
+
+The indifference curve associated with point D lies southwest of that associated
+with point B implying that the tariff is welfare reducing.
+
+
+
+
+                                                                                                                                                       28
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Summing Up (1/3)
+
+This chapter analyzes the effects of terms-of-trade shocks and interest-
+rate shocks in the context of the intertemporal model of the current
+account developed in chapter 3.
+
+• The terms of trade is the relative price of export goods in terms
+of import goods.
+
+• Terms-of-trade shocks have the same effects as endowment shocks:
+the economy uses the current account to smooth consumption over
+time in response to temporary terms of trade shocks, and adjusts
+consumption with little movement in the current account in response
+to permanent terms-of-trade shocks.
+
+
+                                                                                                                                                       29
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Summing Up (2/3)
+• Interest rate shocks have a substitution and an income effect.
+
+• By the substitution effect, an increase in the interest rate discourages current
+consumption and incentivizes savings causing the current account and the trade
+balance to improve.
+
+• The income effect associated with an increase in the interest rate depends on
+whether households are borrowing or lending.
+
+• If households are borrowing, an increase in the interest rate has a negative
+income effect, as it makes borrowers poorer. As a result, consumption falls and
+the trade balance and the current account improve. In this case, the income and
+substitution effect go in the same direction.
+
+• If households are lending, the income effect associated with an increase in the
+interest rate is positive and leads to higher consumption and a deterioration in the
+trade balance and the current account. In this case, the income and substitution
+effects go in the opposite direction, partially offsetting each other. Under log-
+preferences the substitution effect dominates.
+
+
+
+
+                                                                                                                                                       30
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 4: Terms of Trade, the World Interest Rate, Tariffs, and the CA
+
+
+
+
+Summing Up (3/3)
+
+• An increase in import tariffs need not improve the trade balance
+or the current account. Only if import tariffs are temporary, will
+they lead to an improvement in the trade balance and the current
+account. Future expected increases in import tariffs deteriorate the
+trade balance. Permanent changes in tariffs leave the trade balance
+unchanged.
+
+• In the present framework, import tariffs are welfare decreasing.
+
+
+
+
+                                                                                                                                                       31
+

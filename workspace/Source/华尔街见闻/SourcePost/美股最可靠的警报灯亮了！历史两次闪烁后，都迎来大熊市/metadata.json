@@ -1,0 +1,89 @@
+{
+  "article_id": 3784679,
+  "selection": {
+    "article_id": 3784679,
+    "url": "https://wallstreetcn.com/articles/3784679",
+    "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
+    "page_display_time": "2026-10-28T18:24:44+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "卜淑情",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004518",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "跨资产与市场结构",
+    "reading_priority": "B",
+    "reading_value": "介绍QMJ质量因子和风格反转样本；将历史关联与确定性预测区分后使用。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2245,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 129
+  },
+  "url": "https://wallstreetcn.com/articles/3784679",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784679?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:48+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/7d415541-ad75-4b3d-bd23-f18f9d8ae538.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "这轮垃圾股跑赢优质股的周期始于2023年11月，延续至2026年6月，持续时间与幅度均创下历史纪录。",
+      "path": "assets/figure_001.png",
+      "sha256": "a9cfa3d465692b5ed24359a6609f278a4fd8176fe7d3c0be959155f91eb4d948",
+      "bytes": 212290,
+      "width": 1024,
+      "height": 595,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/7d415541-ad75-4b3d-bd23-f18f9d8ae538.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
+  "page_display_time": "2026-10-28T18:24:44+08:00",
+  "page_byline": "卜淑情",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "追踪美股近70年的质量因子QMJ正发出罕见警报。今年7月，该指标创下1957年以来最大单月涨幅14.3%，此前垃圾股长达两年多的超跑周期骤然逆转。历史上，QMJ类似的大幅反转曾出现在2000年互联网泡沫破裂和2008年金融危机期间。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2317,
+  "body_sha256": "d9b3800b73716bd6a4ac8aba74e2d7a949fb9ac9651d74e4c4d9450702840ab7",
+  "raw_sha256": "fdc5a4734e81424b231c1e011c5ebfcd4f58e3a49f8711dc76defa57e5ef326e",
+  "raw_bytes": 10386,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/2953f270-a326-47b6-b353-6c86ca931dd9.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 2245,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:40+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "fdc5a4734e81424b231c1e011c5ebfcd4f58e3a49f8711dc76defa57e5ef326e",
+      "bytes": 10386
+    },
+    "article.html": {
+      "sha256": "06481c9d5eccd39c2812f0cd0055bf26a4978edf4128d43e99ba5885fedf104c",
+      "bytes": 10496
+    },
+    "article.md": {
+      "sha256": "91c5dcd4e3fd22594da6394aecfa37b6e93470a2ddaca03a61440d7fc0853d34",
+      "bytes": 6677
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:31+08:00"
+}

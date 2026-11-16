@@ -1,0 +1,102 @@
+{
+  "article_id": 3755668,
+  "selection": {
+    "article_id": 3755668,
+    "url": "https://wallstreetcn.com/articles/3755668",
+    "title": "小米抢走10%空调市场份额？高盛：美的有韧性，格力最易受冲击",
+    "page_display_time": "2025-09-16T12:29:03+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "鲍奕龙",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004827",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "A",
+    "reading_value": "以制造、供应链和分销效率分析空调竞争，含不同龙头受冲击的情景比较。",
+    "starter_selection": true,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2140,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 194
+  },
+  "url": "https://wallstreetcn.com/articles/3755668",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3755668?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:06+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_001.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "小米抢走10%空调市场份额？高盛：美的有韧性，格力最易受冲击",
+  "page_display_time": "2025-09-16T12:29:03+08:00",
+  "page_byline": "鲍奕龙",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "高盛预测小米2026年将在中国空调市场份额提升至10%，引发供应链、制造和渠道全面竞争。美的集团凭借制造优势和渠道效率被看好，有望扩大份额；格力电器因依赖国内业务、产品溢价高且应对迟缓，评级被下调至\"中性\"；小米依托生态系统优势有望成为第二梯队领导者。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2191,
+  "body_sha256": "3e928f1a11ecc7c45700169a826e2bf7fdfe083cf4b22831e8017980dd2e2713",
+  "raw_sha256": "f45f91d3b9bbc9a504027142e5a215c2feb4a25a31efa69c530297cc19300221",
+  "raw_bytes": 13919,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/53d6bc8c-ad64-4e38-abf3-5790d17f359e.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 2140,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:47+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "f45f91d3b9bbc9a504027142e5a215c2feb4a25a31efa69c530297cc19300221",
+      "bytes": 13919
+    },
+    "article.html": {
+      "sha256": "01c6c2ab2fbf339c9bc15b80adb81b99680974b9ef4193f2dbeda15e8c2e3aa6",
+      "bytes": 12817
+    },
+    "article.md": {
+      "sha256": "ef59cead09f8f8485e5a1dcdb3119bc234a38065b3c540a25f380873f1177df2",
+      "bytes": 7326
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:47+08:00"
+}

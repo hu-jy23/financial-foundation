@@ -1,0 +1,94 @@
+{
+  "article_id": 3767158,
+  "selection": {
+    "article_id": 3767158,
+    "url": "https://wallstreetcn.com/articles/3767158",
+    "title": "史上最大IPO将至！SpaceX 1.75万亿美元的估值，市场买单吗？",
+    "page_display_time": "2026-03-10T19:54:43+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "B",
+    "reading_value": "拆分SpaceX通信业务、AI投入和治理结构的估值含义，保留对IPO价格的分歧。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1780,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 200
+  },
+  "url": "https://wallstreetcn.com/articles/3767158",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3767158?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:08+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/663ac759-55ac-4b39-8186-2b921c49cdae.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_001.png",
+      "sha256": "a191e31333f56e88d5e60dc2fbe52432fb8fbb8f5d726a055086ade5fafd00b0",
+      "bytes": 154868,
+      "width": 1024,
+      "height": 701,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/663ac759-55ac-4b39-8186-2b921c49cdae.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "史上最大IPO将至！SpaceX 1.75万亿美元的估值，市场买单吗？",
+  "page_display_time": "2026-03-10T19:54:43+08:00",
+  "page_byline": "李佳",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "SpaceX拟以最高1.75万亿美元估值上市，募资500亿美元，有望成为全球史上最大IPO。支撑其估值的是Starlink的现金流主导地位与政府合同，但上市前对xAI的全股票收购引发市场担忧：xAI每月烧钱约10亿美元用于AI基础设施，投资者担心该业务将摊薄SpaceX的盈利能力。马斯克拟采用双重股权结构保留控制权。市场是否会为这一高估值买单，仍有待检验。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1856,
+  "body_sha256": "71d7c0f5335f2d88f71e0c44982915becc8ac592864afb860cfe8d73605007ac",
+  "raw_sha256": "b06e2b1255a612e270111178b9a4ea8812cabd243cc9bbc698d80c2c63b412c1",
+  "raw_bytes": 10049,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/2962d883-d74a-43ab-90f5-2528fcd361a9.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1780,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "华尔街见闻此前文章",
+      "url": "https://wallstreetcn.com/articles/3767149"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:47+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "b06e2b1255a612e270111178b9a4ea8812cabd243cc9bbc698d80c2c63b412c1",
+      "bytes": 10049
+    },
+    "article.html": {
+      "sha256": "48e5105a88e17b8a4c2ee27846a81cfcd21cd3ffd98320df352965146e7e7312",
+      "bytes": 9767
+    },
+    "article.md": {
+      "sha256": "04823caf82b3f1b62c95404905563c65035d9ce25a79eb847b772c4ec8c78ee6",
+      "bytes": 5998
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:48+08:00"
+}

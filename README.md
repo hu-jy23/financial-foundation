@@ -4,6 +4,8 @@
 
 - [项目说明与内容入口](financial_foundation_v5/README.md)
 - [制作规范与任务入口](financial_foundation_v5/00_start/README.md)
+- [Step2材料库](source_step2/README.md)
+- [外层工作进度与华尔街见闻试作](workspace/README.md)
 
 ## 版本管理
 

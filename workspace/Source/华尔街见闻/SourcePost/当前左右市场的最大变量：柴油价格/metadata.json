@@ -1,0 +1,89 @@
+{
+  "article_id": 3783417,
+  "selection": {
+    "article_id": 3783417,
+    "url": "https://wallstreetcn.com/articles/3783417",
+    "title": "当前左右市场的最大变量：柴油价格",
+    "page_display_time": "2026-10-12T15:32:37+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "能源、商品与航运",
+    "reading_priority": "A",
+    "reading_value": "讨论柴油供给、战略储备协调与通胀预期，追踪能源冲击如何进入利率市场。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2721,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 96
+  },
+  "url": "https://wallstreetcn.com/articles/3783417",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783417?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:34+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/9271df23-e703-4001-9064-9a2f638a39e7.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "与此同时，乌克兰总统泽连斯基公开批评这一决定，称放松对俄制裁\"正中莫斯科下怀\"，并将延长战争。他同时表示，只要俄罗斯不打击乌克兰能源基础设施，乌方可停止攻击俄罗斯炼油厂，并称美方了解乌克兰的谈判立场。这一表态在强硬措辞之外，隐含了谈判的可能性。",
+      "path": "assets/figure_001.png",
+      "sha256": "826a73a578338b38aee8dec5d79f8b447c81b8df5e15ddce3e49eaadc298f23b",
+      "bytes": 978594,
+      "width": 1024,
+      "height": 594,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/9271df23-e703-4001-9064-9a2f638a39e7.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "当前左右市场的最大变量：柴油价格",
+  "page_display_time": "2026-10-12T15:32:37+08:00",
+  "page_byline": "许超",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "特普柴油协议虽难解供需之渴，却掀起重塑全球风险定价的多方博弈。当前“柴油价差即利率波动”，能源风险正跨资产深度传导。美股平静表象下，内部结构分化已达历史极值。后市紧盯欧洲储备动向与地缘局势，警惕极端失衡下随时爆发的脆弱暗流！",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2787,
+  "body_sha256": "69e631237225d8bc88ec511e7ae7a6c43f50887b427997448b5ee32b5df4d084",
+  "raw_sha256": "aa4deb91b21df7c7dc9096e3aa17af478e5cddb3403f82479edd641a3d0c389b",
+  "raw_bytes": 12558,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/c263a85a-61bd-4c27-8f06-9760ac4a9a81.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 2721,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:37+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "aa4deb91b21df7c7dc9096e3aa17af478e5cddb3403f82479edd641a3d0c389b",
+      "bytes": 12558
+    },
+    "article.html": {
+      "sha256": "137d7a8ed548b2654f773df51bc1deecb9012461d5d6852f5f976b5d0ac92537",
+      "bytes": 12051
+    },
+    "article.md": {
+      "sha256": "b5c07f8b8501aae58bef5e4698c8af2baca4ba5227e92454d1a2660a6b987bc8",
+      "bytes": 8530
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:24+08:00"
+}

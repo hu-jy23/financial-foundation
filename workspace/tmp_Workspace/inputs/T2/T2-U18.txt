@@ -1,0 +1,1597 @@
+
+
+===== PDF 588 | 印刷页 553 =====
+
+20
+Chapter
+
+                             Money Growth, Money
+                             Demand, and Modern
+                             Monetary Policy
+
+    Learning Objectives
+    After reading this chapter, you should be able to:
+     LO1      Discuss the role of the monetary aggregates.
+
+     LO2      Define the velocity of money and its role in the quantity theory of money.
+
+     LO3      Describe the transactions demand and the portfolio demand for money.
+
+     LO4      Explain why key central banks have shifted away from targeting money growth.
+
+
+Anyone who listens carefully to what central bankers say, or reads what they write,
+will form the clear impression that 21st-century monetary policy has very little to do
+with money, despite its focus on inflation. That impression is reinforced by the techni-
+cal papers that monetary economists write. Everyone talks about interest rates and
+exchange rates; no one talks about money.
+     But digging deeper, you will find that central bankers and monetary economists do
+care about money. After decades of studying the economy, the Nobel Prize–­winning
+economist Milton Friedman wrote, “Inflation is always and everywhere a monetary
+phenomenon.” Most economists would agree. We see concern for money, too, in state-
+ments made by officials of the European Central Bank (ECB). In Chapter 16, we dis-
+cussed the stability-oriented strategy that the ECB’s Governing Council a­ dopted in the
+fall of 1998 to achieve the objective of price stability. The council’s strategy assigned
+money a prominent role that was, in its members’ words, “signaled by the
+­announcement of a quantitative reference value for the growth rate of a broad mone-
+ tary aggregate.” The idea was that deviations of money growth from the reference
+ value signaled a risk to European price stability. Since then, the ECB’s monthly
+ ­announcements of its target interest rate have regularly mentioned money growth.
+     Obviously, money plays a significant role in the formulation of European monetary
+  policy. The contrast with the United States could not be more striking. In July 2000,
+  after roughly a quarter century of publishing twice-yearly target ranges for the mone-
+  tary aggregates, the Federal Open Market Committee (FOMC) stopped doing so,
+  explaining that “these ranges [no longer] provide useful benchmarks for monetary pol-
+  icy.”1 While the Federal Reserve still collects and publishes data on the monetary
+  aggregates, FOMC members now mention them only in passing. They rarely make any
+1
+ This announcement appeared as a footnote in the biannual Monetary Policy Report to Congress.
+
+                                                    553
+
+
+===== PDF 589 | 印刷页 554 =====
+
+554                  l Chapter 20  Money Growth, Money Demand, and Modern Monetary Policy
+
+
+
+                                                         reference to money in public announcements of the federal funds target rate. In 2001,
+                                                         Federal Reserve Board Governor Laurence H. Meyer even went so far as to say that
+                                                         money “plays virtually no role in the conduct of monetary policy.”2
+                                                            What accounts for the distinctly different treatment of money growth in the two
+                                                         largest central banks in the world? Why does the ECB make regular public references
+                                                         to money growth, while the Fed never does? If money growth is tied to inflation, why
+                                                         don’t central bankers in the United States pay more attention to it? The goal of this
+                                                         chapter is twofold. First, it examines the link between money growth and inflation in
+                                                         order to clarify the role of money in monetary policy. Second, it explains the logic
+                                                         underlying central bankers’ focus on interest rates.
+
+
+                                                         Why We Care about Monetary Aggregates
+                                                         We start with the single most important fact in monetary economics: the relationship
+                                                         between money growth and inflation rates. Panel A of Figure 20.1 shows the average
+                                                         annual inflation and money growth in 160 countries over the three decades that began
+                                                         in 1980. This graph is striking for two reasons. The first is its scale: Some countries
+                                                         suffered inflation that averaged more than 200 percent a year over three decades. Sec-
+                                                         ond, every country with high inflation had high money growth. History provides no
+
+
+   Figure 20.1                                      Inflation Rates and Money Growth
+
+
+         A. All Countries                                                                               B. Moderate-Inflation Countries
+                                     1,400                                                                                               30
+                                                                                            45°                                                                         45°
+                                                                       Congo
+      Average Annual Inflation Rate (%)
+
+
+
+
+                                                                                                     Average Annual Inflation Rate (%)
+
+
+
+
+                                     1,200
+
+                                     1,000
+                                                                   Nicaragua                                                             20
+                                          800
+
+                                          600
+                                                   Bolivia
+                                                        Peru                                                                             10
+                                          400 Ukraine     Brazil
+                                          Armenia                        Belarus
+                                                   Argentina
+                                          200
+                                                     Azerbaijan
+                                            0                                                                                             0
+                                                0   200 400 600 800 1,000 1,200 1,400                                                         0        10        20         30
+                                                    Average Annual Money Growth (%)                                                           Average Annual Money Growth (%)
+
+Inflation was computed from each country’s analog to the consumer price index; money is the rough equivalent of M2. Data are for the 30
+years beginning in 1980.
+SOURCE: These figures are based on data from the International Monetary Fund’s International Financial Statistics.
+
+                                                         2
+                                                          Laurence H. Meyer, “Does Money Matter?” The 2001 Homer Jones Memorial Lecture, Washington University,
+                                                         St. Louis, Missouri, March 28, 2001.
+
+
+===== PDF 590 | 印刷页 555 =====
+
+                                                                                                        Why We Care about Monetary Aggregates l   555
+
+
+
+examples of countries with high inflation and low money growth or with low inflation
+and high money growth.
+   One thing the figure does not show because of its scale is the huge number of points
+that fall very close to the origin, representing countries with both low inflation and low
+money growth. Panel B of Figure 20.1 displays the data for the 130 countries that
+experienced moderate money growth (averaging less than 30 percent) over the three
+decades from 1980 to 2009. While the relationship between money growth and infla-
+tion is less striking it is still clearly there. The higher the rate of money growth is, the
+higher the inflation rate is likely to be. The two variables move together. This evidence
+alone tells us that to avoid sustained episodes of high inflation, a central bank must be
+concerned with money growth. Avoiding high inflation means avoiding persistent
+rapid money growth.
+   Both panels of Figures 20.1 include a
+45-degree line. Note that the points representing             Figure 20.2      Money Growth and Inflation
+countries with very high inflation tend to lie
+above the line, while the points representing
+countries with moderate to low inflation tend                                                     45° line
+to fall below it. As the simplified graph in                          Inflation > Money Growth
+
+
+                                                                        Average Annual Inflation Rate
+Figure 20.2 shows, points lying above the
+­
+45-degree line represent countries where average
+inflation exceeds average money growth; points
+lying below the 45-degree line represent coun-
+tries where money growth exceeds inflation. To
+understand this relationship, think about what
+would happen if the inflation rate rose to 900 per-
+                                                                                  Money Growth > Inflation
+cent a year, as was the case in Nicaragua (see
+Panel A of Figure 20.1). That means prices would
+be rising about 41⁄2 percent a week. When the cur-
+rency that people are holding loses value that
+rapidly, they will work to spend what they have                           Average Annual Money Growth
+as quickly as possible.3 As we will see shortly,
+spending money more quickly has the same effect
+on inflation as an increase in money growth.
+   Connecting this relationship to central bank policy is straightforward. Recall from
+Chapter 17 that the central bank controls the size of its own balance sheet. Policymak-
+ers can purchase as many assets as they want, issuing currency and commercial bank
+reserve liabilities to do so. Those liabilities, in turn, form the monetary base. Through
+the process of deposit expansion, the banking system turns the monetary base into the
+monetary aggregates. Thus, the monetary aggregates cannot grow rapidly without at
+least the tacit consent of the central bank. By limiting the rate at which they purchase
+securities, policymakers can control the rate at which aggregates like M2 grow.
+In other words, it is impossible to have high, sustained inflation without monetary
+accommodation.
+   Not surprisingly, evidence of the link between inflation and money growth is the
+foundation on which modern monetary policy is built. That is why the ECB pays close
+attention to growth in the monetary aggregates. But to use the link as a policy guide,
+central bankers must understand how it works. Looking back at Figure 20.1, we can
+
+3
+ In some countries suffering from hyperinflation, workers may be paid more than once a day because cash loses
+value so quickly.
+
+
+===== PDF 591 | 印刷页 556 =====
+
+556   l Chapter 20  Money Growth, Money Demand, and Modern Monetary Policy
+
+
+
+
+                       Central Bank Money Without Inflation?
+                       APPLYING THE CONCEPT
+
+  From July 2007 to December 2018, the assets of the               of the deposit expansion multiplier in Chapter 17). Over time,
+  ­European Central Bank, the Bank of Japan, and the Federal       higher growth of broad money leads to higher inflation.
+   Reserve surged by 385 percent, 512 percent, and                      In recent years, however, banks have not been lending
+   469 percent, respectively. Yet, over the same period, prices    much. Instead, as the quantity of central bank money surged,
+   in these regions rose cumulatively by about 18 percent,         banks’ holdings of reserves skyrocketed without a sizable
+   5 percent, and 22 percent, respectively!                        impact on broad money. For example, from mid-2007 to the
+       Having learned that inflation is a monetary phenomenon,     end of 2018, total reserves in the United States rose from
+   people are confused. Shouldn’t this massive injection of cen-   less than $50 billion to nearly $1.8 trillion, but the ratio of M2
+   tral bank money have resulted in inflation?                     to the monetary base—the M2 money multiplier—plunged
+       Under normal circumstances, the answer would be yes.        from 8.6 to 4.2 (see Figure 17.10 on page 472).
+   But since August 2007, when the Great Financial Crisis be-           The big question has been, why are banks not lending
+   gan, conditions have been anything but normal. Just look at     more? Are their credit standards too high? Or is the demand for
+   roughly comparable broad measures of money in the euro          loans too low? During the crisis and shortly thereafter, banks
+   area (M3), Japan (M2), and the United States (M2). From mid-    were likely wary of supplying credit. In the euro area and
+   2007 to mid-2018, the growth of these broad monetary ag-        ­Japan, this may still be the case. But banks in the United States
+   gregates has been far smaller than the rise of central bank      were willing and able to lend at a healthy pace after 2013.
+   money, increasing by a cumulative 37 percent, 40 percent,            Regardless of why so little central bank money has
+   and 96 percent, respectively.                                    turned into broad money, inflation has remained low. But, in
+       Normally the central bank provides reserves to the bank-     the United States, where the credit and broader economic
+   ing system, and the banks respond by increasing loans. The       expansions picked up first, inflation edged up gradually. Not
+   loans expand deposits in the banking system as a whole,          surprisingly, the Federal Reserve also was the first of the Big
+   raising the broad monetary aggregates (see the discussion        Three central banks to begin raising interest rates.
+
+
+
+
+                          see that all money growth is not created equal. Something beyond just differences in
+                          money growth accounts for the differences in inflation across countries. To see the
+                          point, look at Panel B of Figure 20.1 and note the vertical line drawn at the point
+                          where annual money growth averages 10 percent. Points lying on or near the line rep-
+                          resent countries that experienced average annual inflation rates of between 1 percent
+                          and 8 percent. What accounted for the differences in inflation among those countries?
+                             Still other questions arise. For instance, Figure 20.1 shows average inflation and
+                          money growth over a 30-year period. The results suggest that money growth is a useful
+                          guide to understanding long-term movements in inflation. But what happens over
+                          shorter periods of a few months or years? Answering this question requires moving
+                          beyond the simple statistical relationship shown in Figure 20.1. We need to develop a
+                          deeper understanding of the link between money growth and inflation, one that is
+                          based on economic decisions.
+
+
+                          The Quantity Theory and the
+                          Velocity of Money
+                          What accounts for the fact that high money growth is accompanied by high inflation?
+                          Recall that during times of inflation, the value of money is falling. If we think about
+                          the value or purchasing power of money in terms of the goods needed to get money,
+                          the impact of inflation becomes clear. Normally, we think of how many dollars we
+
+
+===== PDF 592 | 印刷页 557 =====
+
+                                                                 The Quantity Theory and the Velocity of Money           l 557
+
+
+
+    need to buy a cup of coffee or a sandwich; that’s the money price of the sandwich. But
+    we can turn the question around and ask how many cups of coffee or sandwiches a
+    person needs to buy one dollar. A fall in the number of cups of coffee it takes to buy
+    one dollar represents a decline in the price, or value, of money.
+       If someone asked you how the price of a cup of coffee is determined, having learned
+    your microeconomics, you would answer that it depends on the supply of and demand
+    for coffee. When the supply of coffee rises but demand does not, the price falls. Not
+    surprisingly, the same is true of the price of money: it is determined by supply and
+    demand. Given steady demand, an increase in the supply of money drives the price of
+    money down. That’s inflation. If the central bank continuously floods the economy
+    with large amounts of money, inflation will reach very high levels.
+
+    Velocity and the Equation of Exchange
+    To understand the relationship between inflation and money growth, we need to focus
+    on money as a means of payment. Imagine a simple economy that is composed of four
+    college students: one has $100 in currency; the second has two tickets to the weekend
+    football game, worth $50 each; the third has a $100 calculator; and the fourth has a set
+    of 25 high-quality drawing pencils that sell for $4 apiece. Each of these students wants
+    something else. The one with the $100 in currency needs a calculator, so she buys it.
+    The student who sold the calculator to her wants to see the football game, so he uses
+    the cash she paid him to buy the two tickets. Finally, the student who sold the football
+    tickets needs some pencils for a drawing class, so the cash changes hands again.
+       Let’s analyze the effect of these transactions. Their total value is $100 × (1 calcula-
+    tor) + $50 × (2 football tickets) + $4 × (25 drawing pencils) = $300. In this four-­
+    person economy, the $100 was used three times, resulting in $300 worth of transactions.
+    In general terms, we can write this as
+
+            (Number of dollars) × (Number of times each dollar is used)                     (1)
+                                               = Dollar value of transactions
+
+    To interpret this expression, note that the number of dollars is the quantity of money in the
+    economy. The number of times each dollar is used (per unit of time) is called the velocity
+    of money. The more frequently each dollar is used, the higher the velocity of money.
+       Applying this same logic to the economy as a whole is straightforward because
+    virtually every transaction uses money at some stage. For our purposes here, we will
+    restrict the analysis to sales and purchases of final goods and services produced in a
+    country during a given period and measured at market prices. That is, we will focus on
+
+
+                                                                This note, issued by the Central Bank of Hungary in 1946, is
+                                                                the highest-denomination currency note ever issued. Its
+                                                                face value is 100 million trillion pengö (that’s a 1 followed
+                                                                by 20 zeros). The note was produced for use during one of
+                                                                the most extreme hyperinflations in history, which took
+                                                                place in Hungary following World War II. Starting in 1944,
+                                                                the amount of currency in circulation grew from 12 billion
+                                                                pengö (a number with 11 digits) to a 27-digit total in 1946. In
+                                                                two short years, the quantity of money had increased by a
+                                                                factor of about 10,000 trillion, reducing the value of this
+    Courtesy of Stephen Cecchetti                               note to the equivalent of 20 cents.
+
+
+===== PDF 593 | 印刷页 558 =====
+
+558   l Chapter 20  Money Growth, Money Demand, and Modern Monetary Policy
+
+
+
+                      nominal gross domestic product. Every one of the purchases counted in nominal
+                      GDP requires the use of money. So,
+
+                                    (Quantity of money) × (Velocity of money) = Nominal GDP                                    (2)
+
+                           Because we have data on both the quantity of money and nominal GDP, we can use
+                      equation (2) to compute the velocity of money. Each definition of money—each mon-
+                      etary aggregate—has its own velocity. In the final quarter of 2018, GDP equaled
+                      $20.89 trillion and M1 equaled $3.76 trillion, so M1 had a velocity of 5.56. In the
+                      same period, M2 equaled $14.48 trillion, so the velocity of M2 was 1.44. We will
+                      come back to this topic shortly.
+                           To manipulate the expression for velocity in equation (2), we can rewrite it using
+                      ­algebraic symbols. We’ll use the letter M to represent money and V to represent veloc-
+                       ity. Nominal GDP can be divided into two parts, the price level and the quantity of real
+                       output (or real GDP). Calling these two factors P and Y, we can state that nominal
+                       GDP = P times Y. Using this notation, we can rewrite equation (2) as
+
+                                                                       MV = PY                                                 (3)
+
+                         This expression, called the equation of exchange, tells us that the quantity of
+                      money multiplied by its velocity equals the level of nominal GDP, written as the price
+                      level times the quantity of real output.
+                         With money on the left-hand side and prices on the right, the equation of exchange
+                      provides the link between money and prices that we are looking for. But our real con-
+                      cern is with inflation, not the price level, and money growth, not the quantity of money.
+                      We need to manipulate equation (3) to allow for the percentage change in each factor.
+                      Noting that the percentage change of a product like MV or PY is the sum of the per-
+                      centage changes in each factor,4 we can write
+                                     %∆M         +      %∆V        = %∆P +            %∆Y (4)
+                                    Money growth + Velocity growth = Inflation + Real growth
+
+                      where the symbol “%∆” stands for percentage change. We know that the percentage
+                      change in the quantity of money is money growth; the percentage change in the price
+                      level is inflation; and the percentage change in real GDP is real growth. So equation (4)
+                      tells us that money growth plus velocity growth equals inflation plus real growth.
+
+                      The Quantity Theory of Money
+                      In the early 20th century, the economist Irving Fisher wrote down the equation of
+                      ­exchange and derived the implication in equation (4). Next, he assumed that no
+                       important changes occur in payment methods or the cost of holding money. If the
+
+                      4
+                       This statement is based on the approximation that the change in the natural log of a variable x is approximately
+                      equal to its percentage change. To see how it works, first take the natural log of the product MtVt: ln(MtVt) =
+                      ln(Mt) + ln(Vt). Now subtract ln(Mt−1Vt−1) from the left-hand side and ln(Mt−1) + ln(Vt−1) from the right-hand
+                      side to get ln(MtVt) − ln(Mt−1Vt−1) = [ln(Mt) − ln(Mt−1)] + [ln(Vt) − ln(Vt−1)]. This means that the change in
+                      the natural log of MV equals the change in the natural log of M plus the change in the natural log of V. Next, use
+                      the fact that the difference in the log is the log of the ratio, [ln(Mt) − ln(Mt−1)] = ln(Mt/Mt−1). We can rewrite
+                      this as ln[1 + (Mt−Mt−1)/Mt−1], and use the fact that the natural log of one plus a small number is approximately
+                      equal to the small number, so ln(Mt/Mt−1) ≈ (Mt−Mt−1)/Mt−1, which is the percentage change. Putting all of this
+                      together gives us the fact that the percentage change of a product is the sum of the percentage change of the
+                      elements: %∆(MV) = %∆M + %∆V.
+
+
+===== PDF 594 | 印刷页 559 =====
+
+                                                                        The Quantity Theory and the Velocity of Money   l   559
+
+
+
+interest rate is fixed and there is no financial innovation, then velocity will be con-
+stant. Fisher also assumed that real output is determined solely by economic resources
+and production technology, so it too is fixed in the short run. In other words, Fisher
+assumed that %∆V = 0 and %∆Y = 0. He concluded that money growth translates
+directly into inflation, an assertion that is termed the quantity theory of money.
+According to Fisher’s theory, changes in the aggregate price level are caused solely
+by changes in the quantity of money. So if the central bank pours more money into
+the economy, it drives up the prices of existing goods and services. Raising the quan-
+tity of money by 10 percent raises prices by 10 percent; doubling the quantity of
+money doubles the price level. As Milton Friedman said, inflation is a monetary
+phenomenon.
+    The fact that individuals require money to complete transactions means that we
+can reinterpret the quantity theory of money to describe the equilibrium between
+money demand and money supply. Note that in the classroom economy described
+earlier, the number of dollars needed equaled the total dollar value of the transac-
+tions divided by the number of times each dollar was used. That is, money
+demanded (Md) equals the total value of transactions divided by the velocity of
+money. For the economy as a whole, the demand for money equals nominal GDP
+divided by velocity:
+
+      ​  1 ​PY(5)​
+ Md = __
+	​
+        V
+Next, recall that the supply of money (MS) is determined by the central bank and the
+behavior of the banking system. Equilibrium in the money market means that supply
+equals demand (Md = MS), which equals the quantity of money in the economy (M).
+Rearranging equation (5) gives us MV = PY. Assuming that velocity and real output
+are both constant, as Irving Fisher did, we can once again conclude that money growth
+equals inflation.
+   The quantity theory of money accounts for some important characteristics of the
+patterns shown in Figure 20.1. First, it tells us why high inflation and high money
+growth go together. Second, it explains the tendency for moderate- and low-inflation
+countries to fall below the 45-degree line in Panel B of Figure 20.1. That is, money
+growth tends to be higher than inflation in those countries because they are experienc-
+ing real growth. Looking at equation (4), we can see that if velocity is constant, then
+money growth equals the sum of inflation and real growth. At a given level of money
+growth, the higher the level of real growth is, the lower the level of inflation will be.
+So in countries that are growing, inflation will be lower than money growth, causing
+their economies to fall below the 45-degree line in Panel B of Figure 20.1.
+
+
+The Facts about Velocity
+If Irving Fisher was correct in assuming that the velocity of money is constant, his
+assumption would have important implications for monetary policy. Because the trend
+in real growth is determined by the structure of the economy and the rate of technolog-
+ical progress, countries could control inflation directly by limiting money growth. This
+logic led Milton Friedman to conclude that central banks should simply set
+money growth at a constant rate.5 That is, policymakers should strive to ensure that the
+
+5
+ The original statement of what has come to be known as Friedman’s k-percent rule is in Milton Friedman,
+A Program for Monetary Stability (New York: Fordham University Press, 1960).
+
+
+===== PDF 595 | 印刷页 560 =====
+
+560   l Chapter 20  Money Growth, Money Demand, and Modern Monetary Policy
+
+
+
+                      monetary aggregates like M1 and M2 grow at a rate equal to the rate of real growth plus
+                      the desired level of inflation. Friedman was aware that the central bank does not control
+                      the monetary aggregates precisely and that the link between the monetary base and M1
+                      and M2 fluctuates over time. Policymakers cannot control the money multiplier because
+                      it depends both on how much currency individuals decide to hold and how much excess
+                      reserves banks decide to maintain. To make the rule viable, he suggested changes in
+                      regulations that would limit banks’ discretion in creating money and tighten the rela-
+                      tionship between the monetary aggregates and the monetary base, reducing fluctuations
+                      in the money multiplier. For example, an increase in the reserve requirement or restric-
+                      tions on the number and types of loans banks could make would have such an effect.
+                          But even if the relationship between the monetary base and the monetary aggre-
+                      gates were constant, Friedman’s recommendation that the central bank should keep
+                      money growth constant would stabilize inflation only if velocity were constant. In
+                      countries with inflation rates above 10 or 20 percent per year, changes in velocity
+                      can probably be safely ignored. In those economies, lowering inflation really does
+                      require lowering money growth. But in countries where the inflation rate is below
+                      10 percent per year, changes in the velocity of money could have a significant impact
+                      on the relationship between money growth and inflation.
+                          How much does the velocity of money fluctuate? To find out, we can look at
+                      some data. Panel A of Figure 20.3 shows the velocity of M2 from 1959 to 2018.
+                      There appear to be two distinct periods. Until 1998, the trend rises; thereafter, it
+                      falls. However, over the full 59 years, the net effect is only a moderate decline of
+                      velocity at an annual rate of 0.3 percent. Taken as a whole, these historical data
+                      seem reasonably consistent with Fisher’s conclusion that in the long run, the veloc-
+                      ity of money is stable, so that controlling inflation means controlling the growth of
+                      the monetary aggregates.
+                          But central bankers are concerned with inflation rates over quarters or years,
+                      not half a century. The monetary aggregates, even broad ones, can be useful
+                      guides to short-term policy only to the extent that they signal changes in infla-
+                      tion during the periods monetary policymakers care about. And the long-run
+                      view in the top panel of Figure 20.3 masks some important short-run movements.
+                      To see them, we can look at the four-quarter (short-run) percentage change in M2
+                      velocity, shown in Panel B of Figure 20.3. The shaded bars in the figure repre-
+                      sent recessions. Looking at the figure, we can see that in the short run, velocity
+                      fluctuates quite a bit, sometimes by very large amounts. The scale of the figure
+                      runs from −12 to +8 percent!
+                          The first step in understanding short-run movements in velocity is to examine
+                      what happened in the past. Returning to Figure 20.3, notice the increase in velocity
+                      in the late 1970s and early 1980s. This was a period when nominal interest rates
+                      peaked at more than 20 percent, triggering significant financial innovations,
+                      including the introduction of stock and bond mutual funds that allow investors
+                      checking privileges. The first of these developments made holding money very
+                      costly; the second allowed individuals to economize on the amount of money they
+                      held. Neither currency nor the checking accounts of the time paid interest, so with
+                      a 10 percent rate of inflation, the real rate of interest on money was −10 percent.
+                      Meanwhile, innovations like mutual funds outside of M2 (which allow for small-­
+                      denomination withdrawals and provide transactions services similar to those of
+                      checking accounts) mean that individuals no longer needed to hold as much money.
+                      Together these reduced the amount of money individuals held for a given level of
+                      transactions, raising the velocity of money. In contrast, since the late 1990s, falling
+
+
+===== PDF 596 | 印刷页 561 =====
+
+                                                                                    The Quantity Theory and the Velocity of Money l                           561
+
+
+
+
+   Figure 20.3                                      The Velocity of M2, 1959–2018
+
+
+    A. Long-Run Velocity
+        2.3
+                                         2.2
+                                         2.1
+                                         2.0
+    Velocity of M2
+
+
+
+
+                                         1.9
+                                         1.8
+                                         1.7
+                                         1.6
+                                         1.5
+                                         1.4
+                                         59
+                                               62
+
+
+                                                       68
+                                                       71
+
+
+
+
+                                                       80
+                                                       83
+
+
+                                                       89
+                                                       92
+
+
+                                                       98
+                                                       01
+
+
+
+
+                                                       10
+                                                       13
+
+
+                                                       19
+                                                       04
+                                                       65
+
+
+
+
+                                                       74
+                                                       77
+
+
+
+
+                                                       95
+
+
+
+
+                                                       07
+
+
+
+
+                                                       16
+                                                       86
+                                         19
+                                               19
+
+
+                                                    19
+                                                    19
+
+
+
+
+                                                    19
+                                                    19
+
+
+                                                    19
+                                                    19
+
+
+                                                    19
+                                                    20
+
+
+
+
+                                                    20
+                                                    20
+
+
+                                                    20
+                                                    20
+                                                    19
+
+
+
+
+                                                    19
+                                                    19
+
+
+
+
+                                                    19
+
+
+
+
+                                                    20
+
+
+
+
+                                                    20
+                                                    19
+
+
+
+
+         B. Percentage Change in Short-Run Velocity of M2
+               8
+    Four-Quarter Percentage Change (%)
+
+
+
+
+               6
+               4
+               2
+               0
+             –2
+             –4
+             –6
+             –8
+            –10
+            –12
+                                           59
+                                           62
+                                           65
+                                           68
+                                           71
+                                           74
+                                           77
+                                           80
+                                           83
+                                           86
+                                           89
+                                           92
+                                           95
+                                           98
+                                           01
+                                           04
+                                           07
+                                           10
+                                           13
+                                           16
+                                           19
+                                         19
+                                         19
+                                         19
+                                         19
+                                         19
+                                         19
+                                         19
+                                         19
+                                         19
+                                         19
+                                         19
+                                         19
+                                         19
+                                         19
+                                         20
+                                         20
+                                         20
+                                         20
+                                         20
+                                         20
+                                         20
+
+
+
+
+SOURCE: Panel A is seasonally adjusted quarterly U.S. nominal GDP from the Bureau of Economic Analysis, divided by quarterly averages of monthly
+seasonally adjusted M2 from the Board of Governors of the Federal Reserve System. Panel B is four-quarter percentage changes in the velocity of M2, plotted
+in Panel A. Shaded areas depict recessions (FRED data code: M2V).
+
+
+
+interest rates, combined with innovations that slashed the cost of holding money,
+lowered M2 velocity.
+   These data clearly suggest that fluctuations in the velocity of money are tied to
+changes in people’s desire to hold money. To understand and predict changes in the
+velocity of money, then, policymakers must understand the demand for money. We
+turn to that topic next.
+
+
+===== PDF 597 | 印刷页 562 =====
+
+562   l Chapter 20  Money Growth, Money Demand, and Modern Monetary Policy
+
+
+
+                      The Demand for Money
+                      The best way to understand money demand, the determinants of the velocity of money,
+                      and the relationship between money and inflation is to ask why individuals hold money.
+                      What do they do with the money that is supplied to them? Recall from Chapter 2 that
+                      money can be a means of payment, a unit of account, and a store of value. While the unit-
+                      of-account function is crucial to the economy, it provides no justification for holding
+                      money, so we will ignore it here and focus on the first and third functions. People hold
+                      money in order to pay for the goods and services they consume (the means-of-­payment
+                      function) and as a way of holding their wealth (the store-of-value function). These two
+                      forms of demand are referred to as the transactions demand for money and the
+                      portfolio demand for money, respectively.6 As we look at each of them, keep in mind
+                      that our objective is to understand fluctuations in the velocity of money. The more money
+                      individuals want to hold (all other things equal), the lower the velocity of money will be.
+
+                      The Transactions Demand for Money
+                       The quantity of money people hold for transactions purposes depends on their nominal
+                       income, the cost of holding money, and the availability of substitutes. Let’s look at
+                       each of these briefly, taking income first. The higher people’s nominal income, the
+                       more they will spend on goods and services. The more they purchase, the more money
+                       they will need. This observation is the basis for the conclusion that nominal money
+                       demand rises with nominal income, part of the quantity theory of money [look back at
+                       equation (5) on page 559]. Thus, the higher nominal income is, the higher nominal
+                      money demand will be.
+                           Deciding how much money to hold depends on the costs and benefits. The benefits
+                      are easy to appreciate: holding money allows people to make payments. The costs are
+                      equally easy to understand. Because money can always be used to purchase an
+                      ­interest-bearing bond, the interest that people lose in not buying the bond is the oppor-
+                       tunity cost of holding money. The nominal interest rate is the one that matters here.
+                       Compare money (which we temporarily assume pays zero interest) to a bond that pays
+                       interest. The difference between the two is the rate that matters, and that’s the nominal
+                       interest rate on the bond (if money paid interest, one would subtract that rate to measure
+                       the opportunity cost of holding money). Of course, the bond is not a means of payment;
+                       it must be converted into money before it can be used to pay for transactions. So the
+                       decision to hold money or bonds depends on how high the bond yield is and how costly
+                       it is to switch back and forth between the two. For a given cost of switching between
+                       bonds and money, as the nominal interest rate rises, then, people reduce their checking
+                       account balances, shifting funds into and out of higher-yield investments more fre-
+                       quently. Thus, the fact that the transactions demand for money falls as the interest rate
+                       rises has immediate implications for velocity. The higher the nominal interest rate—that
+                       is, the higher the opportunity cost of holding money—the less money individuals will
+                       hold for a given level of transactions, and the higher the velocity of money.7
+
+
+                      6
+                        This framework for discussing the demand for money was originally developed by John Maynard Keynes and is
+                      known as Keynes’s liquidity preference theory.
+                      7
+                        The fact that higher interest rates raise velocity means that they put upward pressure on inflation. And yet, as
+                      we will see in the following chapters, monetary policymakers combat high inflation by raising interest rates.
+                      The apparent contradiction is resolved by the fact that, while interest rate increases might drive velocity higher,
+                      they reduce real growth by even more—enough to make the overall effect the one that we have come to expect.
+
+
+===== PDF 598 | 印刷页 563 =====
+
+                                                                                                        The Demand for Money        l 563
+
+
+
+
+                       The ECB’s Reference Value for Money Growth
+                       APPLYING THE CONCEPT
+
+  At the start of the European Monetary Union in 1999, the           velocity was declining by ½ to 1 percent per year, and infla-
+  monetary policy strategy of the European Central Bank as-          tion should be 1 to 2 percent annually. Substituting the mid-
+  signed a prominent role to money. Many of the ECB’s prac-          points of those ranges into equation (4), we get
+  tices are modeled on those of its predecessor, the German
+  Bundesbank, widely viewed as one of the most successful                                                     3       1        1
+                                                                     ​	               Money growth – __
+                                                                                                     ​ 4 ​ = 1 __
+                                                                                                               ​  2 ​ + 2 __
+                                                                                                                          ​  4 ​,
+  central banks in the world. In the 1970s, as inflation rose into
+                                                                                                                       1
+  the double digits in the United States and throughout most of                       so Money growth = 4 __
+                                                                                                          ​  2 ​percent​
+  Europe, the Bundesbank kept inflation in Germany at levels
+  that would be acceptable even today. Policymakers there did            The ECB was heavily criticized for its use of money growth
+  so by setting annual targets for the monetary aggregates.          targets. Observers claimed that the relationship between money
+  Several decades later, in the hope that the Bundesbank’s           growth and inflation was too unpredictable to be useful in the
+  reputation for controlling inflation would rub off on them,        short run. They argued that the velocity of money in the newly
+  ECB policymakers decided to set a “quantitative reference          created euro area would be difficult to forecast (see Figure 20.5
+  value for the growth rate of a broad monetary aggregate.”          on page 571). For a new central bank with no proven record of
+      For the first four years of its existence, the ECB an-         controlling inflation, they charged, this was a potentially danger-
+  nounced what amounted to a target growth rate of 4 ½ per-          ous move that could damage policymakers’ credibility. Possibly
+  cent for euro-area M3 (the region’s equivalent of M2). Officials   in response to their critics, in May 2003 ECB policymakers de-
+  computed the rate using the percentage-change version of           cided to downgrade the role of money growth in their strategy.
+  the equation of exchange [equation (4)]. That meant they had       From then on, money growth would be used as “a crosscheck,”
+  to make assumptions about real growth, velocity growth, and        not a major part of their strategy. And the Governing Council
+  the desired level of inflation. They assumed the euro-area         would no longer review the reference value every year, empha-
+  economy was growing at a rate of 2 to 2 ½ percent per year,        sizing its usefulness only as a long-run benchmark.
+
+
+
+
+   This relationship explains why inflation tends to exceed money growth in the
+high-inflation countries shown in Panel A of Figure 20.1; that is why the points repre-
+senting high-inflation countries tend to lie above the 45-degree line. At high levels of
+inflation, when prices are rising at a rate of 1,000 or 1,500 percent a year, money is
+losing value very quickly. At those levels, the opportunity cost of holding money is
+equivalent to the cost of inflation, a real return of −1,000 or −1,500 percent a year.
+People respond to the high cost of holding money by keeping as little of it as possible,
+getting rid of it as quickly as they can. They purchase durable goods that have a zero
+real return, which is quite a bit better than the real return of −1,000 percent they would
+get from holding money. Their frantic spending drives up the velocity of money. The
+quantity theory of money tells us that with national income held constant, inflation
+equals money growth plus growth in velocity. Because high inflation brings an
+increase in velocity, inflation must be higher than money growth in these countries,
+placing them above the 45‑­degree line in Panel A of Figure 20.1.
+   Besides interest rates, the transactions demand for money is affected by technology.
+Financial innovation allows people to limit the amount of money they hold. The best
+way to think about this is to imagine that innovation reduces the cost of shifting funds
+from an interest-bearing bond to a checking account. The lower the transactions cost,
+the more frequently people will shift money from their bond funds to their checking
+accounts, and the less money people will choose to hold.
+   This has direct implications for the impact of financial innovation on the transac-
+tions demand for money. To see what they are, think about a case in which your bank
+
+
+===== PDF 599 | 印刷页 564 =====
+
+564   l Chapter 20  Money Growth, Money Demand, and Modern Monetary Policy
+
+
+
+                      offers a new kind of product that features free automatic transfers between an account
+                      with interest at the level of a bond and your traditional checking account. You sign up
+                      for the account, but continue using your old checks and debit card. This new account
+                      has the feature that each time you make a purchase, your bank automatically shifts the
+                      amount of the purchase from the bonds you are holding to your checking account,
+                      where it remains for one day before being paid to your creditor. As a result your check-
+                      ing account will never have more than one day’s worth of purchases in it, so you will
+                      hold much less money. Financial innovations that lower the cost of shifting money
+                      between bonds (or other investments) and a checking account will lower money hold-
+                      ings at a given level of income. The immediate implication is that financial innova-
+                      tions that economize on money holding increase the velocity of your money.
+                         Thus, an increase in the liquidity of stocks, bonds, or any other asset reduces the trans-
+                      actions demand for money. The advent of automatic teller machines and financial prod-
+                      ucts that allow customers to make payments directly from their stock or bond mutual
+                      funds, often at no extra cost, means that today people don’t need to hold as much cash in
+                      their wallets and their checking accounts as their parents and grandparents once did.
+                         Finally, we all hold money to ensure ourselves against unexpected expenses. We
+                      will include this form of demand, sometimes called the precautionary demand for
+                      money, as a part of transactions demand. The idea is that emergencies may arise that
+                      require immediate payments, for which we hold some amount of money in reserve.
+                      The rainy-day fund that an individual keeps to cope with unexpected expenses that
+                      can’t be postponed is analogous to a bank’s excess reserves. The level of precautionary
+                      balances we hold in such funds is usually related to our income and our level of
+                      expenditures. The higher our normal expenses, the larger our rainy-day funds will be.
+                      The precautionary demand for money also rises with risk. While this effect is probably
+                      small, the higher the level of uncertainty about the future, the higher the demand for
+                      money and the lower the velocity of money will be.
+
+                      The Portfolio Demand for Money
+                      Money is just one of many financial instruments that we can hold in our investment
+                      portfolios. As a store of value, money provides diversification when held along with a
+                      wide variety of other assets, including stocks and bonds. To understand the portfolio
+                      demand for money, note that a checking account balance or a money-market account is
+                      really just a “bond” with zero time to maturity. That means we can use the framework
+                      presented in Chapter 6, where we discussed the demand for bonds, to understand the
+                      portfolio demand for money.
+                         Recall that the demand for bonds depends on several factors, including wealth, the
+                      return relative to alternative investments, expected future interest rates on bonds, risk
+                      relative to alternative investments, and liquidity relative to alternative investments.
+                      Each of these affects the portfolio demand for money. As wealth increases, individu-
+                      als increase their holdings of all assets. A prudent person holds a diversified portfolio
+                      that includes stocks, bonds, real estate, and money. As wealth rises, the quantity of all
+                      these investments, including money, rises with it. So money demand varies directly
+                      with wealth. Note that this rule applies even at a fixed level of expenditures: A rich
+                      person who has the same expenses as a poor person will still hold more money.
+                         In studying the demand for bonds, we noted that an investor’s desire to hold any
+                      specific financial instrument depends on how well it compares with alternative
+                      investments. The higher the expected return relative to the alternatives, the higher
+                      the demand for an asset will be. The same is true for money: The higher its return
+
+
+===== PDF 600 | 印刷页 565 =====
+
+                                                                                                           The Demand for Money l 565
+
+
+
+relative to the alternatives, the higher the demand. Put slightly differently, a decline
+in bond yields will increase the portfolio demand for money.
+     Because expectations that interest rates will change in the future are related to the
+expected return on a bond, they will affect the demand for money as well. To under-
+stand why, remember that the price of a bond varies inversely with the interest rate.
+When interest rates rise, bond prices drop and bondholders suffer a capital loss. So if
+you think interest rates are likely to rise, bonds will become less attractive than money
+to you. (Recall that the prices of short-term bonds fluctuate less than the prices of
+long-term bonds. Money is the ultimate short-term bond because it has zero time to
+maturity.) As a result, you will sell the bonds in your portfolio and increase your
+money holdings—at least until interest rates stop rising. When interest rates are
+­expected to rise, then, money demand goes up.
+     Next there is risk. In our discussion of bonds, we noted that a decline in risk relative
+ to that of alternative investments increases the demand for bonds. While the riskiness of
+ money can decrease, what usually happens is that the riskiness of other assets
+ increases, driving up the demand for money.8 Looking back at Panel B of Figure 20.3,
+ we can see that during and after the financial crisis of 2007–2009, the velocity of M2
+ ­plunged. One cause was an increase in uncertainty (risk), which drove investors to
+  shift their funds into money.
+     Finally there is liquidity, a measure of the ease with which an asset can be turned
+  into a means of payment. While some forms of money are more liquid than o­ thers,
+  they are all closer to becoming a means of payment than other alternatives. If a sudden
+  decrease in the liquidity of stocks, bonds, or other assets occurred, we would ­expect to
+  see an increase in the demand for money.
+     Table 20.1 summarizes all of the factors that influence the demand for money.
+
+
+
+    Table 20.1         Determinants of Money Demand: Factors That Cause Individuals to Hold More Money
+
+
+
+                                                          Transactions Demand for Money
+
+     Nominal income                                       The higher nominal income, the higher the demand for money.
+     Interest rates                                       The lower interest rates, the higher the demand for money.
+     Availability of alternative                          The less available alternative means of payment, the higher the demand
+     means of payment                                     for money.
+
+                                                          Portfolio Demand for Money
+
+     Wealth                                               As wealth rises, the demand for money goes up.
+     Return relative to alternatives                      As the return on alternatives falls, the demand for money goes up.
+     Expected future interest rates                       As expected future interest rates rise, the demand for money goes up.
+     Risk relative to alternatives                        As the riskiness of alternatives rises, the demand for money goes up.
+     Liquidity relative to alternatives                   As the liquidity of alternatives falls, the demand for money goes up.
+
+
+
+
+8
+ To grasp why money can be risky, think of an example in which the nominal interest rate on money is zero (that
+is literally true for cash and nearly true for many bank deposits). When money pays no interest, its return is minus
+inflation. That is, money loses value at the rate of inflation. The less certain inflation is, the more uncertain the
+return on money, and the more risky it is. So inflation uncertainty increases the riskiness of holding money.
+
+
+===== PDF 601 | 印刷页 566 =====
+
+566   l Chapter 20  Money Growth, Money Demand, and Modern Monetary Policy
+
+
+
+                      Targeting Money Growth
+                      in a Low-Inflation Environment
+                      So here is where we stand. In the long run, inflation is tied to money growth. In a
+                      high-inflation environment, where money growth and inflation are both running
+                      higher than 100 percent, moderate variations in the growth of velocity are a mere
+                      annoyance. What is important is the resolve of central bank officials (and politi-
+                      cians) to bring inflation down. There is no magic to it; the only solution is to reduce
+                      money growth.
+                         In a low-inflation environment, controlling inflation is not so simple. The quantity
+                      theory of money tells us that our ability to use money growth as a policy guide depends
+                      on the stability of the velocity of money. In the United States, the velocity of the broad
+                      monetary aggregate M2 appears sufficiently stable for M2 to serve as a benchmark for
+                      controlling inflation over the long run—over periods of several decades. In the short
+                      run, the velocity of money varies substantially. Yet the mere fact that velocity fluctu-
+                      ates is not reason enough to dismiss money growth as a ­policy target.
+                         In theory, an intermediate target can be useful when stable links exist between it
+                      and the policymakers’ operating instrument, on the one hand, and their policy objec-
+                      tive on the other. This statement implies two criteria for the use of money growth as a
+                      direct monetary policy target: (1) a stable link between the monetary base and the
+                      quantity of money and (2) a predictable relationship between the quantity of money
+                      and inflation. The first of these allows policymakers to predict the impact of changes
+                      in the central bank’s balance sheet on the quantity of money. The second allows them
+                      to translate changes in money growth into changes in inflation. These criteria cannot
+                      be solely qualitative in nature; central bankers need numerical estimates of these rela-
+                      tionships. Policymakers must be able to say that a 1 percent change in the monetary
+                      base will generate an x percent change in a monetary aggregate like M2, which will
+                      then translate into a y percent change in inflation, and over what time period. The rela-
+                      tionship between money demand and its determinants listed in Table 20.1 must be
+                      stable and predictable—a problem for U.S. policymakers.
+
+
+                      The Instability of U.S. Money Demand
+                      To study the demand for money quantitatively, we will focus on the impact of the two
+                      factors that affect the transactions demand for money, nominal income and interest
+                      rates. Recalling the logic of the equation of exchange [equation (3) on page 558], we
+                      can conclude that the first factor, nominal income, is roughly proportional to money
+                      demand. Doubling people’s nominal income means doubling the dollar value of the
+                      transactions they engage in, which requires double the original amount of money. That
+                      means we can focus on nominal income divided by the quantity of money, which
+                      equals velocity. This brings us to the second factor, interest rates (or more precisely,
+                      the opportunity cost of holding money). Is there a stable relationship between the
+                      velocity of money and the opportunity cost of holding it?
+                         The data displayed in Figure 20.4 bear directly on this question. The figure
+                      shows the velocity of M2 on the vertical axis and the opportunity cost of holding
+                      M2 on the horizontal axis. The opportunity cost of M2 is defined as the yield on a
+                      three-month U.S. Treasury bill (an alternative asset) minus the return on holding
+                      M2, as computed by the Federal Reserve Bank of St. Louis. Note that this opportu-
+                      nity cost is a measure of the real return that individuals give up when they decide to
+
+
+===== PDF 602 | 印刷页 567 =====
+
+                                                             Targeting Money Growth in a Low-Inflation Environment   l   567
+
+
+
+
+  Figure 20.4                   M2 Velocity and Opportunity Cost, 1979–2018
+
+
+                        2.2      1992–2018
+                        2.1    (Slope = 0.17)
+
+                        2.0
+       Velocity of M2
+
+
+
+
+                        1.9
+                        1.8                                                       1979–1991
+                        1.7                                                     (Slope = 0.02)
+
+                        1.6
+                        1.5                                    Latest observations
+
+                        1.4
+                          –1        0           1      2         3       4             5           6
+                                                Opportunity Cost of M2 (%)
+
+Data are quarterly. Velocity was computed as the ratio of nominal GDP to M2. The opportunity cost of M2
+was computed as the three-month Treasury bill rate less the rate of return on M2. The two solid lines are
+regression lines fitted to the separate samples.
+SOURCE: Federal Reserve Bank of St. Louis (FRED data codes: M2V, TB3MS, and M2OWN).
+
+
+
+hold M2 rather than a three-month Treasury bill. Each point on the figure repre-
+sents a particular quarter. They fall into at least two distinct groups. The first group,
+shown as dark blue squares, covers the decade of the 1980s. The second group,
+shown as red squares, covers the 1990s through 2018. What we want to know is
+whether an increase in the opportunity cost of holding money can be used to fore-
+cast an increase in velocity. (Recall that higher interest rates raise the opportunity
+cost of holding money, reducing the demand for money at a given level of income
+and increasing its velocity.)
+   The answer to our question is yes, there is a relationship between the velocity of
+money and the opportunity cost of holding money, but that relationship shifted quite
+a bit between the two periods. To see how much it shifted, consider an increase
+from 1 to 2 percent in the opportunity cost of holding M2. In the 1980s, the impli-
+cation of a 1 percent increase in opportunity cost was an increase of almost 11⁄4
+percent in the velocity of M2, from roughly 1.79 to 1.82. Since the early 1990s, the
+same change in opportunity cost drove velocity up 9 percent, from 1.88 to 2.05.
+That is, the sensitivity of money demand to a change in the interest rate rose by a
+factor greater than seven. The relationship between money demand and interest
+rates that held in the 1980s broke down in the 1990s. Using the relationship from
+the 1980s as a basis for policymaking in the 1990s and thereafter would not have
+produced the desired result. (Since 2015, the slope of the money demand curve has
+again flattened—see the “latest observations” in Figure 20.4—but it is unclear how long
+this new pattern will persist.)
+   There are several possible explanations for the instability of U.S. money demand
+over these three decades. The primary one has to do with the introduction of
+
+
+===== PDF 603 | 印刷页 568 =====
+
+568   l Chapter 20  Money Growth, Money Demand, and Modern Monetary Policy
+
+
+
+
+                       Using Statistical Models in Policy Evaluation
+                       TOOLS OF THE TRADE
+
+
+  For policymakers to do their jobs, they need to know how               In the mid-1970s, Nobel Prize–winning economist
+  changes in policy will affect their objectives. An essential      ­ obert Lucas observed that what is true in sports is true in
+                                                                    R
+  question in any monetary policy decision is how much to           economics.* In the same way that altering the rules of a
+  adjust interest rates in order to keep prices stable and          game will change the players’ strategies, altering the set of
+  ­e conomic growth high. Unlike theory, policymaking is            economic policies in place will change people’s economic
+   about numbers; it requires quantitative estimates of the         decisions. For example, no one would use data from a
+   relative impact of alternative policies. These estimates are     fixed exchange rate period to model the impact of interest
+   based on statistical models that summarize the correla-          rate policy in a floating exchange rate system. Nor would
+   tions among economic variables. To obtain the necessary          anyone use information from a period when central bank-
+   information, economists at the central bank collect histori-     ers targeted money growth, allowing interest rates to vary,
+   cal information and analyze it in an attempt to determine        to predict the impact of a shift to targeting interest rates.
+   how past changes in policy have affected the economy.            Economic and financial decisions, Lucas noted, are based
+   Their estimates allow policymakers to answer questions           on expectations about the future, including what policy-
+   such as “If we raise the federal funds rate by one percent-      makers will do. Any change in policymakers’ behavior will
+   age point, how much lower will the rate of inflation be two      change people’s expectations, altering their behavior and
+   years from now?”                                                 the observed relationships among economic variables.
+       Such an exercise may seem straightforward, but it has             This observation, known as the Lucas critique, has had
+   pitfalls. For an economic prediction to be valid, it must be     a profound influence on the way policymakers formulate
+   based on data drawn from a historical period in which the        their recommendations. It implies that in predicting the ef-
+   same set of policies—sometimes called the policy frame-          fects of a change in policy, policymakers must take into
+   work or the policy regime—was in place. If it isn’t, the         account how people’s economic behavior will change with
+   ­results can be seriously misleading. A sports analogy will      it. To understand the impact of policies never before imple-
+    help make the point. In the United States, a football team      mented, Lucas emphasized, policymakers must rely heav-
+    has four downs to make 10 yards, but in Canada, a football      ily on economic theory, modeling people’s reactions to
+    team gets only three downs before being forced to give up       changes in their environment.
+    the ball. As a result, Canadian football teams regularly kick
+    the ball away on the third down. Needless to say, no one        *The original Lucas critique is described in Robert E. Lucas Jr.,
+    would think of using data from Canadian football games to       “Econometric Policy Evaluation: A Critique,” Carnegie-Rochester
+    predict third-down behavior in a U.S. game.                     Conference Series on Public Policy 1 (1976), pp. 19–46.
+
+
+
+
+                           f­ inancial instruments that paid higher returns than money but could still be used as
+                            means of payment. While officials have tried to account for the new instruments by
+                            changing the composition of the monetary aggregates, money demand continues to
+                            appear unstable.
+                                A second explanation for the shift in the relationship between the velocity of M2
+                            and its opportunity cost has to do with changes in mortgage refinancing rates. As long-
+                            term interest rates fell throughout the 1990s and into the 21st century, they spurred
+                            ­periods of intense activity in the mortgage market. Because every U.S. mortgage
+                             comes with the right to repay early, the holder of a conventional 30-year, fixed-rate
+                             mortgage can terminate the loan contract at any time by simply repaying the balance.
+                             When mortgage interest rates fall dramatically, large numbers of people pay off their
+                             old, high-interest mortgages and replace them with new, low-interest mortgages. The
+                             incentive to refinance a mortgage can be significant, even for what might seem a small
+                             decline in interest rates.
+                                When a mortgage is refinanced, it creates demand for money in several ways. Many
+                             people who are refinancing take the opportunity to remove some of their equity in
+
+
+===== PDF 604 | 印刷页 569 =====
+
+                                                          Targeting Money Growth in a Low-Inflation Environment   l 569
+
+
+
+their home. The proceeds go into liquid deposit accounts, which are part of M2, until
+they are spent on home renovations or other major purchases. In addition, funds for the
+new mortgage must be collected from investors and transferred to holders of the old
+mortgage. Along the way, they flow through an account that is part of M2. So when
+mortgage interest rates fall, M2 tends to grow rapidly. Once interest rates stabilize and
+the wave of refinancing subsides, M2 settles down and even shrinks. But in the mean-
+time, velocity fluctuates.
+   The breakdown in the relationship between money demand and interest rates that
+occurred in the United States during the early 1990s drove researchers back to their
+computers to build better, more robust statistical models. It also continues to serve as
+a cautionary note for policymakers.
+
+Targeting Money Growth: The Fed and the ECB
+Though today virtually no central bank targets money growth, the practice was
+common in the 1970s. In the United States, the FOMC first adopted explicit objec-
+tives for money growth on January 15, 1970. Five years later, Congress passed a
+law directing the chair of the Federal Reserve Board to make quarterly appearances
+to testify to the Fed’s money growth targets for the coming year. In addition, the
+Full Employment and Balanced Growth Act, passed in 1978, required the Fed to
+publish ranges for money growth in its twice-yearly Monetary Policy Report to
+Congress.
+    But announcing an objective is one thing; achieving it is something else. The
+FOMC rarely hit its money growth targets. Finally in July 2000, after the requirements
+of the 1978 legislation had expired, the committee stopped publishing them. A number
+of observers, including some inside the Federal Reserve, have argued that policymak-
+ers could have hit their money growth targets using procedures that were then in place.
+But to do so would have meant adjusting the federal funds rate target frequently, and
+by large amounts—something policymakers were unwilling to do. By the summer of
+2003, even Milton Friedman had given up. “The use of the quantity of money as a
+target has not been a success,” he conceded. “I’m not sure I would as of today push it
+as hard as I once did.”9
+    European monetary policymakers view matters differently. As we saw at the begin-
+ning of the chapter and in Applying the Concept: The ECB’s Reference Value for
+Money Growth on page 563, the ECB’s Governing Council periodically announces a
+money growth rate that is intended to serve as a long-run reference value. Large devi-
+ations from this reference value require an explanation. The difference of opinion
+between the Fed and the ECB on this matter can be traced to their divergent views on
+the stability of money demand. Researchers who study the demand for money in the
+euro area have concluded that it is stable, which implies that changes in velocity are
+predictable. This assumption is the justification for the ECB’s emphasis on money in
+its monetary policy framework.
+    The ECB’s strategy is based on data like those shown in Figure 20.5 on page 571.
+From 1995 to 2018, the velocity of euro-area M3 (the equivalent of U.S. M2) declined
+from 0.38 to less than 0.24. While short-run fluctuations in velocity were significant,
+European ­policymakers point to the tendency of velocity to return to its long-run
+downward trend over periods of a few years. (Recall that in computing the ECB’s
+­reference value for money growth, described in Applying the Concept on page 563,
+
+9
+ Simon London, “Lunch with the FT: Milton Friedman,” Financial Times, June 6, 2003.
+
+
+===== PDF 605 | 印刷页 570 =====
+
+570   l Chapter 20  Money Growth, Money Demand, and Modern Monetary Policy
+
+
+
+
+                      We Are Still Overstating Inflation
+                      MONEY AND BANKING BLOG
+
+
+  More than twenty years ago, a government-appointed without correcting for any bias. And wage measurement
+  group of experts—the “Boskin Commission”—­ exemplifies how the sustained upward bias of the CPI can
+  concluded that the U.S. consumer price index (CPI) sys- affect public discourse, as it means the median real wage
+  tematically overstated inflation by 0.8 to 1.6 percentage may have risen substantially over past decades, in contrast
+  points each year. Taking these findings to heart, the to reported stagnation.
+  ­Bureau of Labor Statistics (BLS) got to work reducing               There is good reason to think that the price mismeas-
+   this bias so that, by the mid-2000s, experts felt it had urement problem has gotten worse in recent years. Failure
+   fallen by as much as half a percentage point.                   to fully reflect quality advances has probably increased the
+         More recently, the concern about overestimation of overstatement of prices in IT (computer hardware and soft-
+   inflation has resurfaced because of the way we (mis) ware) and health care. In the case of IT hardware, for ex-
+   measure changes in the quality of information technol- ample, the graphics card in a 2018-model iPhone could
+   ogy (IT), digital content, and health care.                     make nearly 3,500 times the number of floating point op-
+         Price measurement is central to our understanding of erations per second (FLOPS) as a 1975 Cray-1 supercom-
+   the economy. To measure economic growth, we use puter, which (adjusting for inflation) cost something like
+   prices to distinguish nominal from real quantities. 100,000 times as much as the phone. If we imagine FLOPS
+   We also use prices to deflate nominal incomes to meas- as a consumer product, that represents an almost incom-
+   ure the evolution of living standards. And, considering prehensible price decline.*In the case of software, vast im-
+   price stability to be the foundation of sustainable and provements and new programs (like Google Maps) are
+   balanced growth, central bankers obsess over whether often available free of charge; and this free digital content
+   inflation is too high or too low.                               has recently expanded far beyond what broadcast radio and
+         The CPI tends to overstate inflation for two main TV long provided.
+   ­reasons: (1) Consumers are continually shifting their              But, perhaps surprisingly, the bias in IT probably is not
+    “consumption basket,” usually toward goods that have a big source of overall consumer price mismeasurement.
+    become relatively less expensive, while the composition Households spend less than 3.4 percent of their budget on
+    of the measured basket changes less frequently. And (2) all IT goods and services. As a result, even a 10-percentage-
+    new welfare-enhancing goods are included in the CPI point overstatement of IT inflation would result in less
+    only with a significant lag (if at all), while the improve- than a 0.4 percent overstatement of overall inflation.
+    ments they provide are difficult to estimate and often             Health care is potentially more important: its weight in
+    understated.                                                   the consumer price index is 8.6 percent.† Quality changes
+         Persistently overstating inflation has important in both the health care process and the effectiveness of
+    ­consequences. So long as the upward bias is constant, cen- treatment have, as in IT, been enormous. In terms of pro-
+     tral bankers can set their inflation targets accordingly. But cess, hospitals and clinics now offer online medical histo-
+     price indexes are used to adjust entitlement benefits ries, including nearly instantaneous test results, allowing
+
+
+
+
+                          statisticians assumed that velocity would decline between ½ and 1 percent a year. In
+                          fact, the annual rate of decline has averaged more than 2 percent.)
+                              Even given this difference in their emphasis on money growth, the ECB and the
+                          Fed have both chosen interest rates as their conventional operating target. The reason
+                          is that ­interest rates are the link between the financial system and the real economy.
+                          Changes in interest rates are one of the primary tools central bankers have for
+                          ­influencing the economy. By keeping interest rates stable, policymakers can insulate
+                           the real economy from disturbances that arise in the financial system. For example,
+                           the payments system can change quickly. The introduction of more liquid financial
+                           instruments or newly configured electronic systems can have a direct impact on the
+
+
+===== PDF 606 | 印刷页 571 =====
+
+                                                                         Targeting Money Growth in a Low-Inflation Environment                 l      571
+
+
+
+
+   doctors to proceed rapidly with life- and limb-saving steps.                      The bottom line is that the CPI has long overstated
+   These reduce hospital stays and ­patient recovery time, in-                   inflation, so the rise of living standards has been under-
+   creasing the quality of care dramatically.                                    stated for decades. In recent years, IT price mismeasure-
+      As rough indicators of the improved effectiveness of                       ment has probably made the bias worsen slightly.
+   medical treatment, consider just two of many successes:                       However, because U.S. consumers spend much more on
+   the death rate from heart disease in the United States                        health care than on IT, the CPI impact of understating
+   plunged by one-third in the decade to 2013. And today                         quality improvements has been, and will likely remain,
+   we speak of “bad cancers” because medicine has ad-                            much greater in health care than in IT. So as we work to
+   vanced to the point where we can cure many of them.                           improve the quality of inflation data, the health sector is
+   Not long ago, all cancers were bad.                                           where we should be putting our effort.
+      These quality improvements have contributed to the
+   reported decline in health care cost inflation—from an
+   average of more than 6 percent per year from 1975 to                          * Recent reported readings could be understating actual hardware
+   2010 to closer to 23/ 4 percent since then. The high share                    deflation by as much as 7 percentage points. See David M. Byrne,
+                                                                                 Stephen D. Oliner, and Daniel E. Sichel, “How Fast Are
+   of health care in the consumption basket means that
+                                                                                 Semiconductor Prices Falling?” NBER Working Paper No. 21074,
+   from 2010 to 2018, the drop in health care inflation re-                      April 2015.
+   duced overall CPI inflation by 0.3 percentage point per                       †
+                                                                                   Health care outlays constitute a whopping 17 percent of personal
+   year. Might the true reduction have been even greater?                        consumption expenditures, which include payments by insurers,
+   Probably, but it is difficult to prove.                                       but the CPI excludes spending that is not out of pocket.
+
+
+
+
+  Figure 20.5                            Velocity of Euro-Area M3, 1995–2018
+
+
+                                  0.40
+       Velocity of Euro-Area M3
+
+
+
+
+                                  0.35
+
+
+                                  0.30
+
+
+                                  0.25
+
+
+                                  0.20
+                                     1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019
+
+Velocity is measured as nominal GDP divided by M3 for the 19 countries of the euro area as of 2019. The red line is a simple time trend.
+SOURCE: Eurostat and International Monetary Fund (FRED data codes: EUNNGDP and MABMM301EZQ189S).
+
+
+===== PDF 607 | 印刷页 572 =====
+
+572 l Chapter 20  Money Growth, Money Demand, and Modern Monetary Policy
+
+
+
+                                     way money is used and therefore on velocity. If policymakers wanted to, they could
+                                     keep money growth constant in the face of such innovations. But doing so would
+                                     create volatility in interest rates, which could destabilize the real economy. This
+                                     point was made in Chapter 18, which discussed the rationale for choosing the inter-
+                                     est rate rather than the quantity of reserves as an operating instrument. There we
+                                     noted that the best way to keep changes in reserves from influencing interest rates
+                                     and affecting the real economy is to target interest rates. While inflation is tied to
+                                     money growth in the long run, interest rates are the tool policymakers use to stabi-
+                                     lize inflation in the short run.
+                                         The idea that targeting money growth destabilizes interest rates is not just a
+                                     theoretical possibility. For roughly three years from October 1979 to October 1982,
+                                     as part of the effort to reduce inflation from more than 10 percent the FOMC used
+                                     reserves to target money growth, allowing the federal funds rate to fluctuate.
+                                     ­Fig­ure 20.6 shows the results. The shaded area represents the period when the
+                                      FOMC targeted the quantity of money. Notice how volatile the interest rate was
+                                      during that three-year period. In fact, over intervals as short as three to four months,
+                                      the federal funds rate fluctuated as much as 10 percentage points, rising from 11½
+                                      percent in September 1979 to 20 percent in March 1980, then falling to 10 percent
+                                      in July 1980 before climbing back to 20 percent in December 1980. This sort of
+                                      volatility, caused by policymakers’ inability to forecast shifts in the velocity of
+                                      money, would surely damage the real economy. Realizing the problem, policymak-
+                                      ers have turned to the only viable alternative: targeting and smoothing fluctuations
+                                      in interest rates. In the next chapter, we will study how they use interest rates to
+                                      stabilize inflation and growth.
+
+
+   Figure 20.6                  The Federal Funds Rate, 1975–2019
+
+
+                        20
+
+
+
+                        15
+    Interest Rate (%)
+
+
+
+
+                        10
+
+
+
+                         5
+
+
+
+                        0
+                        1975 1978 1981 1984 1987 1990 1993 1996 1999 2002 2005 2008 2011 2014 2017 2020
+
+The shaded bar represents the period from October 1979 to October 1982, when the Federal Reserve targeted the quantity of money.
+SOURCE: Data are the effective federal funds rate, weekly, from the Board of Governors of the Federal Reserve System (FRED data code: FF).
+
+
+===== PDF 608 | 印刷页 573 =====
+
+                                                                                               Chapter Lessons l             573
+
+
+
+Key Terms
+equation of exchange, 558              portfolio demand               quantity theory of
+Lucas critique, 568                       for money, 562                 money, 559
+nominal gross domestic                 precautionary demand           transactions demand
+  product, 558                            for money, 564                 for money, 562
+                                                                      velocity of money, 557
+
+
+Using FRED: Codes for Data in This Chapter
+   Data Series                                                FRED Data Code
+   M1                                                         M1SL
+   M2                                                         M2SL
+   U.S. consumer price index                                  CPIAUCSL
+   Brazil consumer price index                                BRACPIALLMINMEI
+   Mexico consumer price index                                MEXCPIALLQINMEI
+   Mexico M1                                                  MYAGM1MXM189N
+
+
+
+
+                                                                                                                                    www.moneyandbanking.com
+   Nominal GDP                                                GDP
+   M2 velocity                                                M2V
+   M1 velocity                                                M1V
+   U.S. historical velocity (annual)                          A14187USA163NNBR
+   U.S. chained consumer price index                          SUUR0000SA0
+   GDP deflator                                               GDPDEF
+   M2 own rate of return                                      M2OWN
+   U.S. 3-month Treasury bill rate                            TB3MS
+   Federal funds rate                                         FEDFUNDS
+
+
+
+
+Chapter Lessons
+1. There is a strong positive correlation between money growth and inflation.
+                                                                                                 To learn more about the
+   a. Every country that has had high rates of sustained money growth has experienced            changing financial system, visit
+      high rates of inflation.                                                                   www.moneyandbanking.com.
+
+   b. At very high levels of inflation, inflation exceeds money growth.
+   c. At moderate to low inflation, money growth exceeds inflation.
+   d. Ultimately, the central bank controls the rate of money growth.
+2. The quantity theory of money explains the link between inflation and money growth.
+   a. The equation of exchange tells us that:
+        i. The quantity of money times the velocity of money equals nominal GDP.
+       ii. Money growth plus velocity growth equals inflation plus real growth.
+   b. If velocity and real growth were constant, the central bank could control infla-
+      tion by keeping money growth constant.
+   c. In the long run, velocity is stable, so controlling inflation means controlling
+      money growth.
+   d. In the short run, the velocity of money is volatile.
+
+
+===== PDF 609 | 印刷页 574 =====
+
+                          574   l Chapter 20  Money Growth, Money Demand, and Modern Monetary Policy
+
+
+
+                                                3. Shifts in velocity are caused by changes in the demand for money.
+                                                   a. The transactions demand for money depends on income, interest rates, and the
+                                                      availability of alternative means of payment.
+                                                   b. The portfolio demand for money depends on the same factors that determine the
+                                                      demand for bonds: wealth, expected future interest rates, and the return, risk, and
+                                                      liquidity associated with money relative to alternative investments.
+                                                4. The quantity theory of money and theories of money demand have a number of
+                                                   implications for monetary policy.
+                                                   a.	C ountries with high inflation can reduce inflation by controlling money
+                                                       growth.
+                                                   b.	Countries with low inflation can control inflation by targeting money growth
+                                                       only if the demand for money is stable in the short run.
+                                                   c.	In the United States, the relationship between the velocity of M2 and its
+                                                       ­­opportunity cost (the yield on an alternative investment) has proven unstable
+                                                       over time.
+                                                   d.	The instability of money demand in the United States has caused Federal R  ­ eserve
+                                                       policymakers to pay less attention to money growth than to interest rates.
+                                                   e.	In the euro area, ECB officials view money demand as relatively stable, so they
+                                                       pay more attention to money growth than the Fed does.
+                                                   f.	Regardless of the stability of money demand, central banks target interest rates
+www.moneyandbanking.com
+
+
+
+
+                                                       to insulate the real economy from disturbances in the financial sector.
+
+
+                                                Conceptual and Analytical Problems                                                       ®
+
+
+
+
+                                                   1. Why is inflation higher than money growth in high-inflation countries and lower
+                                                       than money growth in low-inflation countries? (LO1)
+                                                	  2.* Explain why giving an independent central bank control over the quantity of
+                                                       money in the economy should reduce the occurrences of periods of extremely
+                                                       high inflation, especially in developing economies. (LO1)
+                                                   3. If velocity were constant at 1.5 while M2 rose from $11 trillion to $12 trillion in
+                                                       a single year, what would happen to nominal GDP? If real GDP rose 2.09 per-
+                                                       cent, what would be the level of inflation? (LO2)
+                                                   4. According to Irving Fisher, when velocity and output are fixed, the quantity the-
+                                                        ory of money implies that inflation equals money growth. What does the quan-
+                                                        tity theory imply for inflation in the long run in an economy with growing output
+                                                        and stable velocity? (LO2)
+                                                   5. If velocity were predictable but not constant, would a monetary policy that fixed
+                                                       the growth rate of money work? (LO2)
+                                                   6. Describe the impact of financial innovations on the demand for money and
+                                                       ­velocity. (LO3)
+                                                   7. Suppose that expected inflation rises by 2 percent at the same time that the yields
+                                                        on money and on nonmoney assets both rise by 2 percent. What will happen to
+                                                        the demand for money? What if expected inflation rose by only 3 percent? What
+                                                        if the yield on nonmoney assets rose by 4 percent? (LO3)
+                                                	  8.* Explain how money growth reduces the purchasing power of money. (LO2)
+
+                                                *Indicates more difficult problems.
+
+
+===== PDF 610 | 印刷页 575 =====
+
+                                                                      Conceptual and Analytical Problems l   575
+
+
+
+ 9. Provide arguments both for and against the Federal Reserve’s adoption of a ­target
+      growth rate for M2. What assumptions would be necessary to compute such a
+      target rate? (LO1)
+ 10. Explain why we observed a fall in the velocity of M2 during the financial crisis
+      of 2007–2009. (LO3)
+ 11. Comment on the role given to money in the monetary policy strategy of the
+      ECB. (LO1)
+ 12. Countries A and B both have the same money growth rate and in both countries,
+      real output is constant. In Country A velocity is constant while in Country B veloc-
+      ity has fallen. In which country will inflation be higher? Explain why. (LO2)
+ 13. Consider a country where the level of excess reserves fluctuates widely and
+      unpredictably. Would such a country be a good candidate for a money growth
+      rule to guide monetary policy? Explain your answer. (LO4)
+ 14. Draw a graph of money demand and money supply with the nominal interest rate
+      on the vertical axis and money balances on the horizontal axis. Assume the cen-
+      tral bank is following a money growth rule where it sets the growth rate of money
+      supply to zero. Use the graph to illustrate how fluctuations in velocity imply that
+      targeting money growth results in greater volatility of interest rates. (LO4)
+ 15. In a chart of money demand and money supply with the nominal interest rate on
+
+
+
+
+                                                                                                                   www.moneyandbanking.com
+      the vertical axis, show how a central bank could use its control over the quantity
+      of money to target a particular level of interest rate in the face of changes in
+      velocity. (LO4)
+ 16. Why might targeting the money supply lead to lower output growth than target-
+      ing the rate of interest? (LO4)
+ 17. Which of the following factors would increase the transactions demand for
+      money? Explain your choices. (LO3)
+      a. Lower nominal interest rates.
+      b. Rumors that a computer virus had invaded the ATM network.
+      c. A fall in nominal income.
+ 18. Which of the following factors would increase the portfolio demand for money?
+      Explain your choices. (LO3)
+      a. A new website allows you to liquidate your stock holdings quickly and
+          cheaply.
+      b. You expect future interest rates to rise.
+      c. A financial crisis is looming.
+ 19.* Suppose a central bank is trying to decide whether to target money growth. Pro-
+      ponents of the move are confident that the new policy would be successful as,
+      under the existing policy regime, they observed a stable statistical relationship
+      between money growth and inflation. What warning might you issue to the cen-
+      tral bank when it asks your advice? (LO1)
+ 20. If “inflation is always and everywhere a monetary phenomenon,” why did the
+      huge expansions of central bank money by the Federal Reserve, the ECB, and
+      the Bank of Japan between 2007 and 2015 not result in high inflation in those
+      economies? (LO1)
+ 21. Why might the ECB place somewhat greater emphasis than the Federal Reserve
+      on money growth rates in discussing monetary policy? (LO4)
+
+*Indicates more difficult problems.
+
+
+===== PDF 611 | 印刷页 576 =====
+
+                          576   l Chapter 20  Money Growth, Money Demand, and Modern Monetary Policy
+
+
+
+                                                Data Exploration                                    ®
+
+
+
+
+                                                For general information on using Federal Reserve Economic Data (FRED) online,
+                                                visit www.mhhe.com/moneyandbanking6e.com and refer to the FRED resources.
+                                                 1. A scatterplot may reveal a relationship between two indicators. Construct a
+                                                    scatter­plot of annual data beginning in 1959 for inflation and money growth.
+                                                    Measure these as the percent change from a year ago of consumer prices (FRED
+                                                    code: CPIAUCSL) and M2 (FRED code: M2SL), respectively. Then, display a
+                                                    second scatterplot of annual data beginning in 1959 for inflation (measured as
+                                                    before) and the federal funds rate (FRED code: FEDFUNDS). Which indicator is
+                                                    more closely linked to inflation: money growth or the interest rate? Does that tell
+                                                    us which policy instrument is better? (LO2)
+                                                 2. Plot the percent change from a year ago of the velocity of money (FRED code:
+                                                    A14187USA163NNBR) between 1922 and 1939. Compare the typical scales of
+                                                    the velocity declines during the recessions of this interwar period and the veloc-
+                                                    ity declines during the recessions shown in Panel B of Figure 20.3. Were the
+                                                    1929–1933 and 2007–2009 periods special? What role might wealth have played
+                                                    in these two episodes? (LO3)
+www.moneyandbanking.com
+
+
+
+
+                                                 3. Plot annually since 1950 the reciprocal of the consumer price index (FRED code:
+                                                    CPIAUCSL) to see how inflation erodes the purchasing power of money. To
+                                                    start with an initial value of 1.0, in the Units dropdown box in FRED, select the
+                                                    option “Index (Scale to value to 100 for the chosen date)” and then apply the
+                                                    formula “(1/a) × 100.” If a dollar bought one unit of goods and serves in 1950,
+                                                    as of which year did the dollar buy only one-half unit? As of 2019, how many
+                                                    units of goods and services did a dollar buy? (LO1)
+                                                 4. In Figure 20.1, which compares money growth and inflation over an extended
+                                                    time period, would Mexico be above or below the 45-degree line? Plot since
+                                                    1987 on a quarterly basis the percent change from a year ago of the consumer
+                                                    price index (FRED code: MEXCPIALLQINMEI) and M1 (FRED code:
+                                                    MYAGM1MXM189N) in Mexico. Then download the data and calculate the
+                                                    averages of these inflation and money growth measures. Where would Mexico
+                                                    appear on Figure 20.1? Were there episodes since 1987 when Mexico was on the
+                                                    other side of the 45-degree line? If so, why? (LO2)
+                                                 5. In theory, the velocity of money should rise with the cost of holding it. To assess
+                                                    the theory, plot the opportunity cost of holding M2—defined as the difference
+                                                    between the three-month Treasury bill rate (FRED code: TB3MS) and the interest
+                                                    rate on M2 components (FRED code: M2OWN)—and (on the right scale) the
+                                                    percent change from a year ago of M2 velocity (FRED code: M2V). What do you
+                                                    conclude? (LO4)

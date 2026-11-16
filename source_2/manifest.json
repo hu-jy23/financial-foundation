@@ -1,0 +1,709 @@
+{
+  "as_of": "2026-11-03",
+  "source_list": "financial_foundation_v5/40_sources/新LIST.md",
+  "groups": [
+    {
+      "id": "T1",
+      "directory": "T1 宏观综合 Macroeconomics",
+      "files": [
+        {
+          "file": "Carlin and Soskice Macroeconomics Institutions, Instability, and Inequality 2024 FINAL.pdf",
+          "bytes": 31475593,
+          "sha256": "f4ff0a6f64eaf0e83f3c237147d52233b41d5f51daa911ae3aa5293f148f5687",
+          "scope": "用户已放入的2024版完整教材",
+          "source_url": "https://sites.google.com/site/wendycarlinucl/new-book",
+          "pages": 1024
+        }
+      ],
+      "attempts": [],
+      "missing": [],
+      "acquired_on": "2026-11-03",
+      "reading_status": "本轮全部生产单元正文及章末材料已读，候选筛选与正式接入完成；教材原引文未逐篇独立复核，见financial_foundation_v5/40_sources/STEP1_T1_T2.md",
+      "status": "用户已放入2024版完整教材（1024页），保留原文件。"
+    },
+    {
+      "id": "T2",
+      "directory": "T2 货币银行 Money Banking and Financial Markets",
+      "files": [
+        {
+          "file": "2024Release_官方目录与更新说明.pdf",
+          "bytes": 1083081,
+          "sha256": "209fbe70ec44bb1c542c707990a6c20d08c5546f15513fd394ea78778442505f",
+          "scope": "目录与更新说明；非教材正文",
+          "source_url": "https://info.mheducation.com/rs/128-SJW-347/images/ISE-Product-Cecchetti-2024.pdf?version=0",
+          "resolved_url": "https://info.mheducation.com/rs/128-SJW-347/images/ISE-Product-Cecchetti-2024.pdf?version=0",
+          "pages": 2,
+          "currently_present": false
+        },
+        {
+          "file": "Money, Banking and Financial Markets, 6e ISE (Stephen G. Cecchetti, Kermit L. Schoenholtz) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+          "bytes": 38112855,
+          "sha256": "987eb40abb293a0fdb1f4c63021c99d0c18d4c0d2219242d2bf7d2e461283186",
+          "scope": "用户提供第6版ISE完整教材，©2021；非清单选定2024 Release",
+          "provenance": "user_provided_local_file",
+          "pages": 737,
+          "currently_present": true
+        }
+      ],
+      "attempts": [],
+      "missing": [
+        {
+          "item": "Cecchetti & Schoenholtz，Money, Banking and Financial Markets，2024 Release：完整教材／全书正文",
+          "url": "https://www.mheducation.ca/product/money-banking-and-financial-markets-2024-release-ise-9781266966958-can-group",
+          "reason": "本次检索作者或出版社公开入口，未取得指定版本完整正文。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "本轮全部生产单元正文及章末材料已读，候选筛选与正式接入完成；教材原引文未逐篇独立复核，见financial_foundation_v5/40_sources/STEP1_T1_T2.md",
+      "status": "用户已提供第6版ISE完整教材，©2021，737 PDF页；本轮按实际版本使用，2024 Release全书仍未取得。"
+    },
+    {
+      "id": "T3",
+      "directory": "T3 公司金融 Corporate Finance",
+      "files": [],
+      "attempts": [],
+      "missing": [
+        {
+          "item": "Berk & DeMarzo，Corporate Finance，第6版（©2024）：完整教材／全书正文",
+          "url": "https://www.pearson.com/en-us/subject-catalog/p/corporate-finance/P200000009791/9780137844906",
+          "reason": "本次检索作者或出版社公开入口，未取得指定版本完整正文。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "未取得第6版完整教材。"
+    },
+    {
+      "id": "T4",
+      "directory": "T4 固定收益 Fixed Income Securities",
+      "files": [],
+      "attempts": [],
+      "missing": [
+        {
+          "item": "Tuckman & Serrat，Fixed Income Securities，第4版（2022）：完整教材／全书正文",
+          "url": "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119835622",
+          "reason": "本次检索作者或出版社公开入口，未取得指定版本完整正文。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "未取得第4版完整教材；旧库没有该书全文。"
+    },
+    {
+      "id": "T5",
+      "directory": "T5 资产定价 Financial Decisions and Markets",
+      "files": [
+        {
+          "file": "出版社公开首章.pdf",
+          "bytes": 785409,
+          "sha256": "d0ea71f8788245aecd18eac6213ff486801e35ca96b08f3a955773c8b61157f8",
+          "scope": "出版社样章；非全书",
+          "source_url": "https://assets.press.princeton.edu/chapters/s11177.pdf",
+          "resolved_url": "https://assets.press.princeton.edu/chapters/s11177.pdf",
+          "pages": 19
+        }
+      ],
+      "attempts": [
+        {
+          "url": "https://campbell.scholars.harvard.edu/sites/g/files/omnuum5881/files/campbell/files/financialdecisionsandmarkets_errata_092223.pdf",
+          "file": "作者勘误_20230922.pdf",
+          "result": "403 Client Error: Forbidden for url: https://campbell.scholars.harvard.edu/sites/g/files/omnuum5881/files/campbell/files/financialdecisionsandmarkets_errata_092223.pdf"
+        }
+      ],
+      "missing": [
+        {
+          "item": "Campbell，Financial Decisions and Markets（2018）：完整教材／全书正文",
+          "url": "https://campbell.scholars.harvard.edu/financial-decisions-and-markets-course-asset-pricing",
+          "reason": "本次检索作者或出版社公开入口，未取得指定版本完整正文。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "未取得全书；已下载出版社首章，勘误附件请求受限。"
+    },
+    {
+      "id": "T6",
+      "directory": "T6 国际宏观 International Macroeconomics",
+      "files": [
+        {
+          "file": "配套Slides/Chapter_01_slides_bop.pdf",
+          "bytes": 641662,
+          "sha256": "0de2cdeae900c8768c50f88b440b0f744af884ec0337094dba34c27f125dc0dd",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_01_slides_bop.pdf",
+          "pages": 62
+        },
+        {
+          "file": "配套Slides/Chapter_02_slides_sustainability.pdf",
+          "bytes": 46596,
+          "sha256": "0d69e9e2dd2b3a7ae591e26c38076a4ceef9d321e3d42c476a6d0af9cee089ab",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_02_slides_sustainability.pdf",
+          "pages": 12
+        },
+        {
+          "file": "配套Slides/Chapter_03_slides_endowment.pdf",
+          "bytes": 142658,
+          "sha256": "9909adecadae58c83afd097294d82795fb7f15fc57a3b6711bc7b9a0309be4b3",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_03_slides_endowment.pdf",
+          "pages": 39
+        },
+        {
+          "file": "配套Slides/Chapter_04_slides_tot_r.pdf",
+          "bytes": 141671,
+          "sha256": "6f26730615d836eed36d65ce3f401e330eca7ef2c5b8967425ce1bb11ab5e3cb",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_04_slides_tot_r.pdf",
+          "pages": 31
+        },
+        {
+          "file": "配套Slides/Chapter_05_slides_production.pdf",
+          "bytes": 225944,
+          "sha256": "d0eb48ca29c7a661f5b4766b653c06fc45ac2e90e545541c1b9f022191c73d2c",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_05_slides_production.pdf",
+          "pages": 48
+        },
+        {
+          "file": "配套Slides/Chapter_06_slides_uncertainty.pdf",
+          "bytes": 113615,
+          "sha256": "ae058363864edec0eb42d71272d5114f4e9cb05726ff84ce8b1c474f85680bac",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_06_slides_uncertainty.pdf",
+          "pages": 33
+        },
+        {
+          "file": "配套Slides/Chapter_07_slides_loe.pdf",
+          "bytes": 117315,
+          "sha256": "7febb6089fff2fc4c580146c2a542fda5d7f752ed846481d563be18b486e3318",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_07_slides_loe.pdf",
+          "pages": 34
+        },
+        {
+          "file": "配套Slides/Chapter_08_slides_government.pdf",
+          "bytes": 189460,
+          "sha256": "c791bc8b7bc6e0d57eefa6c37b181dd9a41d56f24844c7d74b7f3823e06042b0",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_08_slides_government.pdf",
+          "pages": 55
+        },
+        {
+          "file": "配套Slides/Chapter_09_slides_rer.pdf",
+          "bytes": 261710,
+          "sha256": "3402f54fd0127bee3fd2a13074b6f7d07f7399ef0c931fa4fa3362d1ef38518d",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_09_slides_rer.pdf",
+          "pages": 69
+        },
+        {
+          "file": "配套Slides/Chapter_10_slides_rer_determination.pdf",
+          "bytes": 312217,
+          "sha256": "306fc1db0df26eddea83112282e7e691a8555d68218a4b170b4b07202c27ab81",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_10_slides_rer_determination.pdf",
+          "pages": 96
+        },
+        {
+          "file": "配套Slides/Chapter_11_slides_capital-mobility.pdf",
+          "bytes": 232643,
+          "sha256": "104d4c8c3fa324fea73bf775bbb71d75c41a4f328f143b8aea289d700b2948e3",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_11_slides_capital-mobility.pdf",
+          "pages": 71
+        },
+        {
+          "file": "配套Slides/Chapter_12_slides_capital_controls.pdf",
+          "bytes": 359023,
+          "sha256": "9dd0383c834f3df54afe54b2d51afd46e898f0b1822890da98a5a1c7f7bc0829",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_12_slides_capital_controls.pdf",
+          "pages": 97
+        },
+        {
+          "file": "配套Slides/Chapter_13_slides_unemployment.pdf",
+          "bytes": 270317,
+          "sha256": "0e5d7edd8e86865529c615ce703cfd16f1a6f6c07a9668977556600c9876f04a",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_13_slides_unemployment.pdf",
+          "pages": 76
+        },
+        {
+          "file": "配套Slides/Chapter_14_slides_managing_currency_pegs.pdf",
+          "bytes": 108571,
+          "sha256": "9c2f1fe810e26d2e01164f5f298210c074bfaf849df10be2c5ad8b9f84cd7391",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_14_slides_managing_currency_pegs.pdf",
+          "pages": 26
+        },
+        {
+          "file": "配套Slides/Chapter_15_slides_monetary.pdf",
+          "bytes": 168431,
+          "sha256": "62fc91008a2d2bf2703aede776956dc2b91d0d80518dd7c46089a8d39ddd3314",
+          "scope": "完整章节Slides；非教材全书",
+          "copied_from": "sources/International Macroeconomics: A Modern Approach2022/Chapter_15_slides_monetary.pdf",
+          "pages": 48
+        }
+      ],
+      "attempts": [],
+      "missing": [
+        {
+          "item": "Schmitt-Grohé、Uribe、Woodford，International Macroeconomics: A Modern Approach（2022）：完整教材／全书正文",
+          "url": "https://www.columbia.edu/~mu2166/UIM/",
+          "reason": "本次检索作者或出版社公开入口，未取得指定版本完整正文。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "已从旧库复制全部15章Slides（797页）；未取得教材全书。"
+    },
+    {
+      "id": "T7",
+      "directory": "T7 中国经济 The Chinese Economy",
+      "files": [],
+      "attempts": [
+        {
+          "url": "https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/9028/Toc.pdf?dl=1",
+          "file": "出版社目录.pdf",
+          "result": "HTTPSConnectionPool(host='mitp-content-server.mit.edu', port=443): Max retries exceeded with url: /books/content/sectbyfn/books_pres_0/9028/Toc.pdf?dl=1 (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1028)')))"
+        }
+      ],
+      "missing": [
+        {
+          "item": "Naughton，The Chinese Economy: Adaptation and Growth，第2版（2018）：完整教材／全书正文",
+          "url": "https://mitpress.mit.edu/9780262534796/the-chinese-economy/",
+          "reason": "本次检索作者或出版社公开入口，未取得指定版本完整正文。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "未取得第二版全书；目录附件请求也失败。"
+    },
+    {
+      "id": "I1",
+      "directory": "I1 中央银行导论 Introduction to Central Banking",
+      "files": [
+        {
+          "file": "Introduction_to_Central_Banking_2021.pdf",
+          "bytes": 4985963,
+          "sha256": "c2b4cd05ac344352ba2d9a57268009b74a3f1208b3df22fe6ec482167b7b31e1",
+          "scope": "完整正文",
+          "copied_from": "sources/A1_中央银行导论_2021/Introduction_to_Central_Banking_2021.pdf",
+          "pages": 148
+        },
+        {
+          "file": "第三章官方勘误.pdf",
+          "bytes": 137174,
+          "sha256": "93691e8f58b114d981b017c26acd553eaac515ce9afdf66735affdf31f55ca50",
+          "scope": "第三章勘误全文",
+          "source_url": "https://link.springer.com/content/pdf/10.1007/978-3-030-70884-9_8.pdf",
+          "resolved_url": "https://link.springer.com/content/pdf/10.1007/978-3-030-70884-9_8.pdf",
+          "pages": 2
+        }
+      ],
+      "attempts": [],
+      "missing": [],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "已从旧库复制148页全书，另下载2页第三章官方勘误。"
+    },
+    {
+      "id": "I2",
+      "directory": "I2 中国金融体系手册",
+      "files": [
+        {
+          "file": "中国债券市场_章节工作稿.pdf",
+          "bytes": 779750,
+          "sha256": "a50ecb87ca5ec3cc8705dfe9e12e77d97e6c07bf8887467478ec04afabdd71c8",
+          "scope": "导论或章节工作稿；非全书",
+          "copied_from": "sources/A4_中国金融体系手册_2020/中国债券市场_章节工作稿.pdf",
+          "pages": 66
+        },
+        {
+          "file": "目录与导论.pdf",
+          "bytes": 1044360,
+          "sha256": "f3f5752956a28aa1a7d0a0c28da6f4f1a706c202831490d63ffb2836260c06d4",
+          "scope": "导论或章节工作稿；非全书",
+          "copied_from": "sources/A4_中国金融体系手册_2020/目录与导论.pdf",
+          "pages": 18
+        },
+        {
+          "file": "第5章_作者公开2020年校样.pdf",
+          "bytes": 1291135,
+          "sha256": "77bf4309ab948f6f13467ff2cde778b361274a3b9ebfab25956a3b6ce8b666bc",
+          "scope": "第5章完整公开校样；非全书",
+          "source_url": "https://zhiguohe.net/wp-content/uploads/2023/12/ae9ef-preprintversionjuly2020.pdf",
+          "resolved_url": "https://zhiguohe.net/wp-content/uploads/2023/12/ae9ef-preprintversionjuly2020.pdf",
+          "pages": 46
+        }
+      ],
+      "attempts": [],
+      "missing": [
+        {
+          "item": "The Handbook of China’s Financial System（2020）：完整教材／全书正文",
+          "url": "https://www.jstor.org/stable/j.ctv11vcdpc",
+          "reason": "本次检索作者或出版社公开入口，未取得指定版本完整正文。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "已复制导论及2019年债市章节工作稿，另下载2020年正式第5章公开校样；未取得整本手册。"
+    },
+    {
+      "id": "D1",
+      "directory": "D1 国民账户与国际收支统计标准",
+      "files": [
+        {
+          "file": "2025_SNA_预编辑全文.pdf",
+          "bytes": 14478692,
+          "sha256": "5778ffe0350e634954473a59e9f85e2cb33da8f280b43de2a725847424ebcdb6",
+          "scope": "2025 SNA预编辑全文",
+          "source_url": "https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf",
+          "resolved_url": "https://unstats.un.org/unsd/nationalaccount/docs/2025_SNA_Pre-edit.pdf",
+          "pages": 1260
+        }
+      ],
+      "attempts": [
+        {
+          "url": "https://www.imf.org/-/media/files/data/statistics/bpm6/draft-bpm7-wcv.pdf",
+          "file": "BPM7_白皮全文.pdf",
+          "result": "403 Client Error: Forbidden for url: https://www.imf.org/-/media/files/data/statistics/bpm6/draft-bpm7-wcv.pdf"
+        },
+        {
+          "url": "https://www.imf.org/-/media/files/data/statistics/bpm6/draft-bpm7-wcv.pdf?download=1",
+          "file": "BPM7_白皮全文.pdf",
+          "result": "403 Client Error: Forbidden for url: https://www.imf.org/-/media/files/data/statistics/bpm6/draft-bpm7-wcv.pdf?download=1"
+        }
+      ],
+      "missing": [
+        {
+          "item": "BPM7白皮全文",
+          "url": "https://www.imf.org/-/media/files/data/statistics/bpm6/draft-bpm7-wcv.pdf",
+          "reason": "IMF完整附件直接请求返回403；2025 SNA预编辑全文已下载。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "已下载2025 SNA预编辑全文；BPM7白皮附件未取得。"
+    },
+    {
+      "id": "D2",
+      "directory": "D2 美欧货币政策与美元利率制度",
+      "files": [
+        {
+          "file": "02_Fed 2025 长期目标与政策战略，2025-08-22 修订.html",
+          "bytes": 84659,
+          "sha256": "bc8575ad65c0640692f427a3c3fc0e6e90dddfb5f290321a5a3a624f2eb087aa",
+          "scope": "官方文件全文",
+          "source_url": "https://www.federalreserve.gov/monetarypolicy/monetary-policy-strategy-tools-and-communications-statement-on-longer-run-goals-monetary-policy-strategy-2025.htm",
+          "text_file": "02_Fed 2025 长期目标与政策战略，2025-08-22 修订.txt",
+          "title": "The Fed - 2025 Statement on Longer-Run Goals and Monetary Policy Strategy",
+          "resolved_url": "https://www.federalreserve.gov/monetarypolicy/monetary-policy-strategy-tools-and-communications-statement-on-longer-run-goals-monetary-policy-strategy-2025.htm"
+        },
+        {
+          "file": "01_NY Fed：Monetary Policy Implementation.html",
+          "bytes": 125308,
+          "sha256": "3a895bf65f3479af6ecbf24251b9f6390f0bdbdcd747032eeaa6477cf511dfad",
+          "scope": "官方文件全文",
+          "source_url": "https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation",
+          "text_file": "01_NY Fed：Monetary Policy Implementation.txt",
+          "title": "Monetary Policy Implementation - FEDERAL RESERVE BANK of NEW YORK",
+          "resolved_url": "https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation"
+        },
+        {
+          "file": "06_FOMC 实施说明，2026-10-28.html",
+          "bytes": 79046,
+          "sha256": "23a0446bc0489d3a493ec08c2f6f442e7928408c7ef321007752b8e517d7da3b",
+          "scope": "官方文件全文",
+          "source_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm",
+          "text_file": "06_FOMC 实施说明，2026-10-28.txt",
+          "title": "Federal Reserve Board - Implementation Note issued October 28, 2026",
+          "resolved_url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a1.htm"
+        },
+        {
+          "file": "04_NY Fed Standing Repo FAQ，核得 2026-09-16 版本.html",
+          "bytes": 111494,
+          "sha256": "54fa9ce775e89d0697d75c8a58969ba3ec846683b6e81116c7a9bedc090421eb",
+          "scope": "官方文件全文",
+          "source_url": "https://www.newyorkfed.org/markets/repo-agreement-ops-faq",
+          "text_file": "04_NY Fed Standing Repo FAQ，核得 2026-09-16 版本.txt",
+          "title": "FAQs: Standing Repurchase Agreement Operations - FEDERAL RESERVE BANK of NEW YORK",
+          "resolved_url": "https://www.newyorkfed.org/markets/repo-agreement-ops-faq"
+        },
+        {
+          "file": "03_ECB 2025 战略声明.html",
+          "bytes": 112494,
+          "sha256": "57763de47d5e177651142aa3745320c117aa56e1bf75da2b3571e7b0196b488f",
+          "scope": "官方文件全文",
+          "source_url": "https://www.ecb.europa.eu/mopo/strategy/strategy-review/ecb.strategyreview202506_strategy_statement.en.html",
+          "text_file": "03_ECB 2025 战略声明.txt",
+          "title": "The ECB’s monetary policy strategy statement (2025)",
+          "resolved_url": "https://www.ecb.europa.eu/mopo/strategy/strategy-review/ecb.strategyreview202506_strategy_statement.en.html"
+        },
+        {
+          "file": "05_SOFR 方法修订，2024-11-25.html",
+          "bytes": 108996,
+          "sha256": "ab81fcb80471f2d411e66164d46a5f650423a086d9ac3e3831ec964a34e4eaf9",
+          "scope": "官方文件全文",
+          "source_url": "https://www.newyorkfed.org/markets/opolicy/operating_policy_241125",
+          "text_file": "05_SOFR 方法修订，2024-11-25.txt",
+          "title": "Statement on the Implementation of Modifications to the Secured Overnight Financing Rate (SOFR) - FEDERAL RESERVE BANK of NEW YORK",
+          "resolved_url": "https://www.newyorkfed.org/markets/opolicy/operating_policy_241125"
+        }
+      ],
+      "attempts": [],
+      "missing": [],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "已下载清单指定的6份官方网页原文，并保留可检索文本。"
+    },
+    {
+      "id": "D3",
+      "directory": "D3 中国货币财政与地产融资制度",
+      "files": [
+        {
+          "file": "01_央行 2025Q1 报告及 MLF 演变专栏.pdf",
+          "bytes": 1423468,
+          "sha256": "ca0d0af85241dbde98f21bc9442120fe2c4bd944999555ac27668c4277d26408",
+          "scope": "官方文件全文",
+          "source_url": "https://wuhan.pbc.gov.cn/zhengcehuobisi/125207/125227/125957/f5c4690f2cbd40918bf24c2d39ac58af/2025091218344076234/2025081517321679368.pdf",
+          "resolved_url": "https://wuhan.pbc.gov.cn/zhengcehuobisi/125207/125227/125957/f5c4690f2cbd40918bf24c2d39ac58af/2025091218344076234/2025081517321679368.pdf",
+          "pages": 58
+        },
+        {
+          "file": "03_财政部 2024 年化债安排说明.html",
+          "bytes": 26557,
+          "sha256": "277e5fcd22f96c2fe223d1066f11ca6ba55cec1d002be1553d2c1dded4e4aecc",
+          "scope": "官方文件全文",
+          "source_url": "https://qh.mof.gov.cn/bszn/tongzhitonggao/202411/t20241112_3947384.htm",
+          "text_file": "03_财政部 2024 年化债安排说明.txt",
+          "title": "增加地方政府债务限额置换存量隐性债务有关政策情况全国人大常委会办公厅新闻发布会文字实录",
+          "resolved_url": "https://qh.mof.gov.cn/bszn/tongzhitonggao/202411/t20241112_3947384.htm"
+        },
+        {
+          "file": "04_财政部 2026 上半年政策执行报告.html",
+          "bytes": 84698,
+          "sha256": "0712be78b59f4bb3d6b079db5a12a8294c02d1e3fd6949f2e78ce4ab8fcf2064",
+          "scope": "官方文件全文",
+          "source_url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202610/t20261009_4002434.htm",
+          "text_file": "04_财政部 2026 上半年政策执行报告.txt",
+          "title": "2026年上半年中国财政政策执行情况报告",
+          "resolved_url": "https://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202610/t20261009_4002434.htm"
+        },
+        {
+          "file": "05_商品住房开发贷款管理办法，官方转载全文.html",
+          "bytes": 35590,
+          "sha256": "d8be9a8832cb99b9f304bb1aa90cd701bd08d5b3d6ed800882949a6bf32b8799",
+          "scope": "官方文件全文",
+          "source_url": "https://jrj.sh.gov.cn/YWTBZCCX166/20260831/06a03192e30d4bed99beb1bed84e6c90.html",
+          "text_file": "05_商品住房开发贷款管理办法，官方转载全文.txt",
+          "title": "国家金融监督管理总局关于印发《商品住房开发贷款管理办法（试行）》的通知_中共上海市委金融委员会办公室、中共上海市金融工作委员会",
+          "resolved_url": "https://jrj.sh.gov.cn/YWTBZCCX166/20260831/06a03192e30d4bed99beb1bed84e6c90.html"
+        },
+        {
+          "file": "02_央行 2026Q2 报告.pdf",
+          "bytes": 3881565,
+          "sha256": "07f1f13795c95d9d842993abd1d83ed8c8726aa59ec48da03208d30cc6dd309c",
+          "scope": "官方文件全文",
+          "source_url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081218034520348/2026081218031050203.pdf",
+          "resolved_url": "https://www.pbc.gov.cn/goutongjiaoliu/113456/113469/2026081218034520348/2026081218031050203.pdf",
+          "pages": 58
+        }
+      ],
+      "attempts": [
+        {
+          "url": "https://www.imf.org/en/publications/cr/issues/2026/02/17/peoples-republic-of-china-2025-article-iv-consultation-press-release-staff-report-and-574028",
+          "result": "书目入口；需另取121页完整工作人员报告"
+        },
+        {
+          "url": "https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf",
+          "file": "06_IMF中国2025年第四条磋商_英文原报告.pdf",
+          "result": "403 Client Error: Forbidden for url: https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf"
+        }
+      ],
+      "missing": [
+        {
+          "item": "IMF中国2025年第四条磋商完整报告（121页，2026年发布）",
+          "url": "https://www.imf.org/-/media/files/publications/cr/2026/english/1chnea2026001-source-pdf.pdf",
+          "reason": "已从官方书目定位121页报告附件，直接请求返回403；其他5份中国官方文件已取得中文原文。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "已下载清单前5份中国官方文件的中文原文；IMF完整报告未取得。"
+    },
+    {
+      "id": "R1",
+      "directory": "R1 金融周期",
+      "files": [
+        {
+          "file": "BIS_Working_Paper_395_金融周期.pdf",
+          "bytes": 1134407,
+          "sha256": "715f0a13f0f310fcf1feb2bbd3b94e44d023e7d0529c51c96c4331e7ed5659ec",
+          "scope": "2012年公开工作稿全文；非2014正式发表版",
+          "copied_from": "sources/B10_通胀状态与金融周期_BIS/BIS_Working_Paper_395_金融周期.pdf",
+          "pages": 38
+        }
+      ],
+      "attempts": [
+        {
+          "url": "https://www.sciencedirect.com/science/article/pii/S0378426613003063/pdfft?isDTMRedir=true&download=true",
+          "file": "2014正式发表版.pdf",
+          "result": "403 Client Error: Forbidden for url: https://www.sciencedirect.com/science/article/pii/S0378426613003063/pdfft?isDTMRedir=true&download=true"
+        }
+      ],
+      "missing": [
+        {
+          "item": "2014年Journal of Banking & Finance正式发表版完整正文",
+          "url": "https://www.sciencedirect.com/science/article/pii/S0378426613003063",
+          "reason": "正式版下载请求返回403；已复制2012年BIS完整公开工作稿。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "已复制2012年BIS公开工作稿全文；2014年正式发表版未取得。"
+    },
+    {
+      "id": "R2",
+      "directory": "R2 资产负债表衰退",
+      "files": [
+        {
+          "file": "资产负债表衰退_期刊原文.pdf",
+          "bytes": 570645,
+          "sha256": "013ae6b25ae3b59e72883ed535a9941329569352ba8677866590b10927570195",
+          "scope": "完整正文",
+          "copied_from": "sources/A8_资产负债表衰退_Koo_2011/资产负债表衰退_期刊原文.pdf",
+          "pages": 19
+        }
+      ],
+      "attempts": [],
+      "missing": [],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "已复制2011年期刊文章全文（19页）。"
+    },
+    {
+      "id": "R3",
+      "directory": "R3 美元金融传导",
+      "files": [
+        {
+          "file": "BIS_Working_Paper_695.pdf",
+          "bytes": 436946,
+          "sha256": "a9082377feea3bc4b87f9fb3febf50c2d484286bcd1e4dc8eaab56a96d08bf38",
+          "scope": "2018年公开工作稿全文；非2019正式发表版",
+          "copied_from": "sources/B2_美元汇率与全球风险_BIS_2018/BIS_Working_Paper_695.pdf",
+          "pages": 43
+        }
+      ],
+      "attempts": [
+        {
+          "url": "https://link.springer.com/content/pdf/10.1057/s41308-019-00074-4.pdf",
+          "file": "2019正式发表版.pdf",
+          "result": "未返回PDF正文"
+        }
+      ],
+      "missing": [
+        {
+          "item": "2019年IMF Economic Review正式发表版完整正文",
+          "url": "https://link.springer.com/article/10.1057/s41308-019-00074-4",
+          "reason": "出版社页面要求访问权限；PDF请求返回网页。已复制2018年BIS完整公开工作稿。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "已复制2018年BIS公开工作稿全文；2019年正式发表版未取得。"
+    },
+    {
+      "id": "R4",
+      "directory": "R4 工资价格与通胀预期",
+      "files": [
+        {
+          "file": "Bernanke_Blanchard_20230523.pdf",
+          "bytes": 1842958,
+          "sha256": "525a03fc978efad1f1914619c486a0185ad2af2e951174e4a99c7f4bf4657213",
+          "scope": "2023年会议稿全文；非2025正式发表版",
+          "copied_from": "sources/B3_美国疫情时期通胀_Bernanke_Blanchard_2023/Bernanke_Blanchard_20230523.pdf",
+          "pages": 50
+        }
+      ],
+      "attempts": [
+        {
+          "url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/mac.20230195",
+          "file": "2025正式发表版.pdf",
+          "result": "未返回PDF正文"
+        }
+      ],
+      "missing": [
+        {
+          "item": "2025年AEJ: Macroeconomics正式发表版完整正文",
+          "url": "https://www.aeaweb.org/articles/pdf/doi/10.1257/mac.20230195",
+          "reason": "正式下载入口返回购买／访问页面，未取得PDF。已复制2023年会议稿全文。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "已复制2023年会议稿全文；2025年正式发表版未取得。"
+    },
+    {
+      "id": "R5",
+      "directory": "R5 财政价格理论",
+      "files": [
+        {
+          "file": "作者勘误.pdf",
+          "bytes": 117686,
+          "sha256": "e84893911ea3cab8ab30c62c853b48d23f4cb020b5b4d6f6ad83d9ae24202455",
+          "scope": "作者勘误",
+          "source_url": "https://www.johnhcochrane.com/s/fiscal_book_typos.pdf",
+          "resolved_url": "https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/63ac9d3cb655c15c5869a256/1672256828291/fiscal_book_typos.pdf",
+          "pages": 2
+        },
+        {
+          "file": "作者公开选章与附录_非全书.pdf",
+          "bytes": 4774031,
+          "sha256": "7ed6a31893ffe2ba1f7b8d3266de9ece0f35ba73f0307cb02bca2927a5dc3ebc",
+          "scope": "公开选章、目录与附录；非全书",
+          "source_url": "https://www.johnhcochrane.com/s/fiscal_theory_short_website.pdf",
+          "resolved_url": "https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/63cc7978b155d84db08b065c/1674344828516/fiscal_theory_short_website.pdf",
+          "pages": 327
+        },
+        {
+          "file": "修订第5章.pdf",
+          "bytes": 1992062,
+          "sha256": "069b0c268734b0b04981f05f9fc89267b00464a3eebfaa4a3b5f6721628fe771",
+          "scope": "修订第5章；非全书",
+          "source_url": "https://www.johnhcochrane.com/s/fiscal_theory_revision_excerpt.pdf",
+          "resolved_url": "https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/63b5bf827cd6f804b116e024/1672855428105/fiscal_theory_revision_excerpt.pdf",
+          "pages": 50
+        }
+      ],
+      "attempts": [],
+      "missing": [
+        {
+          "item": "Cochrane，The Fiscal Theory of the Price Level（2023）：完整教材／全书正文",
+          "url": "https://www.johnhcochrane.com/research-all/the-fiscal-theory-of-the-price-level-1",
+          "reason": "本次检索作者或出版社公开入口，未取得指定版本完整正文。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "已下载作者公开选章与附录、勘误和修订第5章；选章PDF虽有327页，仍缺部分章节，未取得全书。"
+    },
+    {
+      "id": "R6",
+      "directory": "R6 分配需求与全球失衡",
+      "files": [],
+      "attempts": [],
+      "missing": [
+        {
+          "item": "Klein & Pettis，Trade Wars Are Class Wars（2020；2021平装）：完整教材／全书正文",
+          "url": "https://yalebooks.yale.edu/book/9780300261448/trade-wars-are-class-wars/",
+          "reason": "本次检索作者或出版社公开入口，未取得指定版本完整正文。"
+        }
+      ],
+      "acquired_on": "2026-11-03",
+      "reading_status": "仅收集与文件检查，未精读",
+      "status": "未取得完整书稿；旧库中的Pettis单篇文章不等同于这本书。"
+    }
+  ]
+}

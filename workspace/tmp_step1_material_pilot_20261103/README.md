@@ -1,0 +1,22 @@
+# Step1原材料转Map：临时试点
+
+本工作区用于调试手册与小样本，不改正式Map。项目目标与上位原则来自[整体规划](../financial_foundation_v5_20261027/financial_foundation_v5/00_start/PROJECT_PLAN.md)。
+
+- `skills/step1-source-to-map/`：待调试的skill与按需阅读的手册。
+- `inputs/`：选定输入、派生文本、源文件哈希与v0指导。A6原件以只读约定的软链接引用；其他两份主试点PDF为临时副本。
+- `trials/a3/`：A3第4章全31张slides的课件试点。
+- `trials/a1/`：A1第3章全23页及更正页，后加入A6美国第13版第15章全26页的教材整合试点。
+- `reviews/`：本轮具体内容审阅与修订依据。
+
+试点检验：材料页数与独立认识增量的关系、章节到条目的归属、与原型的重复/修订/结构变更、跨教材融合、证据与公式核对，以及agent能否依据手册作出这些判断。条目产量不设配额。
+
+当前保留v0及后续修订，仅供本轮对照。实际结论、限制和可交付内容最终在`PILOT_REPORT.md`汇总。手册尚未安装到全局技能目录，也未启动批量生产。
+
+## 建议阅读入口
+
+1. [试点报告](PILOT_REPORT.md)：方法判断、实际结果、失败与修订、验证范围。
+2. [skill入口](skills/step1-source-to-map/SKILL.md)：后续agent可直接读取的操作指导，含三份按需手册及辅助脚本。
+3. [A3最新样例](trials/a3/v1/reading_map.md)、[A1＋A6最新样例](trials/a1/v2/reading_map.md)：原材料如何变成条目或更新。
+4. [新章节独立试跑](trials/holdout_ch2/reading_map.md)：未给前例答案的迁移结果。
+
+本轮保留的v0／v1仅用于本次调试对照；最新教材稿为v2，课件第4章为v1。是否采用新节点及正式接入，待用户查看内容后再安排。

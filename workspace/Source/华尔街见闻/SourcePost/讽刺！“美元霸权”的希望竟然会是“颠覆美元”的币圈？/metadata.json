@@ -1,0 +1,89 @@
+{
+  "article_id": 3745289,
+  "selection": {
+    "article_id": 3745289,
+    "url": "https://wallstreetcn.com/articles/3745289",
+    "title": "讽刺！“美元霸权”的希望竟然会是“颠覆美元”的币圈？",
+    "page_display_time": "2025-04-16T08:53:10+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "鲍奕龙",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004827",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "数字资产与金融创新",
+    "reading_priority": "B",
+    "reading_value": "呈现稳定币储备需求如何影响短债和美元使用的机构推演；规模数字属于预测。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 944,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 139
+  },
+  "url": "https://wallstreetcn.com/articles/3745289",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3745289?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:50+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/3baffdd0-c093-4b37-9960-b61bff8e3999.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "渣打银行分析师称，稳定币的使用场景正在从最初的加密货币交易平台扩展到更广泛的传统金融领域。一旦GENIUS法案通过：",
+      "path": "assets/figure_001.png",
+      "sha256": "ff7acd7ef8ddcb76e004c3c72104be9cebf16bf0b1ae10d7b23f9ac8f5b448f9",
+      "bytes": 133438,
+      "width": 524,
+      "height": 397,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3baffdd0-c093-4b37-9960-b61bff8e3999.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "讽刺！“美元霸权”的希望竟然会是“颠覆美元”的币圈？",
+  "page_display_time": "2025-04-16T08:53:10+08:00",
+  "page_byline": "鲍奕龙",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "随着GENIUS法案有望今夏获批，稳定币的供应量将从当前2300亿美元暴增至2028年底的2万亿美元，这不仅将每年吸纳4000亿美元国债，更将通过币圈这一\"反建制\"阵营，反向强化美元在全球金融体系中的主导地位。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1030,
+  "body_sha256": "d8f59639857edece319658e661d894acc2f6bacb5f96163d3f0c7f926a507245",
+  "raw_sha256": "514c51cc6c10dc0b217af5b3f2bc2f45c6adfe8e259a89f4f643267a6a53c9d6",
+  "raw_bytes": 6635,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/5f9ed3ab-1ba0-4892-8a90-d8703fd61f05.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 944,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:42+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "514c51cc6c10dc0b217af5b3f2bc2f45c6adfe8e259a89f4f643267a6a53c9d6",
+      "bytes": 6635
+    },
+    "article.html": {
+      "sha256": "09ba25b418775a2746907dc760750f03eacf33566847b3e2306d691e57c6b6a7",
+      "bytes": 6622
+    },
+    "article.md": {
+      "sha256": "04f975fed80a48dab5d3eeb59e76a58e50cd7c0638c74af7cf5d5cc17847f3eb",
+      "bytes": 3553
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:33+08:00"
+}

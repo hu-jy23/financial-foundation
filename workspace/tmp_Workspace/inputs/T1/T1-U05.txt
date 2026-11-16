@@ -1,0 +1,3094 @@
+
+
+===== PDF 295 | 印刷页 259 =====
+
+                                               OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                             CHAPTER
+
+
+
+MONETARY POLICY                                                                              6
+6.1 INTRODUCTION
+In previous chapters, we have built up a macroeconomic model with the following
+structure:
+
+1. Supply-side institutions and policies pin down the equilibrium level of output and
+   unemployment in the economy.
+2. Wages and prices do not adjust flexibly so as to keep the economy at equilibrium
+   output in the presence of shocks. This implies there is a role for stabilization policy
+   and that disinflation is costly in terms of higher unemployment.
+3. When available, monetary rather than fiscal policy is the preferred stabilization
+   policy.
+4. The economy’s nominal anchor (the inflation rate in medium-run equilibrium) is
+   established by the adoption of an inflation target by a credible central bank.
+
+  In this chapter, we look in more depth at the reasoning and evidence behind the cen-
+tral role that monetary policy plays in contemporary macroeconomic management.
+  Grappling with high inflation, policy makers in the late 1970s and 1980s intro-
+duced money supply targets (‘monetary targeting’). The ‘Monetarist’ policy of the UK’s
+Thatcher government provides a striking example of the failure of monetary targeting.
+This experience contributed to the shift toward the inflation-targeting monetary
+policy regime, which combines explicit targets for inflation with the use of the interest
+rate as the policy instrument. The 3-equation model is based on this framework.
+  In Section 6.3, we extend the modelling of the inflation-targeting framework from
+Chapter 3. We firstly look at the underlying determinants of the sacrifice ratio, which
+is the unemployment cost of reducing inflation. This is followed by a subsection in
+which we combine the central bank’s MR equation with the IS equation to derive the
+interest rate setting rule of the central bank. This is the best-response interest rate
+rule and is sometimes referred to as the optimal Taylor rule.
+  The practice of central banks that operate within the inflation-targeting monetary
+policy regime is the subject of Section 6.4, which begins with the Bank of England’s
+explanation of the transmission mechanism of monetary policy. This is followed by a
+comparison of central bank mandates and interest rate rules across countries.
+  Section 6.4 goes on by focusing on monetary policy and the global financial crisis.
+Section 6.4.2 begins with the debate, which began before the crisis, about whether
+central banks should intervene to burst asset price bubbles such as the dot-com
+bubble of the late 1990s. The general approach taken by central bankers before the
+
+
+===== PDF 296 | 印刷页 260 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+260   Monetary policy
+
+
+                        crisis was to refrain from targeting asset price bubbles, to wait until they burst and
+                        then to ‘mop up’ after them by providing liquidity. We use this section to set out both
+                        sides of the debate.
+                          The remainder of Section 6.4 analyses the use of unorthodox monetary policy during
+                        the Great Recession. With interest rates at or close to the zero lower bound, central
+                        banks across the world reached for other instruments to keep inflation close to target
+                        and to prevent a deflation trap. As discussed in Chapter 5 on the operational shift from
+                        the scarce to the ample reserves regime, they engaged in large-scale asset purchases
+                        (known as quantitative easing, or QE) in an attempt to boost asset prices. As we saw
+                        previously, higher bond prices reduce their yield. The aim of QE is to reduce the
+                        cost of long-term borrowing and to boost wealth, both of which are expected to
+                        stimulate spending and close the output gap. The focus here is on the transmission
+                        mechanism of QE, the evidence of its effectiveness and how central banks exit from
+                        QE. An example from the UK in September 2022 demonstrates that unwinding QE can
+                        be difficult, as the need to support financial stability can clash with inflation-targeting
+                        goals. At the end of the section, we discuss distributional consequences of monetary
+                        policy. The final section of the chapter considers the relationship between the central
+                        bank’s balance sheet and inflation.
+
+
+                        6.2 ESTABLISHING THE ECONOMY’S NOMINAL ANCHOR
+                        6.2.1 Money supply
+                        In the early 1970s, after the end of the era of the Bretton Woods system of fixed
+                        exchange rates, the choice of nominal anchor reverted to national authorities. The
+                        German and Swiss National Banks chose to adopt targets for the growth rate of the
+                        money supply as their nominal anchor. The German Bundesbank was successful in
+                        using the language of monetary targeting to communicate to the public the orientation
+                        of monetary policy toward the long-run stability of inflation at a low rate.1 One way
+                        of expressing this is to say that by describing its behaviour in terms of monetary
+                        targeting, the Bundesbank succeeded in establishing a value close to one for the
+                        coefficient on the inflation target, 𝜒, in the Phillips curve with anchored inflation
+                        expectations introduced in Chapter 4:
+
+                                                    𝜋t = [ 𝜒𝜋 T + (1 − 𝜒)𝜋t−1 ] + 𝛼(yt − ye ).                 (6.1)
+
+                        As we saw in Chapter 4, a higher level of anchoring of expectations reduces the costs
+                        of disinflation in this model.
+                          In Chapter 4, we also explained that in a model economy where agents have rational
+                        expectations and there are fully flexible wages and prices, the announcement of a
+                        lower inflation target would lead to an immediate fall in inflation to the new target
+                        without cost. Applying those assumptions to the use of the growth rate of the money
+                        supply as the nominal anchor, the announcement of a lower target for money growth
+                        would reduce inflation at no unemployment cost.
+                          In the absence of fully flexible wages and prices, a policy of tighter money has
+                        its effects through raising the real interest rate, creating a negative output gap
+
+
+                          1
+                              See Mishkin (1999).
+
+
+===== PDF 297 | 印刷页 261 =====
+
+                                                 OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                     6.2 Establishing the economy’s nominal anchor   261
+
+and bearing down on inflation in the usual way via the Phillips curve. Under these
+conditions, for a policy of monetary targeting to be successful in its objective of
+controlling inflation, two conditions must hold: (1) the central bank must be able to
+control the chosen monetary aggregate and (2) the relationship between inflation and
+the targeted monetary aggregate must be reliable.
+  Problems can arise at both points. These problems undermined monetary targeting
+in the US, Canada and the UK. The UK provides a nice case study because both of
+the above problems were present. Although the central bank can control a narrow
+money aggregate (such as the quantity of banknotes in the hands of the public), the
+relationship between narrow money and inflation is weak, undermining the role of the
+target in shaping inflation expectations, which we can model as limiting the maximum
+value of the 𝜒 term to below 1 in equation 6.1.
+  In the UK, it was argued that whenever the monetary authority attempted to control
+a particular monetary aggregate as its target, there would be a response by the
+financial system in the form of the emergence of close substitutes or near-moneys that
+would lie outside the target and therefore serve to undermine it.2 This phenomenon
+is referred to as Goodhart’s law.
+  In relation to the second condition, shifts in the demand for money (called velocity
+instability) will alter the relationship between the targeted money supply aggregate
+and inflation, making monetary targeting an inaccurate way of controlling aggregate
+demand.
+
+The failed Thatcher experiment with money supply targeting
+Economic policy making in the United Kingdom from the end of the Second World
+War to the late 1970s focused on achieving multiple objectives. Governments used all
+the policy levers at their disposal to pursue low inflation, high employment, economic
+growth and a sustainable external balance.
+  The Conservative government that came to power under Margaret Thatcher in June
+1979 broke from this framework, choosing instead to concentrate its macroeconomic
+policy on reducing inflation. At the same time, the government introduced a range
+of supply-side policies to reduce equilibrium unemployment, which are discussed in
+Chapter 15.
+  The path of inflation and unemployment over the Thatcher years is shown in
+Figure 3.3 in Chapter 3. The year that Thatcher took office, retail price inflation stood
+at 13.4%, which was very high for the post WWII period.
+  The Conservatives attempted to achieve their desired disinflation by setting ‘inter-
+mediate financial targets’. In practice, this translated into fixed targets for the growth
+rate of the money supply and public sector borrowing in each of the next four years,
+as set out in Thatcher’s Medium-Term Financial Strategy (MTFS).3 As discussed in
+Chapter 3, the Thatcher disinflation entailed large costs in terms of higher unem-
+ployment. Table 6.1 shows that inflation in the UK fell dramatically from 18% to 4.6%
+between 1980 and 1983, but unemployment rose from 6.9% to 11.6% over the same
+period.
+
+
+  2
+    For details, see Goodhart (1989).
+  3
+    The key papers used in this subsection are: Buiter and Miller (1981 and 1983) and Goodhart
+(1986 and 1989).
+
+
+===== PDF 298 | 印刷页 262 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+262   Monetary policy
+
+
+                          The government targeted the growth of broad money, M3, which consists of cur-
+                        rency, central bank reserves, demand deposits, savings deposits and time deposits. It
+                        can be argued that the central bank cannot directly control broad money, but rather
+                        only narrow money, M0, which consists of just currency and central bank reserves.
+                        This can translate into control of M3, but only when the relationship between M0 and
+                        M3 is stable over time.
+                          What the government had not anticipated was that the early 1980s would see
+                        substantial shifts in the demand for money. This primarily came through two channels.
+                        One was the outcome of regulatory changes which removed restrictions on bank lend-
+                        ing behaviour and liberalized the scope for building societies to attract deposits. The
+                        second was related to the government’s own anti-inflation policy. The severity of the
+                        recession in the early 1980s and the sharp appreciation of sterling (see Chapter 12 for a
+                        discussion of the associated exchange rate overshooting) had squeezed the non-bank
+                        financial sector (particularly in manufacturing, see Table 6.1). This led to an increase
+                        in the demand for loans from these companies as they fought to stay in business.
+                          The Thatcher government missed its targets for M3 during the early years of the
+                        MTFS, with M3 expanding faster than intended (see Table 6.1). Changes in economic
+                        policy, financial innovation and the severe economic downturn had changed the
+                        relationship between M0 and M3, leading to the government losing control of M3 just
+                        as Goodhart’s law suggested it would.
+                          The outcome was the perverse combination of money supply growth above target
+                        (which would suggest policy was looser than intended) with an overall effect on the
+                        economy of a tighter squeeze than the one targeted by the MTFS.
+                          The Thatcher experiment was over-optimistic about the anticipated effects of the
+                        announced money growth target on inflation expectations: the unemployment cost
+                        of disinflation was much higher than anticipated. In the British case, use of a money
+                        supply target as the anchor for inflation was flawed. Both problems tarnished the
+                        image of Monetarism as a practical policy doctrine. In debates about British economic
+                        policy, the Thatcher experiment was referred to by its proponents and opponents
+                        as ‘Monetarist’. Box 6.1 explores what is meant by Monetarism and how it affected
+                        macroeconomic thinking.
+
+                                                                             1980         1981   1982   1983
+
+                               M3 growth target range (%)                     7–11        6–10   8–12   7–11
+
+                               M3 growth outturn (%)                          19.4         13    11.1   9.5
+
+                               RPI inflation (%)                               18         11.9    8.6   4.6
+
+                               Unemployment (%)                                6.9        9.8    10.9   11.6
+
+                               Manufacturing output growth (%)                –8.7        –6.2    0      2.1
+
+                             Table 6.1 Money supply targets vs. outturn and UK macroeconomic
+                             performance: 1980–83.
+                             Note: Money supply targets and outturn run from February to April--e.g. 1980
+                             refers to the period from February 1980 to April 1981.
+                             Source: Goodhart (1986); UK Ofﬁce for National Statistics.
+
+
+===== PDF 299 | 印刷页 263 =====
+
+                                              OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                 6.2 Establishing the economy’s nominal anchor   263
+
+BOX 6.1 Monetarism, inflation, and monetary policy
+The term ‘Monetarism’ is defined by The New Palgrave Dictionary of Economics as:a
+
+    Monetarism is the view that the quantity of money has a major influ-
+    ence on economic activity and the price level and that the objectives of
+    monetary policy are best achieved by targeting the rate of growth of the
+    money supply.
+
+This definition echoes Milton Friedman’s famous quote that ‘inflation is always and
+everywhere a monetary phenomenon’.b A core tenet of Monetarism (following the
+Quantity Theory of Money, see Section 6.5) is that inflation arises when there is a
+more rapid increase in the quantity of money than in output.
+   Friedman’s Monetarism proposed that monetary policy be conducted through
+targeting the growth of the money supply. This approach is very different to what
+has become the mainstream view today---i.e. central banks adjusting interest rates
+to achieve a fixed inflation target. In its heyday in policy circles in the early 1980s,
+Monetarism was also associated with policies of reducing the size of the state and
+limiting the scope for government intervention in the economy.
+   Monetarism came to be very closely associated with the policies of the Thatcher
+government in the UK, including the willingness of the government to accept a
+high sacrifice ratio in terms of unemployment to get inflation down (see Figure 3.3
+in Chapter 3 and Section 6.3.2), supply-side policies of privatization and labour
+market reforms (see Table 12.3 in Chapter 12) and the broad objective of reducing
+the size of government. Monetarism also placed stress on the potential of credibility
+and expectations to reduce the costs associated with disinflation, as reflected in
+Thatcher’s famous ‘the lady’s not for turning’ speech.c
+   Monetarist ideas have not all stood the test of time. The experience of the US,
+the UK and Canada in the 1980s clearly discredited monetary targeting. In fact, it
+was discredited to such an extent that Milton Friedman himself admitted in 2003
+that it had ‘not been a success’ and that he would no longer advocate the policy as
+strongly as he once did.d Monetarism has, however, had an enduring influence on
+the evolution of macroeconomics and economic policy. For example, in contrast to
+other major central banks the ECB still retains a target for the growth rate of money
+(see Chapter 14). More generally, Monetarism played a part in the shift in mainstream
+economic analysis toward the following ideas:
+
+1. At least in the closed economy and leaving aside the possibility of hysteresis (see
+   Chapter 4), the constant inflation rate of unemployment is pinned down by the
+   supply-side of the economy, and systematic attempts by policy makers to run
+   the economy at lower unemployment would lead to rising inflation. This was
+   one of the central ideas put forward by Milton Friedman in his influential 1968
+   presidential address on Monetarism.e
+                                                                            (continued)
+
+
+===== PDF 300 | 印刷页 264 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+264   Monetary policy
+
+
+
+                         2. When available, monetary rather than fiscal policy is the instrument of choice to
+                               stabilize the economy. This was partly a reflection of the shift at the time from
+                               fixed exchange rates under the Bretton Woods system to flexible exchange rates,
+                               where monetary policy gains effectiveness.
+                         3. It follows that if the central bank is the policy maker and there is a unique
+                               equilibrium rate of unemployment, then achieving low and stable inflation at
+                               least cost is the appropriate policy goal.
+
+                           a
+                             See Phillip Cagan’s entry on ‘Monetarism’ in The New Palgrave Dictionary of Economics,
+                         Second Edition (2008).
+                           b
+                             See Friedman (1970).
+                           c
+                             This refers to Margaret Thatcher’s speech at the Conservative Party Conference on
+                         October 10th 1980.
+                           d
+                             Excerpt taken from an interview with Milton Friedman published in the Financial Times in
+                         June 2003.
+                           e
+                             See Friedman (1968).
+
+
+
+                        6.2.2 Inﬂation target
+                        The failure of the British experiment with money supply targeting helps to explain the
+                        emergence of the inflation-targeting monetary policy framework, where the nominal
+                        anchor is the inflation target and the central bank uses a monetary rule as modelled
+                        by the MR curve in the 3-equation model to keep the economy close to target. Instead
+                        of using the intermediate target of the money supply, the modern framework uses an
+                        announced inflation target to anchor inflation expectations and chooses the desired
+                        degree of tightening by setting the interest rate directly. This sidesteps the problems
+                        of the instability of the demand for money that can undermine a money supply target.
+
+
+                        6.3 MODELLING MONETARY POLICY
+                        6.3.1 Active rule-based policy
+                        At the end of Chapter 2, we saw that a passive monetary policy that keeps the
+                        nominal interest rate fixed in the face of shocks will not stabilize the economy around
+                        the constant inflation equilibrium. This motivated the analysis in Chapter 3 of the
+                        3-equation model and the MR curve, where the central bank actively intervenes to
+                        guide the economy back to the constant inflation equilibrium. We have now filled in
+                        a piece of economic history and doctrine by looking at the attempt to respond to the
+                        problem of rising inflation in the 1970s by adopting money supply targets.
+                          Under inflation targeting, frequent adjustments are made to the interest rate as the
+                        central bank seeks to achieve its inflation objective at least cost. It is therefore quite
+                        consistent to think of the central bank as following a ‘rule-based’ approach to monetary
+                        policy yet having to be very active. Figure 6.1 shows central bank interest rates in key
+                        high-income economies between 1999 and 2022. The chart shows that during the years
+                        running up to the global financial crisis central banks regularly made adjustments
+                        to interest rates to keep inflation close to target. This active central bank behaviour
+
+
+===== PDF 301 | 印刷页 265 =====
+
+                                                                                                                                  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                                                                                                                          6.3 Modelling monetary policy              265
+
+                                                                                                      United Kingdom                              United States                           Japan                 Eurozone
+
+                                                        7
+Official central bank base rates (monthly average, %)
+
+
+
+                                                        6
+
+
+
+                                                        5
+
+
+
+                                                        4
+
+
+
+                                                        3
+
+
+
+                                                        2
+
+
+
+                                                        1
+
+
+
+                                                        0
+                                                            1999
+
+                                                                   2000
+
+                                                                          2001
+
+                                                                                 2002
+
+                                                                                        2003
+
+                                                                                               2004
+
+                                                                                                      2005
+
+                                                                                                             2006
+
+                                                                                                                    2007
+
+                                                                                                                           2008
+
+                                                                                                                                  2009
+
+                                                                                                                                         2010
+
+                                                                                                                                                2011
+
+                                                                                                                                                       2012
+
+                                                                                                                                                              2013
+
+                                                                                                                                                                     2014
+
+                                                                                                                                                                            2015
+
+                                                                                                                                                                                   2016
+
+                                                                                                                                                                                           2017
+
+                                                                                                                                                                                                  2018
+
+                                                                                                                                                                                                         2019
+
+                                                                                                                                                                                                                2020
+
+                                                                                                                                                                                                                       2021
+
+                                                                                                                                                                                                                              2022
+Figure 6.1 Official central bank interest rates, monthly averages, %: 1999–2022.
+Source: Bank of England; Board of Governors of the Federal Reserve System (US); Bank of Japan; European Central Bank (data
+accessed September 2022).
+
+
+
+
+was witnessed between 1999–2007, which corresponded to a period of unprecedented
+macroeconomic stability---the Great Moderation.
+                                              As we saw in Chapter 5, a new mode of active intervention was required once interest
+rates hit the zero lower bound: the use of quantitative easing. Irrespective of the
+monetary policy instrument (interest rate or QE), the rule-based framework remains
+intact. When economic conditions eventually began to normalize, signalled by forecast
+inflation rising above its target, the US Federal Reserve implemented a sequence of
+interest rate rises (from December 2015) shown in Figure 6.1.
+                                              The data in Table 6.2 for the UK, show that if the five years from the start of the
+financial crisis are excluded, then the volatility of inflation and growth is much lower
+in the period since inflation targeting was adopted than it was previously. This provides
+some support for the rule-based policy when success is judged by the central bank’s
+loss function.
+
+
+===== PDF 302 | 印刷页 266 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+266     Monetary policy
+
+
+                                        Average         Inflation        Four-             Four-quarter          Unemployment
+                                        annual          volatility       quarter           GDP growth            rate
+                                        CPI                              GDP growth        volatility
+                                        inflation
+
+       Pre-inflation targeting               9.0             5.4                  2.2              2.9                   7.8
+       (1972–92)
+
+       Start of inflation                    2.3             0.4                  2.9             0.7                   9.0
+       targeting to MPC
+       independence
+       (1993–97Q2)
+
+       MPC independence to                   1.6             0.5                  3.0             0.9                    5.4
+       crisis (1997Q3–2007)
+
+       2008–end 2012                         3.3             1.0               0.0                 2.7                   7.4
+
+       2013–March 2020                       1.7             1.0                  2.0             0.5                    5.2
+
+      Table 6.2 Inflation lower and less volatile since MPC independence.
+      Source: Carney (2020).
+
+
+                               6.3.2 Central bank preferences
+                               This section looks at the role of central bank preferences, investigating how different
+                               preferences affect the slope of the MR curve and what this implies for the trade-off
+                               between inflation and unemployment deviations on the path to the new equilibrium.
+                               We will also set out the two approaches to disinflation, the so-called ‘cold-turkey’ and
+                               the ‘gradualist’ approaches, which can be seen as descriptions of how inflation averse
+                               the central bank is.
+
+                               Central bank preferences and the slope of the MR
+                               To begin with, we recall the results from Chapter 3, where we derived the MR curve
+                               by minimizing the central bank’s loss function subject to the Phillips curve constraint.
+                               The key equations are:
+
+                                                    L = (yt − ye )2 + 𝛽(𝜋t − 𝜋 T )2 .                    (Central bank loss function)
+
+                                                    𝜋1 = 𝜋0 + 𝛼(y1 − ye ).                                       (Phillips curve (PC))
+                                                                              T
+                                                    (y1 − ye ) = −𝛼𝛽(𝜋1 − 𝜋 ).                           (monetary rule (MR) curve)
+
+                                 We saw in the Modelling section in Chapter 3 that the central bank’s preferences
+                               influence its chosen adjustment path for the economy after a shock. The degree of
+                               inflation aversion of the central bank is captured by 𝛽 in the central bank loss function.4
+                               If 𝛽 > 1, the central bank attaches more importance to being away from the inflation
+
+
+                                  4
+                                    The central bank’s preferences can be presented in this simple way if we assume that the
+                               central bank’s discount rate is infinite. This means that it only considers one period at a time
+                               when making its decision. In a more realistic model, the central bank would minimize its losses
+                               over the whole adjustment path as set out in Appendix 3.5.2. A simple way to capture this is to use
+                               a larger weight for 𝛽 since lower inflation this period, reduces it in the next period via the Phillips
+                               curve.
+
+
+===== PDF 303 | 印刷页 267 =====
+
+                                                    OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                      6.3 Modelling monetary policy   267
+
+         a. Inflation averse policy maker                           b. High responsiveness of inflation to
+                                                                               the output gap
+
+     π                                                          π
+                                    PC(πEt = 4)
+     4                                                          4
+                                      PC(πEt = 3)
+
+     3                                   PC(πEt = 2)            3
+                 C
+                       B
+                            A
+πT = 2                                                     πT = 2
+
+                                                  MR                                                      MR1
+                                                  β>1                                                     α>1
+                                                                       α=1
+                      α                                                                                  MR0
+                                                                              α>1                        α=1
+                              ye                     y                                   ye                     y
+
+Figure 6.2 How varying the parameters in the 3-equation model affects the MR curve:
+a. Inflation-averse policy maker (‘flattened’ ellipses): flat MR line (𝛽 > 1)
+b. High responsiveness of inflation to output (steep Phillips curves): flat MR line (𝛼 > 1).
+Note: The angle marked 𝛼 in the diagrams is in fact the angle whose tangent is 𝛼. We adopt this convention
+throughout.
+
+
+
+
+target than from equilibrium output. This results in a flatter monetary rule, as shown
+in Figure 6.2a. Given these preferences, any inflation shock that shifts the Phillips
+curve upward implies that the optimal position for the central bank will involve a more
+significant output reduction and hence a sharper cut in inflation along that Phillips
+curve than in the neutral case.
+  The second factor that determines the slope of the monetary rule is the responsive-
+ness of inflation to output (i.e. the slope of the Phillips curve). Intuitively, the higher
+the value of 𝛼, the steeper the Phillips curves, so that any given cut in output has a
+greater effect in reducing inflation. As we can see from Figure 6.2b, a higher value of
+𝛼 makes the MR curve flatter.
+  Our intuition tells us that steeper Phillips curves make things easier for the central
+bank, since a smaller rise in unemployment (fall in output) is required to achieve any
+desired fall in inflation. We can show this in a diagram. In Figure 6.3a we compare
+two economies, one with steeper Phillips curves (dashed) and one with flatter ones.
+As we have already shown, the MR line is flatter for the economy with steeper Phillips
+curves: this is MR1 . Suppose there is a rise in inflation in each economy that shifts
+the Phillips curves up: each economy is at point B. We can see that a smaller cut in
+aggregate demand is best response in the economy with the steeper Phillips curves.
+Point D is in fact much closer to the central bank’s bliss point compared to point C.
+In particular, in the economy with the flatter Phillips curve (𝛼 = 1), inflation remains
+
+
+===== PDF 304 | 印刷页 268 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+268   Monetary policy
+
+
+                 a. Steeper Phillips curves                                    b. Greater inflation aversion
+
+
+            π                                                              π
+                            Steeper PC        Flatter PC                                                     PC
+             4                       B                                     4                        B
+
+                               C                                                             C
+             3                                                             3
+                                                                                         D
+
+                               D
+       πT = 2                                                         πT = 2
+
+                                                           MR1                                                             MR1
+                                                           α>1                                                             β>1
+                                                        MR0                                                            MR0
+                                                        α=1                                                            β=1
+
+                                         ye                      y                                      ye                     y
+
+       Figure 6.3 Comparing the response of the central bank in two cases: steeper Phillips curves and a more
+       inflation-averse central bank.
+
+
+
+
+                         significantly further away from target despite a larger cut in output. This reflects our
+                         intuitive argument above.5
+                           The slope of the Phillips curve has been on the minds of central bankers for some
+                         time. The economist, Lael Brainard (a member of the US Federal Reserve Board of
+                         Governors) said in January 2021 that ‘price inflation is much less sensitive to labour
+                         market tightness than historically---that is, a flat Phillips curve.’ The scatterplot in
+                         Figure 6.4 shows the flattening of the slope of the Phillips curve in the second decade
+                         of inflation-targeting.
+                           There are two important responses to this observation. The first is that when the
+                         Phillips curve is plotted using wage growth, the flattening disappears.6
+                           The second response highlights a problem with expecting the Phillips curve to be
+                         visible in the outturns for inflation and unemployment in the presence of successful
+                         inflation targeting. The 3-equation model tells us that if we observed an inflation-
+                         targeting central bank implementing its best response output gap following inflation,
+                         or demand shocks, the correlation between inflation and the output gap would be the
+                         opposite from that shown by the Phillips curve. The Phillips curve is upward sloping but
+                         the MR curve along which the economy would move on the path back to equilibrium
+
+
+
+
+                           5
+                               For those who are curious, with 𝛽 ≥ 1, the output cut in response to a given inflation shock is
+                                                                                                                                1
+                         always less when 𝛼 > 1 as compared with 𝛼 = 1. For 𝛽 < 1, the output cut is less as long as 𝛼 > (1/𝛽) 2 .
+                            6
+                              Research by the National Bank of Canada indicates that if an indicator more representative of
+                         labour market tightness (namely, underemployment) is used as a substitute for unemployment and
+                         the growth of median wages is used rather than average wages, then the Phillips curve relationship
+                         is less flat.
+
+
+===== PDF 305 | 印刷页 269 =====
+
+                                                                                  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                                                6.3 Modelling monetary policy   269
+
+                                                                                                              Pre-crisis        Post-crisis
+US core inflation (% change from year before)   3.0
+
+
+
+                                                2.5
+
+
+
+                                                2.0
+
+
+
+                                                1.5
+
+
+
+                                                1.0
+
+
+
+                                                0.5
+
+
+
+                                                0.0
+                                                      11   10     9           8          7          6           5           4             3
+                                                                US unemployment rate (%) declining from left to right.
+
+Figure 6.4 Flattening of the Phillips curve in the United States from the second decade of
+inflation-targeting.
+Notes: The chart plots core inflation (personal consumption expenditure excluding food and energy) against
+the unemployment rate, which declines from left to right. Pre-crisis data covers the period 2000–09,
+Post-crisis data covers the period 2010–19.
+Source: FRED Economic Data (accessed November 2021).
+
+
+is downward sloping.7 In the case of a supply shock, the MR curve shifts, adding a
+further reason for the difficulty in observing the underlying Phillips curve relationship
+between inflation and the output gap.
+                                       Turning to Figure 6.3b, we compare two economies with identical Phillips curves
+but in which one has an inflation-averse central bank (the oval-shaped indifference
+ellipse), and show the central bank’s reaction to inflation at point B. The more inflation-
+averse central bank always responds to this shock by cutting aggregate demand (and
+output) more (point D).
+
+Disinﬂation strategies
+Disinflation is costly whenever a negative output gap has to be created to bring
+inflation down. This is captured by the concept of a sacrifice ratio. This ratio represents
+
+
+  7
+    For a similar argument, presented explicitly in terms of the difficulty in identifying the
+underlying structural Phillips curve in the observed data when the central bank uses a best-
+response monetary policy rule, see McLeay and Tenreyro (2019).
+
+
+===== PDF 306 | 印刷页 270 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+270   Monetary policy
+
+
+                        the percentage point rise in unemployment experienced for a one percentage point
+                        reduction in inflation during a disinflationary episode.
+                          To get an empirical feel for the costs of disinflation, Lawrence Ball examines 28
+                        episodes of disinflation in nine OECD countries and finds that with only one exception,
+                        disinflation was contractionary, with sacrifice ratios ranging from 2.9 in Germany
+                        (i.e. for a one percentage point reduction in inflation, the increase in unemployment
+                        was 2.9 percentage points for a year) to 0.8 in the United Kingdom and France.8
+                          A study by Carvalho and Gonçalves extends the empirical research on disinflation,
+                        showing that amongst the OECD countries, countries with inflation targeting central
+                        banks have suffered smaller output losses during disinflations when compared to non-
+                        targeters.9
+                          We have also seen that the immediate response of a more inflation-averse central
+                        bank to an inflation shock is to dampen output by more than would a less inflation-
+                        averse one. It is willing to see a sharper rise in unemployment to get a faster fall in
+                        inflation. And this means that unemployment can consequently return more rapidly to
+                        equilibrium. The terms ‘cold turkey’10 or ‘shock therapy’ are sometimes applied to this
+                        strategy and are contrasted with a more ‘gradualist’ approach in which unemployment
+                        rises by less, but the process of disinflation takes longer.
+                          An interesting question is whether cumulative unemployment is higher under the
+                        cold turkey or gradualist approach: in other words, if we add up the unemployment
+                        rates in every period after the inflation shock until inflation returns to target and
+                        unemployment to equilibrium, with which strategy will there have been a higher total
+                        amount of unemployment?
+                          If the Phillips curves are linear and parallel, the cumulative amount of unemployment
+                        to achieve the reduction of inflation to target is the same under both strategies. In
+                        other words, in this case, the sacrifice ratio (cumulative unemployment to achieve a
+                        given reduction in inflation) is independent of the degree of inflation aversion of the
+                        central bank. But if the Phillips curves are flatter at higher unemployment (i.e. convex),
+                        then cumulative unemployment will be higher under the cold turkey strategy. The
+                        intuition is that the strategy of a very inflation-averse central bank to reduce inflation
+                        down to the target fast will be more costly than a gradualist one if it is the case that
+                        inflation responds less to a rise in unemployment when unemployment is high.11
+                          These results depend on the persistence of adaptive inflation expectations. It could
+                        be the case that ‘shock therapy’ strategies are perceived as more credible given that
+                        inflation is reduced more quickly. If so, this could help anchor expectations and reduce
+                        the employment losses resulting from reducing inflation.
+
+
+
+                          8
+                              See Ball (1994).
+                          9
+                              See Gonçalves and Carvallo (2009). This association does not of course prove that inflation
+                        targeting caused less costly disinflation.
+                          10
+                              The analogy is to the treatment of alcohol or drug addiction: a cold turkey strategy reduces
+                        drug intake dramatically at the outset whereas a gradualist treatment reduces it slowly. The choice
+                        thus ranges between severe discomfort for a short time or less pain for a longer period of time.
+                           11
+                              Section 2.6 of Chapter 3 (p. 89) of Carlin and Soskice (2006) provides a simple geometric proof
+                        of these results.
+
+
+===== PDF 307 | 印刷页 271 =====
+
+                                                    OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                          6.3 Modelling monetary policy   271
+
+6.3.3 The MR equation and Taylor rules
+In the 3-equation model, the MR equation shows the central bank’s response to a
+shock. The IS curve is used by the central bank in a closed economy to find out what
+interest rate to set given its best response output–inflation combination in the Phillips
+diagram, i.e. once it has located the best available position on the MR line. We now show
+how to derive a best response interest rate rule, which directly expresses the interest
+rate the central bank should choose to achieve its objectives in terms of the current
+state of the economy.
+  The behaviour of central banks is often described by an interest rate rule of this
+kind. These rules have come to be known as Taylor rules, because of John Taylor’s
+original claim in his landmark 1993 paper that the historical behaviour of the US Federal
+Reserve was well described by the following rule:12
+
+                             r0 − rS = 0.5(𝜋0 − 𝜋 T ) + 0.5(y0 − ye ),                         (6.2)
+
+where 𝜋 T is the central bank’s inflation target, ye is the equilibrium level of output,
+and rS is the stabilizing interest rate. The Taylor rule states that if output is 1% above
+equilibrium and inflation is at the target, the central bank should raise the interest rate
+by 0.5 percentage points relative to stabilizing interest rate. As above we interpret the
+difference between y and ye as the percentage gap; this is the equivalent of defining
+y as the log of output. And if inflation is one percentage point above the target and
+output is at equilibrium, then the Taylor rule says that the real interest rate needs to
+be 0.5 percentage points higher.
+  We return to the question of how well a Taylor rule describes real-world central
+bank behaviour in Section 6.3. First, we show how the best response or optimal Taylor
+rule for the interest rate is derived in the 3-equation model.
+
+The best response Taylor rule in the 3-equation model
+We can reorganize the 3-equation model to derive a rule for the interest rate the
+central bank should set if it is minimizing its loss function. This is called a best response
+Taylor rule because it is derived from a model of optimizing behaviour of the central
+bank. In contrast, the original Taylor rule (equation 6.2) was an empirical relationship
+inferred from historical data.
+  To derive a simple version of the best response Taylor rule, we bring together the
+three equations of the model:13
+
+                                          𝜋1 = 𝜋0 + 𝛼(y1 − ye )                     (Phillips curve)
+
+                                     y1 − ye = −a(r0 − rS )                                     (IS)
+                                                              T
+                                    (y1 − ye ) = −𝛼𝛽(𝜋1 − 𝜋 ).                                 (MR)
+
+
+
+  12
+     See Taylor (1993). Taylor assumed that rS = 2% but we write the Taylor rule in the more general
+form, which allows rS to vary.
+  13
+     We use the three equations as derived in the appendix to Chapter 3. We use the deviations
+form of the IS curve.
+
+
+===== PDF 308 | 印刷页 272 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+272   Monetary policy
+
+
+                        From these equations, we can derive a formula for the interest rate, r0 , in terms of the
+                        period zero observation of inflation in the economy. If we substitute for 𝜋1 using the
+                        Phillips curve in the MR, we get
+                                                                                    1
+                                                    𝜋0 + 𝛼(y1 − ye ) − 𝜋 T = −        (y − ye )
+                                                                                   𝛼𝛽 1
+                                                                                         1
+                                                                      𝜋0 − 𝜋 T = − (𝛼 +    ) (y1 − ye )
+                                                                                        𝛼𝛽
+                        and if we now substitute for (y1 − ye ) using the IS, and rearrange, we get the interest-
+                        rate rule:
+                                                            1
+                                            r0 − rS =            1
+                                                                          (𝜋0 − 𝜋 T ) .                (best response Taylor rule)
+                                                        a (𝛼 +        )
+                                                                 𝛼𝛽
+
+                        We can see that
+
+                                                                 r0 − rS = 0.5 (𝜋0 − 𝜋 T ) ,                                   (6.3)
+
+                        if a = 𝛼 = 𝛽 = 1.
+                          All the parameters of the 3-equation model matter for the central bank’s response
+                        to a rise in inflation. If each parameter is equal to one, the coefficient on the inflation
+                        deviation is one half. This says that if inflation is one percentage point above the target,
+                        then the real interest rate needs to be 0.5 percentage points higher than the stabilizing
+                        rate. Since inflation is higher by one percentage point, the nominal interest rate must
+                        be raised by 1 + 0.5, i.e. by 1.5 percentage points in order to secure a rise in the real
+                        interest rate of 0.5 percentage points. This follows from the Fisher equation set out in
+                        Chapter 1:
+
+                                                                           r0 = i0 − 𝜋1E                                       (6.4)
+
+                          Recall that under adaptive expectations 𝜋1E = 𝜋0 . Hence, equation 6.3 can be
+                        rewritten as:
+
+                                                        (i0 − 𝜋0 ) − (is − 𝜋 T ) = 0.5 (𝜋0 − 𝜋 T )
+                                                                      → (i0 − is ) = 1.5 (𝜋0 − 𝜋 T )
+
+                          The requirement---if the central bank’s response is to be stabilizing---that the
+                        nominal interest rate has to be raised sufficiently to push up the real interest rate
+                        is called the Taylor principle.
+                          The central bank should respond to any deviation of inflation from target as follows:
+
+                        1. As 𝛽 increases to reflect a more inflation-averse central bank, its best response
+                              output gap goes up, and from the best response Taylor rule equation, this means the
+                              central bank will respond to an inflation shock with a larger rise in the interest rate.
+                        2. As 𝛼 increases, i.e. as the Phillips curve gets steeper, the MR gets flatter, and as
+                              shown in Figure 6.3, the central bank’s desired output gap in response to an inflation
+                              shock falls (as long as 𝛽 ≥ 1). Hence the central bank’s interest rate response to an
+                              inflation shock will be smaller.14
+
+
+                         14                                                                                            1
+                              This follows from the ‘best response Taylor rule’ equation given that: lim𝛼→∞ (𝛼 +           ) = ∞.
+                                                                                                                      𝛼𝛽
+
+
+===== PDF 309 | 印刷页 273 =====
+
+                                                  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                 6.4 Monetary policy transmission   273
+
+3. As a increases, i.e. as the IS curve gets flatter, reflecting greater interest-sensitivity
+   of aggregate demand, the central bank’s best response change in the interest rate
+   to an inflation shock is reduced.
+
+
+
+6.4 MONETARY POLICY TRANSMISSION
+In the inflation-targeting framework, the central bank adjusts the interest rate to keep
+inflation on target. For example, Figure 6.5 shows how the Bank of England sees the
+transmission mechanism of monetary policy to inflation when the economy is away
+from the zero lower bound.15
+  Domestic inflationary pressure occurs when aggregate expenditure exceeds equi-
+librium (or potential) output. In a growing economy, it is when aggregate expenditure
+grows more rapidly than potential output. The central bank aims to affect the level of
+
+
+
+
+                            Market
+                             rates
+
+
+                                                Domestic
+                                                demand
+
+
+                            Asset                                                   Domestic
+                                                                   Total
+                            prices                                                 inflationary
+                                                                  demand
+                                                                                     pressure
+
+                                                  Net
+   Official
+                                                external                                                Inflation
+    rate
+                                                demand
+
+                       Expectations/                                                  Import
+                        confidence                                                     prices
+
+
+
+
+                          Exchange
+                            rate
+
+
+
+Figure 6.5 Monetary policy transmission mechanisms.
+Source: Bank of England (accessed June 2012).
+
+
+
+
+ 15
+    This subsection is based on the ‘How Monetary Policy Works’ section of the Bank of England
+website (as of June 2012). For the ECB’s 2023 equivalent chart, see https://www.ecb.europa.eu/
+mopo/intro/transmission/html/index.en.html.
+
+
+===== PDF 310 | 印刷页 274 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+274   Monetary policy
+
+
+                        expenditure in the economy (i.e. aggregate demand) by setting interest rates. There
+                        are four main channels through which interest rates can affect expenditure:
+                        Market rates: Official rates directly influence market and lending interest rates (as
+                        discussed in Chapter 5), which affects the funding cost of banks and therefore the
+                        lending rate. Lower interest rates will stimulate aggregate demand (i.e. consumption
+                        and investment) as banks lower their lending rates, thereby making borrowing more
+                        desirable and savings less desirable. The opposite is true of a rate rise.
+                        Asset prices: Market interest rates can affect asset prices, such as equities and house
+                        prices. For example, lower interest rates encourage borrowing that can be spent on
+                        assets, pushing up their prices. Higher household wealth viewed as permanent pushes
+                        up consumption via the permanent income hypothesis (see Chapter 1). In some coun-
+                        tries, higher house prices will also allow households to undertake additional borrowing
+                        by refinancing their mortgage (home equity loans, as explained in Chapter 8). This
+                        practice was widespread in the US in the mid-2000s as discussed in Chapter 9.
+                        Expectations/confidence: Interest rate changes provide information about the central
+                        bank’s future policy stance, which can affect current behaviour. For example, a rate
+                        reduction could signal a commitment to an accommodative policy stance and help to
+                        bring expenditure plans forward.
+                        Exchange rate: As we shall see in Chapter 11, in a globally integrated financial market,
+                        interest rates directly affect exchange rates. Exchange rates affect both net external
+                        demand and import prices. The former affect aggregate demand, while the latter
+                        directly feed into the calculation of consumer price inflation as discussed in Chapter 12.
+                          The labour market plays a key role in this process. Changes in aggregate demand
+                        affect employment, wage costs and workers’ expectations of inflation. This feeds
+                        through to producer prices and eventually to consumer price inflation.
+                          The magnitude and timing of the four channels can vary considerably. The Bank of
+                        England estimates lags in the transmission of monetary policy, such that:16
+
+                        • the impact of interest rates on output is estimated to take up to (a maximum of)
+                              one year; and
+                        • the impact of interest rates on inflation is estimated to take up to (a maximum of)
+                              two years.
+
+                        6.4.1 Taylor rules in practice
+                        Central bank mandates: Cross-country differences
+                        In high-income countries, not all inflation-targeting central banks have the same
+                        mandate. What the mandates have in common is that they tend to concentrate on the
+                        objectives of price stability (low and stable inflation) and supporting full employment
+                        and economic growth. Where the central banks differ is on the weight they place on
+                        each of these objectives.
+
+
+                         16
+                           This excerpt is taken from the ‘How Monetary Policy Works’ section of the Bank of England
+                        website (as of June 2012).
+
+
+===== PDF 311 | 印刷页 275 =====
+
+                                                  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                   6.4 Monetary policy transmission   275
+
+  The primary focus of the Bank of Japan until its change of course in early 2013 was
+on keeping inflation on target:17
+
+      The Bank of Japan Act states that the Bank’s monetary policy should be ‘aimed
+      at achieving price stability, thereby contributing to the sound development
+      of the national economy’.
+
+  The fact that price stability will help create a favourable environment for economic
+growth and employment was taken as a given by the Bank of Japan.
+  At the other end of the scale are a number of central banks that have objectives to
+achieve both price stability and full employment, such as the Sveriges Riksbank (the
+Swedish central bank), the Reserve Bank of Australia and the Federal Reserve (the US
+central bank). The Federal Reserve is said to have a dual mandate for monetary policy,
+as set out by the Board of Governors of the Federal Reserve System:18
+
+      The Congress established the statutory objectives for monetary policy--
+      maximum employment, stable prices and moderate long-term interest
+      rates--in the Federal Reserve Act.
+
+  The dual mandate refers to the Federal Reserve’s goals of achieving stable prices
+and maximum employment. The Federal Reserve under Alan Greenspan (1987–2006)
+did not have an official inflation target. This set it apart from other central banks,
+which saw having an explicit target as the cornerstone of a credible inflation-targeting
+monetary regime. A target of 2% (in line with other developed economies) was,
+however, introduced by Ben Bernanke in January 2012 in order to help keep long-term
+inflation expectations firmly anchored.19
+  In August 2020, Fed Chair Jerome Powell announced a shift from the explicit
+commitment to an inflation rate of 2% to a longer-term target of 2% to be achieved
+on average over time. This decision partly reflected growing awareness of structural
+transformations of the economy as well as the challenges posed by the proximity of
+interest rates to the zero lower bound.20
+  It is important to clarify that central banks that have a dual mandate are not targeting
+both output and inflation. They operate under the assumption that there is a unique
+equilibrium rate of unemployment, such that in the medium run, targeting a level
+of unemployment lower than the equilibrium will only lead to higher inflation (and
+no output gain). For instance, the Federal Reserve defines its maximum employment
+mandate as ’the highest level of employment or lowest level of unemployment that the
+
+
+ 17
+     Excerpt taken from the ‘Monetary Policy Outline’ on the Bank of Japan’s website (accessed
+May 2012).
+  18
+     Excerpt taken from the Federal Reserve website’s Current FAQs section: What are the Federal
+Reserve’s objectives in conducting monetary policy? (accessed May 2012).
+  19
+     See Federal Open Market Committee (FOMC) statement of Longer-run goals and policy
+strategy, January 25th, 2012.
+ 20
+     See Martínez-García et al. (2021) for a more comprehensive review of the Federal Reserve’s
+strategy to achieve price stability.
+
+
+===== PDF 312 | 印刷页 276 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+276   Monetary policy
+
+
+                        economy can sustain while maintaining a stable inflation rate’.21 It can be said however,
+                        that central banks that put more focus on output (a smaller 𝛽 in the loss function)
+                        experience bigger welfare losses when output deviates from target than those that
+                        focus more on inflation. This means they are less willing to accept large reductions
+                        in output to bring inflation back to target quickly after an economic shock---i.e. they
+                        would prefer a ‘gradualist’ to a ‘cold turkey’ approach to disinflation (see Section 6.3.2).
+                          Lastly, some central banks fall somewhere in the middle, such as the ECB and the
+                        Bank of England. These two central banks have a primary objective of price stability,
+                        and a secondary objective of full employment. This is highlighted in the monetary
+                        policy framework of the Bank of England:22
+
+                             The Bank’s monetary policy objective is to deliver price stability--low
+                             inflation--and, subject to that, to support the Government’s economic
+                             objectives including those for growth and employment. Price stability is
+                             defined by the Government’s inflation target of 2%.
+
+                        Taylor rules: Cross-country differences
+                        We have seen that central banks have different stated objectives, but how is this
+                        reflected in their actual behaviour? For example, does the ECB care less about
+                        deviations in the output gap than the Federal Reserve, as would be implied by their
+                        mandates? In this subsection, we present evidence on empirical Taylor rules for the
+                        Federal Reserve, the ECB and the Bank of England during the inflation-targeting period
+                        to try and answer these questions.
+                          A paper by Castro (2011) uses econometric techniques to estimate Taylor rules for
+                        the periods through to the onset of the global financial crisis:
+
+                        • Bank of England: 1992–2007: The starting point is when the Bank of England began
+                          inflation targeting.
+                        • ECB: 1999–2007: This covers the period since the formation of the ECB (i.e. when
+                          they assumed responsibility for Eurozone monetary policy).
+                        • Federal Reserve: 1982–2007: This starts when the so-called Volcker disinflation
+                          began.
+
+                          The basic form of the Taylor rule uses contemporaneous output and inflation gaps
+                        to determine the nominal interest rate the central bank should set in this period:
+
+                                        rt = rS + 0.5(𝜋t − 𝜋 T ) + 0.5(yt − ye ).                (TR for the real interest rate)
+
+                        This is the rule from Taylor’s landmark 1993 paper in real terms.23 The coefficients were
+                        chosen as they fitted US historic data well. In more general models, the coefficients
+
+
+                          21
+                             https://www.federalreserve.gov/faqs/what-economic-goals-does-federal-reserve-seek-
+                        to-achieve-through-monetary-policy.htm (accessed January 2023).
+                          22
+                             Excerpt taken from the ‘Monetary Policy Framework’ on the Bank of England’s website.
+                          23
+                             Unlike the optimal Taylor rule derived above, the empirical Taylor rule has a term for the
+                        output gap as well as for inflation. As shown in Carlin and Soskice (2006) pp. 153–7, if in the Phillips
+                        curve, inflation responds to the output gap with a lag, the optimal Taylor rule will also have a term
+                        for the output gap.
+
+
+===== PDF 313 | 印刷页 277 =====
+
+                                                             OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                           6.4 Monetary policy transmission   277
+
+on the output and inflation gaps will vary depending on the preferences of the central
+bank, and the rule is often expressed in terms of the nominal interest rate (as this is
+the interest rate central banks actually control). A general Taylor rule in nominal terms
+would be:
+
+                  it = i + 𝛾1 (𝜋t − 𝜋 T ) + 𝛾2 (yt − ye ),            (TR for the nominal interest rate)
+
+
+where i represents the nominal interest rate that prevails when output is at equilibrium
+and inflation is at target (it is the nominal counterpart to the stabilizing real rate of
+interest, rS ). The coefficients 𝛾1 and 𝛾2 will vary depending on the relative weight the
+central bank assigns to stabilizing deviations of inflation and output from target.
+  In order for monetary policy to be stabilizing, the Taylor principle states that the
+coefficient on the inflation gap, 𝛾1 , has to exceed one, such that an increase in inflation
+(above target) leads to an increase in the real interest rate. Monetary policy is said
+to be destabilizing if a rise in inflation above target leads to a reduction in the real
+interest rate.24
+  Table 6.3 shows the coefficients on the output and inflation gap for forward-looking
+Taylor rules for the Bank of England, the ECB and the Federal Reserve:25
+  The coefficients show that all three central banks react to deviations in both inflation
+and output. In line with the central bank mandates, the ECB and the Bank of England
+react more strongly to inflation gaps than output gaps, whereas the US has a more
+balanced response (as per the dual mandate). However, perhaps unexpectedly, the
+results suggest that it is the ECB (in the short period of observation) and not the Federal
+Reserve that reacts most strongly to movements in the output gap.26
+
+
+
+  Central bank (time period)               Inflation gap coefficient      Output gap coefficient
+
+  Bank of England (1992–2007)                         1.87 (4.89)                  0.91 (2.8)
+
+  ECB (1999–2007)                                     2.77 (2.85)                  1.99 (5.84)
+
+  Federal Reserve (1982–2007)                         1.53 (5.18)                  1.40 (2.77)
+
+Table 6.3 Estimated coefficients for linear Taylor rules prior to the global financial crisis.
+Note: T-statistics using robust standard errors are shown in brackets, all coefficients are
+significant at the 1% level.
+Source: Castro (2011).
+
+
+
+ 24
+     Equivalently, in a general Taylor rule in real terms, the Taylor principle dictates that the
+coefficient on inflation has to be greater than zero, such that an increase in inflation (above target)
+leads to an increase in the real interest rate.
+  25
+     Castro (2011) bases his modelling on forward-looking Taylor rules that take into account
+expected output and inflation gaps for 6 to 12 months into the future. This matches how modern
+central banks operate.
+  26
+     Not all macroeconomic models produce a best response Taylor rule in which the coefficients
+𝛾1 and 𝛾2 vary depending on the central bank’s preferences (as captured by 𝛽, their level of
+inflation aversion). However, in line with much of the applied and policy literature, we assume
+this interpretation in our discussion of the estimates from Table 6.3. For further discussion, see
+Carlin and Soskice (2006): pp. 153–7.
+
+
+===== PDF 314 | 印刷页 278 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+278   Monetary policy
+
+
+                        6.4.2 Asset price bubbles and central bank intervention
+                        An asset price bubble occurs when financial market valuations become unrealistic---i.e.
+                        when the market price of an asset far exceeds its fundamental value. It is a source of
+                        much contention in macroeconomic and policy circles as to whether central banks
+                        should intervene to burst asset prices bubbles, such as the dot-com boom in the
+                        late 1990s or the sub-prime mortgage boom in the mid-2000s.27 In both those cases,
+                        central bankers made little attempt to prick the bubbles and instead chose to ‘mop up’
+                        after they burst. As we shall see in Chapter 9, the mopping up after the mortgage-based
+                        boom turned into crisis-management on an unprecedented scale.
+                          Asset price bubbles distort resource allocation, affect the central bank’s target
+                        variables (e.g. inflation and output) both now and in the future and can cause financial
+                        instability.
+                          However, for the central bank to effectively and wisely intervene to burst asset price
+                        bubbles, it must:
+
+                        1. be able to identify bubbles before a financial crash occurs,
+                        2. refrain from identifying bubbles that do not exist; and
+                        3. burst bubbles without causing excessive damage to the wider economy.
+
+                          The former Federal Reserve Chairman Alan Greenspan believed that central banks
+                        were unable to fulfil these criteria, so he strongly advocated ex post rather than ex ante
+                        intervention. This position is known as the ‘Greenspan doctrine’. Bubbles are inherently
+                        hard to identify ex ante. There is a significant risk that a central bank could intervene
+                        to burst a bubble that turned out not to be one. For example, Greenspan thought a
+                        bubble was forming in the US stock market as early as 1995–96. In reality, the bubble
+                        didn’t emerge until 1998–99. If rates had been raised in 1995–96 this could have wiped
+                        out the significant economic gains that accrued to the US economy between 1995–96
+                        and the onset of the dot-com boom.
+                          Let’s assume for a moment that the central bank could correctly identify bubbles.
+                        How would they then go about bursting them? The main tool they have at their disposal
+                        is the interest rate. This is a very blunt instrument, and would be unable to deflate a
+                        bubble without also harming the rest of the economy (by dampening consumption and
+                        investment in sectors not affected by the inflated asset prices). It is also not clear that
+                        a moderate rise in interest rates would be sufficient to burst a bubble. For example,
+                        investors were expecting returns of up to 100% per annum during the height of the
+                        dot-com boom. It seems fanciful that a small rise in interest rates would have had a
+                        major effect on the decisions made by these investors.
+                          The debate on central bank intervention to stop bubbles forming returned to the
+                        agenda of policy makers following the global financial crisis. Chapter 9 provides a
+                        detailed discussion of the causes and consequences of the global financial crisis.
+                          The most consistent voice among central bankers to argue for leaning against the
+                        asset price bubble forming in the 2000s was the Bank for International Settlements in
+
+
+
+                         27
+                              This section is based on the discussion and analysis in Blinder and Reis (2005).
+
+
+===== PDF 315 | 印刷页 279 =====
+
+                                                      OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                    6.4 Monetary policy transmission   279
+
+Basel.28 Unlike national central banks, the BIS’s mandate is to establish international
+standards to promote financial stability through policies to regulate banks.29
+  The near meltdown of the global banking system that caused the global financial
+crisis was precipitated by the high level of interconnectedness of major banks, meaning
+that a problem in one bank--if it was systemically important--could potentially com-
+promise the integrity of the entire system.
+  Central banks admitted that their pre-recession regulatory frameworks overlooked
+systemic risk in the banking system. For an explanation and evaluation of reforms in
+financial regulation, see Section 10.2.
+
+6.4.3 Policy transmission at the zero lower bound
+Taylor rules and the Great Recession
+As background to looking at monetary policy transmission at the zero lower bound, we
+show the nominal interest rate that is implied if a simple Taylor rule is applied to the
+output gaps and inflation deviations for the US, Japan, UK and the Eurozone.30 As we
+shall see, the Taylor rule can call for negative nominal interest rates. The zero lower
+bound means that the central bank cannot always choose the interest rate that would
+produce the desired output gap (as determined by the MR curve) to stabilize the econ-
+omy. In extreme cases, this can lead to a deflation trap, in which the economy becomes
+stuck in a downward spiral of deflation and falling output. This highlights the motiva-
+tion of central banks to adopt other instruments to stimulate aggregate demand.
+  The Taylor rule for the nominal interest rate introduced in the equation labelled ‘TR
+for the nominal interest rate’ is:
+
+                                it = i + 𝛾1 (𝜋t − 𝜋 T ) + 𝛾2 (yt − ye ),
+
+where the following assumptions are made for setting the parameter values:
+
+1. i, to the average policy rate between 1999 and 2018,
+2. 𝜋t , to core consumer price inflation (i.e. excluding energy and food prices) in
+      period t,31
+3. 𝜋 T , to the core consumer price inflation target for each central bank--assumed to
+      be 2% for the Fed, the BoE and the ECB. For the BoJ, a target of 1% is assumed until
+      2013 Q1, while this rises to 2% from 2013 Q2 onwards (see break line for Japan in
+      Figure 6.6),
+
+
+ 28
+     See for example, Borio and White (2004).
+ 29
+     See Section 5.3.4 in Chapter 5 for a more detailed discussion on the role played by equity
+buffers in reducing risks to banks’ solvency.
+ 30
+     Using the same method as Sheets and Sockin (2012).
+  31
+     Core inflation was used instead of headline inflation, because using headline inflation pro-
+duced large variations in the implied policy rate due to the big swings in commodity prices over
+this period. We did not see these large movements in the policy rate in reality, suggesting that
+central banks were more focused on core inflation when making their monetary policy decisions.
+The Eurozone measure is for the Harmonized Index of Consumer Prices (HICP). All the others are
+for the Consumer Price Index (CPI). The Eurozone and UK indices of core inflation also exclude
+alcohol and tobacco on top of energy and food.
+
+
+===== PDF 316 | 印刷页 280 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+280    Monetary policy
+
+
+                                                          4. (yt − ye ), to the output gap (i.e. the difference between actual and potential GDP) in
+                                                                  period t as a percentage of potential GDP,
+                                                          5. 𝛾1 , to 1.5 and
+                                                          6. 𝛾2 , equal to either 0.5 or 1, to show the effect on implied policy rates of two different
+                                                                  levels of unemployment aversion.32
+
+                                                             The results of the analysis are shown in Figure 6.6. The solid black lines show the
+                                                          central bank interest rates in the four countries between 1999 and 2022, the red lines
+                                                          show the interest rates implied by the Taylor rule when the coefficient on the output
+                                                          gap is set to 1 (dashed line) and 0.5 (dotted line). The important points to take away
+                                                          from the charts are explained in the following paragraphs.
+
+
+                                       United States                                                                                                         Japan
+                                10                                                                                                                 2
+                                                                                                                                                   1
+                                                                                                                            Actual and implied Basic
+                                 8
+      Federal Funds Rate (%)
+       Effective and implied
+
+
+
+
+                                 6                                                                                                                 0
+                                                                                                                               Discount Rate (%)
+                                                                                                                                                  –1
+                                 4
+                                                                                                                                                  –2
+                                 2                                                                                                                –3
+                                 0                                                                                                                –4
+                                –2                                                                                                                –5
+                                –4                                                                                                                –6
+                                –6                                                                                                                –7
+                                                                                                                                                  –8
+                                –8
+                                                                                                                                                  –9
+                               –10                                                                                                               –10
+                               –12                                                                                                               –11
+                                     1999
+
+                                            2001
+
+                                                   2003
+
+                                                           2005
+
+                                                                   2007
+
+                                                                          2009
+
+                                                                                 2011
+
+                                                                                        2013
+
+                                                                                               2015
+
+                                                                                                      2017
+
+                                                                                                              2019
+
+                                                                                                                     2021
+
+
+
+
+                                                                                                                                                            1999
+
+                                                                                                                                                                   2001
+
+                                                                                                                                                                          2003
+
+                                                                                                                                                                                 2005
+
+                                                                                                                                                                                        2007
+
+                                                                                                                                                                                                2009
+
+                                                                                                                                                                                                       2011
+
+                                                                                                                                                                                                              2013
+
+                                                                                                                                                                                                                     2015
+
+                                                                                                                                                                                                                            2017
+
+                                                                                                                                                                                                                                   2019
+
+                                                                                                                                                                                                                                          2021
+                                       United Kingdom                                                                                                        Euro Area
+                                10                                                                                                                      6
+       Official Bank Rate (%)
+
+
+
+
+                                                                                                                            ECB interest rate (%)
+        Actual and implied
+
+
+
+
+                                                                                                                             Actual and implied
+
+
+
+
+                                                                                                                                                        4
+                                 5
+                                                                                                                                                        2
+
+                                0                                                                                                                      0
+                                                                                                                                                       –2
+                                –5                                                                                                                     –4
+                                                                                                                                                       –6
+                               –10
+                                                                                                                                                       –8
+                               –15                                                                                                               –10
+                                     1999
+
+                                            2001
+
+                                                   2003
+
+                                                           2005
+
+                                                                   2007
+
+                                                                          2009
+
+                                                                                 2011
+
+                                                                                        2013
+
+                                                                                               2015
+
+                                                                                                      2017
+
+                                                                                                              2019
+
+                                                                                                                     2021
+
+
+
+
+                                                                                                                                                            1999
+
+                                                                                                                                                                   2001
+
+                                                                                                                                                                          2003
+
+                                                                                                                                                                                 2005
+
+                                                                                                                                                                                        2007
+
+                                                                                                                                                                                                2009
+
+                                                                                                                                                                                                       2011
+
+                                                                                                                                                                                                              2013
+
+                                                                                                                                                                                                                     2015
+
+                                                                                                                                                                                                                            2017
+
+                                                                                                                                                                                                                                   2019
+
+                                                                                                                                                                                                                                          2021
+
+
+
+
+                                                   Effective policy rate                                     Implied interest rate from                                                        Implied interest rate from
+                                                                                                             Taylor rule (γ2 = 1)                                                              Taylor rule (γ2 = 0.5)
+
+      Figure 6.6 Nominal interest rates implied by Taylor rules vs. observed central bank policy rates:
+      1999 Q1–2022 Q2.
+      Source: National statistical ofﬁces, national central banks, OECD, Eurostat (data accessed October 2022); Oxford Economics (October
+      2022). Note that the vertical line for 2013 Q1 for Japan indicates a break in the series.
+
+
+
+                                                           32
+                                                                  These rules follow Taylor (1993) and Taylor (1999).
+
+
+===== PDF 317 | 印刷页 281 =====
+
+                                                OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                6.4 Monetary policy transmission   281
+
+  In Japan, the black line indicates that the policy interest rate has been virtually at the
+lower bound throughout. There are large negative gaps to the two series that indicate
+the interest rate proposed by the Taylor rule. This means that conventional monetary
+policy has been an ineffective tool for stabilizing the Japanese economy in response to
+economic shocks for more than two decades.
+  In the Eurozone and the US, the zero lower bound on interest rates was hit during
+the global financial crisis and again in the pandemic. The Taylor rule predicts negative
+nominal interest rates for these periods. This is important for discussions of the
+optimal level of the inflation target in Chapter 3 and the deflation trap in Chapters 3
+and 9. However, in 2021–22, the policy interest rates in both the US and the Eurozone
+lagged behind the rate proposed by the Taylor Rule. According to the Taylor Rule, these
+two central banks raised interest rates too little and too late.
+  The UK experienced CPI inflation above target during the recovery phase of the
+global financial crisis, which leads the Taylor rule to predict interest rates higher than
+those that prevailed. However, the above target CPI inflation was mainly the result
+of two factors: (1) increases in Value Added Tax (VAT), and (2) the depreciation of
+the sterling exchange rate (markedly following the Brexit vote in 2016). In both these
+cases, the Bank of England took the view that these were one-off sources of inflation
+and given the weakness of the economy over this period, would not translate into
+persistent inflation via wage increases. Indeed, wage growth was modest throughout.
+As elsewhere, the ZLB was hit once more during the pandemic. And along with the
+Fed and the ECB, the Bank of England’s response to rising inflation from 2021 was not
+matched by tighter monetary policy in accordance with the Taylor rule.
+  Figure 6.6 shows that in many high-income economies, monetary policy hit the zero
+lower bound during the Great Recession, rendering conventional monetary policy an
+ineffective tool for macroeconomic stabilization.
+
+
+6.4.4 Quantitative easing
+As discussed in Chapter 5, at the zero lower bound, the central bank can still stimulate
+aggregate demand if it is able to convince borrowers that the cost of borrowing is
+going to remain low in the future. The key transmission mechanism is through the
+effect of asset purchases by the central bank in lowering long-term interest rates,
+illustrated by the flattening of the yield curve (Figure 5.4). The central bank uses its
+ability to create central bank money to buy financial assets. In the UK, these assets
+were mainly government bonds (bought from non-financial companies in secondary
+markets), whereas in the US, the Fed bought a mixture of mortgage-backed securities
+from financial institutions, but also some government bonds.
+  The objective of unconventional policies is to help central banks to stabilize demand
+and avoid undershooting their inflation targets when conventional policies are con-
+strained by the zero lower bound. This point is captured by the Federal Reserve’s
+announcement of larger asset purchases in response to the Covid-19 pandemic in
+December 2020:33
+
+
+
+ 33
+      Excerpt from the FOMC statement on December 16th 2020.
+
+
+===== PDF 318 | 印刷页 282 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+282       Monetary policy
+
+
+                                         The Federal Reserve will continue to increase its holdings of Treasury secu-
+                                         rities by at least $80 billion per month and of agency mortgage-backed
+                                         securities by at least $40 billion per month until substantial further progress
+                                         has been made toward the Committee’s maximum employment and price
+                                         stability goals.
+
+
+
+                                     Quantitative easing: Transmission mechanisms
+                                     Conventional monetary policy has a clear transmission mechanism (see Figure 6.5). In
+                                     a simplified form, the central bank sets the interest rate, which then influences the
+                                     level of aggregate demand (and hence the output gap and inflation) through its effects
+                                     on interest-sensitive spending in the economy and on the exchange rate in the open
+                                     economy. Unconventional monetary policy does not have such a clear transmission
+                                     mechanism. In theory, it could potentially affect the economy through a number of
+                                     channels.
+                                       Figure 6.7 is taken from the Bank of England Quarterly Bulletin (2011 Q3) and shows
+                                     the ways in which the Bank believes that their asset purchases can affect the real
+
+
+
+
+                                     Confidence
+
+
+
+
+                                        Policy
+                                      signalling                             Total
+                                                                             wealth
+
+
+        Bank of                                               Asset
+                                                              prices                           Spending
+        England                       Portfolio                                                                 Inflation at
+                                                             and the                              and
+         asset                       rebalancing                                                                     2%
+                                                            exchange                            income
+       purchases
+                                                               rate
+
+                                                                            Cost of
+                                       Market                              borrowing
+                                      liquidity
+
+
+
+
+                                                              Bank
+                                       Money                lending
+
+
+
+      Figure 6.7 Quantitative easing transmission channels.
+      Source: Joyce et al. (2011).
+
+
+===== PDF 319 | 印刷页 283 =====
+
+                                                 OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                 6.4 Monetary policy transmission   283
+
+economy.34 The majority of the channels work through raising asset prices. This will
+lead to a reduction in the cost of borrowing (as bond prices are inversely related to the
+interest rate), which could potentially raise consumption and investment.
+  We have seen that QE was introduced as a result of interest rates being limited by the
+zero lower bound. How then can QE reduce interest rates when we are already at the
+ZLB? Firstly, QE is not aimed at affecting short-term policy rates, which are set by
+the central bank, but long-term interest rates, which are set in financial markets as
+discussed in Section 5.2.2. As explained in Chapter 5 (see Section 5.2.2), QE is aimed at
+altering the term structure of interest rates and flattening the yield curve.
+  Secondly, in times of financial distress, interest rates on assets previously viewed as
+very safe (e.g. interbank loans) can diverge from the policy rate, increasing the cost of
+borrowing. QE can help reduce the interest rate wedge by boosting market confidence
+and increasing market liquidity (see below).
+  In Figure 6.7, there are five transmission channels, which can be summarized as
+follows:
+
+• Confidence: Improved confidence over the economic outlook raises perceptions of
+  permanent income, which in turn could have a direct effect on increasing spending.
+• Policy signalling: The introduction of QE signals the central bank’s commitment
+  to meeting the inflation target and might help to anchor inflation expectations at
+  target. If inflation expectations were allowed to fall below the target, this would raise
+  the real interest rate (via the Fisher equation: r = i − 𝜋 e ) and depress activity. Central
+  banks are also very scared of falling into the deflation trap and unconventional
+  policies send a strong signal that the central bank is willing to do whatever is
+  necessary in terms of supporting asset prices to avoid this situation. The deflation
+  trap is modelled using the 3-equation model in Chapters 3 and 9.
+• Portfolio rebalancing: The purchases of government bonds by the central bank will
+  directly push up the price of government bonds, but it will also indirectly increase
+  the price of other assets. Firms that sell their bonds to the central bank will be left
+  with money. To the extent that money and assets are not perfect substitutes, sellers
+  will rebalance their portfolios, buying other financial assets and pushing up their
+  prices. This will reduce the interest rates on financial assets, lowering borrowing
+  costs for households and firms and stimulating demand. In a situation in which banks
+  are re-building their balance sheets, this channel seeks to facilitate borrowing by
+  firms through the issue of bonds.
+• Market liquidity: QE can actively encourage trading in times of financial market
+  distress, which increases liquidity in temporarily dysfunctional markets. This can
+  influence asset prices by reducing the premia associated with illiquidity (see Section
+  9.5.2 for an example). This channel is likely to be most prominent when the actual
+  asset purchases are taking place.
+
+
+
+
+ 34
+      See Joyce et al. (2011).
+
+
+===== PDF 320 | 印刷页 284 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+284   Monetary policy
+
+
+                        • Money: The sellers of government bonds to the central bank will be left with higher
+                          deposits while their banks will be left with higher reserves. A higher level of liquid
+                          assets could induce the financial institutions to lend more, stimulating activity, and
+                          also raising asset prices. This route is less likely to take place during financial crises
+                          when financial institutions are under pressure to reduce the size of their balance
+                          sheets.
+
+                          The Covid-19 crisis has highlighted the distinction between ‘Wall Street QE’ and
+                        ‘Main Street QE’ in the transmission mechanism from QE to aggregate demand. QE
+                        implemented following the financial crisis was ‘Wall Street QE’ (Sims and Wu 2020). It
+                        was directed at easing the constraints on bank lending by improving bank liquidity and
+                        by increasing the value of the long-dated bonds in their asset portfolios, which would
+                        reduce their leverage constraint. The objective was to help banks rebuild their balance
+                        sheets, as a pre-cursor to their ability to resume lending to the non-financial sector.
+                        More generally, as we saw in Section 5.7.1, the supply of loans by banks is positively cor-
+                        related with the bank’s equity so the increase in the value of bonds and other assets on
+                        their balance sheet arising from the QE purchases will make banks more willing to lend
+                        (Kuttner 2018).
+                          During the pandemic, governments mandated the closure of entire sectors of the
+                        economy, which meant that businesses’ cash flow dried up. In these conditions, what
+                        holds back spending by non-financial firms is not the willingness of banks to lend
+                        to them as was the case after the financial crisis, but rather, their weak cash flow.
+                        This calls for a different form of QE: with ‘Main St QE’, the central bank lends directly
+                        to firms facing a cash flow constraint, who rely on debt finance for investment.
+                        Equivalently, in the US, the central bank purchases bonds issued by non-financial
+                        firms. The use of ‘Wall St QE’ under these circumstances is ineffective because making
+                        the banks’ balance sheets healthier will not make them more willing to lend to cash-
+                        flow constrained firms.
+                          The explanation of QE here is in terms of a closed economy. In an open economy an
+                        important effect is via a depreciation of the exchange rate as explained in Chapter 11.
+
+                        Quantitative easing: Does it work?
+                        The key difficulty in measuring the impact of quantitative easing on the economy is
+                        the lack of a counterfactual---i.e. we do not know what would have happened in the
+                        absence of the policy. There are, however, some impacts that are easier to measure
+                        than others such as the effect of QE on government bond yields. The empirical
+                        evidence for the UK and the US suggests that QE brought down long-term government
+                        bond yields by up to 100 basis points (i.e. 1 percentage point). In addition, the use of
+                        the policy in the financial crisis had wide-ranging effects on the markets for housing
+                        agency debt and mortgage-backed securities in the US.35
+                          It is more difficult to predict the effect of QE on output and inflation, as there were so
+                        many other factors affecting these variables during the Great Recession. Kapetanios
+
+
+
+                         35
+                              See Joyce et al. (2011) and Gagnon et al. (2011).
+
+
+===== PDF 321 | 印刷页 285 =====
+
+                                                 OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                  6.4 Monetary policy transmission   285
+
+et al. (2012) attempt to isolate the impact of QE by using advanced modelling tech-
+niques to construct counterfactuals for output and inflation in the UK. They find that
+QE may have had a peak effect on the level of real GDP of around 1.5% and a peak effect
+on annual consumer price inflation of about 1.25 percentage points. Hohberger et al.
+(2017) use a New-Keynesian open economy model to evaluate the impact of QE on real
+GDP growth and CPI inflation in the Eurozone over the period 2015Q1–2016Q2. Their
+model predicts that when the zero-bound constraint is binding, the peak effects on
+GDP growth and inflation are up to 1 and 0.7 percentage points respectively.
+  We can see from Figure 6.6 that the best response nominal interest rate was
+negative in a number of developed economies during the global financial crisis (i.e.
+conventional monetary policy was constrained by the ZLB). QE was used as a substitute
+for conventional monetary policy during the crisis. The impact of QE can also be
+quantified by looking at what the equivalent effect would be on the central bank policy
+rate. In the UK, Joyce et al. (2011) summarize several previous studies and find that QE
+was equivalent to a 150–300 basis points cut in the policy rate. Similarly in the US,
+Chung et al. (2012) find that the Fed’s QE during the crisis was equivalent to a 200
+basis points reduction in the federal funds rate. These studies suggest that QE made
+some contribution to bridging the gap between the ZLB and the central banks’ best
+response interest rate during the crisis.
+  However, it is important to note that longer-term yields, which are targeted by QE
+strategies, also have a lower bound. This is a consequence of arbitrage opportunities
+arising whenever the yield on long-term bonds becomes too low. Investors can borrow
+at long-term rates and use the proceeds to re-invest at short-term rates (they bear no
+risk of loss since short-term rates are at the ZLB).36 To illustrate the point by means of
+Figure 5.4, this effect can be thought of in terms of a lower bound on the flattening of
+the yield curve that is achievable from quantitative easing.
+
+
+An alternative policy: Yield curve control
+Dell’Ariccia et al. (2018) point out that quantitative easing has traditionally been
+implemented by announcing a specific amount of asset purchases rather than a target
+on longer-term bond yields. In 2016 the Bank of Japan adopted a more ‘radical’ ‘yield
+curve control’ approach, specifically pegging yields on 10-year Japanese Government
+Bonds at zero percent. One potential advantage of such an approach is in the credibility
+of the long-term target. If markets believe the central bank’s objective is credible, then
+the yields on long-term bonds may fall without requiring substantial purchases by the
+central bank (similarly to how anchoring inflation expectations at target renders the
+adjustment process following an inflation shock costless). A second is that yield curve
+control gets around the uncertainty of the impact on long-term interest rates of a
+given amount of QE.
+
+
+
+
+ 36
+    See Gertjan Vlieghe’s presentation ‘Revisiting the 3D Perspective on Low Long Term Interest
+Rates’ at the London School of Economics and Political Sciences on July 26th 2021.
+
+
+===== PDF 322 | 印刷页 286 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+286   Monetary policy
+
+
+                        Quantitative easing: What are the risks?
+                        In Figure 5.13 of Chapter 5, we showed the magnitude of QE undertaken since its
+                        widespread use during the global financial crisis and explained how it had led to the
+                        development of a new operational regime for monetary policy of ‘ample reserves’. In
+                        this section, we consider a set of concerns that have been raised about QE. A major
+                        concern relates to the impact of QE on inequality, to which we return shortly in
+                        Section 6.4.5.
+
+                        • Central bank independence and credibility: The movement towards central bank
+                          independence has been one of the key trends of the inflation-targeting era, but
+                          this has been compromised by the extended role taken on by central banks during
+                          the Great Recession, and the Covid-19 pandemic. If the extension of the central
+                          bank remit into areas previously deemed off-limits (e.g. large purchases of financial
+                          assets by the Fed) and higher levels of political interference (e.g. the political
+                          pressure the ECB came under during the Eurozone sovereign debt crisis) lead to
+                          a perceived reduction in credibility, then inflation expectations could become less
+                          firmly anchored to the inflation target and stabilization policy could become more
+                          costly (in terms of unemployment fluctuations).37 The interdependence of fiscal
+                          and monetary policy arises at the zero lower bound and we return to the potential
+                          problems that poses for central bank independence and credibility in Chapter 7.
+                        • Inflation expectations: As discussed in Chapter 5, quantitative easing represents a
+                          huge expansion of central bank balance sheets. Although some observers view this
+                          as representing a potential future danger of higher inflation (along the lines of the
+                          Quantity Theory of Money (see Section 6.5.2)), under conditions of a deep recession,
+                          it was intended to boost inflation expectations. This was viewed as a necessary step
+                          to guard against deflation in the midst of the financial crisis.
+                        • Financial stability: Central banks resorted to QE because the collapse of the
+                          upswing of the financial cycle (see Chapters 8 and 9) was so serious that it rendered
+                          conventional interest rate-based monetary policy inoperative. The problem is that
+                          under conditions of prolonged low interest rates and official asset purchases, the so-
+                          called search for yield reemerges to inflate housing and other asset price bubbles.
+                          There is the further danger that financial markets come to expect liquidity support
+                          from the central bank when tensions in financial markets occur, which increases
+                          their risk-taking. This points not only to problematic design issues in monetary
+                          policy but also to the importance of financial and macro-prudential regulation,
+                          which is discussed in Section 10.2.
+                        • Excess reserves: Banks are required to hold reserves at their national (or suprana-
+                          tional) central bank. Since the advent of QE, banks have built up large excess reserves
+                          in their central bank accounts (i.e. reserves over and above any required amount).
+                          A high level of excess reserves means that banks can quickly create large amounts
+                          of new loans and deposits without putting pressure on deposit rates and without
+
+
+
+                         37
+                              See the modelling in Chapter 4, Sections 4.4.2 and 4.4.3.
+
+
+===== PDF 323 | 印刷页 287 =====
+
+                                                OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                6.4 Monetary policy transmission   287
+
+  any change in central bank policy. This carries inflationary risks if the central bank
+  does not respond by raising the interest rate on reserves or is slow to react.38 It is
+  also important to note that when the central bank raises the policy rate, this is the
+  interest rate it pays on reserves. It will have to pay the additional interest bill on the
+  large stock of outstanding debt on its balance sheet.
+• Pressure on commercial banks’ profitability: As pointed out in Chapter 5, commer-
+  cial banks issue short-term liabilities (i.e. deposits) and invest in long-term assets
+  such as mortgages to make a profit. QE flattens the yield curve, thus lowering
+  returns on long-term loans and hence shrinking banks’ profit margins.
+
+Quantitative easing: Exit strategies
+The policy of quantitative easing is not unwound when the central bank stops purchas-
+ing assets, but rather when the assets accumulated on the central bank’s balance sheet
+mature or are sold back into the market. The sheer scale of asset purchases by central
+banks has led to concerns over the exit strategy---how central banks plan to unwind
+their positions and reduce the size of their balance sheets. In theory, the selling of
+assets by the central bank will have the exact opposite effects to those mentioned
+earlier, such that it will depress asset prices and raise long-term yields. This would
+be expected to have a contractionary effect on the economy and exert downward
+pressure on inflation. As mentioned earlier, part of the exit strategy and the move
+back to ‘normal’ monetary policy includes raising the policy interest rate on reserves.
+Concerns about the timing of quantitative tightening were overtaken by events in 2022
+when central banks began raising the policy rate belatedly (according to the Taylor
+rule) in response to rapidly rising inflation (see Figure 6.6).
+
+The role of forward guidance
+As we have seen, central bank communication stretches far beyond the publishing of
+current interest rate decisions. A key reason that central banks invest so heavily in
+communication is to help households and firms to form more accurate expectations
+about the future paths of inflation and interest rates. Forward guidance is one method
+of achieving this objective and is based on the expectations hypothesis linking the
+short-term policy interest rate and long-term rates along the yield curve. The idea is
+that greater confidence about the path of the policy rate produces greater confidence
+about the long-term rate, which is relevant to investment decisions. The term forward
+guidance is used to describe any communication by a central bank aimed at signalling
+the likely future path of policy rates.39
+  The Reserve Bank of New Zealand pioneered the publication of the interest rate
+path it intended implementing in 1997; the central banks of Norway and Sweden
+followed in 2005 and 2007. Alan Greenspan (Fed Chairman from 1987–2006) was
+initially sceptical of the advantages of transparency, claiming it could add to market
+instability. Monetary policy for the majority of his tenure was characterized by little
+
+
+ 38
+      See Ennis and Wolman (2010).
+ 39
+      See Woodford (2008).
+
+
+===== PDF 324 | 印刷页 288 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+288   Monetary policy
+
+
+                        indication of the future path of policy rates.40 The Fed became more transparent
+                        over time, however, and now provides calendar-date guidance---i.e. communicating
+                        the amount of time that the current policy stance is expected to be maintained for.
+                        The Federal Open Market Committee (FOMC) started taking this approach in 2003,
+                        with the Committee’s assertion that ‘policy accommodation can be maintained for a
+                        considerable period’.41
+                          Forward guidance became particularly important during and after the global finan-
+                        cial crisis, when conventional monetary policy was constrained by the zero lower
+                        bound. In an environment of near zero interest rates and a weak recovery, it becomes
+                        very important for the central bank to signal its commitment to accommodative policy.
+                        In December 2012, the Fed committed not to raise interest rates until unemployment
+                        fell below 6.5% (assuming inflation projections were close to target).42 In contrast
+                        to the quantitative guidance provided by the FOMC and by the Bank of England,
+                        qualitative criteria are also used (e.g. the Bank of Japan announced in October 2010
+                        that it would keep rates low until ‘price stability is in sight’) (Dell’Arricia et al. 2018).
+                          The policy of forward guidance fits into the trend of central banks moving towards
+                        greater levels of transparency and communication. Forecasts of future policy rates
+                        will of course often be wrong, as interest rate decisions are highly dependent on the
+                        latest economic developments. Nevertheless, the forecasts are valuable because they
+                        set out explicitly the policy stance of the central bank, giving a clear indication of the
+                        speed with which rates are expected to be returned to ‘normal’ levels. The forecasts
+                        should therefore benefit household and firm decision making, aid the anchoring of
+                        inflation expectations and help ensure that policy is as tight or loose as the central
+                        bank intends. In principle, this helps to educate the public about the central bank’s
+                        best response function. As a practical matter however, given the extent of uncertainty
+                        facing policy makers and market participants (see Chapter 4), it may be difficult for
+                        policy makers to achieve a consensus on the interest rate path. This may limit the
+                        feasibility of forward guidance.
+                          Evidence of the importance of the forward guidance provided by the central bank
+                        relative to the release of information about its interpretation of economic condi-
+                        tions comes from the application of machine learning (using topic modelling) to
+                        the statements made by the FOMC between 2008 and 2014 (Hansen and McMahon
+                        2016). The algorithm produces a series of topics that are most likely to have ‘written’
+                        the paragraphs along with the time spent covering the topic in each paragraph.
+                        Concentrating on the paragraphs identified as dealing with economic conditions, the
+                        authors then construct an index of how positive the Fed is about the economy. The
+                        second task is to manually identify the paragraphs dealing with forward guidance,
+                        picking out for example conditional statements about the extent of monetary support
+                        going forward or any date-based guidance provided by the Fed in recent years. From
+                        this analysis, they construct a forward guidance index. When confronting the two
+
+
+                         40
+                            See Blinder and Reis (2005).
+                         41
+                            Excerpt taken from the Federal Open Market Committee Statement, August 12th 2003.
+                         42
+                            See the question What is forward guidance, and how is it used in the Federal Reserve’s monetary
+                        policy? in the Current FAQs section of the Federal Reserve website.
+
+
+===== PDF 325 | 印刷页 289 =====
+
+                                                                          OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                                      6.4 Monetary policy transmission   289
+
+indices with the variation in bond prices, forward guidance explains three to four times
+as much as does communication about economic conditions, which explains little.
+
+The end of a uniform central banking model?
+With the adoption of inflation targeting from the early 1990s, central banks in high-
+income countries converged on an inflation target of 2%. The implementation of
+QE following the financial crisis introduced differentiation across central banks in
+terms of the composition of assets purchased but the objectives of the policy were
+communicated in similar ways. The Bank of Japan and the ECB experienced the most
+difficulty in raising inflation up to the target in the decade following the financial crisis.
+                               Prompted by the Covid-19 pandemic, monetary policy makers reviewed their policy
+rules. The Fed decided that it would no longer pre-emptively slow the economy
+by tightening monetary policy on a given degree of tightness of the labour market.
+Moreover, it decided formally to embrace average inflation targeting, looking to allow
+inflation to be above 2% for a period to counterbalance years with inflation persistently
+below 2%.
+                               The data in Figure 6.8 for the US suggests that as economies emerged from the
+pandemic, bond markets were more concerned about a reversion to the situation of
+‘too low’ inflation that characterized the pre-Covid decade than they were about an
+inflation threat. The observations for 2021–22 appear to be outliers relative to the long-
+
+
+                                                                                       April 2021-June 2022     1960-March 2021
+                                       18.0
+
+
+                                       16.0
+US 10-year government bond yield (%)
+
+
+
+
+                                       14.0
+
+
+                                       12.0
+
+
+                                       10.0
+
+
+                                       8.0
+
+
+                                       6.0
+
+
+                                       4.0
+
+
+                                       2.0
+
+
+                                       0.0
+                                              0.0   2.0             4.0                6.0            8.0                10.0
+                                                                          US core inflation (%)
+
+Figure 6.8 US inflation (‘core’ inflation) and 10-year US bond yields at monthly frequency (January
+1960–June 2022).
+Source: Extended from TS Lombard using data from FRED, accessed June 2022.
+
+
+===== PDF 326 | 印刷页 290 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+290   Monetary policy
+
+
+                        run relationship between a measure of underlying or ‘core’ inflation and 10 year bond
+                        yields. If traders in the bond market expected inflation to ‘take off’, then they would
+                        expect the Fed to tighten monetary policy, with higher interest rates pushing down
+                        the price of bonds and imposing a capital loss on their bond holdings. Anticipating this,
+                        there ‘should’ be a sell-off in bond markets, sending prices down and yields up. The
+                        data points for 2021–22 are not a good fit with the earlier pattern. One interpretation
+                        is that prior to mid-2022, bond markets had altered their interpretation of Fed policy
+                        to correspond to the adoption of average inflation targeting. The situation changed
+                        dramatically thereafter as bond prices dropped in late 2022 and early 2023.
+                          The ECB shifted from its traditional position of an inflation target of below 2% to
+                        adopt a symmetric target, accepting that persistent inflation below 2% was to be
+                        interpreted as costly to the economy.
+                          Meanwhile, the Bank of Japan and the Reserve Bank of Australia adopted explicit
+                        yield curve control targeting long-term interest rates close to zero.
+                          Although central banks chose somewhat different modifications of their previous
+                        ‘Taylor rule’ approaches, there was a common theme of recognizing the damage caused
+                        by weak growth and too low inflation during the post-financial crisis years.
+
+                        The September 2022 UK gilt crisis and conﬂicting central bank objectives
+                        One of the objectives of quantitative easing (QE) is to raise inflation when at the zero
+                        lower bound, by lowering long-term rates. However, as we will see in Section 9.2,
+                        central banks typically also assume some responsibility for financial stability, for
+                        instance by acting as a Lender of Last Resort to provide emergency liquidity when
+                        there is a bank run. By influencing the demand for bonds, both Quantitative Easing
+                        and quantitative tightening (QT) have direct effects on financial stability.
+                          Expanding QE will both lower long-term rates, and provide more liquidity. During
+                        the 2008 financial crisis, which saw a simultaneous shortage of liquidity and a need to
+                        lower rates below the zero lower bound, these goals aligned. An example of when the
+                        goals conflict occurred in September 2022 in the United Kingdom.
+                          During the summer of 2022 the Bank of England announced that it would be both
+                        raising interest rates and reducing the size of its QE programme (i.e. QT) to tackle
+                        rising inflation. On 22 September 2022 the Bank’s Monetary Policy Committee voted
+                        to reduce QE assets by £80 billion as part of actions intended to bring inflation down.
+                          The following day the UK Government announced a mini-budget which included
+                        £45 billion of unfunded tax cuts, the largest tax cuts in a generation, a refusal to
+                        allow independent forecasts from the official Office for Budget Responsibility, and
+                        significant spending increases. The uncertainty about funding these commitments and
+                        about the likely future path of interest rates led to a sell-off of UK government bonds
+                        (gilts). As we have seen in Chapter 5, falling bond prices imply rising yields. Within a
+                        few days the yield on the 30-year gilt, long-term government debt, had risen from
+                        3.5 percent to over 5 percent.43
+
+
+
+                         43
+                              https://www.ft.com/content/156682c1-1f b9-42d1-aac3-de531e266d68.
+
+
+===== PDF 327 | 印刷页 291 =====
+
+                                                OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                 6.4 Monetary policy transmission   291
+
+  Since UK government bonds are considered low risk, and thus widely used as
+collateral, falling prices meant that a number of institutions, in particular pension
+funds, faced so-called margin calls causing them to sell gilts, further depressing prices.
+As demonstrated dramatically in this case, when the value of a financial institution’s
+assets used as collateral falls below a threshold, it will be required to provide cash to
+cover the ‘margin’ or gap (this is a margin call). Concerns over the solvency of pension
+funds caused the Bank of England to announce on 28 September 2022 it was ready to
+increase its gilt purchases to stabilize the price, effectively an increase in the size of
+QE, six days after it had voted for QT.
+
+Monetary policy and QE/QT with excess reserves
+Using the model developed in Section 5.5 and represented in Figure 5.17, where there
+are excess reserves and interest is paid on reserves, it should be possible to vary the
+size of QE without affecting the policy interest rate. The UK September 2022 episode
+illustrates this. In effect, the Bank of England shifted the supply of reserves to the right,
+by expanding QE to boost liquidity, while remaining committed to raising the policy
+interest rate (iP ) to tackle inflation. So long as the central bank’s commitment to keep
+raising (iP ) remains credible despite expanding QE, this should not affect the central
+bank’s monetary policy.
+  The Bank of England’s communications regarding the situation highlight the impor-
+tance of this credibility. In a statement accompanying the decision, the central bank
+assured the public that:
+
+    These purchases will be strictly time limited. They are intended to tackle
+    a specific problem in the long-dated government bond market . . . The pur-
+    chases will be unwound in a smooth and orderly fashion once risks to market
+    functioning are judged to have subsided.
+    The Monetary Policy Committee has been informed of these temporary and
+    targeted financial stability operations . . . The MPC will not hesitate to change
+    interest rates by as much as needed to return inflation to the 2% target
+    sustainably in the medium term, in line with its remit.
+    The MPC’s annual target of an £80bn stock reduction [QT] is unaffected and
+    unchanged.44
+
+  Similarly, a few days later the Bank of England chief economist reiterated that,
+
+    These operations do not create central bank money on a lasting basis.
+    As a result they will not shift the underlying macroeconomically-relevant
+    monetary trends in the economy, which ultimately pin down developments
+    in the price level . . . . So yesterday’s intervention was not a monetary policy
+    operation. The temporary and targeted character of the Bank’s intervention
+
+
+ 44
+     https://www.bankofengland.co.uk/news/2022/september/bank-of-england-announces-
+gilt-market-operation.
+
+
+===== PDF 328 | 印刷页 292 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+292   Monetary policy
+
+
+                              is key to the distinction between financial stability and monetary policy that
+                              I have emphasized here.45
+
+                          Operating in an excess reserves regime, the central bank can respond as the Bank
+                        of England did above, intervening to ensure financial stability without having to
+                        backtrack on inflation targets. This would not have been possible in a scarce reserves
+                        regime.
+
+                        6.4.5 Effect on income and wealth inequality
+                        When the monetary policy maker seeks to implement its inflation-targeting mandate,
+                        its decisions are transmitted to inequality through two channels. To illustrate this,
+                        take the case of a recession in which in response to forecast inflation below target,
+                        the central bank cuts the interest rate or engages in QE (at the ZLB). The ‘earnings’
+                        channel arises from the increase in employment: income inequality falls because as
+                        we saw in Chapter 1, lower income households are typically worse hit in a recession
+                        (Coibion et al. 2017). By implementing policy consistent with its mandate, the central
+                        bank reduces income inequality through this channel.
+                          However, a second channel operates through the effect of easier monetary policy on
+                        asset prices. A lower interest rate raises asset prices (bond prices, directly, and of other
+                        financial assets, indirectly). Given the concentration of asset holdings among higher
+                        income households, this ‘asset price’ channel increases wealth inequality (Kaplan, et
+                        al. 2018 and further discussion in Chapter 18). Lower interest rates also boost house
+                        prices. When monetary policy is operated using QE, the major transmission channel
+                        is via asset prices so the effect of raising wealth inequality is ‘baked in’ to the policy
+                        (Bernanke 2020). But note that the channel through which the policy of QE is supposed
+                        to boost aggregate demand and employment by raising consumption as higher asset
+                        prices raise wealth, will be limited by the low marginal propensity to consume of the
+                        rich, who do not fall into the wealthy ‘hand-to-mouth’ category discussed in Chapter 1.
+                        As noted below, the effect on consumption depends on whether the increase in wealth
+                        is interpreted as permanent or temporary.
+                          An important question is the relative size of these effects. Interesting evidence
+                        comes from a study of the distributional consequences of monetary policy for racial
+                        inequality. Research using US data quantifies the earnings and asset price channels
+                        (Bartscher et al. 2021). They find that a loosening of monetary policy raises the employ-
+                        ment of black households relative to white ones but that this is by far outweighed
+                        by the larger wealth gains of white households. This indicates that the policy maker
+                        in pursuit of its mandate--and especially if QE is used--is likely to reduce income
+                        inequality but raise wealth inequality. The relative size of the estimated effects in this
+                        case point to an unambiguous dis-equalizing effect of expansionary monetary policy.
+                          Specifically, the earnings channel produces an estimated $97 increase in annual
+                        earnings for the median black as compared to a white household. The same shock
+                        increases share prices by 5% and house prices by 2% (together with the intended
+                        effects of lower yields on government and corporate bonds, which is what produces
+
+
+                         45
+                              https://www.bis.org/review/r220930i.htm.
+
+
+===== PDF 329 | 印刷页 293 =====
+
+                                              OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                             6.5 Central bank balance sheet, money, and inflation   293
+
+the earnings channel effect). This flows through to capital gains for white families of
+at least $25,000 (about a quarter of their annual income) and of only $5,000 for black
+families (5% of their annual income). Shares are mainly owned by white households
+and although house ownership is more equal, it is white households that benefit more
+from house price rises.
+  The increase in wealth inequality produces further macroeconomic effects, which
+are likely to be permanent. Consumption increases in households benefiting from
+higher wealth, suggesting it is interpreted as permanent. The estimates suggest that a
+$20,000 capital gain would translate into $600 of additional household consumption--
+much larger than the relative earnings gain of black households. Another sizeable
+effect is the feedback from higher asset prices to household collateral. Predominantly
+white households benefit from the enhanced ability to borrow and to start a business,
+for example, with potential long-term effects on inequality.
+  This highlights the danger of ignoring the asset price channel of monetary policy
+that arises from the skewed distribution of portfolios across households. The earnings
+channel works to lower inequality in concert with the central bank’s mandate but the
+asset price channel does the opposite.
+  Returning to the central bank’s mandate, we conclude by noting how contrac-
+tionary policy implemented to reduce inflation affects inequality.46 As we have seen
+in Chapter 5, inflation is a ‘tax’ on assets denominated in nominal terms. This includes
+banknotes and deposit accounts, which are the only financial assets of the lowest
+income households, which means they are disproportionately affected by inflation.
+In situations of rapid nominal exchange rate depreciation, which accompany high
+inflation, such households are also unable to protect themselves by transferring assets
+abroad. Finally, low-income households rely on wages and pensions, which are set in
+nominal terms (although some pensions are linked to the rate of inflation, as is the
+case in the UK). A central bank’s success in keeping inflation low and stable prevents
+these effects on inequality from arising.
+
+
+6.5 CENTRAL BANK BALANCE SHEET, MONEY, AND
+INFLATION
+Central bank reserve liabilities, and the corresponding reserve account balances on
+the asset side of the balance sheets of commercial banks, expanded substantially
+for a second time this century in the wake of the Covid-19 crisis. To the extent
+that banks make additional loans, the quantitative easing programmes will ultimately
+be reflected in higher deposits in commercial banks. Through this mechanism, the
+expanded central bank balance sheet can result in a rise in the money supply. Figure
+5.13 shows that money supply, if defined by M3, has been rising across countries at
+the same time as central bank assets expanded. However, the money supply was rising
+before quantitative easing began, and there does not seem to have been any notable
+acceleration in the decade following the financial crisis.
+
+
+
+ 46
+      Borio (2021).
+
+
+===== PDF 330 | 印刷页 294 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+294   Monetary policy
+
+
+                          Questions arise about whether or not rising money supply will cause rising inflation,
+                        or even hyperinflation. Hyperinflation has traditionally been defined as referring to a
+                        situation in which inflation rates rise to above 50% per month. This was more common
+                        in the first half of the 20th century than either in earlier epochs, or since. Situations
+                        of very high inflation or hyperinflation are normally the result of governments being
+                        unable to finance their expenditure through the normal means (borrowing or taxation),
+                        and therefore resort to monetary financing, which is the creation of reserves by the
+                        central bank to finance government debt. This is known as seigniorage. The Appendix
+                        to this chapter develops a model of seigniorage and hyperinflation.
+                          From the perspective of economic theory, the answer depends on the model of
+                        money and banking being used. We can set out the circumstances that would have to
+                        prevail according to the models developed in Chapters 1–5 for the situation described
+                        to turn into one of rising inflation or hyperinflation. It is interesting to also do the same
+                        exercise for a completely different set of models.
+                          As we have seen, the models of Chapters 1–5 incorporate inflation targeting, and
+                        profit-maximizing banks that respond to the demand for loans coming to them from a
+                        mixture of credit unconstrained and constrained households and firms, in the context
+                        of aggregate demand-driven business cycles around an equilibrium with involuntary
+                        unemployment. In the alternative set of models, the macroeconomy works very
+                        differently. Money is exogenous and controlled by the central bank, banks are passive
+                        intermediaries between borrowers and savers and have a fixed reserve-deposit ratio.
+                        Households and firms have a stable demand for money and a fixed banknote to deposit
+                        ratio. Information is complete and prices are flexible so there is neither involuntary
+                        unemployment at equilibrium nor aggregate demand-driven business cycles.
+
+                        6.5.1 The models of Chapters 1--5
+                        We first explain what has to happen for the expansion of central bank balance sheets to
+                        result in a situation of ever-increasing inflation, or the extreme case of hyperinflation,
+                        using the models of Chapters 1–5. We consider a scenario of a boom in spending,
+                        which pushes unemployment down below the equilibrium rate, and in which inflation
+                        expectations become unanchored from the inflation target. The first two conditions
+                        show what must happen for this to trigger continually rising inflation, while the third
+                        is an additional requirement to generate hyperinflation. This section spells out why,
+                        despite the great increase in the size of the central bank’s balance sheet, we do not
+                        think hyperinflation is remotely likely to occur in any high-income country.
+
+                        1. Suppose that the central bank either does not care about a process of rising
+                           inflation above its target, does not have any effective tools to implement inflation-
+                           targeting policy, or is prevented from acting against rising inflation. One example
+                           of the latter is where the government has authority over the central bank, and given
+                           the tradeoffs it faces does not respond to rising inflation. This is referred to as fiscal
+                           dominance. As we saw in Chapter 3, reducing inflation leads to temporarily rising
+                           unemployment, which is politically unpopular. Consider for instance the positive
+                           demand shock in Figure 3.4. Once the economy has reached point B, the central
+                           bank should raise the interest rate, bringing the economy to point C the following
+                           period, then gradually returning the economy to the medium-run equilibrium: the
+
+
+===== PDF 331 | 印刷页 295 =====
+
+                                                     OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                     6.5 Central bank balance sheet, money, and inflation   295
+
+      movement from B to C involves a significant rise in unemployment. If the central
+      bank is not independent, the government could prevent it from raising the interest
+      rate in order to keep the electorate happy. With adaptive (i.e. unanchored) inflation
+      expectations, a situation of rising inflation of the kind shown in Figure 2.18 would
+      occur, so long as the central bank continues to avoid intervention.
+2. However, the situation in Figure 2.18 requires that a combination of the non-bank
+      private sector as a whole and the government wishes to spend at a level that keeps
+      output persistently above equilibrium (i.e. there is a bargaining gap), and banks
+      believe that the private spending plans are sufficiently soundly based as to enable
+      bank loans to be repaid. As we have seen, bank lending is constrained by demand
+      for loans by the non-bank private sector, the expected profitability of the lending
+      (credit risk) and the adequacy of the bank’s equity buffer (solvency risk). If the
+      conditions for lending are not met, the banks will not make the loans, and, unless
+      the government permanently spends to sustain the bargaining gap, we would not
+      get continued rising inflation.
+3. In order for the rising inflation from conditions one and two to escalate into
+      hyperinflation (defined as inflation above 50% per month), the empirical evidence
+      suggests that the annual inflation rate would have to rise to well over 100% (Fischer
+      et al. 2002). The mechanism suggested in a famous model of hyperinflation (Cagan
+      1956) is that once inflation rises to a high level for a prolonged amount of time, the
+      demand for money suddenly collapses and hyperinflation ensues.47 It is notable that
+      after 2000, almost no country in the world has had inflation above 50% per annum,
+      and less than 10% of countries have recorded inflation of above 15% (Kremer et al.
+      2021).
+
+A concern over the expansion of central bank reserves is that it could facilitate con-
+dition two; commercial banks now hold sufficient reserves to be able to significantly
+expand lending, while still meeting reserve requirements. In addition, governments
+may have greater motivation to prevent the policy rate from rising even if inflation
+increases.
+  Since the financial crisis, holdings of government debt by central banks have
+increased significantly, a form of monetary financing. When a government bond is
+held by the private sector, the cost to the government is the interest rate on bonds.
+When the bond is held by the central bank, the government pays the central bank the
+interest rate on bonds, while the central bank pays out to banks the policy rate on the
+reserves it created to purchase the bond. As the government owns the central bank,
+the ‘net’ cost of the debt is the interest paid on reserves. This means that a rise in
+the policy rate, in the presence of excess reserves and interest on reserves, leads to
+greater costs for the government.48
+  The hypothetical causal chain can be summarized using the following scenario,
+beginning from a situation in which the central bank has expanded its balance sheet
+(post-Covid, for example).
+
+
+ 47
+      See Appendix 6.7.2 for further discussion of hyperinflation.
+ 48
+      Vlieghe (2020).
+
+
+===== PDF 332 | 印刷页 296 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+296   Monetary policy
+
+
+                        a. Households and firms plan to spend such that aggregate demand is greater than is
+                           consistent with equilibrium output ye , and
+                        b. banks decide that loan requests are creditworthy, and
+                        c. because they are not constrained by reserves and assuming their capital require-
+                           ments are adequate, banks are able to extend new loans (which, we note, by creating
+                           additional bank money, increase the measured money supply), and
+                        d. although forecasting a rise in inflation, the central bank does not raise the interest
+                           rate, for instance due to political pressure from the government, then:
+                           output and employment expand and inflation rises; unanchored inflation expecta-
+                           tions adjust upwards according to the adaptive expectations process; inflation rises
+                           further.
+
+                          Without the entire sequence (a) to (d), the causal chain is interrupted, and the
+                        process of rising inflation is halted. Note that condition (a) could arise from a negative
+                        supply shock, including an external one such as an energy price shock modelled in
+                        Chapter 2 and in more detail in Chapter 13. The monetary policy framework provides
+                        theoretical and evidence-based reasons to doubt the completion of this causal chain.
+                        The energy price shock triggered by the war in Ukraine provides a test. The scenario
+                        in Figure 2.18 would involve continually rising inflation, without any further gains in
+                        employment--it is unlikely that any government or central bank could tolerate this for
+                        an extended period. We saw in Chapter 3 that central banks have increasingly adopted
+                        inflation-targeting as a stated policy, while in Chapter 4 we saw that there has been a
+                        trend towards central bank independence.
+                          Note that if the chain were to be completed, then ex-post, the rise in a measure of
+                        broad money supply, which is money in the hands of the non-bank public, will be cor-
+                        related with higher inflation but in this model there is no causal relationship. Likewise,
+                        the expanded central bank balance sheets which are a feature of the post-crisis world
+                        would be correlated with higher inflation, but again without a causal relationship. If
+                        the correlation is observed, the causes lie with the profit-seeking behaviour of banks,
+                        the regulatory environment, the mandate of the central bank, its relationship with the
+                        government, and the government’s objectives and its accountability to voters.
+
+
+
+                        6.5.2 The Quantity Theory of Money and monetary-base multiplier
+                        models
+                        Before comparing how an alternative conceptual framework can be used to interpret a
+                        connection between an expanded central bank balance sheet and rising inflation, it is
+                        necessary to introduce the relevant models and concepts. In the first model, we show
+                        how the Quantity Theory of Money provides a causal model from the money supply
+                        to the price level and inflation. In the second model, we show how the monetary-base
+                        multiplier concept provides a causal model from the monetary base (closely related
+                        to reserves) to the money supply. Putting these together, we have a causal model that
+                        predicts that a change in reserves leads to a change in the money supply, which in turn
+                        directly affects the price level and inflation.
+
+
+===== PDF 333 | 印刷页 297 =====
+
+                                               OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                              6.5 Central bank balance sheet, money, and inflation   297
+
+The classical dichotomy and the nominal anchor
+The classical dichotomy refers to the possibility of identifying different factors that pin
+down the real (output, employment) and the nominal sides (price level, inflation rate)
+in a model of the economy. In a textbook economy with complete information and
+contracts, and price-taking in all markets, the labour market clears and there are no
+credit constraints (see Section 2.5.1). Under these conditions, the classical dichotomy
+holds at all points in time. This means that prices and wages always adjust immediately
+to keep the economy at equilibrium output.
+  On the real side, technology and preferences (the most basic supply-side building
+blocks of household and firm behaviour) pin down output while on the nominal
+side, the money supply pins down the price level. The Quantity Theory of Money
+encapsulates the classical dichotomy:
+
+
+                           Py = MV,                             (Quantity Theory of Money)
+
+
+where P is the price level, y, the level of output, M, the money supply and V is called
+the velocity of circulation of money. In the Quantity Theory, y is the outcome of goods
+and labour market clearing. The growth rate of the money supply is exogenous and
+controlled by the central bank. To gain policy insights from the Quantity Theory of
+Money it is necessary to convert the equation into growth rates. Using discrete time
+notation, we have:
+
+                                  ΔP Δy ΔM ΔV
+                                    +   ≈   +   .                                        (6.5)
+                                  P   y   M   V
+
+  Equation 6.5 shows that the growth rate of prices plus the growth rate of output
+is approximately equal to the growth rate of the money supply plus the growth rate
+of the velocity of circulation. To make the maths as simple as possible, we make the
+assumptions that output growth is zero and that the velocity of circulation is constant.
+This gives us a simple expression for inflation:
+
+                                    ΔP ΔM
+                                       ≈                                                 (6.6)
+                                     P   M
+                                                ΔM
+                                        →𝜋≈[       ].                                    (6.7)
+                                                M
+
+  Under these assumptions, the rate of inflation is determined by the choice of the
+growth rate of the money supply by the policy maker, shown in square brackets to
+highlight that it is exogenous.
+  To summarize, since the assumption that wages and prices are perfectly flexible
+means the economy is always in the medium-run equilibrium (or steady state, that is,
+y = ye ), the choice by the policy maker of M, pins down the price level, P; the choice of
+the growth rate of M pins down inflation, 𝜋.
+  The next step is to introduce the banking system in order to provide a connection
+between the central bank’s balance sheet, bank lending, the money supply M, and
+inflation.
+
+
+===== PDF 334 | 印刷页 298 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+298   Monetary policy
+
+
+                        The monetary-base multiplier
+                        The monetary-base multiplier is a model of fractional reserve banking that works
+                        differently from the model presented in Chapter 5. The key assumption is that a bank
+                        holds a fixed proportion of its deposits as reserves, called the ‘reserve to deposit ratio’
+                        (rd). By also assuming that the public wish to hold a fixed ratio of banknotes, denoted
+                        by ‘c’ for cash, to deposits (cd), we show in the appendix that a rise in the monetary
+                        base (e.g. a rise in reserves) implies a 𝜅-fold rise in the money supply (the money held
+                                                                 1+cd
+                        by the non-bank public), where 𝜅 =              . The intuition is that when the public receive
+                                                                cd+rd
+                        an injection of base money, for instance from the central bank buying bonds, only a
+                        proportion of the money is held as banknotes because of households’ and firms’ desired
+                        banknote to deposit ratio. The rest is deposited with banks, which raises their reserves.
+                        As banks’ reserve to deposit ratio is now above the desired one, they will lend out part
+                        of this money to the public, who in turn will store some as banknotes and deposit the
+                        rest. A multiplier process is therefore assumed to occur until both the reserve deposit
+                        and cash deposit ratios are stable at the desired levels.
+                          The conditions required for rising inflation in this alternative model, given a sit-
+                        uation in which the central bank has expanded its balance sheet (post-Covid, for
+                        example), can be summarized as,
+
+                        a. Households and firms have a fixed banknote to deposit ratio, and
+                        b. banks have a fixed reserve to deposit ratio, and
+                        c. the velocity of circulation is fixed (i.e. the demand for money is stable), and
+                        d. the level of output is determined by the clearing of the labour market at full
+                              employment.
+                              Given these conditions, the increased supply of reserves leads to rising inflation.
+
+                          However, the assumptions of the model are at odds with a modern economy and
+                        banking system. There is no fixed monetary-base multiplier (banks decide whether
+                        to extend loans based on their business model, as we have seen); the evidence
+                        shows that at least in some countries, there is no fixed relationship between the
+                        money supply and nominal output (i.e. the velocity of circulation is not constant);
+                        and the evidence contradicts the assumptions that credit and labour markets clear,
+                        and that disequilibria are transitory. Central banks have tried to clarify some of
+                        these misconceptions, for instance by criticizing the idea that banks are simply
+                        intermediaries who lend out deposits.49
+
+
+                        6.6 CONCLUSIONS
+                        Building on the foundations of previous chapters, this one has deepened the analysis
+                        of monetary policy. We can summarize the main conclusions as follows:
+
+                        1. Monetary policy has evolved dramatically over the last 30 years. Monetary targeting
+                              was used with mixed success in the 1980s, but was ultimately replaced by the
+                              inflation-targeting framework with central banks that display Taylor rule-type
+
+
+                         49
+                              See McLeay et al. (2014).
+
+
+===== PDF 335 | 印刷页 299 =====
+
+                                              OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                            6.6 Conclusions   299
+
+  behaviour to set interest rates. This sea-change in approach to monetary policy
+  and the movement away from Monetarist ideas was partly the result of the failure of
+  monetary targeting in the UK and North America in the 1980s. The Monetarist ver-
+  sion of inflation targeting was undermined by the inability of monetary authorities
+  to control their chosen monetary aggregate and the instability of the relationship
+  between monetary growth and inflation.
+2. The inflation-targeting central bank has preferences over output and inflation
+  deviations, as represented in a loss function by the parameter for the degree of
+  inflation aversion, 𝛽. The level of 𝛽 affects the slope of the MR and consequently the
+  central bank’s best policy response to shocks. A more inflation-averse central bank
+  will be more aggressive in raising interest rates in response to an inflation shock.
+  This type of central bank would prefer an adjustment path that reduced inflation
+  quickly, even if this caused a large rise in unemployment (‘cold turkey’), as opposed
+  to an adjustment path that entailed a smaller initial reduction in unemployment,
+  but brought inflation back to target more slowly (‘gradualist’). The MR curve is also
+  flatter if inflation is more responsive to changes in output (i.e. if 𝛼 in the Phillips
+  curve is higher). Figure 6.4 showed that there is some evidence of a decreasing
+  positive correlation between output and inflation starting from the second half
+  of the inflation-targeting system. However, this does not necessarily represent
+  a flattening of the Phillips curve; indeed, the dynamics of the 3-equation model
+  show that inflation-targeting triggers a downward-sloping relationship between
+  inflation and output (MR curve) following an economic shock. Hence, Figure 6.4
+  may reflect a period of successful inflation-targeting on the part of central banks
+  rather than lower sensitivity of inflation to output.
+3. The best response or optimal Taylor rule is derived from the 3-equation model and
+  shows the interest rate the central bank should set to minimize its loss function.
+  The size of the best response to an economic shock in the closed economy will
+  depend on the inflation aversion of the central bank (𝛽), the supply-side structure
+  as reflected in the slope of the Phillips curve (𝛼) and the interest-sensitivity of
+  aggregate demand (a). Central banks around the world have different preferences,
+  which are reflected in their mandates. The nominal interest rates implied by simple
+  Taylor rules in some countries were negative during the financial crisis, suggesting
+  that conventional monetary policy had reached its limits.
+4. We have seen a number of times in the past that asset price bubbles arise in financial
+  markets, such as the tech boom of the late 1990s and the sub-prime mortgage-
+  backed securities boom in the mid 2000s. Should central banks intervene to burst
+  these bubbles by pre-emptively raising the interest rate? The interest rate is the
+  main policy tool of modern inflation-targeting central banks and raising it may not
+  cool the asset market in question, where returns are typically extremely high (while
+  the bubble is inflating). There is also little evidence that central bankers are better
+  placed to identify bubbles than financial markets and a significant risk they might
+  make errors. In light of this, the central banks’ preferred approach has been to wait
+  until bubbles burst and then mop up after them. As argued in Chapters 8 and 9,
+  the severe recession following the global financial crisis highlighted the dangers of
+  leverage-fuelled bubbles in a highly interdependent banking system. Central banks
+
+
+===== PDF 336 | 印刷页 300 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+300   Monetary policy
+
+
+                           and other regulatory authorities have been tasked with design and implementation
+                           of improved financial stability regulation to reduce risk-taking behaviour and to
+                           preempt the formation of bubbles that threaten financial stability (see Chapter 10).
+                           This includes macro-prudential regulation such as adjusting loan to value ratios for
+                           mortgage loans and structural reforms to the banking system such as caps on lever-
+                           age to reduce the scale of leverage-fuelled financial cycles (modelled in Chapter 8).
+                        5. The global financial crisis saw a number of countries introduce unconventional
+                           monetary policies in response to interest rates being stuck at the zero lower
+                           bound. Quantitative easing---the central bank using newly created reserves to buy
+                           financial assets---was the most commonly used of these policies. The early research
+                           suggests this policy had some limited success against its objectives: increasing
+                           asset prices, reducing long-term interest rates, boosting GDP and putting upward
+                           pressure on inflation. The policy is not without its dangers, however, such as its
+                           impact on central bank credibility and independence, medium-term inflation and
+                           the as yet unknown macroeconomic effects of exiting the policy (i.e. selling the
+                           assets purchased back into the market). With bounded-below interest rates, the
+                           monetary response to the Covid-19 pandemic relied on unconventional policies
+                           aimed at reducing longer term rates (quantitative easing and forward guidance).
+                           Contrary to conventional interest rate changes, policies of QE and yield curve
+                           control have a direct effect on asset prices (i.e. via higher demand); this triggered
+                           concerns regarding the distributional consequences of monetary policy given
+                           salient differences in the portfolio composition of richer and poorer households.
+                           Although QE can reduce income inequality through its effect on employment, the
+                           effect in redistributing wealth toward the rich is substantially larger.
+                        6. What is the relationship between the expansion of central bank balance sheets
+                           that has resulted from quantitative easing and inflation? The models presented in
+                           Chapters 1 to 5 can be combined to provide guidance in answering this question.
+                           There is no direct causal connection between the growth in the size of central
+                           bank balance sheets---which were the outcome of policies to prevent deflation
+                           from taking hold---and a problem of persistently rising inflation. A different set of
+                           models (the Quantity Theory of Money, the monetary-base multiplier, and clearing
+                           labour and product markets) can be used to show a direct link from the growth of
+                           reserves to inflation. However, the assumptions underlying these models do not
+                           capture the way contemporary high-income economies work.
+
+
+
+
+                        6.7 APPENDIX
+                        6.7.1 The monetary-base multiplier
+                        In this model, money is created through the operation of the monetary-base multiplier.
+                        Suppose the central bank’s actions use open market operations to buy bonds from the
+                        public by ‘printing’ money. The public holds only, say, one-third of this as banknotes
+                        and deposits the rest in banks to maintain their banknote (cash) to deposit ratio of
+                        1:2. The banks keep say 10% of the deposits in their reserve accounts to maintain
+
+
+===== PDF 337 | 印刷页 301 =====
+
+                                                              OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                                                   6.7 Appendix   301
+
+their desired reserve to deposit ratio and make new loans to the public with the rest.
+Eventually this process of credit creation will raise the money supply by 2.5 times the
+original increase in base money by the central bank.
+   This works as follows. If the initial injection was $100, the initial increase in the
+money supply is $100. Given the public’s cd of 1:2, they will hold on to one-third of the
+cash and place two-thirds of it on deposit in a bank ($66.7). The rise in deposits in
+the bank means that it will increase how many reserves it holds by $6.67. This leaves it
+free to make loans to the public using the extra $60. This ends up in the hands of the
+public as firms and households borrow from banks. This process continues until the
+public’s cd ratio is stable at 1:2 and the banks’ reserve ratio, rd, is stable at 10%.
+   The new base money in the economy will end up partly in the hands of the public
+(banknotes) and partly as reserves of the banks. Because cd = 0.5 (from 1:2) and rd =
+0.1, cd + rd = (banknotes + reserves)/deposits = base money/deposits = 0.6. In our
+example, deposits will have increased by 100/0.6 = 166.7, which is from rearranging
+the previous equation of base money/deposits = 0.6 and having an injection of 100 base
+money. Banknotes in the hands of the public will now be higher by 0.5 × 166.7 = 83.3.
+The remainder of the new base money ends up as reserves, hence 100 – 83.3 = 16.7. The
+money supply, which is measured by banknotes held by the public plus their deposits
+with banks, will have increased by $250, implying a monetary-base multiplier of 2.5.
+                                                                         1+cd
+More generally, the monetary-base multiplier is 𝜅 =                             , derived below, and in this
+                                                                        cd+rd
+                            1+cd        1+0.5
+example we have 𝜅 =                 =             = 2.5.
+                            cd+rd       0.5+0.1
+   In the example, the increase in the money supply of $250 can be thought of as being
+made up of the 100 units of base money created by the central bank (sometimes called
+‘outside’ money) and 150 units of ‘inside money’ created by the banks when they make
+loans to the public. The asset side of the banks’ balance sheet shows $16.66 of new
+assets in the form of reserves and $150 loans to the public. This adds up to $166.7,
+which is exactly equal to the increase in the banks’ deposits, i.e. their new liabilities.
+
+Deriving the monetary-base multiplier
+The result for 𝜅 is derived as follows. Let B be the initial injection of base money by
+the central bank to the public. We assume that B must be equal to deposits plus cash,
+as the public store the money as one of the two. We also assume that cash is equal to
+deposits multiplied by cd. Hence we know that B = deposits + cd ∗ deposits, which can
+                                                     B
+be solved to find that deposits equal                      . The remainder of the base money injection,
+                                                    1+cd
+B∗cd
+       , is held as cash.
+1+cd
+   Of the new deposits, a proportion 1 − rd is then lent out, as rd represents what
+proportion of the new deposits are kept as reserves rather than being lent out. This
+                                                                                                     B(1−rd)
+means that the second round injection of money to households and firms is                                      .
+                                                                                                      1+cd
+                             1
+Of this, a proportion               is deposited to banks, of which a proportion (1 − rd) is lent
+                            1+cd
+out. This cycle continues, and we can write the total injection of money as an infinite
+geometric series,
+                                                                                    2
+                                                           (1 − rd)      (1 − rd)
+                       ΔMoney supply = B + B                        + B(          ) + ...               (6.8)
+                                                            1 + cd        1 + cd
+
+
+===== PDF 338 | 印刷页 302 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+302   Monetary policy
+
+                                                                                                              1+cd
+                           Using the formula for the sum of an infinite geometric series, this adds up to B
+                                                                                                              cd+rd
+                        with the fraction representing the monetary-base multiplier, 𝜅.
+
+                        6.7.2 Monetizing government debt, seigniorage, and hyperinﬂation
+                        If the government has high debt and wishes to continue to maintain or expand its
+                        spending, how can it do this if it cannot borrow more from the public and it is unwilling
+                        or unable to raise taxes? A reason the public may be unwilling to continue to lend to the
+                        government is because they believe there is a high risk of the government defaulting,
+                        i.e. not paying interest and principal on outstanding bonds. We explore in more detail
+                        how governments finance their spending in Chapter 7 on fiscal policy. For now, we rule
+                        out borrowing or taxation being adequate to finance the government’s spending plans.
+                           To see how the direct financing of government spending by money creation can
+                        play a role, we begin by assuming we are in the model described in Section 6.5,
+                        with a constant monetary-base multiplier 𝜅, which implies that the growth rate of
+                        base money and the growth rate of money supply are equal, and the medium-run
+                        equilibrium growth rate of money supply is equal to the rate of inflation. Hence we
+                        have, 𝛾M = 𝛾H = 𝜋, where 𝛾M is the growth rate of money supply, 𝛾H is the growth rate
+                        of base money, and 𝜋 is inflation. If the central bank prints base money to finance
+                        government spending, 𝛾H = 𝜋 > 0, implying that prices P are rising. The monetary-base
+                        multiplier model assumes that markets always clear at full employment, and as such
+                        output y is constant as long as supply factors are unchanged. This means that as the
+                        central bank creates base money, nominal output Py rises at rate 𝜋(= 𝛾H ), and the value
+                        of existing government debt falls relative to nominal output. The higher is 𝛾H , the faster
+                        the debt burden will fall.
+                           Since 𝛾H = 𝜋, this has led to the use of the term inflation tax to refer to this method
+                        of financing government spending. It takes us to the related term seigniorage revenues,
+                        which refers to the amount of real expenditure the government is able to finance
+                        through its ability to create base money. Seigniorage revenue is defined as:
+                                                                ΔH ΔH H       H
+                                                           S=      =     = 𝛾H                                  (6.9)
+                                                                 P   H P      P
+                        Seigniorage revenue is the amount of new money printed to finance spending, ΔH,
+                        normalized by the price level P. In medium-run equilibrium, therefore,
+                                                                         H
+                                                                   S=𝜋                                        (6.10)
+                                                                         P
+                                  H
+                        Let h =        , the ratio of base money H to nominal output Py. We know from the above
+                                  Py
+                        assumptions that h remains constant, as the numerator and denominator both grow
+                        at the same rate. If calculated as a proportion of real output, seigniorage is,
+                                                                S    H
+                                                                  =𝜋    = 𝛾H h                                (6.11)
+                                                                y    Py
+                        which is the contribution to the fall in the government’s debt ratio. The equation for
+                        seigniorage above suggests that the government can finance more of its expenditure
+                        through seigniorage by raising the growth rate of base money and hence by raising
+                        inflation.
+
+
+===== PDF 339 | 印刷页 303 =====
+
+                                                 OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                                        Questions and Problems   303
+
+   However, there is a limit to the extent to which seigniorage can be used as a source
+of revenue (and therefore as a method of reducing the debt ratio). The limit arises
+because as inflation goes up, the public becomes less willing to hold money. If we
+substitute the demand for money into the seigniorage equation, where money demand
+MD is equal to base money H times the multiplier 𝜅, we get,
+
+                                            H    MD 1
+                                      S=𝜋     =𝜋                                      (6.12)
+                                            P    P 𝜅
+   While higher money growth (and inflation) pushes up seigniorage via the first term
+                                                          MD
+in the equation, it pushes it down via the second term,        , maintaining our assumption
+                                                           P
+of a constant 𝜅 for the third term. To use the tax analogy, pushing up the rate of
+taxation (in this case, 𝜋), has the effect of reducing the tax base (which in this case are
+real money balances, M/P, as we saw in Section 5.3.1 higher inflation reduces money
+demand).
+   Empirical studies suggest that the second effect begins to outweigh the first effect
+when inflation rates go above about 175% p.a.;47 this suggests that the maximum
+amount of revenue the government could raise in this way is about 10% of GDP.
+These estimates indicate that governments typically curtail their use of seigniorage not
+because they are near the maximum amount that can be collected but rather because
+the costs of higher inflation outweigh the benefits.
+   This raises the question of how hyperinflation with inflation at 50% per month
+comes about. If the government is using inflation to finance its spending, why would
+it let inflation rise above the seigniorage maximizing rate? One answer is that the
+seigniorage equation holds in equilibrium. Hence if it takes time for people to adjust
+their demand for money to inflation (i.e. the demand for money reacts to inflation
+slowly), then the government can push up its revenue beyond the revenue-maximizing
+level that holds in equilibrium by raising the growth rate of base money fast enough.
+However, as inflation continues to persistently rise, there will come a point when the
+demand for money suddenly collapses as people lose confidence in the prospect of
+inflation coming under control, and hyperinflation ensues. This mechanism lies behind
+the theory of hyperinflation developed by Phillip Cagan (1956).
+
+
+   47
+        See Fischer et al. (2002).
+
+
+
+
+            QUESTIONS AND PROBLEMS FOR CHAPTER 6
+            CHECKLIST QUESTIONS
+              1. Section 6.2.1 sets out two conditions that must hold if monetary targeting
+                 is going to succeed in controlling inflation. Briefly explain these two
+                 conditions and why they were violated during the Thatcher experiment
+                 with monetary targeting in the UK.
+
+
+===== PDF 340 | 印刷页 304 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+304   Monetary policy
+
+
+                            2. Margaret Thatcher started an aggressive disinflationary policy when she
+                              came to office as the UK’s prime minister in 1979. In October 1980,
+                              she delivered her famous ‘the lady’s not for turning’ speech. What was
+                              the aim of this speech and how was it influenced by Monetarist views on
+                              the importance of credibility and managing inflation expectations?
+
+                            3. Use the central bank’s loss ellipses and Phillips curves to derive the MR
+                              curve in the following cases:
+                               a. When 𝛼 = 1 and 𝛽 = 1
+                               b. When 𝛼 = 1 and 𝛽 < 1
+                               c. When 𝛼 < 1 and 𝛽 = 1.
+
+                            4. Use a PC–MR diagram to show that the cumulative unemployment caused
+                              by disinflation is independent of the degree of inflation aversion (𝛽) of the
+                              central bank. How does this finding change if:
+                               a. The Phillips curves are convex
+                               b. The Phillips curves are steeper (i.e. ↑ 𝛼)?
+
+                            5. Use the IS–PC–MR diagram to show the logic behind the equation
+                                                          1
+                                         r0 − rS =            1
+                                                                       (𝜋0 − 𝜋 T ) .   (best response Taylor rule)
+                                                     a (𝛼 +        )
+                                                              𝛼𝛽
+
+                              Approach the question as follows:
+                               a. Use the diagrams to show how the initial interest rate response to an
+                                  inflation shock varies with the slope of the MR.
+                               b. What parameters affect the slope of the MR?
+                               c. Are your findings consistent with the best response Taylor rule
+                                  equation?
+
+                            6. Assess the following statement: ‘asset price bubbles played a major role in
+                              the global financial crisis, so central banks should have stepped in to burst
+                              them in their early stages’. Refer to Chapter 9 for details about bubbles
+                              and the financial crisis.
+
+                            7. Explain how the Taylor rule could find the best response nominal interest
+                              rate to be negative.
+
+                            8. Compare the transmission mechanisms of conventional monetary policy
+                              with quantitative easing. Can the two policies be viewed as substitutes?
+
+                            9. Is there any reason why an inflation-targeting central bank should be
+                              concerned with inequality?
+
+                           10. Assess the following statement: ‘during the financial crisis, central banks
+                              significantly expanded their balance sheets through quantitative easing
+                              and this did not cause inflation expectations to become less firmly
+
+
+===== PDF 341 | 印刷页 305 =====
+
+                                      OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+                                                                              Questions and Problems   305
+
+   anchored to the inflation target, thus we can say that QE does not pose a
+   danger to macroeconomic stability’.
+
+
+PROBLEMS
+1. Pick a high-income economy (outside of the UK) that experimented with
+  money supply targeting in the 1980s. Use the concepts in this chapter and
+  the available academic literature to answer the following questions:
+   a. Was the policy successful?
+   b. What were the reasons that led to the policy being successful or
+     unsuccessful?
+   c. How do these reasons relate to the Quantity Theory of Money?
+
+2. A central bank has the following loss function:
+
+                          L = −(yt − ye ) + 𝛽(𝜋t − 𝜋 T )2 .               (6.13)
+
+  Use the information in this chapter to answer the following questions:
+   a. What can we interpret about the central bank’s preferences from this
+     loss function (equation 6.13)?
+   b. Briefly explain how this loss function compares to the standard loss
+     function and to a loss function with yT > ye .
+   c. Find the inflation bias for a central bank with this loss function
+     (equation 6.13). [Hint: see Section 4.6.2 in Chapter 4.]
+
+3. Pick an economy (outside of the US, the Eurozone, the UK and Japan) with
+  an inflation-targeting central bank. Use their central bank’s website to
+  gather information on interest rates and total assets for the period from
+  2006 to 2011. Present the data in a graph. Use the graph to answer the
+  following questions:
+   a. Did the central bank hit the zero nominal bound during the Great
+     Recession? If so, did they employ quantitative easing?
+   b. Use your own knowledge and macroeconomic indicators (e.g. from the
+     IMF World Economic Outlook Database) to provide a picture of your
+     chosen economy before and during the crisis. Does this help to shed
+     light on why it did or did not reach the ZLB during the global financial
+     crisis? [Hint: think about your chosen economy’s strength entering
+     the recession, the severity of their recession, other policies used to
+     stimulate demand (e.g. fiscal policy), their reliance on exports etc.]
+
+4. Use this chapter and your own research to answer the following questions.
+  Why might the factors listed below have compounded Japan’s macro-
+  economic problems in its so-called ‘lost decades’? Do Japan’s lost decades
+  provide strong evidence for the impotence of conventional and uncon-
+  ventional monetary policy at the zero lower bound?
+
+
+===== PDF 342 | 印刷页 306 =====
+
+  OUP CORRECTED PROOF – FINAL, 31/10/2023, SPi
+
+
+
+
+306   Monetary policy
+
+
+                              a. The refusal to adopt an explicit inflation target.
+                              b. Tightening monetary policy too soon in the 1990s.
+                              c. Banks continuing to lend to firms in severe financial distress (so-called
+                                 zombie firms) in order to avoid recognizing bad loans on their own
+                                 books.
+
+                           5. This question uses the Macroeconomic Simulator (available at www.
+                              oup.com/he/carlin-soskice). Open the simulator in the closed economy
+                              version, and select a permanent positive aggregate demand shock of
+                              magnitude 5% (you may change the shock magnitude as you wish). Run
+                              the simulator and go to the numerical results. On a different worksheet,
+                              copy the values for ‘Inflation’ and the ‘Output gap’ from period 6 (this is the
+                              period after the shock) to period 20. Finally, produce a scatter plot with
+                              inflation on the vertical axis and the output gap on the horizontal axis
+                              with the more negative values of the output gap on the left. Now answer
+                              the following questions:
+                              a. Is the trendline in your scatter plot upward or downward sloping? Is
+                                 this trend consistent with the value of the ‘Sensitivity of inflation wrt
+                                 output gap’ you see in the simulator’s (see www.oup.com/he/carlin-
+                                 soskice) settings (note that this value represents the slope of the Phillips
+                                 curve)? Explain.
+                              b. Would your scatter plot look different if there was no central bank
+                                 working to stabilize the economy? Explain.
+                              c. Given your answers to parts (a) and (b), which curve in the 3-equation
+                                 model does your trendline represent?
+
+
+                           INTERESTED IN EXPLORING THESE TOPICS FURTHER?
+                           Visit www.oup.com/he/carlin-soskice to consolidate and extend your learn-
+                           ing with the multiple-choice questions accompanying this chapter.

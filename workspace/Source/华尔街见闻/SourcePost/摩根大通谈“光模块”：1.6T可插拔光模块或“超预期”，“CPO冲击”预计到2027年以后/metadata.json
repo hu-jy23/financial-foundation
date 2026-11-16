@@ -1,0 +1,117 @@
+{
+  "article_id": 3755662,
+  "selection": {
+    "article_id": 3755662,
+    "url": "https://wallstreetcn.com/articles/3755662",
+    "title": "摩根大通谈“光模块”：1.6T可插拔光模块或“超预期”，“CPO冲击”预计到2027年以后",
+    "page_display_time": "2025-09-16T11:06:17+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "A",
+    "reading_value": "按出货量与技术替代节奏解释1.6T光模块和CPO竞争，包含业绩预测修正依据。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1521,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 169
+  },
+  "url": "https://wallstreetcn.com/articles/3755662",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3755662?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:59+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/99bff51b-ba19-4387-8202-1321addc34de.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "摩根大通预计，中际旭创2025-2027年销售额/盈利年复合增长率分别为55%/66%。值得注意的是，摩根大通对毛利率的预测相对保守，约为40%，这为盈利预测提供了潜在上行空间。",
+      "path": "assets/figure_001.png",
+      "sha256": "2d0108762679005c9a561b5e66a0d82b4d493460235e9f33130a9c9f3dd61bce",
+      "bytes": 135592,
+      "width": 1024,
+      "height": 299,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/99bff51b-ba19-4387-8202-1321addc34de.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_002.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "摩根大通谈“光模块”：1.6T可插拔光模块或“超预期”，“CPO冲击”预计到2027年以后",
+  "page_display_time": "2025-09-16T11:06:17+08:00",
+  "page_byline": "董静",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "摩根大通认为，1.6T可插拔光模块放量节奏将超市场预期，主要受AI系统带宽需求增长和ASIC解决方案驱动。基于此，上调中际旭创2026年收入预测至708亿元，2027年至886亿元，目标价上调至430元。对于市场担忧的CPO技术冲击，摩根大通认为其规模化应用要到2027年后，短期内可插拔光模块仍是主流技术。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1597,
+  "body_sha256": "70dde2fa79d08ec1598744b5806017fbf70674e9573cadcca1ff43a418a9691b",
+  "raw_sha256": "8d705c862862661f461200168417b867e8e4d3b6fe2a6d57e4b5d09c5a66c6d2",
+  "raw_bytes": 9710,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/ac87acf2-ae98-4472-996e-3ddcd10e01ae.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 1521,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:45+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "8d705c862862661f461200168417b867e8e4d3b6fe2a6d57e4b5d09c5a66c6d2",
+      "bytes": 9710
+    },
+    "article.html": {
+      "sha256": "52e9324c2e0813e41739ef36e05cd27f00e8b2a782bfbaa1c93ba01c93adbe7e",
+      "bytes": 9576
+    },
+    "article.md": {
+      "sha256": "e944fe88bde8369ed3b73051c7c0c6bcfdec7a2e169a33702e464106c44bfcaf",
+      "bytes": 5367
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:42+08:00"
+}

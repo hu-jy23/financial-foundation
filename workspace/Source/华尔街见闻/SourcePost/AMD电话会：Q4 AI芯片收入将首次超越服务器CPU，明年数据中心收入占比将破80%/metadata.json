@@ -1,0 +1,94 @@
+{
+  "article_id": 3785116,
+  "selection": {
+    "article_id": 3785116,
+    "url": "https://wallstreetcn.com/articles/3785116",
+    "title": "AMD电话会：Q4 AI芯片收入将首次超越服务器CPU，明年数据中心收入占比将破80%",
+    "page_display_time": "2026-11-04T07:45:52+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "鲍奕龙",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004827",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "A",
+    "reading_value": "AMD完整问答覆盖CPU与AI芯片收入结构、客户部署和PC压力，可追踪管理层指引与约束。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 16823,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 184
+  },
+  "url": "https://wallstreetcn.com/articles/3785116",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3785116?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:03+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/355de7b8-400d-4a47-859e-8390b24c96f1.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "数据中心业务爆发式增长推动AMD业绩全面超预期，公司上调明年展望，预计服务器收入翻番、AI芯片收入增速更快。",
+      "path": "assets/figure_001.png",
+      "sha256": "330776345957ec3c3dbe0e6e18c9941b36edd8413e4222b68c30e7a1c3ff67e9",
+      "bytes": 910905,
+      "width": 1020,
+      "height": 565,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/355de7b8-400d-4a47-859e-8390b24c96f1.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "AMD电话会：Q4 AI芯片收入将首次超越服务器CPU，明年数据中心收入占比将破80% ",
+  "page_display_time": "2026-11-04T07:45:52+08:00",
+  "page_byline": "鲍奕龙",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "AMD CEO苏姿丰指出AI代理正成为云端CPU的“下一个杀手级应用”，且Q4数据中心AI芯片收入将历史性地首次超越传统服务器CPU。尽管预计明年PC市场将出现两位数下滑，但凭借AI算力基础设施的爆发式需求，AMD正迎来盈利能力和利润率的全面扩张。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 16747,
+  "body_sha256": "cb72098ea0cd7e51b24a18d407d44e8b7130b6003c1e06058063d5e16e2bb370",
+  "raw_sha256": "1c45b3b8b0276662a0edd7a370303f5289992eaa883cdf3fe85a15d51d4d474d",
+  "raw_bytes": 57705,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/cc20b385-7074-4997-a21c-d7031368a84c.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 16823,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "华尔街见闻提及",
+      "url": "https://wallstreetcn.com/articles/3785112"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:46+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "1c45b3b8b0276662a0edd7a370303f5289992eaa883cdf3fe85a15d51d4d474d",
+      "bytes": 57705
+    },
+    "article.html": {
+      "sha256": "26068b9cd2bfa187985f13bcdeebf9cf13ebb412f7886c9271abaadb4d26c5c9",
+      "bytes": 54272
+    },
+    "article.md": {
+      "sha256": "2f6aaa2ab75e248c6372a1c5ccecd2a5048fc976ffc000c5a6de4612d47a1452",
+      "bytes": 46516
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:45+08:00"
+}

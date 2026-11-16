@@ -1,0 +1,117 @@
+{
+  "article_id": 3767099,
+  "selection": {
+    "article_id": 3767099,
+    "url": "https://wallstreetcn.com/articles/3767099",
+    "title": "历史惊人的相似！油价暴涨后，“1970s滞胀噩梦”要重演？",
+    "page_display_time": "2026-03-10T10:53:37+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "龙玥",
+    "page_author_url": "https://wallstreetcn.com/authors/120000002320",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "A",
+    "reading_value": "比较当轮油价冲击与1970年代的能源依赖、工资和政策条件，明确历史类比的适用边界。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1486,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 16
+  },
+  "url": "https://wallstreetcn.com/articles/3767099",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3767099?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:16+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/aa766269-7159-497d-b77c-b665a379ffe0.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "Reid在报告中通过图表指出，全球宏观经济似乎正在重复历史路径。",
+      "path": "assets/figure_001.png",
+      "sha256": "3049575676a000ee70618fc68fbe44841db2160ac2102faf23282e2bafccf882",
+      "bytes": 77993,
+      "width": 880,
+      "height": 458,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/aa766269-7159-497d-b77c-b665a379ffe0.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_002.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "历史惊人的相似！油价暴涨后，“1970s滞胀噩梦”要重演？",
+  "page_display_time": "2026-03-10T10:53:37+08:00",
+  "page_byline": "龙玥",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "德银警告，油价走势与1970年代石油危机存在“惊人相似”：两轮风暴均发生在通胀大爆发后的4-5年，且震中均指向伊朗。不过，德银指出当前通胀预期稳固、经济抗压性更强，不会轻易陷入70年代那种“工资-价格螺旋”导致的滞胀噩梦。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1555,
+  "body_sha256": "b582f6eeef35a317a0f8d97526d1422503a658b73abc7da0a7f0477eb525062c",
+  "raw_sha256": "c674f8ad3f51d7ddb96948dd592680f6e4caf56cb76eb446556928a9639df7e3",
+  "raw_bytes": 10274,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/04aae5fb-6c95-463e-ae85-68b35ad2cd0d.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 1486,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "c674f8ad3f51d7ddb96948dd592680f6e4caf56cb76eb446556928a9639df7e3",
+      "bytes": 10274
+    },
+    "article.html": {
+      "sha256": "530dab19ea9c3272427687fbfe81773f31a5445622c3cb8b7e27bfc51e5b2dcd",
+      "bytes": 9912
+    },
+    "article.md": {
+      "sha256": "2e286cd1e83859356b5a16118cf9a579db83381fee27e2fbd8428ec468a8fd85",
+      "bytes": 5367
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:10+08:00"
+}

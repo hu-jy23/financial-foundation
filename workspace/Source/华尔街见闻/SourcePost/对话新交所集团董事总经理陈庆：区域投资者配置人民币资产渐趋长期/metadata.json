@@ -1,0 +1,89 @@
+{
+  "article_id": 3784874,
+  "selection": {
+    "article_id": 3784874,
+    "url": "https://wallstreetcn.com/articles/3784874",
+    "title": "对话新交所集团董事总经理陈庆：区域投资者配置人民币资产渐趋长期",
+    "page_display_time": "2026-10-30T18:38:19+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "郑嘉意",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004476",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "汇率与国际资本",
+    "reading_priority": "B",
+    "reading_value": "访谈解释海外人民币债券ETF、交易币种及区域投资者配置需求。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 5044,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 59
+  },
+  "url": "https://wallstreetcn.com/articles/3784874",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784874?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:26+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/3ab8f336-adf6-4595-a112-353769a10639.jpeg",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "新交所集团董事总经理陈庆",
+      "path": "assets/figure_001.jpg",
+      "sha256": "d1541261ef086798c86febe3c374e165354595e03ba8fe215dc02350079b7c0b",
+      "bytes": 721850,
+      "width": 2560,
+      "height": 3838,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/3ab8f336-adf6-4595-a112-353769a10639.jpeg"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "对话新交所集团董事总经理陈庆：区域投资者配置人民币资产渐趋长期",
+  "page_display_time": "2026-10-30T18:38:19+08:00",
+  "page_byline": "郑嘉意",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "海外投资者配置人民币债券，又多了一种选择。\n10月中旬，银河-工行-中国外汇交易中心“一带一路”债券...",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 5078,
+  "body_sha256": "2730725146bb29d7e5e13a5f6604f8ff54c741649768bd30f03f3de0f74b9b2b",
+  "raw_sha256": "549a98a83b99c19b9580be712e8848ab089a611d59b89580e846c9e4c94138a6",
+  "raw_bytes": 22283,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/8444dcc1-996f-4ff0-8363-50946066e7ba.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 5044,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:33+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "549a98a83b99c19b9580be712e8848ab089a611d59b89580e846c9e4c94138a6",
+      "bytes": 22283
+    },
+    "article.html": {
+      "sha256": "313f7e3cbaeb0d8cbf89268ccca858a997662e365e335551c98e0e8257b6ed7e",
+      "bytes": 21419
+    },
+    "article.md": {
+      "sha256": "763bb37e82d92607349a5356b9666c8f16c56359ebef38a90c4811038fd61826",
+      "bytes": 15514
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:17+08:00"
+}

@@ -1,0 +1,132 @@
+{
+  "article_id": 3758143,
+  "selection": {
+    "article_id": 3758143,
+    "url": "https://wallstreetcn.com/articles/3758143",
+    "title": "历史上的黄金牛市：10%的回调并不稀奇，但牛市是如何终结的？",
+    "page_display_time": "2025-10-29T12:17:59+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "鲍奕龙",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004827",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "黄金与贵金属",
+    "reading_priority": "A",
+    "reading_value": "用历次牛市的回撤和终结条件分析黄金周期，区分短期调整与定价环境变化。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1535,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 77
+  },
+  "url": "https://wallstreetcn.com/articles/3758143",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3758143?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:31+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/059ea6d2-9f14-4844-b493-1612100345e0.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "（黄金历次牛市的走势）",
+      "context_after": "黄金牛市的真正终结，并非因为技术性超买或短期震荡，而是其背后的核心驱动因素发生了根本性改变。例如，从滞胀转向激进加息，或从非常规经济政策回归传统。",
+      "path": "assets/figure_001.png",
+      "sha256": "71d9e91fc03d46dea3172193b91c88af06f3be282ebc5e419e0825917894f838",
+      "bytes": 58061,
+      "width": 474,
+      "height": 393,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/059ea6d2-9f14-4844-b493-1612100345e0.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/14331afe-653b-4b6a-bd7c-c62682d63188.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "（左图：牛市期间金价下跌10%的情况并不少见；右图：金价牛市中的调整后迎来连续上涨行情）",
+      "context_after": "例如，在1976年开启的牛市中，曾出现过接近12%的单月最大跌幅。",
+      "path": "assets/figure_002.png",
+      "sha256": "4a114b9857a247ccc9c788eeb31b7959212f8fdaa8e5f5350d2892820008c046",
+      "bytes": 61491,
+      "width": 941,
+      "height": 380,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/14331afe-653b-4b6a-bd7c-c62682d63188.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_003.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "历史上的黄金牛市：10%的回调并不稀奇，但牛市是如何终结的？",
+  "page_display_time": "2025-10-29T12:17:59+08:00",
+  "page_byline": "鲍奕龙",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "美银指出，自1970年以来的历次黄金大牛市中，超过10%的月度回调并不少见。在这些回调之后，金价往往会重拾升势，继续走高。而历次黄金牛市的终结，并非因为技术性超买或短期震荡，而是其背后的核心驱动因素发生了根本性改变。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1602,
+  "body_sha256": "6dcaf33aaff067439b1c159645b02e5986314278d3e17795b13462b0e8ce6bad",
+  "raw_sha256": "f314ced3dd04a2b35f428d130a27de112607b98a32aa9f638ea8ef5a8a2a400e",
+  "raw_bytes": 10709,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/d3b1e71f-2c94-4ca9-9456-28b439df441f.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 1535,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:35+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "f314ced3dd04a2b35f428d130a27de112607b98a32aa9f638ea8ef5a8a2a400e",
+      "bytes": 10709
+    },
+    "article.html": {
+      "sha256": "fc1de61f237f8f852248f3bb633487c7070dee8ea1e019578410fe33e6c81600",
+      "bytes": 10193
+    },
+    "article.md": {
+      "sha256": "0bd75bf182c3c0cec80d854acd06d71c85c263f67458477b374e2204d7ea834b",
+      "bytes": 5689
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:21+08:00"
+}

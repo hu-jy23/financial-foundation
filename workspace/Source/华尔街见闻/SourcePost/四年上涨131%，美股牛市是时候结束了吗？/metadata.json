@@ -1,0 +1,73 @@
+{
+  "article_id": 3783527,
+  "selection": {
+    "article_id": 3783527,
+    "url": "https://wallstreetcn.com/articles/3783527",
+    "title": "四年上涨131%，美股牛市是时候结束了吗？",
+    "page_display_time": "2026-10-13T16:40:25+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "跨资产与市场结构",
+    "reading_priority": "B",
+    "reading_value": "以历史滚动收益、市场宽度及利率检验牛市叙事，讨论样本类比的边界。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2421,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 125
+  },
+  "url": "https://wallstreetcn.com/articles/3783527",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783527?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:46+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "四年上涨131%，美股牛市是时候结束了吗？",
+  "page_display_time": "2026-10-13T16:40:25+08:00",
+  "page_byline": "许超",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "标普500四年131%的累计涨幅令人瞩目，却难掩其内部深裂：84%的成分股已从高点回调超10%，42只AI概念股独揽67%涨幅，三巨头市值占比飙升至22%。高利率、债市动荡与极度集中的市场结构，令任何一次预期落空都几乎无缓冲余地。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2492,
+  "body_sha256": "9eb32aa453cd7298d9f80a69c17cdff8e735fbc0b5e2d589f3833c69a3a10114",
+  "raw_sha256": "266c3599c23acd4d49a7efd68d1d3a62cc377f83067d313ec8884b20e466a92a",
+  "raw_bytes": 10969,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/756490eb-2b64-42bd-bbc2-284f55f8a35a.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2421,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:40+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "266c3599c23acd4d49a7efd68d1d3a62cc377f83067d313ec8884b20e466a92a",
+      "bytes": 10969
+    },
+    "article.html": {
+      "sha256": "23877844c144c4f4424bac3e71ee67311b80d26ce7de3c7a255d5282530175ce",
+      "bytes": 10520
+    },
+    "article.md": {
+      "sha256": "3cf7437a1afbf0a70d66ee795d49f0cd4c80320b9f8ccfa7894bae92a95c5dab",
+      "bytes": 7425
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:30+08:00"
+}

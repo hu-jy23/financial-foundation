@@ -1,0 +1,106 @@
+{
+  "article_id": 3758224,
+  "selection": {
+    "article_id": 3758224,
+    "url": "https://wallstreetcn.com/articles/3758224",
+    "title": "美联储祭出组合拳：继续降息25基点+12月结束缩表，两票委反对利率决议",
+    "page_display_time": "2025-10-30T03:35:37+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李丹",
+    "page_author_url": "https://wallstreetcn.com/authors/75",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "A",
+    "reading_value": "解释降息与结束缩表的操作安排，区分持有资产再投资、资产结构调整和总量扩张。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2758,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 12
+  },
+  "url": "https://wallstreetcn.com/articles/3758224",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3758224?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:16+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/d9412656-5afe-455e-8312-83873eef5d37.jpeg",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_001.jpg",
+      "sha256": "1f22b87865045ae0982e518410191d2560586ddba2f3b0aab44aa7a56e831cfd",
+      "bytes": 132898,
+      "width": 662,
+      "height": 828,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/d9412656-5afe-455e-8312-83873eef5d37.jpeg"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "美联储祭出组合拳：继续降息25基点+12月结束缩表，两票委反对利率决议",
+  "page_display_time": "2025-10-30T03:35:37+08:00",
+  "page_byline": "李丹",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "美联储缩表持续三年半后告终，12月起以短期国债替代到期MBS持仓。特朗普“钦点”理事米兰和上次一样主张降息50基点，另一票委施密德支持按兵不动。决议声明新增指出，劳动力市场近期指标与政府关门前趋势相符，称就业下行风险“近几个月”增加。“新美联储通讯社”：联储继续努力防止近期就业放缓的趋势恶化，经济数据缺失使未来利率走向变得扑朔迷离。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2814,
+  "body_sha256": "0f2a062506dc37b95521252206eec506d7abad3b3b2bf1841b53fe3897993d42",
+  "raw_sha256": "eb28d37c57919c030850d222ee13f71c5d9487dbd84af1e267ae082f74ca9606",
+  "raw_bytes": 13697,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/36419908-6e8b-4f8c-adbc-7669a37a695c.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 2758,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "鲍威尔已暗示",
+      "url": "https://wallstreetcn.com/articles/3757187"
+    },
+    {
+      "text": "华尔街见闻文章",
+      "url": "https://wallstreetcn.com/articles/3758161"
+    },
+    {
+      "text": "去年6月首次开始放缓",
+      "url": "https://wallstreetcn.com/articles/3714084"
+    },
+    {
+      "text": "4月进一步放缓",
+      "url": "https://wallstreetcn.com/articles/3743454"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "eb28d37c57919c030850d222ee13f71c5d9487dbd84af1e267ae082f74ca9606",
+      "bytes": 13697
+    },
+    "article.html": {
+      "sha256": "38b29ee3266709ec5b7315f0f9b2f1d0bb8b36ae13379ed89abde55d8b6c16a4",
+      "bytes": 13585
+    },
+    "article.md": {
+      "sha256": "d317c8ae10e1395426a8d86b82c0988fd859090484741a4d4e4b5f3aacbda4e0",
+      "bytes": 9251
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:09+08:00"
+}

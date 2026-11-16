@@ -1,0 +1,154 @@
+{
+  "article_id": 3744871,
+  "selection": {
+    "article_id": 3744871,
+    "url": "https://wallstreetcn.com/articles/3744871",
+    "title": "一文读懂隔夜美债崩盘的“罪魁”——基差交易",
+    "page_display_time": "2025-04-09T13:39:46+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李笑寅",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004684",
+    "page_source_label": "华创证券张瑜",
+    "page_source_url": null,
+    "page_attribution_note": "本文作者：华创证券张瑜，来源：一瑜中的，原文标题：《对冲基金基差交易引发美债市场脆弱性担忧——海外周报第84期》，华尔街见闻有所删减",
+    "category": "国债与财政",
+    "reading_priority": "A",
+    "reading_value": "详细交代基差交易三类参与者、回购融资、保证金和交易商约束，机制链条完整。",
+    "starter_selection": true,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 4049,
+    "page_image_count": 5,
+    "original_underlying_research_verified": false,
+    "catalog_number": 24
+  },
+  "url": "https://wallstreetcn.com/articles/3744871",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3744871?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:02:16+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://mmbiz-qpic.wscn.net/sz_mmbiz_png/vY1KgJlDtwzB53HO1LFMh4GKicSEgLDgeq14S1YYbfibq4sH26osFiaHbnnbHc8lp2UBibG2URCIeZm4apPSVPFrQQ/640?wx_fmt=png&from=appmsg",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "（二）美债基差交易主要参与者？",
+      "path": "assets/figure_001.png",
+      "sha256": "ba29339fa2f03510e0a547b61f2ac00d56ce4edf5cd0b9fed52bfa5645def3c2",
+      "bytes": 257371,
+      "width": 1014,
+      "height": 671,
+      "content_type": "image/png",
+      "final_url": "https://mmbiz-qpic.wscn.net/sz_mmbiz_png/vY1KgJlDtwzB53HO1LFMh4GKicSEgLDgeq14S1YYbfibq4sH26osFiaHbnnbHc8lp2UBibG2URCIeZm4apPSVPFrQQ/640?wx_fmt=png&from=appmsg"
+    },
+    {
+      "order": 2,
+      "source_url": "https://mmbiz-qpic.wscn.net/sz_mmbiz_png/vY1KgJlDtwzB53HO1LFMh4GKicSEgLDgeib30neCyr2pUUk3vsmygQYvGPMia6PzD8kv5zvY7hU2QFJoVwZ21E78g/640?wx_fmt=png&from=appmsg",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "（三）为什么担忧基差交易风险？",
+      "path": "assets/figure_002.png",
+      "sha256": "ffbba6741ee1f8af65e4a2e72a7806663f6b43fb45bc426687aaeeebbfb2cf25",
+      "bytes": 173798,
+      "width": 1007,
+      "height": 750,
+      "content_type": "image/png",
+      "final_url": "https://mmbiz-qpic.wscn.net/sz_mmbiz_png/vY1KgJlDtwzB53HO1LFMh4GKicSEgLDgeib30neCyr2pUUk3vsmygQYvGPMia6PzD8kv5zvY7hU2QFJoVwZ21E78g/640?wx_fmt=png&from=appmsg"
+    },
+    {
+      "order": 3,
+      "source_url": "https://mmbiz-qpic.wscn.net/sz_mmbiz_png/vY1KgJlDtwzB53HO1LFMh4GKicSEgLDgeTJXP4Ak9Ugy0saRxzRpiaGk7OZIUzJfHn4G0k3l5b4wpvMQbebsic3vA/640?wx_fmt=png&from=appmsg",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "2、经纪交易商缓冲能力有限",
+      "path": "assets/figure_003.png",
+      "sha256": "b8a7fae696e656ddf2badbbfb94b514bcad209b8bf3ec7b0943af04a850b2242",
+      "bytes": 211964,
+      "width": 1080,
+      "height": 483,
+      "content_type": "image/png",
+      "final_url": "https://mmbiz-qpic.wscn.net/sz_mmbiz_png/vY1KgJlDtwzB53HO1LFMh4GKicSEgLDgeTJXP4Ak9Ugy0saRxzRpiaGk7OZIUzJfHn4G0k3l5b4wpvMQbebsic3vA/640?wx_fmt=png&from=appmsg"
+    },
+    {
+      "order": 4,
+      "source_url": "https://mmbiz-qpic.wscn.net/sz_mmbiz_png/vY1KgJlDtwzB53HO1LFMh4GKicSEgLDgeAa2unCiaQ3U1Cia0Ja9LIZm2AibtTJVayKlqv3Cvj0aAmsBdx6lmGDZAA/640?wx_fmt=png&from=appmsg",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "3、国债供应增长加剧脆弱性",
+      "path": "assets/figure_004.png",
+      "sha256": "7b99314625c61717f431143de721bb8fd0718a190755a46e2b2ba8143bc7fe2f",
+      "bytes": 205065,
+      "width": 945,
+      "height": 734,
+      "content_type": "image/png",
+      "final_url": "https://mmbiz-qpic.wscn.net/sz_mmbiz_png/vY1KgJlDtwzB53HO1LFMh4GKicSEgLDgeAa2unCiaQ3U1Cia0Ja9LIZm2AibtTJVayKlqv3Cvj0aAmsBdx6lmGDZAA/640?wx_fmt=png&from=appmsg"
+    },
+    {
+      "order": 5,
+      "source_url": "https://mmbiz-qpic.wscn.net/sz_mmbiz_png/vY1KgJlDtwzB53HO1LFMh4GKicSEgLDgeBgbwe04iaaeneLb3UvCUgkF83pobJ17SjAiav3PspmK7pcTknKccovtQ/640?wx_fmt=png&from=appmsg",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "（四）如何应对基差交易的风险？",
+      "path": "assets/figure_005.png",
+      "sha256": "8e86d499f446c4d877ce0dcc29958a9e92cdb2a3c069f3f7ad1ea9fcdb176c0d",
+      "bytes": 154601,
+      "width": 941,
+      "height": 590,
+      "content_type": "image/png",
+      "final_url": "https://mmbiz-qpic.wscn.net/sz_mmbiz_png/vY1KgJlDtwzB53HO1LFMh4GKicSEgLDgeBgbwe04iaaeneLb3UvCUgkF83pobJ17SjAiav3PspmK7pcTknKccovtQ/640?wx_fmt=png&from=appmsg"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "一文读懂隔夜美债崩盘的“罪魁”——基差交易",
+  "page_display_time": "2025-04-09T13:39:46+08:00",
+  "page_byline": "李笑寅",
+  "source_label": "华创证券张瑜",
+  "source_url": "",
+  "subtitle": "华创证券张瑜认为，对冲基金通过高杠杆进行国债现券-期货的基差交易，是市场脆弱性的主要来源。随着国债供应持续增长，对冲基金基差头寸同样持续增长，任何外部冲击可能引发更严重的流动性危机。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 4098,
+  "body_sha256": "1aed7c4bc092efb5df54bf7a463b3f16f8f744ad99b1211edd035043b5c61a3c",
+  "raw_sha256": "518f9d6581743182e2e425502f2d5cb57afe4ccc6537da10d29f7f96c7d806d8",
+  "raw_bytes": 20643,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/ca1b105b-3003-4841-98ad-9e73de615f63.mp3",
+  "image_occurrences": 5,
+  "html_table_count": 0,
+  "catalog_image_count": 5,
+  "catalog_text_characters": 4049,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "一瑜中的",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3NTUyMDkzMw==&mid=2247594171&idx=6&sn=385340dd08b0f56bef414a69bca21c61&chksm=ea7e3a287581693934960d6283abe4220c7aff6ab7c62f40661d43784e8bde529fa6c291297b&scene=0&xtrack=1#rd"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "518f9d6581743182e2e425502f2d5cb57afe4ccc6537da10d29f7f96c7d806d8",
+      "bytes": 20643
+    },
+    "article.html": {
+      "sha256": "ccf3a35d4a04c463268b1da91c4c7ce8c24e0194819b370c4833896db7aad35d",
+      "bytes": 19550
+    },
+    "article.md": {
+      "sha256": "62450480276c50cb2e4dfa8039408cd6f9d4e1cdac23ed718e616f5a46b63745",
+      "bytes": 12795
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:11+08:00"
+}

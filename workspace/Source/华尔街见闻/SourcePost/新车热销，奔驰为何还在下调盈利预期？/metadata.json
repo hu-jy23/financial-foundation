@@ -1,0 +1,73 @@
+{
+  "article_id": 3784667,
+  "selection": {
+    "article_id": 3784667,
+    "url": "https://wallstreetcn.com/articles/3784667",
+    "title": "新车热销，奔驰为何还在下调盈利预期？",
+    "page_display_time": "2026-10-28T16:46:27+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "王小娟",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004768",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "A",
+    "reading_value": "拆解奔驰销量、区域利润、成本和产品投入的错位，解释新车增长为何未必提升利润率。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1208,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 202
+  },
+  "url": "https://wallstreetcn.com/articles/3784667",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784667?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:08+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "新车热销，奔驰为何还在下调盈利预期？",
+  "page_display_time": "2026-10-28T16:46:27+08:00",
+  "page_byline": "王小娟",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "三季度中国销量下滑31%。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1293,
+  "body_sha256": "142f465b310c882fbfe7f7a6cc72ea426234501cb8d434cdca900bd4d0b58d26",
+  "raw_sha256": "3e51a1a304949338abfac1fec4cfbfafe3a91b00e1b786924df0eae89874b8c1",
+  "raw_bytes": 6673,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/270d4ab5-0694-4320-87ab-d6a287894957.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1208,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:47+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "3e51a1a304949338abfac1fec4cfbfafe3a91b00e1b786924df0eae89874b8c1",
+      "bytes": 6673
+    },
+    "article.html": {
+      "sha256": "a964801ba6649544c7cbde1384de610aea2ee66617f27591ef345607d53f5256",
+      "bytes": 6573
+    },
+    "article.md": {
+      "sha256": "197e0aebf0accbc917671a31623343cd725bd122449ee2aaae99d18e0d41dd81",
+      "bytes": 4059
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:49+08:00"
+}

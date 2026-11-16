@@ -1,0 +1,1662 @@
+
+
+===== PDF 108 | 印刷页 73 =====
+
+    4
+Chapter
+
+                             Future Value, Present Value,
+                             and Interest Rates
+
+    Learning Objectives
+    After reading this chapter, you should be able to:
+     LO1      Compare the value of monetary payments using present value and future value.
+
+     LO2      Apply present value to a stream of payments using internal rate of return and bond
+              valuation.
+
+     LO3      Explain the difference between real and nominal interest rates and how each is
+              calculated.
+
+
+Lenders have been despised for most of history. The borrowers must pay for their
+loans, while the lenders just sit around doing nothing. No wonder people have been
+vilified for charging interest. No wonder that, for centuries, clerics pointed to biblical
+passages damning interest. Even philosophers weighed in against the practice, includ-
+ing Aristotle, who called the “breeding of money from money” unnatural.
+    After scorning lenders for millennia, we now recognize their service as a funda-
+mental building block of civilization. Credit is one of the critical mechanisms we have
+for allocating resources. Without it, our market-based economy would grind to a halt.
+Even the simplest financial transaction, like saving some of your paycheck each month
+to buy a car, would be difficult, if not impossible. And corporations, most of which
+survive from day to day by borrowing to finance their activities, would not be able to
+function. Credit is so basic that we can find records of people lending grain and metal
+from 5,000 years ago. Credit probably existed before common measures of value, and
+it predates coinage by 2,000 years.
+    Despite its early existence and its central role in economic transactions, credit was
+hard to come by until the Protestant Reformation. By the 16th century, views had
+changed, and interest payments were tolerated if not encouraged, so long as the rate
+charged was thought to be reasonable. Some historians even point to this shift as a key
+to the development of capitalism and its institutions. Protestant European countries did
+develop faster than Catholic ones, at least at first.1 Since then, credit has exploded,
+facilitating extraordinary increases in general economic well-being. Yet even so, most
+people still take a dim view of the fact that lenders charge interest. Why?
+    The main reason for the enduring unpopularity of interest comes from the failure to
+appreciate the fact that lending has an opportunity cost. Think of it from the point of
+
+1
+ Max Weber makes this argument in his classic work The Protestant Ethic and the Spirit of Capitalism, first
+published in 1905.
+                                                      73
+
+
+===== PDF 109 | 印刷页 74 =====
+
+74 l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+                       view of the lender. People who offer credit don’t need to make loans. They have alter-
+                       natives, and extending a loan means giving them up. While lenders can eventually
+                       recoup the sum they lend, neither the time that the loan was outstanding nor the oppor-
+                       tunities missed during that time can be gotten back. So interest isn’t really “the breed-
+                       ing of money from money,” as Aristotle put it; it’s more like a rental fee that borrowers
+                       must pay lenders to compensate them for lost opportunities.
+                          It’s no surprise that in today’s world, interest rates are of enormous importance to
+                       virtually everyone—individuals, businesses, and governments. Quoted as a percent-
+                       age of the amount borrowed, interest rates link the present to the future, allowing us
+                       to compare payments made on different dates. Interest rates also tell us the future
+                       reward for lending today, as well as the cost of borrowing now and repaying later. To
+                       make sound financial decisions, we must learn how to calculate and compare different
+                       rates on various financial instruments. In this chapter, we’ll explore interest rates
+                       using the concepts of future value and present value and then apply those concepts to
+                       the valuation of bonds. Finally, we’ll look at the relationship between interest rates
+                       and inflation.
+
+
+
+                       Valuing Monetary Payments Now
+                       and in the Future
+                       To compare the value of payments made on different dates, we need a set of tools
+                       called future value and present value. We’ll use them to see how and why the
+                       promise to make a payment on one date is more or less valuable than the promise
+                       to make a payment on a different date. For example, we already know that if you
+                       want to borrow $100 today, your repayment needs to be bigger if you promise to
+                       make it in a year than if you promise to make it in a month. But how much more
+                       will you have to pay? The answer depends on both the date of payment and the
+                       interest rate. For the time being, we’re going to assume that we know for sure that
+                       you will repay the loan. We’ll get to the possibility of default when we study risk
+                       in the next ­chapter.
+
+
+                       Future Value and Compound Interest
+                       What is the future value of one dollar deposited in an interest-bearing account today?
+                       To answer this question, let’s start with a definition: Future value is the value on some
+                       future date of an investment made today. Say that today you invest $100 in a savings
+                       account that guarantees 5 percent interest per year. After one year, you’ll have $105
+                       (the investment at its present value of $100 plus $5 in interest). So the future value of
+                       $100 one year from now at an interest rate of 5 percent is $105. We could also say that
+                       the $100 investment yields $5, which explains why an interest rate is sometimes called
+                       a yield. Notice that the same calculation works for a simple loan in which you borrow
+                       $100 for one year at 5 percent interest. The amount you will need to repay is $105.
+                       Remember Core Principle 1: Time has value.
+                          To generalize this concept so that we can handle different interest rates and initial
+                       investments of any size, we can express it mathematically. First we need to convert the
+                       percentage interest rate into a decimal, so that 5 percent becomes 0.05. Note that in
+                       this expression, as in all mathematical manipulations in this chapter, the interest rate
+                       is expressed in decimal terms. Now we can express future value as an equation. If the
+
+
+===== PDF 110 | 印刷页 75 =====
+
+                                                             Valuing Monetary Payments Now and in the Future   l 75
+
+
+
+present value of your initial investment is $100 and the interest rate is 5 percent, then
+the future value one year from now is
+                               ​$100 + $100(0.05) = $105​
+      Present value of the investment + Interest = Future value in one year
+    It is essential to convert all interest rates to decimals before doing any computation.
+This is consistent with the fact that we quote interest rates as “parts per 100,” so
+5 ­percent means 5 parts per 100, or 0.05.
+    This expression shows us immediately that the higher the interest rate, the higher the future
+value. If the interest rate were to rise to 6 percent, then the future value of $100 would be
+                               ​$100 + $100(0.06) = $106​
+In general, the future value, FV, of an investment with a present value, PV, invested at
+an interest rate i is
+                                  ​FV = PV + PV × i
+                                        = PV × (1 + i)(1)​
+Future value in one year
+                 = Present value of the investment today × (One plus the interest rate)
+   We can see right away that the higher the interest rate or the amount invested, the
+higher the future value.
+   But this example is too simple. Most financial instruments don’t make single pay-
+ments in exactly one year, so we need to figure out what happens when the time to
+repayment varies. Computing the future value of an investment to be repaid two years
+from now is straightforward, so let’s do that first. But because we quote interest rates
+on a yearly basis, we need to be careful. Using one-year interest rates to compute the
+value of an investment that will be repaid more than one year from now requires apply-
+ing the concept of compound interest, which is interest on the interest. If you leave an
+investment in an interest-bearing account for two years, during the second year you
+will receive interest not only on your initial investment but also on the interest you
+earned for the first year (because they both have an opportunity cost).
+   Getting back to our example, let’s say that you leave your $100 deposit in the bank
+for two years at 5 percent interest per year. The future value of this investment has four
+parts. The first three are straightforward. They are the initial investment of $100, the
+interest on that investment in the first year, and the interest on it in the second year. But
+because you left the interest from the first year in the bank during the second year, it is
+as if you made a new deposit at the beginning of the second year, and that earns inter-
+est too. So the fourth part of the future value is the interest you receive during the
+second year on the interest you received in the first year. That’s compounding. With an
+initial deposit of $100 and an interest rate of 5 percent, we can add up these four parts
+to compute your investment’s future value in two years.
+​	                     $100 + $100(0.05) + $100(0.05) + $5(0.05) = $110.25
+​Present value of the initial investment
+                              ​+ Interest on the initial investment in first year
+                               + Interest on the initial investment in second year
+                               + Interest on the interest from first year in second year
+                               = Future value in two years
+
+
+===== PDF 111 | 印刷页 76 =====
+
+76   l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+
+                             Table 4.1        Computing the Future Value of $ 100 at 5 Percent Annual Interest
+
+
+
+                               Years into Future                           Computation                             Future Value
+
+                                         1                                 $100(1.05)                                 $105.00
+                                                                                       2
+                                         2                                 $100(1.05)                                 $110.25
+                                         3                                 $100(1.05)3                                $115.76
+                                         4                                 $100(1.05)4                                $121.55
+                                         5                                 $100(1.05)5                                $127.63
+                                                                                       10
+                                      10                                   $100(1.05)                                 $162.89
+
+
+
+
+                             ​We can use a small amount of algebra2 to show that this equals
+                                                         $100(1.05)(1.05) = $100(1.05)2
+                        Extending it to three years, four years, or more just means multiplying by (1.05) over
+                        and over again. The multiplication takes care of the compounding. Table 4.1 shows the
+                        calculations. The final line shows that after 10 years, a deposit with a present value of
+                        $100 becomes $162.89. That is, it earns $62.89 in interest. If we had ignored com-
+                        pounding and just multiplied 5 percent by 10 years to get 50 percent, the answer would
+                        have been $150. Compounding produced an additional $12.89 in interest over 10
+                        years. To put it as clearly as possible, multiplying the number of years times the annual
+                        interest rate gives the wrong answer!
+                           Using the computations in Table 4.1, we can derive a general formula for future value.
+                        ​	                                  FVn = PV × (1 + i)n(2)
+                                    Future value in n years = Present value of the investment
+                                                                     × (One plus the interest rate) raised to n
+                        ​So to compute future value, all we need to do is calculate one plus the interest rate
+                        (measured as a decimal) raised to the nth power and multiply it by the present value.
+                            Before we go any further, we should stop to consider an important problem. What
+                        if you want to put your $100 into a bank for six months, or 2½ years, or any amount
+                        of time that is not a round number of years? The answer is that the formula still
+                        works. You can compute the future value using equation (2) regardless of whether n
+                        is a whole number. There is one pitfall, however. In computing future value, both the
+                        interest rate and n must be measured in the same time units. We have been measur-
+                        ing interest rates as the percentage per year, so we were careful to measure n in
+                        years as well. So, if we want the future value in half of one year, n would be ½; if we
+                        wanted it in one month, n would be 1/12; and if we wanted the future value in one
+                        day, n would be 1/365.
+                            As you can see, taking advantage of the future-value formula requires an under-
+                        standing of the transformations needed to convert time from years to months or vice
+                        versa. Converting n from years to months is easy—everyone knows there are 12 months
+
+                        2
+                          The algebra is as follows: $100 + $100(0.05) + $100(0.05) + $5(0.05) = $100(1 + 0.05 + 0.05 + 0.052) =
+                        $100(1 + 0.05)(1 + 0.05) = $100(1 + 0.05)2 = $100(1.05)2. This result relies on algebraic factoring: namely,
+                        (1 + i + i + i2) = (1 + 2i + i2) = (1 + i)2.
+
+
+===== PDF 112 | 印刷页 77 =====
+
+                                                                      Valuing Monetary Payments Now and in the Future                   l     77
+
+
+
+
+                        How Long Does Your Investment Take to Double?
+                        YOUR FINANCIAL WORLD
+
+
+   You invest $100 at 5 percent interest. How long will you            investment takes to become $200 is cut in half. That is, while
+   need to wait until you have $200? That may seem like a sim-         it takes 14.4 years to double at 5 percent interest,
+   ple question, but compounding makes it difficult. The               it takes only 7.2 years at 10 percent (72/10 = 7.2 and 1.107.2
+   straightforward (some people would call it “brute force”) way       = 1.99). This rule works for anything that is growing at a con-
+   to find the answer is to take out your calculator and multiply      stant rate. So, if you want to estimate how long it will take a
+   $100 times 1.05 over and over again counting how many               country’s population or company’s sales to double, just di-
+   times it takes to get to an answer that is close to $200. If you    vide the annual growth rate measured as a percentage per
+   did that, you would find that after the 14th time, you reached      year into 72.
+   $197.99. And multiplying once more, you would have
+   $207.89. You would conclude that, at 5 percent interest,
+   your investment takes between 14 and 15 years to double.            *The rule of 72 is an approximation of the solution to an algebraic
+       While the brute force technique works—you can multiply          problem that requires the use of logarithms. Consider the formula
+   over and over again—it’s clumsy. Fortunately, there is a sim-       for compound interest, in which the future value after n years is
+   pler way called the rule of 72. If you want to compute the          equal to FV = PV (1 + i)n. Setting the present value PV equal to 1
+   number of years it takes an investment to double, divide the        and the future value FV equal to 2 and taking logarithms, we get
+   annual interest rate measured as an integer into 72.* So at         n = ln(2)/ln(1 + i). This formula is exact. Next, we use the
+   an interest rate of 5 percent, we would expect an investment        approximation that ln(1 + i) ≈ i for small i. Substituting this into
+                                                                       the equation gives us n = ln(2)/i. The ln(2) = 0.693, so it might
+   to double in 72/5 = 14.4 years (we can check and see that
+                                                                       seem that we should be using the rule of 69.3. For very low
+   1.0514.4 = 2.02). If the interest rate were 8 percent, we would     interest rates, such as we observed after the 2007–2009 financial
+   estimate 9 years (1.089 = 2.00).                                    crisis in Japan, the United States, and parts of Europe, indeed we
+       The rule of 72 shows the power of compounding. It               should. But in the range of interest rates that we often see (4 to
+   shows that when the interest rate doubles, the time a $100          12 ­percent), 72 works better.
+
+
+
+
+in a year—but converting the interest rate is harder. If the annual interest rate is 5 per-
+cent, what is the interest rate for one month? To figure out the answer, we’ll start with
+the future-value formula, but in months. Remember that compounding means you can-
+not just multiply the monthly interest rate by 12 to get the annual interest rate. Instead,
+if i m is the one-month interest rate and n is the number of months, then a deposit made
+for one year will have a future value of $100(1 + i m)12. We know that this amount
+equals $100(1.05), so figuring out the answer means equating the two amounts,
+                                        ​(1 + i m)12 = (1.05)
+​and raising each side to the one-twelfth power:
+                                 ​(1 + i m) = (1.05)1/12 = 1.0041
+​ onverting from decimals to a percentage, the one-month interest rate is 0.41 percent.
+C
+We can handle any mismatch between the time units of i and n in a similar way (see
+Tools of the Trade: Computing Compound Annual Rates on page 82).
+   These fractions of percentage points, like 0.41 percent, are so important in discuss-
+ing interest rates that they have their own name, basis points. A basis point is one one
+hundredth of a percentage point. That is, one basis point equals 0.01 percent.
+   You’re probably wondering how useful all this discussion of future value really is.
+To see, consider the following question: If you put $1,000 per year into the bank at
+4 percent interest, how much would you have saved after 40 years? The answer is
+$98,826—more than twice the $40,000 you deposited. Figuring out the exact answer
+
+
+===== PDF 113 | 印刷页 78 =====
+
+78   l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+                        is complicated because we need to add up the future values of forty $1,000 deposits,
+                        each made in a different year, but doing so uses the concept of future value. The first
+                        $1,000 is deposited for 40 years, so its future value is
+                                                     ​$1,000(1.04)40 = $4,801.02
+                        ​The second $1,000 is deposited for 39 years, so its future value is
+                                                     ​$1,000(1.04)39 = $4,616.37
+                        a​ nd so on. The practical implication of this calculation is that buying one less soda or
+                         candy bar per day isn’t just good for your physical health; it’s good for your financial
+                         health, too.
+
+                        Present Value
+                        It’s easy to see why future value is important. We often want to know what savings and
+                        investments will be worth in the future. But that isn’t the only thing we need to know.
+                        There is another, somewhat different task that we face with some regularity. We need
+                        to be able to figure out how much a payment promised in the future is worth today. Say
+                        you agree to make a $225 loan, and the borrower offers to repay you either $100 a year
+                        for three years or $125 a year for two years. Which offer should you take? Answering
+                        this question means figuring out the current value of the promised payments on the
+                        dates when they will be made. To do that, we’ll use the concept of present value,
+                        sometimes referred to as present discounted value.
+
+                        The Definition         In our discussion of future value, we used the term present value
+                        to mean the initial amount invested or deposited. The way we used the term suggests
+                        its technical definition: Present value is the value today (in the present) of a payment
+                        that is promised to be made in the future. Put another way, present value is the amount
+                        that must be invested today in order to realize a specific amount on a given future date.
+                        Financial instruments promise future cash payments, so we need to know how to value
+                        those payments. Present value is an integral component of the computation of the price
+                        of all financial instruments.
+                            To understand the calculation of present value, go back to future value. Remember
+                        that at a 5 percent interest rate, the future value one year from now of a $100 invest-
+                        ment today is $105. It follows that at this same 5 percent interest rate, the present value
+                        of $105 one year from now is $100. All we did was invert the future value calculation.
+                            Reversing the calculation in general terms is just as easy. Start with the fact that the
+                        future value of a payment equals the current investment times one plus the interest
+                        rate: FV = PV × (1 + i) [equation (1)]. Divide both sides of this expression by (1 + i)
+                        to get an expression for how much we need to invest today to realize the future value
+                        one year from today. The result is
+                        	​                                        ​  FV  ​
+                                                            PV = ______                                       (3)​
+                                                                    (1 + i)
+                          Present value = Future value of the payment divided by (One plus the interest rate)
+                           In our example, we see that
+                                                                      $105
+                                                       ​​  FV  ​ = ______
+                                                       ______      ​        ​ = $100​
+                                                       (1 + i)      (1.05)
+                        so the present value of $105 one year from now, at a 5 percent interest rate, is
+                        indeed $100.
+
+
+===== PDF 114 | 印刷页 79 =====
+
+                                                                       Valuing Monetary Payments Now and in the Future              l     79
+
+
+
+
+                         Risk Taking and the Search for Yield
+                         LESSONS FROM THE CRISIS
+
+   Core Principle 2 teaches us that risk requires compensation.         are relatively infrequent during economic expansions. Be-
+   But to secure proper compensation, investors must under-             cause such booms are long and recessions are short, in-
+   stand the risks of what they buy.                                    vestors can become accustomed to unsustainably low
+        The present-value analysis of this chapter helps us un-         levels of corporate default. Again, naively projecting recent
+   derstand the risk of bonds with different maturities. If inter-      experience underestimates the default risks for which in-
+   est rates rise, the losses on a long-term bond will exceed           vestors should be compensated when buying corporate
+   the losses on a short-term bond. The reason is that the              securities.
+   further in the future the promised payment, the more the                 Investors also may underestimate risk if their profes-
+   present value falls when interest rates rise. As a result,           sional investment managers take risks that are not evident
+   long-term bonds are more sensitive to the risk that interest         or are purposely concealed. As a result, when market inter-
+   rates will change. Unsurprisingly, buyers of long-term               est rates are low, some investment managers may try to gen-
+   bonds usually insist on an extra reward as compensation              erate high interest payments to clients by taking greater
+   for such interest rate risk (see discussion of the yield curve       risks—a so-called search for yield. Until events compel the
+   in Chapter 7).                                                       manager to reduce payments, the investor may think that
+        In some circumstances, many investors underestimate             the manager is unusually skillful rather than lucky or simply
+   the risks of particular assets. For example, investors lacking       prone to taking risks.
+   ­sufficient regard for risk typically seek higher-yield bonds            The search for yield can bid up the prices of risky securi-
+    even if those bonds are riskier (due to longer maturities or        ties and depress the market compensation for risk below a
+    higher default probabilities).                                      sustainable level. Eventually, when the risk comes to fruition
+        What can prompt the underestimation of risk? Experience         (say, defaults increase), the prices of riskier securities fall
+    suggests that some investors extrapolate from recent pat-           disproportionately, potentially triggering large financial
+    terns and pay less attention to the more distant past. If inter-    losses. During the financial crisis of 2007–2009, the plunge
+    est rates have been low and stable for some time, investors         of corporate and mortgage security prices highlighted how
+    may expect this pattern to persist even if rates tended to be       forcefully markets can reprice risk when the search for yield
+    higher and more volatile in earlier periods.                        has gone too far. In the euro-area crisis that began in 2009,
+        Extrapolation of recent experience also can lead inves-         something similar occurred in the markets for bank and gov-
+    tors to misjudge default risk. For example, business defaults       ernment debt.
+
+
+
+
+    While future value tells us what today’s investment will be worth in the future, pres-
+ent value tells us what promised future payments are worth today. This means that the
+properties of present value mirror those of future value. In the same way that future
+value rises as the interest rate rises, present value falls as the interest rate rises. To see
+this, first look at the calculation of the present value of $105 in one year at an interest
+rate of 6 percent. The answer is
+                                         $105
+                                     _____
+                                     ​​        ​ = $99.06​
+                                         1.06
+which is less than the $100 needed when the interest rate is only 5 percent. Present
+value falls as the interest rate rises.
+    What happens if the payment is going to be made in two years instead of one? What
+is the present value of $105 in two years at an interest rate of 5 percent? Again, we can
+compute the answer using the future-value formula by asking what present value has a
+future value of $105 in two years at an interest rate of 5 percent. This is the solution to
+                                         $105 = PV(1.05)2
+The answer is
+                                                $105
+                                       ​PV = _____
+                                             ​        ​ = $95.24​
+                                                1.052
+
+
+===== PDF 115 | 印刷页 80 =====
+
+80   l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+                        We can generalize this process by looking at the future value in n years of an invest-
+                        ment today: FVn = PV(1 + i)n. Dividing both sides of this expression by (1 + i)n, we
+                        get the general formula for present value:
+
+                                   FVn
+                         PV = ​  _______
+                        	​                 ​(4)​
+                                 (1 + i)n
+
+                                Present value = Future value of a payment made in n years divided
+                                             by (One plus the interest rate) raised to n
+                           From this simple expression, we can deduce three important properties of present
+                        value. Present value is higher:
+                           1. The higher the future value of the payment, FVn.
+                           2. The shorter the time until the payment, n.
+                           3. The lower the interest rate, i.
+                        We’re going to use equation (4) over and over again. It is the single most important
+                        relationship in our study of financial instruments, so we have highlighted it in a red
+                        rectangle. Once we can figure out the present value of any future payment, then we
+                        understand the fundamentals of mortgages, credit cards, car loans, and even stocks.
+                           We will spend the rest of this chapter looking at how present value changes when we
+                        change the various components of the formula, and how to use it more generally. But
+                        before we do, it is important to note one final similarity between present value and
+                        future value. Recall that to calculate future value, n need not be measured in years. We
+                        can do the computation even when n is the number of months, so long as the interest
+                        rate is measured in months as well. The same is true of present value. So long as we
+                        measure n and i in the same time unit, and the interest rate is expressed as a decimal, the
+                        formula works.
+
+                        How Present Value Changes It is useful to go through each of the three proper-
+                        ties of present value, looking at the impact of changing each one: the size of the future
+                        payment (FVn), the time until the payment is made (n), and the interest rate (i). Starting
+                        with FVn, we see that doubling the future value of the payment, without changing the time
+                        of the payment or the interest rate, doubles the present value. For example, at a 5 percent
+                        interest rate, a $100 payment made in two years has a present value of $90.70. Doubling
+                        the payment to $200 doubles the present value to $181.40. In fact, increasing or decreas-
+                        ing FVn by any percentage will change PV by the same percentage, in the same direction.
+                            We have already seen that the sooner a payment is to be made, the more it is worth.
+                        How much more? To see, let’s return to the example of a $100 payment at 5 ­percent
+                        interest. How sensitive is the present value of this payment to the time until it is made?
+                        Plugging some numbers into the general present-value formula [equation (4)], and
+                        allowing the time to go from 0 to 30 years, we can construct Figure 4.1, which shows
+                        that the present value of the payment is worth $100 if it is made immediately but
+                        declines gradually to $23 for a payment made in 30 years.
+                            The rate of decline in the present value is related to the same phenomenon that gives
+                        us the rule of 72 (described in Your Financial World: How Long Does Your Investment
+                        Take to Double? on page 77). Consider this question: At a 5 percent interest rate, how
+                        long into the future must a payment of $100 be made for it to be worth the same as $50
+                        received today? The answer is 14.4 years. That is, at 5 percent interest, the present
+                        value of $100 paid in 14.4 years is $50. Note that 14.4 equals 72 divided by 5, so it is
+
+
+===== PDF 116 | 印刷页 81 =====
+
+                                                                Valuing Monetary Payments Now and in the Future   l   81
+
+
+
+also the number of years an invest-
+ment takes to double in value when         Figure 4.1        Present Value of $100 at 5 Percent Interest
+the return is 5 percent per year. We
+can repeat the computation to see
+that the investment takes 28.8 years           120
+to double twice, which tells us that
+the present value of $100 paid 28.8            100
+
+
+
+
+                                            Present Value ($)
+years from now is $25. These two                 80
+points are highlighted in Figure 4.1.                              PV = $50 at 14.4 years
+   The interest rate is the third                60
+important determinant of the present             40                                   PV = $25 at 28.8 years
+value of a future payment. To see
+how important it is, let’s look at the           20
+present value of a $100 payment                   0
+made 1, 5, 10, and 20 years from now                0       5      10      15      20       25      30
+at various interest rates. The general                             Years to Payment
+formula [equation (4)] allows us to
+do this series of computations.
+Table 4.2 shows the numerical
+results. Note what happens as the
+interest rate ­increases—that is, as you     Table 4.2      Present Value of a $100 Payment
+read down a column in the table or
+move to the right in the figure. You
+can see immediately that higher inter-
+                                                                             Payment due in
+est rates are associated with lower            Interest
+present values, no matter what the               Rate         1 Year       5 Years       10 Years     20 Years
+size or timing of the payment. Con-
+versely, lower interest rates are asso-          1%           $99.01       $95.15        $90.53        $81.95
+ciated with higher present values.               2%           $98.04       $90.57        $82.03        $67.30
+   Note, too, that at any fixed interest         3%           $97.09       $86.26        $74.41        $55.37
+rate, an increase in the time until a            4%           $96.15       $82.19        $67.56        $45.64
+payment is made reduces its present              5%           $95.24       $78.35        $61.39        $37.69
+value. Read across any row of the table          6%           $94.34       $74.73        $55.84        $31.18
+and you will see that as the time                7%           $93.46       $71.30        $50.83        $25.84
+increases from 1 to 5 to 10 to 20 years,         8%           $92.59       $68.06        $46.32        $21.45
+the present value goes down.                     9%           $91.74       $64.99        $42.24        $17.84
+   The final lesson to take away                10%           $90.91       $62.09        $38.55        $14.86
+from these calculations has to do
+                                                11%           $90.09       $59.35        $35.22        $12.40
+with how present value changes with
+                                                12%           $89.29       $56.74        $32.20        $10.37
+both time and the interest rate.
+Table 4.2 shows what happens to the             13%           $88.50       $54.28        $29.46       $ 8.68
+present value of a payment as the               14%           $87.72       $51.94        $26.97       $ 7.28
+interest rate increases. You can see            15%           $86.96       $49.72        $24.72       $ 6.11
+that if the payment is to be made in
+one year (column two), as the inter-
+est rate increases from 1 percent to 5 percent, the present value falls from $99.01 to
+$95.24. This is a drop of $3.77, or just under 4 percent. In fact, for the single pay-
+ment made in one year, the percentage change in the present value is approximately
+equal to the percentage-point change in the interest rate: A rise of 4 percentage
+points in the interest rate has caused a decline in present value of 4 percent.
+
+
+===== PDF 117 | 印刷页 82 =====
+
+82    l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+
+                            Computing Compound Annual Rates
+                            TOOLS OF THE TRADE
+
+
+     Comparing changes over days, months, years, and decades           get from just multiplying 0.5 by 12. The difference between
+     can be very difficult. If someone tells you that an investment    the two answers—the one you get by multiplying by 12 and
+     grew at a rate of ½ percent last month, what should you           the one you get by compounding—grows as the interest rate
+     think? You’re used to thinking about growth in terms of           grows. At a 1 percent monthly rate, the compounded annual
+     years, not months. The way to deal with such problems is to       rate is 12.68 percent.
+     turn the monthly growth rate into a compound annual rate.             Another use for compounding is to compute the per-
+     Here’s how you do it.                                             centage change per year when we know how much an in-
+         An investment whose value grows ½ percent per month           vestment has grown over a number of years. This rate is
+     goes from 100 at the beginning of the month to 100.5 at the       sometimes referred to as the average annual rate. Say that
+     end of the month. Remembering to multiply by 100 to con-          over five years an investment has increased 20 percent,
+     vert the decimal into a percentage, we can verify this:           from 100 to 120. What annual increase will give us a 20
+                                                                       percent increase over five years? Dividing by 5 gives the
+                (   
+                  ​ 
+                     100.5 − 100
+            ​100​ __________
+                         100     )       [(  100.5
+                             ​  ​ = 100​ ​_____
+                                          ​ 
+                                              100  ) ]
+                                                  ​  ​ − 1 ​ = 0.5%​   wrong answer because it ignores compounding; the in-
+                                                                       crease in the second year must be calculated as a percent-
+         To convert this monthly rate to an annual rate, we need to
+                                                                       age of the index level at the end of the first year. What is
+     figure out what would happen if the investment’s value con-
+                                                                       the growth rate that after five years will give us an increase
+     tinued to grow at a rate of ½ percent per month for the next
+                                                                       of 20 percent? Using the future-value formula,
+     12 months. We can’t just multiply 0.5 times 12. Instead, we
+     need to compute a 12-month compound rate by raising the
+                                                                       ​	 FVn = PV(1 + i)n
+     one-month rate to the 12th power. Assuming that our index
+     starts at 100 and increases by ½ percent per month, we can                           120 = 100(1 + i)5​
+     use the expression for a compound future value to compute
+     the index level 12 months later. Remembering to convert per-      Solving this equation means computing the following:
+     centages to their decimal form, so that 0.5 percent is 0.005,
+     we find the result is                                                                [( ) ​ 
+                                                                                                  120 1/5
+                                                                                      ​i = ​ ​ ____
+                                                                                                  100      ]
+                                                                                                      ​  ​ − 1 ​ = 0.0371​
+
+              ​FVn = PV(1 + i) = 100 (1.005) = 106.17​
+                                n                  12
+                                                                           This tells us that five consecutive annual increases of
+     an increase of 6.17 percent. That’s the compound annual           3.71 percent will result in an overall increase of 20 percent.
+     rate, and it’s obviously bigger than the 6 percent result we      [Just to check, we can compute (1.0371)5 = 1.20 = 120/100.]
+
+
+
+
+                                    Now look at the present value of a payment that will be made in 10 years
+                                (­column four of Table 4.2). As the interest rate goes from 1 to 5 percent, the present
+                                value of a $100 payment 10 years from now falls from $90.53 to $61.39. This is a
+                                decline of $29.14, or more than 30 percent. Not only does the present value of a future
+                                payment fall with the interest rate; the further in the future the promised payment is to
+                                be made, the more the present value falls. As a result, a change in interest rates has a
+                                much greater impact on the present value of a payment made far in the future than it
+                                has on one to be made soon. Remember this principle because it will be extremely
+                                important when we discuss bonds in the next section.
+
+
+                                Applying Present Value
+                                All of our examples thus far have focused on computing the present value of a single
+                                payment on a given future date. Thinking of present value in this way gives us enor-
+                                mous flexibility. It means that we can compute the present value not just of a single
+
+
+===== PDF 118 | 印刷页 83 =====
+
+                                                                                   Applying Present Value   l   83
+
+
+
+payment but also of any group of payments made on any number of dates. As we saw
+earlier, to use present value in practice, we need to look at sequences, or streams of
+payments. And valuing a stream of payments means summing their present values.
+That is, the value of the whole is the sum of the value of its parts. Present value is
+­additive. To see how present value is applied to a stream of payments, we will look at
+ two applications: internal rate of return and the valuation of bonds.
+
+Internal Rate of Return
+Imagine that you run a sports equipment factory. As part of your strategic planning,
+you are considering buying a new machine that makes tennis rackets. The machine
+costs $1 million and can produce 3,000 rackets a year. If you can sell the rackets for
+$50 apiece (wholesale), the machine will generate $150,000 in revenue each year. To
+simplify the analysis, we will assume that the machine is the only necessary input in
+the production of tennis rackets; that we know the exact amount of revenue it will pro-
+duce (in reality, that has to be estimated); and that the machine will last for exactly
+10 years, during which time it will work perfectly, without requiring any maintenance.
+At the end of the 10 years, the machine will abruptly cease to operate and will have no
+resale value. Should you buy the machine?
+   The answer is: It depends. If you borrow the $1 million to pay for the machine,
+will the revenue from the machine, $150,000 per year, be enough to cover the pay-
+ments on the loan? If so and you have something left over, then buying the machine
+may be a good idea. But if you can’t make the payments, then buying the machine
+is a losing proposition. So you need to figure out whether the machine’s revenue
+will be high enough to cover the payments on the loan you would need to buy it.
+We’ll do this in two steps: First, we’ll compute the internal rate of return on your
+investment in the machine, and second, we’ll compare that return to the cost of
+buying the machine. If the cost is less than the return, then you should buy the
+machine.
+   The internal rate of return is the interest rate that equates the present value of an
+investment with its cost. For the tennis racket machine, it is the interest rate at which
+the present value of the revenue from the tennis rackets, $150,000 per year for 10 years,
+equals the $1 million cost of the machine. To find the internal rate of return, we take
+the sum of the present value of each of the yearly revenues (we can’t take the present
+value of the total revenue) and equate it with the machine’s cost. Then we solve for the
+interest rate, i:
+
+                             $150,000 ________$150,000 . . . ________
+                                                                 $150,000
+            ​$1,000,000 = ________
+                          ​             ​+ ​             ​+ + ​             ​(5)​
+                              (1 + i)1         (1 + i)2           (1 + i)10
+
+You can solve this equation using a financial calculator or spreadsheet. The answer,
+8.14 percent, is the internal rate of return on your investment. That is, the annual rate
+of return for investing $1 million in the machine is 8.14 percent. But is that rate of
+return high enough to justify your investment? That depends on the cost of the $1 mil-
+lion you need to buy the machine.
+   There are two ways you can come up with the $1 million. You can use your compa-
+ny’s retained earnings—the funds you’ve saved from your past profits. Or you can
+borrow. In the first case, you need to figure out if the machine is more profitable than
+other ways you might use the funds, just as you might compare interest-bearing invest-
+ments. The other main use for the retained earnings is to lend them to someone at the
+
+
+===== PDF 119 | 印刷页 84 =====
+
+84    l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+                    Fixed Annual Payments on       same rate at which you could borrow. That is the opportunity
+     Table 4.3                                     cost of your investment. If you borrow the money to buy the
+                    a 10-Year, $1 Million Loan
+                                                   machine, you need to know whether you will have a profit
+                                                   left after paying off the loan. Let’s assume you’re considering
+        Interest Rate           Payment
+                                                   borrowing.
+             5%                 $129,505              Table 4.3 shows the payments you will have to make if
+             6%                 $135,868           you borrow $1 million at various interest rates. To keep the
+             7%                 $142,378
+                                                   example fairly simple, we’ll assume that the loan requires 10
+             8%                 $149,030
+                                                   equal payments, one for each year. This type of loan is called
+                                                   a fixed-payment loan, and it is exactly the same as a car
+             9%                 $155,820
+                                                   loan or a mortgage. Using the present-value formula [equa-
+            10%                 $162,745
+                                                   tion (4)], we know that the amount of the loan must equal the
+                                                   present value of the 10 payments. If the interest rate is i, then
+
+                                               Fixed payment ____________
+                                                                 Fixed payment . . . ____________
+                                                                                         Fixed payment
+                           ​	   $1,000,000 = ____________
+                                             ​             ​ + ​             ​+     +   
+                                                                                      ​               ​     (6)
+                                                   (1 + i)          (1 + i)2                (1 + i)10
+                                 $1,000,000 = Present value of 10 equal annual payments at interest rate i.​
+                             Using this relationship (and the methods described in the appendix to this chapter),
+                         we can compute your loan payment at various interest rates, as shown in Table 4.3. As
+                         we would expect, when the interest rate rises, the payments rise too.
+                             At what interest rate can you afford a loan to buy the tennis racket machine?
+                         ­Recall that you have $150,000 a year in revenue, and your internal rate of return is
+                          8.14 percent. So as long as the interest rate is 8 percent or less, you know you can
+                          cover the payments. But we can answer this question with more precision. To see
+                          why, notice that the internal rate of return equation (5) is virtually identical to the
+                          loan equation (6). In fact, the internal rate of return is the interest rate at which
+                          $150,000 a year for 10 years will exactly cover the loan. So we really needed to do
+                          this computation only once to answer the question. You should buy the tennis racket
+                          machine if its internal rate of return exceeds the interest rate on the loan you would
+                          need to finance it. In general, an investment will be profitable if its internal rate of
+                          return exceeds the cost of borrowing.
+                             Before we go on, we can use the concept of internal rate of return to answer the
+                          question at the beginning of the present-value section on page 78: If you agree to make
+                          a $225 loan, and the borrower offers to repay either $100 a year for three years or $125
+                          a year for two years, which should you take? The first step in figuring out what to do is
+                          to compute the internal rate of return of the two payment streams. For the series of
+                          three $100 payments, we need to find the interest rate i that solves
+                                                              $100          $100         $100
+                                                  ​$225 = ______
+                                                          ​          ​ + _______
+                                                                         ​        ​ + _______
+                                                                                      ​        ​​
+                                                             (1 + i) (1 + i)2 (1 + i)3
+                         The answer is i = 0.159, or 15.9 percent.
+                           Turning to the alternative, we need to calculate the interest rate that solves
+                                                                    $125          $125
+                                                        ​$225 = ______
+                                                                ​          ​ + _______
+                                                                               ​        ​​
+                                                                   (1 + i) (1 + i)2
+                         The answer here is i = 0.073, or 7.3 percent.
+                            This means that if you choose the three $100 payments, you will earn 15.9 percent
+                         interest on the loan, while if you accept the two $125 payments, the interest rate will
+
+
+===== PDF 120 | 印刷页 85 =====
+
+                                                                                                    Applying Present Value         l 85
+
+
+
+
+                       How Much Is Our Distant Future Worth?
+                       APPLYING THE CONCEPT
+
+  Many people worry about the challenges their descend-                 What discount rate should we use to value things in the
+  ants will face. There are plenty of things to fret about, rang-   distant future? For questions like this, economists usually
+  ing from the threat of rising sea levels in this century to the   look at market prices.
+  long-range challenge of managing radioactive waste,                   Various measures suggest that the appropriate rate is in
+  which can be toxic for many thousands of years. Physicist         the range of 1 to 2½ percent. For example, in recent years
+  Stephen Hawking has argued that human beings “won’t               the long-term U.S. Treasury inflation-indexed bond yield has
+  survive another 1,000 years without escaping our fragile          averaged around 1 percent. At the upper end of the range,
+  planet.”                                                          research examining land leases with several hundred years
+       How much ought we be willing to spend now to avoid           of maturity points to a rate close to 2½ percent.
+  damage 100 years from now that will cost $1 at that                   Policy disagreements among serious analysts of climate
+  time? The answer depends on many factors, including the           change are closely related to their views on the appropriate
+  relative affluence of our descendants, the degree of uncer-       discount rate. One well-known report applied a relatively low
+  tainty about the future, and the possibility of existential       discount rate of 1.4 percent and called for a large tax on car-
+  threats.                                                          bon emissions to limit future losses from climate change. A
+       To simplify the question, suppose that the only thing we     different analysis used a relatively high 4.3 percent discount
+  care about is the present value of the expected losses asso-      rate and called for a carbon tax only about one-tenth the
+  ciated with a preventable future disaster. In that case, the      level implied by the 1.4 percent rate analysis. Why? The low
+  discount rate we use is critical for determining what we          discount rate puts a great deal more weight on losses that
+  should do today. For example, for a disaster that is 100 years    are predicted to occur hundreds of years in the future.
+  away, the value today of a $1 future loss at an annual dis-           Of course, it’s not just about discount rates. It’s about the
+  count rate of 1 percent is $0.37. But at a discount rate of       scale of future losses, too. If policy actions today can prevent a
+  2 percent, the present value drops to $0.14. And at 4 percent,    calamity that threatens life on earth, then people might judge the
+  it is less than $0.02. Spending more than these amounts to-       appropriate discount rate to be quite low because they would
+  day would not make economic sense.                                not weight the value of future lives any lower than their own.
+
+
+
+
+be 7.3 percent. Clearly, the three payments are better for you as the lender, but we had
+to do quite a bit of work to figure it out.
+
+Bonds: The Basics
+One of the most common uses of the concept of present value is in the valuation of
+bonds. A bond is a promise to make a series of payments on specific future dates. It
+is issued as part of an arrangement to borrow. In essence, the borrower, or seller,
+gives an IOU to the lender, or buyer, in return for some amount of money. Both gov-
+ernments and corporations need to borrow, so both issue bonds. Because bonds
+­create obligations, they are best thought of as legal contracts that (1) require the
+ borrower to make payments to the lender and (2) specify what happens if the bor-
+ rower fails to do so.
+     Because there are many different kinds of bonds, to focus our discussion, we’ll look
+ at the most common type, a coupon bond. Say a borrower who needs $100 “issues” or
+ sells a $100 coupon bond to a lender. The bond issuer is required to make annual pay-
+ ments, called coupon payments. The annual amount of those payments (expressed as a
+ percentage of the amount borrowed) is called the coupon rate. If the coupon rate is
+ 5 percent, then the borrower/issuer pays the lender/bondholder $5 per year per $100
+ borrowed. The yearly coupon payment equals the coupon rate times the amount
+
+
+===== PDF 121 | 印刷页 86 =====
+
+86    l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+
+                          Investing in College
+                          MONEY AND BANKING BLOG
+
+
+     Most Americans want a college education, but it is expen-               Most people don’t have the luxury of simply writing
+     sive. On average—as of 2019—a four-year school costs               checks for tens of thousands of dollars each year for four
+     about $26,500 per year, or $106,000 for a degree. That’s           years. As a result, they borrow. And in recent years, they
+     more than one-third the median 2019 house price—a sub-             have borrowed an enormous amount. Since 2006, the total
+     stantial investment. Is it worth it?                               value of student loans has increased from $500 billion to
+         The answer for most people is yes. But the outcome is          nearly $1.5 trillion. According to the Federal Reserve’s
+     not free of risk, especially for those students who borrow         ­Report on the Economic Well-Being of U.S. Households,
+     heavily relative to their future income prospects.                  as of 2017, 22 percent of adults have education loans out-
+         To see the benefit and the risk, we need to compute the         standing, with the typical amount in the range of $20,000
+     difference between expected income with and without go-             to $25,000. (For comparison, roughly 40 percent of Amer-
+     ing to college. As it turns out, the payoff usually remains         ican households have mortgages, and the median mortgage
+     quite attractive, but it depends on where and what you              debt is nearly $114,000.)
+     study and whether you complete your degree.                             Should we encourage people to borrow to go to col-
+         On average, the returns are high for those who stay the         lege? The expected return to a completed college educa-
+     course: One study estimated the present discounted value            tion says yes, but be careful. First, some students do not
+     in 2010 of a college degree net of tuition at more than             complete their studies. Second, loans to study at for-profit
+     $500,000 for men and $300,000 for women. For students               institutions appear to be very risky. According to the fed-
+     who get a degree from a highly rated school, and for those          eral Department of Education (DoE), in 2014, for-profit
+     who gain skills that are in demand, the present value is es-        colleges accounted for 13 percent of students and 31 per-
+     pecially high.                                                      cent of student loans. The DoE estimates that, of all stu-
+         For example, a group called PayScale estimates that,            dent loans that entered repayment in 2010, nearly one-half
+     over the first 20 years of their working lives, people who          of those at for-profit institutions will default, far above the
+     get an undergraduate degree from Ohio State can expect to           weighted-average default rate of 18 percent.
+     make $374,000 in additional wages beyond the earnings                   As a result, in 2014, the federal government tightened
+     based on a high school education. If they foot the entire           eligibility requirements for loans at schools where default
+     $103,000 bill themselves, the result implies an average an-         rates or loan-to-earnings burdens are high. That basic lend-
+     nual real return of 8 percent. So long as the real interest         ing principle—using past default experience to guide fu-
+     rate on any student loan is below 8 percent, an education at        ture lending practice—also will be a helpful guide to
+     Ohio State likely will be worth it.                                 students, who have limited knowledge about their future
+         But Ohio State ranks in the top quarter of the nearly           earning capacity at the start of their higher education.
+     2,000 four-year colleges that PayScale rates. What about                No one should burden students with loans throughout
+     the rest? Well, it turns out that the median real return is         their lives that they are unlikely to repay. Redirecting fed-
+     4.6 percent, still above the real interest rates on typical stu-    eral student loans to those schools (and, eventually, to spe-
+     dent loans, which are usually in the range of 2 to 4 percent.       cific programs within schools) that have the best payback
+         Okay, so getting a college degree usually pays off. But         records and the highest returns would benefit students and
+     there are pitfalls.                                                 taxpayers alike.
+
+
+
+
+                              b­ orrowed. The bond also specifies when the issuer is going to repay the initial $100 and
+                               the payments will stop, called the maturity date or term to maturity. The final payment,
+                               a repayment of the initial $100 loan, is often referred to as the principal, face value, or
+                               par value of the bond.
+                                  Before the advent of computers, an investor buying a bond would receive a certifi-
+                               cate with a number of dated coupons attached. To claim the coupon payments, the
+                               investor would cut off the coupons and mail them to the bond issuer. At maturity, the investor
+
+
+===== PDF 122 | 印刷页 87 =====
+
+                                                                                                   Applying Present Value   l   87
+
+
+
+would redeem the certificate for the final payment. The Reading Railroad Company
+bond pictured on page 88 still has some coupons attached.3
+   You can see that the borrower who issues a bond is promising to make a series of regular
+interest payments over the life of the bond, plus a final payment on the maturity date. How
+much should someone be willing to pay for such a contract? The answer comes directly from
+present value: The price of a bond is the present value of its payments. To see how to value a
+bond, we’ll start with repayment of the principal; then we’ll add the coupon payments.
+
+Valuing the Principal Payment            Valuing the bond’s principal, or final payment,
+is a straightforward application of present value. Let’s look at a bond that promises a
+principal payment of $100 on its maturity date n years in the future. The present value
+of this payment is
+                                                 $100 ​
+                                        F ​ = ​ _______
+	​                           PBP = ​ _______            (7)
+                                     (1 + i)n (1 + i)n
+​Present value of bond principal (PBP) =
+
+               Principal payment (F) divided by (One plus the interest rate) raised to n.
+We can see immediately that the value of the principal payment varies with both the
+time to maturity and the interest rate. The longer the time until the payment is made—
+the higher the n—the lower the value of the payment. And the higher the interest rate,
+i, the lower the value of the payment.
+    To see how this works, let’s start with an interest rate of 6 percent and a final pay-
+ment of $1,000 to be made in 30 years. If the interest rate is 6 percent, the present
+value of the final payment is
+                                              $1000
+                                   ​PBP = _______
+                                          ​           ​ = $174.11
+                                             (1.06)30
+​ ot surprisingly, this promise to make a payment that far in the future is worth only a
+N
+fraction of the $1,000 principal. Lowering the interest rate, say to 4 percent, would
+increase the present value of the principal payment to $308.32, but it would still be
+much less than half of the payment itself.
+
+Valuing the Coupon Payments             What about the coupon payments? This series
+of equal payments resembles the loan payments we examined in our discussion of
+internal rate of return. There we computed the sum of a series of equal payments by
+adding up the present value of each payment. Let’s look at this process in more detail,
+starting with two $10 payments made in consecutive years. Assuming an interest rate
+of 6 percent, the value of these two payments is
+                          ____$10 _____  $10
+                          ​​      ​ + ​       ​ = $9.43 + $8.90 = $18.33
+                          1.06     1.062
+​Adding additional payments simply means adding more terms. So for five $10 pay-
+ments made over five consecutive years, the present value is
+    $10 _____
+​	​ ____​  + ​  $10 ​ + _____
+                        ​  $10 ​ + _____
+                                   ​  $10 ​ + _____
+                                              ​  $10 ​ = $9.43 + $8.90 + $8.40 + $7.92 + $7.47 = $42.12
+    1.06 1.062 1.063 1.064 1.065
+
+3
+ The bond in the picture is a $1,000 face value 50-year 3½ percent coupon bond issued on May 1, 1945. It
+promised 100 payments of $17.35, to be made every six months beginning on November 1, 1945, plus a $1,000
+final payment on May 1, 1995. The vast majority of bonds pay interest biannually.
+
+
+===== PDF 123 | 印刷页 88 =====
+
+88    l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+A coupon bond issued
+by the Reading
+Railroad Company on
+May 1, 1945. Some of
+the coupons are still
+attached to the bond.
+Courtesy of Stephen Cecchetti
+
+
+
+
+                                    ​This example highlights two important properties of periodic fixed payments. First,
+                                 the longer the payments go on—the more of them there are—the higher their total
+                                 value. Even though the additional payments fall farther into the future, the overall
+                                 present value still grows. Because a long-term bond (one that lasts for 30 years, for
+                                 instance) has more payments than a short-term maturity bond (one whose final pay-
+                                 ment is made, say, in 5 years), the coupon payments on the long-term bond will be
+                                 worth more than the coupon payments on the short-term bond.
+                                     Second, as is always the case in present-value calculations, the higher the interest
+                                 rate, the lower the present value. Raising the interest rate from 6 to 7 percent, for
+                                 example, lowers the total value of the five future payments on our short-term bond
+                                 from $42.12 to $41.00.
+                                     We can use the present-value expression to write a general formula for a string of
+                                 yearly coupon payments made over n years. It is simply the sum of the present value of
+                                 the payments for each year from one to n years:
+
+                                        ​  C 1 ​ + _______
+                                  PCP = _______
+                                 	​                ​  C 2 ​ + _______
+                                                              ​  C 3 ​ + . . . + _______
+                                                                                 ​  C n ​(8)​
+                                          (1 + i)    (1 + i)    (1 + i)            (1 + i)
+
+
+===== PDF 124 | 印刷页 89 =====
+
+                                                                                         Real and Nominal Interest Rates l   89
+
+
+
+        Present value of a series of bond coupon payments (PCP) = Sum of yearly coupon
+     payments (C) divided by (one plus the interest rate) raised to the power equal to the
+     number of years from now. This formula is messy, but that’s why we have calculators
+     and spreadsheets. (For a derivation of a simpler version of this formula, see the appen-
+     dix to this chapter.)
+
+     Valuing the Coupon Payments Plus Principal              To value the yearly coupon
+     payments plus the principal, we can combine equations (7) and (8) as follows:
+
+
+                               [
+                           ​  C 1 ​  +  ​ ______
+      PCB = PCP + PBP = ​ ______
+     	​
+                             (1 + i)
+                                             C  ​  +  ​ ______
+                                          (1 + i)2 (1 + i)3                      ]
+                                                          C  ​  + . . . +  ​ ______
+                                                                                C  ​  ​+ ______
+                                                                             (1 + i)n
+                                                                                         ​  F n ​​(9)
+                                                                                           (1 + i)
+
+Present value of coupon bond (PCB)
+​	                                         = Present value of yearly coupon payments (PCP)
+                                               + Present value of principal payment (PBP)​
+
+This formula looks complicated because it is. But we can learn two simple facts just by
+looking at its parts. The value of the coupon bond, PCB, rises when (1) the yearly cou-
+pon payments, C, rise and (2) the interest rate, i, falls. The first of these conclusions
+follows from the fact that a higher coupon rate means larger payments, and the present
+value of a larger payment is larger. The second follows directly from the present-value
+relationship: The lower the interest rate, the higher the present value of any and all
+future payments.
+   The fact that lower interest rates mean higher bond prices—and higher interest rates
+mean lower bond prices—is extremely important. Because bonds promise fixed pay-
+ments on future dates, the higher the interest rate, the lower their present value. It fol-
+lows that the value of a bond varies inversely with the interest rate used to calculate
+the present value of the promised payment.
+
+
+Real and Nominal Interest Rates
+In calculating present value, our goal has been to assess the number of dollars you
+would pay today for fixed dollar payments in the future. To do this, we used the
+­nominal interest rate, which is the interest rate expressed in current-dollar terms.
+ We did not worry about the possibility that inflation might change the purchasing
+ power of the dollars. Because borrowers and lenders care about the purchasing
+ power of the money they pay out and receive, they care about inflation. So we need
+ to adjust the return on a loan, looking not just at the nominal interest rate but at the
+ inflation-adjusted interest rate, called the real interest rate.
+    Think about a $100 loan made at a 5 percent interest rate for one year. The bor-
+ rower receives $100 at the beginning of the year and repays $105 at the end of the
+ year. If prices go up 5 percent during the year—that is, if the inflation rate is
+ 5 ­percent—then the $105 returned to the lender at the end of the year will buy
+ exactly what $100 did at the beginning of the year. The lender’s inflation-adjusted
+ return is zero. No lender would be happy with a zero return, so no lender is likely to
+ make a loan at a 5 percent nominal interest rate if expected inflation is 5 percent.
+ (Because the inflation rate can exceed the nominal interest rate, the real interest rate
+ can be negative.)
+
+
+===== PDF 125 | 印刷页 90 =====
+
+90 l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+
+                        What Is Your Risk-Free Rate?
+                        YOUR FINANCIAL WORLD
+
+
+  You received an unexpected bonus at work and wonder what               the bonus in a mutual fund is equivalent to taking out a loan
+  to do with it. A financially savvy friend suggests investing in a      at your mortgage rate for the purpose of buying stocks and
+  balanced portfolio of stocks and bonds. It’s never too early to        bonds with the proceeds.
+  start saving for your retirement, she assures you, so why not              From your perspective, your risk-free rate is the mort-
+  put your bonus into one of those target retirement funds?              gage rate. So, to justify investing your bonus rather than us-
+      It sounds reasonable, but you have some questions.                 ing it to pay down your mortgage, your friend would have to
+  A few years ago, you and your partner purchased a house.               convince you that there was a riskless investment with a re-
+  You made the 20 percent down payment and financed the                  turn in excess of 5 percent out there. There usually is not!
+  balance with a 30-year mortgage at 5 percent interest. That                But what about the risk that the value of the house will fall?
+  raises a new question: Should you use your bonus to invest             You bear this risk regardless of what you do with the bonus.
+  in stocks and bonds, as your friend suggests, or should you                So, if you are fortunate enough to have some extra cash
+  use it to pay down your mortgage?                                      lying around, the best strategy is nearly always to pay down
+      Assuming that you are not the gambling type, the answer            any of your loans—credit card, auto loan, student loan, or
+  is pay down your debt. The reason is pretty simple: The op-            mortgage—before you start investing. The reason is that no
+  portunity cost of investing in the retirement fund is the inter-       riskless investment is likely to match the rate you receive
+  est rate you are paying on your mortgage. That is, investing           when you reduce the size of your debt.
+
+
+
+
+                              The point of this example is that borrowers look at the inflation-adjusted cost of bor-
+                           rowing, while lenders focus on the inflation-adjusted return. No one cares only about the
+                           number of dollars. People also care about what those dollars can buy. In other words,
+                           everyone cares about real interest rates. This is why economists think of the nominal
+                           interest rate as having two parts, the real interest rate and expected inflation.
+                              Say that you want to borrow $100 for one year. You find a lender who is willing to
+                           give you a loan, but the two of you need to agree on the interest rate. Both of you care
+                           about the inflation rate over the coming year, which will affect the purchasing power
+                           of the dollars you will use to repay the loan. But neither of you knows what that rate is
+                           going to be, so you need to forecast it to conclude your agreement. That is, the nominal
+                           interest rate you agree on must be based on expected inflation over the term of the
+                           loan, plus the real interest rate you agree on.
+                              Writing down this statement in the form of an equation is helpful. The nominal
+                           interest rate, i, equals the real interest rate, r, plus expected inflation, πe:4
+
+                           ​	                                                 i = r + πe(10)
+                           4
+                            This equation is an approximation that works well only when expected inflation and the real interest rate are
+                           low. The exact relationship among the nominal interest rate, the real interest rate, and the expected inflation rate
+                           is (1 + i) = (1 + r)(1 + πe), which translates to (1 + i) = 1 + r + πe + rπe; after subtracting 1 from each side, the
+                           nominal rate, i, equals r + πe + r πe. The approximation, i = r + πe, ignores the cross-term rπe, the product of the
+                           real interest rate and expected inflation, which will not be important when its value is very low (say, 0.05 × 0.02
+                           = 0.001). But if, for example, expected inflation is very high, the cross-term can become very important. To
+                           illustrate, if the real interest rate is 0.05, or 5 percent, and the expected rate of inflation is 1.00, or 100 percent,
+                           the abbreviated equation yields a nominal interest rate of 0.05 + 1.00 = 1.05, or 105 percent. The result implies
+                           that, at an inflation rate of 100 percent, an investor would have earned 5 percent after inflation (the real rate) at
+                           the end of one year if the nominal interest rate on an investment had been set to 105 percent. But the full
+                           equation includes the cross-term, rπe, which in this case is (0.05)(1.00) = 0.05, or 5 percent, meaning that the
+                           nominal interest rate would have to be set to 110 percent, not 105 percent, for an investment to earn a real return
+                           of 5 percent after one year. In dollar terms, the abbreviated equation produces a one-year real (after-inflation)
+                           return on an investment of $100 that is $5 below the true real return calculated with the full equation.
+
+
+===== PDF 126 | 印刷页 91 =====
+
+                                                                                                           Real and Nominal Interest Rates l                   91
+
+
+
+
+    Figure 4.2             The Nominal Interest Rate, the Inflation Rate, and the Real Interest Rate
+
+
+             20
+                                                                      Nominal Interest Rate
+             15                                                       Inflation Rate
+                                                                      Real Interest Rate
+             10
+
+              5
+
+              0
+
+             –5
+
+           –10
+             1979 1982 1985 1988 1991 1994 1997 2000 2003 2006 2009 2012 2015 2018
+
+SOURCE: Three-month Treasury bill rates from the Federal Reserve Board and 12-month inflation rates computed from the Bureau of Labor Statistics Consumer
+Price Index Research Series. The real interest rate is calculated as the nominal rate minus the annual inflation rate. This computation assumes that the expected
+inflation rate over the next 3 months is equal to the actual inflation rate over the previous 12 months. (FRED data codes: TB3MS and CPIAUCSL)
+
+
+
+​ his is called the Fisher equation after the early 20th-century economist Irving Fisher. It
+T
+shows that in general, the nominal interest rate is positively related to expected inflation.
+The higher expected inflation, the higher the nominal interest rate. As we can see in
+­Figure 4.2, the data bear this out. While the relationship is not a tight one, higher nomi-
+ nal interest rates are usually associated with higher inflation rates. In 1980 and 1981, for
+ example, U.S. interest rates were sky-high; the U.S. Treasury had to pay more than
+ 15 percent for its short-term borrowing. By 1986, interest rates had dropped to more
+ reasonable levels, close to 5 percent. That’s a 10-percentage-point move in just five
+ years! The figure shows that as inflation fell, nominal interest rates also fell. In fact, the
+ declines were almost identical. Real interest rates didn’t change much during this period.
+    The term real interest rate can cause confusion. For the most part, the financial
+ markets quote nominal interest rates.5 When people use the term interest rate with-
+ out qualification, they are referring to the nominal interest rate, the one they see
+ every day. We will follow this convention, using the term interest rate to mean the
+ nominal rate and the term real interest rate to refer to the nominal rate less expected
+ inflation.
+    Until the advent of inflation-indexed bonds (see Your Financial World: Bonds
+ Indexed to Inflation in Chapter 6), we could not directly observe the real interest rate;
+ we had to estimate it. The easiest way to do that was (and still is) to turn the Fisher
+ equation around, rewriting it as
+	​r = i − πe(11)​
+
+5
+ One exception is inflation-indexed bonds, whose interest rates are quoted in real, inflation-adjusted terms.
+
+
+===== PDF 127 | 印刷页 92 =====
+
+92    l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+
+                                                  High Interest Rates, Low Interest Rates
+                                                  APPLYING THE CONCEPT
+
+     Once we realize that the nominal interest rate moves with                  the euro area in early 2016. Note first that higher inflation
+     ­expected inflation, big swings in interest rates become less              is associated with higher nominal interest rates. Second,
+      of a mystery. And the fact that the Swiss interest rate is be-            more than half of the points are below the 45-degree line,
+      low zero while the Egyptian interest rate exceeds 10 percent              meaning that in these countries, the nominal interest rate
+      also becomes easier to understand. All we need to do to un-               is lower than the inflation rate. Indeed, on average, the ex
+      derstand these differences is look at differences in inflation.           post real interest rate was slightly negative—a low level
+      In 2016, for example, Swiss prices were falling by more than              that reflects the persistent weakness of the global econ-
+      1 percent from year-ago levels, while the Egyptian inflation              omy following the financial crisis of 2007–2009 and the
+      rate was an uncomfortable 10 percent per year. This                       euro-area crisis that began in 2009. Note that, for
+      11-percentage-point difference in inflation rates accounts                the ­m ajority of countries, the distance of these points
+      for most of the 12-percentage-point ­difference in the nominal            from the 45-degree line, which represents the zero real in-
+      interest rates.                                                           terest rate, does not vary as much as their distance from
+          The accompanying figure shows the nominal interest                    the horizontal axis, which represents the zero nominal
+      rate and the inflation rate in more than 50 countries and                 interest rate.
+
+
+
+              Inflation and Nominal Interest Rates, February 2016
+
+
+                                             16
+
+                                             14                                                    Brazil
+
+                                             12                                                Egypt
+                 Nominal Interest Rate (%)
+
+
+
+
+                                             10
+                                                                    Indonesia
+                                              8
+
+                                              6                                   Colombia
+                                                      Vietnam
+                                              4
+
+                                              2
+
+                                              0
+              –2                                  0     2 U.S.4          6        8        10           12            14      16
+                                                                        Inflation Rate (%)
+                                             –2       Switzerland
+
+
+           SOURCE: The data come from economic and financial indicators published weekly in The Economist magazine.
+
+
+===== PDF 128 | 印刷页 93 =====
+
+                                                                                 Real and Nominal Interest Rates l   93
+
+
+
+Because we know the nominal interest rate, i, measuring the real interest rate means
+subtracting forecasted inflation. There are a number of sources for these forecasts.
+Twice a year the Federal Reserve Bank of Philadelphia publishes professional fore-
+casts. Once a month, the Survey Research Center of the University of Michigan com-
+putes consumer inflation expectations.
+   But because forecasts are often wrong, our estimate will usually differ from the real
+interest rate that occurs. Someone who is making an economically important decision
+will do so based on the expected real interest rate. Some time later, that person will look
+back and compute the real interest rate actually paid or received. The first of these is
+known as the ex ante real interest rate, meaning “before the fact.” The second, or real-
+ized rate, is the ex post real interest rate, meaning “after the fact.” We can always com-
+pute the ex post real interest rate, because we know the nominal interest rate and the
+inflation rate there actually was. But it is the ex ante real interest rate that we really want
+to know.
+
+
+
+
+Key Terms
+basis point, 77                    face value, 86                  par value, 86
+bond, 85                           fixed-payment loan, 84          present value, 78
+compound interest, 75              future value, 74                principal, 86
+coupon bond, 85                    internal rate of return, 83     real interest rate, 89
+coupon payment, 85                 maturity date, 86               rule of 72, 77
+coupon rate, 85                    nominal interest rate, 89       yield, 74
+
+
+
+Using FRED: Codes for Data in This Chapter
+
+
+
+
+                                                                                                                          www.moneyandbanking.com
+   Data Series                                          FRED Data Code
+   1-year Treasury bill rate                            TB1YR
+   3-month Treasury bill rate                           TB3MS
+   Consumer price index                                 CPIAUCSL
+   1-year inflation expectations (Michigan survey)      MICH
+   Brazil Treasury bill rate                            INTGSTBRM193N
+   Brazil consumer price index                          BRACPIALLMINMEI
+   China discount rate                                  INTDSRCNM193N
+   China consumer price index                           CHNCPIALLMINMEI
+   10-year Treasury constant maturity rate              GS10
+   10-year Treasury inflation-indexed yield             FII10
+   5-year Treasury constant maturity rate               GS5
+   5-year Treasury inflation-indexed yield              FII5
+
+
+===== PDF 129 | 印刷页 94 =====
+
+                          94    l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+                                                              Chapter Lessons
+                                                              1. The value of a payment depends on when it is made.
+                           To learn more about the
+                           changing financial system, visit      a. Future value is the present value of an initial investment times one plus the inter-
+                           www.moneyandbanking.com.                 est rate for each year you hold it. The higher the interest rate, the higher the
+                                                                    future value.
+                                                                 b. Present value is equal to the value today of a payment made on a future date.
+                                                                      i. The higher the payment, the higher the present value at a given interest rate.
+                                                                     ii. The higher the interest rate, the lower the present value of a given payment.
+                                                                    iii. The longer the time until the payment is made, the lower the present value of
+                                                                         a given payment at a given interest rate.
+                                                                    iv. For a given increase in the interest rate, the present value of a promised pay-
+                                                                         ment falls more the further into the future the payment is to be made.
+                                                                     v. When computing present value, the interest rate and the time until the pay-
+                                                                         ment is to be made must be measured in the same time units.
+                                                              2. Present value can be used to value any stream of future payments.
+                                                                 a. The internal rate of return is the interest rate that equates the present value of the
+                                                                    future payments or profits from an investment with its current cost.
+                                                                 b. A coupon bond is a promise to make periodic interest payments and a final prin-
+www.moneyandbanking.com
+
+
+
+
+                                                                    cipal payment on specific future dates.
+                                                                      i. The present value of a bond depends on its coupon rate, date of maturity, and
+                                                                         the current interest rate.
+                                                                     ii. The higher the coupon rate, given the maturity and the interest rate, the
+                                                                         higher the present value of the bond.
+                                                                    iii. The price of a bond is inversely related to the interest rate. The higher the
+                                                                         price, the lower the interest rate that equates the price with the present value
+                                                                         of the promised payments.
+                                                              3. The real interest rate is the nominal interest rate minus expected inflation. It
+                                                                 ­expresses the interest rate in terms of purchasing power rather than current dollars.
+
+                                                              Conceptual and Analytical Problems                                                         ®
+
+
+
+
+                                                                  1.	Compute the future value of $100 at an 8 percent interest rate 5, 10, and 15 years
+                                                                      into the future. What would the future value be over these time horizons if the
+                                                                      interest rate were 5 percent? Explain the patterns you see in your answers over
+                                                                      different time horizons and at different interest rates. (LO1)
+                                                                  2.	Compute the present value of a $100 investment to be made 6 months, 5 years,
+                                                                      and 10 years from now at 4 percent interest. Explain why the present value is
+                                                                      lower the further into the future the investment is to be made. (LO1)
+                                                                  3.	Assuming that the current interest rate is 3 percent, compute the present value of
+                                                                      a five-year, 5 percent coupon bond with a face value of $1,000. What happens
+                                                                      when the interest rate goes to 4 percent? What happens when the interest rate
+                                                                      goes to 2 percent? (LO2)
+                                                                  4.*	Given a choice of two investments, would you choose one that pays a total r­ eturn
+                                                                       of 30 percent over five years or one that pays 0.5 percent per month for five
+                                                                       years? (LO1)
+                                                              *
+                                                               Indicates more difficult problems.
+
+
+===== PDF 130 | 印刷页 95 =====
+
+                                                                         Conceptual and Analytical Problems l   95
+
+
+
+ 5.	A financial institution offers you a one-year certificate of deposit with an interest
+     rate of 5 percent. You expect the inflation rate to be 3 percent. What is the real
+     return on your deposit? (LO3)
+ 6.	Consider two scenarios. In the first, the nominal interest rate is 6 percent, and the
+     expected rate of inflation is 4 percent. In the second, the nominal interest rate is
+     5 percent, and the expected rate of inflation is 2 percent. In which scenario would
+     you rather be a lender? In which would you rather be a borrower? (LO3)
+ 7.	A friend has received an unexpected windfall of $10,000 and is considering
+      whether to use the money to pay down their existing debt, on which they pay
+      6 percent interest, or invest it in a mutual fund. What advice would you give
+      to your friend? (LO3)
+ 8.	Most businesses replace their computers every two to three years. Assume that a
+     computer costs $2,000 and that it fully depreciates in 3 years, at which point it
+     has no resale value whatsoever and is thrown away. (LO1)
+     a. If the interest rate for financing the equipment is equal to i, show how to com-
+        pute the minimum annual cash flow that a computer must generate to be
+        worth the purchase. Your answer will depend on i.
+     b. Suppose the computer did not fully depreciate, but still had a $250 value at
+        the time it was replaced. Show how you would adjust the calculation given in
+
+
+
+
+                                                                                                                     www.moneyandbanking.com
+        your answer to part a.
+     c. What if financing can only be had at a 10 percent interest rate? Calculate the
+        minimum cash flow the computer must generate to be worth the purchase
+        using your answer to part a.
+ 9.	Some friends of yours have just had a child. Thinking ahead, and realizing the
+     power of compound interest, they are considering investing for their child’s
+     ­college education, which will begin in 18 years. Assume that the cost of a c­ ollege
+      education today is $125,000. Also assume that there is no inflation and there are
+      no taxes on interest income that is used to pay college tuition and
+      expenses. (LO1)
+      a. If the interest rate is 5 percent, how much money will your friends need to put
+         into their savings account today to have $125,000 in 18 years?
+      b. What if the interest rate were 10 percent?
+      c. The chance that the price of a college education will be the same 18 years
+         from now as it is today seems remote. Assuming that the price will rise 3 per-
+         cent per year, and that today’s interest rate is 8 percent, what will your friends’
+         investment need to be?
+      d. Return to part a, the case with a 5 percent interest rate and no inflation.
+         ­Assume that your friends don’t have enough financial resources to make the
+          entire ­investment at the beginning. Instead, they think they will be able to split
+          their investment into two equal parts, one invested immediately and the sec-
+          ond invested in 5 years. Describe how you would compute the required size of
+          the two equal investments, made 5 years apart.
+10.	You are considering buying a new house, and have found that a $100,000,
+     30-year fixed-rate mortgage is available with an interest rate of 7 percent. This
+     mortgage requires 360 monthly payments of approximately $651 each. If the
+     interest rate rises to 8 percent, what will happen to your monthly payment? Com-
+     pare the percentage change in the monthly payment with the percentage change
+     in the interest rate. (LO1)
+
+
+===== PDF 131 | 印刷页 96 =====
+
+                          96   l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+                                                  11.*	Use the Fisher equation to explain in detail what a borrower is compensating a
+                                                        lender for when he pays her a nominal rate of interest. (LO3)
+                                                  12.	If the current interest rate increases, what would you expect to happen to bond
+                                                       prices? Explain. (LO2)
+                                                  13.	Which would be most affected in the event of an interest rate increase—the price
+                                                       of a five-year coupon bond that paid coupons only in years 3, 4, and 5 or the
+                                                       price of a five-year coupon bond that paid coupons only in years 1, 2, and 3,
+                                                       everything else being equal? Explain. (LO2)
+                                                  14.	Under what circumstances might you be willing to pay more than $1,000 for a
+                                                       coupon bond that matures in three years, has a coupon rate of 10 percent, and has
+                                                       a face value of $1,000? (LO2)
+                                                  15.*	Approximately how long would it take for an investment of $100 to reach $800
+                                                        if you earned 5 percent? What if the interest rate were 10 percent? How long
+                                                        would it take an investment of $200 to reach $800 at an interest rate of 5 percent?
+                                                        Why is there a difference between doubling the interest rate and doubling the
+                                                        initial investment? (LO1)
+                                                  16.	Rather than spending $100 on paint today, you decide to save the money until
+                                                       next year, at which point you will use it to paint your room. If a can of
+www.moneyandbanking.com
+
+
+
+
+                                                       paint costs $10 today, how many cans will you be able to buy next year
+                                                       if the nominal i­nterest rate is 21 percent and the expected inflation rate is
+                                                       10 percent? (LO3)
+                                                  17.	Recently, some lucky person won the lottery. The lottery winnings were reported
+                                                       to be $85.5 million. In reality, the winner got a choice of $2.85 million per year
+                                                       for 30 years or $46 million today. (LO1)
+                                                       a. Explain briefly why winning $2.85 million per year for 30 years is not equiv-
+                                                          alent to winning $85.5 million.
+                                                       b. The evening news interviewed a group of people the day after the winner was
+                                                          announced. When asked, most of them responded that, if they were the lucky
+                                                          winner, they would take the $46 million up-front payment. Suppose (just for a
+                                                          moment) that you were that lucky winner. How would you decide between the
+                                                          annual installments or the up-front payment?
+                                                  18.	You are considering going to graduate school for a 1-year master’s program. You
+                                                       have done some research and believe that the master’s degree will add $5,000 per
+                                                       year to your salary for the next 10 years of your working life, starting at the end
+                                                       of this year. From then on, after the next 10 years, it makes no difference. Com-
+                                                       pleting the master’s program will cost you $35,000, which you would have to
+                                                       borrow at an interest rate of 6 percent. How would you decide if this investment
+                                                       in your education were profitable? (LO1)
+                                                  19.	Assuming the chances of being paid back are the same, would a nominal interest
+                                                       rate of 10 percent always be more attractive to a lender than a nominal rate of
+                                                       5 percent? Explain. (LO3)
+                                                  20.*	Your firm has the opportunity to buy a perpetual motion machine to use in your
+                                                        business. The machine costs $1,000,000 and will increase your profits by
+                                                        $75,000 per year. What is the internal rate of return? (LO2)
+
+                                                  *
+                                                   Indicates more difficult problems.
+
+
+===== PDF 132 | 印刷页 97 =====
+
+                                                                                                  Data Exploration   l 97
+
+
+
+21.*	Suppose two parties agree that the expected inflation rate for the next year is
+       3 percent. Based on this, they enter into a loan agreement where the nominal
+       interest rate to be charged is 7 percent. If the inflation rate for the year turns out
+       to be 2 percent, who gains and who loses? (LO3)
+22.	An unusual development in the wake of the 2007–2009 financial crisis was that
+     nominal interest rates on some financial instruments turned negative. In which of
+     the following examples would the nominal interest rate be negative?
+     a. The real interest rate is 2 percent and the expected inflation rate is 1 percent.
+     b. The real interest rate is zero and the expected inflation rate is 2 percent.
+     c. The real interest rate is 1 percent and the expected inflation rate is minus 2 percent.
+     d.	The real interest rate is minus 2 percent and the expected inflation rate is
+         3 percent.
+		 Explain your choice. (LO3)
+23.	Suppose analysts agree that the losses resulting from climate change will reach x
+     dollars 100 years from now. Use the concept of present value to explain why
+     estimates of what needs to be spent today to combat those losses may vary
+     widely. Would you expect this variation to narrow or get wider if the relevant
+     losses were 200, rather than 100, years into the future? (LO1)
+24.	
+    If a climate change analyst applies a discount rate of 2 percent to losses expected
+
+
+
+
+                                                                                                                            www.moneyandbanking.com
+    in 300 years’ time, how much, per $1 of expected loss, might she be willing to
+    spend today to avoid those losses? Would your answer be higher or lower if the
+    losses were expected sooner? Explain your answer. (LO1)
+
+
+Data Exploration                                         ®
+
+
+
+
+For detailed instructions on using Federal Reserve Economic Data (FRED) online to
+answer each of the following problems, visit www.mhhe.com/moneyandbanking6e
+and refer to the FRED Resources and Data Exploration Hints.
+1. How does inflation affect nominal interest rates? (LO3)
+   a. Plot the three-month U.S. Treasury bill rate (FRED code: TB3MS) from 1960 to the
+      present. What long-run pattern do you observe? What may have caused this pattern?
+   b. Plot the inflation rate based on the percent change from a year ago of the U.S.
+      consumer price index (FRED code: CPIAUCSL) from 1960 to the present. How
+      does U.S. inflation history reflect your explanation in part a?
+2. In Data Exploration Problem 1, you saw the impact of U.S. inflation on short-term
+   U.S. Treasury bill rates. Now examine similar data for Brazil. (LO3)
+   a. Plot the Brazilian Treasury bill rate (FRED code: INTGSTBRM193N). Notice
+      the range of values and compare them with the range in the U.S. Treasury bill
+      plot from Data Exploration Problem 1.
+   b. Plot the inflation rate based on the percent change from a year ago of the
+      ­Brazilian consumer price index (FRED code: BRACPIALLMINMEI). Com-
+       ment on the inflation rate in Brazil. Download the data at a quarterly frequency
+       to a spreadsheet. (You may need to widen the spreadsheet column to see the
+       data.) What happens to the index in the 1990–1994 period?
+
+*
+ Indicates more difficult problems.
+
+
+===== PDF 133 | 印刷页 98 =====
+
+                          98 l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+                                                 3. The expected real interest rate is the rate that people use in making decisions about
+                                                    the future. It is the difference between the nominal interest rate and the expected
+                                                    inflation rate, not the actual inflation rate. How does expected inflation over the
+                                                    coming year compare with actual inflation over the past year? Plot the inflation rate
+                                                    since 1978 based on the percent change from a year ago of the U.S. consumer price
+                                                    index (FRED code: CPIAUCSL). Add to this figure as a second line the expected
+                                                    inflation rate from the University of Michigan survey (FRED code: MICH). Is
+                                                    expected inflation always in line with actual inflation? Which is more stable? (LO3)
+                                                 4. Plot the ex ante or expected real interest rate since 1978 by subtracting the Michigan
+                                                    survey inflation measure (FRED code: MICH) from the three-month Treasury bill
+                                                    rate (FRED code: TB3MS). Plot as a second line the ex post or realized real interest
+                                                    rate by subtracting from the three-month Treasury bill rate (FRED code: TB3MS)
+                                                    the actual inflation rate based on the percent change from a year ago of the con-
+                                                    sumer price index (FRED code: CPIAUCSL). What does it mean when these two
+                                                    measures are different? (LO3)
+www.moneyandbanking.com
+
+
+===== PDF 134 | 印刷页 99 =====
+
+                                                                             The Algebra of Present-Value Formulas   l   99
+
+
+
+
+     Appendix to Chapter 4
+     The Algebra of Present-Value
+     Formulas
+
+
+
+     In this short appendix, we will derive a formula for computing present value. To do so
+     we need to use some algebra, but the result is worth the trouble. The formula is useful
+     in computing the present value of any series of payments, such as a car loan, a mort-
+     gage, or a coupon bond, and the internal rate of return on an investment.
+        Imagine that you are going to buy a house. You would like to borrow PV dollars at
+     interest rate i and agree to make n equal mortgage payments. How large will your pay-
+
+
+
+
+                                                                                                                              www.moneyandbanking.com
+     ment be? It will be just big enough so that the present value of all your payments, dis-
+     counted at interest rate i, equals the amount of the loan.
+        To compute the payment, we will use the present-value formula. If we call the size
+     of the monthly payments C, then we need to solve the following formula:
+
+     ​	                         ​  C 1​ + ______
+                           PV = ______    ​  C 2​ + ______
+                                                    ​  C 3​ + . . . + ______
+                                                                      ​  C n​(A1)
+                                  (1 + i)   (1 + i)   (1 + i)           (1 + i)
+             ​Each term in expression (A1) is the present value of a payment C made on a future
+          date. To simplify (A1), we multiply it by [1/(1 + i)] to get
+          1 ​PV = ______
+   	​​ ______
+       (1 + i)
+                  ​  1 ​​ ______
+                                   [
+                              ​  C ​+ ______
+                                           ​  C ​+ ______
+                      (1 + i) (1 + i)1 (1 + i)2 (1 + i)3
+                                                        ​  C ​+ . . . + ______
+                                                                                     ]
+                                                                          ​  C n ​  ​​
+                                                                            (1 + i)
+                                                                                              (A2)
+​	                  ​  C 2​ + ______
+                = ______         ​  C 3​ + ______
+                                              ​  C 4​ + . . . + ______
+                                                                ​  C n​ + ________
+                                                                              ​  C n+1 ​
+                      (1 + i)      (1 + i)      (1 + i)           (1 + i)       (1 + i​)​ ​
+​Now subtract (A2) from (A1):
+
+       ​  1 ​PV = ______
+	​PV − ______     ​  C 1​ + ______
+                                 ​  C 2​ + ______
+                                               ​  C 3​ + . . . + ______
+                                                                      ​  C n​​
+         (1 + i)    (1 + i)        (1 + i)       (1 + i)                (1 + i)               (A3)
+​	                − ​     C
+                       ______  ​
+                                 − ​    C
+                                      ______ ​
+                                               − . . . − ​     C
+                                                            ______  ​
+                                                                          ​  C  ​
+                                                                      − ________
+                       (1 + i)2 (1 + i)3                    (1 + i)n (1 + i​)n+1​ ​
+​to get
+
+​	                                             ​  C ​ − ________
+                                    ​  i ​PV = ______
+                                    ______              ​  C  ​(A4)
+                                    (1 + i)      (1 + i)1   (1 + i​)n+1
+                                                                    ​ ​
+​Simplifying this result yields the following formula:
+
+​	                                            ( )[
+                                        PV = ​ __
+                                                  i             ]
+                                                              ​  1 n ​  ​(A5)
+                                               ​  C ​  ​​ 1 − ______
+                                                                (1 + i)
+
+
+===== PDF 135 | 印刷页 100 =====
+
+                          100   l Chapter 4  Future Value, Present Value, and Interest Rates
+
+
+
+                                                     ​To see how to use this formula, suppose you’re taking out a $100,000 mortgage that
+                                                  you agree to repay over 30 years at an interest rate of 8 percent. Remember that the
+                                                  interest rate must be quoted in decimal form and at the same frequency as the pay-
+                                                  ments. For example, if you are going to make monthly payments, then i must be a
+                                                  monthly interest rate. To figure out your annual payment (in reality you would make
+                                                  360 monthly payments), just solve the following formula for C:
+
+                                                  ​	                                       (     )[
+                                                                                          ​  C ​  ​​ 1 − _______
+                                                                            $100,000 = ​ ____
+                                                                                            0.08           (1.08)]
+                                                                                                         ​  1 30 ​  ​(A6)
+
+                                                  ​Simplifying the right-hand side gives us
+                                                  ​	                               $100,000 = 11.258C(A7)
+                                                  ​So your annual payment will be $8,882.57. We can do the same calculation for
+                                                  360 monthly payments using a monthly interest rate of 0.6434 percent, which annual-
+                                                  izes to 8 percent.
+                                                     Formula (A5) is very useful in computing the fixed payments due on a loan, the
+                                                  coupon payments on a bond, or the internal rate of return on an investment. Notice that
+                                                  as the number of payments increases (as n gets bigger), the term [1/(1 + i)n] grows
+                                                  smaller. If the payments never end, so that n represents infinity, then [1/(1 + i)n] shrinks
+                                                  to zero. Thus, the present value of a stream of fixed payments that never ends is [C/i].
+www.moneyandbanking.com

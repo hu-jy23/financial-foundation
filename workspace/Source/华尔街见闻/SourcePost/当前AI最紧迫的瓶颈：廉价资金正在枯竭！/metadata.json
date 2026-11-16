@@ -1,0 +1,73 @@
+{
+  "article_id": 3784910,
+  "selection": {
+    "article_id": 3784910,
+    "url": "https://wallstreetcn.com/articles/3784910",
+    "title": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
+    "page_display_time": "2026-10-31T14:31:46+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "高智谋",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004528",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "信用与融资结构",
+    "reading_priority": "B",
+    "reading_value": "讨论贷款条款、评级、机构持仓容量与融资门槛变化，连接AI投资和资金供给。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 3227,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 48
+  },
+  "url": "https://wallstreetcn.com/articles/3784910",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784910?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:21+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "当前AI最紧迫的瓶颈：廉价资金正在枯竭！",
+  "page_display_time": "2026-10-31T14:31:46+08:00",
+  "page_byline": "高智谋",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "信心支撑融资，融资支撑投资；信心一旦转弱，资金收缩又会反过来打击投资和增长预期。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 3286,
+  "body_sha256": "7a0683d16f4026ed56f89aa00eb40bd004dc867e4bbdbded1635f9709f37adac",
+  "raw_sha256": "06938a6fe9295312fd81cef1950cd46a468151d7a8a070ccea5fd1054a53b68d",
+  "raw_bytes": 13815,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/0996c084-7a84-4089-a73d-719fdd60f502.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 3227,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:33+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "06938a6fe9295312fd81cef1950cd46a468151d7a8a070ccea5fd1054a53b68d",
+      "bytes": 13815
+    },
+    "article.html": {
+      "sha256": "34e25180d73020e285ee9c4cbd2410eb5cd44d5de439a96c902b7236c0dafe64",
+      "bytes": 13592
+    },
+    "article.md": {
+      "sha256": "ea0b9c80e130016d9397f68a60838d6a2500f6842798c46eb47fb519c7f46367",
+      "bytes": 9345
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:15+08:00"
+}

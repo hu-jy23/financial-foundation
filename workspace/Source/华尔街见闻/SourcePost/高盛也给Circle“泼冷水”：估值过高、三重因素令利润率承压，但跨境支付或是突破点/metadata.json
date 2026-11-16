@@ -1,0 +1,102 @@
+{
+  "article_id": 3750119,
+  "selection": {
+    "article_id": 3750119,
+    "url": "https://wallstreetcn.com/articles/3750119",
+    "title": "高盛也给Circle“泼冷水”：估值过高、三重因素令利润率承压，但跨境支付或是突破点",
+    "page_display_time": "2025-06-30T21:49:23+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "数字资产与金融创新",
+    "reading_priority": "B",
+    "reading_value": "补充Circle合规份额、跨境支付和估值假设，与摩根大通的成本框架形成配读。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1950,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 141
+  },
+  "url": "https://wallstreetcn.com/articles/3750119",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3750119?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:50+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_001.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "高盛也给Circle“泼冷水”：估值过高、三重因素令利润率承压，但跨境支付或是突破点",
+  "page_display_time": "2025-06-30T21:49:23+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "高盛表示，继摩根大通之后，高盛给出Circle 83美元目标价，称估值过高且存在三个可能对收益率造成压力的因素，分别是降息、USDC被有收益产品分流，以及分销成本上升。但高盛预计，跨境支付或打开其成长空间，但目前Circle的跨境支付网络（CPN）仍处于早期阶段。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2023,
+  "body_sha256": "ee59a8aa7fcb1c898032cda05cb621b5dd64e383e83f9cf97746386f086b65c4",
+  "raw_sha256": "25d3e44479ecd387ef77599174e48f74e7f8828acb7fc971187749846b0d77c9",
+  "raw_bytes": 10697,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/0a78dd3e-18d0-448e-bd5e-bdec49612654.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1950,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:42+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "25d3e44479ecd387ef77599174e48f74e7f8828acb7fc971187749846b0d77c9",
+      "bytes": 10697
+    },
+    "article.html": {
+      "sha256": "673beaadccb09fffab3ff7374920775e0c4cc4f6cf975dc4440a98676c6beb44",
+      "bytes": 10397
+    },
+    "article.md": {
+      "sha256": "0ab9b179d1d8a998e45e5725a44735e4a368b6c440a91b317f35299e9bad5416",
+      "bytes": 6519
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:33+08:00"
+}

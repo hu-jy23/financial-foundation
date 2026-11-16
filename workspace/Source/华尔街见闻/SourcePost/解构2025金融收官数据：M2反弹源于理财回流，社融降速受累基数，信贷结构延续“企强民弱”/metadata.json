@@ -1,0 +1,73 @@
+{
+  "article_id": 3763428,
+  "selection": {
+    "article_id": 3763428,
+    "url": "https://wallstreetcn.com/articles/3763428",
+    "title": "解构2025金融收官数据：M2反弹源于理财回流，社融降速受累基数，信贷结构延续“企强民弱”",
+    "page_display_time": "2026-01-16T09:06:08+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "中国宏观与政策",
+    "reading_priority": "A",
+    "reading_value": "把M2、M1、社融和贷款结构拆开，讨论理财回流、基数和部门融资差异。",
+    "starter_selection": true,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2380,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 68
+  },
+  "url": "https://wallstreetcn.com/articles/3763428",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3763428?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:29+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "解构2025金融收官数据：M2反弹源于理财回流，社融降速受累基数，信贷结构延续“企强民弱”",
+  "page_display_time": "2026-01-16T09:06:08+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "12月新增社融2.21万亿元，同比少增6457亿元，中金表示这是基数效应使然——2024年同期，2万亿置换债集中发行填高了基数，导致今年出现了“节奏错位”。信贷方面“企业强、居民弱”的结构性特征依然显著，企业信贷表现出了超预期的韧性，显著高于往年同期。M2的反弹主要来自银行负债端的结构调整，理财、同业存单等收益率优势收窄，导致非银资金回流银行表内，转化为存款。尽管M1读数不高，但“居民存款搬家”的迹象并未停止。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2435,
+  "body_sha256": "0e0a220ce86d94abe23ff7fed0ea6b536fc2a9ff3254a3d35146ebb46c9d517c",
+  "raw_sha256": "140d80d6cca7585a79684caec97fcf3a82c6c5131f03a47715f89d21b6fb81ed",
+  "raw_bytes": 12504,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/83dd17fe-3ef4-4b42-aef8-10d5a1da2058.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2380,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:34+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "140d80d6cca7585a79684caec97fcf3a82c6c5131f03a47715f89d21b6fb81ed",
+      "bytes": 12504
+    },
+    "article.html": {
+      "sha256": "1343c70bc12e0d4262a10b06e137c2b48bc642b2523b9e97cdcc04984bd94be2",
+      "bytes": 11788
+    },
+    "article.md": {
+      "sha256": "dab647424bbdd4c5da6b559f2ec9b0e0f250ae5bc41433fe8de929d977aaea05",
+      "bytes": 8213
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:19+08:00"
+}

@@ -1,0 +1,102 @@
+{
+  "article_id": 3753561,
+  "selection": {
+    "article_id": 3753561,
+    "url": "https://wallstreetcn.com/articles/3753561",
+    "title": "美国核能复兴已经到来，接下来会发生什么？",
+    "page_display_time": "2025-08-18T21:03:15+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "卜淑情",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004518",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "能源、商品与航运",
+    "reading_priority": "B",
+    "reading_value": "区分核电延寿、重启、新建和小型堆的成本与建设周期，分析供给扩张路径。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1431,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 86
+  },
+  "url": "https://wallstreetcn.com/articles/3753561",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3753561?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:33+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_001.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "美国核能复兴已经到来，接下来会发生什么？",
+  "page_display_time": "2025-08-18T21:03:15+08:00",
+  "page_byline": "卜淑情",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "大摩报告指出，大型新建核电项目仍面临挑战，建设周期长、成本控制难等问题尚未完全解决。但与此同时，核电机组的延寿、重启项目推进迅速，小型模块化反应堆（SMRs）因建设周期短、前期成本较低等优势，成为突破发展瓶颈的关键方向。从长期容量看，在 “核能复兴” 情景下，美国核能总容量预计将显著提升至 150GW，相关产业链也将受益。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1507,
+  "body_sha256": "3099451fad3a217370d4f1d8adbb1c982dba124cc24fa69d7fb64c65259a8b9f",
+  "raw_sha256": "1ec887039ec933a43dfb8aa49273cfc37fa6b517cdf5cbaa538109f4ac1fafce",
+  "raw_bytes": 9588,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/c43ee4a4-b283-436b-8091-6db6999bc3c4.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1431,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:36+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "1ec887039ec933a43dfb8aa49273cfc37fa6b517cdf5cbaa538109f4ac1fafce",
+      "bytes": 9588
+    },
+    "article.html": {
+      "sha256": "28f28c14ba2aad21970cd2f028bb08cda2113f1b7d438c9e5231bff013f41d68",
+      "bytes": 9304
+    },
+    "article.md": {
+      "sha256": "8fe57964cc6b5b5d2d276fac4d765b6365723035d662a87b52d2ae4cabdd7e85",
+      "bytes": 5462
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:23+08:00"
+}

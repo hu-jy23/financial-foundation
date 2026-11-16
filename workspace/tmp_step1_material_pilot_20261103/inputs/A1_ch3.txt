@@ -1,0 +1,1073 @@
+
+=== PDF页 50 ===
+Chapter 3
+Conventional Monetary Policy
+
+
+
+
+This chapter introduces conventional monetary policy, i.e. monetary policy during
+periods of economic and financial stability and when short-term interest rates are
+not constrained by the zero lower bound. We introduce the concept of an operational
+target of monetary policy and explain why central banks normally give this role to
+the short-term interbank rate. We briefly touch macroeconomics by outlining how
+central banks should set interest rates across time to achieve their ultimate target,
+e.g. price stability, and we acknowledge the complications in doing so. We then
+zoom further into monetary policy operations and central bank balance sheets by
+developing the concepts of autonomous factor, monetary policy instruments, and
+liquidity-absorbing and liquidity providing balance sheet items. Subsequently we
+explain how these quantities relate to short-term interest rates, and how the central
+bank can rely on this relation to steer its operational target, and thereby the starting
+point of monetary policy transmission. Finally, we explain the importance of the
+collateral framework and related risk control measures (e.g. haircuts) for the liquidity
+of banks and for the conduct of central bank credit operations.
+
+
+
+3.1 Short-Term Interest Rates as the Operational Target
+    of Monetary Policy
+
+3.1.1 The Targets of Monetary Policy
+
+The operational target of monetary policy is an economic variable, which the central
+bank wants, and indeed can control on a day-by-day basis using its monetary policy
+instruments. It is the variable for which (i) the policy decision making committee
+sets the target level in each of its meetings; which (ii) gives guidance to the staff of the
+
+The original version of the chapter has been revised. A correction to this chapter can be found at
+https://doi.org/10.1007/978-3-030-70884-9_8
+© The Author(s), 2026, corrected publication 2026                                                29
+U. Bindseil and A. Fotia, Introduction to Central Banking, SpringerBriefs in Quantitative
+Finance, https://doi.org/10.1007/978-3-030-70884-9_3
+
+
+=== PDF页 51 ===
+30                                                       3 Conventional Monetary Policy
+
+central bank what really to do on a day-by-day basis, and (iii) serves to communicate
+the stance of monetary policy to the public.
+    There are essentially three main types of operational targets: (i) a short-term
+interest rate, which is today and was until 1914 the dominant approach; (ii) a foreign
+exchange rate, for central banks which peg their own currency strictly to a foreign
+one, usually a small or developing economy; and (iii) a quantitative, reserve related
+concept, which was in different variants the official operational target of the Federal
+Reserve of the United States in the period 1920–1983. However, how it was meant to
+be applied is not completely clear (for a deeper discussion of this topic, see Bindseil
+[2004]).
+    The ultimate target of monetary policy is the objective that the central bank wants
+to achieve in the medium or in the long run. It is the precise quantitative specification
+of the objectives established by the mandate of the bank. Currently there are two
+predominant ultimate targets:
+• Inflation rate: usually defined as an annual increase of the consumer price index.
+  It is the most common target for advanced economies and is used also in some
+  emerging economies. In some cases, it is the ultimate target together with other
+  objectives. For example, in the case of the Fed, the objectives spelled out in
+  Section 2A of the Federal Reserve Act are “maximum employment, stable prices,
+  and moderate long-term interest rates”;
+• Foreign exchange rate: in case of a currency peg, the ultimate target is the
+  exchange rate, and all other variables, and the operational and ultimate target
+  collapse into one.
+Other ultimate targets, which have been applied in the past, or which are currently
+being discussed, include:
+• Monetary aggregates: Friedman (1982) proposed to make a narrow monetary
+  quantity the ultimate target of the central bank. A somewhat less radical variant
+  was defined by the Deutsche Bundesbank with monetary growth as an intermediate
+  target to pursue price stability (Deutsche Bundesbank 1995).
+• Nominal GDP targeting. At least since Clark (1994), nominal GDP targets have
+  been considered as an alternative monetary policy strategy to inflation targeting.
+  Recently, Williams (2016) has advocated nominal GDP targets as they would have
+  a number of advantages in a world with lower growth and lower natural interest
+  rates.
+• Price-level targeting has similarities to inflation targeting, but would compen-
+  sate past deviations of actual inflation from the target with subsequent opposite
+  deviations. Such an approach would reduce long-run uncertainty regarding the
+  price level. For a survey, see Ambler (2009). Arguably the Fed adopted elements
+  of price-level targeting in its recent decision of pursuing an average inflation rate
+  of 2% by allowing an inflation rate moderately above 2% after periods in which
+  inflation has been below 2% (Fed 2020d).
+
+
+=== PDF页 52 ===
+3.1 Short-Term Interest Rates as the Operational Target of Monetary Policy                              31
+
+A central bank may have a single or dual mandate: for example, the ECB has the
+primary objective of price stability and other economic objectives are subordinate to
+that imperative (EU 2007), while the US Fed has, according to the Federal Reserve
+Act as amended in 1977, the statutory objectives for monetary policy of maximum
+employment, stable prices, and moderate long-term interest rates (although these
+seem to be three objectives, reference is made to a “dual” mandate).
+   The ultimate target must be precisely defined: for example, the ECB decided
+that “Price stability is defined as a year-on-year increase in the Harmonised Index
+of Consumer Prices (HICP) for the euro area of below 2%.” and operationalised
+the target by aiming at an increase of the HICP of “close to but below 2%” with a
+medium-term orientation. Some, like Ball (2014), have suggested that it would be
+better to set the inflation target to 4%, at least in the possible new world of secular
+stagnation in which the zero-lower bound can easily constrain monetary policy (as
+further explained in the next section).
+
+
+
+3.1.2 The Basic Natural Rate Logic of Monetary Policy
+
+Thornton (1802b, 254) may have been the first to view central bank policy as a
+“bank rate” (Bank of England discount facility rate) policy, and analyses how bank
+rate policy should be conducted. Accordingly, short term nominal interest rates would
+need to follow the real rate of return of capital to control the expansion of money
+and hence achieve price stability.
+   Thornton also insists that the bank rate is always a sufficient tool to prevent over-
+issuance of money and hence inflation (except when usury laws constrain the central
+bank in this respect). Thornton’s concept of a “rate of mercantile profit” is similar to
+the “natural rate” of interest described in 1898 by Wicksell (1898, 1936, 102) as
+follows:
+   There is a certain rate of interest on loans which is neutral in respect to commodity prices,
+   and tends neither to raise nor to lower them. This is necessarily the same as the rate of interest
+   which would be determined by supply and demand if no use were made of money and all
+   lending were effected in the form of real capital goods. It comes to much the same thing to
+   describe it as the current value of the natural rate of interest on capital.
+
+Figure 3.1 provides an arbitrage diagram (Richter, 1989) with two goods (wheat and
+money) at two points in time (today and tomorrow) to illustrate the natural rate idea.
+   By moving within the diagram from one good to another via different paths,
+arbitrage logic establishes some relationships between prices which are the starting
+point of the natural rate theory. Buying a unit of wheat for an amount p1 today, and
+selling its real returns tomorrow, yields a revenue of (1 + r)p2 , while keeping the p1
+in money until tomorrow yields (1 + i)p1 . These two returns must be equal:
+
+                                      p1 (1 + i) = (1 + r)p2
+
+
+=== PDF页 53 ===
+32                                                         3 Conventional Monetary Policy
+
+
+                   Wheat                     p1                 Dollar
+                   today                                        today
+
+           1+r                                                         1+i
+
+                   Wheat                                        Dollar
+                                            p2
+                 tomorrow                                     tomorrow
+
+Fig. 3.1 Arbitrage diagram with real and nominal rates
+
+
+   Dividing both sides by p1 , and writing p2 /p1 = (1 + π), with π being the inflation
+rate, one obtains the Fisher equation:
+
+                               (1 + i) = (1 + r) · (1 + π)
+
+    The equation states that return on money must be equal to the return on real assets
+multiplied by the growth factor of asset prices. The latter equation is for small values
+of r and π approximately equivalent to i = r + π, i.e. in equilibrium the nominal
+interest rate should be the sum of the real rate and the inflation rate.
+    Above, the real rate of interest is simply a relative price between “wheat
+tomorrow” and “wheat today”. Its equilibrium value should depend on the pref-
+erence of consumers and on the intertemporal production function. People normally
+prefer consumption today to consumption tomorrow, and the intertemporal produc-
+tion function normally produces positive returns, implying together that real interest
+rates are normally positive. However, in recent years, as well as in some other periods
+in history, negative real rates seem to have been observed (see the next sub-section).
+    Moreover, the simple arbitrage logic assumed that the inflation and the real rate
+of return were perfectly known, which is not the case. Starting from an initial state
+in which actual and expected inflation corresponds to the central bank’s target and
+stable inflation expectations, E(πt +1 ) = πt = π*, the central bank could preserve
+this state if it manages to keep the money (nominal) interest rate, it , always equal to
+the expected real rate of return on capital E(rt ) plus the inflation target π*. Wicksell’s
+above quoted statement on the natural rate of interest assumes as starting point zero
+inflation expectations, so that the natural interest rate equals the expected real rate
+of return on capital goods, E(rt ). If however inflation expectations are positive, then
+the relevant concept is the “non-accelerating interest rate”, which is the rate that
+is neutral not to the price level, but to the rate of change of the price level, and this
+rate is equal to E(rt ) + E(πt ):
+
+                                    it = E(rt ) + E(πt )
+
+
+=== PDF页 54 ===
+3.1 Short-Term Interest Rates as the Operational Target of Monetary Policy                              33
+
+    The expected real rate of return on capital goods, E(rt ), will vary over time, as its
+underlying factors varies. Therefore, the central bank also has to adjust the nominal
+interest rate across time to achieve stability of the inflation rate at its target level over
+time.
+    The nominal interest rate it is contractually fixed at the point in time t and is the
+nominal interest rate on money covering the period [t, t + 1]. The real rate rt covering
+[t, t + 1] is not yet fixed at t, nor is πt = (pt + 1 − pt )/(pt )) The general idea of the
+dynamics triggered by a perceived arbitrage opportunity is as follows (with it * we
+mark the neutral rate):
+• it > it * = E(rt ) + E(πt )   it is profitable to sell real goods and hold more money
+  investments ⇒ excess supply of real goods today              disinflationary impulse
+  actual inflation will fall below expected inflation: πt < E(πt )
+• it < it * = E(rt ) + E(πt ) it is profitable to buy more real goods for real investment
+  projects, hold less money investments (or be short in money, i.e. borrow money),
+      excess demand for goods today inflationary impulse actual inflation will
+  turn out to be above expected inflation: πt > E(πt ).
+It is not obvious how this dynamic process can be fully specified in a two-point-in-
+time arbitrage diagram.1 Modern macroeconomic monetary theory aims at capturing
+such dynamics.
+    The central bank can choose its inflation rate target. For example, central banks
+often concluded that π* = 2% is the optimal inflation rate (on models of the optimal
+rate of steady state inflation, see e.g. Schmidt-Grohe and Uribe [2010], who support
+low inflation targets, such as 2%).
+
+
+3.1.2.1     Zero Lower Bound
+
+An important limitation to the above-stated logic is the zero lower bound to nominal
+interest rates implied by the existence of banknotes with zero remuneration. If
+the interest rates on deposits were to be negative, economic agents could convert
+their deposit in banknotes, to avoid the loss caused by the negative interest rates.
+Due to the cost connected to the storage of banknotes, slightly negative interest rates
+can actually be applied by central banks. For this reason, some refer to an “effective
+lower bound”, whereby central bank practice so far suggests that this effective lower
+bound could be of the order of −1%.
+    Assuming that the zero-lower bound would be strictly at 0%, the choice of the
+inflation target π* must respect the constraint that rt + π* > 0. Since the real rate
+of return on capital rt can be negative, for instance if the economy shrinks and the
+population is aging, a positive target inflation rate can be necessary to “lift” the
+non-accelerating rate of interest into positive territory.
+
+1 It is interesting to note that a similar issue arises in foreign exchange interest rate parity arbitrage.
+
+The main difference is that the exchange rate is a price that reacts immediately (as it is set in the
+most liquid financial market), while the price level in an economy reacts sluggishly to news.
+
+
+=== PDF页 55 ===
+34                                                        3 Conventional Monetary Policy
+
+   The key problem associated with the zero lower bound to nominal interest rates is
+that it could make the central bank incapable of preventing a so-called “deflationary
+trap”. Indeed, if the non-accelerating interest rate it * were negative (it * = E(rt ) +
+E(πt ) < 0), but the central bank cannot set the nominal interest rate (it ) sufficiently
+below zero, then monetary policy will be dis-inflationary. That means that—at least
+according to the simple arbitrage logic—inflation and inflation expectations will fall
+further, making zero interest rate policies even more dis-inflationary, etc. This is
+why some authors (e.g. Ball 2014) have concluded that in a world of low growth
+dynamics and low real rates of return, it is preferable to choose a higher inflation
+target (e.g. 4%) as a buffer against negative shocks that could push the economy into
+the deflationary trap.
+
+
+
+3.1.3 Complicating the Basic Natural Rate Logic
+
+The equilibrium relationship above reflects a number of simplifications. In the real
+world, at least the following five issues complicate the basic natural rate logic.
+
+
+3.1.3.1   Different Concepts of the Real Rate
+
+The price system will most of the time be outside steady state equilibrium. Prices
+and real rates of return on capital are constantly hit by exogenous shocks. This implies
+that one needs to differentiate between the expected (ex-ante) and the actual (ex-post)
+real rate of return on capital, E(rt ) and rt . For instance, the actual rate of return on
+wheat is affected by the unpredictable weather conditions over the next 12 months.
+Moreover, when non-anticipated price pressures (relative to expected prices) occur,
+adjustment of prices are typically sticky and react only gradually. Amongst other
+things, this implies that the real rate of return on capital will be distinct from the
+ex post real rate of return on money investments. Indeed, the fact that ex-ante it
+= E(rt ) + E(πt ) does not imply that ex-post it = rt + πt . The real rate of return on
+money investments is equal to (ex-post) it − πt . The real rate of return on capital
+is (ex-post) rt . There is a third concept that needs to be distinguished, which is the
+ex-ante real rate of return on money investments, which is it − E(πt ). This is the
+most frequently used concept when the term “real interest rates” is used in the media
+and academic papers. In an ex-ante arbitrage steady state equilibrium, this should
+be equal to E(rt ). However, in reality, ex-ante adjustments to reach an arbitrage
+equilibrium may be imperfect and slow (e.g. the “time to build” argument), so that it
+is necessary to distinguish between the expected real rate of return on capital (E(rt ))
+and the expected real rate of return on money investments (it − E(πt )). Table 3.1
+summarises the four concepts of real rates that eventually need to be distinguished,
+as they will, for the reasons mentioned above, not be identical. Note the assumption
+that the nominal interest rate on money is identical ex-post and ex-ante. This holds
+as long as debtors do not default.
+
+
+=== PDF页 56 ===
+3.1 Short-Term Interest Rates as the Operational Target of Monetary Policy              35
+
+Table 3.1 Four concepts of the real rate of interest
+                                                       Ex-ante               Ex-post
+Real capital investment                                 E(rt )                 rt
+Money investment                                   it − E(πt )               i t – πt
+
+
+
+3.1.3.2    More Than One Real Good
+
+In reality there is not only one real good (“wheat”) which is at the same time a
+consumption and an investment good, but there is a wide range of goods with very
+different properties. Investment goods are supposed to determine the real rate of return
+on capital, while consumer goods determine inflation. Consumer and investment good
+prices are eventually linked, but such links are imperfect and lagged.
+
+
+3.1.3.3    Funding Costs of the Economy Versus
+           Short-Term Risk-Free Rates
+
+Nominal funding costs of the real economy are not identical to the short-term nominal
+interest rate that the central bank sets. Nominal funding costs of the real economy
+can be estimated by producing a weighted average of funding rates, the weights
+reflecting the share of that type of funding in the total funding of the real economy. For
+example, for the euro area, Table 2.4 of the statistical annex of each ECB Economic
+Bulletin contains a detailed split up of lending rates for new and outstanding loans to
+various obligor classes (household consumer credit, household mortgage loans, loans
+no non-financial corporates, etc.) with volumes known from the Monetary Financial
+Institutions (MFI) statistics. Corporate and sovereign bond yields can be collected
+from information systems such as Reuters and Bloomberg. The weighted average
+nominal lending rate of the economy can be thought to reflect three main factors:
+(i) the quasi-risk-free short-term interbank interest rate which is normally controlled
+precisely by the central bank; (ii) The term spread in the risk-free benchmark yield
+curve; (iii) The various instrument-specific credit risk and liquidity premia. Credit
+risk premia result from investors requiring an additional return on credit risky assets,
+to be compensated against possible losses in case of debtor default. Liquidity premia
+result from investors requiring an additional return on assets which cannot be easily
+liquidated, compared to those assets which are highly liquid. Indeed, many investors
+may have to unexpectedly liquidate their assets under some scenarios, and in that
+case holding an illiquid asset will lead to losses, in particular if large amounts need
+to be sold quickly. In the presence of such premia, the challenge for the central bank
+is then no longer limited to the estimation of the expected real rate of return on
+capital goods only (such as to shift the nominal short-term interest rate across time in
+parallel to this), but in addition to adjust across time for the varying spread between
+the weighted average funding costs of the real economy and risk free short-term
+rates. Moreover, if the real rate of return on capital is low (as is likely the case in a
+
+
+=== PDF页 57 ===
+36                                                        3 Conventional Monetary Policy
+
+crisis), and in addition credit and liquidity spreads are high, then it is likely that the
+central bank will reach the zero lower bound before being able to make monetary
+policy expansionary. To express this generalisation formally, define:
+• τ as the term spread summarising the slope of the risk-free yield curve, i.e. the
+  difference between the risk-free rate at the average duration of real economic
+  projects (say five years) and the short end of the risk-free yield curve.
+• λ as the spread between the weighted funding costs of the real economy and the
+  risk-free yield with the same duration, i.e. capturing credit and liquidity premia.
+What does τ and λ imply for the setting of short-term nominal interest rates by the
+central bank? Does the central bank have to set it * = E(rt ) + E(πt ) − τt − λt ? If in a
+liquidity crisis, λ shoots up significantly, this would indeed have to be compensated
+by a corresponding lowering of the short-term interest rate it to ensure that mone-
+tary conditions remain unchanged. In economic and financial crises, the increase of
+liquidity and credit spreads may also add to the potential ZLB problem. However,
+central banks can also influence spreads through non-conventional measures, namely
+forthcoming LOLR policies (to moderate credit/liquidity spreads) and long-term
+bond purchases (to moderate the term spread).
+
+
+3.1.3.4   Quantity Constraints in Credit Markets
+
+It has to be kept in mind that the actual availability of credit to the real economy
+cannot necessarily be measured by contemplating interest rates alone (e.g. Stiglitz
+and Weiss 1981). Funding markets for some indebted companies can break down
+completely due to an increase of uncertainty and information asymmetries (see also
+Chapters 6 and 7). The role of quantitative funding constraints has been recognised
+as a relevant element of monetary conditions by central banks, and therefore central
+banks have started to systematically collect survey data to be able to monitor this
+element of the transmission mechanism. For example, the ECB collects on a quarterly
+basis qualitative and quantitative bank lending data (see the “Euro area bank lending
+survey”, ECB 2020a) and data on the access of SMEs to funding (“Survey on the
+access to finance of small and medium-sized enterprises in the euro area” [ECB
+2020d]).
+
+
+3.1.3.5   Empirical Estimation Issues
+
+The expectations theory of the term structure of interest rates (longer term rates as
+a geometric mean of expected short term rates) does not explain comprehensively
+movements of long-term yields. Term premia vary over time, and decomposing long-
+term rate changes into expectations on short-term rates and varying term premia
+is challenging (see e.g. Abrahams et al. 2016). The variability of term premia for
+nominal interest rates can be of a similar order of magnitude as variations in expected
+future nominal short-term interest rates. The same holds for the inflation component
+
+
+=== PDF页 58 ===
+3.1 Short-Term Interest Rates as the Operational Target of Monetary Policy          37
+
+of nominal rates (i.e. its split up into expected inflation and inflation term premia,
+or inflation risk premia) and for its real rate component (split up into expected real
+rates and real rate term premia). Term premia may be regarded as a residual item
+also capturing, beyond the term risk premium, other effects not captured by the
+measurement of expected short term rates.
+   Laubach and Williams (2016) review different approaches for estimating real
+interest rates:
+• The simplest way would be to calculate past average values of ex-post real rates
+  (average nominal short term interest rates minus average inflation rates).
+• More sophisticated statistical approaches use time-series filtering techniques that
+  try to separate longer-term trends from short-term variations.
+• Yields on inflation linked bonds can be used to extract future expected real
+  rates. However, forward rates include a term premium that contaminates the
+  measurement of the market perception of the natural short-term interest rate.
+• The Laubach–Williams (2003) model uses a multivariate model that explicitly
+  takes into account movements in inflation, output, and interest rates. The natural
+  rate of interest is implicitly defined by the absence of inflationary or deflationary
+  pressures.
+Recent estimates of the natural rate using the Laubach–Williams (2003) model
+suggest that the natural rate fell from a 1980-level of around 3.5% in the US and
+2.8% in the euro area to levels below 1% and to below 0%, in 2015, respectively.
+
+
+3.1.3.6   Conclusion
+
+The five issues above are the reason why the theory of optimal short-term central
+bank interest rate setting is complex, diverse and inconclusive, and also why central
+banks have large departments devoted to monetary policy analysis. Modern New
+Keynesian economics relies, as a starting point, on Wicksellian ideas, and tries to
+capture short term dynamics (e.g. Woodford 2003; Galí 2015). The New Keynesian
+approach has received important qualifications and has also been challenged from
+various perspectives (e.g. Cochrane 2011).
+
+
+3.1.3.7   Two Extreme Examples from German History in Which
+          Arbitrage Logic was Ignored
+
+In retrospect, one can identify episodes in which the central bank was obviously
+way off a reasonable interest rate policy, and thereby triggered fatal dynamics of
+the purchasing power of money. German monetary history of the twentieth century
+provides two outstanding illustrations.
+   Inflationary central bank interest rate policies are best illustrated by the appli-
+cation of the 5% discount rate by the Reichsbank from 1914 to 1922. Applying the
+arbitrage logic above, this discount rate was far too low as of 1915. Indeed, as shown
+
+
+=== PDF页 59 ===
+38                                                         3 Conventional Monetary Policy
+
+in Table 3.2 inflation reached 35% already in 1915 (essentially due to the extreme
+public demand shock associated with war mobilisation) and remained at similar or
+higher levels until it exploded in 1922 and 1923. The approach “(i) borrow money;
+(ii) buy and hold real assets; (iii) sell real assets in the future” was therefore a consis-
+tent profit-making opportunity without interruption for eight years. Actual inflation
+rates were certainly limited by the price controls for basic goods during the war years
+and would otherwise have exploded even earlier.
+    Deflationary central bank interest rate policies are exemplified by the main-
+tenance of high nominal interest rates in the deflationary context of Germany in
+1930–1932, as shown in Table 3.3. There were various reasons why the Reichs-
+bank kept discount rates so high despite deflation: defending the gold standard and
+convertibility of the Reichsmark as prescribed according to International Treaties
+like the Dawes Plan and the Young plan, despite capital flight and a debt overhang
+due to reparation debt. However, having explanations for these interest rate poli-
+cies does not change the conclusion that they were highly deflationary, illustrating
+the Wicksellian cumulative process in the opposite direction than during the period
+1914–1923.
+
+Table 3.2 Reichsbank discount rate and inflation in Germany, 1914–1923
+                    Reichsbank discount rates (%)          Consumer price Inflation (%)
+     1915                        5                                        35
+     1916                        5                                        33
+     1917                        5                                        25
+     1918                        5                                        38
+     1919                        5                                        58
+     1920                        5                                        113
+     1921                        5                                        28
+     1922                       5–10                                     1025
+     1923                        10                                      >109
+Source Bundesbank 1976, 6
+
+
+Table 3.3 Reichsbank discount rate and inflation in Germany, 1929–1932
+                    Reichsbank discount rates (%)          Consumer price Inflation (%)
+     1929                      6.5–7.5                                    0.0
+     1930                       4–5                                      −5.5
+     1931                       7–15                                     −9.3
+     1932                       4–6                                      −10.4
+Source Bundesbank 1976, 6
+
+
+=== PDF页 60 ===
+3.1 Short-Term Interest Rates as the Operational Target of Monetary Policy            39
+
+3.1.4 Transmission Channels of Monetary Policy
+
+We do not aim to cover monetary macroeconomics in any depth here, but only touch
+upon it very briefly to provide the link to monetary policy implementation. The
+monetary macroeconomics literature distinguishes a number of so-called transmis-
+sion channels of monetary policy, i.e. how changes of the operational target impact
+the financial system and the economy so as to eventually reach the ultimate target of
+monetary policy—say price stability.
+   The most basic transmission channel that central bankers tend to have in mind
+today is the interest rate channel based on the Wicksellian arbitrage logic explained
+above: If it > E(rt ) + E(πt ) ⇒ πt ↓; If it < E(rt ) + E(πt ) ⇒ πt ↑. The following
+further transmission channels are often mentioned in the literature, whereby the first
+three channels are closely linked to Wicksell’s arbitrage logic.
+• Exchange rate channel: it ↓ ⇒ capital outflows ⇒ value of the currency ↓ ⇒
+  Exports ↑, Imports ↓, ⇒ Aggregate demand ↑ ⇒ πt ↑
+• Equity/housing price channel (Tobin’s Q): it ↓ ⇒ Value of discounted cash
+  flows from asset ↑, Asset prices ↑ and therefore above replacement costs ⇒
+  Investment ↑ ⇒ Aggregate demand ↑ ⇒ πt ↑
+• Wealth channel: it ↓ ⇒ Value of discounted cash flows from asset ↑, Asset prices
+  ↑ ⇒ Wealth ↑ ⇒ Consumption ↑ ⇒ Aggregate demand ↑ ⇒ πt ↑
+• Balance sheet channel: it ↓ ⇒ Asset prices ↑ ⇒ Equity of banks, firms and
+  households ↑ ⇒ balance sheet constraints to expand activity ↓ ⇒ balance sheet
+  expansion ⇒ Asset prices ↑ and aggregate demand ↑ ⇒ πt ↑.
+
+A more detailed overview of the transmission channels, with extensive literature,
+can be found e.g. in Boivin et al. (2010). The theory and empirical assessment of
+transmission channels is the key issue of monetary macroeconomics. Deciding on
+interest rate changes relies on predictions of transmission, so as to achieve to the best
+possible extent the ultimate target across time. Non-conventional monetary policies
+will partially rely on the same transmission channels, but partially also on additional
+ones.
+
+
+
+3.2 Composition of the Central Bank Balance Sheet
+
+The central bank balance sheets shown so far have been simplifications with regards
+to two important aspects that now need to be differentiated further.
+
+
+=== PDF页 61 ===
+40                                                            3 Conventional Monetary Policy
+
+Table 3.4 Several autonomous liquidity factors in the accounts of the bank and central bank
+                                                Bank
+Lending to corporates               D + B − INV Deposits                        D − DSt + FR
+                                                    Credit CB            B + DSt − INV − FR
+                                            Central Bank
+Investment portfolio                          INV Banknotes                                    B
+Foreign reserves                               FR Deposits Govt                               DSt
+Credit to banks             B + DSt − INV − FR
+
+
+
+3.2.1 Autonomous Factors
+
+Autonomous factors are those factors affecting the central bank balance sheet and the
+amount of deposits of banks with the central bank which are not monetary policy
+operations. They are not under direct control of the monetary policy implemen-
+tation function, although they have a potential impact on liquidity conditions, and
+on short-term market interest rates. In the central bank balance sheets presented so far,
+banknotes were the only autonomous factor, but in fact there are other autonomous
+factors, which can all be integrated into the financial account model: (i) Govern-
+ments often deposit their cash with the central bank, implying that on tax collection
+days, government deposits with the central bank may increase steeply, while they
+decline on days the government pays out wages of its employees. (ii) The central
+bank may intervene in foreign exchange markets, or act as foreign exchange agent
+of the government, and thereby increases or decreases its foreign reserves holdings.
+(iii) The central bank may buy or sell financial assets for investment purposes. (iv)
+the IMF may have credit lines with the central bank and may occasionally draw on
+those.
+    As illustrated in the financial accounts in Table 3.2, the starting level and fluctua-
+tions of any of these four autonomous factors affect the necessary recourse of banks
+to central bank credit, which can matter both from a monetary policy perspective and
+from a bank funding/financial stability perspective (Table 3.4).
+
+
+
+3.2.2 Monetary Policy Instruments
+
+Monetary policy instruments are the tools used by the central bank to reach its
+operational target. Central banks mainly use three such tools: standing facilities,
+open market operations, and reserve requirements.
+   Standing facilities are central bank financial transactions at the initiative of
+banks, on the basis of a commitment of the central bank to enter such operations at
+certain conditions. Three variants have to be distinguished: An overnight lending
+
+
+=== PDF页 62 ===
+3.2 Composition of the Central Bank Balance Sheet                                                           41
+
+Table 3.5 Overnight lending facility’s and deposit facility’s name in selected central banks
+                             Overnight lending facility               Deposit facility
+Bank of England              operational standing lending facility    operational standing deposit facility
+Bank of Japan                complementary lending facility           complementary deposit facility
+European Central Bank        marginal lending facility                deposit facility
+Federal Reserve              Primary credit facility                  Term deposit facility
+                             Secondary credit facilitya
+a The Fed’s primary and secondary credit have been introduced in 2003 in an attempt to overcome
+stigmatisation of the discount window (the overnight lending facility of the Fed). Primary credit is restricted
+to a limited number of well-capitalised credit institutions (Armantier et al. 2015)
+
+
+facility allows banks to borrow at any time against eligible collateral at the rate
+specified by the central bank, with overnight maturity. It sets the upper limit of the
+interbank rate, as no bank would borrow at a higher rate than the rate offered by
+the central bank. A deposit facility allows banks to deposit funds at any time with
+the central bank on a specific account where it gets remunerated at a specific rate.
+It sets the lower limit for the interbank rate, as no bank would lend at a lower rate
+than the one it can obtain by safely depositing its reserves at the central bank. In the
+past central banks offered a discount facility: banks could sell certain short-term
+securities to the central bank at any time, whereby the discount rate specified by
+the central bank was applied to calculate the price on the basis of the securities’
+cash-flows. It was the main tool of central bank liquidity provision in the nineteenth
+century, but is no longer in use today.
+    Table 3.5 provides the relevant names of these facilities across some major central
+banks.2
+    Open market operations are central bank financial transactions with banks at
+the central bank’s initiative, whereby two subtypes can be distinguished: (i) Outright
+purchases or sales of assets (normally debt securities) from banks; (ii) Lending
+(or “credit”, “reverse” or “temporary”) operations with banks. Loans are provided
+through well-defined procedures: in a “fixed-rate tender”, the central bank announces
+the interest rate and maturity at which it will provide credit, banks then express the
+intended quantity they wish to obtain, and finally the bank announced a full or partial
+allotment. In a “variable-rate tender”, banks are allowed to submit bids at different
+interest rates and the central bank decides on a cut-off interest rate.
+    Reserve requirements oblige banks to hold in a certain period (per day, or on
+average over a two weeks or one-month period, for example) a certain minimum
+level of sight deposits on their account with the central bank. Fulfilment is measured
+only on the basis of end of day snapshots (i.e. intra-day levels of reserves are not
+relevant). The size of the reserve requirement of a specific bank is normally set as
+a percentage of specific liability items of its balance sheet which need to be reported
+on a monthly basis. In the case of the European Central Bank, the requirement for
+each bank amounts to 1% of its liabilities to non-banks with a maturity below two
+
+2 BoE 2020a; BoJ 2020b,2020a; ECB 2020c; Fed 2020c,2020a.
+
+
+=== PDF页 63 ===
+42                                                             3 Conventional Monetary Policy
+
+years. Even if reserve requirements are zero, there is still a sort of reserve requirement
+in the sense that banks need to hold at day end at least a zero balance on their deposit
+account with the central bank.
+
+
+
+3.2.3 Liquidity Providing and Liquidity Absorbing Items
+
+Both monetary policy operation and autonomous factors can each be further subdi-
+vided into liquidity providing and liquidity absorbing. If an asset item increases (be it
+a monetary policy item or an autonomous factor), then, everything else unchanged,
+the deposits of banks with the central bank (i.e. their “liquidity”) will increase,
+such as for example if the central bank purchases securities for monetary policy
+purposes, or if the central bank intervenes in foreign exchange markets to purchase a
+foreign currency. If a liability item increases, and all the other monetary policy items
+and autonomous factors are unchanged, then the deposits of banks with the central
+bank will decrease. This happens if for example the central bank collects fixed term
+deposits from banks, or if the circulation of banknotes goes up. Vice versa, if asset
+and liability items decline, the opposite effects on the level of bank deposits with
+the central bank will occur. In practical terms, the effect on deposits of banks with
+the central bank materialise because the banks are the counterparties of the central
+bank when the related financial operations are undertaken, and their accounts with
+the central bank are debited or credit as a consequence of the operations. Below, we
+will assume that the central bank offers an overnight lending facility and a deposit
+facility, but that it does not impose reserve requirements. When the control of short-
+term interest rates will be modelled, the differentiation between (i) outright open
+market operations; (ii) credit open market operations; and (iii) standing facilities
+will be necessary. The Table 3.6 reflects this slightly more differentiated represen-
+tation of the central bank balance sheet, ordered according to the three main types
+of balance sheet items.
+
+Table 3.6 The central bank balance sheet ordered according to the monetary policy implementation
+perspective
+                                         Central Bank
+Liquidity providing items                       Liquidity absorbing items
+Autonomous factors                              Autonomous factors
+• Net Foreign assets                            • Banknotes
+• Investment portfolios                         • Government deposits
+Monetary policy operations                      Monetary policy operations
+• Open market operations—outright purchases     • Fixed term deposits or repo
+• Open market operations—credit to banks        • Issuance of debt certificates
+• Borrowing facility                            • Deposit facility
+                                                Deposits of banks
+
+
+=== PDF页 64 ===
+3.2 Composition of the Central Bank Balance Sheet                                    43
+
+   What was labelled B (for “banknotes”) in the previous financial accounts is now
+defined as “autonomous actors”, being the following net sum:
+
+       Autonomous f actor s = Banknotes + Gover nment deposits
+                               −For eign r eser ves−I nvestment por t f olios
+
+   We netted autonomous factors as a central bank liability item. Defining “monetary
+policy operations” as the sum of all monetary policy operations netted as a central
+bank balance sheet asset item allows us to restate the balance sheet identity of the
+central bank as follows:
+
+Deposits o f banks = Monetar y policy operations − Autonomous f actor s
+
+   If the central bank imposes reserve requirements on banks, then deposits of banks
+with the central bank have to be at least equal to reserve requirements. Central banks
+therefore have to set the volume of monetary policy operations as follows:
+
+               Monetar y policy operations = Reser ve r equir ements
+               + Autonomous f actor s
+
+   The left-hand side of this equation is the “supply”, and the right-hand side the
+“demand” for central bank deposits. The deposit supply by the central bank has to
+suffice both for reserve requirements and net liquidity absorption due to autonomous
+factors. Define as “liquidity absorbing” all central bank balance sheet liability items
+(except bank deposits), and as “liquidity providing” all central bank balance sheet
+asset items. Bank deposits can be interpreted as a “residual” central bank liability
+item: any increase of another central bank liability item leads to a decrease of commer-
+cial bank deposits, while any increase of a central bank asset item leads to an increase
+in central bank deposits.
+
+
+
+3.3 Monetary Policy Implementation Techniques
+
+We now illustrate three basic techniques of short-term interest rate control through
+monetary policy operations: the ceiling, floor, and symmetric corridor approaches.
+
+
+
+3.3.1 The Ceiling Approach
+
+In the ceiling approach, the interbank interest rate will be close to the liquidity
+providing standing facility offered by the central bank. The central bank needs to
+ensure (through the choice of the two variables it controls), with a sufficient margin,
+
+
+=== PDF页 65 ===
+44                                                          3 Conventional Monetary Policy
+
+that
+
+ O pen mar ket operations < Autonomous f actor s + r eser ve r equir ements
+
+    In this inequality we use “open market operation” to designate the net stock of
+securities and liquidity providing credit operations of the bank (“net” of liquidity
+absorbing open market operations). “Autonomous factors” have been netted as a
+central bank balance sheet liability item. Given the implied scarcity of reserves in
+the system, banks are forced to borrow from the central bank facility, implying
+that the rate in the interbank market will be anchored around the central bank
+borrowing rate. In case of changes of the interest rate target, the central bank simply
+changes the interest rate of the liquidity providing standing facility. The approach
+relies on sufficiency of central bank eligible collateral, as otherwise the ceiling is
+not necessarily effective in constraining market rates. The set of financial accounts
+shown in Table 3.7 illustrates this technique.
+    This approach was standard during the nineteenth century, when banks had to take
+structural recourse to the central banks’ overnight lending facility and the overnight
+lending facility rate determined market rates.
+
+
+Table 3.7 The ceiling approach to monetary policy implementation
+                                       Households
+Real assets                       E − D − B Equity                                     E
+Banknotes                              B+d
+Deposits bank                          D−d
+                                        Corporates
+Real assets                           D + B Corporate Equity                         ECo
+                                              Debt                                   DCo
+                                           State
+Real assets                        ESt + DSt State Equity                             ESt
+                                              Debt                                    DSt
+                                          Bank
+Loans to corporate                    D + B Deposits of HH                         D−d
+Reserves of banks (incl. RR)             RR CB borrowing facility             RR + B + d
+                                      Central Bank
+Borrowing facility               RR + B + d Banknotes                              B+d
+                                              Reserves of banks (incl. RR)            RR
+
+
+=== PDF页 66 ===
+3.3 Monetary Policy Implementation Techniques                                          45
+
+3.3.2 The Floor Approach
+
+The floor approach has been used by all major central banks after 2009, and is
+now considered a new normal. In the floor approach, the interbank interest rate will
+be close to the liquidity absorbing standing facility (the deposit facility; or the rate
+of remuneration of excess reserves) offered by the central bank. The central bank
+needs to ensure (through the choice of the two variables it controls), with a sufficient
+margin, that
+
+O pen mar ket operations > Autonomous f actor s + r eser ve r equir ements
+
+   Moreover, the central bank needs to set the rate of the deposit facility (or the
+remuneration of excess reserves) to the level of the intended policy target interest rate.
+Given the abundance of reserves, commercial banks will be willing to lend them
+in the interbank market at any rate marginally higher than the remuneration
+of the deposit facility. The financial accounts shown in Table 3.8 illustrate this
+approach. The central bank chooses the size of its outright portfolio OMO (“open
+market operations”) such that D + B > OMO > B + RR.
+   Sometimes central banks have implemented one-sided facility approaches with
+two facilities offered in the same direction (i.e. either two liquidity absorbing
+facilities under the floor approach, or two liquidity-providing facilities under the
+ceiling approach). For example, during the gold standard, central banks often steered
+interest rates between two liquidity providing facilities, with Lombard rate > i >
+discount rate (the Lombard facility was the name of a collateralised overnight lending
+facility at that time; note that this was a ceiling system). Since 2005 the Fed has
+applied a floor system with Interest rate on excess reserves (IOER) > i > Reverse repo
+rate. These systems require that the more attractive of the two facilities is somehow
+
+
+Table 3.8 The floor approach to monetary policy implementation
+                                         Corporate/State
+Real assets                               D + B Debt                               D+B
+                                              Bank
+Loans and securities              D + B − OMO Deposits of HH                       D−d
+Deposits CB                                  RR
+CB deposit facility        −B − RR + OMO − d
+                                          Central Bank
+Securities                                OMO Banknotes                            B+d
+                                                  Deposits banks                      RR
+                                                  Deposit facility    OMO − RR − B − d
+
+
+=== PDF页 67 ===
+46                                                               3 Conventional Monetary Policy
+
+constrained in terms of access (discount facility possibly through scarcity of available
+eligible paper, IOER through limiting access to banks, excluding non-banks).
+
+
+
+3.3.3 The Symmetric Corridor Approach
+
+Under the symmetric corridor approach, which was standard in the years before 2008,
+the central bank offers both a liquidity providing and a liquidity absorbing facility,
+and keeps liquidity broadly “neutral” in the sense that ex-ante,
+
+ O pen mar ket operations = Autonomous f actor s + r eser ve r equir ements
+
+   This means that the probabilities that at day end (or at the end of the reserve
+maintenance period) the banking system will need one or the other facility are ex-
+ante symmetric, and therefore the interbank interest rate will trade in the middle of
+the corridor set by the interest rates of the liquidity providing and liquidity absorbing
+standing facilities. The central bank sets the rate of the two facilities symmetrically
+around the target interest rate. To capture the technique more precisely, assume the
+following daily timeline of events, as also summarised in the (Table 3.9).
+• Every morning, the central bank determines its securities holdings SCB such that
+  SCB = B + RR. B is the expected autonomous factors level, and RR the required
+  reserves, and therefore, the expected level of bank reserves R is equal to RR.
+• Second, interbank trading for overnight reserves with the central bank occurs, and
+  the interbank rate is set as a weighted average of the two standing facility rates.
+  The weights are the perceived probabilities of the banking system having to take
+  recourse to one or the other standing facility at day end. As these probabilities are
+  equal, the interbank rate should be in the middle of the standing facilities corridor.
+• Third, the actual level for autonomous factors (B + d) materialises. The random
+  variable d may be assumed to have a symmetric distribution and expected value
+  of zero.
+• Finally, at day end, the banks need to take recourse to one or the other facility.
+
+
+Table 3.9 The symmetric corridor approach to monetary policy implementation
+                                            Bank
+Loans to corporate                    D − RR Deposits of HH                               D−d
+Reserves with CB (incl. RR)               RR CB borrowing facility                     max(0, d)
+CB deposit facility                max(0, −d)
+                                        Central Bank
+Securities (SCB )                     RR + B Autonomous factors                           B+d
+CB borrowing facility                max(0, d) Reserves of banks (incl. RR)                 RR
+                                                CB deposit facility                  max(0, −d)
+
+
+=== PDF页 68 ===
+3.3 Monetary Policy Implementation Techniques                                          47
+
+   The overnight interbank rate will be equal to the expected end of day marginal
+value of reserves, i.e. a weighted average of the two standing facility rates:
+
+          i = P(short)i B + P(long)i D
+          = P(O M O ≤ R R + B + d)i B + P(O M O > R R + B + d)i D
+          = i D + P(O M O ≤ R R + B + d)(i B − i D )
+
+    Substituting OMO = B + RR implies: i = i D + P(0 ≤ d)(i B − i D ). We can
+further simplify by taking assumptions on the random variable d: If for example d
+is symmetrically distributed around zero, then: i = i D + 0.5(i B − i D ) = i B +i
+                                                                                2
+                                                                                   D
+                                                                                     . The
+recourse to the borrowing facility will be max(d,0) and the recourse to the deposit
+facility max(−d,0). If we moreover assume that d ≈ N (0, σd ), then (Φ(·) is the
+cumulative standard normal distribution):
+
+                                     OMO − RR − B
+                    i = iD + Φ −                  (i B − i D )
+                                         σd
+
+    This equation will also allow us to calculate the effect of deviations of OMO from
+RR + B on the interbank overnight rate (assuming OMO, B and RR are observed by
+the banks before the interbank market session), which a central bank could rely on if
+it aims at an asymmetric corridor approach, with i* in [iD , iB ], but i* (iD + iB )/2.
+However, any asymmetric approach requires the central bank to take into account,
+when choosing OMO, second-order moments of autonomous factors (i.e. not only
+the expected value of autonomous factors, but also the variance), which increases
+complexity. Neither the floor, nor the ceiling, nor the symmetric corridor approaches
+required this. Therefore, central banks only very rarely implement changes of their
+operational target level through a “liquidity effect” (i.e. change OMO volumes rela-
+tive to autonomous factors) but through changes of interest rates of standing facilities.
+Academic authors have sometimes imagined that changes of the interest rate target
+would be implemented through liquidity effects, see for example Hamilton (1996).
+    In practice, a symmetric corridor approach also needs specification regarding the
+width of the corridor. Before 2008, corridor widths of 50 to 200 basis points were
+often observed. The choice of the corridor width is discussed e.g. by Bindseil and
+Jablecki (2011). Before 2008, the Fed’s operational framework was the only one
+amongst major central banks that did not rely on a corridor approach.
+
+
+
+3.4 The Central Bank Collateral Framework
+
+3.4.1 Why Collateral?
+
+Central banks conduct open market operations both in the form of purchases and
+sales of securities, and in the form of credit operations with banks. For the latter,
+
+
+=== PDF页 69 ===
+48                                                         3 Conventional Monetary Policy
+
+central banks require collateral, i.e. the pledging of certain eligible securities, called
+collateral, to protect its credit exposures to banks. The central bank will sell the
+collateral in the market if the borrowing bank does not repay the credit.
+    The value of collateral required by the central bank will exceed the credit provided
+by the central bank because central banks apply “haircuts”. For each security
+pledged as collateral, the haircut will be deducted to determine the maximum amount
+of central bank credit that can be obtained against it from the central bank. The haircut
+will depend on the price volatility of the security, its liquidity, and possibly on its
+credit risk. The collateral protects the central bank from a default of the commercial
+bank. Once the bank reimburses the credit from the central bank, the collateral is
+returned in its full value. There are several reasons why a central bank should not
+offer uncollateralised credit. (i) the central bank must ensure transparency and equal
+treatment, and uses uniform policy rates, but the credit worthiness is not the same
+for all institutes. (ii) the central bank is not specialised in assessing credit risk. (iii)
+the central bank must deal with a high number of banks, and also banks with a low
+rating must have access to liquidity. Collateral solves all these problems to a very
+large extent.
+    The collateral framework potentially influences the relative price of financial
+assets and thereby potentially the allocation of credit, as Nyborg (2017) has
+recently emphasised. Bindseil et al. (2017) also review the economics and practice
+of a collateral framework. The long history of collateral issues in central banking is
+also discussed in Chapter 4 of Bindseil (2019).
+
+
+3.4.1.1   What Makes an Asset Suitable as Collateral?
+
+Financial assets should fulfil certain qualities to be suitable as central bank collateral,
+in particular: legal certainty of the validity of the pledge; minimum liquidity to ensure
+the ability of the central bank to easily sell the collateral in case of counterparty
+default; simplicity; ease of pricing (through market prices or reliable theoretical
+prices), etc.
+
+
+3.4.1.2   Principles of a Collateral Framework
+
+First of all, the collateral framework should ensure a high degree of protection of the
+central bank from credit risk. Second, it should ensure sufficiency of collateral to
+implement monetary policy through credit operations, i.e. collateral scarcity should
+not lead to a distortion of interest rates or constrain the access of the banking system
+as a whole to the necessary amount of central bank credit. Third, the collateral frame-
+work should ensure sufficient access of all parts of the banking system considered
+important for the transmission of monetary policy. Third, the collateral framework
+should avoid that the collateral eligibility premium is so high that collateral scarcity
+and the relative treatment of assets by the collateral framework could influence rela-
+tive asset prices in a way that unduly affects resource allocation in the economy. A
+
+
+=== PDF页 70 ===
+3.4 The Central Bank Collateral Framework                                              49
+
+larger collateral set supports a lower collateral eligibility premium and hence reduces
+the risks of distortions. Fourth, the collateral framework should avoid pro-cyclicality:
+haircuts and eligibility criteria should be specified in good times in a conservative
+way so that they do not need to be tightened in crisis times.
+
+
+3.4.1.3   The Risk Control Framework
+
+The risk control framework for central bank collateral essentially consists in the
+haircut schedule and possible limits on the use of certain types of collateral. Gonzalez
+and Molitor (2009) and ECB (2015) present methodologies for deriving a central
+bank risk control framework for credit operations, such as haircuts, daily valuations,
+and margin calls. For example, the haircut scheme is a mapping of three features
+of each security into a haircut, namely (see ECB Press Release of 18 July 2013):
+Rating: BBB rated assets have higher haircuts than A-AAA rated assets (assets with
+ratings below BBB are normally not eligible at all); Residual maturity: the longer
+the residual maturity of bonds, the higher the price volatility and hence the higher
+the haircut; Institutional liquidity category of assets: The ECB has established six
+such categories, which are supposed to group assets into homogenous institutional
+groups in terms of liquidity. To keep the risk control framework simple, central banks
+rarely impose concentration limits on collateral portfolios, i.e. limiting the share of
+individual issuers, or the share of a certain asset type (concentration limits would
+have the advantage that in case of liquidation of a collateral portfolio, the price impact
+on the individual assets would likely be lower).
+
+
+3.4.1.4   Methodology for Haircut Determination
+
+The haircut setting of central banks tends to follow the principle of risk equivalence,
+i.e. after haircut, it should not matter from the central bank risk taking perspective
+which type of asset a bank brings as collateral. In case of counterparty default, the
+collateral submitted by that counterparty needs to be sold. This takes time and, for
+less liquid assets, a fire sale (i.e. a very quick sale) would have a negative impact on
+prices. The ECB classifies each security in one liquidity category, which is associated
+with a certain liquidation period, i.e. the period for which it can be assumed that
+the sale has no impact on prices. The haircut should depend on the price volatility
+of the relevant asset and on the prospective liquidation time, and possibly also on
+uncertainty regarding the initial value of the asset. High haircuts protect the central
+bank, but increase collateral needs for banks. This trade-off needs to be addressed by
+setting an adequate confidence level against losses. ECB (2004) set haircuts to cover
+99% of price changes within the assumed orderly liquidation time of the respective
+asset class. Later, the ECB adjusted this method to cover with 99% the Expected
+Loss, which is the expected loss conditional on exceeding the 99% confidence level
+(i.e. haircuts were increased).
+
+
+=== PDF页 71 ===
+50                                                              3 Conventional Monetary Policy
+
+   Assume an asset with a four week orderly liquidation period, and that the four
+week price change due to general volatility of the risk free yield curve is N(0,σM );
+the uncertainty on the true asset value at the pre-default valuation is N(0,σV ); the
+liquidation price uncertainty stemming from spread changes (if it is a BBB asset,
+then the volatility of the BBB-AAA spread) and credit migration risks (the risk that
+the asset gets downgraded from BBB to e.g. BB with the associated price decline) is
+N(0,σS ). Assuming independent factors, the total uncertainty on liquidation value is
+N 0, σ M2 + σV2 + σ S2 . Call σ2T the variance of the total liquidation value uncer-
+tainty of the asset. If the risk tolerance of the central bank has been defined as
+“preventing with 99% probability that the asset value at liquidation falls short of the
+last valuation minus the haircut”, then haircuts need to be set at σT −1 (0.01), where
+  (·) is the cumulative standard normal distribution. If for example σ2M = 4%; σ2V =
+2%; and σ2S = 2%, then the adequate haircut
+                                         √       achieving a 99% confidence level is
+58% since −1 (0.01) = 2.33 and σT = 4% + 2% + 2% = 2.83% .
+
+
+3.4.1.5    Collateral Constraints
+
+The quantity and quality of central bank eligible collateral limits the borrowing
+potential of banks from the central bank. Limits arise from (i) restricted eligibility
+(e.g. excluding particularly non-liquid and non-transparent bank asset classes and
+setting a minimum credit quality for the collateral obligor), (ii) conservative collateral
+valuation, (iii) haircuts, or (iv) quantitative collateral limits to address concentration
+and correlation risks (e.g. the share of a certain asset type in a collateral portfolio must
+not exceed a certain percentage). Assume the bank balance sheet in Table 3.10, with
+two liabilities, household deposits and central bank credit, and two assets, loans and
+securities. Assume also that the central bank imposes a haircut of h1 on loans to
+corporates and of h2 on securities, with 1 > h1 > h2 > 0. Collateral value after haircuts
+(or central bank credit potential) is for loans (1 − h1 )L and for securities (1 − h2 )S.
+   The maximum borrowing of this bank from the central bank is the value of loans
+after haircut and the value of securities after haircut, i.e.: (1 − h1 )L + (1 − h2 )S.
+The actual borrowing from the central bank, CB, must not exceed this, i.e.:
+
+                          L + S−D + d ≤ (1−h1 )L + (1−h2 )S
+
+   This implies that the bank will hit the collateral constraint when deposit outflows
+exceed d* = (1 − h1 )L + (1 − h2 )S − (L + S − D) = D − h1 L − h2 S, and could
+
+
+Table 3.10 Bank balance sheet to illustrate collateral constraints
+                                           Bank
+Loans to corporates                        L Household deposits                        D−d
+Securities holdings                        S Credit from central bank          L+S−D+d
+
+
+=== PDF页 72 ===
+3.4 The Central Bank Collateral Framework                                                       51
+
+default unless it finds alternative funding or is able to fire-sell assets. For example, in
+the case of the euro area, out of approximately EUR 30 trillion of aggregated bank
+assets, the value of central bank eligible collateral after haircuts that could be used
+at any moment in time may be around EUR 5 trillion.
+
+
+
+
+Open Access This chapter is licensed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits use, sharing,
+adaptation, distribution and reproduction in any medium or format, as long as you give appropriate
+credit to the original author(s) and the source, provide a link to the Creative Commons license and
+indicate if changes were made.
+    The images or other third party material in this chapter are included in the chapter’s Creative
+Commons license, unless indicated otherwise in a credit line to the material. If material is not
+included in the chapter’s Creative Commons license and your intended use is not permitted by
+statutory regulation or exceeds the permitted use, you will need to obtain permission directly from
+the copyright holder.

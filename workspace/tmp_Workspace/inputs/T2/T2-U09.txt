@@ -1,0 +1,1636 @@
+
+
+===== PDF 301 | 印刷页 266 =====
+
+11
+Chapter
+
+          The Economics of
+          Financial Intermediation
+
+           Learning Objectives
+           After reading this chapter, you should be able to:
+             LO1      Discuss the role of financial intermediaries and how they promote efficiency.
+
+             LO2      Explain asymmetric information, the problems it causes, and solutions to these
+                      problems.
+
+             LO3      Describe how moral hazard and adverse selection are managed by
+                      intermediaries and how they influence business finance.
+
+
+          The financial crisis of 2007–2009 alerted everyone that general economic well-being
+          is closely tied to the health of the financial institutions that make up the financial sys-
+          tem. The financial system is a lot like plumbing. When it’s working well, we pay little
+          attention. But its failure almost inevitably leads to a costly economic mess. The
+          breadth, depth, and persistence of financial disruptions in the crisis brought us closer
+          to a second Great Depression than at any time since the first one, in the 1930s.
+             As described in Chapter 1, our financial system is made up of six components:
+          money, financial instruments, financial markets, financial institutions, government
+          regulatory agencies, and the central bank. In Parts I and II (Chapters 1–10) we cov-
+          ered the first three of these components. In Part III (Chapters 11–14) we focus on the
+          fourth, financial institutions, and the fifth, government regulatory agencies. In this
+          chapter, we examine financial institutions’ purpose, which is known as financial
+          intermediation. As we learned in C      ­ hapter 3, financial institutions intermediate
+          between savers and borrowers, and so their assets and liabilities are primarily finan-
+          cial instruments. Various sorts of banks, brokerage firms, investment companies,
+          insurance companies, and pension funds all fall into this category. These are the insti-
+          tutions that pool funds from people and firms who save and lend them to people and
+          firms who need to borrow, transforming assets and providing access to financial mar-
+          kets. They funnel savers’ surplus resources into home mortgages, business loans, and
+          investments.
+             As we discussed briefly at the end of Chapter 3, financial intermediaries are
+          involved in both direct finance—in which borrowers sell securities directly to lend-
+          ers in the financial markets—and indirect f­inance, in which a third party issues
+          claims to those who provide funds and acquires claims from those who use them.
+          Intermediaries investigate the financial condition of the individuals and firms who
+          want financing to figure out which have the best investment opportunities. As
+
+                                                       266
+
+
+===== PDF 302 | 印刷页 267 =====
+
+                                                                                         The Economics of Financial Intermediation   l 267
+
+
+
+p­ roviders of indirect finance, banks want to make loans only to the highest-quality
+ borrowers. When they do their job correctly, financial intermediaries increase invest-
+ ment and economic growth at the same time that they reduce investment risk and
+ economic volatility.
+     Ensuring that the best investment opportunities and highest-quality borrowers are
+ funded is extremely important. Any country that wants to grow must ensure that its
+ financial system works. When a country’s financial system crumbles, its economy
+ fails with it. That is what happened in the United States in the Great Depression of
+ the 1930s, when a series of bank closings was followed by an increase in the unem-
+ ployment rate to more than 25 percent and a fall of nearly one-third in the level of
+ economic activity (measured by GDP). The Asian crisis of 1997, in which the bank-
+ ing systems of Thailand and Indonesia collapsed, is a more recent example. The deep,
+ prolonged economic plunge of 2008–2009 highlights how a financial crisis, once
+ started, can spread devastation across the global economy, triggering a spiral of eco-
+ nomic and financial decline that is difficult to halt. And the subsequent turmoil in the
+ euro area depressed some economies in the region enough to rival the traumatic
+ 1930s experience. Without a stable, smoothly functioning financial system, no coun-
+ try can prosper.
+     The strong relationship between financial development and economic development
+ is clearly apparent from the data. Figure 11.1 plots a commonly used measure of finan-
+ cial activity—the ratio of credit extended to the private sector (both through financial
+ intermediaries and markets) to gross domestic product (GDP)—against real GDP per
+ capita. The resulting positive correlation, roughly 0.6, is no surprise. With few excep-
+ tions, rich countries display advanced levels of financial development.
+
+
+
+   Figure 1 1.1                         Financial and Economic Development
+
+
+                           90,000
+                           80,000                                  Singapore
+                           70,000
+     Per Capita Real GDP
+
+
+
+
+                           60,000                                               Switzerland
+                                                                                                     Hong Kong
+                           50,000                                                       United
+                                            Russia
+                           40,000                                                       States
+                                        Nigeria                                      Japan
+                           30,000                                   Spain
+                                                                                                      Cyprus
+                           20,000
+                                                         Brazil                    China
+                           10,000                             India
+                               0
+                                    0             50         100             150               200                250
+                                              Domestic Credit to Private Sector (% of GDP)
+
+SOURCE: Financial development is measured as total financial system credit extended to the private sector. Global Financial
+Development Database, the World Bank. All data are for 2016. www.worldbank.org.
+
+
+===== PDF 303 | 印刷页 268 =====
+
+268 l Chapter 11  The Economics of Financial Intermediation
+
+
+
+                         In theory, the market system may seem neat and simple, but the reality is that eco-
+                      nomic growth is a messy, chaotic thing. The flow of information among parties in a
+                      market system is particularly rife with problems—problems that can derail real growth
+                      unless they are addressed properly. In this chapter, we will discuss some of these infor-
+                      mation problems—including several that contributed to the financial crisis of 2007–
+                      2009—and learn how financial intermediaries attempt to solve them.
+
+                      The Role of Financial Intermediaries
+                      Markets are remarkably effective at coordinating the behavior of millions of firms
+                      and households in an economy. And financial markets are among the most important
+                      markets of all; they price economic resources and allocate them to their most produc-
+                      tive uses. In many countries over the past 25 years, the value of stock and bond mar-
+                      kets has come to rival or even surpass the value of outstanding loans through financial
+                      intermediaries. But as we will see, intermediaries, including banks and securities
+                      firms, continue to play a key role in both these types of finance.
+                         Table 11.1 illustrates the importance of different channels of finance. As you look
+                      at the table, note two things. First, to make comparisons across countries of vastly
+
+                                               The Relative Importance of Financing Channels
+                          Table 1 1.1
+                                               (Averages for 1990– 2016)
+
+
+                                                                Securities Markets                             Loans
+
+                                                                                                        Credit Extended
+                                                      Stock Market             Outstanding               by Banks and                Ratio of
+                                                      Capitalization          Domestic Debt             Other Financial              Loans to
+                                                      as a Percent            Securities as a           Institutions as a           Securities
+                                                         of GDP               Percent of GDP            Percent of GDP               C/(A+B)
+                           Country                         (A)                     (B)                         (C)                     (D)
+
+                                                                       Advanced Economies
+                           France                            63.3                    45.2                       86.7                    0.80
+                           Germany                           39.0                    44.3                       96.3                    1.16
+                           Italy                             31.1                    30.5                       69.8                    1.13
+                           Japan                             74.5                    57.7                     171.4                     1.30
+                           United Kingdom                   113.5                    15.1                     129.5                     1.01
+                           United States                    111.2                    92.6                     158.9                     0.78
+
+                                                                  Emerging Market Economies
+                           Argentina                         13.6                      4.3                      14.1                    0.79
+                           Brazil                            34.5                    17.8                       42.3                    0.81
+                           China                             35.7                    18.6                     103.0                     1.90
+                           India                             49.2                      1.5                      33.5                    0.66
+                           Russia                            34.9                      5.1                      25.7                    0.64
+
+
+                      NOTE: The items in columns A, B, and C are expressed as a percentage of GDP. But because the items are not components of GDP,
+                      there is no reason that the percentages should add to 100. Data are missing in some years for some countries. NA = not available.
+                      (Stock Market Cap: GFDD.DM.01); (Domestic Private Debt Securities: GFDD.DM.03); (Credit by Intermediaries: GFDD.DI.12)
+                      SOURCE: Global Financial Development Database, World Bank. https://datacatalog.worldbank.org/dataset/global-financial-
+                      development. Updates are also available through FRED.
+
+
+===== PDF 304 | 印刷页 269 =====
+
+                                                                        The Role of Financial Intermediaries   l   269
+
+
+
+different size, we measure everything relative to GDP. Second, there is no reason
+that the value of a country’s stock market, bonds outstanding, or bank loans cannot
+be bigger than its GDP. In fact, we would expect it to be much larger, because the
+value of a company to its owners is often several times the level of one year’s sales.
+This means that when you add up all the types of financing, direct and indirect, as a
+percentage of GDP, the numbers will generally sum to more than 100 in an advanced
+economy.
+   To see the lessons from the table, take the example of France, in the first row. The
+value of the French stock market (the value of the shares of all companies listed on the
+exchanges) is equivalent to 63.3 percent of that country’s GDP (column A); the value of
+French debt securities is 45.2 percent of GDP (column B). Adding columns A and B tells
+us that, in France, securities finance equals 108.5 percent of GDP. That exceeds the
+amount of credit extended by French banks and other intermediaries— 86.7 percent of
+GDP ­(column C). The final column, D, reports the ratio of loans to securities. For France,
+the result is 0.80, which means that financing via securities markets was somewhat larger
+than loans. For the advanced economies in the table, the range of that ratio is between
+0.78 and 1.30, so the French case is not unusual. In many emerging markets, the ratio is
+somewhat lower because in recent decades their stock markets have expanded notably.
+However, domestic private debt securities play only a small role in most emerging market
+economies, which underscores the costs and challenges of developing this alternative to
+loan and stock finance. The biggest difference among the emerging economies is in the
+scale of loans, which range from less than 15 percent of GDP in Argentina to more than
+100 percent in China.
+   These data highlight the importance of intermediaries. Banks are still critical providers
+of financing around the world, although bank lending may not be the dominant source of
+financing that it once was. And intermediation is not limited to bank lending. Intermediar-
+ies determine which firms can access the stock and bond markets. Just as banks decide the
+size of a loan and the interest rate to be charged, securities firms set the volume and price
+of new stock and bond issues when they purchase them for sale to investors. And other
+intermediaries, like mutual funds, help individual investors sort among the thousands of
+stocks and bonds that are issued to develop a diversified portfolio with the desired risk
+characteristics.
+   Why are financial intermediaries so important? The answer has to do with infor-
+mation. To understand the importance of information in the role financial intermedi-
+aries play in the economy, consider the online company eBay. This virtual auction
+house may seem an unlikely place to start, but while eBay deals primarily with phys-
+ical objects, it faces some of the same information problems as financial firms. As an
+online intermediary, eBay provides a mechanism through which almost anyone can
+auction off almost anything. As of late 2018, roughly 1.2 billion items were listed for
+sale at www.ebay.com—everything from $5 dinner plates to million-dollar antiques
+of all kinds. And people buy them! For just the single year 2018, eBay reported total
+transactions valued at nearly $95 billion, entered into by more than 175 million
+active users.
+   While millions of items are for sale on eBay, if you look carefully you’ll notice an
+absence of financial products. You can purchase collectible coins and paper currency on
+eBay, but you can’t borrow. There are no listings for Samantha’s student loan, Chad’s
+car loan, Chloe’s credit card balance, or Mort’s mortgage—at least, not yet. And though
+you can buy defaulted bond certificates, like the Reading Railroad bond shown in
+Chapter 4 (which was purchased on eBay), you can’t buy or sell bonds on which the
+issuer is still making payments. People are selling cars and even real estate on eBay, but
+no one is auctioning off checking account services.
+
+
+===== PDF 305 | 印刷页 270 =====
+
+270    l Chapter 11  The Economics of Financial Intermediation
+
+
+
+                                  Think for a moment about why eBay doesn’t auction off mortgages. First, Mort might
+                               need a $100,000 mortgage, and not many people can finance a mortgage of that size. The
+                               people who run eBay could try to establish a system in which 100 people sign up to lend
+                               Mort $1,000, but it would be extremely complex and cumbersome. Imagine collecting
+                               the payments, figuring out how to repay the lenders, and writing all the legal contracts
+                               that go with the transaction. Just as important, before offering to finance Mort’s mort-
+                               gage, lenders would want to know something about Mort and the house he’s proposing
+                               to buy. Is Mort accurately representing his ability to repay the loan? Does he really
+                               intend to buy a house with the loan? The questions are nearly endless (see Chapter 12,
+                               Money and Banking Blog: The Cloudy Future of Peer-to-Peer Lending).
+                                  Financial intermediaries exist so that individual lenders don’t have to worry about
+                               getting answers to all of these questions. Most people take for granted the ability of
+                               the financial system to shift resources from savers to investors, but when you look
+                               closely at the details, you’re struck by how complicated the task is. It’s amazing the
+                               enterprise works at all. Lending and borrowing involve both transactions costs, like
+                               the cost of writing a loan contract, and information costs, like the cost of figuring out
+                               whether a borrower is trustworthy. Financial institutions exist to reduce these costs.
+                                  In their role as financial intermediaries, financial institutions perform five functions
+                               (see Table 11.2): (1) pooling the resources of small savers; (2) providing safekeeping
+                               and accounting services, as well as access to the payments system; (3) supplying liquid-
+                               ity by converting savers’ balances directly into a means of payment whenever needed;
+                               (4) providing ways to diversify risk; and (5) collecting and processing information in
+                               ways that reduce information costs. As we go through these, you’ll see that the first four
+                               have to do with lowering transactions costs. That is, by specializing and providing these
+                               services to large numbers of customers, a financial firm can reduce the cost of provid-
+                               ing them to individual customers. As in other fields, experts can do a better job than
+                               others, and more cheaply at that. The fifth function on the list, collecting and process-
+                               ing information, is a category all by itself, so we’ll consider it in more detail.
+                                  While we will not discuss international banks in any depth, it is worth mentioning
+                               that they provide an additional set of services that complements those offered by your
+                               neighborhood bank. International banks handle transactions that cross national bor-
+                               ders. That may mean taking deposits from savers in one country and providing them to
+                               investors in another country. It may also mean converting currencies in order to facili-
+                               tate transactions for customers who do business or travel abroad.
+
+
+  Table 1 1.2         A Summary of the Role of Financial Intermediaries
+
+
+
+      1. Pooling savings                                  Accepting resources from a large number of small savers/lenders in
+                                                          order to provide large loans to borrowers.
+      2. Safekeeping and accounting                      Keeping depositors’ savings safe, giving them access to the
+                                                          payments system, and providing them with accounting statements
+                                                          that help them track their income and expenditures.
+      3. Providing liquidity                              Allowing depositors to transform their financial assets into money
+                                                          quickly, easily, and at low cost.
+      4. Diversifying risk                                Providing investors with the ability to diversify even small
+                                                          investments.
+      5. Collecting and processing information services   Generating large amounts of standardized financial information.
+
+
+===== PDF 306 | 印刷页 271 =====
+
+                                                                                  The Role of Financial Intermediaries   l 271
+
+
+
+Pooling Savings                                  Figure 1 1.2              Financial Intermediaries Pool Savings
+The most straightforward economic func-
+tion of a financial intermediary is to pool
+the resources of many small savers. By              100 Savers/Lenders
+accepting many small deposits, banks               $1,000 $1,000 $1,000 $1,000 $1,000
+
+empower themselves to make large loans.            $1,000 $1,000 $1,000 $1,000 $1,000
+
+So, for example, Mort might get his                $1,000 $1,000 $1,000 $1,000 $1,000
+
+$100,000 mortgage from a bank or                   $1,000 $1,000 $1,000 $1,000 $1,000
+
+
+finance company with access to a large             $1,000 $1,000 $1,000 $1,000 $1,000
+
+                                                   $1,000 $1,000 $1,000 $1,000 $1,000
+group of savers, 100 of whom have                  $1,000 $1,000 $1,000 $1,000 $1,000
+$1,000 to invest (see Figure 11.2). Simi-          $1,000 $1,000 $1,000 $1,000 $1,000               1 Investor/Borrower
+larly, a government or large company that          $1,000 $1,000 $1,000 $1,000 $1,000
+wishes to borrow billions of dollars by            $1,000 $1,000 $1,000 $1,000 $1,000
+
+issuing bonds will rely on a financial             $1,000 $1,000 $1,000 $1,000 $1,000
+                                                                                                          $100,000
+intermediary to find buyers for the bonds.         $1,000 $1,000 $1,000 $1,000 $1,000
+
+   To succeed in this endeavor—pooling             $1,000 $1,000 $1,000 $1,000 $1,000
+
+people’s savings in order to make large            $1,000 $1,000 $1,000 $1,000 $1,000
+
+
+loans—the intermediary must attract sub-           $1,000 $1,000 $1,000 $1,000 $1,000
+
+                                                   $1,000 $1,000 $1,000 $1,000 $1,000
+stantial numbers of savers. This means             $1,000 $1,000 $1,000 $1,000 $1,000
+convincing potential depositors of the             $1,000 $1,000 $1,000 $1,000 $1,000
+institution’s soundness. Banks are adept           $1,000 $1,000 $1,000 $1,000 $1,000
+at making sure customers feel that their           $1,000 $1,000 $1,000 $1,000 $1,000
+
+funds will be safe. In the past, they did so
+by installing large safes in imposing bank
+buildings. Today, they rely on their repu-     Financial intermediaries pool the funds of many small savers and lend them to
+                                               one large borrower.
+tations, as well as on government guaran-
+tees like deposit insurance. We’ll return
+to this topic in Chapter 14.
+
+
+Safekeeping, Payments System Access, and Accounting
+Goldsmiths were the original bankers. To keep their gold and jewelry safe, they had to
+construct vaults. Soon people began asking the goldsmiths to store gold for them in
+return for a receipt to prove it was there. It didn’t take long for someone to realize that
+trading the goldsmith’s receipts was easier than trading the gold itself. The next step
+came when the goldsmith noticed that there was quite a bit of gold left in the vault at
+the end of the day, so that some of it could safely be lent to others. The goldsmiths
+took the resources of those with gold to spare—the savers of the day—and channeled
+them to individuals who were short—the borrowers. Today, banks are the places where
+we put things for safekeeping—not just gold and jewelry, but our financial wealth as
+well. We deposit our paychecks and entrust our savings to a bank or other financial
+institution because we believe it will keep our resources safe until we need them.
+   When we think of banks, safekeeping is only one of several services that immediately
+come to mind. The others are Internet and mobile access, automated teller machines,
+credit and debit cards, checkbooks, and monthly bank statements. In providing deposi-
+tors with these physical and electronic services, a bank gives them access to the pay-
+ments system—the network that transfers funds from the a­ ccount of one person or
+business to the account of another. The bank provides depositors a way to get cash into
+their wallets and to finalize payments using credit cards, debit cards, and checks. And
+
+
+===== PDF 307 | 印刷页 272 =====
+
+272 l Chapter 11  The Economics of Financial Intermediation
+
+
+
+
+                       Your First Credit Card
+                       YOUR FINANCIAL WORLD
+
+
+  Credit card interest rates are outrageous, running to             you are in a group of people who will have a high default rate.
+  more than 30 percent in some cases (really)! In                   No wonder the issuers charge high interest rates. It is com-
+  ­C hapter 4, Your Financial World: What is Your Risk-Free         pensation for the risk they are taking. And just to prove the
+   Rate? explained why you should pay off your debt be-             point, the industry’s profitability is sensitive to the state of the
+   fore building a financial portfolio. The odds are, when          economy.*
+   you get your first credit card, the interest rate will be            You need a credit card to build up a credit history, to es-
+   extremely high. Why?                                             tablish yourself as a person who repays loans promptly. After
+       Unless your parent signed your credit card papers (or you    a while, you’ll be able to get a new card at a lower i­nterest
+   worked a steady job before starting college), as a student you   rate. But in the meantime, remember that your i­nterest rate is
+   have no credit history, and the company that issued the card     extremely high, so borrowing is very expensive.
+   will assume the worst. So you’re lumped in with people who
+   have very poor credit, who would rather get lower-interest
+   loans elsewhere but can’t. This is adverse selection at its      *The Federal Reserve reports annually regarding the profitability of
+   worst (see page 275 for a definition of adverse selection).      credit card operations. The most recent report is available here: www.
+   When you get your first credit card, the assumption is that      federalreserve.gov/publications/credit-card-profitability.htm.
+
+
+
+
+                           because banks specialize in handling payments transactions, they can offer all these
+                           services relatively cheaply. Financial intermediaries reduce the costs of financial trans-
+                           actions.
+                              This is not a trivial matter. It would be a disaster if we didn’t have a convenient way to
+                           pay for things. By giving us one, financial intermediaries facilitate the exchange of goods
+                           and services, promoting specialization. Remember that in efficient economies—those
+                           that manage to get the most output from a given set of inputs—people and companies
+                           concentrate on the activities at which they are best and for which their opportunity cost is
+                           lowest. This principle of comparative advantage leads to specialization so that each of us
+                           ends up doing just one job and being paid in some form of money. But as specialization
+                           increases, more and more trading must take place to ensure that most of us end up with
+                           the goods and services we need and want. The more trading, the more financial transac-
+                           tions; and the more financial transactions, the more important it is that those transactions
+                           be cheap. If getting hold of money and using it to make payments were costly, that would
+                           put a damper on people’s willingness to specialize. Financial intermediaries, by provid-
+                           ing us with a reliable and inexpensive payments system, help our economy function more
+                           efficiently.
+                              Beyond safekeeping and access to the payments system, financial intermediaries
+                           provide bookkeeping and accounting services. They help us manage our finances. Just
+                           think about your financial transactions over the past few months. If you work, you
+                           were paid, probably more than once. If you rent an apartment or own a home, you paid
+                           the rent or mortgage and probably the electric and gas bills. You paid your phone bill.
+                           Then there’s transportation. If you have a car, you may have made a loan payment. You
+                           surely paid for gasoline and possibly for a repair. You purchased food, too, both at the
+                           grocery store and in various restaurants. And don’t forget the movies and books you
+                           bought, perhaps through your mobile phone or tablet. As you get older, you may shoul-
+                           der the expense of having children, along with saving for their education and your
+
+
+===== PDF 308 | 印刷页 273 =====
+
+                                                                        The Role of Financial Intermediaries   l 273
+
+
+
+retirement. The point is, our financial lives are extraordinarily complex, and we need
+help keeping track of them. Financial intermediaries do the job: They provide us with
+bookkeeping and accounting services, noting all our transactions for us and making our
+lives more tolerable in the process.
+   Before we continue, we should note that providing safekeeping and accounting ser-
+vices, as well as access to the payments system, forces financial intermediaries to
+write legal contracts. Writing individualized contracts to ensure that each customer
+will maintain a checking account balance as required, or repay a loan as promised,
+would be extremely costly. But a financial intermediary can hire a lawyer to write one
+very high-quality contract that can be used over and over again, thus reducing the cost
+of each use. In fact, much of what financial intermediaries do takes advantage of what
+are known as economies of scale, in which the average cost of producing a good or
+service falls as the quantity produced increases. As we will see later, information is
+subject to economies of scale just as other goods and services are.
+
+Providing Liquidity
+One function that is related to access to the payments system is the provision of liquidity.
+Recall from Chapter 2 that liquidity is a measure of the ease and cost with which an
+asset can be turned into a means of payment. When a financial asset can be transformed
+into money quickly, easily, and at low cost, it is said to be very liquid. ­Financial inter-
+mediaries offer us the ability to transform assets into money at relatively low cost.
+That’s what ATMs are all about—converting deposit balances into money on demand.
+     Financial intermediaries provide liquidity in a way that is both efficient and benefi-
+cial to all of us. To understand the process, think about your bank. Two kinds of custom-
+ers visit the bank: those with funds, who want to make deposits, and those in need of
+funds, who want to make withdrawals or take out loans. Depositors want easy access to
+their funds—not just the currency they withdraw every week or so but the larger amounts
+they may need in an emergency. Borrowers don’t want to pay the funds back for a while,
+and they certainly can’t be expected to repay the entire amount on short notice.
+     In the same way that an insurance company knows that not all its policyholders will
+have automobile accidents on the same day, a bank knows that not all its depositors
+will experience an emergency and need to withdraw funds at the same time. The bank
+can structure its assets accordingly, keeping enough funds in short-term, liquid finan-
+cial instruments to satisfy the few people who will need them and lending out the rest.
+And because long-term loans usually have higher interest rates than short-term
+­money-market instruments—for instance, commercial paper and U.S. Treasury bills—
+ the bank can offer depositors a higher interest rate than they would get otherwise.
+     Even the bank’s short-term investments will do better than an individual depositor’s
+ could, because the bank can take advantage of economies of scale to lower its transac-
+ tions costs. It isn’t much more expensive to buy a $1 million U.S. Treasury bill than it
+ is to buy one worth only $1,000. By collecting funds from a large number of small
+ investors, the bank can reduce the cost of their combined investment, offering each
+ individual investor both liquidity and a better rate of return. Pooling large numbers of
+ small accounts in this way is very efficient. By doing so, an intermediary offers depos-
+ itors something they can’t get from the financial markets on their own.
+     The liquidity services financial intermediaries provide go beyond fast and easy
+ access to account balances. Intermediaries offer both individuals and businesses lines of
+ credit, which are similar to overdraft protection for checking accounts. A line of credit is
+ essentially a preapproved loan that can be drawn on whenever a customer needs funds.
+
+
+===== PDF 309 | 印刷页 274 =====
+
+274   l Chapter 11  The Economics of Financial Intermediation
+
+
+
+                        Home equity lines of credit, credit card cash advances, and business lines of credit are
+                        examples. Like a deposit account, the line of credit provides a customer with access to
+                        liquidity, except that in this case withdrawals may exceed deposit balances. To offer this
+                        service profitably, a financial intermediary must specialize in liquidity management.
+                        That is, it must design its balance sheet so that it can sustain sudden withdrawals.
+
+                        Diversifying Risk
+                        If you had $1,000 or $10,000 or even $100,000 to invest, would you want to keep it all
+                        in one place? Would you be willing to lend it all to a single person or firm? By now
+                        you have read Chapter 5, so you know the answer to this question: Don’t put all your
+                        eggs in one basket; it’s unnecessarily risky. But even without knowing much about
+                        diversifying through hedging and spreading risk, you would sense intuitively that lend-
+                        ing $1 to each of 1,000 borrowers is less risky than lending $1,000 to just one bor-
+                        rower, and putting $1 in each of 1,000 different stocks is safer than putting $1,000 in
+                        one stock. Financial institutions enable us to diversify our investments and reduce risk.
+                            Banks mitigate risk in a straightforward way: They take deposits from thousands or even
+                        millions of individuals and make thousands of loans with them. Thus, each depositor has a
+                        very small stake in each one of the loans. For example, a bank might collect $1,000 from
+                        each of one million depositors and then use the resulting $1 billion to make 10,000 loans of
+                        $100,000 each. So each depositor has a 1/1,000,000 share in each of the 10,000 loans.
+                            To picture this, look back at Figure 11.2 (page 271) and imagine that it shows
+                        10,000 times as many deposits and 10,000 times as many mortgages. Next, picture
+                        each of those deposits cut up into 10,000 pieces, each assigned to a different loan. That
+                        is, each deposit contributes 10 cents to each loan. That’s diversification! And because
+                        the bank specializes in taking deposits and making loans, it can minimize the cost of
+                        setting up all the necessary legal contracts to do this.
+                            All financial intermediaries provide a low-cost way for individuals to diversify their
+                        investments. Mutual fund companies offer small investors a low-cost way to purchase
+                        a diversified portfolio of stocks and eliminate the idiosyncratic risk associated with
+                        any single investment. Many of the mutual funds based on the Standard & Poor’s 500
+                        Index (described in Chapter 8) require a minimum investment of as little as a few thou-
+                        sand dollars. Because the average price of each stock in the index usually runs between
+                        $40 and $60, a small investor would need more than $20,000 to buy even a single
+                        share of stock in each of the 500 companies in the index (not to mention the fees the
+                        investor would need to pay to a broker to do it). Thus, the mutual fund company lets a
+                        small investor buy a fraction of a share in each of the 500 companies in the fund. And
+                        because mutual fund companies specialize in this activity, the cost remains low.
+
+                        Collecting and Processing Information
+                        One of the biggest problems individual savers face is figuring out which potential bor-
+                        rowers are trustworthy and which are not. Most of us do not have the time or skill to
+                        collect and process information on a wide array of potential borrowers. And we are
+                        understandably reluctant to invest in activities about which we have little reliable
+                        information. The fact that the borrower knows whether he or she is trustworthy, while
+                        the lender faces substantial costs to obtain the same information, results in an informa-
+                        tion asymmetry. Very simply, borrowers have information that lenders don’t.
+                           By collecting and processing standardized information, financial intermediaries
+                        reduce the problems information asymmetries create. They screen loan applicants to
+
+
+===== PDF 310 | 印刷页 275 =====
+
+                                                                              Information Asymmetries and Information Costs l   275
+
+
+
+guarantee that they are creditworthy. They monitor loan recipients to ensure that they
+use the funds as they have claimed they will. To understand how this process works, and
+the implications it has for the financial system, we need to study information asym-
+metries in more detail.
+
+
+Information Asymmetries
+and Information Costs
+Information plays a central role in the structure of financial markets and financial institu-
+tions. Markets require sophisticated information to work well; when the cost of obtaining
+that information is too high, markets cease to function. Information costs make the finan-
+cial markets, as important as they are, among the worst functioning of all markets. The
+fact is, the issuers of financial ­instruments—borrowers who want to issue bonds and
+firms that want to issue stock—know much more about their business prospects and their
+willingness to work than potential lenders or investors—those who would buy their
+bonds and stocks. This asymmetric information is a serious hindrance to the operation
+of financial markets. Solving this problem is one key to making our financial system
+work as well as it does.
+    To understand the nature of the problem and the possible solutions, let’s go back to eBay.
+Why are the people who win online auctions willing to send payments totaling nearly $95
+billion a year to the sellers? An amazing amount of trust is involved in these transactions. To
+bid at all, buyers must believe that an item has been described accurately. And winners must
+be sure that the seller will send the item in exchange for their payments, because the normal
+arrangement is for the seller to be paid first.
+    How can buyers be sure they won’t be disappointed by their purchases when they
+arrive, assuming they arrive at all? The fact that sellers have much more information about
+the items they are selling and their own reliability creates an information asymmetry.
+Aware of this problem, the people who started eBay took two steps. First, they offered
+insurance to protect buyers who don’t receive their purchases. Second, they devised a
+feedback forum to collect and store information about both bidders and sellers. Anyone
+can read the comments posted in the forum or check an overall rating that summarizes
+their content. Sellers who develop good reputations in the feedback forum command
+higher prices than others; buyers who develop bad reputations can be banned from bid-
+ding. Without this means of gathering information, eBay probably could not have been
+successful. Together, the buyers’ insurance and the feedback forum make eBay run
+smoothly.1
+    The two problems eBay faced arise in financial markets, too. In fact, information
+problems are the key to understanding the structure of our financial system and the
+central role of financial intermediaries. Asymmetric information poses two important
+obstacles to the smooth flow of funds from savers to investors. The first, called
+adverse selection, arises before the transaction occurs. Just as buyers on eBay need to
+know the relative trustworthiness of sellers, lenders need to know how to distinguish
+good credit risks from bad. The second problem, called moral hazard, occurs after
+
+
+1
+ A low-cost, reliable payments system helps, too. The easier it is for buyers to pay sellers, the more likely both
+are to use the auction site. Realizing the need for a payments system, eBay acquired and integrated PayPal, which
+allows buyers and sellers to set up electronic accounts through which to make and receive payments for their eBay
+transactions. Because many sellers are too small to take credit cards, this innovation greatly facilitated the online
+exchanges. By 2015, PayPal had grown so large that it was again made independent.
+
+
+===== PDF 311 | 印刷页 276 =====
+
+276   l Chapter 11  The Economics of Financial Intermediation
+
+
+
+
+                         Truth or Consequences: Ponzi Schemes and Other Frauds
+                         APPLYING THE CONCEPT
+
+   In the financial world, you always have to be on the lookout         dwarfed Ponzi’s racket: At the time the scheme blew up,
+   for crooks. Fraud is the most extreme version of moral haz-          the losses were estimated at $17.5 billion, and extensive
+   ard, and it is remarkably common.                                    ­efforts at recovery have put final losses in the neighbor-
+       The term Ponzi scheme has its origins in a 1920 scam run          hood of $7 billion.
+   by serial con artist Charles Ponzi. Promising a 50 percent profit          Unfortunately, in a complex financial system, the possibil-
+   within 45 days, he swindled unsuspecting investors out of             ities for fraud are widespread. Most cases are smaller and
+   something like $250 million in 2014 dollars. Ponzi never in-          more mundane than those of Madoff or Ponzi, but their
+   vested their money. Instead, he paid off early investors hand-        ­cumulative size is significant. One source devoted to track-
+   somely with the money he obtained from subsequent                      ing just Ponzi-type frauds in the United States listed
+   investors.                                                             70 schemes worth an estimated $2.2 billion in 2014 alone.*
+       Financial laws are now far more elaborate than in Ponzi’s              We aren’t going to get rid of Ponzi schemes and other
+   day, and governments spend much more to enforce them,                  frauds (see Money and Banking Blog: Conflicts of Interest in
+   but frauds persist.                                                    Finance). But the mission of ferreting them out and prosecut-
+       Bernie Madoff is the leading recent example. For dec-              ing those responsible is essential. A well-functioning finan-
+   ades, Madoff was a respected member of the investment                  cial system is based on trust. That is, when we make a bank
+   community and able to escape detection. In the same man-               deposit or purchase a share of stock or a bond, we need to
+   ner as Ponzi, Madoff was redeeming requests for funds                  believe that the terms of the agreement are being accurately
+   with the money he collected from more recent investors.                represented and will be carried out. Economies where prop-
+   Madoff’s con, which may have begun as early as the 1970s,              erty rights are weak and enforcement is unreliable also usu-
+   failed only when the financial crisis of 2007–2009 depleted            ally supply less credit to worthy endeavors. That means
+   his funds, making it impossible for him to pay off the final           lower production, lower income, and lower welfare.
+   cohort of wealthy, sophisticated—yet apparently quite
+   ­gullible—investors and financial firms. The Madoff scandal          *See www.ponzitracker.com.
+
+
+
+
+                                                                       the transaction. In the same way that buyers on eBay
+                                                                       need reassurance that sellers will deliver their pur-
+                                                                       chases after receiving payment, lenders need to find a
+                                                                       way to tell whether borrowers will use the proceeds of
+                                                                       a loan as they claim they will. The following sections
+                                                                       will look at both these problems in detail to see how
+                                                                       they affect the structure of the financial system.
+
+                                                                       Adverse Selection
+                                                                       Used Cars and the Market for Lemons      The
+                                                              2001 Nobel Prize in Economics was awarded to
+                                                              George A. Akerlof, A. Michael Spence, and Joseph E.
+Used Cars: clean, reliable, and priced just right!            Stiglitz “for their analyses of markets with asymmetric
+B Christopher/Alamy Stock Photo                               information.” Professor Akerlof’s contribution came
+                                                              first, in a paper published in 1970 titled “The Market
+                                for ‘Lemons.’ ”2 Akerlof’s paper explained why the market for used cars—some of
+                                which may be “­lemons”—doesn’t function very well. Here’s the logic.
+
+                            2
+                             See “The Market for ‘Lemons’: Quality Uncertainty and the Market Mechanism,” Quarterly Journal of
+                            Economics, August 1970. This paper contains very little mathematics and is quite readable. You can find it
+                            through your university library using an electronic storage system called JSTOR.
+
+
+===== PDF 312 | 印刷页 277 =====
+
+                                                            Information Asymmetries and Information Costs l   277
+
+
+
+   Suppose the used-car market has only two cars for sale, both 2017 model Honda
+Accords. One is immaculate, having been driven and maintained by a careful elderly
+woman who didn’t travel much. The second car belonged to a young man who got it
+from his parents, loved to drive fast, and did not worry about the damage he might
+cause if he hit a pothole. The owners of these two cars know whether their own cars
+are in good repair, but used-car shoppers do not.
+   Let’s say that potential buyers are willing to pay $20,000 for a well-maintained car,
+but only $10,000 for a “lemon”—a car with lots of mechanical problems. The elderly
+woman knows her car is a “peach.” It’s in good condition and she won’t part with it for
+less than $20,000. The young man, knowing the poor condition of his car, will take
+$8,000 for it. But if buyers can’t tell the difference between the two cars, without more
+information they will pay only the average price of $15,000. (A risk-averse buyer
+wouldn’t even pay that much.) That is less than the owner of the good car will accept,
+so she won’t sell her car and it disappears from the market. The problem is that if buy-
+ers are willing to pay only the average value of all the cars on the market, sellers with
+cars in above-average condition won’t put their cars up for sale. Only the worst cars,
+the lemons, will be left on the market. In summary, buyers’ inability to uncover the
+hidden attributes of the vehicles for sale undermines the used-car market as a whole.
+   Information asymmetries aside, people like to buy new cars, and when they do, they
+sell their old cars. People who can’t afford new cars, or who would rather not pay for
+them, are looking to buy good used cars. Together, these potential buyers and sellers of
+used cars provide a substantial incentive for creative people to solve the problem of
+adverse selection in the used-car market. Some companies try to help buyers separate
+the peaches from the lemons. For instance, Consumer Reports has long provided infor-
+mation about the reliability and safety of particular makes and models. More recent is
+the CARFAX service, which provides potential car buyers the detailed history, including
+reported accidents and airbag deployments, of a specific used vehicle. Car dealers may
+try to maintain their reputations by refusing to pass off a clunker as a well-maintained
+car. For a fee, a mechanic will check out a used car for a potential buyer. Finally, many
+car manufacturers offer warranties on the used cars they have certified. We have found
+ways to overcome the information problems pointed out by Professor Akerlof, and as a
+result both good and bad used cars sell at prices much closer to their true value. So
+long as there exists a technology that lets buyers determine, at a reasonable cost, the
+hidden attributes of used cars for sale, the market works.
+
+Adverse Selection in Financial Markets When it comes to information costs,
+financial markets are not that different from the used-car market. In the same way that the
+seller of a used car knows more about the car than the buyer, potential borrowers know
+more about the projects they wish to finance than prospective lenders. And in the same way
+that information asymmetries can drive good cars out of the used-car market, they can
+drive good stocks and bonds out of the financial market. To see why, let’s start with stocks.
+   Think about a simple case in which there are two firms, one with good prospects
+and one with bad prospects. If you can’t tell the difference between the two firms, you
+will be willing to pay a price based only on their average quality. The stock of the good
+company will be undervalued. Because the managers know their stock is worth more
+than the average price, they won’t issue it in the first place. That leaves only the firm
+with bad prospects in the market. And because most investors aren’t interested in com-
+panies with poor prospects, the market is very unlikely to get started at all.
+   The same thing happens in the bond market. Remember that risk requires compen-
+sation. The higher the risk, the greater the risk premium. In the bond market, this
+
+
+===== PDF 313 | 印刷页 278 =====
+
+278   l Chapter 11  The Economics of Financial Intermediation
+
+
+
+                        relationship between risk and return affects the cost of borrowing. The more risky the
+                        borrower, the higher the cost of borrowing. If a lender can’t tell whether a borrower is
+                        a good or bad credit risk, the lender will demand a risk premium based on the average
+                        risk. Borrowers who know they are good credit risks won’t want to borrow at this
+                        ­elevated interest rate, so they will withdraw from the market, leaving only the bad
+                         credit risks. The result is the same as for used cars and stocks: Because lenders are not
+                         eager to buy bonds issued by bad credit risks, the market will disappear.
+
+                        Solving the Adverse Selection Problem
+                        From a social perspective, the fact that managers might avoid issuing stock or bonds
+                        because they know the market will not value their company correctly is not good. It
+                        means that the company will pass up some good investments. And because some of
+                        the best investments will not be undertaken, the economy won’t grow as rapidly as it
+                        could. Thus, it is extremely important to find ways for investors and lenders to distin-
+                        guish well-run firms from poorly run firms. Well-run firms need to highlight their
+                        quality so they can obtain financing more cheaply. Investors need to distinguish
+                        between high- and low-risk investments so they can seek compensation corresponding
+                        to the level of risk they are taking on. The question is how to do it.
+                           Recall how buyers and sellers in the used-car market developed ways to address the
+                        problem of distinguishing good from bad cars. The answer here is similar. First,
+                        because the problem is caused by a lack of information, we can create more informa-
+                        tion for investors. Second, we can provide guarantees in the form of financial contracts
+                        that can be written so a firm’s owners suffer together with the people who invested in
+                        the company if the firm does poorly. This type of arrangement helps persuade inves-
+                        tors that a firm’s stocks and bonds are of high quality. And as we will see later, finan-
+                        cial intermediaries can do a great deal to reduce the information costs associated with
+                        stock and bond investments.
+
+                        Disclosure of Information            One obvious way to solve the hidden attributes
+                        problem is to generate more information. This can be done in one of two ways: govern-
+                        ment-required disclosure, and the private collection and production of information
+                        (like CARFAX for used cars). In most advanced economies, public companies—those
+                        that issue stocks and bonds that are bought and sold in public financial markets—are
+                        required to disclose voluminous amounts of information. For example, in the United
+                        States the Securities and Exchange Commission requires firms to produce public
+                        financial statements that are prepared according to standard accounting practices. Cor-
+                        porations are also required to disclose, on an ongoing basis, information that could
+                        have a bearing on the value of their firms. And since August 2000, U.S. companies
+                        have been required to release to the public any information they provide to profes-
+                        sional stock analysts.3
+                            As we learned in 2001 and 2002, however, these requirements can go only so far in
+                        ensuring that investors are well informed. Despite government regulations designed to
+                        protect investors, Enron, WorldCom, Global Crossing, and numerous other companies
+
+
+                        3
+                         Some people were concerned that Regulation FD, for “fair disclosure,” might have the perverse effect of
+                        causing firms to make less information public. Fortunately, evidence shows that public corporations are now
+                        providing more information to both professional stock analysts and individual investors. Today, virtually all
+                        company conference calls—a mechanism frequently used to disseminate information about a firm’s financial
+                        performance—are open to individual investors.
+
+
+===== PDF 314 | 印刷页 279 =====
+
+                                                                       Information Asymmetries and Information Costs l              279
+
+
+
+
+                        Deflation, Net Worth, and Information Costs
+                        APPLYING THE CONCEPT
+
+  A casual reader of the business press might get the impres-          however, tends to fall with the price level. Deflation drives
+  sion that deflation, when prices are declining on average, is a      down a firm’s net worth, making it less trustworthy as a bor-
+  fate we would rather not contemplate. Deflation is associated        rower. Remember, net worth solves the problems of adverse
+  with the Great Depression of the 1930s, when consumer                selection and moral hazard, allowing firms to obtain loans.
+  prices and output both fell about 30 percent. It is also associ-     With a low net worth, firms can no longer obtain financing
+  ated with Japan’s economic underperformance since the early          because lenders cannot overcome the difficulty of asymmet-
+  1990s, when the price level peaked and began to decline.             ric information. The same problems also afflict households,
+       Deflation is the opposite of the more familiar inflation. In-   whose key assets (especially houses and stocks) usually de-
+  flation is when prices are going up, on average. Deflation is        cline in value in a deflation, reducing the capacity of house-
+  when they are going down. A primary reason deflation is so           holds to borrow against collateral.
+  bad is that it aggravates information problems in ways that               The connection among net worth, information, and the
+  inflation does not. It does so by reducing a company’s net           availability of credit to borrowers helps explain the dynamics
+  worth. To see why, think about a typical firm’s balance sheet.       of the business cycle. Think about what happens at the start
+  Its assets are buildings, machines, and product inventories.         of a recession. The value of a firm (as measured by the pres-
+  Its liabilities include various kinds of debt, much of it fixed in   ent value of its expected future sales) falls, compounding
+  nominal terms. That is, companies borrow fixed numbers of            lenders’ information problems. ­Lenders, suddenly more con-
+  dollars. Now think about the consequences of a decline in            cerned about a borrower’s creditworthiness, become more
+  the price level. When prices fall, the dollar value of the firm’s    reluctant to make loans. The availability of investment funds
+  liabilities remains the same. The value of the firm’s assets,        falls, pushing the economy further into recession.
+
+
+
+
+managed to distort the profits and debt levels published in their financial statements.
+With the help of some unethical accountants, company executives found a broad range
+of ways to manipulate the statements to disguise their firms’ true financial condition.
+While accounting practices have changed since then and financial statements may now
+convey more information than they once did, everyone remains on guard. Information
+problems persist.
+    What about the private collection and sale of information? You might think that this
+would provide investors with what they need to solve the adverse selection problem,
+but unfortunately it doesn’t work. While it is in everyone’s interest to produce credible
+proof of the quality of a company’s activities, such information doesn’t really exist. In
+a limited sense there is private information collected and sold to investors. Various
+research services like Moody’s, Value Line, and Dun and Bradstreet collect informa-
+tion directly from firms and produce evaluations.
+    These reports are not cheap. For example, Value Line charges nearly $600 a year for
+its weekly publication. To be credible, the companies examined can’t pay directly for
+the research themselves, so investors have to. And while some individuals might be
+willing to pay, in the end they don’t have to and so they won’t. Private information
+services face what is called a free-rider problem. A free rider is someone who doesn’t
+pay the cost to get the benefit of a good or service, and free riding on stock market
+analysis is easy to do. Even though these publications are expensive, public libraries
+subscribe to some of them. Reporters for The Wall Street Journal and other periodicals
+read them and write stories publicizing crucial information. And individual investors
+can simply follow the lead of people they know who subscribe to the publications. Of
+course, all these practices reduce the ability of the producers of private information to
+actually profit from their hard work.
+
+
+===== PDF 315 | 印刷页 280 =====
+
+280   l Chapter 11  The Economics of Financial Intermediation
+
+
+
+
+                        Information Asymmetry and Securitization
+                        LESSONS FROM THE CRISIS
+
+  This chapter highlights the importance of screening credit risks      quickly as they can, while it’s still possible. The game ends
+  to limit adverse selection and of monitoring the recipients of        when defaults soar, leaving someone with the loss.
+  funds to limit moral hazard. It also warns that free riding can di-        Rating agencies might have halted the game early. In-
+  minish screening and monitoring. A key source of the financial        stead, they awarded their top ratings to a large share of
+  crisis of 2007–2009 was insufficient screening and monitoring         ­mortgage-backed securities, severely underestimating the
+  in the securitization of mortgages (see Chapter 6, Applying the        riskiness of the loans. In retrospect, we can now see that the
+  Concept: Securitization, page 148).                                    agencies had little incentive to expend the resources neces-
+       Mortgage securitization problems started with the initial         sary to adequately screen the underlying loans or the lenders.
+  mortgage lenders—the originators—who eased standards                       Finally, many investors (and government officials respon-
+  and reduced screening to increase the volume of lending                sible for overseeing intermediaries) assumed they could rely
+  and the short-term profitability of their businesses. The result       on other people—they were free riders. Rather than under-
+  was many risky mortgages: When housing prices began to                 take their own costly screening efforts, they assumed the
+  fall in 2006, defaults soared.                                         assessment of the rating agencies was accurate.
+       At the next stage of securitization, the firms that assem-            Implicitly, the participants in the process acted as if
+  bled these mortgages into securities for sale—the                      the ultimate collateral—the value of houses—would
+  ­distributors—did little to forestall the decline of lending           always be adequate to contain the damage from adverse se-
+   standards by originators. Had they wished to, they could              lection. Had housing prices risen indefinitely, as many ap-
+   have required that the originators demonstrate a high level           peared to assume they would, the collateral would have
+   of net worth and invest it in the mortgages that they sold.           protected investors against any damage. But, when housing
+       When lending standards decline, securitization becomes            prices and the value of the collateral started to plunge, the
+   like a game of “hot potato.” Players in the game try to pass          effects of adverse selection threatened the financial system
+   risky loans—the hot potato—along to the next player as                as a whole.
+
+
+
+
+                            Collateral and Net Worth                While government-required disclosure and private
+                            information collection are crucial, they haven’t solved all the hidden attributes prob-
+                            lems that plague investors and the firms they invest in. Fortunately, other solutions
+                            exist. One is to make sure that lenders are compensated even if borrowers default. If a
+                            loan is insured in some way, then the borrower isn’t a bad credit risk.
+                                There are two mechanisms for ensuring that a borrower is likely to repay a lender:
+                            ­collateral and net worth. Recall from Chapter 3 that collateral is something of value
+                             pledged by a borrower to the lender in the event of the borrower’s default. Collateral is
+                             said to back or secure a loan. Houses serve as collateral for mortgages; cars, as
+                             collateral for car loans. If the borrower fails to keep up with the mortgage or car pay-
+                             ments, the lender will take possession of the house or car and sell it to recover the
+                             borrowed funds. In circumstances like these, adverse selection is less of a concern;
+                             that’s why collateral is so prevalent in loan agreements. When banks make loans with-
+                             out collateral—unsecured loans, like credit card debt—they typically charge very
+                             high interest rates. Adverse selection is the reason. (See Your Financial World: Your
+                             First Credit Card on page 272.)
+                                Net worth is the owner’s stake in a firm, the value of the firm’s assets minus the value
+                             of its liabilities. Under many circumstances, net worth serves the same purpose as collat-
+                             eral. If a firm defaults on a loan, the lender can make a claim against the firm’s net worth.
+                             Consider what would happen if a firm with a high net worth borrowed to undertake a
+                             project that turned out to be unsuccessful. If the firm had no net worth, the lender would
+                             be out of luck. Instead, the firm’s owners can use their net worth to repay the lender.
+
+
+===== PDF 316 | 印刷页 281 =====
+
+                                                        Information Asymmetries and Information Costs l   281
+
+
+
+   The same is true of a home mortgage. A mortgage
+is much easier and cheaper to get when a homebuyer
+makes a substantial down payment. For the lender, the
+risk is that the price of the home will fall, in which
+case its value will not be sufficient to fully compensate
+the lender in the event of a default. But with a large
+down payment, the homeowner has a substantial stake
+in the house, so even if the price falls, the mortgage
+can likely be repaid even if the borrower defaults.
+From the perspective of the mortgage lender, the
+homeowner’s equity serves exactly the same function
+as net worth in a business loan.
+   The importance of net worth in reducing adverse
+selection is the reason owners of new businesses have Photodisc/Getty Images
+so much difficulty borrowing money. If you want to
+start a bakery, for example, you will need financing to buy equipment and cover the
+rent and payroll for the first few months. Such seed money is very hard to get. Most
+small business owners must put up their homes and other property as collateral for
+their business loans. Only after they have managed to establish a successful business
+and have built up some net worth in it, can they borrow without pledging their per-
+sonal property.
+
+Moral Hazard: Problem and Solutions
+The phrase moral hazard originated when economists who were studying insurance
+noted that an insurance policy changes the behavior of the person who is insured.
+Examples are everywhere. A fire insurance policy written for more than the value of
+the property might induce the owner to arson; a generous automobile insurance policy
+might encourage reckless driving. Employment arrangements suffer from moral haz-
+ard, too. How can your boss be sure you are working as hard as you can if you’ll get
+your paycheck at the end of the week whether you do or not? Moral hazard arises when
+we cannot observe people’s actions and so cannot judge whether a poor outcome was
+intentional or just a result of bad luck.
+   Thus, a lender’s or investor’s information problems do not end with adverse selec-
+tion. A second information asymmetry arises because the borrower knows more than
+the lender about the way borrowed funds will be used and the effort that will go into a
+project. Where adverse selection is about hidden attributes, moral hazard is about hid-
+den actions. Moral hazard plagues both equity and bond financing, making it difficult
+for all but the biggest, best-known companies to issue either stocks or bonds success-
+fully. Let’s look at each type of financing and examine the ways people have tried to
+solve the problem of moral hazard.
+
+Moral Hazard in Equity Financing            If you buy a stock, how do you know
+the company that issued it will use the funds you have invested in the way that is
+best for you? The answer is that it almost surely will not. You have given your
+funds to managers, who will tend to run the company in the way most advanta-
+geous to them. The separation of your ownership from their control creates what is
+called a ­principal–agent problem, which can be more than a little costly to stock-
+holders. Witness the luxurious offices, corporate jets, limousines, and artwork that
+executives surround themselves with, not to mention the millions of dollars in
+
+
+===== PDF 317 | 印刷页 282 =====
+
+282    l Chapter 11  The Economics of Financial Intermediation
+
+
+
+                          compensation they pay themselves. Managers gain all these personal benefits at the
+                          expense of stockholders.
+                              A simple example will illustrate this point. Let’s say that your cousin Ina, who is a
+                          whiz at writing software, has an idea for a program to speed up wireless Internet
+                          access. Together, the two of you estimate she needs $10,000 to write the program and
+                          sell it to an interested buyer. But Ina has only $1,000 in savings, so you will have to
+                          contribute $9,000. Family etiquette dictates that once you’ve made the investment, you
+                          won’t be able to monitor Ina’s progress—to tell whether she is working hard or even if
+                          she is working at all. If everything goes well, you think you can sell the program to
+                          Microsoft for $100,000, which is 10 times the initial investment. But Ina had better
+                          work quickly or someone else may make it to market first and Ina’s program won’t be
+                          worth nearly as much.
+                              The difficulty in this arrangement is immediately apparent. If Ina works hard and
+                          all goes according to plan, she will get 10 percent of the $100,000 (that’s $10,000) and
+                          you will get the rest, a whopping $90,000. But if Ina runs into programming problems
+                          or spends part of the time surfing instead of working, someone else may bring the
+                          product to market first, reducing the value of Ina’s software to $10,000. The problem
+                          is, Ina’s decision to go surfing would cost her only $9,000, but it would cost you
+                          $81,000! And because you wouldn’t be able to tell why the venture failed, you’re
+                          unlikely to part with your $9,000 in the first place.
+
+                          Solving the Moral Hazard Problem in Equity ­Financing                   ​Solutions to the
+                          moral hazard problem in equity finance are hard to come by. Information on the qual-
+                          ity of management can be useful, but only if owners have the power to fire managers—
+                          and that can be ­extremely difficult. Requiring managers to own a significant stake in
+                          their own firm is another possibility. If Ina comes up with the entire $10,000, then
+                                        there is no separation between ownership and control and no question
+                                        whether Ina will behave in the owner’s interest—she is the owner. But
+                                        people who have good ideas don’t always have the resources to pursue
+                                        them. Ina doesn’t have the $10,000 she needs.
+                                            During the 1990s, a concerted attempt was made to align managers’
+                                        interests with those of stockholders. Executives were given stock options
+                                        that provided lucrative payoffs if a firm’s stock price rose above a cer-
+                                        tain level. This approach worked until managers found ways to misrep-
+                                        resent their companies’ profitability, driving up stock prices temporarily
+                                        so they could cash in their options. Accounting methods have been
+                                        reformed in an attempt to reduce such abuses, but at this writing, no one
+                                        has devised a foolproof way of ensuring that managers will behave in
+                                        the owners’ interest instead of their own.
+
+                                          Moral Hazard in Debt Finance             When the managers of a com-
+                                          pany are the owners, the problem of moral hazard in equity financing
+                                          disappears. This suggests that investors should prefer debt financing to
+                                          equity financing. But debt financing has its problems, too. Imagine that
+                                          instead of buying a 90 percent share in your cousin Ina’s software ven-
+Moral hazard: How can you be sure that    ture, you lend her $9,000 at an 11 percent annual interest rate. The debt
+your investment isn’t being used to buy   contract specifies that she will repay you $9,990 in one year’s time.
+one of these vacation homes in Tahiti?    This arrangement dramatically changes Ina’s incentives. Now, if she
+Photodisc/Getty Images                    works hard, she gets $90,010, but if she goes surfing, she still has to
+
+
+===== PDF 318 | 印刷页 283 =====
+
+                                                                  Information Asymmetries and Information Costs l   283
+
+
+
+repay the $9,990, leaving her nothing at the end of the year. Surely this solves your
+problem.
+   Debt does go a long way toward eliminating the moral hazard problem inherent in
+equity finance, but it doesn’t finish the job. Because debt contracts allow owners to
+keep all the profits in excess of the loan payments, they encourage risk taking. Sup-
+pose Ina decides to use some or all of the $10,000 to buy lottery tickets. That’s an
+extremely risky thing to do. The problem is, if her lottery number comes up, she gets
+the winnings, but if she loses, you pay the cost. That’s not a very desirable outcome
+for you, the lender. While in the real world the danger isn’t quite that extreme, the
+problem still exists. Lenders need to find ways to make sure borrowers don’t take too
+many risks. Unfortunately, borrowers’ limited liability has the same effect that an
+insurance policy has on the insured. People with risky projects are attracted to debt
+finance because they get the full benefit of the upside, while the downside is limited
+to their collateral, if any.
+
+Solving the Moral Hazard Problem in Debt Finance                    To some degree, a
+good legal contract can solve the moral hazard problem that is inherent in debt
+finance. Bonds and loans often carry restrictive covenants that limit the amount
+of risk a borrower can assume. For example, a covenant may restrict the nature of
+the goods or services the borrower can purchase. It may require the firm to main-
+tain a certain level of net worth, a minimum balance in a bank account, or a min-
+imum credit rating. Home mortgages often come with restrictive covenants
+requiring the homeowners to purchase fire insurance or to make monthly deposits
+toward payment of their property taxes. (Failure to pay property taxes can lead the
+government to seize the borrower’s house, complicating the mortgage company’s
+attempt to recover its principal.)
+   Table 11.3 summarizes this section’s discussion of how financial relationships are
+affected by information problems, together with a list of the various solutions used to
+address the problems information costs create.
+
+
+
+
+  Table 1 1.3      The Negative Consequences of Information Costs
+
+
+
+    1. 
+       Adverse selection. Lenders can’t distinguish good from bad credit risks, which
+       discourages transactions from taking place.
+      Solutions to the hidden attributes problem include:
+         Government-required information disclosure
+         Private collection of information
+         Pledging of collateral to insure lenders against the borrower’s default
+         Requiring borrowers to invest substantial resources of their own
+   2. 
+      Moral hazard. Lenders can’t tell whether borrowers will do what they claim they will do
+      with the borrowed resources; borrowers may take too many risks.
+      Solutions to the hidden actions problem include:
+         Requiring managers to report to owners
+         Requiring managers to invest substantial resources of their own
+         Covenants that restrict what borrowers can do with borrowed funds
+
+
+===== PDF 319 | 印刷页 284 =====
+
+284   l Chapter 11  The Economics of Financial Intermediation
+
+
+
+
+                       Conflicts of Interest in Finance
+                       MONEY AND BANKING BLOG
+
+
+   Financial corruption exposed in the years since the finan-           Yet, corruption persists.
+   cial crisis is breathtaking in its scale, scope, and resis-          The source of this continuing behavior is poor incen-
+   tance to remedy. Traders colluded to rig the foreign             tives arising from a principal–agent (or agency) problem. If
+   exchange (FX) market, where daily transactions exceed            employees and firms (the agents) can hide their conduct,
+   $5 trillion, and to manipulate LIBOR, the world’s leading        then they can benefit greatly by acting in ways that run
+   interest rate benchmark (see Chapter 13, Applying the            counter to the interests of their employers or their clients
+   Concept: Eclipsing LIBOR). Firms have facilitated tax            (the principals). Unless the principals (or the government)
+   evasion and money laundering. And Bernie Madoff engi-            can prevent such concealment at a reasonable cost, it comes
+   neered what was arguably the largest Ponzi scheme in             as no surprise that agents behave unethically, if not illegally.
+   history (see Applying the Concept: Truth or Conse-                   Agency problems are particularly rampant in finance
+   quences: Ponzi Schemes and Other Frauds).                        because both the rewards to exploitation and the cost of
+       In response, Congress enacted the Dodd-Frank Act,            detection are so high. The incentive problems appear
+   the most far-reaching financial reform since the 1930s.          worst in the largest, most complex intermediaries that en-
+   Authorities have leaned on financial firms to diminish           gage in multiple activities.
+   risk-taking incentives in their compensation schemes.                The reason is that the presence of diverse business
+   Governments and private litigants obtained ever-larger pe-       lines both breeds conflicts of interest and makes them
+   cuniary settlements—since 2009, fines alone approached           more difficult to contain.* To be sure, many financial ac-
+   $250 billion—at the same time that prosecutors convicted         tivities are pursued at the same time by the same firm and
+   both firms and individuals involved in the big trading           rarely trigger serious conflicts of interest. For example,
+   scandals. And leading regulators have warned the largest         without harm, most banks and brokers simultaneously
+   U.S. institutions that a failure to improve their ethical cul-   provide (1) safekeeping services for assets, (2) access to
+   ture could lead policymakers to downsize their firms.            the payments system, and (3) accounting services to track
+       So far, the most obvious reaction from the financial         transactions and balances. Even here, however, major
+   sector has been to hire thousands of compliance officers         frauds occasionally arise. Bernie Madoff’s clients may
+   and risk managers to police the behavior of their own            have thought that the lack of an independent asset custo-
+  ­employees.                                                       dian was safe and reduced their costs. Instead, allowing
+
+
+
+
+                           Financial Intermediaries
+                           and Information Costs
+                           The problems of adverse selection and moral hazard make securities finance expen-
+                           sive and difficult to get. These drawbacks lead us immediately to loans and the role
+                           of financial institutions. Much of the information that financial intermediaries col-
+                           lect is used to reduce information costs and minimize the effects of adverse selec-
+                           tion and moral hazard. To reduce the potential costs of adverse selection,
+                           intermediaries screen loan applicants. To minimize moral hazard, they monitor
+                           borrowers. And when borrowers fail to live up to their contracts with lenders,
+                           financial intermediaries penalize them by enforcing the contracts. Let’s look more
+                           closely at how financial firms screen and monitor borrowers to reduce information
+                           costs. And then we will conclude with a quick look at how firms finance growth
+                           and investment.
+
+
+===== PDF 320 | 印刷页 285 =====
+
+                                                                    Financial Intermediaries and Information Costs l              285
+
+
+
+
+   Madoff to serve both as broker and custodian helped him         cost of losing economies of scope is small relative to the
+   conceal his fraud.                                              social costs of conflicts of interest. The case of equity
+       But, when pursued together, a variety of other activi-      research and underwriting may be a useful example.
+   ties are prone to widespread and costly conflicts. Perhaps          The second remedy requires that managers face greater
+   the most notorious is the mix of equity underwriting, eq-       personal financial liability for their firms’ excesses. Large
+   uity research, and equity sales. The incentive problem          fines that punish stockholders who have minimal corporate
+   here is simple: With large underwriting fees at stake, an-      control may simply increase the cost of capital for big
+   alysts are motivated to produce optimistic company re-          firms. In contrast, partnerships, where owners face unlim-
+   search reports to attract issuers, even if the result is that   ited liability for their own and their partners’ actions, foster
+   brokers sell overvalued stocks to unwitting clients. Yet,       strong incentives to police bad behavior. Hence, compen-
+   more than a decade after the legal ­settlement that com-        sation arrangements that create partnership-like downside
+   pelled brokerage firms to erect or fortify costly “Chinese      risks for years into the future—even for middle-level man-
+   walls” between their investment banking and research            agers with risk-taking authority—ought to be a common
+   staffs, reports indicate significant ­violations.               feature in large, systemic intermediaries. For similar rea-
+       Overall, the most serious issues arise in the context of    sons, more frequent criminal prosecutions (such as those
+   large, complex intermediaries, whose failure threatens the      for LIBOR and FX manipulation) promote individual ac-
+   financial system as a whole. Unfortunately, the combina-        countability and eventually may increase deterrence.
+   tion of increased transparency, improved market discipline,         Unfortunately, there is no panacea. Regulators and
+   enhanced regulation, massive financial penalties, and           prosecutors must continue to experiment with new reme-
+   criminal prosecution has thus far failed to halt repeated,      dies, acknowledging that past efforts have proven remark-
+   large-scale misbehavior arising from conflicts of interest.     ably ineffective. And they must remain vigilant because
+       What to do?                                                 the financial system constantly evolves and adjusts.
+       The main options are to (1) break up large institutions
+   into smaller ones with restricted scope, (2) hold individu-     *See, for example, Ingo Walter, “Conflict of Interest and Market
+   als more accountable, and (3) do some mix of the two.           Discipline among Financial Services Firms,” NYU Working
+   Regulators may wish to consider the first option if the         Paper No. 2451/27263, October 2003.
+
+
+
+
+Screening and Certifying to Reduce
+Adverse Selection
+To get a loan, whether from a bank, a mortgage company, or a finance company, you must
+fill out an application. As part of the process, you will be asked to supply your Social
+Security number. The lender uses the number to identify you to a company that collects
+and analyzes credit information, summarizing it for potential lenders in a credit score.
+    Your personal credit score (described in Chapter 7 in Your Financial World: Your
+Credit Rating) tells a lender how likely you are to repay a loan. It is analogous to eBay’s
+feedback forum rating or to an expert appraiser’s certification of the authenticity and
+condition of an original painting. The credit rating company screens you and then certi-
+fies your credit rating. If you are a good credit risk with a high credit score, you are more
+likely than others to get a loan at a relatively low interest rate. Note that the company
+that collects your credit information and produces your credit score charges a fee each
+time someone wants to see it. This overcomes the free-rider problem.
+
+
+===== PDF 321 | 印刷页 286 =====
+
+286   l Chapter 11  The Economics of Financial Intermediation
+
+
+
+
+                           Financing Intangible Capital
+                           APPLYING THE CONCEPT
+
+  When most people think of business investment, what                          i­ncludes software, data, market analysis, scientific research
+  comes to mind is the purchase of new equipment and struc-                     and development (R&D), employee training, organizational
+  tures. A restaurant might start with construction, and then fill              design, development of intellectual and entertainment prod-
+  its new building with tables, chairs, stoves, and the like. This              ucts, mineral exploration, and the like.
+  is the world of tangible capital.                                                  Figure 11.3 shows the shift from tangible to intangible
+      We still need buildings and machines (and restaurants).                   ­investment in the United States over the past 40 years. As a
+  But, over the past few decades, the nature of business ­capital                percent of private gross value added, tangible capital expen-
+  has changed. Much of what firms invest in today—­especially                    diture (the red line) falls, while intangible expenditure (the
+  the biggest and fastest-growing ones—is intangible. This                       blue line) rises.
+
+
+
+          Figure 11.3            U.S. Tangible and Intangible Investment (Percent of Private Gross Value Added)
+
+
+              16%
+              15%
+              14%
+              13%
+              12%
+              11%
+              10%
+                9%
+                8%
+                 1977 1980 1983 1986 1989 1992 1995 1998 2001 2004 2007 2010 2013 2016 2019
+
+                                                              Intangible                   Tangible
+
+
+      SOURCE: Lee Branstetter and Daniel Sichel, The Case for an American Productivity Revival, Peterson Institution for International Economics,
+      Policy Brief 17-26, June 2017.
+
+
+
+
+                                  Banks can collect information on a borrower that goes beyond what a loan applica-
+                               tion or credit report contains. By noting the pattern of deposits and withdrawals from
+                               your account, as well as your use of your debit card if you have one, they can learn
+                               more about you than you might like. Banks monitor both their individual and their
+                               business customers in this way. Again, the information they collect is easy to protect
+                               and use. The special information banks have puts them in an almost unique position to
+                               screen customers and reduce the costs of adverse selection. This expertise helps explain
+                               another phenomenon, the fact that most small and medium-size businesses depend on
+                               banks for their financing.
+
+
+===== PDF 322 | 印刷页 287 =====
+
+                                                                         Financial Intermediaries and Information Costs l 287
+
+
+
+
+      An example from the world of information technology helps            •   Generate positive spillovers that benefit people other
+  understand the pattern. Consider what has happened to prices                 than the producer.
+  of computer hardware and software, and the related expendi-              •   Exhibit synergies, so they work more effectively when
+  ture to purchase the two. The first IBM PC, built in 1981, cost the          combined.
+  equivalent of $8,000 today. While it came with a Microsoft op-
+  erating system, most of the expenditure was for a very expen-             Given these properties, software firms—especially those
+  sive machine—a tangible asset. Today, you could acquire               developing Internet applications—have debt that is only
+  hardware that runs at least 10,000 times faster for barely one-       about 10 percent of book equity. By contrast, the debt-to-
+  quarter of the price. But, if you want that machine to do any-        book value of restaurants is nearly 95 percent. Scientific re-
+  thing useful, you will likely fork over a substantial amount for      search and development expenditure fits this pattern as well:
+  software and then spend time learning how to use it. When it          Software and pharmaceutical firms invest heavily in R&D,
+  comes to expenditure on computing and information technol-            while restaurants and car dealers do almost none. All of this
+  ogy, intangibles have gradually substituted for tangibles.            leads to the judgment that the traditional system based on
+      What are the implications of this shift for the structure of      bank lending and marketable bonds may be ill-suited to fi-
+  finance? Tangible capital can serve as collateral, providing          nancing the increased share of economic activity requiring
+  lenders with some protection against default. As a result,            intangible investment.
+  firms with an abundance of physical assets can finance                    Fortunately, finance evolves. And, once we focus on
+  themselves readily by issuing debt. By contrast, a company            the increased importance of business activities that are
+  that focuses on software development, employee training, or           nonrival, have little market value, carry spillovers, and ex-
+  improvement of the efficiency of its organization will find it        hibit synergies, it becomes easier to understand some im-
+  more difficult and costly to borrow because the resulting as-         portant trends. In particular, we can explain the ongoing
+  sets cannot easily be resold.                                         shift from public to private equity markets (see Chapter 8,
+      Indeed, the challenge for business finance is inherent in         Applying the Concept: Raising Equity: Public versus Private
+  the economic characteristics of intangible capital.* Intangible       Markets).
+  assets:
+
+     •   Are often nonrival, so one person’s use does not im-
+         pede someone else from using it simultaneously.                *For a detailed discussion of the importance of intangible capital,
+                                                                        see Jonathan Haskel and Stian Westlake, Capitalism without
+     •   Have little market value, so the cost of producing             Capital: The Rise of the Intangible Economy (Princeton, NJ:
+         them is almost entirely sunk.                                  Princeton University Press, 2017).
+
+
+
+
+   Financial intermediaries’ superior ability to screen and cer-
+tify borrowers extends beyond loan making to the issuance of
+bonds and equity. Underwriters—large financial institutions,
+like Goldman Sachs, ­JPMorgan Chase, and Morgan Stanley—
+screen and certify firms seeking to raise funds directly in the
+financial markets. Without certification by one of these firms,
+companies would find it difficult to raise funds. Large interme-
+diaries go to great lengths to market their expertise as under-
+writers; they want people to recognize their names the world
+over, just as everyone recognizes Coca-Cola. A can of Coke,
+the best-selling soft drink in the world, is instantly recogniza-
+ble, whether the fine print is in E­ nglish, Chinese, Arabic, or                     In the financial world, Goldman Sachs, JPMorgan
+Swedish. Financial institutions have applied this concept,                           Chase, and Morgan Stanley have as much brand
+which marketing people call branding, to their certification of                      recognition as Coke does in the soft-drink world.
+financial products. If J­ PMorgan Chase, a well-known bank and                       PATRICK KOVARIK/AFP/Getty Images
+securities firm, is willing to sell a bond or stock, the brand
+name suggests that it is a high-quality investment.
+
+
+===== PDF 323 | 印刷页 288 =====
+
+                          288   l Chapter 11  The Economics of Financial Intermediation
+
+
+
+                                                 Monitoring to Reduce Moral Hazard
+                                                 If someone weren’t watching over your shoulder, you might take the money you bor-
+                                                 rowed for a business project and fly off to Tahiti. To address the risk that sellers might
+                                                 take the money and run, eBay developed buyers’ insurance. In the financial world,
+                                                 intermediaries insure against this type of moral hazard by monitoring both the firms
+                                                 that issue bonds and those that issue stocks.
+                                                     Car dealers provide an interesting example of how this process works. Dealers
+                                                 have to finance all those shiny new cars that sit on the lot, waiting for buyers to show
+                                                 up. One way to do this is with a bank loan that is collateralized by the cars them-
+                                                 selves. But the bank doesn’t completely trust the dealer to use the loan proceeds prop-
+                                                 erly. Every so often, the bank manager will send an associate to count the number of
+                                                 cars on the lot. The count tells the manager whether the dealer is using the borrowed
+                                                 funds properly. In monitoring the dealer this way, the bank is enforcing the restrictive
+                                                 covenants contained in the loan contract. Because banks specialize in this type of
+                                                 monitoring, they can do it more cheaply than individual borrowers and lenders.
+                                                     Many financial intermediaries (other than banks) hold significant numbers of shares in
+                                                 individual firms. When they do, they find ways to monitor the companies’ activities. For
+                                                 example, the California Public Employee Retirement System (CalPERS) manages more
+                                                 than $300 billion in assets, the income from which is used to pay retired employees’ pen-
+                                                 sions. About 1.6 million “members” of CalPERS depend on the fund’s managers to care-
+                                                 fully monitor its investments. Before buying a company’s stock, CalPERS’s managers do
+                                                 a significant amount of research on the firm; once they have purchased the shares, they
+                                                 monitor the firm’s activities very closely. In some cases, they place a representative on
+                                                 the company’s board of directors to monitor and protect CalPERS’s investment firsthand.
+                                                     In the case of some new companies, a financial intermediary called a venture capital
+                                                 firm does the monitoring. Venture capital firms (like Kleiner Perkins or Draper Fisher)
+                                                 specialize in investing in risky new ventures in return for a stake in the ownership and
+                                                 a share of the profits. To guard against moral hazard and ensure that the new company
+                                                 has the best possible chance of success, the venture capitalist keeps a close watch on
+                                                 the managers’ actions.
+                                                     Finally, the threat of a takeover helps persuade managers to act in the interest of the
+                                                 stock- and bondholders. If managers don’t do a good job of watching out for
+                                                 ­shareholders’ interests, another company can buy the firm and replace them. In the
+                                                  1980s, some firms specialized in such tactics. Today, this approach has become the
+                                                  business model of private equity firms, a few of which (like Bain Capital and Kohlberg
+                                                  Kravis Roberts) have become very large themselves. When the new owners put their
+                                                  own people in charge of the firm, they eliminate the moral hazard problem.
+
+
+
+
+                                                 Key Terms
+www.moneyandbanking.com
+
+
+
+
+                                                 adverse selection, 275         collateral, 280                moral hazard, 275
+                                                 asymmetric information,        deflation, 279                 net worth, 280
+                                                    275                         free rider, 279                unsecured loan, 280
+
+
+===== PDF 324 | 印刷页 289 =====
+
+                                                                                        Chapter Lessons l               289
+
+
+
+Using FRED: Codes for Data in This Chapter
+   Data Series                                                  FRED Data Code
+   Total debt securities owed                                   ASTDSL
+   Total loans owed                                             ASTLL
+   Credit market liabilities of nonfinancial corporations       BCNSDODNS
+   Total credit market debt owed by domestic financial sector   TCMDODFS
+   Market value of equities (of nonfinancial corporations)      NCBEILQ027S
+   Population                                                   POP
+   Bank loans and leases                                        TOTLL
+   Gross value added of financial corporations                  A454RC1Q027SBEA
+   Nominal GDP                                                  GDP
+   Total debt-to-equity ratio (United States)                   TOTDTEUSQ163N
+   Total debt-to-equity ratio (Germany)                         TOTDTEDEQ163N
+   Unemployment rate for the United States                      M0892AUSM156SNBR
+   Harmonized unemployment rate for Greece                      LRUN64TTGRQ156S
+   Harmonized unemployment rate for Italy                       LRUN64TTITQ156S
+
+
+
+
+                                                                                                                               www.moneyandbanking.com
+   Harmonized unemployment rate for Portugal                    LRHUTTTTPTQ156S
+   Harmonized unemployment rate for Spain                       LRUN64TTESQ156S
+   Consumer Price Index of All Items in Japan                   JPNCPIALLQINMEI
+   GDP Implicit Price Deflator in Japan                         JPNGDPDEFQISMEI
+
+
+
+
+Chapter Lessons
+1. Financial intermediaries specialize in reducing costs by:
+                                                                                            To learn more about the
+   a. Pooling the resources of small savers and lending them to large borrowers.            changing financial system, visit
+   b. Providing safekeeping, accounting services, and access to the payments system.        www.moneyandbanking.com.
+
+   c. Providing liquidity services.
+   d. Providing the ability to diversify small investments.
+   e. Providing information services.
+2. For potential lenders, investigating borrowers’ trustworthiness is costly. This prob-
+   lem, known as asymmetric information, occurs both before and after a transaction.
+   a. Before a transaction, the least creditworthy borrowers are the ones most likely to
+      apply for funds. This problem is known as adverse selection.
+   b. Lenders and investors can reduce adverse selection by:
+      i. Collecting and disclosing information on borrowers.
+      ii. Requiring borrowers to post collateral and show sufficient net worth.
+   c. After a transaction, a borrower may not use the borrowed funds as productively
+      as possible. This problem is known as moral hazard.
+      i. In equity markets, moral hazard exists when the managers’ interests diverge
+           from the owners’ interests.
+      ii. Finding solutions to the moral hazard problem in equity financing is difficult.
+      iii. In debt markets, moral hazard exists because borrowers have limited liability.
+           They get the benefits when a risky bet pays off, but they don’t suffer a loss
+           when it doesn’t.
+
+
+===== PDF 325 | 印刷页 290 =====
+
+                          290 l Chapter 11  The Economics of Financial Intermediation
+
+
+
+                                                         iv. The fact that debt financing gives managers/borrowers an incentive to take
+                                                             too many risks gives rise to restrictive covenants, which require borrowers
+                                                             to use funds in specific ways.
+                                                  3. Financial intermediaries can manage the problems of adverse selection and
+                                                     moral hazard.
+                                                     a. They can reduce adverse selection by collecting information on borrowers and
+                                                        screening them to check their creditworthiness.
+                                                     b. They can reduce moral hazard by monitoring what borrowers are doing with
+                                                        ­borrowed funds.
+                                                     c. In the end, the vast majority of firms’ finance comes from internal sources, suggest-
+                                                         ing that information problems are too big for even financial intermediaries to solve.
+
+
+                                                Conceptual and Analytical Problems                                                           ®
+
+
+
+
+                                                  1. Describe the problem of asymmetric information that an employer faces in hiring a
+                                                     new employee. What solutions can you think of? Does the problem persist after
+                                                     the person has been hired? If so, how and what can be done about it? Is the problem
+                                                     more or less severe for employees on a fixed salary? Why or why not? (LO2)
+                                                  2. In some cities, media outlets publish a weekly list of restaurants that have been
+www.moneyandbanking.com
+
+
+
+
+                                                     cited for health code violations by local health inspectors. What information
+                                                     problem is this feature designed to solve, and how? (LO2)
+                                                  3. In 2009, Bernard Madoff was sentenced to 150 years in prison for executing
+                                                     what was likely the largest Ponzi scheme in history. What problem associated
+                                                     with asymmetric information was central to Madoff’s success in cheating so
+                                                     many investors for so long? (LO2)
+                                                  4. Financial intermediation is not confined to bank lending but is also carried out
+                                                     by nonbank firms such as mutual fund companies. How do mutual funds help
+                                                     overcome information problems in financial markets? (LO1)
+                                                  5. In some countries it is very difficult for shareholders to fire managers when
+                                                     they do a poor job. What type of financing would you expect to find in those
+                                                     countries? (LO3)
+                                                  6. Define the term economies of scale and explain how a financial intermediary can
+                                                     take advantage of such economies. (LO1)
+                                                  7. The Internet can have a significant influence on asymmetric information prob-
+                                                     lems. (LO2)
+                                                     a. How can the Internet help solve information problems?
+                                                     b. Can the Internet compound some information problems?
+                                                     c. On which problem would the Internet have a greater impact, adverse selection
+                                                        or moral hazard?
+                                                  8. The financial sector is heavily regulated. Explain how government regulations
+                                                     help solve information problems, increasing the effectiveness of financial mar-
+                                                     kets and institutions. (LO1)
+                                                  9. One of the solutions to the adverse selection problem associated with asymmet-
+                                                     ric information is the pledging of collateral. However, the collateral may be risk-
+                                                     ier than initially thought. As an example, explain why the collateral did not work
+                                                     adequately to mitigate the mortgage securitization problems associated with the
+                                                     financial crisis of 2007–2009. (LO2)
+
+
+===== PDF 326 | 印刷页 291 =====
+
+                                                                     Conceptual and Analytical Problems l   291
+
+
+
+10.* Deflation causes the value of a borrower’s collateral to drop. Define deflation
+     and explain how it reduces the value of a borrower’s collateral. How might a
+     lender who anticipates deflation alter the terms of a loan? (LO2)
+11. You are in charge of setting policies for implementing construction loans at a
+    bank once the loan officer has approved the borrowers’ applications. (Construc-
+    tion loans finance the development of a structure during the building process and
+    are later converted to mortgages.) How would you protect your bank’s inter-
+    ests? (LO3)
+12.* Your parents give you $3,000 as a graduation gift and you decide to invest the
+     money in the stock market. If you are risk averse, should you purchase some
+     stock in a few different companies through a website with low transaction fees or
+     put the entire $3,000 into a mutual fund? Explain your answer. (LO1)
+13. Suppose a new website was launched providing up-to-date, credible information
+    on all firms wishing to issue bonds. What would you expect to happen to the
+    overall level of interest rates in the bond market? (LO1)
+14. Suppose two types of firms wish to borrow in the bond market. Firms of type A
+    are in good financial health and are relatively low risk. The appropriate p­ remium
+    over the risk-free rate of lending to these firms is 2 percent. Firms of type B are
+    in poor financial health and are relatively high risk. The appropriate premium
+
+
+
+
+                                                                                                                  www.moneyandbanking.com
+    over the risk-free rate of lending to these firms is 6 percent. As an i­nvestor, you
+    have no other information about these firms except that type A and type B firms
+    exist in equal numbers. (LO2)
+    a. At what interest rate would you be willing to lend if the risk-free rate were
+       5 percent?
+    b. Would this market function well? What type of asymmetric information prob-
+       lem does this example illustrate?
+15. Suppose you are the financial advisor to a firm that is in good financial health.
+    What suggestions would you make to the firm’s management about obtaining
+    borrowed funds if both financially healthy and financially unhealthy firms are
+    trying to borrow in the bond market? (LO2)
+16. Consider a small company run by a manager who is also the owner. If this com-
+    pany borrows funds, why might a moral hazard problem still exist? (LO2)
+17.* The island of Utopia has a very unusual economy. Everyone on Utopia knows
+     everyone else and knows all about the firms they own and operate. The financial
+     system is well developed on Utopia. Everything else being equal, how would you
+     expect the mix on Utopia between internal finance (where companies use their
+     own funds such as retained earnings) and external funding (where companies
+     obtain funds through financial markets) to compare with other countries? What
+     role would financial intermediaries play in this economy? (LO1)
+18. You and a friend visit the headquarters of a company and are awestruck by the
+    expensive artwork and designer furniture that grace every office. Your friend is
+    very impressed and encourages you to consider buying stock in the company,
+    arguing that it must be really successful to afford such elegant surroundings.
+    Would you agree with your friend’s assessment? What further information
+    (other than the usual financial data) would you obtain before making an invest-
+    ment decision? (LO2)
+*Indicates more difficult problems.
+
+
+===== PDF 327 | 印刷页 292 =====
+
+                          292   l Chapter 11  The Economics of Financial Intermediation
+
+
+
+                                                  19. Under what circumstances, if any, would you be willing to participate as a lender
+                                                      in a peer-to-peer lending arrangement? (LO1)
+                                                  20.   Upon graduation, both you and your roommate receive your first credit cards
+                                                        with identical features. You use your card extensively to make purchases, always
+                                                        paying your credit card balance in a timely manner so that you incur no interest
+                                                        cost. Your roommate pays for everything in cash, reserving the credit card only
+                                                        for an emergency that never happened. After two years, you both look for a new
+                                                        credit card. Explain why you are offered a new card at a much lower interest rate
+                                                        than your roommate, despite both of you working in similar jobs for the same
+                                                        income. (LO2)
+                                                  21.   What would you expect to happen to the mix between internal and external
+                                                        financing for new investment projects in a country that experiences a large
+                                                        increase in financial market uncertainty? (LO2)
+                                                  22.   Use a core principle from Chapter 1 to explain why, everything else being equal,
+                                                        a software company might find it more expensive to issue debt than a furniture
+                                                        store? (LO1)
+
+
+                                                  Data Exploration                                    ®
+www.moneyandbanking.com
+
+
+
+
+                                                  For general information on using Federal Reserve Economic Data (FRED) online,
+                                                  visit www.mhhe.com/moneyandbanking6e and refer to the FRED Resources.
+                                                   1. Financial intermediaries connect savers and borrowers. Examine growth in inter-
+                                                      mediation from the following perspectives. (LO1)
+                                                      a. Total credit market debt is the sum of debt securities (FRED code: ASTDSL)
+                                                         and loans (FRED code: ASTLL). Plot the ratio of total credit market debt
+                                                         owed to population (FRED code: POP). (Hint: Because credit market debt is
+                                                         expressed in millions and population in thousands, multiply credit market
+                                                         debt by 1,000 to correct for the difference in units.) Interpret the plot.
+                                                      b. Plot the ratio of total credit market debt to nominal GDP (FRED code: GDP).
+                                                         Interpret the plot.
+                                                      c. Plot the ratio to nominal GDP of the value added by financial corporate busi-
+                                                         ness (FRED code: A454RC1Q027SBEA). Multiply the ratio by 100 to
+                                                         express it in percent. Interpret the plot since 2005.
+                                                   2. How has the use of credit evolved in key sectors of the economy? Plot as ratios
+                                                      to total credit market debt outstanding (the sum of FRED codes ASTDSL
+                                                      and ASTLL) the debt of (a) nonfinancial corporate businesses (FRED code:
+                                                      BCNSDODNS), and (b) the domestic financial sector (FRED code:
+                                                      ­TCMDODFS). What do the patterns during the financial crisis in the nonfinan-
+                                                       cial and financial sector ratios mean in terms of leverage? (LO1)
+                                                   3. Financial crisis is often associated with rising, and then persistently high, unem-
+                                                      ployment rates. Plot the U.S. unemployment rate during the Great Depression
+                                                      until the end of the 1930s (FRED code: M0892AUSM156SNBR). Compare
+                                                      the U.S. experience then with unemployment rates in Spain (FRED code:
+                                                      LRUN64TTESQ156S), Greece (FRED code: LRUN64TTGRQ156S), Italy
+                                                      (FRED code: LRUN64TTITQ156S), and Portugal (FRED code:
+                                                      LRHUTTTTPTQ156S) since the beginning of the financial crisis in 2007. (Turn
+                                                      off the recession bars for the European data plot.) (LO3)
+
+
+===== PDF 328 | 印刷页 293 =====
+
+                                                                                    Data Exploration   l   293
+
+
+
+ 4. The rise of securities markets and the expansion of intermediation by nonbanks
+    has come partly at the expense of commercial banks. Plot the ratio of bank credit
+    (FRED code: TOTLL) to debt securities owed (FRED code: ASTDSL), and
+    comment on the trend. (LO1)
+ 5. Deflation raises the real burden of repaying fixed-rate debt. Japan has recently
+    experienced a long deflation. (LO3)
+    a. Plot the percent change from a year ago of consumer prices in Japan (FRED
+       code: JPNCPIALLQINMEI), and discuss the long-term patterns of inflation
+       and deflation. (Turn off the recession bars.)
+    b. Plot on a new graph the percent change from a year ago of the GDP deflator in
+       Japan (FRED code: JPNGDPDEFQISMEI). How does it compare with the
+       post-1994 evolution of consumer prices? (Turn off the recession bars.) (Hint:
+       The GDP deflator is a price index for all final goods and services produced
+       ­domestically. It is a broader measure than the price index for goods and ser-
+        vices consumed by households in part a.)
+    c. Why might deflation become self-perpetuating?
+
+Further Data Exploration: If you wish to learn more about how the channels of
+financing vary across countries, take a look at the World Bank’s Global Financial
+Development Database (GFDD) (https://datacatalog.worldbank.org/dataset/­global-
+
+
+
+
+                                                                                                                 www.moneyandbanking.com
+financial-development). The GFDD can be used online or downloaded in an Excel
+spreadsheet. It includes annual data from 1960 for more than 200 countries. Relevant
+data for Chapter 11 include private credit from intermediaries (GFDD.DI.12), stock
+market capitalization (GFDD.DM.01), and private debt securities (GFDD.DM.03), all
+measured as a share of nominal GDP. These data are displayed for a few countries in
+Table 11.1. The GFDD includes many other indicators of financial depth, access,
+­efficiency, and stability. All GFDD indicators are also available through FRED.

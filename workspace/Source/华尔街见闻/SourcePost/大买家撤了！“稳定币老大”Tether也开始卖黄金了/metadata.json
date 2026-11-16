@@ -1,0 +1,162 @@
+{
+  "article_id": 3785124,
+  "selection": {
+    "article_id": 3785124,
+    "url": "https://wallstreetcn.com/articles/3785124",
+    "title": "大买家撤了！“稳定币老大”Tether也开始卖黄金了",
+    "page_display_time": "2026-11-04T14:38:21+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "数字资产与金融创新",
+    "reading_priority": "B",
+    "reading_value": "区分USDT储备、黄金代币储备和发行量，解释稳定币扩张与黄金需求之间的条件关系。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2009,
+    "page_image_count": 5,
+    "original_underlying_research_verified": false,
+    "catalog_number": 145
+  },
+  "url": "https://wallstreetcn.com/articles/3785124",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3785124?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:51+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/dba2495d-1467-4fd5-837e-c07e61f39e14.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "对于Tether三季度的减持，Jefferies认为， 鉴于其现有持仓规模，Tether买入活动的变化可能对黄金市场产生重大影响。",
+      "path": "assets/figure_001.png",
+      "sha256": "f66290d26080c553ca1b51abb03e5c3fda2ec55f7996bd587cf93abad001993a",
+      "bytes": 153103,
+      "width": 1024,
+      "height": 804,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/dba2495d-1467-4fd5-837e-c07e61f39e14.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/1b262d06-c0a3-4a9a-a64c-12c49205165f.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "据Jefferies报告，若将Tether的黄金购买量与各国央行进行横向比较， Tether（USDT与XAU₮合计）年初至今的净购金量约为27吨，高于捷克共和国，但低于波兰（122吨）、中国（103吨）、乌兹别克斯坦（55吨）和哈萨克斯坦（41吨） ，在全球主要黄金买家中已占据一席之地。",
+      "path": "assets/figure_002.png",
+      "sha256": "c5fc6f87e7553b457e1cf9bc062d9b16354d4fc74f3e2537e5665c9b1a8b6d16",
+      "bytes": 298275,
+      "width": 1024,
+      "height": 500,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/1b262d06-c0a3-4a9a-a64c-12c49205165f.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/385a4b04-76c2-45b4-b7d0-fae1d47255bb.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "三季度的黄金减持发生在USDT供应量基本维持不变的背景下 ，与过去数个季度\"稳定币扩张带动黄金储备增加\"的逻辑有所不同。USDT供应量从二季度末的约1842亿美元小幅升至三季度末的约1845亿美元，几乎无变化。",
+      "path": "assets/figure_003.png",
+      "sha256": "cee46e52c5c98923baeae515e7fd7818578357266a3b50c5635f6f66e00bb18c",
+      "bytes": 46690,
+      "width": 1015,
+      "height": 555,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/385a4b04-76c2-45b4-b7d0-fae1d47255bb.png"
+    },
+    {
+      "order": 4,
+      "source_url": "https://wpimg-wscn.awtmt.com/e0a88dad-c4a6-4e80-b6e9-c103583d5650.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "今年9月，Tether宣布与Shiga合作，计划在非洲和海湾合作委员会（GCC）地区推出支持XAU₮、USDT和比特币的自托管金融产品，旨在扩大代币化黄金的分发渠道。 然而，从三季度数据来看，这一合作尚未转化为可见的实物黄金增量需求 ，XAU₮供应量环比持平。",
+      "path": "assets/figure_004.png",
+      "sha256": "0a966176abb1250cc654c03f9bed757eff365e2b924d3b1f0b3cf2915dcc2082",
+      "bytes": 239992,
+      "width": 1024,
+      "height": 631,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/e0a88dad-c4a6-4e80-b6e9-c103583d5650.png"
+    },
+    {
+      "order": 5,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_005.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "大买家撤了！“稳定币老大”Tether也开始卖黄金了",
+  "page_display_time": "2026-11-04T14:38:21+08:00",
+  "page_byline": "董静",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "Tether三季度小幅减持约3吨黄金，为近期首次环比下降，也是继二季度加速买入之后的一次明显停顿。Jefferies认为，鉴于其现有持仓规模（165吨），Tether买入活动的变化可能对黄金市场产生重大影响。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2083,
+  "body_sha256": "36920cf8c3a73595c7bf492ee3f6225fd739eb393b1f6e5bd8a56b02e10fa4c9",
+  "raw_sha256": "1498d78b54b588f3c46c95d404bfdd43d9856c035df530ec17d402a29dfedd90",
+  "raw_bytes": 10808,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/45cc64d2-66ba-4d3a-a124-da3426077f60.mp3",
+  "image_occurrences": 5,
+  "html_table_count": 0,
+  "catalog_image_count": 5,
+  "catalog_text_characters": 2009,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:42+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "1498d78b54b588f3c46c95d404bfdd43d9856c035df530ec17d402a29dfedd90",
+      "bytes": 10808
+    },
+    "article.html": {
+      "sha256": "ad533cb3c4d03238c80eb181bb0998cbc81eedc7df1e4f650255c327652afce3",
+      "bytes": 11098
+    },
+    "article.md": {
+      "sha256": "56b0896accc67c520d4086e588a5120724d64074b8c4547dfd39a0c5b8b7b28a",
+      "bytes": 6403
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:34+08:00"
+}

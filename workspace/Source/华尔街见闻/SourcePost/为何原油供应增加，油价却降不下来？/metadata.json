@@ -1,0 +1,73 @@
+{
+  "article_id": 3784448,
+  "selection": {
+    "article_id": 3784448,
+    "url": "https://wallstreetcn.com/articles/3784448",
+    "title": "为何原油供应增加，油价却降不下来？",
+    "page_display_time": "2026-10-26T12:12:16+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "能源、商品与航运",
+    "reading_priority": "B",
+    "reading_value": "从运费、保险和融资成本解释原油流量恢复后的到岸价格，地缘动机部分保留作者推断身份。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2459,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 98
+  },
+  "url": "https://wallstreetcn.com/articles/3784448",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784448?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:34+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "为何原油供应增加，油价却降不下来？",
+  "page_display_time": "2026-10-26T12:12:16+08:00",
+  "page_byline": "董静",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "Woo认为，市场忽视了一个关键事实：炼油商支付的不仅是原油价格，还包括运费、保险和融资成本。中东石油日流量已超战前水平，但运费已飙至每桶34-37美元，炼油商综合到岸成本居高不下。伊朗无需封锁霍尔木兹海峡，仅凭持续威胁态势便可令风险溢价长期高企。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2527,
+  "body_sha256": "ac0de71d8078b88100527c01a7c644f0bd98809a54829c3534110f9425394900",
+  "raw_sha256": "cd271b8f738a249ff76146808aeda36d8769eeedc5336f16f169eedbc1c2ba77",
+  "raw_bytes": 12614,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/d64368ad-3f87-4d9f-b06a-2ebbe3c86b18.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2459,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:37+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "cd271b8f738a249ff76146808aeda36d8769eeedc5336f16f169eedbc1c2ba77",
+      "bytes": 12614
+    },
+    "article.html": {
+      "sha256": "e3b4579bc6dd1ce8ae52de72f54f03fc8f720931f17b67cf9922c72b76613c06",
+      "bytes": 12051
+    },
+    "article.md": {
+      "sha256": "2ad17c235ec30ee6f4adedbc89242c4f25425c4424785774ee5ff43f9f7df9a3",
+      "bytes": 8231
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:25+08:00"
+}

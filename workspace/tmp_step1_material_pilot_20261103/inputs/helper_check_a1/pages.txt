@@ -1,0 +1,119 @@
+
+=== PDF页 50 ===
+Chapter 3
+Conventional Monetary Policy
+
+
+
+
+This chapter introduces conventional monetary policy, i.e. monetary policy during
+periods of economic and financial stability and when short-term interest rates are
+not constrained by the zero lower bound. We introduce the concept of an operational
+target of monetary policy and explain why central banks normally give this role to
+the short-term interbank rate. We briefly touch macroeconomics by outlining how
+central banks should set interest rates across time to achieve their ultimate target,
+e.g. price stability, and we acknowledge the complications in doing so. We then
+zoom further into monetary policy operations and central bank balance sheets by
+developing the concepts of autonomous factor, monetary policy instruments, and
+liquidity-absorbing and liquidity providing balance sheet items. Subsequently we
+explain how these quantities relate to short-term interest rates, and how the central
+bank can rely on this relation to steer its operational target, and thereby the starting
+point of monetary policy transmission. Finally, we explain the importance of the
+collateral framework and related risk control measures (e.g. haircuts) for the liquidity
+of banks and for the conduct of central bank credit operations.
+
+
+
+3.1 Short-Term Interest Rates as the Operational Target
+    of Monetary Policy
+
+3.1.1 The Targets of Monetary Policy
+
+The operational target of monetary policy is an economic variable, which the central
+bank wants, and indeed can control on a day-by-day basis using its monetary policy
+instruments. It is the variable for which (i) the policy decision making committee
+sets the target level in each of its meetings; which (ii) gives guidance to the staff of the
+
+The original version of the chapter has been revised. A correction to this chapter can be found at
+https://doi.org/10.1007/978-3-030-70884-9_8
+© The Author(s), 2026, corrected publication 2026                                                29
+U. Bindseil and A. Fotia, Introduction to Central Banking, SpringerBriefs in Quantitative
+Finance, https://doi.org/10.1007/978-3-030-70884-9_3
+
+
+=== PDF页 51 ===
+30                                                       3 Conventional Monetary Policy
+
+central bank what really to do on a day-by-day basis, and (iii) serves to communicate
+the stance of monetary policy to the public.
+    There are essentially three main types of operational targets: (i) a short-term
+interest rate, which is today and was until 1914 the dominant approach; (ii) a foreign
+exchange rate, for central banks which peg their own currency strictly to a foreign
+one, usually a small or developing economy; and (iii) a quantitative, reserve related
+concept, which was in different variants the official operational target of the Federal
+Reserve of the United States in the period 1920–1983. However, how it was meant to
+be applied is not completely clear (for a deeper discussion of this topic, see Bindseil
+[2004]).
+    The ultimate target of monetary policy is the objective that the central bank wants
+to achieve in the medium or in the long run. It is the precise quantitative specification
+of the objectives established by the mandate of the bank. Currently there are two
+predominant ultimate targets:
+• Inflation rate: usually defined as an annual increase of the consumer price index.
+  It is the most common target for advanced economies and is used also in some
+  emerging economies. In some cases, it is the ultimate target together with other
+  objectives. For example, in the case of the Fed, the objectives spelled out in
+  Section 2A of the Federal Reserve Act are “maximum employment, stable prices,
+  and moderate long-term interest rates”;
+• Foreign exchange rate: in case of a currency peg, the ultimate target is the
+  exchange rate, and all other variables, and the operational and ultimate target
+  collapse into one.
+Other ultimate targets, which have been applied in the past, or which are currently
+being discussed, include:
+• Monetary aggregates: Friedman (1982) proposed to make a narrow monetary
+  quantity the ultimate target of the central bank. A somewhat less radical variant
+  was defined by the Deutsche Bundesbank with monetary growth as an intermediate
+  target to pursue price stability (Deutsche Bundesbank 1995).
+• Nominal GDP targeting. At least since Clark (1994), nominal GDP targets have
+  been considered as an alternative monetary policy strategy to inflation targeting.
+  Recently, Williams (2016) has advocated nominal GDP targets as they would have
+  a number of advantages in a world with lower growth and lower natural interest
+  rates.
+• Price-level targeting has similarities to inflation targeting, but would compen-
+  sate past deviations of actual inflation from the target with subsequent opposite
+  deviations. Such an approach would reduce long-run uncertainty regarding the
+  price level. For a survey, see Ambler (2009). Arguably the Fed adopted elements
+  of price-level targeting in its recent decision of pursuing an average inflation rate
+  of 2% by allowing an inflation rate moderately above 2% after periods in which
+  inflation has been below 2% (Fed 2020d).
+
+
+=== PDF页 141 ===
+Correction to: Conventional Monetary
+Policy
+
+
+
+
+Correction to:
+Chapter 3 in: U. Bindseil and A. Fotia, Introduction
+to Central Banking, SpringerBriefs in Quantitative Finance,
+https://doi.org/10.1007/978-3-030-70884-9_3
+
+Owing to an unfortunate oversight on the part of production, part of a sentence was
+missing in Sect. 3.4.1.5 in the initially published version. That text has now been
+included (shown in bold below).
+   For example, in the case of the euro area, out of approximately EUR 30 trillion
+of aggregated bank assets, the value of central bank eligible collateral after haircuts
+that could be used at any moment in time may be around EUR 5 trillion.
+
+
+
+
+The updated version of this chapter can be found at
+https://doi.org/10.1007/978-3-030-70884-9_3
+
+
+© The Author(s) 2026                                                                C1
+U. Bindseil and A. Fotia, Introduction to Central Banking, SpringerBriefs in
+Quantitative Finance, https://doi.org/10.1007/978-3-030-70884-9_8
+

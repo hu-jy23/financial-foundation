@@ -1,0 +1,73 @@
+{
+  "article_id": 3783551,
+  "selection": {
+    "article_id": 3783551,
+    "url": "https://wallstreetcn.com/articles/3783551",
+    "title": "不予兜底！高盛、摩根大通拒绝承销11%高息AI芯片贷，AI融资风险谁来接？",
+    "page_display_time": "2026-10-13T22:19:02+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "信用与融资结构",
+    "reading_priority": "A",
+    "reading_value": "区分包销与尽力销售的贷款安排，解释银行、私人信贷和最终投资者之间如何分配AI融资风险。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2249,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 40
+  },
+  "url": "https://wallstreetcn.com/articles/3783551",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783551?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:19+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "不予兜底！高盛、摩根大通拒绝承销11%高息AI芯片贷，AI融资风险谁来接？",
+  "page_display_time": "2026-10-13T22:19:02+08:00",
+  "page_byline": "李佳",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "摩根大通与高盛联合主导50亿美元AI基础设施融资，但仅为13亿美元贷款提供承销担保，其余37亿美元GPU贷款不承诺包销。贷款到期收益率高达11.21%至11.75%，反映投资者要求更高风险补偿。银行仍在参与AI融资，但正收紧风险敞口，私人信贷能否接棒，将检验市场对AI基础设施融资风险的承接能力。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2322,
+  "body_sha256": "b48c4438dac1c55c3d4d97a64f59d957ffe45eb204da8ffcb30f643e83e2bfe1",
+  "raw_sha256": "f5db28023e880898ca3c0d526ce89201f228aad989a003ea7f8cebf071f99a56",
+  "raw_bytes": 10783,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/1cde4fe6-2f3d-43c8-92f5-5afe5e6bc103.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2249,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "f5db28023e880898ca3c0d526ce89201f228aad989a003ea7f8cebf071f99a56",
+      "bytes": 10783
+    },
+    "article.html": {
+      "sha256": "6b13f56dc369352149430a34d90a0e4cc023078cb174d733e19066783dbf9a92",
+      "bytes": 10510
+    },
+    "article.md": {
+      "sha256": "db9b00bfcd21d079ee4da84e79623d51a2a27c2662577c40f164a717965d636e",
+      "bytes": 7028
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:14+08:00"
+}

@@ -1,0 +1,2005 @@
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+              Slides for Chapter 13: Nominal Rigidity,
+             Exchange Rate Policy, and Unemployment
+
+                                                      Columbia University
+
+                                                       September 6, 2022
+
+
+
+
+These are the slides for the textbook, “International Macroeconomics: A Modern Approach,” by
+Stephanie Schmitt-Grohé, Martı́n Uribe, and Michael Woodford, Princeton University Press, 2022,
+ISBN: 9780691170640.
+
+
+
+
+                                                                                                                                                       1
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Why is Exchange Rate Policy Important?
+
+The traded-nontraded (TNT) model of Chapter 10 explains how the
+real exchange rate and the real wage are determined to ensure that
+the markets for goods and labor clear.
+
+For example, a deterioration of the terms of trade reduces aggregate
+demand and causes a fall in the relative price of nontradable goods
+(the real exchange rate depreciates).
+
+In the labor market, due to the fall in aggregate demand for goods,
+firms demand less labor, so the real wage falls to ensure that full
+employment is maintained.
+
+Here, the nominal exchange rate plays no role. Why? Because all
+prices (good prices, wages, etc.) are flexible.
+
+This chapter extends the TNT model to allow for nominal rigidity.
+In this new environment, there are no guarantees that markets
+will always clear, so what the central bank does with the nominal
+exchange rate becomes important.
+                                                                                                                                                       2
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+What Happens under Nominal Rigidity?
+
+Consider again the example of a deterioration in the terms of trade.
+The contraction in aggregate demand triggers a decline in the de-
+mand for labor by firms.
+
+Equilibrium in the labor market requires a fall in the real wage.
+
+A fall in the real wage can happen either through a fall in the nominal
+wage or through an increase in the consumer price level.
+
+If the nominal wage is downwardly rigid, then the price level must
+rise for the labor market to clear. Otherwise, the real wage would
+be too high and involuntary unemployment would emerge.
+
+In turn, an increase in the price level could be brought about by
+expansionary monetary policy and a depreciation of the domestic
+currency.
+
+So, in the presence of nominal rigidity exchange rate policy plays a
+key role in preventing disruptions in the labor market.
+                                                                                                                                                       3
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+The TNT-DNWR model
+
+This chapter builds on the two-period TNT model of Chapter 10.
+
+Relative to the TNT model, the model economy we study here
+features downward nominal wage rigidity (DNWR).
+
+We will refer to the TNT model with downward nominal wage rigidity
+as the TNT-DNWR model.
+
+This chapter is self contained—you don’t need to read Chapter 10—
+and starts by presenting the model’s main building blocks.
+
+
+
+
+                                                                                                                                                       4
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+What’s the difference between the nominal and the real wage?
+
+
+
+The nominal wage is the usual notion of wage, that is, the wage
+expressed in units of currency. For example, if Chiara makes 45
+euros per hour, then her nominal wage is 45 euros per hour.
+
+The real wage is the wage expressed in units of some good (or
+basket of goods); that is, it is the nominal wage divided by the price
+of some good (or basket of goods). For example, if the price of 1
+apple is 2 euros, then Chiara’s real wage is 22.5 apples.
+
+Typically, the real wage is expressed in terms of a broad basket
+of goods. For example, if one divides the nominal wage by the
+consumer price level, the real wage is expressed in units of the typical
+basket of goods and services consumed by households.
+
+                                                                                                                                                       5
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Downward Nominal Wage Rigidity
+
+In low inflation countries, whether developed or emerging, each year
+only a small fraction of workers experience a wage cut. Almost half
+of all workers experience an exact zero change in their wages, and
+almost half experience a wage increase.
+
+Furthermore, during recessions the fraction of workers with zero
+wage change increases.
+
+This pattern of wage changes has been interpreted as evidence of
+downward nominal wage rigidity.
+
+Why are nominal wages downwardly rigid? This is still a matter of
+investigation.
+
+When asked why wages don’t fall during a recession, the most
+common answer among firm managers is that they don’t cut wages
+because wage cuts undermine the morale of workers, which disrupts
+productivity in the workplace.
+                                                                                                                                                       6
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Modeling Downward Nominal Wage Rigidity
+
+Let Wt denote the nominal hourly wage rate in period t.
+
+Suppose that the nominal wage is subject to the following constraint:
+
+
+
+                                                                Wt ≥ Wt−1 .                                                                      (1)
+
+
+According to this restriction, the nominal wage rate can increase
+but it cannot fall.
+
+
+
+
+                                                                                                                                                       7
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+The Law of One Price
+
+Households consume tradable and nontradable goods. The country
+is small and open to international trade. The domestic price of the
+tradable good obeys the law of one price
+
+
+
+                                                               PtT = EtPtT ∗,
+where
+PtT = domestic price of the tradable good
+PtT ∗ = foreign price of the tradable good
+Et = nominal exchange rate defined as the domestic currency price
+of one unit of foreign currency—so an increase in Et is a depreciation
+of the domestic currency.
+
+For simplicity, assume that PtT ∗ is constant and equal to 1. So we
+can use interchangeably the terms price of the tradable good and
+nominal exchange rate.
+                                                                                                                                                       8
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Endowments and Production
+
+Assume that output of tradable goods, denoted QT
+                                               t , is an exogenous
+endowment.
+
+Output of nontraded goods, denoted QN    t , is produced by perfectly
+competitive firms using labor, ht, with the production function
+
+                                                               QN
+                                                                t = F (ht),
+where F (·) is assumed to be increasing and concave.
+
+Firms in the nontraded sector sell goods at the price PtN and pay
+the wage rate Wt per unit of labor employed.
+
+
+
+                                                                                                                                                       9
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+The Firm’s Profit Maximization Problem
+
+Profits of firms in the nontraded sector, denoted Πt , are given by
+
+                                                    Πt = PtN F (ht) − Wtht.                                                                      (2)
+Firms choose employment, ht, to maximize profits, taking as given
+PtN and Wt . The optimality condition is
+
+                                                           PtN F 0(ht ) = Wt.                                                                    (3)
+Dividing both sides by PtT (= Et ),
+
+                                                               PtN   Wt /Et
+                                                                   =                                                                             (4)
+                                                               PtT   F 0(ht )
+The optimality condition says that firms produce until the relative
+price equals the marginal cost.
+
+
+                                                                                                                                                     10
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Let
+                                                                       PtN
+                                                                   pt ≡ T ,
+                                                                       Pt
+denote the relative price of nontradables in terms of tradables. We
+can then write the optimality condition of firms, equation (4), as
+                                                                    Wt/Et
+                                                                pt = 0     .                                                                     (5)
+                                                                    F (ht)
+
+
+We call equation (5) the supply schedule of nontradable goods and
+depict it in the next slide.
+
+
+
+
+                                                                                                                                                     11
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+                                                                                                       W /E
+                                   The Supply Schedule: pt = F 0t(h )t
+                                                                                                               t
+
+
+                              pt
+                                                                                                        Wt/Et
+                                                                                                        F 0(ht )
+
+
+
+
+                                                                                                                      ht
+Notes. The supply schedule is an increasing relationship between the relative price of nontradables
+in terms of tradables, pt , and employment, ht . All other things equal, an increase in pt opens up a
+positive gap between marginal revenue and marginal cost, pt − (Wt/Et )/F 0 (ht ), which induces firms
+to expand production and employment until the gap disappears.
+                                                                                                                                                     12
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”    Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+                                    Shifters of the Supply Schedule
+
+
+    pt                                                                               pt
+                                         Wt0 /Et               Wt/Et                                                       Wt/Et                       Wt/Et0
+                                         F 0(ht )              F 0(ht)                                                     F 0(ht )                    F 0(ht )
+
+
+
+
+                                                                       ht                                                                             ht
+
+Notes. The left panel shows that an increase in the nominal wage from Wt to Wt0 > Wt, holding
+constant the nominal exchange rate, Et , shifts the supply schedule up and to the left. Given Et , an
+increase in Wt raises marginal cost, which discourages production and employment for any given
+relative price, pt . The right panel shows that holding constant the nominal wage, Wt, an increase
+in Et to Et0 > Et (a depreciation of the domestic currency) shifts the supply schedule down and to
+the right. Given Wt , a depreciation lowers the real wage, which induces firms to expand output
+and employment at any given level of pt .
+
+                                                                                                                                                      13
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Summary of the Supply Schedule
+
+• The supply schedule is a positive relationship between the relative
+price of the nontraded good and the level of employment necessary
+to produce the firm’s desired supply of nontradables.
+
+• Holding the nominal exchange rate constant, an increase in the
+nominal wage, Wt, pushes the supply schedule up and to the left.
+
+• Holding the nominal wage constant, a depreciation of the domestic
+currency—an increase in Et —shifts the supply schedule down and to
+the right.
+
+
+
+
+                                                                                                                                                     14
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Households’ Preferences
+
+The utility function is
+
+                                                            ln C1 + β ln C2,                                                                     (6)
+Consumption is a composite of tradable consumption, CtT , and
+nontradable consumption, CtN :
+
+                                                      Ct = (CtT )γ (CtN )1−γ ,                                                                   (7)
+for t = 1, 2.
+
+
+
+
+                                                                                                                                                     15
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Labor Supply
+
+Each period t = 1, 2, the household supplies inelastically a constant
+number of hours of work h̄.
+
+However, sometimes there is unemployment and workers get to work
+less than h̄ hours, so that we have
+
+                                                                     ht ≤ h̄,                                                                    (8)
+
+
+where ht is the number of hours actually worked. Workers take ht
+as given, as it depends on labor market conditions, which they don’t
+control.
+
+
+
+                                                                                                                                                     16
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Households’ Budget Constraints
+
+The household’s budget constraint in period 1 is
+      P1T C1T + P1N C1N + E1 B1 = E1(1 + r0)B0 + P1T QT
+                                                      1 + W1h1 + Π1,
+where B0 denotes bonds purchased in period 0 paying the interest
+rate r0, and B1 denotes bonds purchased in period 1 paying the
+world interest rate r∗. Bonds are denominated in foreign currency.
+The budget constraint in period 2 is
+               P2T C2T + P2N C2N = P2T QT                     ∗
+                                        2 + W2h2 + Π2 + (1 + r )E2 B1,
+To obtain the intertemporal budget constraint, combine the budget
+constraints in periods 1 and 2 to eliminate B1,
+
+                                           T      N   C2T + p2 C2N
+                                          C1 + p1C1 +         ∗
+                                                                   = Ȳ ,                                                                        (9)
+                                                                                1+r
+where
+                          T   W1      Π1  QT + W2/E2h2 + Π2/E2
+       Ȳ ≡ (1 + r0)B0 + Q1 +    h1 +    + 2
+                              E1      E1         1 + r∗
+represents lifetime wealth, which the household takes as given.
+                                                                                                                                                     17
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+The Household’s Optimization Problem
+
+Using (7), for t = 1, 2, and (9) to eliminate Ct, for t = 1, 2, and C2T
+from the lifetime utility function (6) yields
+
+
+
+      T               N                          N             T        N
+                               h                                           i
+                                      ∗                    ∗
+γ ln C1 + (1 − γ) ln C1 + βγ ln (1 + r )Ȳ − p2 C2 − (1 + r )(C1 + p1C1 )
+                                                           +β(1 − γ) ln C2N .
+
+
+The household chooses C1T , C1N , and C2N to maximize this expression,
+taking as given Ȳ , p1 , p2, and r∗.
+
+
+
+
+                                                                                                                                                     18
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Optimality Conditions
+
+The optimality conditions with respect to C1T , C1N , and C2N are,
+respectively,
+                                                           C2T             ∗
+                                                               T
+                                                                 = β(1 + r   ),                                                               (10)
+                                                           C1
+
+                                                    1−γ            ∗ p1
+                                                         = βγ(1 + r ) T ,                                                                     (11)
+                                                     C1N             C2
+
+                                                            C2N   1−γ 1
+                                                              T
+                                                                =       .                                                                     (12)
+                                                             C2    γ p2
+Combine optimality conditions (10) and (11) to get
+                                                            C1N   1−γ 1
+                                                                =       ,                                                                     (13)
+                                                            C1T    γ p1
+which says that if pt increases, the household consumes relatively
+less nontradables and more tradables.
+                                                                                                                                                     19
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Market Clearing
+
+In equilibrium, the market for nontraded goods must clear;
+
+
+
+                                                               CtN = F (ht),                                                                  (14)
+for t = 1, 2.
+
+
+
+
+                                                                                                                                                     20
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+The Intertemporal Resource Constraint
+
+Using the market-clearing condition (14) and the definition of firms’
+profits (2) to eliminate CtN and Πt from the intertemporal budget
+constraint (9) yields the economy-wide resource constraint
+                     C2T                           QT
+                         ∗
+                           =  C1T +
+                             (1 + r 0 )B0 + QT
+                                             1 +    2 ,
+                                                      ∗
+                                                                 (15)
+                   1+r                           1+r
+which says that the present discounted value of tradable consump-
+tion must equal the sum of the initial asset position and the present
+discounted value of the endowment of tradable goods.
+
+
+
+
+                                                                                                                                                     21
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Equilibrium Consumption of Tradables
+
+Using (10) to eliminate C2T from (15) yields the equilibrium value of
+C1T ,
+                                                                                                          QT
+                                                          "                                                          #
+                                              1
+                               C1T =             (1 + r0)B0 + QT
+                                                               1 +     ∗
+                                                                         .                                 2                                  (16)
+                                             1+β                   1+r
+
+
+This is intuitive: consumption decreases with the interest rate and
+increases with the endowments and the initial wealth. We summarize
+equation (16) by writing
+
+                                        C1T = C T (r∗, QT    T
+                                                        1 , Q2 , (1 + r0)B0).                                                                 (17)
+                                                               −      +        +               +
+
+
+
+
+                                                                                                                                                     22
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+The Demand Schedule
+
+Use (17) and (14) to eliminate C1T and C1N from (13), to obtain
+
+
+
+                                       1 − γ C T (r∗, QT
+                                                       1 , QT2 , (1 + r0)B0 )
+                                  p1 =                                        .                                                               (18)
+                                         γ                F (h1)
+
+
+This is the demand schedule and is depicted in the next slide. In
+words, the demand schedule says that an increase in p1 causes a fall
+in the demand for nontradable goods, which requires a reduction in
+employment to clear the market for nontradable goods.
+
+
+
+
+                                                                                                                                                     23
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+                                                     1−γ C T
+                            The Demand Schedule: p1 = γ F (h )
+                                                            1
+
+
+          p1
+
+
+
+
+                                                                                            T ∗ T     T
+                                                                                       1−γ C (r ,Q1 ,Q2 ,(1+r0 )B0 )
+                                                                                        γ          F (h1 )
+
+                                                                                                     h1
+
+Notes. The figure depicts the demand schedule in period 1. Holding constant r ∗ , QT1 , QT2 , and
+(1 + r0 )B0 , the higher is the relative price of nontradables, p1, the lower will be the demand for
+nontradables, C1N . If the nontradable market is in equilibrium, a lower demand for nontradables
+implies lower nontradable output, F (h1 ), and hence lower employment, h1 .
+
+                                                                                                                                                     24
+     Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+                                       Shifters of the Demand Schedule
+p1                                                                                  p1
+
+
+
+
+                                                                                                                                                           0
+                                                 1−γ C T (r∗ ,QT1 ,QT2 )                                                              1−γ C T (r∗ ,QT1 ,QT2 )
+                                                  γ       F (h1 )                                                                      γ        F (h1 )
+                                             1−γ C (r ,Q1 ,QT2 )
+                                                  T  ∗0   T
+                                                                                                                                  1−γ C (r ,Q1 ,QT2 )
+                                                                                                                                       T  ∗   T
+
+                                              γ     F (h1 )                                                                        γ     F (h1 )
+
+                                                          h1                                                                                   h1
+
+     Notes. The left panel shows that an increase in the world interest rate from r ∗ to r ∗0 > r ∗ shifts the
+     demand schedule down and to the left. By the intertemporal substitution effect, a higher interest
+     rate reduces the demand for tradable goods, C1T , which, for every level of the relative price p1
+     lowers the demand for nontradable goods, C1N , and thereby the implied demand for labor, h1 .
+
+     The right panel shows that an increase in the period-1 endowment of tradable goods from QT1 to
+        0
+     QT1 > QT1 shifts the demand schedule up and to the right. By the income effect, an increase in the
+     endowment increases the demand for tradable and nontradable goods for every level of the relative
+     price p1 and thereby the demand for labor, h1 . A future expected increase in the endowment of
+     tradables QT2 (not depicted) also shifts the demand schedule up and to the right for the same
+     reasons.
+
+                                                                                                                                                          25
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Summary of the Demand Schedule
+
+• The demand schedule is a negative relationship between the rel-
+ative price of the nontraded good and the level of employment
+necessary to produce the desired demand for nontradables.
+
+• An increase in the world interest rate r∗ shifts the demand schedule
+down and to the left.
+
+• An increase in the current or future endowment of tradables (QT
+                                                                1
+    T
+or Q2 ) shifts the demand schedule up and to the right.
+
+
+
+
+                                                                                                                                                     26
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+The Labor Market Slackness Condition
+
+Earlier, we assumed that the nominal wage is downwardly rigid
+by imposing the constraint (1). We now impose two additional
+assumptions about the functioning of the labor market:
+
+• When there is involuntary unemployment (ht < h̄), the lower bound
+on wages is binding (Wt = Wt−1 ).
+
+• If the wage constraint is slack (Wt > Wt−1), then the economy is
+at full employment (ht = h̄).
+
+These 2 assumptions can be formalized by writing
+
+                                                 (Wt − Wt−1 )(h̄ − ht) = 0,                                                                   (19)
+which we will call the labor market slackness condition.
+
+                                                                                                                                                     27
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Equilibrium in the TNT-DNWR Model
+Summarizing, the equilibrium in the TNT-DNWR model are values of CtT , ht , Wt,
+and pt, for t = 1, 2, satisfying
+                                                      T
+                                 "                        #
+                             1                       Q2
+                 C1T =            (1 + r0)B0 + QT
+                                                1 +     ∗
+                                                            ,           (20)
+                          1+β                       1+r
+
+                                                       C2T = β(1 + r∗)C1T ,                                                                   (21)
+
+                                                               1 − γ CtT
+                                                          pt =            ,                                                                   (22)
+                                                                 γ F (ht)
+
+                                                                           Wt/Et
+                                                                pt =        0
+                                                                                  ,                                                           (23)
+                                                                           F (ht)
+
+                                                                     ht ≤ h̄,                                                                 (24)
+
+                                                                Wt ≥ Wt−1 ,                                                                   (25)
+
+                                                 (Wt − Wt−1 )(h̄ − ht) = 0,                                                                   (26)
+given (1 + r0 )B0 , W0, QT1 , QT2 , r∗, and an exchange rate policy E1, E2.
+                                                                                                                                                     28
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Equilibrium Values of the Trade Balance, the Current Account,
+and the Net International Investment Position
+
+Having obtained the equilibrium values of CtT , the equilibrium values
+of the variables defining the external accounts are easily obtained:
+
+• The trade balance is the difference between tradable output and
+tradable consumption:
+
+                                                           T Bt = QT    T
+                                                                   t − Ct .                                                                   (27)
+• The net foreign asset position in period 1, B1, is
+
+                                                  B1 = (1 + r0)B0 + T B1 .                                                                    (28)
+And B2 = 0. Why?
+• The current account in period t, for t = 1, 2, equals the change in
+the country’s net foreign asset position,
+
+                                                         CAt = Bt − Bt−1 .                                                                    (29)
+
+                                                                                                                                                     29
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Adjustment to Shocks with a Fixed Exchange Rate
+
+
+
+
+                                                                                                                                                     30
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Why is it Important to Study Fixed Exchange Rate?
+
+Probably the main reason is that currency pegs, in their different
+varieties, are the most prevalent exchange rate arrangement.
+
+Varieties of Currency Pegs
+• Classic peg: the central bank guarantees convertibility of the
+domestic currency with a foreign currency at a fixed exchange rate
+(e.g., Austria between 1976 and 1999 pegged the schilling to the
+German mark; Argentina under its Convertibility Law 1991-2001).
+• Crawling peg: the central bank guarantees convertibility at a
+preannounced exchange rate schedule (e.g., Nicaragua, the tablitas
+in the southern cone of Latin America in the late 1970s).
+• Monetary union: a group of countries share a common currency
+(e.g., the eurozone: the exchange rate between the Portuguese
+currency (the euro) and the German currency (the euro) is 1).
+• Dollarization: a country adopts another country’s currency (Ecuador,
+El Salvador, Panama all adopted the U.S. dollar)
+                                                                                                                                                     31
+Fear of Floating: most countries who claim to float (de jure
+floaters) in fact keep the exchange rate stable (de facto peggers).
+This empirical finding is due to Guillermo Calvo and Carmen Reinhart
+(QJE 2002). (The former is a Columbia professor and the latter a Columbia Ph.D.!)
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+A Fixed Exchange Rate Regime
+
+Suppose that the central bank pegs the exchange rate at a constant
+value Ē; that is,
+                                                                     Et = Ē.
+
+
+To effectively achieve a fixed exchange rate, the central bank must
+stand ready to buy or sell any quantity of foreign currency desired
+by the public.
+
+Question: How does the economy adjust to different shocks under
+a fixed exchange rate regime and downward nominal wage rigidity?
+
+
+
+                                                                                                                                                     32
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”    Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Adjustment to an Increase in the World Interest Rate
+under a Fixed Exchange Rate
+            p1                T ∗                                1−γ C (r )
+                                                                  γ F (h1 )
+                                                                                                        W0 /Ē
+                                             1−γ C T (r∗ 0 )                                            F 0 (h1 )
+                                               γ       F (h1 )
+
+
+                               pA
+                                1                                                     A
+
+
+                               pB
+                                1                                  B
+
+
+
+
+                                                              hB                 h̄                                h1
+                                                               1
+Notes. Prior to the increase in the world interest rate from r ∗ to r ∗ 0 > r ∗, the equilibrium is at point
+A, where there is full employment, h1 = h̄. The nominal wage is W0 and the nominal exchange
+rate is fixed at E¯. The increase in r ∗ shifts the demand schedule down and to the left. The supply
+schedule is unchanged, however, because the combination of downward nominal wage rigidity and
+a fixed exchange rate prevents a decline in the real wage, W0 /Ē . As a result, unemployment in
+the amount h̄ − hB  1 emerges at the new equilibrium, point B.
+
+                                                                                                                                                      33
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Adjustment to an Increase in the World Interest Rate under Wage Flexi-
+bility
+                                  p1
+                                                                 1−γ C T (r∗ )
+                                                                  γ F (h1 )
+
+                                               1−γ C T (r∗ 0 )
+                                                γ   F (h1 )
+                                                                                                     W0 /Ē
+                                                                                     A               F 0 (h1 )
+                                 pA
+                                  1
+                                                           B
+                                 pB
+                                  1
+
+                                                                                              W1 /Ē
+                                                                                     C
+                                 pC
+                                  1
+                                                                                              F 0 (h1 )
+
+
+                                                        hB                      h̄                              h1
+                                                         1
+Notes. Prior to the increase in the world interest rate the equilibrium is at point A, where the labor
+market operates at full employment. The increase in the world interest rate from r ∗ to r ∗0 shifts
+the demand schedule down and to the left. Under downward nominal wage rigidity the equilibrium
+is at point B, where the economy suffers involuntary unemployment. Under wage flexibility, the
+nominal wage falls from W0 to W1 < W0, shifting the supply schedule down and to the right. The
+new equilibrium is at point C, where the economy continues to operate at full employment, and
+the relative price of nontradables is lower than at the pre-shock equilibrium or at the equilibrium
+with downward nominal wage rigidity, pC       B     A
+                                         1 < p1 < p1 .
+
+                                                                                                                                                     34
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Asymmetric Adjustment: A Decrease in the World Interest
+Rate under a Fixed Exchange Rate
+           p1              T ∗0                               1−γ C (r )
+                                                               γ   F (h1 )
+                                           1−γ C T (r∗ )
+                                            γ F (h1 )
+                                                                                                 W1 /Ē
+                                                                                 C               F 0 (h1 )
+                              pC
+                               1
+                                                                                                            W0 /Ē
+                                                                                                  B         F 0 (h1 )
+                              pB
+                               1
+                                                                                 A
+                              pA
+                               1
+
+
+                                                                            h̄                    hB h1
+                                                                                                   1
+Notes. The nominal exchange rate is fixed at E¯. Prior to the decrease in the world interest rate
+from r ∗ to r ∗0 < r ∗, the equilibrium is at point A, where there is full employment, h1 = h̄, and the
+nominal wage is W0 . The fall in r ∗ shifts the demand schedule up and to the right. Absent an
+increase in nominal wages, the equilibrium would be at point B, where labor demand exceeds labor
+supply, hB1 > h̄. As a result, wages will rise until the excess demand is eliminated. The increase
+in wages shifts the supply schedule up and to the left. The new equilibrium is at point C, where
+there is full employment, h1 = h̄, the nominal wage rate is equal to W1 > W0 , and the relative
+price of nontradables is higher, pC        A
+                                      1 > p1 .
+
+                                                                                                                                                     35
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Summary of Adjustment to World Interest Rate Shocks Under
+a Fixed Exchange Rate
+• An increase in r∗ reduces the demand for tradable and nontradable goods, CtT
+and CtN .
+
+• The tradable goods that cannot be sold domestically, are exported, T B1 =
+QT1 − C1T goes up.
+
+• By contrast, the fall in demand causes unemployment in the nontraded sector,
+h̄−h1 > 0: The relative price of nontradables, p1, does not fall enough because the
+labor cost—the real wage W1/E1—stays too high. In turn, the real wage doesn’t
+fall because the nominal wage is downwardly rigid and the nominal exchange rate
+is pegged.
+
+• The combination of downward nominal wage rigidity and a fixed exchange rate
+causes downward rigidity in the real wage.
+
+• Under flexible wages, the fall in aggregate demand caused by the increase in r∗
+is followed by a fall in the nominal (and real) wage large enough to maintain full
+employment. Also, the relative price of nontradables falls (i.e., the real exchange
+rate depreciates) enough to induce the necessary expenditure switch in favor of
+nontradables—the fall in p1 is larger than under wage rigidity.
+
+• With downwardly rigid nominal wages, the economy adjusts asymmetrically to
+increases and decreases in the interest rate: most importantly, the real wage
+increases when r∗ falls, but does not fall when r∗ increases.
+                                                                                                                                                     36
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Adjustment to a Fall in Tradable Output under a Fixed Ex-
+change Rate
+             p1             C T (QT )                             1−γ      1
+                                                                   γ  F (h1 )
+                                                                                                     W0 /Ē
+                                                    T    T0
+                                               1−γ C (Q1 )                                           F 0 (h1 )
+                                                γ   F (h1 )
+
+                                  pA
+                                   1                                                 A
+
+                                  pB
+                                   1                                B
+
+
+
+
+                                                               hB               h̄                             h1
+                                                                1
+                                                                                            0
+Notes. Prior to the fall in tradable output from QT1 to QT1 < QT1 , the equilibrium is at point A,
+where there is full employment, h1 = h̄. The nominal wage is W0 and the nominal exchange rate
+is fixed at Ē. The decline in QT1 shifts the demand schedule down and to the left. The supply
+schedule is unchanged, however, because the combination of downward nominal wage rigidity and
+a fixed exchange rate prevents a decline in the real wage, W0 /Ē . As a result, unemployment in
+the amount h̄ − hB 1 emerges at the new equilibrium, point B. The effects on h1 , W1 , and p1 of a
+fall in the future endowment (QT2 ) or a fall in the current or future terms of trade (T T1 or T T2 )
+(not shown) are qualitatively identical.
+                                                                                                                                                     37
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Summary of Adjustment to Output and Terms of Trade Shocks
+under a Fixed Exchange Rate
+
+• A fall in the endowment of tradables (QT
+                                         1 ) makes households poorer
+and depresses the demand for tradable and nontradable goods.
+
+• The fall in demand causes involuntary unemployment, because
+neither the nominal wage nor the nominal exchange rate can adjust
+to make the real wage fall to the level that clears the labor market.
+
+• Because labor costs remain high, firms cannot lower prices, so
+there is insufficient expenditure switching away from tradables and
+toward nontradables.
+
+• The effects on h1, W1, and p1 of a future expected fall in the
+endowment (QT   2 ) or of a current or future fall in the terms of trade
+(T T1 or T T2 ) (not shown) are qualitatively identical to those of a
+fall in the current endowment.
+                                                                                                                                                     38
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Volatility and Average Unemployment
+
+We saw that under fixed exchange rates, shocks can have asymmet-
+ric effects.
+
+For example, starting from full employment (h1 = h̄), an increase
+in r∗ causes unemployment (h1 < h̄), but a fall in r∗ preserves full
+employment (h1 = h̄).
+
+This means that fluctuations in the world interest rate cause unem-
+ployment on average: if ht is sometimes lower than h̄ and sometimes
+equal to h̄, then on average it is below h̄.
+
+Furthermore, the larger the amplitude of the movements in r∗ are,
+the larger the average level of unemployment will be.
+
+In general, we have that under fixed exchange rates a second mo-
+ment (the standard deviation of shocks) has first-order effects un-
+employment (on average unemployment). The next slide provides a
+graphical illustration.
+                                                                                                                                                     39
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Volatility and Average Unemployment under a Fixed Exchange
+Rate
+          p1                       W B /Ē
+                                                                                          F 0 (h1 )
+                                                                                             W A /Ē
+                                                                          B                 F 0 (h1 )
+                                                                                               1−γ C T (r∗ −∆0)
+                                                                                                 γ    F (h1 )
+                                                                          A
+                                                                                                 1−γ C T (r∗ −∆)
+                                                                                                  γ     F (h1 )
+                                                                 A0
+                                                                                                 1−γ C T (r∗ +∆)
+                                                                                                  γ     F (h1 )
+                                            B0
+                                                                                                 1−γ C T (r∗ +∆0)
+                                                                                                  γ     F (h1 )
+                                                  0                   0                                  h1
+                                            hB                  hA          h̄
+Notes. The figure illustrates the effect of an increase in volatility of the world interest rate on
+average unemployment. In the low volatility environment, the interest rate fluctuates   0
+                                                                                              between
+  ∗            ∗                                                                      A
+r + ∆ and r − ∆, and the equilibrium level of employment fluctuates between h and h̄. In the
+high volatility environment, the interest rate fluctuates
+                                                        0
+                                                          between r ∗ + ∆0 and r ∗ −∆0, where ∆0 > ∆,
+and the equilibrium level of employment between hB and h̄. The average rate of unemployment
+is larger in the high volatility environment.
+                                                                                                                                                     40
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Adjustment to Shocks with a Floating Exchange Rate
+
+
+
+
+                                                                                                                                                     41
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+A Floating Exchange Rate
+
+Under a flexible or floating exchange rate regime, the nominal ex-
+change rate can change over time.
+
+There is an infinite number of floating exchange rate regimes.
+
+We focus on a particular member of this large family, in which the
+central bank aims to achieve full employment and price stability.
+
+A dual mandate of this type is common for central banks around
+the world.
+
+Core inflation
+Central banks often focus on a measure of inflation that excludes
+food and energy, whose prices are too volatile. Food and energy
+goods are typically internationally traded.
+
+We will therefore assume that the price the central bank aims to
+stabilize is the price of the nontradable good, PtN .
+                                                                                                                                                     42
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Adjustment to an Increase in the World Interest Rate with a
+Floating Exchange Rate
+              p1              T ∗                                 1−γ C (r )
+                                                                   γ F (h1 )
+                                                 1−γ C T (r∗ 0)
+                                                  γ  F (h1 )
+                                                                                                    W0 /E A
+                                                                                     A              F 0 (h1 )
+                                    pA
+                                                             B
+                                    pB
+
+                                                                                             W0 /E C
+                                                                                     C
+                                    pC                                                       F 0 (h1 )
+
+
+                                                          hB                    h̄                           h1
+
+Notes. Prior to the increase in the world interest rate the equilibrium is at point A, where the labor
+market operates at full employment, the nominal wage is W0, the nominal exchange rate is E A ,
+and the nominal price of nontradables is W0/F 0 (h̄). The increase in the world interest rate from
+r ∗ to r ∗0 > r ∗ shifts the demand schedule down and to the left. Absent a change in the exchange
+rate, the equilibrium would be at point B, where employment is hB < h̄. The central bank can
+achieve its objectives of full employment and price stability by depreciating the exchange rate to
+E C > E A . At point C, h1 = h̄ and P1N = W0 /F 0 (h̄), which are the same values as at point A. The
+adjustment to other external shocks such as a fall in the terms of trade (T T1 or T T2 ) is similar.
+
+                                                                                                                                                     43
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Effect of the Currency Depreciation on the Price Level
+
+(Terminology: we use the terms depreciation or devaluation to refer
+to an increase in Et )
+
+The graph on the previous slide shows that a depreciation of the
+domestic currency from E A to E C preserves full employment (h1 =
+h̄).
+
+What about P1N ? Recall the firm’s optimality condition (value of
+the marginal product of labor = wage rate):
+                                                            P1N F 0(h̄) = W0
+Since neither employment nor the nominal wage changed, we have
+that P1N is also unchanged. So the currency depreciation preserves
+price stability.
+
+In sum, we have that the effects of an increase in the world interest
+rate under a floating exchange rate are:
+
+r∗ ↑⇒ h1 unchanged; P1N unchanged; C1T ↓; T B1 = QT    T
+                                                  1 − C1 ↑.
+                                                                                                                                                     44
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Adjustment to Tradable Output Shocks and Terms of Trade
+Shocks Under a Floating Exchange rate Regime
+
+The effect of a fall in QT t , or a fall in T OTt , for t = 1, 2, on
+unemployment and the price level under a floating exchange rate
+regime are similar to the effect of an increase in the world interest
+rate:
+
+A currency depreciation in the right amount preserves full employ-
+ment and price stability.
+
+
+
+
+                                                                                                                                                     45
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Properties of the Exchange Rate Policy under External Shocks
+
+• Movements in the exchange rate achieve both full employment and
+price stability.
+
+• In response to a negative external shock, too little depreciation
+results in unemployment and too much depreciation results in infla-
+tion.
+
+• The larger the negative external shock, the larger the necessary
+depreciation will be.
+
+• A currency depreciation cannot completely avoid a macroeconomic
+contraction: it cannot avoid a reduction in the demand for tradables.
+
+• A positive correlation between contractions and currency deprecia-
+tions need not be an indication that devaluations are contractionary.
+If the observed contractions are due to external shocks, then the
+correct conclusion may be that contractions are devaluatory.
+                                                                                                                                                     46
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Supply Shocks, the Inflation-Unemployment Trade-off, and
+Stagflation
+
+Thus far, we have analyzed shocks that shift the demand schedule.
+
+Consider now shocks that shift the supply schedule.
+
+Consider the production function
+
+                                                                QN        α
+                                                                 1 = A1 h 1
+with α ∈ (0, 1). Here, A1 is a productivity factor determined by the
+state of technology or government regulation.
+
+Consider a negative productivity shock in period 1; that is, a reduc-
+tion in A1. Suppose that prior to the shock, the nominal wage is
+W1 = W0 .
+
+                                                                                                                                                     47
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+The Inflation-Unemployment Trade-off
+With this production function, optimality condition (3) becomes
+                                                                 α−1
+                                                        P1N αA1 h1   = W0 .                                                                   (30)
+Suppose that prior to the shock, the economy is at full employment,
+h1 = h̄ and recall that the nominal wage is downwardly rigid. It is
+clear from (30) that
+
+• If the government favors full employment, then the fall in A1
+requires an increase in P1N , so the government must sacrifice the
+goal of price stability.
+
+• If instead the government favors price stability (i.e., keeping P1N
+unchanged), then the fall in A1 causes a fall in h1, so the government
+must sacrifice the goal of full employment (recall that α ∈ (0, 1)).
+
+⇒ The government faces an inflation-unemployment trade-off: When
+the economy experiences simultaneously unemployment and infla-
+tion, it is said to suffer from stagflation.
+                                                                                                                                                     48
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”             Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Adjustment of the Exchange Rate to Supply Shocks
+
+Once the government chooses the mix of inflation and unemploy-
+ment it wishes to have, there is an exchange rate policy that makes
+it happen: With our new production function, the demand sched-
+ule (18) becomes
+                                                   P1N   1 − γ C T (r∗, QT
+                                                                         1  , QT
+                                                                               2 ).
+                                                       =                                                                                                     (31)
+                                                   E1      γ         A1 h α
+                                                                          1
+• If the government chooses to maintain full employment (h1 = h̄),
+then in response to the fall in A1 the nominal exchange rate stays
+unchanged.∗ (Recall that in this case P1N increases in the same
+proportion as A1 falls.)
+
+• If the government chooses to maintain price stability (P1N un-
+changed), then the fall in A1 requires an exchange rate appreciation
+(a fall in E1 ). (Recall that in this case h1 falls.)
+∗
+    The result that the nominal exchange rate is unchanged is a result of the assumption of log utility and a Cobb Douglas production function. Exercise 13.5 shows that
+    if one relaxes those assumptions then the nominal exchange rate can either de- or appreciate.
+
+
+                                                                                                                                                                   49
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+The Monetary Policy Trilemma
+
+The central bank can achieve simultaneously only two of the follow-
+ing three things:
+(1) A fixed exchange rate.
+(2) Monetary autonomy (set the nominal interest rate).
+(3) Free capital mobility.
+
+To see this notice that under capital mobility
+                                                              E
+                                                       1 + i = 2 (1 + r∗),                                                                    (32)
+                                                              E1
+where i =domestic nominal interest rate. If (1) and (3) hold, then
+(32) determines i. If (1) and (2) hold, then (32) will in general not
+hold. And if (2) and (3) hold, then (32) determines E2 /E1.
+
+
+                                                                                                                                                     50
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Exchange Rate Overshooting
+
+Under certain monetary arrangements, the nominal exchange rate
+tends to overreact to movements in monetary policy. This property
+is known as exchange rate overshooting.
+
+We wish to analyze what happens with the nominal exchange rate
+in the short and the long runs when the central bank reduces the
+quantity of money.
+
+If the effect on the exchange rate is more pronounced in the short
+than in the long run, we say that it overshoots.
+
+Suppose the demand for money is proportional to expenditure in
+nontradables:
+                                                              Mt = PtN CtN .                                                                  (33)
+
+                                                                                                                                                     51
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Using (3) and (14) and assuming that F (ht) = hα
+                                               t , we can write
+(33) as
+                              1
+                         Mt = Wtht.                       (34)
+                              α
+
+Suppose that the central bank cuts the money supply by a factor λ,
+
+                                                           Mt0 = (1 − λ)Mt .
+Suppose also that prior to the monetary contraction h1 = h̄ and
+W1 = W0. So
+                                1
+                          M1 = W0h̄.                       (35)
+                                α
+
+Let’s analyze the short and long run effects on the exchange rate
+separately.
+
+
+                                                                                                                                                     52
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Short Run
+
+Because of DNWR, we have that
+                                            h01
+                                                = 1 − λ ⇒ unemployment                                                                        (36)
+                                            h1
+where 0 denotes after the shock. From (3),
+                  0                 !1−α
+              P1N                 0
+                                 h1
+                N
+                    =                    = (1 − λ)1−α < 1 ⇒ core deflation                                                                    (37)
+              P1                 h1
+
+
+Consider the demand schedule
+                                                                  !1/ξ
+                                  1−γ             T  ∗    T   T
+                                                 C (r , Q1 , Q2 )
+                      pt =                              α              ,                                  with ξ > 0                          (38)
+                                   γ                   ht
+It implies that
+                                                                               !−α/ξ
+                                                            p01              0
+                                                                            h1
+                                                                =
+                                                            p1              h1
+
+                                                                                                                                                     53
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Combine this expression with (36) to get
+                              p01
+                                  = (1 − λ)−α/ξ > 1 ⇒ real appreciation                                                                       (39)
+                              p1
+Now (37) and (39) imply that
+                     E10          1−α+ αξ
+                         = (1 − λ)        < 1 ⇒ short-run appreciation                                                                        (40)
+                     E1
+
+
+We have thus shown that a permanent cut in the money supply
+causes a nominal appreciation of the domestic currency in the short
+run. To see whether the exchange rate overshoots, we have to check
+its the long-run response. That is, we have to see whether in period
+2 it appreciates by more or by less than in period 1.
+
+
+
+                                                                                                                                                     54
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Long Run
+
+The long run is period 2. In the long run, wages are flexible, so
+there is full employment, h02 = h2 = h̄.
+
+The cash in advance constraint Mt = PtN CtN , the market clearing
+condition C2N = F (h2) and the assumption of full employment imply
+that
+                               0
+                       P2N   M20
+                         N
+                           =     = (1 − λ) ⇒ long-run core deflation
+                       P2    M2
+Finally, (38) and full employment imply that
+                   p02
+                       = 1 ⇒ relative price unaffected in the long run
+                   p2
+Now since p2 = P2N /E2 ,
+                                              0
+                         E2 0  P2N
+                              = N = (1 − λ) ⇒ long-run appreciation                                                                            (41)
+                         E2    P2
+
+                                                                                                                                                     55
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Condition for Overshooting
+
+Comparing (40) and (41) we have that
+
+                                                     ξ < 1 ⇒ overshooting
+
+
+In words, the TNT-DNWR model predicts exchange rate overshoot-
+ing if the intratemporal elasticity of substitution between tradables
+and nontradables is less than one. Available empirical estimates of
+this elasticity suggest that this is indeed the case.
+
+
+
+
+                                                                                                                                                     56
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Overshooting and the Interest Rate
+
+What happens to the nominal interest rate i when the central bank
+cuts the money supply?
+
+Assume that the condition for overshooting is met (ξ < 1), and let’s
+look again at the interest rate parity condition.
+                                                            E2
+                                                       1+i=    (1 + r∗).
+                                                            E1
+Then, after the cut in Mt , the change in it is
+             1 + i0  E20 /E2
+                    = 0      = (1 − λ)α(1−1/ξ) > 1 ⇒ interest rate hike
+             1+i     E1 /E1
+This says that if the exchange rate overshoots, then a cut in the
+money supply causes an increase in the nominal interest rate.
+
+
+                                                                                                                                                     57
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+                                      Empirical Evidence on
+                                  Downward Nominal Wage Rigidity
+
+
+
+
+                                                                                                                                                     58
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Overview
+
+Downward nominal wage rigidity is the central friction in the TNT-
+DNWR model.
+
+Is it empirically relevant?
+
+The presence of downward nominal wage rigidity has been docu-
+mented from different perspectives:
+
+• micro data and macro data
+
+• economies with predominantly formal labor markets and economies
+with large informal labor markets.
+
+• developed countries, emerging countries
+
+• normal periods and crisis periods
+
+• historical data and recent data
+                                                                                                                                                     59
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+                    Evidence from U.S. Micro Data
+           Nominal Wage Change Distributions: US, 1997 to 2016
+                                   1997                       1998                        1999                         2000
+                       20                         20                         20                           20
+                       10                         10                         10                           10
+                        0                          0                          0                             0
+                            −0.2     0    0.2          −0.2    0     0.2          −0.2     0     0.2            −0.2     0    0.2
+                                   2001                       2002                        2003                         2004
+                       20                         20                         20                           20
+                       10                         10                         10                           10
+                        0                          0                          0                             0
+                            −0.2     0    0.2          −0.2    0     0.2          −0.2     0     0.2            −0.2     0    0.2
+                                   2005                       2006                        2007                         2008
+                       20                         20                         20                           20
+                       10                         10                         10                           10
+                        0                          0                          0                             0
+                            −0.2     0    0.2          −0.2    0     0.2          −0.2     0     0.2            −0.2     0    0.2
+                                   2009                       2010                        2011                         2012
+                       20                         20                         20                           20
+                       10                         10                         10                           10
+                        0                          0                          0                             0
+                            −0.2     0    0.2          −0.2    0     0.2          −0.2     0     0.2            −0.2     0    0.2
+                                   2013                       2014                        2015                         2016
+                       20                         20                         20                           20
+                       10                         10                         10                           10
+                        0                          0                          0                             0
+                            −0.2    0     0.2          −0.2    0     0.2          −0.2      0    0.2            −0.2    0     0.2
+
+Comments: The wage change distributions have 3 characteristics consistent with DNWR: (1) a
+spike at 0; (2) more wage increases than wage cuts; and (3) the spike at 0 increased during the
+global financial crisis of 2007 to 2009.
+                                                                                                                                                         60
+  Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”               Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+    Evidence from the Great Depression in the United States
+Nominal Wage Rate and Consumer Prices, United States, 1923:1–1935:7
+                                              0.05
+
+
+
+                                                0
+
+
+
+                                             −0.05
+
+
+
+                                              −0.1
+                                  1929:8=0
+
+
+
+
+                                             −0.15
+
+
+
+                                              −0.2
+
+
+
+                                             −0.25
+
+
+                                                        log(Nominal Wage Index)
+                                              −0.3      log(CPI Index)
+
+                                                     1924         1926            1928          1930        1932         1934
+                                                                                         Year
+
+
+
+  The thick solid line depicts the natural logarithm of an index of manufacturing money wage rates.
+  The broken line depicts the logarithm of the consumer price index. The two vertical lines mark
+  the beginning and end of the Great Depression, August 1929 and March 1933. During the Great
+  Depression nominal wages fell by only 6 percent, whereas nominal prices fell by 32 percent, leading
+  to an increase in the real wage of 26 percent, in spite of a contraction in employment of more
+  than one third of the labor force. Data sources: NBER for the wage rate and BLS for the price
+  index.
+                                                                                                                                                                   61
+   Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Evidence from Peripheral Europe During the Global Financial Crisis
+   Unemployment and Nominal Wages: Peripheral Europe, 2008–2011
+                                                     Unemployment Rate                                Wage Growth
+                                                                                                               W2011Q2
+                                                    2008Q1       2011Q2                                        W2008Q1
+                           Country                (in percent) (in percent)                             (in percent)
+                           Bulgaria                    6.1         11.3                                     43.3
+                           Cyprus                      3.8          6.9                                     10.7
+                           Estonia                     4.1         12.8                                      2.5
+                           Greece                      7.8         16.7                                     -2.3
+                           Ireland                     4.9         14.3                                      0.5
+                           Italy                       6.4          8.2                                     10.0
+                           Lithuania                   4.1         15.6                                     -5.1
+                           Latvia                      6.1         16.2                                     -0.6
+                           Portugal                    8.3         12.5                                      1.9
+                           Spain                       9.2         20.8                                      8.0
+                           Slovenia                    4.7          7.9                                     12.5
+                           Slovakia                   10.2         13.3                                     13.4
+
+   Comments: All countries were either on the euro or pegging to it. All experienced
+   increases in unemployment. However, none experienced sizable declines in nominal
+   wages in spite of the fact that both productivity growth and inflation were small
+   during this period.
+
+
+                                                                                                                                                        62
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                                 Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+             Evidence from the Argentine Peg, 1998–2001
+          The Last Three Years of the Argentine Convertibility Plan
+                                                                     Nominal Exchange Rate (Et )                              Unemployment Rate + Underemployment Rate
+                                                             4                                                               40
+
+
+
+
+                                     Pesos per U.S. Dollar
+                                                             3                                                               35
+
+
+
+
+                                                                                                                 Percent
+                                                             2                                                               30
+
+
+                                                             1                                                               25
+
+
+                                                             0                                                               20
+                                                             1996   1998    2000    2002   2004    2006                       1996    1998     2000   2002         2004   2006
+                                                                                   Year                                                            Year
+
+                                                                           Nominal Wage (Wt )                                                Real Wage (Wt /Et )
+                                                                                                                             1.5
+                             Pesos per Hour
+
+
+
+
+                                                                                                              Index 1996=1
+                                                       12                                                                     1
+
+
+
+                                                                                                                             0.5
+
+                                                             6
+
+                                                                                                                              0
+                                                             1996   1998     2000   2002        2004   2006                   1996   1998     2000    2002   2004     2006
+                                                                                 Year                                                                Year
+
+
+
+Evidence of DNWR from Emerging Countries. The large increase in unem-
+ployment that characterized the last three years of the Argentine peg occurred
+in the context of remarkably stable nominal wages, in spite of the fact that the
+consumer price level (not shown) was falling.
+                                                                                                                                                                                                   63
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+                                                  A Numerical Exercise
+
+
+
+
+                                                                                                                                                     64
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+A Numerical Example: A World Interest Rate Hike
+
+Let’s analyze numerically the effects of an increase in the world
+interest rate, r∗, under a fixed and a floating exchange rate regime.
+
+Assume the following familiar functional forms for preferences and
+technology:
+
+Preferences: ln C1 + β ln C2
+Consumption aggregator: Ct = (CtT )γ (CtN )1−γ ,
+Production technology: F (ht) = hα
+                                 t
+
+
+The table on the next slide presents the assumed values for the
+parameters, the endowments, and the initial conditions.
+
+
+                                                                                                                                                     65
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+                                          Calibration
+  Parameter                   Value Description
+  QT 1                          1   Endowment of tradable goods in period 1
+  QT 2                          1   Endowment of tradable goods in period 2
+  h̄                            1   Time endowment
+  B0                            0   Net foreign asset position at beginning of period 1
+  r∗                          0.25 World interest rate
+  W0                          0.75 Nominal wage in period 0
+  β                            0.8  Subjective discount factor
+  γ                            0.5  Expenditure share of tradable consumption
+  α                           0.75 Labor share in the nontraded sector
+
+
+
+
+                                                                                                                                                     66
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Preliminaries: Solving the Equilibrium
+
+Before plunging in the numerical exercise, let’s go over how to
+solve for the complete system of equilibrium conditions, given by
+expressions (20) to (26) for a given path of the nominal exchange
+rate (E1, E2).
+
+(a) Equation (20) gives C1T .
+(b) C2T then comes from equation (21).
+Solving for the remaining variables in period 1—period 2 is similar.
+(c) Guess that h1 = h̄. ⇒ (24) and (26) are satisfied.
+(d) (22) then gives p1.
+(e) And (23) gives W1.
+(f) If W1 ≥ W0 then (25) is satisfied and you’re done.
+(g) If W1 < W0, set W1 = W0. ⇒ (25) and (26) are satisfied.
+(h) Solve (22) and (23) for p1 and h1.
+
+You are done.
+                                                                                                                                                     67
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Numerical Example: The Pre-Shock Equilibrium
+Suppose initially the central bank sets
+
+                                                               E1 = E2 = 1.
+We must solve the system of equilibrium conditions (20)-(26).
+From (20) and (21)
+                                                            QT
+                                         "                            #
+                    1                  1          1
+                                                                                                                             
+               T
+              C1 =      T
+                       Q1 +       =         1+          =1   2
+                   1+β      1+r ∗   1 + 0.8    1 + 0.25
+
+                         C2T = β(1 + r∗)C1T = 0.8 × (1 + 0.25) × 1 = 1.
+Guess full employment in both periods: h1 = h2 = h̄ = 1.
+Must check that (22)– (26) hold for t = 1, 2. Clearly, (24) and (26)
+are satisfied in both periods.
+From (22), pt = 1 for t = 1, 2.
+Now solve (23) for Wt, Wt = pt EtF 0(ht) = ptEt αhtα−1 = 0.75.
+⇒ W0 = W1 = W2 ⇒ (25) is satisfied.
+This completes the proof that the pre-shock equilibrium features full
+employment in both periods.
+                                                                                                                                                     68
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Numerical Example: Adjustment with a Fixed Exchange Rate
+
+Suppose that r∗ increases to 50% (r∗0 = 0.5) and that the central
+bank fixes the exchange rate at 1 (E1 = E2 = 1).
+Again, we must solve the system of equilibrium conditions (20)-(26).
+By (20) and (21), C1T = 0.9259 and C2T = 1.1111.
+Guess that the wage constraint is binding: W1 = W0 = 0.75.
+Obviously (25) and (26) hold.
+Combining (22) and (23) to eliminate p1 yields h1 = 0.9259 ⇒
+unemployment.
+Since h1 < 1, (24) is satisfied.
+From (22) p1 = 0.9809 ⇒ real depreciation.
+Period 2:
+Guess full employment in period 2, h2 = h̄ = 1.
+Trivially(24) and (26) hold.
+From (22), p2 = 1.1111.
+Solve (23) to get W2 = 0.8333.
+Since W2 > W1, (25) is satisfied in period 2.
+                                                                                                                                                     69
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Numerical Exercise: Summary of Adjustment to an Increase
+in r ∗ with a Fixed Exchange Rate
+
+Period 1:
+• Consumption of tradables and nontradables falls.
+• Involuntary unemployment emerges.
+• The real exchange rate depreciates.
+• The trade balance, the current account, and the country’s net
+asset position improve.
+• There is deflation in core prices.
+
+Period 2:
+• Consumption of tradables and nontradables increases.
+• Full employment is restored
+• The nominal and real wage increases.
+• The real exchange rate appreciates.
+• There is core inflation.
+
+The table on the next slide presents a numerical summary of these
+effects.
+                                                                                                                                                     70
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Summary of Effects of an r ∗ Hike in the TNT-DNWR Model
+                                                       Pre Shock                  Fixed          Floating
+                                       r∗                 0.25                     0.5              0.5
+                                       E1                   1                       1             1.0800
+                                       E2                   1                       1             0.9000
+                                       h1                   1                    0.9259              1
+                                       h2                   1                       1                1
+                                       W1/E1              0.75                    0.75            0.6944
+                                       W2/E2              0.75                   0.8333           0.8333
+                                       W1                 0.75                    0.75             0.75
+                                       W2                 0.75                   0.8333            0.75
+                                       p1                   1                    0.9809           0.9259
+                                       p2                   1                    1.1111           1.1111
+                                       P1N                  1                    0.9809              1
+                                       P2N                  1                    1.1111              1
+                                       C1T                  1                    0.9259           0.9259
+                                       C2T                  1                    1.1111           1.1111
+                                       T B1                 0                    0.0741           0.0741
+                                       T B2                 0                   -0.1111          -0.1111
+                                       CA1                  0                    0.0741           0.0741
+                                       CA2                  0                   -0.0741          -0.0741
+                                       B1                   0                    0.0741           0.0741
+
+Note. The calibration of the TNT-DNWR model used in this example is shown in slide 66.
+
+                                                                                                                                                     71
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Numerical Exercise:                                    Adjustment with a Floating Exchange
+Rate
+
+We know that in response to an r∗ shock, a floating exchange rate
+can maintain price stability and full employment.
+
+So let’s verify that eq’m conditions (20)-(26) are satisfied. with
+PtN = 1 and ht = h̄ = 1, for t = 1, 2.
+
+The path of consumption of tradables is independent of monetary
+policy, so C1T = 0.9259 and C2T = 1.1111.
+
+Clearly, (24) and (26) hold for t = 1, 2.
+
+From (22), p1 = 0.9259 and p2 = 1.1111, and therefore E1 = 1.0800
+and E2 = 0.9000.
+
+From (23), PtN = Wt/(αh̄α−1), so Wt = α = W0 for t = 1, 2 and (25)
+is satisfied for t = 1, 2.
+
+The last column of the table in slide 71 summarizes these results.
+                                                                                                                                                     72
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+The Welfare Cost of a Currency Peg
+
+            p       f
+Let Ct , Ct denote consumption under a peg and a float.Then, from (7),
+ p              f                p     f
+C1 = 0.9349, C1 = 0.9623, and C2 = C2 = 1.0541.
+
+From (6), lifetime utility is -0.0252 and 0.0037 utils for the peg and
+the float.
+
+Definition. welfare cost of a currency peg = percent increase in
+consumption in each period (λ) that a household in a currency
+peg requiresh to be asi happy has a household in a float. Formally,
+                     p                 p       f         f
+                                         i
+          ln (1 + λ)C1 + β ln (1 + λ)C2 = ln C1 + β ln C2 .
+
+Let U p, U f = utility under a peg and a float. Then, solving for λ,
+                         f −U p
+         ln(1 + λ) = 1+β = 0.0037+0.0252
+                       U
+                                  1+0.8     = 0.016
+Using ln(1 + λ) ≈ λ, λ = 0.016.
+
+So households in a peg require a 1.6 percent increase in consumption
+each period to be as well off as in a float.
+                                                                                                                                                     73
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Summing Up
+
+This chapter shows that in the presence of nominal rigidity, monetary
+and exchange rate policy can affect the equilibrium levels of inflation,
+unemployment, aggregate activity, and the real exchange rate. It
+considers separately two exchange rate regimes: a fixed exchange
+rate regime and a floating exchange rate regime in which the central
+bank pursues the dual mandate of full employment and price stability.
+
+• We embedded downward nominal wage rigidity into the TNT
+model to get the TNT-DNWR model.
+• In the TNT-DNWR model, the nominal wage can go up but not
+down.
+• Under a fixed exchange rate regime, negative external shocks,
+such as an increase in the world interest rate or a deterioration of
+the terms of trade, cause involuntary unemployment.
+• Under a floating exchange rate regime, in response to negative
+external shocks the central bank can preserve full employment and
+price stability by depreciating the domestic currency.
+• When the economy is buffeted by external shocks, welfare is higher
+under a floating exchange rate than under a currency peg.
+                                                                                                                                                     74
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 13: Nominal Rigidity, Exchange Rate Policy, and Unemployment
+
+
+
+
+Summing Up (concluded)
+
+• In response to negative supply shocks, such as a fall in productivity
+in the nontraded sector, the monetary authority faces a trade-off
+between inflation and unemployment, so stagflation may occur.
+
+• The monetary policy trilemma says that the monetary authority
+can achieve only two of the following: (1) a fixed exchange rate; (2)
+setting the nominal interest rate independently; and (3) free capital
+mobility.
+
+• Under a flexible exchange rate regime, a monetary tightening can
+cause exchange rate overshooting, that is, a larger appreciation in
+the short run than in the long run.
+
+• There is empirical evidence consistent with the presence of down-
+ward nominal wage rigidity in data from developed and emerging
+countries.
+                                                                                                                                                     75
+

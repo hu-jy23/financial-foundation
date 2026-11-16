@@ -1,0 +1,2032 @@
+
+
+===== PDF 329 | 印刷页 294 =====
+
+12
+Chapter
+
+          Depository Institutions:
+          Banks and Bank Management
+
+
+           Learning Objectives
+           After reading this chapter, you should be able to:
+             LO1      Describe a commercial bank’s assets and liabilities.
+
+             LO2      Define bank capital and key measures of bank profits and returns.
+
+             LO3      Identify the types and sources of bank risk and explain how to control them.
+
+
+          Banks are the most visible financial intermediaries in the economy. Most of us use the
+          word bank to describe what people in the financial world call depository institutions.
+          These are the financial institutions that accept deposits from savers and make loans to
+          borrowers. What distinguishes depository institutions from nondepository ­institutions is
+          their primary source of funds—that is, the liability side of their balance sheets. Deposi-
+          tory institutions include commercial banks, savings and loans, and credit unions—the
+          financial intermediaries most of us encounter in the course of our day-to-day lives.
+              Banking is a business. Actually, it’s a combination of businesses designed to ­deliver
+          the services discussed in Chapter 11. One business provides the accounting and
+          record-keeping services that track the balances in your accounts. Another grants you
+          access to the payments system, allowing you to convert your account balances into cash
+          or transfer them to someone else. Yet a third business pools the savings of many small
+          ­depositors and uses them to make large loans to trustworthy borrowers. A fourth business
+           offers customers diversification services, buying and selling financial instruments in the
+           financial markets in an effort to make a profit. Banks trade in the financial markets not
+           just as a service to their customers but in an effort to earn a profit for their owners as well.
+              The intent of banks, of course, is to profit from each of these lines of business. Our
+           objective in this chapter is to see how they do it. Not all banks make a profit. While some
+           banks are extremely large, with hundreds of billions of dollars in loans and ­securities on
+           their balance sheets, their access to funds is no guarantee of profitability. The risk that
+           banks may fail is a problem not just for their owners and managers but for the rest of us,
+           too. In the years from 2009 to 2018, more than 500 U.S. banks failed outright, while
+           nearly 2,000 merged, reflecting the most severe financial crisis since the 1930s.
+              We have emphasized repeatedly that financial and economic development go hand
+           in hand. An economy that lacks the financial institutions to effectively channel
+           resources from savers to investors is much less likely to thrive. This statement applies
+
+                                                        294
+
+
+===== PDF 330 | 印刷页 295 =====
+
+                                                                    The Balance Sheet of Commercial Banks   l   295
+
+
+
+regardless of whether a country is rich or poor. The United States and Japan provide a
+striking example. By virtually any standard, both countries are well off. Yet during the
+1990s, U.S. banks made substantial profits, while Japanese banks suffered prodigious
+losses. At the same time, Japan’s economy grew at a rate of just over 1 percent, while
+the U.S. economy grew at a rate well over 3 percent. The financial problems of
+­Japanese banks played an important role in Japan’s poor economic performance.
+ Banks are important; when they are poorly managed, we all suffer. Similarly, the
+ ­damage to U.S. banks in the crisis of 2007–2009 helped make the U.S. recovery that
+  began in 2009 the weakest since the Great Depression.
+     In this chapter, we will examine the business of banking. We will see where depos-
+  itory institutions get their funds and what they do with them. That is, we will study the
+  sources of banks’ liabilities and learn how they manage their assets. And because
+  banking is a risky business, we will examine the sources of risk that bankers face, as
+  well as how those risks can be managed.
+
+
+The Balance Sheet of Commercial Banks
+To focus our discussion of depository institutions, we will concentrate on what are
+called commercial banks. These institutions were established to provide banking ser-
+vices to businesses, allowing them to deposit funds safely and borrow them when
+necessary. Today, many commercial banks offer accounts and loans to individuals as
+well. To understand the business of commercial banking, we’ll start by examining the
+commercial bank’s balance sheet. Recall that a balance sheet is a list of a household’s
+or firm’s assets and liabilities: the sources of its funds (liabilities) and the uses to
+which those funds are put (assets). A bank’s balance sheet says that
+              Total bank assets = Total bank liabilities + Bank capital             (1)
+   Banks obtain their funds from individual depositors and businesses, as well as by
+borrowing from other financial institutions and through the financial markets. They
+use these funds to make loans, purchase marketable securities, and hold cash. The
+difference between a bank’s assets and liabilities is the bank’s capital, or net worth—
+the value of the bank to its owners. The bank’s profits come both from service fees and
+from the difference between what the bank pays for its liabilities and the return it
+receives on its assets (a topic we’ll return to later).
+   Table 12.1 shows a consolidated balance sheet for all the commercial banks in the
+United States in December 2018. It reports the sum of all the items on all the balance
+sheets of the more than 4,700 commercial banks that existed in the United States at the
+time. The government collects these statistics in the course of supervising and regulat-
+ing the financial system, to ensure bank safety and soundness. The numbers in the
+table are also related to the measures of money discussed in Chapter 2. Recall that the
+monetary aggregate M2 includes deposits, which are liabilities of the banking system.
+
+Assets: Uses of Funds
+Let’s start with the asset side of the balance sheet—what banks do with the funds they
+raise. Table 12.1 shows that assets are divided into four broad categories: cash, securi-
+ties, loans, and all other assets. More than 20 percent of assets, or $3.5 trillion, is held
+in the form of securities; 56 percent ($9.6 trillion) in the form of loans; and the remain-
+ing 23 percent in the form of cash and “Other assets.” The last category includes mostly
+
+
+===== PDF 331 | 印刷页 296 =====
+
+296 l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+
+                          Table 12.1            Balance Sheet of U.S. Commercial Banks, December 2018
+
+
+                            Assets in billions of dollars (numbers with % sign are percentages of total assets)
+
+                            Cash items                                                                                        1,950         11.5%
+                            Securities*                                                                                       3,499         20.6%
+                               U.S. government and agency                                          2,672        15.7%
+                               Other securities                                                      827          4.9%
+                            Loans                                                                                             9,578         56.3%
+                               Commercial and industrial                                           2,314        13.6%
+                               Real estate (including mortgage)                                    4,413        25.9%
+                               Consumer                                                            1,494          8.8%
+                               Interbank                                                               15         0.1%
+                               Other (including loss allowance)                                    1,342          7.9%
+                            Other assets (including trade allowance)                                                          1,994         11.7%
+                            Total Commercial Bank Assets                                                                    17,021
+
+                            Liabilities in billions of dollars (numbers with % sign are percentages of total liabilities)
+
+                            Deposits                                                                                        12,425          82.3%
+                               Large time deposits                                                 1,699        11.3%
+                            Borrowings                                                                                        1,945         12.9%
+                            Other liabilities                                                                                    730          4.8%
+                            Total Commercial Bank Liabilities                                                               15,100
+
+                            Bank Capital = Bank Assets – Bank Liabilities                                                     1,921         11.3%
+
+
+                      *Securities include mortgage-backed securities worth $1,876 billion, equivalent to 11.0% of assets.
+
+                      SOURCE: Data are for the end of 2018, seasonally adjusted, from Board of Governors of the Federal Reserve System statistical release
+                      H.8. “Assets and Liabilities of Commercial Banks in the United States,” available at www.federalreserve.gov/releases/h8/current.
+
+
+
+                      buildings and equipment, as well as collateral repossessed from borrowers who
+                      defaulted. In looking at consolidated figures like the ones in Table 12.1, we can get
+                      some sense of their scale by comparing them to nominal GDP. In the fourth quarter of
+                      2018, U.S. nominal GDP was $20.9 trillion, so total bank assets were equivalent to
+                      more than 80 percent of one year’s GDP.
+
+                      Cash Items         Cash assets are of three types. The first and most important is
+                      r­ eserves. Banks hold reserves because regulations require it and because prudent busi-
+                       ness practice dictates it. Reserves include the cash in the bank’s vault (and the cur-
+                       rency in its ATMs), called vault cash, as well as the bank’s deposits at the Federal
+                       ­Reserve System. Cash is the most liquid of the bank’s assets; the bank holds it to meet
+                        customers’ withdrawal requests.
+                           Cash items also include what are called cash items in process of collection. When
+                        you deposit your paycheck into your checking account, several days may pass before
+                        your bank can collect the funds from your employer’s bank. In the meantime, the
+                        uncollected funds are considered your bank’s asset because the bank is expecting to
+                        receive them.
+
+
+===== PDF 332 | 印刷页 297 =====
+
+                                                                                           The Balance Sheet of Commercial Banks l                     297
+
+
+
+
+    Figure 12.1                      U.S. Commercial Bank Assets, 1979–2019
+
+
+                               35%
+                               30%
+         Percentage of Total
+
+
+
+                               25%
+                               20%
+                               15%
+                               10%
+                               5%
+                               0%
+                                79
+                                     81
+                                        83
+                                              85
+                                                87
+                                                     89
+                                                         91
+                                                             93
+                                                                  95
+                                                                        97
+                                                                              99
+                                                                                    01
+                                                                                          03
+                                                                                                05
+                                                                                                      07
+                                                                                                            09
+                                                                                                                  11
+                                                                                                                        13
+                                                                                                                              15
+                                                                                                                                    17
+                                                                                                                                          19
+                               19
+                                  19
+                                      19
+                                          19
+                                               19
+                                                   19
+                                                       19
+                                                           19
+                                                                 19
+                                                                     19
+                                                                           19
+                                                                                 20
+                                                                                       20
+                                                                                             20
+                                                                                                   20
+                                                                                                         20
+                                                                                                               20
+                                                                                                                     20
+                                                                                                                           20
+                                                                                                                                 20
+                                                                                                                                       20
+                                 Securities        Real Estate          Consumer Loans                     C&I Loans                  Cash
+
+SOURCE: Monthly data, seasonally adjusted from “Assets and Liabilities of Commercial Banks in the United States,” Board of Governors of the Federal Reserve
+System Statistical Release H.8. (FRED data codes: INVEST, REALLN, CONSUMER, BUSLOANS, CASACBM027SBOG, and TLAACBM027SBOG).
+
+
+
+   Finally, cash includes the balances of the accounts that banks hold at other banks. In
+the same way that individuals have checking accounts at the local bank, small banks
+have deposit accounts at large banks, and those accounts are classified as cash. Over
+the years, the practice of holding such accounts has declined, so the total quantity of
+these correspondent bank deposits has shrunk.
+   In December 2018, banks held more than 11 percent of their assets in cash (see
+Table 12.1). Up to the financial crisis of 2007–2009, that share was much smaller (in
+early 2007, it was about 3 percent; see Figure 12.1). Banks usually try to minimize their
+cash holdings because they typically earn less interest than loans or securities. However,
+the crisis forced them to change their strategy: A heightened possibility of bank runs,
+credit line takedowns, and borrower defaults prompted them to scramble for liquidity,
+and as market interest rates fell and the Federal Reserve began to pay interest on
+reserves, the opportunity cost of holding cash plummeted.
+
+Securities     The second-largest component of bank assets is marketable securities.
+While banks in many countries can hold stock, U.S. banks cannot, so this category of
+assets includes only bonds. Banks’ bond holdings are split between U.S. government
+and agency securities, which account for 15.7 percent of their assets, and other securi-
+ties (including state and local government bonds), which account for an additional
+4.9 percent.1 Note that more than half of all the securities are mortgage-backed
+(11.0 percent of assets). ­Nevertheless, a sizable proportion of the securities held by
+banks are very liquid. They can be sold quickly if the bank needs cash, which makes
+
+1
+ While there is nothing to prevent banks from holding corporate bonds, regulatory rules make the practice
+expensive. In Chapter 14, we will learn that banks are required to hold capital based on the composition of their
+balance sheets. The amount of capital required to extend a loan to a corporation is the same as the amount
+required to purchase a corporate bond. But because interest rates banks can charge on loans are generally higher
+than interest rates on corporate bonds, there is no price incentive to purchase a bond.
+
+
+===== PDF 333 | 印刷页 298 =====
+
+298 l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+                      them a good backup for the bank’s cash balances. For this reason securities are some-
+                      times referred to as secondary reserves.
+                          Figure 12.1 shows the trends in the composition of bank assets over the past four
+                      decades. Focusing on the line representing securities, we can see that the share of
+                      ­securities in bank assets has varied around 20 percent throughout the period.
+
+                      Loans        Loans are the primary asset of modern commercial banks, accounting for
+                      well over one-half of assets. We can divide loans into five broad categories: business
+                      loans, called commercial and industrial (C&I) loans; real estate loans, including both
+                      home and commercial mortgages as well as home equity loans; consumer loans, like
+                      auto loans and credit card loans; interbank loans (loans made from one bank to
+                      another); and other types, including loans for the purchase of other securities. These
+                      types of loans vary considerably in their liquidity. Some, like home mortgages and
+                      auto loans, usually can be s­ecuritized and resold. (We discussed this process in
+                      ­Chapter 3, in connection with asset-backed securities.) Others, like small business
+                       loans, may be very difficult to resell.
+                          The primary difference among various kinds of depository institutions is in the
+                       composition of their loan portfolios. Commercial banks make loans primarily to busi-
+                       nesses; savings and loans provide mortgages to individuals; credit unions specialize in
+                       consumer loans. See the Tools of the Trade box on page 302 for a more detailed
+                       description of the various types of depository institutions.
+                          Figure 12.1 shows that, prior to the crisis of 2007–2009, commercial banks became
+                       more and more involved in the real estate business. Their involvement grew for a number
+                       of reasons. First, the rise of the commercial paper market made securities market debt
+                       finance more convenient for large firms, which reduced the quantity of commercial and
+                       industrial loans demanded. (Commercial paper is described in Chapter 7.) Second, the
+                       creation of mortgage-backed securities (MBS) meant that banks could sell the mortgage
+                       loans they had made. This innovation reduced the risk associated with an illiquid asset,
+                       encouraging banks to move into the business of home lending. So, on top of making more
+                       real estate loans, banks also acquired MBS, which recently accounted for more then half
+                       of securities held (see Table 12.1). Since the crisis, however, banks appear to have
+                       reduced their overall real estate exposure, underscoring the critical role that housing
+                       prices and MBS played in the 2007–2009 episode (see Lessons from the Crisis: Informa-
+                       tion Asymmetry and Securitization in Chapter 11, page 280).
+
+                      Liabilities: Sources of Funds
+                      To finance their operations, banks need funds. They get them from savers and from
+                      ­borrowing in the financial markets. To entice individuals and businesses to place their
+                       funds in the bank, institutions offer a range of deposit accounts that provide safekeeping
+                       and ­accounting services, access to the payments system, liquidity, and diversification of
+                       risk (see Chapter 11), as well as interest payments on the balance. There are two types of
+                       deposit accounts, transaction and nontransaction accounts. Transaction accounts are
+                       known as checkable deposits. As of December 2018, checkable deposits totaled $2.12 tril-
+                       lion, or roughly 17 percent of total deposits in the commercial banking system.
+
+                      Checkable Deposits           “Demand deposits,” which allow a customer to withdraw
+                      funds without notice on a first-come, first-served basis, make up the largest component
+                      of checkable deposits. Banks also offer customers a variety of similar options that fall
+                      into the category of checking accounts, such as insured market rate accounts. A typical
+
+
+===== PDF 334 | 印刷页 299 =====
+
+                                                                                  The Balance Sheet of Commercial Banks l   299
+
+
+
+bank will offer half a dozen or more of these, each with slightly different characteris-
+tics. In addition to the names created by banks’ marketing departments, economists
+use various other terms in speaking of checkable deposits. For example, some econo-
+mists call them “sight deposits” because a depositor can show up to withdraw them
+when the bank is in sight.
+   Over the years, financial innovation has reduced the importance of checkable
+deposits in the day-to-day business of banking. As a share of total liabilities, checkable
+deposits plummeted from 40 percent in the 1970s to about 14 percent at the end of
+2018. The reason for their decline is that checking accounts pay little or no interest;
+they are a low-cost source of funds for banks but a low-return investment for deposi-
+tors. As interest rates rose through the 1970s and remained high into the 1990s, indi-
+viduals and businesses realized the benefits of reducing the balances in their checking
+accounts and began to look for ways to earn higher interest rates. Banks obliged by
+offering innovative accounts whose balances could be shifted automatically when the
+customers’ checking accounts ran low.2 Thus, traditional checking accounts are no
+longer the principal source of bank funds.
+
+Nontransaction Deposits In December 2018, nontransaction deposits,
+including savings and time deposits, accounted for more than half of all commer-
+cial bank liabilities. Savings deposits, commonly known as passbook savings
+accounts, were popular for many decades, though they are less so today. Time
+deposits are certificates of deposit (CDs) with a fixed maturity. When you place
+your savings in a CD at your local bank, it is as if you are buying a bond issued by
+that bank. But unlike government or corporate bonds, there isn’t much of a resale
+market for your small CD. So if you want to withdraw your funds before the CD
+matures, you must get them back from the bank. To discourage early withdrawals,
+banks charge a significant penalty.
+   Certificates of deposit come in two varieties: small and large. Small CDs are issued
+for $100,000 or less; large certificates of deposit exceed $100,000 in face value. Large
+CDs are negotiable, which means that they can be bought and sold in the financial
+markets, just like bonds and commercial paper. Investors in this wholesale money mar-
+ket include corporate treasurers and others with large cash balances to manage.
+Because large CDs can be resold, they have become an important source of bank
+financing. When a bank needs funds, it can issue large CDs, in addition to commercial
+paper and more conventional bonds.
+
+Borrowings         Borrowing is the second most important source of bank funds.
+­ igure 12.2 shows that borrowing grew increasingly important over the past four dec-
+F
+ades, until the financial crisis of 2007–2009 triggered greater bank caution. Today,
+borrowings account for about 13 percent of bank liabilities. Banks borrow in a number
+of ways. First, they can borrow from the Federal Reserve. We’ll have much more to say
+about such discount loans in Part IV (Chapters 15–19). For now, think of this source
+of funds as borrowing from the government.
+    More often, banks borrow from other intermediaries. For example, banks with
+excess reserves can lend their surplus funds to banks that need them through an
+interbank market called the federal funds market. Loans made in the federal funds
+
+2
+ This is also related to a practice called deposit sweeping, in which banks take checking account balances and
+put them into savings deposits, thereby reducing the level of reserves they are required to hold. Over recent
+decades, deposit sweeping has lowered required reserves even as the monetary aggregates have risen markedly.
+
+
+===== PDF 335 | 印刷页 300 =====
+
+300                      l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+
+   Figure 12.2                        U.S. Commercial Bank Liabilities, 1979–2019
+
+
+                         90%
+                         80%
+                         70%
+   Percentage of Total
+
+
+
+
+                         60%
+                         50%
+                         40%
+                         30%
+                         20%
+                         10%
+                           0%
+                           79
+                                81
+                                     83
+                                          85
+                                               87
+                                                    89
+                                                          91
+                                                               93
+                                                                    95
+                                                                         97
+                                                                                99
+                                                                                     01
+                                                                                            03
+                                                                                                  05
+                                                                                                         07
+                                                                                                                09
+                                                                                                                       11
+                                                                                                                             13
+                                                                                                                                    15
+                                                                                                                                          17
+                                                                                                                                                 19
+                          19
+                                19
+                                     19
+                                          19
+                                               19
+                                                    19
+                                                         19
+                                                              19
+                                                                   19
+                                                                        19
+                                                                             19
+                                                                                    20
+                                                                                         20
+                                                                                                20
+                                                                                                      20
+                                                                                                             20
+                                                                                                                    20
+                                                                                                                          20
+                                                                                                                                 20
+                                                                                                                                        20
+                                                                                                                                              20
+                                                                     Deposits                 Borrowing
+
+
+SOURCE: Monthly data, seasonally adjusted from “Assets and Liabilities of Commercial Banks in the United States,” Board of Governors of the Federal Reserve
+System Statistical Release H.8. (FRED data codes: DPSACBM027SBOG, BOWACBM027SBOG, and TLBACBM027SBOG.)
+
+
+
+                                           market are unsecured—they lack collateral—so the lending bank must trust the bor-
+                                           rowing bank. Look back at the balance sheet in Table 12.1; you will see interbank
+                                           loans listed as an asset. These uncollateralized loans have become very small, while
+                                           collateralized bank loans and borrowings have grown. The latter are included in
+                                           Table 12.1 in “Other assets” and “Other liabilities.” Some of these borrowings come
+                                           from foreign banks and from U.S. government-sponsored enterprises that hold
+                                           deposits at the Federal Reserve.
+                                              Finally, banks borrow using an instrument called a repurchase agreement, or
+                                           repo, a short-term collateralized loan in which a security is exchanged for cash, with
+                                           the agreement that the parties will reverse the transaction on a specific future date,
+                                           typically the next day. For example, a bank that has a U.S. Treasury bill might need
+                                           cash, while a pension fund might have cash that it doesn’t need overnight. Through a
+                                           repo, the bank would give the T-bill to the pension fund in exchange for cash, agreeing
+                                           to buy it back—repurchase it—with interest the next day. In short, the bank gets an
+                                           overnight loan and the pension fund gets some extra interest, along with the protection
+                                           provided by collateral. The details are shown in Figure 12.3.
+
+                                           Bank Capital and Profitability
+                                           Net worth equals assets minus liabilities, whether we are talking about an individual’s
+                                           net worth or a bank’s. In the case of banks, however, net worth is referred to as bank
+                                           capital, or equity capital. (Important tip: Do not confuse bank capital and cash
+                                           reserves. Capital appears on the liability side of the balance sheet, whereas reserves
+                                           are an asset.) If the bank’s owners sold all its assets (without taking a loss) and used
+
+
+===== PDF 336 | 印刷页 301 =====
+
+                                                                    The Balance Sheet of Commercial Banks   l   301
+
+
+
+
+  Figure 12.3      Mechanics of an Overnight Repurchase Agreement
+
+
+
+
+                                     Day One
+       Bank sells U.S. Treasury bill to pension fund in exchange for cash
+
+                       U.S. Treasury bill to pension fund
+
+         Bank                                                         Pension fund
+
+                                   Cash to bank
+
+
+                                     Day Two
+          Bank repurchases U.S. Treasury bill from the pension fund
+                      in exchange for cash plus interest
+                      U.S. Treasury bill returned to bank
+
+         Bank                                                         Pension fund
+
+                     Cash + Interest paid to pension fund
+
+
+
+
+the proceeds to repay all the liabilities, capital is what would be left. We can think of
+capital as the owners’ stake in the bank.
+   Capital is the cushion banks have against a sudden drop in the value of their
+assets or an unexpected withdrawal of liabilities. It provides some insurance against
+insolvency (the inability to repay debts when a firm’s liabilities exceed its assets).
+An important component of bank capital is loan loss reserves, an amount the bank
+sets aside to cover potential losses from defaulted loans. At some point a bank gives
+up hope that a loan will be repaid and the loan is written off, or erased from the
+bank’s balance sheet. At that point the loan loss reserve is reduced by the amount of
+the loan that has defaulted.
+   Looking once again at the balance sheet in Table 12.1 (page 296), we can see that
+in December of 2018, bank capital in the U.S. commercial banking system totaled
+$1.9 trillion. That $1.9 trillion of capital was combined with $15.1 trillion worth of
+liabilities to purchase $17.0 trillion in assets. So the ratio of debt to equity in the U.S.
+banking system was nearly 8 to 1. That’s a substantial amount of leverage, but it is
+nearly 25 percent below the average commercial bank debt-to-equity ratio that pre-
+vailed prior to the financial crisis of 2007–2009. As we saw in Chapter 3, Lessons
+from the Crisis: Leverage, the crisis compelled banks to reduce their leverage sharply.
+(Recall that the term leverage refers to the portion of an asset that is purchased using
+borrowed funds.)
+   To put this ratio of 8 to 1 into perspective, we can compare it to the average debt-to-
+equity ratio for nonfinancial businesses in the United States, which is less than 1 to 1.
+
+
+===== PDF 337 | 印刷页 302 =====
+
+302   l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+
+                       A Catalog of Depository Institutions
+                       TOOLS OF THE TRADE
+
+
+  While the financial landscape is constantly shifting, it is safe   Savings Institutions
+  to assume that depository institutions will be with us for         Savings institutions are financial intermediaries that were
+  some time. These are the financial intermediaries for whom         ­established to serve households and individuals. They pro-
+  deposits are the primary source of funds. There are three           vide both mortgage and lending services and a place for
+  basic types of depository institution: commercial banks, sav-       households to deposit their savings. There are two types of
+  ings institutions, and credit unions.                               savings institutions, S&Ls and savings banks.
+
+
+                                                                     Savings and Loan Institutions
+  Commercial Banks
+                                                                     Savings and loan institutions (S&Ls) were established in the
+  A commercial bank is an institution that accepts deposits          1800s to help factory workers become homeowners. They
+  and uses the proceeds to make consumer, commercial, and            accepted workers’ savings deposits and used the funds to
+  real estate loans. Originally established to meet the needs        make loans to homebuyers, most of whom were not served
+  of businesses, many of these banks now serve individual            by traditional banks. These institutions traditionally special-
+  customers as well. Commercial banks tend to specialize as          ized in taking short-term deposits and turning them into resi-
+  community, regional and super-regional, or money center            dential mortgages. The S&Ls that still exist today engage in a
+  banks. As a result of mergers during the crisis of 2007–           much broader range of financial activities.
+  2009, more than one-third of U.S. commercial bank depos-
+  its are in four institutions (ranked in order of deposits): Bank
+  of America, JPMorgan Chase, Wells Fargo, and Citigroup.            Savings Banks
+                                                                     Most savings banks are mutually owned. That is, the
+                                                                     depositors are also the legal owners. These institutions
+  Community Banks
+                                                                     specialize in residential mortgages that are funded by
+  Community banks are small banks—those with assets of less          deposits. They are permitted to exist only in certain states.
+  than $1 billion—that concentrate on serving consumers and          When the largest savings bank, Washington Mutual, failed
+  small businesses. These are the banks that take deposits           during the crisis of 2007–2009, JPMorgan Chase acquired
+  from people in the local area and lend them back to local          its deposits.
+  businesses and consumers. Of the roughly 5,400 commeri-
+  cial banks and savings institutions in the United States at the
+  end of 2018, more than 95 percent were community banks.            Credit Unions
+                                                                     Credit unions are nonprofit depository institutions that are
+                                                                     owned by people with a common bond—members of police
+  Regional and Super-Regional Banks                                  associations, union members, and university students and
+  Regional and super-regional banks are larger than commu-           employees. Credit unions specialize in making small con-
+  nity banks and much less local. Besides consumer and resi-         sumer loans. They originated in the 19th century to meet the
+  dential loans, these banks also make commercial and                needs of people who could not borrow from traditional lend-
+  industrial loans. Regional banks obtain their funds through        ers. Before credit unions existed, many ordinary people had
+  borrowing as well as from deposits. These banks can be very        nowhere to turn when they faced unexpected home repairs
+  large. When the largest regional bank, Wachovia, faced a           or medical emergencies.
+  bank run in 2008, it was taken over by Wells Fargo.
+
+
+  Money Center Banks                                                     Not all these depository institutions are likely to survive
+  A few large banks—only five or six—do not rely primarily on        the financial innovations and economic upheaval of the
+  deposit financing. These banks rely instead on borrowing for       coming decades. Commercial banks will likely remain with
+  their funding. They stand at the center of the wholesale           us, but savings institutions have already declined in impor-
+  money market, the market for short-term debt. Citigroup and        tance and are at risk of disappearing altogether due to
+  JPMorgan Chase are two examples. (Recall from Chapter 3            changes in the mortgage business. Whether credit unions
+  that money-market instruments are bonds with a maturity of         remain viable will depend on their continuing ability to ex-
+  less than 12 months.)                                              ploit their advantage in verifying members’ creditworthiness.
+
+
+===== PDF 338 | 印刷页 303 =====
+
+                                                                                 The Balance Sheet of Commercial Banks   l 303
+
+
+
+Household leverage is far lower, roughly 1/7 to 1.3 Recall from Tools of the Trade in
+Chapter 5 that leverage increases both risk and expected return. If you contribute half
+the purchase price of a house and borrow the other half, both your risk and your
+expected return double. If you contribute one-fifth of the purchase price and borrow
+the other four-fifths, your risk and expected return go up by a factor of 5. So if a bank
+borrows $8 for each $1 in capital, its risk and expected return increase a whopping
+9 times! Banking, it seems, is a very risky business. As we will see in Chapter 14, one
+of the explanations for the relatively high degree of leverage in banking is the exist-
+ence of government guarantees like deposit insurance, which allow banks to capture
+the benefits of risk taking without subjecting depositors to potential losses.
+   There are several basic measures of bank profitability. The first is called return on
+assets (ROA). Return on assets equals a bank’s net profit after taxes divided by the
+bank’s total assets:
+                                       Net profit after taxes
+	​                           ROA = _________________
+                                     ​   
+                                                            ​                      (2)​
+                                        Total bank assets
+   ROA is an important measure of how efficiently a particular bank uses its assets.
+By looking at the different units’ ROAs, for example, the manager of a large bank can
+also compare the performance of the bank’s various lines of business. But for the
+bank’s owners, return on assets is less important than the return on their own invest-
+ment, which is leveraged at an average ratio of nearly 9 to 1. (The leverage ratio equals
+total assets divided by bank capital. It also equals the debt-to-equity ratio plus 1.) The
+bank’s return to its owners is measured by the return on equity (ROE), which equals
+the bank’s net profit after taxes divided by the bank’s capital:
+          Net profit after taxes
+ ROE = _________________
+	​       
+       ​                     ​                                                                        (3)​
+              Bank capital
+   Not surprisingly, ROA and ROE are related to leverage. One measure of leverage is
+the ratio of bank assets to bank capital. Multiplying ROA by this ratio yields ROE:
+         Bank assets  ​ =   Net profit after taxes ___________
+ ROA × ​ ___________
+	​                        _________________
+                          ​                        ​ × ​  Bank assets  ​                              (4)
+         Bank capital          Total bank assets         Bank capital
+                              Net profit after taxes
+  		                    = _________________
+                            ​                    ​ = ROE​
+                                  Bank capital
+For a typical U.S. bank, prior to the financial crisis of 2007–2009, the return on
+­assets was about 1.3 percent, while the return on equity was 10 to 12 times that high.
+ For large banks, the return on equity tends to be higher than for small banks, which
+ suggests greater leverage, a riskier mix of assets, or the existence of significant econ-
+ omies of scale in banking. The poor performance of many large banks in the crisis,
+ combined with moderate returns in its aftermath, ­suggests that their precrisis higher
+ returns (compared to small banks) at least partly reflected more leverage or a riskier
+ asset mix. Nevertheless, research also points to sizable economies of scale for banks
+ with assets exceeding $100 billion.4
+
+3
+  You can arrive at these figures yourself by looking at the Financial Accounts of the United States, which is
+computed by the Board of Governors of the Federal Reserve (see its website). The appropriate tables are B.101
+for households and B.103 for nonfarm nonfinancial corporate business; both include assets, liabilities, and net
+worth for their parts of the U.S. economy.
+4
+  See John P. Hughes and Loretta Mester, “Who Said Large Banks Don’t Experience Scale Economies? Evidence
+from a Risk-Return-Driven Cost Function,” Journal of Financial Intermediation 22, no. 4 (October 2013),
+pp. 559–585.
+
+
+===== PDF 339 | 印刷页 304 =====
+
+304 l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+
+                       Shadow Banking in China
+                       APPLYING THE CONCEPT
+
+  By almost any measure, the residents of China save more                 As a result of rapid credit growth, the ratio of overall credit
+  than virtually any other population in the world. Yet, until re-   to GDP has soared since 2008 to more than 250 percent,
+  cently, they have had few attractive avenues for investing.        and nonfinancial corporations in China became the most in-
+      Until 2015, for example, regulation capped bank deposit        debted among those in countries for which we have accu-
+  rates at a level far below the growth rate of the economy.         rate data. Furthermore, a significant portion of the credit in
+  This was part of a strategy whereby the government—                China flowed through off-balance-sheet finance to LGFV real
+  through the large state-controlled banks—funneled an out-          estate projects that had uncertain prospects for repayment.
+  sized proportion of national savings to favored borrowers,         Experience teaches us that credit booms like this one are
+  typically state-owned enterprises (SOEs), at low interest          the fuel for financial crises.
+  rates. This is an example of financial repression.                      Fortunately, the Chinese government has considerable
+      Enter shadow banking. In 2008, as the global economy           wherewithal to steady the financial system even as many
+  tanked, China sought to boost domestic demand by relaxing          loans go bad. But over time, government bailouts undermine
+  the supply of credit. To fund the credit expansion, regulators     the discipline needed to make the financial system efficient.
+  allowed banks and others to offer new products that looked         Without the force of market discipline—including the trauma
+  a lot like short-term deposits but with much higher interest       of creditors bearing the losses from borrower failures—there
+  rates—often in excess of 10 percent. Hungry household in-          is little incentive to limit or even monitor risk taking.
+  vestors flocked to these products.                                      The challenge for China’s authorities is to keep the benefits
+      So, viewed in the most favorable light, the rise of            of shadow banking while containing the risks. The recent
+  shadow banking in China constituted backdoor financial             global crisis shows that this is difficult anywhere. For China, it
+  liberalization. However, the rapid expansion of shadow             may be especially so. Some of the country’s most stunning
+  banking occurred in a financial system plagued by poor in-         successes—including its rapid infrastructure development—­
+  centives. Neither lenders (the banks and other intermediar-        reflect the government’s virtually unrestrained use of authority. In
+  ies) nor borrowers (especially SOEs and local government           contrast, building a large and efficient financial system requires
+  financing vehicles—LGFVs) had much of an interest in con-          curbing that authority so that—consistent with Core Principle
+  trolling risk taking. This, plus the lack of clarity about who     4—markets determine prices and allocate resources. It remains
+  bears the risk of failure, fueled worries about financial in-      to be seen whether the Chinese government can exhibit the
+  stability in China.                                                ­restraint needed to reap the benefits markets have to offer.
+
+
+
+
+                              Before continuing, it is important to introduce one more measure of bank profitabil-
+                           ity: net interest income. This measure is related to the fact that banks pay interest on
+                           their liabilities, creating interest expenses, and receive interest on their assets, creating
+                           interest income. Deposits and bank borrowing create interest expenses; ­securities and
+                           loans generate interest income. The difference between the two is the bank’s net inter-
+                           est income.
+                              Net interest income can also be expressed as a percentage of total assets to yield
+                           a quantity called net interest margin. This is the bank’s interest rate spread,
+                           which is the (weighted) average difference between the interest rate received on
+                           assets and the interest rate paid for liabilities. A bank’s net interest margin is closely
+                           related to its return on assets. Just take the bank’s fee income minus its operating
+                           costs, divide by total assets, add the result to the net interest margin, and you get its
+                           ROA. Roughly equivalent to a manufacturer or retailer’s gross profits and gross
+                           profit margin, net interest income and net interest margin reveal a great deal about
+                           a bank’s business.
+                              Well-run banks have high net interest income and a high net interest margin. And
+                           because we would expect most of a bank’s loans to be repaid, net interest margin tells
+                           us not just current profitability but future profitability as well; it is a forward-looking
+
+
+===== PDF 340 | 印刷页 305 =====
+
+                                                                     The Balance Sheet of Commercial Banks   l   305
+
+
+
+measure. If a bank’s net interest margin is currently improving, its profitability is likely
+to improve in the future.
+
+Off-Balance-Sheet Activities
+A financial firm’s balance sheet provides only so much information. To generate fees,
+banks engage in numerous off-balance-sheet activities. Recall that banks exist to
+reduce transactions costs and information costs as well as to transfer risks. When they
+perform these services, bankers expect to be compensated. Yet many of these activities
+do not appear as either assets or liabilities on the bank’s balance sheet, even though
+they may represent an important part of a bank’s profits and may add significantly to
+the risks that a bank faces.
+   For example, banks often provide trusted customers with lines of credit, which are
+similar to the credit limits on credit cards. The firm pays the bank a fee in return for the
+ability to borrow whenever necessary. When the agreement is signed, the bank receives
+the payment and the firm receives a loan commitment. However, not until a loan has
+actually been made—until the firm has drawn down the credit line—does the transac-
+tion appear on the bank’s balance sheet.
+   In the meantime, the bank is compensated for reducing both transactions and infor-
+mation costs. Without the loan commitment, the firm would find credit difficult and
+potentially expensive to obtain on short notice (a transactions cost). And because the
+bank usually knows the firms to which it grants lines of credit, the cost of establishing
+their creditworthiness (an information cost) is negligible.
+   Letters of credit are another important off-balance-sheet item for banks. These let-
+ters guarantee that a customer of the bank will be able to make a promised payment.
+For example, a U.S. importer of television sets may need to reassure a Chinese exporter
+that the firm will be able to pay for the imported goods when they arrive. This cus-
+tomer might request that the bank send a commercial letter of credit to the Chinese
+exporter guaranteeing payment for the goods on receipt. By issuing the letter of credit,
+the bank substitutes its own guarantee for the U.S. importer’s credit risk, enabling the
+transaction to go forward. In return for taking this risk, the bank receives a fee.
+   A related form of the letter of credit is called a standby letter of credit. These letters,
+which are issued to firms and governments that wish to borrow in the financial markets, are
+a form of insurance. Commercial paper, even when it is issued by a large, well-known firm,
+must be backed by a standby letter of credit that promises the bank will repay the lender
+should the issuer default. What is true for large corporations is true for state and local gov-
+ernments as well: in most cases, they need a bank guarantee to issue debt. As with loan
+commitments, letters of credit expose the bank to risk in a way that is not readily apparent
+on the bank’s balance sheet.
+   Because off-balance-sheet activities create risk for financial institutions, they have
+come under increasing scrutiny in recent years. Recall the case of Long-Term Capital
+Management (LTCM), which we discussed in Chapter 9. While LTCM’s balance sheet
+carried assets worth over $100 billion when the firm got into trouble, the risky instru-
+ments that did not appear on its balance sheet—the $1.25 trillion in interest rate swaps—
+were what scared everyone. A similar problem arose in the financial crisis of 2007–2009,
+when the invisible, off-balance-sheet risks taken by some of the largest banks and other
+intermediaries added to doubts about their solvency (see Chapter 3, Lessons from the
+Crisis: Shadow Banks). By allowing for the transfer of risk, modern financial instruments
+enable individual institutions to concentrate risk in ways that are very difficult for outsid-
+ers to discern. When revealed, these hidden attributes can undermine financial stability.
+
+
+===== PDF 341 | 印刷页 306 =====
+
+306   l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+
+                        The Cost of Payday Loans
+                        YOUR FINANCIAL WORLD
+
+
+  If you drive through the streets of a U.S. city, you will eventu-   Bureau (CFPB) reports that more than 80 percent of payday
+  ally pass a store with a sign saying “Checks Cashed.” Or, if you    borrowers take out another loan within two weeks.* And
+  start looking for a loan on the Internet, you will quickly find a   15 percent of borrowers will roll over the original debt in a
+  slew of lenders who advertise things like “Bad Credit Okay.”        series of 10 loans or more. For a $500 loan, 10 renewals
+  These financial intermediaries lend to people who cannot            means the borrower will pay $825 in fees over a 22-week
+  ­borrow from mainstream financial institutions such as banks.       period and still owe the original $500!
+       The most common type of loan these stores and web-                 To the extent that payday loans allow people to obtain
+   sites offer is a payday loan. To get one, you need provide         short-term loans from legitimate financial intermediaries, they
+   only a very limited amount of information to identify yourself.    are a good thing. You will find testimonials on websites from
+   If you are doing this online, you will receive a deposit into      people who were clearly helped. But when payday loans
+   your bank account within a day or two and must agree to let        lead to a cycle of costly renewals, they can do substantial
+   the lender directly debit your account when the loan is due,       harm.
+   usually within two weeks. If you make the transaction in a             In response, governments regulate certain lending prac-
+   store, you walk out with the cash.                                 tices. At the federal level, the Military Lending Act caps lending
+       The catch is a huge fee, typically equal to 15 percent of      rates and rollovers on loans to U.S. service families. States im-
+   the loan’s principal. So if you borrow $500, you will have to      pose a variety of restrictions on the number of loans, the re-
+   repay a minimum of $575. In many cases, lenders are re-            newal limits and repayment requirements, as well as annual
+   quired to disclose the implied annual interest rate on these       interest rates. For a listing of the legal status of payday loans
+   loans. It can exceed 2,000 percent, which should give all          by state, see https://paydayloaninfo.org/state-information.
+   but the most desperate borrowers pause.
+       But the main problem with these loans is that they trap
+   some borrowers in a vicious cycle of new fees for repeated         *Consumer Financial Protection Bureau Office of Research,
+   loan renewals. A study by the Consumer Financial Protection        “CFPB Data Point: Payday Lending,” March 2014.
+
+
+
+
+                            Bank Risk: Where It Comes from
+                            and What to Do about It
+                            Banking is risky both because depository institutions are highly leveraged and because
+                            of what they do. The bank’s goal is to make a profit in each of its lines of business.
+                            Some of these are simply fee-for-service activities. For example, a financial institution
+                            might act as a broker, buying and selling stocks and bonds on a customer’s behalf and
+                            charging a fee in return. Banks also transform deposit liabilities into assets such as
+                            loans and securities. In the process, they pool savings, provide liquidity services, allow
+                            for diversification of risk, and capitalize on the advantages they have in producing
+                            information. All along, the goal is to pay less for the deposits the bank receives than
+                            for the loans it makes and the securities it buys. That is, the interest rate the bank pays
+                            to attract liabilities must be lower than the return it receives on assets.
+                                In the process of all these activities, the bank is exposed to a host of risks. They
+                            include the chance that depositors will suddenly withdraw their balances, that borrow-
+                            ers will not repay their loans, that interest rates will change, and that the bank’s secu-
+                            rities trading operation will do poorly. Each of these risks has a name: liquidity risk,
+                            credit risk, interest rate risk, and trading risk. To understand how these risks arise and
+                            what can be done about them, we will look at each in detail.
+
+
+===== PDF 342 | 印刷页 307 =====
+
+                                                   Bank Risk: Where It Comes from and What to Do about It l 307
+
+
+
+Liquidity Risk
+All financial institutions face the risk that their liabilities holders (depositors) will seek
+to cash in their claims. The holder of a checking account can always take cash out at an
+ATM or make a transfer to someone else via mobile phone or over the Internet. This
+risk of a sudden demand for liquid funds is called liquidity risk. Banks face liquidity
+risk on both sides of their balance sheets. Deposit withdrawal is a liability-side risk,
+but there is an asset-side risk as well. Recall from our discussion of off-balance-sheet
+activities that banks provide households and firms with lines of credit—promises to
+make loans on demand. When this type of loan commitment is claimed, or taken down,
+the bank must find the liquidity to cover it.
+   If the bank cannot meet customers’ requests for immediate funds, it runs the risk
+of failure. Even if a bank has a positive net worth, illiquidity can still drive it out of
+business. Who would put their funds in a bank that can’t always provide cash on
+demand? For this reason, bankers must manage liquidity risk with great care. Failure
+to do so in the crisis of 2007–2009 led to bank runs—such as the run on Wachovia in
+September 2008—and to the failures of numerous bank and nonbank intermediaries.
+   To fully understand liquidity risk and how banks manage it, let’s look at a simpli-
+fied balance sheet. Figure 12.4 shows a stripped-down version of the balance sheet of
+a hypothetical bank. Keep in mind that the two sides of a balance sheet must always
+balance. Any change in the level of assets must be mirrored by an equal change in the
+level of liabilities.
+   In Figure 12.4, bank liabilities are composed primarily of deposits, along with some
+borrowing and $20 million of bank capital. Liabilities total $150 million. The bank’s
+assets include $15 million in reserves. Banking regulations require that banks hold a
+portion of their assets either as vault cash or as deposits at the Fed. That portion is
+stated as a specific percentage of the bank’s deposits. If we assume that required
+reserves are 10 percent of deposits, then the $100 million in deposits shown on the
+balance sheet means that the bank is required to hold $10 million in reserves. The fact
+that the bank is holding $15 million in reserves means that it has $5 million in excess
+reserves.
+   To assess liquidity risk, we need to ask how the bank will handle a customer’s
+demand for funds. What happens if a corporate customer arrives at the bank and
+requests a withdrawal of $5 million? Because the bank has $5 million in excess
+reserves, it can honor the customer’s request immediately, without difficulty. Simi-
+larly, if the bank were forced suddenly to honor a $5 million loan commitment, it could
+do so by drawing down its reserves. In the past, this was a common way to manage
+
+
+
+  Figure 12.4       Balance Sheet of a Bank Holding $5 Million in Excess Reserves
+
+
+
+                  Assets                                           Liabilities
+
+    Reserves               $ 15 million           Deposits                       $100 million
+
+    Loans                  $100 million           Borrowed funds                 $ 30 million
+
+    Securities             $ 35 million           Bank capital                   $ 20 million
+
+
+===== PDF 343 | 印刷页 308 =====
+
+308   l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+
+                         Figure 12.5            Balance Sheet of a Bank Holding No Excess Reserves
+
+
+
+                                              Assets                                                    Liabilities
+
+                             Reserves                   $ 10 million                 Deposits                          $100 million
+
+                             Loans                      $100 million                 Borrowed funds                    $ 30 million
+
+                             Securities                 $ 40 million                 Bank capital                      $ 20 million
+
+
+
+
+                       liquidity risk; banks would simply hold sufficient excess reserves to accommodate
+                       customers’ withdrawals. This is a passive way to manage liquidity risk.
+                           The problem is, holding excess reserves is expensive, because it means forgoing the
+                       higher rate of interest that typically can be earned on loans or securities. Banks work
+                       hard to find other ways to manage the risk of sudden withdrawals and drawdowns of
+                       loan commitments. There are two other ways to manage the risk that customers will
+                       require cash: The bank can adjust its assets or its liabilities. To see how it’s done, let’s
+                       look at Figure 12.5. This bank has $10 million in reserves to back its $100 million in
+                       deposits, so it has no excess reserves. If a customer makes a $5 million withdrawal, the
+                       bank can’t simply deduct it from reserves. Instead, the bank will need to adjust another
+                       part of its balance sheet.5
+                           This bank has two choices in responding to the shortfall created by the $5 million
+                       withdrawal: It can adjust either its assets or its liabilities. On the asset side, the bank
+                       has several options. The quickest and easiest one is to sell a portion of its securities
+                       portfolio. Because some of them are almost surely U.S. Treasury securities, they can
+                       be sold quickly and easily at relatively low cost. The result of this action is shown in
+                       the top panel of Figure 12.6. Note that assets and liabilities are both $5 million lower
+                       than they were prior to the withdrawal (compare Figure 12.5). Banks that are particu-
+                       larly concerned about liquidity risk can structure their securities holdings to facilitate
+                       such sales.
+                           A second possibility is for the bank to sell some of its loans to another bank. This
+                       option is shown in the bottom panel of Figure 12.6. While not all loans can be sold,
+                       some can. Banks generally make sure that a portion of the loans they hold are market-
+                       able for just such purposes.
+                           Yet another way to handle the bank’s need for liquidity is to refuse to renew a cus-
+                       tomer loan that has come due. Corporate customers have short-term loans that are
+                       periodically renewed, so the bank always has the option of refusing to extend the loan
+                       again for another week, month, or year. But this course of action is not very appealing.
+                       Failing to renew a loan is guaranteed to alienate the customer and could well drive the
+                       customer to another bank. Recall from Chapter 11 that banks specialize in solving
+                       information problems by screening to find customers who are creditworthy and then
+                       monitoring them to ensure they repay their loans. The idea is to separate good
+                       ­customers from bad ones and develop long-term relationships with the good ones. The
+
+                       5
+                        If you’re thinking that the bank can finance part of the withdrawal from reserves, because the $5 million withdrawal
+                       will reduce required reserves by $500,000, you’re right. But that still leaves the bank $4.5 million short.
+
+
+===== PDF 344 | 印刷页 309 =====
+
+                                                              Bank Risk: Where It Comes from and What to Do about It l   309
+
+
+
+                        Balance Sheet of a Bank Following a $5 Million Withdrawal and Asset
+    Figure 12.6
+                        Adjustment
+
+
+    Withdrawal Is Met by Selling Securities
+
+                      Assets                                                   Liabilities
+
+      Reserves                  $ 10 million                Deposits                            $95 million
+
+      Loans                     $100 million                Borrowed funds                      $30 million
+
+      Securities                $ 35 million                Bank capital                        $20 million
+
+
+    Withdrawal Is Met by Reducing Loans
+
+                      Assets                                                   Liabilities
+
+      Reserves                  $10 million                 Deposits                            $95 million
+
+      Loans                     $95 million                 Borrowed funds                      $30 million
+
+      Securities                $40 million                 Bank capital                        $20 million
+
+
+
+
+last thing a bank wants to do is to refuse a loan to a creditworthy customer it has gone
+to some trouble and expense to find.
+   Moreover, bankers do not like to meet their deposit outflows by contracting the
+asset side of the balance sheet because doing so shrinks the size of the bank. And
+because banks make a profit by turning liabilities into assets, the smaller their balance
+sheets, the lower their profits. For this reason alone, today’s bankers prefer to use lia-
+bility management to address liquidity risk. That is, instead of selling assets in response
+to a deposit withdrawal, they find other sources of funds.
+   There are two ways for banks to obtain additional funds. First, they can borrow to
+meet the shortfall, either from the Federal Reserve or from another bank. The result of
+such an action is shown in the top panel of Figure 12.7. As you can see, while deposits
+have fallen by $5 million, borrowing has made up the difference.
+   A second way to adjust liabilities in response to a deposit outflow is to attract addi-
+tional deposits. The most common way to do so is to issue large-denomination CDs
+(with a value over $100,000), effectively borrowing in the wholesale money market.6 In
+the bottom panel of Figure 12.7, these nontransaction deposits are combined with check-
+ing accounts. As we saw earlier, large certificates of deposit have become an increasingly
+important source of funds for banks. Now we know why: It is because they allow banks
+to manage their liquidity risk without changing the asset side of their balance sheets.
+   In the crisis of 2007–2009, many of the usual mechanisms for managing liquidity
+risk failed. Banks could neither sell their illiquid assets nor obtain at a reasonable cost
+the funding needed to hold those assets. The sudden and unanticipated loss of both
+market and funding liquidity threatened the financial system as a whole.
+
+6
+ Unlike transactions deposits such as checking accounts, CDs are not subject to a reserve requirement. Thus, a
+change in the composition of a bank’s deposits affects the level of reserves it is required to hold and hence its
+balance sheet.
+
+
+===== PDF 345 | 印刷页 310 =====
+
+310   l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+                                           Balance Sheet of a Bank Following a $5 Million Withdrawal and Liability
+                         Figure 12.7
+                                           Adjustment
+
+
+                         Withdrawal Is Met by Borrowing
+
+                                          Assets                                          Liabilities
+
+                            Reserves               $ 10 million          Deposits                       $95 million
+
+                            Loans                  $100 million          Borrowed funds                 $35 million
+
+                            Securities             $ 40 million          Bank capital                   $20 million
+
+
+                         Withdrawal Is Met by Attracting Deposits
+
+                                          Assets                                          Liabilities
+
+                            Reserves               $ 10 million          Deposits                       $100 million
+
+                            Loans                  $100 million          Borrowed funds                 $ 30 million
+
+                            Securities             $ 40 million          Bank capital                   $ 20 million
+
+
+
+
+                       Credit Risk
+                       Banks profit from the difference between the interest rate they pay to depositors and
+                       the interest rate they receive from borrowers. That is, the return on their assets exceeds
+                       the cost of their liabilities. At least, that’s the idea. But to ensure that this profit-­making
+                       process works, for the bank to make a profit, borrowers must repay their loans. There
+                       is always some risk that they won’t. The risk that a bank’s loans will not be repaid is
+                       called credit risk. To manage their credit risk, banks use a variety of tools. The most
+                       basic are diversification, in which the bank makes a variety of different loans to spread
+                       the risk, and credit risk analysis, in which the bank examines the borrower’s credit
+                       history to determine the appropriate interest rate to charge.
+                           Diversification means spreading risk, which can be difficult for banks, especially
+                       those that focus on certain kinds of lending. Because banks specialize in information
+                       gathering, it is tempting to try to gain a competitive advantage in a narrow line of busi-
+                       ness. The problem is, if a bank lends in only one geographic area or only one industry,
+                       it exposes itself to economic downturns that are local or industry-specific. It is impor-
+                       tant that banks find a way to hedge such risks.
+                           Credit risk analysis produces information that is very similar to the bond rating
+                       systems discussed in Chapter 7. There we saw that rating agencies like Moody’s and
+                       Standard & Poor’s produce letter ratings for large corporations wishing to issue bonds.
+                       Banks do the same for small firms wishing to borrow, and specialized firms gather
+                       information about the credit history of individual borrowers (see Your Financial
+                       World: Your Credit Rating in Chapter 7, page 166). Credit risk analysis uses a combi-
+                       nation of statistical models and information that is specific to the loan applicant. The
+                       result is an assessment of the likelihood that a particular borrower will default. When
+                       the bank’s loan officers decide to make a loan, they use the customer’s credit rating to
+                       determine how high an interest rate to charge. To the interest rate they must pay on
+
+
+===== PDF 346 | 印刷页 311 =====
+
+                                                               Bank Risk: Where It Comes from and What to Do about It l 311
+
+
+
+their liabilities, they add a markup that will allow them to make a profit. The poorer a
+borrower’s credit rating, the higher the interest rate they will charge.7
+   In the crisis of 2007–2009, many banks seriously underestimated the risks associ-
+ated with mortgage and other household credit. They had not anticipated the first
+decline of nationwide housing prices since the Great Depression or the surge of unem-
+ployment to double-digit rates. As a consequence, they overestimated the value of the
+collateral. Rising defaults prompted large losses and impaired their capital, although
+not as much as crisis-driven trading losses on mortgage-backed and related securities
+(see pages 314–315).
+
+Interest Rate Risk
+Because banks are in the business of turning deposit liabilities into loan assets, the two
+sides of their balance sheet do not match up. One important difference is that a bank’s
+liabilities tend to be short term, while its assets tend to be long term. This mismatch
+between the maturities of the two sides of the balance sheet creates interest rate risk.
+    To understand the problem, think of both the bank’s assets and its liabilities as
+bonds. That is, the bank’s deposit liabilities are just like bonds, as are its loan assets.
+(The bank must have some capital as well.) We know that a change in interest rates
+will affect the value of a bond; when interest rates rise, the price of a bond falls. More
+important, the longer the term of the bond is, the greater the change in the bond’s
+price at any given change in the interest rate. (Refer back to Chapter 4 to refresh your
+memory.) Thus, when interest rates rise, banks face the risk that the value of their
+assets will fall more than the value of their liabilities (reducing the bank’s capital).
+Put another way, if a bank makes long-term loans, it receives payments from borrow-
+ers that do not vary with the interest rate. But its short-term liabilities—those with
+variable interest rates—­require the bank to make larger payments when interest rates
+rise. So rising interest rates reduce revenues relative to expenses, directly lowering
+the bank’s profits.
+    The best way to see this point is to focus on a bank’s revenue and expenses. Let’s
+start by dividing the bank’s assets and liabilities into two categories, those that are
+interest rate sensitive and those that are not. The term interest rate sensitive means
+ that a change in interest rates will change the revenue produced by an asset. Because
+ newly purchased short-term bonds always reflect a change in interest rates, short-term
+bonds that are constantly maturing and being replaced with new ones produce ­interest
+rate sensitive revenue. In contrast, when the bank purchases long-term bonds, it
+receives a fixed stream of revenue. Purchasing a 5 percent, 10-year bond means
+­getting $5 per $100 of face value for 10 years, regardless of what happens to inter-
+ est rates in the meantime. So the revenue stream from a long-term bond is not i­ nterest
+ rate sensitive.
+    Suppose that 20 percent of a bank’s assets fall into the first category, those that are
+ sensitive to changes in the interest rate. Another 80 percent fall into the second category,
+ those that are not sensitive to changes in the interest rate. If the interest rate has been stable
+ at 5 percent for some time, then for each $100 in assets, the bank receives $5 in interest.
+    The bank’s liabilities tend to have a different structure. Let’s assume that half the
+ bank’s deposits are interest rate sensitive and half are not. In other words, half the
+
+7
+ Banks can also manage their credit risk by purchasing credit default swaps (CDS), a type of derivative that
+allows lenders to insure themselves against the chance that a borrower will default. For a discussion of CDS,
+see pages 232–233 of Chapter 9.
+
+
+===== PDF 347 | 印刷页 312 =====
+
+312     l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+
+                            Insufficient Bank Capital
+                            LESSONS FROM THE CRISIS
+
+      The financial crisis of 2007–2009 and the recession that it           banks to adjust the recorded value of the assets on their
+      triggered led to projected losses on U.S. bank assets of              balance sheets when the market value of those assets
+      nearly $1 trillion.* For comparison, the total capital of U.S. de-    changes. When the market price rises, the value of the as-
+      positories before the crisis began was about $1.3 trillion. Had       sets is “written up.” When the price falls, the value is “writ-
+      the U.S. government not provided massive support to the               ten down.” Because bank capital is the difference
+      banking system, many banks probably would have become                 between assets and liabilities, writedowns reduce a
+      insolvent—unable to repay their debts because their liabili-          bank’s capital.
+      ties would have exceeded their assets.                                    Why didn’t banks hold a larger capital cushion against
+          What is bank capital? Why do banks hold it? Through               market and other risks? The answer is that capital is costly.
+      what mechanism did the crisis erode capital?                          Financial institutions must pay for capital, compensating the
+          A bank’s capital is its net worth—the difference between          investors that provide it with dividends and the like.
+      the value of its assets and the value of its liabilities. The capi-       To boost profits, intermediaries try to reduce costs, in-
+      tal a bank holds cushions it against many risks, including de-        cluding the amount of capital they require. They also may
+      clines in the market value of assets—so-called market risk.           take more risk by increasing leverage. The more lever-
+      The larger a bank’s capital cushion, the less likely that it will     age, the greater the possible reward for each unit of
+      be made insolvent by an adverse surprise.                             costly capital—and the greater the risk. Highly lever-
+          In the financial crisis, U.S. bank capital was insufficient to    aged firms are vulnerable even to modest declines in mar-
+      cushion against the market risks that surfaced. Put another           ket prices. When a financial institution is leveraged 30
+      way, banks were too leveraged: They had too many assets for           times—as some were before the crisis—a drop in asset
+      each unit of capital, making them vulnerable to market risk.          prices of as little as 3 percent can wipe out the capital
+          How did declines in the market value of assets arise in           cushion and lead to bankruptcy. Yet, even some top-rated
+      the crisis? The process began in 2007 when surging mort-              mortgage securities plunged in price by one-third, threat-
+      gage defaults depressed the value of many ­mortgage-backed            ening widespread insolvency among the institutions that
+      securities. U.S. banks were sensitive to such declines be-            held them.
+      cause they held more than $4 trillion in mortgages.
+          Even when borrowers make timely interest payments,
+      mortgages and the securities backed by them can pose                  *See the projection in the IMF Global Financial Stability Report,
+      market risk. Mark-to-market accounting rules require                  April 2009, Table 1.15.
+
+
+
+
+                                bank’s liabilities are deposits that earn variable interest rates, so the costs associated
+                                with them move with the market rate. Interest-bearing checking accounts fall into this
+                                category. The remainder of the bank’s liabilities are time deposits such as certificates
+                                of deposit, which have fixed interest rates. The payment a bank makes to the holder of
+                                an existing CD does not change with the interest rate.
+                                   For the bank to make a profit, the interest rate on its liabilities must be lower than
+                                the interest rate on its assets. The difference between the two rates is the bank’s net
+                                interest margin. Assuming that the interest rate on its liabilities has been 3 percent, the
+                                bank has been paying out $3 per $100 in liabilities. Because the bank is receiving
+                                5 percent interest on its assets, its net interest margin is 2 percent (5 minus 3). This
+                                margin is the bank’s profit.
+                                   Now look at what happens if interest rates rise 1 percent for interest-sensitive
+                                assets and liabilities. For each $100 in assets, the bank’s revenue goes up from (0.05 ×
+                                $100) = $5 to [(0.05 × $80) + (0.06 × $20)] = $5.20. But the cost of its liabilities
+                                goes up too, from (0.03 × $100) = $3 to [(0.03 × $50) + (0.04 × $50)] = $3.50. So a
+                                one-­percentage point rise in the interest rate reduces the bank’s profit from
+                                ($5 − $3) = $2 per $100 in assets to ($5.20 − $3.50) = $1.70, a decline of $0.30, or
+
+
+===== PDF 348 | 印刷页 313 =====
+
+                                                                Bank Risk: Where It Comes from and What to Do about It l                 313
+
+
+
+15 percent. This example illustrates a general principle: When a bank’s liabilities are
+more interest rate sensitive than its assets are, an increase in interest rates will cut into
+the bank’s profits.
+   The first step in managing interest rate risk is to determine how sensitive the
+bank’s balance sheet is to a change in interest rates. Managers must compute an
+estimate of the change in the bank’s profit for each one-percentage point change in
+the interest rate. This procedure is called gap analysis, because it highlights the gap,
+or difference, between the yield on interest rate sensitive assets and the yield on
+interest rate sensitive liabilities. In our example, the asset-liability gap is (20 percent
+− 50 percent) = −30. Multiplying this gap times the projected change in the interest
+rate yields the change in the bank’s profit. A gap of −30 tells us that a one-­percentage
+point increase in the interest rate will reduce the bank’s profit by 30 cents per
+$100 in assets, which is the same answer we got in the last paragraph. Gap analysis
+can be refined to take account of differences in the maturity of assets and liabilities,
+but the analysis quickly becomes complicated.8 Table 12.2 summarizes all of these
+calculations.
+
+
+    Table 12.2          An Example of Interest Rate Risk
+
+
+    The impact of an interest rate increase on bank profits (per $100 of assets)
+
+
+                                                                   Assets                                         Liabilities
+
+      Interest rate sensitive                                       $20                                                $50
+
+      Not interest rate sensitive                                   $80                                                $50
+
+      Initial interest rate                                          5%                                              3%
+
+      New interest rate on interest rate
+                                                                     6%                                              4%
+      sensitive assets and liabilities
+
+                                                           Revenue from Assets                               Cost of Liabilities
+
+      At initial interest rate                     (0.05 × $20) + (0.05 × $80) = $5.00             (0.03 × $50) + (0.03 × $50) = $3.00
+
+      After interest rate change                   (0.06 × $20) + (0.05 × $80) = $5.20             (0.04 × $50) + (0.03 × $50) = $3.50
+
+      Profits at initial interest rate: ($5.00) − ($3.00) = $2.00 per $100 in assets
+
+      Profits after interest rate change: ($5.20) − ($3.50) = $1.70 per $100 in assets
+
+      Gap Analysis
+      Gap between interest rate sensitive assets and interest rate sensitive liabilities:
+      (Interest rate sensitive assets of $20) − (Interest rate sensitive liabilities of $50) = (Gap of −$30)
+
+
+
+
+8
+ A more sophisticated examination of interest rate risk, called duration analysis, includes a measure of the
+interest rate sensitivity of bond prices. A bond’s duration is related to its maturity. The percentage change in the
+market value = −(Duration of the bond) × (Percentage-point change in the interest rate). Bankers compute the
+weighted-average duration of their liabilities and subtract it from the weighted-average duration of their assets to
+get a duration gap, which can be used to guide the bank’s risk management strategy. For a complete treatment,
+see Chapter 9 in Anthony Saunders and Marcia Millon Cornett, Financial Institutions Management: A Modern
+Perspective, 9th ed. (New York: McGraw-Hill, 2018).
+
+
+===== PDF 349 | 印刷页 314 =====
+
+314   l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+                            Bank managers can use a number of tools to manage interest rate risk. The simplest
+                       approach is to match the i­nterest rate sensitivity of assets with the interest rate
+                       ­sensitivity of liabilities. For instance, if the bank accepts a variable-rate deposit, it then
+                        uses the funds to purchase short-term securities. A similar strategy is to make long-
+                        term loans at a floating interest rate—as in adjustable-rate mortgages (ARMs)—­
+                        instead of at the fixed interest rate characteristic of a conventional mortgage. But while
+                        this approach reduces interest rate risk, it increases credit risk. Rising i­ nterest rates put
+                        additional strain on floating-rate borrowers, increasing the likelihood that they will
+                        default on their payments.
+                            While restructuring assets to better match liabilities can reduce risk, the fact that
+                        it also reduces potential profitability has led bankers to look for other ways to con-
+                        trol interest rate risk. Alternatives include the use of derivatives, specifically ­interest
+                        rate swaps, to manage interest rate risk. Recall from Chapter 9 that an ­interest rate
+                        swap is an agreement in which one party promises to make fixed-­interest rate pay-
+                        ments in ­exchange for floating-interest-rate payments. For a bank that is holding
+                        long-term assets and short-term liabilities, an interest rate swap is exactly the sort
+                        of financial instrument that will transfer the risk of rising interest rates to
+                        another party.
+
+
+                       Trading Risk
+                       There was a time when banks merely took deposits and made loans, holding them until
+                       they were completely paid off. Today, banks not only engage in sophisticated asset and
+                       liability management but they hire traders to actively buy and sell securities, loans, and
+                       derivatives using a portion of the bank’s capital, in the hope of making additional prof-
+                       its for the bank’s owners. But trading financial instruments is risky. If the price at
+                       which an instrument is purchased differs from the price at which it is sold, the risk is
+                       that the instrument may go down in value rather than up. This type of risk is called
+                       trading risk, or sometimes market risk.9
+                           Managing trading risk is a major concern for today’s banks. Some of the largest
+                       banks in the world have sustained billions of dollars in losses as a result of unsu-
+                       pervised risk taking by employees in their trading operations. The problem is that
+                       traders normally share in the profits from good investments, but the bank pays for
+                       the losses. Heads, the trader wins; tails, the bank loses. This arrangement creates
+                       moral hazard: Traders have an incentive to take more risk than bank managers
+                       would like.
+                           The solution to the moral hazard problem in trading is to compute the risk the port-
+                       folios traders generate using measures like standard deviation and value at risk (see
+                       Chapter 5). The bank’s risk manager then limits the amount of risk any individual
+                       trader is allowed to assume and monitors each trader’s holdings closely, at least once a
+                       day. Yet, large banks find it difficult to monitor their traders (and the managers who
+                       are supposed to be the monitors). As a result, multi-billion-dollar losses due to trading
+                       risk are surprisingly frequent at large banks—even those that are well managed. The
+                       higher the risk inherent in the bank’s portfolio, the more capital the bank will need to
+                       hold to make sure the institution remains solvent.
+
+
+                       9
+                        Because regulators in the United States won’t allow banks to hold stock (equity), the traders employed by the
+                       bank can’t, either. But because the traders buy and sell derivatives that are based on bonds, commodities, and
+                       foreign exchange, the rule against stock ownership doesn’t restrict their ability to take risks.
+
+
+===== PDF 350 | 印刷页 315 =====
+
+                                                          Bank Risk: Where It Comes from and What to Do about It l 315
+
+
+
+
+                       The Cloudy Future of Peer-to-Peer Lending
+                       MONEY AND BANKING BLOG
+
+
+  Peer-to-peer (P2P) lending started in the mid-2000s with           c­ollateral—the car for an auto loan, the house for a
+  the founding of firms like Lending Club and Prosper. The            ­mortgage—to limit their exposure and contain moral hazard.
+  notion was that the lenders and borrowers could cut out the               Against this background, it seems natural that borrow-
+  ­intermediary—usually a bank—”disrupting” traditional                 ers who already have credit card debt are relatively com-
+   finance.                                                             mon on P2P sites. Credit card lending resembles P2P
+       Browsing through the loan listings on www.prosper.               lending in several ways. The lender faces important infor-
+   com—the second-largest P2P lender in the United States—              mation asymmetries, and the loan is uncollateralized. Card
+   you will see that Prosper rates potential borrowers, with            issuers can screen using credit histories and FICO scores,
+   those rated “A” having the greatest likelihood of repaying           set interest rates high enough to encourage healthy borrow-
+   their loans (and who therefore receive the lowest interest           ers to pay quickly, and set spending limits to control use—
+   rates). You will also find that, while some people are look-         all very much like the process for a P2P loan.
+   ing to finance home improvements or borrow to go on va-                  Consequently, the real question is whether P2P technol-
+   cation, many are trying to consolidate their debts to reduce         ogy for screening is as good as that of banks. Put differ-
+   their interest payments.                                             ently, are the relatively high returns over the past decade
+       Lending Club, the largest U.S. P2P lender, originated            indicative of long-term prospects? There are reasons to be-
+   more than $6 billion in loans in 2018, about three times the         lieve experience so far may not be a good guide for things
+   amount just five years earlier. Some borrowers may be get-           to come. Instead, the next time the unemployment rate
+   ting loans they would have difficulty getting from a bank.           starts to go up, default rates likely will rise, too. And when
+   And after adjusting for losses, investors appear to be reap-         that happens, P2P lending returns will likely plummet.
+   ing very favorable returns.                                              Indeed, this cyclical pattern is what we see with credit
+       Improving the lot of borrowers will be great if this             card loans, the type of debt that is closest to P2P lending
+   new lending channel works over time. But the key ques-               and for which we have a long history. For each one-
+   tion for its longevity is whether lenders will continue to           percentage-point rise in the unemployment rate, credit
+   get an attractive risk-adjusted return on their investment           card default rates climb by nearly a full percentage point.
+   over the long run. To do so, P2P lending systems will                    Overall, our guess is that if you have a good credit
+   have to match or beat the borrower-assessment technolo-              rating and are looking to reduce the burden of your exist-
+   gies that traditional banks use. Whether they can meet               ing debt payments, a P2P loan could be very attractive.
+   this challenge remains in doubt. Here’s why.                         But if you are looking to be a P2P lender, be especially
+       Perhaps the most critical function of financial intermedi-       cautious. Financial intermediaries have been around for a
+   aries is to address the information asymmetries in l­ ending—        long time, and there is tremendous competition in the
+   figuring out whether a borrower is willing and able to repay.        consumer lending business. If websites are to have a big
+   Determining that in advance is costly; and once a loan is            impact on lowering credit card financing costs, perhaps
+   made, it is difficult to confirm that the borrower is using the      they could better do so by directing borrowers to the
+   funds as intended. To overcome these adverse selection and          ­lowest-cost card providers—much like some mortgage
+   moral hazard problems, banks screen potential borrowers              lending sites do today.
+   and monitor them after a loan has been made.                             It would be nice if replacing the most competitive card
+       The difficulty of monitoring is the reason that banks tend       providers with a website would result in consistently
+   to employ a very fine screen when evaluating potential bor-          higher returns to investors and lower costs to borrowers,
+   rowers for direct loans. They favor borrowers with whom they         but the burden of proof will stay on the P2P lenders at least
+   have established relationships, and, when possible, obtain           through the next recession.
+
+
+
+   In the crisis of 2007–2009, some banks, especially large ones, sharply underesti-
+mated the risks associated with mortgage-backed securities and related derivatives. As
+market prices on these financial instruments plunged, losses on their large holdings of
+these instruments seriously depleted their bank capital and threatened insolvency (see
+Lessons from the Crisis: Insufficient Bank Capital on page 312).
+
+
+===== PDF 351 | 印刷页 316 =====
+
+316   l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+                       Cyber Risk and Other Operational Risks
+                       Natural and human-made disasters highlight another set of risks that banks face. Severe
+                       weather, such as Hurricane Sandy that flooded Manhattan in 2012 or Hurricane Irma that
+                       paralyzed the Gulf Coast of Florida in 2017, raises questions about the resilience of infra-
+                       structure. When terrorists attacked the World Trade Center on September 11, 2001, they
+                       destroyed critical financial systems threatening to shut down banks, ATMs, and credit
+                       card operations across the country.10 More recently, the extraordinary data breach at Equi-
+                       fax, affecting 143 million people, highlights the damage that hackers can wreck.
+                           These episodes emphasize the importance of operational risk, defined as the risk
+                       of loss resulting from inadequate or failed internal processes, people and systems.
+                       Addressing natural disasters is part of virtually every large firm’s business continuity
+                       plans. To limit disruptions, some firms create backup sites with duplicate infrastruc-
+                       ture that is physically distant from the primary site.
+                           Operational risk also includes cyber risk—the losses that arise when information
+                       technology systems fail or are compromised. This encompasses a variety of risks,
+                       some of which—like equipment failure—are increasingly addressed using “cloud
+                       computing” and other redundant systems. At the top of the list today, however, are the
+                       personal data breaches that are increasingly common, and especially likely to occur in
+                       financial services. From 2005 to 2018, the Privacy Rights Clearinghouse reports
+                       nearly 800 financial data breaches exposing 650 million records!
+                           It’s not difficult to imagine why the financial sector is both vulnerable and a target.
+                       Financial institutions, markets, and third-party vendors are especially reliant on infor-
+                       mation and communication technology to supply instantaneous on-demand services in
+                       large volumes at low cost. They have enormous client databases. They form an exten-
+                       sive network—domestically and globally—through the payments mechanism,
+                       exchanges, clearing and settlement systems, and the like. Cyberattackers can and do
+                       seek out the weakest links in these chains in order to achieve their goals—whether to
+                       steal property or, as may be the case with some hostile state actors, to destroy it and
+                       undermine confidence. And, it is no mystery why they target data related to finance.
+                       As bank robber Willie Sutton supposedly said, that’s where the money is.
+                           The burden of protecting electronic records and networks falls on individual firms.
+                       This creates a problem because of the potential for spillovers when data breaches
+                       occur: If key personal identifiers can be used fraudulently, the entire financial system
+                       may be at risk. Because firms cannot reap the full benefits of their data security invest-
+                       ments, they lack the incentive to ensure the socially optimal level of cybersecurity or
+                       cyber resilience (see Chapter 7 of the 2018 Economic Report of the President). Left on
+                       its own, the private market will underinvest. This means that there is a role for govern-
+                       ment—in cooperation with the private sector—in promoting cybersecurity.
+                           What should the government do? One key role is to encourage disclosure and infor-
+                       mation sharing. Firms have strong incentives—for legal and reputational reasons—to
+                       conceal cyberattacks that successfully exploit their vulnerabilities. As a result, it is
+                       widely believed that most events go unreported. The lack of reporting makes the
+                       ­financial system even more vulnerable. First, firms find it difficult to manage rapidly
+
+                        For a discussion of the problems that occurred in the U.S. financial system following the destruction of the
+                       10
+
+                       World Trade Center towers, see the Federal Reserve Bank of New York’s Economic Policy Review, November
+                       2002, special issue on the economic effects of September 11. Of particular note are Michael J. Fleming and
+                       Kenneth D. Garbade, “When the Back Office Moved to the Front Burner: Settlement Fails in the Treasury
+                       Market after September 11,” and James J. McAndrews and Simon Potter, “Liquidity Effects of the Event of
+                       September 11, 2001.”
+
+
+===== PDF 352 | 印刷页 317 =====
+
+                                                  Bank Risk: Where It Comes from and What to Do about It l   317
+
+
+
+changing threats if they do not know the different types of attack that may occur, let
+alone their probability. Second, concealment contributes to long lags in recognizing
+ongoing attacks, allowing them to spread across vulnerable firms. As a result, it is
+difficult or impossible to prevent contagion and reduce widespread damage. Third, the
+lack of a sufficient data history means that it is impossible to build actuarial models
+for pricing insurance against losses from cyberattack. Consequently, financial institu-
+tions likely are underinsured against cyber risk.
+   The good news is that widespread public attention to these threats—along with
+frequent, sizable losses—has prompted both firms and governments to promote cyber-
+safety. While spending is still relatively low—by one estimate financial institutions
+spent $16 billion on cybersecurity in 2017—amounts are growing. In the United
+States, firms also have formed associations (like Financial Services Information Shar-
+ing and Analysis Center [FS-ISAC]) to share insights and data, and to establish relia-
+ble safety procedures in the event of infrastructure failures. And, together with the
+private sector, financial regulators have developed a range of “tabletop exercises” in
+which authorities and bank managers come together to simulate an emergency, thereby
+identifying vulnerabilities before hackers do so.
+   The challenge will be to keep up with the malicious actors. Financial firms are in
+an arms race. To stay competitive, firms and regulators will need to anticipate and
+focus on prospective risks, rather than merely ensure compliance with rules that
+address past incidents. Most important, they will need to avoid the kind of “failure of
+imagination” that the 9/11 Commission cited as one of the key sources of U.S. vulner-
+ability to that attack. The rapid changes in both technology and the financial system
+bring not only new opportunities, but the possibility for previously unimagined
+catastrophes as well. If anything, the odds of disaster rise with the increased complex-
+ity and interconnectedness of finance.
+
+Other Risks
+Beyond liquidity, credit, interest rate, trading, cyber, and operational risk, banks face an
+assortment of other risks. A bank that operates internationally will face foreign exchange
+risk and sovereign risk. Foreign exchange risk comes from holding assets denominated
+in one currency and liabilities denominated in another. For example, a U.S. bank that
+holds dollar-denominated liabilities might purchase bonds issued by Sony Corporation
+or make a loan to a Japanese business. Both those assets would be denominated in yen.
+Thus, when the dollar–yen exchange rate moves, the dollar value of the bank’s assets
+will change. Banks manage their foreign exchange risk in two ways. They work to
+attract deposits that are denominated in the same currency as their loans, thereby match-
+ing their assets with their liabilities, and they use foreign exchange futures and swaps to
+hedge the risk. But both approaches can introduce other risks that need to be managed
+(see Chapter 10, Lessons from the Crisis: Currency Risk and Rollover Risk).
+    Sovereign risk arises from the fact that some foreign borrowers may not repay their
+loans, not because they are unwilling to, but because their government prohibits them
+from doing so. When a foreign country is experiencing a financial crisis, the govern-
+ment may decide to restrict dollar-denominated payments, in which case a U.S. bank
+would have difficulty collecting payments on its loans in the country. Such circum-
+stances have arisen on numerous occasions. Examples include Asia in 1997, Russia in
+1998, and Argentina in 2002. In all these cases governments and corporations alike had
+difficulty raising enough dollars to repay their dollar-denominated debts. In such crises,
+a bank has very little recourse in the courts and little hope of recovering the loans. In
+
+
+===== PDF 353 | 印刷页 318 =====
+
+318     l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+
+                             The Tri-Party Repo Market*
+                             APPLYING THE CONCEPT
+
+      Repurchase agreements (repos) are a key form of short-term               creditors to the repo borrowers. This intraday exposure to in-
+      finance for many intermediaries. For lenders, like the treasur-          dividual borrowers makes them vulnerable to counterparty
+      ers of corporations or municipalities, repo is a close substi-           and collateral risks. In a crisis, such concentrated exposures
+      tute for cash, making it a virtual component of the payments             can lead to fire sales and the paradox of leverage, in which
+      system. On the borrowing side, securities dealers use the                collateral sales depress asset prices and aggravate the loss of
+      repo market to fund their inventories of stocks and bonds,               capital in the financial system (see Chapter 3, Lessons from
+      giving it a critical role in the capital markets.                        the Crisis: Leverage).
+           Economists at the Bank for International Settlements (BIS)              Policymakers concerned about systemic fragilities have
+      estimate that the volume of outstanding repos approached                 promoted reforms in the tri-party repo market to synchronize
+      $5 trillion at the end of 2007, or nearly half the overall liabilities   the creation of new repo loans and the settlement of expiring
+      of the commercial banking system.† But in 2008, anxious repo             loans. Making these transactions simultaneous would reduce
+      lenders sought to avoid receiving illiquid or questionable collat-       the intraday lending exposure of the two clearing banks and
+      eral (such as mortgage-backed securities) as protection if repo          the overall fragility of the market. However, the reform process
+      borrowers failed to repay, so the repo lenders stopped lending           remained ongoing in 2013, partly because of the technical
+      and the repo market shriveled, aggravating the financial crisis.         challenges of allocating various types of collateral across mul-
+           Since the crisis, policymakers have focused on lingering            tiple repo contracts and counterparties in a speedy, cost-­
+      sources of fragility in the repo market. The peculiar mecha-             effective manner. By 2015, the Federal Reserve Bank of New
+      nism for clearing repo trades remains a key concern. A large             York estimated that intraday credit needs for tri-party repo had
+      share of repo transactions occurs in the “tri-party” market, in          plunged to 3 to 5 percent of volume, down from 100 percent
+      which a borrower and a lender each contract with a third                 as recently as 2012. However, there remained a risk of disor-
+      party (a bank) to transfer the collateral first from the borrower        derly fire sales of collateral from a defaulted dealer. Partly as a
+      to the lender and then back to the borrower when the repo                result, the repo market remains an important source of vulner-
+      unwinds.                                                                 ability in the U.S. ­financial system.
+           In the United States, two banks—BNY Mellon and
+      ­JPMorgan Chase—provide these repo safekeeping and trans-                *This article is based largely on Copeland et al., “Key Mechanics
+       fer (also called clearing) services using a process that creates        of the Tri-Party Repo Market,” FRBNY Economic Policy Review
+       operational and liquidity risks for the financial system as a           18, no. 3 (November 2012).
+                                                                               †
+       whole. In the interval between the usual late-afternoon imple-            Peter Hördahl and Michael King, “Developments in Repo
+       mentation of a new repo agreement and the ­early-morning                ­Markets during the Financial Turmoil,” BIS Quarterly Review,
+       expiration of a previous one, these two banks become large               December 2008.
+
+
+
+
+                                 2011–2012, Europe’s sovereign debt crisis prompted sufficient fear that some countries
+                                 would give up the euro (and re-create their own currencies) that many banks moved
+                                 assets out of countries on the geographic periphery of the euro area to avoid so-called
+                                 redenomination risk. The result was a capital flight that threatened the euro itself.
+                                    Managing sovereign risk is difficult. Banks have three options. The first is diversi-
+                                 fication, which means distributing the bank’s loans and securities holdings throughout
+                                 the world, carefully avoiding too much exposure in any country where a crisis might
+                                 arise. Second, the bank can simply refuse to do business in a particular country or set
+                                 of countries. And third, the bank can use derivatives to hedge sovereign risk.
+                                    It should go without saying that bank managers need accurate and timely informa-
+                                 tion to control all these “other risks,” in addition to the risks related to liquidity, credit,
+                                 interest rates, trading, and operations. Yet, one of the lessons of the 2007–2009 finan-
+                                 cial crisis is that many banks lacked real-time information that would allow them to
+                                 assess their various risk exposures at the bankwide level. Most important, some large
+                                 banks with many business lines and legal entities operating across national borders
+                                 lacked facilities to quickly aggregate and report the information that management
+
+
+===== PDF 354 | 印刷页 319 =====
+
+                                                                                                               Key Terms l   319
+
+
+
+
+  Table 12.3         Risks Banks Face and How They Manage Them
+
+
+    Type of Risk      Source of Risk            Recommended Responses
+
+    Liquidity risk    Sudden withdrawals by     1. Hold sufficient cash reserves to meet customer demand.
+                      depositors or             2. Manage assets—sell securities or loans (contracts the size of the
+                      takedowns of credit          balance sheet).
+                      lines
+                                                3. Manage liabilities—attract more deposits (maintains the size of the
+                                                   balance sheet).
+
+    Credit risk       Default by borrowers      1. Diversify to spread risk.
+                      on their loans            2. Use statistical models to screen for creditworthy borrowers.
+                                                3. Monitor to reduce moral hazard.
+
+    Interest rate     Mismatch in maturity of   1. Closely match the maturity of both sides of the balance sheet.
+    risk              assets and liabilities    2. Use derivatives such as interest rate swaps.
+                      coupled with a change
+                      in interest rates
+
+    Trading           Trading losses in the     Closely monitor traders using risk management tools, including value
+    (Market) risk     bank’s own account        at risk.
+
+    Operational       Losses from               1. Firms invest in redundant systems to limit vulnerability.
+    risk              inadequate or failed      2. Government plays a role in helping to expose and limit malicious
+                      internal processes,          threats.
+                      people, and systems
+
+
+
+
+needed for effective risk control. The resulting uncertainties deepened anxieties about
+counterparty risks among intermediaries and contributed to the crisis. Unsurprisingly,
+governments now keep closer tabs on large banks’ risk management efforts, including
+the quality of their analysis and reporting systems.
+   Table 12.3 summarizes the five major risks banks face and the recommended risk
+management strategies.
+
+
+
+
+Key Terms
+bank capital, 300                 interest rate spread, 304         repurchase agreement
+credit risk, 310                  liquidity risk, 307                  (repo), 300                                                 www.moneyandbanking.com
+
+cyber risk, 316                   loan loss reserves, 301           required reserves, 307
+depository institution, 294       net interest margin, 304          reserves, 296
+discount loans, 299               nondepository                     return on assets
+excess reserves, 299                 institution, 294                  (ROA), 303
+federal funds                     off-balance-sheet                 return on equity
+   market, 299                       activities, 305                   (ROE), 303
+interest rate                     operational                       trading risk, 314
+   risk, 311                         risk, 316                      vault cash, 296
+
+
+===== PDF 355 | 印刷页 320 =====
+
+                          320 l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+                                                              Using FRED: Codes for Data in This Chapter
+                                                                 Data Series                                                   FRED Data Code
+                                                                 Number of commercial banks                                    USNUM
+                                                                 Bank failures                                                 BKFTTLA641N
+                                                                 Net interest margin                                           USNIM
+                                                                 Return on equity                                              USROE
+                                                                 Net loan losses/Average total loans                           USLSTL
+                                                                 Loan loss reserve/Total loans                                 USLLRTL
+                                                                 Commercial bank assets                                        TLAACBM027SBOG
+                                                                   Cash assets                                                 CASACBM027SBOG
+                                                                   Securities                                                  INVEST
+                                                                   Loans                                                       LOANS
+                                                                     Real estate loans, all commercial banks                   REALLN
+                                                                 Commercial bank liabilities                                   TLBACBM027SBOG
+                                                                   Deposits                                                    DPSACBM027SBOG
+                                                                      Deposits, domestically chartered banks                   DPSDCBM027SBOG
+www.moneyandbanking.com
+
+
+
+
+                                                                      Deposits, large domestically chartered banks             DPSLCBM027SBOG
+                                                                      Large time deposits, all commercial banks                LTDACBM027SBOG
+                                                                 Bank capital or net worth (assets less liabilities)           RALACBM027SBOG
+                                                                 Return on average equity for U.S. banks with average assets   US1ROE
+                                                                 under $1B
+                                                                 Return on average equity for U.S. banks with average assets   USG15ROE
+                                                                 greater than $15B
+                                                                 Five-bank asset concentration in U.S.                         DDOI06USA156NWDB
+
+
+
+
+                                                              Chapter Lessons
+                                                              1. Bank assets equal bank liabilities plus bank capital.
+                           To learn more about the
+                           changing financial system, visit      a. Bank assets are the uses for bank funds.
+                           www.moneyandbanking.com.
+                                                                      i. They include reserves, securities, and loans.
+                                                                     ii. Over the years, commercial and industrial loans have become less important
+                                                                         and mortgages more important as a use for bank funds.
+                                                                 b. Bank liabilities are the sources of bank funds.
+                                                                      i. They include transaction and nontransaction deposits as well as borrowings.
+                                                                     ii. Over the years, transaction deposits have become less important as a source
+                                                                         of bank funds.
+                                                                 c. Bank capital is the contribution of the bank’s owners; it acts as a cushion against
+                                                                    a fall in the value of the bank’s assets or a withdrawal of its liabilities.
+                                                                 d. Banks make a profit for their owners. Measures of a bank’s profitability include
+                                                                    return on assets (ROA), return on equity (ROE), net interest income, and net
+                                                                    interest margin.
+
+
+===== PDF 356 | 印刷页 321 =====
+
+                                                                        Conceptual and Analytical Problems l   321
+
+
+
+   e. Banks’ off-balance-sheet activities have become increasingly important in recent
+      years. They include:
+        i. Loan commitments, which are lines of credit firms and households can use
+           whenever necessary.
+       ii. Letters of credit, which are guarantees that a customer will make a promised
+           payment.
+2. Banks face several types of risk in day-to-day business. They include:
+   a. Liquidity risk—the risk that customers will demand cash immediately.
+         i. Liability-side liquidity risk arises from deposit withdrawals.
+        ii. Asset-side liquidity risk arises from the use of loan commitments to borrow.
+      iii. Banks can manage liquidity risk by adjusting either their assets or their
+            ­liabilities.
+   b. Credit risk—the risk that customers will not repay their loans. Banks can
+      ­manage credit risk by:
+         i. Diversifying their loan portfolios.
+        ii. Using statistical models to analyze borrowers’ creditworthiness.
+       iii. Monitoring borrowers to ensure that they use borrowed funds properly.
+       iv. Purchasing credit default swaps (CDS) to insure against borrower default.
+   c. Interest rate risk—the risk that a movement in interest rates will change the value
+       of the bank’s assets more than the value of its liabilities.
+
+
+
+
+                                                                                                                     www.moneyandbanking.com
+         i. When a bank lends long and borrows short, increases in interest rates will
+             drive down the bank’s profits.
+        ii. Banks use a variety of tools, such as gap analysis, to assess the sensitivity of
+             their balance sheets to a change in interest rates.
+       iii. Banks manage interest rate risk by matching the maturity of their assets and
+             liabilities and using derivatives like interest rate swaps.
+   d. Trading risk—the risk that traders who work for the bank will create losses on
+       the bank’s own account. Banks can manage this risk using complex statistical
+       models and closely monitoring traders.
+   e. Cyber risk and other operational risks—the risk of loss resulting from inade-
+       quate or failed internal processes, people, or systems. This includes losses aris-
+       ing when information technology systems fail or are compromised.
+         i. These risks can be very difficult to manage, as it is difficult to keep up with
+             malicious actors.
+        ii. While the burden of protecting individual systems falls on individuals, the
+             presence of spillovers means there is a role for government to ensure a suffi-
+             cient level of resilience.
+   f. Other risks banks face include foreign exchange risk and sovereign risk.
+
+
+Conceptual and Analytical Problems                                                         ®
+
+
+
+
+ 1. Explain how a bank manager uses Core Principles 1, 2, and 3 (time has value,
+    risk requires compensation, and information is the basis for decisions) to select
+    assets and issue liabilities consistent with shareholder preferences. (LO1)
+ 2. Consider a bank with the following balance sheet, as shown on the next page.
+    You read online that the bank’s return on assets (ROA) was 1 percent. What were
+    the bank’s after-tax profits? (LO2)
+
+
+===== PDF 357 | 印刷页 322 =====
+
+                          322   l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+                                                                                    Bank Balance Sheet
+                                                                                       (in millions)
+
+                                                                   Assets                                                 Liabilities
+
+                                                     Reserves                     $2 0 0               Deposits                         $2,000
+
+                                                     Loans                        $950                 Borrowing                        $     0
+
+                                                     Securities                   $950                 Bank capital                     $ 100
+
+
+
+
+                                                  3. Based on the following information about Banks A and B, compute for
+                                                     each bank its return on assets (ROA), return on equity (ROE), and leverage
+                                                     ratio. (LO2)
+                                                     a. Bank A has net profit after taxes of $1.8 million and the following balance
+                                                        sheet:
+
+
+                                                                                              Bank A
+www.moneyandbanking.com
+
+
+
+
+                                                                                           (in millions)
+
+                                                                   Assets                                                 Liabilities
+
+                                                     Reserves                       $ 5                    Deposits                         $75
+
+                                                     Loans                          $45                    Borrowing                        $10
+
+                                                     Securities                     $45                    Bank capital                     $10
+
+
+
+
+                                                      b. Bank B has net profit after taxes of $1 million and the following balance sheet:
+
+
+                                                                                              Bank B
+                                                                                           (in millions)
+
+                                                                   Assets                                                 Liabilities
+
+                                                     Reserves                   $ 8                   Deposits                          $80
+
+                                                     Loans                      $50                   Borrowing                         $ 2
+
+                                                     Securities                 $22                   Bank capital                      $ 8
+
+
+
+
+                                                  4. Banks hold more liquid assets than do most businesses. Explain why. (LO1)
+                                                  5. Explain why banks’ holdings of cash have increased significantly as a portion of
+                                                     their balance sheets in recent times. (LO1)
+                                                  6. Why are checking accounts no longer the primary source of funds for commer-
+                                                     cial banks in the United States? (LO2)
+
+
+===== PDF 358 | 印刷页 323 =====
+
+                                                                               Conceptual and Analytical Problems l 323
+
+
+
+ 7. The volume of commercial and industrial loans made by banks has declined over
+    the past few decades, while the volume of real estate loans has risen. Explain why
+    this trend occurred and how it contributed to banks’ difficulties during the finan-
+    cial crisis of 2007–2009. (LO2)
+	  8.* Why do you think that U.S. banks are prohibited from holding equity as part of
+       their own portfolios? (LO3)
+ 9. Explain how a bank uses liability management to respond to a deposit outflow.
+    Why do banks prefer liability management to asset management in this
+    ­circumstance? (LO1)
+10. A bank with a two-year investment horizon has issued a one-year certificate of
+    deposit for $50 million at an interest rate of 3 percent. With the proceeds, the bank
+    has purchased a two-year Treasury note that pays 5 percent interest. What risk does
+    the bank face in entering into these transactions? What would happen if all interest
+    rates were to rise by 1 percent? (LO3)
+11.* In response to changes in banking legislation, recent decades have seen a signifi-
+     cant increase in interstate branching by banks in the United States. How do you
+     think a development of this type would affect the level of risk in the banking
+     business? (LO3)
+
+
+
+
+                                                                                                                               www.moneyandbanking.com
+12. Consider the balance sheets of Bank A and Bank B. Suppose that reserve require-
+    ments are 10 percent of transaction deposits and both banks have equal access to
+    the interbank market and funds from the Federal Reserve.
+    a. Which bank appears to face a greater liquidity risk?
+    b. Which bank appears to face a greater risk of insolvency? What other informa-
+       tion might you use to assess the risk of insolvency of these banks?
+		Explain your answers. (LO3)
+
+
+                                Bank A                                                       Bank B
+                             (in millions)                                                (in millions)
+
+             Assets                          Liabilities                  Assets                          Liabilities
+
+     Reserves         $ 50     Transaction deposits        $200   Reserves         $ 30     Transaction deposits        $200
+
+     Loans            $920     Nontransaction deposits     $600   Loans            $920     Nontransaction deposits     $600
+
+     Securities       $250     Borrowings                  $100   Securities       $ 50     Borrowings                  $100
+
+
+
+
+13. Bank Y and Bank Z both have assets of $1 billion. The return on assets for both
+    banks is the same. Bank Y has liabilities of $800 million while Bank Z’s liabili-
+    ties are $900 million. In which bank would you prefer to hold an equity stake?
+    Explain your choice. (LO2)
+14.* You are a bank manager and have been approached by a swap dealer about partic-
+     ipating in fixed-for-floating interest rate swaps. If your bank has the typical matu-
+     rity structure, which side of the swap might you be interested in paying and which
+     side would you want to receive? (LO3)
+
+*Indicates more difficult problems.
+
+
+===== PDF 359 | 印刷页 324 =====
+
+                          324   l Chapter 12  Depository Institutions: Banks and Bank Management
+
+
+
+                                                 15. If lines of credit and other off-balance-sheet activities do not, by definition,
+                                                     appear on the bank’s balance sheet, how can they influence the level of liquidity
+                                                     risk to which the bank is exposed? (LO3)
+                                                 16. Suppose a bank faces a gap of −20 between its interest-sensitive assets and its
+                                                     interest-sensitive liabilities. What would happen to bank profits if interest rates
+                                                     were to fall by one percentage point? You should report your answer in terms of
+                                                     the change in profit per $100 in assets. (LO2)
+                                                 17.* Duration analysis is an alternative to gap analysis for measuring interest rate
+                                                       risk. (See footnote 8 on page 313.) The duration of an asset or liability
+                                                       ­measures how sensitive its market value is to a change in the interest rate: the
+                                                        more sensitive, the longer the duration. In Chapter 6, you saw that the longer
+                                                        the term of a bond, the larger the price change for a given change in the
+                                                      ­interest rate.
+                                                 		 Using this information and the knowledge that interest rate increases tend to hurt
+                                                    banks, would you say that the average duration of a bank’s assets is longer or
+                                                    shorter than that of its liabilities? (LO1)
+                                                 18. Suppose you were the manager of a bank with the following balance sheet:
+www.moneyandbanking.com
+
+
+
+
+                                                                                              Bank Balance Sheet
+                                                                                                 (in millions)
+
+                                                                      Assets                                           Liabilities
+
+                                                     Reserves                          $ 30            Checkable deposits            $200
+
+                                                     Securities                        $150            Time deposits                 $600
+
+                                                     Loans                             $820            Borrowings                    $100
+
+
+
+
+                                                 		 You are required to hold 10 percent of checkable deposits as reserves. If you were
+                                                    faced with unexpected withdrawals of $30 million from time deposits, would you
+                                                    rather:
+                                                    a. Draw down $10 million of excess reserves and borrow $20 million from other
+                                                       banks?
+                                                    b. Draw down $10 million of excess reserves and sell securities of $20 million?
+                                                 		 Explain your choice. (LO1)
+                                                 19. Suppose you are advising a bank on the management of its balance sheet. In light
+                                                     of the financial crisis of 2007–2009, what arguments might you make to convince
+                                                     the bank to hold additional capital? (LO2)
+                                                 20. The financial crisis compelled banks to reduce their leverage sharply. Consider
+                                                     the following two views (on the next page) of the balance sheet of a bank before
+                                                     and after the financial crisis. Which balance sheet view is more likely to be that
+                                                     of the bank after the financial crisis? Support your choice with calculations.
+                                                     (LO2)
+
+
+                                                 *Indicates more difficult problems.
+
+
+===== PDF 360 | 印刷页 325 =====
+
+                                                                                                   Data Exploration   l    325
+
+
+
+                     Bank Balance Sheet: View 1                                   Bank Balance Sheet: View 2
+                            (in millions)                                                (in millions)
+
+            Assets                      Liabilities                      Assets                       Liabilities
+
+    Reserves         $ 30    Deposits                 $800       Reserves         $ 30     Deposits                 $800
+
+    Securities       $150    Other borrowed funds     $ 90       Securities       $150     Other borrowed funds     $110
+
+    Loans            $820    Bank capital             $110       Loans            $820     Bank capital             $ 90
+
+
+
+
+21. Suppose you operate a bank in a country where the central bank is expected to
+    embark on a series of interest rate increases. Based on gap analysis, would this
+    scenario be more likely to hurt or help your bank’s profitability, assuming the
+    bank’s liabilities are more interest sensitive than its assets? What steps might
+    your bank take to prepare for this scenario? (LO3)
+22. Cyber risk has been recognized as a growing source of operational risk for finan-
+    cial institutions. Why might managing this risk at an individual firm level not be
+    adequate? (LO3)
+
+
+
+
+                                                                                                                                 www.moneyandbanking.com
+Data Exploration                                             ®
+
+
+
+
+For general information on using Federal Reserve Economic Data (FRED) online,
+visit www.mhhe.com/moneyandbanking6e and refer to the FRED Resources.
+1. Are U.S. banks increasing in size? Plot since 1984 on a quarterly basis the number
+   of U.S. commercial banks (FRED code: USNUM) and, on the right scale, the vol-
+   ume of their deposits (FRED code: DPSACBM027SBOG). Download the data and
+   compute the average deposit size of banks in the first quarters of 1984 and 2019. Do
+   these sizes accurately portray a typical commercial bank? (LO1)
+2. Commercial banks have become increasingly involved in the real estate market. Plot
+   the percent change from a year ago of real estate loans made by commercial banks
+   (FRED code: REALLN), and discuss the relationship between the booms and busts
+   in real estate lending and the expansions and recessions of the U.S. economy. (LO3)
+3. Plot since 1990 the return on equity of small banks (banks with assets of less than
+   $1 billion; FRED code: US1ROE) and of large banks (banks with assets greater
+   than $15 billion; FRED code: USG15ROE). How do you explain the long-run pat-
+   tern? (LO2)
+4. Banks sometimes manage liquidity risk by issuing large, marketable certificates of
+   deposit when other deposits decline. How important is this practice? Plot the share
+   of large time deposits (FRED code: LTDACBM027SBOG) in total deposits (FRED
+   code: DPSACBM027SBOG). Explain how this share evolved over the long run and
+   after 2004. (LO3)
+5. What share of U.S. banks fail? Plot since 2000 the fraction (in percent) of bank
+   failures (FRED code: BKFTTLA641N) relative to the number of banks (FRED
+   code: USNUM). Comment on the timing and the proportion of failures. Were most
+   of the failing banks large or small? (LO3)

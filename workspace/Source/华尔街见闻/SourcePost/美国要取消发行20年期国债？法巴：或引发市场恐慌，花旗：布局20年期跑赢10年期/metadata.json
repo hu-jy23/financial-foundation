@@ -1,0 +1,73 @@
+{
+  "article_id": 3783472,
+  "selection": {
+    "article_id": 3783472,
+    "url": "https://wallstreetcn.com/articles/3783472",
+    "title": "美国要取消发行20年期国债？法巴：或引发市场恐慌，花旗：布局20年期跑赢10年期",
+    "page_display_time": "2026-10-13T06:20:28+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "鲍奕龙",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004827",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "国债与财政",
+    "reading_priority": "A",
+    "reading_value": "讨论20年期国债的需求结构和发行成本，并对照削减发行如何影响期限利差的机构判断。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1767,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 32
+  },
+  "url": "https://wallstreetcn.com/articles/3783472",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783472?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:18+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "美国要取消发行20年期国债？法巴：或引发市场恐慌，花旗：布局20年期跑赢10年期",
+  "page_display_time": "2026-10-13T06:20:28+08:00",
+  "page_byline": "鲍奕龙",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "市场传闻美国财政部正考虑削减或取消2020年重启的20年期国债发行。20年期国债收益率长期高于10年期和30年期，形成\"驼峰\"结构，融资成本偏高。市场关注本周五的例行调查问卷，及11月4日季度再融资声明中是否释放明确信号。花旗建议提前布局，但法巴银行警告此举可能被解读为政策工具耗尽的恐慌信号。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1831,
+  "body_sha256": "70a48c29af14d9f115f9aa95fe17f957816dfe7843f6cf011fa8a6e27f7046f1",
+  "raw_sha256": "055158a5cf11015f2ae098bb81155858fe99f17700e91294599ea30c2e376289",
+  "raw_bytes": 10312,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/9bf8dedd-6875-45bc-93e4-d0e35875a9e2.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1767,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "055158a5cf11015f2ae098bb81155858fe99f17700e91294599ea30c2e376289",
+      "bytes": 10312
+    },
+    "article.html": {
+      "sha256": "48949d8aa7f4d232462530a7e2d825e2465aa4995a939c6f57a10c33921aabb9",
+      "bytes": 9477
+    },
+    "article.md": {
+      "sha256": "76782ac326c07f113982d4b3b28dfaadcf6b81e292aa089fc08f2032ec26d7ee",
+      "bytes": 6079
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:13+08:00"
+}

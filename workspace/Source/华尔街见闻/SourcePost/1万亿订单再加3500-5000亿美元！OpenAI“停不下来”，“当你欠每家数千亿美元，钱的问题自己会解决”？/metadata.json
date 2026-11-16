@@ -1,0 +1,98 @@
+{
+  "article_id": 3757125,
+  "selection": {
+    "article_id": 3757125,
+    "url": "https://wallstreetcn.com/articles/3757125",
+    "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+    "page_display_time": "2025-10-14T08:29:42+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "龙玥",
+    "page_author_url": "https://wallstreetcn.com/authors/120000002320",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "信用与融资结构",
+    "reading_priority": "B",
+    "reading_value": "汇总OpenAI采购承诺和融资来源，讨论供应商投资与客户订单相互依赖；保留外部估算身份。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2146,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 38
+  },
+  "url": "https://wallstreetcn.com/articles/3757125",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3757125?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:19+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/35ffccc7-1b79-474e-9f7e-a6560b785eed.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "OpenAI的算力采购并非简单的现金交易，而是一套精心设计的“金融炼金术”。据“小熊快跑”公众号相关计算，到2029年，OpenAI与英伟达、AMD和博通这三大芯片厂商的芯片采购支出合计已高达2850亿美元。",
+      "path": "assets/figure_001.png",
+      "sha256": "091a4e49b14c76e9d34d7a6c4d51c59cb0e6aafb30338b840fc2ecb10881195e",
+      "bytes": 539631,
+      "width": 900,
+      "height": 789,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/35ffccc7-1b79-474e-9f7e-a6560b785eed.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+  "page_display_time": "2025-10-14T08:29:42+08:00",
+  "page_byline": "龙玥",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "“如果你欠银行100美元，那是你的问题。如果你欠博通5000亿美元，那是博通的问题。如果你欠每家大型科技公司数千亿美元，那是他们的问题。他们肯定会找到解决办法的！或者你会。钱的问题会自己解决的。”",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2220,
+  "body_sha256": "3c77346844b5b9c94c6f8e924eb2d85d9f53b75fbcbdb48012ae130b6d5c640a",
+  "raw_sha256": "c0cf0f0371db8fca9637d341f43d02e43524a59f64ca22bec99568320c885e27",
+  "raw_bytes": 10525,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/227fdb00-bfe6-4afc-b2b3-0d2b9dcbfa66.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 2146,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "OpenAI再签重磅协议",
+      "url": "https://wallstreetcn.com/articles/3757107?keyword=%E5%8D%9A%E9%80%9A"
+    },
+    {
+      "text": "华尔街见闻",
+      "url": "https://wallstreetcn.com/articles/3756788"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "c0cf0f0371db8fca9637d341f43d02e43524a59f64ca22bec99568320c885e27",
+      "bytes": 10525
+    },
+    "article.html": {
+      "sha256": "0109f886d8270639a072bde715e38e721b1186e068f3c9cd4996287a18e2c500",
+      "bytes": 10272
+    },
+    "article.md": {
+      "sha256": "284f85607e741a8c901c8643e52288cfc5fcc237e66180a8c7ae9cc71060010e",
+      "bytes": 6814
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:14+08:00"
+}

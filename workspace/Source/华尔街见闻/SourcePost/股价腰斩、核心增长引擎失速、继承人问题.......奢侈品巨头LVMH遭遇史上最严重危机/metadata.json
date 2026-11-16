@@ -1,0 +1,89 @@
+{
+  "article_id": 3749452,
+  "selection": {
+    "article_id": 3749452,
+    "url": "https://wallstreetcn.com/articles/3749452",
+    "title": "股价腰斩、核心增长引擎失速、继承人问题.......奢侈品巨头LVMH遭遇史上最严重危机",
+    "page_display_time": "2025-06-19T18:08:54+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "B",
+    "reading_value": "讨论奢侈品需求、品牌组合、收购后管理和治理结构，可研究集团折价。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2198,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 192
+  },
+  "url": "https://wallstreetcn.com/articles/3749452",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3749452?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:05+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/a6c60c48-5569-4c94-9e54-c56d84c41524.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "这家曾经的欧洲三大市值公司已不再位列前三，法国最有价值公司的桂冠也被宿敌爱马仕夺走——讽刺的是，这正是Arnault曾试图秘密收购但失败的公司。",
+      "path": "assets/figure_001.png",
+      "sha256": "dcf67902cb27487bcbf169ba171596e884a348a53e7ef8d0100eeeafcfab373e",
+      "bytes": 175758,
+      "width": 1024,
+      "height": 744,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/a6c60c48-5569-4c94-9e54-c56d84c41524.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "股价腰斩、核心增长引擎失速、继承人问题.......奢侈品巨头LVMH遭遇史上最严重危机",
+  "page_display_time": "2025-06-19T18:08:54+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "LVMH正经历一场史无前例的危机。掌舵人Bernard Arnault从全球首富跌至第十位，集团市值蒸发约2210亿欧元，公司还面临全球需求萎缩和美国关税威胁。核心品牌Dior增长乏力，酒类部门裁员，其多元化“杂货铺”模式的弊端显现，而继承人问题也给集团带来了“治理折价”。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2268,
+  "body_sha256": "e4cc72a864191e8118df84210d279962ac09a1bf5dc5abe6bffbe10e404ba84c",
+  "raw_sha256": "20da60b12630a9dd2052b00bbcef56ea145e6cf22008b37a81239f27fea703e8",
+  "raw_bytes": 9895,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/28f2325c-1850-49ab-bbd7-0f0fa0ad6845.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 2198,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:46+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "20da60b12630a9dd2052b00bbcef56ea145e6cf22008b37a81239f27fea703e8",
+      "bytes": 9895
+    },
+    "article.html": {
+      "sha256": "03a992f23318034b189fd5b638741913c5f6a2ff3501f6b8b77f54baac49b184",
+      "bytes": 9764
+    },
+    "article.md": {
+      "sha256": "1fe0a78e7d6cc652d85a696cab2b213ab76aec7af265a64368ae965cd12a6f9d",
+      "bytes": 6404
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:47+08:00"
+}

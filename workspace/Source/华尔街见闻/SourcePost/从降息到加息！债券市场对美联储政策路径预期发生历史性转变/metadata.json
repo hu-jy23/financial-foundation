@@ -1,0 +1,104 @@
+{
+  "article_id": 3767947,
+  "selection": {
+    "article_id": 3767947,
+    "url": "https://wallstreetcn.com/articles/3767947",
+    "title": "从降息到加息！债券市场对美联储政策路径预期发生历史性转变",
+    "page_display_time": "2026-03-20T08:23:34+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "杨宸",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004919",
+    "page_source_label": "杨宸、鲍奕龙",
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "B",
+    "reading_value": "记录能源通胀和英央行沟通如何带动全球利率路径重新定价。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1348,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 17
+  },
+  "url": "https://wallstreetcn.com/articles/3767947",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3767947?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:16+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/cb3a14d0-5c2d-44b0-a11b-65db8dbc2d35.jpeg",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "与此同时， 美国劳工部当周初请失业金人数意外下降，进一步削弱了美联储维持宽松立场的依据。 掉期市场已将年内美联储宽松预期悉数撤出，美债期货成交量也随收益率上行而显著放大。",
+      "path": "assets/figure_001.jpg",
+      "sha256": "060f15ede442fa00a2c4965bb0da7fd73b30a164ab824fba8e36682a714f5703",
+      "bytes": 82965,
+      "width": 997,
+      "height": 633,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/cb3a14d0-5c2d-44b0-a11b-65db8dbc2d35.jpeg"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/67858b78-a0bb-49dc-877f-5799f2e2e123.jpeg",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "本轮全球债市调整特征：中东冲突推升能源价格，能源价格强化通胀预期，通胀预期倒逼央行收紧立场，进而引发利率敏感资产的系统性重新定价。短短数周内，市场叙事已从\"何时降息\"切换至\"是否加息\"，这一转变的速度与幅度均超出此前预期。",
+      "path": "assets/figure_002.jpg",
+      "sha256": "ef8e1cca05e2ebacbda8c7bb35b036035384accb27dfc6dcaf0f94c4b3cd2e92",
+      "bytes": 113661,
+      "width": 997,
+      "height": 631,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/67858b78-a0bb-49dc-877f-5799f2e2e123.jpeg"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "从降息到加息！债券市场对美联储政策路径预期发生历史性转变",
+  "page_display_time": "2026-03-20T08:23:34+08:00",
+  "page_byline": "杨宸",
+  "source_label": "杨宸、鲍奕龙",
+  "source_url": "",
+  "subtitle": "受英国央行意外“放鹰”冲击，英债抛售带动美债收益率上行；叠加今晚刚公布的当周初请失业金人数意外下降，进一步削弱了美联储维持宽松立场的依据。美联储降息预期被彻底抹平，市场叙事快速从“何时降息”逆转为“是否加息”。新债王Gundlach指出，美国两年期国债收益率暗示，美联储可能要加息。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1430,
+  "body_sha256": "a9c59590e69d30ae53d2570e504b9e19755e6ebeb9c5287e4ab4ee1450bbc834",
+  "raw_sha256": "8357dc7be54316315bf4a487470105586c07f6570459c78bc591a0eb628304ce",
+  "raw_bytes": 9071,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/101d6be7-1596-4311-8d0f-6d3d07f7d088.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 1348,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "8357dc7be54316315bf4a487470105586c07f6570459c78bc591a0eb628304ce",
+      "bytes": 9071
+    },
+    "article.html": {
+      "sha256": "748c7fcb5b6578e7bac4896181683b3bd047e50a3cab511acb769f38fdda21ab",
+      "bytes": 8739
+    },
+    "article.md": {
+      "sha256": "f8b5fed3eb6ed875132bcaddc93f8a3d7d9b911ab0d1fc45f7cd9a6892c2af0d",
+      "bytes": 4887
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:10+08:00"
+}

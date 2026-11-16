@@ -1,0 +1,73 @@
+{
+  "article_id": 3784943,
+  "selection": {
+    "article_id": 3784943,
+    "url": "https://wallstreetcn.com/articles/3784943",
+    "title": "一生难愈：高盛发现被AI取代的工人通常再就业困难，且往往落入AI的下一个猎场",
+    "page_display_time": "2026-11-01T15:33:23+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "A",
+    "reading_value": "汇集AI暴露岗位的再就业和工资研究，讨论技术替代的持续影响；相关性与因果识别需回查原研究。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2720,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 23
+  },
+  "url": "https://wallstreetcn.com/articles/3784943",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784943?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:17+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "一生难愈：高盛发现被AI取代的工人通常再就业困难，且往往落入AI的下一个猎场",
+  "page_display_time": "2026-11-01T15:33:23+08:00",
+  "page_byline": "许超",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "AI裁员正向全行业蔓延！高盛警告，被淘汰者正陷入“入职即入坑”的死循环：不仅再就业艰难，且75%会再次落入AI的替代射程。更危险的是，一旦经济下行，积压的千万级AI裁员恐集中引爆，真正的失业风暴才刚刚开始。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2790,
+  "body_sha256": "9ed41998ba577e7f13d2d80efc3f75966f8557ca02e0fb0254a5489a7124a7d9",
+  "raw_sha256": "878c7dfe90e53d6ce44261219e5ec43ed20b5be47fafdb144eb6e8bd58a0de38",
+  "raw_bytes": 12156,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/b741f4ea-6b24-45ec-be87-63c92d3dbbec.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2720,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "878c7dfe90e53d6ce44261219e5ec43ed20b5be47fafdb144eb6e8bd58a0de38",
+      "bytes": 12156
+    },
+    "article.html": {
+      "sha256": "fb384b8e0ecb2adaf498ea30a48856c8fe039c45600eb00c9dd0bcdc9324bfb3",
+      "bytes": 11670
+    },
+    "article.md": {
+      "sha256": "0731323dd7c0582f0850595a46b8123e6391f7e4c7eedd9df4a98aba54b89a1e",
+      "bytes": 8464
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:11+08:00"
+}

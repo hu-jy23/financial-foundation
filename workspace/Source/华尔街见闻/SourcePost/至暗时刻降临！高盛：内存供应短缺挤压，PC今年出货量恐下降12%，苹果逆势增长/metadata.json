@@ -1,0 +1,73 @@
+{
+  "article_id": 3767155,
+  "selection": {
+    "article_id": 3767155,
+    "url": "https://wallstreetcn.com/articles/3767155",
+    "title": "至暗时刻降临！高盛：内存供应短缺挤压，PC今年出货量恐下降12%，苹果逆势增长",
+    "page_display_time": "2026-03-10T20:12:51+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "卜淑情",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004518",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "A",
+    "reading_value": "沿存储成本、整机BOM、价格及产品组合讨论PC需求，给出上游涨价的下游反馈链条。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1059,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 176
+  },
+  "url": "https://wallstreetcn.com/articles/3767155",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3767155?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:01+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "至暗时刻降临！高盛：内存供应短缺挤压，PC今年出货量恐下降12%，苹果逆势增长",
+  "page_display_time": "2026-03-10T20:12:51+08:00",
+  "page_byline": "卜淑情",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "全球PC市场正面临内存供应危机与价格双重冲击。高盛警告，戴尔和惠普的PC出货量预计将同比下滑高个位数至低两位数百分比，而苹果则有望凭借包括入门级MacBook Neo在内的新品发布实现小幅增长。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1144,
+  "body_sha256": "d8586f5254f8829cf2b99b44a2ca94d28deba470e29e400d64891deffe37ddf6",
+  "raw_sha256": "3bcab61c295c491f1243c9a6d494139677c07170dd1e100793e76527d3b4d595",
+  "raw_bytes": 6516,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/2a9571e2-7ae5-417d-a09b-9f926d0a52da.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1059,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:45+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "3bcab61c295c491f1243c9a6d494139677c07170dd1e100793e76527d3b4d595",
+      "bytes": 6516
+    },
+    "article.html": {
+      "sha256": "8f5921c57777d53c30cb7ee40444180be5656be13580d0c31f5dbaafd5dd09e5",
+      "bytes": 6592
+    },
+    "article.md": {
+      "sha256": "150964b80f5d635f141f926f475720529bdc9561384079e339bb54ecdbccf113",
+      "bytes": 3744
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:43+08:00"
+}

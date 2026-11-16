@@ -1,0 +1,119 @@
+{
+  "article_id": 3785122,
+  "selection": {
+    "article_id": 3785122,
+    "url": "https://wallstreetcn.com/articles/3785122",
+    "title": "“民主党横扫两院”概率达82%！这一次，预测市场能对吗？",
+    "page_display_time": "2026-11-04T08:41:55+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "数字资产与金融创新",
+    "reading_priority": "A",
+    "reading_value": "分析预测市场的交易集中度、流动性及操纵争议，保留研究者与平台双方说法。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2150,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 144
+  },
+  "url": "https://wallstreetcn.com/articles/3785122",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3785122?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:51+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/06b245ef-aa06-4e3c-8e45-66eddc9b5d30.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "这一判断与主流民调方向基本一致。截至选举日，Kalshi平台中期选举相关押注总交易额已达13.3亿美元，Polymarket国会相关市场押注额约为1.45亿美元，行业合计押注规模超过14.8亿美元，创历史新高。",
+      "path": "assets/figure_001.png",
+      "sha256": "6a306f19545cf616ce2a0148efaf5b94cf52e5d4315f0a5666d6c0a2e61d0413",
+      "bytes": 194832,
+      "width": 1888,
+      "height": 884,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/06b245ef-aa06-4e3c-8e45-66eddc9b5d30.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/f82dd7cb-e751-4a57-86bc-64b4ae6c0c8e.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "在众议院方面，预测市场数据显示，民主党夺席概率约为94%至97%；参议院方面，民主党胜算约为74%至78%。综合来看，民主党同时拿下两院的概率约为82%。",
+      "context_after": "从具体竞争性席位来看，部分参议院关键竞选是此轮押注的核心焦点。据非营利机构反腐数据集体（ACDC）统计，德克萨斯州参议院席位已吸引约6700万美元押注，为各州中最高，Kalshi相关数据则显示该数字已接近1亿万美元。数据显示，市场隐含民主党候选人James Talarico击败共和党德州总检察长Ken Paxton的概率约为76%。",
+      "path": "assets/figure_002.png",
+      "sha256": "773f906e42710f2d7135c433bbf2590ffd41825f64e28e6ffc333c5e759b8c7c",
+      "bytes": 167345,
+      "width": 2236,
+      "height": 674,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/f82dd7cb-e751-4a57-86bc-64b4ae6c0c8e.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/d985bc1b-eefb-4b9f-a8ac-86ad93ff2959.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "Kalshi数据显示，涵盖两党国会掌控权、席位数量及平衡权力的综合性市场，总交易额约达2.77亿美元，其中德克萨斯州参议院席位一项即占其中约四分之一。",
+      "path": "assets/figure_003.png",
+      "sha256": "d28c83ca7740f698c6c5283976373d15e15f77fb86a4a304d9bf7138f51c23c8",
+      "bytes": 384852,
+      "width": 2212,
+      "height": 1006,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/d985bc1b-eefb-4b9f-a8ac-86ad93ff2959.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "“民主党横扫两院”概率达82%！这一次，预测市场能对吗？",
+  "page_display_time": "2026-11-04T08:41:55+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "美国中期选举投票日，Polymarket、Kalshi等预测市场押注民主党横扫两院概率高达82%，行业合计押注规模超14.8亿美元创历史新高。然而，交易高度集中于少数参议院席位、众议院流动性极度匮乏，操纵风险暗流涌动。继巴西大选\"翻车\"后，此番预测结果是否应验，将直接决定这一新兴行业的公信力命运。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2223,
+  "body_sha256": "e5f1d905bb2d702cf2e9e4dfce503e729dcea5429482a316f784fac098ce5c11",
+  "raw_sha256": "fc70c7db611ed5a97e3951af4f9474b44a4771938519fa82a8b4217009b926b8",
+  "raw_bytes": 10963,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/fac080f2-8e65-4916-8e7d-9c4149cd04d8.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 2150,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:42+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "fc70c7db611ed5a97e3951af4f9474b44a4771938519fa82a8b4217009b926b8",
+      "bytes": 10963
+    },
+    "article.html": {
+      "sha256": "5daa5239ada4d89191f57a02244c4f7f58cc0d235ebd2545ecdd593361b53304",
+      "bytes": 11311
+    },
+    "article.md": {
+      "sha256": "b78d71915d5ece4c8372d0866218ec02d3ec76b0ba17d46e14c65306c05ea05b",
+      "bytes": 6742
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:33+08:00"
+}

@@ -2,19 +2,44 @@
 id: C-POL-QE
 type: concept
 title: 量化宽松QE
-status: reviewed_seed
-draft_author: "/root/cbbs_qe_qt_concepts"
+status: step1_reviewed
+draft_author: /root/cbbs_qe_qt_concepts
 model: gpt-6-astra
 reasoning_effort: medium
-reviewed_by: "/root"
-updated: 2026-10-27
+original_reviewed_by: /root
+reviewed_by:
+- /root/step1_selector_reviewer
+- /root
+edited_by:
+- /root/step1_t1_maker
+editor_model: inherited_unverified
+editor_reasoning_effort: inherited_unverified
+updated: 2026-11-03
 evidence_as_of: 2022-03-16
-source_ids: [S-QE-PILOT-01, S-QE-PILOT-02, S-QE-PILOT-03, S-QE-PILOT-04, S-QE-PILOT-05, S-QE-PILOT-06, S-QE-PILOT-07, S-QE-PILOT-08, S-QE-PILOT-09, S-QE-PILOT-10, S-QE-PILOT-11]
+source_ids:
+- S-QE-PILOT-01
+- S-QE-PILOT-02
+- S-QE-PILOT-03
+- S-QE-PILOT-04
+- S-QE-PILOT-05
+- S-QE-PILOT-06
+- S-QE-PILOT-07
+- S-QE-PILOT-08
+- S-QE-PILOT-09
+- S-QE-PILOT-10
+- S-QE-PILOT-11
+- S-QE-T1-DISTRIBUTION
+candidate_ids:
+- T1-U05-A
+step1_reviewed_on: '2026-11-03'
+edit_scope: 已审候选 T1-U05-A 的正文与来源整合
 ---
 
 # 量化宽松QE
 
 > 执笔：`/root/cbbs_qe_qt_concepts`，GPT-6-Astra，medium；2026-10-27。美国资产购买为主要实例，英国材料用于会计与传导辨析；政策历史覆盖至2022-03-16，不判断制作日是否正在QE。
+
+> T1 Step1编辑：`/root/step1_t1_maker`，2026-11-03；补入就业收入与资产财富两条分配渠道，本次增量已审。完整fork配置未独立核验。
 
 ## 概念定义
 
@@ -53,6 +78,8 @@ H_{t+1}-H_t=P_t^{new}+P_t^{reinv}-M_t-S_t+X_t.
 假设长债与短期央行负债并非完全替代品，投资者有期限偏好或承担风险的成本。央行买走长债后，私人部门总体持有的久期减少；持有相对较多存款的原卖方，也可能希望重新购买符合收益和期限目标的资产。这些配置调整能提高被购买证券及部分替代品价格，压低承担相应风险所要求的收益率补偿。企业债券等融资价格随后可能改善，支持投资和支出。
 
 这条解释不要求每个卖方都逐笔追逐风险资产。某养老金买债，卖给它的另一个投资者就得到存款，组合调整可以在不同主体间继续；资产价格与投资意愿最终使全部持仓重新被接受。若短债和准备金几乎可替代、投资者风险承受能力很强，或其他部门同步增加长期债供给，同样面额购买的风险定价作用就可能更小。Gagnon等的研究把不完全替代和私人久期减少作为主要解释，而非固定货币乘数。[S-QE-PILOT-01](#S-QE-PILOT-01)
+
+QE的传导还涉及不同家庭的分配结果。若政策支持就业，原先失业风险较高群体的劳动收入可能改善；资产价格上涨带来的财富收益，则依赖家庭原先持有多少股票、债券和住房。因此收入差距与财富差距可能朝不同方向变化，净影响须结合持仓、就业和观察期判断，不能仅由资产升值或就业改善单独推出。 [S-QE-T1-DISTRIBUTION](#S-QE-T1-DISTRIBUTION)
 
 对MBS而言，家庭可以提前还款：利率下降时再融资更容易，证券现金流可能提前返回；利率上升时偿还变慢，投资者被动持有更长久的低票息资产。央行购买MBS因此不仅接收利率风险，也接收这种不利的期限变化风险。它与等面额购买国债不是同一种资产操作。
 
@@ -153,3 +180,6 @@ H_{t+1}-H_t=P_t^{new}+P_t^{reinv}-M_t-S_t+X_t.
 **S-QE-PILOT-11**｜FOMC，[2022-03-16实施说明](https://www.federalreserve.gov/newsevents/pressreleases/monetary20220316a1.htm)。实读3月17日起的交易台指令，特别是全额滚动及本金再投资；用于区分净购买退出与QT。
 
 待补：本轮尚未搜集2009、2010、2012与2022各公告前逐期限购买预期原表，未下载逐笔操作与逐券DV01，不能报告“意外购买每1,000亿美元”的收益率效应。关于QE对产出、就业和通胀的因果估计，所读Gagnon研究重点是资产价格与风险溢价，尚不足以提供统一宏观效果数值；本页没有据政策目标反推已经实现的宏观贡献。日本、欧元区不同购买对象和法律安排待独立核读。
+
+
+<a id="S-QE-T1-DISTRIBUTION"></a>**S-QE-T1-DISTRIBUTION**｜Wendy Carlin、David Soskice，*Macroeconomics: Institutions, Instability, and Inequality*，2024版。[本地教材](<../../source_2/T1 宏观综合 Macroeconomics/Carlin and Soskice Macroeconomics Institutions, Instability, and Inequality 2024 FINAL.pdf#page=328>)。完整读第6章PDF295–342；此段依据§6.4.5，PDF328–329／印刷292–293。本页新增内容为教材解释，未独立核读其所引论文或估计，不延长旧稿的事实资料截止。

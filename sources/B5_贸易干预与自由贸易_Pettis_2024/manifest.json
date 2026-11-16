@@ -1,0 +1,131 @@
+{
+  "id": "B5",
+  "title": "Can Trade Intervention Lead to Freer Trade? — Michael Pettis，2024-02-23",
+  "directory": "B5_贸易干预与自由贸易_Pettis_2024",
+  "original_language": "en",
+  "source_urls": [
+    "https://carnegieendowment.org/china-financial-markets/2024/02/can-trade-intervention-lead-to-freer-trade"
+  ],
+  "files": [
+    {
+      "file": "贸易干预与自由贸易_英文原文.html",
+      "source_url": "https://carnegieendowment.org/china-financial-markets/2024/02/can-trade-intervention-lead-to-freer-trade",
+      "resolved_url": "https://carnegieendowment.org/china-financial-markets/2024/02/can-trade-intervention-lead-to-freer-trade",
+      "scope": "网页原文",
+      "bytes": 305872,
+      "sha256": "93feb7468d5104dc12b98a14eb082a592d55fc23953cab93cf52e71740510eb8",
+      "page_title": "Can Trade Intervention Lead to Freer Trade? | Carnegie Endowment for International Peace",
+      "text_file": "贸易干预与自由贸易_英文原文.txt",
+      "extracted_characters": 62894,
+      "offline_file": "贸易干预与自由贸易_英文原文_离线阅读.html",
+      "images": [
+        {
+          "file": "images/image_01.png",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJpbWFnZXMvQ0ZNX2Jsb2dfbG9nb19rLnBuZyJ9",
+          "bytes": 18552,
+          "sha256": "7f79965ac96099e09383e304748265e0be4aee4536b82f4b68a5be9ea214051e"
+        },
+        {
+          "file": "images/image_02.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzLzE0MjA3NzAtY2ZtLWhlYWRlcjJfY2I3MGNkZGMtMDcwYy00MzQ2LWIzYTQtMWI1ODMyZjk5MjhhXzljYzEyNzQ4LTU3MjgtNGJlNi04ODJlLTY3ZWM4Y2QzMmM0OC04LmpwZyJ9",
+          "bytes": 119831,
+          "sha256": "78605f38f82625ed03053802053c52b052d8c81b858478a57ebf112c84a34b14"
+        },
+        {
+          "file": "images/image_03.png",
+          "source_url": "https://carnegieendowment.org/images/cfm-landing-header.png",
+          "bytes": 1138276,
+          "sha256": "2ff2be5d50519e4b236a1dc01e7f6b7a89212ec5253816138929f61a0abd33f1"
+        },
+        {
+          "file": "images/image_04.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+          "bytes": 7960,
+          "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+        },
+        {
+          "file": "images/image_05.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+          "bytes": 7960,
+          "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+        },
+        {
+          "file": "images/image_06.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+          "bytes": 7960,
+          "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+        },
+        {
+          "file": "images/image_07.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+          "bytes": 7960,
+          "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+        },
+        {
+          "file": "images/image_08.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzLzE0MjA3NzAtY2ZtLWhlYWRlcjJfY2I3MGNkZGMtMDcwYy00MzQ2LWIzYTQtMWI1ODMyZjk5MjhhXzljYzEyNzQ4LTU3MjgtNGJlNi04ODJlLTY3ZWM4Y2QzMmM0OC0xNS5qcGcifQ==",
+          "bytes": 119836,
+          "sha256": "925b93b74f040c62d076cda0c5b76c5f2d4f8ef99036cc93fb007f62e9050524"
+        },
+        {
+          "file": "images/image_09.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+          "bytes": 7960,
+          "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+        },
+        {
+          "file": "images/image_10.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzLzE0MjA3NzAtY2ZtLWhlYWRlcjJfY2I3MGNkZGMtMDcwYy00MzQ2LWIzYTQtMWI1ODMyZjk5MjhhXzljYzEyNzQ4LTU3MjgtNGJlNi04ODJlLTY3ZWM4Y2QzMmM0OC0xNS5qcGcifQ==",
+          "bytes": 119836,
+          "sha256": "925b93b74f040c62d076cda0c5b76c5f2d4f8ef99036cc93fb007f62e9050524"
+        },
+        {
+          "file": "images/image_11.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+          "bytes": 7960,
+          "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+        },
+        {
+          "file": "images/image_13.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+          "bytes": 7960,
+          "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+        },
+        {
+          "file": "images/image_14.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzLzE0MjA3NzAtY2ZtLWhlYWRlcl81ZmQ0MGVjZC02YTA1LTRlODYtOTdmMC1mYThhNDBmZjU5ZjkxLTcuanBnIn0=",
+          "bytes": 119958,
+          "sha256": "1409f5421a3b6c880685d5046688e0e430cde93230080715809a71fcde83838d"
+        },
+        {
+          "file": "images/image_15.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+          "bytes": 7960,
+          "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+        },
+        {
+          "file": "images/image_16.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzLzEyMDY2MjEzMy5qcGcifQ==",
+          "bytes": 79598,
+          "sha256": "6c1d859999c10efab68a8189c0cf186ff3a4f8c13b73da9a9a16c97fa23e9490"
+        },
+        {
+          "file": "images/image_17.jpg",
+          "source_url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvYXZhdGFycy9wZXR0aXNfY29sb3JfbWVkaXVtLTIuanBnIn0=",
+          "bytes": 7960,
+          "sha256": "a6858033e77e6a20b7d3bda7367ef841fe8a0e0d3feb13c69c6648514ade0547"
+        }
+      ],
+      "image_failures": [
+        {
+          "url": "https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzL0FmcmljYSAtIGlTdG9jay02NTU2Mzc1OTYuanBnIn0=",
+          "error": "413 Client Error: Request Entity Too Large for url: https://assets.carnegieendowment.org/_/eyJrZXkiOiJzdGF0aWMvbWVkaWEvaW1hZ2VzL0FmcmljYSAtIGlTdG9jay02NTU2Mzc1OTYuanBnIn0="
+        }
+      ]
+    }
+  ],
+  "failures": [],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "acquisition_status": "已取得所列原文文件；尚未精读"
+}

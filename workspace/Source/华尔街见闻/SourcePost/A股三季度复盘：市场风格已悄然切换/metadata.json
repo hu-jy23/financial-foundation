@@ -1,0 +1,169 @@
+{
+  "article_id": 3783160,
+  "selection": {
+    "article_id": 3783160,
+    "url": "https://wallstreetcn.com/articles/3783160",
+    "title": "A股三季度复盘：市场风格已悄然切换",
+    "page_display_time": "2026-10-08T11:14:24+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": "锦缎",
+    "page_source_url": null,
+    "page_attribution_note": "本文来源：锦缎",
+    "category": "跨资产与市场结构",
+    "reading_priority": "A",
+    "reading_value": "以股权现金流久期、融资拥挤和盈利兑现解释季度风格轮动。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 3963,
+    "page_image_count": 6,
+    "original_underlying_research_verified": false,
+    "catalog_number": 120
+  },
+  "url": "https://wallstreetcn.com/articles/3783160",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783160?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:44+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/530bf7cd-5c0c-44e2-81c3-11909a425832.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "图：同一季度，两种久期，两种命运。注：“久期”的概念详见下文。",
+      "context_after": "也就是说，同一份未来现金流，被按一个更高的利率重新算了一遍，仓位随之从\"远\"搬到了\"近\"。",
+      "path": "assets/figure_001.jpg",
+      "sha256": "fd2340c89188d7ed981f537b14222cf94e9d9631d98a59bee0cfcffa7cea3de2",
+      "bytes": 33028,
+      "width": 816,
+      "height": 339,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/530bf7cd-5c0c-44e2-81c3-11909a425832.jpeg"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/6ba0fa21-2404-42a8-9ceb-8c4999eb2260.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "图：上半年的赢家，几乎就是三季度的输家",
+      "path": "assets/figure_002.jpg",
+      "sha256": "9ac7837182a5e2b521291a4a74517f0487ca7b129cc736e1ed6a78502031436b",
+      "bytes": 47353,
+      "width": 798,
+      "height": 588,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/6ba0fa21-2404-42a8-9ceb-8c4999eb2260.jpeg"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/1f9e5ce4-8ac3-4928-b88f-287ad411584a.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "图：12涨19跌，两端隔着一整个景气周期",
+      "path": "assets/figure_003.jpg",
+      "sha256": "d7cdc67ae25fce5ad14d56d68ea1a49c4bc0ea67a308d443cc7b774ce2c10fa8",
+      "bytes": 60088,
+      "width": 816,
+      "height": 864,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/1f9e5ce4-8ac3-4928-b88f-287ad411584a.jpeg"
+    },
+    {
+      "order": 4,
+      "source_url": "https://wpimg-wscn.awtmt.com/c71b0558-4153-482e-b3ca-a74eeeccdd0a.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "图：折现率一抬，被削得最狠的是最后那几年",
+      "path": "assets/figure_004.jpg",
+      "sha256": "189c630dee0a63fc428f7aa6277425c1c85d666a82b47512accdae487b1f3315",
+      "bytes": 52781,
+      "width": 821,
+      "height": 615,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/c71b0558-4153-482e-b3ca-a74eeeccdd0a.jpeg"
+    },
+    {
+      "order": 5,
+      "source_url": "https://wpimg-wscn.awtmt.com/c5f46b12-6fde-4213-bb25-08dc56d32d70.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "图：退潮有刻度：日均成交额逐月下台阶",
+      "path": "assets/figure_005.jpg",
+      "sha256": "1ccd3e6ad6411bfa5025b1ce3e7b7ccae21e3ba3f2cedc770be742cb6c1c3c45",
+      "bytes": 48175,
+      "width": 807,
+      "height": 627,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/c5f46b12-6fde-4213-bb25-08dc56d32d70.jpeg"
+    },
+    {
+      "order": 6,
+      "source_url": "https://wpimg-wscn.awtmt.com/71c5cb90-d4a2-4a3e-b607-0542e54b3b5f.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "图：“近处”也分真伪：预期、事实与账目",
+      "path": "assets/figure_006.jpg",
+      "sha256": "b302c4a2b3579347996e50af48d2ff6621363f2db1a0bdc856b02d81f6ca26ed",
+      "bytes": 75411,
+      "width": 810,
+      "height": 630,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/71c5cb90-d4a2-4a3e-b607-0542e54b3b5f.jpeg"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "A股三季度复盘：市场风格已悄然切换",
+  "page_display_time": "2026-10-08T11:14:24+08:00",
+  "page_byline": "董静",
+  "source_label": "锦缎",
+  "source_url": "",
+  "subtitle": "风格切换的本质是资金“集体缩短久期”。受无风险利率抬升影响，市场不再为远期的“想象空间”买单，转而追逐当期的“确定性”。上半年大涨的科技股重挫，资金大举涌入煤炭、银行等年内能算清账的红利资产。接下来，10月三季报将成为后市的核心定价锚。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 3989,
+  "body_sha256": "bf6182d76dc916849888d059aec80bfa15e7f82d39a41ec72fed629d119d53e9",
+  "raw_sha256": "763ab5fdfc27a32b3336fcdfb0a95a6f600349df0752b0ed31d00fad55a94334",
+  "raw_bytes": 18903,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/e6f70a61-83a3-4bef-a2ce-784a9400f999.mp3",
+  "image_occurrences": 6,
+  "html_table_count": 0,
+  "catalog_image_count": 6,
+  "catalog_text_characters": 3963,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "锦缎",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkxOTAyNjAwOA==&mid=2247556928&idx=2&sn=2222a68422fe4e5e4ff1d3be441e5235&chksm=c0c533e5052fb820610d4457718b539a5206a4ab4d31c6b0db324b1606d28c8dc7728ad4b012&scene=126&sessionid=1791417085"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:40+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "763ab5fdfc27a32b3336fcdfb0a95a6f600349df0752b0ed31d00fad55a94334",
+      "bytes": 18903
+    },
+    "article.html": {
+      "sha256": "12dbcd5e2c7f3b958ff3ed5c6f0c83ec7cb52195f8b707011f6f6fa9626e1e49",
+      "bytes": 18235
+    },
+    "article.md": {
+      "sha256": "d047611aced725467f87e2b5fdc95036cac9894d81eb79fecb6e6842393e0bbf",
+      "bytes": 11760
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:29+08:00"
+}

@@ -1,0 +1,73 @@
+{
+  "article_id": 3758173,
+  "selection": {
+    "article_id": 3758173,
+    "url": "https://wallstreetcn.com/articles/3758173",
+    "title": "完成“盈利化重组”，OpenAI为IPO“铺平道路”，AI最高潮要来了？",
+    "page_display_time": "2025-10-29T16:32:16+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "信用与融资结构",
+    "reading_priority": "A",
+    "reading_value": "梳理OpenAI重组后的控制权、股权和技术授权安排，解释组织结构对后续融资的影响。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2378,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 39
+  },
+  "url": "https://wallstreetcn.com/articles/3758173",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3758173?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:19+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "完成“盈利化重组”，OpenAI为IPO“铺平道路”，AI最高潮要来了？",
+  "page_display_time": "2025-10-29T16:32:16+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "OpenAI首席执行官Sam Altman在公开直播中提到，\"考虑到我们的资本需求\"，IPO是可能的选项。OpenAI预计到2029年将消耗1150亿美元，而今年收入预计仅为130亿美元，资金缺口巨大。OpenAI和微软“友好分手”，正式转型为公共利益公司(PBC)，已为未来IPO铺平了道路。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2452,
+  "body_sha256": "42fa92941d8305aa078852ca7e78d85c4d2415200f99bc90ce74215d7f6c8680",
+  "raw_sha256": "730d6192838b8ec69cec453e504d31cb20c3798136c45e899d1f3c5d06ca7c18",
+  "raw_bytes": 10386,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/fe66d1b6-1200-45e3-adab-e34782bd96cb.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2378,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "730d6192838b8ec69cec453e504d31cb20c3798136c45e899d1f3c5d06ca7c18",
+      "bytes": 10386
+    },
+    "article.html": {
+      "sha256": "b87250b3f5e89e3d5501a41fcd740aa0b20803a04a83eeaae786cd226d120d6f",
+      "bytes": 10105
+    },
+    "article.md": {
+      "sha256": "4c1accf600e022a62cd53f190581a45abd240902f9a750751ec3d54a3c20c4d2",
+      "bytes": 7153
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:14+08:00"
+}

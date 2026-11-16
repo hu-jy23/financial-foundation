@@ -1,0 +1,89 @@
+{
+  "article_id": 3764834,
+  "selection": {
+    "article_id": 3764834,
+    "url": "https://wallstreetcn.com/articles/3764834",
+    "title": "沃什接任联储主席的变与不变？",
+    "page_display_time": "2026-02-03T15:55:32+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": "华泰证券",
+    "page_source_url": null,
+    "page_attribution_note": "本文来源：华泰证券",
+    "category": "货币政策与通胀",
+    "reading_priority": "A",
+    "reading_value": "讨论主席个人主张、联储独立性和委员会约束，区分人事变化与政策框架。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2946,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 15
+  },
+  "url": "https://wallstreetcn.com/articles/3764834",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3764834?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:16+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/6cb04ceb-7e8c-49b9-85d0-8dcfd044ae17.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "本文来源：华泰证券",
+      "path": "assets/figure_001.png",
+      "sha256": "2e05208a2e33d8cbdab65a85fffc93cc657f63f2d5de32704aca1655588f6119",
+      "bytes": 201047,
+      "width": 928,
+      "height": 803,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/6cb04ceb-7e8c-49b9-85d0-8dcfd044ae17.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "沃什接任联储主席的变与不变？",
+  "page_display_time": "2026-02-03T15:55:32+08:00",
+  "page_byline": "赵颖",
+  "source_label": "华泰证券",
+  "source_url": "",
+  "subtitle": "华泰证券认为，美联储相关政策取向可能有所转变，沃什或试图推动“降息+缩表”的政策组合，美联储与特朗普的沟通可能更为顺畅。但特朗普政府呵护资本市场以及广义流动性的取向不变，货币政策总体取向仍然偏宽松。中期看，联储独立性被侵蚀，美元内在价值下降的趋势或不会改变。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 3025,
+  "body_sha256": "3d7bec4d8588e09a16a672822a37b19ece1b4798f469a3376506952200c7fe6b",
+  "raw_sha256": "9e609db3c86f29e7bfddbfc5ed806b8a90477f022b269169bdaef0756aafa047",
+  "raw_bytes": 12672,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/efba16a4-93c7-415c-b7c5-d377ddff6d82.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 2946,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "9e609db3c86f29e7bfddbfc5ed806b8a90477f022b269169bdaef0756aafa047",
+      "bytes": 12672
+    },
+    "article.html": {
+      "sha256": "144918b1389dc8961ee563198008c3dcadc9ee2536121b3206ccd7ebd44b9cfd",
+      "bytes": 12474
+    },
+    "article.md": {
+      "sha256": "1cdf362a1e9055f7cfcba9b1566c4c18a4d5b65d093e8d2e83a495b92b39d0a4",
+      "bytes": 9404
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:10+08:00"
+}

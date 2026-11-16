@@ -1,0 +1,109 @@
+{
+  "article_id": 3783331,
+  "selection": {
+    "article_id": 3783331,
+    "url": "https://wallstreetcn.com/articles/3783331",
+    "title": "张忆东：港股10月大概率反弹，先抑后扬，把握两条主线",
+    "page_display_time": "2026-10-10T18:21:27+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "王丽",
+    "page_author_url": "https://wallstreetcn.com/authors/120000001463",
+    "page_source_label": "投资作业本Pro",
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "跨资产与市场结构",
+    "reading_priority": "B",
+    "reading_value": "给出港美股、欧美债及盈利兑现的跨市场情景判断，便于追踪机构预期。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 4925,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 122
+  },
+  "url": "https://wallstreetcn.com/articles/3783331",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783331?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:45+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/1b53e424-89ed-458b-8fef-5c663efa0202.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "10月5日，海通国际首席经济学家张忆东发布策略周报，分享了对港美股、美债和欧债的看法。近期该团队的预警已多次应验。",
+      "path": "assets/figure_001.jpg",
+      "sha256": "1e316c4a8ec2d3bc4b2be202fd3a3cc63191a6074ff032c876b6cd2c75ebc01e",
+      "bytes": 18904,
+      "width": 915,
+      "height": 426,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/1b53e424-89ed-458b-8fef-5c663efa0202.jpeg"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/e60cb70c-8975-4774-9ad5-94191391987c.png?imageView2/2/w/640",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_002.png",
+      "sha256": "a970c682f898efa0cd45e8a6925b52e53d237a5d4737409ba9443873a7eb8e52",
+      "bytes": 60020,
+      "width": 640,
+      "height": 356,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/e60cb70c-8975-4774-9ad5-94191391987c.png?imageView2/2/w/640"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "张忆东：港股10月大概率反弹，先抑后扬，把握两条主线",
+  "page_display_time": "2026-10-10T18:21:27+08:00",
+  "page_byline": "王丽",
+  "source_label": "投资作业本Pro",
+  "source_url": "",
+  "subtitle": "掘金超级智能的应用主线，配置深度价值的非科技。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 4944,
+  "body_sha256": "e11d0840df21042fb586f98f7366535fe016fb626bcf92749ae7113acfb91e07",
+  "raw_sha256": "12330f5034a6c277288ffa9583766d9f6c3cc82cc09387f6361100b2df28cc08",
+  "raw_bytes": 20972,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/60e9ee66-ac0f-40aa-8e36-552f1fe8f934.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 4925,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "投资作业本Pro",
+      "url": "https://mp.weixin.qq.com/s/M_g-IXsbUe_4KDsOTmKgqA"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:40+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "12330f5034a6c277288ffa9583766d9f6c3cc82cc09387f6361100b2df28cc08",
+      "bytes": 20972
+    },
+    "article.html": {
+      "sha256": "fea248b69f060de2a9aeac44e70e043a0a361f905c71889470e590082a98c07e",
+      "bytes": 19986
+    },
+    "article.md": {
+      "sha256": "f754dc2ea9ff315c03d02720dcf9e42c0305d80880a4c6607be99c790cf669ea",
+      "bytes": 14910
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:29+08:00"
+}

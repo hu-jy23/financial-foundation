@@ -1,0 +1,89 @@
+{
+  "article_id": 3775862,
+  "selection": {
+    "article_id": 3775862,
+    "url": "https://wallstreetcn.com/articles/3775862",
+    "title": "伯恩斯坦上调闪迪目标价至3000美元，押注长协打破存储周期魔咒",
+    "page_display_time": "2026-06-30T20:21:26+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "A",
+    "reading_value": "以合同覆盖率、违约选择和压力测试讨论长协能否改变存储盈利周期。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1724,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 179
+  },
+  "url": "https://wallstreetcn.com/articles/3775862",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3775862?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:02+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/444aca6c-41c1-4f4e-a5ac-8524e093789f.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_001.png",
+      "sha256": "32529127c23d0301cbea2daef3523d77c673b9209b75d2317187ac87eb37ac41",
+      "bytes": 166683,
+      "width": 1024,
+      "height": 329,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/444aca6c-41c1-4f4e-a5ac-8524e093789f.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "伯恩斯坦上调闪迪目标价至3000美元，押注长协打破存储周期魔咒",
+  "page_display_time": "2026-06-30T20:21:26+08:00",
+  "page_byline": "李佳",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "伯恩斯坦将闪迪目标价从1700美元上调至3000美元，认为新一代长期供货协议（LTA）正重塑存储行业商业模式。新LTA采用固定或区间定价、引入金融担保、期限延至3-5年，形成双向约束，显著降低盈利波动。压力测试显示即便价格暴跌，LTA覆盖下的盈利仍远高于传统周期。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1799,
+  "body_sha256": "2dbda48293ce6274967b768d0d0ba0948c645778b8bdab45a759a2daaa6a1c53",
+  "raw_sha256": "dbac7523b566890cd0026c2e4c57dd53aef45f7693f4661682e8102164352da6",
+  "raw_bytes": 9794,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/6f1c3cf4-d642-4b51-85e7-10a86c90a4f3.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1724,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:45+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "dbac7523b566890cd0026c2e4c57dd53aef45f7693f4661682e8102164352da6",
+      "bytes": 9794
+    },
+    "article.html": {
+      "sha256": "a4fad5e64978fa7b778176c7f4563a5d001cab0784876bd7494f81d01b71cfeb",
+      "bytes": 9666
+    },
+    "article.md": {
+      "sha256": "2dafee767c547629e2cf70291768b249c8814c188d143229b90e67920a3057df",
+      "bytes": 5881
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:44+08:00"
+}

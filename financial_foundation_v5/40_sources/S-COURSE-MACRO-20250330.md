@@ -12,7 +12,7 @@ material_date: 2025-03-30
 
 用户上传文件名：2025（上）政经每周解读3.30.pdf。封面题名《2025（上）经济热点》，作者靳卫萍，清华大学经济学研究所；46 页。材料日期按用户文件名与 PDF 创建日期记录，不能据此推断每条消息的发生日或课堂首次讲述日。
 
-[完整原 PDF](originals/macro_course_20250330.pdf)｜[已整理的图文内容](../30_events/course/MACRO_20250330.md)｜[检索用文本层](transcripts/macro_course_20250330.txt)｜[页图校验记录](../assets/macro_course_20250330/manifest.json)
+[完整原 PDF](originals/macro_course_20250330.pdf)｜[已整理的图文内容](../30_events/course/MACRO_20250330.md)｜[检索用文本层](transcripts/macro_course_20250330.txt)｜[页图校验记录](<../assets/PPT：2025(上)经济热点/manifest.json>)
 
 ## 阅读范围与内容进入位置
 

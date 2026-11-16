@@ -1,0 +1,109 @@
+{
+  "article_id": 3755671,
+  "selection": {
+    "article_id": 3755671,
+    "url": "https://wallstreetcn.com/articles/3755671",
+    "title": "顶级AI模型走向分化：GPT to C，Claude to B",
+    "page_display_time": "2025-09-16T13:48:19+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "AI投资与商业化",
+    "reading_priority": "B",
+    "reading_value": "用API、消费端和企业端的收入与使用结构解释模型商业化分化，保留平台统计口径。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2264,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 148
+  },
+  "url": "https://wallstreetcn.com/articles/3755671",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3755671?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:51+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/92a10168-5dab-4d3b-a8eb-bf7e67517315.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "分析指出，这种收入结构差异反映了两家公司不同的战略重心。Claude专注于为企业客户提供可编程集成的AI能力，而ChatGPT则更多依赖订阅制的消费者服务模式。",
+      "path": "assets/figure_001.png",
+      "sha256": "c62b357cbf1ad013be7abad110291495018dab748b28a21aa9e2319d8efa859d",
+      "bytes": 145478,
+      "width": 1024,
+      "height": 470,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/92a10168-5dab-4d3b-a8eb-bf7e67517315.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/0b6bd385-8412-4ab1-afad-096d2ab1d337.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "令人意外的是，企业对AI使用成本的敏感性相对较低。",
+      "path": "assets/figure_002.png",
+      "sha256": "f8c007498119709e5c23d85f64849ede6558f975376610cbd37c0328fc6e05a0",
+      "bytes": 117808,
+      "width": 1024,
+      "height": 680,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/0b6bd385-8412-4ab1-afad-096d2ab1d337.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "顶级AI模型走向分化：GPT to C，Claude to B",
+  "page_display_time": "2025-09-16T13:48:19+08:00",
+  "page_byline": "董静",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "根据Anthropic经济指数报告，Claude用户中77%的使用场景集中在商业应用，36%专门用于编程任务，展现出明显的企业级特征。相比之下，OpenAI研究显示，ChatGPT有73%的用途与工作无关，更多承担着个人助手的角色。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2324,
+  "body_sha256": "87325d68cbaac352fb70d29ab11745b2886f20507cc0f01dceb3240dfaf841df",
+  "raw_sha256": "0303b43bd7a433caa208d4c29abaa481f945e0604e15c83db052fbfc821462bc",
+  "raw_bytes": 11861,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/5828fc6e-92d6-49e2-a738-fdddcf70ccc3.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 2264,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台此前消息",
+      "url": "https://wallstreetcn.com/articles/3754999"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:42+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "0303b43bd7a433caa208d4c29abaa481f945e0604e15c83db052fbfc821462bc",
+      "bytes": 11861
+    },
+    "article.html": {
+      "sha256": "283725426ae5c16ddc172908c69f7a6b80517e2704559ce156d5d302f86e7882",
+      "bytes": 11699
+    },
+    "article.md": {
+      "sha256": "17c328d7f0d4016efbab5097d1cabf72d36af5393adf1a58e9f4c23f16f07dd3",
+      "bytes": 6744
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:37+08:00"
+}

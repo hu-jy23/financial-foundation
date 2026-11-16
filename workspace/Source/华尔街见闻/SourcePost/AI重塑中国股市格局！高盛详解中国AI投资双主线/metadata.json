@@ -1,0 +1,102 @@
+{
+  "article_id": 3783403,
+  "selection": {
+    "article_id": 3783403,
+    "url": "https://wallstreetcn.com/articles/3783403",
+    "title": "AI重塑中国股市格局！高盛详解中国AI投资双主线",
+    "page_display_time": "2026-10-12T11:12:58+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "AI投资与商业化",
+    "reading_priority": "B",
+    "reading_value": "按外需供应链与国内AI生态拆分中国AI企业的收入驱动、政策敏感性与估值。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 3231,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 156
+  },
+  "url": "https://wallstreetcn.com/articles/3783403",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783403?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:54+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_001.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "AI重塑中国股市格局！高盛详解中国AI投资双主线",
+  "page_display_time": "2026-10-12T11:12:58+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "高盛最新报告揭示，DeepSeek横空出世以来，中国AI股票已创造近5万亿美元市值，占A股和H股成交额高达57%。高盛将投资机会锁定为\"出口商\"与\"内需龙头\"两条主线——前者累计涨幅达126%，后者在近期回调中更具韧性。更关键的是，国际投资者对中国AI股票配置比例仅5.8%，显著低配或意味着巨大资金流入空间。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 3297,
+  "body_sha256": "49c53a26bb859489c5cd899025011709208c517796f1412b4cb2c80614bbee28",
+  "raw_sha256": "be0b1ec0d6451ec36cd61b3df43e95f1355fa419044d44dc63c2d76ed03190c9",
+  "raw_bytes": 13690,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/4fbd9a45-6f8a-4068-95e1-b3ad6dae33a5.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 3231,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:43+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "be0b1ec0d6451ec36cd61b3df43e95f1355fa419044d44dc63c2d76ed03190c9",
+      "bytes": 13690
+    },
+    "article.html": {
+      "sha256": "5e587e1be323fd12abe8f6b7f4e1fe1b7b26b991f5cdb9475c6715751d6ac5a9",
+      "bytes": 13354
+    },
+    "article.md": {
+      "sha256": "13ad6b668684345ac84725cfe06904a675bf59b0e7707b8c364e49f12fb3c663",
+      "bytes": 9844
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:39+08:00"
+}

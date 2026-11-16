@@ -1,0 +1,132 @@
+{
+  "article_id": 3755665,
+  "selection": {
+    "article_id": 3755665,
+    "url": "https://wallstreetcn.com/articles/3755665",
+    "title": "Meta的AR眼镜要来了，供应链收益远高于AI眼镜",
+    "page_display_time": "2025-09-16T15:03:34+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李笑寅",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004684",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "行业与公司商业模式",
+    "reading_priority": "B",
+    "reading_value": "拆分AI眼镜与AR眼镜的BOM及组件价值量，讨论供应链利润池变化。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1727,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 195
+  },
+  "url": "https://wallstreetcn.com/articles/3755665",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3755665?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:06+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/ecad5cba-123b-4c7c-ac64-12405eb71092.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "Meta已在积极布局，除了计划于2025年下半年推出的单目全彩AR眼镜，还打算在2026年推出采用不同技术路径的双目AR眼镜。此外，亚马逊、字节跳动和阿里巴巴也正在开发相关产品。",
+      "path": "assets/figure_001.png",
+      "sha256": "15c7e2d3a62e564990fa6cbe617704927904141e99297febd5ff3f249f6fb512",
+      "bytes": 34589,
+      "width": 365,
+      "height": 329,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/ecad5cba-123b-4c7c-ac64-12405eb71092.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/ab359624-3e55-4216-92dc-7fa8b6817d26.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "~~~~~~~~~~~~~~~~~~~~~~~~",
+      "path": "assets/figure_002.png",
+      "sha256": "5b3d45031cad0c19db3976a4f0f496f48603e8572a73357a969e5f93349cfe91",
+      "bytes": 48157,
+      "width": 499,
+      "height": 325,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/ab359624-3e55-4216-92dc-7fa8b6817d26.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_003.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "Meta的AR眼镜要来了，供应链收益远高于AI眼镜",
+  "page_display_time": "2025-09-16T15:03:34+08:00",
+  "page_byline": "李笑寅",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "美银估算，一副AI眼镜的物料清单（BOM）成本目前约为150美元，而一副双目AR眼镜的BOM成本则在400美元至1000美元以上，高成本主要源于光学波导和微显示器两项组件。预计到2030年智能眼镜组件的市场规模将从2024年的不足10亿美元飙升至140亿美元以上，核心光学组件供应商最有望受益。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1799,
+  "body_sha256": "3dc49cebfa06282723ae81bd1d27470b40c6e63d8c77d073f8f187458944886e",
+  "raw_sha256": "e2ec7788e2f560a72dd71950b3b6c6982fc6feb896b017f1274a1e68b9377aea",
+  "raw_bytes": 10749,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/525c3094-5547-4de0-aa96-da68feab8ba9.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 1727,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:47+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "e2ec7788e2f560a72dd71950b3b6c6982fc6feb896b017f1274a1e68b9377aea",
+      "bytes": 10749
+    },
+    "article.html": {
+      "sha256": "e510b45e769e25eaeabe9046878948f5551c483de4199cc4e134686641242662",
+      "bytes": 10533
+    },
+    "article.md": {
+      "sha256": "abc6cd1faeb8ad02baddabeb28a12b52e552e09fc3f4f7be109df834e29eea9a",
+      "bytes": 5821
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:48+08:00"
+}

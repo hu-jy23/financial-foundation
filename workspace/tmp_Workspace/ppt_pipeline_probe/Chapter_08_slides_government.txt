@@ -1,0 +1,1446 @@
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+                                               Slides for Chapter 8
+
+
+                                                The Twin Deficits:
+
+                Fiscal Deficits and the Current Account
+
+                                                      Columbia University
+
+                                                       September 6, 2022
+
+
+
+
+These are the slides for the textbook, “International Macroeconomics: A Modern Approach,” by
+Stephanie Schmitt-Grohé, Martı́n Uribe, and Michael Woodford, Princeton University Press, 2022,
+ISBN: 9780691170640.
+                                                                                                          1
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Motivation
+
+An important question in macroeconomics is whether fiscal deficits
+cause current account deficits. There are 2 opposing views: (1)
+tax-cut induced fiscal deficits lead to current account deficits (twin
+deficits); and (2) tax cuts have no effect on the current account
+(Ricardian equivalence);
+
+(1) Twin deficits: A tax cut increases household income and stim-
+ulates consumption spending, deteriorating the current account.
+
+(2) Ricardian equivalence: A tax cut generates a fiscal deficit and
+hence public debt. In the future this debt must be repaid, which re-
+quires an increase in taxes. Households understand this and save the
+tax cut to pay the higher future taxes. Consumption is unchanged.
+
+This chapter analyzes conditions under which each of the two views
+are valid. In addition, it studies whether similar opposing views arise
+when the fiscal deficit is a consequence of changes in government
+consumption rather than reductions in taxes (or increases in govern-
+ment transfers).
+                                                                                                          2
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+An Open Economy with a Government Sector
+
+Two-period small open economy of Chapter 5 but with a govern-
+ment that consumes goods (government spending), levies taxes, and
+issues debt.
+
+
+
+
+                                                                                                          3
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+The Government
+
+Gt = government purchases of goods and services in period t = 1, 2,
+which are exogenously given.
+
+Tt = lump-sum taxes in period t = 1, 2. The term lump-sum taxes
+refers to taxes that do not depend on any economic characteristic
+of the taxpayer, such as income, spending, or wealth.
+
+   g
+Bt−1 = bond holdings of the government at the start of period t for
+              g
+t = 1, 2. If Bt−1 < 0, we say there is public debt outstanding.
+
+
+
+
+                                                                                                          4
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 8: Twin Deficits
+
+
+
+
+The government budget constraint in period 1
+                                                               g            g        g
+                                              G1 + B1 − B0 = T1 + r0B0 ,                                 (1)
+The left-hand side represents outlays in period 1: purchases of
+                                        g    g
+goods, G1, and purchases of bonds, B1 − B0 . The right-hand side
+represents sources of funds in period 1: tax revenues, T1, and inter-
+est income on bonds, r0B0g .
+
+The government budget constraint in period 2
+                                                               g            g        g
+                                              G2 + B2 − B1 = T2 + r1B1 .                                 (2)
+
+
+At the end of period 2, the government cannot leave debts and does
+not want to leave assets. Thus
+                                                                        g
+                                                                    B2 = 0.                              (3)
+
+
+                                                                                                              5
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 8: Twin Deficits
+
+
+
+
+                                                                            g        g
+Combining (1)-(3) to eliminate B1 and B2 , we obtain the intertem-
+poral government budget constraint,
+                                              G2              g          T2
+                               G1 +                = (1 + r0)B0 + T1 +        .                          (4)
+                                            1 + r1                     1 + r1
+It says that the present discounted value of government consumption
+(the left-hand side) must be equal to the sum of initial asset holdings
+including interest and the present discounted value of tax revenue
+(the right-hand side).
+
+There exist many tax policies T1 and T2 that can finance a given
+path of government consumption, G1 and G2. But given taxes in
+one period, taxes in the other period are pinned down.
+
+In particular, a tax cut in period 1 must be offset by a tax increase
+in period 2.
+
+
+                                                                                                              6
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 8: Twin Deficits
+
+
+
+
+Firms
+
+As in Chapter 5, firms borrow in period 1 to invest in capital goods
+that become productive in period 2.
+                                                            Q2 = A2F (I1),
+where Q2 denotes output in period 2, A2 is an exogenous productivity
+factor, I1 is investment made in period 1 that becomes productive in
+period 2 and F (·) is an increasing and concave production function.
+
+In period 2, the firm must repay the loan with interest. The firm
+chooses I1 to maximize profits:
+                                              Π2 = A2F (I1) − (1 + r1)I1.
+First-order optimality condition
+                                                         A2F 0(I1) = 1 + r1
+which implies that investment is decreasing in r1 and independent
+of taxes or government spending
+                                                                 I1 = I(r1 ).                            (5)
+                                                                                     −
+
+                                                                                                              7
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 8: Twin Deficits
+
+
+
+
+Firms (continued)
+
+Using (5), we can express profits as A2F (I(r1 )) − (1 + r1)I(r1 ). As
+in Chapter 5, we then have
+
+                                                               Π2 = Π(r1).                               (6)
+                                                                                     −
+Firms are assumed to be owned by households to whom they dis-
+tribute profits in period 2. We introduce the household sector next.
+
+
+
+
+                                                                                                              8
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Households
+                                                          max ln C1 + ln C2                          (7)
+                                                       {C1 ,C2 }
+subject to
+                                        C1 + B1h − B0h = r0B0h + Q1 − T1,                            (8)
+
+                                     C2 + B2h − B1h = r1B1h + Π(r1) − T2,                            (9)
+where Bth denotes the bond holdings of the household at the end of
+period t, for t = 0, 1, 2.
+
+Income net of taxes is called disposable income, that is, Q1 − T1 and
+Π(r1) − T2 denotes disposable income.
+
+The no-Ponzi game constraint and the transversality condition imply
+that
+                                                                    B2h = 0.                      (10)
+
+                                                                                                          9
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Households (continued)
+
+Combining equations (8)-(10) yields the household’s intertemporal
+budget constraint
+                                  C2                             Π(r1) − T2
+                    C1 +               = (1 + r0)B0h + Q1 − T1 +            .                     (11)
+                                1 + r1                             1 + r1
+
+
+Solve (11) for C2
+                               h
+                                        h      i
+        C2 = (1 + r1) (1 + r0)B0 + Q1 − T1 − C1 + Π(r1) − T2 .                                    (12)
+
+
+
+
+                                                                                                        10
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                      Chapter 8: Twin Deficits
+
+
+
+
+Households (concluded)
+To find the optimal consumption path, use (12) to eliminate C2
+from the utility function (7). This operation gives
+                                            ln C1 + ln (1 + r1)(Ȳ − C1) ,                                           (13)
+                                                                                        
+
+where
+                                                                                     Π(r1) − T2
+                               Ȳ = (1 + r0)B0h + Q1 − T1 +                                     .
+                                                                                       1 + r1
+The household chooses C1 to maximize (13), taking as given Ȳ and
+                                               1 Ȳ , or
+r1. The resulting optimality condition is C1 = 2
+                                           "                                                        #
+                 1                         Π(r1) − T2
+                   (1 + r0)B0h + Q1 − T1 +
+                          C1 =                        .        (14)
+                 2                           1 + r1
+Note that C1 depends only on the present discounted value of taxes,
+T1 + T2/(1 + r1). Using (14) to eliminate C1 from (12) gives
+                                                "                                                       #
+               1 + r1                          Π(r1) − T2
+                       (1 + r0)B0h + Q1 − T1 +
+                    C2 =                                  , (15)
+                  2                              1 + r1
+which says that also C2 depends only on the present discounted
+value of taxes, T1 + T2 /(1 + r1).
+                                                                                                                           11
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 8: Twin Deficits
+
+
+
+
+Equilibrium
+
+Because the economy is small and there is free capital mobility, the
+domestic interest rate, r1, equals the world interest rate, r∗
+                                                                    r1 = r ∗ .                        (16)
+The country’s net foreign asset position at the beginning of period 1,
+denoted B0 , is given by the sum of private and public asset holdings;
+that is,
+                                                                                     g
+                                                            B0 = B0h + B0 .                           (17)
+Combining (4), (14), (16), and (17) yields the equilibrium level of
+consumption in period 1,
+                                                          ∗
+                                          "                       #
+                              1                        Π(r ) − G2
+                         C1 =   (1 + r0)B0 + Q1 − G1 +        ∗
+                                                                    .                                 (18)
+                              2                          1+r
+A similar operation using (15) delivers the equilibrium level of con-
+sumption in period 2,
+                            1 + r∗                                      ∗
+                                          "                                     #
+                                                                     Π(r ) − G2
+              C2 =                            (1 + r0)B0 + Q1 − G1 +        ∗
+                                                                                  .                   (19)
+                                 2                                     1+r
+                                                                                                            12
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”            Chapter 8: Twin Deficits
+
+
+
+
+Equilibrium (concluded)
+
+The trade balance in period 1, denoted T B1 , is
+
+                                                T B1 = Q1 − C1 − G1 − I1.
+Using (5) and (18) to eliminate I1 and C1, we have
+                                         Π(r∗) − G2
+                             "                                                       #
+               1
+        T B1 =   −(1 + r0)B0 + Q1 − G1 −                                                 − I(r∗).          (20)
+               2                           1 + r∗
+and
+                                            ∗
+                             "                      #
+               1                         Π(r ) − G2         ∗
+         CA1 =   −(1 − r0)B0 + Q1 − G1 −        ∗
+                                                      − I(r   ).                                           (21)
+               2                           1+r
+
+
+
+
+                                                                                                                 13
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Discussion Neither T1 nor T2 appear in equations (18)-(21). This
+means that given G1 and G2 , any combination of taxes T1 and T2
+satisfying the government’s intertemporal budget constraint (4) is
+associated with the same equilibrium levels of private consumption,
+the trade balance, and the current account.
+
+This result is known as Ricardian equivalence.
+
+Intuition: Suppose the government cuts taxes in period 1, and
+leaves G1 and G2 unchanged. Then the tax cut must be financed
+with public debt. Repaying the higher public debt requires increasing
+taxes in period 2. In period 1, households anticipate that the tax
+cut will require higher taxes in period 2. Consequently, instead of
+spending part of the tax cut on consumption goods, households keep
+consumption unchanged and save all of the tax cut.
+
+This intuition for why Ricardian equivalence holds in this economy
+is based on the idea that a tax cut (i.e., a reduction in government
+saving) is exactly offset by an increase in private saving. Let’s show
+this result more formally.
+                                                                                                        14
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+                                                                          g
+Government saving, denoted S1 , is
+                                                        g                 g
+                                                      S1 = r0B0 + T1 − G1 .
+                                        g
+Given G1 and r0B0 , any change in T1 must be reflected one-for-one
+by a change in government saving; that is,
+                                                                      g
+                                                               ∆S1 = ∆T1.                         (22)
+                                                             p
+Private saving, denoted S1, is
+                                                  p
+                                               S1 = Q1 + r0B0h − T1 − C1.
+By (18), for given G1 and G2 , C1 is independent of taxes. Thus,
+given Q1 +r0 B0h , any change in T1 leads to a change in private saving
+of equal size but opposite sign; that is,
+                                                                     p
+                                                             ∆S1 = −∆T1 .                         (23)
+
+
+
+                                                                                                        15
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 8: Twin Deficits
+
+
+
+
+National saving, denoted S1, is
+                                                                             g       p
+                                                             S1 = S1 + S1 .
+and changes in national saving hence are
+
+                                 ∆S1 = ∆S1g + ∆S1p = ∆T1 − ∆T1 = 0.
+This expression confirms the intuition we gave for why Ricardian
+equivalence holds in this economy; namely, that given the path of
+government spending, a change in taxes causes changes in gov-
+ernment and private saving that exactly offset each other, leaving
+national saving unchanged. With investment unaffected by the tax
+change, we have that the current account is also unchanged, that
+is, the model fails to predict twin deficits.
+
+Next we study whether the model can predict twin deficits when
+fiscal deficits are caused by changes in government spending as op-
+posed to changes in taxes.
+
+                                                                                                            16
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Government Spending and Twin Deficits
+
+A change in government spending in period 1, G1, has the same
+effect as a change in the endowment but in the opposite direction.
+To see this, take a look at equilibrium conditions (18)-(21).
+                                                                     ∗
+                                                     "                        #
+                                      1                          Π(r ) − G2
+          C1 =                            (1 + r0)B0 + Q1 − G1 +                                  (18)
+                                      2                            1 + r∗
+                                      ∗                              ∗
+                                        "                                     #
+                                  1+r                            Π(r ) − G2
+          C2 =                            (1 + r0)B0 + Q1 − G1 +                                  (19)
+                                    2                              1 + r∗
+                                                             ∗
+                               "                                     #
+                             1                            Π(r ) − G2         ∗)
+      T B1 =                     −(1 + r0)B0 + Q1 − G1 −               − I(r                      (20)
+                             2                              1 + r∗
+                                                             ∗
+                               "                                     #
+                             1                            Π(r ) − G2         ∗)
+      CA1 =                      −(1 − r0)B0 + Q1 − G1 −               − I(r                      (21)
+                             2                              1 + r∗
+Notice that G1 always appears in the form Q1 − G1. Hence all we
+have learned about the effects of endowment shocks in Chapter 3
+is applicable to understanding the effects of government spending
+shocks. Let’s start with a temporary increase in government spend-
+ing.
+                                                                                                        17
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+A temporary increase in government spending
+
+
+A temporary increase in government spending reduces private con-
+sumption but by less than the change in government spending itself.
+(Partial crowding out of private consumption)
+                                    1
+                          ∆C1 = − ∆G1
+                                    2
+Because the world interest rate is unaffected, the change in govern-
+ment spending has no effect on investment
+
+                                                                   ∆I1 = 0
+Hence overall effect on domestic absorption is positive
+                             1            1
+      ∆(C1 + I1 + G1 ) = − ∆G1 + 0 + ∆G1 = ∆G1 > 0
+                             2            2
+Output in period 1 is fixed at Q1
+
+                                                                  ∆Q1 = 0
+
+                                                                                                        18
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+A temporary increase in government spending (concluded)
+
+
+Increase in G1 leads to T B1 and CA1 deficits:
+                                          1       1
+      ∆T B1 = ∆Q1 − ∆(C1 + I1 + G1 ) = 0 − ∆G1 = − ∆G1 < 0.
+                                          2       2
+                                                      ∆CA1 = ∆T B1 < 0
+
+
+What about twin deficits?
+– If the increase in government spending is not fully financed by an
+increase in current taxes, the fiscal deficit in period 1 increases. In
+this case, the expansion in government spending causes an increase
+in both the fiscal and the current account deficits ⇒ twin deficits.
+– But if it is accompanied with a commensurate increase in current
+taxes (∆T1 = ∆G1), then there is no twin deficit.
+
+
+                                                                                                        19
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+An expected future increase in government spending
+
+Experiment: In period 1 it is learned that G2 will increase.
+
+In equilibrium conditions (18)-(21), G2 always appears together with
+period-2 income, Π(r∗) − G2 . Thus, an expected increase in G2 is
+equivalent to an expected fall in income in that period and should
+lower C1:
+                                  1
+                     ∆C1 = −          ∗
+                                        ∆G2 < 0.
+                              2(1 + r )
+The fall in C1 is smaller than the increase in G2 because households
+smooth the adjustment over time.
+
+By (20) and (21), the increase in G2 leads to an improvement in
+the trade balance and the current account in period 1.
+                                   1
+                                  ∆T B1 = ∆CA1 =
+                                      ∗
+                                         ∆G2 > 0.
+                               2(1 + r )
+Twin Surpluses/Deficits? In general not, only if taxes move to
+make it so.
+                                                                                                        20
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+A permanent increase in government spending
+Experiment: ∆G1 = ∆G2 = ∆G > 0
+The current account should not change much. The intuition is
+similar to that behind a permanent fall in the endowment. (Adjust
+to permanent shocks.) Formally,
+                                                    r∗
+       ∆CA1 = ∆T B1 = ∆Q1 − ∆(C1 + I1 + G1 ) = −        ∗
+                                                           ∆G,
+                                                 2(1 + r )
+which is a small number if r∗ is small.
+
+It follows that permanent increases in government spending in gen-
+eral do not lead to twin deficits.
+
+In sum, the present model can capture the twin deficit hypothesis
+when changes in the fiscal deficit are caused by temporary changes
+in government spending, but in general cannot capture it when they
+are caused by permanent or future expected changes in government
+spending. In the next section, we return to the question under what
+conditions tax cuts generate twin deficits.
+                                                                                                        21
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Failure of Ricardian Equivalence: Tax Cuts and Twin Deficits
+
+The conclusion that tax cuts don’t cause twin deficits is a con-
+sequence of Ricardian equivalence. The assumptions under which
+Ricardian equivalence obtains, however, are special:
+
+– households face no borrowing constraints,
+
+– households expect tax cuts to be followed by higher future taxes
+
+– all taxes are lump sum.
+
+When relaxing any of these three assumptions, as we will show next,
+tax cuts can lead to twin deficits.
+
+Main takeaway: Ricardian equivalence is a fragile result.
+
+                                                                                                        22
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                              Chapter 8: Twin Deficits
+
+
+
+
+Borrowing Constraints
+
+An example of a simple borrowing (or liquidity) constraint is that
+households can save but that they cannot borrow: B1h ≥ 0
+
+Adjustment to a Temporary Tax The downward-sloping line is the household’s in-
+Cut When Households are Borrowing tertemporal budget constraint. Initial wealth of
+                                  the household is assumed to be zero, B0h = 0.
+Constrained                       Disposable income is at point A. In the absence
+      C2
+                                                                              of borrowing constraints, the household chooses
+                                                                              a consumption allocation given by point B, where
+                                                                              an indifference curve is tangent to the intertem-
+                                                                              poral budget constraint. In the presence of bor-
+                  A                                                           rowing constraints, only allocations on the in-
+                                                                              tertemporal budget constraint and northwest of
+                            A0                                                point A are feasible. The borrowing constraint
+                                                                              forces the household to consume its disposable
+                                                                              income, point A. A tax cut equal to T1 − T10
+                                     B
+                                                                              increases disposable income to point A0. Since
+                                                                              the household is still borrowing constrained, con-
+                                                                              sumption increases by the same amount as the
+                                                                              tax cut (∆C1 = −∆T1 ), and the new allocation
+              Q1 − T1   Q1 − T10                                    C1
+                                                                              is at point A0 .
+
+
+
+                                                                                                                                   23
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Borrowing Constraints (continued)
+In the figure, the borrowing constraint is binding before and after
+the tax cut. Thus, we have
+                                                             ∆C1 = −∆T1 .
+That is, Ricardian equivalence fails.
+
+When neither firms nor the government are liquidity constrained, in-
+vestment and government purchases are unaffected by the tax cut.
+Since output in period 1 is given by an exogenous endowment,
+the trade balance and the current account deteriorate by the same
+amount as the increase in consumption:
+                                             ∆T B1 = ∆CA1 = ∆T1 < 0.
+Because the tax cut causes a reduction in public saving (or an in-
+crease in the fiscal deficit) in period 1,
+                                                                  g
+                                                          ∆S1 = ∆T1 < 0.
+It follows that in the presence of borrowing constraints, tax cuts
+generate twin deficits.
+                                                                                                        24
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Intergenerational Effects
+
+A second reason why Ricardian equivalence could fail is that those
+who benefit from a tax cut are not the ones that pay for the tax
+increase later.
+
+Consider an endowment economy in which households live for only
+one period.
+
+Budget constraint of the generation alive in period 1: C1 + T1 = Q1
+
+Budget constraint of the generation alive in period 2: C2 + T2 = Q2.
+
+Tax cut in period 1 paid for with tax increase in period 2: ∆C1 =
+−∆T1 > 0 and ∆C2 = −∆T2 < 0. ⇒ trade balance and the current
+account in period 1 decline one-for-one with the decline in taxes.
+
+                                                                                                        25
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Distortionary Taxation
+
+Finally, Ricardian equivalence may also break down if taxes are dis-
+tortionary rather than lump sum.
+
+Example: proportional tax on consumption, τ1 and τ2. After-tax
+cost of consumption becomes (1 + τ1)C1 and (1 + τ2 )C2.
+
+Effect of tax cut in period 1, a decline in τ1, financed with an
+increase in τ2: C1 becomes cheaper relative to C2 inducing house-
+holds to consume more in period 1 and less in period 2. Thus, unlike
+changes in lump-sum taxes, changes in distortionary taxes can have
+real effects.
+
+Let’s derive this breakdown of Ricardian equivalence more formally.
+
+
+                                                                                                        26
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Distortionary Taxation (continued)
+
+Household problem
+Household budget constraints in periods 1 and 2
+
+                                    (1 + τ1)C1 + B1h − B0h = r0B0h + Q1,                          (24)
+
+                                 (1 + τ2)C2 + B2h − B1h = r1B1h + Π(r1).                          (25)
+
+
+Combining these two budget constraints and the transversality con-
+dition (10) yields the intertemporal budget constraint
+                        (1 + τ2)C2            h        Π(r1)
+           (1 + τ1)C1 +            = (1 + r0)B0 + Q1 +        .                                   (26)
+                          1 + r1                       1 + r1
+
+
+
+
+                                                                                                        27
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Distortionary Taxation (continued)
+
+Household chooses C1 and C2 to maximize
+
+                                                          max ln C1 + ln C2                          (7)
+                                                       {C1 ,C2 }
+
+subject to (26), taking as given τ1, τ2 , Q1, (1 + r0)B0h , and r1.
+
+Solve (26) for C2 and then eliminate C2 from utility function (7), to
+obtain
+                  (         "                          #)
+                              1 + r1                 
+             max ln C1 + ln          Ȳ − (1 + τ1)C1      ,
+             {C1}             1 + τ2
+
+
+where Ȳ ≡ (1 + r0)B0h + Q1 + Π(r
+                              1+r
+                                  1) .
+                                                                             1
+
+
+
+
+                                                                                                        28
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Distortionary Taxation (continued)
+
+Taking the derivative with respect to C1 and equating it to zero
+yields the following Euler equation
+                                                     C2   1 + τ1
+                                                        =        (1 + r1).                        (27)
+                                                     C1   1 + τ2
+
+It says that cuts in τ1 financed by increases in τ2 will make the
+household consume relatively more in period 1 and relatively less in
+period 2.
+
+A consumption tax distorts the intertemporal relative price of con-
+sumption. The household perceives that one unit of consumption
+                  1+τ1
+in period 1 costs 1+τ   (1 + r1) units of consumption in period 2,
+                      2
+whereas the true relative price is 1 + r1.
+
+Only if the government sets τ1 = τ2, does this intertemporal distor-
+tion disappear.
+                                                                                                        29
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Distortionary Taxation (continued)
+
+Firms
+The problem of the firm is the same as in the economy with lump-
+sum taxes studied earlier in this chapter. The investment and profit
+schedules continue to be given by (5) and (6) and therefore they
+are independent of the consumption tax rates τ1 and τ2.
+
+
+
+
+                                                                                                        30
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                                               Chapter 8: Twin Deficits
+
+
+
+
+Distortionary Taxation (continued)
+Equilibrium
+Under free capital mobility, r1 = r∗.
+
+Solve the Euler equation (27) for C2. Eliminate C2 from the house-
+hold’s intertemporal budget constraint (26). Replace r1 with r∗.
+This yields the equilibrium level of C1
+                                                                                                                        Π(r∗)
+                                                                    "                                                                  #
+                                                1
+                             C1 =                     (1 + r0)B0h + Q1 +     ∗
+                                                                               .                                                                               (28)
+                                            2(1 + τ1)                    1+r
+In equilibrium C1 is decreasing in τ1. An increase in τ1 makes C1
+more expensive, inducing households to cut demand.∗
+
+This result represents a departure from Ricardian equivalence:
+Given the path of government spending, changes in the timing of
+distortionary taxes have an effect on the equilibrium level of con-
+sumption.
+∗ Note that consumption in period 1 does not depend on taxes in period 2, τ . This is a special result due to the assumption of log-linear preferences. Under this type
+                                                                              2
+  of preferences, an increase in τ2 creates income and substitution effects that exactly offset each other. By the substitution effect, an increase in τ2 raises the demand
+  for C1 because it makes it relatively cheaper. By the income effect, an increase in τ2 makes the household poorer and reduces the demand for C1 . Under different
+  preference specifications, the income and substitution effects associated with a change in τ2 may not exactly offset each other.
+
+
+                                                                                                                                                                      31
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Distortionary Taxation (continued)
+
+Consumption tax cut leads to current account deficit
+The trade balance equals T B1 = Q1 −G1 −I1 −C1. Cut in τ1, holding
+constant G1 , deteriorates T B1 through the increase in C1:
+
+                                                       ∆T B1 = −∆C1 < 0
+
+
+The current account is equal to CA1 = r0B0 + T B1. It also deteri-
+orates and by the same magnitude as the trade balance:
+
+                                           ∆CA1 = ∆T B1 = −∆C1 < 0.
+
+
+This shows that when taxes are distortionary, a cut in period-1 taxes
+can lead to an increase in the current account deficit.
+
+To establish whether the tax cut causes twin deficits, it remains to
+show that the tax cut, holding government expenditures constant,
+leads to a fiscal deficit.
+                                                                                                        32
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”               Chapter 8: Twin Deficits
+
+
+
+
+Distortionary Taxation (concluded)
+
+Consumption tax cut also leads to fiscal deficit
+Tax revenue in period 1 is τ1C1. Government saving in period 1:
+                                                     g                 g
+                                                  S1 = r0B0 + τ1C1 − G1 .                                     (29)
+The tax cut lowers revenue because τ1 falls but it also increases rev-
+enue because the tax base, C1, increases. Which effect dominates?
+
+Use equation (28) to eliminate C1
+                                                                                     Π(r∗)
+                                                                 "                           #
+              g      g      τ1
+             S1 = r0B0 +            (1 + r0)B0h + Q1 +     ∗
+                                                             − G1.
+                         2(1 + τ1 )                    1+r
+The factor τ1/(1 + τ1) is strictly increasing in τ1 . Therefore, a
+decline in τ1 reduces government saving; that is, it increases the
+fiscal deficit.
+
+We have therefore established that with distortionary consumption
+taxes, tax cuts can generate twin deficits.
+                                                                                                                    33
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+The Optimality of Twin Deficits
+
+Let’s revisit the question of whether an increase in government
+spending can generate a twin deficit. Earlier in this chapter we
+showed that this is the case when taxes are lump sum and the in-
+crease is temporary. We now wish to see whether this result is robust
+to assuming that taxes are distortionary.
+
+Given τ1, by (28) C1 is independent of G1 . Hence, CA1 = r0B0 +
+Q1 − C1 − I(r∗ ) − G1 falls one for one as G1 increases. Given τ1,
+equation (29) says that government saving also deteriorates one for
+one with G1.
+
+Thus, under distortionary consumption taxes it continues to be the
+case that an increase in government spending in period 1 holding
+the tax rate in period 1 constant causes a twin deficit.
+
+                                                                                                        34
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+The Optimality of Twin Deficits (continued)
+
+But why would the government want to keep τ1 constant when G1
+increases and finance the spending increase entirely with an increase
+in τ2?
+
+Note that given (G1, G2 ), there is an infinite number of tax rate
+paths, (τ1, τ2), that guarantee the satisfaction of the government’s
+intertemporal budget constraint and are consistent with equilibrium.
+
+Each of these tax rate paths gives rise to a different consumption
+path, (C1, C2), and as a result generates a different level of welfare
+for the household.
+
+A natural question therefore is which of these tax rate paths a benev-
+olent government should choose. The objective of this section is to
+address this question.
+                                                                                                        35
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+The Optimality of Twin Deficits (continued)
+
+Ramsey Optimal Consumption Tax Policy
+A benevolent government is a government that implements policies
+that maximize the welfare of households. The equilibrium tax rate
+path that maximizes the welfare of households is called the Ramsey
+optimal tax policy.
+
+How to find the Ramsey optimal tax path, (τ1 , τ2)? Let’s start by
+stating the equilibrium conditions. For simplicity, let’s assume that
+  g
+B0 = B0h = 0.
+
+
+
+
+                                                                                                        36
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+The Optimality of Twin Deficits (continued)
+
+Given the path of government spending (G1 , G2), an equilibrium is a
+path of tax rates (τ1, τ2) and a path of private consumption (C1, C2),
+that satisfy the household’s Euler equation (27) and intertemporal
+budget constraint (26), both evaluated at r1 = r∗, and the following
+intertemporal government budget constraint
+                                                          G2            τ2C2
+                                            G1 +             ∗
+                                                               = τ C
+                                                                  1 1 +     ∗
+                                                                              .                   (30)
+                                                         1+r            1+r
+
+These are three equations in four unknowns, C1, C2, τ1, and τ2. It
+follows that there are in principle many choices for the consumption
+tax path.
+
+The government can pick one of the two tax rates arbitrarily. This
+choice has welfare consequences for the household, because, in gen-
+eral, it affects the path of consumption. The question we wish to
+address is how should the government use this degree of freedom to
+maximize the household’s well-being, or, as Ramsey would have it,
+“to minimize the decrement of utility.”
+                                                                                                        37
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”          Chapter 8: Twin Deficits
+
+
+
+
+The Optimality of Twin Deficits (continued)
+
+The Ramsey Problem
+
+                                                          max               ln C1 + ln C2                   (7)
+                                                  {C1,C2 ,τ1 ,τ2 }
+subject to
+                                                      C2   1 + τ1
+                                                         =        (1 + r∗),                              (31)
+                                                      C1   1 + τ2
+
+                                             (1 + τ2 )C2        Π(r∗)
+                                (1 + τ1)C1 +         ∗
+                                                         = Q1 +     ∗
+                                                                      ,                                  (32)
+                                               1+r              1+r
+                                                          G2            τ2C2
+                                            G1 +             ∗
+                                                               = τ C
+                                                                  1 1 +     ∗
+                                                                              ,                          (30)
+                                                         1+r            1+r
+given G1 and G2 .
+
+The Ramsey problem seems daunting, as it involves three constraints
+and four control variables. However, as it turns out, it is a fairly easy
+problem to solve.
+                                                                                                               38
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+The Optimality of Twin Deficits (continued)
+Solving the Ramsey problem
+Combine equilibrium conditions (32) and (30), to obtain
+                                          C2               Π(r∗) − G2
+                                   C1 +        = Q1 − G1 +            .                           (33)
+                                        1 + r∗               1 + r∗
+
+Note that equations (31), (32), and (30) are satisfied if and only if
+equations (31), (32), and (33) are satisfied.
+
+So we can restate the Ramsey problem as picking C1, C2, τ1, and
+τ2 to maximize the utility function (7) subject to (31), (32), and
+(33).
+
+Here is the trick that makes solving this problem easy. Consider solv-
+ing the less restricted problem of picking C1 and C2 to maximize the
+utility function (7) subject to (33) only. (This problem has to deliver
+at least the same level of utility as the Ramsey problem, because
+it contains fewer restrictions.) If we can show that the solution to
+the less restricted problem satisfies the omitted restrictions (31) and
+(32), we have found the solution to the Ramsey problem.
+                                                                                                        39
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+The Optimality of Twin Deficits (continued)
+The Less Restricted Ramsey Problem
+Solve (33) for C2
+                                                   C2 = (1 + r∗)(Ȳ − C1),                        (34)
+where Ȳ ≡ Q1 − G1 + [Π(r∗) − G2]/(1 + r∗)
+
+Use (34) to eliminate C2 from the utility function (7)
+
+The less restricted Ramsey problem then is
+                                        max ln C1 + ln[(1 + r∗)(Ȳ − C1)].
+                                        {C1 }
+The first-order condition is
+                           1     1
+                             −       = 0.                                                         (35)
+                          C1 Ȳ − C1
+Solving for C1 yields
+                                   1
+                             C1 = Ȳ .                                                            (36)
+                                   2
+                                                                                                        40
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+The Optimality of Twin Deficits (continued)
+Using (34) to eliminate Ȳ − C1 from (35) gives
+                           C2
+                              = 1 + r∗.                       (37)
+                           C1
+This completes the solution of the less restricted Ramsey problem.
+
+Let’s now show that the solution to the less restricted problem
+also solves the Ramsey problem; that it, that it satisfies restric-
+tions (31), (32), and (33).
+Equation (33) is trivially satisfied, as it is the constraint of the less
+restricted problem. Now pick τ1 = τ2 = τ . Then, restriction (31)
+collapses to equation (37) from the less restricted problem. Finally,
+replacing τ1 and τ2 by τ in equation (32) gives the value of τ that
+makes this equation hold
+                                                          Π(r∗ )
+                                                     Q1 + 1+r∗
+                                             τ =                     − 1.                         (38)
+                                                           Π(r∗ )−G2
+                                                 Q1 − G1 + 1+r∗
+This completes the proof that the solution of the less restricted
+problem is indeed the solution of the Ramsey problem.
+                                                                                                        41
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+The Ramsey Optimal Taxation Problem — taking stock
+
+First, equation (37) says that the optimal tax policy completely
+eliminates the distortions introduced by the consumption tax. This
+is because under the Ramsey optimal tax policy, the intertemporal
+price of consumption perceived by the household, 1+τ    1 (1 + r ∗ ), is
+                                                     1+τ2
+equal to the intertemporal price of consumption in the world market,
+1 + r∗.
+
+Second, the way in which the benevolent government achieves a
+nondistorted path of consumption is by tax smoothing; that is, by
+setting a constant consumption tax rate over time, τ1 = τ2.
+
+Third, the Ramsey optimal allocation is the same as under lump-sum
+taxes. That is, the household consumes one half of the economy’s
+lifetime resources net of government spending, Ȳ , in period 1 and
+leaves the rest for consumption in period 2.
+                                                                                                        42
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                      Chapter 8: Twin Deficits
+
+
+
+
+Are Twin Deficit Optimal?
+
+CA1 = Q1 − C1 − I(r∗) − G1. Replacing C1 by its Ramsey optimal
+value Ȳ /2, we have that
+                                                 Π(r∗) − G2
+                                                   "                                     #
+                                     1
+                               CA1 =   Q1 − G1 −                                             − I(r∗),                (21)
+                                     2             1 + r∗
+which is the same as under lump-sum taxation, see equation (21)
+on slide 17. (Recall that here we are assuming that B0g = B0h = 0.)
+
+   g
+S1 = τ1C1 −G1 . Replacing τ1 and C1 by their Ramsey optimal values,
+                           1         G2
+                                                                                    
+                       g
+                      S1 =   −G1 +      ∗
+                                          .
+                           2        1+r
+Let’s now consider a change in G1. Then we have that
+                                                         g    1
+                                                ∆CA1 = ∆S1 = − ∆G1 .
+                                                              2
+This means that the benevolent government finds it optimal to run
+twin deficits in response to an increase in G1 .
+                                                                                                                           43
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Intuition for the Optimality of Twin Deficits
+
+–Why a current account deficit? An increase in G1 makes house-
+holds poorer. By the income effect households cut consumption in
+both periods making the fall in C1 less than the increase in gov-
+ernment spending. Since investment is constant at I(r∗ ), the fact
+that consumption falls by less than government spending increases
+means that aggregate demand goes up. With the endowment un-
+changed, the increase in aggregate demand causes a deterioration
+in the current account.
+
+–Why an fiscal deficit? In response to the increase in government
+spending in period 1, the government, to avoid distortions in the
+intertemporal allocation of consumption, increases the consumption
+tax rate in both periods by the same amount. Thus, in period 1
+only part of the increase in government spending is financed with
+higher taxes and the rest by issuing public debt.
+                                                                                                        44
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Fiscal Policy in Economies with Imperfect Capital Mobility
+
+A common concern about expansionary fiscal policy is that by driving
+up interest rates it crowds out investment and private consumption.
+Thus far, this effect was absent because by free capital mobility
+and the fact that the economy is small r1 = r∗. We now relax
+these assumptions, first in small economies with different degrees of
+capital mobility and in the next section in a large economy.
+
+Consider again the effects of a change in government spending in
+period 1 financed with consumption taxes.
+
+Let’s begin by deriving the current account schedule.
+
+                                       CA1 = r0B0 + Q1 − C1 − I1 − G1 .
+
+
+                                                                                                        45
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                   Chapter 8: Twin Deficits
+
+
+
+
+Using (28) evaluated at r1 to eliminate C1 and recognizing that I1
+is a function of r1 alone yields the CA schedule:
+                                                                "                                #
+                     1              h        Π(r1)
+CA1 = r0B0 +Q1 −           (1 + r0)B0 + Q1 +        −I(r1 )−G1 .
+                 2(1 + τ1)                   1 + r1
+which we write compactly as
+
+                                                CA1 = CA(r1; Q1, τ1 , G1).                                        (39)
+                                                                           +         +   +   −
+
+
+
+
+                                                                                                                        46
+    Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                          Chapter 8: Twin Deficits
+
+
+
+
+    Adjustment to Expansionary Fiscal Policy (increase in G1 or
+    cut in τ1 ) under Free Capital Mobility and Financial Autarky
+                      r1                          CA(r1; G01)                                    r1                      CA(r1; τ10 )
+
+
+                               r10                CA(r1; G1)                                              r10            CA(r1; τ1)
+
+
+                                                  r∗                                                                     r∗
+
+
+−CA1 CA01                  0                           CA1                           −CA1 CA01        0                        CA1
+
+    Notes. The left panel depicts the adjustment of the current account and the interest rate to an
+    increase in government spending from G1 to G01 > G1 , holding constant the consumption tax rate
+    τ1 . The upward-sloping solid line is the current account schedule before the fiscal expansion. (To
+    avoid clutter, all arguments of the current account schedule other than r1 and G1 are omitted.) In
+    the initial equilibrium, the interest rate is r1 = r ∗ and the current account is zero. The increase in
+    government spending shifts the current account schedule up and to the left (broken line). Under
+    free capital mobility, the interest rate stays at r ∗ and the current account deteriorates to CA01 < 0.
+    Under financial autarky, the interest rate increases to r10 > r ∗ and the current account stays at
+    zero. The adjustment to a tax cut (τ10 < τ1 ), holding constant G1 , is shown in the right panel and
+    is qualitatively similar to that of an increase in government spending.
+
+                                                                                                                                   47
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”              Chapter 8: Twin Deficits
+
+
+
+
+In reality, economies are neither completely open nor completely
+closed to international capital movements. In such an intermediate
+situation, as we will show next, expansionary fiscal policy causes:
+– an increase in the interest rate,
+– a deterioration in the current account, and
+– some crowding out of investment.
+
+Suppose the government imposes capital controls to discourage ex-
+ternal indebtedness. Assume that r1 = r∗ if the country is a net
+external creditor (B1 > 0), and that r1 is an increasing function
+of the country’s net debt position, −B1 , if the country is a debtor
+(B1 < 0).
+
+Assume that B0 = 0. Then B1 = CA1. Then we can write the
+capital control policy as:
+                                                                   r∗
+                                                              (
+                                                                                   if CA1 ≥ 0
+                       r1 = ρ(−CA1) =
+                                                                   ≥ r∗with ρ0 > 0 if CA1 < 0
+
+The graph on the next slide shows the current account adjustment
+in this case.
+                                                                                                                   48
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                  Chapter 8: Twin Deficits
+
+
+
+
+Adjustment to an Increase in Government Spending under Im-
+perfect Capital Mobility
+                                                                     r1              CA(r1; G01 )
+                          ρ(−CA1)
+                                                                  B00                CA(r1; G1 )
+                                                                 B
+                                                                              r10
+                                                     B0
+                                                                              A      r∗
+
+
+
+                               −CA1                           CA01 0                      CA1
+
+
+Notes. The initial equilibrium occurs at point A, where the current account schedule, CA(r1 ; G1 )
+intersects the interest rate schedule, ρ(−CA1 ). (To avoid clutter, all arguments of the current
+account schedule other than r1 and G1 are omitted.) Initially, the interest rate is r ∗ and the current
+account is zero. An increase in government spending from G1 to G01 > G1 shifts the current account
+schedule up and to the left (upward sloping broken line). The interest rate schedule is unchanged.
+The new equilibrium is at point B, where the interest rate is higher (r10 > r ∗), and the current
+account is negative (CA01 < 0). Equilibria under free capital mobility and financial autarky are at
+points B 0 and B 00 , respectively.
+                                                                                                                       49
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Discussion of the figure from the previous slide
+
+
+Comparing the equilibrium in the economy with imperfect capital
+mobility (point B) with the equilibria under the two polar cases of
+free capital mobility (point B 0) and financial autarky (point B 00), we
+conclude that the more open to international capital mobility the
+economy is, the smaller the crowding out of investment, the smaller
+the increase in the interest rate, and the larger the deterioration of
+the current account following an expansion in government spending
+will be.
+
+Next, we drop the assumption that the government imposes the
+capital control schedule ρ(−CA1) and return to the case of free
+capital mobility. But we assume that the economy is large. We will
+see that the adjustment to fiscal expansions is similar to that just
+discussed.
+
+                                                                                                        50
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 8: Twin Deficits
+
+
+
+
+Fiscal Policy in a Large Open Economy
+
+What are the domestic and international effects of fiscal policy in
+a large economy like the United States? To analyze this let’s start
+with the current account schedules.
+
+The current account schedule of a large economy is given by equa-
+tion (39).
+
+Let the current account schedule of the rest of the world be given
+by
+                                      CARW
+                                        1  = CA(r 1 ; QRW , τ RW , GRW ).
+                                                       1     1      1                                     (40)
+                                                                     +          +    +   −
+The current account schedule of the rest of the world has the same
+properties as that of the domestic economy, as it is derived from
+the same microeconomic foundations.
+
+                                                                                                                51
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                 Chapter 8: Twin Deficits
+
+
+
+
+Adjustment to an Increase in Government Spending in a Large
+Open Economy
+                                                                      r1             CA(r1; G01)
+                           CARW
+                             1 (r1)
+                                                                                     CA(r1; G1)
+                                                                   B
+                                                                               r∗0
+                                                                           A
+                                                                               r∗
+
+
+
+                                   CARW
+                                     1
+                                                                CA01 0                 CA1
+
+
+Notes. The figure depicts the effects of a fiscal expansion in a large open economy. The initial
+situation is at point A, where the current account schedule of the large economy (the upward-
+sloping solid line) intersect the current account schedule of the rest of the world (the downward-
+sloping solid line). At point A, the world interest rate is equal to r ∗ and the current account deficit
+is equal to 0. The increase in government spending in the large economy from G1 to G01 > G1
+shifts the current account schedule of the large economy up and to the left (the upward-sloping
+broken line). The current account schedule of the rest of the world is unchanged. The new
+equilibrium is at point B, where the world interest rate is higher, r ∗ 0 > r ∗, the large open economy
+is running a current account deficit and the rest of the world a current account surplus.
+                                                                                                                      52
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 8: Twin Deficits
+
+
+
+
+Observations on the figure
+
+                                                                                     0
+The fiscal expansion raises the interest rate (r∗ > r∗). As a conse-
+quence, the current account of the domestic economy deteriorates
+and the current account of the rest of the world improves. The
+increase in the interest rate produces a contraction in investment in
+both the domestic economy and the rest of the world.
+
+Intuitively, the increase in government spending in the domestic
+economy reduces national saving. Given the interest rate, this pro-
+duces a reduction in the global supply of funds, which pushes up
+the world interest rate. In turn, the increase in the interest rate
+discourages investment and fosters saving in the domestic economy
+and in the rest of the world, restoring equilibrium in the international
+capital market.
+
+The effects of a tax cut are qualitatively the same (not shown).
+                                                                                                            53
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+Summing Up
+
+This chapter analyzes how fiscal deficits stemming from tax cuts, increases in
+government transfers, or increases in government spending affect the current
+account and other macroeconomic indicators.
+
+• The twin deficit hypothesis states that fiscal deficits cause current account
+deficits.
+
+• When taxes are lump sum, changes in the timing of taxes, holding the path of
+government spending unchanged, do not cause changes in the trade balance or
+the current account. This result is known as Ricardian equivalence.
+
+• Ricardian equivalence is a fragile result. It requires that taxes are lump sum,
+that households are not borrowing constrained, and that all agents receiving a
+tax cut expect to pay the future higher taxes required to balance the budget. If
+any of these conditions is relaxed, Ricardian equivalence fails and tax cuts cause
+current account deficits (twin deficits).
+
+
+
+
+                                                                                                        54
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 8: Twin Deficits
+
+
+
+
+• A temporary increase in government spending causes a deterioration of the
+current account (twin deficits).
+
+• If an increase in government spending is perceived to be permanent, the current
+account is not significantly affected.
+
+• A cut in the consumption tax rate, holding the path of government spending
+constant, causes a deterioration of the current account (twin deficits).
+
+• A benevolent government finds it desirable to smooth consumption tax rates
+over time. Consequently, temporary increases in government spending generate
+both fiscal and current account deficits. In this sense, twin deficits are Ramsey
+optimal.
+
+• In a small open economy with free capital mobility, temporary increases in
+government expenditures or tax cuts do not crowd out investment. However,
+crowding out of investment does occur in small open economies with imperfect
+international capital mobility.
+
+• In a large open economy with free capital mobility, a temporary increase in
+government expenditure or a tax cut deteriorates the current account, raises the
+world interest rates, and crowds out investment domestically and in the rest of
+the world.
+
+
+                                                                                                        55
+

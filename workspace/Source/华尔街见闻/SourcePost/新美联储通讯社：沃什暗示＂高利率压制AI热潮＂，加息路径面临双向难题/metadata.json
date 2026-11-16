@@ -1,0 +1,82 @@
+{
+  "article_id": 3784743,
+  "selection": {
+    "article_id": 3784743,
+    "url": "https://wallstreetcn.com/articles/3784743",
+    "title": "新美联储通讯社：沃什暗示\"高利率压制AI热潮\"，加息路径面临双向难题",
+    "page_display_time": "2026-10-29T11:55:07+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "A",
+    "reading_value": "讨论高利率从边缘融资主体传至AI产业的路径，以及统一利率面对部门分化的难题。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 3026,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 22
+  },
+  "url": "https://wallstreetcn.com/articles/3784743",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784743?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:17+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "新美联储通讯社：沃什暗示\"高利率压制AI热潮\"，加息路径面临双向难题",
+  "page_display_time": "2026-10-29T11:55:07+08:00",
+  "page_byline": "董静",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "Timiraos认为，美联储正陷入“需要两个利率”的死局。沃什公开质疑“AI免疫论”，直言利率会“钻进每一道缝隙”，打破AI热潮不受货币政策影响的市场共识。但他同时又称强劲增长不必然推高通胀、不必然需要加息。两个矛盾信号令华尔街困惑，美银策略师直斥其回答“既不清晰也不令人信服”。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 3086,
+  "body_sha256": "5f9eef9e7d2031c7270e6e6945bac0918ee856b5aaf1fcfef0deec79a4c42c35",
+  "raw_sha256": "16b374dc992c00d352636b823e580bfd1b23a029a3dc499abb2a9ed891597804",
+  "raw_bytes": 15463,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/fe908cc0-4ac7-4c80-9b58-5de3d5d78c47.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 3026,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "美联储最新宣布按兵不动",
+      "url": "https://wallstreetcn.com/articles/3784705"
+    },
+    {
+      "text": "不预判12月决策",
+      "url": "https://wallstreetcn.com/articles/3784708"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "16b374dc992c00d352636b823e580bfd1b23a029a3dc499abb2a9ed891597804",
+      "bytes": 15463
+    },
+    "article.html": {
+      "sha256": "c14680f9d13faac5ac58f9c92ac0132a136ea7e28550fbc2d913e9fbe989f224",
+      "bytes": 14708
+    },
+    "article.md": {
+      "sha256": "9ab88c880ca46d4eace964bb84e194ab6a45db3b822a5e8b9636ab34ac0ba099",
+      "bytes": 9845
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:11+08:00"
+}

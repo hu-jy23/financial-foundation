@@ -1,0 +1,1085 @@
+
+--- PDF 1 ---
+MACROECONOMICS
+
+
+--- PDF 2 ---
+
+
+--- PDF 3 ---
+MACROECONOMICS
+Institutions, Instability, and Inequality
+
+
+
+                         WENDY CARLIN
+                   Professor of Economics, University College London
+                              Fellow of the British Academy
+
+
+                                             &
+                        DAV I D S OS K I C E
+       Emeritus Professor, The London School of Economics and Political Science
+                              Fellow of the British Academy
+
+
+
+                                  With contributions from
+
+                       J A M E S C L OY N E, co-author of Chapter 18
+            Associate Professor of Economics, University of California, Davis
+
+                    S TA N I S L A S L A L A N N E, co-author of Chapter 5
+                                   University of Oxford
+
+               J AV I E R L O Z A N O, author of The Macroeconomic Simulator
+                Lecturer in Economics, University of the Balearic Islands
+
+                      A N D R E W M C N E I L, co-author of Chapter 17
+The London School of Economics and Political Science, International Inequalities Institute
+
+
+--- PDF 4 ---
+                  Great Clarendon Street, Oxford, OX2 6DP,
+                              United Kingdom
+       Oxford University Press is a department of the University of Oxford.
+   It furthers the University’s objective of excellence in research, scholarship,
+   and education by publishing worldwide. Oxford is a registered trade mark
+        of Oxford University Press in the UK and certain other countries
+                       © Wendy Carlin and David Soskice
+                The moral rights of the authors have been asserted
+  All rights reserved. No part of this publication may be reproduced, stored in
+  a retrieval system, or transmitted, in any form or by any means, without the
+prior permission in writing of Oxford University Press, or as expressly permitted
+  by law, by licence or under terms agreed with the appropriate reprographics
+rights organization. Enquiries concerning reproduction outside the scope of the
+above should be sent to the Rights Department, Oxford University Press, at the
+                                   address above
+              You must not circulate this work in any other form
+           and you must impose this same condition on any acquirer
+     Published in the United States of America by Oxford University Press
+    198 Madison Avenue, New York, NY 10016, United States of America
+                British Library Cataloguing in Publication Data
+                                 Data available
+              Library of Congress Control Number: 2023935831
+                       ISBN 978–0–19–883866–1 (pbk.)
+                           Printed in Great Britain by
+                           Bell & Bain Ltd., Glasgow
+     Links to third party websites are provided by Oxford in good faith and
+   for information only. Oxford disclaims any responsibility for the materials
+          contained in any third party website referenced in this work.
+
+
+--- PDF 5 ---
+To Niki and in memory of Andrew
+and to the new generation, Poppy and Florence, and Gus and Fordie
+
+
+--- PDF 6 ---
+
+
+--- PDF 7 ---
+REVI EWS
+
+‘This enlightening book is a wonderful guide to the key topics of macroeconomics:
+inﬂation, monetary policy, including at the zero lower bound, growth and innova-
+tion, inequality, exchange rates and more. Very closely connected to the real world,
+Carlin and Soskice’s book brings a wealth of data and historical examples into the
+discussion in a very pedagogical way. It covers extremely well the links between risk
+taking, ﬁnancial cycles and crises which are at the heart of our modern economies.
+It has also an essential and very timely chapter on commodity price shocks. This is
+what macroeconomics is about: ﬁrst order questions, affecting the lives of billions
+of people, clear modelling and rigorous thinking informed by data and history. Very
+exciting!’
+                              Hélène Rey, Professor of Economics, London Business School
+
+‘This wonderful textbook achieves a rare feat: the material is consistent with work
+at the current research frontier but nevertheless remains highly accessible. I ﬁrst
+learned macroeconomics from an earlier volume of this textbook, when I was an
+undergraduate student twenty years ago. Now as then the core of the book is its
+simple 3-equation model for studying business cycles and stabilization policy. But
+this latest volume also takes on board many of the key developments over the
+last two decades. Speciﬁcally, this is the ﬁrst textbook to integrate the lessons of
+the exploding literature on heterogeneous-agent macroeconomics and of the new
+HANK models. As Carlin and Soskice write: “ it’s time for ‘inequality’ to have a place
+in the title of a macroeconomics textbook”—I couldn’t agree more!’
+                       Benjamin Moll, Professor of Economics, London School of Economics
+
+‘Beautifully written and rich in data and historical examples, Macroeconomics
+sets out the building blocks of macroeconomic modelling and guides readers to
+the frontier of the discipline. The book underscores the crucial role played by
+institutions, inequality and innovation in contemporary economies. Once you start
+reading it, you cannot stop it!’
+     Silvana Tenreyro, Professor of Economics, Department of Economics, London School of
+       Economics and External Member of the Monetary Policy Committee, Bank of England
+
+‘Carlin and Soskice have written a masterful treatise on modern macroeconomics.
+The authors bring to life the fundamental importance of balance for the healthy
+functioning of an economy—not only the balance between supply and demand, but
+also in terms of equitable distribution of income. They carefully walk us through
+when ﬁnance is useful, and when its excesses can be harmful for the economy. Most
+importantly, the authors explain why institutions, i.e. the manner in which a society
+chooses to govern itself, are central to how far an economy prospers.’
+  Atif Mian, Professor of Economics, Princeton University, Co-author of House of Debt (2014,
+                                                             The University of Chicago Press)
+
+
+--- PDF 8 ---
+viii   Reviews
+
+
+                 ‘Wendy Carlin and David Soskice have once more achieved a pedagogical tour de
+                 force, bringing frontier research to the undergraduate level. The increased focus
+                 on inequality, its sources and its implications, is a particularly welcome addition.’
+                 Olivier Blanchard, formerly Chief Economist, IMF, Professor of Economics, MIT, Senior Fellow,
+                                                                                           Peterson Institute
+
+                 ‘This remarkable new macroeconomics text brings upper-level undergraduates to
+                 the frontier of research and policy. The exposition is at the same time accessible,
+                 engaging, and relevant to current concerns about the broad consequences of
+                 policies—intended and unintended. The book’s attention to historical and institu-
+                 tional context, as well as its treatment of innovation and technical change, set it
+                 apart from other textbooks at this level.’
+                    Maurice Obstfeld, Professor of Economics, University of California Berkeley, Co-author of
+                                             Foundations of International Macroeconomics (1996, MIT Press)
+
+                 ‘Austerity, ﬁnancial crises, quantitative easing, artiﬁcial intelligence: this book has
+                 it all. A macroeconomics text that explains the data and logic that policymakers
+                 really do use. Read this book and understand the world.’
+                  Jonathan Haskel, Professor of Economics, Imperial College London and External Member of
+                                                          the Bank of England’s Monetary Policy Committee
+
+                 ‘This is the only undergraduate macroeconomics textbook that weaves a serious
+                 treatment of inequality into a core 3-equation model, and, at the same time, it
+                 also includes an unparalleled introduction to incorporating the ﬁnancial system in
+                 this framework. As such, it marks a serious departure from most macroeconomics
+                 textbooks, which tend to relegate distribution and ﬁnance to the secondary status
+                 of extensions or special topics. The accompanying simulation tool also makes the
+                 book exceptionally classroom friendly, not only by providing instructors a visual
+                 way to summarize comparative statics, but also by giving students a tool with which
+                 they can independently explore extensions of classroom discussions.’
+                        Leila E. Davis, Associate Professor of Economics, University of Massachusetts Boston
+
+                 ‘Economics students want to understand the world we live in, and no other macroe-
+                 conomics textbook satisﬁes this desire to engage with the world’s most signiﬁcant
+                 issues quite like Carlin and Soskice. With its intuitive, tractable, and realistic
+                 approach, their textbook equips students to easily comprehend even the most
+                 complex macroeconomic concepts and their relationship to real-world problems
+                 like inequality and economic shocks. The 3-equation model helps students grasp
+                 how economic shocks affect the economy, while the new book’s analysis of inequal-
+                 ity gives a more thorough understanding of how policy responses can impact
+                 people’s lives. The book equips the next generation of economics graduates to
+                 make a meaningful impact in the world.
+                 The new book also links to the CORE Econ Project, enabling programme leaders to
+                 create a more integrated curriculum in macroeconomics across years.’
+                                        Stefania Paredes Fuentes, Associate Professor, University of Warwick
+
+                 ‘The coverage on environmental and social sustainability of production is much
+                 appreciated.’
+                                     Christina Wolf, Senior Lecturer in Economics, University of Hertfordshire
+
+
+--- PDF 9 ---
+                                                                                              Reviews   ix
+
+‘Employers value graduates comfortable to deal with real world issues, using
+appropriate theory and data skills. Using this textbook will be an ideal way to foster
+such a graduate.’
+         Marco Gundermann, Head of Economics, International Relations and Development,
+                                                             University of Northampton
+
+‘Carlin and Soskice offer a clear, balanced, engaging, and forward-looking perspec-
+tive on a wide range of topics, from short-term monetary policy to growth and
+innovation. Students will appreciate the authors’ crystal-clear exposition, along
+with the careful balance of technical detail and intuitive real-world examples
+presented.’
+                   Ceri Davies, Associate Professor in Economics, University of Birmingham
+
+‘The book’s development and applications of the 3-equation model make it easy to
+introduce students to more advanced theoretical ideas and current policy issues.
+It is straightforward to pick chunks of the book and incorporate other material.
+Resources provided to instructors and students are very helpful.’
+                    Jennifer Smith, Associate Professor of Economics, University of Warwick
+
+
+
+
+REVIEWS OF MACROECONOMICS: INSTITUTIONS,
+INSTABILITY, AND THE FINANCIAL SYSTEM
+‘Carlin and Soskice have produced a gem of a book. The teaching of macroe-
+conomics after the crisis has changed surprisingly little, limiting itself to incor-
+porating “frictions” into otherwise standard models that failed during the crisis.
+Carlin and Soskice embark on a much more ambitious venture. They show how the
+ﬁnancial cycle and macroeconomics are inextricably linked, with the risk-taking
+channel as the linchpin. Their exposition is refreshingly original and yet lucid
+and accessible. This book will appeal to serious students of economics and to
+all inquiring minds who have wondered about the role of the ﬁnancial cycle in
+macroeconomics.’
+Hyun Song Shin, Economic Adviser and Head of Research, Bank for International Settlements
+                          and Hughes-Rogers Professor of Economics, Princeton University
+
+‘This is, I believe, the ﬁrst macro-economic textbook effectively to incorporate
+the lessons of the Great Financial Crisis and to describe how ﬁnancial frictions
+can impact the macro-economy. The authors weave together the old, mainstream,
+3-equation model with the newer account of potential ﬁnancial disturbances in
+a lucid and efﬁcient manner. As such, it has a major advantage over almost all
+other extant textbooks, and will be a boon not only for undergraduates, but also
+for graduates and those wishing to understand the current working of our macro-
+economic system, beset as it has been with ﬁnancial strains.’
+ Professor Charles Goodhart, Director of the Financial Regulation Research Programme, The
+                                          London School of Economics and Political Science
+
+
+--- PDF 10 ---
+x   Reviews
+
+
+              ‘This illuminating book introduces the reader to macroeconomics in a revolution-
+              ary fashion. Namely, by means of very elegant and accessible models that are
+              always based on sound microfoundations and developed against a narrative of
+              the performance and policy regimes of the advanced economies over the post war
+              period. Unlike most other macro textbooks, this book builds on the most recent
+              research and debates to teach macroeconomics the way it should now be taught:
+              by emphasizing the interplay between macro and ﬁnance; by linking growth to
+              innovation, market structure and ﬁrm dynamics; and more generally by taking
+              institutions seriously into account when looking at growth, business cycles, and
+              unemployment and the interplay between them. This book is an absolute must read
+              for students and policy makers, even those with little initial background, who need
+              to be fully acquainted with modern macroeconomics.’
+                                  Philippe Aghion, Robert C. Waggoner Professor of Economics, Harvard
+
+              ‘This is an exciting new textbook. It offers a clear and cogent framework for
+              understanding not only the traditional macroeconomic issues of business cycles,
+              inﬂation and growth, but also the ﬁnancial crisis and ensuing Great Recession that
+              have recently shaken the world economy. The paradigm it offers is highly accessible
+              to undergraduates. Yet at the same time it is consistent with what goes on at the
+              frontiers of the ﬁeld. Overall, the book conﬁrms my belief that macroeconomics is
+              alive and well!’
+                        Mark Gertler, Henry and Lucy Moses Professor of Economics, New York University
+
+              ‘To be relevant, economics need to help society understand those phenomena
+              which do it greatest harm—unemployment, inﬂation and deﬂation, ﬁnancial insta-
+              bility, ﬁscal and banking crisis. Pre-crisis, mainstream economic models failed
+              that societal test and therefore failed society. Wendy Carlin and David Soskice’s
+              important new book is the ﬁrst step towards redemption, providing students and
+              scholars with a rigorous but accessible framework for understanding what troubles
+              society most.’
+                                                   Andrew G Haldane, Chief Economist, Bank of England
+
+              ‘The Carlin and Soskice book does a wonderful job of covering the economics
+              behind macroeconomics and the ﬁnancial system, alongside presenting the latest
+              research on this and the drivers of the great recession. It also has an impressive
+              array of data and examples woven in with theory explained in a beautifully intuitive
+              way. For any student interested in a refreshingly modern take on the ﬁnancial crisis
+              and the economics that underlie this, this book is invaluable.’
+                                           Nicholas Bloom, Professor of Economics, Stanford University
+
+              ‘One of the ﬁrst macro textbooks to integrate the lessons of the crisis. An elegant
+              bridge between introductory undergraduate and graduate macro texts.’
+                                Olivier Blanchard, Chief Economist, IMF, and Professor of Economics, MIT
+
+
+--- PDF 11 ---
+                                                                                             Reviews   xi
+
+‘In the light of the events of the past decade, it is important that a new macroeco-
+nomics text attempts to satisfy the demands of those learning and using macroeco-
+nomics to be able to access relatively simple models which reﬂect the ways in which
+the ﬁnancial sector interacts with the real economy. This is by no means an easy
+task. The new Carlin and Soskice book represents a signiﬁcant step forward in this
+regard. Consequently undergraduates, post-graduates and their teachers should
+be grateful that they can now access teaching materials which have something
+useful to say about the ﬁnancial crisis.’
+           Professor Stephen Nickell, CBE, FBA. Honorary Fellow of Nufﬁeld College, Oxford
+
+
+--- PDF 12 ---
+
+
+--- PDF 13 ---
+PREFACE
+This is the fourth book on intermediate macroeconomics that we have written and
+reflects our teaching of economics undergraduates since the mid-1980s, and of
+political science graduate students in the last 20 years. The Introduction sets out our
+goals; the most important of which is to develop a relatively simple, internally coherent,
+and tractable way of modelling contemporary economies.
+  Through the four books, institutions have remained central to our analysis of how
+macroeconomies function, even when the relative importance of different ones has
+varied greatly. Each decade has thrown up major new issues, together with changes in
+institutions to go with them. Our last book, published in 2015, was strongly influenced
+by the global financial crisis and had a major focus on finance and financial institutions.
+That book underlined the instability of advanced capitalism, an issue which we need
+to be highly sensitive to in analysing the macroeconomics of the 21st century.
+  In this volume we bring into the macro model a focus on inequality and innovation,
+reflecting new research in both economics and political science. From economics,
+the final chapter of the book covers current research on inequality and macroeco-
+nomic modelling. In the new HANK (Heterogeneous Agent New Keynesian) models,
+households can end up in quite unequal positions in terms of income and wealth,
+which matters in its own right, and also for the transmission of monetary policy. From
+political science, there is a chapter on the institutional determinants of innovation
+encapsulated by the ICT revolution and how they vary across countries to produce
+different varieties of innovation and diffusion in the high-income countries and China.
+  Through the decades in which we have been teaching macroeconomics, a great
+number of topical and sometimes hotly debated issues have arisen. These have
+captured the interest of students. Our goal has been to build a ‘transparent and
+tractable’---but also realistic---model of the macroeconomy, which students could use
+to understand and explain these issues. We call the business cycle component the
+3-equation model (Carlin and Soskice 2015). The first equation, the Aggregate Demand
+or IS equation, states that output is determined by aggregate demand (including
+monetary and fiscal policy, and other exogenous components of demand). Second is
+the Phillips curve, showing how inflation increases when output is above equilibrium.
+And third, the Monetary Rule (or Taylor Rule), explaining how the central bank uses
+the interest rate to guide inflation back to its target rate. A significant part of the
+book adapts the model from the closed to the open economy, with the addition of
+the Uncovered Interest Parity condition to the 3-equation model.
+  We have changed and adapted the 3-equation model over the years to focus, for
+example, on firms rather than unions as wage-setters given the diminishing role of
+unions in many economies. We cover the move in the last decade to an environment
+in which central banks cannot actively use interest rates for macroeconomic manage-
+ment. Together with the integration of a realistic financial sector into the model, we
+believe that the underlying modelling approach has retained its usefulness through the
+very large institutional, financial, and technological changes of the last four decades.
+
+
+--- PDF 14 ---
+xiv   Preface
+
+
+                We hope it remains sufficiently transparent in the mechanisms producing the general
+                equilibrium results and intuitive that the reader---student or other---who is not an
+                academic macroeconomist can deploy it to address questions that particularly interest
+                them.
+                  The book is geared primarily to the intermediate-level economics undergraduate.
+                Hopefully it will be useful to graduate students in the other social sciences who
+                increasingly want or need to understand aspects of macroeconomics. It is also writ-
+                ten for the many professional (non-academic) economists in the public and private
+                sectors for whom the research frontier of modern macroeconomic research is often
+                inaccessible. And we hope, too, it will function as a useful reference for economics
+                graduate students, providing sound foundations and an integrated perspective as they
+                grapple with the rigors of leading-edge academic research in growth theory as well as
+                in macro-finance and business cycle analysis.
+                  What we call here ‘leading-edge research’ in business cycle modelling is presented
+                in some detail in the final chapter of the book, co-authored with James Cloyne. James
+                learnt macroeconomics from earlier volumes of Carlin and Soskice and taught using it.
+                He worked as a research economist at the Bank of England, is now an economics pro-
+                fessor at the University of California Davis and an active researcher in contemporary
+                quantitative macroeconomics. Macroeconomists build general equilibrium models
+                that solve the forward-looking optimization problems of the agents. The complexity
+                arises from having to solve for the future path of the economy in response to a shock in
+                an environment that combines rational (i.e. model-consistent) expectations of agents,
+                intertemporal optimization, frictions of various kinds such as sticky prices, and general
+                equilibrium. As indicated above, we welcome the growing prominence of the new
+                heterogeneous agent (or HANK) versions of these models that introduce inequality,
+                which, as a result, reproduce many of the core predictions of our simpler 3-equation
+                model.
+                  Olivier Blanchard’s career has---at the highest level---straddled academic macro-
+                economics and policy making, where he was chief economist at the IMF from 2008
+                to 2015 through the period of the global financial and Eurozone crises. From that
+                vantage point, his reflections on the use of models in macroeconomics are of particular
+                interest. He argues (Blanchard 2018) that different kinds of general equilibrium models
+                of the business cycle are required for different purposes and would benefit from
+                open-minded interaction among practitioners. For those interested in a non-technical
+                birds-eye view of the debates about modelling the business cycle, Blanchard’s article
+                is a good place to begin.
+                  One of the five types of model he sees as valuable he calls ‘toy models’. This is not
+                to disparage them. He has in mind the ‘IS/LM’ and Mundell-Fleming models, as well
+                as our 3-equation model. In Blanchard’s words: ‘I have found, for example, that I could
+                often, as a discussant, summarize the findings of a DSGE (Dynamic Stochastic General
+                Equilibrium) paper in a simple graph. I had learned something from the formal model,
+                but I was able (and allowed as the discussant) to present the basic insight more simply
+                than the author of the paper.’
+
+
+--- PDF 15 ---
+                                                                                      Preface   xv
+
+  Building economic intuition about the macroeconomy is essential both for creating
+the next generation of curious and thoughtful researchers as well as for educating
+the great majority of readers who will remain consumers rather than producers
+of economics research as citizens, commentators, professional economists, think-
+tankers and policy makers. Our goal in this book, by developing the 3-equation
+approach to the business cycle, augmenting it with the financial system model and
+connecting it to growth theory is to make a contribution to this important work.
+
+                                                    Wendy Carlin and David Soskice,
+                                                               London, January 2023
+
+
+--- PDF 16 ---
+ACKNOWLED GEMENTS
+Hundreds of colleagues and thousands of students have contributed to the preceding
+volumes of Macroeconomics since we began the project in the mid-1980s. The current
+book rests on those contributions.
+  Two outstanding young researchers have made it possible to complete the new book.
+Stanislas Lalanne is co-author of Chapter 5 and has worked to clarify the treatment of
+money, banks, monetary policy and financial stability. His incisive mind and attention
+to detail are reflected throughout the book. Alessandro Guarnieri has contributed and
+improved many of the appendices, organized and suggested insights from a large body
+of new research for many of the chapters, managed the manuscript, and completed the
+major task of systematizing and updating the data and charts. It’s been a real highlight
+of the past couple of years for Wendy to work so closely with Stan and Alessandro.
+  James Cloyne (University of California, Davis), joined the writing team, leading on
+Chapter 18. This chapter takes the book to the research frontier in heterogeneous
+agent macroeconomics.
+  Andrew McNeil is co-author of Chapter 17, working primarily with David to bring
+recent research in political economy on the ICT revolution to an audience of macro-
+economists. This has also greatly benefitted from work with Torben Iversen, as well as
+Cathy Boone, Anke Hassel, David Hope, Ciaran Driver, Lucio Baccaro, Jonas Pontusson,
+Bruno Palier, Paul Pierson, Kathy Thelen, and Frieder Mitsch.
+  The macroeconomic simulator (available at www.oup.com/he/carlin-soskice) built
+by Javier Lozano is a centre-piece of the learning resources for the book. It is such a
+pleasure working with Javier and benefiting from his sure sense of how the simulator
+can be refined to heighten students’ learning opportunities. There is a lot of feedback
+from students on how they use the simulator to explore questions of their own.
+  The CORE Econ project, now generously supported by and based in the James M.
+and Cathleen D. Stone Centre on Wealth Concentration, Inequality, and the Economy
+at UCL, has provided rich intellectual input to Wendy’s work on the book. Margaret
+Stevens and Samuel Bowles have led the work on building a new model of wage-
+setting that combines search and matching with the labour discipline approach. That
+model is set out in Chapter 15. The derivation of the Lorenz curve from the wage- and
+price-setting model in Chapter 2 is drawn from CORE Econ’s The Economy and is an
+important contribution to the book’s ability to connect measures of inequality to the
+macroeconomic model.
+  Other collaborations in the CORE project have borne fruit for the book. Claudia
+Buch co-authored a CORE Insight on ‘Too big to fail’ (https://www.core-econ.
+org/selection/too-big-to-fail-lessons-from-a-decade-of-financial-sector-reforms/),
+which has influenced the treatment of financial stability in the book, prompting the
+inclusion of a new chapter on financial stability policy. Another CORE Insight authored
+by Barry Eichengreen and Ugo Panizza on public debt (https://www.core-econ.org/
+selection/public-debt-threat-or-opportunity/) has contributed to the coverage of
+debt dynamics in the book. Work with Kevin O’Rourke, Samuel Bowles, Suresh Naidu,
+
+
+--- PDF 17 ---
+                                                                                     Acknowledgements   xvii
+
+and other members of the CORE community to address the role played by colonies
+and slavery in the economic development of the high-income countries is reflected in
+Chapter 16. Jack Blundell, Tzvetan Moev, and Tina Rozsos have produced the inequality
+‘skyscraper’ visualizations in the Introduction.
+  For Wendy, teaching intermediate macroeconomics at UCL has meant collaborating
+with co-teachers and graduate teaching assistants as well as with students. In recent
+years, much has been learnt from Wei Cui and the chapters on Demand, the Financial
+System, Monetary Policy and Fiscal Policy have benefited especially from this. Former
+TAs have become colleagues and co-workers, including in the CORE Econ project---
+James Cloyne (UC Davis), David Hope (KCL), and Davide Melcangi (New York Fed). More
+recently, Alejandro Estefan Davila (Notre Dame), Gherardo Caracciolo (Birmingham)
+and Thomas Lazarowicz as lead TAs on the macroeconomics module, have improved
+the pedagogy. Working with them to refine exercises and problems, and to learn from
+their interactions with students is part of the great privilege of teaching very talented
+undergraduates. Two of them, Antara Roy and Adam Butlin, took on the task of creating
+the animated powerpoints to help students understand the dynamics of the models.
+Madigan Dockrill’s skill in the questions to quiz students on within the chapters is
+greatly appreciated, as is Eduard Krkoska’s work checking the maths and the multiple-
+choice questions, and Haruka Shuei’s slides for instructors.
+  Over previous volumes, as well as this one, Philippe Aghion, Andrea Boltho, Matt
+Harding, Javier Lozano, Thomas Michl, John Muellbauer, Bob Rowthorn, Hyun Shin,
+Stephen Wright, and David Vines have been consistent and generous in their help and
+encouragement, for which we are very grateful.
+  The expert assistance of Claudio Borio and Mathias Drehmann from the BIS, and of
+Michael McLeay, Amar Radia, and Ryland Thomas from the Bank of England has been
+invaluable. Wendy has benefited from discussions at the meetings of the Resolution
+Foundation’s Macroeconomic Policy Unit with James Smith, Greg Thwaites, Torsten
+Bell, and Kate Barker, Jason Furman, Toby Nangle, Jumana Saleheen, Silvana Tenreyro,
+Jan Vlieghe, and Tony Yates. The meetings of the Expert Advisory Panel of the UK’s
+Office for Budget Responsibility have also provided much stimulation and input to the
+book. Thanks to Charlie Bean, Robert Chote, Richard Hughes, Andy King, David Miles,
+and Kevin Daly, Carl Emmerson, Jonathan Gillham, John Llewellyn, Andrew Scott, Peter
+Spencer, Coen Teulings, and Simon Wren Lewis.
+  James Cloyne and Wendy were encouraged by the feedback and suggestions of many
+colleagues on Chapter 18: Olivier Blanchard, Riccardo Cioffi, Alessandro Guarnieri,
+Franck Portier, Greg Kaplan, Thomas Lazarowicz, Ralph Luetticke (who also con-
+tributed a box on Toolkits), Alisdair McKay, Davide Melcangi, Ben Moll, Łukasz Rachel,
+Allen Shen, Jón Steinsson, and Gianluca Violante.
+  For their generous help and support (not already acknowledged above), we are
+grateful to Yann Algan, Angus Armstrong, Orazio Attanasio, Roger Backhouse, Saleem
+Bahaj, Eric Beinhocker, Nick Bloom, Richard Blundell, Javier Boncompte Guarda, Chris
+Bowdler, Lennart Brandt, Steve Broadberry, Antonio Cabrales, John Campbell, Luis
+Candiota, Pedro Carneiro, Jagjit Chadha, Parama Chaudhury, David Cobham, Nick
+Crafts, Kenneth Creamer, Chiara Criscuolo, Luka Crnjakovic, Silvia Dal Bianco, Michel
+
+
+--- PDF 18 ---
+xviii   Acknowledgements
+
+
+                    de Vroey, Arin Dube, John Duca, Christian Dustmann, Jan Eeckhout, Asmaa El-Ganainy,
+                    Doyne Farmer, Vikram Gandhi, Ian Goldin, Bishnupriya Gupta, Mihir Gupta, Frederick
+                    Guy, Simon Halliday, Michael Jacobs, Arjun Jayadev, Cloda Jenkins, Paul Klemperer,
+                    Niki Lacey, Philip Lane, Christopher Lee, Dunli Li, Steve Machin, Neil Majithia, Costas
+                    Meghir, Michael McMahon, Meg Meyer, Atif Mian, Ramin Nassehi, Houda Nait El
+                    Barj, Yuval Ofek-Shanny, Martha Omolo, Andrew Oswald, Stefania Paredes Fuentes,
+                    Christina Patterson, Enrico Perotti, Giacomo Piccoli, Ian Preston, Matthias Pum,
+                    Morten Ravn, Jonathan Rée, Marc Resinek, Jamie Rush, Ellen Ryan, Amarjit Sagoo,
+                    Mark Schaffer, Franziska Schobert, Uta Schoenberg, Paul Seabright, Paul Segal, Yael
+                    Selfin, Dooho Shin, Sahana Subramanyam, Sophia Sun, Adelson Teh, Eileen Tipoe, Peter
+                    Trubowitz, David Tuckett, Miguel Urquiola, John Van Reenen, John Vickers, Snjezana
+                    Voloscuk, Georg von Graevenitz, Elisabeth Wood, Martin Wolf, Francesco Zanetti, and
+                    Fabrizio Zilibotti.
+                      Wendy is grateful for the support from colleagues and the professional services staff
+                    in the Department of Economics at UCL. Summer visits to the Santa Fe Institute, where
+                    Wendy is External Professor, have brought new ideas from those in other disciplines
+                    working on complex systems, and greatly facilitated joint work with Sam Bowles, which
+                    has found its way into many parts of the book.
+                      David would like to thank the friendly and warm support over nearly a decade of the
+                    International Inequalities Institute at the LSE, where he was for many years Research
+                    Director, and particularly Lisa Ryan, Armine Ishkanian, Mike Savage, Chico Ferreira,
+                    and the sadly gone John Hills. Also Chandran Kukathas, Cheryl Schonhardt Bailey,
+                    Emily Crook, and Karen Dickenson.
+                      The OUP reviewers have alerted us to some pitfalls, and Felicity Boughton and Jon
+                    Crowe at OUP have been flexible, and allowed time for this new book to evolve. The
+                    final writing has taken place in a period of renewed turmoil and crisis in the world
+                    economy, which is a good test for a macroeconomics textbook. We thank Karen Moore
+                    for her careful handling of the editorial and production process.
+                      We would finally like to thank Tessa, Jonny, Juliet, and William, and especially Niki
+                    Lacey, for providing contributions beyond macroeconomics.
+
+
+--- PDF 19 ---
+COPYRI GHT ACKNOW LEDGEMENTS
+Grateful acknowledgement is made to all the authors and publishers of copyright
+material which appears in this book, and in particular to the following for permission
+to reprint material from the sources indicated:
+
+American Economic Review and the authors for Table 5, Figure 2(b), and Figure 4(b)
+from Kaplan, G., Moll, B., and Violante, G. L. (2018), Monetary Policy According to HANK.
+American Economic Review, 108(3), 697–743 (https://doi.org/10.1257/aer.20160042).
+Reproduced using the replication package of Kaplan, Moll, and Violante (2018).
+
+Bank of England Chart 1.4 from page 22 of Bank of England Monetary Policy Report,
+November 2022 and figure from page 2 of Joyce, M., Tong, M., and Woods, R. (2011),
+The United Kingdom’s Quantitative Easing Policy: Design, Operation and Impact, Bank
+of England Quarterly Bulletin, 2011 Q3.
+
+Cambridge University Press for four panels from Figure 3 in Elkjær, M. A. and Iversen,
+T. (2022), The Democratic State and Redistribution: Whose Interests Are Served?
+American Political Science Review, 1–16 (doi:10.1017/S0003055422000867).
+
+Oxford University Press for Figure 1 from Farber, H. S., Herbst, D., Kuziemko, I., and
+Naidu, S. (2021), Unions and Inequality over the Twentieth Century: New Evidence
+from Survey Data, The Quarterly Journal of Economics, 136(3), August 2021, 1325–1385
+(https://doi.org/10.1093/qje/qjab012).
+
+Elsevier for Figure 4 reprinted from Heathcote, J., Perri, F., and Violante, G. L.
+(2020), The rise of US earnings inequality: Does the cycle drive the trend? Review of
+Economic Dynamics, 37(1), S181–S204 (https://doi.org/10.1016/j.red.2020.06.002) and
+Table 1 and Figure 3 from Patel, D., Sandefur, J., and Subramanian, A. (2021), The
+new era of unconditional convergence. Journal of Development Economics, 152, 102687
+(https://doi.org/10.1016/j.jdeveco.2021.102687).
+
+S&P Dow Jones Indices LLC for S&P Dow Jones Indices LLC, S&P 500 [SP500],
+retrieved from FRED, Federal Reserve Bank of St Louis (https://fred.stlouisfed.org/
+series/SP500) 12 January 2023.
+
+Springer Nature for Figure 4 from Mourre, G. and Poissonnier, A. (2019), What Drives
+the Responsiveness of the Budget Balance to the Business Cycle in EU Countries?
+Intereconomics, 2019(4), 237–240.
+
+Professor Gianluca Violante for figure from Violante, G. (29 October 2021), What
+have we learned from HANK models, thus far? [Conference presentation]. Proceed-
+ings of the ECB Forum on Central Banking 2021 (https://www.ecb.europa.eu/pub/
+conferences/html/20210928_ecb_forum_on_central_banking.en.html).
+
+
+--- PDF 20 ---
+
+
+--- PDF 21 ---
+CONTE NTS
+
+
+Preface                                                                          xiii
+Acknowledgements                                                                  xvi
+Copyright acknowledgements                                                        xix
+Introduction                                                                       1
+
+Part 1     Basics: Demand side, supply side, and policy maker                     11
+
+   1     The demand side                                                          13
+
+   2 The supply side                                                              63
+
+   3 The 3-equation model and macroeconomic policy                               115
+
+   4 Expectations and monetary policy                                            159
+
+Part 2     Money, banking, monetary and ﬁscal policy                             203
+
+   5 Money, banking, and the macroeconomy                                        205
+         Co-authored by Wendy Carlin, Stanislas Lalanne, and David Soskice
+
+   6 Monetary policy                                                             259
+
+   7     Fiscal policy                                                           307
+
+Part 3     Financial instability in the macroeconomy                             365
+
+   8 Sources of ﬁnancial sector instability                                      367
+
+   9 Financial sector risk and the global ﬁnancial crisis: Applying the models   414
+
+   10 Financial stability policy                                                 460
+
+Part 4     Open economy macroeconomics                                           485
+
+   11 The 3-equation model in the open economy                                   487
+
+   12 The open economy: The demand and supply sides                              543
+
+   13 Open economy extensions I: Oil shocks, imbalances, and interdependence     592
+
+   14 Open economy extensions II: Fixed exchange rates and the Eurozone          643
+
+
+--- PDF 22 ---
+xxii   Contents
+
+
+
+              Part 5    The supply side, technology, and growth                              699
+
+                  15 Supply-side institutions, policies, and performance                     701
+
+                  16 Growth and innovation                                                   748
+
+                  17 The ICT revolution, productivity puzzle, and political economy of
+                     uneven growth                                                           811
+                      Co-authored by Wendy Carlin, Andrew McNeil, and David Soskice
+
+
+              Part 6    Macroeconomics with inequality                                       857
+
+                  18 Heterogeneous agent macroeconomics: Origins, progress, and challenges   859
+                      Co-authored by Wendy Carlin and James Cloyne
+
+
+
+              Bibliography                                                                   925
+              Index                                                                          955
+
+
+--- PDF 23 ---
+DE TA ILED CONTENTS
+
+
+Preface                                                                      xiii
+Acknowledgements                                                             xvi
+Copyright acknowledgements                                                   xix
+Introduction                                                                   1
+
+Part 1     Basics: Demand side, supply side, and policy maker                11
+
+   1     The demand side                                                      13
+         1.1 Overview                                                         13
+            1.1.1   Facts about the demand side and business cycles           15
+            1.1.2 Introducing the IS curve                                   20
+         1.2 Modelling                                                       24
+            1.2.1 Goods market equilibrium                                   24
+            1.2.2 The multiplier                                              25
+            1.2.3 The IS curve                                               30
+            1.2.4 Forward-looking behaviour                                   32
+            1.2.5 Consumption                                                 33
+            1.2.6 Investment                                                 45
+         1.3 Applications                                                    50
+            1.3.1 The demand side and inequality                             50
+            1.3.2 Consumption, investment, and the IS curve                  50
+         1.4 Conclusions                                                     53
+         1.5 Appendix                                                        54
+            1.5.1 Real and nominal interest rates, and the Fisher equation   54
+            1.5.2 Deriving the Euler equation and the PIH consumption
+                    function                                                 56
+            1.5.3 Tobin’s q theory of investment                              57
+
+   2 The supply side                                                         63
+         2.1 Overview                                                        63
+            2.1.1   Unemployment                                             63
+            2.1.2 Why the labour market does not clear                       64
+            2.1.3 Equilibrium (structural) unemployment                       72
+            2.1.4 Nominal rigidities, demand-side shocks, and policy          75
+
+
+--- PDF 24 ---
+xxiv   Detailed Contents
+
+
+                       2.2 Modelling                                                              80
+                           2.2.1 Supply-side determinants of equilibrium (structural) unemployment 80
+                           2.2.2 Supply-side equilibrium and inequality                           88
+                           2.2.3 Nominal rigidities, the Phillips curve, and the business cycle   90
+                       2.3 Applications                                                            97
+                           2.3.1 Shocks in the absence of a stabilizing policy maker               97
+                           2.3.2 The supply side and inequality: Markups                          100
+                           2.3.3 The supply side and inequality: Unions                           103
+                       2.4 Conclusions                                                            104
+                       2.5 Appendix                                                               106
+                           2.5.1 The textbook model: Competitive markets and complete contracts   106
+                           2.5.2 The markup and the elasticity of demand                          108
+                           2.5.3 The rationale for treating demand shifts and the markup as
+                                   separable                                                      109
+                           2.5.4 Deriving the PS curve to include the tax and oil price wedge     110
+
+                   3 The 3-equation model and macroeconomic policy                                115
+                       3.1 Overview                                                               115
+                           3.1.1   The role of the central bank in stabilization                  118
+                           3.1.2 Inﬂation and deﬂation                                            121
+                           3.1.3 Introduction to the 3-equation model                             124
+                       3.2 Modelling                                                              128
+                           3.2.1 The 3-equation model                                             128
+                           3.2.2 Using the 3-equation model                                       134
+                       3.3 Applications                                                           137
+                           3.3.1 A temporary demand shock                                         138
+                           3.3.2 Forecasting and lags                                             139
+                           3.3.3 The deﬂation trap                                                141
+                           3.3.4 A supply shock                                                   145
+                       3.4 Conclusions                                                            148
+                       3.5 Appendix                                                               149
+                           3.5.1 The 3-equation model in more detail                              149
+                           3.5.2 A more forward-looking central bank                              152
+
+                   4 Expectations and monetary policy                                             159
+                       4.1 Introduction                                                           159
+                           4.1.1 The IS curve                                                     159
+                           4.1.2 The Phillips curve                                               161
+
+
+--- PDF 25 ---
+                                                                          Detailed Contents   xxv
+
+         4.1.3 The MR curve                                                   163
+     4.2 Phillips curves, expectations, and inﬂation                          164
+         4.2.1 Inﬂation in the post-war period                                166
+         4.2.2 Expectations and the output–inﬂation trade-off                 169
+         4.2.3 Rational and adaptive expectations in the 3-equation
+              model                                                            171
+     4.3 Expectations hypotheses, inﬂation bias, and time inconsistency       174
+         4.3.1 The Lucas critique                                             174
+         4.3.2 Target output, inﬂation bias, and macroeconomic policy         176
+         4.3.3 Approaches to mitigating inﬂation bias in the
+              3-equation model                                                179
+     4.4 Anchored inﬂation expectations and hysteresis                        182
+         4.4.1 Central bank communication and anchored inﬂation
+              expectations                                                    182
+         4.4.2 Anchoring, hysteresis, and output targeting: Policy
+              following a deep recession                                      186
+         4.4.3 The Lucas critique, anchoring, and hysteresis                  190
+     4.5 Conclusions                                                          194
+     4.6 Appendix                                                             195
+         4.6.1 Inﬂation bias extensions                                       195
+         4.6.2 Anchored expectations and hysteresis                           198
+
+Part 2   Money, banking, monetary and ﬁscal policy                           203
+
+  5 Money, banking, and the macroeconomy                                      205
+     5.1 Introduction                                                         205
+     5.2 Interest rates, banks, and ﬁnancial markets                          207
+         5.2.1 Two interest rates: Shocks from the banking system             207
+         5.2.2 A simpliﬁed representation of the ﬁnancial system              209
+         5.2.3 Transmission of a shock through the banking system             217
+     5.3 The business of banking                                              219
+         5.3.1 Central bank and commercial bank money                         220
+         5.3.2 The markup of the lending rate over the policy rate            224
+         5.3.3 Credit risk and credit constraints                             227
+         5.3.4 Banks in a fractional reserve system                           230
+     5.4 Balance sheets                                                       232
+         5.4.1 The balance sheet of a commercial bank                         232
+         5.4.2 The balance sheet of the central bank                          238
+
+
+--- PDF 26 ---
+xxvi   Detailed Contents
+
+
+                       5.5 Monetary policy operations                                         244
+                           5.5.1 The scarce reserves regime                                   244
+                           5.5.2 The ample reserves regime                                    246
+                       5.6 Conclusions                                                        249
+                       5.7 Appendix                                                           251
+                                                                     P                        251
+                           5.7.1 Modelling the banking markup (r–r )
+
+                   6 Monetary policy                                                          259
+                       6.1 Introduction                                                       259
+                       6.2 Establishing the economy’s nominal anchor                          260
+                           6.2.1 Money supply                                                 260
+                           6.2.2 Inﬂation target                                              264
+                       6.3 Modelling monetary policy                                          264
+                           6.3.1 Active rule-based policy                                     264
+                           6.3.2 Central bank preferences                                     266
+                           6.3.3 The MR equation and Taylor rules                             271
+                       6.4 Monetary policy transmission                                       273
+                           6.4.1 Taylor rules in practice                                     274
+                           6.4.2 Asset price bubbles and central bank intervention            278
+                           6.4.3 Policy transmission at the zero lower bound                  279
+                           6.4.4 Quantitative easing                                          281
+                           6.4.5 Effect on income and wealth inequality                       292
+                       6.5 Central bank balance sheet, money, and inﬂation                    293
+                           6.5.1 The models of Chapters 1–5                                   294
+                           6.5.2 The Quantity Theory of Money and monetary-base
+                                 multiplier models                                            296
+                       6.6 Conclusions                                                        298
+                       6.7 Appendix                                                           300
+                           6.7.1 The monetary-base multiplier                                 300
+                           6.7.2 Monetizing government debt, seigniorage, and hyperinﬂation   302
+
+                   7   Fiscal policy                                                          307
+                       7.1 Introduction                                                       307
+                       7.2 Fiscal policy’s role in stabilization                              310
+                           7.2.1 The scope of ﬁscal policy                                    310
+                           7.2.2 Effects of discretionary ﬁscal policy                        312
+                           7.2.3 The automatic stabilizers                                    318
+
+
+--- PDF 27 ---
+                                                                             Detailed Contents   xxvii
+
+     7.3 Modelling: Debt dynamics                                                322
+         7.3.1 The government’s budget identity                                  322
+         7.3.2 Debt dynamics                                                     323
+         7.3.3 Case studies of debt dynamics                                     330
+         7.3.4 The costs of high and rising government debt                      334
+         7.3.5 The austerity/ﬁscal consolidation debate                          339
+     7.4 Modelling: The government’s budget constraint and
+         Ricardian equivalence                                                   342
+         7.4.1 Ricardian equivalence and the PIH                                 342
+         7.4.2 Ricardian equivalence and ﬁscal policy effectiveness              346
+     7.5 Deﬁcit bias and the political economy of debt                           347
+         7.5.1 Causes of deﬁcit bias                                             347
+         7.5.2 Variation across countries                                        348
+         7.5.3 Mitigating deﬁcit bias                                            349
+     7.6 Conclusions                                                             354
+     7.7 Appendix                                                                356
+         7.7.1   Deriving the government’s intertemporal budget constraint       356
+         7.7.2 The PIH under Ricardian equivalence: The effect of
+                 changes in tax and spending                                     357
+         7.7.3 Deriving the prudent ﬁscal policy rule (PFPR)                     358
+
+Part 3   Financial instability in the macroeconomy                              365
+
+  8 Sources of ﬁnancial sector instability                                       367
+     8.1 Introduction                                                            367
+     8.2 Financial crises and cycles                                             370
+         8.2.1 Bank behaviour and the macroeconomy                               370
+         8.2.2 Financial crises and their cost to the economy                    372
+         8.2.3 Financial cycles and business cycles                              374
+     8.3 Basic mechanisms                                                        379
+         8.3.1 Asset price bubbles and self-fulﬁlling beliefs                    380
+         8.3.2 The ﬁnancial accelerator and collateral                           383
+     8.4 House price cycles and the 3-equation model                             385
+         8.4.1 Credit-constrained households, housing collateral,
+                 and house price bubbles                                         385
+         8.4.2 The 3-equation model and house price cycles                       388
+         8.4.3 A plain vanilla ﬁnancial crisis                                   389
+
+
+--- PDF 28 ---
+xxviii   Detailed Contents
+
+
+                         8.5 Bank leverage-centred cycles and the risk-channel                           391
+                               8.5.1   Bank-leverage centred cycles and the 3-equation model             391
+                               8.5.2   A simple model of the bank-leverage centred ﬁnancial cycle        396
+                               8.5.3   A numerical example of the bank-leverage centred cycle            399
+                         8.6 Balance sheet recession and ﬁnancial accelerator                            403
+                         8.7 Conclusions                                                                 406
+                         8.8 Appendix                                                                    408
+                               8.8.1   Modelling the housing-centred positive feedback process           408
+                               8.8.2   A model of a bank-leverage centred cycle                          409
+
+                     9 Financial sector risk and the global ﬁnancial crisis: Applying the models         414
+                         9.1   Introduction                                                              414
+                         9.2 Governance arrangements for ﬁnancial stability                              417
+                               9.2.1   Liquidity risk and deposit insurance                              417
+                               9.2.2   Solvency and bail-out                                             419
+                               9.2.3   Government and central bank responsibilities                      420
+                         9.3 Pre-crisis ﬁnancial system: Incentives, instruments, and actors             422
+                               9.3.1   Incentives for risk-taking                                        422
+                               9.3.2   Financial derivatives                                             423
+                               9.3.3   Actors and the risk-taking channel                                425
+                         9.4 The upswing of the ﬁnancial cycle                                           430
+                               9.4.1   Inequality and sub-prime lending in the US                        430
+                         9.5 The crisis                                                                  434
+                               9.5.1   The scale of the crisis and nature of the post-crisis recession   434
+                               9.5.2   The credit crunch                                                 437
+                               9.5.3   The crisis, macroeconomic policy, and the 3-equation model        441
+                         9.6 Policy intervention in the crisis                                           445
+                               9.6.1   Lessons from the Great Depression                                 445
+                               9.6.2   Monetary and ﬁscal policy in the crisis phase                     447
+                               9.6.3   Austerity policies in the post-crisis recession                   452
+                         9.7   Conclusions                                                               456
+
+                     10 Financial stability policy                                                       460
+                         10.1 Introduction                                                               460
+                         10.2 Financial stability: The problem and policy design                         461
+                               10.2.1 The problem of ﬁnancial stability                                  461
+                               10.2.2 Structural policies for ﬁnancial stability                         461
+                               10.2.3 Macro-prudential policy                                            466
+
+
+--- PDF 29 ---
+                                                                          Detailed Contents   xxix
+
+     10.3 Implementing ﬁnancial stability reform                              469
+     10.4 Financial innovation and regulation                                 471
+          10.4.1 Regulatory, ﬁnancial, and technological innovations          472
+          10.4.2 Cryptocurrencies, stablecoins, and DeFi platforms            474
+          10.4.3 Central bank digital currency                                479
+     10.5 Conclusions                                                         482
+
+Part 4   Open economy macroeconomics                                         485
+
+  11 The 3-equation model in the open economy                                 487
+     11.1 Overview                                                            487
+          11.1.1   How are the key aspects of the open economy
+                   reﬂected in the 3-equation model?                          490
+          11.1.2   How does capital market openness affect
+                   stabilization policy?                                      492
+          11.1.3   The reaction of the central bank and the foreign
+                   exchange market to an inﬂation shock                       495
+     11.2 Modelling                                                           498
+          11.2.1   The foreign exchange market and the UIP condition          499
+          11.2.2 Medium-run equilibrium in the open economy and
+                   the AD-ERU model                                           502
+          11.2.3 Stabilization under ﬂexible exchange rates                   507
+          11.2.4 Policy implementation curves: IS in closed
+                   economy and RX in ﬂexible exchange rate open economy       512
+     11.3 Applications                                                        515
+          11.3.1   Demand and supply shocks: The 3-equation and
+                   AD-ERU models                                              515
+          11.3.2 Exchange rate overshooting                                   519
+          11.3.3 Exchange rate volatility                                     524
+     11.4 Conclusions                                                         524
+     11.5 Appendix                                                            526
+          11.5.1   Comparing the UIP condition with the Covered
+                   Interest Parity (CIP) condition                            526
+          11.5.2 The 3-equation open economy model—a compact
+                   summary                                                    527
+          11.5.3 The RX curve                                                 529
+          11.5.4 The role of the nominal exchange rate in the model           533
+
+
+--- PDF 30 ---
+xxx   Detailed Contents
+
+
+                  12 The open economy: The demand and supply sides                                543
+                      12.1 Overview                                                               543
+                          12.1.1   The open economy accounting framework                          545
+                          12.1.2   The demand side, trade balance, and the supply side            549
+                      12.2 Modelling                                                              553
+                          12.2.1   The demand side and trade balance                              553
+                          12.2.2 The supply side in the open economy                              564
+                          12.2.3 The medium-run model: AD-BT-ERU                                  569
+                      12.3 Applications                                                           578
+                          12.3.1   The UK economy before the ﬁnancial crisis                      578
+                      12.4 Conclusions                                                            583
+                      12.5 Appendix                                                               585
+                          12.5.1   The Marshall–Lerner condition: A proof                         585
+                          12.5.2 The AD and BT curves                                             585
+
+                  13 Open economy extensions I: Oil shocks, imbalances, and interdependence       592
+                      13.1 Overview                                                               592
+                          13.1.1   How does a commodity price rise affect the macroeconomy?       593
+                          13.1.2   Interpreting an economy’s sector ﬁnancial balances: Does a
+                                   current account imbalance matter?                              597
+                          13.1.3   Inﬂation targeting in a two-bloc world                         598
+                          13.1.4   Different medium-run ‘growth’ strategies can cause global
+                                   imbalances                                                     600
+                      13.2 Modelling oil and other commodity price shocks                         603
+                          13.2.1   External supply shocks (e.g. oil shocks) in the AD-BT-ERU model 604
+                          13.2.2 The full model                                                   606
+                      13.3 Climate and pandemic shocks                                            612
+                          13.3.1   Climate shocks                                                 612
+                          13.3.2 Pandemic shocks                                                  613
+                      13.4 External imbalances                                                    614
+                          13.4.1   Current account imbalances                                     614
+                          13.4.2 Sector ﬁnancial balances                                         620
+                      13.5 Global interdependence                                                 624
+                          13.5.1   Global interdependence and imbalances                          624
+                          13.5.2 A 2-bloc model with inﬂation-targeting central banks             625
+                      13.6 Conclusions                                                            633
+
+
+--- PDF 31 ---
+                                                                           Detailed Contents   xxxi
+
+     13.7 Appendix                                                             635
+          13.7.1   A compact summary of the oil shock model                    635
+          13.7.2 Dynamic adjustment to a shock in the 2-bloc model             636
+
+  14 Open economy extensions II: Fixed exchange rates and the Eurozone         643
+     14.1 Introduction                                                         643
+          14.1.1   Origins of the Eurozone and the theory of an
+                   optimal currency area                                       645
+          14.1.2   The Eurozone’s performance                                  648
+     14.2 The Eurozone stabilization policy regime                             653
+          14.2.1   The Maastricht policy assignment                            653
+          14.2.2 Monetary policy in the Eurozone                               654
+          14.2.3 Fiscal policy in the Eurozone                                 655
+     14.3 Modelling ﬁscal stabilization policy under ﬁxed exchange rates       657
+          14.3.1   Stabilization in a common currency area: Common
+                   shocks                                                      657
+          14.3.2 Stabilization under ﬁxed exchange rates or in a
+                   common currency area: Country-speciﬁc shocks                659
+          14.3.3 The real exchange rate (competitiveness) and real
+                   interest rate channels                                      661
+          14.3.4 Modelling ﬁscal stabilization policy                          666
+     14.4 Risks in a heterogeneous common currency area                        672
+          14.4.1 The real exchange rate channel: Wage-setting and
+                   internal devaluation                                        673
+          14.4.2 Heterogeneity and the Eurozone crisis                         675
+     14.5 Eurozone governance, sovereign risk, and the banking system          677
+          14.5.1   Governance arrangements: Banks, governments,
+                   and central bank                                            678
+          14.5.2 The Eurozone crisis and the doom loop                         681
+          14.5.3 Governance solutions                                          688
+          14.5.4 Progress in governance reform under pressure of
+                   the pandemic                                                691
+     14.6 Conclusions                                                          693
+
+Part 5   The supply side, technology, and growth                              699
+
+  15 Supply-side institutions, policies, and performance                       701
+     15.1 Introduction                                                         701
+
+
+--- PDF 32 ---
+xxxii   Detailed Contents
+
+
+                        15.2 A micro-founded WS curve: Combining search and matching and
+                            labour discipline                                                   704
+                            15.2.1   Labour market ﬂows                                         705
+                            15.2.2 The ﬁrm’s recruitment problem and wage-setting               706
+                            15.2.3 The ﬁrm’s motivation problem: Labour discipline              709
+                            15.2.4 The wage-setting model combining recruitment and
+                                     motivation problems                                        710
+                            15.2.5 Deriving the economy-wide WS curve from the recruitment
+                                     and motivation model                                       711
+                            15.2.6 Labour market power, monopsony, and the minimum wage         714
+                            15.2.7 Examples of employers’ wage-setting power (monopsony)        714
+                            15.2.8 Minimum wages, employment, and inequality                    716
+                        15.3 Search and matching: The Beveridge curve and inﬂation              718
+                            15.3.1   A model of the Beveridge curve                             718
+                            15.3.2 Integrating the WS-PS model and the Beveridge curve          720
+                            15.3.3   Empirical Beveridge curves                                 721
+                        15.4 Labour market institutions, unemployment, and inequality           724
+                            15.4.1   Union organization and equilibrium unemployment            724
+                            15.4.2 Evidence on labour market institutions for OECD countries:
+                                     Unemployment and inequality                                728
+                        15.5 Hysteresis, scarring, and coordination problems                    735
+                            15.5.1   The insider-outsider model (WS curve)                      737
+                            15.5.2 Long-term unemployment and unemployment persistence
+                                     model (WS curve)                                           738
+                            15.5.3 Investment coordination-productivity model (PS curve)        739
+                        15.6 Conclusions                                                        743
+
+                    16 Growth and innovation                                                    748
+                        16.1 Introduction                                                       748
+                            16.1.1   Capitalism transforms the world                            748
+                            16.1.2   Fundamental and proximate sources of growth                751
+                        16.2 Exogenous growth: The Solow model                                  754
+                            16.2.1   The model                                                  754
+                            16.2.2 Steady state growth and levels of GDP per capita             756
+                            16.2.3 Solow model meets the 3-equation model                       769
+                        16.3 Cross-country growth                                               770
+                            16.3.1   Convergence between rich and poor countries                770

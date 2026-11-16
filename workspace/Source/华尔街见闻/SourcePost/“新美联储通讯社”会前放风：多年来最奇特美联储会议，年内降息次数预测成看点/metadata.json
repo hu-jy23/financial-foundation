@@ -1,0 +1,73 @@
+{
+  "article_id": 3755722,
+  "selection": {
+    "article_id": 3755722,
+    "url": "https://wallstreetcn.com/articles/3755722",
+    "title": "“新美联储通讯社”会前放风：多年来最奇特美联储会议，年内降息次数预测成看点",
+    "page_display_time": "2025-09-17T03:09:04+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张茜",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004513",
+    "page_source_label": "何浩",
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "B",
+    "reading_value": "还原降息前对就业和通胀两类风险的权衡，记录政策反应函数变化的当时依据。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2437,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 9
+  },
+  "url": "https://wallstreetcn.com/articles/3755722",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3755722?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:15+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "“新美联储通讯社”会前放风：多年来最奇特美联储会议，年内降息次数预测成看点",
+  "page_display_time": "2025-09-17T03:09:04+08:00",
+  "page_byline": "张茜",
+  "source_label": "何浩",
+  "source_url": "",
+  "subtitle": "知名财经记者Nick Timiraos撰文称，在非同寻常的政治风暴下，围绕未来利率路径的重大且充满争议的辩论正在上演。美联储9月会议上，预计将因就业增长放缓而降息0.25个百分点。投资者将关注经济预测，以判断美联储预计今年会降息多少次。官员们正在讨论就业市场到底疲软到什么程度，以及应以多快的速度将利率下调至中性水平。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2507,
+  "body_sha256": "dda13a5ee595b3c0f5d78d64af0daf413397852e7a89b7ea9a6dc0c1b3a0be10",
+  "raw_sha256": "56b7c7ef45375667c6921346b6bd37e6afb47c3681d4184fb3e945b2a92e94e8",
+  "raw_bytes": 11824,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/115864ab-97cb-497c-87cb-12c856fb139a.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2437,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "56b7c7ef45375667c6921346b6bd37e6afb47c3681d4184fb3e945b2a92e94e8",
+      "bytes": 11824
+    },
+    "article.html": {
+      "sha256": "20759666fd06061ea1836a05befa203f5328f0df794254a9e80e30d53cc82b1e",
+      "bytes": 11100
+    },
+    "article.md": {
+      "sha256": "4cb401d973053b5463dc88ea2cf2b1864dd5343c397bc64c851583b6da13f2bf",
+      "bytes": 8111
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:08+08:00"
+}

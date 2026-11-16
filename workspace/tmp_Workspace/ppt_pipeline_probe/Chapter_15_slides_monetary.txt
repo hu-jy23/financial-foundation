@@ -1,0 +1,1153 @@
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+      Slides for Chapter 15: Inflationary Finance and
+                 Balance of Payments Crises
+
+                                                      Columbia University
+
+                                                       September 6, 2022
+
+
+
+
+These are the slides for the textbook, “International Macroeconomics: A Modern Approach,” by
+Stephanie Schmitt-Grohé, Martı́n Uribe, and Michael Woodford, Princeton University Press, 2022,
+ISBN: 9780691170640.
+
+
+
+
+                                                                                                                                 1
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Road Map
+
+This chapter explores the connection between fiscal deficits, money
+creation, and the exchange rate.
+
+• It begins by studying a theory of exchange rate determination base
+on a theory known as the quantity theory of money (QTM).
+
+• Within the Quantity Theory of Money, it shows how money cre-
+ation leads to inflation and currency depreciation.
+
+• Finally, it shows how a currency peg can end in a balance of
+payments crisis (BOP) when the government runs sustained fiscal
+deficits. A BOPis a situation in which the government goes from
+losing foreign reserves in a smooth way to losing massive amounts
+in a short period of time and becoming unable to defend a currency
+peg.
+                                                                                                                                 2
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+                             The Quantity Theory of Money
+
+
+
+
+                                                                                                                                 3
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+The Demand for Money
+
+The quantity theory of money (or just quantity theory) asserts that
+a key determinant of the nominal price level is the quantity of money
+printed by the central bank.
+
+A central building block of the quantity theory is the demand for
+money:
+                                 1
+                           Mtd = PtYt .                       (1)
+                                 V
+where Mtd = desired money holdings; Pt = price level; Yt = real in-
+come, and v > 0 is a parameter (1/V =fraction of income households
+desire to hold in the form of money balances).
+
+V is known as money velocity.
+
+
+                                                                                                                                 4
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Equilibrium in the Money Market
+
+Let Mt denote the nominal money supply: quantity of bills and coins
+in circulation plus checking deposits.
+
+Equilibrium requires that money supply be equal to money demand,
+                                                                   1
+                                                               Mt = PtYt .                                                  (2)
+                                                                   V
+
+
+
+
+                                                                                                                                 5
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Inflation as a Monetary Phenomenon
+
+In its strongest version the QTM maintains that output is not
+determined by monetary factors.
+
+Thus, under this view, equation (2) has two endogenous variables,
+Pt and Mt , one exogenous variable, Yt , and one parameter, V .
+
+It follows that increases in the moeny supply are associated with
+increases in the price level:
+                                                                 Mt ↑⇒ Pt ↑
+For example, if the central bank decides to double the quantity of
+money in period t, then the price level will also double
+
+Intuition: when the central bank injects money households find
+themselves with more money than they wish to hold. As a result,
+they try to get rid of part of it by purchasing goods. However, the
+supply of goods is not affected by the money injection. The excess
+demand for goods leads to a generalized increase in prices.
+                                                                                                                                 6
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Determination of the Exchange Rate
+
+Recall that the real exchange rate, et , is the relative price of a basket
+of goods abroad in terms of baskets of goods at home:
+                               Et Pt∗
+                          et =        ,                        (3)
+                                 Pt
+where Et = nominal exchange rate and Pt∗ = foreign price level
+
+The QTM maintains that et is not determined by monetary factors.
+
+Combining (2) and (3) to eliminate Pt and solving forEt gives
+
+                                                                     V et
+                                                              Et = Mt ∗ .                                                   (4)
+                                                                     P t Yt
+In (4) Et and Mt . are endogenous variables and et and Pt∗ are
+exogenously determined. So increases in the money supply are
+associated with currency depreciation:
+                                                                 Mt ↑⇒ Et ↑
+                                                                                                                                 7
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+A Flexible Exchange Rate Regime
+
+Under a flexible (or floating) exchange rate regime, the central bank
+controls Mt, and the market determines Et.
+
+• Suppose the central bank increases Mt . Then, by (4) Et also
+increases (currency depreciation) by the same proportion. By (2),
+Pt increases proportionally.
+
+• Suppose now that Yt exogenously falls (recession), and that the
+central bank keeps Mt unchanged. Then, by (4) Et increases (cur-
+rency depreciation). By (2), Pt increases proportionally.
+
+• Suppose now that exogenously et increases or Pt∗ falls (real ex-
+change rate depreciation or foreign deflation) and that the central
+bank keeps Mt unchanged. Then, by (4) Et increases (currency
+depreciation). Note that now, by (2), Pt is unchanged.
+                                                                                                                                 8
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+A Fixed Exchange Rate Regime
+
+Under a fixed exchange rate regime, the central bank determines the
+path of Et and Mt is endogenously determined by (4).
+
+• Suppose Yt falls. If the central bank keeps Et fixed, by (4), Mt falls
+in the same proportion as Yt.
+
+• By (2), the fall in Yt does not affect the price level, Pt (recall that
+Mt falls in the same proportion as Yt ).
+
+• Note how different is the response of Pt to a fall in Yt under a
+flexible exchange rate and a fixed exchange rate.
+
+• Similar asymmetries take place in response to a real exchange
+depreciation (an increase in et) or a decrease in the foreign price level
+Pt∗: cause a depreciation and no inflation under a flexible exchange
+rate with Mt constant, but but no change in the exchange rate and
+price deflation under a fixed exchange rate.
+                                                                                                                                 9
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Taking Stock
+
+• The QTM says that under a flexible exchange rate regime the
+domestic price level is affected by domestic factors (e.g., changes in
+Mt and Yt) but is isolated from foreign factors (e.g., changes in et
+or Pt∗).
+• By contrast under a fixed exchange rate regime the domestic price
+level is isolated from domestic factors (Mt and Yt ) but is affected by
+foreign factors (et or Pt∗).
+• A corollary of this is that under a fixed exchange rate regime the
+country imports foreign inflation, in the sense that foreign inflation
+(the growth rate of Pt∗) determines domestic inflation (the growth
+rate of Pt .
+• All things considered, is the QTM a good or a bad theory? It
+depends on what use one makes of it. It is not a good theory
+to understand the short-run adjustment of low-inflation economies–
+e.g., the periphery of Europe during the GFC—where a model with
+nominal rigidity would be more useful. But it is a good framework to
+understand short-run dynamics in high-inflation countries or long-run
+inflation patterns across countries (horizons of 15 years or longer).
+                                                                                                                               10
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+   Fiscal Deficits, Inflation, and the Exchange Rate
+
+
+
+
+                                                                                                                               11
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+A Monetary Economy with a Government Sector
+
+What is the effect of fiscal policy on inflation and the exchange rate?
+
+What role do expectations about future changes in monetary and
+fiscal policy play for the determination of prices, exchange rates, and
+real balances?
+
+To address these questions, we expand the Quantity Theory of
+Money in two directions:
+
+– We incorporate a fiscal authority
+
+– We introduce a more realistic demand for money, that depends on
+the interest rate.
+
+
+                                                                                                                               12
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Four Building Blocks
+
+(1) an interest-elastic demand for money;
+
+(2) purchasing power parity;
+
+(3) interest rate parity; and
+
+(4) the government budget constraint.
+
+
+
+
+                                                                                                                               13
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+An Interest Elastic Demand for Money
+
+We now assume that the demand for money depends negatively on
+the nominal interest rate: this formulation is more realistic, because
+money is a non-interest-bearing asset, so its opportunity cost is the
+nominal interest rate on interest-bearing liquid assets, such as time
+deposits. Consider the money demand function
+                                                            Mtd
+                                                                = L(Ct, it ),                                               (5)
+                                                            Pt      + −
+
+
+We also changed Yt for Ct (consumption), because we want to
+capture the fact that households use money to buy consumption
+goods. We assume that Ct is constant, so drop the subscript t.
+
+The function L(·, ·) is also known as the liquidity preference function.
+Equilibrium in the money market requies that
+                                                             Mt
+                                                                = L(C, it).                                                 (6)
+                                                             Pt
+                                                                                                                               14
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Purchasing Power Parity
+
+We assume that there is a single traded good and no barriers to
+international trade. Therefore, prices are equalized across countries
+(e1 = 1 at all times). When this happens, we say that purchasing
+power parity (PPP) holds:
+
+                                                                 Pt = Et Pt∗.
+where Pt∗ = foreign price level. Assume that Pt∗ = 1, so
+
+
+
+                                                                    Pt = Et .                                               (7)
+
+
+Then, the money market-clearing condition (6) becomes
+                                                             Mt
+                                                                = L(C, it).                                                 (8)
+                                                             Et
+
+                                                                                                                               15
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+The Interest Parity Condition
+
+Assume that there is free capital mobility and no uncertainty.
+
+We then have the interest parity conditiion
+                                                                                     ∗ Et+1
+                                                    1 + it = (1 + i )                         ,                                          (9)
+                                                                                        Et
+where i∗ denotes the foreign interest rate.
+
+
+
+
+                                                                                                                                            16
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+The Government Budget Constraint
+
+
+
+               Et (Btg − Bt−1
+                          g                                         g
+                              ) + PtGt = PtTt + (Mt − Mt−1) + Et i∗Bt−1 .
+                                                                                                                g            g
+where Tt = tax revenue; Mt − Mt−1 = money creation; Bt − Bt−1
+                                                           g
+change in holdings of an internationally traded bond; i∗Bt−1   =
+interest earnings from bond holdings; Gt = government consumption
+
+Dividing both sides by Pt , using Et = Pt from (7)), and rearranging
+                           g    g     Mt − Mt−1            ∗ g
+                                                                 
+                          Bt − Bt−1 =          − Gt − Tt − i Bt−1 .                                                      (10)
+                                          Pt
+Here, note two important terms:
+                                      Mt − Mt−1
+                                                                    (seignorage revenue)
+                                          Pt
+                                            g
+           (Gt − Tt ) − i∗Bt−1                          (secondary fiscal deficit, call it DEFt )
+
+                                                                                                                                 17
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Financing the Fiscal Deficit
+
+Using the definition of secondary fiscal deficit, write the gov’t budget
+constraint (10) as
+                                            g           g             Mt − Mt−1
+                                        Bt − Bt−1 =                             − DEFt.                                  (11)
+                                                                          Et
+
+
+Thus a fiscal deficit (DEFt > 0) causes
+(a) money creation (Mt − Mt−1 > 0) and/or
+(b) a decline in the government’s asset position (Btg − Bt−1
+                                                         g
+                                                             < 0).
+
+
+
+
+                                                                                                                               18
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Fiscal Deficits and the Sustainability of Currency Pegs
+
+Suppose the government keeps the exchange rate at the fixed level
+E, so that Et = E.
+
+We established that when the government pegs the exchange rate,
+the money supply becomes endogenous variable.
+
+With Et = E, the PPP condition (7), implies that
+
+                                                                     Pt = E.
+
+
+This expression suggests that a country that wishes to stop high
+inflation could do so by pegging its currency to that of a low-inflation
+country.
+
+Argentina did exactly that in 1991, by pegging the peso to the dollar
+at a 1-to-1 rate.
+                                                                                                                               19
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+The currency peg and the interest parity condition (9) imply that
+
+                                                                     it = i∗ .
+
+
+Then, equilibrium in the money market mplies that
+
+                                                             Mt = EL(C, i∗).
+So the money supply is consant in equilibrium.
+
+The government budget constraint (11) becomes
+                                                         g           g
+                                                     Bt − Bt−1 = −DEFt .                                                 (12)
+In words, when the government pegs the exchange rate, it loses one
+source of revenue, seignorage. The fiscal deficit financed by running
+down governmnt asset holdings.
+
+
+                                                                                                                               20
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Currency Pegs Require Fiscal Discipline
+
+To see this, suppose
+
+                                                         DEFt = DEF > 0.
+
+
+Equaion (12) then implies that government assets fall over time,
+                                                     g           g
+                                                 Bt − Bt−1 = −DEF < 0.
+
+                                        g
+At some point, Bt < 0, implying that the government is a debtor.
+
+Suppose that there is an upper limit on the size of the public debt.
+When the public debt hits this limit, the government must either:
+— rduce the fiscal deficit (i.e., set DEF = 0)
+– abandon the currency peg. This is called a balance of payments
+crisis.
+                                                                                                                               21
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Fiscal Consequences of a Devaluation
+
+An unexpected devaluation acts as a tax that generates revenue for
+the government. To see this,
+– The central bank unexpectedly devalues the currency from E to
+E 0 > E.
+
+– By the PPP condition, equation (7), Pt , jumps from E to E 0, so
+the devaluation is inflationary.
+
+– The devaluation does not affect the interest rate, because Et is
+expected to remain at E 0 in the future. So it = i∗, for all t.
+
+Then, the liquidity preference equation (8) says that the demand for
+nominal money balances increases from EL(C, i∗) to E 0L(C, i∗).
+
+(The explanation continues on the next slide.)
+
+                                                                                                                               22
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Fiscal Consequences of a Devaluation (concluded)
+
+
+The government budget constraint (11) in period 1 becomes
+                          M1 − M0
+                              g    g
+                       =     B1 − B0 − DEF
+                              E0
+                          E 0L(C, i∗) − EL(C, i∗)
+                       =               0
+                                                  − DEF.
+                                     E
+Note that the first term on the right-hand side of the last equality
+is positive.
+
+                                                                                                       g           g
+As a result, the government asset position improves; B1 − B0.
+
+
+Therefore, a surprise devaluation increases government revenue in
+the period in which the devaluation takes place.
+
+
+No effects after period 1, because the exchange rate remains con-
+stant at E 0.
+                                                                                                                               23
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+                              Inflationary Finance of Fiscal Deficits
+
+
+
+
+                                                                                                                               24
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+A Constant Money Growth Rate Regime
+
+Consider a floating exchange rate regime in which the central bank
+targets a path for the money supply.
+
+Suppose that the central bank expands the quantity of money at a
+constant, positive rate µ,
+
+                                                        Mt = (1 + µ)Mt−1 .                                               (13)
+for t = 1, 2, . . . To find the equilibrium values of Et , Pt, and it, guess
+and verify that in equilibrium the currency depreciates at the rate µ
+from period 2 on:
+                                Et+1
+                                      = 1 + µ,
+                                 Et
+for t = 1, 2, . . . .
+
+
+                                                                                                                               25
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Verify the validity of the Conjecture
+By the PPP condition (7), Pt must also grow at the rate µ,
+                                 Pt+1
+                                       = 1 + µ,
+                                  Pt
+for t = 1, 2, . . . . In words, inflation equals the rate of growth of the
+money supply (as in the QTM).
+
+By the interest parity condition (9)
+
+                                                                 ∗ Et+1
+                                1 + it = (1 + i )                                = (1 + i∗)(1 + µ),
+                                  Et
+for t = 1, 2, . . . . We summarize the positive relationship between it
+and µ by writing
+                                                                  it = i(µ ),
+                                                                                +
+for t = 1, 2, . . .
+
+                                                                                                                                       26
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Verify the validity of the Conjecture (concluded)
+
+
+
+
+Use the last expression to eliminate it from the money market-
+clearing condition (8)
+                                                           Mt
+                                                              = L(C, i(µ)).                                              (14)
+                                                           Et
+The RHS of (14) is constant, so its LHS must also be constant. This
+implies that Mt and Et grow at the same rate, µ, for t = 2, 3, . . . .
+
+This confirms the initial conjecture that Et+1/Et = 1 + µ, for t =
+2, 3, . . . .
+
+Condition (14) says that the higher the rate of money growth µ, the
+lower real money holdings, Mt /Pt, will be.
+
+
+                                                                                                                               27
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Fiscal Consequences of Money Creation
+
+We just established that increasing the money growth rate µ reduces
+real money holdings, Mt /Pt.
+
+In turn, holding lower real money balances makes it harder for people
+to perform economic transactions, which is likely to be welfare
+decreasing.
+
+So why do some countries print money at high rates?
+
+One reason is that printing money is a way to collect resources to
+finance fiscal deficits. We explore this idea next.
+
+
+
+                                                                                                                               28
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+The Inflation Tax
+Let’s recall the government budget constraint (11),
+                               Mt − Mt−1    g           g
+                                        Bt − Bt−1 =
+                                         − DEFt.         (11 R)
+                                   Et
+Suppose the government has been expanding Mt at the constant
+rate µ and is expected to continue to do. Then, by (14)), Mt =
+Et L(C, i(µ)), so we can write
+                           Mt − Mt−1   Et L(C, i(µ)) − Et−1L(C, i(µ))
+                                     =
+                               Et                     Et      !
+                                                    Et − Et−1
+                                     = L(C, i(µ))               .
+                                                        Et
+When Mt grows at the rate µ, Et grows at the rate µ as well. So we
+can rite the first term of the above equaton (seignorage) as
+                                                                                     !
+                                        Mt − Mt−1               µ
+                                                  = L(C, i(µ))     .                                                     (15)
+                                            Et                 1+µ
+
+
+                                                                                                                               29
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+The Inflation Tax (concluded)
+
+Since in equilibrium µ equals the inflation the RHS of (15) can be
+interpreted as the government’s inflation tax revenue. Thus,
+
+µ/(1 + µ) = inflation-tax rate
+
+L(C, i(µ)) = inflation-tax base
+
+
+
+
+                                                                                                                               30
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+The Inflation Tax Laffer Curve
+
+The tax base, L(C, i(µ)), is decreasing in µ
+the tax rate, µ/(1 + µ), is increasing in µ
+
+So it is not clear whether seignorage increases or decreases with the
+rate of expansion of the money supply, µ.
+
+Typically, seignorage revenue is increasing in µ for low values of µ
+and decreasing for high values of µ.
+
+The next slide depicts the relationship between seignorage revenue
+and µ, called the inflation-tax Laffer curve.
+
+
+
+                                                                                                                               31
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+                                     The Inflation Tax Laffer Curve
+
+
+
+
+                                     L(C, i(µ))µ/(1 + µ)
+
+
+
+
+                                                           0
+                                                                              µ
+
+Notes. The inflation tax Laffer curve depicts the relationship between the money
+growth rate, µ, and seignorage income, (Mt − Mt−1 )/Pt , in an economy in which
+the government expands the money supply at a constant rate. In equilibrium,
+                                         µ
+seignorage income equals L(C, i(µ)) 1+µ    . The first factor is decreasing in µ and
+the second increasing. This feature can give rise to a nonmonotonic relationship
+between the money growth rate and seignorage income, like the one depicted in
+the figure. In equilibrium, inflation equals the money growth rate, so the horizontal
+axis can be interpreted as measuring either variable.
+                                                                                                                               32
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”           Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Inflationary Finance
+
+Consider a situation in which
+– the government runs s constant fiscal deficit, DEFt = DEF > 0
+                                        g    g
+— has reached its borrowing limit, so Bt − Bt−1 = 0.
+
+Then, the government budget constraint (11) becomes
+                               Mt − Mt−1
+                                            .          DEF =
+                                    Et
+It says that the government finances the fiscal deficit by printing
+money (monetization of the fiscal deficit).
+
+Combining the above expression with (15), we obtain
+                                                                                        !
+                                                                                      µ
+                                              DEF = L(C, i(µ))                           .                                       (16)
+                                                                                     1+µ
+The figure on the next slide plots the left- and right-hand sides of
+this expression.
+                                                                                                                                       33
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+         Inflationary Finance and the Laffer Curve of Inflation
+
+                                     DEF*
+                                                                               A′
+                                     DEF′
+
+
+                                                                 A                      B
+                                      DEF
+
+
+
+
+                                            0                   µ1            µ1′       µ2
+
+
+Notes. The figure shows that there are two values of the money growth rate,
+µ1 and µ2 , that generate enough seignorage revenue to finance the fiscal deficit
+DEF . In one equilibrium inflation is high (point B), and in the other it is relatively
+low (point A). Typically, economies are on the upward-sloping side of the Laffer
+curve, so point A is more relevant. An increase in the deficit from DEF to
+DEF 0 requires a higher rate of monetary expansion, µ01 > µ1, and results in higher
+inflation. Deficits above DEF ∗ cannot be financed by printing money and lead
+the economy into hyperinflation if the economy has exhausted its ability to issue
+debt.
+                                                                                                                               34
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+What Does the Figure Say?
+• The horizontal axis measures the money growth rate, but can also
+be interpreted as measuring inflation, or the depreciation rate, since
+in equilibrium they are all equal to one another.
+• There are two rates of monetary expansion, µ1 and µ2, that
+generate enough seignorage revenue to finance the fiscal deficit
+DEF .
+• The more realistic scenario is described by point A, in which the
+DEF is financed with the smaller of the two money growth rates,
+µA .
+• An increase in the fiscal deficit from DEF to DEF 0 > DEF requires
+increasing the money supply at a faster rate (point A0).
+• It follows that an increase in the fiscal deficit, increases inflation
+and the depreciation rate.
+• If the fiscal deficit is larger than DEF ∗, there is no money growth
+rate that can finance it, and the economy falls into a hyperinflation.
+
+                                                                                                                               35
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+                                         Balance of Payments Crises
+
+
+
+
+                                                                                                                               36
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+What’s a Balance of Payments Crisis?
+
+A balance of payments (or BOP) crisis is a situation in which the
+government is unable or unwilling to meet its financial obligations.
+These difficulties may manifest themselves in a variety of ways, such
+as the failure to honor the domestic or foreign public debt or the
+suspension of currency convertibility.
+
+A Policy Induced BOP
+
+We will analyze a BOP crisis that occurs because of an unsustainable
+situation in which the government pegs the nominal exchange rate
+and at the same time runs a fiscal deficit.
+
+Key Prediction of the Model
+An empirical regularity associated with this type of BOP crises is
+that right before the peg is abandoned, the central bank suffers a
+speculative attack, in which it loses vast amounts of foreign reserves
+(much more than what it was losing to finance the fiscal deficit) in
+a short period of time. We will check whether the model predicts a
+speculative attack.
+                                                                                                                               37
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Description of the Environment
+
+Consider a country that is running a constant fiscal deficit DEF > 0.
+
+Suppose that the country is embarked on a currency peg. Specifi-
+cally, assume that the government fixes the nominal exchange rate
+at E.
+
+The analysis starts in period 1, but think of the currency peg as
+having been implemented before period 1.
+
+Suppose that at the beginning of period 1 the government has a
+                                   g                g
+positive stock of foreign assets, B0 > 0. Think of Bt as the foreign
+reserves with which the government can defend the currency peg.
+
+
+                                                                                                                               38
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+In Words, theMaking of a BOP Crisis
+
+We already showed that as long as the peg is expected to continue to
+be in place next period, the fiscal deficit will cause the government
+                                                    g    g
+to lose reserves over time at the rate DEF (i.e., Bt −Bt−1 = −DEF ).
+
+At some point, the government will run out of foreign reserves.
+                                         g
+Let such period be denoted T − 1, so BT −1 = 0. Suppose foreign
+lenders would not lend to this government, because they think the
+government will not eliminate the fiscal deficit.
+
+We want to show that in period T − 1, the government loses an
+                                                    g       g
+amount of foreign reserves larger than DEF , i.e., BT −1 − BT −2 <
+−DEF . This is what we mean by a speculative attack.
+
+With its foreign reserves depleted, starting in T , the government has
+to abandon the peg and start financing the fiscal deficit by printing
+money.
+                                                                                                                               39
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+The 3 Phases of a BOP
+
+(1) The pre-collapse phase, t < T − 1: the peg is in place and is
+expected to be in place also next period.
+
+(2) The BOP crisis: takes place in period T − 1. The government
+suffers a speculative attack, and although the peg is in place, it is
+expected to be abandoned in period T .
+
+(3) The post-crisis: from period T onward. The peg is no longer
+in place. and the government has ran out of foreign reserves and
+prints money to finance the fiscal deficit.
+
+
+
+
+                                                                                                                               40
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+(1) The Pre-Crisis Phase: From t = 1 to t = T − 2
+
+In any period t = 1, 2, . . . , T − 2, the exchange rate is pegged in the
+previous period, in the current period, and in the next period; that
+is, Et−1 = Et = Et+1 = E, for t = 1, 2, . . . T − 2.
+
+So, as analyzed earlier in this chapter:
+Pt = E for t = 1, 2, . . . , T − 2.
+it = i∗, for t = 1, 2, . . . , T − 2.
+Mt = EL(C, i∗), for t = 0, 1, . . . , T − 2.
+⇒ seignorage = (Mt − Mt−1 )/Pt = 0, for t = 1, 2, . . . , T − 2.
+     g     g
+⇒ Bt − Bt−1 = −DEF, for t = 1, 2, . . . , T − 2; that is, the goverment
+loses foreign reserves in the amount DEF each period.
+
+
+
+                                                                                                                               41
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+(3) The Post-Crisis Phase: From t = T Onward
+
+                                                                                              g
+The government has no foreign reserves (Bt = 0, for t = T −
+1, T, . . . ).
+
+Consequently, it must resort to printing money at the rate µ to
+finance the fiscal deficit; that is, Mt = (1 + µ)Mt−1 .. So, as we
+analyzed earlier in this chapter:∗
+Et /Et−1 = 1 + µ,, for t = T, T + 1, . . .
+⇒ Pt/Pt−1 = 1 + µ, for t = T, T + 1, . . .
+⇒ 1 + it = (1 + i∗)(1 + µ), (or it = i(µ)), for t = T − 1, T, . . .
+⇒ Mt = PtL(C, i(µ)), for t = T − 1, T, . . .
+                                                  µ
+⇒ seignorage = (Mt − Mt−1 )/Pt = L(C, i(µ)) 1+µ     , for t = T, T + 1, . . .
+                                             µ
+No foreign reserves⇒ DEF = L(C, i(µ)) 1+µ      , for t = T, T + 1, . . .
+
+∗ Actually, we haven’t shown here that E /E
+                                                                 T     T −1 = 1 + µ,   but we do so in the book. It requires
+  solving a system of 3 equations in 3 unknowns.
+
+
+
+                                                                                                                                            42
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Comparing the Pre- and Post-Crisis Phases
+
+(a) Price Stability Disappears n the Post-Crisis: In the pre-crisis pe-
+riod, the money growth rate, the inflation rate, and the depreciation
+rate are all 0, while in the post-crisis period they are all equal to µ.
+
+(b) Different Sources of Deficit Finance: The fiscal deficit is fi-
+nanced with foreign reserves during the pre-crisis period but with
+money creation (i.e., with the inflation tax) in the post-crisis period.
+
+
+
+
+                                                                                                                               43
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+(2) The BOP Crisis: Period T − 1
+
+The exchange rate peg has not yet collapsed
+⇒ ET −1 = PT −1 = E
+
+But the exchange rate is expected to depreciate in T , ET /ET −1 =
+1 + µ.
+⇒ 1 + iT −1 = (1 + i∗)(1 + µ), or iT −1 = i(µ).
+⇒ MT −1/PT −1 = L(C, i(µ)).
+Recall that MT −2/PT −2 = L(C, i∗).
+⇒ seignorage = (MT −1 − MT −2 )/PT −1 = L(C, i(µ)) − L(C, i∗) < 0
+(recall that i(µ) > i∗).
+So, by th governments budget constraint
+BTg −1 − BTg −2 = L(C, i(µ)) − L(C, i∗) − DEF < DEF .
+
+In words: the government was losing foreign reserves at the rate
+DEF to finance the deficit, but in T − 1 the loss is larger. This is a
+speculative attack.
+                                                                                                                               44
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+The Intuition Behind the Speculative Attack
+
+In T − 1 people get rid of part of their domestic-currency holdings
+because the interest rate goes up (and the interest rate goes up
+because of expectations of a devaluation). So they go to the central
+bank (who is still pegging the currency) and exchange domestic
+currency for foreign currency.
+
+The next slide presents a graphical illustration of the dynamics of
+the BOP crisis.
+
+
+
+
+                                                                                                                               45
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                              Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+                The Dynamics of a Balance of Payments Crisis
+                                           Devaluation Rate, Et /Et−1 − 1            Inflation Rate, Pt /Pt−1 − 1
+
+
+
+
+                                    0                                            0
+
+
+                                              T−2   T−1     T    T+1                   T−2   T−1     T    T+1
+                                             Nominal Interest Rate, it               Real Money Balances, Mt /Et
+
+
+
+
+                                    0                                            0
+
+                                              T−2   T−1     T    T+1                   T−2   T−1     T    T+1
+                                                Money Supply, Mt                        Foreign Reserves, Btg
+
+
+
+
+                                                                                 0
+                                              T−2   T−1     T    T+1                   T−2   T−1     T    T+1
+
+
+
+
+  Notes. The figure depicts the dynamics of a balance of payments crisis. The
+central bank initially pegs the currency, which results in zero inflation. However,
+fiscal deficits cause the stock of foreign reserves to fall steadily. In period T − 1
+ there is a speculative attack in which the central bank loses an unusually large
+  volume of foreign reserves. In period T the peg is abandoned and the central
+   bank is forced to print money to finance the fiscal deficit, which causes an
+                            increase in the inflation rate.
+                                                                                                                                                          46
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Summing Up
+• The quantity theory of money states that a key determinant of the price level
+and the nominal exchange rate is the money supply.
+
+• The quantity theory assumes that real output and the real exchange rate are
+independent of monetary policy.
+
+• In the quantity theory, an increase in the money supply causes an increase in
+the price level and a depreciation of the domestic currency.
+
+• If the central bank follows a fixed exchange rate regime, it loses control over
+the money supply.
+
+• Governments finance fiscal deficits either by issuing debt or by printing money.
+
+• By pegging the currency to that of a low inflation country, the government
+can control the inflation rate. This is policy is known as an exchange rate-based
+inflation stabilization program.
+
+• Chronic fiscal deficits render currency pegs unsustainable.
+
+• A once-and-for-all unexpected devaluation causes an increase in the price level,
+has no effect on the nominal interest rate, and acts like a tax on private money
+holdings, redistributing real resources from households to the government.
+
+                                                                                                                               47
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 15: Inflationary Finance and BOP Crises
+
+
+
+
+Summing Up (concluded)
+• If the central bank expands the money supply at the constant rate µ, in
+equilibrium inflation and the depreciation rate are both equal to µ, the difference
+between the domestic and the foreign interest rate is µ, and real money balances
+are constant over time and decreasing in µ.
+
+• Inflation acts like a tax on real money holdings, where the tax base is real
+balances and the tax rate is an increasing function of inflation.
+
+• When a government exhausts its ability to issue debt, it must finance the fiscal
+deficit by printing money.
+
+• The inflation tax Laffer curve describes the relationship between the rate of
+money growth and seignorage income. It has an inverted U shape.
+
+• Financing a higher fiscal deficit requires increasing the money growth rate and
+therefore increasing the equilibrium level of inflation.
+
+• There is a maximum level of deficit that can be financed with money creation.
+Fiscal deficits beyond this level lead the economy into hyperinflation.
+
+• A currency peg combined with fiscal deficits produces dynamics ending in a
+balance of payments crisis. Before the crisis, inflation is low and the government
+loses foreign reserves at a steady rate. In the period of the crisis, there is a
+speculative attack against the currency in which the government loses an unusually
+large amount of reserves. Then, the government is forced to abandon the peg
+and print money to finance the deficit, which increases the rate of inflation.
+                                                                                                                               48
+

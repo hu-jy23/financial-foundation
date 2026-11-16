@@ -1,0 +1,42 @@
+{
+  "E01": {
+    "A": "agent1",
+    "B": "agent0"
+  },
+  "E02": {
+    "A": "agent0",
+    "B": "agent1"
+  },
+  "E03": {
+    "A": "agent1",
+    "B": "agent0"
+  },
+  "E04": {
+    "A": "agent1",
+    "B": "agent0"
+  },
+  "E05": {
+    "A": "agent0",
+    "B": "agent1"
+  },
+  "E06": {
+    "A": "agent0",
+    "B": "agent1"
+  },
+  "E07": {
+    "A": "agent1",
+    "B": "agent0"
+  },
+  "E08": {
+    "A": "agent1",
+    "B": "agent0"
+  },
+  "E09": {
+    "A": "agent1",
+    "B": "agent0"
+  },
+  "E10": {
+    "A": "agent1",
+    "B": "agent0"
+  }
+}

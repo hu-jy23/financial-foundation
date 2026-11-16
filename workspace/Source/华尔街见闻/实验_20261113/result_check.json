@@ -1,0 +1,118 @@
+{
+  "expected_runs": 12,
+  "completed": 12,
+  "missing": [],
+  "schema_issues": [],
+  "changed_inputs": [],
+  "results": [
+    {
+      "run_id": "ai_01",
+      "path": "成果/ai_01.json",
+      "sha256": "3b8d6c6056830520f066fa51d32b0b0febde1a2bba6c3ae3e0a4a11c0c966db0",
+      "passages": 5,
+      "structures": 4,
+      "reported_figures": 9,
+      "reading_path_notes": []
+    },
+    {
+      "run_id": "ai_02",
+      "path": "成果/ai_02.json",
+      "sha256": "9175312ffdda55b72ac61dbff99655190b25bd594b18ada6c53e102bb1b5275a",
+      "passages": 5,
+      "structures": 3,
+      "reported_figures": 9,
+      "reading_path_notes": []
+    },
+    {
+      "run_id": "ai_03",
+      "path": "成果/ai_03.json",
+      "sha256": "0cb32fe52694906473d49c24de9498112b53832b9da3e91bb9dba57639e3cc5e",
+      "passages": 5,
+      "structures": 3,
+      "reported_figures": 9,
+      "reading_path_notes": []
+    },
+    {
+      "run_id": "ai_04",
+      "path": "成果/ai_04.json",
+      "sha256": "2da7f6f654d05f6a4bb9f971db2b199fac9ec1d06b7e2630abc24ec34554eb19",
+      "passages": 5,
+      "structures": 3,
+      "reported_figures": 9,
+      "reading_path_notes": []
+    },
+    {
+      "run_id": "ai_05",
+      "path": "成果/ai_05.json",
+      "sha256": "9935b58c455134376bd2712debf4a0f0ca9513604820192fb946051559df1a68",
+      "passages": 5,
+      "structures": 3,
+      "reported_figures": 9,
+      "reading_path_notes": []
+    },
+    {
+      "run_id": "ai_06",
+      "path": "成果/ai_06.json",
+      "sha256": "5614a4659cc860132e26b7e1ab9a3e3ec54f47b98e63415a4f4e8f02fad1661c",
+      "passages": 5,
+      "structures": 3,
+      "reported_figures": 9,
+      "reading_path_notes": []
+    },
+    {
+      "run_id": "korea_01",
+      "path": "成果/korea_01.json",
+      "sha256": "7c0eacea4002a336b2e11656f02ef820e536d212dbb8fdeaadbadd7f96788f20",
+      "passages": 5,
+      "structures": 3,
+      "reported_figures": 8,
+      "reading_path_notes": []
+    },
+    {
+      "run_id": "korea_02",
+      "path": "成果/korea_02.json",
+      "sha256": "37d3d27fe08acf5429cc44dd4fa7aba6ddaab34a934c5dd73fb33e3ae997d6cd",
+      "passages": 5,
+      "structures": 2,
+      "reported_figures": 6,
+      "reading_path_notes": []
+    },
+    {
+      "run_id": "korea_03",
+      "path": "成果/korea_03.json",
+      "sha256": "39f51dbaa22878cecd77424c666950e7c69a402eef170098165f92b832bb0ddb",
+      "passages": 5,
+      "structures": 2,
+      "reported_figures": 6,
+      "reading_path_notes": []
+    },
+    {
+      "run_id": "korea_04",
+      "path": "成果/korea_04.json",
+      "sha256": "cb9bc8c9064687776baea920b5d6e6b13ec580b2949ef7b80c583e7b33cd74ee",
+      "passages": 4,
+      "structures": 3,
+      "reported_figures": 8,
+      "reading_path_notes": []
+    },
+    {
+      "run_id": "korea_05",
+      "path": "成果/korea_05.json",
+      "sha256": "388939a72c939557b1f3a36e3b945b24c1046ba2da90e80c1bf7005c419881fd",
+      "passages": 4,
+      "structures": 3,
+      "reported_figures": 8,
+      "reading_path_notes": []
+    },
+    {
+      "run_id": "korea_06",
+      "path": "成果/korea_06.json",
+      "sha256": "ec709f1e08ed94548fa0fe7e352a794ed5892171d822087fd9feb01bf7c915b3",
+      "passages": 5,
+      "structures": 3,
+      "reported_figures": 6,
+      "reading_path_notes": []
+    }
+  ],
+  "complete": true
+}

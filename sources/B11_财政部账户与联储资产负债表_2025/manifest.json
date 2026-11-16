@@ -1,0 +1,36 @@
+{
+  "id": "B11",
+  "title": "Fluctuations in the Treasury General Account and Their Effect on the Fed’s Balance Sheet — Annette Vissing-Jorgensen，2025-08-06",
+  "directory": "B11_财政部账户与联储资产负债表_2025",
+  "original_language": "en",
+  "source_urls": [
+    "https://www.federalreserve.gov/econres/notes/feds-notes/fluctuations-in-the-treasury-general-account-and-their-effect-on-the-feds-balance-sheet-20250806.html"
+  ],
+  "files": [
+    {
+      "file": "财政部账户与联储资产负债表_英文原文.html",
+      "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/fluctuations-in-the-treasury-general-account-and-their-effect-on-the-feds-balance-sheet-20250806.html",
+      "resolved_url": "https://www.federalreserve.gov/econres/notes/feds-notes/fluctuations-in-the-treasury-general-account-and-their-effect-on-the-feds-balance-sheet-20250806.html",
+      "scope": "网页原文",
+      "bytes": 98354,
+      "sha256": "a6f939e357f6b07517c9453ee94363f15113c7458b1e86343f5217fdd418072a",
+      "page_title": "The Fed - Fluctuations in the Treasury General Account and their effect on the Fed's balance sheet",
+      "text_file": "财政部账户与联储资产负债表_英文原文.txt",
+      "extracted_characters": 12572,
+      "offline_file": "财政部账户与联储资产负债表_英文原文_离线阅读.html",
+      "images": [
+        {
+          "file": "images/image_01.png",
+          "source_url": "https://www.federalreserve.gov/econres/notes/feds-notes/figure1-3873.png",
+          "bytes": 41052,
+          "sha256": "9af0351e012d9705a4c3b9628fb16f0de47dd398d05f1a57e988507693570f20"
+        }
+      ],
+      "image_failures": []
+    }
+  ],
+  "failures": [],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "acquisition_status": "已取得所列原文文件；尚未精读"
+}

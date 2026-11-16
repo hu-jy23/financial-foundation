@@ -1,0 +1,89 @@
+{
+  "article_id": 3783694,
+  "selection": {
+    "article_id": 3783694,
+    "url": "https://wallstreetcn.com/articles/3783694",
+    "title": "黄金牛市何时终结？系统性风险恐慌消退，利率重新占据主导",
+    "page_display_time": "2026-10-15T15:31:55+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "黄金与贵金属",
+    "reading_priority": "A",
+    "reading_value": "用历史周期说明货币信用担忧与实际利率通道的权重变化，并提出验证条件。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2919,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 80
+  },
+  "url": "https://wallstreetcn.com/articles/3783694",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783694?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:32+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/f8bc336f-9709-4192-ab37-57a1186fc0c1.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "相比之下，两段下行期的年化回报分别为-7.7%（1980—2001年）和-6.4%（2012—2018年）。自1971年以来的全区间年化回报仅为5.0%，最大回撤高达-82.4%，充分说明 长期持有黄金的回报高度依赖于所处的周期阶段 。",
+      "path": "assets/figure_001.png",
+      "sha256": "742a811f059ac01df02a3efaf5159a0d73aa8689cad40e6a8162a4755ad622b5",
+      "bytes": 155788,
+      "width": 913,
+      "height": 525,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/f8bc336f-9709-4192-ab37-57a1186fc0c1.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "黄金牛市何时终结？系统性风险恐慌消退，利率重新占据主导",
+  "page_display_time": "2026-10-15T15:31:55+08:00",
+  "page_byline": "董静",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "嘉盛银行认为，黄金牛市终结的信号从不是某个价格，而是恐惧的消散——历史上两次周期终结均源于\"最坏担忧被消除\"，而非问题真正解决。当前三大终结条件——地缘缓和、财政整固、金价与实际利率重回负相关——均未满足，本轮牛市\"很可能尚未终结\"。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2980,
+  "body_sha256": "86f9e07628fc08b0dbd9168d7c709b3eebc5a5a36323beb42293eb0ad21e3be1",
+  "raw_sha256": "ce237bf492b8d814cf4f2c8267cbbd32ff714d155eb7f7ff990c4b789de8c756",
+  "raw_bytes": 14502,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/a2e60abd-7a5d-41e7-ab6c-d24146282b41.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 2919,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:36+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "ce237bf492b8d814cf4f2c8267cbbd32ff714d155eb7f7ff990c4b789de8c756",
+      "bytes": 14502
+    },
+    "article.html": {
+      "sha256": "4b9b4e74e05e93fb227b29b9d0b780886d80163fcf0e7b2519879f67b36de4ab",
+      "bytes": 13628
+    },
+    "article.md": {
+      "sha256": "bdc69528883a155ef9b793f976fac7fa0633919be67e58ecdbc614a5260d279a",
+      "bytes": 9052
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:22+08:00"
+}

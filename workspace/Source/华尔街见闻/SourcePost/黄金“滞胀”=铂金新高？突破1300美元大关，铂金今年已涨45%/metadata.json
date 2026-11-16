@@ -1,0 +1,89 @@
+{
+  "article_id": 3749416,
+  "selection": {
+    "article_id": 3749416,
+    "url": "https://wallstreetcn.com/articles/3749416",
+    "title": "黄金“滞胀”=铂金新高？突破1300美元大关，铂金今年已涨45%",
+    "page_display_time": "2025-06-19T09:54:30+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李笑寅",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004684",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "黄金与贵金属",
+    "reading_priority": "B",
+    "reading_value": "区分铂金的矿端供给、珠宝替代与投资资金，分析贵金属间需求转移。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1248,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 76
+  },
+  "url": "https://wallstreetcn.com/articles/3749416",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3749416?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:31+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/5a4c4370-86d6-4dda-abfc-c13ee3f733fb.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "MKS PAMP研究与金属策略主管Nicky Shiels指出，铂金的上涨是全球货币贬值交易的延续：",
+      "path": "assets/figure_001.png",
+      "sha256": "3e40b99c8ed9918ea4a15b3841a5f571ad671a3f51d57fbc834a50ede0b51fda",
+      "bytes": 67322,
+      "width": 919,
+      "height": 424,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/5a4c4370-86d6-4dda-abfc-c13ee3f733fb.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "黄金“滞胀”=铂金新高？突破1300美元大关，铂金今年已涨45%",
+  "page_display_time": "2025-06-19T09:54:30+08:00",
+  "page_byline": "李笑寅",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "当黄金价格攀升至历史高位后，投资者开始向价值链下游寻找机会，在“黄金疲劳”和中国珠宝需求激增的推动下，铂金价格飙升至五年高点。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1323,
+  "body_sha256": "83f89ba2a6f51bb5f77739df1d94f032e6d561c3cd405b450c47eb915d0ca593",
+  "raw_sha256": "72d6f98051b958f5c28c163b1ae722acc512b7ea084c0a6701f9bad5a0415f17",
+  "raw_bytes": 8408,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/490873c0-513e-439a-8230-4c8726e2331b.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1248,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:35+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "72d6f98051b958f5c28c163b1ae722acc512b7ea084c0a6701f9bad5a0415f17",
+      "bytes": 8408
+    },
+    "article.html": {
+      "sha256": "c83a47b13fababe05a50bc3553f7e013d31dfffef9a646203c57d4c8599477ee",
+      "bytes": 8044
+    },
+    "article.md": {
+      "sha256": "76af9593e91120a4f3a423eb6748bd6b053f6d04f569b11c2cce0a8fce19be78",
+      "bytes": 4257
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:21+08:00"
+}

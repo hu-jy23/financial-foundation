@@ -1,0 +1,73 @@
+{
+  "article_id": 3752263,
+  "selection": {
+    "article_id": 3752263,
+    "url": "https://wallstreetcn.com/articles/3752263",
+    "title": "当下美债最重要指标：财政部季度再融资规模维持稳定，短债比重持续上升，暗示中长期发行规模不变至2026年",
+    "page_display_time": "2025-07-30T21:18:46+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "赵颖",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004514",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "国债与财政",
+    "reading_priority": "B",
+    "reading_value": "解释季度再融资、短债占比、TGA补充及国债回购安排的联系。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1192,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 28
+  },
+  "url": "https://wallstreetcn.com/articles/3752263",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3752263?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:17+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "当下美债最重要指标：财政部季度再融资规模维持稳定，短债比重持续上升，暗示中长期发行规模不变至2026年",
+  "page_display_time": "2025-07-30T21:18:46+08:00",
+  "page_byline": "赵颖",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "美国将季度再融资发债规模定于1250亿美元，与预期相符，其中将继续小幅增加通胀保护国债(TIPS)的销售，美国认为“至少未来几个季度”的债券发行将保持稳定。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1275,
+  "body_sha256": "330c0d9de23cc78266069ef8edd15a5709ead756c035f39ddb035f6d9874ef0f",
+  "raw_sha256": "2e8763cd9c086967bdd0b4dc6ab5d4431a89c17534552ec5d3ee8b956eb62fb4",
+  "raw_bytes": 7500,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/fad6d9cc-6264-40c4-bc26-3ce0217ef412.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1192,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "2e8763cd9c086967bdd0b4dc6ab5d4431a89c17534552ec5d3ee8b956eb62fb4",
+      "bytes": 7500
+    },
+    "article.html": {
+      "sha256": "a3ee2911adea65f7af2fb1e19e72a11547c6645a57d5617c443c037ddb5393fa",
+      "bytes": 7137
+    },
+    "article.md": {
+      "sha256": "1086066e24b9196ed50fa5980483fa0e7d03c87ca63e13912286565c7131a64a",
+      "bytes": 4322
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:12+08:00"
+}

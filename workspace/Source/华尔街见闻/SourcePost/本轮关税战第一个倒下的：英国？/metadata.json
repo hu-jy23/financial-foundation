@@ -1,0 +1,109 @@
+{
+  "article_id": 3744911,
+  "selection": {
+    "article_id": 3744911,
+    "url": "https://wallstreetcn.com/articles/3744911",
+    "title": "本轮关税战第一个倒下的：英国？",
+    "page_display_time": "2025-04-09T21:30:32+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "国债与财政",
+    "reading_priority": "B",
+    "reading_value": "解释英国财政规则、发债需求和收益率上行之间的政策约束。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1208,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 26
+  },
+  "url": "https://wallstreetcn.com/articles/3744911",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3744911?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:17+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/7f6a4f1d-5bae-4c89-b6a6-9e99d4920b31.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "这一走势显然令现任财政大臣Rachel Reeves倍感压力，她的财政预算中几乎没有增加支出的空间，反而不得不削减开支以实现财政平衡。",
+      "path": "assets/figure_001.png",
+      "sha256": "853ca7d070e81a8ec67f2eba921bd5287c96e2e2884e6c5da1ace95fe661aebe",
+      "bytes": 113206,
+      "width": 1024,
+      "height": 677,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/7f6a4f1d-5bae-4c89-b6a6-9e99d4920b31.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/91e14471-dcbd-4755-bfd4-1720fd483cbf.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "期权市场显示，投资者对欧元相对于英镑的信心重新增强，所谓的一个月风险逆转现在显示出自1月21日以来对欧元的最强倾斜。本周交易的引用欧元-英镑对的期权中，超过四分之三都瞄准欧元上涨。",
+      "path": "assets/figure_002.png",
+      "sha256": "084669d41166378ba36fefd1488bad17a9cfddca08f6f8dd615f32d267da2a4b",
+      "bytes": 46362,
+      "width": 920,
+      "height": 651,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/91e14471-dcbd-4755-bfd4-1720fd483cbf.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "本轮关税战第一个倒下的：英国？",
+  "page_display_time": "2025-04-09T21:30:32+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "周三，美债收益率暴涨带动下，英国30年期国债收益率飙升25个基点，创下1998年以来的最高水平。与此同时，欧元兑英镑上涨0.7%。这或许令现任财政大臣Rachel Reeves倍感压力，她的财政预算中几乎没有增加支出的空间，反而不得不削减开支以实现财政平衡。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1288,
+  "body_sha256": "db176bdefae09368e7d9ad9ad2c8c209ef5f6d23c916659d11ff3ea1f3373cc7",
+  "raw_sha256": "55e30ca87be4f4ba2c25c40e2b0c76bae48ef859742a733f50dd4e056579d988",
+  "raw_bytes": 7712,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/debdd1e5-5342-4603-ad89-4fe19428d6d6.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 1208,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "英国央行警告称，",
+      "url": "https://wallstreetcn.com/articles/3744894?keyword=%E8%8B%B1%E5%9B%BD%E5%A4%AE%E8%A1%8C"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "55e30ca87be4f4ba2c25c40e2b0c76bae48ef859742a733f50dd4e056579d988",
+      "bytes": 7712
+    },
+    "article.html": {
+      "sha256": "feefaedac9ed9fb5a92a00d3b18de4896bbd8b98c2cc59c9cb8da39f96fec572",
+      "bytes": 8122
+    },
+    "article.md": {
+      "sha256": "4412f9edb939bd3eac736a017698f98c2775cd780a4b4f9346aaa8c46b223b5a",
+      "bytes": 4385
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:12+08:00"
+}

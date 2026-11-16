@@ -1,0 +1,119 @@
+{
+  "article_id": 3764855,
+  "selection": {
+    "article_id": 3764855,
+    "url": "https://wallstreetcn.com/articles/3764855",
+    "title": "节前债稳，节后股暖？",
+    "page_display_time": "2026-02-03T21:23:46+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "跨资产与市场结构",
+    "reading_priority": "B",
+    "reading_value": "利用春节前后股债样本讨论季节性、资金需求及政策预期；历史规律需保留样本条件。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2436,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 113
+  },
+  "url": "https://wallstreetcn.com/articles/3764855",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3764855?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:40+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/28f48ba1-5365-4c79-b8f2-7e6c2c997c21.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "股市：从防御到进攻的风格切换",
+      "path": "assets/figure_001.png",
+      "sha256": "f82d9131882e651a9d46afe292d996146111e17d97e7c7411f159c181985728c",
+      "bytes": 153604,
+      "width": 1024,
+      "height": 484,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/28f48ba1-5365-4c79-b8f2-7e6c2c997c21.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/f66eb1fc-e865-4b90-8ab6-c09447f44f4f.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "股市方面， 一般年份春节前市场往往趋于震荡（反映“持币过节”心态），节后才逐步开启“春季躁动”行情。然而在春节时间较晚的年份（如2015、2018、2021、2024年），节前沪深300指数上涨概率高达75% ，明显高于所有年份平均63.64%的水平， 反映资金在节前提前布局的意愿较强。",
+      "context_after": "债市方面， 春节前因流动性环境通常较为宽松，债券价格倾向于走强；节后则伴随经济预期回暖，收益率易出现上行压力 。 在春节较晚的年份中，节前10年期国债收益率下行的概率同样达到75%。",
+      "path": "assets/figure_002.png",
+      "sha256": "1e9d137c8f9a1eb7d1136b6a9eab075bdd136688ed51943050446eb52f99bf40",
+      "bytes": 272871,
+      "width": 1024,
+      "height": 472,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/f66eb1fc-e865-4b90-8ab6-c09447f44f4f.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/427ecffc-7f7f-4d68-98e4-86571f0e50d8.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "债市方面， 春节前因流动性环境通常较为宽松，债券价格倾向于走强；节后则伴随经济预期回暖，收益率易出现上行压力 。 在春节较晚的年份中，节前10年期国债收益率下行的概率同样达到75%。",
+      "context_after": "综合来看， 在“晚春节”年份中，股、债市场在节前同步走强的概率均处于较高水平（约75%） ， 这一统计特征在研判2026年开年市场节奏时值得重点关注。",
+      "path": "assets/figure_003.png",
+      "sha256": "fadee4da353a6a82f9f1165d49f711ed806fd1200e64f71a8937aacab16e8133",
+      "bytes": 238153,
+      "width": 1024,
+      "height": 439,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/427ecffc-7f7f-4d68-98e4-86571f0e50d8.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "节前债稳，节后股暖？",
+  "page_display_time": "2026-02-03T21:23:46+08:00",
+  "page_byline": "李佳",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "天风证券研究显示，2026年市场正打破传统“春节效应”。历史规律显示节前债强股弱、节后风格切换至小盘成长。但今年在“晚春节”、政策预期及全球流动性支持下，“春季躁动”提前且基础更实，市场呈现股债同强博弈。债市在结构性降息后或延续震荡，股市风格将从简单切换转为“成长与红利共舞”的复杂格局，投资者需关注高拥挤度下的波动风险。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2501,
+  "body_sha256": "313bb6867a055f9f110d1931c1097f72163095cbb6cd71b1ab3db441c8fbef41",
+  "raw_sha256": "f19f0e1a2d5b900dff0f51ad794ea0cb228542f21ce7b55ec93d9f7a586b657a",
+  "raw_bytes": 13234,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/a06bc07a-8c5f-435a-b24e-34631bae9d97.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 2436,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:38+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "f19f0e1a2d5b900dff0f51ad794ea0cb228542f21ce7b55ec93d9f7a586b657a",
+      "bytes": 13234
+    },
+    "article.html": {
+      "sha256": "95f7188c982770b2783483b79e3dd7d9577783a341839d8420950b9c5c2c7883",
+      "bytes": 12683
+    },
+    "article.md": {
+      "sha256": "ae2861d22ba2febd33884cda94e0a4dfef1df2a81890b0a711c3948d241a71fb",
+      "bytes": 8152
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:28+08:00"
+}

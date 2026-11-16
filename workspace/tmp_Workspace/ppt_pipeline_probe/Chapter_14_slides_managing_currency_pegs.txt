@@ -1,0 +1,783 @@
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+    Slides for Chapter 14: Managing Currency Pegs
+
+                                                      Columbia University
+
+                                                       September 6, 2022
+
+
+
+
+These are the slides for the textbook, “International Macroeconomics: A Modern Approach,” by
+Stephanie Schmitt-Grohé, Martı́n Uribe, and Michael Woodford, Princeton University Press, 2022,
+ISBN: 9780691170640.
+
+
+
+
+                                                                                                                     1
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+Motivation
+
+In countries with fixed exchange rates, a positive shock can be the
+prelude to a crisis:
+
+— Consider a fall in the world interest rate. It causes increases in
+aggregate demand, employment, and wages.
+
+— When the world interest rate goes back up to its normal level,
+aggregate demand contracts and, if wages are downwardly rigid, and
+the exchange rate is fixed (or the central bank has fear of floating)
+the economy can suffer persistent involuntary unemployment.
+
+These dynamics are known as a boom-bust cycle.
+
+Can the government do anything (other than floating) to smooth
+out boom-bust cycles?
+                                                                                                                     2
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+This Chapter
+
+• Begins by analyzing the mechanics of a boom-bust cycle in the
+context of the TNT-DNWR model of Chapter 13.
+
+• Shows that a currency peg and nominal rigidity create an external-
+ity (individual agents don’t internalize that booms are the preamble
+of busts).
+
+• Studies policy instruments to correct the externality, including
+
+— fiscal devaluations and
+
+— macroprudential capital control policy. (This analysis comple-
+ments that of Chapter 12.)
+
+
+                                                                                                                     3
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+A Boom-Bust Cycle
+The figure on the next slide illustrates a boom-bust cycle in the
+context of the TNT-DNWR model, when the central bank pegs the
+exchange rate.
+• The economy starts at point A, with full employment and wage
+W A.
+• The nominal exchange rate is fixed at Ē.
+• A decline in the world interest rate from r∗ to r∗0 < r∗ shifts the
+demand schedule up and to the right, setting off a boom.
+• At the existing nominal wage, there is excess demand for labor, so
+wages begin to rise, shifting the supply schedule up and to the left.
+The new equilibrium wage is W B .
+• In the boom equilibrium (point B) there is full employment and
+the relative price of nontradables rises to pB > pA.
+• When the interest rate goes back up to r∗. The demand schedule
+shifts down and to the left back to its original position. But the
+supply schedule does not move, because the wage rate is downwardly
+rigid.
+• The new equilibrium is at point C, with involuntary unemployment
+h̄ − hC and the relative price of nontradables falls to pC .
+                                                                                                                     4
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                     Chapter 14: Managing Currency Pegs
+
+
+
+
+  A Boom-Bust Cycle in the TNT-DNWR Model with a Peg
+                                  p1
+
+
+
+
+                                                                                                           W B /Ē
+                                                                                                           F 0 (h1 )
+                                                                                 B
+                                  pB
+                                  pC
+                                                          C
+                                                                                                           W A /Ē
+                                                                                                           F 0 (h1 )
+                                                                                 A
+                                  pA
+
+                                                                                                     1−γ C T (r∗0 )
+                                                                                     1−γ C T (r∗ )
+                                                                                                      γ  F (h1 )
+                                                                                      γ F (h1 )
+
+
+
+                                                           hC               h̄                                h1
+
+    Notes. The economy starts at point A, with full employment and wage W A . The nominal
+   exchange rate is fixed at Ē. A decline in the world interest rate from r ∗ to r ∗0 < r ∗ sets off a
+    boom. The demand schedule shifts up and to the right. Wages rise to W B and the supply
+  schedule shifts up and to the left. In the boom equilibrium (point B) there is full employment
+  and the relative price of nontradables rises to pB > pA . Then the interest rate goes back up to
+   r ∗. The demand schedule shifts down and to the left back to its original position. The new
+      equilibrium is at point C, with involuntary unemployment h̄ − hC and the relative price of
+                                        nontradables falls to pC .
+
+                                                                                                                                                       5
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+The Currency Peg Externality
+
+When the interest rate falls, individual agents know that the boom
+in aggregate demand that their own consumption contributes to
+generate pushes wages up causing unemployment when the boom is
+over.
+
+Yet, they don’t curb their consumption during the boom, because
+they are too small to affect the equilibrium dynamics of wages.
+
+Thus, the economy suffers from an externality—the currency peg
+externality.
+
+The currency peg externality opens the door for corrective govern-
+ment policy.
+
+A devaluation would fix the problem, but sometimes it is not an
+option (e.g., a currency union). What other policy instruments are
+available to the government to treat the currency peg externality?
+                                                                                                                     6
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+Two Types of Policy to Address the Peg Externality
+
+First Best Policies: Achieve full employment and an efficient in-
+tertemporal allocation of consumption. They are ex-post policies,
+because they take place when the boom is over. Disadvantage:
+could be impractical, as they might require parliament approval, so
+not easy to implement at business-cycle frequency.
+
+• Second Best Policies: They reduce unemployment during reces-
+sions, but at the cost of distorting the intertemporal allocation of
+consumption. They are ex-ante (or macroprudential) because they
+take place when the economy is still booming. Advantage: can be
+applied quickly.
+
+We first analyze second best policies.
+
+
+                                                                                                                     7
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+Macroprudential Capital Control Policy
+
+We saw that with DNWR and a currency peg, booms are ineffi-
+ciently large, because when the economy lands there is involuntary
+unemployment.
+
+A benevolent government would like to curb booms to make the
+landing softer.
+
+Consider a tax on external borrowing. As discussed in Chapter 12,
+this type of tax is call capital controls. Here, the idea is to apply
+it when the economy is booming (before the bust). This type of
+policy is call macroprudential.
+
+
+
+                                                                                                                     8
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+Effects of Macroprudential Capital Controls
+The next figure shows how a macroprudential capital control tax works.
+The boom-bust dynamics in the absence of capital controls (under free capital
+mobility) are like those shown in slide 5:
+– the initial equilibrium is at point A.
+A fall in the interest rate from r∗ to r∗0 < r∗ moves the equilibrium to point B, where
+wages and consumption of tradables are higher (W B > W A and C T (r∗ 0 ) > C T (r∗ )).
+– When the interest rate goes back to r∗ , the equilibrium shifts to point C, where
+there is unemployment in the amount h̄ − hC .
+• Now suppose that during the boom, the government imposes a capital control
+tax τ1.
+This tax raises the effective interest rate to r∗0 + τ1 ∈ (r∗ 0 , r∗ ).
+• So now the fall in the world interest rate shifts the demand schedule to the right
+but by less than under free capital mobility.
+• The boom equilibrium with capital controls is at point D, where the wage and
+consumption of tradables are higher but lower than under free capital mobility
+(W D ∈ (W A , W B ) and C T (r∗ 0 + τ1 ) ∈ (C T (r∗ ), C T (r∗ 0 )).
+• When the interest rate goes back to r∗, the government removes the capital
+control tax (τ1 = 0) so the equilibrium is at point E, where there is unemployment
+but less than under free capital mobility (h̄ − hE < h̄ − hC ).
+                                                                                                                     9
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                                                  Chapter 14: Managing Currency Pegs
+
+
+
+
+           Capital Controls during a Boom-Bust Cycle in a Peg
+                                         p1
+                                                                                                                 W B /E¯
+                                                                                                                 F 0 (h1 )
+
+
+
+                                                                                                                      W D /E¯
+                                                                                                                      F 0 (h1 )
+                                                                                                B
+                                                                                                                             1−γ C T (r ∗0 )
+                                                                                                                              γ   F (h1 )
+
+                                                                                                                      W A /E¯
+                                                                                                                      F 0 (h1 )
+                                                                                                D
+                                                                                                                             1−γ C T (r ∗0 +τ1 )
+                                                                                                                              γ      F (h1 )
+
+
+                                                                           C          E
+                                                                                                A
+                                                                                                                             1−γ C T (r ∗ )
+                                                                                                                              γ  F (h1 )
+
+
+
+
+                                                                           hC         hE            h̄                                         h1
+
+
+
+
+The boom-bust dynamics under free capital mobility are identical to those shown in slide 5: the initial equilibrium is at point A. A fall in the interest rate from r ∗ to
+r ∗0 < r ∗ moves the equilibrium to point B, where wages and consumption of tradables are higher (W B > W A and C T (r ∗0 ) > C T (r ∗ )). When the interest rate goes
+back to r ∗ , the equilibrium shifts to point C, where there is unemployment in the amount h̄ − hC . During the boom, the government imposes a capital control tax τ1,
+which raises the effective interest rate to r ∗0 + τ1 ∈ (r ∗0 , r ∗ ). The fall in the interest rate shifts the demand schedule to the right but by less than under free capital
+mobility. The equilibrium is at point D, where the wage and consumption of tradables are higher but lower than under free capital mobility (W D ∈ (W A , W B ) and
+C T (r ∗0 + τ1 ) ∈ (C T (r ∗ ), C T (r ∗0 )). When the interest rate goes back to r ∗ , the government removes the capital control tax (τ1 = 0), and the equilibrium is at point E,
+where there is unemployment but less than under free capital mobility (h̄ − hE < h̄ − hC ).
+
+
+
+
+                                                                                                                                                                                  10
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+Macroprudential Capital Controls as Second Best Policy
+
+The figure suggests that applying capital controls during the boom
+phase of a boom-bust cycle can be beneficial because, by curbing
+the rise in nominal wages during the boom, they reduce the size of
+involuntary unemployment in the bust.
+
+Because they are applied during the boom phase, this type of capital
+control policy is called macroprudential.
+
+Although beneficial, macroprudential capital controls do not achieve
+the best possible allocation for two reasons:
+(1) some unemployment remains during the bust. And
+(2) By altering the interest rate perceived by households from r∗0 to
+r∗0 + τ1, they distort the intertemporal allocation of consumption of
+tradables, C1T and C2T .
+
+Thus, compared to other possible policies (e.g., a floating exchange
+rate), macroprudential capital controls represent a second-best pol-
+icy.
+                                                                                                                   11
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+First-Best Policies
+
+Next, we analyze policies that can achieve the first-best allocation:
+
+— Full employment
+— No distortions in the intertemporal allocation of consumption.
+
+The motivation behind this class of policies starts by recognizing
+that the problem with currency pegs is that because of DNWR, the
+real wage Wt /Et becomes downwardly rigid during contractions.
+
+So, first-best policies consist in applying taxes or subsidies that
+incentivize employment or the production or consumption of goods
+that use labor intensively.
+
+These type of policy have two disadvantages: (1) unlike capital con-
+trols, they are not easy to implement in practice (requires congress
+approval); and (2) they can be deflationary.
+                                                                                                                   12
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+Fiscal Devaluations
+
+It consists of a wage subsidy.
+
+Suppose that the government pays a fraction st of the firm’s wage
+bill in period t = 1, 2. Then, profits are given by
+                                            Πt = PtN F (ht) − (1 − st)Wtht .                                    (1)
+After dividing by Et and rearranging, the optimality condition is
+                               (1 − st )(Wt/Et )
+                          pt =                   .                  (2)
+                                   F 0(ht)
+From the point of view of a nontraded goods producer, given pt , a
+wage subsidy is identical to a decline in the wage or to a devaluation.
+So an increase in st shifts the supply schedule down and to the right.
+
+The wage subsidy does not change the position of the demand
+schedule.
+
+The figure on the next slide depicts the optimal use a a wage subsidy.
+Read the note to the figure.
+                                                                                                                   13
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                        Chapter 14: Managing Currency Pegs
+
+
+
+
+A Fiscal Devaluation in the TNT-DNWR Economy
+
+                                     p1
+                                                                   1−γ C T (r ∗ )
+                                                                    γ  F (h1 )
+
+
+
+
+                                            1−γ C T (r ∗0 )
+                                             γ   F (h1 )
+
+                                                                                             W A /E¯
+                                                                                             F 0 (h1 )
+                                                                                         A
+                                    pA
+
+                                                              B
+                                    pB                                                                   (1−s1 )W A /E¯
+                                                                                                            F 0 (h1 )
+                                                                                                  D
+
+
+
+                                                                                         C
+                                    pC
+
+
+
+
+                                                              hB                    h̄             hD     h1
+
+
+
+The figure shows the effect of a wage subsidy in the adjustment to an interest
+rate hike in the TNT-DNWR economy with a fixed exchange rate. Initially, the
+world interest rate is r∗, and the equilibrium is at point A. When the interest rate
+increases to r∗ 0 > r∗ , the demand schedule shifts down and to the left. The new
+equilibrium without a subsidy is point B and features involuntary unemployment.
+The wage subsidy, s1 > 0, shifts the supply schedule down and to the right
+and leaves the demand schedule unchanged. The equilibrium with the subsidy is
+point C, where full employment is restored and the price of nontradables is lower,
+pC < pB .
+                                                                                                                                                        14
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+Summary of Fiscal Devaluations
+
+• A fiscal devaluation reduces the marginal cost perceived by firms.
+• It’s a labor subsidy to firms that shifts the supply schedule to the
+right.
+• In response to external shocks, it restores full employment without
+distorting the intertemporal allocation of consumption.
+• The larger the negative external shock is, the larger the required
+labor subsidy will be.
+• Similarities with a currency devaluation: same fall in the real wage
+faced by firms, same depreciation of the real exchange rate. same
+level of employment, no intertemporal distortions.
+• Differences: it is more difficult to implement. It can cause core
+deflation.
+• It must be removed when the recession is over, otherwise it piles
+up.
+• It can alternatively be implemented via a production subsidy or a
+consumption subsidy to labor intensive goods.
+                                                                                                                   15
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+Higher Inflation in a Monetary Union
+
+The central bank of a monetary union can assist its member coun-
+tries in a sudden stop by creating union-wide inflation.
+
+Suppose that the foreign price, PtT ∗, can change by the action of
+the union’s central bank.
+
+The supply schedule becomes
+                                                              W1/(ĒP T ∗)
+                                                         p1 =              .
+                                                               F 0(h1)
+So union-wide inflation (PtT ∗ ↑) shifts the supply schedule to the
+right.
+
+If B0 = 0, the demand schedule is unaffected.
+
+Thus, union-wide inflation is like a devaluation. The next figure
+illustrates how it can help in a sudden stop.
+                                                                                                                   16
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                        Chapter 14: Managing Currency Pegs
+
+
+
+
+                      Adjustment to an Interest Rate Shock with
+                                Union-Wide Inflation
+                             p1
+                                                                                     W A /(EP
+                                                                                            ¯ T ∗)                ¯ T ∗ 0)
+                                                                                                           W A /(EP
+                                                                                       F 0 (h1 )                0
+                                                                                                              F (h1 )
+
+
+
+
+                                                                           A
+                             pA
+                                                                                                                C T (r ∗ ,QT ,QT )
+                                                                                                          1−γ              1 2
+                                                                                                           γ         F (h1 )
+
+
+
+
+                                                        B
+                                                                           C
+                             pC
+                                                                                                                C T (r ∗0 ,QT ,QT )
+                                                                                                          1−γ               1 2
+                                                                                                           γ          F (h1 )
+
+
+
+
+                                                         hB                    h̄                    h1
+
+
+
+The initial equilibrium is at point A, where the external price is P T ∗ , the wage is
+W A , the exchange rate is fixed at Ē, and there is full employment. The increase in
+r∗ shifts the demand schedule down and to the left. Then, the monetary authority
+                                  0
+increases the price level to P T ∗ > P T ∗ , which shifts the supply schedule down and
+to the right. The new equilibrium is at point C, where full employment is preserved
+and the real exchange rate depreciates (p1 ↓).
+                                                                                                                                                        17
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”       Chapter 14: Managing Currency Pegs
+
+
+
+
+Higher Union-Wide Inflation (continued)
+
+For countries that are net external debtors (B0 < 0) union-wide
+inflation can have an additional expansionary effect via a reduction
+of the real value of net external liabilities.
+
+With B0 6= 0, the demand for tradable goods becomes
+
+                                  C1T = C T (r ∗, QT
+                                                   1 , QT , (1 + r )B /P T ∗).
+                                                        2         0  0
+                                                        −        +        +          +
+
+So if B0 < 0, an increase in P T ∗, shifts the demand schedule up and
+to the right.
+
+The next slide illustrates this effect.
+
+
+
+                                                                                                                       18
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                              Chapter 14: Managing Currency Pegs
+
+
+
+
+                      Adjustment to an Interest Rate Shock with
+                        p
+                          External Inflation and Initial Debts
+                             1
+                                                                                     W A /(EP
+                                                                                            ¯ T ∗)
+                                                                                       F 0 (h1 )
+
+
+
+                                                                                                ¯ T ∗0)
+                                                                                         W A /(EP
+                                                                                              0
+                                                                                            F (h1 )
+                                                                           A
+                           pA                                                                        C T (r ∗ ,QT ,QT ,(1+r0 )B0 /P T ∗ )
+                                                                                             1−γ                1 2
+                                                                                              γ                     F (h1 )
+
+
+
+                                                                           C
+                           pC                                                                                                           0
+                                                                                                     C T (r ∗0 ,QT ,QT ,(1+r0 )B0 /P T ∗ )
+                                                                                             1−γ                 1 2
+                                                                                              γ                      F (h1 )
+
+
+                                                       B
+
+                                                                                                     C T (r ∗0 ,QT ,QT ,(1+r0 )B0 /P T ∗ )
+                                                                                             1−γ                 1 2
+                                                                                              γ                      F (h1 )
+
+
+
+
+                                                        hB                     h̄                             h1
+
+
+
+
+The initial equilibrium is at point A, where the wage is W A , the exchange rate
+is fixed at Ē, and the external price level is P T ∗ . Absent policy intervention, an
+increase in r∗ to r∗0 moves the equilibrium to point B. Now the union’s central
+bank increases P T ∗ to P T ∗ , which shifts the demand schedule up and to the right
+(downward-sloping dash-dotted line) and the supply schedule down and to the
+right (upward-sloping dash-dotted line). The new equilibrium is at point C.
+                                                                                                                                                              19
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+The Boom-Bust Cycle in Peripheral Europe, 2000–2011
+
+• We started by analyzing boom-bust cycles from the theoretical per-
+spective of the TNT-DNWR model. These dynamics are depicted
+in the figure in slide 5.
+
+• To see if those predictions are empirically plausible, we close by
+looking at an actual boom-bust cycle, the one in peripheral Europe
+around the global financial crisis of 2007 (see the next figure).
+
+• The euro was introduced in 1999 and replaced the currencies of the
+country members, so the German mark, the Italian lira, the French
+franc, the Spanish peseta, etc. all disappeared.
+
+• So in effect all countries in the monetary union (colled the euro-
+zone) adopted a currency peg vis-à-vis the other member countries
+at a 1-for-1 exchange rate.
+                                                                                                                   20
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+The Boom
+The eurozone started with a boom driven by optimistic foreign
+creditors. So large current-account deficits took place (top left
+panel).
+• The boom was accompanied by a sharp increase in nominal wages
+(top right panel), a significant fall in unemployment (bottom left
+panel), and a large real exchange rate appreciation (bottom right
+panel).
+• This is similar to what happens in the TNT-DNWR model, when
+the equilibrium moves from point A to point B in the figure of slide 5.
+The Bust
+• The boom came to an abrupt end with the onset of the global
+financial crisis, as foreign investors suddenly stopped extending credit
+(a sudden stop).
+• The current account experienced a sharp reversal. (top left panel)
+Nominal wages, however, remained as high as at the peak of the
+boom.Though the real exchange rate depreciated, it did not return
+to its pre-boom level.
+                                                                                                                   21
+• Viewed through the lens of the TNT-DNWR model, the observed
+contraction in the eurozone corresponds to the move from point B
+to point C in the figure of slide 5.
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”                                                     Chapter 14: Managing Currency Pegs
+
+
+
+
+            Boom-Bust Cycle in Peripheral Europe, 2000–2011
+
+                                                  Current Account / GDP                                    Labor Cost Index, Nominal
+                                              0                                                      120
+
+
+
+
+                                                                                 Index, 2008Q2=100
+                                                                                                     100
+                                             −5
+                               Percent
+                                                                                                      80
+
+                                         −10
+                                                                                                      60
+
+
+                                         −15                                                          40
+                                                     2005                 2010                                 2005               2010
+                                                            Year                                                      Year
+
+                                                   Unemployment Rate                                         Real Exchange Rate
+                                             15                                                      130
+
+
+
+
+                                                                                 Index, 2008Q2=100
+                                                                                                     120
+                                   Percent
+
+
+
+
+                                             10                                                      110
+
+
+                                                                                                     100
+
+
+                                              5                                                       90
+                                                     2005                 2010                                 2005               2010
+                                                            Year                                                      Year
+
+
+
+
+Notes. Arithmetic mean of Bulgaria, Cyprus, Estonia, Greece, Ireland, Lithuania,
+Latvia, Portugal, Spain, Slovenia, and Slovakia. The vertical line indicates the
+beginning of the recession in 2008Q2. Data Source: Eurostat.
+                                                                                                                                                                     22
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+Summing Up
+In the presence of nominal rigidity and free capital mobility, the exchange rate
+can be a powerful tool to stabilize aggregate activity and prices over the business
+cycle. When the central bank pegs the currency, it gives up this tool. This
+chapter analyzes alternative stabilization policies that can substitute for the loss
+of monetary autonomy.
+• In a currency peg, a positive external shock can be a Trojan horse. When the
+economy expands, the real wage goes up. Once the boom is over, the real wage
+must fall to equilibrate the labor market. The combination of downward nominal
+wage rigidity and a fixed exchange rate makes the real wage downwardly rigid,
+giving rise to involuntary unemployment. This is called a boom-bust cycle.
+• Downward nominal wage rigidity and a currency peg combined produce an
+externality, originating in the fact that individual agents fail to internalize that
+capital inflows in the expansionary phase of the business cycle push wages up,
+placing the economy in a vulnerable position to adjust in the contractionary phase
+of the cycle.
+• Capital controls can help reduce the amplitude of the business cycle in economies
+with a currency peg.
+
+• Capital controls must be raised during booms and lowered during contractions,
+to reduce the volatility of capital inflows. This type of preemptive policy is called
+macroprudential, as it acts before the economy enters a downturn.
+                                                                                                                   23
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+Summing Up (continued)
+
+• Capital controls do not achieve the first-best allocation, as they represent a
+trade-off between reducing unemployment and hindering the free flow of capital.
+For this reason, they are known as second-best instruments.
+
+• One advantage of capital controls is that they are relatively easy to change over
+the business cycle.
+
+• Labor subsidies or cuts in labor taxes can also be used to stabilize an economy
+subject to a currency peg and free capital mobility. An increase in a labor subsidy
+acts as a devaluation, as it lowers the labor cost of firms.
+
+• Because changes in labor subsidies (labor taxes) mimic changes in the exchange
+rate, they are called fiscal devaluations.
+
+• Unlike capital controls, labor subsidies (taxes) do not hinder the free flow of
+capital.
+
+• Appropriate movements in labor subsidies (taxes) can achieve the first best
+allocation—namely, full employment and an efficient intertemporal allocation of
+resources.
+
+
+
+                                                                                                                   24
+Schmitt-Grohé, Uribe, Woodford, “International Macroeconomics: A Modern Approach”   Chapter 14: Managing Currency Pegs
+
+
+
+
+Summing Up (concluded)
+
+• Labor subsidies (labor tax cuts) are politically easy to pass but difficult to
+remove. In addition, they require parliamentary approval, which is often slow.
+These issues render fiscal devaluations impractical for stabilization purposes, as
+the optimal policy requires introducing subsidies (tax cuts) during recessions and
+removing them during booms. This might explain why fiscal devaluations are not
+commonly observed in practice.
+
+• In a currency union, all members use the same currency as legal tender. For
+this reason, from the perspective of a member country, a currency union can be
+thought of as a currency peg in which the exchange rate is fixed at 1.
+
+• An increase in union-wide inflation acts as a devaluation, because it increases
+the price of the internationally traded good.
+
+• For this reason, union-wide inflation can reduce unemployment in member
+countries hit by negative external shocks.
+
+• The 2000-2011 boom-bust cycle in the periphery of the eurozone (Ireland,
+Spain, Portugal, Greece, the Baltics, etc.) shares a number of features with the
+boom-bust cycle predicted by the TNT-DNWR model: Current account deficits,
+rising real wages, expansions in consumption and employment, and real exchange
+rate appreciation during the boom phase and a current account reversal, failure
+of real wages to decline, a collapse in consumption, and unemployment during the
+contractionary phase.
+
+                                                                                                                   25
+

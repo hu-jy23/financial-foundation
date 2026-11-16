@@ -1,0 +1,73 @@
+{
+  "article_id": 3783523,
+  "selection": {
+    "article_id": 3783523,
+    "url": "https://wallstreetcn.com/articles/3783523",
+    "title": "IMF警告：发达经济体赤字创2021年来新高，财政整顿迫在眉睫",
+    "page_display_time": "2026-10-13T16:24:07+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "国债与财政",
+    "reading_priority": "B",
+    "reading_value": "连接赤字、利息支出、再融资和政策独立性，保留IMF预测更新的时点与前提。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2085,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 33
+  },
+  "url": "https://wallstreetcn.com/articles/3783523",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783523?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:19+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "IMF警告：发达经济体赤字创2021年来新高，财政整顿迫在眉睫",
+  "page_display_time": "2026-10-13T16:24:07+08:00",
+  "page_byline": "李佳",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "IMF警告，发达经济体财政赤字将创疫情后新高，其中美国财政压力尤为突出，2026年一般政府净借款规模预计将达到GDP的8.5%。高债务与高利率叠加，AI投资带来的融资需求进一步加剧财政压力。IMF还预计，全球公共债务将在本十年末前逼近全球GDP的100%，各国亟须重建财政空间。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2158,
+  "body_sha256": "bdf7379647dc979ca08297a9b79c66ed45e1a0d8cd1c7c00ed02f708821bbbbf",
+  "raw_sha256": "47ed9a14317d70eac83bac2db6190f3e87bbade42c1ff48bffa2e69fb2ca67f0",
+  "raw_bytes": 10401,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/c0cc9f1a-6957-4e3a-9a62-3bbc8a968c31.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2085,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "47ed9a14317d70eac83bac2db6190f3e87bbade42c1ff48bffa2e69fb2ca67f0",
+      "bytes": 10401
+    },
+    "article.html": {
+      "sha256": "fd9abd57cf0dee5c005a44acd2150f1311b3e7e7a71bd7cbffec8f22a3f0e332",
+      "bytes": 10320
+    },
+    "article.md": {
+      "sha256": "63acea90945b480c22cee8e262535509bab1644bdb9f994cc13e100bbf9cb63e",
+      "bytes": 6889
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:13+08:00"
+}

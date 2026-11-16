@@ -1,0 +1,2590 @@
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                                           Slides for Chapter 10:
+
+              Determinants of the Real Exchange Rate
+
+                                                      Columbia University
+
+                                                       September 6, 2022
+
+
+
+
+These are the slides for the textbook, “International Macroeconomics: A Modern Approach,” by
+Stephanie Schmitt-Grohé, Martı́n Uribe, and Michael Woodford, Princeton University Press, 2022,
+ISBN: 9780691170640.
+
+
+
+                                                                                                                                    1
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Motivation
+• In chapter 9, we documented that the real exchange rate moves
+substantially over time—countries sometimes become cheaper than
+other countries and sometimes more expensive.
+• This chapter investigates what causes the real exchange rate to
+move over time.
+• It addresses this question from a short-run perspective, through
+a model called TNT (traded-nontraded), and from a long-run per-
+spective, through a model called Balassa-Samuelson.
+• In the short run, factors of production cannot move easily across
+sectors—e.g., an accountant cannot become a farmer from one
+month to the next. Technology is also fixed—e.g., it took decades
+for tractors to replace horses.
+• Thus, in the short run, relative prices, and in particular the real
+exchange rate, are primarily determined by demand factors.
+• In the long run, factors of production can move more freely across
+sectors—e.g., the accountant (or her children) can become a farmer.
+In addition, new technologies affect sectoral production possibilities.
+• Thus, in the long run, relative prices, and in particular the real
+exchange rate, are determined primarily by supply factors.
+                                                                                                                                    2
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                                                   The TNT Model
+
+
+
+
+                                                                                                                                    3
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The TNT model is identical to the open economy model of Chapter
+3 except that instead of a single tradable good it features two goods,
+one tradable and one nontradable.
+
+The tradable good can be imported or exported without restrictions.
+By contrast, the nontradable good is not exchanged in international
+markets and must be produced and consumed domestically.
+
+Consequently, the TNT model features as an endogenous variable
+the relative price of nontradable goods in terms of tradable goods.
+
+As we saw in Chapter 9 this relative price plays a key role in deter-
+mining the real exchange rate.
+
+
+
+                                                                                                                                    4
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Households
+The household’s utility function is
+
+                                                            ln C1 + β ln C2,                                                  (1)
+C1 and C2 denote consumption and are composite goods made up
+of tradable and nontradable consumption goods, with Cobb-Douglas
+aggregators
+                                                     C1 = (C1T )γ (C1N )1−γ ,                                                 (2)
+and
+                                                     C2 = (C2T )γ (C2N )1−γ ,                                                 (3)
+
+
+with γ ∈ (0, 1).
+
+
+
+                                                                                                                                    5
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Budget Constraints
+
+In period 1, the household is endowed with tradable and nontradable
+goods, QT 1 and  QN , and can buy a bond, B , denominated in units
+                  1                         1
+of tradable goods:
+
+                            P1T C1T + P1N C1N + P1T B1 = P1T QT    N N
+                                                              1 + P1 Q1 ,
+where PtT and PtN are the prices of tradable and nontradable goods
+in periods t = 1, 2.
+
+In period 2, the household’s budget constraint is given by
+
+                   P2T C2T + P2N C2N = P2T QT
+                                            2 + P N QN + (1 + r )P T B .
+                                                  2  2         1 2 1
+
+
+
+
+                                                                                                                                    6
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Express Budget Constraints in Units of Tradable Goods
+
+Dividing the period-1 budget constraint by P1T and the period-2
+budget constraint by P2T gives
+
+                                         C1T + p1 C1N + B1 = QT
+                                                              1 + p QN
+                                                                   1 1
+
+and
+                                C2T + p2C2N = QT
+                                               2 + p2 QN + (1 + r )B ,
+                                                       2         1  1
+
+where
+                                                                       PtN
+                                                                   pt ≡ T
+                                                                       Pt
+denotes the relative price of the nontradable good in terms of trad-
+able goods in periods t = 1, 2.
+
+
+
+                                                                                                                                    7
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Intertemporal Budget Constraint
+
+Combining these two budget constraints to eliminate B1 yields
+                            C T + p CN               QT + p QN
+                                   2                       2 2
+               C1T + p1C1N + 2        2 = QT + p QN + 2
+                                           1    1 1            .                                                              (4)
+                               1 + r1                  1 + r1
+For convenience, let
+
+                                                T      N   QT
+                                                            2 + p2 QN
+                                                                    2 ,
+                                          Ȳ ≡ Q1 + p1Q1 +
+                                                             1 + r1
+which is taken as exogenous by the household. The intertemporal
+budget constraint then is
+
+                                           T      N   C2T + p2 C2N
+                                          C1 + p1C1 +              = Ȳ .
+                                                         1 + r1
+
+
+
+                                                                                                                                    8
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Household’s Optimization Problem
+The household chooses Ct, CtT , and CtN for t = 1, 2, to maximize
+
+                                                            ln C1 + β ln C2,                                                  (1)
+subject to
+                                                     C1 = (C1T )γ (C1N )1−γ ,                                                 (2)
+
+                                                     C2 = (C2T )γ (C2N )1−γ ,                                                 (3)
+and
+                                           T      N   C2T + p2 C2N
+                                          C1 + p1C1 +              = Ȳ .                                               (IBC)
+                                                         1 + r1
+Using (2), (3), and (IBC) to eliminate C1, C2, and C2T from the
+utility function (1), the household’s optimization problem reduces
+to choosing C1T , C1N , and C2N to maximize
+
+γ ln C1T +(1−γ) ln C1N +βγ ln[(1+r1)(Ȳ −C1T −p1 C1N )−p2C2N ]+β(1−γ) ln C2N .
+
+                                                                                                                                    9
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”            Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Optimality Conditions
+Taking derivatives with respect to C1T , C1N , and C2N and equating
+them to zero gives
+                           1                 β(1 + r1)
+                            T
+                              −                 T      N        N
+                                                                    = 0,
+                          C1    [(1 + r1)(Ȳ − C1 − p1C1 ) − p2C2 ]
+
+                       1−γ               γβ(1 + r1)p1
+                         N
+                           −                 T       N       N
+                                                                 = 0,
+                        C1   [(1 + r1)(Ȳ − C1 − p1C1 ) − p2C2 ]
+
+                       1−γ                   γp2
+                         N
+                           −                 T      N        N
+                                                                 = 0.
+                        C2   [(1 + r1)(Ȳ − C1 − p1C1 ) − p2C2 ]
+Use C2T = [(1 + r1)(Ȳ − C1T − p1C1N ) − p2C2N ] and rearrange to get
+                                                       C2T = β(1 + r1)C1T ,                                                            (5)
+
+                                            N   1 − γ CtT
+                                           Ct =           ,                         for t = 1, 2.                                      (6)
+                                                  γ pt
+The first optimality condition is the Euler equation. The second
+is the demand function for nontradables and is plotted in the next
+slide.
+                                                                                                                                           10
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”     Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                          The Demand Function for Nontradables
+
+                                 pt
+
+
+
+
+                                                                                                      0
+                                                                                       1−γ CtT
+                                                                                        γ CN
+                                                                                                  t
+                                                                                    1−γ CtT
+                                                                                     γ CN
+                                                                                            t
+
+
+                                                                                                CtN
+
+                                                                           1−γ CtT
+The figure depicts the demand schedule for nontradables in period t, pt = γ C N .
+                                                                                t
+                                              T
+Holding constant consumption of tradables, Ct , the higher the relative price of
+nontradables, pt, is, the lower the demand for nontradables, CtN , will be. An
+                                                                0
+increase in the desired consumption of tradables from CtT to CtT > CtT shifts the
+demand schedule for nontradables out and to the right.
+
+                                                                                                                                    11
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Equilibrium
+Market Clearing
+In equilibrium, the market for nontradable goods must clear
+                                                                 CtN = QN
+                                                                        t ,                                                   (7)
+for t = 1, 2.
+
+Free Capital Mobility
+The country is assumed to have free capital mobility, so in equilib-
+rium the domestic interest rate, r1, is equal to the world interest
+rate, r∗,
+                                                                    r1 = r ∗ .
+The Intertemporal Resource Constraint
+Using (7) to eliminate C1N and C2N from the intertemporal budget
+constraint (4) yields the following intertemporal resource constraint
+                           C2T            QT
+                                =  QT
+                                    1 +      C1T +
+                                           2 ,
+                         1 + r∗         1 + r∗
+which is the same as in Chapter 3.
+                                                                                                                                  12
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”            Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Equilibrium Tradable Consumption
+
+Combining this intertemporal resource constraint with the Euler
+equation (5) yields
+                                                                                        QT
+                                                                                             !
+                                                            1
+                                             C1T =             QT
+                                                                1 +     ∗
+                                                                          .              2                                             (8)
+                                                           1+β      1+r
+As in the one-good economy of Chapter 3: consumption of tradables
+is an increasing function of the current and the future expected
+endowments of tradables and a decreasing function of the interest
+rate. Summarizing:
+                                                     C1T = C T (r∗, QT    T
+                                                                     1 , Q2 ).                                                         (9)
+                                                                            −       +   +
+
+
+All variables on the right hand side (r∗, QT        T
+                                           1 , and Q2 ) are exogenous
+to the small open economy.
+
+Note: An increase in QT                        T
+                      1 causes an increase in C1 but less than one
+for one.
+                                                                                                                                           13
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”           Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Equilibrium Trade Balance
+
+The trade balance is given by T B1 = QT
+                                      1 − C T (r ∗ , QT , QT ). So we
+                                                      1    2
+can write
+                                                   T B1 = T B(r∗ , QT    T
+                                                                    1 , Q2 ).
+                                                                             +      +   −
+
+
+Note 1: The + sign under QT                       T             T
+                               1 is because when Q1 increases, C1
+increases less than one for one.
+
+Note 2: Because B0 = 0, the current account equals the trade
+balance, CA1 = r0B0 + T B1 = T B1 . So we can write
+
+
+                                                   CA1 = CA(r∗, QT    T
+                                                                 1 , Q2 ).
+                                                                             +      +   −
+
+
+Note 3: The eqm determination of C1T , B1, T B1, and CA1 is identical
+to Chapter 3.
+                                                                                                                                          14
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Equilibrium Relative Price of Nontradables, p1
+
+Use the equilibrium level of tradable consumption, C1T = C T (r∗, QT
+                                                                   1 , QT ),
+                                                                        2
+               T
+to eliminate C1 from the demand function for nontradables, C1 =    N
+
+1−γ CtT
+ γ p1 to get the equilibrium demand schedule for nontradables:
+
+                                               N   1 − γ C T (r∗, QT1 , QT
+                                                                         2 ),
+                                              C1 =                                                                          (10)
+                                                     γ           p1
+plotted on the next slide. The figure also displays the exogenous
+supply of nontradables, QN
+                         1 (vertical line).
+
+The equilibrium value of the relative price of nontradables, denoted
+pe1, is given by the intersection of the demand and supply schedules
+
+                                               N   1 − γ C T (r∗, QT1 , QT
+                                                                         2 )
+                                              Q1 =                           .
+                                                     γ           p1
+This is one equation in one unknown, p1. Solving for p1 yields
+
+                                                   p1 = p(r∗, QT    T    N
+                                                               1 , Q2 , Q1 )
+
+                                                                                                                                  15
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”       Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Equilibrium Relative Price of Nontradables
+
+                        p1
+
+
+
+
+                                                                                         T ∗ T     T
+                                                                         A          1−γ C (r ,Q1 ,Q2 )
+                        pe1                                                          γ      C1N
+
+
+                                                                    QN
+                                                                     1                      C1N
+
+The figure depicts the demand and supply functions of nontradables. The demand
+for nontradables is downward sloping and the supply schedule is a vertical line.
+The equilibrium relative price of nontradables is pe1, given by the intersection of
+the demand and supply schedules, point A.
+
+                                                                                                                                      16
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”    Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Effects of an Increase in the World Interest Rate on the
+Relative Price of Nontradables
+
+                p1
+
+
+
+
+                                                                    A
+                pe1                                                                      T ∗ T     T
+                                                                                    1−γ C (r ,Q1 ,Q2 )
+                                                                                     γ      C1N
+
+
+                 e 0                                                B
+                p1                                                                       T ∗0 T    T
+                                                                                    1−γ C (r ,Q1 ,Q2 )
+                                                                                     γ      C1N
+
+
+                                                               QN
+                                                                1                                            C1N
+
+The figure shows that an increase in the world interest rate from r∗ to r∗0 shifts
+the demand schedule down and to the left causing a fall in p1 . (Real depreciation.)
+
+                                                                                                                                   17
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”    Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Effects of a Transitory Increase in the Endowment of Tradable
+on the Relative Price of Nontradables
+
+                p1
+
+
+
+
+                    0                                               B
+                pe1                                                                      T ∗ T     T        0
+                                                                                    1−γ C (r ,Q1 ,Q2 )
+                                                                                     γ       C1N
+
+                                                                    A
+                pe1                                                                      T ∗ T     T
+                                                                                    1−γ C (r ,Q1 ,Q2 )
+                                                                                     γ      C1N
+
+
+                                                               QN
+                                                                1                                               C1N
+
+The figure shows that a temporary increase in the period-1 tradable endowment
+                0
+from QT1 to QT1 > QT1 shifts the demand schedule for nontradables out and to the
+right, driving p1 up. (Real appreciation.)
+                                                                                                                                   18
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”    Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Effects of an Expected Future Increase in the Endowment of
+Tradables on the Relative Price of Nontradables
+
+                p1
+
+
+
+
+                    0                                               B
+                pe1                                                                      T ∗ T     T               0
+                                                                                    1−γ C (r ,Q1 ,Q2 )
+                                                                                     γ       C1N
+
+                                                                    A
+                pe1                                                                      T ∗ T     T
+                                                                                    1−γ C (r ,Q1 ,Q2 )
+                                                                                     γ      C1N
+
+
+                                                               QN
+                                                                1                                            C1N
+
+The figure shows that an increase in the period-2 tradable endowment from QT2
+      0
+to QT2 > QT2 shifts the demand schedule for nontradables out and to the right,
+driving p1 up. (Real appreciation.)
+                                                                                                                                   19
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Effects of an Increase in the Endowment of Nontradables on
+the Relative Price of Nontradables
+
+                 p1
+
+
+
+                                          A
+                 pe1
+
+
+                   0                                                            B
+                pe1                                                                      T ∗ T     T
+                                                                                    1−γ C (r ,Q1 ,Q2 )
+                                                                                     γ      C1N
+
+
+
+
+                                                                             0
+                                    QN
+                                     1
+                                                                           N
+                                                                          Q1                                C1N
+                                                                                N
+The 0
+      figure shows that an increase in the endowment   of  nontradables  from Q 1 to
+  N      N
+Q1 > Q1 shifts the supply of nontradables (vertical line) to the right. The demand
+schedule is unchanged. Thus in equilibrium the relative price of nontradables falls.
+(Real depreciation.)
+                                                                                                                                  20
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”           Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Taking Stock:
+Determinants of the Relative Price of Nontradables
+
+Collecting the results of the last 4 figures, we can write the equilib-
+rium relative price of nontradables as
+
+                                                   p1 = p(r∗, QT
+                                                               1 , QT
+                                                                    2 , QN
+                                                                         1 ).                                                       (11)
+                                                                    −      +        +   −
+
+
+
+
+                                                                                                                                          21
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+     From the Relative Price of Nontradables to the
+                                              Real Exchange Rate
+
+
+
+
+                                                                                                                                  22
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”            Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+There is a tight connection between the relative price of nontrad-
+ables, pt , and the real exchange rate, et .
+Recall that the real exchange rate is defined as
+                                 Et Pt∗
+                            et =        ,
+                                   Pt
+where Pt and Pt∗ are the domestic and foreign consumer price levels,
+and Et is the nominal exchange rate.
+                                                          Pt = φ(PtT , PtN ).
+Recall from Chapter 9, Section 9.9 that when the aggregator func-
+tion is Cobb-Douglas, as is the case here (see (2) and (3)), then
+         φ(PtT , PtN ) = (PtT )γ (PtN )1−γ A;                                       with A ≡ γ −γ (1 − γ)−(1−γ).
+Similarly,
+                                                        Pt∗ = φ(PtT ∗, PtN ∗).
+So we can write
+                                                           Et φ∗(PtT ∗, PtN ∗)
+                                                      et =        T     N
+                                                                               .                                                     (12)
+                                                              φ(Pt , Pt )
+
+                                                                                                                                           23
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+From pt to et (cont.)
+Because φ(·, ·) and φ∗(·, ·) are homogeneous of degree 1,
+                                                    Et PtT ∗φ∗(1, PtN ∗/PtT ∗)
+                                               et =       T        N    T
+                                                                               .
+                                                        Pt φ(1, Pt /Pt )
+Assume that the LOOP holds for tradables,
+
+                                                               Et PtT ∗ = PtT
+So
+                                                                  φ∗(1, p∗t )
+                                                             et =             .
+                                                                  φ(1, pt )
+
+
+Result: Given the foreign relative price of nontradables, p∗t , (which is
+exogenously determined in the rest of the world), the real exchange
+rate is a decreasing function of pt. In other words, when nontradables
+become more expensive relative to tradables, the domestic economy
+becomes more expensive relative to the rest of the world.
+
+                                                                                                                                  24
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”               Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+From pt to et (concluded)
+
+The response of the real exchange rate to exogenous shocks can
+then be deduced from (11):
+
+                                                e1 = e(r∗, QT
+                                                            1 , QT
+                                                                 2 , QN ∗
+                                                                      1 , p1).
+                                                                +       −           −   +   +
+
+
+Because of this tight connection, pt is sometimes referred to as the
+real exchange rate.
+
+
+
+
+                                                                                                                                              25
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+ The Terms of Trade and the Real Exchange Rate
+
+
+
+
+                                                                                                                                  26
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Consider an economy that imports CtT , say food, and exports QT    t ,
+say oil. How does an increase in the price of oil affect the relative
+price of nontradables (such health care or education) in terms of
+food?
+
+In Chapter 4, we established that changes in the terms of trade are
+just like changes in the endowment of the exportable good.
+
+This result allows us to easily analyze the effects of terms of trade
+shocks on the relative price of nontradables (p1 ) and the real ex-
+change rate (e1).
+
+We simply have to replace everywhere QT             T
+                                        t by T OTt Qt , where T OTt ≡
+PtX /PtM is the terms of trade, PtX the price of the exported good
+(oil), and PtM the price of the imported good (food).
+
+
+                                                                                                                                  27
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”           Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+We then have that the equilibrium relative price of nontradables in
+                                               P1N
+terms of the tradable (now imported) good, p1 = M , becomes
+                                               P1
+
+                                      p1 = p(r∗, T OT1 QT         T    N
+                                                        1 , T OT2Q2 , Q1 ),
+                                                        −             +                 +       −
+and the real exchange rate becomes
+                                   e1 = e(r∗, T OT1QT
+                                                    1 , T OT2 QT , QN , p∗ ).
+                                                               2    1    1
+                                                    +             −                 −       +       +
+Immediate Result: An improvement in the current or future ex-
+pected terms of trade (an increase in either T OT1 or T OT2 ) causes
+an increase in the equilibrium relative price of nontradables (p1 ↑)
+and an appreciation of the real exchange rate (et ↓).
+
+Intuition: the increase in the price of the export good makes house-
+holds richer ⇒ they increase the demand for both goods, tradables
+(imported) and nontradables. Because the supply of nontradables
+is fixed, the increased demand pushes its relative price up. In turn
+the increase in the relative price of nontradables makes the country
+more expensive relative to the rest of the world.
+                                                                                                                                          28
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                                                        Sudden Stops
+
+
+
+
+                                                                                                                                  29
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+“It is not speed that kills, it is the sudden stop.”
+
+Bankers’ adage
+
+
+
+
+                                                                                                                                  30
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+A sudden stop is a particular type of economic crisis that occurs
+when foreign lenders abruptly stop extending credit to a country.
+
+A sudden stop manifests itself by a sharp increase in the interest
+rate that the country faces in international financial markets.
+
+Three hallmark consequences of sudden stops are:
+(a) a current account reversal from a deficit to a surplus or a sizable
+reduction in the current account deficit;
+(b) a contraction in aggregate demand; and
+(c) a real-exchange-rate depreciation.
+
+This section shows that the TNT model can capture these three
+stylized facts.
+
+It then presents two case studies:
+— The Argentine sudden stop of 2001
+— The Icelandic sudden stop of 2008.
+                                                                                                                                  31
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+A Sudden Stop Through the Lens of the TNT Model
+
+We model a sudden stop as an increase in the world interest rate,
+r∗.
+
+The figure on the next slide summarizes the effects of an increase
+in the world interest rate on
+– tradable consumption,
+– the current account,
+– the relative price of nontradables, and
+– the real exchange rate
+as predicted by the TNT model.
+
+In the figure a sudden stop is modeled as an increase in the world
+interest rate from a normal level, denoted rn, before the sudden
+stop, to a high level, denoted rs, after the sudden stop.
+
+                                                                                                                                  32
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”                     Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+      r∗                     T                                                                   r∗
+                         C       (r , QT1 , QT2 )
+                                     ∗
+
+                                                                                                                     CA(r∗ , QT1 , QT2 )
+                         B
+      rs                                                                                                  rs
+                                                                                                                       B
+
+                                            A                                            A
+     rn                                                                                                   rn
+
+
+
+           0        C1T s                C1T n             C1T                           CAn1         0            CAs1           CA1
+
+      r∗                                                                      r∗
+                         p(r , QT1 , QT2 , QN
+                                 ∗
+                                            1)
+                                                                                                               e(r∗ , QT1 , QT2 , QN
+                                                                                                                                   1)
+                         B
+      rs
+                                                                              rs
+                                                                                                                               B
+
+                                            A                                                A
+      rn                                                                     r   n
+
+
+
+
+                      ps1                 pn1               p1                                  en1                         es1         e1
+           0                                                                         0
+
+                                                                                                                                                    33
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Figure Says That When A Sudden Stop Occurs . . .
+
+• Top Left Panel: r∗ ↑⇒ negative wealth effect (if the country is
+a debtor) and substitution effect away from present spending ⇒
+desired C1 ↓ ⇒ C1T ↓ .
+
+• Top Right Panel: r∗ ↑⇒ C1T ↓ and QT                     T      T
+                                     1 fixed, so T B1 = Q1 − C1 ↑;
+⇒ CA1 = r0B0 + T B1 ↑. (r0B0 is predetermined, so it is not affected
+by r∗ ↑).
+
+• Bottom Left Panel: r∗ ↑⇒ desired C1 ↓ ⇒ desired C1N ↓ but QN    1
+                                                             N
+fixed, so p1 ↓ required to clear the market. At the end, C1 does
+not change. ⇒ C1N /C1T ↑. This is called expenditure switching away
+from tradables and toward nontradables.
+
+• Bottom Right Panel: r∗ ↑⇒ p1 ↓, since the LOOP holds for trad-
+ables, the fact that nontradables became relatively cheaper means
+that the country became cheaper relative to the rest of the world,
+or e1 = E1P1∗/P1 ↑ (the real exchange rate depreciates)
+                                                                                                                                  34
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Argentine Sudden Stop of 2001
+
+In 1991 Argentina implemented an exchange-rate-based inflation
+stabilization plan. The plan consisted of pegging the peso to the
+U.S. dollar at a one-to-one parity (Convertibility Law) and lasted
+until 2001, when Argentina fell into a crisis that culminated in default
+and devaluation. The default isolated Argentina from international
+capital markets and hence capital inflows stopped abruptly.
+
+The figure on the next slide shows the short-run effects of the sudden
+stop on:
+– interest rates
+– the current account
+– the peso-dollar real exchange rate
+– Argentine real GDP
+
+... which are consistent with the predictions of the TNT model.
+                                                                                                                                  35
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”                               Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                                               The Argentine Sudden Stop of 2001
+                                                 Interest Rate Spread                                         Current Account/GDP
+                            6000                                                                10
+
+                            5000
+
+                            4000                                                                 5
+             Basis Points
+
+
+
+
+                                                                                      percent
+                            3000
+
+                            2000                                                                 0
+
+                            1000
+
+                                   0                                                            −5
+                                   1993        1995     1998       2001        2004                   1992   1994   1996     1998     2000     2002
+
+
+                                          Peso−Dollar Real Exchange Rate                                       log(GDP), 1991=0
+                                  3.5                                                     0.35
+
+                                   3                                                            0.3
+
+                                                                                          0.25
+                                  2.5
+                       2001:1=1
+
+
+
+
+                                                                                                0.2
+                                   2
+                                                                                          0.15
+                                  1.5
+                                                                                                0.1
+                                   1                                                      0.05
+
+                                  0.5                                                            0
+                                        1994    1996   1998    2000     2002   2004                   1992   1994   1996     1998     2000     2002
+
+
+                                                                                                                                                              36
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Comments on the figure:
+
+Top left panel: displays the interest rate spread of Argentine
+dollar-denominated bonds over U.S. Treasuries between 1994 and
+2001. Prior to 2001, spreads fluctuated around 7 percent (700 basis
+points). In 2001 Argentine interest rate spreads exploded, reaching
+over 50 percent (or over 5,000 basis points) by late December. This
+suggests that in December 2001 Argentina suffered a sudden stop.
+
+Top-right panel: From 1991 until 2000, Argentina ran current
+account deficits of around 3 percent of GDP on average. Thus,
+before the sudden stop the country was the recipient of sustained
+and sizable capital inflows. In 2002 the current account experienced
+a sharp and large reversal to 8 percent of GDP.
+
+⇒ The observed behavior of the current account after the sudden
+stop is consistent with the predictions of the TNT model.
+                                                                                                                                  37
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Comments on the figure (continued)
+
+Bottom-left panel: displays the peso-dollar real exchange rate,
+et = Et PtU S /PtAR. In December of 2001 the peso-dollar exchange
+rate shoots up from 1 peso per dollar to 3.5 pesos per dollar. In
+2002, the Argentine consumer price index (P AR ) increased by 41
+percent while the consumer price index in the United States grew
+by only 2.5 percent.
+
+Percentage change in the peso-dollar real exchange rate
+                                                                US    US
+                                                (E   /E     )(P    /P    )
+                                                                           
+                              et                   t    t−1    t     t−1
+                                  − 1 × 100 =              AR    AR
+                                                                           − 1 × 100
+                             et−1                        Pt /Pt−1
+                                                                    
+                                                3.5 × 1.025
+                                            =                    − 1 × 100
+                                                      1.41
+                                            = 154.4 percent.
+ The Argentine peso depreciated in real terms 154 percent against
+the dollar. This is a large number.
+
+⇒ The observed behavior of the real exchange rate after the sudden
+stop is consistent with the predictions of the TNT model.
+                                                                                                                                  38
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Icelandic Sudden Stop of 2008
+Sudden stops are not a phenomenon that pertains only to emerging countries.
+During the global financial crisis of 2007-2009 a number of medium- and high-
+income European countries with a history of large current account deficits also
+suffered sudden stops.
+
+A case in point is Iceland. Between 2000 and 2008, this country ran large current
+account deficits, which combined increased its external debt by more than 50
+percent of GDP. An immediate consequence of the disruption in global financial
+markets in 2008 was an abrupt cut in the flow of credit to small highly indebted
+economies in Europe, including Iceland, Ireland, Greece, Portugal, and Spain. The
+sudden stop in Iceland was particularly severe and thus we focus on it.
+
+The root of the Icelandic crisis was its banking sector. The combined balance
+sheet of the major local banks stood at more than 10 times the country’s GDP on
+the eve of the crisis. With the global financial crisis, the balance sheets of these
+banks deteriorated significantly as assets lost value relative to liabilities. Fearing
+default, foreign lenders to the Icelandic banking sector elevated the country’s cost
+of credit.
+
+The next slide shows the behavior of interest rates, the current account, the real
+exchange rate and output in Iceland around the sudden stop.
+
+
+                                                                                                                                  39
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”                   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                                The Icelandic Sudden Stop of 2008
+                                  CDS Spread (bp)                                         Current account (percent of GDP)
+            1500                                                                     10
+
+                                                                                      5
+
+                                                                                      0
+            1000
+                                                                                    −5
+
+                                                                                    −10
+             500
+                                                                                    −15
+
+                                                                                    −20
+
+                0                                                                   −25
+                2005 2006 2007 2008 2009 2010 2011 2012                                   2006       2008           2010          2012
+
+
+                        Real Exchange Rate, 2005:1=100                                           log(GDP), 2005Q1=0
+             180                                                                0.25
+
+             160                                                                    0.2
+
+             140                                                                0.15
+
+             120                                                                    0.1
+
+             100                                                                0.05
+
+               80                                                                     0
+                       2006          2008           2010           2012                   2006       2008           2010          2012
+
+                                                                                                                                                  40
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Comments on the figure
+Top left panel: plots Iceland’s credit default swap (CDS) spreads
+over the period 2005 to 2011. Typically countries are cut off from
+foreign credit during a sudden stop, so interest rates of newly issued
+debt might not be available. A good proxy of the effective country
+interest rates are CDS spreads. What are those? A CDS spread is
+the cost of insuring against default and is measured in basis points.
+For example, on September 1 2008, the Icelandic CDS spread was
+200 basis points. This means that to insure 100 dollars of Icelandic
+debt against default, one had to pay 2 dollars per year. CDS spreads
+represent a measure of borrowing costs on debts with default risk
+relative to default free debt. Data on CDS spreads is useful because
+it is available even when the debtor does not issue new debt or when
+there are no liquid secondary debt markets. The figure shows that
+CDS spreads on Icelandic debt grew rapidly from 200 basis points
+in early September 2008 to over 1,400 basis points by mid October
+2008. At this point Iceland was virtually cut off from the private
+international capital market. The economy was suffering a full blown
+sudden stop.
+                                                                                                                                  41
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Comments on the figure (ctd.)
+
+Top-right panel: Between 2008 and 2009 the current account
+balance went from a deficit of 17 percent of GDP to a surplus
+of 8 percent of GDP. Thus the Icelandic crisis conforms to a key
+characteristic of a sudden stop, namely, a sharp reversal of the
+current account.
+
+Bottom-left panel: The krona-euro real exchange rate depreciated
+by 45 percent between January 2008 and January 2009, implying
+that Iceland became 45 percent cheaper relative to other countries in
+the euro zone in the aftermath of its sudden stop. This is consistent
+with the predictions of the TNT model according to which a sudden
+stop leads to a real depreciation of the domestic currency.
+
+
+
+                                                                                                                                  42
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+            The TNT Model with Sectoral Production
+
+
+
+
+                                                                                                                                  43
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Thus far, we have assumed that the outputs of tradable and non-
+tradable goods are fixed.
+
+This simplification is convenient but unrealistic for one would expect
+that shocks affecting the economy would have consequences for the
+sectoral levels of output and employment.
+
+Example: we saw that an increase in the world interest rate causes
+a fall in the relative price of nontradables in terms of tradables,
+pt . One would expect that firms in the tradable sector will expand
+production and employment while firms in the nontradable sector
+will shrink production and employment.
+
+To capture this possibility, we now expand the TNT model to allow
+for sectoral production.
+
+
+                                                                                                                                  44
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”          Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Production Possibility Frontier
+
+Assume that output in the traded and nontraded sectors is given by
+
+                                 QT        T
+                                  t = FT (Lt )                         and          QN        N
+                                                                                     t = FN (Lt ),                                 (13)
+where LT         N
+        t and Lt denote labor in the traded and nontraded sectors
+in period t = 1, 2, and FT (·) and FN (·) are production functions.
+
+Two assumptions:
+(1) the marginal product of labor in each sector is positive (i.e., the
+production functions are increasing), FT0 > 0, FN0 > 0.
+
+(2) Production exhibits diminishing marginal product of labor: FT00 <
+0, and FN00 < 0 (i.e., the production functions are concave).
+
+
+Suppose the total supply of labor is constant and equal to L. So we
+have the following resource constraint
+
+                                                             LT    N
+                                                              t + Lt = L.                                                          (14)
+
+                                                                                                                                         45
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The two production functions along with the resource constraint
+can be combined into a single relation between QT      N
+                                                t and Qt known
+as the production possibility frontier (PPF):
+
+                                               FT−1(QT
+                                                     t ) + F −1  N
+                                                             N (Qt ) = L.
+
+
+The next slide presents a graph of the PPF.
+
+
+
+
+                                                                                                                                  46
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”      Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                       The Production Possibility Frontier (PPF)
+
+                                          QT
+                                           t
+
+
+                                   FT (L)                    A
+
+
+
+
+                                                                                      B
+
+
+                                                                                    FN (L) QN
+                                                                                            t
+
+The production possibility frontier (PPF) describes a negative relationship be-
+tween output of nontradable goods, QN                                       T
+                                        t , and output of tradable goods, Qt . Given
+the total amount of labor, L, increasing output in one sector requires reducing
+output in the other sector. If the sectoral production functions exhibit diminishing
+marginal products of labor, the PPF is concave.
+                                                                                                                                     47
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”          Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Slope of the PPF
+
+Differentiate the resource constraint LT   N              T    N
+                                       t +Lt = L to get dLt +dLt =
+0, or
+                                                                dLT
+                                                                  t = −1.
+                                                                dLN
+                                                                  t
+Now differentiate the production functions QT
+                                            t = F T (L T ) and QN =
+                                                       t        t
+     N
+FN (Lt ) to get
+
+                      dQT    0   T    T
+                        t = FT (Lt )dLt                               and           dQN    0   N    N
+                                                                                      t = FN (Lt )dLt .
+
+
+Combining the above three equations yields the slope of the PPF:
+                                                        dQT       0  T
+                                                          t = − FT (Lt ) .
+                                                        dQN
+                                                          t    FN0 (LN )
+                                                                     t
+
+
+
+                                                                                                                                         48
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Slope of the PPF (cont.)
+
+• Because the marginal products of labor FT0 (LT
+                                               t ) and F 0 (LN ) are
+                                                         N   t
+positive, the slope of the PPF is negative.
+
+• Because both production functions display diminishing marginal
+products of labor (FT00(LT            00  N
+                         t ) < 0 and FN (Lt ) < 0) the PPF is concave.
+
+
+• The curvature of the PPF depends on how quickly the marginal
+product of labor diminishes as employment increases.
+
+• Two Special Cases (graphed on the next slide):
+(a) Linear production functions, QT          T        N
+                                   t = aT Lt and Qt = aN Lt ,
+                                                               N
+
+where aT and aN are positive parameters. The PPF is linear with
+slope −aT /aN (left panel).
+(b) Full labor specialization. When each worker is productive in
+only one sector, the PPF becomes a single point (right panel).
+                                                                                                                                  49
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”               Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                                       The PPF: Two Special Cases
+
+      QT
+       t                                                                                 QT
+                                                                                          t
+
+
+
+    aT L
+
+
+                                                                                                                     A
+                                      slope=− aaT                                   FT (L̄T )
+                                                            N
+
+
+
+
+                                                 aN L             QN                                      FN (L̄N )                              QN
+                                                                   t                                                                              t
+
+The slope of the PPF depends on the degree to which the marginal product of
+labor diminishes with employment. In the special case of a constant marginal
+product of labor, as when the technologies are QTt = aT LTt and QN        N
+                                                                  t = aN Lt , the
+PPF is linear as shown in the left panel. When labor is fully specialized in the
+                                                            T                 N
+production of one good, as with the technologies QTt = FT (L ) and QN
+                                                                    t = FN (L ),
+the PPF collapses to a single point, as shown in the right panel.
+                                                                                                                                              50
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”          Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Constructing the PPF: An Example
+                                                      q                                    q
+                                        QT
+                                         t =              LT
+                                                           t           and          QN
+                                                                                     t =    LN
+                                                                                             t .
+Both production technologies display positive but diminishing marginal
+products of labor because the square root is an increasing and
+concave function.
+Solving for labor yields
+                                     LT     T 2                                     LN     N 2
+                                      t = (Qt )                        and           t = (Qt ) .
+Using this to eliminate labor in the resource constraint LT    N
+                                                          t + Lt = L
+yields the PPF
+                                                                     q
+                                                       QT                L − (QN  2
+                                                        t =                    t ) .
+The slope of this PPF is the derivative of QT                  N
+                                            t with respect to Qt :
+                                                              dQT      N
+                                                                t = − Qt
+                                                              dQN
+                                                                t     QT
+                                                                       t
+Note: (i) the slope of the PPF is negative. (ii) as QN
+                                                     t increases (and
+hence QTt decreases), the slope becomes larger in absolute value.
+Next you will see why the slope of the PPF is important.
+                                                                                                                                         51
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The PPF and the Real Exchange Rate
+
+Where on the PPF firms will operate depends on the relative price
+of nontradables in terms of tradables, pt .
+
+Profits of a firm in the traded sector, ΠT
+                                         t :
+
+                                                ΠT    T      T        T
+                                                 t = Pt FT (Lt ) − WtLt ,                                                   (15)
+where Wt = wage. The firm chooses LT
+                                   t to maximize ΠT.
+                                                  t                                                                         The
+optimality condition is
+
+                                                     PtT FT0 (LT
+                                                               t ) − Wt = 0.
+A firm in the nontraded sector does the same:
+
+                                                    PtN FN
+                                                         0
+                                                           (LN
+                                                             t ) − Wt = 0.
+
+
+
+                                                                                                                                  52
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The PPF and the Real Exchange Rate (cont.)
+
+Combining the two optimality conditions yields
+                                                       FT0 (LT
+                                                             t )PtN
+                                                       0   N
+                                                               = T ≡ pt .                                                   (16)
+                                                      FN (Lt )  Pt
+
+
+The left-hand side of this expression is (minus) the slope of the
+PPF, and the right-hand side is the relative price of nontradables in
+terms of tradables, pt .
+
+Thus the economy produces tradables and nontradables in quantities
+such that (minus) the slope of the PPF equals the relative price of
+nontradables in terms of tradables.
+
+The graph on the next slide illustrates how sectoral output is real-
+located as the relative price of nontradables changes.
+
+                                                                                                                                  53
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”          Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                  The Optimal Production of Tradables and Nontradables
+
+
+                                   QT
+                                    t
+                                                                       slope=−p1
+                                                                               t
+                                   1                  B
+                                QT
+                                 t
+
+
+
+                                                                                       slope=−p0
+                                                                                               t
+
+
+
+                                QT 0                                                  A
+                                 t
+
+
+
+                                                   QN 1                             QN 0   QN
+                                                    t                                t      t
+
+The optimal production of tradables and nontradable goods occurs at a point
+where (minus) the slope of the PPF equals the relative price of nontradables in
+terms of tradables. As the relative price of nontradables falls from p0t to p1t firms
+find it optimal to produce more tradables and less nontradables.
+                                                                                                                                         54
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                                         The Income Expansion Path
+
+
+
+
+                                                                                                                                  55
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”          Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Household’s Optimization Problem
+The household’s utility function is, as before,
+
+                                                            ln C1 + β ln C2,                                                      (R1)
+with Ct being a composite of CtT and CtN , as follows
+
+                   C1 = (C1T )γ (C1N )1−γ                               and         C2 = (C2T )γ (C2N )1−γ
+The household’s budget constraints in periods 1 and 2 are
+
+      P1T C1T + P1N C1N + P1T B1 = W1L + ΠT    N
+                                          1 + Π1
+               P2T C2T + P2N C2N = W2L + ΠT
+                                          2 + ΠN + (1 + r )P T B .
+                                               2         1 2 1
+where Lt denotes labor effort, and ΠT       N
+                                    t and Πt denote profit income
+received from firms. Divide the period-t budget constraint by PtT ,
+combine the resulting expressions to eliminate B1, and rearrange to
+get
+                                                                                                         W2    ΠT  ΠN
+                                                                                                            L + T + 2T
+                                                                                                                2
+ T      N   C2T + p2C2N       W1    ΠT    ΠN                                                              T
+                                                                                                         P2    P2  P2
+C1 + p1C1 +             = Ȳ ≡ T L + 1  +  1 +
+               1 + r1         P1    P1T   P1T                                                                       1 + r1
+
+                                                                                                                                         56
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”     Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+First-Order Optimality Conditions
+
+The household’s utility function, the consumption aggregator, and
+the budget constraint are the same as in the endowment version of
+the TNT model. So the first-order conditions are also the same as
+in the endowment version of the TNT model:
+
+                                                        C2T = β(1 + r1)C1T
+                                                                        γ
+                                                         CtT =             pt CtN .
+                                                                       1−γ
+
+
+
+
+                                                                                                                                    57
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The figure on the next slide plots the optimality condition CtT =
+ γ     N                 N   T                      0
+1−γ ptCt in the space (Ct , Ct ) for a given price pt as the ray OD.
+This relationship is known as the income expansion path.
+
+What point on the income expansion path the household will pick
+depends on how much income it allocates to consumption expendi-
+ture in period t.
+
+Given p0t , the higher the amount of income allocated to consumption
+in period t is, the larger CtT and CtN will be, that is, the farther away
+from the origin the optimal consumption choice will lie.
+
+
+
+
+                                                                                                                                  58
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”         Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                                         The Income Expansion Path
+
+
+                                 CtT
+
+                                                                                            γ
+                                                                                    slope= 1−γ p0
+                                                                                                t
+
+                                                                                      D
+                                                                              B
+
+                                                           A
+
+
+                                            O                                             CtN
+
+The figure depicts the income expansion path associated with the relative price
+p0t as the ray OD. Given p0t , the optimal combination of tradable and nontradable
+consumption must lie on the income expansion path. What point on the income
+expansion path the household will pick depends on how much income it allocates
+to consumption expenditure in period t. At point B, the household allocates more
+income to consumption in period t than at point A. If both goods are normal, the
+income expansion path is upward sloping.
+                                                                                                                                        59
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The next figure illustrates that the slope of the income expansion
+path is increasing in the relative price of nontradables in terms of
+tradables, pt .
+
+The figure displays the income expansion paths associated with two
+relative prices, p0      1    0                      0
+                  t and pt < pt as the rays OD and OD .
+
+
+As the relative price of nontradables falls from p0
+                                                  t to p1, the income
+                                                        t
+expansion path pivots clockwise around the origin. This is intu-
+itive, because a lower price of nontradables induces households to
+substitute nontradables for tradables in consumption.
+
+
+
+
+                                                                                                                                  60
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”          Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Relative Price of Nontradables and the Income Expansion Path
+
+
+                                      CtT
+                                                                          D
+
+                                                                                  γ
+                                                                          slope= 1−γ p0
+                                                                                      t
+
+
+                                                                                         D0
+
+                                                                                            γ
+                                                                                    slope= 1−γ p1
+                                                                                                t
+
+
+                                            O                                                 CtN
+
+The figure displays the income expansion path associated with two values of the
+relative price of nontradables, p0t and p1t < p0t as the rays OD and OD0, respectively.
+A decline in the relative price of nontradables rotates the income expansion path
+clockwise around the origin. This rotation is a reflection of households substituting
+nontradable consumption for tradable consumption as tradables become relatively
+more expensive.
+                                                                                                                                         61
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                                                      Partial equilibrium
+
+
+
+
+                                                                                                                                  62
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+• The next figure puts together the first two building blocks of the
+model, the production possibility frontier and the income expansion
+path.
+• It represents the equilibrium in period t for a given relative price of
+nontradables, p0 t . Because this price is an endogenous variable that
+we are taking as given, the analysis is called partial equilibrium.
+• To determine production, we must find the output mix (QN               T
+                                                                   t , Qt )
+at which the slope of the PPF is −p0   t . Suppose this point is A.
+• At point A, output of nontradables equals QN          0 and output of
+                                                      t
+tradables equals Qt .T 0
+
+• The income expansion path corresponding to p0       t is the ray OD.
+• By definition, consumption of nontradables, CtN 0 must equal QN      t
+                                                                         0.
+
+• Given consumption of nontradables, the income expansion path
+determines uniquely the level of consumption of tradables, CtT 0, at
+point B.
+• The trade balance is the difference between production and con-
+sumption of tradables, T Bt = QT       T
+                                  t − Ct , which is the vertical distance
+between points A and B in the figure.
+                                                                                                                                  63
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”       Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                                                    Partial Equilibrium
+
+                             CtT , QT
+                                    t                                               D
+
+                                                                                            γ
+                                    CtT 0                                      B    slope= 1−γ p0
+                                                                                                t
+
+
+
+
+                                       0                                       A
+                                    QT
+                                     t
+
+
+
+
+                                         O                      CtN 0 = QN 0            CtN , QN
+                                                                         t                     t
+
+The figure displays the equilibrium for a given relative price of nontradables p0t .
+Production is at point A, where the slope of the PPF is −p0t . Consumption is
+at point B. The trade balance is the vertical distance between points A and B.
+Because consumption of tradables, CtT 0 is larger than output of tradables, QTt 0,
+the country is running a trade deficit in period t.
+                                                                                                                                      64
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Partial Equilibrium Effect of a Real Exchange Rate Deprecia-
+tion
+• Suppose the relative price of nontradables falls from p0     1    0
+                                                         t to pt < pt .
+This is a depreciation of the real exchange rate, because it makes
+the economy becomes cheaper relative to the rest of the world.
+• The next figure illustrates this situation.
+• The economy is initially producing at point A and consuming at
+point B. The trade balance, given by the distance between A and
+B, is negative.
+• The fall in pt causes a change in the production mix to a point like
+C, where the PPF is flatter than at point A. The economy produces
+less nontradables and more tradables.
+• The fall in pt also causes a clockwise rotation of the income
+expansion path from OD to OD0.
+• The new consumption basket is point E, and the new trade balance
+is the vertical distance between points C and E.
+
+                                                                                                                                  65
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”           Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Partial Equilibrium: Adjustment to a Real Exchange Rate Depreciation
+
+                                  CtT , QTt
+                                                                                    D
+                                                               γ
+                                                       slope= 1−γ p0t
+
+                                                                                                D0
+                                      CtT 0                                  B
+
+                                                              C                                 γ
+                                      QTt 1                                             slope= 1−γ p1t
+
+
+                                                                             A
+                                      QTt 0
+
+
+                                      CtT 1                   E
+
+
+
+                                              O     CtN1 = QN1 N0
+                                                            t Ct  = QN0
+                                                                     t                      CtN , QN
+                                                                                                   t
+
+
+The figure displays the adjustment to a fall in the relative price of nontradables from p0t to
+p1t < p0t . Initially, production is at point A and consumption is at point B. After the real
+depreciation production shifts to point C and consumption to point E. Thus, production of
+tradables expands, production of nontradables contracts, and consumption of both tradables and
+nontradables contract. The new trade balance, given by the vertical distance between C and E,
+improves.
+
+                                                                                                                                          66
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Summarizing
+
+In response to the fall in pt the economy produces more tradables
+(QT  1 > QT 0) and less nontradables (QN 1 < QN 0 ), and consumes less
+   t      t                             t      t
+tradables as well as nontradables (Ct < Ct and CtN 1 < CtN 0), and
+                                      T 1    T 0
+
+the trade balance improves.
+
+These relationships are illustrated in the next figure.
+
+
+
+
+                                                                                                                                  67
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”    Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Partial equilibrium: Endogenous Variables as Functions of the
+Relative Price of Nontradables
+
+
+                    QTt                                             QN    N
+                                                                     t , Ct                                    LTt
+
+
+
+
+                                                pt                                   pt                                                   pt
+                          0                                                      0                                   0
+                    LN
+                     t                                                     CtT                               T Bt
+
+
+
+
+                                                pt                                   pt                                                   pt
+                          0                                                      0                                   0
+
+
+The figure displays the equilibrium values of seven endogenous variables of the
+TNT model for different given values of the relative price of nontradables.
+                                                                                                                                   68
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The analysis we have conducted is called partial equilibrium because
+it characterizes the behavior of endogenous variables of the model
+(QT     N    T    N    T    N
+   t , Qt , Ct , Ct , Lt , Lt , and T Bt ) taking as exogenous the value
+of one endogenous variable of the model, pt .
+
+We could have picked any other variable instead of pt and treated
+it as exogenous. For example, consider the trade balance, T Bt .
+From the bottom-right panel of the previous figure, we see that
+it is inversely related to pt . We can now easily relate any other
+endogenous variable with T Bt . Take tradable consumption, CtT .
+From the bottom-middle panel of the previous figure, we see that
+CtT is positively related with pt. Since pt is inversely related with
+T Bt , we have that CtT is inversely related to T Bt . A similar logic
+applies to the other variables.
+
+The next figure plots all endogenous variables of the TNT model
+as functions of the trade balance, which is also endogenous, but is
+taken as exogenous in this partial equilibrium analysis.
+                                                                                                                                  69
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”          Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Partial equilibrium: Endogenous Variables as Functions of the
+Trade Balance
+           QTt                                               QN    N
+                                                              t , Ct                                           LTt
+
+
+
+
+                 0                    T Bt                               0          T Bt                              0                   T Bt
+
+           LN
+            t                                                      CtT                                           pt
+
+
+
+
+                 0                    T Bt                               0          T Bt                              0                   T Bt
+
+The figure displays the equilibrium values of the endogenous variables of the model for different
+given values of the trade balance.
+
+
+
+                                                                                                                                         70
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                                               General Equilibrium
+
+
+
+
+                                                                                                                                  71
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The partial equilibrium analysis leaves two equations out of the
+analysis.
+
+• The Euler equation
+
+and
+
+• The intertemporal resource constraint
+
+
+
+
+                                                                                                                                  72
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Euler Equation in Equilibrium
+
+Recall that the Euler equation is given by C2T = β(1 + r∗)C1T . Using
+the result derived in the partial equilibrium analysis that there is
+a one-to-one relationship between CtT and T Bt (see the previous
+figure), we can write CtT = C T (T Bt ). So the Euler equation becomes
+
+
+
+                                          C T (T B2) = β(1 + r∗)C T (T B1)
+
+
+This relationship is plotted in slide 75 as the locus EE.
+
+
+
+
+                                                                                                                                  73
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”        Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Resource Constraint in Equilibrium
+
+The resource constraints of the economy in periods 1 and 2 are
+
+                       C1T + B1 = QT
+                                   1                           and             C2T = QT         ∗
+                                                                                      2 + (1 + r )B1
+Combining them to get rid of B1 yields
+                                                             C2T           QT
+                                              C1T +               = QT
+                                                                     1 +    2
+                                                           1 + r∗        1 + r∗
+Recalling that T Bt = QT    T
+                       t − Ct , we can write
+
+                                                     T B2 = −(1 + r∗)T B1
+This equilibrium resource constraint is plotted in the next figure as
+the locus II. Intuitively, if the country runs a trade surplus in period
+1, it can save these resources in a bank for one period, allowing it
+to spend the proceeds next period.
+
+The equilibrium takes place at point A, where the loci EE and II
+intersect.
+                                                                                                                                       74
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”                Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+General Equilibrium Determination of the Trade Balance
+                                                                 T B2
+
+
+
+                   I                                                                         E
+
+
+
+                                                     A
+                                                                          T B2
+
+
+                                                   T B1                                                                        T B1
+
+
+
+
+                  E                                                                                                   I
+                                                                                    slope = −(1 + r ∗)
+
+
+
+
+The locus EE depicts the pairs of current and future trade balances T B1 and T B2 that are
+consistent with the household’s Euler equation in equilibrium. The locus II depicts the pairs
+(T B1 , T B2 ) that satisfy the economy’s intertemporal resource constraint in equilibrium. The
+equilibrium is at point A, where the economy runs a trade balance deficit in period 1 (T B1 < 0)
+and a surplus in period 2 (T B2 > 0).
+
+                                                                                                                                               75
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Sudden Stops and Sectoral Reallocations
+
+Suppose that the world interest rate increases from rn to rs > rn .
+
+The effect of this shock is illustrated in the next figure.
+
+The equilibrium before the sudden stop (normal times) is at point
+A, where the economy runs a trade balance deficit in period 1 and
+a surplus in period 2.
+
+The increase in the interest rate pushes EE locus down and to the
+right from E nE n to E sE s and causes a clockwise rotation in the
+locus II from I n I n to I sI s . This is shown in the next figure.
+
+The new equilibrium is at point B. In period 1 the trade balance
+experiences a reversal from a deficit to a surplus.
+
+The analysis of partial equilibrium then tells us (see the figure in
+slide 70) that output and employment increase in the traded sector
+and fall in the nontraded sector.
+                                                                                                                                  76
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”            Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+A Sudden Stop in the TNT Model with Production
+                                              Is                 T B2
+
+
+                      In                                                                En
+
+
+                                                      A
+                                                                                                             Es
+
+                                                                                                                    T B1
+
+                                                                                    B
+
+
+                      En                                                                                     In
+
+
+                                                        Es                              Is
+
+The figure depicts the adjustment of the trade balance to an increase in the interest rate from r n
+to r s > r n. The equilibrium before the sudden stop is at point A, where I n I n intersects E nE n . At
+point A, the country runs a trade deficit in period 1. In response to the increase in the interest
+rate to r s, the equilibrium moves to point B, where the loci I s I s and E sE s intersect. At point
+B, the country runs a trade surplus in period 1. Thus, the sudden stop leads to a trade balance
+reversal.
+
+                                                                                                                                           77
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Taking stock
+
+• The effects of a sudden stop on the trade balance (improvement),
+the real exchange rate (depreciation), and the absorption of tradable
+goods (contraction), are the same as in the endowment economy.
+
+• The new prediction stemming from the economy with sectoral
+production is that the sudden stop also causes a contraction in the
+absorption of nontradable goods and a reallocation of output and
+employment away from the nontraded sector and toward the traded
+sector.
+
+• In the model the reallocation of workers across sectors happens
+instantaneously. In real life, however, it is not so easy for workers to
+move from one sector to another. Such a transition typically involves
+a period of involuntary unemployment during which the workers that
+lost their job in the nontraded sector search for a new job.
+                                                                                                                                  78
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Let’s Take Another Look at the Data
+
+• The TNT model’s prediction of a sectoral reallocation of produc-
+tion away from nontradable sectors and toward tradable sectors is
+borne out in the data.
+
+The next figure plots GDP in the construction and the wholesale
+and retail trade sectors—two large and labor-intensive nontradable
+sectors—as shares of total GDP around the Argentine and Icelandic
+sudden stops.
+
+• Their combined share in GDP fell from an average of 20 percent
+to less than 16 percent during the Argentine sudden stop of 2001
+and from an average of 20 percent to less than 15 percent during
+the Icelandic sudden stop of 2008.
+
+
+                                                                                                                                  79
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Let’s Take Another Look at the Data (ctd.)
+
+• Recalling that in 2002 total GDP in Argentina fell by 12.5 percent,
+it follows that the crisis in the construction and the wholesale and
+retail trade sectors was enormous in absolute terms. A similar
+pattern is observed in the Icelandic sudden stop.
+
+• Because of their labor intensity, these sectors contributed greatly
+to the surge in involuntary unemployment suffered by Argentina and
+Iceland in the aftermath of their sudden stops.
+
+
+
+
+                                                                                                                                  80
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”                                      Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+GDP Shares in Construction and Wholesale and Retail Trade During the
+Sudden Stops in Argentina 2001 and Iceland 2008
+                                                   Construction: Argentina                         Wholesale and Retail Trade: Argentina
+                                           7
+
+                                                                                              15
+
+                                           6
+
+                                 percent
+
+
+
+
+                                                                                    percent
+                                                                                              14
+
+                                           5
+
+                                                                                              13
+
+                                           4
+
+                                                                                              12
+                                           1997   1999      2001      2003   2005              1997       1999      2001       2003         2005
+                                                            year                                                    year
+
+                                                   Construction: Iceland                              Wholesale and Retail Trade: Iceland
+                                       12                                                     11
+
+
+                                       10
+                                                                                              10
+                             percent
+
+
+
+
+                                                                                    percent
+                                           8
+
+                                                                                               9
+                                           6
+
+
+                                           4                                                  8
+                                           2004   2006      2008      2010   2012             2004        2006      2008       2010         2012
+                                                            year                                                    year
+
+
+Construction and wholesale and retail trade are large, labor intensive, nontradable sectors. Their
+combined share in GDP fell from an average of 20 percent to less than 16 percent during the
+Argentine sudden stop of 2001 and from an average of 20 percent to less than 15 percent during
+the Icelandic sudden stop of 2008. This pattern of sectoral reallocation of production away from
+nontradable sectors conforms with the predictions of the TNT model.
+
+                                                                                                                                                                     81
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+         Productivity Differentials and Real Exchange
+            Rates: The Balassa-Samuelson Model
+
+
+
+
+                                                                                                                                  82
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+• The TNT model assumes no technological progress. For this
+reason, it is most useful for understanding short-run movements in
+the real exchange rate.
+
+• We will now present a popular theory of the long-run determinants
+of the real exchange rate. It’s known as the Balassa-Samuelson
+model.
+
+• It predicts that persistent movements in the real exchange rate are
+due to differential cross-country changes in relative productivities in
+the traded and nontraded sectors.
+
+
+
+
+                                                                                                                                  83
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”          Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Production Technologies
+
+Suppose that tradable and nontradable goods are produced with
+linear production functions,
+
+                                      QT = aT LT                       and          QN = aN LN ,                                   (17)
+where aT and aN are positive parameters and denote labor produc-
+tivity in the traded and nontraded sectors, and LT and LN denote
+labor input in the traded and nontraded sectors.
+
+Total labor supply is constant and equal to L:
+
+                                                             LT + LN = L.
+
+
+These production functions give rise to a linear PPF as shown in
+the figure on the next slide
+
+                                                                                                                                         84
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”              Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+                   The PPF when Technology is Linear in Labor
+
+
+                                           QT
+
+
+                                         aT L
+
+
+                                                                            slope=− aaT
+                                                                                           N
+
+
+
+
+                                                                                    aN L       QN
+
+
+
+
+                                                                                                                                             85
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”          Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Firms
+Profits in the traded and nontraded sectors are given by
+                                 P T QT − W LT                         and          P N QN − W LN .
+Assume that perfect competition and absence of restrictions for
+firms to enter the market drive profits to zero in both sectors. So
+we have
+                                P T QT = W LT                          and          P N QN = W LN .
+Using the production functions QT = aT LT and QN = aN LN to
+eliminate QT and QN , we get
+                                        P T aT = W                     and          P N aN = W.
+Now combine these two expressions to eliminate W
+                                                                 PN    aT
+                                                                   T
+                                                                     =    .                                                        (18)
+                                                                 P     aN
+In words, in equilibrium the relative price of nontraded goods, P N /P T ,
+is equal to the ratio of labor productivity in the traded sector to that
+in the nontraded sector, aT /aN .
+                                                                                                                                         86
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Foreign Country
+
+In the foreign country, the relative price of nontradables is deter-
+mined in a similar fashion:
+
+
+
+                                                                P N∗  a∗T
+                                                                     = ∗ .                                                  (19)
+                                                                PT∗   aN
+
+
+
+
+                                                                                                                                  87
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”             Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Equilibrium Real Exchange Rate
+
+The price levels in the domestic and foreign countries are averages
+of the respective prices of tradables and nontradables:
+
+                           P = φ(P T , P N )                        and             P ∗ = φ∗(P T ∗, P N ∗)
+In turn, the real exchange rate, e, is the relative price of a basket of
+goods abroad in terms of domestic baskets of goods:
+                                                           Eφ∗ (P T ∗, P N ∗)
+                                                        e=
+                                                             φ(P T , P N )
+Assume the LOOP holds for tradables, P T = EP T ∗. Then,
+                                                         φ∗(1, P N ∗/P T ∗)
+                                                      e=
+                                                          φ(1, P N /P T )
+
+
+
+                                                                                                                                            88
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+The Equilibrium Real Exchange Rate (ctd.)
+
+     P N  aT   P N∗   a∗T            P N   P N∗
+Using T = a and T ∗ = a∗ to eliminate T and T ∗ yields
+     P     N   P       N             P     P
+
+                                                             φ∗(1, a∗T /a∗N )
+                                                          e=                                                                (20)
+                                                             φ(1, aT /aN )
+
+This is the main result of the Balassa-Samuelson model: deviations
+from PPP (e 6= 1) are due to differences in relative productivities
+across countries.
+
+If aT /aN grows faster than a∗T /a∗N , then the real exchange rate will
+appreciate over time (e ↓), i.e., the domestic country will become
+more expensive.
+
+Why? Because in the domestic country nontradables are becoming
+relatively more costly to produce than in the foreign country, forcing
+the relative price of nontradables in the domestic country to grow
+at a faster rate than in the foreign country.
+                                                                                                                                  89
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Empirical Validity of the Balassa-Samuelson Model
+
+The Balassa-Samuelson model predicts that in the long run the rela-
+tive price of nontradable goods in terms of tradable goods, P N /P T ,
+is an increasing function of the relative productivities, aT /aN , see
+equation (18), which we repeat here
+
+
+
+                                                                  PN   aT
+                                                                     =                                                (R.18)
+                                                                  PT   aN
+
+
+We will now ask if this prediction of the Balassa-Samuelson model
+is borne out in the data.
+
+
+
+                                                                                                                                  90
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”                Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Empirical Validity of the Balassa-Samuelson Model (ctd.)
+
+For this we need data on the level of (P N /P T ) and (aT /aN ). One
+problem, as in the analysis of absolute PPP, is that such level data is
+hard to come by because prices and labor productivity measurements
+are typically in the form of an index. Thus, we will test whether this
+prediction holds for rates of change.
+
+If (18) holds, then it must be the case that
+                                                               PN
+                                                                      !                      !
+                                                                                        aT
+                                                 %∆                        = %∆
+                                                               PT                       aN
+where %∆X denotes the percent change of the variable X over time.
+
+Suppose we have this type of data for a number of different coun-
+tries. Then, the Balassa
+                       Samuelson model predicts that if we plot
+                                                  PN                    aT
+                                                                                   
+observations of %∆                                           against %∆ a , then the observations
+                                                  PT                     N
+should line up on the 45-degree line. This is a prediction we can
+test.
+                                                                                                                                               91
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Empirical Validity of the Balassa-Samuelson Model (concluded)
+
+The figure in the next slide plots the average annual percentage
+change in P N /P T against the average annual percentage change in
+aT /aN for 23 countries over the period 1996 to 2015.
+
+The figure shows that in the long run there is a strong positive
+relationship between sectoral differences in productivity growth and
+sectoral differences in price growth.
+
+This evidence provides empirical support to Balassa’s and Samuel-
+son’s theory of the long-run determinants of deviations from pur-
+chasing power parity.
+
+
+
+                                                                                                                                  92
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”                                                                       Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Relative Productivity Growth in the Traded and Nontraded Sectors and
+Changes in the Relative Price on Nontradables
+                                                                                   6
+
+                                                                                                                                                        SVK
+
+                                                                                   5
+
+
+                                                                                   4
+
+
+                                     Average annual percentage change in PN /PT    3
+                                                                                                                                            BEL
+
+
+                                                                                                                        JPN FRA     CZE
+                                                                                   2                              FIN
+                                                                                                                                  SWE
+                                                                                                                               USA         SVN         KOR
+                                                                                                                         DNK         ESP
+                                                                                                              AUT
+                                                                                   1                  AUS     LVA GBR
+                                                                                                    NLD     ITA                                  LUX
+
+                                                                                                   CAN             DEU
+                                                                                   0
+
+                                                                                             MEX
+                                                                                  −1
+
+
+                                                                                  −2                CHL
+
+
+
+
+                                                                                  −3
+                                                                                   −3   −2    −1       0        1       2        3        4                   5    6
+                                                                                                Average annual percentage change in aT /aN
+
+
+The figure plots the average annual percentage change in the relative price of nontradables in
+terms of tradables, P N /P T , against the average annual percentage change in productivity in the
+traded sector relative to the nontraded sector, aT /aN , for 23 countries over the period 1996
+to 2015. The strong positive relationship provides empirical support to the Balassa-Samuelson
+model.
+                                                                                                                                                                                                      93
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Summing Up
+
+This chapter studies the determination of the real exchange rate in
+the short and long runs.
+
+• The TNT model is an open economy model with tradable and
+nontradable goods. It is a useful framework for understanding the
+determinants of the real exchange rate and sectoral reallocations of
+output and employment in the short run.
+
+• The TNT model predicts that in response to an increase in the
+world interest rate, the real exchange rate depreciates, the relative
+price of nontradable goods falls, output and employment in the
+nontradable sector contract, and output and employment in the
+tradable sector expand.
+
+• The TNT model predicts that in response to positive shocks to
+the tradable endowment or improvements in the terms of trade the
+real exchange rate appreciates and the relative price of nontradables
+increases. These effects are stronger when the shocks are expected
+to be persistent.
+                                                                                                                                  94
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Summing Up (continued)
+
+• A sudden stop is a macroeconomic crisis that occurs when for-
+eign lenders abruptly stop extending credit to a debtor nation. It
+manifests itself by a steep increase in the country interest rate.
+
+• The main observed effects of a sudden stop are a current account
+reversal from a large deficit to near balance or even surplus, a
+sharp depreciation of the real exchange rate, and a reallocation
+of production and employment from the nontradable sector to the
+tradable sector.
+
+• The TNT model explains well the macroeconomic consequences
+of observed sudden stops.
+
+
+                                                                                                                                  95
+Schmitt-Grohé, Uribe, Woodford “International Macroeconomics: A Modern Approach”   Chapter 10: Determinants of the Real Exchange Rate
+
+
+
+
+Summing Up (concluded)
+
+• The Balassa-Samuelson model is a theory that explains long run
+movements in real exchange rates. It explains deviations from PPP
+as stemming from international differences in relative sectoral pro-
+ductivity growth.
+
+• The Balassa-Samuelson model predicts that for a given country if
+productivity grows faster in the traded sector than in the nontraded
+sector, then the relative price of nontradables in terms of tradables
+grows over time. This prediction is borne out in the data. Across
+countries, long-run averages of the growth rate of relative productiv-
+ities in the tradable and nontradable sectors are positively correlated
+with long-run averages of the growth rate of the relative price of
+nontradables in terms of tradables.
+
+• The Balassa-Samuelson model predicts that if in the domestic
+country productivity in the traded sector relative to productivity
+in the nontraded sector grows faster than in the foreign country,
+then the domestic country becomes more expensive, that is, its real
+exchange rate appreciates.
+                                                                                                                                  96
+

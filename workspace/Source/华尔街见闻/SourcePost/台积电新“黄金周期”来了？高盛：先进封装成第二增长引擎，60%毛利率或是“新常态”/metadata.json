@@ -1,0 +1,121 @@
+{
+  "article_id": 3763455,
+  "selection": {
+    "article_id": 3763455,
+    "url": "https://wallstreetcn.com/articles/3763455",
+    "title": "台积电新“黄金周期”来了？高盛：先进封装成第二增长引擎，60%毛利率或是“新常态”",
+    "page_display_time": "2026-01-16T15:25:43+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "半导体与算力硬件",
+    "reading_priority": "B",
+    "reading_value": "将先进制程、先进封装、资本开支和毛利率联系起来，提供台积电盈利分析框架。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2686,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 172
+  },
+  "url": "https://wallstreetcn.com/articles/3763455",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3763455?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:04:00+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/7721a5a3-c585-436b-915e-b9bca30ef0c6.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_001.png",
+      "sha256": "0f9f3eb48b50e0e19bf21393e30175868d202be3554dc8a48078cc3c94eb897f",
+      "bytes": 164740,
+      "width": 1024,
+      "height": 720,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/7721a5a3-c585-436b-915e-b9bca30ef0c6.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_002.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "台积电新“黄金周期”来了？高盛：先进封装成第二增长引擎，60%毛利率或是“新常态”",
+  "page_display_time": "2026-01-16T15:25:43+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "高盛认为，台积电已开启AI驱动的多年增长周期，并将目标价调升至2600元新台币。台积电上修AI与整体营收复合增长率，先进封装成为第二增长引擎，预计2026年占比突破10%。毛利率稳定在60%以上，资本开支加速上行至560亿美元。高盛维持买入评级，强调供需紧张将延续至2027年。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2755,
+  "body_sha256": "60a6dc4f3df4067387483d80c1e665984531b02c31217b538bc891353ae9331d",
+  "raw_sha256": "5f2dd79938fe4490310cdf51eb74b1f706b85b81bbdbea8a7693981e6a9fba24",
+  "raw_bytes": 11726,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/2fa1991e-1490-4a91-ac91-3cd79c865e7f.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 2686,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "4季度分析师会议",
+      "url": "https://wallstreetcn.com/articles/3763360?keyword=%E5%8F%B0%E7%A7%AF%E7%94%B5"
+    },
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:45+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "5f2dd79938fe4490310cdf51eb74b1f706b85b81bbdbea8a7693981e6a9fba24",
+      "bytes": 11726
+    },
+    "article.html": {
+      "sha256": "1eaa3c347e40809afccf5413be1114eb132d50ff544a1852a6cbe396b21454e2",
+      "bytes": 11867
+    },
+    "article.md": {
+      "sha256": "b545fcaf4fc077359bf121abc4e3def7b3ae6c27bac77cdb106432da0fb2ffd6",
+      "bytes": 8040
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:42+08:00"
+}

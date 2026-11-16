@@ -1,0 +1,89 @@
+{
+  "article_id": 3749464,
+  "selection": {
+    "article_id": 3749464,
+    "url": "https://wallstreetcn.com/articles/3749464",
+    "title": "负利率“幽灵”重现？瑞士央行降息至零利率，暗示或进一步放松以阻止资金流入",
+    "page_display_time": "2025-06-19T20:39:49+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "汇率与国际资本",
+    "reading_priority": "B",
+    "reading_value": "把避险资本流入、瑞郎升值、通胀下降与负利率政策连接起来。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1609,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 52
+  },
+  "url": "https://wallstreetcn.com/articles/3749464",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3749464?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:24+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/ff91ae76-1fe4-4092-a9df-44325544c73f.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "此次降息至零，不仅结束了瑞士长达两年半多的正利率时代，也创下了主要央行的最低基准利率水平。",
+      "path": "assets/figure_001.png",
+      "sha256": "c01395cb065ead0e976094dfa0c3b17e4d0bc0de68ea6e34a4aa976969f35c67",
+      "bytes": 120631,
+      "width": 1024,
+      "height": 688,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/ff91ae76-1fe4-4092-a9df-44325544c73f.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "负利率“幽灵”重现？瑞士央行降息至零利率，暗示或进一步放松以阻止资金流入",
+  "page_display_time": "2025-06-19T20:39:49+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "瑞士央行周四宣布降息25个基点至零利率，不仅结束了瑞士长达两年半多的正利率时代，也创下了主要央行的最低基准利率水平。特朗普政策担忧下，瑞士法郎在过去一个季度升至十年来对美元的最高水平。央行暗示，如有必要，将准备进一步采取行动，以阻止瑞郎持续走强。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1684,
+  "body_sha256": "c43c3ce911bae84ba6ee60bdf1db81fb87003344dad89392166e02d58331fa63",
+  "raw_sha256": "440faade52382ff9cdd0a6c92851ebd35ef4dbef4409e480b7828d1f38edbd75",
+  "raw_bytes": 9449,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/2f75037e-3953-4527-97d5-4fd1e8ebcff6.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 1609,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:33+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "440faade52382ff9cdd0a6c92851ebd35ef4dbef4409e480b7828d1f38edbd75",
+      "bytes": 9449
+    },
+    "article.html": {
+      "sha256": "e43dc969e84b05a29e00a67cd022055258640eb3ebd4976030275908963d2657",
+      "bytes": 9000
+    },
+    "article.md": {
+      "sha256": "7b005ad5d8fb09f3ddc81c50b3e1fd01187eba3386407c081c699e5a86f597a3",
+      "bytes": 5663
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:16+08:00"
+}

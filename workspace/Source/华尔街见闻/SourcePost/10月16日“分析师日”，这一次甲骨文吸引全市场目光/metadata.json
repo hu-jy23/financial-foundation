@@ -1,0 +1,132 @@
+{
+  "article_id": 3757149,
+  "selection": {
+    "article_id": 3757149,
+    "url": "https://wallstreetcn.com/articles/3757149",
+    "title": "10月16日“分析师日”，这一次甲骨文吸引全市场目光",
+    "page_display_time": "2025-10-14T16:24:45+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "AI投资与商业化",
+    "reading_priority": "A",
+    "reading_value": "区分甲骨文剩余履约义务、收入兑现和资本开支，分析大客户集中度与长期合同的约束。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2342,
+    "page_image_count": 3,
+    "original_underlying_research_verified": false,
+    "catalog_number": 149
+  },
+  "url": "https://wallstreetcn.com/articles/3757149",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3757149?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:51+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/a8b4552f-2d13-4d95-860e-7b6d1492552e.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "据巴克莱分析，这些大型AI合同带来的大部分收入增长潜力，或已反映在更新后的普遍预期中。甲骨文在第一财季财报中给出了其云基础设施（OCI）业务的中期收入指引，但未更新公司总营收目标。 因此，投资者现在的核心关切已转向这些交易背后的资本支出（CapEx）和利润率影响。 甲骨文已将其2026财年的资本支出指引从“超过250亿美元”上调至350亿美元，但分析师普遍预计，为交付已签约的算力，未来支出还将大幅攀升。",
+      "path": "assets/figure_001.png",
+      "sha256": "6f5921d3b5b738930a5d8032c6d0d2d186f632f48379eb9c38e88fa5784bb52c",
+      "bytes": 55201,
+      "width": 1024,
+      "height": 565,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/a8b4552f-2d13-4d95-860e-7b6d1492552e.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/88d8ec91-514f-4b44-af51-edacc73a65dc.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "在所有新合同中，与OpenAI的交易最受瞩目，也带来了最多的疑问。甲骨文与OpenAI签署了一项价值3000亿美元的云计算协议，将在五年内开发高达4.5吉瓦的“Stargate”AI数据中心容量。这份巨额合同的体量让投资者对其可行性产生了两种维度的担忧。",
+      "path": "assets/figure_002.png",
+      "sha256": "5ba9a350fb911bcc63d052a4737a8cdd00eb49f851a23397ad63ebda3356addc",
+      "bytes": 76302,
+      "width": 1024,
+      "height": 639,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/88d8ec91-514f-4b44-af51-edacc73a65dc.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_003.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "10月16日“分析师日”，这一次甲骨文吸引全市场目光",
+  "page_display_time": "2025-10-14T16:24:45+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "一财季史无前例的RPO增长创造了极高预期，本次“分析师日”，投资者关注焦点转向AI驱动的成功背后所需的资本支出和利润率影响。此外，分析师对甲骨文与OpenAI、英伟达等签订的大规模AI合约的交付可行性存在担忧。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2418,
+  "body_sha256": "dd150d9c6f70b7b86d6e60a506bb123daf9e70794d917b1dd66c45e2fcf2b095",
+  "raw_sha256": "f89ec497918ae917248e8676df685b874558fcda714d0181d3df94aa0b046534",
+  "raw_bytes": 11555,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/b178136d-9f07-48ef-a93b-9c6608d0c2e4.mp3",
+  "image_occurrences": 3,
+  "html_table_count": 0,
+  "catalog_image_count": 3,
+  "catalog_text_characters": 2342,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:43+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "f89ec497918ae917248e8676df685b874558fcda714d0181d3df94aa0b046534",
+      "bytes": 11555
+    },
+    "article.html": {
+      "sha256": "911f2924e9ece433cbfbce7aa9cee58c9ce7a9a7c6cce780c5e23475dc518870",
+      "bytes": 11589
+    },
+    "article.md": {
+      "sha256": "2512ec9a0f9842457476586c103b562a338d9d45b39e01f310d39e71ab2aa76a",
+      "bytes": 7615
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:37+08:00"
+}

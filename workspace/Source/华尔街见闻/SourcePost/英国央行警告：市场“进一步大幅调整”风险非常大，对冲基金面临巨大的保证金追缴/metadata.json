@@ -1,0 +1,73 @@
+{
+  "article_id": 3744894,
+  "selection": {
+    "article_id": 3744894,
+    "url": "https://wallstreetcn.com/articles/3744894",
+    "title": "英国央行警告：市场“进一步大幅调整”风险非常大，对冲基金面临巨大的保证金追缴",
+    "page_display_time": "2025-04-09T19:46:04+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "房家瑶",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004717",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "信用与融资结构",
+    "reading_priority": "B",
+    "reading_value": "借英国央行压力测试串联保证金追缴、共同抛售与私募资本退出风险。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1286,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 37
+  },
+  "url": "https://wallstreetcn.com/articles/3744894",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3744894?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:19+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "英国央行警告：市场“进一步大幅调整”风险非常大，对冲基金面临巨大的保证金追缴",
+  "page_display_time": "2025-04-09T19:46:04+08:00",
+  "page_byline": "房家瑶",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "英国央行指出，对冲基金面临大量追加保证金压力，市场进一步大幅调整的风险依然很高。一方面，英债市场杠杆交易激增构成系统性隐患，包括加拿大、欧央行也发出类似预警。另一方面，私募股权控股企业也被英国央行点名为脆弱环节。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1362,
+  "body_sha256": "8d05d4915d7f2c6e56e2bf3b9c24d3c8091e5175a4549ef5375b5e4491f5b8fa",
+  "raw_sha256": "7c1aa0f2e2102c41e09f3ae90501818f58032e4461f65383f101c43228f42610",
+  "raw_bytes": 8904,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/f80303e1-e00a-499d-bd08-a53839e167d4.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1286,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:32+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "7c1aa0f2e2102c41e09f3ae90501818f58032e4461f65383f101c43228f42610",
+      "bytes": 8904
+    },
+    "article.html": {
+      "sha256": "c9cbad878b46c3130d1778685d828138ed6e28f56194dc37326d1ff739f2391d",
+      "bytes": 8488
+    },
+    "article.md": {
+      "sha256": "eeaf4839b6db996e922d4722fc75e58fc8c2686993c71328ea852b19f43c9ae6",
+      "bytes": 4815
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:13+08:00"
+}

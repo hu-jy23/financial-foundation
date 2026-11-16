@@ -1,0 +1,73 @@
+{
+  "article_id": 3767129,
+  "selection": {
+    "article_id": 3767129,
+    "url": "https://wallstreetcn.com/articles/3767129",
+    "title": "原油危机之外，铜短缺也迫在眉睫！标普：2040年全球缺口或达1000万吨",
+    "page_display_time": "2026-03-10T16:27:22+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "能源、商品与航运",
+    "reading_priority": "A",
+    "reading_value": "区分铜矿长期扩产约束、短期生产扰动和关税引起的区域库存变化，保留预测期限。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1314,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 92
+  },
+  "url": "https://wallstreetcn.com/articles/3767129",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3767129?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:34+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "原油危机之外，铜短缺也迫在眉睫！标普：2040年全球缺口或达1000万吨",
+  "page_display_time": "2026-03-10T16:27:22+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "受矿山事故频发、新建周期长及关税政策导致的“人为紧张”影响，铜供应持续收紧；而AI基础设施与电气化浪潮则驱动需求激增。标普全球预计全球铜供应缺口预计将于2040年扩大至1000万吨，较当前水平激增50%；ING预测2026年精炼铜缺口将扩至60万吨。全球铜市正面临深层结构性挑战。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1396,
+  "body_sha256": "016a21188f24e1cff2b534d50602f8f9de7b254c372e84f48f18cd4fa091b481",
+  "raw_sha256": "113267f148b8fe849c3c1ab18386e098787e9f8b33a5df6868f23d8b63a2b75b",
+  "raw_bytes": 7434,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/ac4e7d3b-7852-4e6c-a024-391f4750cebd.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 1314,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:37+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "113267f148b8fe849c3c1ab18386e098787e9f8b33a5df6868f23d8b63a2b75b",
+      "bytes": 7434
+    },
+    "article.html": {
+      "sha256": "496d899cd293e15816dac6fd5b3d598263052d42843c8f950d149a3bd39b39f9",
+      "bytes": 7234
+    },
+    "article.md": {
+      "sha256": "ea4d26a94d288b6291cd0b584ce1f3dba7aeb1537704fef979dc9097f0e47b51",
+      "bytes": 4564
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:24+08:00"
+}

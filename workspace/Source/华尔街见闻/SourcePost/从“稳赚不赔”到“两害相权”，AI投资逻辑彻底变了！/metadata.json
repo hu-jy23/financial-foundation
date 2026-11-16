@@ -1,0 +1,162 @@
+{
+  "article_id": 3784381,
+  "selection": {
+    "article_id": 3784381,
+    "url": "https://wallstreetcn.com/articles/3784381",
+    "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
+    "page_display_time": "2026-10-24T19:38:17+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "鲍奕龙",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004827",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "AI投资与商业化",
+    "reading_priority": "A",
+    "reading_value": "将资本开支取舍、自由现金流、止损去杠杆和股债相关性变化串联。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2436,
+    "page_image_count": 5,
+    "original_underlying_research_verified": false,
+    "catalog_number": 161
+  },
+  "url": "https://wallstreetcn.com/articles/3784381",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784381?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:55+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/f582d5eb-e646-4edf-901e-e53ee61ca4ed.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "（各类配对交易过去一段时间表现）",
+      "context_after": "McElligott认为，本轮止损潮的根源在于，2026年全年\"高夏普比率交易\"高度集中，套息策略与趋势跟踪策略长期共振，形成罕见的广谱赢家效应。",
+      "path": "assets/figure_001.png",
+      "sha256": "e6bd90964f240cc0ca3ce00310b51d6b9719e88afe65278f6b8d20dd61c799a2",
+      "bytes": 76658,
+      "width": 619,
+      "height": 388,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/f582d5eb-e646-4edf-901e-e53ee61ca4ed.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/90eb97c8-c5b3-4788-a2cf-d59dcb7da9c0.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "（过去两周CTA已完成超千亿美元的空头回补，若要触发绿色框内下一波约500亿美元的强力追买，需等待债券价格进一步向上突破+2%的触发门槛）",
+      "context_after": "McElligott认为，随着短期窗口的回补基本完成，债券空头的挤压动能正在阶段性停歇。2周及1个月周期模型均已翻转为\"做多\"信号，但3个月周期模型若要从当前水平翻转做多，仍需债券价格出现大幅进一步上涨。",
+      "path": "assets/figure_002.png",
+      "sha256": "088f5c14beddb949c9ea323f40022b184e7992844eecb160bdf4c70fdb547278",
+      "bytes": 197847,
+      "width": 650,
+      "height": 755,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/90eb97c8-c5b3-4788-a2cf-d59dcb7da9c0.png"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/bb3e6a04-2913-4892-bd04-66c2ee1bff89.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "（纳斯达克和半导体ETF指数在“下跌日”的成交量是“上涨日”成交量的近2:1，这一现象在10月份再度显现）",
+      "context_after": "值得注意的是，标普500整体指数层面的VIX波动相对温和。McElligott将此归因于\"反向离散\"效应—— 科技多头遭受重创，而利率敏感型板块及其他空头标的则急剧反弹，两相对冲使得指数层面的整体相关性并未爆发式上升。",
+      "path": "assets/figure_003.png",
+      "sha256": "1e8631cd362e81ed11980262d0f4049d4d93fe968198085a7100c62377463f92",
+      "bytes": 135914,
+      "width": 676,
+      "height": 420,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/bb3e6a04-2913-4892-bd04-66c2ee1bff89.png"
+    },
+    {
+      "order": 4,
+      "source_url": "https://wpimg-wscn.awtmt.com/a064bd90-c531-4ecf-a2da-746ed277c599.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "（0DTE伽马区间）",
+      "context_after": "~~~~~~~~~~~~~~~~~~~~~~~~",
+      "path": "assets/figure_004.png",
+      "sha256": "51f7eb8d6b7dc86f6bb7ffb7a8f97d4ff900234d3879a38e2b41791e1be6f384",
+      "bytes": 89587,
+      "width": 678,
+      "height": 479,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/a064bd90-c531-4ecf-a2da-746ed277c599.png"
+    },
+    {
+      "order": 5,
+      "source_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_005.png",
+      "sha256": "0f3f95a5ed48c25ad9284b796814aa6a7b3f0557d9e08761c21c4ec2bc192c1e",
+      "bytes": 1463814,
+      "width": 1080,
+      "height": 3130,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/3c4a713c-7a38-4582-9850-d0eabaf0e7ad.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "从“稳赚不赔”到“两害相权”，AI投资逻辑彻底变了！",
+  "page_display_time": "2026-10-24T19:38:17+08:00",
+  "page_byline": "鲍奕龙",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "野村证券认为，AI投资叙事正深陷内在矛盾：超大规模云厂商若加速资本开支，自由现金流将持续消耗，融资可持续性遭质疑；若减速，则意味着AI需求与盈利前景预期失守。两条路均指向抛售。9月\"智能体热\"行情积累的拥挤多头仓位，在负面催化剂触发下引发大规模止损，并蔓延至美债、汇率及大宗商品市场，形成系统性去杠杆。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2492,
+  "body_sha256": "d036c074b3d7938650b96c99cf380cf9f9fe6c289efac94d5aa0d4d5867bafed",
+  "raw_sha256": "5fa1a16ff30aab8faef7fada9ffc865fdacd1afbb3a0f0120a0651149e338f79",
+  "raw_bytes": 13929,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/2c1136e6-2494-4c63-851e-4303fb569d59.mp3",
+  "image_occurrences": 5,
+  "html_table_count": 0,
+  "catalog_image_count": 5,
+  "catalog_text_characters": 2436,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "追风交易台",
+      "url": "https://mp.weixin.qq.com/s/uua05g5qk-N2J7h91pyqxQ"
+    },
+    {
+      "text": "追风交易台▪年度会员",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    },
+    {
+      "text": "",
+      "url": "https://wallstreetcn.com/shop/item/1000309"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:44+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "5fa1a16ff30aab8faef7fada9ffc865fdacd1afbb3a0f0120a0651149e338f79",
+      "bytes": 13929
+    },
+    "article.html": {
+      "sha256": "833e840b28b8fdaa1fe2d910ca31a056a001584268c037982d58ba93ce7455c4",
+      "bytes": 13476
+    },
+    "article.md": {
+      "sha256": "d802142a34c3bf49411b2d90388e6fc6f96e2e94e1e6e34d7b80dd5fc5d1a8fa",
+      "bytes": 8150
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:40+08:00"
+}

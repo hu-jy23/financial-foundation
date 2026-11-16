@@ -1,0 +1,48 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' data:; style-src 'unsafe-inline'"><title>抖音首度公布算法原理</title><style>
+:root{color-scheme:light}*{box-sizing:border-box}body{margin:0;background:#f5f4f0;color:#202428;font:17px/1.85 system-ui,"Microsoft YaHei",sans-serif}main{max-width:1000px;margin:32px auto;padding:36px 46px;background:#fff;border:1px solid #e5e3de}h1{font-size:29px;line-height:1.5}h2{font-size:23px;margin-top:2em}h3{font-size:20px}a{color:#126090;overflow-wrap:anywhere}.meta,.notice,figcaption{font-size:14px;color:#555}.meta{border-bottom:1px solid #ddd;padding-bottom:18px}.summary{background:#f4f7f9;padding:12px 20px}p{margin:1em 0}blockquote{border-left:3px solid #a5b9c6;margin:1em 0;padding:1px 18px;background:#f7f8f9}article img{display:block;max-width:100%!important;width:auto!important;height:auto!important;margin:12px auto}article section,article div,article p,article span{max-width:100%!important}article table{border-collapse:collapse;display:block;overflow-x:auto;max-width:100%}td,th{border:1px solid #ccc;padding:8px}.local-copy{font-size:12px;margin-left:5px}.missing{color:#a22;border:1px solid #a22;padding:8px}pre{overflow:auto}.asset-nav{font-size:14px;padding:12px 0;border-top:1px solid #ddd}article [id]{scroll-margin-top:12px}@media(max-width:700px){main{margin:0;padding:22px 18px;border:0}h1{font-size:24px}}@media print{body{background:#fff}main{margin:0;padding:0;border:0}.asset-nav{display:none}}
+</style></head><body><main><header><p><a href="../../index.html">材料库</a> · <a href="https://wallstreetcn.com/articles/3745312">原文</a> · <a href="article.md">Markdown正文</a> · <a href="metadata.json">来源记录</a></p><h1>抖音首度公布算法原理</h1><p class="meta">页面显示：2025-04-16T11:56:08+08:00<br>页面署名：李笑寅　标注来源：抖音集团<br>取得：2026-11-04T16:04:04+08:00　主题：行业与公司商业模式</p><p class="notice">当前取得版本；图文资源完整。正文图片可单击查看完整尺寸。</p></header><aside class="summary">抖音推荐算法的核心逻辑可以简化为“推荐优先级公式”：综合预测用户行为概率×行为价值权重=视频推荐优先级。推荐算法通过各种“目标”来预估用户行为，比如将收藏率纳入多目标，帮助知识类内容推送给有需求的用户；增强“收藏+复访”“关注+追更”“打开+搜索”等组合目标，预估用户长期行为，帮助用户探索长期需求等。</aside><nav class="asset-nav"></nav><article><p id="block-0001">4月15日，抖音安全与信任中心开放日在北京举办。</p>
+<p id="block-0002">此前，抖音安全与信任中心网站已上线试运行。本次开放日，旨在邀请广大网友体验抖音安全与信任中心，了解算法原理、机制和治理政策，共建美好社区。</p>
+<p id="block-0003">开放日上，抖音相关业务负责人基于网站版块，就社会关切的算法和治理问题展开介绍。据现场分享，推荐算法作为人工智能机器学习技术的重要应用场景，本质上是一套高效的信息过滤系统。<strong>在抖音的实际应用中，推荐系统采取“人工+机器”协同的方式进行风险治理，始终有人工运营和治理体系为算法导航；多目标体系算法能主动打破 “信息茧房”，为用户带来更丰富多元、实用可靠的推荐结果。</strong></p>
+<p id="block-0004">目前，抖音安全与信任中心正广泛向用户、创作者、社会各界征集意见，前往95152.douyin.com即可访问。如果你对有任何建议和疑问，欢迎反馈给抖音官方服务热线95152和邮箱feedback@douyin.com。这将帮助我们，一同为用户创造安全和可信任的平台环境，打造开放、积极、多元、友善的平台。</p>
+<p id="block-0005">以下为抖音安全与信任中心“走近算法”版块介绍，详细内容可访问：</p>
+<p id="block-0006"><a>https://95152.douyin.com/transparency</a></p>
+<h2 id="block-0007"><strong>01 </strong><strong>从零开始了解推荐系统</strong></h2>
+<p id="block-0008">推荐平台依靠算法，能智能主动地发掘用户兴趣，帮助解决超大规模信息分发的效率问题。</p>
+<p id="block-0009">推荐算法核心目标是通过分析用户的“行为”（点击、浏览、喜欢、转发、收藏等），构建个性化的推荐模型。系统会基于用户历史动作、对象特征和上下文环境，采用算法模型，预测用户可能会对什么样的内容产生什么样的行为。</p>
+<p id="block-0010">抖音算法已几乎不依赖对内容和用户打标签，而是通过神经网络计算，预估用户行为，计算用户观看这条内容获得的价值总和，把排名靠前的内容推给用户。</p>
+<p id="block-0011">抖音应用的深度学习算法包括Wide&amp;Deep模型、双塔召回模型等。前者可解决协同过滤算法容易造成信息单一、泛化不足的问题；后者在召回环节提供更好的推荐效果。</p>
+<p id="block-0012">更多了解抖音推荐系统详情，可访问：</p>
+<p data-mpa-action-id="m9i9tcyq1umh" data-pm-slice="0 0 []" id="block-0013"><a href="https://95152.douyin.com/article/15358?enter_from=channel_page&amp;channel=transparency">https://95152.douyin.com/article/15358?enter_from=channel_page&amp;channel=transparency</a></p>
+<h2 id="block-0014"><strong>02 </strong><strong>用户行为背后的算法推荐逻辑</strong></h2>
+<p id="block-0015">基于人工智能机器学习和深度学习构建的推荐算法，其本质是数学模型的运算过程，只是在建立用户行为与内容特征之间的数学统计关联，而非理解内容本身。抖音推荐算法的核心逻辑可以简化为“推荐优先级公式”：综合预测用户行为概率 × 行为价值权重 = 视频推荐优先级。</p>
+<p id="block-0016">模型需要内容和用户两端的数据做输入，其中主要是学习用户行为数据。结合用户行为和视频本身的价值权重，推算出视频推荐的价值分数，并将综合得出的价值最高的视频推送给用户。</p>
+<p id="block-0017">抖音的价值模型希望实现内容、用户、作者以及平台的多方价值共赢，并通过不断调整参数，对各类价值进行加权。随着算法的进步，抖音已经实现了“分钟级”实时反馈更新。</p>
+<p id="block-0018">更多了解算法如何预估用户行为，可访问：</p>
+<p id="block-0019"><a href="https://95152.douyin.com/article/15381?enter_from=channel_page&amp;channel=transparency">https://95152.douyin.com/article/15381?enter_from=channel_page&amp;channel=transparency</a></p>
+<h2 id="block-0020">03 抖音算法的多目标平衡</h2>
+<p id="block-0021">推荐算法通过各种“目标”来预估用户行为。推荐算法诞生之初，只关注单一或者少量的目标。早期的抖音以15秒短视频为主，这一阶段，完播率是推荐算法的核心目标之一。</p>
+<p id="block-0022">随着抖音的用户愈发多样化，内容风格也日益多元，平台上有了越来越多的优质中长视频，完播率等少数目标难以满足需求，多目标建模成为技术上的自然选择。</p>
+<p id="block-0023">抖音已经发展出非常复杂的多目标体系，比如将收藏率纳入多目标，帮助知识类内容推送给有需求的用户；增强“收藏+复访”“关注+追更”“打开+搜索”等组合目标，预估用户长期行为，帮助用户探索长期需求；设置探索类指标，帮助用户探索可能他们自己都还没发现的潜在需求，助力破除“信息茧房”；设置原创性目标，鼓励优质、新颖且具有独特价值的内容推荐。</p>
+<p id="block-0024">更多了解抖音算法设置了哪些多目标，可访问：</p>
+<p id="block-0025"><a href="https://95152.douyin.com/article/15383?enter_from=channel_page&amp;channel=transparency">https://95152.douyin.com/article/15383?enter_from=channel_page&amp;channel=transparency</a></p>
+<h2 id="block-0026">04 平台治理为推荐算法设置“护栏”</h2>
+<section>
+<section>
+<p id="block-0027">算法无法理解内容语义，因其对内容的理解存在不足，可能导致违法违规、不良内容被推荐传播。在真实使用场景中，算法必须要由平台治理对其进行约束和规范。</p>
+<p id="block-0028">平台治理存在于内容发布与传播的每一个环节，整体遵循两个原则。一是所有在平台发布的内容都会经过评估，流量越高的内容经过评估的次数越多，标准也越严格；二是“人工+机器”审核相互分工又密切配合。</p>
+<p id="block-0029">一条视频可能触发多个治理研判节点，视频被举报、评论区出现集中质疑、流量激增等情况，均可能触发“人工+机器”审核。而在任一环节，一旦内容被处置，基本都会立即停止进一步的推荐和分发。</p>
+<p id="block-0030">针对社会普遍关心的、呈现聚集特征的、反复出现的、对用户造成较多困扰的焦点问题，抖音成立了数个专项治理团队，分别设置相应的治理标准、识别策略、处置手段和风险巡查能力，专注应对涉及特殊群体、网络暴力、AIGC技术滥用等问题治理。</p>
+<p id="block-0031">更多了解抖音如何做专项治理，可访问：</p>
+<p id="block-0032"><a href="https://95152.douyin.com/article/15384?enter_from=channel_page&amp;channel=transparency">https://95152.douyin.com/article/15384?enter_from=channel_page&amp;channel=transparency</a></p>
+</section>
+</section>
+<section>
+<section>
+<p id="block-0033">此外，对于公众关心的“信息茧房”等议题，抖音安全与信任中心均有回应，针对大家关心的问题我们将持续更新。欢迎前往中心官网95152.douyin.com访问，了解更多详情。</p>
+<p id="block-0034"><span style="color: #b3b3b3;">本文来源：<a href="https://mp.weixin.qq.com/s?__biz=Mzg3MzgxODg1Nw==&amp;mid=2247497374&amp;idx=1&amp;sn=45a8cf0105e13cbdfeac7f34d10ad925&amp;chksm=cfc5525336254c71eb22491c2d0db01115e1c6ee765c43b949747ffc0e147d460dc38e919701&amp;mpshare=1&amp;scene=23&amp;srcid=0415Du47nt7S0Wd7goGv9GtR&amp;sharer_shareinfo=020ef287c879b81cb900124b51751009&amp;sharer_shareinfo_first=acb76856391b67cdb841a2f5d9272727#rd" rel="noopener" target="_blank">抖音集团</a>，原文标题：《一文全解！抖音算法原理公开》</span></p>
+</section>
+</section><div style="color: #666; margin-bottom: 15px;">风险提示及免责条款</div>
+<div style="font-size: 12px;font-family: 黑体;color: #666;line-height: 20px;">
+            市场有风险，投资需谨慎。本文不构成个人投资建议，也未考虑到个别用户特殊的投资目标、财务状况或需要。用户应考虑本文中的任何意见、观点或结论是否符合其特定状况。据此投资，责任自负。
+          </div>
+</article></main></body></html>

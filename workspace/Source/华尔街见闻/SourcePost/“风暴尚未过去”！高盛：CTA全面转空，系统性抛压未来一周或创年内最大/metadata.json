@@ -1,0 +1,104 @@
+{
+  "article_id": 3767154,
+  "selection": {
+    "article_id": 3767154,
+    "url": "https://wallstreetcn.com/articles/3767154",
+    "title": "“风暴尚未过去”！高盛：CTA全面转空，系统性抛压未来一周或创年内最大",
+    "page_display_time": "2026-03-10T19:43:58+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "李佳",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004873",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "跨资产与市场结构",
+    "reading_priority": "B",
+    "reading_value": "连接CTA、波动率目标策略和期货市场深度，解释不同价格情景下的被动减仓压力。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 1774,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 114
+  },
+  "url": "https://wallstreetcn.com/articles/3767154",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3767154?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:40+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/cf31b63f-7e99-458d-b8e3-f5ac64b94e49.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "摩根大通仓位情报团队的最新研判与高盛形成呼应。",
+      "path": "assets/figure_001.png",
+      "sha256": "34ef04f1d5f17bb726ca03c7269f94796fc24f5e7c2ea65086abbe1fb4aba287",
+      "bytes": 170592,
+      "width": 975,
+      "height": 520,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/cf31b63f-7e99-458d-b8e3-f5ac64b94e49.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/bafa6fbb-4327-45c4-bb77-29dab777ca82.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_002.png",
+      "sha256": "dfbed40dded5e19650e974594fb0b6444febcde037987cbc7456164a87133e5c",
+      "bytes": 97904,
+      "width": 500,
+      "height": 289,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/bafa6fbb-4327-45c4-bb77-29dab777ca82.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "“风暴尚未过去”！高盛：CTA全面转空，系统性抛压未来一周或创年内最大",
+  "page_display_time": "2026-03-10T19:43:58+08:00",
+  "page_byline": "李佳",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "高盛与摩根大通齐发预警，美股市场反弹难掩深层危机。高盛模型显示，波动率飙升触发CTA风控机制，无论市场涨跌，系统性基金未来一周将全面净卖出，抛售规模或创历史极值；若标普500跌破中期枢轴支撑，将进一步引爆新一轮抛售潮。与此同时，做市商Gamma敞口转负放大波动，流动性深度逼近“解放日”低位，市场步入高危区间。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 1848,
+  "body_sha256": "e2581bbb006c6c1c5f916ff8e6753d5f7a8eabd63ddca78466b13e99d3fba2f8",
+  "raw_sha256": "e0ee2db6b299f7bf864f9fd88f6b2acba4eb1159d770a7c3afc18afc9a7678bc",
+  "raw_bytes": 10504,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/2d81cb63-f90a-4e41-a311-c5939784fb29.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 1774,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:39+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "e0ee2db6b299f7bf864f9fd88f6b2acba4eb1159d770a7c3afc18afc9a7678bc",
+      "bytes": 10504
+    },
+    "article.html": {
+      "sha256": "fee38dcaa05abf8036c8e394a3b35759047949b3f854fa6b00058714df0ba6dd",
+      "bytes": 10462
+    },
+    "article.md": {
+      "sha256": "659b27ca04017667ae4d91b789f7d2e9883edda56037bb6c07e99c8765dbfa09",
+      "bytes": 6433
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:28+08:00"
+}

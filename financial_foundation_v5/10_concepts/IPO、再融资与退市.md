@@ -2,19 +2,39 @@
 id: C-ASIA-09
 type: concept
 title: IPO、再融资与退市
-status: reviewed_seed
-draft_author: "/root/full_b033"
+status: step1_reviewed
+draft_author: /root/full_b033
 model: gpt-6-astra
 reasoning_effort: medium
-reviewed_by: /root
-updated: 2026-10-28
-evidence_as_of: "2025-12"
-source_ids: [S-C-ASIA-09-01, S-C-ASIA-09-02, S-C-ASIA-09-03, S-C-ASIA-09-04, S-C-ASIA-09-05, S-C-ASIA-09-06]
+reviewed_by:
+- /root/step1_selector_reviewer
+- /root
+updated: 2026-11-03
+evidence_as_of: 2025-12
+edited_by:
+- /root/step1_t2_maker
+editor_model: inherited_unverified
+editor_reasoning_effort: inherited_unverified
+source_ids:
+- S-C-ASIA-09-01
+- S-C-ASIA-09-02
+- S-C-ASIA-09-03
+- S-C-ASIA-09-04
+- S-C-ASIA-09-05
+- S-C-ASIA-09-06
+- S-T2-6E-CH8-PRIVATE
+candidate_ids:
+- T2-U06-A
+step1_reviewed_on: '2026-11-03'
+original_reviewed_by: /root
+edit_scope: 已审候选 T2-U06-A 的正文与来源整合
 ---
 
 # IPO、再融资与退市
 
 > 执笔：`/root/full_b033`，GPT-6-Astra，medium；制作日2026-10-28。发行统计覆盖内地2024自然年、香港2025自然年；制度历史主要核至2024-12-23，不声称逐项覆盖2026年的现行规则。
+
+> 本次编辑：`/root/step1_t2_maker`，2026-11-03；依据T2第6版整合T2-U06-A，本次增量已审。
 
 ## 概念定义
 
@@ -58,6 +78,8 @@ P_{\text{after}}=\frac{V+nP_s}{N+n}.
 认购款进入企业账户后仍是金融体系中某个主体的存款，随后可用于设备、工资、还债或收购；它并没有永久从经济中消失。另一方面，资金留在银行体系，也不意味着它会立即回到股票买盘。必须把银行体系资金、证券账户现金、投资者风险承受能力和企业投资用途分开。
 
 中期还存在反向选择：估值较高、融资需求旺盛时企业更愿意上市，投资者需求好也使发行更容易完成。观察到IPO多与市场下跌先后相伴，不能排除先前高估值、盈利预期变化和政策收紧等共同因素。2023-08-27证监会把收紧IPO节奏和融资必要性、发行时机、前次募资使用效果并列，是监管对当时一二级市场平衡的政策安排，不能解释为所有时期发行额与指数涨跌的固定函数。[S-C-ASIA-09-02](#S-C-ASIA-09-02)
+
+企业还可以选择暂不上市。Cecchetti与Schoenholtz讨论美国上市家数下降时提出，无形资产难估值、创新信息的保密需求，以及私募股权融资和并购退出等替代路径，都可能影响IPO选择。因此公开上市家数不能概括企业全部融资机会。这是作者对美国历史的可能解释；本页讨论中国内地和香港时，仍须另核当地企业的融资渠道和披露约束，不能直接套用为当前原因。[S-T2-6E-CH8-PRIVATE](#S-T2-6E-CH8-PRIVATE)
 
 ### 4．退市对应不同的价值结局
 
@@ -137,3 +159,5 @@ ST是其他风险警示，*ST是退市风险警示，两者都不等于已经退
 <a id="S-C-ASIA-09-06"></a>**S-C-ASIA-09-06** — 香港交易所，《Market Statistics 2025》，截至2025-12-31，文件未标确切首发日。[官方年度统计](https://www.hkex.com.hk/Market-Data/Statistics/Consolidated-Reports/Annual-Market-Statistics/2025-Annual-Market-Statistics?sc_lang=en)。已读印刷页2市场表现及脚注、页5IPO排名口径、页7最大IPO；本页仅采用页2同口径两年比较，未采用不同排除项的全球排名金额。2025募资为暂定数。
 
 具体缺口：尚未取得内地2025全年与2026年截至制作日的同版发行、退市明细，亦未逐条更新各板块2026规则；本页因此不列“最新”门槛或年度排名。发行和退市的短期价格效应还需要公告前预期、实际结算现金及对照样本，年度合计不提供这类因果证据。
+
+<a id="S-T2-6E-CH8-PRIVATE"></a>**S-T2-6E-CH8-PRIVATE** — Stephen G. Cecchetti、Kermit L. Schoenholtz，*Money, Banking and Financial Markets*，第6版ISE，©2021，ISBN 9781260571363，第8章“Raising Equity: Public versus Private Markets”，PDF240／印刷205。仅取有归属的融资选择对照，不复制1996—2017美国统计，不推断私募必然提高效率。 [本地教材PDF](<../../source_2/T2 货币银行 Money Banking and Financial Markets/Money, Banking and Financial Markets, 6e ISE (Stephen G. Cecchetti, Kermit L. Schoenholtz) (z-library.sk, 1lib.sk, z-lib.sk).pdf#page=240>)。

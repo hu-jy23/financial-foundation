@@ -1,0 +1,89 @@
+{
+  "article_id": 3784708,
+  "selection": {
+    "article_id": 3784708,
+    "url": "https://wallstreetcn.com/articles/3784708",
+    "title": "沃什：明年起削减议息会议次数，不预判12月决策，AI投资同样受利率影响（附全文）",
+    "page_display_time": "2026-10-29T07:25:59+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "鲍奕龙",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004827",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "B",
+    "reading_value": "包含记者会问答，可保留政策框架、前瞻指引及AI投资利率敏感性的原始表述。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 10721,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 21
+  },
+  "url": "https://wallstreetcn.com/articles/3784708",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784708?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:17+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/673bcbc7-65c4-40d1-9126-cc4015d492dc.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "美联储在10月份的会议结束时维持利率不变，并披露一项重要机制改革：自2027年起，逐步减少FOMC进行利率投票的会议场次。",
+      "path": "assets/figure_001.png",
+      "sha256": "8798630254a07351510560a43c6de2770c64c4f7773eb8f3c137e31099317cc1",
+      "bytes": 826381,
+      "width": 1023,
+      "height": 550,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/673bcbc7-65c4-40d1-9126-cc4015d492dc.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "沃什：明年起削减议息会议次数，不预判12月决策，AI投资同样受利率影响（附全文）",
+  "page_display_time": "2026-10-29T07:25:59+08:00",
+  "page_byline": "鲍奕龙",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "美联储主席沃什宣布，美联储将从2027年起调整会议制度：每年八次会议中，将有一次专门用于宏观货币政策战略讨论，不进行利率表决；2028年此类战略会议增至两次。沃什重申反对前瞻性指引，拒绝预判12月决策，强调货币政策须保持灵活性。针对AI投资，沃什强调利率影响无处不在，AI领域同样受到波及，资本支出扩散已超越单一行业。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 10657,
+  "body_sha256": "3b76b6d7e21ce10808d50b2e930ec73542c5ae8c6b263513f6f9c8a47d628385",
+  "raw_sha256": "3648e4e6bef5abfe67789813fb1d554fcda477d0ccca4e22a58c8a995c4a0e17",
+  "raw_bytes": 42367,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/4cb179c4-07ab-4ec9-8971-31d5f8c083a6.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 10721,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "3648e4e6bef5abfe67789813fb1d554fcda477d0ccca4e22a58c8a995c4a0e17",
+      "bytes": 42367
+    },
+    "article.html": {
+      "sha256": "53430ebebe74f309b08f1909ea36377d0f1ad01d290912bed428086aa3e8ca5a",
+      "bytes": 39624
+    },
+    "article.md": {
+      "sha256": "3f6e42a752c9a47b8bf6e95be81c84e4885de8c760dfe4e4c7cb4d9c79d7aa92",
+      "bytes": 32677
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:11+08:00"
+}

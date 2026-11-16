@@ -1,0 +1,1856 @@
+
+
+===== PDF 164 | 印刷页 129 =====
+
+    6
+Chapter
+
+                            Bonds, Bond Prices, and the
+                            Determination of Interest Rates
+
+    Learning Objectives
+    After reading this chapter, you should be able to:
+     LO1      Explain the relationship between bond pricing and present value.
+
+     LO2      Define the relationship among a bond’s price and its coupon rate, current yield,
+              yield to maturity, and holding period return.
+
+     LO3      Explain how bond prices are determined and why they change.
+
+     LO4      Identify the three major types of bond risk: default, inflation, and interest rate
+              changes.
+
+
+
+Virtually any financial arrangement involving the current transfer of resources from a
+lender to a borrower, with a transfer back at some time in the future, is a form of bond.
+Car loans, home mortgages, even credit card balances all create a loan from a financial
+intermediary to an individual making a purchase—just like the bonds governments
+and large corporations sell when they need to borrow.
+    When companies like Ford, General Electric, or Walmart need to finance their
+operations, they sell bonds. When the U.S. Treasury or a state government needs to
+borrow, it sells bonds. And they do it billions of dollars at a time. Following the finan-
+cial crisis of 2007–2009, U.S. corporations tried to reduce their debt, but their bonds
+outstanding climbed above the precrisis peak of more than $10 trillion in 2012 and
+continued to rise. As of 2018, federal, state, and local American governments have
+more than $28 trillion in outstanding debt as well.1 The ease with which individuals,
+corporations, and governments borrow is essential to the functioning of our economic
+system. Without this free flow of resources through the bond markets, the economy
+would freeze up.
+    Historically, we can trace the concept of using bonds to borrow to monarchs’ almost
+insatiable appetite for resources. To maintain lavish lifestyles, fight wars, and explore
+the globe, kings, princes, and other rulers drew on every available source of financing.
+Even with these incentives, after thousands of years of civilization only a few possibil-
+ities had been developed: outright confiscation; taxation, which is a mild form of con-
+fiscation; debasement of currency, in which people are required to exchange their
+coins for ones that weigh less—in effect, a tax on currency; and borrowing. Monarchs
+
+These numbers come from the Financial Accounts of the United States, published quarterly by the Federal
+1
+
+Reserve Board.
+                                                    129
+
+
+===== PDF 165 | 印刷页 130 =====
+
+130   l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+                        who borrowed directly from international bankers frequently defaulted or failed to
+                        make the loan payments they had promised.2
+                           Between 1557 and 1696, the various kings of Spain defaulted 14 times. With that
+                        track record, it’s no wonder they had to pay interest rates close to 40 percent.
+                           The Dutch invented modern bonds to finance their lengthy war of independence
+                        against those same Spanish kings who defaulted on loans in the 16th and 17th centu-
+                        ries. Over the next two centuries, the British refined the use of bonds to finance gov-
+                        ernment activities. The practice then spread to other countries. Alexander Hamilton,
+                        the first Secretary of the U.S. Treasury and the man whose face appears on the
+                        $10 bill, brought bonds to the United States. One of Hamilton’s first acts after the
+                        formation of the U.S. Treasury in 1789 was to consolidate all the debt remaining from
+                        the ­Revolutionary War. This resulted in the first U.S. government bonds. While the
+                        depth and ­complexity of bond markets have increased in modern times, many of their
+                        original features remain.
+                           If we want to understand the financial system, particularly the bond market, we
+                        must understand three things. The first is the relationship between bond prices and
+                        interest rates (yet another application of present value). The second is that supply and
+                        demand in the bond market determine bond prices. The third is why bonds are risky.
+                        Let’s get started.
+
+
+
+                        Bond Prices
+                        A standard bond specifies the fixed amounts to be paid and the exact dates of the
+                        ­payments. How much should you be willing to pay for a bond? The answer depends on
+                         the bond’s characteristics. We will look at four basic types:
+                            1. Zero-coupon bonds, which promise a single future payment, such as a U.S.
+                               ­Treasury bill.
+                            2. Fixed-payment loans, such as conventional mortgages.
+                            3. Coupon bonds, which make periodic interest payments and repay the principal at
+                                maturity. U.S. Treasury bonds and most corporate bonds are coupon bonds.
+                            4. Consols, which make periodic interest payments forever, never repaying the
+                                principal that was borrowed. (There aren’t many examples of these.)
+                           Let’s see how each of these bonds is priced. To keep the analysis simple, we’ll
+                        ignore risk for now.
+
+
+                        Zero-Coupon Bonds
+                        U.S. Treasury bills (commonly known as T-bills) are the most straightforward type of
+                        bond. Each T-bill represents a promise by the U.S. government to pay $100 on a fixed
+                        future date. There are no coupon payments, which is why T-bills are known as zero-
+                        coupon bonds. They are also called pure discount bonds (or just discount bonds),
+                        because the price is less than their face value—they sell at a discount. This isn’t a dis-
+                        count in the sense of a markdown at a clothing store, however. If a $100 face value
+
+                        2
+                         For a detailed analysis of such sovereign defaults, see Carmen M. Reinhart and Kenneth S. Rogoff, This Time
+                        Is Different: Eight Centuries of Financial Folly (Princeton, NJ: Princeton University Press, 2011).
+
+
+===== PDF 166 | 印刷页 131 =====
+
+                                                                                              Bond Prices l 131
+
+
+
+T-bill sells for $96, the $4 difference is the interest, the payment to the lender for mak-
+ing the loan.
+   Because a Treasury bill makes a single payment on a future date, its price is just the
+present value of that payment:
+                                                                      $100
+​	                Price of $100 face value zero-coupon bond = _______
+                                                                  ​            ​     (1)
+                                                                     (1 + i)n
+​where i is the interest rate expressed in decimal form and n is the time until the pay-
+ ment is made, measured in the same time units as the interest rate. Suppose the
+ annual interest rate is 5 percent. What is the price of a one-year T-bill? To figure out
+ the answer, take the present value formula, set i at 0.05 and n at 1, and then compute
+ the price:
+                                                       $100
+                Price of one-year Treasury bill = _________
+                                                  ​             ​ = $95.24
+                                                     (1 + 0.05)
+The U.S. Treasury doesn’t issue T-bills with a maturity of more than one year; six-
+month T-bills are much more common. At an annual interest rate of 5 percent, what is
+the price of such a zero-coupon bond? We can use the present-value formula, again,
+but this time we have to be careful. Recall that we need to measure i and n in the same
+time units. Because i is the interest rate for one year, we need to measure n in years,
+and because six months is half a year:
+                                                           $100
+              ​Price of a six-month Treasury bill = ___________
+                                                    ​                 ​ = $97.59
+                                                       (1 + 0.05)1/2
+​ s you can see, the price of a six-month Treasury bill is higher than that of a one-year
+A
+T-bill. The shorter the time until the payment is made, the more we are willing to pay
+for it now. If we go on to compute the price of a three-month T-bill, setting n at 0.25
+(one-fourth of a year), we find the answer is $99.02.
+    Equation (1) shows that for a zero-coupon bond, the relationship between the price
+and the interest rate is the same as the one we saw in our discussion of present value.
+When the price moves, the interest rate moves in the opposite direction. Thus, we can
+compute the interest rate from the price using the present-value formula. For example,
+if the price of a one-year T-bill is $95, then the interest rate is i = ($100/$95) − 1 =
+0.0526, or 5.26 percent.
+
+
+Fixed-Payment Loans
+Conventional home mortgages and car loans are called fixed-payment loans because
+they promise a fixed number of equal payments at regular intervals. These loans are
+amortized, meaning that the borrower pays off the principal along with the interest
+over the life of the loan. Each payment includes both interest and a portion of the
+principal. Pricing these sorts of loans is straightforward using the present-value for-
+mula: The value of the loan today is the present value of all the payments. If we
+assume that the annual interest rate is i (measured as a decimal) and that the loan
+specifies n payments, then
+                   Fixed payment _____________
+Value of a fixed- _____________    Fixed payment           Fixed payment
+                                                           _____________
+                 =   
+                   ​           ​ +   
+                                   ​           ​
+                                                 + . . . +   
+                                                           ​           
+                                                                       ​
+                                                                                    (2)
+payment loan           (1 + i)        (1 + i)2
+                                                              (1 + i)n
+Using this formula is complicated, so we won’t go any further. But when lenders figure
+out your monthly payment for a car loan or home mortgage, this is how they do it.
+
+
+===== PDF 167 | 印刷页 132 =====
+
+132     l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+
+                           Know Your Mortgage
+                           YOUR FINANCIAL WORLD
+
+
+      Survey evidence tells us that a large number of people with         •   Does the ARM have an initial “teaser” interest rate that
+      adjustable-rate mortgages underestimate how much their                  will almost surely rise? If so, when and by how much?
+      monthly payments can change.* Don’t be one of these peo-            •   What is the maximum change in the interest rate for a
+      ple! When you buy a home and get a mortgage, know what                  single adjustment and what is the highest the interest
+      can happen.                                                             rate can ever go (the mortgage rate cap)?
+          There are two basic types of mortgages: conventional            •   Does the ARM include a payment cap? If you hit the
+      fixed-rate and adjustable-rate, also known as ARMs. Fixed-              payment cap, will the principal of the loan start to in-
+      rate mortgages are the easiest to understand because the                crease? (That’s negative amortization.)
+      payments, like the interest rate, are fixed. That means you
+      make the same monthly payment for the entire term of the            •   Can you convert the ARM into a fixed-rate mortgage?
+      mortgage. For most people, that term is 30 years. (You can           This list may seem long, but it is really only the beginning.
+      also get 10-, 15-, and 20-year fixed-rate mortgages.) Because    Getting the right mortgage may be the most important finan-
+      the payments don’t change, fixed-rate borrowers are not ex-      cial decision you ever make, so it is worth spending some
+      posed to the risks of interest rate increases.                   time figuring it out. And once you have it, don’t forget how
+          ARMs are more complicated, because the interest rate         your mortgage works.
+      changes. This means that the payments change, too. Getting
+      an adjustable-rate mortgage means knowing about things           *In “Do Homeowners Know Their House Values and Mortgage
+      like interest rate indexes, margins, discounts, caps, negative   Terms?,” Federal Reserve Board Finance and Economics Discussion
+      amortization, and convertibility:†                               Paper 2006–3, January 2006, Brian Bucks and Karen Pence estimate
+                                                                       that nearly half of people with adjustable-rate mortgages don’t know
+         •   On what interest rate index is the mortgage rate          how much the interest rate can move at one time, the maximum rate,
+             based? How much does that index move around?              or the index to which the mortgage rate is tied.
+         •   How big is the mortgage rate margin above the             †The Consumer Financial Protection Bureau’s Consumer
+                                                                       Handbook on Adjustable Rate Mortgages, http://files.
+             interest rate index on which it is based?
+                                                                       consumerfinance.gov/f/201401_cfpb_booklet_charm.pdf, is a
+         •   How frequently is the rate adjusted?                      great place to start learning about mortgages.
+
+
+
+
+                              Coupon Bonds
+                              Recall from Chapter 4 that the issuer of a coupon bond promises to make a series of
+                              periodic interest payments called coupon payments, plus a principal payment at matu-
+                              rity. So we can value a coupon bond using (you guessed it) the present value formula.
+                              The price of the coupon bond is
+
+                                      [
+                              ​PCB = ​   
+                                          Coupon payment
+                                       ​  _______________
+                                              (1 + i)1
+                                                       ​
+                                                              
+                                                            ​ 
+                                                               Coupon payment
+                                                          + _______________
+                                                                  (1 + i)2
+                                                                           ​ . . .
+                                                                              +        
+                                                                                     ​ 
+                                                                                        Coupon payment
+                                                                                   + _______________
+                                                                                            (1 + i)n
+                                                                                                     ​ ​
+                                                                                                                 ]
+                                                                                                             Face value​(3)​
+                                                                                                         + ​ _________
+                                                                                                              (1 + i)n
+
+                              The right side of this equation has two parts. The first part, in brackets, looks just like
+                              the fixed-payment loan—and it is, with the important exception that it represents only
+                              the interest. The second part, on the far right, looks just like a zero-coupon bond, and
+                              it is. It represents the value of the promise to repay the principal at maturity.
+
+                              Consols
+                              Another type of bond offers only periodic payments. That is, the borrower pays only
+                              interest, never repaying the principal. These loans, called consols or perpetuities, are
+                              like coupon bonds whose payments last forever. Because governments are really the
+                              only borrowers that can credibly promise to make payments forever, there are no pri-
+                              vately issued consols (although a few corporations have issued 100-year coupon bonds).
+
+
+===== PDF 168 | 印刷页 133 =====
+
+                                                                                                                                   Bond Yields l   133
+
+
+
+The British government retired the last of its consols, originally issued in the 18th cen-
+tury, in 2015. The U.S. government sold consols once in 1900. The bonds had a special
+provision allowing the Treasury to buy them back starting in 1930. The Treasury
+bought back all the consols, so you would not be able to find one today.
+      You won’t be surprised to learn that the price of a consol is the present value of all
+the future interest payments. The fact that the number of payments is infinite compli-
+cates things. But we can derive a formula for the price of a consol that makes a coupon
+payment every year forever.3 At interest rate i,
+                                           Yearly coupon payment
+​	                             PConsol = ​ ____________________
+                                                         ​        (4)
+                                                      i
+      T
+      ​ he price of a consol equals the annual coupon payment divided by the interest rate.
+   So at an interest rate of 5 percent, a consol that promises $1 per year forever would sell
+   for $20. If the interest rate changes to 4 percent, the price rises to $25. Again, the inter-
+   est rate and the price move in opposite directions.
+
+Bond Yields
+Now that we know how to calculate a bond price given the interest rate, we need to
+move in the other direction and calculate the interest rate, or the return to an investor,
+implicit in the bond’s price. Doing so means combining information about the prom-
+ised payments with the price to obtain what is called the yield—a measure of the cost
+of borrowing and the reward for lending. When people talk about bonds they use the
+terms yield and interest rate interchangeably, so we will too.
+
+Yield to Maturity
+The most useful measure of the return on holding a bond is called the yield to
+maturity, or the yield bondholders receive if they hold the bond to its maturity when
+the final principal payment is made. Take a $100 face value 5 percent coupon bond
+with one year to maturity. At maturity, the owner of this bond receives a coupon pay-
+ment of $5 plus a principal payment of $100.4 Using the formula from equation (3), we
+know that the price of the bond is
+                                                                 $5           $100
+​	          Price of one-year 5 percent ​coupon bond = ______
+                                                            ​          ​ + ______
+                                                                           ​        ​ (5)
+                                                               (1 + i) (1 + i)
+​The value of i that solves this equation is the yield to maturity. Remembering that pres-
+ ent value and interest rates move in opposite directions, we can conclude the following:
+    1. If the price of the bond is $100, then the yield to maturity equals the coupon rate.
+       (Recall from Chapter 4 that the coupon rate is the ratio of the annual coupon pay-
+       ments to the face value of the bond.)
+
+3
+  You may find it troubling that you can add up an infinite number of payments and get a finite number.
+To see why this works, notice that as the number of years at which the terminal payment occurs increases,
+1/(1 + i)n grows very small. After 100 years, at an interest rate of 5 percent, it is 0.008. So the present value of
+$1 promised in 100 years is less than one cent. We could just ignore the payments that come after this and get
+virtually the same answer. To derive the expression for the price of a consol, use the techniques from the appendix
+to Chapter 4. Start by calling C the coupon payment and writing the price as the sum of the present value of the
+                                            ​  C  ​ + _______
+(infinite) number of payments, PConsol = ______            ​  C  ​ + _______
+                                                                          ​  C  ​    + . . . . Next, multiply this expression by
+                                            (1 + i)        (1 + i)2       (1 + i)3
+                   ​  1  ​ P
+[1/(1 + i)] to get ______              ​  C  ​ + _______
+                                     = ______    ​  C  ​ + _______
+                                                                ​  C 4 ​ + . . . . Then subtract this expression from the
+                   (1 + i) Consol (1 + i)2 (1 + i)3               (1 + i)
+                                ​  1  ​ PConsol = ______
+original, which gives PConsol − ______              ​​  C  ​​. Solving for the price yields equation (4).
+                                  (1 + i)              (1 + i)
+4
+ Most bonds offer two semiannual payments, each equal to half the annual coupon. We will ignore this complication.
+
+
+===== PDF 169 | 印刷页 134 =====
+
+134   l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+                           2. Because the price rises as the yield falls, when the price is above $100, the yield
+                              to maturity must be below the coupon rate.
+                           3. Because the price falls as the yield rises, when the price is below $100, the yield
+                              to maturity must be above the coupon rate.
+                        Looking at the one-year 5 percent coupon bond, we can see right away that if the yield
+                        to maturity is 5 percent, then
+                                                    $5
+                                                _________        $100          $105
+                                                ​​        ​ + _________
+                                                              ​         ​ = _____
+                                                                            ​       ​ = $100
+                                                 (1 + 0.05)      (1 + 0.05)        1.05
+                        ​ hat’s the first point. Now look at what happens when yield to maturity falls to 4 percent.
+                        T
+                        The price becomes
+
+                                                 $5
+                                             _________       $100         $105
+                                             ​​       ​ + _________
+                                                          ​        ​ = _____
+                                                                       ​       ​ = $100.96
+                                             (1 + 0.04)       (1 + 0.04)         1.04
+
+                        T
+                        ​ hat’s the second point. If the yield to maturity rises to 6 percent, then the price falls to
+                                                      $5
+                                                  _________       $100
+                                                  ​​       ​ + _________
+                                                               ​        ​ = $99.06
+                                                  (1 + 0.06)        (1 + 0.06)
+                        ​That’s the third point. You can try this process with a more complicated bond—say,
+                        one with 10 years to maturity that makes more than just one coupon payment—and get
+                        exactly the same results.
+                           The fact that the return on a bond depends on the price you pay for it really isn’t that
+                        mysterious. If you pay $95 for a $100 face value bond, for example, you will receive
+                        both the interest payments and the increase in value from $95 to $100. This rise in
+                        value, referred to as a capital gain, is part of the return on your investment. So when
+                        the price of the bond is below the face value, the return is above the coupon rate. When
+                        the price is above the face value, the bondholder incurs a capital loss and the bond’s
+                        yield to maturity falls below its coupon rate.
+
+
+                        Current Yield
+                        Current yield is a commonly used, easy-to-compute measure of the proceeds the
+                        bondholder receives for making a loan. It is the yearly coupon payment divided by the
+                        price:
+                                            Yearly coupon payment
+                        	​Current yield = ​ ____________________
+                                                             ​	                                                (6)​
+                                                  Price paid
+
+                        Looking at this expression, we can see that the current yield measures that part of the
+                        return from buying the bond that arises solely from the coupon payments. It ignores
+                        the capital gain or loss that arises when the price at which the bond is purchased differs
+                        from its face value. So if the price is below par, the current yield will be below the
+                        yield to maturity.
+                           Let’s return to the one-year 5 percent coupon bond and assume that it is selling for
+                        $99. The current yield is easy to calculate as
+                                                               ___5
+                                                               ​​   ​ = 0.0505
+                                                               99
+
+
+===== PDF 170 | 印刷页 135 =====
+
+                                                                                             Bond Yields l 135
+
+
+
+​or 5.05 percent. The yield to maturity for this bond is the solution to
+                                       $5           $100
+                                  ​​ ______ ​ + ______
+                                                ​          ​ = $99​
+                                     (1 + i)       (1 + i)
+which is 6.06 percent. The yield to maturity is higher because, if you buy the bond for
+$99, one year later you get not only the $5 coupon payment but also a guaranteed
+$1 capital gain for a total of $6.
+   We can repeat these calculations for a case in which the bond is selling for $101.
+Then the current yield is
+                                         ____ 5
+                                         ​​      ​ = 0.0495​
+                                             101
+or 4.95 percent, and the yield to maturity is
+                                     $5
+                                 ______         $100
+                                 ​​      ​ + ______
+                                             ​        ​ = $101​
+                                 (1 + i)      (1 + i)
+or 3.96 percent.
+     Putting all this together, we see the relationship between the current yield and
+the coupon rate. Again, it comes from the fact that current yield moves in the
+­opposite direction from the price: it falls when the bond’s price goes up and rises
+ when the price goes down. So when the price equals the face value of the bond,
+ the current yield and coupon rate are equal. When the price rises above the face
+ value, the current yield falls below the coupon rate. And when the price falls below
+ the face value, the current yield rises above the coupon rate.
+     Table 6.1 summarizes the relationships among the price, coupon rate, current yield,
+ and yield to maturity. We know that when the bond price is less than face value, the
+ current yield and the yield to maturity are both higher than the coupon rate. But
+ ­because the yield to maturity takes account of the capital gain the bondholder receives,
+  while the current yield does not, the yield to maturity must be even higher than the
+  current yield. When the price is above the face value, the yield to maturity is lower
+  than the current yield, which is lower than the coupon rate.
+
+
+Holding Period Returns
+We have emphasized that if you buy a bond whose yield to maturity deviates from
+the coupon rate, the price will not be the face value. Similarly, the return from
+holding a bond need not be the coupon rate. For example, if you pay $95 for a one-
+year 6 percent coupon bond, one year later you will get both the $6 coupon payment
+and the $5 difference between the purchase price and the $100 face value at matu-
+rity. But this example is really too simple, because it assumes that the investor
+
+
+
+                    Relationship among a Bond’s Price and Its Coupon Rate, Current Yield,
+   Table 6.1
+                    and Yield to Maturity
+
+  Bond price < Face value: Coupon rate < Current yield < Yield to maturity
+  Bond price = Face value: Coupon rate = Current yield = Yield to maturity
+  Bond price > Face value: Coupon rate > Current yield > Yield to maturity
+
+
+===== PDF 171 | 印刷页 136 =====
+
+136   l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+                        holds the bond to maturity. Most holders of long-term bonds plan to sell them well
+                        before they mature. And because the price of the bond may change between the
+                        time of the purchase and the time of the sale, the return to buying a bond and sell-
+                        ing it before it matures—the holding period return—can differ from the yield to
+                        maturity.
+                           Take an example in which you pay $100 for a 10-year, 6 percent coupon bond with
+                        a face value of $100. You intend to hold the bond for one year. That is, you are going
+                        to buy a 10-year bond and then a year later, you’ll sell a nine-year bond. What is your
+                        return from holding this bond? If the interest rate doesn’t change (that is, it stays at
+                        6 percent) your return will be $6/$100 = 0.06, or 6 percent. But if the interest rate
+                         changes, calculating your return becomes more complicated. Say that over the year
+                         you hold the bond, the interest rate falls from 6 to 5 percent. That is, the yield to
+                        ­maturity falls to 5 percent. Using equation (3), we can figure out that you have
+                         bought a 10-year bond for $100 and sold a 9-year bond for $107.11. What is your
+                         one-year holding period return on the initial $100 investment? It has two parts: the
+                         $6 coupon payment and the $7.11 capital gain (the difference between the price at
+                         which you bought the bond and the price at which you sold it). So the holding
+                         period return is
+                                   ​ ne-year holding
+                                   O                          $6       $107.11 − $100 ______
+                                                                                         $13.11
+                                                     ​=​ _____
+                                                         ​​        ​ + ______________
+                                                                         
+                                                                       ​          ​ = ​         ​ = 0.1311​
+                                   period return​            $100           $100          $100
+                                                             = 13.11 percent
+
+                           Obviously, bond prices can go down as well as up. Consider what happens if the
+                        yield to maturity rises to 7 percent so that the price falls to $93.48. Now the one-year
+                        holding period return is
+                                    ​ ne-year holding
+                                    O                          $6 _____________
+                                                                         $93.48 − $100 ______
+                                                                                          −$.52
+                                                      ​=​ ____
+                                                          ​​      ​ +   
+                                                                      ​            ​ = ​        ​ = −0.0052​
+                                    period return​            100            $100         $100
+                                                              = −0.52 percent
+
+                        The coupon payment still represents a 6 percent return, but the capital loss from the
+                        price movement is 6.52 percent. The one-year holding period return is negative, as
+                        overall there is a small loss.5
+                           To generalize these examples, notice that the one-year holding period return is the
+                        sum of the yearly coupon payment divided by the price paid for the bond, and the
+                        change in the price (price sold minus price paid) divided by the price paid:
+                                                        Yearly coupon payment ____________________
+                                                                                  Change in price of bond
+                            ​Holding period return =  ​ ____________________
+                                                                         ​  +   
+                                                                               ​                   ​                                  (7)​
+                                                              Price paid               Price paid
+
+
+                        5
+                         The multiyear case is somewhat more complex. Say that an investor purchased the same 10-year 6 percent
+                        coupon bond at par, and then held it for two years. If the interest rate were to rise from 7 percent, the price of
+                        the now 8-year bond would fall to $94.03 per $100 of face value. This means that the investor would receive $12
+                        in coupon payments plus a capital loss of $5.97, for a total payoff of $106.03. To simplify, let us assume that the
+                        first-year coupon cannot be reinvested. Then, using the methods described in the Tools of the Trade on
+                                                                                            [(106.03
+                        page 82 of Chapter 4, we can compute the annual-rate return as ​ ​​ ​ ______  )      ]
+                                                                                                          1/2
+                                                                                                     ​  ​​ ​ − 1 ​= 0.0297, or 2.97%. If instead
+                                                                                               100
+                        the interest rate were to fall to 4 percent, the price of the bond would rise to $106.46, the total payoff would be
+                        $118.46, and the annual-rate return would be 8.84 percent.
+
+
+===== PDF 172 | 印刷页 137 =====
+
+                                                    The Bond Market and the Determination of Interest Rates   l   137
+
+
+
+The first part on the right-hand side of this equation is the current yield (equation 6).
+The second part is the capital gain. So the holding period return is
+
+                Holding period return = Current yield + Capital gain                   (8)
+
+   Whenever the price of a bond changes, there is a capital gain or loss. The greater
+the price change, the more important a part of the holding period return the capital
+gain or loss becomes. The potential for interest rate movements and changes in bond
+prices creates risk. The longer the term of the bond, the greater those price move-
+ments and the associated risk can be, as we’ll see in more detail in the last section of
+this chapter.
+
+
+
+The Bond Market and the Determination
+of Interest Rates
+Now that we understand the relationship between bond prices and various measures of
+interest rates, we need to figure out how bond prices are determined and why they
+change. The best way to do that is to look at bond supply, bond demand, and equilib-
+rium prices in the bond market. Once we understand how the bond market determines
+bond prices, we can figure out why the prices change.
+    To keep the analysis simple, we need to make a few choices about how to proceed.
+First, we’ll restrict the discussion to the quantity of bonds outstanding, called the stock of
+bonds. (We could look at what causes the changes in the quantity of bonds outstanding—
+the flow—but that would complicate matters.) Second, we are going to talk about bond
+prices rather than interest rates. Because a bond’s price, together with its various char-
+acteristics, determines its yield, it really doesn’t matter whether we talk about yields
+(interest rates) or bond prices. Once we know the price, we know the yield. F         ­ inally,
+we’re going to consider the market for a one-year zero-coupon bond (one that makes
+no coupon payments) with a face value of $100.
+    If we assume the investor is planning to purchase a one-year bond and hold it to
+maturity—the investor has a one-year investment horizon—then the holding
+period return equals the bond’s yield to maturity, and both are determined
+­directly from the price. The present-value formula shows that the relationship
+ between the price and the yield on such a bond is simply P = $100/(1 + i), so
+ i = [($100 – P)/P].
+    For example, if a bond sells for $95, then the yield is i = $5/$95 = 0.0526, or
+5.26 percent.
+
+
+Bond Supply, Bond Demand,
+and Equilibrium in the Bond Market
+How are bond prices (and bond yields) determined? Not surprisingly, by supply
+and ­demand. Some investors are supplying bonds, while others are demanding
+them. The bond supply curve is the relationship between the price and the quantity
+of bonds people are willing to sell, all other things being equal. The higher
+the price of a bond, the larger the quantity supplied will be for two reasons.
+
+
+===== PDF 173 | 印刷页 138 =====
+
+138     l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+
+                            Reading the Bond Page
+                            TOOLS OF THE TRADE
+
+
+      Every day The Wall Street Journal lists the previous day’s clos-       issues and a 10-year bond yield to represent the longer
+      ing yields for a wide variety of bonds that serve as ­standards—       term. In Chapter 7, we’ll see how the term structure of inter-
+      or benchmarks—for comparison with other financial                      est rates relates the level of bond yields to the maturity of
+      instruments. Table 6.2 shows some representative data on               the bonds.
+      global government bonds published on March 18, 2019, while                  The table highlights several points. First, the yields on gov-
+      Table 6.3 presents some data on corporate bonds. Let’s see             ernment bonds vary over time. For example, on March 18,
+      what we can learn from reading these tables.                           2019, the “latest” 10-year German government bond yield was
+                                                                             0.087 percent. The table also shows that the latest yield ex-
+                                                                             ceeded the day-earlier (“previous”) level of 0.086 percent and
+      Global Government Bonds                                                was lower than the “year-ago” level of 0.572 percent. Assum-
+      Governments issue hundreds of bonds. As of early 2019,                 ing that the representative bond had exactly 10 years to matu-
+      the U.S. Treasury alone had more than 300 different cou-               rity on each date, then, as the yield fell, its price in euros rose
+      pon-bearing instruments outstanding. But investors often               from €96.88 on March 18, 2018, to €101.62 on March 18, 2019.
+      focus on the most liquid bonds at key maturities to summa-             Similarly, the 10-year U.S. Treasury yield edged lower over the
+      rize the evolution of the entire bond market. Table 6.2 uses           year, from 2.847 percent to 2.602 percent, raising the U.S. dol-
+      a two-year bond yield to represent relatively short-term               lar price of the bond by $2.11, to $100.20.
+
+
+
+
+            Table 6.2             Government Bonds
+
+
+           Yields and spreads over or under U.S. Treasurys on benchmark two-year and 10-year government bonds in
+           selected other countries; arrows indicate whether the yield rose (∆) or fell (▼) in the latest session.
+                                                                                               SPREAD UNDER/OVER U.S. TREASURYS,
+          Coupon    Country/Maturity,                         YIELD (%)                                  in basis points
+            (%)        in years            Latest (∙)   Previous Month ago Year ago                     Latest                    Year ago
+           2.500           U.S.     2     2.458             2.438    2.504     2.291                       …                             …
+           2.625                   10     2.602             2.592    2.666     2.847                       …                             …
+           0.000       France       2   −0.458          −0.460      −0.451    −0.486        −291.6                                 −277.7
+           0.500                   10     0.453             0.464    0.547     0.816              −214.9                           −203.1
+           0.000     Germany        2   −0.527          −0.539      −0.560    −0.590       −298.6                                  −288.1
+           0.250                   10     0.087             0.086    0.116     0.572           −251.5                              −227.4
+           3.750          Italy     2     0.328             0.368    0.579    −0.256              −213.0                           −254.6
+           2.800                   10     2.425             2.504    2.768     1.979                              −17.7             −86.7
+           0.100        Japan       2   −0.162          −0.161      −0.176    −0.148          −262.1                               −243.8
+           0.100                   10   −0.036          −0.035      −0.020     0.035          −263.9                               −281.2
+           0.050         Spain      2   −0.255          −0.220      −0.171    −0.271         −271.3                                −256.2
+           1.450                   10     1.151             1.188    1.227     1.368                   −145.2                      −147.9
+           2.000          U.K.      2     0.754             0.767    0.724     0.813                 −170.4                        −147.8
+           1.625                   10     1.198             1.214    1.068     1.432                    −140.4                     −141.5
+
+
+
+         SOURCE: The Wall Street Journal, March 18, 2019.
+
+
+===== PDF 174 | 印刷页 139 =====
+
+                                                                 The Bond Market and the Determination of Interest Rates                           l   139
+
+
+
+
+    The second point illustrated by the table is that the yields             discussion of default risk on pages 147–151). In line with Core
+on government bonds differ substantially across countries.                   Principle 2: investors expect to be compensated for those
+The “latest” yield on the 10-year U.S. Treasury bond was much                risks. Table 6.3 captures a measure of that compensation—the
+higher than the yield on Germany’s bond, but only a bit higher               yield spread over Treasury securities.
+than the yield on Italy’s. The difference across countries is also               The table shows the levels and one-day changes of yield
+portrayed by the bars in the third column from the right, which              spreads on actively traded corporate bond yields compared
+show the latest yield spread versus 10-year Treasuries. The                  to a similar-maturity U.S. Treasury yield. For the bond issued
+spread for Italy’s bond—that is, the yield on Italy’s bond minus             by Deutsche Bank AG (the large German bank), the “current”
+the yield on the U.S. bond—was –17.7 basis points (a basis                   spread of 550 basis points is the amount by which its previ-
+point is one hundredth of a percentage point); for Germany’s                 ous-day yield exceeded that on the most recent 30-year
+bond, the spread was –251.5 basis points—that is, the yield on               Treasury issue.
+Germany’s bond was lower than the U.S. or Italian bond yield.                    Narrower corporate bond spreads over U.S. Treasuries
+Recall from the figure on page 92 that the difference between                are associated with lower default risk. Hence, spreads are
+interest rates partly reflects differences in expected inflation.            as diverse as corporate default risks. The narrowest
+However, in the case of Italy, the difference also reflected risks           spread shown in the table is 11 basis points, for Cisco Sys-
+associated with high government debt and unsettled condi-                    tems, a major technology firm; the widest is 550 for
+tions in the euro area (which will be discussed in Chapter 16).              Deutsche Bank AG. Spreads can change significantly day
+    Third, the latest 10-year yield exceeded the latest two-year             to day: The table shows that the largest swings in spreads
+yield in every country shown in the table. When we study the                 on March 18 were the 44-basis-point tightening for
+term structure of interest rates in Chapter 7, we’ll learn why this          Deutsche Bank AG and the 19-basis-point widening for
+pattern of higher long-term yields is common but does not al-                General Motors Financial. These day-to-day changes re-
+ways hold.                                                                   flect changing perceptions of each company’s default risk
+    Finally, the yield on each bond differs from its coupon                  over different time horizons.
+rate (shown in the first column). As noted elsewhere in this                     The last two columns of the table show the stock price
+chapter, when the yield is higher (lower) than the coupon, the               level and change for those bond issuers that also issue
+price of the bond is below (above) the par value of 100.                     shares. Note that a gain (loss) in the price of a company’s
+                                                                             stock, which normally indicates greater (lesser) confi-
+Corporate Debt                                                               dence in the prospects for a company, is not always
+Thousands of corporations in the United States issue bonds,                  accompanied by similar change in the yield spread of that
+and the bonds vary significantly in default risk (see the                    company’s bond.
+
+
+
+
+      Table 6.3             Corporate Bonds
+
+
+     Investment-grade spreads that tightened the most . . .
+                                                                                          SPREAD*, IN BASIS POINTS          STOCK PERFORMANCE
+     Issuer                              Symbol Coupon (%)           Maturity      Current         Change      Last week       Close      % Chg
+     Deutsche Bank AG                    DB             7.500     April 30, ’49       550      −44                   632      $9.26        4.28
+     Cisco Systems                       CSCO           3.000     June 15, ’22         11            −14              23      53.51        0.58
+     Discover Financial Services         DFS            4.100     Feb. 9, ’27         161            −14             177          …           …
+     General Electric                    GE             5.000     Jan. 21, ’49        236            −13             241      10.20        2.41
+
+     . . . And spreads that widened the most
+
+     General Motors Financial            GM             3.700     May 9, ’23          148              19            160      …              …
+     Apollo Management Holdings          APO            4.872     Feb. 15, ’29        209              16            212 29.78            2.30
+     Boeing                              BA             2.800     March 1, ’24         55             13              48 372.28          –1.77
+     Hexcel                              HXL            3.950     Feb. 15, ’27        152            6               n.a. 69.87           1.01
+
+
+   *Estimated spread over 2-year, 3-year, 5-year, 10-year or 30-year hot-run Treasury; 100 basis points = one percentage point; change in spread
+   shown is for Z-spread.
+   Note: Data are for the most active issue of bonds with maturities of 2 years or more.
+   SOURCE: The Wall Street Journal, March 18, 2019.
+
+
+===== PDF 175 | 印刷页 140 =====
+
+140           l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+                              From investors’ point of view, the higher the price, the more tempting it is to sell a
+                              bond they currently hold. From the point of view of companies seeking finance for
+                              new projects, the higher the price at which they can sell bonds, the better. Taking our
+                              example of a $100 one-year zero-coupon bond, the quantity supplied will be higher at
+                              $95 per bond than it will be at $90 per bond, all other things being equal. This means
+                              that the bond supply curve slopes upward.
+                                 The bond demand curve is the relationship between the price and quantity of bonds
+                              that investors demand, all other things being equal. As the price falls, the reward for
+                              holding the bond rises, so the demand goes up. That is, the lower the price potential
+                              bondholders must pay for a fixed-dollar payment on a future date, the more likely they
+                              are to buy a bond. Again, think of the zero-coupon bond promising to pay $100 in one
+                              year. That bond will attract more demand at $90 than it will at $95 per bond, all other
+                              things being equal. Thus, the bond demand curve slopes downward. Because the price
+                              of bonds is inversely related to the yield, the demand curve implies that the higher the
+                              demand for bonds, the higher the yield.
+                                 Equilibrium in the bond market is the point at which supply equals demand—
+                              point E in Figure 6.1. As is always the case with supply and demand analysis, we
+                              need to explain how the market adjusts when the price deviates from the price that
+                              equates supply and demand—point P0 in Figure 6.1. Let’s look briefly at the two
+                              possibilities: Either the price is too high or the price is too low. If bond prices start
+                              out above the equilibrium point, somewhere greater than P0, quantity supplied will
+                              exceed quantity demanded. That is, excess supply means that suppliers cannot sell
+                              the bonds they want to at the current price. To make the sale, they will start cutting
+                              the price. The excess supply will put downward pressure on the price until supply
+                              equals demand.
+                                 When the price is below the equilibrium point, quantity demanded will
+                              exceed quantity supplied. Those people who wish to buy bonds cannot get all
+                              they want at the prevailing price. Their reaction is to start bidding up the price.
+                                                                         Excess demand continues to put upward
+                                                                         pressure on the price until the market
+                        Supply, Demand, and Equilibrium in the           reaches equilibrium.
+   Figure 6.1
+                        Bond Market                                         So far, so good. But to really understand
+                                                                         how bond prices (and bond yields) change
+                                                                         over time, we need to learn what determines
+                                                                         the location of the supply and demand
+                                                           S
+                                                                         curves. Over time they shift around, leading
+                                                                         to changes in the equilibrium prices. As we
+ Price per Bond
+
+
+
+
+                                         E                               discuss the causes of such shifts in the fol-
+        P0                                                               lowing section, make sure you remember the
+                                                                         distinction between moving along a supply
+                                                                         or demand curve and shifting a curve. When
+                                                                         the quantity demanded or quantity supplied
+                                                                         changes because of a change in the price, it
+                                                               D         produces a movement along the curve. But
+                                                                         when the quantity demanded or supplied at a
+                              Quantity of Bonds                          given price changes, it shifts the entire
+                                                                         curve. More important, in the bond market, a
+The supply of bonds from borrowers slopes up and the demand for bonds    shift in either the supply or the demand
+from lenders slopes down. Equilibrium in the bond market is determined   curve changes the price of bonds, so it
+by the intersection of supply and demand.                                changes the yield as well.
+
+
+===== PDF 176 | 印刷页 141 =====
+
+                                                  The Bond Market and the Determination of Interest Rates               l   141
+
+
+
+Factors That Shift Bond Supply
+What changes the quantity of bonds supplied at a given price, shifting the supply
+curve? We can identify three factors: changes in government borrowing, in general
+business conditions, and in expected inflation. Let’s look at these one at a time.
+
+Changes in Government Borrowing                 The government’s need to issue bonds
+affects the supply of bonds out there. Both changes in tax policy and adjustments in
+spending can affect a government’s need to borrow. Regardless of the reason, any
+increase in the government’s borrowing needs increases the quantity of bonds out-
+standing, shifting the bond supply curve to the right. The result is an increase in quan-
+tity of the bonds supplied at every price (see Figure 6.2). Because the demand curve
+stays where it is (remember, we’re holding
+everything else constant), the increase in sup-
+ply drives the price down. The added supply
+of U.S. government bonds has reduced prices,         Figure 6.2        A Shift in the Supply of Bonds
+raising interest rates.
+
+Changes in General Business                                                                               S0
+­Conditions During business cycle expan­
+sions, when general business conditions are                                                                    S1
+                                                       Price per Bond
+
+good, investment opportunities abound,                                                  E0
+prompting firms to increase their borrowing.                            P0
+                                                                                                       Increased Desire
+As the amount of debt in the economy rises,                             P1                       E1       to Borrow
+the quantity of bonds outstanding with a given
+risk goes up. So as business conditions
+improve, the bond supply curve shifts to the
+right, forcing bond prices down and interest                                                                   D
+rates up. Again, Figure 6.2 shows what hap-
+pens. This connection between general busi-                                       Quantity of Bonds
+ness conditions and the supply of bonds also
+helps explain how weak economic growth can
+lead to rising bond prices and lower interest        When borrowers’ desire for funds increases, the bond supply curve shifts
+                                                     to the right, lowering bond prices and raising interest rates.
+rates for bonds with unchanged risk.
+
+Changes in Expected Inflation            Bond issuers care about the real cost of bor-
+rowing—the cost of the loan taking inflation into account. At a given nominal inter-
+est rate, higher expected inflation means a lower real interest rate. And at a lower
+real interest rate, fewer real resources are required to make the payments promised
+by a bond. So when expected inflation rises, the cost of borrowing falls and the
+desire to borrow at every nominal interest rate rises. Figure 6.2 shows that an
+increase in expected inflation shifts the bond supply curve to the right. Higher
+expected inflation increases the bond supply, reducing bond prices and raising the
+nominal interest rate.
+   Table 6.4 summarizes the factors that increase the quantity of bonds supplied at
+every price, shifting the bond supply curve to the right. Before moving on to shifts in
+the demand for bonds, we should mention that there is one other factor that shifts the
+bond supply: changes in corporate taxation. Because such changes in the tax code
+require government legislation, they don’t occur very often. But when they do, they
+can affect the economywide supply of bonds. Corporations pay taxes on their profits,
+
+
+===== PDF 177 | 印刷页 142 =====
+
+142   l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+                                            Factors That Shift Bond Supply to the Right, Lower Bond Prices,
+                            Table 6.4
+                                            and Raise Interest Rates
+
+
+                                                      Effect on Bond Supply, Bond
+                            Change                    Prices, and Interest Rates         Shift in Bond Supply
+
+                            An increase in the        Bond supply shifts to the right,
+                            government’s desired      bond prices ↓, and interest                                S0
+                            expenditure relative to   rates ↑                                           E0            S1
+                            its revenue                                                  P0
+                                                                                         P1                     E1
+
+                                                                                                                      D
+                                                                                                Quantity of Bonds
+                            An improvement in         Bond supply shifts to the right,
+                            general business          bond prices ↓, and interest                                S0
+                            conditions                rates ↑                                           E0            S1
+                                                                                         P0
+                                                                                         P1                     E1
+
+                                                                                                                      D
+                                                                                                Quantity of Bonds
+                            An increase in            Bond supply shifts to the right,
+                            expected inflation,       bond prices ↓, and interest                                S0
+                            reducing the real cost    rates ↑                                           E0            S1
+                            of repayment                                                 P0
+                                                                                         P1                     E1
+
+                                                                                                                      D
+                                                                                                Quantity of Bonds
+
+
+
+                        just as individuals pay taxes on their income, so they are concerned with after-tax
+                        profits. Governments often create special tax subsidies that make corporate invest-
+                        ments less costly. These tax incentives increase the supply of bonds because they
+                        raise the after-tax profitability of investing in new equipment purchased with funds
+                        raised from selling bonds. Like the other three factors we have considered, govern-
+                        ment tax incentives increase bond supply, shift the supply curve to the right, and
+                        lower the price of bonds.
+
+
+                        Factors That Shift Bond Demand
+                        Now we move on to bond demand. Six factors shift the demand for bonds at a given
+                        price: wealth, expected inflation, the expected return on stocks and other assets,
+                        expected interest rates, risk, and the liquidity of bonds (see Table 6.5).
+
+                        Wealth     The more rapidly the economy grows, the wealthier individuals become.
+                        As their wealth increases, they increase their investment in stocks, bonds, real estate,
+
+
+===== PDF 178 | 印刷页 143 =====
+
+                                                     The Bond Market and the Determination of Interest Rates   l   143
+
+
+
+                 Factors That Shift Bond Demand to the Right, Raise Bond Prices,
+Table 6.5
+                 and Lower Interest Rates
+
+
+
+
+Change                            Effect on Bond Demand        Shift in Bond Demand
+An increase in wealth             Bond demand shifts to the                           S
+increases demand for all          right, bond prices ↑, and
+assets including bonds.           interest rates ↓             P0               E1
+                                                               P1
+                                                                          E0
+                                                                                        D
+                                                                                      D0 1
+                                                                    Quantity of Bonds
+A reduction in expected           Bond demand shifts to the                           S
+inflation makes bonds with        right, bond prices ↑, and
+fixed nominal payments more       interest rates ↓             P0               E1
+desirable.                                                     P1
+                                                                          E0
+                                                                                        D
+                                                                                      D0 1
+                                                                    Quantity of Bonds
+A decrease in the expected        Bond demand shifts to the                           S
+future interest rate makes        right, bond prices ↑, and
+bonds more attractive.            interest rates ↓             P0               E1
+                                                               P1
+                                                                          E0
+                                                                                        D
+                                                                                      D0 1
+                                                                    Quantity of Bonds
+An increase in the expected       Bond demand shifts to the                           S
+return on the bond relative to    right, bond prices ↑, and
+the expected return on            interest rates ↓             P0               E1
+alternatives makes bonds                                       P1
+more attractive.                                                          E0
+                                                                                        D
+                                                                                      D0 1
+                                                                    Quantity of Bonds
+A fall in the riskiness of the    Bond demand shifts to the                           S
+bond relative to the riskiness    right, bond prices ↑, and
+of alternatives makes bonds       interest rates ↓             P0               E1
+more attractive.                                               P1
+                                                                          E0
+                                                                                        D
+                                                                                      D0 1
+                                                                    Quantity of Bonds
+An increase in the liquidity of   Bond demand shifts to the                            S
+the bond relative to the          right, bond prices ↑, and
+liquidity of alternatives makes   interest rates ↓             P0               E1
+bonds more attractive.                                         P1
+                                                                           E0
+                                                                                        D
+                                                                                      D0 1
+                                                                    Quantity of Bonds
+
+
+===== PDF 179 | 印刷页 144 =====
+
+144 l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+                                                                      and art. Thus, increases in wealth shift the
+  Figure 6.3           A Shift in the Demand for Bonds                demand for bonds to the right, raising bond
+                                                                      prices and lowering yields (see Figure 6.3).
+                                                                      This is what happens in a business cycle expan-
+                                                   S                  sion. In a recession, as wealth falls, the demand
+                                                                      for bonds falls with it, lowering bond prices
+                                                                      and raising interest rates.
+ Price per Bond
+
+
+
+
+                                    E1
+                  P1                                                  Expected Inflation                Changes in expected
+                  P0                             Increased Demand           inflation  alter investors’  willingness to pur-
+                                   E0
+                                                        for Bonds           chase   bonds    promising    fixed-dollar pay-
+                                                                            ments. A decline in expected inflation means
+                                                                            that the payments promised by the bond’s
+                                                                            issuer have a higher value than borrowers
+                                                        D0 D1               originally thought, so the bond will become
+                                                                            more attractive. This fall in expected inflation
+                              Quantity of Bonds
+                                                                            shifts the bond demand curve to the right,
+                                                                            increasing demand at each price and lowering
+When there is an increase in investors’ willingness to hold bonds, the bond the yield, as shown in Figure 6.3. In short, the
+demand curve shifts to the right, increasing bond prices and reducing       higher real return on the bond increases the
+interest rates.                                                             willingness of would-be lenders to buy it at
+                             any given price. Note that the decline in expected inflation has reduced the nominal
+                             interest rate that investors ­require in order to make a loan.
+
+                           Expected Returns and Expected ­Interest Rates An investor’s desire to hold
+                           any particular financial instrument depends on how its return compares to those of alter-
+                           native instruments. Bonds are no different. If the expected return on bonds rises relative to
+                           the return on alternative investments, the quantity of bonds demanded at every price will
+                           rise, shifting the bond demand curve to the right. This leads us to conclude that bond
+                           prices are connected to the stock market. Investors see bonds as an alternative to stocks, so
+                           when the stock market outlook worsens, they shift their portfolios into bonds, increasing
+                           demand, driving bond prices up and interest rates down.
+                              Similarly, when interest rates are expected to change in the future, bond prices
+                           adjust immediately. Recall that the holding period return on a bond depends on the
+                           coupon payment plus the capital gain or loss. When interest rates fall, bond prices
+                           rise, creating a capital gain. Whenever interest rates are expected to fall, then bond
+                           prices are expected to rise, creating an expectation of a capital gain. This makes
+                           bonds more attractive. Knowing that bonds are a good investment, investors
+                           increase their demand immediately, driving bond prices up. So an increase in the
+                           expected return on a bond, relative to the return on alternatives, shifts bond demand
+                           to the right.
+
+                           Risk Relative to Alternatives On May 13, 2002, a headline in The Wall Street
+                           Journal read “Japan Gets Irate at Having Its Risk Compared to Botswana.” What’s going
+                           on here? Japan is the third-largest economy in the world, with a population of more than
+                           125 million and a GDP approaching $5 trillion. Botswana is a landlocked country in
+                           southern Africa with a population of 2 million people and a GDP of about $17 billion.
+                              The problem was that investors had two reasons to question Japan’s budget out-
+                           look. First, the fiscal deficit was a very high 7 percent of GDP. Second, over the next
+                           few decades, the Japanese government would have to find a way to meet its promises
+
+
+===== PDF 180 | 印刷页 145 =====
+
+                                                    The Bond Market and the Determination of Interest Rates               l   145
+
+
+
+to make pension payments to the growing number of retirees. Together these created
+the perception that Japan’s bonds were risky, which meant that investors would be less
+interested in holding them.
+   Remember that investors require compensation for risk, which means that when a
+bond becomes more or less risky, the demand for the bond changes. The less risky the
+bond, the higher the price investors are willing to pay for it, all other things being equal.
+From this we can conclude that if a bond becomes less risky relative to alternative
+investments, the demand for the bond shifts to the right. The reason Japan was irate was
+because the price of its bonds would be lower, so its borrowing costs would be higher.
+
+Liquidity Relative to Alternatives            As we learned in Chapter 2, market liquid-
+ity measures how easily and cheaply investors can convert a financial instrument into
+cash (the means of payment). A liquid asset is something investors can sell without a
+large loss in value. Investors like liquidity; the more liquid a bond, the higher the
+­demand for it, all other things being equal. So if a bond’s liquidity changes, demand
+ for it changes, too.
+    During the financial crisis in the fall of 1998, for example, the bonds issued by
+ emerging market governments in Latin America and eastern Europe became virtually
+ impossible to sell. The same thing happened to some U.S. mortgage-related bonds
+ during the crisis of 2007–2009 and to the bonds of some euro-area countries beginning
+ in 2010. For all practical purposes, the market for them dis­appeared. When a buyer
+ could be found, prices were severely depressed. Who wants to buy a bond that is diffi-
+ cult to sell? Liquidity matters. The less liquid a bond is, the lower the demand for it,
+ and the lower the price. So when a bond becomes more liquid relative to alternatives,
+ the demand curve shifts to the right.
+
+
+Understanding Changes in
+                                                                              Equilibrium in the Bond Market: The Effect
+Equilibrium Bond Prices and                             Figure 6.4
+                                                                              of an Increase in Expected Inflation
+Interest Rates
+Before we continue, let’s look again at how
+bond prices and interest rates move in response                                                                 S0
+to changes in expected inflation and a change
+                                                                                                                     S1
+in general business conditions. Recall that
+                                                        Price per Bond
+
+
+
+
+                                                                                             E0
+expected inflation affects both bond supply and                          P0
+bond demand. An increase in expected infla-
+tion reduces the real cost of borrowing, shifting
+bond supply to the right. But at the same time,                          P1
+this increase in expected inflation lowers the                                                 E1
+real return on lending, shifting bond demand to
+the left. These two effects reinforce each other,                                                           D1       D0
+lowering the price of the bond and raising the
+interest rate (see Figure 6.4).                                                     Quantity of Bonds
+   We also saw that changes in business condi-
+tions affect both the supply and the demand for
+                                                      An increase in expected inflation increases bond supply from S0 to S1 by
+bonds. A business cycle downturn reduces
+                                                      lowering the real cost of borrowing. At the same time, it reduces bond
+business investment opportunities, shifting the       demand from D0 to D1 by reducing the real interest rate bondholders
+bond supply to the left, and reduces wealth,          receive. These two effects reinforce each other, lowering the bond’s price
+shifting bond demand in the same direction.           from P0 to P1 and increasing the interest rate.
+
+
+===== PDF 181 | 印刷页 146 =====
+
+146          l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+                          Equilibrium in the Bond Market: The Effect of                When both curves shift in the same direction,
+  Figure 6.5                                                                           the price can rise or fall. The theory does not
+                          a Business Cycle Downturn
+                                                                                       give us an unambiguous prediction. In cases
+                                                                                       like this, we can look for regular movements in
+                                                              S1
+                                                                                       the data to help resolve the question. In this
+                                                                                       case we know that in recessions, interest rates
+                                         E1                                            tend to fall, so (for bonds with unchanged risk)
+                                                                    S0
+                                                                                       prices should increase (see Figure 6.5).
+  Price of Bonds
+
+
+
+
+                   P1
+                   P0                                    E0
+                                                                                       Why Bonds Are Risky
+                                                                                       “Bonds Look Attractive Now but They Come
+                                                                                       with Risks”
+                                                                         D0            — The Wall Street Journal, July 26, 2002
+                                                              D1
+                                                                           How can bonds be risky? They are promises to
+                                   Quantity of Bonds                       make fixed payments on future dates. Where is
+                                                                           the risk in that? The fact is that the return an
+For bonds with unchanged risk, interest rates tend to fall during business investor receives for holding a bond is far from
+cycle downturns. The combination of reduced investment opportunities       riskless. Bondholders face three major risks
+for businesses, which shifts the bond supply curve to the left from S0 to  (see Table 6.6). Default risk is the chance that
+S1, and a decline in household wealth, which shifts the bond demand        the bond’s issuer may fail to make the prom-
+curve to the left from D0 to D1, causes an increase in bond prices and a
+drop in the interest rate.
+                                                                           ised payment. Inflation risk means an investor
+                                                                           can’t be sure of what the real value of the pay-
+                                                                           ments will be, even if they are made. And
+                              ­interest rate risk arises from a bondholder’s investment horizon, which may be
+                               shorter than the maturity of the bond. If, for example, the interest rate were to rise
+                               between the time the bond is purchased and the time it is sold, the investor would suf-
+                               fer a capital loss.6
+                                  We’ll look at each of these sources of risk separately, using the tools for under-
+                               standing risk introduced in Chapter 5. Remember that risk arises from the fact that an
+                               investment has many possible payoffs during the horizon for which it is held. So in
+                               looking at the risk a bondholder faces, we need to ask what the possible payoffs are
+                               and how likely each one is to occur. As we do, we will be looking at the impact of risk
+
+
+
+                                   Table 6.6             What Makes Bonds Risky?
+
+
+
+                                    1. Default risk:            The issuer may not make the promised payments on time.
+                                    2. Inflation risk:          Inflation may turn out to be higher than expected, reducing the
+                                                                real return on holding the bond.
+                                    3. Interest rate risk:      Interest rates may rise between the time a bond is purchased and the
+                                                                time it is sold, reducing the bond’s price.
+
+
+
+                               6
+                                Beyond these three primary sources of risk, the buyer of a bond faces a number of more subtle risks. For example,
+                               liquidity risk is the possibility that the investor will experience difficulty selling a bond before it matures. An investor
+                               who buys a bond denominated in a foreign currency also faces the risk of changes in the exchange rate. A bond may
+                               promise payments in euros, say, which must be converted into dollars before they can be used or reinvested.
+
+
+===== PDF 182 | 印刷页 147 =====
+
+                                                                                                                Why Bonds Are Risky l 147
+
+
+
+
+                          When Russia Defaulted
+                          APPLYING THE CONCEPT
+
+   The idea that risk matters to bond investors is not just a text-
+   book theory. On numerous occasions, investors’ concerns                        Prices of Brazilian Government Debt and U.S.
+   about increased risk in certain areas of the globe have led to                 Treasury Bonds, July 1998 to October 1998
+   a significant shift in demand for U.S. Treasury bonds. A note-
+   worthy example occurred in August 1998, when the Russian
+   government failed to make the payments on some bonds                                               Date of
+   held by foreign investors. That is, the Russian government                            $130   Russian
+   defaulted. Suddenly, no one wanted to hold Russian debt.                                     Default
+                                                                                          120
+
+
+
+
+                                                                           Prices (in U.S. Dollars)
+   More important, people lost confidence in the debt issued by
+   all emerging market countries, including Brazil, Argentina,                            110
+                                                                                                                  Brazilian
+   Turkey, and Thailand. After dumping anything that they                                 100                     Government Debt
+   thought at all risky, investors went looking for a safe place to                        90
+   put the proceeds.                                                                                              U.S. Treasury
+                                                                                           80
+       Because the safest assets around are U.S. Treasury                                                         Bonds
+   bonds, that is what they bought. The perception during                                  70
+   this episode was that the riskiness of U.S. Treasury bonds                              60
+   had fallen relative to the riskiness of virtually everything                            50
+   else. The result was an increase in the price of U.S. Treas-                             7/1      8/1          9/1       10/1
+   ury bonds and a decline in their yield. At the same time,
+   the prices of the more risky alternatives fell and their
+                                                                                                                1998
+   yields rose.
+       The data in the following figure show what happened.               One bond index is for five- to seven-year U.S. Treasury
+   After the default (at the vertical line in the figure), the price of   bonds and the other is for Brazilian government bonds.
+   U.S. Treasury bonds rose by roughly 10 percent while the               The indexes, which show the movement in the prices of
+   price of Brazilian bonds fell by more than one-third. Even             the bonds, were constructed by Lehman Brothers and
+   though it was half a world away from Russia, investors’ de-            supplied by Datastream.
+   mand for Brazilian bonds plummeted. Meanwhile, demand
+   for the safe U.S. Treasury debt went up.                               SOURCE: Data compiled from Thomson Datastream.
+
+
+
+
+on the bond’s return relative to the risk-free rate. That is, we will try to figure out how
+certain risks affect the premium investors require over the risk-free return. Once again,
+risk requires compensation.
+
+Default Risk
+There is no guarantee that a bond issuer will make the promised payments. While we
+usually ignore default risk in thinking about U.S. Treasury bonds, we cannot do so
+when discussing bonds issued by many other governments or by private corporations.
+When corporations or governments fail to meet their payments, what happens to the
+price of their bonds?
+   To figure out the answer, let’s list all the possibilities and payoffs that might occur,
+along with their probabilities. We can then calculate the expected value of the prom-
+ised payments, from which we can compute the bond’s price and yield. Suppose, for
+example, that the one-year risk-free interest rate is 5 percent. Flim.com, an Internet
+
+
+===== PDF 183 | 印刷页 148 =====
+
+148     l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+
+                           Securitization
+                           APPLYING THE CONCEPT
+
+      In 1997, musician David Bowie issued $55 million worth of               Securitization has grown sharply over the past 35 years,
+      bonds backed by royalties from 287 songs he had written             rising from only $0.3 trillion in 1980 to $8.0 trillion in 2018—
+      and recorded before 1990. The bonds had a 10-year maturity          including $7.3 trillion in home mortgages (see Table 6.7).
+      and a 7.9 percent interest rate (somewhat above the 10-year         Thus, mortgage-backed securities (MBS) account for the
+      Treasury yield of 6.5 percent at the time). “Bowie bonds”           largest share of securitized debt, by far, although many other
+      were no accident: By the late 1990s, the U.S. financial system      forms of debt have also been pooled into bonds, including
+      had evolved to the point where virtually any payment stream         student loans, auto loans, and credit card debt.
+      could be securitized.                                                   Securitization has clear benefits, but its huge scale also
+          Securitization is the process by which a financial institu-     reflects enormous government support. Initially, all securiti-
+      tion pools individual assets (such as residential mortgages)        zations were federally guaranteed, and as of 2018, the frac-
+      to back a bond that trades in the open market. Instead of           tion guaranteed still stood at 85 percent. Here again,
+      paying a fixed coupon, the bond gives the owner a claim on          mortgages stood out. In 2018—primarily because of the gov-
+      the payments from the asset pool (in the mortgage case, the         ernment-sponsored enterprises (GSEs) Fannie Mae and
+      homeowners’ mortgage payments).                                     Freddie Mac—fully 94 percent of all MBS (or nearly two-
+          Securitization uses the efficiency of markets to lower the      thirds of all U.S. residential mortgages) were guaranteed.
+      cost of borrowing. It does so in the following five ways:
+
+          1. Diversification of risk or risk spreading. Owning a se-
+             curity that provides a claim on a tiny portion of the                                     U.S. Securitizations and
+             payments from several thousand mortgages is less                   Table 6.7              Mortgages Outstanding, 1980
+             risky than owning a few mortgages in their entirety.                                      to 2018 (trillions of dollars)
+         2. Creating liquidity. Securitization makes the underlying
+            assets liquid by creating a market for them in the form                                        1980    1990    2000    2018
+            of a bond.
+                                                                               Total securitizations         0.3    1.6     5.5     8.0
+         3. Fostering specialization. Some financial institutions are
+            effective in originating (creating) the underlying assets             Fraction guaranteed      100%    85%    75%      85%
+            (such as a residential mortgage), while others are more            Total home mortgages          0.9    2.4     4.7    10.9
+            proficient at collecting these assets and issuing and
+            distributing the securities.                                        Home mortgages
+                                                                                 securitized                 0.2    1.1     2.9     7.3
+         4. Broadening markets. Instead of having to rely on a local
+            bank to hold the mortgage, a homebuyer gains access                   Fraction guaranteed      100%    96%    87%      94%
+            through securitization to investors across the globe.
+         5. Promoting innovation. Financial firms seeking to                SOURCE: Federal Reserve Board, “Financial Accounts of the United
+            lower the cost of funds to borrowers can broaden the            States,” Statistical Release Z.1.
+            range of assets that are transformed into securities.
+
+
+
+
+                               firm hoping to market its own brand of e-cash called “Flam,”7 has issued one-year,
+                               5 percent coupon bonds with a face value of $100. This represents a promise to pay
+                               $105 in one year. What is the price of this bond?
+                                  If Flim.com were risk free, and lenders were certain they would be paid back, the price
+                               of the bond would be computed as the present value of the $105 payment, calculated
+                               using the 5 percent risk-free interest rate.
+                                                                                            $100 + $5
+                                               ​Price of Flim.com bond if it is risk free = _________
+                                                                                            ​       ​ = $100​
+                                                                                               1.05
+
+                               7
+                                This example is not farfetched. In the 1990s a company called flooz.com tried to issue e-money called “flooz.”
+
+
+===== PDF 184 | 印刷页 149 =====
+
+                                                                                                    Why Bonds Are Risky l 149
+
+
+
+
+                        Bonds Indexed to Inflation
+                        YOUR FINANCIAL WORLD
+
+
+  Inflation creates risk that the nominal return you receive on a    And because the U.S. Treasury issues these bonds, there is
+  bond won’t be worth as much as you expected. If a bond             little default risk.
+  pays a 6 percent yield but the inflation rate is also 6 percent,        The U.S. Treasury sells two types of bonds that are adjusted
+  then the real return is zero! What can you do? You could ac-       for inflation, Series I savings bonds and Treasury Inflation-­
+  cept the inflation risk, buy a regular bond, and hope for the      Protected Securities (TIPS). Series I savings bonds have a long
+  best. But that’s not always appealing.                             list of rules about how many can be purchased and how long
+      Fortunately, there are alternatives. One is to buy a type of   they need to be held. You can learn about these bonds on the
+  U.S. Treasury bond that compensates you for inflation. This        website of TreasuryDirect at www.treasurydirect.gov. You
+  inflation-­indexed bond is structured so that the government       can buy and sell TIPS in financial markets, or you can buy them
+  promises to pay you a fixed interest rate plus the change in       ­directly from the U.S. Treasury through TreasuryDirect.
+  the consumer price index (the CPI). For instance, if you buy a          TIPS, which have been issued regularly since 2003, usu-
+  $1,000 bond with an interest rate of 3 percent plus inflation,      ally guarantee investors a way to beat inflation. ­Beginning in
+  and the CPI rises 2 percent, you will get 3 + 2 =                   late 2011, however, anxieties about future inflation boosted
+  5 percent. If the inflation rate jumps to 5 percent, then you’ll    the price of 10-year TIPS so high that the yield fell below the
+  get 3 + 5 = 8 percent. Regardless of what inflation turns out       annual inflation rate. As of August 2019, the yield was less
+  to be, you get 3 percent more, so there is no inflation risk.       than 25 basis points, well below its long-term average.
+
+
+
+
+But unlike the U.S. Treasury, Flim.com may not make the payments. People might be
+unwilling to use Flam, so Flim.com could default. Suppose there is a 0.10 probability
+(1 chance in 10) that Flim.com will go bankrupt before paying bondholders their $105.
+To simplify the example, we will assume that in the case of default, the bondholders get
+nothing. This means that there are two possible payoffs, $105 and $0 (see Table 6.8).
+   Table 6.8 shows that the expected value of the payment on this bond is $94.50. But
+even if the payment is made, it will be made one year from now, which means that the
+price we would be willing to pay for the bond today must be the present value of the
+future payment. Using the risk-free interest rate for this computation, we find that
+                                                                   $94.50
+          ​Expected present value of Flim.com bond payment = ______
+                                                                ​        ​ = $90​
+                                                                    1.05
+So the bond will sell for $90. What yield to maturity does this price imply? If the
+promised payment is $105, the promised yield to maturity is
+                                                         $105
+                   ​Promised yield on Flim.com bond = _____
+                                                      ​        ​ − 1 = 0.1667​
+                                                          $90
+
+
+  Table 6.8          Expected Value of Flim.com Bond Payment
+
+
+   Possibilities                Payoff                Probability             Payoff × Probabilities
+
+   Full payment                  $105                    0.90                          $94.50
+
+   Default                       $ 0                     0.1 0                        $ 0
+
+                       Expected value = Sum of payoffs × Probabilities = $94.50
+
+
+===== PDF 185 | 印刷页 150 =====
+
+150   l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+
+                       Bond Market Liquidity: Should We Be Worried?
+                       MONEY AND BANKING BLOG
+
+
+  In recent years, some experts have expressed concern that            the benefit to the issuer of making its bonds more liquid
+  changes in regulations since the Great Financial Crisis              may fall short of the costs of doing so.
+  have diminished the functionality of U.S. bond markets.                  Arguably, the chief concern about corporate bond li-
+      The loudest complaints are about market liquidity. Partic-       quidity is its variation around the low norm: It declines
+  ipants say that it has become increasingly difficult to execute      even further at times of heightened financial volatility.
+  large trades without affecting prices. The claim is that the         This pattern is a reminder that market liquidity tends to
+  heightened cost of complying with regulations has driven             disappear in times of stress.
+  banks out of the business of market making in bonds. As a                Concerns about a loss of liquidity in U.S. Treasury debt
+  result, not enough intermediaries are holding the inventories        markets have greater merit. Turnover in Treasury debt fell
+  required to readily and continuously buy and sell bonds.             from 13.3 percent of $4.25 trillion outstanding in 2005 to 3.6
+      We can separate the claims about bond market liquidity           percent of $15.3 trillion in 2018. While other common meas-
+  into those about U.S. corporate bonds and those regarding            ures of liquidity show only limited deterioration on average,
+  Treasury bonds.                                                      worries surged following the “Treasury flash rally” that oc-
+      Corporate bonds were highly illiquid before the crisis           curred on the morning of October 15, 2014, between 9:33
+  as well as after it. To be sure, their turnover—average daily        and 9:45 eastern U.S. time. Within those 12 minutes, the
+  trading as a share of the dollar quantity outstanding—has            yield on the 10-year Treasury issue first spiked downward by
+  slipped, from 0.37 percent in 2005 to 0.35 percent in 2018.          16 basis points for no apparent reason and then recovered.
+  But corporate bond turnover has always been extremely                    After the event, government authorities issued a com-
+  low—a small fraction of that in Treasury debt (3½ percent            prehensive report focusing on the rapid technological
+  in 2018) and mortgage-backed securities (2 percent).                 changes in the Treasury market as a possible source of
+      Corporate bonds consist of a large number of small is-           the problem. The bulk of trading in Treasury securities
+  sues, which is one reason that they are so rarely traded—it          today is done by institutions called principal ­trading firms
+  is very costly to do so. Table 6.9 illustrates the point for a       (PTFs) that use proprietary automated trading strategies,
+  set of U.S. investment-grade corporate bond issuers. For             or “bots.” PTFs are distinct from hedge funds and bank
+  example, JPMorgan has a total of 1,685 separate bond is-             dealers. And unlike traditional market makers, they often
+  sues, of which only 58 are included in the index. Yet, those         place buy and sell orders that they cancel within fractions
+  58 issues account for 65 percent of JPMorgan’s outstand-             of a second, making them high-frequency traders.
+  ing corporate bond debt.                                                 Does it matter that the market has shifted from being
+      If issuing a small number of bonds in large volume               largely populated by brokers to one inhabited by bots? It
+  would enhance their liquidity, why would a firm choose to            may. Bots are driven by the very short-run objectives in
+  issue so many different bonds of small size? One possibil-           their algorithms. They are typically programmed to pull
+  ity is that doing so allows a single investor, like a pension        back during times of stress, rather than assist customers who
+  fund or insurance company, to purchase the entire issue              wish to trade. And they trade so rapidly that their interac-
+  with the intention of holding it until maturity. If so, then         tions dominate market developments over short intervals.
+
+
+
+                           Converting the decimal to a percentage, we get an interest rate of 16.67 percent.8
+                           Because the default-risk premium is the promised yield to maturity minus the risk-free
+                           rate, it is 16.67 percent − 5 percent = 11.67 percent.
+                               In calculating the default-risk premium on Flim.com’s bond, we computed the
+                           ­expected value of holding the bond—the yield at which the bond is a fair bet. But
+                            we know that risk-averse investors require some compensation for bearing risk. The more
+                            risk, the greater the compensation they demand. Only a risk-neutral investor would be
+
+
+                           8
+                            This set of calculations could have been done in reverse. Given the yield of 16.67 percent and the characteristics
+                           of the bond, it is straightforward to compute the probability of default as 10 percent.
+
+
+===== PDF 186 | 印刷页 151 =====
+
+                                                                                                                 Why Bonds Are Risky l      151
+
+
+
+
+             Table 6.9            Top U.S. Investment-Grade Bond Issuers
+
+
+                                           Number of Bond Issues in             Share of Dollar Amount         Total Number of Bond
+              Issuer                      Barclays U.S. Corporate Index            Outstanding (%)*             Issues Outstanding
+
+              JPMorgan Chase & Co                        58                                65                            1,685
+              Bank of America                            51                                68                             830
+              Goldman Sachs                              41                                62                            2,560
+              Wells Fargo                                42                                67                             489
+              Citigroup                                  53                                58                            2,061
+              AT&T                                       48                                59                             213
+              Morgan Stanley                             33                                61                            1,171
+              Comcast                                    55                                77                              99
+              Verizon                                    35                                83                             199
+              Apple                                      39                                82                              76
+
+
+
+          NOTE: Table shows issuers with the largest notional amount outstanding in the Barclays U.S. Corporate Index.
+          *Share of dollar-denominated bonds that are eligible for inclusion in bond indexes.
+          SOURCE: U
+                   pdate as of December 12, 2018 of Exhibit 4 in BlackRock Viewpoint, “Addressing Market Liquidity,” July 10, 2015.
+
+
+
+     What we don’t know is whether a temporary loss of                          Put differently, the resilience of intermediaries and the
+  market making poses greater risk to the financial sys-                    resilience of markets are mutually reinforcing. With more
+  tem. So long as the disturbances are brief and do not                     resilient institutions, someone is more likely to stand ready
+  infect other markets, trading is a zero-sum game that                     to make a market in bonds—both Treasury and corpo-
+  matters solely to the participants. And so long as the in-                rate—so long as the rewards are adequate. So it is natural
+  termediaries remain healthy, it’s hard to see why a sud-                  for policymakers to focus on making intermediaries strong
+  den loss of liquidity in a single market would not remain                 and able to withstand unpleasant market surprises. That
+  temporary and contained.                                                  helps market liquidity, too.
+
+
+
+
+willing to pay $90 for this bond. Any risk premium will drive the price down below
+$90 and push the yield to maturity above 16.67 percent.
+   This example shows that the higher the default risk, the higher the probability that
+the bondholders will not receive the promised payments. Risk reduces the expected
+value of a given promise, lowering the price an investor is willing to pay and raising
+the yield. The higher the default risk, the higher the yield.
+
+Inflation Risk
+With few exceptions, bonds promise to make fixed-dollar payments. That is, a $100
+face value, one-year bond at 5 percent is a promise to make a $105 payment in one
+
+
+===== PDF 187 | 印刷页 152 =====
+
+152   l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+
+                           Table 6.10        Inflation Risk
+
+
+
+                                                                               Probabilities
+
+                            Inflation Rate                      Case I            Case II               Case III
+
+                            1 percent                            0.50              0.25                   0.10
+                            2 percent                             —                0.50                   0.80
+                            3 percent                            0.50              0.25                   0.10
+                            Expected inflation                2 percent          2 percent             2 percent
+                            Standard deviation                1.0 percent      0.71 percent           0.45 percent
+
+
+
+
+                        year. If this promise is free of default risk, the bondholder can be sure of receiving the
+                        $105 payment. Still, there is a risk of inflation. Remember that what you care about is
+                        the purchasing power of the money, not the number of dollars. In other words,
+                        bondholders are interested in the real interest rate, not just the nominal interest rate.
+                        And they don’t know what the inflation rate will be.
+                           Let’s look at an example that shows how inflation risk affects the interest rate. To
+                        begin with, think about the interest rate as having three components: the real interest
+                        rate, expected inflation, and a compensation for inflation risk. Suppose the real inter-
+                        est rate is 3 percent but we are unsure what the inflation rate will be. It could be either
+                        1 percent or 3 percent with equal probability (see Case I in Table 6.10). Expected
+                        inflation is 2 percent, with a standard deviation of 1.0 percent. This means the nominal
+                        interest rate should equal the 3 percent real interest rate plus the 2 percent expected
+                        inflation plus the compensation for inflation risk. The greater the inflation risk, the
+                        larger the compensation for it will be.
+                           In Cases II and III, expected inflation is the same (2 percent) but the standard devia-
+                        tion is lower because we are more certain that the inflation rate will be close to its
+                        expected value. That is, Case III is less risky than Case II, which is less risky than Case I.
+                        Because risk requires compensation, we would expect the interest rate to be highest in
+                        Case I and lowest in Case III. While we may not see this distinction much in the United
+                        States or Europe, where inflation is stable, emerging market countries can go through
+                        periods when increases in inflation risk substantially drive up nominal interest rates.
+
+                        Interest Rate Risk
+                        To explain interest rate risk, we’ll focus on a U.S. Treasury bond and assume that it
+                        is free of default risk and that we know how much inflation there will be, so there
+                        also is no inflation risk. Interest rate risk arises from the fact that investors don’t
+                        know the holding period return of a long-term bond. Remember that when interest
+                        rates change, bond prices move; the longer the term of the bond, the larger the price
+                        change for a given change in the interest rate. Now think about what happens if you
+                        have a short investment horizon. If you buy a long-term bond, you will need to sell
+                        the bond before it matures, so you have to worry about what will happen if the inter-
+                        est rate changes.
+                           Whenever there is a mismatch between your investment horizon and a bond’s
+                        ­maturity, there is interest rate risk. Because the prices of long-term bonds can change
+
+
+===== PDF 188 | 印刷页 153 =====
+
+                                                                                   Using FRED: Codes for Data in This Chapter l 153
+
+
+
+dramatically, this can be an important source of risk. For example, on March 18, 2019,
+the 8.75 percent coupon Treasury bond that matures on August 15, 2020, traded at a
+price of $108.58 (per $100 face value). When it was originally issued as a 30-year
+bond in August 1990, its price was $98.747.9 An investor who bought the bond when
+it was originally issued and sold it nearly 29 years later on March 18, 2019, earned a
+capital gain of nearly 10 percent. By comparison, an investor who purchased the 2.75
+percent coupon 30‑year Treasury bond when it was issued on November 15, 2012, at
+$100.69 and sold it less than 7 years later at its market price of $95.91 on March 18,
+2019, suffered a capital loss of nearly 5 percent.
+    The lesson is that any move in interest rates changes the price of a bond. For
+­investors with holding periods shorter than the maturity of the bond, the potential for a
+ change in interest rates creates risk. The more likely interest rates are to change during
+ the bondholder’s investment horizon, the larger the risk of holding a bond.
+
+The U.S. Treasury auctions its bonds, so the original selling price is not the exact par value of the bond.
+9
+
+
+
+
+Key Terms
+capital gain, 134                       inflation-indexed                         U.S. Treasury bill
+capital loss, 134                          bond, 149                                 (T-bill), 130
+consol or perpetuity, 132               inflation risk, 146                       yield to maturity, 133
+current yield, 134                      interest rate risk, 146                   zero-coupon bond, 130
+default risk, 146                       investment horizon, 137
+holding period return, 136
+
+
+
+Using FRED: Codes for Data in This Chapter
+
+
+
+
+                                                                                                                                      www.moneyandbanking.com
+    Data Series                                                            FRED Data Code
+    3-month Treasury bill rate                                             TB3MS
+    1-year Treasury bill rate                                              TB1YR
+    2-year Treasury constant maturity rate                                 GS2
+    10-year Treasury constant maturity rate                                GS10
+    30-year Treasury constant maturity rate                                GS30
+    5-year Treasury inflation-indexed yield                                FII5
+    10-year Treasury inflation-indexed yield                               FII10
+    30-year Treasury inflation-indexed yield                               FII30
+    Consumer price index                                                   CPIAUCSL
+    1-year inflation expectations (Michigan survey)                        MICH
+    Japan Treasury bill rate                                               INTGSTJPM193N
+    Brazil Treasury bill rate                                              INTGSTBRM193N
+    U.S. Consumer Price Index (less food and energy)                       CPILFESL
+
+
+===== PDF 189 | 印刷页 154 =====
+
+                          154    l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+                                                              Chapter Lessons
+                                                              1. Valuing bonds is an application of present value.
+                           To learn more about the
+                           changing financial system, visit      a. Pure discount or zero-coupon bonds promise to make a single payment on
+                           www.moneyandbanking.com.                 a predetermined future date.
+                                                                 b. Fixed-payment loans promise to make a fixed number of equal payments at
+                                                                    ­regular intervals.
+                                                                 c. Coupon bonds promise to make periodic interest payments and repay the
+                                                                     ­principal at maturity.
+                                                                 d. Consols (perpetuities) promise to make periodic coupon payments forever.
+                                                              2. Yields are measures of the return on holding a bond.
+                                                                 a. The yield to maturity is a measure of the interest rate on a bond. To compute it,
+                                                                    set the price of the bond equal to the present value of the payments.
+                                                                 b. The current yield on a bond is equal to the coupon rate divided by the price.
+                                                                 c. When the price of a bond is above its face value, the coupon rate is greater than
+                                                                    the current yield, which is higher than the yield to maturity.
+                                                                 d. One-year holding period returns are equal to the sum of the current yield and any
+                                                                    capital gain or loss arising from a change in a bond’s price.
+                                                              3. Bond prices (and bond yields) are determined by supply and demand in the bond market.
+www.moneyandbanking.com
+
+
+
+
+                                                                 a. The higher the price, the larger the quantity of bonds supplied.
+                                                                 b. The higher the price, the smaller the quantity of bonds demanded.
+                                                                 c. The supply of bonds rises when:
+                                                                      i. Governments need to borrow more.
+                                                                     ii. General business conditions improve.
+                                                                    iii. Expected inflation rises.
+                                                                 d. The demand for bonds rises when:
+                                                                      i. Wealth increases.
+                                                                     ii. Expected inflation falls.
+                                                                    iii. The expected return, relative to other investments, rises.
+                                                                    iv. The expected future interest rate falls.
+                                                                     v. Bonds become less risky relative to other investments.
+                                                                    vi. Bonds become more liquid relative to other investments.
+                                                              4. Bonds are risky because of:
+                                                                 a. Default risk: the risk that the issuer may fail to pay.
+                                                                 b. Inflation risk: the risk that the inflation rate may be more or less than expected,
+                                                                    affecting the real value of the promised nominal payments.
+                                                                 c. Interest rate risk: the risk that the interest rate may change, causing the bond’s
+                                                                    price to change.
+
+
+                                                              Conceptual and Analytical Problems                                                       ®
+
+
+
+
+                                                                1.	Consider a U.S. Treasury bill with 270 days to maturity. If the annual yield is
+                                                                    3.8 percent, what is the price? (LO1)
+                                                                2.* You are an officer of a commercial bank and wish to sell one of the bank’s ­assets—a
+                                                                    car loan—to another bank. Using equation (A5) in the appendix to Chapter 4,
+
+                                                              *Indicates more difficult problems.
+
+
+===== PDF 190 | 印刷页 155 =====
+
+                                                                          Conceptual and Analytical Problems l   155
+
+
+
+       compute the price you expect to receive for the loan if the annual interest rate is
+       6 percent, the car payment is $430 per month, and the loan term is five years. (LO1)
+  3.* Your financial advisor recommends buying a 10-year bond with a face value of
+      $1,000 and an annual coupon of $80. The current interest rate is 7 percent.
+      What might you expect to pay for the bond (aside from brokerage fees)? (LO1)
+  4.* Consider a coupon bond with a $1,000 face value and a coupon payment equal to
+      5 percent of the face value per year. (LO1)
+      a. If there is one year to maturity, find the yield to maturity if the price of the
+         bond is $990.
+      b. Explain why finding the yield to maturity is difficult if there are two years to
+         maturity and you do not have a financial calculator.
+  5.	Which of these $100 face value one-year bonds will have the highest yield to
+      maturity and why? (LO2)
+      a. A 6 percent coupon bond selling for $85.
+      b. A 7 percent coupon bond selling for $100.
+      c. An 8 percent coupon bond selling for $115.
+  6.	You are considering purchasing a consol that promises annual payments of $4.
+      (LO2)
+
+
+
+
+                                                                                                                       www.moneyandbanking.com
+      a. If the current interest rate is 5 percent, what is the price of the consol?
+      b. You are concerned that the interest rate may rise to 6 percent. Compute the
+         percentage change in the price of the consol and the percentage change in the
+         interest rate. Compare them.
+      c. Your investment horizon is one year. You purchase the consol when the inter-
+         est rate is 5 percent and sell it a year later, following a rise in the interest rate
+         to 6 percent. What is your holding period return?
+  7.*	Suppose you purchase a three-year, 5 percent coupon bond at par and hold it for
+       two years. During that time, the interest rate falls to 4 percent. Calculate your
+       annual holding period return. (LO2)
+  8.	In a recent issue of The Wall Street Journal (or on www.wsj.com or an equiva-
+      lent financial website), locate the prices and yields on U.S. Treasury issues. For
+      one bond selling above par and one selling below par (assuming they both exist),
+      compute the current yield and compare it to the coupon rate and the ask yield
+      listed. (LO2)
+  9.	In a recent issue of The Wall Street Journal (or on www.wsj.com), locate the
+      yields on government bonds for various countries. Find a country whose 10-year
+      ­government bond yield was above that on the U.S. 10-year Treasury bond and
+       one whose 10-year yield was below the Treasury yield. What might account for
+       these differences in yields? (LO4)
+10.	A 10-year zero-coupon bond has a yield of 6 percent. Through a series
+     of ­u nfortunate circumstances, expected inflation rises from 2 percent to
+     3 percent. (LO4)
+     a. Assuming the nominal yield rises by an amount equal to the rise in expected
+        inflation, compute the change in the price of the bond.
+     b. Suppose that expected inflation is still 2 percent, but the probability that it will
+        move to 3 percent has risen. Describe the consequences for the price of the bond.
+
+*Indicates more difficult problems.
+
+
+===== PDF 191 | 印刷页 156 =====
+
+                          156   l Chapter 6  Bonds, Bond Prices, and the Determination of Interest Rates
+
+
+
+                                                   11.	You are sitting at the dinner table and your father is extolling the benefits of
+                                                        investing in bonds. He insists that as a conservative investor he will only make
+                                                        investments that are safe, and what could be safer than a bond, especially a U.S.
+                                                        Treasury bond? What accounts for his view of bonds? Explain why you think it
+                                                        is right or wrong. (LO4)
+                                                  12.*	Consider a one-year, 10 percent coupon bond with a face value of $1,000 issued
+                                                        by a private corporation. The one-year risk-free rate is 10 percent. The corpora-
+                                                        tion has hit on hard times, and the consensus is that there is a 20 percent proba-
+                                                        bility that it will default on its bonds. If an investor were willing to pay at most
+                                                        $775 for the bond, is that investor risk neutral or risk averse? (LO4)
+                                                   13.	If, after one year, the yield to maturity on a multiyear coupon bond that was
+                                                        issued at par is higher than the coupon rate, what happened to the price of the
+                                                        bond during that first year? (LO2)
+                                                   14.	Use your knowledge of bond pricing to explain under what circumstances you
+                                                        would be willing to pay the same price for a consol that pays $5 a year forever
+                                                        and a 5 percent, 10-year coupon bond with a face value of $100 that only makes
+                                                        annual coupon payments for 10 years. (LO1)
+                                                   15.*	You are about to purchase your first home and receive an advertisement regard-
+                                                         ing adjustable-rate mortgages (ARMs). The interest rate on the ARM is lower
+www.moneyandbanking.com
+
+
+
+
+                                                         than that on a fixed-rate mortgage. The advertisement mentions that there would
+                                                         be a payment cap on your monthly payments and you would have the option to
+                                                         convert to a fixed-rate mortgage. You are tempted. Interest rates are currently
+                                                         low by historical standards and you are eager to buy a house and stay in it for
+                                                         the long term. Why might an ARM not be the right mortgage for you? (LO4)
+                                                   16.	Use the model of supply and demand for bonds to illustrate and explain the
+                                                        impact of each of the following on the equilibrium quantity of bonds outstanding
+                                                        and on equilibrium bond prices and yields: (LO3)
+                                                        a. A new website is launched facilitating the trading of corporate bonds with
+                                                           much more ease than before.
+                                                        b. Inflationary expectations in the economy fall, evoking a much stronger
+                                                           response from issuers of bonds than investors in bonds.
+                                                        c. The government removes tax incentives for investment and spends additional
+                                                           funds on a new education program. Overall, the changes have no effect on the
+                                                           government’s financing requirements.
+                                                        d. All leading indicators point to stronger economic growth in the near future.
+                                                           The response of bond issuers dominates that of bond purchasers.
+                                                   17.	Suppose that a sustainable peace is reached around the world, reducing military
+                                                        spending by the U.S. government. How would you expect this development to
+                                                        affect the U.S. bond market? (LO3)
+                                                   18.	Use the model of supply and demand for bonds to determine the impact on bond
+                                                        prices and yields of expectations that the real estate market is going to weaken. (LO3)
+                                                   19.*	Suppose there is an increase in investors’ willingness to hold bonds at a given
+                                                         price. Use the model of the demand for and supply of bonds to show that the
+                                                         impact on the equilibrium bond price depends on how sensitive the quantity sup-
+                                                         plied of bonds is to the bond price. (LO3)
+                                                   20.	Under what circumstances would the purchase of a Treasury Inflation-Protected
+                                                        ­Security (TIPS) from the U.S. government be virtually risk free? (LO4)
+                                                  *Indicates more difficult problems.
+
+
+===== PDF 192 | 印刷页 157 =====
+
+                                                                                       Data Exploration   l 157
+
+
+
+21.	In the wake of the financial crisis of 2007–2009, negative connotations often
+     surrounded the term mortgage-backed security. What arguments could you make
+     to convince someone that she may have benefited from the growth in securitiza-
+     tion over the past 50 years? (LO3)
+22.	During the euro-area sovereign debt crisis, the spread between the yields on
+     bonds issued by the governments of peripheral European countries (such as
+     Greece, Ireland, Italy, Portugal, and Spain) and those on bonds issued by Ger-
+     many widened considerably. Use the model of supply and demand for bonds to
+     illustrate how this could be explained by a change in investors’ perceptions of the
+     relative riskiness of peripheral sovereign versus German bonds. (LO3, LO4)
+23.	Not long after the United Kingdom’s vote to leave the European Union in 2016,
+     the yields on some British Government bonds (called gilts) turned negative.
+     Assuming that these bonds were issued with a positive coupon rate, would you
+     expect their market prices to be above, below, or equal to their face value when
+     the yields were negative? Explain your choice. (LO2)
+
+
+
+Data Exploration                                    ®
+
+
+
+
+                                                                                                                  www.moneyandbanking.com
+For detailed instructions on using Federal Reserve Economic Data (FRED) online to
+answer each of the following problems, visit www.mhhe.com/moneyandbanking6e
+and refer to the FRED Resources and Data Exploration Hints.
+ 1. Graph investors’ long-term expected inflation rate since 2003 by subtracting
+    from the 10-year U.S. Treasury bond yield (FRED code: GS10) the yield on
+    10-year Treasury Inflation-Protected Securities (FRED code: FII10). Do these
+    market-based inflation expectations appear stable? Did the financial crisis of
+    2007–2009 affect these expectations? (LO4)
+ 2. Compare long-run market expectations of inflation with a consumer survey
+    measure of one-year-ahead inflation expectations. Starting with the graph from
+    Data Exploration Problem 1, add as a second line the University of Michigan
+    survey measure of inflation expectations (FRED code: MICH). Why might these
+    measures differ systematically? (LO4)
+ 3. How does the variability of annual inflation—an indicator of inflation risk—
+    change over time? Graph the percent change from a year ago of the consumer
+    price index (FRED code: CPIAUCSL) since 1990 and visually compare the
+    ­decades of the 1990s, the 2000s, and the period that began in 2010. (LO4)
+ 4. Download the data from the graph that you produced in Data Exploration Prob-
+    lem 3. Calculate the standard deviation of the annual inflation rate for the three
+    time periods and compare these results against your visual assessment from Data
+    Exploration Problem 3. (LO4)
+ 5. Economists sometimes exclude food and energy prices from the “headline” con-
+    sumer price index and use the resulting “core” price measure to assess inflation
+    prospects. For the period since 1990, plot on one graph the percent change from
+    a year ago of the consumer price index (FRED code: CPIAUCSL) and the per-
+    cent change from a year ago of the consumer price index excluding food and
+    energy (FRED code: CPILFESL). Visually compare the variability of these two
+    measures of inflation. Why might inflation excluding food and energy be a better
+    predictor of future inflation than headline inflation? (LO4)

@@ -1,0 +1,78 @@
+{
+  "article_id": 3764497,
+  "selection": {
+    "article_id": 3764497,
+    "url": "https://wallstreetcn.com/articles/3764497",
+    "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
+    "page_display_time": "2026-01-29T20:33:47+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "卜淑情",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004518",
+    "page_source_label": "晚点LatePost",
+    "page_source_url": null,
+    "page_attribution_note": "本文来源：晚点LatePost，原文标题《字节、阿里、腾讯 AI 大战全记录：一场影响命运的战争》",
+    "category": "AI投资与商业化",
+    "reading_priority": "A",
+    "reading_value": "长篇产业报道覆盖模型能力、入口竞争、组织协作和人才投入，补足财务数字背后的约束。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 15344,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 154
+  },
+  "url": "https://wallstreetcn.com/articles/3764497",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3764497?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:53+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "报道：阿里加码AI与云计算，未来三年投资或从3800亿上调至4800亿元",
+  "page_display_time": "2026-01-29T20:33:47+08:00",
+  "page_byline": "卜淑情",
+  "source_label": "晚点LatePost",
+  "source_url": "",
+  "subtitle": "据报道，一位知情人士透露，阿里正考虑将未来三年投入到AI基建与云计算上的3800亿元提升至4800亿。在国内，阿里有自研的芯片真武810E；在海外，它也在“用一辆辆卡车来运采购的GPU。”一位知情人士说。最激进的时候，“连RTX4090这类消费级显卡也大量买入，用来搭建推理集群、补充推理吞吐。”\n",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 15281,
+  "body_sha256": "d5b5e64fd7ef1cc982a840023ab99aa087b7a1bbdf55305aa2cf8b2bbaf89580",
+  "raw_sha256": "a60d3165475d5800f0e4137f6f4fefbc17cd41c5b02e39c15aefdcc9ff5639e4",
+  "raw_bytes": 51152,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/7880e735-30f7-4ee5-820b-1b4fa95593a6.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 15344,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "晚点LatePost",
+      "url": "https://mp.weixin.qq.com/s/ZRC7lwXgt16gcLTZquNGoA"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:43+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "a60d3165475d5800f0e4137f6f4fefbc17cd41c5b02e39c15aefdcc9ff5639e4",
+      "bytes": 51152
+    },
+    "article.html": {
+      "sha256": "79425d4b7a8910a80b0c14292970afacc68e09fd690ef45e244fb40c4903bc66",
+      "bytes": 50253
+    },
+    "article.md": {
+      "sha256": "0a14f4a70f3abfdcdb318188616d6982d3217b6098cc6f289ad84181999b400d",
+      "bytes": 44442
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:39+08:00"
+}

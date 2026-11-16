@@ -1,0 +1,102 @@
+{
+  "article_id": 3775792,
+  "selection": {
+    "article_id": 3775792,
+    "url": "https://wallstreetcn.com/articles/3775792",
+    "title": "市场热议“隔夜逆回购首秀”：3000亿却未披露价格，央行什么想法？",
+    "page_display_time": "2026-06-30T08:06:49+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "中国宏观与政策",
+    "reading_priority": "A",
+    "reading_value": "解释隔夜逆回购的流动性功能及量价沟通，保留对政策信号的不同解读。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2354,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 70
+  },
+  "url": "https://wallstreetcn.com/articles/3775792",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3775792?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:29+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/a2acc414-bb66-41e8-823e-5b537ac078fa.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "多位市场人士认为，央行此举并非信息缺失，而是有意为之—— 在工具推出初期刻意保持价格信号模糊，以防止政策意图被过度解读，避免宽松预期以过快方式在市场集中释放。 天风证券进一步推测， 隔夜逆回购实际定价或低至1.25%，远超市场预期下限， 这一判断来自公告后利率期货和广谱利率的快速上涨，以及早盘隔夜利率一度下探至1.35%以下的市场信号。",
+      "path": "assets/figure_001.png",
+      "sha256": "c34604cdd0773c17270f3b80ce7d5a3d6d59cb96b6ce01edbfcf0b975de0ad9a",
+      "bytes": 77649,
+      "width": 1024,
+      "height": 588,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/a2acc414-bb66-41e8-823e-5b537ac078fa.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "市场热议“隔夜逆回购首秀”：3000亿却未披露价格，央行什么想法？",
+  "page_display_time": "2026-06-30T08:06:49+08:00",
+  "page_byline": "董静",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "\"给量不给价\"打破市场预期，天风证券推测实际定价或低至1.25%，低于市场预期下限，6月30日的第二次操作将是重要观察窗口。市场人士认为，央行此举意图有二：一是精准平抑季末流动性，避免跨季资金淤积；二是刻意模糊价格信号以管理预期，防止被过度解读为降息，避免宽松预期过快释放扰动市场。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2426,
+  "body_sha256": "75a876c987a8d9215d55de82613d75a7a1e2a6dd9b10fdc8d585432e40b0ad3e",
+  "raw_sha256": "902d47327be42b52d22b00099fbfb5c28d914f226f53c304cc87b730fb634443",
+  "raw_bytes": 13055,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/c2ec98d9-db00-4816-bafb-198be4e61630.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 2354,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "21世纪经济报道",
+      "url": "https://www.21jingji.com/article/20260629/herald/3bc87ef3b4314832ed2d91d16358627f.html"
+    },
+    {
+      "text": "21世纪经济报道",
+      "url": "https://www.21jingji.com/article/20260629/herald/3bc87ef3b4314832ed2d91d16358627f.html"
+    },
+    {
+      "text": "21世纪经济报道",
+      "url": "https://www.21jingji.com/article/20260629/herald/3bc87ef3b4314832ed2d91d16358627f.html"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:34+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "902d47327be42b52d22b00099fbfb5c28d914f226f53c304cc87b730fb634443",
+      "bytes": 13055
+    },
+    "article.html": {
+      "sha256": "5e31e37a37b734c00788e15eeac86f5eff0bf8d4d9912004173ba78cb1a15262",
+      "bytes": 12398
+    },
+    "article.md": {
+      "sha256": "ddadee2f80f69d52a4af38bf940a770a26e020721bb91889de64a84057202255",
+      "bytes": 8162
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:20+08:00"
+}

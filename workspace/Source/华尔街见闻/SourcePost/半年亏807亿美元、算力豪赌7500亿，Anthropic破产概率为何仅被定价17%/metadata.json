@@ -1,0 +1,102 @@
+{
+  "article_id": 3784200,
+  "selection": {
+    "article_id": 3784200,
+    "url": "https://wallstreetcn.com/articles/3784200",
+    "title": "半年亏807亿美元、算力豪赌7500亿，Anthropic破产概率为何仅被定价17%",
+    "page_display_time": "2026-10-22T15:24:26+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "信用与融资结构",
+    "reading_priority": "A",
+    "reading_value": "区分非现金会计亏损、经营消耗和不可撤销采购承诺，并说明预测市场破产事件的期限。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2426,
+    "page_image_count": 1,
+    "original_underlying_research_verified": false,
+    "catalog_number": 46
+  },
+  "url": "https://wallstreetcn.com/articles/3784200",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3784200?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:21+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/c011f7c7-9638-4ae2-b223-9415ff95c9ec.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "华尔街见闻文章此前写道 ，据《华尔街日报》援引Anthropic最新版S-1招股草案报道，807亿美元净亏损中约720亿美元为非现金会计调整项，实际运营亏损约87亿美元，但这一数字已超过2025年全年逾80亿美元的运营亏损总额。与此同时，公司2026年上半年营收达163亿美元，第三季度营收环比增长45%至168亿美元，显示出一定的商业化势头。",
+      "path": "assets/figure_001.png",
+      "sha256": "55a6c9e066bc15bdf24b397bcd98c041fc2a672e8b7f17b4fff3f3dcfafbb9c0",
+      "bytes": 325511,
+      "width": 1000,
+      "height": 1400,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/c011f7c7-9638-4ae2-b223-9415ff95c9ec.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "半年亏807亿美元、算力豪赌7500亿，Anthropic破产概率为何仅被定价17%",
+  "page_display_time": "2026-10-22T15:24:26+08:00",
+  "page_byline": "董静",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "支撑低破产概率的论据包括：营收增速仍处于高位；谷歌、亚马逊等战略投资者具有强烈的动机维持公司运营；IPO本身将提供新的资本补充渠道；以及807亿美元净亏损中的绝大部分为非现金项目，不构成即期现金压力。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2497,
+  "body_sha256": "3ab54d4f7c2525e9f59b6f9cd42f8255b1a8efb03dcce42afd69d03eb92bd2fc",
+  "raw_sha256": "3d5c5be9e0d08d4921028e796f33f7d88b707b64e4db217c1020ccff7ba0cb5b",
+  "raw_bytes": 12033,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/b566d82e-5f84-4815-b1de-9ba7e0485fa5.mp3",
+  "image_occurrences": 1,
+  "html_table_count": 0,
+  "catalog_image_count": 1,
+  "catalog_text_characters": 2426,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "华尔街见闻文章此前写道",
+      "url": "https://wallstreetcn.com/articles/3784062"
+    },
+    {
+      "text": "华尔街见闻文章",
+      "url": "https://wallstreetcn.com/articles/3784062"
+    },
+    {
+      "text": "华尔街见闻文章",
+      "url": "https://wallstreetcn.com/articles/3784062"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:33+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "3d5c5be9e0d08d4921028e796f33f7d88b707b64e4db217c1020ccff7ba0cb5b",
+      "bytes": 12033
+    },
+    "article.html": {
+      "sha256": "37dceb120315ca3c21ce46b9dc72456136a91324c06a2c445eea8818b92529c9",
+      "bytes": 11637
+    },
+    "article.md": {
+      "sha256": "576596f0d5a0c0ff96fed829e61168d54c6a8e1ecdacd3986ca9cd1d236fd1e5",
+      "bytes": 7620
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:15+08:00"
+}

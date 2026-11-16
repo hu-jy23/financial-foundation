@@ -1,0 +1,35 @@
+{
+  "id": "D1",
+  "title": "纽约联储调查：方法文章＋历史一期＋现行档案",
+  "directory": "D1_纽约联储调查与历史预期",
+  "original_language": "en",
+  "source_urls": [
+    "https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci19-6.pdf",
+    "https://www.newyorkfed.org/medialibrary/media/markets/survey/2022/jun-2022-spd-results.pdf",
+    "https://www.newyorkfed.org/markets/market-intelligence/survey-of-market-expectations"
+  ],
+  "files": [
+    {
+      "file": "一级交易商调查_2022年6月.pdf",
+      "source_url": "https://www.newyorkfed.org/medialibrary/media/markets/survey/2022/jun-2022-spd-results.pdf",
+      "resolved_url": "https://www.newyorkfed.org/medialibrary/media/markets/survey/2022/jun-2022-spd-results.pdf",
+      "scope": "历史调查结果",
+      "bytes": 399956,
+      "sha256": "036fc0b36d49579976853c79bf7e4a50e3838b43085506f7fd8ea684095ed99b",
+      "pages": 11
+    },
+    {
+      "file": "一级交易商调查_方法说明.pdf",
+      "source_url": "https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci19-6.pdf",
+      "resolved_url": "https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci19-6.pdf",
+      "scope": "方法全文",
+      "bytes": 513106,
+      "sha256": "2e50d2a580b805b253c773872b759062fd1f5c74871995bccea7970cd9ba58fd",
+      "pages": 8
+    }
+  ],
+  "failures": [],
+  "reading_status": "尚未精读；本次仅收集及文件检查",
+  "full_book_acquired": false,
+  "acquisition_status": "已取得所列原文文件；尚未精读"
+}

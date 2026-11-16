@@ -1,0 +1,78 @@
+{
+  "article_id": 3749451,
+  "selection": {
+    "article_id": 3749451,
+    "url": "https://wallstreetcn.com/articles/3749451",
+    "title": "霍华德·马克斯最新备忘录：从关税、赤字到社保，放弃“经济法则”将付出代价",
+    "page_display_time": "2025-06-19T18:06:22+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": "橡树资本Oaktree Capital",
+    "page_source_url": null,
+    "page_attribution_note": "本文作者：霍华德·马克斯，来源：橡树资本Oaktree Capital，原文标题：《2025年6月：再论放弃经济法则》",
+    "category": "贸易与国际政策",
+    "reading_priority": "A",
+    "reading_value": "马克斯以租金、保险、关税和财政案例讨论激励与供需反馈，论证连贯且有反作用分析。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 9442,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 135
+  },
+  "url": "https://wallstreetcn.com/articles/3749451",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3749451?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:49+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "霍华德·马克斯最新备忘录：从关税、赤字到社保，放弃“经济法则”将付出代价",
+  "page_display_time": "2025-06-19T18:06:22+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "橡树资本Oaktree Capital",
+  "source_url": "",
+  "subtitle": "马克斯认为，经济如同一个遵循内在规律（如供需和激励）的有机体。当政府试图通过立法干预这些规律时，往往会带来意想不到的负面后果。关税也被视为一种政府干预，虽然旨在保护美国国内产业，但会导致物价上涨、产品质量下降，并最终损害消费者利益及全球经济效率。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 9455,
+  "body_sha256": "bf4e8b4434ee5b7551c1f632e82702b1976e672a218ee131b1284eac040d7709",
+  "raw_sha256": "baa6b664582e4d54eec9a95724af8cdf1ee5cfb8ff12b818a72264f3da49c707",
+  "raw_bytes": 33100,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/4e5f07af-83de-4325-b966-49f69a311be5.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 9442,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "橡树资本Oaktree Capital",
+      "url": "https://mp.weixin.qq.com/s/nTSPsFL4CVZbh05qWSUALg"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:41+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "baa6b664582e4d54eec9a95724af8cdf1ee5cfb8ff12b818a72264f3da49c707",
+      "bytes": 33100
+    },
+    "article.html": {
+      "sha256": "dc3ff67b85ad220a5c9bf0b3b4ebf05e469a93b6d701b5456159a2c236a7f2b0",
+      "bytes": 32300
+    },
+    "article.md": {
+      "sha256": "ab6638c4760f42096e8e31bd3916414948880ee0c67b618c3b438e8f02f1aa85",
+      "bytes": 28057
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:32+08:00"
+}

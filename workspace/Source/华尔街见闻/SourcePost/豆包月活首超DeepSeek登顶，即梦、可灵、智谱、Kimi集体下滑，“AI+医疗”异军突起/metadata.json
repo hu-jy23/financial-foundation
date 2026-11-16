@@ -1,0 +1,169 @@
+{
+  "article_id": 3758159,
+  "selection": {
+    "article_id": 3758159,
+    "url": "https://wallstreetcn.com/articles/3758159",
+    "title": "豆包月活首超DeepSeek登顶，即梦、可灵、智谱、Kimi集体下滑，“AI+医疗”异军突起",
+    "page_display_time": "2025-10-29T14:54:10+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "董静",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004826",
+    "page_source_label": "每日经济新闻",
+    "page_source_url": null,
+    "page_attribution_note": "本文作者：宋欣悦，来源：每日经济新闻，原文标题：《豆包月活首超DeepSeek登顶，即梦、可灵、智谱、Kimi集体下滑，“AI+医疗”异军突起｜2025年三季度AI应用价值榜》",
+    "category": "AI投资与商业化",
+    "reading_priority": "B",
+    "reading_value": "结合月活、下载与渠道资源讨论AI应用竞争，关注流量分发和用户留存的商业条件。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 5103,
+    "page_image_count": 6,
+    "original_underlying_research_verified": false,
+    "catalog_number": 150
+  },
+  "url": "https://wallstreetcn.com/articles/3758159",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3758159?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:52+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/12553323-d20f-4685-9d0a-a4d5c23f66fa.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_001.jpg",
+      "sha256": "98d3143c440fca4ea34b8faf1d20f265c11005c9491fed1156ecb190e8a0053b",
+      "bytes": 119849,
+      "width": 1024,
+      "height": 1498,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/12553323-d20f-4685-9d0a-a4d5c23f66fa.jpeg"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/c16dba1a-0232-476e-ba8c-b64dfec456bd.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_002.jpg",
+      "sha256": "ca36ef752ea2fe4e4d0139302f0b48bcb5a33610713cf79f40124872ea2fff97",
+      "bytes": 130679,
+      "width": 1024,
+      "height": 1505,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/c16dba1a-0232-476e-ba8c-b64dfec456bd.jpeg"
+    },
+    {
+      "order": 3,
+      "source_url": "https://wpimg-wscn.awtmt.com/5b64704f-9373-4fd2-91ad-905b6be920ac.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "三季度，DeepSeek和豆包依旧占据通用AI助手市场的绝大部分份额，但两者位次发生逆转，且差距有拉大趋势。字节跳动的生态优势在本季度展现了强大的“飞轮效应”。",
+      "path": "assets/figure_003.jpg",
+      "sha256": "f4053167c35dcf98d82699631b4f0b26a120acef2b18d4baa3b9474054f78353",
+      "bytes": 126383,
+      "width": 1024,
+      "height": 1523,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/5b64704f-9373-4fd2-91ad-905b6be920ac.jpeg"
+    },
+    {
+      "order": 4,
+      "source_url": "https://wpimg-wscn.awtmt.com/dfca78fc-5f2f-46a9-a40a-14e6ff6b4299.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "三季度，DeepSeek和豆包依旧占据通用AI助手市场的绝大部分份额，但两者位次发生逆转，且差距有拉大趋势。字节跳动的生态优势在本季度展现了强大的“飞轮效应”。",
+      "path": "assets/figure_004.jpg",
+      "sha256": "540dda85a1a4355665fa4d468cb59abcda1839749800b8ef9282e3ce6fa229e6",
+      "bytes": 125988,
+      "width": 1024,
+      "height": 1492,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/dfca78fc-5f2f-46a9-a40a-14e6ff6b4299.jpeg"
+    },
+    {
+      "order": 5,
+      "source_url": "https://wpimg-wscn.awtmt.com/d65bed2c-198c-4a7f-b0ed-6c17c95c74d3.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "",
+      "path": "assets/figure_005.jpg",
+      "sha256": "24733a60b6db1582a7672fcec8caa3868628e33dcf4686ed98fe618341056e89",
+      "bytes": 161172,
+      "width": 1024,
+      "height": 1534,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/d65bed2c-198c-4a7f-b0ed-6c17c95c74d3.jpeg"
+    },
+    {
+      "order": 6,
+      "source_url": "https://wpimg-wscn.awtmt.com/adc52b40-5b90-4188-aeee-b87aaf36e50f.jpeg",
+      "status": "complete",
+      "alt": "图片",
+      "context_before": "",
+      "context_after": "独立AI助手的生存空间正持续收窄。在主流AI智能助手应用中，豆包（月活1.59亿）和DeepSeek（月活1.46亿）合计占据该赛道近88.4%的月活用户规模。 而“AI四小强”则面临艰难求生的局面。",
+      "path": "assets/figure_006.jpg",
+      "sha256": "1d57bfd9f4dac0ad613ee7f179c5ecdca98efefaea6602de7e82a3f319885976",
+      "bytes": 163910,
+      "width": 1024,
+      "height": 1524,
+      "content_type": "image/jpeg",
+      "final_url": "https://wpimg-wscn.awtmt.com/adc52b40-5b90-4188-aeee-b87aaf36e50f.jpeg"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "豆包月活首超DeepSeek登顶，即梦、可灵、智谱、Kimi集体下滑，“AI+医疗”异军突起",
+  "page_display_time": "2025-10-29T14:54:10+08:00",
+  "page_byline": "董静",
+  "source_label": "每日经济新闻",
+  "source_url": "",
+  "subtitle": "2025年三季度AI应用市场两极分化加剧。豆包月活增长22.2%至1.59亿，首次超越DeepSeek成为双料冠军；DeepSeek月活下滑14%，陷入\"孤岛困境\"。Kimi、智谱清言、MiniMax等\"AI四小强\"集体下滑，面临成本压力被迫收费或转型。蚂蚁集团AQ等\"AI+医疗\"应用异军突起，月活达464万。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 5125,
+  "body_sha256": "3a68c040f3381266c307f1eae44ca5e3883d9bb8e9d223ffa9487b9fa54435cd",
+  "raw_sha256": "07fef1d614b22a5e1ff6d64fde4ffcfb2abde6006a4d29d9f74106356502dd54",
+  "raw_bytes": 25164,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/d441e126-092c-462e-ba09-5532337830fa.mp3",
+  "image_occurrences": 6,
+  "html_table_count": 0,
+  "catalog_image_count": 6,
+  "catalog_text_characters": 5103,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [
+    {
+      "text": "每日经济新闻",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3NTA5MjkyNQ==&mid=2248484015&idx=4&sn=1600da696fe0fd5296a35f54cd429c5f&chksm=ccd55f4dc4362a9be2bec2a71790dc5ff1151ab9c3bf3c7bcd313def7b6b6966bc5163c2513e&scene=0&xtrack=1?clueId=4064777716"
+    }
+  ],
+  "processed_at": "2026-11-04T16:14:43+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "07fef1d614b22a5e1ff6d64fde4ffcfb2abde6006a4d29d9f74106356502dd54",
+      "bytes": 25164
+    },
+    "article.html": {
+      "sha256": "abddf947ecea9f0e687b01d15d5e395853734bb7ac244a00bec2faed2db52ed1",
+      "bytes": 24176
+    },
+    "article.md": {
+      "sha256": "941ba6c0e19fa97401a0012fe20817466982afe0993d22abfbf2828f7ffa7c34",
+      "bytes": 15221
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:38+08:00"
+}

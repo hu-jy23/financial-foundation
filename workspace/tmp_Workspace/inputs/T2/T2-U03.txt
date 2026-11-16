@@ -1,0 +1,1751 @@
+
+
+===== PDF 136 | 印刷页 101 =====
+
+    5
+Chapter
+
+                              Understanding Risk
+
+
+    Learning Objectives
+    After reading this chapter, you should be able to:
+     LO1       Interpret risk as a measure of uncertainty about payoffs.
+
+     LO2       Explain how to quantify risk.
+
+     LO3       Define risk aversion and explain the role the risk premium plays in the risk-return
+               tradeoff.
+
+     LO4       Explain the difference between idiosyncratic and systematic risks.
+
+     LO5       Demonstrate how to reduce risk through hedging and diversification.
+
+
+Risk may be a four-letter word, but it’s one we can’t avoid. Every day we make deci-
+sions that involve financial and economic risk. How much car insurance should we
+buy? Should we refinance the mortgage now or a year from now? Should we save
+more for retirement, or spend the extra money on a new car? Making any decision that
+has more than one possible outcome is similar to gambling: We put the money on the
+roulette table and take our chances.
+   Interestingly enough, the tools we use today to measure and analyze risk were first
+developed to help players analyze games of chance like roulette and blackjack. For
+thousands of years, people have played games based on a throw of the dice, but they
+had little understanding of how those games actually worked. In ancient times, dice of
+various sorts were used to consult the gods, so any effort to analyze the odds was
+thought improper. But even those who ignored religious concerns could not correctly
+analyze a single throw of a die because they did not understand the concept of zero.
+That meant that the complex computations necessary to develop a theory of probability
+were impossible.1
+                       By the mid-17th century, the power of religion had waned and math-
+                    ematical tools had developed to the point that people could begin to
+                     make sense out of cards, dice, and other games. Since the invention of
+                     probability theory, we have come to realize that many ­everyday events,
+                     including those in economics, finance, and even weather forecasting,
+                    are best thought of as analogous to the flip of a coin or the throw of a
+                    die. For better or worse, we no longer treat these random events as if
+Kamira/Shutterstock they were divinely ordained.
+1
+ For further details of this history, see Peter L. Bernstein, Against the Gods: The Remarkable Story of Risk
+(Hoboken, NJ: Wiley, 1998).
+                                                       101
+
+
+===== PDF 137 | 印刷页 102 =====
+
+102   l Chapter 5  Understanding Risk
+
+
+
+                          Still, while experts can make educated guesses about the future path of interest rates,
+                       inflation, or the stock market, their predictions are really only that—guesses. And while
+                       meteorologists are fairly good at forecasting the weather a day or two ahead, econo-
+                       mists, financial advisors, and business gurus have dismal records. So u­ nderstanding the
+                       possibility of various occurrences should allow everyone to make better choices. While
+                       risk cannot be eliminated, it can often be managed effectively.
+                          Finally, while most people view risk as a curse to be avoided whenever possible,
+                       risk also creates opportunities. The payoff from a winning bet on one hand of cards
+                       can often erase the losses on a losing hand. Thus, the importance of probability the-
+                       ory to the development of modern financial markets is hard to overemphasize. Peo-
+                       ple require compensation for taking risks. Without the capacity to measure risk, we
+                       could not calculate a fair price for transferring risk from one person to another, nor
+                       could we price stocks and bonds, much less sell insurance. The market for options
+                       didn’t exist until economists learned how to compute the price of an option using
+                       probability theory.
+                          In this chapter, we will learn how to measure risk and assess whether it will increase
+                       or decrease. We will also come to understand why changes in risk lead to changes in
+                       the demand for particular financial instruments and to corresponding changes in the
+                       price of those instruments.
+
+
+                       Defining Risk
+                       The dictionary definition of risk, the “possibility of loss or injury,” highlights the per-
+                       ils of putting oneself in a situation in which the outcome is unknown. But this common
+                       use of the word doesn’t quite fit our purposes because we care about gains as well as
+                       losses. We need a definition of risk that focuses on the fact that the outcomes of finan-
+                       cial and economic decisions are almost always unknown at the time the decisions are
+                       made. Here is the definition we will use:
+                           Risk is a measure of uncertainty about the future payoff to an investment, assessed
+                       over some time horizon and relative to a benchmark.
+                           This definition has several important elements. First, risk is a measure that can be
+                       quantified. In comparing two potential investments, we want to know which one is
+                       riskier and by how much. All other things held equal, we expect a riskier investment to
+                       be less desirable than others and to command a lower price. Uncertainties that are not
+                       quantifiable cannot be priced.
+                           Second, risk arises from uncertainty about the future. We know that the future
+                       will follow one and only one of many possible courses, but we don’t know which
+                       one. This statement is true of even the simplest random event—more things can hap-
+                       pen than will happen. If you flip a coin, it can come up either heads or tails. It can-
+                       not come up both heads and tails or neither heads nor tails; only one of two
+                       possibilities will occur.
+                           Third, risk has to do with the future payoff of an investment, which is unknown.
+                       Though we do not know for certain what is going to happen to our investment, we
+                       must be able to list all the possibilities. Imagining all the possible payoffs and the like-
+                       lihood of each one is a difficult but indispensable part of computing risk.
+                           Fourth, our definition of risk refers to an investment or group of investments.
+                       We can use the term investment very broadly here to include everything from the
+                       balance in a bank account to shares of a mutual fund to lottery tickets and real
+                       estate.
+
+
+===== PDF 138 | 印刷页 103 =====
+
+                                                                                                                  Measuring Risk   l   103
+
+
+
+   Fifth, risk must be assessed over some time horizon. Every investment has a time hori-
+zon. We hold some investments for a day or two and others for many years. In most cases,
+the risk of holding an investment over a short period is smaller than the risk of holding it
+over a long one, but there are important exceptions to the rule that we will discuss later.2
+   Finally, risk must be assessed relative to a benchmark rather than in isolation. If some-
+one tells you that an investment is risky, you should immediately ask: “Relative to what?”
+The simplest answer is “Relative to an investment with no risk at all,” called a risk-free
+investment. But there are other possibilities, often more appropriate. For example, in con-
+sidering the performance of a particular investment advisor or money manager, a good
+benchmark is the performance of a group of experienced investment advisors or money
+managers. If you want to know the risk associated with a specific investment strategy, the
+most appropriate benchmark would be the risk associated with other strategies.
+   Now that we know what risk is, how do we measure it? We use some rudimentary
+tools of probability theory, as we will see in the next section.
+
+
+Measuring Risk
+Armed with our definition of risk, we are now ready to quantify and measure it. In this
+section we will become familiar with the mathematical concepts useful in thinking about
+random events. We have already used some of these concepts. Recall from the last chapter
+that the real interest rate equals the nominal interest rate minus expected inflation. With-
+out the proper tools, we weren’t able to be explicit about what the term expected inflation
+means. The same is true of the term expected return. We see now that the best way to
+think about expected inflation and expected return is as the average or best guess—the
+expected value—of inflation, or the investment’s return out of all the possible values.
+
+Possibilities, Probabilities, and Expected Value
+Probability theory tells us that in considering any uncertainty, the first thing we must do is
+list all the possible outcomes and then figure out the chance of each one occurring. When
+you toss a coin, what are all the possible outcomes? There are two and only two. The coin
+can come down either heads or tails. What is the chance of each one of these two out-
+comes occurring? If the coin is fair, it will come down heads half the time and tails the
+other half; that’s what we mean by fair. If we tossed a fair coin over and over again, thou-
+sands of times, it would come down heads half the time and tails the other half. But for any
+individual toss, the coin has an equal chance of coming down heads or tails. To quantify
+this statement, we can say that the probability that the coin will come up heads is one-half.
+    Probability is a measure of the likelihood that an event will occur. It is always
+expressed as a number between zero and one. The closer the probability is to zero, the
+less likely it is that an event will occur. If the probability is exactly zero, we are sure that
+the event will not happen. The closer the probability is to one, the more likely it is that
+an event will occur. If the probability is exactly one, the event will definitely occur.
+    Some people prefer to think of random outcomes in terms of frequencies rather
+than probabilities. Instead of saying that the probability of a coin coming down
+heads is one-half, we could say that the coin will come down heads once every two
+tosses on average. Probabilities can always be converted into frequencies in this way.
+    To grasp these concepts, it is helpful to construct a table. The table lists every­
+thing that can happen (all the possibilities) together with their chances of occurring
+
+2
+ In Chapter 8, we will consider evidence that holding stock for 1 year is riskier than holding it for 20 years.
+
+
+===== PDF 139 | 印刷页 104 =====
+
+104     l Chapter 5  Understanding Risk
+
+
+
+
+                         It’s Not Just Expected Return That Matters
+                         APPLYING THE CONCEPT
+
+  Your life seems to be going well. You enjoy your job, and it          the only possibility. You have very little sense of what the aver-
+  pays enough that you can put a little aside each month. You           age return will be between now and the time that you retire.
+  can’t resist the dollar-for-dollar match your employer is offer-          To get a 6 percent expected return, you will have to take
+  ing on contributions to your retirement account, so you’re            risk. And risk means that you could end up with less. What if
+  slowly building up some long-term savings. But every so of-           your investment return is only 3 percent per year? Over 40
+  ten, you wonder if you’re saving enough. One day you go               years that’s an enormous difference. At 6 percent annual
+  home and fire up the financial planning program on your               growth, $1 today is worth more than $10 in 40 years, and if
+  computer, just to check.                                              you can save $1,000 per year you’ll have more than
+      Going through the retirement planner, you enter all               $160,000 saved up. Reducing the growth rate to 3 percent
+  the standard information: your age now and when you                   means that the future value of $1 today 40 years from now
+  hope to retire; your salary and the value of all your assets;         falls to about $3.25. The lower return means that with the
+  the monthly contribution to your retirement account and the           same $1,000-per-year savings, you’re left with less than
+  monthly income you want at retirement. When you finish, the           $80,000 after 40 years.† You’ll have to save more than twice
+  program asks what rate of return to assume. That is, how fast         as much to meet the same goal. Now that’s risk!
+  do you expect your savings to grow from now until your re-                You need to know what the possibilities are and how
+  tirement? Following the suggestion on the screen and ad-              likely each one is. Only then can you assess whether or not
+  justing for inflation, you enter 6 percent, which is modestly         your retirement savings plan is risky.
+  below the average real return on the stock market over the
+  past 75 years.* The light flashes green, signaling that you’re
+  on track to meet your financial goals. But are you?                   *Inflation complicates computations over very long time periods.
+                                                                        Price increases of 2 or 3 percent per year may not seem like much,
+      Maybe. The program did a series of future- and
+                                                                        but over 40 years they add up. At 2 percent inflation, prices double
+  present-value calculations like the ones described in Chapter         every 36 years. The simplest approach is to ignore inflation and
+  4. The green light means that if the ­assumptions you entered         measure income, wealth, and savings in current dollars. Then use
+  are valid, your saving rate is sufficient. That is, if your savings   a real rate of interest to compute future and present value.
+  grow at 6 percent (adjusted for inflation), you’ll be okay. So you    †
+                                                                          These numbers are based on future-value calculations. If you
+  need to decide whether you think 6 percent is a reasonable            save $1,000 per year, after 40 years you will have $1,000 ×
+  number. While it might be your best guess for the return (that’s      (1.06)40 + $1,000 × (1.06)39 + . . . + $1,000 × (1.06)2 + $1,000 ×
+  the expected return) over the next few decades, it is surely not      (1.06) = $164,048.
+
+
+
+
+                       A Simple Example: All Possible           (their probabilities). Let’s start with a single coin toss.
+      Table 5.1                                                 Table 5.1 lists the possibilities—heads or tails—and
+                       Outcomes of a Single Coin Toss
+                                                                the probabilities, both equal to one-half.
+                                                                   In constructing a table like this one, we must be
+       Possibilities        Probability       Outcome           careful to list all possible outcomes. In the case of a
+            #1
+                                      1
+                                 ​  _2 ​      Heads             coin toss, we know that the coin can come down only
+            #2
+                                      1
+                                      _
+                                   ​  2 ​     Tails
+                                                                two ways, heads or tails. We know that one of these
+                                                                outcomes must occur. We just don’t know which one.
+                                                                   One important property of probabilities is that we
+                             can compute the chance that one or the other event will happen by adding the proba-
+                             bilities together. In the case of the coin flip there are only two possibilities; the proba-
+                             bility that the coin will come up either heads or tails must be one. If the table is
+                             constructed correctly, then, the values in the probabilities column will sum to one.
+                                Let’s move from a coin toss to something a bit more complicated: an investment
+                             that can rise or fall in value. Assume that for $1,000 you can purchase a stock whose
+                             value is equally likely to fall to $700 or rise to $1,400. We’ll refer to the amount you
+                             could get back as the investment’s payoff. Following the procedure we used to analyze
+
+
+===== PDF 140 | 印刷页 105 =====
+
+                                                                                                                  Measuring Risk   l 105
+
+
+
+
+    Table 5.2          Investing $1,000: Case 1
+
+
+
+      Possibilities                Probability                 Payoff                 Probability × Payoff
+                                              1
+           #1                            ​  _2 ​               $ 700                           $350
+                                              1
+           #2                              ​  _2 ​             $1,400                          $700
+
+                          Expected value = Sum of (Probability × Payoff) = $1,050
+
+
+
+
+the coin toss, we can construct Table 5.2. Again we list the possibilities and the prob-
+ability that each will occur, but we add their payoffs (column 3).3
+   We can now go a step further and compute what is called the expected value of the
+investment. We are familiar with the idea of expected value as the average or most
+likely outcome. The expected value is also known as the mean. After listing all of the
+possible outcomes and the probabilities that they will occur, we compute the expected
+value as the sum of their probabilities times their payoffs. (Another way to say this is
+that the expected value is the probability-weighted sum of the possible outcomes.)
+   Computing the expected value of the investment is straightforward. In Table 5.2, the
+first step is to take the probabilities in the second column and multiply them by their
+associated payoffs in the third column. The results are in the fourth column. Summing
+them, we get
+                       ​Expected value = ​ _12 ​  ($700) + _​  12 ​  ($1,400) = $1,050
+​which appears at the bottom of the table.
+     The expected value of an investment is a very useful concept, but it can be difficult
+ at first. The problem is that if we make this investment only once, we will obtain either
+ $700 or $1,400, not $1,050. In fact, regardless of the number of times we make this
+ particular investment, the payoff will never be $1,050. But what would happen if we
+ were to make this investment 1 million times? About 500,000 of those times the invest-
+ ment would pay off $1,400 and the other 500,000 times it would pay off $700. (Notice
+ that we just converted the probabilities into frequencies.) So the average payoff from
+ the 1 million investments would be
+
+             500,000
+         _________                 500,000
+         ​​           ​($700) + _________
+                                ​           ​($1,400) = $1,050 (the expected value)
+         1,000,000                  1,000,000
+   W
+   ​ hile the world of casino gambling may offer simple bets with just two outcomes, the
+financial world rarely does. To make the example more realistic, let’s double the number
+of possibilities and look at a case in which the $1,000 investment might pay off $100 or
+$2,000 in addition to $700 or $1,400. Table 5.3 shows the possibilities, probabilities, and
+payoffs. We’ll assume that the two original possibilities are the most likely; the two new
+possibilities are much less likely to occur. Note that the probabilities sum to one: 0.1 +
+0.4 + 0.4 + 0.1 = 1. Again, we could convert the probabilities to frequencies, so that 0.4
+
+
+3
+ As you go through the examples in the chapter, be aware that it is often very difficult to estimate the
+probabilities needed to do the risk computations. The best way to do it is often to look at history. Investment
+analysts usually estimate the possibilities and probabilities from what happened in the past.
+
+
+===== PDF 141 | 印刷页 106 =====
+
+106   l Chapter 5  Understanding Risk
+
+
+
+
+                          Table 5.3           Investing $ 1,000: Case 2
+
+
+
+                              Possibilities            Probability             Payoff              Probability × Payoff
+
+                                   #1                      0.1                 $ 100                      $ 10
+                                   #2                      0.4                 $ 700                      $280
+                                   #3                      0.4                 $1,400                     $560
+                                   #4                      0.1                 $2,000                     $200
+
+                                                Expected value = Sum of (Probability × Payoff) = $1,050
+
+
+
+
+                       means 4 out of 10. And again, we can compute the expected value by multiplying each
+                       probability times its associated payoff and then summing them. So $100 would be the
+                       payoff 1 out of every 10 times, $700 the payoff 4 out of every 10 times, and so on. To
+                       compute the expected value, we would find the average of these 10 investments:
+                                ​$100 + $700 + $700 + $700 + $700
+                                                + $1,400 + $1,400 + $1,400 + $1,400 + $2,000 = $10,500
+                       ​and
+                                                                     $10,500
+                                                                 _______
+                                                                 ​​        ​ = $1,050​
+                                                                     10
+                       Once again the expected value is $1,050.
+                          Because the expected value of this $1,000 investment is $1,050, the expected gain
+                       is $50. But most people don’t discuss investment payoffs in terms of dollars; instead,
+                       they talk about the percentage return. Expressing the return as a percentage allows
+                       investors to compute the gain or loss on the investment regardless of the size of the
+                       initial investment. In this case, the expected return is $50 on a $1,000 investment, or
+                       5 percent. Note that the two $1,000 investments we just discussed are not distinguish-
+                       able by their expected return, which is 5 percent in both cases. Does that mean an
+                       investor would be indifferent between them? Even a casual glance suggests that the
+                       answer is no because the second investment has a wider range of payoffs than the
+                       first. The highest payoff is higher and the lowest payoff lower than for the first invest-
+                       ment. So the two investments carry different levels of risk. The next section discusses
+                       measures of risk.
+                          One last word on expected values. Recall from the last chapter that to compute the
+                       real interest rate, we need a measure of expected inflation. One way to calculate expected
+                       inflation is to use the technique we just learned. That is, list all the possibilities for infla-
+                       tion, assign each one a probability, and then calculate the expected value of inflation.
+
+                       Measures of Risk
+                       Most of us have an intuitive sense of risk and its measurement. For example, we know
+                       that walking on a sidewalk is usually a safe activity. But imagine that one day as you
+                       are strolling along, you come upon a 3-foot hole in the sidewalk. The only way across
+                       is to jump over it. If the hole is just a few inches deep, it won’t stop you. But the deeper
+                       it is, the greater the risk of jumping across because the greater the range of injuries you
+
+
+===== PDF 142 | 印刷页 107 =====
+
+                                                                                                                          Measuring Risk   l 107
+
+
+
+could sustain. We all have an intuitive sense that the
+wider the range of outcomes, the greater the risk. That’s
+why the investment that has four possible payoffs
+(Table 5.3) seems riskier than the one with two possible
+payoffs (Table 5.2).
+   Thinking about risk in terms of the range of possible
+outcomes is straightforward. The best way to do it is to
+start with something that has no risk at all—a sidewalk
+without a hole in it or an investment with only one pos-
+sible payoff. We will refer to a financial instrument with
+no risk at all as a risk-free investment or risk-free asset.
+A risk-free asset is an investment whose future value is
+known with certainty and whose return is the ­risk-free
+rate of return.4 The payoff that you will receive from
+such an investment is guaranteed and cannot vary. For                  “Come on, Louis. No risk, no reward.”
+instance, if the risk-free return is 5 percent, a $1,000
+risk-free investment will pay $1,050, its expected value, SOURCE: 1992 © Charles Barsotti/The New YorkerCollection/
+with certainty. If there is a chance that the payoff will be www.Cartoonstock.com.
+either more or less than $1,050, the investment is risky.
+   Let’s compare this risk-free investment with the first i­nvestment we looked at, the
+one in which $1,000 had an equal chance of turning into $1,400 or $700 (see Table 5.2).
+That investment had the same expected return as the risk-free investment, 5 percent.
+The difference is that the payoff wasn’t certain, so risk was involved. What caused the
+risk was the i­ncrease in the spread of the potential payoffs. The larger the spread, the
+higher the risk.
+   These examples suggest that we can measure risk by quantifying the spread
+among an investment’s possible outcomes. We will look at two such measures. The
+first is based on a statistical concept called the standard deviation and is strictly a
+measure of spread. The second, called value at risk, is a measure of the riskiness of
+the worst case. When the hole in the sidewalk gets deep enough, you risk being
+killed if you fall in.
+
+Variance and Standard Deviation               The variance is defined as the average of
+the squared deviations of the possible outcomes from their expected value, weighted
+by their probabilities. We square the differences from the expected value so that high
+and low payoffs don’t cancel each other out and we get a measure of how spread out
+they are.
+   It takes several steps to compute the variance of an investment. First, compute the
+expected value and then subtract it from each of the possible payoffs. Then square each
+one of the results, multiply it by its probability, and, finally, add up the results. In the
+example of the $1,000 investment that pays either $700 or $1,400, the steps are:
+    1. Compute the expected value: _​ 12 ​  ($1,400) + ​ _12 ​  ($700) = $1,050
+    2. Subtract the expected value from each of the possible payoffs:
+       $1,400 − $1,050 = +$350
+       $700 − $1,050 = −$350
+
+
+In most financial markets, no truly risk-free asset exists, so the risk-free rate of return is not directly observable.
+4
+
+Regardless of our inability to measure it exactly, the risk-free rate of return remains a useful concept.
+
+
+===== PDF 143 | 印刷页 108 =====
+
+108   l Chapter 5  Understanding Risk
+
+
+
+                          3. Square each of the results: $3502 = 122,500(dollars2) and (−$350)2
+                              = 122,500(dollars2)
+                          4. Multiply each result times its probability and add up the results:
+                          ​	​ _12 ​  [122,500(dollars2)] + _​  12 ​  [122,500(dollars2)] = 122,500(dollars2)
+                       ​Writing this procedure more compactly, we get
+                             ​Variance = ​ _12 ​  ($1,400 − $1,050)2 + _​  12 ​  ($700 − $1,050)2 = 122,500(dollars2)
+                       ​The standard deviation is the (positive) square root of the variance, or
+                                                             ________         _______________
+                                 ​Standard deviation = ​√Variance ​ = ​√122,500(dollars
+                                                                                       2
+                                                                                         ) ​ = $350
+                           ​The standard deviation is more useful than the variance because it is measured in
+                       the same unit as the payoffs: dollars. (Variance is measured in dollars squared.) That
+                       means that we can convert the standard deviation into a percentage of the initial invest-
+                       ment of $1,000, or 35 percent. This calculation provides a baseline against which we
+                       can measure the risk of alternative investments. Given a choice between two
+                       ­investments with the same expected payoff, most people would choose the one with
+                        the lower standard deviation. A higher-risk investment would be less desirable.
+                           Let’s compare this two-payoff investment with the one that has four possible pay-
+                        offs. We already concluded that the second investment is riskier, because the payoffs
+                        are more spread out. But how much riskier is it? To answer this question, we can com-
+                        pute the standard deviation. That means following the four steps to calculate the vari-
+                        ance, and then taking the square root. From the detailed computation in Table 5.4 you
+                        can see the standard deviation is $528. This is 1½ times the $350 standard deviation of
+                        the first investment, with only two possible payoffs. Because the two investments have
+                        the same expected value, the vast majority of people would prefer the first. The greater
+                        the standard deviation, the higher the risk.
+                           To see this conclusion graphically, start with Case 1 from Table 5.2 where a
+                        $1,000 investment is equally likely to rise in value to $1,400 or fall in value to $700.
+                        That is, there are two possibilities, each with probability ½: $700 and $1,400. We can
+                        plot this on a bar graph, where the horizontal axis has the payoffs $700 or $1,400 and
+                        the height of each bar is the probability (in this case 0.5 for both). The result is in the
+                        left panel of Figure 5.1. Recall from Table 5.2 that the expected value of this invest-
+                        ment is $1,050, the vertical line in the figure.
+                           Compare this to  Case 2 from Table 5.3. Recall that in this case the $1,000 invest-
+                        ment has four possible payoffs, $100, $700, $1,400 and $2,000, and these occur with
+                        probability 0.1, 0.4, 0.4, and 0.1. As in Case 1, the expected value continues to be
+                        $1,050. Using the same method as before, where the height of each bar represents
+                        the probability of each outcome, we can plot the right-hand panel of Figure 5.1. Com-
+                        paring the two figures, we can see that in Case 2, where the investment has four possible
+                        payoffs, the distribution is more spread out. This matches the result from computing
+                        the standard deviation. The more spread out the distribution of possible payoffs from
+                        an investment, the higher the standard deviation and the bigger the risk.
+
+                       Value at Risk      Standard deviation is the most common measure of financial risk,
+                       and for most purposes it is adequate. But in some circumstances we need to take a
+                       different approach to the measurement of risk. Sometimes we are less concerned with
+                       the spread of possible outcomes than with the value of the worst outcome. For exam-
+                       ple, no one wants the local bank to close its doors. Nor is anyone interested in a dis-
+                       count price for a life insurance policy from an insurance company that is in poor
+
+
+===== PDF 144 | 印刷页 109 =====
+
+                                                                                                       Measuring Risk   l   109
+
+
+
+
+   Table 5.4          Expected Value, Variance, and Standard Deviation
+
+
+  To compute the expected value, variance, and standard deviation of the four-payoff investment in
+  Table 5.3, follow the steps described in the text nearby:
+
+  1. Compute the expected value.
+     • List the possible payoffs and their probabilities.
+     • Compute the expected value as the sum of the payoff times the probabilities.
+  2. Compute the variance.
+     • From each payoff subtract the expected value.
+     • Square the deviation of the payoff from the expected value.
+     • Sum the squared deviations times the probabilities.
+  3. Compute the standard deviation as the positive square root of the variance.
+  Here’s the information we need:
+
+
+       (1)             (2)                        (3)                                 (4)
+   Probability        Payoff           Payoff − Expected Value            (Payoff − Expected Value)2
+
+          0.1        $ 100          ($ 100 − $1,050) = −$950                  902,500(dollars2)
+          0.4        $ 700          ($ 700 − $1,050) = −$350                  122,500(dollars2)
+          0.4        $1,400         ($1,400 − $1,050) = +$350                 122,500(dollars2)
+          0.1        $2,000         ($2,000 − $1,050) = +$950                 902,500(dollars2)
+
+
+  1. Using columns (1) and (2), we can compute the expected value:
+      Expected value = Sum of (Probability × Payoff)
+  			                  = 0.1 × $100 + 0.4 × $700 + 0.4 × $1,400 + 0.1 × $2,000
+  			                  = $10 + $280 + $560 + $200
+  			                  = $1,050
+  2. Using column (4), we can compute the variance:
+      Variance = Sum of (Probability × Squared deviation of payoff from expected value)
+  			            = 0.1 × 902,500 + 0.4 × 122,500 + 0.4 × 122,500 + 0.1 × 902,500
+  			            = 278,500(dollars2)
+  3. Finally, using this result, we can compute the standard deviation:
+                               ________
+  ​		 Standard deviation = ​√Variance ​
+                               ______________
+  			                         √
+                          = ​ 278,500(dollars
+                                             2
+                                              )
+  	 ​		                   = $528​
+
+
+
+
+financial condition. Neither the customers nor the government regulators care how
+well or how badly a financial institution’s shareholders fare, so long as they do well
+enough to keep the doors open. The concept used to assess this sort of catastrophic risk
+is called value at risk (VaR).
+    To understand how value at risk works, let’s look at an example. Assume you are
+considering buying a house. In going through your finances, you conclude that you
+can afford a monthly mortgage payment of $650 and no more. You find a nice house
+and a mortgage lender who will lend you $100,000 to buy it. But you need to decide
+on the type of mortgage to get. Should it have a fixed or adjustable rate? The answer is
+different for different people. But let’s see if we can organize our thinking.
+
+
+===== PDF 145 | 印刷页 110 =====
+
+110     l Chapter 5  Understanding Risk
+
+
+
+
+                                  Figure 5.1                   Investing $1,000
+
+
+                                                                 Case 1                                                 Case 2
+                                                         Expected value = $1,050                                Expected value = $1,050
+                                                  1.0                                                    1.0
+                                                  0.8                                                    0.8
+                                    Probability
+
+
+
+
+                                                                                           Probability
+                                                  0.6                                                    0.6
+                                                  0.4                                                    0.4
+                                                  0.2                                                    0.2
+                                                  0.0                                                    0.0
+                                                        $100    $700 $1,400 $2,000                             $100   $700 $1,400 $2,000
+                                                                    Payoff                                                Payoff
+
+                               The figure plots the distribution of possible outcomes from a $ 1,000 investment from Tables 5.2 and 5.3 on
+                               pages 105 and 106. In each case, the payoff is on the horizontal axis and the height of each bar equals the
+                               probability that outcome will occur.
+
+
+
+
+                           The Impact of Leverage on Risk
+                           TOOLS OF THE TRADE
+
+                                                                              1
+      In Chapter 3, we saw that leverage added to risks in the fi-            ​  _2 ​ ($400) = $1,100. Your expected gain—the difference be-
+      nancial system (see Lessons from the Crisis: Leverage). Re-               tween your investment of $1,000 and its expected value
+      call that ­leverage is the practice of borrowing to finance part          of $1,100—is now $100 and your expected return is
+      of an investment. Common examples of leverage are bor-                    10 percent. That’s double the expected return from your
+      rowing to buy stock (through what is called margin loans),                investment of $1,000 without any borrowing—­d ouble
+      corporate borrowing (using bonds), and borrowing to ac-                   what it would be without leverage. So we have part of the
+      quire a house (by obtaining a mortgage). In the case of a                 answer to our question: Leverage increases the expected
+      margin loan, an investor borrows from a brokerage firm to                 return.
+      increase the quantity of stock purchased.                                         But what about risk? To figure it out, let’s calculate the
+          How does leverage affect risk and return? To understand               standard deviation of your leveraged investment.
+      the effects of leverage, let’s look at an investment of $1,000                         _____________________________
+      with an expected return of 5 percent (a gain of $50) and a
+      standard deviation of 35 percent ($350). That’s the example
+                                                                                          √   1
+                                                                                            ​     
+                                                                              ​St. Dev. = ​ _                      _    1
+                                                                                              2 ​(1,800 − 1,100) + ​  2 ​(400 − 1,100)  ​ = $700​
+                                                                                                                2                     2
+
+
+
+      in Table 5.2. What if in addition to investing $1,000 of your                The standard deviation has doubled: twice the expected
+      own, you ­borrow $1,000 and invest a total of $2,000? This              return at twice the risk!
+      investment strategy changes the risk involved. The reason is                 We can repeat these calculations for any amount of lev-
+      that the lender wants to be repaid the $1,000 loan regard-              erage we want. For example, homebuyers commonly pay
+      less of how much your investment returns. If the investment’s           20 ­percent of the price of a house with their savings and
+      payoff is high, your $2,000 investment will increase in value           borrow the remaining 80 percent. Because mortgage lend-
+      to $2,800. After repaying the $1,000 loan, you will be left             ers expect to be repaid, changes in the price of the house
+      with $1,800—an increase of $800 over your initial invest-               ­become gains or losses to the owner. Say you buy a
+      ment of $1,000. If your investment falls in value, the $2,000            $100,000 house by borrowing $80,000 and paying
+      will become $1,400. After repaying the $1,000 loan, you will             $20,000 from your savings, often called your equity.
+      be left with $400—a loss of $600.                                        A 10 percent increase in your home’s value would raise the
+          Because these two results are equally likely, the ex-                price to $110,000. Subtracting the $80,000 you borrowed,
+                                                         1
+      pected value of your leveraged investment is ​ _2 ​ ($1,800) +           your $20,000 down payment would become $30,000, a
+
+
+===== PDF 146 | 印刷页 111 =====
+
+                                                                                                           Measuring Risk       l 111
+
+
+
+
+50 ­percent increase. On the other hand, if your home’s                  We can use these examples to develop a formula for the
+value fell by 10 ­percent, you would lose half your $20,000         impact of leverage on the expected return and standard
+down payment. Leverage m      ­ agnifies the e
+                                             ­ ffect of price       ­deviation of an investment. If you borrow to purchase an as-
+changes (see figure below).                                          set, you increase both the expected return and the standard
+                                                                     deviation by a leverage ratio of
+                                                                                                  Cost of investment
+     The Effect of Leverage on Risk and Return                        ​Leverage ratio = _______________________________
+                                                                                           
+                                                                                        ​      ​​
+                                                                                          Owner’s contribution to the purchase
+                                                                    where the “Owner’s contribution to the purchase” in the de-
+                                                                    nominator is just the cost of investment minus the amount
+                                                                    borrowed. If the expected return and standard deviation of
+                                                                    the unleveraged investment are 5 percent and 35 percent
+                                                                    (as in our first example), then borrowing half and contributing
+                                                                    half means that for each dollar invested, the buyer is contrib-
+                                                                    uting 50 cents. The formula tells us that the leverage ratio is
+                                                                    1/0.5, which equals 2. Thus the investment’s expected return
+                                                                    is 2 × 5 percent = 10 percent, and its standard deviation is
+                                                                    2 × 35 percent = 70 percent. (See the accompanying table.)
+                                                                    And if the homeowner borrows 80 percent of the purchase
+                                                                    price of the house, his or her contribution is 20 percent, so
+                                                                    the leverage ratio is 1/(1 − 80/100) = 1/0.2 = 5 times what it
+                                                                    would be for someone who could buy the house outright,
+  To understand leverage, picture a set of two gears, one           with no mortgage.
+  large and one small. The movement in the price of the                  We have focused on the impact of leverage on risk,
+  leveraged investment is measured by the number of                 but ­leverage has at least as big an impact on value at risk.
+  revolutions in the big gear. This explains why some               Note that for the $1,000 investment without leverage in
+  people refer to leverage as “gearing.” The investor’s risk        ­Table 5.2, the worst case was a loss of $300, or 30 ­percent,
+  and return are measured by the number of revolutions in            half the time. If an investor borrowed 90 percent of the funds
+  the small gear. The bigger the big gear, the more times            needed to make the investment, half the time the ­investor
+  the small gear goes around with each revolution of the             would lose not only the entire $100 invested but an addi-
+  big gear. That’s leverage.                                         tional $200 of borrowed funds as well. Leverage compounds
+                                                                     the worst possible outcome.
+
+
+
+        The Impact of Leverage
+
+                                                               No Leverage                        Leverage Ratio = 2
+
+             Your investment                                     $1,000                                 $1,000
+             + Amount borrowed                                        0                                 $1,000
+             = Total invested                                    $1,000                                 $2,000
+
+             Possible payoffs                              $1,400 or $700                          $2,800 or $1,400
+               Net of repayment                            $1,400 or $700                           $1,800 or $400
+
+             Expected value                                    $1,050 (5%)                           $1,100 (10%)
+               (net of repayment)
+             Standard deviation                                $350 (35%)                             $700 (70%)
+
+
+
+        The example uses the information from Table 5.2, where a $ 1,000 investment has an equal probability of a
+        $ 1,400 or a $700 payoff. In the example with leverage on the right, the investor borrows $ 1,000, invests a
+        total of $2,000, obtains a payoff of either $2,800 or $ 1,400, and must repay the $ 1,000 loan for a net payoff
+        of $1,800 or $400.
+
+
+===== PDF 147 | 印刷页 112 =====
+
+112     l Chapter 5  Understanding Risk
+
+
+
+
+                            Systemic Risk*
+                            LESSONS FROM THE CRISIS
+
+      The financial system consists of all the institutions and mar-        to disrupt the general function of intermediation. Common
+      kets that perform intermediation—matching savers with us-             exposure to a risk can threaten many intermediaries at the
+      ers of funds. Threats to the system as a whole—known as               same time. Connections among financial institutions and
+      systemic risks—differ from the threats to specific house-             markets, even when unseen, may transmit and amplify a
+      holds, firms, or markets. Naturally, governments are more             shock across the system. Obstacles to the flow of informa-
+      concerned about systemic threats because they can be cata-            tion make a system more vulnerable, because information is
+      strophic for an economy. Their policy goal is a resilient finan-      needed to coordinate the system’s parts.
+      cial system that cannot be brought down by the failure of                 A financial system also may contain critical parts (compa-
+      specific parts.                                                       rable to a heart or a brain) without which it cannot function.
+           Cell biology provides a useful analogy for understanding         Key markets and exchanges may play such a role. Similarly,
+      a financial system. Complex organisms are composed of                 the largest, most interconnected financial firms are some-
+      many cells with specialized purposes. Every day, a large              times called too big to fail if their failure threatens a cascade
+      number of these cells die (and new ones are created) with-            of bankruptcies among other firms.
+      out threatening the organism as a whole. In financial sys-                As one possible source of systemic risk, consider the
+      tems, too, many intermediaries fail and new ones emerge               role of liquidity, which is often called the lifeblood of a finan-
+      without posing a systemic threat. Yet, in both biology and fi-        cial system (see Chapter 2, Lessons from the Crisis: Market
+      nance, some disturbances can undermine both the parts                 Liquidity, Funding Liquidity, and Making Markets). Usually,
+      and the whole.                                                        the smooth circulation of liquid assets around the financial
+           This biological analogy can be taken a step further. Think       system makes it possible for financial institutions to convert
+      of financial institutions as the cells of the financial system, and   their holdings easily into cash and to trade in markets. But
+      think of markets as the central nervous system that coordi-           what happens if that circulation is interrupted or if the overall
+      nates their actions. Cells operating alone cannot make a com-         supply of liquidity is inadequate?
+      plex organism function. Their actions are coordinated by the              Like a heart attack, obstacles to the flow of liquidity pose
+      messages that travel along diverse electrical and chemical            a catastrophic threat to the financial system. Some financial
+      pathways. In the same way, an effective financial system re-          institutions may become unable to trade or make payments,
+      quires markets that collect and transmit information necessary        while markets for a range of assets may dry up. If these
+      to coordinate the behavior of financial institutions and others.      shocks weaken other firms, the result can be a wave of
+           How does the biological analogy help us understand sys-          bankruptcies.
+      temic risk? It provides hints about what might threaten the
+      system as a whole, not just its parts.                                *Note that systemic risk—which refers to the financial system—­
+           In the world of finance, systemic risk arises when a set of      differs from systematic risk, which is defined in this chapter as an
+      vulnerabilities in markets and financial institutions threatens       economywide risk that alters the size of the economic pie.
+
+
+
+
+                                   Assume that the current interest rate on a 30-year fixed-rate mortgage (the most
+                                popular kind) is 4 percent, so it has monthly payments around $475, which is within
+                                your budget.5 One alternative is a mortgage with the same 30-year term that adjusts
+                                once a year, starting at 3 percent. The adjustable-rate mortgage has payments that
+                                start at about $420 per month.
+                                   This looks great. But remember Core Principle 2: Risk requires compensation. By
+                                taking the adjustable-rate mortgage you can save more than $50 per month. But
+                                adjustable rates can adjust, meaning they can go up and down. That’s a risk. Looking
+                                closer, you realize that the mortgage contract specifies that the adjustments can be as
+                                much as 2 percentage points per year, and can go as high as 11 percent. Which mort-
+                                gage should you sign up for?
+
+                                All of the numbers in this example are approximate. To compare payments on fixed- and adjustable-rate
+                                5
+
+                                mortgages, you can use the calculators at www.wsj.com or www.choosetosave.org.
+
+
+===== PDF 148 | 印刷页 113 =====
+
+                                             Risk Aversion, the Risk Premium, and the Risk-Return Tradeoff   l 113
+
+
+
+    The lower initial monthly payments do seem to come with higher risk. Without
+doing any computations, we know that the standard deviation of monthly payments for
+a 4 percent fixed-rate mortgage is zero, and that the standard deviation of the payment
+for the adjustable-rate mortgage is greater than zero. Let’s just say that interest rates
+are not expected to change, so the expected value of the monthly payments in the sec-
+ond circumstance is just $420. But what does that tell us?
+    The computation of the expected value and standard deviation does not seem to get
+at the heart of the problem. The reason is that it doesn’t take proper account of the
+worst case. The interest rate could rise 2 percent per year for the next four years. That
+means that your monthly payments could rise to around $535 in the second year after
+one adjustment, about $665 in the third year, and go up over $800 in the fourth year.
+While you can readily make the $535 payments, more than $650 per month is out of
+the question. If interest rates were to rise by 4 percentage points over the next two years,
+you would no longer be able to afford the mortgage payments. That’s the risk.
+    This mortgage example highlights the fact that sometimes risk should be measured
+by the value of the worst case rather than be measured by expected value and standard
+deviation. Value at risk, which measures risk as the maximum potential loss, is more
+­appropriate in the example we just studied. VaR is the answer to the question:
+ How much will I lose if the worst possible scenario occurs? In the example of the
+ $1,000 investment, summarized in Table 5.2, the worst case was a loss of $300. In the
+ more complex $1,000 investment, summarized in Table 5.3, the value at risk was
+ $900—the most you could possibly lose. In the mortgage example the value at risk is
+ the house: If the payment increases beyond $650 a month, you can’t make the pay-
+ ments on your loan and you will be forced to sell the house. There are surely cases
+ where the lower payments of an adjustable-rate mortgage are worth the risk, but this
+ may not be one of them.
+    A more sophisticated value-at-risk analysis would include a time horizon and prob-
+ abilities. In fact, the formal definition of Value at Risk is the worst possible loss over a
+ specific time horizon, at a given probability. VaR is a measure of risk that we will find
+ very useful in discussing the management and regulation of financial institutions. By
+ restricting the sorts of financial instruments banks can hold, bank managers and finan-
+ cial regulators try to limit the chances of a financial collapse. Such a collapse is an
+ example of infrequent but potentially catastrophic events sometimes called tail risks or
+ black swans (like the enormous 2011 earthquake that produced a tsunami and nuclear
+ disaster in Japan). To address the dangers associated with financial tail risks, banks
+ and regulators employ the concept of value at risk.
+
+
+
+Risk Aversion, the Risk Premium,
+and the Risk-Return Tradeoff
+The implication of our discussion so far is that most people don’t like risk and will pay
+to avoid it. While some people enjoy risky activities like skydiving and car racing,
+most of us are more careful. And while some people gamble large sums, most of us
+don’t because we can’t sustain large losses comfortably. In fact, the reason we buy
+insurance is that we want someone else to take the risk. Insurance is an interesting
+case; remember, for an insurance company to make a profit, it must charge more than
+it expects to pay out. Thus, insurance premiums are higher than the expected value of
+the policyholder’s losses. We pay to avoid risks because most of us are risk averse.
+
+
+===== PDF 149 | 印刷页 114 =====
+
+114   l Chapter 5  Understanding Risk
+
+
+
+                                                   To understand risk aversion, imagine that you are offered a single
+                                                chance to play a game in which a fair coin will be tossed. If it comes up
+                                                heads you will win $1,000; if it comes up tails, you will get nothing. How
+                                                much would you be willing to pay to play the game just once? The expected
+                                                value of the game is $500—that is, on average, the game yields $500—but
+                                                you may play only one time. Would you pay $500 to play the game? If so,
+                                                you are risk neutral. Most people would not play the game at $500, though
+                                                they would at less than that amount. These people are risk averse.
+                                                   Because the coin toss is similar to an i­nvestment, we can apply the
+                                                same logic to investor behavior and conclude that a risk-averse investor
+                                                will always prefer an investment with a certain return to one with the
+                                                same expected return but any amount of uncertainty. (A risk-neutral
+                                                person wouldn’t care as long as the expected return is the same.) A risk-
+                                                free investment with a guaranteed return is clearly preferable to a risky
+                                                investment with the same expected return but an uncertain outcome. In
+                                                the case of the coin toss, most people would take $500 with certainty
+Pepgooner/Shutterstock                          rather than risk tossing the coin and getting double or nothing.
+                                                   One result of this desire to avoid risk is that investors require compen-
+                              sation for taking risk. That’s the flip side of buying insurance. When we buy insurance,
+                              we pay someone else to take our risks, so it makes sense that if someone wants us to
+                              take on a risk, we need to be paid to do it. A risky investment, then, must have an
+                              expected return that is higher than the return on a risk-free asset. In economic terms, it
+                              must offer a risk premium. In general, the riskier an investment, the higher the risk
+                              premium (the higher the compensation investors require for holding it) (see Figure 5.2).
+                                  By extension, if riskier investments have higher risk premiums, they must have
+                              higher expected returns. Thus, there is a tradeoff between risk and expected return;
+                              you can’t get a high return without taking considerable risk. So if someone tells you he
+                              or she made a big return on an investment, you should suspect that it was a very risky
+                              investment. No risk, no reward!
+                                  To see how the idea of a risk premium works, take the case of a bond. We will study
+                              this in much more detail in Chapters 6 and 7, but for now let’s compare bonds issued by
+                                                                 Johnson & Johnson (JNJ) with those of JCPenney (JCP).
+                                                                 As of the first quarter of 2019, JNJ was in top-notch
+   Figure 5.2           The Tradeoff between Risk and
+                        Expected Return                          financial condition, while JCP was not. That leads us to
+                                                                 expect that the return for holding JCP’s bonds would
+                                                                 contain a higher risk premium than would the return for
+      Expected                   Higher Risk =
+                                                                 holding JNJ bonds. And it did. In early 2019, the two
+         Return             Higher Expected Return
+                                                                 companies had bonds with a maturity range of about five
+                                                                 years. Those from JCP paid 25.09 percent, while those
+                                     Risk Premium                from JNJ paid 2.59 percent. Meanwhile, a five-year U.S.
+                                                                 Treasury note paid a meager 2.42 percent. Because the
+                                                                 U.S. Treasury is highly likely to pay, we’ll use 2.42 per-
+                                     Risk-Free Return            cent as our estimate of the risk-free rate. So, to get an
+                                                                 estimate of the risk p­ remium for the JNJ and JCP bonds,
+                                                     Risk
+                                                                 we subtract 2.42 from the rate for each: For JCP, the
+                                                                 result is 25.09 − 2.42 = 22.67 percent; for JNJ, we
+The higher the risk, the higher the expected return.             get 2.59 − 2.42 = 0.17 percent. Not surprisingly, the
+The risk premium equals the expected return on the risky         risk premium on the relatively risky company is much
+investment minus the risk-free return.                           ­bigger—in this case, more than 100 times bigger!
+
+
+===== PDF 150 | 印刷页 115 =====
+
+                                                                     Sources of Risk: Idiosyncratic and Systematic Risk   l   115
+
+
+
+Sources of Risk:
+Idiosyncratic and Systematic Risk
+Risk is everywhere. It comes in many forms and from almost every imaginable place. In
+most circumstances the sources of risk are obvious. For drivers, it’s the risk of an acci-
+dent; for farmers, the risk of bad weather; for investors, the risk of fluctuating stock
+prices. Regardless of the source, however, we can classify all risks into one of two groups:
+(1) those affecting a small number of people but no one else and (2) those affecting
+everyone. We’ll call the first of these idiosyncratic risks, or unique risks, and the second
+systematic risks, or economywide risks.6
+   To understand the difference between idiosyncratic and systematic risk, think
+about the risks facing Ford Motor Company stockholders. Why should the value of
+Ford’s stock go up or down? There are two main reasons. First, there is the risk that
+Ford will lose sales to other carmakers. If Ford fares poorly compared with its com-
+petition, its market share (and thus its share of all economic activity) may shrink (see
+Figure 5.3). This risk is unique to Ford, because if Ford does relatively poorly, some-
+one else must be doing relatively better. Idiosyncratic risk affects specific firms, not
+everyone.
+   The second risk Ford’s stockholders face is that the U.S. industry as a whole will do
+poorly (see Figure 5.3). This is systematic, economywide risk. If we think of idiosyn-
+cratic risk as a change in the share of the auto-market pie, systematic risk is a change in
+the size of the pie of the entire economy, of which the auto market is a part. In other
+words, systematic risk is the risk that everyone will do poorly at the same time. The
+entire economy could slow for reasons that are completely u­ nrelated to any individual
+company’s performance. Macroeconomic factors, such as swings in consumer and
+business confidence brought on by global economic conditions or changes in the polit-
+ical climate, are the source of systematic risks that affect all firms and individuals in
+the entire economy.
+   Idiosyncratic risks come in two types. In the first,
+one set of firms is affected in one way and other firms
+in another way. An example would be a change in the               Figure 5.3        Idiosyncratic and Systematic Risk
+price of oil. History tells us that when oil prices rise,
+auto sales fall, and the automobile industry suffers. But
+higher oil prices improve the profits of firms that supply                        Ford’s Share
+energy, such as ExxonMobil, Shell, and Texaco. An oil
+                                                                                  Idiosyncratic
+price change that is bad for Ford is good for the oil com-
+panies. Looking at the economy as a whole, this is an                                  Risk
+idiosyncratic risk.                                                   Systematic
+   Not all idiosyncratic risks are balanced by opposing                                   Ford’s Share of Economic
+                                                                           Risk                Activity Shrinks
+risks to other firms or industries. Some unique risks are
+specific to one person or company and no one else. The               Ford’s Share
+risk that two people have an automobile accident is
+unrelated to whether anyone else has one. We will                              Recession Shrinks
+include these completely independent risks in the cate-                       the Entire Economy
+gory of idiosyncratic risks.
+
+
+These are also sometimes referred to as specific and common risks.
+6
+
+
+===== PDF 151 | 印刷页 116 =====
+
+116     l Chapter 5  Understanding Risk
+
+
+
+
+                            Your Risk Tolerance
+                            YOUR FINANCIAL WORLD
+
+
+      How much risk should you tolerate? Figuring that out isn’t             time to make back the losses you might suffer. Think
+      easy, but there are a few ways to get some sense of the right          about the difference between a 25-year-old and a
+      level of risk for you. First, there are risk quizzes, short sets of    60-year-old both saving for their retirement. Which one of
+      questions financial advisors give their clients to determine           these people can afford to suddenly lose a quarter of her
+      the level of risk they can live with. For instance, “What would        savings? Obviously, it is the 25-year-old. If a 60-year-old
+      you do if a month after you invest in the stock market, the            loses a quarter of her retirement savings, it’s a disaster!
+      value of your stocks suddenly falls by 20 percent?” Answers            Likewise, if you’re saving to buy a car or a home, the
+      might include “Sell right away,” “Nothing,” and “Buy more.”            sooner you are planning to make the purchase, the less
+      Many financial institutions offer one on their websites, so you        you can afford to lose what you have. Always ask yourself:
+      might want to try one.                                                 How much can I stand to lose? The longer your time hori-
+          But don’t stop there. Even if you are willing to take              zon (and the wealthier you are), the more risk you can
+      risks, that doesn’t mean you should. You may not have                 ­tolerate.
+
+
+
+
+                                Reducing Risk through Diversification
+                                When George T. Shaheen left his $4 million-a-year job overseeing 65,000 employ-
+                                ees of a large management consulting firm to become chief executive of the
+                                ­Webvan Group, he may not have realized how much of a risk he was taking. He
+                                 thought W ­ ebvan would change the way people bought their groceries. Consumers
+                                 would order their cereal, milk, apples, and ice cream over the Internet, and Webvan
+                                 would deliver to their door. In November 1999, just a few months after Shaheen
+                                 joined the company, his stock in Webvan was worth more than $280 million. But
+                                 by April 2001, his shares were worth a paltry $150,000 and Shaheen had left the
+                                 company. On July 10, 2001, Webvan collapsed and stockholders were left with
+                                 nothing.
+                                    What happened to Webvan and its plan to change the way people shop? Maybe
+                                 people actually like getting out of the house and going to the grocery store. Or maybe
+                                 Webvan was just ahead of its time. But this story is about more than shopping; it’s also
+                                 about risk. Shaheen took on so much risk that a single big loss wiped him out. Traders
+                                 in the financial markets call this experience “blowing up.” Surely Shaheen could have
+                                 done something to protect at least a portion of his phenomenal wealth from the risk
+                                 that it would suddenly disappear. But what?
+                                    Cervantes answered this question in Don Quixote in 1605: “It is the part of a
+                                 wise man to keep himself today for tomorrow, and not to venture all his eggs in one
+                                 basket.” In today’s terminology, risk can be reduced through ­diversification, the
+                                 principle of holding more than one risk at a time. Though it may seem counterintu-
+                                 itive, holding several different investments can reduce the idiosyncratic risk an
+                                 investor bears. A combination of risky investments is often less risky than any one
+                                 individual investment. There are two ways to diversify your investments. You can
+                                 hedge risks or you can spread them among the many investments. Let’s discuss
+                                 hedging first.
+
+
+===== PDF 152 | 印刷页 117 =====
+
+                                                                              Reducing Risk through Diversification l 117
+
+
+
+Hedging Risk                                                             Table 5.5
+                                                                                          Payoffs on Two Separate
+                                                                                          Investments of $100
+Hedging is the strategy of reducing idiosyncratic risk
+by making two investments with opposing risks. When
+one does poorly, the other does well, and vice versa. So                           Payoff from
+while the payoff from each investment is volatile,                                Owning Only
+together their payoffs are stable.                               Possibility      3M      Texaco             Probability
+   Consider the risk an investor faces from a potential
+                                                                                                                     1
+change in the price of oil. Increases in the price of oil        Oil prices rise $100      $120                     ​​  _2 ​ ​
+are bad for most of the economy, but they are good               Oil prices fall $120      $100
+                                                                                                                     1
+                                                                                                                    ​​  _2 ​​
+for oil companies. So an investor might buy stock in
+both 3M, maker of a wide range of products for con-
+sumer, medical and industrial uses; and Texaco, a
+large oil company. For the sake of our example, let’s assume that oil prices have an
+equal chance of rising or falling. When they rise, owners of Texaco stock receive a
+payoff of $120 for each $100 they invested. When oil prices fall, Texaco’s share-
+holders just get their $100 investment back. The reverse is true for 3M. When oil
+prices fall, owners of 3M stock get $120 for each $100 they invested; when oil
+prices rise, they get $100.
+   Table 5.5 summarizes these relationships.
+   Let’s compare three strategies for investing $100, given the relationships shown in
+the table:
+
+   1. Invest $100 in 3M.
+   2. Invest $100 in Texaco.
+   3. Invest half in each company: $50 in 3M and $50 in Texaco.
+
+   Regardless of whether you invest $100 in 3M or Texaco, the expected payoff
+is ½($120) + ½($100) = $110; and the
+                                              _____________________________
+                                          ​  12 ​($120 − $110)2 + _​  12 ​($100 − $110)2 ​  = $10
+    ​Standard deviation of the payoff = ​√   
+                                          _
+
+
+   ​But what about the third option? What if you split your $100 and put half in 3M
+and half in Texaco? B ­ ecause $50 is half the size of your initial investment, the
+payoff is half as big as well—a $50 investment in either stock pays off either
+$60 or $50. But the important point about this strategy is that it reduces your risk
+(see Table 5.6). When oil prices go up, Texaco does well but 3M does badly. When
+oil prices fall, the reverse happens. Regardless of
+whether oil prices go up or down, you will get back                                Results of Possible Investment
+$110 on your $100 investment. Investing $50 in each          Table 5.6             Strategies: Hedging Risk
+stock ensures your payoff. Hedging—splitting your                                  Initial Investment = $100
+investment between two stocks with different payoff
+patterns—has eliminated your risk entirely.                    Investment              Expected          Standard
+    Could George Shaheen have hedged the risk                    Strategy                Payoff          Deviation
+of owning so much Webvan stock? To do it, he would                 3M only               $110              $10
+have had to find a company whose stock price would
+rise when Webvan’s fell. That would have been diffi-           Texaco only               $110              $10
+cult, because Webvan’s business concept was                         1
+                                                                    _          1
+                                                                               _
+                                                                 ​  2 ​ and ​  2 ​       $110              $ 0
+new and untested. But Shaheen did have another
+option.
+
+
+===== PDF 153 | 印刷页 118 =====
+
+118     l Chapter 5  Understanding Risk
+
+
+
+
+                           Do U.S. Households Benefit When Growth Is Stable?
+                           APPLYING THE CONCEPT
+
+      Something odd has happened to the U.S. economy over the                  Regardless of why individual income risk has gone up
+      past three decades. Economists call this period the Great           even as aggregate risk has gone down, a key question is
+      Moderation because aggregate income, measured by real               whether households can insure themselves against the risk
+      GDP, became more stable. But at the household level, the            of an interruption or decline in income.
+      volatility of income rose during the Great Moderation. Put dif-          At first glance, you might think that a large group of people
+      ferently, families face greater idiosyncratic income risk than      facing uncorrelated hazards are perfect candidates for an in-
+      in the past even though economywide systematic risk has             surance pool. However, a combination of incentives, complex-
+      receded.                                                            ity, and cost conspire to make private insurance of this kind
+          What are the implications? Consider a slowdown of               generally unavailable. For example, someone who is hedged
+      2½ percent in economic growth—the typical pattern of a U.S.         against income risk may be less inclined to seek retraining (or
+      recession in the past half century. If it meant everyone went       a new job if they lose one). And, while insurers know how to
+      home an hour earlier on Friday afternoon until growth picked        overcome such incentive problems, doing so requires com-
+      up again, we wouldn’t worry much—the burden would be                plex and costly contracts. The same is true of creating and op-
+      spread evenly across the entire population. But that’s not          erating financial markets needed to hedge risks.
+      how it works. Instead, in that typical recession, one in every           So, U.S. households today face greater idiosyncratic in-
+      30 or 40 people becomes unemployed, so the pain is highly           come risk than a generation ago. Can finance specialists and
+      concentrated. Business cycle downturns come with lots of            economic policymakers find a way to use financial institu-
+      idiosyncratic risk.                                                 tions and markets to help people diversify these income
+          Disturbingly, even as recessions have become milder, in-        risks? Not yet, but they have good reason to work at it.†
+      dividual income volatility has been rising.* This volatility
+      could reflect more frequent, short-term job changes. If so,
+      the fall in income while between jobs would be quickly re-
+                                                                          *
+                                                                            Karen Dynan, Douglas Elmendorf, and Daniel Sichel, “The
+      versed. Alternatively, it could be that people who lose their       Evolution of Household Income Volatility,” The B.E. Journal of
+                                                                          Economic Analysis and Policy 12, no. 2 (2012).
+      jobs are less likely to find a new one at the same level of pay,
+      in which case the income decline will persist. It’s probably a
+                                                                          †
+                                                                           Robert Shiller, The New Financial Order: Risk in the 21st Century
+      bit of both.                                                        (Princeton, NJ: Princeton University Press, 2004).
+
+
+
+
+                               Spreading Risk
+                               Because investments don’t always move predictably in opposite directions, you can’t
+                               always reduce risk through hedging. Fortunately, there is another way. You can simply
+                               spread risk around—and that’s what George Shaheen should have done. To spread
+                               your risk, all you need to do is find investments whose payoffs are unrelated. Let’s
+                               replace Texaco with Microsoft and assume that 3M and Microsoft’s payoffs are inde-
+                               pendent of each other.7 So we toss a coin once to see if 3M does well or badly, and then
+                               we toss it a second time to see how Microsoft does. As ­before, a $100 investment in
+                               either company pays off either $120 or $100 with equal probability.
+                                  Again, we’ll consider three investment strategies: (1) 3M only, (2) Microsoft only,
+                               and (3) half in 3M and half in Microsoft. The expected payoff on each of these strate-
+                               gies is the same: $110. For the first two strategies, $100 in either company, the stand-
+                               ard deviation is still $10, just as it was before. But for the third strategy, $50 in 3M and
+                               $50 in Microsoft, the analysis is more complicated. There are four possible outcomes,
+                               two for each stock.
+
+                               7
+                                The assumption of independence makes the calculations easier but is not essential. All that we need to know is
+                               that the two payoffs, 3M and Microsoft, are not perfectly correlated so they do not move in lockstep.
+
+
+===== PDF 154 | 印刷页 119 =====
+
+                                                                                                                Reducing Risk through Diversification l 119
+
+
+
+                                Payoffs from Investing $50 in Each of Two Stocks
+     Table 5.7
+                                Initial Investment = $100
+
+
+        Possibilities                        3M                    Microsoft                     Total Payoff        Probability
+                                                                                                                           1
+                #1                          $60                        $60                          $120                   ​  _4 ​
+                                                                                                                           1
+                #2                          $60                        $50                          $110                   ​  _4 ​
+                                                                                                                           1
+                #3                          $50                        $60                          $110                   ​  _4 ​
+                                                                                                                           1
+                #4                          $50                        $50                          $100                   ​  _4 ​
+
+
+
+    To solve the problem, we need to create a table showing all the possibilities, their prob-
+abilities, and the associated payoffs (see Table 5.7). We’re familiar with possibilities 2 and
+3, in which one stock pays off but the other one doesn’t, just as in the 3M/Texaco example.
+    Remember that the standard deviation is the square root of the average of the
+squared deviations from the expected value, weighted by the probabilities. In this
+case, that turns out to be the__________
+                                    square root of the sum of ¼($120 − $110)2 plus
+¼($100 − $110) , which is √
+                    2
+                               ​ 50(dollars2) ​ = $7.1.8
+    Figure 5.4 shows the distribution of outcomes from the possible investment strate-
+gies. The left-hand panel plots the payoffs from investing the entire $100 in one stock,
+either 3M or Microsoft. The right-hand panel has the distribution of the payoffs from
+investing $50 in each of two stocks (from Table 5.7). The figure makes clear that by
+
+
+
+    Figure 5.4                    Spreading Risk Payoffs from Two Investment Strategies
+
+
+              Entire $100 in a Single Stock                                                $50 in Each of Two Stocks
+              (3M only or Microsoft only)                                               (1/2 in 3M and 1/2 in Microsoft)
+                 Expected value = $110                                                        Expected value = $110
+      1.0                                                                            1.0
+      0.8                                                                            0.8
+      0.6                                                                            0.6
+      0.4                                                                            0.4
+      0.2                                                                            0.2
+      0.0                                                                            0.0
+                  $100               $110                $120                               $100     $110       $120
+                                                                                             #4     #2 + #3      #1
+
+Left panel is the bar plot of the distribution of payoffs from investing all $100 in either 3M or Microsoft,
+where each pays off either $100 or $1 1 0 with probability ½. Right panel is the bar plot of the distribution of
+payoffs from investing $50 each in 3M and Microsoft, where each pays off either $50 or $60 with probability
+½ and both are independent (see Table 5.7).
+
+8
+ Following the steps in Table 5.4, we can compute the standard deviation of investing $50 each in
+                                 _____________________________________________________________
+                      ​  14 ​($120 − $110)2 + _​  14 ​($110 − $110)2 + _​  14 ​($110 − $110)2 + _​  14 ​($100 − $110)2 ​
+3M and Microsoft as ​√      
+                      _
+      _____________________________                              __________
+       1
+       4
+         ​($10)2 + _​  14 ​($0)2 + _​  14 ​($0)2 + _​  14 ​($10)2 ​ = √
+= ​√_​                                                                ​ 50(dollars2) ​ = $7.1.
+
+
+===== PDF 155 | 印刷页 120 =====
+
+120   l Chapter 5  Understanding Risk
+
+
+
+
+                      On the Distribution of Wealth
+                      MONEY AND BANKING BLOG
+
+
+  Over the past half century or so, while the distribution of     OECD country comparisons, the United States ranks at the
+  per capita income around the world has become more              top for the wealth shares of the top 10 percent (79.5 p­ ercent)
+  equal, within many advanced countries income has be-            and the top 1 percent (42.5 ­percent). It is also the third low-
+  come distinctly less equal. What is true of income also ap-     est for the bottom 60 percent (2.4 percent). At the opposite
+  plies to wealth.                                                end of the spectrum is Japan, where the wealth ratio of the
+      Wealth inequality affects welfare in at least two key re-   top 10 percent to the bottom 60 percent is 2.3, just a frac-
+  spects. First, savings allow households to smooth con-          tion of the U.S. ratio of 33.
+  sumption in the face of temporary bouts of illness or               What factors influence the evolution of the wealth dis-
+  unemployment, but those with little or no wealth have           tribution in the United States? One element is the path of
+  nothing to buffer fluctuations in income. Second, wealth        incomes. Other things equal, slower income growth means
+  provides resources in retirement, but those with little or no   less saving and less wealth accumulation. Moreover, the
+  savings face potential hardship in old age.                     lower the mobility of people between income groups over
+      It turns out that the distribution of wealth is far less    generations, the wider the gap between the savings and
+  equal than that of income. Moreover, in the United              wealth paths of the wealthy and those of the others. A sec-
+  States, the wealth distribution has become decidedly            ond factor is that the less well-off hold a different mix of
+  more unequal in recent years. As a result, a large portion      assets and are more reliant on borrowing. A third reason
+  of U.S. households appear to have little scope for meet-        for increased wealth inequality is the evolution of asset
+  ing retirement needs out of their current net worth, mak-       prices.
+  ing federal insurance programs key to their future                  What are the key portfolio differences across the popu-
+  well-being.                                                     lation? The wealthiest Americans invest the largest portion
+      While wealth inequality prevails in virtually every mod-    of their wealth in business equity and related instruments,
+  ern economy, the differences across countries are large.        while people in the middle of the distribution concentrate
+  Among the advanced economies, wealth inequality appears         their holdings in a highly undiversified asset—their home.
+  particularly pronounced in the United States. A ­ ccording to   Information from the Federal Reserve’s Survey of
+
+
+
+
+                          spreading your investment among independently risky investments you lower the
+                          spread of the outcomes, and lower the risk.
+                             Measures of risk other than standard deviation will give us the same result.
+                          When you split your investment between the two stocks, 75 percent of the time the
+                          payoff is $110 or higher; only 25 percent of the time is the payoff $100. For most
+                          people, that prospect is more appealing than a 50 percent probability of getting
+                          $100 and a 50 percent probability of getting $120, the odds an investor faces in
+                          holding only one stock.
+                             In the real world, there is no reason for an investor to stop diversifying at two stocks. The
+                          more independent sources of risk you hold in your portfolio, the lower your overall risk.
+                          Using the same numbers in this example—a payoff of either $100 or $120 per $100 invest-
+                          ment, with equal probability—we can increase the number of stocks from two to three to
+                          four, and the standard deviation of a $100 investment will fall from $7.1 to $5.8 to $5.0. As
+                          we add more and more independent sources of risk, the standard deviation becomes negli-
+                          gible. (The appendix to this chapter explains the algebra behind this statement.)
+                             In summary, spreading the risk is a fundamental investment strategy. As Cervantes
+                          put it (and George Shaheen learned), never put all your eggs in one basket. If ­Shaheen
+
+
+===== PDF 156 | 印刷页 121 =====
+
+                                                                               Reducing Risk through Diversification l             121
+
+
+
+
+  ­ onsumer Finance tells us that 80.4 percent of the assets
+  C                                                               bottom 50 percent plunged by more than 40 percent. Per
+  held by the top 1 percent are composed of corporate stock,      household, the drop is even larger, more than 50 percent.
+  unincorporated business equity, financial securities, mutual    Over a longer interval, the results also are startling:
+  funds shares, personal trusts, and real estate other than       Per-household wealth in the bottom half of the distribution
+  their primary residence. In sharp contrast, for those in the    is not only lower today than it was in 2007, but it is sub-
+  middle three quintiles of the distribution (that is, from the   stantially below the level in either 1971 or 1989.
+  20th to the 80th percentiles), their principal residence ac-        Returning to welfare, the recent dramatic increase in
+  counts for 61.9 percent of their assets. The two groups also    wealth inequality has two important implications. First, all
+  have sharply different levels of borrowing: relative to net     but the wealthiest have less capacity to smooth their con-
+  worth, debt is an almost imperceptible 2.4 percent for the      sumption when faced with transitory income shocks. As a
+  top 1 percent, but comes in at a whopping 58.9 percent for      result, there is a risk that recessions will be both deeper
+  the middle 60 percent. Most of the latter is mortgage debt.     and more harmful to the most vulnerable in society.
+      Despite relatively sluggish income gains at the bot-            Second, with the retirement of the baby boom genera-
+  tom of the distribution, the general rise of asset prices in    tion now in full swing, tens of millions of U.S. households
+  the decades prior to 2007 boosted wealth across the             may have little or no net worth on which to fall back. Ab-
+  board. However, the collapse of housing prices during           sent a sharp and sudden climb in housing prices, it will be
+  the 2007–2009 financial crisis triggered a large setback        difficult for those in the bottom half of the wealth distribu-
+  for those below the top 10 percent. In contrast, the post-      tion who are currently approaching retirement age to main-
+  crisis recovery of stock prices sharply boosted the wealth      tain a decent standard of living after leaving the workforce.
+  of those at the top.                                            Many of those who can delay retirement probably will feel
+      Putting all this together leads to the following conclu-    compelled to do so, even if their wages stagnate or slide.
+  sions. While U.S. aggregate net worth rose by 20 percent        Those who cannot delay will be even more reliant on gov-
+  from 2007 to 2016, the wealth of the top 10 percent rose by     ernment-provided pension and health care in the form of
+  nearly 30 percent. Over the same period, the wealth of the      Social Security, Medicare, and Medicaid.
+
+
+
+
+had sold his Webvan stock and invested the proceeds in a portfolio composed of many
+stocks representative of the stock market as a whole, he would probably still have most
+of his $280 million. Diversification really works.
+    Diversification through the spreading of risk is the basis for the insurance busi-
+ness. A large automobile insurer writes millions of policies. It counts on the fact
+that not everyone will have accidents at the same time, for the risk of any one
+policyholder crashing is independent of the risk of another policyholder crashing.
+If it writes enough policies, the company can expect a predictable number of acci-
+dent claims each year. When you toss a coin a million times, it will turn up heads
+around 500,000 times; likewise, assembling a large enough pool of independent
+risks isn’t risky.
+    Now that we understand both what risk is and how to measure it, we can move on
+to study the impact of risk on the value of bonds, stocks, and other financial instru-
+ments. Using the tools from this chapter we will see how risk affects decisions by
+individual investors, managers of financial institutions, and officials who make
+public policy decisions. As we do, always remember Core Principle 2: Risk requires
+compensation.
+
+
+===== PDF 157 | 印刷页 122 =====
+
+                          122    l Chapter 5  Understanding Risk
+
+
+
+                                                              Key Terms
+                                                              average, 105                      leverage, 110                   risk premium, 114
+                                                              benchmark, 103                    mean, 105                       spreading risk, 118
+                                                              diversification, 116              payoff, 104                     standard deviation, 108
+                                                              expected return, 106              probability, 103                systematic risk, 115
+                                                              expected value, 105               risk, 102                       value at risk (VaR), 109
+                                                              hedging, 117                      risk-free asset, 107            variance, 107
+                                                              idiosyncratic risk, 115           risk-free rate of return, 107
+
+
+
+
+                                                              Using FRED: Codes for Data in This Chapter
+                                                                 Data Series                                         FRED Data Code
+                                                                 Wilshire 5000 stock price index                     WILL5000PR
+                                                                 S&P 500 stock price index                           SP500
+www.moneyandbanking.com
+
+
+
+
+                                                                 30-year conventional mortgage rate                  MORTG
+                                                                 5/1-year adjustable mortgage rate                   MORTGAGE5US
+                                                                 Moody’s Aaa corporate bond yield                    AAA
+                                                                 Moody’s Baa corporate bond yield                    BAA
+                                                                 BofA Merrill US CCC or below effective yield        BAMLH0A3HYCEY
+                                                                 CBOE Volatility Index: VIX                          VIXCLS
+                                                                 CBOE Volatility Index: DJIA                         VXDCLS
+                                                                 10-year Treasury constant maturity rate             GS10
+
+
+
+
+                                                              Chapter Lessons
+                                                              1. Risk is a measure of uncertainty about the possible future payoffs of an investment.
+                           To learn more about the
+                           changing financial system, visit      It is measured over some time horizon, relative to a benchmark.
+                           www.moneyandbanking.com.
+                                                              2. Measuring risk is crucial to understanding the financial system.
+                                                                 a. To study random future events, start by listing all the possibilities and assign a
+                                                                    probability to each. Be sure the probabilities add to one.
+                                                                 b. The expected value is the probability-weighted sum of all possible future out-
+                                                                    comes.
+                                                                 c. A risk-free asset is an investment whose future value, or payoff, is known with
+                                                                    certainty.
+                                                                 d. Risk increases when the spread (or range) of possible outcomes widens but the
+                                                                    expected value stays the same.
+                                                                 e. One measure of risk is the standard deviation of the possible payoffs.
+                                                                 f. A second measure of risk is value at risk, the worst possible loss over a specific
+                                                                    time horizon, at a given probability.
+
+
+===== PDF 158 | 印刷页 123 =====
+
+                                                                        Conceptual and Analytical Problems l   123
+
+
+
+3. A risk-averse investor:
+   a. Always prefers a certain return to an uncertain one with the same expected return.
+   b. Requires compensation in the form of a risk premium in order to take risk.
+   c. Trades off between risk and expected return: the higher the risk, the higher the
+      expected return risk-averse investors will require for holding an investment.
+4. Risk can be divided into idiosyncratic risk, which is specific to a particular business
+   or circumstance, and systematic risk, which is common to everyone.
+5. There are two types of diversification:
+   a. Hedging, in which investors reduce idiosyncratic risk by making investments
+      with offsetting payoff patterns.
+   b. Spreading, in which investors reduce idiosyncratic risk by making investments
+      with payoff patterns that are not perfectly correlated.
+
+
+Conceptual and Analytical Problems                                                         ®
+
+
+
+
+    1.	Consider a game in which a coin will be flipped three times. For each heads you
+        will be paid $100. Assume that the coin comes up heads with probability ⅔. (LO1)
+        a. Construct a table of the possibilities and probabilities in this game.
+        b. Compute the expected value of the game.
+
+
+
+
+                                                                                                                     www.moneyandbanking.com
+        c. How much would you be willing to pay to play this game?
+        d. Consider the effect of a change in the game so that if tails comes up two times
+           in a row, you get nothing. How would your answers to parts a–c change?
+    2.* Why is it important to be able to quantify risk? (LO2)
+    3.	You are the founder of IGRO, an Internet firm that delivers groceries. (LO4, LO5)
+        a. Give an example of an idiosyncratic risk and a systematic risk your company
+           faces.
+        b. As founder of the company, you own a significant portion of the firm, and
+           your personal wealth is highly concentrated in IGRO shares. What are the
+           risks that you face, and how should you try to reduce them?
+    4.	Assume that the economy can experience high growth, normal growth, or reces-
+        sion. Under these conditions you expect the following stock market returns for
+        the coming year: (LO1, LO3)
+
+
+      State of the Economy                      Probability                      Return
+
+      High Growth                                   0.2                           +30%
+      Normal Growth                                 0.7                           +12%
+      Recession                                     0.1                           −15%
+
+
+
+        a. Compute the expected value of a $1,000 investment over the coming year. If
+           you invest $1,000 today, how much money do you expect to have next year?
+           What is the percentage expected rate of return?
+        b. Compute the standard deviation of the percentage return over the coming year.
+        c. If the risk-free return is 7 percent, what is the risk premium for a stock market
+           investment?
+*
+ Indicates more difficult problems.
+
+
+===== PDF 159 | 印刷页 124 =====
+
+                          124   l Chapter 5  Understanding Risk
+
+
+
+                                                     5.	Assume that the economy can experience four possible states: high growth, nor-
+                                                         mal growth, recession, or depression. For each of those states, you expect the
+                                                         following stock market returns for the coming year:
+
+
+                                                        State of the Economy                     Probability                    Return
+
+                                                        High Growth                                 0.20                         +20%
+                                                        Normal Growth                               0.60                          +8%
+                                                        Recession                                   0.15                         −10%
+                                                        Depression                                  0.05                         −30%
+
+
+                                                 		In dollar terms, what is the value at risk (over a one-year horizon at a 5 percent
+                                                    probability) associated with a $1,000 investment? (LO2)
+                                                     6.	Car insurance companies sell a large number of policies. Explain how this prac-
+                                                         tice minimizes their risk. (LO5)
+                                                     7.	Mortgages increase the risk faced by homeowners. (LO2)
+                                                         a. Explain how.
+                                                         b. What happens to the homeowner’s risk as the down payment on the house
+www.moneyandbanking.com
+
+
+
+
+                                                            rises from 10 percent to 50 percent?
+                                                     8.	Banks pay substantial amounts to monitor the risks that they take. One of the
+                                                         primary concerns of a bank’s “risk managers” is to compute the value at risk.
+                                                         Why is value at risk so important for a bank (or any financial institution)? (LO2)
+                                                     9.	Explain how liquidity problems can be an important source of systemic risk in
+                                                         the financial system. (LO4)
+                                                 10.*	Give an example of systematic risk for the U.S. economy and how you might
+                                                       reduce your exposure to such a risk. (LO4, LO5)
+                                                 11.     For each of the following events, explain whether it represents systematic risk or
+                                                         idiosyncratic risk and why. (LO4)
+                                                         a. Your favorite restaurant is closed by the county health department.
+                                                         b. The government of Spain defaults on its bonds, causing the breakup of the
+                                                            euro area.
+                                                         c. Freezing weather in Florida destroys the orange crop.
+                                                         d. Solar flares destroy earth-orbiting communications satellites, knocking out
+                                                            cell phone service worldwide.
+                                                 12.     You are planning for retirement and must decide whether to purchase only your
+                                                         employer’s stock for your 401(k) or, instead, to buy a mutual fund that holds
+                                                         shares in the 500 largest companies in the world. From the perspective of both
+                                                         idiosyncratic and systematic risk, explain how you would make your decision.
+                                                         (LO4, LO5)
+                                                 13.     For each of the following actions, identify whether the method of risk assess-
+                                                         ment motivating your action is due to the value at risk or the standard deviation
+                                                         of an underlying probability distribution. (LO2)
+                                                         a. You buy life insurance.
+
+                                                 *
+                                                  Indicates more difficult problems.
+
+
+===== PDF 160 | 印刷页 125 =====
+
+                                                                       Conceptual and Analytical Problems l 125
+
+
+
+       b. You hire an investment advisor who specializes in international diversifica-
+          tion in stock portfolios.
+       c. In your role as a central banker, you provide emergency loans to illiquid inter-
+          mediaries.
+       d. You open a kiosk at the mall selling ice cream and hot chocolate.
+14.	Which of the investments in the following table would be most attractive to a
+     risk-averse investor? How would your answer differ if the investor was described
+     as risk neutral? (LO1)
+15.	Consider an investment that pays off $800 or $1,400 per $1,000 invested with
+     equal probability. Suppose you have $1,000 but are willing to borrow to
+     increase your expected return. What would happen to the expected value and
+     standard deviation of the investment if you borrowed an additional $1,000 and
+     invested a total of $2,000? What if you borrowed $2,000 to invest a total of
+     $3,000? (LO1)
+
+
+     Investment                       Expected Value               Standard Deviation
+
+           A                                75                             10
+
+
+
+
+                                                                                                                  www.moneyandbanking.com
+           B                               100                             10
+           C                               100                             20
+
+
+
+16.	Suppose an investment pays off $800 or $1,600 with equal probability
+     per $1,000 invested. What is the maximum leverage ratio you could have
+     and still have enough to repay the loan in the event the bad outcome
+     occurred? (LO1)
+17.	Consider two possible investments whose payoffs are completely independent of
+     one another. Both investments have the same expected value and standard devia-
+     tion. If you have $1,000 to invest, explain why you would benefit from dividing
+     your funds between these investments. (LO5)
+18.*	Suppose you identify 10 possible investments whose payoffs are completely
+      independent of one another. All the investments have the same expected
+      value and standard deviation. You have $1,000 to invest. In terms of risk,
+      would the benefit of spreading your $1,000 across all 10 investments be the
+      same, greater, or smaller compared with dividing your funds between just 2
+      investments? (LO5)
+19.	You are considering three investments, each with the same expected value and
+     each with two possible payoffs. The investments are sold only in increments
+     of $500. You have $1,000 to invest so you have the option of either splitting
+     your money equally between two of the investments or placing all $1,000 in
+     one of the investments. If the payoffs from Investment A are independent of
+     the payoffs from Investments B and C and the payoffs from B and C are
+     ­perfectly negatively correlated with each other (meaning when B pays off,
+      C doesn’t, and vice versa), which investment strategy will minimize your
+      risk? (LO5)
+
+*
+ Indicates more difficult problems.
+
+
+===== PDF 161 | 印刷页 126 =====
+
+                          126   l Chapter 5  Understanding Risk
+
+
+
+                                                 20.	In which of the following cases would you be more likely to decide whether to
+                                                      take on the risk involved by looking at a measure of the value at risk? (LO2)
+                                                      a. You are unemployed and are considering investing your life savings of
+                                                         $10,000 to start up a new business.
+                                                      b. You have a full-time job paying $100,000 a year and are considering making
+                                                         a $1,000 investment in the stock of a well-established, stable company.
+                                                      Explain your reasoning.
+                                                 21.	You have the option to invest in either Country A or Country B but not both. You
+                                                      carry out some research and conclude that the two countries are similar in every
+                                                      way except that the returns on assets of different classes tend to move together
+                                                      much more in Country A—that is, they are more highly correlated in Country A
+                                                      than in Country B. Which country would you choose to invest in and why? (LO5)
+                                                 22.	The imposition of new trade tariffs has resulted in tensions between the United
+                                                      States and some of its major trading partners. Suppose you are a small business
+                                                      owner in the United States. (LO3, LO4)
+                                                 		 a.	How would you classify the risk of a U.S. economic downturn that results from
+                                                        such trade conflict?
+                                                 		 b.	Do you think a strategy to reduce this risk through hedging or spreading risk
+www.moneyandbanking.com
+
+
+
+
+                                                        within the U.S. economy would be successful? Explain your answer.
+                                                 23.	The rise in wealth inequality in the United States has reduced the capacity of much
+                                                      of the population to cope with transitory income shocks. How might you expect that
+                                                      to impact workers’ preferences between fixed-salary jobs versus jobs with a low
+                                                      base salary and the potential for high-commission-based earnings? (LO2, LO3)
+
+
+                                                 Data Exploration                                     ®
+
+
+
+
+                                                 For detailed instructions on using Federal Reserve Economic Data (FRED) online to
+                                                 answer each of the following problems, visit www.mhhe.com/moneyandbanking6e
+                                                 and refer to FRED Resources and Data Exploration Hints.
+                                                  1.   Plot the percent change from a year ago of the Wilshire 5000 stock index at a
+                                                       monthly frequency (FRED code: WILL5000PR). Visually, has the risk of the
+                                                       Wilshire 5000 index changed over time? (LO2)
+                                                  2.   Another way to understand stock market risk is to examine how investors expect
+                                                       risk to evolve in the near future. The DJIA volatility index (FRED code:
+                                                       VXDCLS) is one such measure. Plot the level of this volatility index at a monthly
+                                                       frequency since October 1997 and, as a second line, the percent change from a
+                                                       year ago of the Wilshire 5000 index, also at a monthly frequency (FRED code:
+                                                       WILL5000PR). Compare their patterns. (LO2)
+                                                  3.   For the period since 2005, plot on one graph the 30-year conventional mortgage rate
+                                                       (FRED code: MORTGAGE30US) and a measure of an adjustable mortgage rate
+                                                       (FRED code: MORTGAGE5US). Explain their systematic relationship using Core
+                                                       Principle 2: Risk requires compensation. (LO2)
+                                                  4.   Plot the difference since 1979 between the Moody’s Baa bond index (FRED code:
+                                                       BAA) and the U.S. Treasury 10-year bond yield (FRED code: GS10). Comment
+                                                       on the trend and variability of this “credit risk premium” (see Chapter 7) before
+                                                       and after the 2007–2009 financial crisis. (LO1)
+
+
+===== PDF 162 | 印刷页 127 =====
+
+                                                                                   The Mathematics of Diversification   l   127
+
+
+
+
+Appendix to Chapter 5
+The Mathematics of Diversification
+
+With a small amount of mathematics, we can show how diversification reduces risk.
+Let’s begin with two investments in 3M and Texaco. We’ll label the payoffs to these
+investments x and y. If x is the payoff to buying 3M stock, then it must equal either
+$120 or $100, each with a probability of one-half (see Table 5.5). Then y is the payoff
+to buying Texaco stock.
+
+
+Hedging Risk
+In the chapter, we considered splitting our investment between 3M and Texaco. If x
+and y are the payoffs from holding 3M and Texaco, respectively, then the payoff on the
+investment is
+
+
+
+
+                                                                                                                                  www.moneyandbanking.com
+​	                                 Investment payoff = _​  12 ​x + _​  12 ​y(A1)​
+     What is the variance of this payoff? (Because the standard deviation is the square root
+     of the variance, the two must move together—a lower variance means a lower standard
+     deviation—so we can skip the standard deviations.) In general, the variance of any
+     weighted sum ax + by is
+     ​	               Var(ax + by) = a2Var(x) + b2Var(y) + 2ab Cov(x,y)(A2)
+​where Var is the variance and Cov is the covariance. While the variance measures the
+extent to which each payoff moves on its own, the covariance measures the extent to which
+two risky assets move together. If the two payoffs rise and fall together, then the covariance
+will be positive. If one payoff rises while the other falls, then the covariance will be
+negative.
+   It is useful to express these quantities symbolically. Assume that pi is the probabil-
+ity associated with a particular outcome xi. Then the expected value of x is the
+probability-weighted sum of the possible outcomes.
+                                                              _
+     ​	                                                   ​ = ​Σ​ ​pixi​(A3)
+                             Expected value of x = E(x) = x​
+                                                                       i
+​As described in the chapter (page 107), the variance of x is the probability-weighted
+sum of the squared deviations of x from the expected value.
+                                                                           _
+     ​	                    Variance of x = Var(x) = ​σ2x​ ​  ​ = ​Σ​ ​pi​(xi − x​
+                                                                               ​ )2(A4)
+                                                              i
+     ​The covariance of x and y is defined analogously as
+                                                                               _     _
+     ​	           Covariance of x and y = Cov(x,y) = σx,y = ​Σ​ ​pi​(xi − x​
+                                                                          ​ )(yi − y​
+                                                                                   ​ )(A5)
+                                                                   i
+     ​In our 3M/Texaco examples, a = b = _​  12 ​, so
+     ​	            Var(Investment payoff) = _​  14 ​Var(x) + _​  14 ​Var(y) + ​ _12 ​Cov(x,y)(A6)
+
+
+===== PDF 163 | 印刷页 128 =====
+
+                          128   l Chapter 5  Understanding Risk
+
+
+
+                                                   ​We know from Table 5.6 that the expected payoff to 3M and Texaco is $110 each
+                                                 and the standard deviation is $10 as well. The variance is the standard deviation
+                                                 squared, so it is 100. What about the covariance? We can compute it easily from
+                                                 Table 5.5:
+                                                          ​Cov(Payoff on 3M and Texaco)
+                                                             = _​  12 ​(100 − 110)(120 − 110) + _​  12 ​(120 − 110)(100 − 110) = −100(A7)
+                                                 S
+                                                 ​ ubstituting this value into the formula for the variance of the investment payoff, we get
+                                                 ​	                Var(Investment payoff) = _​  14 ​(100) + ​ _14 ​(100) − _​  12 ​(100) = 0   (A8)
+                                                 ​ he fact that the covariance is negative means that the variance, or risk, in a portfolio
+                                                 T
+                                                 containing both 3M and Texaco stock is lower than the risk in a portfolio containing
+                                                 one or the other. The stocks act as hedges for each other.
+
+
+                                                 Spreading Risk
+                                                 Showing how spreading reduces risk is a bit more complex. Let’s consider spreading
+                                                 our investment between 3M and Microsoft. Again, the variance of the investment pay-
+                                                 off depends on the variances of the individual stock payoffs and on their covariance.
+www.moneyandbanking.com
+
+
+
+
+                                                 But here we must assume that the covariance between the 3M and Microsoft payoffs is
+                                                 zero. That is, they are independent of each other. As before, each stock has a variance
+                                                 of 100, so the variance of a portfolio that is split half and half is
+                                                 ​	                     Var(Investment payoff) = _​  14 ​(100) + ​ _14 ​(100) = 50             (A9)
+                                                    ​and the standard deviation is 7.1 (see footnote 8 on page 119).
+                                                       This result suggests that individual stocks or groups of stocks with independent
+                                                 payoffs are potentially valuable, as they will reduce risk. Let’s consider an arbi-
+                                                 trary number of independent investments, each with the same individual variance.
+                                                 What is the variance of an equally weighted portfolio of these investments?
+                                                 Assume
+                                                     _
+                                                              that the number of investments is n, each with the same expected payoff,​
+                                                 x​, and the same variance, ​σ​x2​  ​. We hold 1/n of our portfolio in each stock, so the
+                                                 expected payoff is
+                                                                                                              n
+                                                                                                                       _
+                                                 ​	                             Expected payoff = __​  1n ​ ​Σ​x​  i​= x​
+                                                                                                                       ​ (A10)
+                                                                                                             i=1
+
+                                                     ​Because the payoff on each stock is independent of all the rest, the covariances are
+                                                 all zero. So the variance is
+                                                                                                                 n
+                                                                                                                                     ​σ2​ ​  ​
+                                                 ​	                       Variance of payoff = ​​ __         ( )
+                                                                                                  ​  1n ​  ​​ Σ
+                                                                                                             2
+                                                                                                              ​​ ​​σ
+                                                                                                                i=1
+                                                                                                                    ​  2x​ ​  ​​ = __
+                                                                                                                                   ​  nx ​(A11)
+
+                                                      ​That is, the variance of the payoff on a portfolio of n independent stocks is the vari-
+                                                      ance divided by n. Most important, as n increases, the variance declines, so when the
+                                                      value of n is very large, the variance is essentially zero.
+                                                         In summary, spreading exposure to risk among a wide range of independent risks
+                                                      reduces the overall risk of a portfolio. As we saw in this chapter, this is the strategy
+                                                      that insurance companies use. While the payoff to an individual policyholder is highly
+                                                      uncertain, the payoffs to a large group of policyholders are almost unrelated. By sell-
+                                                      ing millions of insurance policies, the company simply pays the expected value, and
+                                                      the variance will be nearly zero if the payoffs are truly independent.

@@ -1,0 +1,73 @@
+{
+  "article_id": 3755712,
+  "selection": {
+    "article_id": 3755712,
+    "url": "https://wallstreetcn.com/articles/3755712",
+    "title": "特朗普政府挖掘美联储“隐秘第三使命”，长期利率控制成新焦点",
+    "page_display_time": "2025-09-16T21:46:44+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "张雅琦",
+    "page_author_url": "https://wallstreetcn.com/authors/120000004773",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "A",
+    "reading_value": "围绕适度长期利率这一政策目标讨论期限结构、缩表及财政协调，并交代历史约束。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 2195,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 8
+  },
+  "url": "https://wallstreetcn.com/articles/3755712",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3755712?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:15+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "特朗普政府挖掘美联储“隐秘第三使命”，长期利率控制成新焦点",
+  "page_display_time": "2025-09-16T21:46:44+08:00",
+  "page_byline": "张雅琦",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "特朗普最新提名的理事候选人米兰意外引用美联储章程中关于“适度长期利率”条款。这一表态不仅让市场意识到美联储章程中存在着鲜为人知的“第三使命”，更被视为特朗普政府试图利用美联储自身法规，为干预长期债券市场提供“合法性”的明确信号。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 2269,
+  "body_sha256": "285778fe11f1c669930dc00fb57494119d3543a96b4f8288a6075a70ff704350",
+  "raw_sha256": "0ad97ed68d49e826e88ca7e0b276c948def82d667f424e379f851547aff718bb",
+  "raw_bytes": 10161,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/5635af4e-2a09-4b77-b82e-9d7e6406ea43.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 2195,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "0ad97ed68d49e826e88ca7e0b276c948def82d667f424e379f851547aff718bb",
+      "bytes": 10161
+    },
+    "article.html": {
+      "sha256": "89bd513a40fa95e9c47c833c062275f8745aa97e6ed12d16048740b35fef3c5e",
+      "bytes": 9933
+    },
+    "article.md": {
+      "sha256": "5b7079466e3545f2362c6986fd9c6ae3af0f51ee71ada924c938f536a0209b0a",
+      "bytes": 7073
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:08+08:00"
+}

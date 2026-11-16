@@ -1,0 +1,104 @@
+{
+  "article_id": 3783406,
+  "selection": {
+    "article_id": 3783406,
+    "url": "https://wallstreetcn.com/articles/3783406",
+    "title": "Alexandr Wang谈打造Muse：7个月不足200人，不卷编程不拼参数，Meta豪赌个人AI",
+    "page_display_time": "2026-10-12T12:06:24+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "龙玥",
+    "page_author_url": "https://wallstreetcn.com/authors/120000002320",
+    "page_source_label": null,
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "AI投资与商业化",
+    "reading_priority": "A",
+    "reading_value": "长访谈呈现产品定位、组织规模和研发选择，补充消费AI项目的经营逻辑。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 23784,
+    "page_image_count": 2,
+    "original_underlying_research_verified": false,
+    "catalog_number": 157
+  },
+  "url": "https://wallstreetcn.com/articles/3783406",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783406?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:54+08:00",
+  "assets": [
+    {
+      "order": 1,
+      "source_url": "https://wpimg-wscn.awtmt.com/b170e1da-0f00-4346-8227-7b946f375825.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "2025年，Meta的Llama 4未能达到公司预期。",
+      "path": "assets/figure_001.png",
+      "sha256": "092ca0010f1942fb70879aa69b23ebacaaa81f04cb046ffad0a27f8ac48a6f32",
+      "bytes": 650747,
+      "width": 926,
+      "height": 628,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/b170e1da-0f00-4346-8227-7b946f375825.png"
+    },
+    {
+      "order": 2,
+      "source_url": "https://wpimg-wscn.awtmt.com/7c479c0d-c73a-4acc-ba56-ff803aed00ce.png",
+      "status": "complete",
+      "alt": "",
+      "context_before": "",
+      "context_after": "访谈全文如下：",
+      "path": "assets/figure_002.png",
+      "sha256": "8d1417c001c0e3995db5585288381ad89b5af9c5c5e66b02b2ef835c50b9aecc",
+      "bytes": 823911,
+      "width": 1024,
+      "height": 475,
+      "content_type": "image/png",
+      "final_url": "https://wpimg-wscn.awtmt.com/7c479c0d-c73a-4acc-ba56-ff803aed00ce.png"
+    }
+  ],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "Alexandr Wang谈打造Muse：7个月不足200人，不卷编程不拼参数，Meta豪赌个人AI",
+  "page_display_time": "2026-10-12T12:06:24+08:00",
+  "page_byline": "龙玥",
+  "source_label": "",
+  "source_url": "",
+  "subtitle": "Alexandr Wang加入Meta后，带领不足200人的团队，历时7个月打造出消费级AI产品Muse。在Llama 4受挫后，他判断Meta的真正优势在个人AI而非编程，主张以单一视角打磨极致体验。Muse发布后他亲自用表情包营销，并以超200名直接下属的扁平结构反对官僚主义，相信AI能激活每个人的自主性。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 23598,
+  "body_sha256": "120a2d313a1157b9cd1cf0e3819eca2a6e64041c41d4d092bcd8bf3f9aca155e",
+  "raw_sha256": "2019ae1359f503abd73cc992f5306ab72afdad758da0d3f7d5db123d3db9f227",
+  "raw_bytes": 78298,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/0bf189c0-bdb3-429f-a315-3ba3718f2ca6.mp3",
+  "image_occurrences": 2,
+  "html_table_count": 0,
+  "catalog_image_count": 2,
+  "catalog_text_characters": 23784,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:43+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "2019ae1359f503abd73cc992f5306ab72afdad758da0d3f7d5db123d3db9f227",
+      "bytes": 78298
+    },
+    "article.html": {
+      "sha256": "f509a6bf6e413afa601f6f1299ea96acd2b923debc97f384da3cb1931391a062",
+      "bytes": 75772
+    },
+    "article.md": {
+      "sha256": "44d2a61bf018e74148ed31c714a5a3f51d3c2da42c7b6e6f3823b33cf55d5f46",
+      "bytes": 64979
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:39+08:00"
+}

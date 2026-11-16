@@ -1,0 +1,73 @@
+{
+  "article_id": 3783718,
+  "selection": {
+    "article_id": 3783718,
+    "url": "https://wallstreetcn.com/articles/3783718",
+    "title": "盛松成：美联储利率路径仍有不确定性",
+    "page_display_time": "2026-10-15T20:48:39+08:00",
+    "date_timezone": "Asia/Shanghai",
+    "page_byline": "许超",
+    "page_author_url": "https://wallstreetcn.com/authors/100000379170",
+    "page_source_label": "盛松成",
+    "page_source_url": null,
+    "page_attribution_note": null,
+    "category": "货币政策与通胀",
+    "reading_priority": "B",
+    "reading_value": "提出就业、信贷和通胀对加息路径的共同约束，并讨论对中国政策空间的传导。",
+    "starter_selection": false,
+    "public_access_verified_on": "2026-11-04",
+    "access_method": "unauthenticated public article page",
+    "reading_status": "sample_read: lead, outline and analytical passages; not a full fact check",
+    "public_text_characters": 4146,
+    "page_image_count": 0,
+    "original_underlying_research_verified": false,
+    "catalog_number": 19
+  },
+  "url": "https://wallstreetcn.com/articles/3783718",
+  "api_url": "https://api-one.wallstcn.com/apiv1/content/articles/3783718?extract=0",
+  "status": "complete",
+  "errors": [],
+  "acquired_at": "2026-11-04T16:03:17+08:00",
+  "assets": [],
+  "scope": "current public article body and inline figures; excludes platform TTS, cover, avatars, comments, and external linked works",
+  "title": "盛松成：美联储利率路径仍有不确定性",
+  "page_display_time": "2026-10-15T20:48:39+08:00",
+  "page_byline": "许超",
+  "source_label": "盛松成",
+  "source_url": "",
+  "subtitle": "考虑到就业市场降温和中期选举等对美联储激进加息的制约因素，10月或为观察期，但需防范通胀再度抬头、导致12月及2027年路径重新陡峭化的风险上升。",
+  "access_flags": {
+    "is_need_pay": false,
+    "is_priced": false,
+    "is_trial": false,
+    "is_video": false
+  },
+  "body_characters": 4220,
+  "body_sha256": "5747ef1ccbf498678c12d1dc0f191c9412414b21019ec54a997f7a4d7adfb909",
+  "raw_sha256": "07678421bafa43eee6dd151b369022f27faa44853ff6b8eab838ac06a7d820f4",
+  "raw_bytes": 15169,
+  "platform_tts_url_not_downloaded": "https://wpimg-wscn.awtmt.com/8f95c834-aa5f-4746-9eb3-09fadab50fe9.mp3",
+  "image_occurrences": 0,
+  "html_table_count": 0,
+  "catalog_image_count": 0,
+  "catalog_text_characters": 4146,
+  "notes": [],
+  "embedded_media": [],
+  "external_links": [],
+  "processed_at": "2026-11-04T16:14:31+08:00",
+  "files": {
+    "raw.json": {
+      "sha256": "07678421bafa43eee6dd151b369022f27faa44853ff6b8eab838ac06a7d820f4",
+      "bytes": 15169
+    },
+    "article.html": {
+      "sha256": "6c9869e18df5dddab38507728ca609b4f30943ddb65571a5990a27edfb8a48d8",
+      "bytes": 15106
+    },
+    "article.md": {
+      "sha256": "022013a28b782b45b77042e8d4548fe876c7097102bb17abc86183f42a9df7e8",
+      "bytes": 12364
+    }
+  },
+  "markdown_updated_at": "2026-11-04T16:38:10+08:00"
+}
