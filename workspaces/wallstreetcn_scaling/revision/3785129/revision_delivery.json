@@ -1,0 +1,91 @@
+{
+  "article_id": 3785129,
+  "files": [
+    {
+      "path": "10_concepts/外汇存款准备金率.md",
+      "draft_path": "drafts/10_concepts/外汇存款准备金率.md",
+      "operation": "update",
+      "id": "C-WS-3785129-FXRR",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "外汇存款准备金率",
+      "why": "保留制度、基础算例、一般传导和连续政策沿革；本次模型、数字和预期定位复用事件。",
+      "parent_ids": [
+        "C-CHINA-06"
+      ],
+      "parent_relation": "policy_subtype"
+    },
+    {
+      "path": "10_concepts/存款准备金率与降准.md",
+      "draft_path": "drafts/10_concepts/存款准备金率与降准.md",
+      "operation": "update",
+      "id": "C-CHINA-06",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "存款准备金率与降准",
+      "why": "保留一般制度/人民币范围及外币入口，删去入口段重复的本次公告参数。"
+    },
+    {
+      "path": "10_concepts/人民币与离岸人民币.md",
+      "draft_path": "drafts/10_concepts/人民币与离岸人民币.md",
+      "operation": "update",
+      "id": "C-FX-02",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "人民币与离岸人民币",
+      "why": "仅精炼11月历史为状态和观察含义；复算/模型统一定位，保护3月贸易与其他制度。"
+    },
+    {
+      "path": "30_events/markets/外汇存准上调与人民币升值边界：2026年11月华创判断.md",
+      "draft_path": "drafts/30_events/markets/外汇存准上调与人民币升值边界：2026年11月华创判断.md",
+      "operation": "update",
+      "id": "E-WS-3785129",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "外汇存准上调与人民币升值边界：2026年11月华创判断",
+      "why": "以银行约束、公告信号、结汇惯性、2027支撑变化组织；保留5张关键图并新增分时点检验。",
+      "node_ids": [
+        "C-WS-3785129-FXRR",
+        "C-CHINA-06",
+        "C-FX-02",
+        "C-FX-13",
+        "C-FX-18"
+      ],
+      "related_mechanism_ids": [
+        "R-INTERNATIONAL-09"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3785129.md",
+      "draft_path": "drafts/40_sources/S-WS-3785129.md",
+      "operation": "update",
+      "id": "S-WS-3785129",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "华创外汇存准与人民币展望：来源和核读范围",
+      "why": "提供12图逐件入口，集中报价复算、图轴/前移和拟合细节。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "FX1",
+      "adopted": true,
+      "change": "子页保留制度/一般过程/政策沿革，事件维护本次数字与判断；父页缩为入口；人民币11月窗口保留短历史，百分比复算和模型定位复用，其他来源与3月贸易未改。"
+    },
+    {
+      "issue_id": "FX2",
+      "adopted": true,
+      "change": "事件按银行资金约束→公告信号→结汇惯性→2027基本面排列，保留5张关键图片；Source为12原件逐件命名并直达，次要复算/轴/模型细节集中Source。"
+    },
+    {
+      "issue_id": "FX3",
+      "adopted": true,
+      "change": "新增11月3日公告到计划生效前、计划实施后数周及月度披露、2026年末、2027月/季四窗口，说明数量/预期/收入和基本面的辨别；标明11月16日后补、提前筹资及同期驱动，未写实际实施结果。"
+    }
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

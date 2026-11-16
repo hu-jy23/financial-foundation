@@ -10,7 +10,7 @@
       "type": "concept",
       "title": "标普500与等权指数",
       "entry_kind": "concept",
-      "why": "补具体美国大盘股票标的；解释市值/等权、涨幅贡献与广度，并保存10月集中行情。"
+      "why": "精炼本篇贡献示例和10月历史，保护1月情景/11月规则；连接一个月财报检验。"
     },
     {
       "path": "10_concepts/利率互换期权Swaption.md",
@@ -20,7 +20,7 @@
       "type": "concept",
       "title": "利率互换期权Swaption",
       "entry_kind": "concept",
-      "why": "补利率期权合同、payer/receiver、两段期限及Vega；区分图14跨式回测与正文宽跨式说法。"
+      "why": "将隐波上升限定于Vega渠道，总对冲效果按利率变动、Gamma、对冲路径及成本判断；回测数字归事件。"
     },
     {
       "path": "30_events/markets/美股集中、波动供给与柴油风险：野村2026年10月跨资产分析.md",
@@ -30,7 +30,18 @@
       "type": "analysis_note",
       "title": "美股集中、波动供给与柴油风险：野村2026年10月跨资产分析",
       "entry_kind": "event",
-      "why": "保存16图、集中与低相关性的解释、期权供给及柴油向利率的条件路径，区分作者三种策略与实际证据。"
+      "why": "连接集中/低相关抵消、客户卖方与中介对冲、共同冲击；图14最高CPI组改9.1%，按三个窗口分别检验。",
+      "node_ids": [
+        "C-WS-3783332-SP500",
+        "C-WS-3783332-SWAPTION",
+        "C-VOL-IVRV",
+        "C-DERIV-04",
+        "C-FLOW-10",
+        "C-FLOW-11",
+        "C-FLOW-12",
+        "C-COMMOD-03",
+        "C-INF-INFLATION"
+      ]
     },
     {
       "path": "40_sources/S-WS-3783332.md",
@@ -40,7 +51,7 @@
       "type": "source_note",
       "title": "野村2026年10月跨资产分析：来源与核读范围",
       "entry_kind": "source",
-      "why": "登记正文16图和官方基础定义实读范围，定位Gamma范围、回测结构与原始材料未取得处。"
+      "why": "逐张定位16图，将次要读数与校勘集中到来源；保留旧基础定义补核范围。"
     },
     {
       "path": "10_concepts/隐含波动率与实现波动率.md",
@@ -50,7 +61,7 @@
       "type": "concept",
       "title": "隐含波动率与实现波动率",
       "entry_kind": "concept",
-      "why": "补组合方差与成分共同变动，区分绝对收益离散、RV和隐含相关性，保存10月历史观察。"
+      "why": "仅精炼本篇历史数字重复，保留方差解释、公式和旧研究。"
     },
     {
       "path": "20_mechanisms/做市商Gamma对冲的价格反馈.md",
@@ -60,7 +71,7 @@
       "type": "mechanism",
       "title": "做市商Gamma对冲的价格反馈",
       "entry_kind": "relation",
-      "why": "在logic-1补客户卖方至中介对冲的条件链，区别净Gamma与日内高低范围，保留野村10月解释归属。",
+      "why": "仅精炼10月补录和重复读数，保留净Gamma条件、旧研究与公式。",
       "node_ids": [
         "C-FLOW-10"
       ],
@@ -145,5 +156,6 @@
     "40_sources/S-WS-3783332.md",
     "10_concepts/隐含波动率与实现波动率.md",
     "20_mechanisms/做市商Gamma对冲的价格反馈.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3783332/audit.md"
 }

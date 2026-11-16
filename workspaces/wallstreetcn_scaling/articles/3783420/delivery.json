@@ -10,7 +10,7 @@
       "draft_path": "drafts/10_concepts/Muse.md",
       "operation": "new",
       "entry_kind": "subconcept",
-      "why": "新增Meta产品线子概念，解释模型/执行VM/商户接入、观察AI商业化的用途，并保存10月增长与成本历史。",
+      "why": "缩短10月12日数据重复并连接采用/部署/收费，保留10月23窗口与11月10身份；修正页首经营覆盖。",
       "parent_ids": [
         "C-TECH-22"
       ],
@@ -24,7 +24,7 @@
       "draft_path": "drafts/10_concepts/Meta.md",
       "operation": "update",
       "entry_kind": "concept",
-      "why": "补10月12日Muse用户与服务成本争议，区分集团广告回收与新产品独立经济性，保留较晚财务及技术记录。"
+      "why": "聚焦广告现金支持产品的集团含义，移除重复数字并修正工作图绑定说明。"
     },
     {
       "id": "C-TECH-20",
@@ -34,7 +34,7 @@
       "draft_path": "drafts/10_concepts/Amazon.md",
       "operation": "update",
       "entry_kind": "concept",
-      "why": "补Graviton合作与Muse零售接入的两组交易，区分CPU采购情景、已部署容量和AWS实际收入。"
+      "why": "聚焦云供给和零售接入的对手方角色，数值详算归来源；修正工作图绑定说明。"
     },
     {
       "id": "R-TECH-12",
@@ -44,7 +44,7 @@
       "draft_path": "drafts/20_mechanisms/平台网络效应.md",
       "operation": "update",
       "entry_kind": "relation",
-      "why": "新增logic-4：用户和商户互补依赖接入、权限与收益安排，区分网络效应、个人切换成本和补贴能力。",
+      "why": "仅精简logic-4案例并分近期接入/采用与远期商户收费观察，logic1—3保留。",
       "node_ids": [
         "C-TECH-03",
         "C-TECH-22",
@@ -95,7 +95,7 @@
       "draft_path": "drafts/30_events/markets/Muse增长、服务成本与交易接入：2026年10月观察.md",
       "operation": "new",
       "entry_kind": "event",
-      "why": "完整组织增长、CPU/GPU成本和容量、商业化及交易接入的当时问题；保留16图位并具体核对量纲与API表矛盾。",
+      "why": "按用户、强度/成本、接入、收费重排；事件选7图，API核算移来源，分三个兑现时段检验。",
       "node_ids": [
         "C-TECH-22",
         "C-WS-3783420-MUSE",
@@ -120,7 +120,7 @@
       "draft_path": "drafts/40_sources/S-WS-3783420.md",
       "operation": "new",
       "entry_kind": "source",
-      "why": "登记全文16图及两份一手材料实际核读范围、重复图和数值问题，隔离11月修订身份说明与10月经营窗口。"
+      "why": "定位全部16图位；集中54.75重算与55.81机构输出差异、图16完整核算及次要口径。"
     }
   ],
   "coverage": [
@@ -170,5 +170,6 @@
     "20_mechanisms/平台网络效应.md",
     "30_events/markets/Muse增长、服务成本与交易接入：2026年10月观察.md",
     "40_sources/S-WS-3783420.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3783420/audit.md"
 }

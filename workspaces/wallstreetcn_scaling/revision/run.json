@@ -89,7 +89,7 @@
       "source": "materials/wallstreetcn/SourcePost/用户增速骤降62%，摩根士丹利测算Muse每用户月成本最高130美元/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3783420/delivery.json",
       "writer": "/root/scale_10",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3783420"
     },
     {
@@ -98,7 +98,7 @@
       "source": "materials/wallstreetcn/SourcePost/野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3783332/delivery.json",
       "writer": "/root/scale_11",
-      "status": "reviewing",
+      "status": "revised",
       "reviewer": "/root/audit_3783332"
     },
     {
@@ -107,7 +107,7 @@
       "source": "materials/wallstreetcn/SourcePost/如何理解央行上调外汇存款准备金率？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3785129/delivery.json",
       "writer": "/root/scale_12",
-      "status": "reviewing",
+      "status": "revised",
       "reviewer": "/root/audit_3785129"
     },
     {
@@ -116,7 +116,8 @@
       "source": "materials/wallstreetcn/SourcePost/趋势、抱团与疯狂——A股“抓主线”投资方法论/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3771926/delivery.json",
       "writer": "/root/scale_13",
-      "status": "pending_review"
+      "status": "revising",
+      "reviewer": "/root/audit_3771926"
     },
     {
       "article_id": 3784163,
@@ -124,7 +125,8 @@
       "source": "materials/wallstreetcn/SourcePost/中金：如何对冲AI风险？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3784163/delivery.json",
       "writer": "/root/scale_14",
-      "status": "pending_review"
+      "status": "revising",
+      "reviewer": "/root/audit_3784163"
     },
     {
       "article_id": 3748815,
@@ -132,7 +134,8 @@
       "source": "materials/wallstreetcn/SourcePost/图解特朗普“大漂亮”法案：财政刺激力度、899条款“资本税”、对美债、美元影响有多大？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3748815/delivery.json",
       "writer": "/root/scale_15",
-      "status": "pending_review"
+      "status": "revising",
+      "reviewer": "/root/audit_3748815"
     },
     {
       "article_id": 3784306,
