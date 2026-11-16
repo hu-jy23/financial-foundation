@@ -10,7 +10,7 @@
       "draft_path": "drafts/10_concepts/柴油.md",
       "type": "concept",
       "title": "柴油",
-      "why": "可交付的具体能源商品及期货/裂解价差标的，独立承载炼油、馏分油统计、跨区贸易、批发与零售差异，观察炼化瓶颈如何独立于原油影响运输/农业成本。原油是投入品，不强设为柴油的类别父项；现图无成品油父项。"
+      "why": "减少历史段与结尾重复的图表疑点和缺项说明，保留产品基础及野村10/10、华泰10/19两个观察窗口。"
     },
     {
       "path": "10_concepts/通货膨胀.md",
@@ -30,7 +30,7 @@
       "draft_path": "drafts/20_mechanisms/原油供给冲击的宏观传导.md",
       "type": "mechanism",
       "title": "原油供给冲击的宏观传导",
-      "why": "logic-1补炼油/联合产品和出口净回值约束，logic-2补CPI直接/间接与滞后成本吸收；保留18刚接入的2025海峡情景，新增柴油节点参与1/2，不另造普通成本关系。",
+      "why": "仅精简本篇新增历史段的技术核读重复，保留独立炼化瓶颈、联合生产与付款链及全部既有研究。",
       "node_ids": [
         "C-COMMOD-03",
         "C-COMMOD-13",
@@ -67,7 +67,19 @@
       "draft_path": "drafts/30_events/markets/柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断.md",
       "type": "analysis_note",
       "title": "柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断",
-      "why": "完整保留供给/贸易、CPI分项、当时0.45/0.23pp路径、出口禁令争议及8图；峰值预测与数据校核分开。"
+      "why": "连续解释炼化—贸易—成本分担，新增2026年末至2027年初分支检验，区分可观测CPI与机构反事实贡献，明确配送小项同比贡献期限。",
+      "node_ids": [
+        "C-WS-3783904-DIESEL",
+        "C-COMMOD-03",
+        "C-INF-INFLATION",
+        "C-COMMOD-09",
+        "C-GLOBAL-02",
+        "C-GLOBAL-03"
+      ],
+      "related_mechanism_ids": [
+        "R-OIL-SHOCK",
+        "R-COMMODITY-03"
+      ]
     },
     {
       "path": "40_sources/S-WS-3783904.md",
@@ -77,7 +89,7 @@
       "draft_path": "drafts/40_sources/S-WS-3783904.md",
       "type": "source_note",
       "title": "华泰柴油与美国通胀研究：来源与核读范围",
-      "why": "登记图文、EIA/BLS/ATRI与10月5白宫文本的实读；原模型、FedEx定价、IEA细表/俄罗斯许可未取得。"
+      "why": "集中图3/5/6/7核读细节，保留−41差额及美洲逐国差异，明确0.001为2026年8月12个月同比贡献。"
     }
   ],
   "coverage": [
@@ -121,5 +133,6 @@
     "20_mechanisms/原油供给冲击的宏观传导.md",
     "30_events/markets/柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断.md",
     "40_sources/S-WS-3783904.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3783904/audit.md"
 }

@@ -24,7 +24,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "A/H溢价",
-      "why": "补2025年6月华泰短期企稳/长期收窄判断，区分历史均值与未来底部、配对价差与行业成交份额，保留2026-09-30截止。"
+      "why": "缩短本篇AH历史为两期限判断及有用条件，图数与样本辨析移Source，保护较晚截面。"
     },
     {
       "path": "20_mechanisms/原油供给冲击的宏观传导.md",
@@ -34,11 +34,12 @@
       "type": "mechanism",
       "entry_kind": "relation",
       "title": "原油供给冲击的宏观传导",
-      "why": "logic-1补2025年6月单国出口/共同航道两情景；1750万桶和17.5%限图题列报，说明隐含分母未核，保留2026-05-13资料。",
+      "why": "本篇六月段保留单国/共用航道的差异，完整分母核读移来源，保护全部柴油返修与旧研究。",
       "node_ids": [
         "C-COMMOD-03",
         "C-COMMOD-13",
-        "C-INF-INFLATION"
+        "C-INF-INFLATION",
+        "C-WS-3783904-DIESEL"
       ],
       "related_mechanism_ids": [],
       "logic_groups": [
@@ -46,7 +47,8 @@
           "anchor": "logic-1",
           "node_ids": [
             "C-COMMOD-03",
-            "C-COMMOD-13"
+            "C-COMMOD-13",
+            "C-WS-3783904-DIESEL"
           ],
           "related_mechanism_ids": []
         },
@@ -54,7 +56,8 @@
           "anchor": "logic-2",
           "node_ids": [
             "C-COMMOD-03",
-            "C-INF-INFLATION"
+            "C-INF-INFLATION",
+            "C-WS-3783904-DIESEL"
           ],
           "related_mechanism_ids": []
         }
@@ -68,7 +71,7 @@
       "type": "analysis_note",
       "entry_kind": "event",
       "title": "五组市场叙述与条件预期差：华泰2025年6月跨资产判断",
-      "why": "完整保存关税、美债/美元、国内债市、AH/热点及商品五分支、9图及不同期限；共识限定为机构归纳。",
+      "why": "五个经济问题组织，选5图，补美元配置/套保/现金需求过程与逐分支后补检验，复用PMI。",
       "node_ids": [
         "C-WS-3749421-BONDETF",
         "C-FLOW-05",
@@ -78,13 +81,15 @@
         "C-ASIA-02",
         "C-CRYPTO-03",
         "C-COMMOD-03",
-        "C-COMMOD-13"
+        "C-COMMOD-13",
+        "C-MACRO-11"
       ],
       "related_mechanism_ids": [
         "R-GEOPOLITICS-02",
         "R-FISCAL-LONGYIELD",
         "R-CHINA_MARKET-07",
-        "R-OIL-SHOCK"
+        "R-OIL-SHOCK",
+        "R-USD-GLOBAL"
       ]
     },
     {
@@ -95,7 +100,7 @@
       "type": "source_note",
       "entry_kind": "source",
       "title": "华泰五组共识与预期差：来源与核读范围",
-      "why": "记录全文及9图、上交所定义和2024财政部回购材料的实读范围，登记图文对象/分母差异与未取得材料。"
+      "why": "全部9图直链及详细技术核读集中，记录接手返修身份和历史信息边界。"
     }
   ],
   "coverage": [
@@ -141,5 +146,6 @@
     "20_mechanisms/原油供给冲击的宏观传导.md",
     "30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md",
     "40_sources/S-WS-3749421.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3749421/audit.md"
 }

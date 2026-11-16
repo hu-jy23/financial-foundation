@@ -8,7 +8,7 @@ run=json.loads((R/'run.json').read_text());M=MarkdownIt('commonmark',{'html':Tru
 revision_path=R/'revision/run.json'
 revision=json.loads(revision_path.read_text()) if revision_path.exists() else None
 revision_done={t['article_id'] for t in revision['tasks'] if t['status']=='revised'} if revision else set()
-revision_note=(f'<p><strong>逐篇独立审阅及原作者返修：{len(revision_done)}/30篇已采用。</strong> '
+revision_note=(f'<p><strong>逐篇独立审阅及返修：{len(revision_done)}/30篇已采用。</strong> '
                f'<a href="revision/{"汇总.md" if (R/"revision/汇总.md").exists() else "run.json"}">审阅与返修记录</a></p>') if revision else ''
 PARENT_LABELS={'concrete_subject':'具体主体','thematic_collection':'专题集合','instrument_specific_basis':'特定工具的基差','instrument_subtype':'工具细类','company_product':'公司产品线','policy_subtype':'政策工具细类'}
 K={'concept':'概念','subconcept':'子概念','relation':'关系','subrelation':'子关系','event':'事件分析','source':'来源记录'}
@@ -53,7 +53,15 @@ for c in cases:
   op='新增' if f['operation']=='new' else '修改';label=K[kind(f)];why=f.get('why','')
   cards.append(f'<li><span class="tag">{op} · {label}</span> <a href="#{anchors[f["path"]]}">{E(f["title"])}</a>：{E(why)}</li>')
   if not c['baseline']:changes.append(f'- {op}{label}《{f["title"]}》：{why}')
- details.append(f'<section id="{cid}"><p class="eyebrow">{flag} · {c["id"]}</p><h2>{E(c["title"])}</h2>{rich(c["summary"])}<ul>{"".join(cards)}</ul></section>')
+ review_links=''
+ if revision:
+  t=next(t for t in revision['tasks'] if t['article_id']==c['id'])
+  if (R/'revision'/str(c['id'])/'audit.md').exists():
+   review_links=f'<p class="file"><a href="revision/{c["id"]}/audit.md">独立审阅</a>'
+   if c['id'] in revision_done:review_links+=f' · <a href="revision/{c["id"]}/revision.md">返修说明</a> · 已采用'
+   else:review_links+=' · 返修待采用'
+   review_links+='</p>'
+ details.append(f'<section id="{cid}"><p class="eyebrow">{flag} · {c["id"]}</p><h2>{E(c["title"])}</h2>{rich(c["summary"])}{review_links}<ul>{"".join(cards)}</ul></section>')
 # One current document per path; repeated articles link to the same maintained content.
 new_ids=set(nodes)-set(run['baseline_node_ids']);counts=Counter()
 for id in new_ids:

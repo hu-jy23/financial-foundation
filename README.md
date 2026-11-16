@@ -11,7 +11,7 @@
 | `reports/` | 对外报告及编译源文件 | [报告入口](reports/README.md) |
 | `docs/` | 文件管理约定及阶段进度 | [目录约定](docs/FILE_LAYOUT.md) |
 
-本轮整理与scaling测试使用分支`step2/wallstreetcn-scaling-20261116`。[三篇成品报告](workspaces/step2_articles/阅读报告.html)包含8个新对象、4个新关系及旧页更新，仍在独立工作区，未接入`graph/`。
+本轮整理与scaling测试使用分支`step2/wallstreetcn-scaling-20261116`。[三篇成品报告](workspaces/step2_articles/阅读报告.html)保存最初试点的阅读入口；Scaling扩展至30篇后，继续维护同一待整合工作图，未接入`graph/`。
 
 使用Git保存版本，不再复制整份项目生成v6、v7等工作目录。需要同时打开不同分支时使用`git worktree`。
 

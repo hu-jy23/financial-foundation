@@ -1,0 +1,51 @@
+{
+  "article_id": 3785076,
+  "verdict": "revise",
+  "issues": [
+    {
+      "id": "G1",
+      "severity": "medium",
+      "category": "error",
+      "location": "30_events/gold/黄金需求的渠道分化与预测修订：2026年三季度.md#private，第69行“各区加总有取整尾差”",
+      "evidence": "正文只列欧洲92、北美81、亚洲34吨，合计207吨，较全球211吨少4吨，不能全部解释为这四个整数的四舍五入。WGC同日Investment的ETF段另列其他地区约3吨，主要来自澳大利亚，另有南非贡献；补齐后仍可有取整差额。原图006图例也包含“其他”。",
+      "requested_change": "补上其他地区约3吨，再将剩余小差额表述为取整差异；或明确这三地区并未列全。不要改动原图、全球211吨或擅自把4吨全归到某个国家。"
+    },
+    {
+      "id": "G2",
+      "severity": "medium",
+      "category": "coverage",
+      "location": "30_events/gold/黄金需求的渠道分化与预测修订：2026年三季度.md#private，第69—73行",
+      "evidence": "原文“金条与金币需求降至四年低位”明确给出全球走弱的三项解释：区间震荡缺乏趋势、美国利率可能更久处于高位、股市上涨分流资金。成品保留了地区数字和印度的解释，却漏掉这段全球原因。ETF段只列财政、通胀、债市担忧，没有展开为何这些担忧会提高组合中的黄金保护价值。两段的对比因此主要靠数量与口径辨析支撑。WGC同日Investment还把中国的相对强势与本地股债替代回报联系起来。",
+      "requested_change": "在现有事件的渠道段补出简短连续解释：为什么部分实物投资者暂缓新买，为什么另一部分通过ETF增加黄金配置；交代趋势预期、替代回报、风险保护用途如何进入选择，并保留作者归属。中国等地区的相反表现用本地条件衔接，避免把全球股市和利率变化套到所有买家。一般机制可链接已有“黄金的机会成本机制”logic-3，毋须新建节点或改写10月材料。"
+    },
+    {
+      "id": "G3",
+      "severity": "medium",
+      "category": "clarity",
+      "location": "30_events/gold/黄金需求的渠道分化与预测修订：2026年三季度.md#revisions，第102行末段；20_mechanisms/央行购金与黄金需求结构.md#logic-1中11月展望",
+      "evidence": "WGC的主体、11月3日信息日、全年预测方向已经保存，但后续检验仍停在“分别观察各渠道持仓和出售、价格与实际支付条件”。文章有可直接检验的竞争解释：印度需求因节庆跨季推迟，还是数字渠道分流及高价约束持续；央行全年至少追平的展望又依赖第四季度购买及后续修订。当前没有说清何时看什么新观察、怎样修正哪项认识。",
+      "requested_change": "补一小段明确为11月16日依据11月3日信息后补的检验安排，以2026年第四季度及全年报告发布为窗口，选择最有解释力的两项：例如印度金条金币/金饰需求及数字渠道变化如何检验节庆后移解释；官方第四季度数量与同版本全年基准如何检验至少持平。可以给出按新闻848吨减前三季约675吨所得约173吨的情境算术，但必须注明它依赖新闻基准且不是WGC单独发布的季度目标，不要求采用这个数。不要加入11月3日后结果，节点页用短入口复用事件。"
+    }
+  ],
+  "retain": [
+    "亲自看过8图。已正确区分图001与008的前三季累计、图004的年初至今地区统计、图002的年度同比吨数变化以及图005的季度均价回报；没有发现采用数字的图内转录硬错。",
+    "年度投资增量+400→+200、ETF期间流量与4256吨期末存量、ETF渠道与持有人身份的区别均应保留。",
+    "321.2吨总估计、约120吨已报告与63%未披露的边界，以及加工340.1/消费312.9/库存27.2的桥接有解释价值。",
+    "供应分解、金饰量价背离、央行长期目标与价格敏感性并存，以及较早预测版本没有被覆盖，组织方向适合保留。",
+    "现有黄金、央行购金、ETF和GLD已经覆盖本篇必要基础知识，本次不建议新增图节点。"
+  ],
+  "cross_article_requests": [
+    "只修本篇11月贡献及本篇事件/来源。保留黄金1月存量比较、10月AI对冲、机制中的调查、捷克、年度数据及原署名；不修改其他作者已经返修的历史。",
+    "版本详证主要放事件#revisions及本篇来源。黄金11月小节、央行机制11月段按解释职责简短连接；无需把下载失败记录及848/863.3的整段说明再次扩写到各页。"
+  ],
+  "reviewed_sources": {
+    "local": "原文、metadata、8张原图、delivery所列4份现行成品；关联GLD及黄金机会成本机制正文。",
+    "primary_pages": [
+      "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026",
+      "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/outlook",
+      "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/central-banks",
+      "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/investment",
+      "https://www.gold.org/goldhub/research/gold-demand-trends/gold-demand-trends-q3-2026/notes-definitions"
+    ]
+  }
+}

@@ -161,10 +161,12 @@
       "source": "materials/wallstreetcn/SourcePost/当前市场的五大共识与五大预期差/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3749421/delivery.json",
       "writer": "/root/scale_18",
-      "status": "awaiting_writer_decision",
+      "status": "revised",
       "reviewer": "/root/audit_3749421",
       "writer_resume_attempts": 3,
-      "writer_error": "Bad Request; plain-text diagnostic also failed"
+      "writer_error": "Bad Request; plain-text diagnostic also failed",
+      "replacement_authorized_by_user": true,
+      "revision_writer": "/root/revise_3749421"
     },
     {
       "article_id": 3785076,
@@ -172,7 +174,7 @@
       "source": "materials/wallstreetcn/SourcePost/世界黄金协会：下调全年黄金投资需求增长预期至200吨，全球央行购金提速、ETF持仓创新高/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3785076/delivery.json",
       "writer": "/root/scale_19",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3785076"
     },
     {
@@ -181,7 +183,7 @@
       "source": "materials/wallstreetcn/SourcePost/柴油危机，对美国通胀影响多大？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3783904/delivery.json",
       "writer": "/root/scale_20",
-      "status": "revising",
+      "status": "revised",
       "reviewer": "/root/audit_3783904"
     },
     {
@@ -190,7 +192,7 @@
       "source": "materials/wallstreetcn/SourcePost/美银美林2026年十大灰天鹅：铀价暴涨50%……英格兰喜夺世界杯？/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3763441/delivery.json",
       "writer": "/root/scale_21",
-      "status": "reviewing",
+      "status": "revised",
       "reviewer": "/root/audit_3763441"
     },
     {
@@ -226,7 +228,8 @@
       "source": "materials/wallstreetcn/SourcePost/A股三季度复盘：市场风格已悄然切换/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3783160/delivery.json",
       "writer": "/root/scale_25",
-      "status": "pending_review"
+      "status": "revised",
+      "reviewer": "/root/audit_3783160"
     },
     {
       "article_id": 3767144,
@@ -234,7 +237,8 @@
       "source": "materials/wallstreetcn/SourcePost/开年外贸：闪耀的非常信号/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3767144/delivery.json",
       "writer": "/root/scale_26",
-      "status": "pending_review"
+      "status": "revising",
+      "reviewer": "/root/audit_3767144"
     },
     {
       "article_id": 3763452,
@@ -242,7 +246,8 @@
       "source": "materials/wallstreetcn/SourcePost/阿斯麦的＂巅峰时刻＂！大摩：先进制程扩产潮下，2027年或迎最强盈利增长/article.md",
       "delivery": "workspaces/wallstreetcn_scaling/articles/3763452/delivery.json",
       "writer": "/root/scale_27",
-      "status": "pending_review"
+      "status": "revising",
+      "reviewer": "/root/audit_3763452"
     },
     {
       "article_id": 3784900,
@@ -250,7 +255,8 @@
       "source": "materials/wallstreetcn/SourcePost/2008再现！一文读懂华尔街最热门交易：AI CDS/article.md",
       "delivery": "workspaces/step2_articles/deliveries/ai.json",
       "writer": "/root/produce_ai",
-      "status": "pending_review"
+      "status": "reviewing",
+      "reviewer": "/root/audit_3784900"
     },
     {
       "article_id": 3784053,

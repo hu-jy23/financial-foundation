@@ -10,7 +10,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "科创50指数",
-      "why": "新增000688编制对象及2026Q3历史，解释样本权重、板块/ETF和利润口径差异。"
+      "why": "保留组合规则与特有短历史，删除事件分析重复。"
     },
     {
       "path": "10_concepts/创业板指.md",
@@ -20,7 +20,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "创业板指",
-      "why": "新增399006编制对象及2026Q3历史，分清100股指数、板块与全收益版本。"
+      "why": "保留指数规则、观察用途与短历史，区间校读定位来源。"
     },
     {
       "path": "10_concepts/A股市场.md",
@@ -30,7 +30,7 @@
       "type": "concept",
       "entry_kind": "concept",
       "title": "A股市场",
-      "why": "补2026Q3相对表现与缩短久期解释；分开盈利预期、贴现率、交易活跃和各来源窗口。"
+      "why": "三季度段缩为市场短历史及主要检验入口，保护六月返修和其他正文。"
     },
     {
       "path": "30_events/markets/A股2026年三季度风格切换与缩短久期解释.md",
@@ -40,7 +40,7 @@
       "type": "analysis_note",
       "entry_kind": "event",
       "title": "A股2026年三季度风格切换与缩短久期解释",
-      "why": "保存完整季度复盘、6图及作者解释；区分收益、盈利、贴现和交易证据。"
+      "why": "去重复抄表，补美元可比回报重配链及分窗检验，保留关键判断边界。"
     },
     {
       "path": "40_sources/S-WS-3783160.md",
@@ -50,7 +50,7 @@
       "type": "source_note",
       "entry_kind": "source",
       "title": "锦缎2026年三季度复盘：来源及核读范围",
-      "why": "记录6图实读和Fed/SEP/指数/按揭定向核查；保留未核数据来源和窗口。"
+      "why": "直接定位6原图，集中窗口、复算、样本与历史排序核读记录。"
     }
   ],
   "coverage": [
@@ -108,5 +108,6 @@
     "10_concepts/A股市场.md",
     "30_events/markets/A股2026年三季度风格切换与缩短久期解释.md",
     "40_sources/S-WS-3783160.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3783160/audit.md"
 }

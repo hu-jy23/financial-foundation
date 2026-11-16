@@ -1,0 +1,126 @@
+{
+  "article_id": 3749421,
+  "original_author": "/root/scale_18",
+  "revision_author": "/root/revise_3749421",
+  "replacement_authorized_by_user": true,
+  "files": [
+    {
+      "path": "10_concepts/A／H溢价.md",
+      "draft_path": "drafts/10_concepts/A／H溢价.md",
+      "operation": "update",
+      "id": "C-ASIA-10",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "A/H溢价",
+      "why": "缩短本篇AH历史为两期限判断及有用条件，图数与样本辨析移Source，保护较晚截面。"
+    },
+    {
+      "path": "20_mechanisms/原油供给冲击的宏观传导.md",
+      "draft_path": "drafts/20_mechanisms/原油供给冲击的宏观传导.md",
+      "operation": "update",
+      "id": "R-OIL-SHOCK",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "原油供给冲击的宏观传导",
+      "why": "本篇六月段保留单国/共用航道的差异，完整分母核读移来源，保护全部柴油返修与旧研究。",
+      "node_ids": [
+        "C-COMMOD-03",
+        "C-COMMOD-13",
+        "C-INF-INFLATION",
+        "C-WS-3783904-DIESEL"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-COMMOD-03",
+            "C-COMMOD-13",
+            "C-WS-3783904-DIESEL"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-COMMOD-03",
+            "C-INF-INFLATION",
+            "C-WS-3783904-DIESEL"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md",
+      "draft_path": "drafts/30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md",
+      "operation": "update",
+      "id": "E-WS-3749421",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "五组市场叙述与条件预期差：华泰2025年6月跨资产判断",
+      "why": "五个经济问题组织，选5图，补美元配置/套保/现金需求过程与逐分支后补检验，复用PMI。",
+      "node_ids": [
+        "C-WS-3749421-BONDETF",
+        "C-FLOW-05",
+        "C-IR-TERM",
+        "C-FX-07",
+        "C-ASIA-10",
+        "C-ASIA-02",
+        "C-CRYPTO-03",
+        "C-COMMOD-03",
+        "C-COMMOD-13",
+        "C-MACRO-11"
+      ],
+      "related_mechanism_ids": [
+        "R-GEOPOLITICS-02",
+        "R-FISCAL-LONGYIELD",
+        "R-CHINA_MARKET-07",
+        "R-OIL-SHOCK",
+        "R-USD-GLOBAL"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3749421.md",
+      "draft_path": "drafts/40_sources/S-WS-3749421.md",
+      "operation": "update",
+      "id": "S-WS-3749421",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "华泰五组共识与预期差：来源与核读范围",
+      "why": "全部9图直链及详细技术核读集中，记录接手返修身份和历史信息边界。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "R1",
+      "status": "adopted",
+      "changes": "事件围绕五个经济问题组织，嵌5幅关键图；全部9图与详细核读移来源，AH/原油各缩为有含义短历史，债券ETF基础保留不改。"
+    },
+    {
+      "issue_id": "R2",
+      "status": "adopted",
+      "changes": "补相对盈利→新增美元配置/换汇、存量美元与套保偏差，外部支付融资需求与美国自身信用政策风险分支，复用6月财政事件及美元融资关系，标为本库解释。"
+    },
+    {
+      "issue_id": "R3",
+      "status": "adopted",
+      "changes": "以6月19日作者判断及原期限为基准，逐分支给新观察及竞争解释，11月16日后补检验标清，不补结果/目标/概率。"
+    }
+  ],
+  "validation": {
+    "article_id": 3749421,
+    "local_links_checked": 83,
+    "event_embedded_figures": 5,
+    "source_original_figure_links": 9,
+    "shared_body_outside_june_segments_unchanged": true,
+    "original_draft_authors_preserved": true,
+    "issues": [],
+    "passed": true
+  },
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

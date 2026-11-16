@@ -1,14 +1,14 @@
 {
   "accepted_additions": 27,
   "pending": 0,
-  "new_nodes": 22,
+  "new_nodes": 23,
   "node_types": {
     "子概念": 10,
-    "概念": 10,
+    "概念": 11,
     "关系": 2
   },
-  "working_nodes": 274,
-  "unique_documents": 139,
+  "working_nodes": 275,
+  "unique_documents": 140,
   "updated_nodes": 40,
   "updated_node_types": {
     "概念": 27,

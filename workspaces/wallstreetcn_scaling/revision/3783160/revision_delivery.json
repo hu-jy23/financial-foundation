@@ -1,0 +1,74 @@
+{
+  "article_id": 3783160,
+  "files": [
+    {
+      "path": "10_concepts/科创50指数.md",
+      "draft_path": "drafts/10_concepts/科创50指数.md",
+      "operation": "update",
+      "id": "C-WS-3783160-STAR50",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "科创50指数",
+      "why": "保留组合规则与特有短历史，删除事件分析重复。"
+    },
+    {
+      "path": "10_concepts/创业板指.md",
+      "draft_path": "drafts/10_concepts/创业板指.md",
+      "operation": "update",
+      "id": "C-WS-3783160-CHINEXT",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "创业板指",
+      "why": "保留指数规则、观察用途与短历史，区间校读定位来源。"
+    },
+    {
+      "path": "10_concepts/A股市场.md",
+      "draft_path": "drafts/10_concepts/A股市场.md",
+      "operation": "update",
+      "id": "C-ASIA-01",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "A股市场",
+      "why": "三季度段缩为市场短历史及主要检验入口，保护六月返修和其他正文。"
+    },
+    {
+      "path": "30_events/markets/A股2026年三季度风格切换与缩短久期解释.md",
+      "draft_path": "drafts/30_events/markets/A股2026年三季度风格切换与缩短久期解释.md",
+      "operation": "update",
+      "id": "E-WS-3783160",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "A股2026年三季度风格切换与缩短久期解释",
+      "why": "去重复抄表，补美元可比回报重配链及分窗检验，保留关键判断边界。"
+    },
+    {
+      "path": "40_sources/S-WS-3783160.md",
+      "draft_path": "drafts/40_sources/S-WS-3783160.md",
+      "operation": "update",
+      "id": "S-WS-3783160",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "锦缎2026年三季度复盘：来源及核读范围",
+      "why": "直接定位6原图，集中窗口、复算、样本与历史排序核读记录。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "STYLE-01",
+      "response": "事件去18行业与成交整表，选用图3/4/5/6；源表直链6图，集中分期回报、复算、单日/月均、历史极值及样本校读。两个指数保留规则和特有短历史，A股仅短历史与事件检验入口。"
+    },
+    {
+      "issue_id": "STYLE-02",
+      "response": "事件明确11/16条件解释：具备双市场资格的组合管理人按同币种期限并计汇率/对冲/税费比较回报，美元债相对吸引力升高可导致减少A股风险或要求较低买价；保留准入限制与国内保险机会成本，未冒充本季度已识别贡献。"
+    },
+    {
+      "issue_id": "STYLE-03",
+      "response": "区分锦缎/申万宏源10/8判断与11/16后补研究设计；10月财报同组合盈利修正、月底议息意外与跨境/国内回报、Q4分红保险配置及资源养殖供需分别写支持/削弱条件和竞争解释，不填后续结果。"
+    }
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

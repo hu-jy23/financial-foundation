@@ -1,8 +1,10 @@
-# 金融认知 Map
+# 金融认知 Map · Step2待整合工作图
 
 金融对象、机制、事件与资料来源的知识库。Step0原型阶段的234篇正文已完成：163个Concept、71个Mechanism；后续材料阅读可改写其内容与结构。
 
-本轮Step1已接入T1、T2：当前165个Concept、75个Mechanism，共240个节点。采用范围见[本轮来源记录](40_sources/STEP1_T1_T2.md)。
+本工作图包含正式图基线240节点及Step2的30篇材料增量，现有194个Concept、81个Mechanism，共275节点。逐篇成品及返修见[30篇报告](../../wallstreetcn_scaling/报告.html)。
+
+正式graph的Step1基线为165个Concept、75个Mechanism，共240节点。Step1采用范围见[本轮来源记录](40_sources/STEP1_T1_T2.md)。
 
 ## 阅读与制作入口
 

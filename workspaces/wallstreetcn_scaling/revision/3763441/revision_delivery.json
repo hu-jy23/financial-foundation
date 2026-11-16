@@ -1,0 +1,105 @@
+{
+  "article_id": 3763441,
+  "files": [
+    {
+      "path": "10_concepts/铀.md",
+      "draft_path": "drafts/10_concepts/铀.md",
+      "operation": "update",
+      "id": "C-WS-3763441-URANIUM",
+      "type": "concept",
+      "title": "铀",
+      "entry_kind": "concept",
+      "why": "保留燃料链基础，历史收束为判断与事件定位。"
+    },
+    {
+      "path": "10_concepts/CLO ETF.md",
+      "draft_path": "drafts/10_concepts/CLO ETF.md",
+      "operation": "update",
+      "id": "C-WS-3763441-CLOETF",
+      "type": "concept",
+      "title": "CLO ETF",
+      "entry_kind": "subconcept",
+      "why": "保留贷款池—分层—基金及浮息风险，历史精简。",
+      "parent_ids": [
+        "C-WS-3749421-BONDETF"
+      ],
+      "parent_relation": "instrument_subtype"
+    },
+    {
+      "path": "10_concepts/上市封闭式基金CEF.md",
+      "draft_path": "drafts/10_concepts/上市封闭式基金CEF.md",
+      "operation": "update",
+      "id": "C-WS-3763441-CEF",
+      "type": "concept",
+      "title": "上市封闭式基金CEF",
+      "entry_kind": "concept",
+      "why": "保留折价、融资、分配解释，条件发行历史定位事件。"
+    },
+    {
+      "path": "10_concepts/标普500与等权指数.md",
+      "draft_path": "drafts/10_concepts/标普500与等权指数.md",
+      "operation": "update",
+      "id": "C-WS-3783332-SP500",
+      "type": "concept",
+      "title": "标普500与等权指数",
+      "entry_kind": "concept",
+      "why": "仅改本篇1月段；保护scale_11其他正文与署名。"
+    },
+    {
+      "path": "30_events/markets/十项反共识情景与旧预测复盘：美银2026年1月展望.md",
+      "draft_path": "drafts/30_events/markets/十项反共识情景与旧预测复盘：美银2026年1月展望.md",
+      "operation": "update",
+      "id": "E-WS-3763441",
+      "type": "analysis_note",
+      "title": "十项反共识情景与旧预测复盘：美银2026年1月展望",
+      "entry_kind": "event",
+      "why": "按跨资产逻辑去重；2025自评选图与关键反思；增具体分期检验。",
+      "node_ids": [
+        "C-WS-3763441-URANIUM",
+        "C-WS-3763441-CLOETF",
+        "C-WS-3763441-CEF",
+        "C-WS-3783332-SP500",
+        "C-FX-USD",
+        "C-FX-02",
+        "C-FLOW-05",
+        "C-CREDIT-13",
+        "C-ASSET-UST",
+        "C-TECH-05"
+      ],
+      "related_mechanism_ids": [
+        "R-USD-GLOBAL",
+        "R-FX-TRADE-ADJUSTMENT",
+        "R-COMMODITY-08",
+        "R-BANKING-09"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3763441.md",
+      "draft_path": "drafts/40_sources/S-WS-3763441.md",
+      "operation": "update",
+      "id": "S-WS-3763441",
+      "type": "source_note",
+      "title": "美银2026年度意外情景：来源与核读范围",
+      "entry_kind": "source",
+      "why": "8张原图逐一直接链接，集中口径及核读说明。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "R1",
+      "change": "三概念保留基础解释并缩短历史；事件删制作/核读细项，保留改变结论的边界；2025用图7及关键反思；Source直接链接8图并集中口径。"
+    },
+    {
+      "issue_id": "R2",
+      "change": "新增#checks，明确11/16后补研究设计，按2026季度/全年、年末汇率、铀下半年采购与Q4/2027、信用产品同窗回报、ETF/CEF年末规模安排具体观察与支持/削弱条件。"
+    }
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  },
+  "coordinator_adjustments": [
+    "删除三个概念文件末尾多余空行，正文不变。"
+  ]
+}

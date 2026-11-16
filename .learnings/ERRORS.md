@@ -4,7 +4,7 @@
 
 **Logged**: 2026-11-16
 **Priority**: medium
-**Status**: in_progress
+**Status**: resolved
 **Area**: infra
 
 ### Summary
@@ -18,3 +18,6 @@
 
 ### Suggested Fix
 恢复原agent，或在用户同意后由新agent另记返修者。
+
+### Resolution
+2026-11-16：用户明确允许新agent接手。/root/revise_3749421完成返修，root复核采用；保留/root/scale_18原署名，另记实际返修者。

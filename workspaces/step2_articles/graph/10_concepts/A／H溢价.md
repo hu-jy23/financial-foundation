@@ -18,10 +18,12 @@ source_ids:
 - S-C-ASIA-10-04
 - S-C-ASIA-10-05
 - S-WS-3749421
-editor: /root/scale_18
+editor: /root/revise_3749421
 editing_status: step2_draft
 editor_model: inherited_unverified
 editor_reasoning_effort: inherited_unverified
+revision_author: /root/revise_3749421
+revision_status: reviewed
 ---
 
 # A/H溢价
@@ -115,7 +117,7 @@ I=100\frac{\sum_i q_iP_{A,i}}{\sum_i q_ieP_{H,i}}.
 
 2025-06-19华泰张继强、陶冶、王建刚研究称，AH溢价已降至2021年以来低位，短期进一步下行空间可能有限；若地缘冲击使港股较敏感，溢价可能回升。其长期判断则是港股活跃度提高有助溢价系统性收窄。两者期限与触发条件不同，均保留为研究者当时判断。[完整事件](../30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md#ah)保留原图与分支。
 
-图中2015年以来均值134.17、均值减一倍标准差124.59是历史参照，未提供未来底部或回归概率。AH配对价格比、恒生宽基表现及医药/TMT成交份额各有不同样本；成交份额提高尚不能确认创新药持仓拥挤。本段补录较早窗口，本页2026年9月截面及原来源范围保留。
+短期企稳的含义需落到同公司换汇后两地价格：若外部风险使H股要求回报提高，H股相对走弱可推高比率；长期参与增加则可能产生不同方向。历史低位不构成价格下限，图表数值与热点样本辨析集中在[来源](../40_sources/S-WS-3749421.md#figures)，逐分支检验见[事件](../30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md#outlook)。本段补录较早窗口，本页2026年9月截面及原来源范围保留。
 
 ### 2025年判断与2026年截面分开保存
 

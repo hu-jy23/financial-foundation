@@ -1,0 +1,95 @@
+{
+  "article_id": 3785076,
+  "files": [
+    {
+      "path": "30_events/gold/黄金需求的渠道分化与预测修订：2026年三季度.md",
+      "draft_path": "drafts/30_events/gold/黄金需求的渠道分化与预测修订：2026年三季度.md",
+      "operation": "update",
+      "id": "E-WS-3785076",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "黄金需求的渠道分化与预测修订：2026年三季度",
+      "why": "补其他地区约3吨，恢复金条金币三项动因并比较ETF保护用途、本地替代回报；增加四季度及全年两项具体检验。",
+      "node_ids": [
+        "C-ASSET-GOLD",
+        "C-FX-14",
+        "C-FLOW-05",
+        "C-WS-3764710-GLD"
+      ],
+      "related_mechanism_ids": [
+        "R-GOLD-03",
+        "R-GOLD-REALRATES"
+      ]
+    },
+    {
+      "path": "20_mechanisms/央行购金与黄金需求结构.md",
+      "draft_path": "drafts/20_mechanisms/央行购金与黄金需求结构.md",
+      "operation": "update",
+      "id": "R-GOLD-03",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "央行购金与黄金需求结构",
+      "why": "只在11月全年展望处短引第四季购买、历史修订及同版基准的检验安排，保留所有旧年份与其他来源贡献。",
+      "node_ids": [
+        "C-FX-14",
+        "C-ASSET-GOLD"
+      ],
+      "related_mechanism_ids": [
+        "R-INTERNATIONAL-13"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-FX-14",
+            "C-ASSET-GOLD"
+          ],
+          "related_mechanism_ids": [
+            "R-INTERNATIONAL-13"
+          ]
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-FX-14",
+            "C-ASSET-GOLD"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3785076.md",
+      "draft_path": "drafts/40_sources/S-WS-3785076.md",
+      "operation": "update",
+      "id": "S-WS-3785076",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "WGC三季度需求新闻：来源与核读范围",
+      "why": "登记返修实际复读范围、其他地区依据和事件解释/检验位置。"
+    }
+  ],
+  "responses": [
+    {
+      "issue_id": "G1",
+      "decision": "accepted",
+      "change": "事件#private补WGC其他地区约3吨，明确三大地区207吨没有列全，四区约210与全球约211仅余小幅取整差异。"
+    },
+    {
+      "issue_id": "G2",
+      "decision": "accepted",
+      "change": "事件#private恢复区间震荡、利率高位更久、股票分流三项动因，展开保护用途与机会成本的选择差别，并接中国本地股弱债息低的不同条件。"
+    },
+    {
+      "issue_id": "G3",
+      "decision": "accepted",
+      "change": "事件新增#q4-checks，明确11月16日据11月3日后补，以Q4/全年报告检验印度节庆、渠道与购买力解释，以及官方新增购买和修订；机制11月展望只加短入口。"
+    }
+  ],
+  "preserved": "黄金页未修改；央行机制的1月、调查、捷克及其他篇贡献逐字保留，事件8图与原数值窗口保留。",
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

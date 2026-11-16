@@ -1,0 +1,106 @@
+{
+  "article_id": 3783904,
+  "files": [
+    {
+      "path": "30_events/markets/柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断.md",
+      "draft_path": "drafts/30_events/markets/柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断.md",
+      "operation": "update",
+      "id": "E-WS-3783904",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "柴油短缺、联合炼化与通胀滞后：华泰2026年10月判断",
+      "why": "连续解释炼化—贸易—成本分担，新增2026年末至2027年初分支检验，区分可观测CPI与机构反事实贡献，明确配送小项同比贡献期限。",
+      "node_ids": [
+        "C-WS-3783904-DIESEL",
+        "C-COMMOD-03",
+        "C-INF-INFLATION",
+        "C-COMMOD-09",
+        "C-GLOBAL-02",
+        "C-GLOBAL-03"
+      ],
+      "related_mechanism_ids": [
+        "R-OIL-SHOCK",
+        "R-COMMODITY-03"
+      ]
+    },
+    {
+      "path": "10_concepts/柴油.md",
+      "draft_path": "drafts/10_concepts/柴油.md",
+      "operation": "update",
+      "id": "C-WS-3783904-DIESEL",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "柴油",
+      "why": "减少历史段与结尾重复的图表疑点和缺项说明，保留产品基础及野村10/10、华泰10/19两个观察窗口。"
+    },
+    {
+      "path": "20_mechanisms/原油供给冲击的宏观传导.md",
+      "draft_path": "drafts/20_mechanisms/原油供给冲击的宏观传导.md",
+      "operation": "update",
+      "id": "R-OIL-SHOCK",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "原油供给冲击的宏观传导",
+      "why": "仅精简本篇新增历史段的技术核读重复，保留独立炼化瓶颈、联合生产与付款链及全部既有研究。",
+      "node_ids": [
+        "C-COMMOD-03",
+        "C-COMMOD-13",
+        "C-INF-INFLATION",
+        "C-WS-3783904-DIESEL"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-COMMOD-03",
+            "C-COMMOD-13",
+            "C-WS-3783904-DIESEL"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-COMMOD-03",
+            "C-INF-INFLATION",
+            "C-WS-3783904-DIESEL"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3783904.md",
+      "draft_path": "drafts/40_sources/S-WS-3783904.md",
+      "operation": "update",
+      "id": "S-WS-3783904",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "华泰柴油与美国通胀研究：来源与核读范围",
+      "why": "集中图3/5/6/7核读细节，保留−41差额及美洲逐国差异，明确0.001为2026年8月12个月同比贡献。"
+    }
+  ],
+  "responses": [
+    {
+      "issue": "A1",
+      "action": "accepted",
+      "changes": "事件移出图3合约/28美元套利限制、图5指数点位、图6−41收支及图7逐国例外至来源#chart-reading；事件仍连续保留原料、炼化、运输、贸易及成本分担。柴油与原油机制仅缩短本篇的重复核读说明。保留8图、Delivery services辨析、图11/13冲突、分母桥接和联合炼化政策分支。"
+    },
+    {
+      "issue": "A2",
+      "action": "accepted",
+      "changes": "事件末按2026-11-16本库研究方法写供给、成本转嫁、滞后与政策四组有方向的检验；明确华泰2026-10-19判断、2026年末至2027年初窗口及后续季度；实际CPI只能观测总值，0.45/0.23反事实贡献须原基线/冲击/模型才可检验幅度。"
+    },
+    {
+      "issue": "A3",
+      "action": "accepted",
+      "changes": "事件与来源将全年/年度贡献改成对2026年8月12个月同比涨幅的贡献约0.001个百分点，未改数值。"
+    }
+  ],
+  "root_review": {
+    "status": "adopted",
+    "reviewer": "/root",
+    "links_check": "passed"
+  }
+}

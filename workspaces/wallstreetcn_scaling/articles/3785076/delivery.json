@@ -20,7 +20,7 @@
       "type": "mechanism",
       "entry_kind": "relation",
       "title": "央行购金与黄金需求结构",
-      "why": "logic-1补购买价格敏感性的有限样本及全年预期；logic-2补321.2总估计/120已报告、63%未披露和季度版本修订。",
+      "why": "只在11月全年展望处短引第四季购买、历史修订及同版基准的检验安排，保留所有旧年份与其他来源贡献。",
       "node_ids": [
         "C-FX-14",
         "C-ASSET-GOLD"
@@ -57,7 +57,7 @@
       "type": "source_note",
       "entry_kind": "source",
       "title": "WGC三季度需求新闻：来源与核读范围",
-      "why": "登记转载与WGC定向补核范围、图表窗口、XLSX403及2025基数版本未核差额。"
+      "why": "登记返修实际复读范围、其他地区依据和事件解释/检验位置。"
     },
     {
       "path": "30_events/gold/黄金需求的渠道分化与预测修订：2026年三季度.md",
@@ -67,7 +67,7 @@
       "type": "analysis_note",
       "entry_kind": "event",
       "title": "黄金需求的渠道分化与预测修订：2026年三季度",
-      "why": "完整保存8图、地区与供需分项，解释年度增量/季度流量/持仓、消费库存及预测版本。",
+      "why": "补其他地区约3吨，恢复金条金币三项动因并比较ETF保护用途、本地替代回报；增加四季度及全年两项具体检验。",
       "node_ids": [
         "C-ASSET-GOLD",
         "C-FX-14",
@@ -115,5 +115,6 @@
     "20_mechanisms/央行购金与黄金需求结构.md",
     "40_sources/S-WS-3785076.md",
     "30_events/gold/黄金需求的渠道分化与预测修订：2026年三季度.md"
-  ]
+  ],
+  "revision_review": "workspaces/wallstreetcn_scaling/revision/3785076/audit.md"
 }

@@ -2,6 +2,8 @@
 
 范围：原3篇及scaling新增27篇，共30篇。每篇一名独立审阅agent，完整继承主agent上下文；原写作agent负责返修。共用正文由主agent合并，正式graph不修改。
 
+3749421原作者三次无法恢复，用户已允许完整继承上下文的新agent接手；原署名保留，返修者另记。
+
 ## 阅读
 
 先读仓库AGENTS.md、README.md；graph/00_start中的思想、标准、节点选择、历史选择记录、Event/Source指南、审阅清单和模板；materials/wallstreetcn/维护/ARTICLE_AUTHORING_CHARTER.md。再读本篇原文、metadata、所有分析图、delivery.json列出的现行成品及关联正文。不要把旧排除表当永久禁令，也不机械推翻明确的用户取舍。

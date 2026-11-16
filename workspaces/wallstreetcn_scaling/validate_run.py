@@ -19,9 +19,10 @@ def content(p):
 def meta(p):
  s=content(p);return yaml.safe_load(s.split('---',2)[1]) if s.startswith('---\n') else {}
 concepts={x['id']:x for g in idx['concepts'] for x in g['items']};relations={x['id']:x for g in idx['mechanisms'] for x in g['items']};nodes={**concepts,**relations};targets=set()
+deliveries=[json.loads((R.parent/'step2_articles/deliveries'/f'{name}.json').read_text()) for name in ['ai','korea','basis']]
 for a in run['articles']:
- if a['status']!='adopted':continue
- d=json.loads((R/'articles'/str(a['article_id'])/'delivery.json').read_text())
+ if a['status']=='adopted':deliveries.append(json.loads((R/'articles'/str(a['article_id'])/'delivery.json').read_text()))
+for d in deliveries:
  for f in d['files']:
   if f['operation'] in ['new','update']:
    p=G/f['path'];targets.add(p);m=meta(p)
@@ -70,4 +71,4 @@ if p.exists():
   if u.scheme or u.netloc:continue
   if u.path and not exists(R/unquote(u.path)):issues.append({'report_missing':u.path})
   if not u.path and u.fragment and unquote(u.fragment) not in ids:issues.append({'report_anchor':u.fragment})
-result={'accepted':sum(a['status']=='adopted' for a in run['articles']),'working_nodes':len(nodes),'changed_documents_checked':len(targets),'links_checked':checks,'issues':issues,'passed':not issues};(R/'validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n');print(json.dumps(result,ensure_ascii=False,indent=2));raise SystemExit(0 if not issues else 1)
+result={'accepted':sum(a['status']=='adopted' for a in run['articles']),'total_articles_checked':len(deliveries),'working_nodes':len(nodes),'changed_documents_checked':len(targets),'links_checked':checks,'issues':issues,'passed':not issues};(R/'validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n');print(json.dumps(result,ensure_ascii=False,indent=2));raise SystemExit(0 if not issues else 1)
