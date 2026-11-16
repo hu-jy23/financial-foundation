@@ -1,0 +1,105 @@
+{
+  "article_id": 3783877,
+  "title": "地产或正迈向“中期逻辑”",
+  "read_range": "全文、metadata、21张原图；现行说明、模板、形成原则与房地产相关旧页",
+  "model": "inherited_unverified",
+  "new_graph_nodes": 0,
+  "proposed_files": [
+    {
+      "operation": "update",
+      "id": "C-CHINA-14",
+      "entry_kind": "concept",
+      "path": "10_concepts/房地产预售与保交楼.md",
+      "increment": "补2026年828新旧项目分界、封顶预售、全额全过程监管与现售差异；用上海细则核实按揭竣工备案后发放，不外推各地。保留旧交付与保交楼记录。"
+    },
+    {
+      "operation": "update",
+      "id": "C-CHINA-15",
+      "entry_kind": "concept",
+      "path": "10_concepts/房地产融资与住房按揭.md",
+      "increment": "解释按揭财政贴息与合同降息的区别；补929目标群体、100万元本金上限与最长5年；区分现金月供、利息成本、租金收益率，指出原文把长期恒定2.05%算例当真实政策的口径跳跃。"
+    },
+    {
+      "operation": "update",
+      "id": "R-CN-PROPERTY",
+      "entry_kind": "relation",
+      "path": "20_mechanisms/房地产开发的现金流循环.md",
+      "increment": "在logic-1/3补监管保护买方同时拉长开发商垫资、拿地及未来新供给收缩的时间差；保存华泰2027企稳预期，区分二手成交与开发回款、当前库存与未来供给。保留同日较晚统计信息不回填8:46文章。"
+    },
+    {
+      "operation": "update",
+      "id": "C-SECTOR-06",
+      "entry_kind": "concept",
+      "path": "10_concepts/房地产开发与物业.md",
+      "increment": "补适应新模式的资金门槛与企业分化；保存12家房企负债和公募低配观察，解释受限现金/样本偏差及低配不能直接证明下行风险有限。"
+    },
+    {
+      "operation": "new",
+      "id": "E-WS-3783877",
+      "entry_kind": "event",
+      "type": "analysis_note",
+      "path": "30_events/markets/住房销售转轨与2027企稳预期：华泰2026年10月地产分析.md",
+      "increment": "保留供给、需求、租金、价格扩围、地产股配置的完整论证与21图，分开作者预期、一手制度核对及本库条件解释。"
+    },
+    {
+      "operation": "new",
+      "id": "S-WS-3783877",
+      "entry_kind": "source",
+      "type": "source_note",
+      "path": "40_sources/S-WS-3783877.md",
+      "increment": "登记本地21图与补充政策实读范围；记录图13/14疑似重复、图6期限注释错位、5年补贴与长期贷款比较问题。"
+    }
+  ],
+  "knowledge_inventory": [
+    {
+      "knowledge": "预售、现售、定金及资金监管",
+      "match": "C-CHINA-14",
+      "placement": "更新制度与历史，不为现售另建同源对象"
+    },
+    {
+      "knowledge": "开发垫资、项目主办银行、土地分期与可用拿地资金",
+      "match": "R-CN-PROPERTY、C-CHINA-15",
+      "placement": "旧逻辑更新；33%/41%留华泰测算，未取得9月13日底稿"
+    },
+    {
+      "knowledge": "首套财政贴息、月供租金比较及低总价房源",
+      "match": "C-CHINA-15",
+      "placement": "补基本解释，普通收益率和价格段不注册"
+    },
+    {
+      "knowledge": "置换链条、租转买与城市分化",
+      "match": "R-CN-PROPERTY",
+      "placement": "机制条件和事件分析，不为每城新建子概念"
+    },
+    {
+      "knowledge": "土地财政与新增供给时滞",
+      "match": "C-CHINA-11、R-CHINA-05",
+      "placement": "引用旧页，30%-40%是作者推算，不作为财政收入已实现值"
+    },
+    {
+      "knowledge": "行业低配、杠杆修复与股票回报",
+      "match": "C-SECTOR-06、主动权益公募基金",
+      "placement": "行业页及事件内解释，12家公司没有独特观察材料支持单独建页"
+    }
+  ],
+  "figure_notes": [
+    "图5灰字假设首套比例40%、期限240个月；图6列20/30/40年却注240个月，保留差异",
+    "图13/14标题分别新房/二手房，柱形及大多数城市顺序近乎重复，不能独立核实二手累计上涨城市数",
+    "图16只支持上海低总价同比正、其他城市分化，不足泛化所有低总价段",
+    "图20样本12家且为均值、部分公司净负债率上升，不是全行业杠杆统一下降"
+  ],
+  "external_checks": [
+    {
+      "url": "https://www.mohurd.gov.cn/gongkai/zc/wjk/art/2026/art_45644612a7064289bdc0d5b1427a25d8.html",
+      "read": "全文，建房规〔2026〕3号"
+    },
+    {
+      "url": "https://fgj.sh.gov.cn/qtgw/20260929/3629d80c2ccf49518cfc86cd7f8d0162.html",
+      "read": "全文，沪建房管联〔2026〕451号"
+    },
+    {
+      "url": "https://jx.mof.gov.cn/xxgk/tongzhitonggao/202609/t20260930_3998493.htm",
+      "read": "财政部江西监管局刊载财金〔2026〕95号通知全文；财政部本部答记者问超时后以同机关刊载替代"
+    }
+  ]
+}

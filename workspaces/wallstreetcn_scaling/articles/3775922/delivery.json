@@ -1,0 +1,80 @@
+{
+  "article_id": 3775922,
+  "title": "上半年的A股：哪些历史规律已经打破，哪些历史规律即将被打破？",
+  "files": [
+    {
+      "path": "10_concepts/A股市场.md",
+      "draft_path": "drafts/10_concepts/A股市场.md",
+      "operation": "update",
+      "id": "C-ASIA-01",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "A股市场",
+      "why": "补2026年6月行业与成交集中历史，解释绝对配置、相对超配、分母变化及盈利/估值拆分，保留7月6日制度证据。"
+    },
+    {
+      "path": "30_events/markets/A股历史阈值与结构分化：2026年中期策略观察.md",
+      "draft_path": "drafts/30_events/markets/A股历史阈值与结构分化：2026年中期策略观察.md",
+      "operation": "new",
+      "id": "E-WS-3775922",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "A股历史阈值与结构分化：2026年中期策略观察",
+      "why": "新建完整中期策略分析，保存21图、各数据窗口、资金分类表、产业分支及当时预测，逐项识别图文差异。"
+    },
+    {
+      "path": "40_sources/S-WS-3775922.md",
+      "draft_path": "drafts/40_sources/S-WS-3775922.md",
+      "operation": "new",
+      "id": "S-WS-3775922",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "广发2026年中期策略转述：来源及核读范围",
+      "why": "登记来源归属、21图对应、原报告及底层数据未取得的具体边界。"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "A股行业权重、历史阈值、指数盈利与估值",
+      "operation": "update",
+      "path": "10_concepts/A股市场.md#structure-202606"
+    },
+    {
+      "knowledge": "主动权益基金配置、超配倍数、加仓与收益",
+      "operation": "inline",
+      "path": "30_events/markets/A股历史阈值与结构分化：2026年中期策略观察.md#thresholds",
+      "reuse_path": "10_concepts/主动权益公募基金.md"
+    },
+    {
+      "knowledge": "TMT与前5%成交集中、PB分位分化",
+      "operation": "inline",
+      "path": "30_events/markets/A股历史阈值与结构分化：2026年中期策略观察.md#dispersion"
+    },
+    {
+      "knowledge": "相对归母利润增速、全年一致预期、现金流与贴现率",
+      "operation": "inline",
+      "path": "30_events/markets/A股历史阈值与结构分化：2026年中期策略观察.md#earnings",
+      "reuse_path": "10_concepts/股权风险溢价ERP.md"
+    },
+    {
+      "knowledge": "宽基ETF、险资、两融、北向、居民产品、IPO",
+      "operation": "inline",
+      "path": "30_events/markets/A股历史阈值与结构分化：2026年中期策略观察.md#flows",
+      "reuse_path": "10_concepts/宽基ETF.md"
+    },
+    {
+      "knowledge": "AI制造、铜需求、储能、创新药、非银金融",
+      "operation": "inline",
+      "path": "30_events/markets/A股历史阈值与结构分化：2026年中期策略观察.md#sectors",
+      "reuse_path": "10_concepts/铜与工业金属.md"
+    }
+  ],
+  "summary": "新增0个图谱节点；新增1篇事件分析、1份来源记录。修改《A股市场》：补行业基准扩大与旧阈值失准、成交集中口径、相对盈利预测及指数估值拆分。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/A股市场.md",
+    "30_events/markets/A股历史阈值与结构分化：2026年中期策略观察.md",
+    "40_sources/S-WS-3775922.md"
+  ]
+}

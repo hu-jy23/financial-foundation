@@ -1,0 +1,172 @@
+{
+  "article_id": 3783877,
+  "title": "地产或正迈向“中期逻辑”",
+  "model": "inherited_unverified",
+  "files": [
+    {
+      "operation": "update",
+      "id": "C-CHINA-14",
+      "entry_kind": "concept",
+      "path": "10_concepts/房地产预售与保交楼.md",
+      "draft_path": "drafts/10_concepts/房地产预售与保交楼.md",
+      "type": "concept",
+      "title": "房地产预售与保交楼",
+      "why": "补2026年828新旧项目分界、封顶预售、全额全过程监管与现售差异；用上海细则核实按揭竣工备案后发放，不外推各地。保留旧交付与保交楼记录。"
+    },
+    {
+      "operation": "update",
+      "id": "C-CHINA-15",
+      "entry_kind": "concept",
+      "path": "10_concepts/房地产融资与住房按揭.md",
+      "draft_path": "drafts/10_concepts/房地产融资与住房按揭.md",
+      "type": "concept",
+      "title": "房地产融资与住房按揭",
+      "why": "解释按揭财政贴息与合同降息的区别；补929目标群体、100万元本金上限与最长5年；区分现金月供、利息成本、租金收益率，指出原文把长期恒定2.05%算例当真实政策的口径跳跃。"
+    },
+    {
+      "operation": "update",
+      "id": "R-CN-PROPERTY",
+      "entry_kind": "relation",
+      "path": "20_mechanisms/房地产开发的现金流循环.md",
+      "draft_path": "drafts/20_mechanisms/房地产开发的现金流循环.md",
+      "type": "mechanism",
+      "title": "房地产开发的现金流循环",
+      "why": "在logic-1/3补监管保护买方同时拉长开发商垫资、拿地及未来新供给收缩的时间差；保存华泰2027企稳预期，区分二手成交与开发回款、当前库存与未来供给。保留同日较晚统计信息不回填8:46文章。",
+      "node_ids": [
+        "C-CHINA-14",
+        "C-CHINA-15",
+        "C-SECTOR-06"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-CHINA-14",
+            "C-CHINA-15",
+            "C-SECTOR-06"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-CHINA-14",
+            "C-CHINA-15",
+            "C-SECTOR-06"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-CHINA-14",
+            "C-SECTOR-06"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "operation": "update",
+      "id": "C-SECTOR-06",
+      "entry_kind": "concept",
+      "path": "10_concepts/房地产开发与物业.md",
+      "draft_path": "drafts/10_concepts/房地产开发与物业.md",
+      "type": "concept",
+      "title": "房地产开发与物业",
+      "why": "补适应新模式的资金门槛与企业分化；保存12家房企负债和公募低配观察，解释受限现金/样本偏差及低配不能直接证明下行风险有限。"
+    },
+    {
+      "operation": "new",
+      "id": "E-WS-3783877",
+      "entry_kind": "event",
+      "path": "30_events/markets/住房销售转轨与2027企稳预期：华泰2026年10月地产分析.md",
+      "draft_path": "drafts/30_events/markets/住房销售转轨与2027企稳预期：华泰2026年10月地产分析.md",
+      "type": "analysis_note",
+      "title": "住房销售转轨与2027企稳预期：华泰2026年10月地产分析",
+      "why": "保留供给、需求、租金、价格扩围、地产股配置的完整论证与21图，分开作者预期、一手制度核对及本库条件解释。",
+      "node_ids": [
+        "C-CHINA-14",
+        "C-CHINA-15",
+        "C-SECTOR-06",
+        "C-CHINA-11"
+      ],
+      "related_mechanism_ids": [
+        "R-CN-PROPERTY",
+        "R-CHINA-05"
+      ]
+    },
+    {
+      "operation": "new",
+      "id": "S-WS-3783877",
+      "entry_kind": "source",
+      "path": "40_sources/S-WS-3783877.md",
+      "draft_path": "drafts/40_sources/S-WS-3783877.md",
+      "type": "source_note",
+      "title": "华泰地产中期逻辑：来源与核读范围",
+      "why": "登记本地21图与补充政策实读范围；记录图13/14疑似重复、图6期限注释错位、5年补贴与长期贷款比较问题。"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "预售、现售、定金及资金监管",
+      "operation": "update",
+      "existing_match": "C-CHINA-14",
+      "placement": "更新制度与历史，不为现售另建同源对象",
+      "path": "10_concepts/房地产预售与保交楼.md#sales-reform-202608"
+    },
+    {
+      "knowledge": "开发垫资、项目主办银行、土地分期与可用拿地资金",
+      "operation": "update",
+      "existing_match": "R-CN-PROPERTY、C-CHINA-15",
+      "placement": "旧逻辑更新；33%/41%留华泰测算，未取得9月13日底稿",
+      "path": "20_mechanisms/房地产开发的现金流循环.md#logic-3"
+    },
+    {
+      "knowledge": "首套财政贴息、月供租金比较及低总价房源",
+      "operation": "update",
+      "existing_match": "C-CHINA-15",
+      "placement": "补基本解释，普通收益率和价格段不注册",
+      "path": "10_concepts/房地产融资与住房按揭.md#mortgage-subsidy-202609"
+    },
+    {
+      "knowledge": "置换链条、租转买与城市分化",
+      "operation": "update",
+      "existing_match": "R-CN-PROPERTY",
+      "placement": "机制条件和事件分析，不为每城新建子概念",
+      "path": "20_mechanisms/房地产开发的现金流循环.md#logic-1"
+    },
+    {
+      "knowledge": "土地财政与新增供给时滞",
+      "operation": "reuse",
+      "existing_match": "C-CHINA-11、R-CHINA-05",
+      "placement": "引用旧页，30%-40%是作者推算，不作为财政收入已实现值",
+      "path": "20_mechanisms/土地财政的基建融资机制.md"
+    },
+    {
+      "knowledge": "行业低配、杠杆修复与股票回报",
+      "operation": "update",
+      "existing_match": "C-SECTOR-06、主动权益公募基金",
+      "placement": "行业页及事件内解释，12家公司没有独特观察材料支持单独建页",
+      "path": "10_concepts/房地产开发与物业.md#reform-equity-202610"
+    },
+    {
+      "knowledge": "房价城市分化、香港参照、政策与2027历史预期",
+      "operation": "inline",
+      "path": "30_events/markets/住房销售转轨与2027企稳预期：华泰2026年10月地产分析.md",
+      "placement": "完整事件及21图，关键价格口径和模型边界留原位置"
+    }
+  ],
+  "summary": "新增事件分析1篇、来源记录1篇，图谱节点新增0。修改预售页：补销售制度转轨和上海执行；修改按揭页：解释五年贴息、长期合同降息及租买现金比较；修改现金循环：补垫资、拿地与未来供给时滞及2027预期；修改开发行业页：补12家房企去杠杆、公募低配与企业分化。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/房地产预售与保交楼.md",
+    "10_concepts/房地产融资与住房按揭.md",
+    "20_mechanisms/房地产开发的现金流循环.md",
+    "10_concepts/房地产开发与物业.md",
+    "30_events/markets/住房销售转轨与2027企稳预期：华泰2026年10月地产分析.md",
+    "40_sources/S-WS-3783877.md"
+  ]
+}

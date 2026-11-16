@@ -1,0 +1,88 @@
+{
+  "article_id": 3753513,
+  "title": "A股5轮牛市的回撤经验",
+  "draft_author": "/root/scale_09",
+  "model": "inherited_unverified",
+  "reasoning_effort": "inherited_unverified",
+  "read_scope": "转载全文、metadata及全部18图已逐图核读；未核Wind底层数据及原微信报告",
+  "new_nodes": [],
+  "important_knowledge": [
+    {
+      "knowledge": "牛市回撤的样本与测量",
+      "placement": "event#sample",
+      "increment": "37区间、五段牛市、回撤/前段涨幅的分母；108%不等于指数跌108%；触发类别重叠；新高样本11/26及历史策略统计边界"
+    },
+    {
+      "knowledge": "宏观资金条件、微观交易/融资约束和产业政策的不同传导",
+      "placement": "event#drivers",
+      "existing_matches": [
+        "A股市场",
+        "融资融券与借券成本",
+        "市场流动性",
+        "ETF申赎套利",
+        "股权风险溢价ERP"
+      ],
+      "increment": "保留作者五分类及样本中位数，不把其归因确认成普遍机制"
+    },
+    {
+      "knowledge": "2025年8月宽松预期与微观资金风险",
+      "placement": "event#august",
+      "increment": "3705/3041情景基准、3269—3358及21日条件测算；FedWatch会议目标区间概率与当次降息动作不同；两融2万亿/2.3%/三年60分位，ETF周频估算流量"
+    },
+    {
+      "knowledge": "金融再通胀转实物再通胀的条件判断",
+      "placement": "event#reflation",
+      "increment": "作者M1旧口径与PPI/利润前移图，剩余流动性代理和市值/存款比例的不同解释；未定量验证因果"
+    },
+    {
+      "knowledge": "基金回本后赎回与资金再配置",
+      "placement": "event#funds",
+      "existing_matches": [
+        "主动权益公募基金"
+      ],
+      "increment": "图17新老基金不同基准与规模权重；图18连续4季低于1再回1的2015—2024样本，T期-6.9%、T+1 -11.9%；保存2025-08当时分风格判断"
+    }
+  ],
+  "proposed_files": [
+    {
+      "path": "30_events/markets/A股五轮牛市回撤与再通胀判断：2025年8月.md",
+      "operation": "new",
+      "entry_kind": "event",
+      "id": "E-WS-3753513"
+    },
+    {
+      "path": "40_sources/S-WS-3753513.md",
+      "operation": "new",
+      "entry_kind": "source",
+      "id": "S-WS-3753513"
+    },
+    {
+      "path": "10_concepts/A股市场.md",
+      "operation": "update",
+      "entry_kind": "concept",
+      "id": "C-ASIA-01",
+      "why": "新增历史回撤口径与2025-08-18当时风险判断入口，可能与同批第08篇冲突，请指定归属"
+    },
+    {
+      "path": "10_concepts/融资融券与借券成本.md",
+      "operation": "update",
+      "entry_kind": "concept",
+      "id": "C-FLOW-09",
+      "why": "补入2025-08杠杆余额与相对流通市值、融资成交占比三种口径，保留原2026证据截止"
+    },
+    {
+      "path": "10_concepts/主动权益公募基金.md",
+      "operation": "update",
+      "entry_kind": "subconcept",
+      "id": "C-WS-3758183-ACTIVE-EQUITY",
+      "why": "补入早于Q3观察的2025-08回本赎回样本及资金再配置判断；不把加权基金回本当全部持有人回本"
+    }
+  ],
+  "questions_for_parent": [
+    "A股页与第08篇由谁主写；可改为仅提交事件，主agent合并短节。"
+  ],
+  "not_registering": [
+    "回撤、牛市：本次为统计口径及历史状态，不另建对象",
+    "金融/实物再通胀牛市、回本赎回策略：本篇作者框架及特定样本，不新建普遍关系"
+  ]
+}

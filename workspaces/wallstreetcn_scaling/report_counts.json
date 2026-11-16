@@ -1,11 +1,21 @@
 {
-  "accepted_additions": 6,
-  "pending": 21,
+  "accepted_additions": 9,
+  "pending": 18,
   "new_nodes": 4,
   "node_types": {
-    "关系": 1,
-    "子概念": 3
+    "子概念": 3,
+    "关系": 1
   },
   "working_nodes": 256,
-  "unique_documents": 52
+  "unique_documents": 64,
+  "updated_nodes": 19,
+  "updated_node_types": {
+    "概念": 13,
+    "关系": 5,
+    "子概念": 1
+  },
+  "new_support_documents": {
+    "事件分析": 9,
+    "来源记录": 9
+  }
 }

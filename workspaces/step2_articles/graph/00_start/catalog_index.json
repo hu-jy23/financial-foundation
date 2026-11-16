@@ -4,15 +4,15 @@
       "groups": 20,
       "items": 176,
       "p0": 21,
-      "complete": 153,
-      "pending": 23
+      "complete": 148,
+      "pending": 28
     },
     "mechanisms": {
       "groups": 18,
       "items": 80,
       "p0": 21,
-      "complete": 69,
-      "pending": 11
+      "complete": 68,
+      "pending": 12
     },
     "excluded_concepts": {
       "items": 186,
@@ -1175,7 +1175,7 @@
           "name": "融资融券与借券成本",
           "scope": "杠杆、多空实施约束",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/融资融券与借券成本.md",
           "catalog_anchor": "C-FLOW-09",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FLOW-09",
@@ -1183,7 +1183,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/融资融券与借券成本.md"
+          "planned_path": "../10_concepts/融资融券与借券成本.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-FLOW-10",
@@ -1612,7 +1613,7 @@
           "name": "房地产预售与保交楼",
           "scope": "现金流、交付与信用链",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/房地产预售与保交楼.md",
           "catalog_anchor": "C-CHINA-14",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-14",
@@ -1620,14 +1621,15 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/房地产预售与保交楼.md"
+          "planned_path": "../10_concepts/房地产预售与保交楼.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-CHINA-15",
           "name": "房地产融资与住房按揭",
           "scope": "开发端和居民端",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/房地产融资与住房按揭.md",
           "catalog_anchor": "C-CHINA-15",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-15",
@@ -1635,7 +1637,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/房地产融资与住房按揭.md"
+          "planned_path": "../10_concepts/房地产融资与住房按揭.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-CHINA-18",
@@ -1679,7 +1682,7 @@
           "name": "A股市场",
           "scope": "交易制度、投资者与行业结构",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/A股市场.md",
           "catalog_anchor": "C-ASIA-01",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-01",
@@ -1687,7 +1690,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/A股市场.md"
+          "planned_path": "../10_concepts/A股市场.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-ASIA-02",
@@ -2512,7 +2516,7 @@
           "name": "房地产开发与物业",
           "scope": "销售、融资、交付与现金流",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/房地产开发与物业.md",
           "catalog_anchor": "C-SECTOR-06",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-SECTOR-06",
@@ -2520,7 +2524,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/房地产开发与物业.md"
+          "planned_path": "../10_concepts/房地产开发与物业.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-SECTOR-12",
@@ -6474,7 +6479,7 @@
             "C-CHINA-15",
             "C-SECTOR-06"
           ],
-          "status": "complete",
+          "status": "pending",
           "path": "../20_mechanisms/房地产开发的现金流循环.md",
           "catalog_anchor": "R-CN-PROPERTY",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CN-PROPERTY",
@@ -6519,7 +6524,8 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_draft"
         },
         {
           "id": "R-CHINA-05",

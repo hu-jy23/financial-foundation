@@ -5,7 +5,7 @@
   "requested_model": "gpt-6.1-sol",
   "requested_reasoning_effort": "medium",
   "requested_context": "full_inheritance",
-  "constraint": "Native full-history fork inherits model/effort and cannot accept overrides. Awaiting user priority.",
+  "constraint": "用户已选择完整继承会话；模型与思考档位随主agent，不另作可核验承诺。",
   "articles": [
     {
       "sequence": 1,
@@ -108,8 +108,9 @@
       "author_group": "华泰证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3783877",
-      "status": "reading",
-      "agent": "/root/scale_07"
+      "status": "adopted",
+      "agent": "/root/scale_07",
+      "files": 6
     },
     {
       "sequence": 8,
@@ -122,8 +123,9 @@
       "author_group": "广发证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3775922",
-      "status": "reading",
-      "agent": "/root/scale_08"
+      "status": "adopted",
+      "agent": "/root/scale_08",
+      "files": 3
     },
     {
       "sequence": 9,
@@ -136,8 +138,9 @@
       "author_group": "华创证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3753513",
-      "status": "reading",
-      "agent": "/root/scale_09"
+      "status": "adopted",
+      "agent": "/root/scale_09",
+      "files": 4
     },
     {
       "sequence": 10,
@@ -150,7 +153,8 @@
       "author_group": "摩根士丹利",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3783420",
-      "status": "queued"
+      "status": "reading",
+      "agent": "/root/scale_10"
     },
     {
       "sequence": 11,
@@ -163,7 +167,8 @@
       "author_group": "野村",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3783332",
-      "status": "queued"
+      "status": "reading",
+      "agent": "/root/scale_11"
     },
     {
       "sequence": 12,
@@ -176,7 +181,8 @@
       "author_group": "华创证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3785129",
-      "status": "queued"
+      "status": "reading",
+      "agent": "/root/scale_12"
     },
     {
       "sequence": 13,
@@ -640,6 +646,11 @@
       "commit": "14351ab91de07821f20c761d853502c15740dba8",
       "accepted": 3,
       "new_nodes": 2
+    },
+    {
+      "batch": 2,
+      "commit": "5ffb49b",
+      "adopted_articles": 6
     }
   ]
 }

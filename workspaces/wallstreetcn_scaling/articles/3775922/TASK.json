@@ -1,0 +1,13 @@
+{
+  "sequence": 8,
+  "batch": 3,
+  "article_id": 3775922,
+  "title": "上半年的A股：哪些历史规律已经打破，哪些历史规律即将被打破？",
+  "source_markdown": "materials/wallstreetcn/SourcePost/上半年的A股：哪些历史规律已经打破，哪些历史规律即将被打破？/article.md",
+  "source_metadata": "materials/wallstreetcn/SourcePost/上半年的A股：哪些历史规律已经打破，哪些历史规律即将被打破？/metadata.json",
+  "image_occurrences": 21,
+  "author_group": "广发证券",
+  "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
+  "output_directory": "workspaces/wallstreetcn_scaling/articles/3775922",
+  "status": "queued"
+}

@@ -1,0 +1,150 @@
+{
+  "article_id": 3753513,
+  "title": "A股5轮牛市的回撤经验",
+  "files": [
+    {
+      "path": "30_events/markets/A股五轮牛市回撤与再通胀判断：2025年8月.md",
+      "draft_path": "drafts/30_events/markets/A股五轮牛市回撤与再通胀判断：2025年8月.md",
+      "operation": "new",
+      "id": "E-WS-3753513",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "A股五轮牛市回撤与再通胀判断：2025年8月",
+      "why": "新增完整历史研究与2025年8月当时判断，保留18图、37区间及特定回吐分母、历史统计口径和方法差异。",
+      "source_ids": [
+        "S-WS-3753513"
+      ],
+      "node_ids": [
+        "C-ASIA-01",
+        "C-FLOW-09",
+        "C-FLOW-05",
+        "C-WS-3758183-ACTIVE-EQUITY",
+        "C-EQ-ERP",
+        "C-CHINA-01"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3753513.md",
+      "draft_path": "drafts/40_sources/S-WS-3753513.md",
+      "operation": "new",
+      "id": "S-WS-3753513",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "华创牛市回撤研究：来源与核读范围",
+      "why": "新增转载及18图阅读记录，登记定向核读的发行人公告与上交所决定。",
+      "source_ids": [
+        "S-WS-3753513"
+      ]
+    },
+    {
+      "path": "10_concepts/融资融券与借券成本.md",
+      "draft_path": "drafts/10_concepts/融资融券与借券成本.md",
+      "operation": "update",
+      "id": "C-FLOW-09",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "融资融券与借券成本",
+      "why": "补入2025年8月两融2万亿元、占流通市值2.3%和融资成交参与三个口径，保留原较晚证据截止。",
+      "source_ids": [
+        "S-C-FLOW-09-01",
+        "S-C-FLOW-09-02",
+        "S-C-FLOW-09-03",
+        "S-C-FLOW-09-04",
+        "S-C-FLOW-09-05",
+        "S-C-FLOW-09-06",
+        "S-C-FLOW-09-07",
+        "S-C-FLOW-09-08",
+        "S-WS-3753513"
+      ]
+    },
+    {
+      "path": "10_concepts/主动权益公募基金.md",
+      "draft_path": "drafts/10_concepts/主动权益公募基金.md",
+      "operation": "update",
+      "id": "C-WS-3758183-ACTIVE-EQUITY",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "主动权益公募基金",
+      "why": "补入2025年8月基金集合回本的不同基准与权重、限定回本样本赎回率及当时资金去向判断，保留三季度段落。",
+      "source_ids": [
+        "S-WS-3758183",
+        "S-WS-3753513"
+      ],
+      "parent_ids": [
+        "C-SECTOR-03"
+      ],
+      "parent_relation": "thematic_collection"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "37区间与前段上涨回吐比例、新高分组及策略统计",
+      "operation": "inline",
+      "path": "30_events/markets/A股五轮牛市回撤与再通胀判断：2025年8月.md#sample",
+      "detail": "公式、图1—8；图7的事后终点及正文/图注分组差异在statistics。"
+    },
+    {
+      "knowledge": "五类回调解释与特定样本中位数",
+      "operation": "inline",
+      "path": "30_events/markets/A股五轮牛市回撤与再通胀判断：2025年8月.md#drivers",
+      "detail": "不新建泛化关系，核明蚂蚁实际申购时间。"
+    },
+    {
+      "knowledge": "2025年8月宽松预期、融资与ETF承接",
+      "operation": "inline",
+      "path": "30_events/markets/A股五轮牛市回撤与再通胀判断：2025年8月.md#august",
+      "detail": "图9—12，会议区间概率与当次动作概率区分。"
+    },
+    {
+      "knowledge": "融资余额、相对规模和交易占比",
+      "operation": "update",
+      "path": "10_concepts/融资融券与借券成本.md#202508-observation"
+    },
+    {
+      "knowledge": "再通胀两阶段及剩余流动性代理",
+      "operation": "inline",
+      "path": "30_events/markets/A股五轮牛市回撤与再通胀判断：2025年8月.md#reflation",
+      "detail": "图13—16，M1旧口径及序列前移作为作者观察。"
+    },
+    {
+      "knowledge": "基金回本样本与申赎观察",
+      "operation": "update",
+      "path": "10_concepts/主动权益公募基金.md#breakeven-202508",
+      "detail": "细节与图17—18在事件funds。"
+    },
+    {
+      "knowledge": "A股市场及指数样本边界",
+      "operation": "reuse",
+      "path": "10_concepts/A股市场.md"
+    },
+    {
+      "knowledge": "ERP及估值分母",
+      "operation": "reuse",
+      "path": "10_concepts/股权风险溢价ERP.md"
+    },
+    {
+      "knowledge": "ETF交付与变现过程",
+      "operation": "reuse",
+      "path": "20_mechanisms/ETF申赎套利.md"
+    },
+    {
+      "knowledge": "市场流动性与作者宽泛资金用语",
+      "operation": "reuse",
+      "path": "10_concepts/市场流动性.md"
+    }
+  ],
+  "summary": [
+    "新增事件分析《A股五轮牛市回撤与再通胀判断：2025年8月》及来源记录，保留18图。",
+    "修改《融资融券与借券成本》：补入2025年8月两融余额、相对规模及成交参与的历史观察。",
+    "修改《主动权益公募基金》：补入基金集合回本、限定样本赎回及当时资金再配置判断。",
+    "新增图谱节点0。"
+  ],
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "30_events/markets/A股五轮牛市回撤与再通胀判断：2025年8月.md",
+    "40_sources/S-WS-3753513.md",
+    "10_concepts/融资融券与借券成本.md",
+    "10_concepts/主动权益公募基金.md"
+  ]
+}
