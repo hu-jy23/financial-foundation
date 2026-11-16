@@ -1,0 +1,145 @@
+{
+  "article_id": 3749421,
+  "title": "当前市场的五大共识与五大预期差",
+  "files": [
+    {
+      "path": "10_concepts/债券ETF.md",
+      "draft_path": "drafts/10_concepts/债券ETF.md",
+      "operation": "new",
+      "id": "C-WS-3749421-BONDETF",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "债券ETF",
+      "why": "解释指数型债券基金的组合风险、持续运作、债券估值/盘口价格、底层流动性与申赎；保存2025年6月扩容观察。",
+      "parent_ids": [
+        "C-FLOW-05"
+      ],
+      "parent_relation": "instrument_subtype"
+    },
+    {
+      "path": "10_concepts/A／H溢价.md",
+      "draft_path": "drafts/10_concepts/A／H溢价.md",
+      "operation": "update",
+      "id": "C-ASIA-10",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "A/H溢价",
+      "why": "补2025年6月华泰短期企稳/长期收窄判断，区分历史均值与未来底部、配对价差与行业成交份额，保留2026-09-30截止。"
+    },
+    {
+      "path": "20_mechanisms/原油供给冲击的宏观传导.md",
+      "draft_path": "drafts/20_mechanisms/原油供给冲击的宏观传导.md",
+      "operation": "update",
+      "id": "R-OIL-SHOCK",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "原油供给冲击的宏观传导",
+      "why": "logic-1补2025年6月单国出口/共同航道两情景；1750万桶和17.5%限图题列报，说明隐含分母未核，保留2026-05-13资料。",
+      "node_ids": [
+        "C-COMMOD-03",
+        "C-COMMOD-13",
+        "C-INF-INFLATION"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-COMMOD-03",
+            "C-COMMOD-13"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-COMMOD-03",
+            "C-INF-INFLATION"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md",
+      "draft_path": "drafts/30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md",
+      "operation": "new",
+      "id": "E-WS-3749421",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "五组市场叙述与条件预期差：华泰2025年6月跨资产判断",
+      "why": "完整保存关税、美债/美元、国内债市、AH/热点及商品五分支、9图及不同期限；共识限定为机构归纳。",
+      "node_ids": [
+        "C-WS-3749421-BONDETF",
+        "C-FLOW-05",
+        "C-IR-TERM",
+        "C-FX-07",
+        "C-ASIA-10",
+        "C-ASIA-02",
+        "C-CRYPTO-03",
+        "C-COMMOD-03",
+        "C-COMMOD-13"
+      ],
+      "related_mechanism_ids": [
+        "R-GEOPOLITICS-02",
+        "R-FISCAL-LONGYIELD",
+        "R-CHINA_MARKET-07",
+        "R-OIL-SHOCK"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3749421.md",
+      "draft_path": "drafts/40_sources/S-WS-3749421.md",
+      "operation": "new",
+      "id": "S-WS-3749421",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "华泰五组共识与预期差：来源与核读范围",
+      "why": "记录全文及9图、上交所定义和2024财政部回购材料的实读范围，登记图文对象/分母差异与未取得材料。"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "关税、库存缓冲、软硬数据与经济意外",
+      "operation": "inline",
+      "path": "30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md#tariffs",
+      "reference": "20_mechanisms/关税的跨境成本分担.md"
+    },
+    {
+      "knowledge": "期限溢价/10Y−2Y、财政部回购、美元方向",
+      "operation": "inline",
+      "path": "30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md#treasury-dollar",
+      "reference": "10_concepts/期限溢价.md"
+    },
+    {
+      "knowledge": "债券ETF、净值/交易、债市回报和主动超额",
+      "operation": "new",
+      "path": "10_concepts/债券ETF.md"
+    },
+    {
+      "knowledge": "国内债市、PMI/CPI、新旧住房数据",
+      "operation": "inline",
+      "path": "30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md#china-bonds"
+    },
+    {
+      "knowledge": "AH溢价、HIBOR、TMT/医药成交和稳定币",
+      "operation": "update",
+      "path": "10_concepts/A／H溢价.md#outlook-20250619"
+    },
+    {
+      "knowledge": "原油/OPEC、海峡与可交付闲置产能",
+      "operation": "update",
+      "path": "20_mechanisms/原油供给冲击的宏观传导.md#logic-1"
+    }
+  ],
+  "summary": "新增债券ETF子概念1篇，新增事件分析与来源记录各1篇；修改A/H溢价（2025年6月分期限判断）和原油供给机制（单国出口与航道风险、分母边界）。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/债券ETF.md",
+    "10_concepts/A／H溢价.md",
+    "20_mechanisms/原油供给冲击的宏观传导.md",
+    "30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md",
+    "40_sources/S-WS-3749421.md"
+  ]
+}

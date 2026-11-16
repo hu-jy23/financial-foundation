@@ -1,0 +1,13 @@
+{
+  "sequence": 16,
+  "batch": 6,
+  "article_id": 3784306,
+  "title": "美债本轮反弹的持续性如何？",
+  "source_markdown": "materials/wallstreetcn/SourcePost/美债本轮反弹的持续性如何？/article.md",
+  "source_metadata": "materials/wallstreetcn/SourcePost/美债本轮反弹的持续性如何？/metadata.json",
+  "image_occurrences": 9,
+  "author_group": "摩根大通",
+  "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
+  "output_directory": "workspaces/wallstreetcn_scaling/articles/3784306",
+  "status": "queued"
+}

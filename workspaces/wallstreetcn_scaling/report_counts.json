@@ -1,22 +1,22 @@
 {
-  "accepted_additions": 15,
-  "pending": 12,
-  "new_nodes": 10,
+  "accepted_additions": 18,
+  "pending": 9,
+  "new_nodes": 12,
   "node_types": {
-    "概念": 4,
-    "子概念": 5,
+    "子概念": 6,
+    "概念": 5,
     "关系": 1
   },
-  "working_nodes": 262,
-  "unique_documents": 94,
-  "updated_nodes": 31,
+  "working_nodes": 264,
+  "unique_documents": 106,
+  "updated_nodes": 35,
   "updated_node_types": {
-    "概念": 21,
-    "关系": 9,
+    "概念": 23,
+    "关系": 11,
     "子概念": 1
   },
   "new_support_documents": {
-    "事件分析": 15,
-    "来源记录": 15
+    "事件分析": 18,
+    "来源记录": 18
   }
 }

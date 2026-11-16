@@ -2,17 +2,17 @@
   "counts": {
     "concepts": {
       "groups": 20,
-      "items": 182,
+      "items": 184,
       "p0": 21,
-      "complete": 140,
-      "pending": 42
+      "complete": 138,
+      "pending": 46
     },
     "mechanisms": {
       "groups": 18,
       "items": 80,
       "p0": 21,
-      "complete": 64,
-      "pending": 16
+      "complete": 62,
+      "pending": 18
     },
     "excluded_concepts": {
       "items": 186,
@@ -1013,7 +1013,7 @@
           "name": "拍卖、投标倍数与尾差",
           "scope": "发行定价与需求指标",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/拍卖、投标倍数与尾差.md",
           "catalog_anchor": "C-BOND-14",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-BOND-14",
@@ -1021,7 +1021,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/拍卖、投标倍数与尾差.md"
+          "planned_path": "../10_concepts/拍卖、投标倍数与尾差.md",
+          "editing_status": "step2_draft"
         }
       ],
       "role": "domain_objects"
@@ -1828,7 +1829,7 @@
           "name": "A/H溢价",
           "scope": "分割市场与定价差异",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/A／H溢价.md",
           "catalog_anchor": "C-ASIA-10",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-10",
@@ -1836,7 +1837,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/A／H溢价.md"
+          "planned_path": "../10_concepts/A／H溢价.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-ASIA-11",
@@ -2996,6 +2998,40 @@
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3784163-NIKKEI225",
           "status": "pending",
           "editing_status": "step2_draft"
+        },
+        {
+          "id": "C-WS-3784306-NDX",
+          "name": "纳斯达克100指数",
+          "scope": "新增具体权益基准：大型非金融公司、修正权重与行业范围；连接五年美债/科技股的2026年10月观察。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/纳斯达克100指数.md",
+          "planned_path": "../10_concepts/纳斯达克100指数.md",
+          "catalog_anchor": "C-WS-3784306-NDX",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3784306-NDX",
+          "status": "pending",
+          "editing_status": "step2_draft"
+        },
+        {
+          "id": "C-WS-3749421-BONDETF",
+          "name": "债券ETF",
+          "scope": "解释指数型债券基金的组合风险、持续运作、债券估值/盘口价格、底层流动性与申赎；保存2025年6月扩容观察。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/债券ETF.md",
+          "planned_path": "../10_concepts/债券ETF.md",
+          "catalog_anchor": "C-WS-3749421-BONDETF",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3749421-BONDETF",
+          "status": "pending",
+          "editing_status": "step2_draft",
+          "parent_ids": [
+            "C-FLOW-05"
+          ],
+          "parent_relation": "instrument_subtype"
         }
       ]
     }
@@ -3500,7 +3536,7 @@
             "C-IR-TERM",
             "C-ASSET-UST"
           ],
-          "status": "complete",
+          "status": "pending",
           "path": "../20_mechanisms/收益率曲线陡峭化与平坦化.md",
           "catalog_anchor": "R-IR-CURVE-SHAPE",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-IR-CURVE-SHAPE",
@@ -3532,7 +3568,8 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_draft"
         }
       ]
     },
@@ -6229,7 +6266,7 @@
             "C-COMMOD-13",
             "C-INF-INFLATION"
           ],
-          "status": "complete",
+          "status": "pending",
           "path": "../20_mechanisms/原油供给冲击的宏观传导.md",
           "catalog_anchor": "R-OIL-SHOCK",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-OIL-SHOCK",
@@ -6264,7 +6301,8 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_draft"
         },
         {
           "id": "R-COMMODITY-03",

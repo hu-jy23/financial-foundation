@@ -3,13 +3,25 @@ id: C-ASIA-10
 type: concept
 title: A/H溢价
 status: reviewed_seed
-draft_author: "/root/full_b033"
+draft_author: /root/full_b033
 model: gpt-6-astra
 reasoning_effort: medium
 reviewed_by: /root
-updated: 2026-10-28
+workspace_reviewed_by: /root
+workspace_reviewed_on: 2026-11-16
+updated: '2026-11-16'
 evidence_as_of: 2026-09-30
-source_ids: [S-C-ASIA-10-01, S-C-ASIA-10-02, S-C-ASIA-10-03, S-C-ASIA-10-04, S-C-ASIA-10-05]
+source_ids:
+- S-C-ASIA-10-01
+- S-C-ASIA-10-02
+- S-C-ASIA-10-03
+- S-C-ASIA-10-04
+- S-C-ASIA-10-05
+- S-WS-3749421
+editor: /root/scale_18
+editing_status: step2_draft
+editor_model: inherited_unverified
+editor_reasoning_effort: inherited_unverified
 ---
 
 # A/H溢价
@@ -98,6 +110,13 @@ I=100\frac{\sum_i q_iP_{A,i}}{\sum_i q_ieP_{H,i}}.
 
 贝莱德在港交所2023年咨询回复中，反对把一般发行授权按总股本而非各地股份分别确定，理由包括非互换股票的局部供给冲击及少数股东保护。它预期过大的H股侧发行灵活性可能提高稀释风险、损害持有人利益，并主张更严格的发行规模及折价约束。这是投资机构对当时提案的政策意见，不是市场一致预测，更不是随后实际价格损失的估计；本页没有追踪该提案每项最终规则和公司章程落实结果。[S-C-ASIA-10-03](#S-C-ASIA-10-03)
 
+<a id="outlook-20250619"></a>
+### 2025年6月：短期企稳与长期收窄是两个判断
+
+2025-06-19华泰张继强、陶冶、王建刚研究称，AH溢价已降至2021年以来低位，短期进一步下行空间可能有限；若地缘冲击使港股较敏感，溢价可能回升。其长期判断则是港股活跃度提高有助溢价系统性收窄。两者期限与触发条件不同，均保留为研究者当时判断。[完整事件](../30_events/markets/五组市场叙述与条件预期差：华泰2025年6月跨资产判断.md#ah)保留原图与分支。
+
+图中2015年以来均值134.17、均值减一倍标准差124.59是历史参照，未提供未来底部或回归概率。AH配对价格比、恒生宽基表现及医药/TMT成交份额各有不同样本；成交份额提高尚不能确认创新药持仓拥挤。本段补录较早窗口，本页2026年9月截面及原来源范围保留。
+
 ### 2025年判断与2026年截面分开保存
 
 安联投资Tessa Wong在2025-08-19文章中，依据截至2025-06-30的图表称AH溢价降至约五年低位，并指出新增香港上市公司、南向参与和离岸市场行业多样化正在改变两地比较。她当时预期IPO活动、南向资金和流动性继续支持离岸市场，同时强调其全球投资者基础也使其对外部风险更敏感。文章没有为AH溢价给出明确的未来点位或收敛日期，本页不替她补造数字预测。[S-C-ASIA-10-05](#S-C-ASIA-10-05)
@@ -127,3 +146,5 @@ I=100\frac{\sum_i q_iP_{A,i}}{\sum_i q_ieP_{H,i}}.
 <a id="S-C-ASIA-10-05"></a>**S-C-ASIA-10-05** — Tessa Wong／Allianz Global Investors，*China H vs China A: a tale of two markets*，2025-08-19。[作者机构原文](https://www.allianzgi.com/en/insights/china-h-vs-china-a)。已读市场演变、Valuations及Onshore Resilience，核图6日期为2025-06-30；未取得图6底层Bloomberg日频数据，未从图上估造精确端点。作者把“China H”广义用于离岸中国股票，本页在概念定义处仍采用严格A/H配对边界。
 
 具体缺口：未取得2017之后完整的AH方法修订链及2024—2026连续官方历史成分、权重和行情序列，不能量化分割、换汇和成分变动分别贡献多少。2026-09-30截面及2025作者判断已分别保存；本页不提供制作日盘中或收盘值，也不对未取得的个股税务、借券和执行价格作统一假设。
+
+本轮编辑：`/root/scale_18`，2026-11-16；[S-WS-3749421](../40_sources/S-WS-3749421.md)补2025年6月机构预期，原稿及来源读取范围保留。

@@ -1,0 +1,13 @@
+{
+  "sequence": 17,
+  "batch": 6,
+  "article_id": 3754228,
+  "title": "8月经济：股市涨能否带动实体反弹？",
+  "source_markdown": "materials/wallstreetcn/SourcePost/8月经济：股市涨能否带动实体反弹？/article.md",
+  "source_metadata": "materials/wallstreetcn/SourcePost/8月经济：股市涨能否带动实体反弹？/metadata.json",
+  "image_occurrences": 9,
+  "author_group": "民生证券",
+  "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
+  "output_directory": "workspaces/wallstreetcn_scaling/articles/3754228",
+  "status": "queued"
+}

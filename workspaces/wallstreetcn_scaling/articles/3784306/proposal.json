@@ -1,0 +1,113 @@
+{
+  "article_id": 3784306,
+  "title": "美债本轮反弹的持续性如何？",
+  "read_scope": "全文、metadata、全部9图位已核读（8分析图＋图9会员推广）；已读现行思想、标准、形成原则及相关工作图正文。",
+  "model": "inherited_unverified",
+  "new_nodes": [
+    {
+      "id": "C-WS-3784306-NDX",
+      "title": "纳斯达克100指数",
+      "type": "concept",
+      "entry_kind": "concept",
+      "path": "10_concepts/纳斯达克100指数.md",
+      "why": "图2核心股票比较对象，现图无独立NDX对象。解释大型非金融上市公司、修正市值权重与行业/公司暴露，区别纳斯达克综合指数、交易所、SOX与跟踪基金；持续承接科技盈利和跨资产风险观察。无强设父项。"
+    }
+  ],
+  "proposed_files": [
+    {
+      "operation": "new",
+      "entry_kind": "concept",
+      "id": "C-WS-3784306-NDX",
+      "path": "10_concepts/纳斯达克100指数.md"
+    },
+    {
+      "operation": "update",
+      "entry_kind": "concept",
+      "id": "C-BOND-14",
+      "path": "10_concepts/拍卖、投标倍数与尾差.md",
+      "why": "补终端需求、外资类别与尾差的不同问题，2026年10月快照说明配售高与让价仍可并存；保留原制度和逐场历史。"
+    },
+    {
+      "operation": "update",
+      "entry_kind": "relation",
+      "id": "R-IR-CURVE-SHAPE",
+      "path": "20_mechanisms/收益率曲线陡峭化与平坦化.md",
+      "why": "logic-1补10s30s相对交易与1y1yOIS；约6bp是六个月样本回归残差，不是可锁定套利。解释多10年/空30年的风险金额与全曲线多头差别。"
+    },
+    {
+      "operation": "update",
+      "entry_kind": "relation",
+      "id": "R-FISCAL-LONGYIELD",
+      "path": "20_mechanisms/国债供给的定价机制.md",
+      "why": "logic-3补需求数量、承接价格与外资主体识别；保存JPM反对削减长端发行的当时判断，保留15刚接入的6月政策历史。"
+    },
+    {
+      "operation": "new",
+      "entry_kind": "event",
+      "id": "E-WS-3784306",
+      "path": "30_events/markets/美债反弹、曲线与拍卖承接：摩根大通2026年10月判断.md"
+    },
+    {
+      "operation": "new",
+      "entry_kind": "source",
+      "id": "S-WS-3784306",
+      "path": "40_sources/S-WS-3784306.md"
+    }
+  ],
+  "important_knowledge": [
+    {
+      "knowledge": "美国国债、OAT/Bund、纳指100与价格/收益率",
+      "placement": "NDX新对象；美债复用，OAT/Bund在事件简释发行人、币种与相对利差，不为一次短提注册两国债对象。"
+    },
+    {
+      "knowledge": "股债状态与滚动相关",
+      "placement": "事件按五年收益率周变动/股票周收益解释，复用R-ASSET-STOCKBOND；不以滚动系数确认科技股单向驱动利率。"
+    },
+    {
+      "knowledge": "10s30s、1y1yOIS、DV01与回归相对价值",
+      "placement": "更新既有曲线机制logic-1；OIS复用C-RATE-07；原回归公式留事件不注册模型。"
+    },
+    {
+      "knowledge": "终端需求、直接/间接、投资者类别和外资",
+      "placement": "拍卖页及事件；原图未给end-user的完整计算映射，官方Foreign and International含官方和私人，不能从长端配售直接识别私人资金。"
+    },
+    {
+      "knowledge": "尾差、WI、发行量与波动",
+      "placement": "拍卖旧页＋国债供给logic-3，保留2025/2026逐期限对照及部分月份样本。"
+    },
+    {
+      "knowledge": "收益率技术位与债价方向、当时不逆势做空判断",
+      "placement": "事件保存全部区间和条件，原技术阈值不恢复成普遍模型。"
+    }
+  ],
+  "figure_findings": [
+    "图1是十年收益率日变动；图2则五年收益率周变化与纳指100/Brent周回报的一月滚动相关，不能混成十年日收益相关。Brent线在2026年3月仍明显正相关、到10月末端才负，不能按此图确认正文3月油价破110后即负。",
+    "图3是六个月样本10s30s斜率对1y1yOIS回归，y=-21.643x+138.1，R²0.8627，10月22黑点约低拟合6bp；R²不是情景概率。",
+    "图4为年均终端占比，2026只截至10月中旬拍卖，10年90.6%、30年90.1%为表内2019以来最高；不能直接写全部历史记录。图5是外资占比三个月均值，截至9月。",
+    "图6的3年尾差2026=0.0bp、2025=0.5bp，20年0.3bp高于-0.2bp，30年-0.3bp低于0.2bp；正文长端例外需分期限读。",
+    "图7是分组尾差三月均值，没有同时画波动率；10月仅含已完成3/10/20/30年拍卖，分组比较含部分月份和构成差异。",
+    "图8标10年note收益率，债价反弹对应收益率下降；4.94—5.02和4.75—4.81被作者称债券反弹阻力，不能照抄成收益率上涨阻力。图9为推广，不进入知识正文。"
+  ],
+  "external_checks": [
+    {
+      "url": "https://indexes.nasdaq.com/Index/Overview/NDX",
+      "scope": "Index Description、Index Currency；不取11月行情回填10月。"
+    },
+    {
+      "url": "https://indexes.nasdaq.com/docs/Methodology_NDX.pdf",
+      "scope": "2026版权12页PDF，定向读第1—3、5—8页的定义、权重、季度/年度安排；未核10月实际成分权重。"
+    },
+    {
+      "url": "https://home.treasury.gov/system/files/276/investor-class-descriptions.pdf",
+      "scope": "单页全文，核Foreign and International含私人/非私人及不同投标渠道；不据官方表自行拼接JPM end-user比例。"
+    },
+    {
+      "url": "https://home.treasury.gov/data/investor-class-auction-allotments/",
+      "scope": "核表字段、按发行日排序及定义附件入口；未下载当时逐场分配重算图4/5。"
+    }
+  ],
+  "limitations": [
+    "定向检索摩根大通官网与日期未取得完整研报；未取得Bloomberg/WI和逐场配售底层，转载中的法国利差、TIC净买入及15—21bp仍按报道归属。",
+    "不把原文所提法国欧洲危机、强避险与去美元化叙述当作各主体永久偏好；未加入10月23日之后行情结果。"
+  ]
+}

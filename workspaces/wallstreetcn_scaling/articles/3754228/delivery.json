@@ -1,0 +1,86 @@
+{
+  "article_id": 3754228,
+  "title": "8月经济：股市涨能否带动实体反弹？",
+  "files": [
+    {
+      "path": "10_concepts/证券与资管业.md",
+      "draft_path": "drafts/10_concepts/证券与资管业.md",
+      "operation": "update",
+      "id": "C-SECTOR-03",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "证券与资管业",
+      "why": "补2025年8月金融交易活跃先映入服务业指标的判断，区分交易/产出与财富消费；保留2026-01-15原截止。"
+    },
+    {
+      "path": "30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md",
+      "draft_path": "drafts/30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md",
+      "operation": "new",
+      "id": "E-WS-3754228",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "股市升温与实体分化：2025年8月民生宏观预判",
+      "why": "保存2025年8月服务、消费、出口、工业、价格、就业及财政的分支预判，保留9张图与当时信息窗口。"
+    },
+    {
+      "path": "40_sources/S-WS-3754228.md",
+      "draft_path": "drafts/40_sources/S-WS-3754228.md",
+      "operation": "new",
+      "id": "S-WS-3754228",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "民生2025年8月经济预判：来源与核读范围",
+      "why": "登记全文/9图、可读官方统计方法、图文口径与具体未取得材料。"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "服务业商务活动与生产指数、金融业务",
+      "operation": "update",
+      "path": "10_concepts/证券与资管业.md#services-202508"
+    },
+    {
+      "knowledge": "股价财富、消费、融资与就业",
+      "operation": "inline",
+      "path": "30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md#services"
+    },
+    {
+      "knowledge": "补贴与高频零售、出口/运价/船数",
+      "operation": "inline",
+      "path": "30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md#demand"
+    },
+    {
+      "knowledge": "反内卷、工业/制造业PMI与基建代理",
+      "operation": "inline",
+      "path": "30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md#production"
+    },
+    {
+      "knowledge": "PPI、南华工业品指数和采价",
+      "operation": "inline",
+      "path": "30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md#prices"
+    },
+    {
+      "knowledge": "青年失业、政府债总发行与实际支出",
+      "operation": "inline",
+      "path": "30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md#constraints"
+    },
+    {
+      "knowledge": "政府融资向实际需求的传导",
+      "operation": "reuse",
+      "path": "20_mechanisms/社融结构、信用脉冲与实体需求.md#logic-3"
+    },
+    {
+      "knowledge": "关税与出口成本",
+      "operation": "reuse",
+      "path": "20_mechanisms/关税的跨境成本分担.md"
+    }
+  ],
+  "summary": "新增事件分析、来源记录各1篇，新增图谱节点0。修改《证券与资管业》：补交易活跃与服务业统计的连接，区分金融业务、资产价格及居民消费。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/证券与资管业.md",
+    "30_events/markets/股市升温与实体分化：2025年8月民生宏观预判.md",
+    "40_sources/S-WS-3754228.md"
+  ]
+}

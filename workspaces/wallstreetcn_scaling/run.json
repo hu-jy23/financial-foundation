@@ -243,8 +243,9 @@
       "author_group": "摩根大通",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3784306",
-      "status": "drafting",
-      "agent": "/root/scale_16"
+      "status": "adopted",
+      "agent": "/root/scale_16",
+      "files": 6
     },
     {
       "sequence": 17,
@@ -257,8 +258,9 @@
       "author_group": "民生证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3754228",
-      "status": "drafting",
-      "agent": "/root/scale_17"
+      "status": "adopted",
+      "agent": "/root/scale_17",
+      "files": 3
     },
     {
       "sequence": 18,
@@ -271,8 +273,9 @@
       "author_group": "华泰证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3749421",
-      "status": "reading",
-      "agent": "/root/scale_18"
+      "status": "adopted",
+      "agent": "/root/scale_18",
+      "files": 5
     },
     {
       "sequence": 19,
@@ -285,7 +288,8 @@
       "author_group": "世界黄金协会",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3785076",
-      "status": "queued"
+      "status": "drafting",
+      "agent": "/root/scale_19"
     },
     {
       "sequence": 20,
@@ -298,7 +302,9 @@
       "author_group": "华泰证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3783904",
-      "status": "queued"
+      "status": "reading",
+      "agent": "/root/scale_20",
+      "base_snapshot": "/tmp/scaling_article20_base.json"
     },
     {
       "sequence": 21,
@@ -311,7 +317,8 @@
       "author_group": "美国银行",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3763441",
-      "status": "queued"
+      "status": "drafting",
+      "agent": "/root/scale_21"
     },
     {
       "sequence": 22,
@@ -676,6 +683,12 @@
       "commit": "253a4dc",
       "accepted": 12,
       "new_nodes": 8
+    },
+    {
+      "batch": 5,
+      "commit": "a435e3c",
+      "accepted": 15,
+      "new_nodes": 10
     }
   ]
 }
