@@ -1,0 +1,13 @@
+{
+  "sequence": 12,
+  "batch": 4,
+  "article_id": 3785129,
+  "title": "如何理解央行上调外汇存款准备金率？",
+  "source_markdown": "materials/wallstreetcn/SourcePost/如何理解央行上调外汇存款准备金率？/article.md",
+  "source_metadata": "materials/wallstreetcn/SourcePost/如何理解央行上调外汇存款准备金率？/metadata.json",
+  "image_occurrences": 12,
+  "author_group": "华创证券",
+  "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
+  "output_directory": "workspaces/wallstreetcn_scaling/articles/3785129",
+  "status": "queued"
+}

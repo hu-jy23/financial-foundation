@@ -1,0 +1,126 @@
+{
+  "article_id": 3783332,
+  "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
+  "read_scope": "全文、metadata及16张完整原图；现行说明、思想、形成记录和模板，相关IV/RV、Gamma、波动卖方、原油机制旧页。",
+  "model": "inherited_unverified",
+  "new_nodes": [
+    {
+      "id": "C-WS-3783332-SP500",
+      "title": "标普500与等权指数",
+      "type": "concept",
+      "entry_kind": "concept",
+      "path": "10_concepts/标普500与等权指数.md",
+      "why": "补缺失的具体金融标的；同一大型股集合以不同权重承载美国权益表现，可持续记录集中、广度及财报；不是宽基ETF子概念。解释市值/等权、个股回报/指数贡献、图中等权ETF与指数差异。"
+    },
+    {
+      "id": "C-WS-3783332-SWAPTION",
+      "title": "利率互换期权Swaption",
+      "type": "concept",
+      "entry_kind": "concept",
+      "path": "10_concepts/利率互换期权Swaption.md",
+      "why": "实际非线性利率风险转移工具，解释payer/receiver、expiry×tenor、Vega、同执行价straddle与宽跨strangle。图14明确为straddle，修正新闻翻译不一致；现图无独立IRS或Swaption对象，OIS只属知识关联。"
+    }
+  ],
+  "updates": [
+    {
+      "id": "C-VOL-IVRV",
+      "entry_kind": "concept",
+      "path": "10_concepts/隐含波动率与实现波动率.md",
+      "why": "补指数与成分股波动的组合方差/协方差联系；区分一个月绝对收益离散度、实现波动与隐含相关性，补2026-10作者快照。"
+    },
+    {
+      "id": "R-DERIVATIVES-03",
+      "entry_kind": "relation",
+      "path": "20_mechanisms/做市商Gamma对冲的价格反馈.md",
+      "why": "在现有logic-1/2补客户卖方/中介接收的条件链、净Gamma与日内高低范围统计差异。图7不能给出dealer已确认净头寸，保留野村解释归属。"
+    }
+  ],
+  "new_files": [
+    {
+      "id": "E-WS-3783332",
+      "type": "analysis_note",
+      "path": "30_events/markets/美股集中、波动供给与柴油风险：野村2026年10月跨资产分析.md"
+    },
+    {
+      "id": "S-WS-3783332",
+      "type": "source_note",
+      "path": "40_sources/S-WS-3783332.md"
+    }
+  ],
+  "important_knowledge": [
+    {
+      "knowledge": "标普500、市值加权/等权、Mag7与涨幅贡献",
+      "placement": "新指数对象+事件；Mag7为当次公司集合，已存在7公司页，不另建主题集合。"
+    },
+    {
+      "knowledge": "收益离散、隐含/实现相关性、平值与偏斜",
+      "placement": "更新IV/RV，偏斜复用已有关系；不为基本统计属性加页。"
+    },
+    {
+      "knowledge": "QIS/VRP、0DTE卖方、衍生品收益基金",
+      "placement": "事件说明风险转移，复用VRP与卖波收益关系；QIS策略总称和322B集合不足构成具名新产品。"
+    },
+    {
+      "knowledge": "Gamma、Vega、Delta、Theta与风险目标资金",
+      "placement": "Gamma旧逻辑和事件，复用既有波动目标/CTA/风险平价；图10聚合估计不是实际逐基金持仓。"
+    },
+    {
+      "knowledge": "柴油裂解价差、炼油瓶颈及通胀向利率路径",
+      "placement": "事件展开产品价差/成本/政策响应条件，引用原油供给冲击；不将两条时间序列同涨注册成恒等关系；后续20篇柴油专题可深化。"
+    },
+    {
+      "knowledge": "利率互换期权与长波动对冲",
+      "placement": "新Swaption对象，具体回测和三种当时交易分支在事件。"
+    },
+    {
+      "knowledge": "OpenAI营收与AI资本支出盈利扩散",
+      "placement": "事件保存新闻转述和图16季度序列；未取得OpenAI文件、FT原文或发行人官方数据，不以本文单独注册公司。"
+    }
+  ],
+  "figure_findings": [
+    "图3总计84%/57%/17%，与正文85%/59%/17%有差；正文30%/40%回撤没有相应图内汇总。",
+    "图4的13%为NVDA占指数累计23%涨幅的份额，不是个股收益或权重；贡献约2.99个百分点。",
+    "图5等权线为Invesco S&P Equal Weight ETF价格，未给ticker及分红口径，不能直接与总回报指数并接。",
+    "图7是Customer Intraday High to Low Gamma Range，红线10日均值14.0bn/100%分位；正的范围不识别客户或dealer净Gamma方向。",
+    "图8的13.9/14.2是10日窗口夏普，1年卖25d put/strangle为2.3/1.3；不是回报百分比或未来稳定赔率。",
+    "图11 Call Skew=25dC/ATM的比率仍小于1，100%是历史分位，不是认购隐波超过ATM或涨100%。",
+    "图12为EU Diesel Cracks 85.26、EUR1y1yVol112.6并列，货币/单位未显；图13同样缺完整合约代码/单位，保留报价不补造。",
+    "图14是20y20y swaption straddle，CPI同比五分组2003—2026、月度超额收益、恒定Vega滚动，非本金收益率，不能直接证明原文宽跨策略绩效。",
+    "图15为zerohedge转述帖截图，不是特朗普本人Truth Social截图。",
+    "图16列Q3/Q4 2025与Q1/Q2 2026，Mag7=4/7/15/7%，其他493=9/7/13/18%；图题盈利增长贡献未给底表，无法区分贡献百分点与各组增速，保留图原称。"
+  ],
+  "external_reading": [
+    {
+      "url": "https://www.spglobal.com/spdji/en/indices/equity/sp-500/",
+      "scope": "Overview定义；不用实时成分。"
+    },
+    {
+      "url": "https://www.spglobal.com/spdji/en/indices/equity/sp-500-equal-weight-index/",
+      "scope": "Overview及指数关联产品。"
+    },
+    {
+      "url": "https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-us-indices.pdf",
+      "scope": "已定位2026年11月方法版本，定向核构造/等权规则；版本晚于事件，作为后补定义材料不回填当时信息。"
+    },
+    {
+      "url": "https://idd.ice.com/IRHelp/Content/FM/Swaption.htm",
+      "scope": "定义、payer/receiver、结算、到期与底层互换期限。"
+    },
+    {
+      "url": "https://idd.ice.com/IRHelp/Content/FM/Swaption_Straddle_Strate.htm",
+      "scope": "全文，同执行价组合定义。"
+    },
+    {
+      "url": "https://www.cftc.gov/filings/orgrules/rules0705243158.pdf",
+      "scope": "TW SEF规则901的Swaption合约规格，定向核期限/结算。"
+    },
+    {
+      "url": "https://cdn.cboe.com/resources/indices/documents/Implied_Correlation-WhitePaper-v1.0.5.pdf",
+      "scope": "PDF2—3页定义及组合方差解释；不把其3M指数等同野村1M序列。"
+    }
+  ],
+  "limitations": [
+    "未取得野村完整10月8日报告、底层Bloomberg序列、FT营收报道和OpenAI投资者文件；所有新闻时点事实及预测保留转述归属。",
+    "历史低相关性类比仅图示与二次引述，不形成未来危机概率。"
+  ]
+}

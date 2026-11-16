@@ -1,0 +1,107 @@
+{
+  "article_id": 3785129,
+  "title": "如何理解央行上调外汇存款准备金率？",
+  "files": [
+    {
+      "path": "10_concepts/外汇存款准备金率.md",
+      "draft_path": "drafts/10_concepts/外汇存款准备金率.md",
+      "operation": "new",
+      "id": "C-WS-3785129-FXRR",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "外汇存款准备金率",
+      "why": "新增外币交存制度、资金约束、与其他工具区别及政策历史，继承一般准备金制度。",
+      "parent_ids": [
+        "C-CHINA-06"
+      ],
+      "parent_relation": "policy_subtype"
+    },
+    {
+      "path": "10_concepts/存款准备金率与降准.md",
+      "draft_path": "drafts/10_concepts/存款准备金率与降准.md",
+      "operation": "update",
+      "id": "C-CHINA-06",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "存款准备金率与降准",
+      "why": "明确一般制度与人民币正文的范围，增加外币细类入口和两种比例可反向调整的解释。"
+    },
+    {
+      "path": "10_concepts/人民币与离岸人民币.md",
+      "draft_path": "drafts/10_concepts/人民币与离岸人民币.md",
+      "operation": "update",
+      "id": "C-FX-02",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "人民币与离岸人民币",
+      "why": "补11月4日华创短期与2027预期，区分双边报价、篮子指数及机构模型。"
+    },
+    {
+      "path": "30_events/markets/外汇存准上调与人民币升值边界：2026年11月华创判断.md",
+      "draft_path": "drafts/30_events/markets/外汇存准上调与人民币升值边界：2026年11月华创判断.md",
+      "operation": "new",
+      "id": "E-WS-3785129",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "外汇存准上调与人民币升值边界：2026年11月华创判断",
+      "why": "保留12张原图、银行和企业选择、两个历史样本、五分支预期及具体统计边界。",
+      "node_ids": [
+        "C-WS-3785129-FXRR",
+        "C-CHINA-06",
+        "C-FX-02",
+        "C-FX-13",
+        "C-FX-18"
+      ],
+      "related_mechanism_ids": [
+        "R-INTERNATIONAL-09"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3785129.md",
+      "draft_path": "drafts/40_sources/S-WS-3785129.md",
+      "operation": "new",
+      "id": "S-WS-3785129",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "华创外汇存准与人民币展望：来源和核读范围",
+      "why": "登记原文、23条制度与公众号公告转载的实读范围及图表口径。"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "外汇存款准备金制度与外币约束",
+      "operation": "new",
+      "path": "10_concepts/外汇存款准备金率.md"
+    },
+    {
+      "knowledge": "人民币准备金率、CNY与CNH、CFETS",
+      "operation": "update",
+      "path": "10_concepts/人民币与离岸人民币.md"
+    },
+    {
+      "knowledge": "其他汇率工具及结汇/持汇选择",
+      "operation": "inline",
+      "path": "30_events/markets/外汇存准上调与人民币升值边界：2026年11月华创判断.md#toolbox"
+    },
+    {
+      "knowledge": "历史样本、成本代理与2027预期",
+      "operation": "inline",
+      "path": "30_events/markets/外汇存准上调与人民币升值边界：2026年11月华创判断.md#outlook"
+    },
+    {
+      "knowledge": "直接干预与人民币资金冲销",
+      "operation": "reuse",
+      "path": "20_mechanisms/资本流出、储备干预与本币流动性.md"
+    }
+  ],
+  "summary": "新增子概念《外汇存款准备金率》、事件分析和来源记录各1篇；修改《存款准备金率与降准》的制度范围与外币入口，修改《人民币与离岸人民币》补2026年11月4日的机构判断及报价口径。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/外汇存款准备金率.md",
+    "10_concepts/存款准备金率与降准.md",
+    "10_concepts/人民币与离岸人民币.md",
+    "30_events/markets/外汇存准上调与人民币升值边界：2026年11月华创判断.md",
+    "40_sources/S-WS-3785129.md"
+  ]
+}

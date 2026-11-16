@@ -1,0 +1,174 @@
+{
+  "article_id": 3783420,
+  "title": "用户增速骤降62%，摩根士丹利测算Muse每用户月成本最高130美元",
+  "files": [
+    {
+      "id": "C-WS-3783420-MUSE",
+      "type": "concept",
+      "title": "Muse",
+      "path": "10_concepts/Muse.md",
+      "draft_path": "drafts/10_concepts/Muse.md",
+      "operation": "new",
+      "entry_kind": "subconcept",
+      "why": "新增Meta产品线子概念，解释模型/执行VM/商户接入、观察AI商业化的用途，并保存10月增长与成本历史。",
+      "parent_ids": [
+        "C-TECH-22"
+      ],
+      "parent_relation": "company_product"
+    },
+    {
+      "id": "C-TECH-22",
+      "type": "concept",
+      "title": "Meta",
+      "path": "10_concepts/Meta.md",
+      "draft_path": "drafts/10_concepts/Meta.md",
+      "operation": "update",
+      "entry_kind": "concept",
+      "why": "补10月12日Muse用户与服务成本争议，区分集团广告回收与新产品独立经济性，保留较晚财务及技术记录。"
+    },
+    {
+      "id": "C-TECH-20",
+      "type": "concept",
+      "title": "Amazon",
+      "path": "10_concepts/Amazon.md",
+      "draft_path": "drafts/10_concepts/Amazon.md",
+      "operation": "update",
+      "entry_kind": "concept",
+      "why": "补Graviton合作与Muse零售接入的两组交易，区分CPU采购情景、已部署容量和AWS实际收入。"
+    },
+    {
+      "id": "R-TECH-12",
+      "type": "mechanism",
+      "title": "平台网络效应",
+      "path": "20_mechanisms/平台网络效应.md",
+      "draft_path": "drafts/20_mechanisms/平台网络效应.md",
+      "operation": "update",
+      "entry_kind": "relation",
+      "why": "新增logic-4：用户和商户互补依赖接入、权限与收益安排，区分网络效应、个人切换成本和补贴能力。",
+      "node_ids": [
+        "C-TECH-03",
+        "C-TECH-22",
+        "C-WS-3783420-MUSE",
+        "C-TECH-20",
+        "C-TECH-30"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-TECH-03"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-TECH-03"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-TECH-03"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-4",
+          "node_ids": [
+            "C-TECH-22",
+            "C-WS-3783420-MUSE",
+            "C-TECH-20",
+            "C-TECH-30"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "id": "E-WS-3783420",
+      "type": "analysis_note",
+      "title": "Muse增长、服务成本与交易接入：2026年10月观察",
+      "path": "30_events/markets/Muse增长、服务成本与交易接入：2026年10月观察.md",
+      "draft_path": "drafts/30_events/markets/Muse增长、服务成本与交易接入：2026年10月观察.md",
+      "operation": "new",
+      "entry_kind": "event",
+      "why": "完整组织增长、CPU/GPU成本和容量、商业化及交易接入的当时问题；保留16图位并具体核对量纲与API表矛盾。",
+      "node_ids": [
+        "C-TECH-22",
+        "C-WS-3783420-MUSE",
+        "C-TECH-20",
+        "C-TECH-30",
+        "C-TECH-23",
+        "C-TECH-01",
+        "C-TECH-02",
+        "C-TECH-03",
+        "C-TECH-04"
+      ],
+      "related_mechanism_ids": [
+        "R-TECH-12",
+        "R-TECH-03"
+      ]
+    },
+    {
+      "id": "S-WS-3783420",
+      "type": "source_note",
+      "title": "Muse增长与成本研究：来源及核读范围",
+      "path": "40_sources/S-WS-3783420.md",
+      "draft_path": "drafts/40_sources/S-WS-3783420.md",
+      "operation": "new",
+      "entry_kind": "source",
+      "why": "登记全文16图及两份一手材料实际核读范围、重复图和数值问题，隔离11月修订身份说明与10月经营窗口。"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "AI智能体、模型与执行VM",
+      "operation": "new",
+      "path": "10_concepts/Muse.md"
+    },
+    {
+      "knowledge": "用户/下载/净增、成本与容量、TAM/EPS",
+      "operation": "inline",
+      "path": "30_events/markets/Muse增长、服务成本与交易接入：2026年10月观察.md"
+    },
+    {
+      "knowledge": "Meta资金与新产品回收",
+      "operation": "update",
+      "path": "10_concepts/Meta.md#muse-202610"
+    },
+    {
+      "knowledge": "AWS交易与零售接入",
+      "operation": "update",
+      "path": "10_concepts/Amazon.md#meta-agent-202610"
+    },
+    {
+      "knowledge": "跨边反馈与切换成本",
+      "operation": "update",
+      "path": "20_mechanisms/平台网络效应.md#logic-4"
+    },
+    {
+      "knowledge": "腾讯生态、Apple交易收入情景",
+      "operation": "reuse",
+      "path": "30_events/markets/Muse增长、服务成本与交易接入：2026年10月观察.md#access"
+    },
+    {
+      "knowledge": "算力/GPU/云服务/模型效率与总需求",
+      "operation": "reuse",
+      "path": "10_concepts/人工智能算力.md"
+    }
+  ],
+  "summary": "新增Muse子概念、事件与来源各1篇；修改Meta（新产品回收与广告业务区别）、Amazon（云供给与零售接入）、平台网络效应（接入权与跨边反馈）。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/Muse.md",
+    "10_concepts/Meta.md",
+    "10_concepts/Amazon.md",
+    "20_mechanisms/平台网络效应.md",
+    "30_events/markets/Muse增长、服务成本与交易接入：2026年10月观察.md",
+    "40_sources/S-WS-3783420.md"
+  ]
+}

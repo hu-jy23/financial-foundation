@@ -1,0 +1,13 @@
+{
+  "sequence": 11,
+  "batch": 4,
+  "article_id": 3783332,
+  "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
+  "source_markdown": "materials/wallstreetcn/SourcePost/野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击/article.md",
+  "source_metadata": "materials/wallstreetcn/SourcePost/野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击/metadata.json",
+  "image_occurrences": 16,
+  "author_group": "野村",
+  "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
+  "output_directory": "workspaces/wallstreetcn_scaling/articles/3783332",
+  "status": "queued"
+}

@@ -33,6 +33,11 @@ for id,x in nodes.items():
   for lg in m.get('logic_groups',[]):
    if f'id="{lg["anchor"]}"' not in content(p):issues.append({'missing_logic_anchor':id,'anchor':lg['anchor']})
 for p in targets:
+ m=meta(p)
+ for nid in m.get('node_ids',[]):
+  if nid not in concepts:issues.append({'unknown_event_node':nid,'file':str(p.relative_to(G))})
+ for rid in m.get('related_mechanism_ids',[]):
+  if rid not in relations:issues.append({'unknown_event_relation':rid,'file':str(p.relative_to(G))})
  for t in parser.parse(content(p)):
   for c in [t]+(t.children or []):
    url=c.attrGet('href') or c.attrGet('src')

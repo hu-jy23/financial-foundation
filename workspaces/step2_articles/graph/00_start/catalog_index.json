@@ -2,17 +2,17 @@
   "counts": {
     "concepts": {
       "groups": 20,
-      "items": 176,
+      "items": 180,
       "p0": 21,
-      "complete": 148,
-      "pending": 28
+      "complete": 143,
+      "pending": 37
     },
     "mechanisms": {
       "groups": 18,
       "items": 80,
       "p0": 21,
-      "complete": 68,
-      "pending": 12
+      "complete": 66,
+      "pending": 14
     },
     "excluded_concepts": {
       "items": 186,
@@ -714,7 +714,7 @@
           "name": "人民币与离岸人民币",
           "scope": "CNY/CNH市场与制度边界",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/人民币与离岸人民币.md",
           "catalog_anchor": "C-FX-02",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FX-02",
@@ -722,7 +722,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/人民币与离岸人民币.md"
+          "planned_path": "../10_concepts/人民币与离岸人民币.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-FX-03",
@@ -1071,7 +1072,7 @@
           "name": "隐含波动率与实现波动率",
           "scope": "定价参数和统计量",
           "priority": "P0",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/隐含波动率与实现波动率.md",
           "catalog_anchor": "C-VOL-IVRV",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-VOL-IVRV",
@@ -1079,7 +1080,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/隐含波动率与实现波动率.md"
+          "planned_path": "../10_concepts/隐含波动率与实现波动率.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-DERIV-04",
@@ -1493,7 +1495,7 @@
           "name": "存款准备金率与降准",
           "scope": "结构、覆盖与释放资金",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/存款准备金率与降准.md",
           "catalog_anchor": "C-CHINA-06",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-CHINA-06",
@@ -1501,7 +1503,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/存款准备金率与降准.md"
+          "planned_path": "../10_concepts/存款准备金率与降准.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-CHINA-07",
@@ -2219,7 +2222,7 @@
           "name": "Amazon",
           "scope": "零售、物流与AWS云业务",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/Amazon.md",
           "catalog_anchor": "C-TECH-20",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-TECH-20",
@@ -2227,7 +2230,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/Amazon.md"
+          "planned_path": "../10_concepts/Amazon.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-TECH-21",
@@ -2249,7 +2253,7 @@
           "name": "Meta",
           "scope": "社交广告、推荐系统与AI投资",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/Meta.md",
           "catalog_anchor": "C-TECH-22",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-TECH-22",
@@ -2257,7 +2261,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/Meta.md"
+          "planned_path": "../10_concepts/Meta.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-TECH-23",
@@ -2890,6 +2895,74 @@
             "C-TECH-06"
           ],
           "parent_relation": "concrete_subject"
+        },
+        {
+          "id": "C-WS-3783420-MUSE",
+          "name": "Muse",
+          "scope": "新增Meta产品线子概念，解释模型/执行VM/商户接入、观察AI商业化的用途，并保存10月增长与成本历史。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/Muse.md",
+          "planned_path": "../10_concepts/Muse.md",
+          "catalog_anchor": "C-WS-3783420-MUSE",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783420-MUSE",
+          "status": "pending",
+          "editing_status": "step2_draft",
+          "parent_ids": [
+            "C-TECH-22"
+          ],
+          "parent_relation": "company_product"
+        },
+        {
+          "id": "C-WS-3783332-SWAPTION",
+          "name": "利率互换期权Swaption",
+          "scope": "补利率期权合同、payer/receiver、两段期限及Vega；区分图14跨式回测与正文宽跨式说法。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/利率互换期权Swaption.md",
+          "planned_path": "../10_concepts/利率互换期权Swaption.md",
+          "catalog_anchor": "C-WS-3783332-SWAPTION",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783332-SWAPTION",
+          "status": "pending",
+          "editing_status": "step2_draft"
+        },
+        {
+          "id": "C-WS-3785129-FXRR",
+          "name": "外汇存款准备金率",
+          "scope": "新增外币交存制度、资金约束、与其他工具区别及政策历史，继承一般准备金制度。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/外汇存款准备金率.md",
+          "planned_path": "../10_concepts/外汇存款准备金率.md",
+          "catalog_anchor": "C-WS-3785129-FXRR",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3785129-FXRR",
+          "status": "pending",
+          "editing_status": "step2_draft",
+          "parent_ids": [
+            "C-CHINA-06"
+          ],
+          "parent_relation": "policy_subtype"
+        },
+        {
+          "id": "C-WS-3783332-SP500",
+          "name": "标普500与等权指数",
+          "scope": "补具体美国大盘股票标的；解释市值/等权、涨幅贡献与广度，并保存10月集中行情。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/标普500与等权指数.md",
+          "planned_path": "../10_concepts/标普500与等权指数.md",
+          "catalog_anchor": "C-WS-3783332-SP500",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783332-SP500",
+          "status": "pending",
+          "editing_status": "step2_draft"
         }
       ]
     }
@@ -5683,7 +5756,7 @@
           "node_ids": [
             "C-FLOW-10"
           ],
-          "status": "complete",
+          "status": "pending",
           "path": "../20_mechanisms/做市商Gamma对冲的价格反馈.md",
           "catalog_anchor": "R-DERIVATIVES-03",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-DERIVATIVES-03",
@@ -5724,7 +5797,8 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_draft"
         },
         {
           "id": "R-DERIVATIVES-06",
@@ -6835,9 +6909,13 @@
           "scope": "切换成本、开放生态与监管",
           "priority": "P1",
           "node_ids": [
-            "C-TECH-03"
+            "C-TECH-03",
+            "C-TECH-22",
+            "C-WS-3783420-MUSE",
+            "C-TECH-20",
+            "C-TECH-30"
           ],
-          "status": "complete",
+          "status": "pending",
           "path": "../20_mechanisms/平台网络效应.md",
           "catalog_anchor": "R-TECH-12",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-TECH-12",
@@ -6884,8 +6962,19 @@
                 "C-TECH-03"
               ],
               "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-4",
+              "node_ids": [
+                "C-TECH-22",
+                "C-WS-3783420-MUSE",
+                "C-TECH-20",
+                "C-TECH-30"
+              ],
+              "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_draft"
         }
       ]
     },

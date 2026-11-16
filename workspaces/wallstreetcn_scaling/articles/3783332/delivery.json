@@ -1,0 +1,149 @@
+{
+  "article_id": 3783332,
+  "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
+  "files": [
+    {
+      "path": "10_concepts/标普500与等权指数.md",
+      "draft_path": "drafts/10_concepts/标普500与等权指数.md",
+      "operation": "new",
+      "id": "C-WS-3783332-SP500",
+      "type": "concept",
+      "title": "标普500与等权指数",
+      "entry_kind": "concept",
+      "why": "补具体美国大盘股票标的；解释市值/等权、涨幅贡献与广度，并保存10月集中行情。"
+    },
+    {
+      "path": "10_concepts/利率互换期权Swaption.md",
+      "draft_path": "drafts/10_concepts/利率互换期权Swaption.md",
+      "operation": "new",
+      "id": "C-WS-3783332-SWAPTION",
+      "type": "concept",
+      "title": "利率互换期权Swaption",
+      "entry_kind": "concept",
+      "why": "补利率期权合同、payer/receiver、两段期限及Vega；区分图14跨式回测与正文宽跨式说法。"
+    },
+    {
+      "path": "30_events/markets/美股集中、波动供给与柴油风险：野村2026年10月跨资产分析.md",
+      "draft_path": "drafts/30_events/markets/美股集中、波动供给与柴油风险：野村2026年10月跨资产分析.md",
+      "operation": "new",
+      "id": "E-WS-3783332",
+      "type": "analysis_note",
+      "title": "美股集中、波动供给与柴油风险：野村2026年10月跨资产分析",
+      "entry_kind": "event",
+      "why": "保存16图、集中与低相关性的解释、期权供给及柴油向利率的条件路径，区分作者三种策略与实际证据。"
+    },
+    {
+      "path": "40_sources/S-WS-3783332.md",
+      "draft_path": "drafts/40_sources/S-WS-3783332.md",
+      "operation": "new",
+      "id": "S-WS-3783332",
+      "type": "source_note",
+      "title": "野村2026年10月跨资产分析：来源与核读范围",
+      "entry_kind": "source",
+      "why": "登记正文16图和官方基础定义实读范围，定位Gamma范围、回测结构与原始材料未取得处。"
+    },
+    {
+      "path": "10_concepts/隐含波动率与实现波动率.md",
+      "draft_path": "drafts/10_concepts/隐含波动率与实现波动率.md",
+      "operation": "update",
+      "id": "C-VOL-IVRV",
+      "type": "concept",
+      "title": "隐含波动率与实现波动率",
+      "entry_kind": "concept",
+      "why": "补组合方差与成分共同变动，区分绝对收益离散、RV和隐含相关性，保存10月历史观察。"
+    },
+    {
+      "path": "20_mechanisms/做市商Gamma对冲的价格反馈.md",
+      "draft_path": "drafts/20_mechanisms/做市商Gamma对冲的价格反馈.md",
+      "operation": "update",
+      "id": "R-DERIVATIVES-03",
+      "type": "mechanism",
+      "title": "做市商Gamma对冲的价格反馈",
+      "entry_kind": "relation",
+      "why": "在logic-1补客户卖方至中介对冲的条件链，区别净Gamma与日内高低范围，保留野村10月解释归属。",
+      "node_ids": [
+        "C-FLOW-10"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-FLOW-10"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-FLOW-10"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "标普500、市值与等权、涨幅贡献、广度",
+      "operation": "new",
+      "path": "10_concepts/标普500与等权指数.md"
+    },
+    {
+      "knowledge": "Swaption、payer/receiver、两段期限与跨式/宽跨式",
+      "operation": "new",
+      "path": "10_concepts/利率互换期权Swaption.md"
+    },
+    {
+      "knowledge": "指数与成分波动、隐含/实现相关性、收益离散",
+      "operation": "update",
+      "path": "10_concepts/隐含波动率与实现波动率.md#index-components"
+    },
+    {
+      "knowledge": "客户期权卖方、中介Gamma与对冲",
+      "operation": "update",
+      "path": "20_mechanisms/做市商Gamma对冲的价格反馈.md#logic-1"
+    },
+    {
+      "knowledge": "QIS、VRP、衍生品收益基金与尾部风险",
+      "operation": "inline",
+      "path": "30_events/markets/美股集中、波动供给与柴油风险：野村2026年10月跨资产分析.md#supply"
+    },
+    {
+      "knowledge": "偏斜、认购价差及尾部保险",
+      "operation": "reuse",
+      "path": "20_mechanisms/偏斜与尾部保险需求.md"
+    },
+    {
+      "knowledge": "波动目标、CTA及风险平价资金",
+      "operation": "inline",
+      "path": "30_events/markets/美股集中、波动供给与柴油风险：野村2026年10月跨资产分析.md#supply"
+    },
+    {
+      "knowledge": "柴油裂解、炼化与库存、通胀至利率路径",
+      "operation": "inline",
+      "path": "30_events/markets/美股集中、波动供给与柴油风险：野村2026年10月跨资产分析.md#diesel"
+    },
+    {
+      "knowledge": "IWM、三种交易分支及恒定Vega回测",
+      "operation": "inline",
+      "path": "30_events/markets/美股集中、波动供给与柴油风险：野村2026年10月跨资产分析.md#scenarios"
+    },
+    {
+      "knowledge": "OpenAI营收新闻与盈利扩散论点",
+      "operation": "inline",
+      "path": "30_events/markets/美股集中、波动供给与柴油风险：野村2026年10月跨资产分析.md#news"
+    }
+  ],
+  "summary": "新增《标普500与等权指数》《利率互换期权Swaption》2个概念，以及事件、来源各1篇。修改《隐含波动率与实现波动率》：补成分风险聚合与相关性口径；修改《做市商Gamma对冲的价格反馈》：补客户卖方/中介接收条件及Gamma范围辨析。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/标普500与等权指数.md",
+    "10_concepts/利率互换期权Swaption.md",
+    "30_events/markets/美股集中、波动供给与柴油风险：野村2026年10月跨资产分析.md",
+    "40_sources/S-WS-3783332.md",
+    "10_concepts/隐含波动率与实现波动率.md",
+    "20_mechanisms/做市商Gamma对冲的价格反馈.md"
+  ]
+}

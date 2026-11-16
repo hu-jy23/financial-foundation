@@ -1,0 +1,13 @@
+{
+  "sequence": 10,
+  "batch": 4,
+  "article_id": 3783420,
+  "title": "用户增速骤降62%，摩根士丹利测算Muse每用户月成本最高130美元",
+  "source_markdown": "materials/wallstreetcn/SourcePost/用户增速骤降62%，摩根士丹利测算Muse每用户月成本最高130美元/article.md",
+  "source_metadata": "materials/wallstreetcn/SourcePost/用户增速骤降62%，摩根士丹利测算Muse每用户月成本最高130美元/metadata.json",
+  "image_occurrences": 16,
+  "author_group": "摩根士丹利",
+  "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
+  "output_directory": "workspaces/wallstreetcn_scaling/articles/3783420",
+  "status": "queued"
+}

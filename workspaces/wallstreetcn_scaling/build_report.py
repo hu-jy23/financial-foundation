@@ -5,7 +5,7 @@ import json,html,os,re,ast,yaml
 from markdown_it import MarkdownIt
 R=Path(__file__).resolve().parent;W=R.parent/'step2_articles';G=W/'graph';ROOT=R.parents[1]
 run=json.loads((R/'run.json').read_text());M=MarkdownIt('commonmark',{'html':True}).enable('table')
-PARENT_LABELS={'concrete_subject':'具体主体','thematic_collection':'专题集合','instrument_specific_basis':'特定工具的基差','instrument_subtype':'工具细类'}
+PARENT_LABELS={'concrete_subject':'具体主体','thematic_collection':'专题集合','instrument_specific_basis':'特定工具的基差','instrument_subtype':'工具细类','company_product':'公司产品线','policy_subtype':'政策工具细类'}
 K={'concept':'概念','subconcept':'子概念','relation':'关系','subrelation':'子关系','event':'事件分析','source':'来源记录'}
 css=next(ast.literal_eval(t.value) for t in ast.parse((W/'build_reader.py').read_text()).body if isinstance(t,ast.Assign) and any(isinstance(a,ast.Name) and a.id=='css' for a in t.targets))
 def E(s):return html.escape(str(s),quote=True)

@@ -7,18 +7,30 @@ draft_author: /root/full_b067
 model: gpt-6-astra
 reasoning_effort: medium
 reviewed_by: /root
-updated: 2026-10-28
-evidence_as_of: 2025-05-02
-node_ids: [C-FLOW-10]
+workspace_reviewed_by: /root
+workspace_reviewed_on: 2026-11-16
+updated: '2026-11-16'
+evidence_as_of: '2026-10-10'
+node_ids:
+- C-FLOW-10
 related_mechanism_ids: []
-source_ids: [S-R-DERIVATIVES-03-01, S-R-DERIVATIVES-03-02]
+source_ids:
+- S-R-DERIVATIVES-03-01
+- S-R-DERIVATIVES-03-02
+- S-WS-3783332
 logic_groups:
-  - anchor: logic-1
-    node_ids: [C-FLOW-10]
-    related_mechanism_ids: []
-  - anchor: logic-2
-    node_ids: [C-FLOW-10]
-    related_mechanism_ids: []
+- anchor: logic-1
+  node_ids:
+  - C-FLOW-10
+  related_mechanism_ids: []
+- anchor: logic-2
+  node_ids:
+  - C-FLOW-10
+  related_mechanism_ids: []
+editor: /root/scale_11
+editing_status: step2_draft
+editor_model: inherited_unverified
+editor_reasoning_effort: inherited_unverified
 ---
 
 # 做市商Gamma对冲的价格反馈
@@ -40,7 +52,7 @@ Delta是期权价格对标的价格的一阶敏感度，Gamma是Delta随标的�
 
 **关联节点／节点组**：[程序化交易与做市 C-FLOW-10](../10_concepts/程序化交易与做市.md)。该对象中的库存管理决定是否、何时把期权风险转为标的交易。
 
-**时间段**：适用于动态Delta对冲；实证窗口2020年7月至2023年6月，研究发布于2025-01-25。
+**时间段**：适用于动态Delta对冲；原实证窗口2020年7月至2023年6月，研究发布于2025-01-25；本轮另补2026-10-10转述的机构解释。
 
 ### 详细逻辑
 
@@ -61,6 +73,8 @@ G的单位是标的单位／每一价格单位；dH是需买卖的标的单位�
 2022-04-26与2022-05-19，SPXW分别增加周二、周四到期合约，普通交易周由此拥有每天到期的选择。近到期且接近平值的期权Gamma可能集中，研究问题从每月到期日扩展到日内。[S-R-DERIVATIVES-03-01](#S-R-DERIVATIVES-03-01)
 
 Amaya、Garcia-Ares、Pearson和Vasquez于2025-01-25的论文，利用交易主体标签累计SPX／SPXW头寸，研究2020年7月至2023年6月的一分钟Gamma与波动关系。作者发现中介Gamma通常为正、偶尔为负；其GARCH反事实估计中，日波动影响中位数为降低约0.08个百分点，样本内最大提高为3.3个百分点，30分钟波动最大提高为6.4个百分点；均为**年化实现波动率的百分点变化**，不是指数涨跌幅，也不是未来最大损失。模型把滞后Gamma项置零作反事实，不能被读成随机实验识别的必然因果上限。[S-R-DERIVATIVES-03-01](#S-R-DERIVATIVES-03-01)
+
+2026-10-10转载的野村分析把客户QIS卖出短期期权，与中介接收正Gamma、反向对冲压低波动相连。这条解释要求相关客户确为净卖方、接收风险未被中介其他头寸抵销且实际执行对冲。所附图7标作客户日内Gamma最高至最低的**范围**，十日均值末值140亿美元；范围为正不能识别客户净持仓符号，也不构成已确认的中介全天净Gamma。[事件图7](../30_events/markets/美股集中、波动供给与柴油风险：野村2026年10月跨资产分析.md#supply)保留野村解释与图的测量对象。它提供一个当时机构判断，没有取代前述带主体的持仓研究。
 
 ### 该逻辑的预期
 
@@ -94,6 +108,8 @@ Cboe的Mandy Xu于2025-05-02报告，SPX 0DTE日均交易接近200万张，较�
 **本库条件推演，2026-10-28整理，期限为日内至下一到期日**：若0DTE交易增加但净头寸仍小，未必改变标的波动；若单边需求集中在平值附近并超过可即时承接的深度，即使日均规模不大，短时间反馈也可能明显。应同时查看净持仓和同频深度；日成交量与一分钟风险量不能直接比较。
 
 ## 来源与覆盖说明
+
+本轮编辑：`/root/scale_11`，2026-11-16，向logic-1补入客户卖方与中介风险接收的条件案例，资料新增至2026-10-10转载；前两份研究的样本和读取范围保留。[S-WS-3783332](../40_sources/S-WS-3783332.md)。
 
 <a id="S-R-DERIVATIVES-03-01"></a>
 - **S-R-DERIVATIVES-03-01**：Diego Amaya、Pedro A. Garcia-Ares、Neil D. Pearson、Aurelio Vasquez，*0DTE Index Options and Market Volatility: How Large is Their Impact?*，2025-01-25。[原始PDF](https://cdn.cboe.com/resources/education/research_publications/gammasqueezes.pdf)。已读PDF页1—8的导论、机制、数据构造，及第3—4节模型／反事实方法相关段落；未复算原始交易数据、未逐项重估附表。底层成交从2020年1月起用于构造，主结果样本2020年7月—2023年6月，两个起点不同。

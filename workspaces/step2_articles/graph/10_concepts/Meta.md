@@ -3,13 +3,26 @@ id: C-TECH-22
 type: concept
 title: Meta
 status: reviewed_seed
-draft_author: "/root/resume_b042"
+draft_author: /root/resume_b042
 model: gpt-6-astra
 reasoning_effort: medium
 reviewed_by: /root
-updated: 2026-10-30
+workspace_reviewed_by: /root
+workspace_reviewed_on: 2026-11-16
+updated: '2026-11-16'
 evidence_as_of: 2026-10-28
-source_ids: [S-C-TECH-22-01, S-C-TECH-22-02, S-C-TECH-22-03, S-C-TECH-22-04, S-C-TECH-22-05, S-C-TECH-22-06]
+source_ids:
+- S-C-TECH-22-01
+- S-C-TECH-22-02
+- S-C-TECH-22-03
+- S-C-TECH-22-04
+- S-C-TECH-22-05
+- S-C-TECH-22-06
+- S-WS-3783420
+editor: /root/scale_10
+editing_status: step2_draft
+editor_model: inherited_unverified
+editor_reasoning_effort: inherited_unverified
 ---
 
 # Meta
@@ -100,6 +113,13 @@ Meta财年截至12月31日，下表为完整自然年，金额单位**十亿美�
 
 **2026-01-28的管理层预期：**公司预计2026资本开支1,150亿—1,350亿美元，并预计经营利润超过2025；费用增长主要来自基础设施及技术人才。原文的资本开支包含融资租赁本金，不可与只列现金购置的另一家公司不加调整地比较。[S-C-TECH-22-02](#S-C-TECH-22-02)
 
+<a id="muse-202610"></a>
+### 2026年9—10月：Muse把新产品服务成本带入增长判断
+
+2026-10-12华尔街见闻汇集的研究以[Muse](Muse.md)为新产品观察：TickerTrends估计10月6日DAU约273万，活跃仍增加，但日均净增较9月初始窗口减慢约62%。摩根士丹利按免费额度消费25%和特定VM使用，估计每活跃用户月服务成本37.12美元，主要变现可能要等2027年底—2028年。用户量为第三方估计，成本和日期是研究情景，未形成公司的Muse独立损益。
+
+这里需要把广告业务已有回收与新产品补贴分开。广告现金可以承担新用户服务，Muse能否持续回收则取决于实际使用强度、付费及商户接入；集团年ARPU约70美元与新产品情景年成本445美元的比较，没有统一用户分母。完整图表、CPU采购用途边界及API盈利表错误见[事件](../30_events/markets/Muse增长、服务成本与交易接入：2026年10月观察.md)。本段补录较早窗口，原页10月21日财务与10月28日技术证据分别保留；文章预告11月4日财报与本页原公告日期不同，本次未重核会期。
+
 ### 2026第三季：经营、诉讼费用和投资压力需要拆开
 
 10月21日公布的截至9月30日季度收入646.01亿美元、同比26%；9月平均DAP为36.4亿、同比3%，季度广告展示量增加10%、平均价格增加14%。这些数值说明收入增长远快于独立用户数量，并不单独识别其中有多少来自推荐、广告需求、地域结构或新增格式。[S-C-TECH-22-03](#S-C-TECH-22-03)
@@ -134,3 +154,5 @@ GAAP经营利润129.88亿美元、同比下降37%，包含与青少年心理健�
 <a id="S-C-TECH-22-06"></a>**S-C-TECH-22-06**｜Meta，*Form 8-K*，2021-10-28。[SEC原文](https://www.sec.gov/Archives/edgar/data/1326801/000132680121000071/fb-20211028.htm)。读取Item 5.03更名和Item 8.01分部改变；没有将当时拟用股票代码计划当作后来实现结果。
 
 尚缺：公开年报不能分别给出Facebook／Instagram／WhatsApp完整利润表、各AI项目投资回报及新模型付费收入；本轮未取得公司内部预算和训练／推理资本支出分拆。推荐改善的独立增量销售、广告主行业层面留存及AI投入相对于替代方案的回报，仍需实验设计和同口径追踪数据。2026年全年财务尚未在本页取得，不以三个季度或指引替代。
+
+本轮补录来源：[S-WS-3783420](../40_sources/S-WS-3783420.md)，2026-10-12文章及16图；本次未重核本页原有财务来源。

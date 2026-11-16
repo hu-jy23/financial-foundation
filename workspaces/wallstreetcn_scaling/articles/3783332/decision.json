@@ -1,0 +1,10 @@
+{
+  "article_id": 3783332,
+  "decision": "proceed",
+  "new_nodes": [
+    "C-WS-3783332-SP500",
+    "C-WS-3783332-SWAPTION"
+  ],
+  "approved_files": 6,
+  "notes": "两基础概念无强设父项；更新IV/RV与Gamma既有逻辑，事件保留16图。"
+}
