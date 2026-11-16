@@ -73,7 +73,7 @@ for c in cases:
  if c['baseline']:continue
  text+='## '+c['title']+'\n\n'
  for f in c['files']:
-  op='新增' if f['operation']=='new' else '修改';text+=f'- {op}{K[kind(f)]}《{f["title"]}》：{f.get("why","")} [正文]({os.path.relpath(G/f["path"],R)})\n'
+  op='新增' if f['operation']=='new' else '修改';text+=f'- {op}{K[kind(f)]}《{f["title"]}》：{f.get("why","")} [正文](<{os.path.relpath(G/f["path"],R)}>)\n'
  text+='\n'
 (R/'增量清单.md').write_text(text)
 (R/'report_counts.json').write_text(json.dumps({'accepted_additions':complete,'pending':pending,'new_nodes':len(new_ids),'node_types':dict(counts),'working_nodes':len(nodes),'unique_documents':len(files),'updated_nodes':len(updates),'updated_node_types':dict(update_counts),'new_support_documents':dict(support_counts)},ensure_ascii=False,indent=2)+'\n')

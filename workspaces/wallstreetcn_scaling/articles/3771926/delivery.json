@@ -1,0 +1,116 @@
+{
+  "article_id": 3771926,
+  "title": "趋势、抱团与疯狂——A股“抓主线”投资方法论",
+  "files": [
+    {
+      "path": "10_concepts/主动权益公募基金.md",
+      "draft_path": "drafts/10_concepts/主动权益公募基金.md",
+      "operation": "update",
+      "id": "C-WS-3758183-ACTIVE-EQUITY",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "主动权益公募基金",
+      "why": "补新发、净承接与持仓回报的区别，保存2026年5月国投三峰顺序的观察及数据范围。",
+      "parent_ids": [
+        "C-SECTOR-03"
+      ],
+      "parent_relation": "thematic_collection"
+    },
+    {
+      "path": "10_concepts/保险资金与长期资金.md",
+      "draft_path": "drafts/10_concepts/保险资金与长期资金.md",
+      "operation": "update",
+      "id": "C-ASIA-06",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "保险资金与长期资金",
+      "why": "补非交易性权益FVOCI指定、股利与退出列报，解释会计呈现与资本、现金约束的区别。"
+    },
+    {
+      "path": "30_events/markets/A股主线、资金偏好与风格切换：国投2026年5月方法讨论.md",
+      "draft_path": "drafts/30_events/markets/A股主线、资金偏好与风格切换：国投2026年5月方法讨论.md",
+      "operation": "new",
+      "id": "E-WS-3771926",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "A股主线、资金偏好与风格切换：国投2026年5月方法讨论",
+      "why": "完整保存四抓手、资金偏好、三峰、三因素及风格分支与12图，区分作者方法和可解释过程。",
+      "node_ids": [
+        "C-ASIA-01",
+        "C-WS-3758183-ACTIVE-EQUITY",
+        "C-ASIA-06",
+        "C-ASIA-04",
+        "C-ASIA-03",
+        "C-ASIA-05",
+        "C-BOND-03"
+      ],
+      "related_mechanism_ids": [
+        "R-EQ-DIVIDEND",
+        "R-MARKET-04"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3771926.md",
+      "draft_path": "drafts/40_sources/S-WS-3771926.md",
+      "operation": "new",
+      "id": "S-WS-3771926",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "国投A股主线方法讨论：来源与核读范围",
+      "why": "登记原文与12图实读、图文匹配问题和官方会计条文核读范围。"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "增量资金、边际交易、共同持仓",
+      "operation": "inline",
+      "path": "30_events/markets/A股主线、资金偏好与风格切换：国投2026年5月方法讨论.md",
+      "placement": "事件先解释资金来源—产品约束—偏好股票—报价与回撤；复用A股市场、基金和保险页。不为泛化抱团另造关系。"
+    },
+    {
+      "knowledge": "主动基金发行、茅指数、微盘指数、私募量化",
+      "operation": "inline",
+      "path": "30_events/markets/A股主线、资金偏好与风格切换：国投2026年5月方法讨论.md",
+      "placement": "基金更新及事件；茅指数/宁组合为原研究组合标签，成分权重不详，不具独立维护基础；私募图是成立只数而非量化资金金额。"
+    },
+    {
+      "knowledge": "保险配置、ETF申赎、OCI",
+      "operation": "inline",
+      "path": "30_events/markets/A股主线、资金偏好与风格切换：国投2026年5月方法讨论.md",
+      "placement": "保险更新OCI基本解释，图4余额与配置口径分开；ETF正文复用现页。"
+    },
+    {
+      "knowledge": "超额收益、估值分化、发行三峰顺序",
+      "operation": "inline",
+      "path": "30_events/markets/A股主线、资金偏好与风格切换：国投2026年5月方法讨论.md",
+      "placement": "事件保存机构归纳；12图未实际展示三条完整序列/规则，不能设成普遍择时机制。"
+    },
+    {
+      "knowledge": "高增长细分比例、PPI及行业相对指数",
+      "operation": "inline",
+      "path": "30_events/markets/A股主线、资金偏好与风格切换：国投2026年5月方法讨论.md",
+      "placement": "事件保留阈值和图7/8并说明分母、样本与指数编制，原模型不注册。"
+    },
+    {
+      "knowledge": "杠铃/反杠铃、国债利率与风格",
+      "operation": "inline",
+      "path": "30_events/markets/A股主线、资金偏好与风格切换：国投2026年5月方法讨论.md",
+      "placement": "事件解释两端vs中间组合及利润/贴现率、持仓变化的条件；不新建作者策略模型。"
+    },
+    {
+      "knowledge": "高切低跟踪指数及行业离散",
+      "operation": "inline",
+      "path": "30_events/markets/A股主线、资金偏好与风格切换：国投2026年5月方法讨论.md",
+      "placement": "事件保留图12，窗口/标准化/组合构造未披露，不把60/30当通用阈值。"
+    }
+  ],
+  "summary": "新增事件分析、来源记录各1篇，新增图谱节点0。修改《主动权益公募基金》：补发行与持仓回报不同步及三峰经验；修改《保险资金与长期资金》：补OCI会计列报与资金约束的区别。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/主动权益公募基金.md",
+    "10_concepts/保险资金与长期资金.md",
+    "30_events/markets/A股主线、资金偏好与风格切换：国投2026年5月方法讨论.md",
+    "40_sources/S-WS-3771926.md"
+  ]
+}

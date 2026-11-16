@@ -3,13 +3,26 @@ id: C-FX-07
 type: concept
 title: 美元指数DXY与广义美元指数
 status: reviewed_seed
-draft_author: "/root/full_b012"
+draft_author: /root/full_b012
 model: gpt-6-astra
 reasoning_effort: medium
 reviewed_by: /root
-updated: 2026-10-28
+workspace_reviewed_by: /root
+workspace_reviewed_on: 2026-11-16
+updated: '2026-11-16'
 evidence_as_of: 2026-10-26
-source_ids: [S-C-FX-07-01, S-C-FX-07-02, S-C-FX-07-03, S-C-FX-07-04, S-C-FX-07-05, S-C-FX-07-06]
+source_ids:
+- S-C-FX-07-01
+- S-C-FX-07-02
+- S-C-FX-07-03
+- S-C-FX-07-04
+- S-C-FX-07-05
+- S-C-FX-07-06
+- S-WS-3748815
+editor: /root/scale_15
+editing_status: step2_draft
+editor_model: inherited_unverified
+editor_reasoning_effort: inherited_unverified
 ---
 
 # 美元指数DXY与广义美元指数
@@ -118,6 +131,13 @@ ICE记载指数于1973年3月推出，1999年欧元转换是唯一成分变更�
 
 **本库条件判断，2026-10-28整理。** 若未来一段时间变化主要集中在欧元，DXY通常比广义指数反应更大；若集中在人民币或墨西哥比索，两者可能明显分离。该判断指其他汇率变化相对较小时的构造敏感性，不预测哪种货币下一步涨跌。没有取得同期专业机构对两个指数的同期限点位预测，也未下载2024—2026完整行情来检验实际分歧幅度，因此不把测量规则写成市场共识或历史收益结论。
 
+<a id="outlook-202506"></a>
+### 2025年6月补录：摩根士丹利的美元路径判断
+
+2025-06-10转载的摩根士丹利研究预期，到2025年底DXY下跌4%—5%、EUR/USD升至1.20、USD/JPY降至140，2026年美元继续走弱。它把美国相对增长优势减弱与拟议899条款造成的外国投资者税负不确定相连。转载没有明确4%—5%的比较起点，图2也未附完整点位表，因此本页保存方向、期限与双边目标，不反推一个精确DXY目标；双边目标也没有指定其余四币路径。[完整事件](../30_events/markets/众院财政提案、899税收争议与美元预期：2025年6月.md#dollar)解释DXY加权相对增长、资本流量及FDI图的区别。
+
+6月28日财政部G7声明已提及参院版移除899，后来政策信息改变了原文章的一项前提。[按日期保存的后续](../30_events/markets/众院财政提案、899税收争议与美元预期：2025年6月.md#later)保留该变化，本轮没有取得同窗口行情来检验预测成败。这一较早历史不改变本页既有2026年指数规则和修订记录。
+
 ## 涉及的关系
 
 研究[美元融资依赖的传导机制 R-USD-GLOBAL](../20_mechanisms/美元融资依赖的传导机制.md)时，美元指数可作为汇率环境的观测量；该机制中的核心对象是美元融资与资产负债表约束，指数本身既不创造融资，也不等同于[跨币种基差 C-FX-10](%E8%B7%A8%E5%B8%81%E7%A7%8D%E5%9F%BA%E5%B7%AE.md)。
@@ -137,3 +157,5 @@ ICE记载指数于1973年3月推出，1999年欧元转换是唯一成分变更�
 <a id="S-C-FX-07-06"></a>**S-C-FX-07-06** — Fed，[Foreign Exchange Rates—Announcements](https://www.federalreserve.gov/feeds/h10.html)，读取2026-02-02、05-11、08-12公告。用于版本生效和技术更正，不将公告视为行情预测；未通读全部历史公告。
 
 后续应取得两个指数同一时点的历史序列与实时版本，再回答“某次美元变化主要由哪些货币贡献”；本次已核组成和计算规则，但尚未完成该行情归因。对金融压力问题，还需另取美元负债分布或基差，不能用“广义”二字替代相应证据。
+
+本轮补录：[S-WS-3748815](../40_sources/S-WS-3748815.md)，历史研究与官方政策后续；原ICE和Fed来源未在本轮重新核读。

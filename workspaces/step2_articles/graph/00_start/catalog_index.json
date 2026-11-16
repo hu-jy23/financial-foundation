@@ -2,17 +2,17 @@
   "counts": {
     "concepts": {
       "groups": 20,
-      "items": 180,
+      "items": 182,
       "p0": 21,
-      "complete": 143,
-      "pending": 37
+      "complete": 140,
+      "pending": 42
     },
     "mechanisms": {
       "groups": 18,
       "items": 80,
       "p0": 21,
-      "complete": 66,
-      "pending": 14
+      "complete": 64,
+      "pending": 16
     },
     "excluded_concepts": {
       "items": 186,
@@ -463,7 +463,7 @@
           "name": "财政赤字与初级赤字",
           "scope": "是否包含利息支出",
           "priority": "P0",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/财政赤字与初级赤字.md",
           "catalog_anchor": "C-FISCAL-DEFICIT",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FISCAL-DEFICIT",
@@ -471,7 +471,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/财政赤字与初级赤字.md"
+          "planned_path": "../10_concepts/财政赤字与初级赤字.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-FISCAL-13",
@@ -775,7 +776,7 @@
           "name": "美元指数DXY与广义美元指数",
           "scope": "成分权重不同",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/美元指数DXY与广义美元指数.md",
           "catalog_anchor": "C-FX-07",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-FX-07",
@@ -783,7 +784,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/美元指数DXY与广义美元指数.md"
+          "planned_path": "../10_concepts/美元指数DXY与广义美元指数.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-FX-10",
@@ -1762,7 +1764,7 @@
           "name": "保险资金与长期资金",
           "scope": "负债期限与配置约束",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/保险资金与长期资金.md",
           "catalog_anchor": "C-ASIA-06",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-06",
@@ -1770,7 +1772,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/保险资金与长期资金.md"
+          "planned_path": "../10_concepts/保险资金与长期资金.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-ASIA-07",
@@ -2963,6 +2966,36 @@
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3783332-SP500",
           "status": "pending",
           "editing_status": "step2_draft"
+        },
+        {
+          "id": "C-WS-3784163-NIFTY50",
+          "name": "印度Nifty 50指数",
+          "scope": "补印度50股自由流通加权基准与币种版本，保存美元敏感性假说。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/印度Nifty 50指数.md",
+          "planned_path": "../10_concepts/印度Nifty 50指数.md",
+          "catalog_anchor": "C-WS-3784163-NIFTY50",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3784163-NIFTY50",
+          "status": "pending",
+          "editing_status": "step2_draft"
+        },
+        {
+          "id": "C-WS-3784163-NIKKEI225",
+          "name": "日经225指数",
+          "scope": "补具体日本权益基准、调整价格加权与汇率/收益版本，保存10月AI美元观察。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/日经225指数.md",
+          "planned_path": "../10_concepts/日经225指数.md",
+          "catalog_anchor": "C-WS-3784163-NIKKEI225",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3784163-NIKKEI225",
+          "status": "pending",
+          "editing_status": "step2_draft"
         }
       ]
     }
@@ -3723,7 +3756,7 @@
             "C-POL-QT",
             "C-IR-REAL"
           ],
-          "status": "complete",
+          "status": "pending",
           "path": "../20_mechanisms/国债供给的定价机制.md",
           "catalog_anchor": "R-FISCAL-LONGYIELD",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-FISCAL-LONGYIELD",
@@ -3764,7 +3797,8 @@
           "related_mechanism_ids": [],
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../20_mechanisms/国债供给的定价机制.md"
+          "planned_path": "../20_mechanisms/国债供给的定价机制.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "R-FISCAL-DEBTDYN",
@@ -6008,7 +6042,9 @@
               "anchor": "logic-3",
               "node_ids": [
                 "C-ASSET-GOLD",
-                "C-IR-REAL"
+                "C-IR-REAL",
+                "C-FX-USD",
+                "C-FX-07"
               ],
               "context_terms": [
                 {
@@ -6021,7 +6057,8 @@
                 }
               ],
               "related_mechanism_ids": [
-                "R-INTERNATIONAL-13"
+                "R-INTERNATIONAL-13",
+                "R-USD-GLOBAL"
               ],
               "previous_node_ids": [
                 "C-ASSET-GOLD",
@@ -6035,9 +6072,11 @@
           "node_ids": [
             "C-IR-REAL",
             "C-ASSET-GOLD",
-            "C-IR-POLICY"
+            "C-IR-POLICY",
+            "C-FX-USD",
+            "C-FX-07"
           ],
-          "status": "complete",
+          "status": "pending",
           "path": "../20_mechanisms/黄金的机会成本机制.md",
           "catalog_anchor": "R-GOLD-REALRATES",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-GOLD-REALRATES",
@@ -6060,11 +6099,13 @@
             }
           ],
           "related_mechanism_ids": [
-            "R-INTERNATIONAL-13"
+            "R-INTERNATIONAL-13",
+            "R-USD-GLOBAL"
           ],
           "selection_status": "confirmed_initial_build",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../20_mechanisms/黄金的机会成本机制.md"
+          "planned_path": "../20_mechanisms/黄金的机会成本机制.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "R-GOLD-03",

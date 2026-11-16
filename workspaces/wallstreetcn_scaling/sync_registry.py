@@ -27,7 +27,7 @@ for kind,folder,typ in [('concepts','10_concepts','concept'),('mechanisms','20_m
  formal_ids={x['id'] for g in formal[kind] for x in g['items']};new=[x for x in allitems if x['id'] not in formal_ids]
  file='CONCEPT_IMPORT_LIST.md' if typ=='concept' else 'MECHANISM_IMPORT_LIST.md'
  text='> **待整合工作图**：本目录包含三篇基准及Wallstreet Scaling采用稿，正式graph未接入。\n\n'+(B/file).read_text()+'\n\n## Step2待整合新增条目\n\n'
- for x in new:text+=f'<a id="{x["id"]}"></a>\n### [{x["name"]}]({x["path"]})\n\n`{x["id"]}` · 待整合 · {x["scope"]}\n\n'
+ for x in new:text+=f'<a id="{x["id"]}"></a>\n### [{x["name"]}](<{x["path"]}>)\n\n`{x["id"]}` · 待整合 · {x["scope"]}\n\n'
  (S/file).write_text(text)
 d['updated']='2026-11-16';d['workspace_only']=True;d['integration_status']='not_merged';(S/'catalog_index.json').write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
 print(json.dumps(d['counts'],ensure_ascii=False))

@@ -198,8 +198,9 @@
       "author_group": "国投证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3771926",
-      "status": "reading",
-      "agent": "/root/scale_13"
+      "status": "adopted",
+      "agent": "/root/scale_13",
+      "files": 4
     },
     {
       "sequence": 14,
@@ -212,8 +213,9 @@
       "author_group": "中金",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3784163",
-      "status": "reading",
-      "agent": "/root/scale_14"
+      "status": "adopted",
+      "agent": "/root/scale_14",
+      "files": 6
     },
     {
       "sequence": 15,
@@ -226,8 +228,9 @@
       "author_group": "摩根士丹利",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3748815",
-      "status": "reading",
-      "agent": "/root/scale_15"
+      "status": "adopted",
+      "agent": "/root/scale_15",
+      "files": 5
     },
     {
       "sequence": 16,
@@ -240,7 +243,8 @@
       "author_group": "摩根大通",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3784306",
-      "status": "queued"
+      "status": "drafting",
+      "agent": "/root/scale_16"
     },
     {
       "sequence": 17,
@@ -253,7 +257,8 @@
       "author_group": "民生证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3754228",
-      "status": "queued"
+      "status": "drafting",
+      "agent": "/root/scale_17"
     },
     {
       "sequence": 18,
@@ -266,7 +271,8 @@
       "author_group": "华泰证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3749421",
-      "status": "queued"
+      "status": "reading",
+      "agent": "/root/scale_18"
     },
     {
       "sequence": 19,
@@ -656,13 +662,20 @@
     {
       "batch": 2,
       "commit": "5ffb49b",
-      "adopted_articles": 6
+      "accepted": 6,
+      "new_nodes": 4
     },
     {
       "batch": 3,
       "commit": "278d2f7",
       "accepted": 9,
       "new_nodes": 4
+    },
+    {
+      "batch": 4,
+      "commit": "253a4dc",
+      "accepted": 12,
+      "new_nodes": 8
     }
   ]
 }

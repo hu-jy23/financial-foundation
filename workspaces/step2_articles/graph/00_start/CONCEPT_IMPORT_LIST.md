@@ -286,77 +286,87 @@
 ## Step2待整合新增条目
 
 <a id="C-S2-CDS"></a>
-### [信用违约互换CDS](../10_concepts/信用违约互换CDS.md)
+### [信用违约互换CDS](<../10_concepts/信用违约互换CDS.md>)
 
 `C-S2-CDS` · 待整合 · 通用CDS跨企业、主权、指数与专题复用，避免把企业专题挂在主权风险之下。
 
 <a id="C-S2-CDX"></a>
-### [CDX信用衍生品指数](../10_concepts/CDX信用衍生品指数.md)
+### [CDX信用衍生品指数](<../10_concepts/CDX信用衍生品指数.md>)
 
 `C-S2-CDX` · 待整合 · 指数有独立合约、组成和换期规则，持续承载组合暴露与主题集中问题。
 
 <a id="C-S2-CDS-CASH-BASIS"></a>
-### [CDS—现金债基差](../10_concepts/CDS—现金债基差.md)
+### [CDS—现金债基差](<../10_concepts/CDS—现金债基差.md>)
 
 `C-S2-CDS-CASH-BASIS` · 待整合 · 信用工具基差的比较口径独立于现券期货，可跨主题复用。
 
 <a id="C-S2-COREWEAVE"></a>
-### [CoreWeave](../10_concepts/CoreWeave.md)
+### [CoreWeave](<../10_concepts/CoreWeave.md>)
 
 `C-S2-COREWEAVE` · 待整合 · 云服务下的具体主体子概念，积累经营、融资及信用价格历史，研究其对AI融资条件的观察意义。
 
 <a id="C-S2-AI-CDS"></a>
-### [AI相关企业CDS](../10_concepts/AI相关企业CDS.md)
+### [AI相关企业CDS](<../10_concepts/AI相关企业CDS.md>)
 
 `C-S2-AI-CDS` · 待整合 · 专题子项集中保存同一研究问题下的标的差异与历史，不复制母项工具定义。
 
 <a id="C-S2-SOX"></a>
-### [费城半导体指数SOX](../10_concepts/费城半导体指数SOX.md)
+### [费城半导体指数SOX](<../10_concepts/费城半导体指数SOX.md>)
 
 `C-S2-SOX` · 待整合 · 独立指数对象；补充用SOX/KOSPI比较产业经营信息与韩国当地承接的观察链条。
 
 <a id="C-S2-KOSPI"></a>
-### [韩国综合股价指数KOSPI](../10_concepts/韩国综合股价指数KOSPI.md)
+### [韩国综合股价指数KOSPI](<../10_concepts/韩国综合股价指数KOSPI.md>)
 
 `C-S2-KOSPI` · 待整合 · KOSPI承载明确市场身份、研究样本、估值口径及持续历史，不为每个剔除样本另建节点。
 
 <a id="C-S2-LEVERAGED-ETF"></a>
-### [杠杆ETF](../10_concepts/杠杆ETF.md)
+### [杠杆ETF](<../10_concepts/杠杆ETF.md>)
 
 `C-S2-LEVERAGED-ETF` · 待整合 · 具有特殊倍数与重置规则的ETF产品；关联旧ETF页复用基础知识，持仓口径融入本页，不另造持仓节点。
 
 <a id="C-WS-3764710-GLD"></a>
-### [SPDR黄金信托GLD](../10_concepts/SPDR黄金信托GLD.md)
+### [SPDR黄金信托GLD](<../10_concepts/SPDR黄金信托GLD.md>)
 
 `C-WS-3764710-GLD` · 待整合 · 实物支持黄金信托是私人持有黄金的持续观察对象；区分份额交易、吨数、AUM、申赎及费用耗金，连接本篇821→1087吨观察。基础身份复用黄金旧页既有GLD产品来源，新闻数字保留转述归属。
 
 <a id="C-WS-3758183-ACTIVE-EQUITY"></a>
-### [主动权益公募基金](../10_concepts/主动权益公募基金.md)
+### [主动权益公募基金](<../10_concepts/主动权益公募基金.md>)
 
 `C-WS-3758183-ACTIVE-EQUITY` · 待整合 · 新增研究产品集合，区分管理公司、基金产品及份额/净值/仓位/超配/估计买入，承接连续季度观察。
 
 <a id="C-WS-3784266-CXMT"></a>
-### [长鑫存储](../10_concepts/长鑫存储.md)
+### [长鑫存储](<../10_concepts/长鑫存储.md>)
 
 `C-WS-3784266-CXMT` · 待整合 · 新增存储下具体生产主体，观察中国DRAM供给进入、架构计划与出货兑现
 
 <a id="C-WS-3783420-MUSE"></a>
-### [Muse](../10_concepts/Muse.md)
+### [Muse](<../10_concepts/Muse.md>)
 
 `C-WS-3783420-MUSE` · 待整合 · 新增Meta产品线子概念，解释模型/执行VM/商户接入、观察AI商业化的用途，并保存10月增长与成本历史。
 
 <a id="C-WS-3783332-SWAPTION"></a>
-### [利率互换期权Swaption](../10_concepts/利率互换期权Swaption.md)
+### [利率互换期权Swaption](<../10_concepts/利率互换期权Swaption.md>)
 
 `C-WS-3783332-SWAPTION` · 待整合 · 补利率期权合同、payer/receiver、两段期限及Vega；区分图14跨式回测与正文宽跨式说法。
 
 <a id="C-WS-3785129-FXRR"></a>
-### [外汇存款准备金率](../10_concepts/外汇存款准备金率.md)
+### [外汇存款准备金率](<../10_concepts/外汇存款准备金率.md>)
 
 `C-WS-3785129-FXRR` · 待整合 · 新增外币交存制度、资金约束、与其他工具区别及政策历史，继承一般准备金制度。
 
 <a id="C-WS-3783332-SP500"></a>
-### [标普500与等权指数](../10_concepts/标普500与等权指数.md)
+### [标普500与等权指数](<../10_concepts/标普500与等权指数.md>)
 
 `C-WS-3783332-SP500` · 待整合 · 补具体美国大盘股票标的；解释市值/等权、涨幅贡献与广度，并保存10月集中行情。
+
+<a id="C-WS-3784163-NIFTY50"></a>
+### [印度Nifty 50指数](<../10_concepts/印度Nifty 50指数.md>)
+
+`C-WS-3784163-NIFTY50` · 待整合 · 补印度50股自由流通加权基准与币种版本，保存美元敏感性假说。
+
+<a id="C-WS-3784163-NIKKEI225"></a>
+### [日经225指数](<../10_concepts/日经225指数.md>)
+
+`C-WS-3784163-NIKKEI225` · 待整合 · 补具体日本权益基准、调整价格加权与汇率/收益版本，保存10月AI美元观察。
 

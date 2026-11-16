@@ -184,27 +184,27 @@
 ## Step2待整合新增条目
 
 <a id="R-S2-VENDOR-CREDIT"></a>
-### [供应商融资的信用风险传递](../20_mechanisms/供应商融资的信用风险传递.md)
+### [供应商融资的信用风险传递](<../20_mechanisms/供应商融资的信用风险传递.md>)
 
 `R-S2-VENDOR-CREDIT` · 待整合 · 合同信用责任为经营联系增加具体损失路径，值得跨材料复用。
 
 <a id="R-S2-CDS-BASIS"></a>
-### [CDS—现金债基差的定价与交易](../20_mechanisms/CDS—现金债基差的定价与交易.md)
+### [CDS—现金债基差的定价与交易](<../20_mechanisms/CDS—现金债基差的定价与交易.md>)
 
 `R-S2-CDS-BASIS` · 待整合 · 跨工具需求、两腿信用风险和中介约束需要独立于现券期货交割机制解释。
 
 <a id="R-S2-LETF-REBALANCE"></a>
-### [杠杆ETF再平衡的价格反馈](../20_mechanisms/杠杆ETF再平衡的价格反馈.md)
+### [杠杆ETF再平衡的价格反馈](<../20_mechanisms/杠杆ETF再平衡的价格反馈.md>)
 
 `R-S2-LETF-REBALANCE` · 待整合 · 日度倍数恢复具有区别于申赎套利和波动率目标的触发过程，独立解释净流出有限时的调仓及价格反馈。
 
 <a id="R-S2-KOSPI-BUYERS"></a>
-### [KOSPI三大买盘与边际承接](../20_mechanisms/KOSPI三大买盘与边际承接.md)
+### [KOSPI三大买盘与边际承接](<../20_mechanisms/KOSPI三大买盘与边际承接.md>)
 
 `R-S2-KOSPI-BUYERS` · 待整合 · 集中维护三类主体承接；区分三星与SK海力士的经营观察作用和发行人回购订单作用。
 
 <a id="R-WS-3784433-CROWDOUT"></a>
-### [投资扩张的资源挤出与政策约束](../20_mechanisms/投资扩张的资源挤出与政策约束.md)
+### [投资扩张的资源挤出与政策约束](<../20_mechanisms/投资扩张的资源挤出与政策约束.md>)
 
 `R-WS-3784433-CROWDOUT` · 待整合 · 新建实物资源、融资承接和政策取舍三条逻辑，各附历史与有归属预期。
 

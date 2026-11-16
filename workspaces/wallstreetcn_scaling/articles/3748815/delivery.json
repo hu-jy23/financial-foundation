@@ -1,0 +1,218 @@
+{
+  "article_id": 3748815,
+  "title": "图解特朗普“大漂亮”法案：财政刺激力度、899条款“资本税”、对美债、美元影响有多大？",
+  "files": [
+    {
+      "path": "10_concepts/财政赤字与初级赤字.md",
+      "draft_path": "drafts/10_concepts/财政赤字与初级赤字.md",
+      "operation": "update",
+      "id": "C-FISCAL-DEFICIT",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "财政赤字与初级赤字",
+      "why": "补十年提案增量、分年度措施与当期增长的区别，以及提案增赤字和总预测下修的不同基线。"
+    },
+    {
+      "path": "10_concepts/美元指数DXY与广义美元指数.md",
+      "draft_path": "drafts/10_concepts/美元指数DXY与广义美元指数.md",
+      "operation": "update",
+      "id": "C-FX-07",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "美元指数DXY与广义美元指数",
+      "why": "补2025年6月机构到2025年底及2026年的美元、欧元和日元预测，保留899后来移除的信息与原窗口。"
+    },
+    {
+      "path": "20_mechanisms/国债供给的定价机制.md",
+      "draft_path": "drafts/20_mechanisms/国债供给的定价机制.md",
+      "operation": "update",
+      "id": "R-FISCAL-LONGYIELD",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "国债供给的定价机制",
+      "why": "logic-1补短券存量与再融资权衡，logic-3补外国投资者期限分布与税后回报条件。",
+      "node_ids": [
+        "C-FISCAL-DEFICIT",
+        "C-MONEY-13",
+        "C-LIQ-FUND",
+        "C-IR-TERM",
+        "C-MONEY-CBBS",
+        "C-POL-QE",
+        "C-POL-QT",
+        "C-IR-REAL"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-FISCAL-DEFICIT",
+            "C-MONEY-13",
+            "C-LIQ-FUND",
+            "C-IR-TERM"
+          ],
+          "context_terms": [
+            {
+              "legacy_id": "C-FISCAL-07",
+              "name": "国债总发行与净发行"
+            },
+            {
+              "legacy_id": "C-FISCAL-DURATION",
+              "name": "债务期限结构与净久期供给"
+            },
+            {
+              "legacy_id": "C-BOND-DURATION",
+              "name": "久期、修正久期与DV01"
+            }
+          ],
+          "related_mechanism_ids": [],
+          "previous_node_ids": [
+            "C-FISCAL-DEFICIT",
+            "C-FISCAL-07",
+            "C-MONEY-13",
+            "C-FISCAL-DURATION",
+            "C-BOND-DURATION",
+            "C-LIQ-FUND",
+            "C-IR-TERM"
+          ]
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-MONEY-CBBS",
+            "C-POL-QE",
+            "C-POL-QT",
+            "C-IR-TERM"
+          ],
+          "context_terms": [
+            {
+              "legacy_id": "C-FISCAL-07",
+              "name": "国债总发行与净发行"
+            },
+            {
+              "legacy_id": "C-FISCAL-DURATION",
+              "name": "债务期限结构与净久期供给"
+            }
+          ],
+          "related_mechanism_ids": [],
+          "previous_node_ids": [
+            "C-MONEY-CBBS",
+            "C-POL-QE",
+            "C-POL-QT",
+            "C-FISCAL-07",
+            "C-FISCAL-DURATION",
+            "C-IR-TERM"
+          ]
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-IR-REAL",
+            "C-IR-TERM"
+          ],
+          "context_terms": [
+            {
+              "legacy_id": "C-FLOW-07",
+              "name": "基金流量与资产配置"
+            },
+            {
+              "legacy_id": "C-FLOW-14",
+              "name": "风险偏好与避险需求"
+            },
+            {
+              "legacy_id": "C-FX-08",
+              "name": "利差与汇率对冲成本"
+            },
+            {
+              "legacy_id": "C-MAC-OUTPUTGAP",
+              "name": "产出缺口"
+            },
+            {
+              "legacy_id": "C-POL-REACTION",
+              "name": "政策反应函数"
+            }
+          ],
+          "related_mechanism_ids": [],
+          "previous_node_ids": [
+            "C-FLOW-07",
+            "C-FLOW-14",
+            "C-FX-08",
+            "C-MAC-OUTPUTGAP",
+            "C-POL-REACTION",
+            "C-IR-REAL",
+            "C-IR-TERM"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/众院财政提案、899税收争议与美元预期：2025年6月.md",
+      "draft_path": "drafts/30_events/markets/众院财政提案、899税收争议与美元预期：2025年6月.md",
+      "operation": "new",
+      "id": "E-WS-3748815",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "众院财政提案、899税收争议与美元预期：2025年6月",
+      "why": "保存财政、税收与跨境需求的完整论证及10张分析图，按真实日期接续899移除及立法状态。",
+      "node_ids": [
+        "C-FISCAL-DEFICIT",
+        "C-GLOBAL-02",
+        "C-ASSET-UST",
+        "C-FX-07",
+        "C-FX-USD",
+        "C-FX-13"
+      ],
+      "related_mechanism_ids": [
+        "R-FISCAL-LONGYIELD",
+        "R-INTERNATIONAL-13"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3748815.md",
+      "draft_path": "drafts/40_sources/S-WS-3748815.md",
+      "operation": "new",
+      "id": "S-WS-3748815",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "摩根士丹利财政提案分析：来源与核读范围",
+      "why": "登记全文、10分析图和1推广图的读取，定向核国会众院税收文本及后续官方信息。"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "提案成本、财政乘数与措施时序",
+      "operation": "update",
+      "path": "10_concepts/财政赤字与初级赤字.md#house-bill-202506"
+    },
+    {
+      "knowledge": "拟议899、适用主体及后续移除",
+      "operation": "inline",
+      "path": "30_events/markets/众院财政提案、899税收争议与美元预期：2025年6月.md#tax"
+    },
+    {
+      "knowledge": "融资期限、外资期限分布与税后承接",
+      "operation": "update",
+      "path": "20_mechanisms/国债供给的定价机制.md#logic-3"
+    },
+    {
+      "knowledge": "DXY及双边目标、FDI与证券流量区别",
+      "operation": "update",
+      "path": "10_concepts/美元指数DXY与广义美元指数.md#outlook-202506"
+    },
+    {
+      "knowledge": "资本流动与储备多元化",
+      "operation": "reuse",
+      "path": "20_mechanisms/美元信用与储备多元化.md"
+    }
+  ],
+  "summary": "新增0个图节点；新增事件、来源各1篇。修改《财政赤字与初级赤字》（提案基线与财政时序）、《国债供给的定价机制》（短券/再融资与外国投资者承接）、《美元指数DXY与广义美元指数》（2025年6月历史预测与后来政策变化）。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/财政赤字与初级赤字.md",
+    "10_concepts/美元指数DXY与广义美元指数.md",
+    "20_mechanisms/国债供给的定价机制.md",
+    "30_events/markets/众院财政提案、899税收争议与美元预期：2025年6月.md",
+    "40_sources/S-WS-3748815.md"
+  ]
+}

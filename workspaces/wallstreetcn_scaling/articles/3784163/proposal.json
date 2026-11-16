@@ -1,0 +1,107 @@
+{
+  "article_id": 3784163,
+  "title": "中金：如何对冲AI风险？",
+  "read_scope": "全文、metadata及11图逐图核读；现行思想/标准/形成原则与相关既有正文已对照。",
+  "model": "inherited_unverified",
+  "new_nodes": [
+    {
+      "id": "C-WS-3784163-NIKKEI225",
+      "title": "日经225指数",
+      "type": "concept",
+      "entry_kind": "concept",
+      "path": "10_concepts/日经225指数.md",
+      "why": "图1核心比较对象，现图无独立指数页。补225只东京Prime股票、调整价格加权与除数、同本币和美元回报区别；持续承接日本权益对产业/汇率的不同反应，不以BOJ或ETF作父项。"
+    },
+    {
+      "id": "C-WS-3784163-NIFTY50",
+      "title": "印度Nifty 50指数",
+      "type": "concept",
+      "entry_kind": "concept",
+      "path": "10_concepts/印度Nifty 50指数.md",
+      "why": "图4核心比较对象，现图无印度具体权益基准。补50股、自由流通市值加权和卢比/美元版本，保存本篇美元敏感性假说；不能以印度国家标签替代行业及权重比较。"
+    }
+  ],
+  "updates": [
+    {
+      "id": "C-ASSET-GOLD",
+      "path": "10_concepts/黄金.md",
+      "entry_kind": "concept",
+      "why": "补10月22日中金对AI风险、美元与黄金的配置判断；区分美元现货金价、具体黄金产品和本币组合回报，91段筛选胜率的条件；保留7月既有需求数据、1月补录与原作者。"
+    },
+    {
+      "id": "R-GOLD-REALRATES",
+      "path": "20_mechanisms/黄金的机会成本机制.md",
+      "entry_kind": "relation",
+      "why": "在logic-1/3追加2026年10月名义债收益率/金价并升和保护价值的实例；在logic-3说明AI盈利再定价与美元融资危机两种状态的对冲差别，保留既有逻辑并补美元/DXY关联及R-USD-GLOBAL链接；不设AI美元新机制。"
+    }
+  ],
+  "new_files": [
+    {
+      "id": "E-WS-3784163",
+      "type": "analysis_note",
+      "path": "30_events/markets/AI风险的黄金对冲与美元状态：中金2026年10月判断.md",
+      "why": "完整保存美元需求、相对增长、跨市场分化、三种情景、黄金/美债比较及11图。"
+    },
+    {
+      "id": "S-WS-3784163",
+      "type": "source_note",
+      "path": "40_sources/S-WS-3784163.md",
+      "why": "登记实际图文与官方指数定义核读；方法版本、价格/收益相关口径缺失及区间筛选局限。"
+    }
+  ],
+  "important_knowledge": [
+    {
+      "knowledge": "日经225、Nifty50、KOSPI、恒生、SOX与美国指数",
+      "placement": "前两者新概念，其他复用；比较指数编制/产业权重/计价币种，不能把国家正负相关唯一归因AI。"
+    },
+    {
+      "knowledge": "美元计价结算、相对增长与美元融资",
+      "placement": "事件分开结算周转和持币/资产需求，引用美元主导地位与美元融资既有机制；AI美元为本篇作者标签。"
+    },
+    {
+      "knowledge": "黄金的美元/本币价格与持有渠道",
+      "placement": "黄金旧页及事件；币种换算复用既有解释，不另造子概念。"
+    },
+    {
+      "knowledge": "现金、中债、高股息、美债",
+      "placement": "事件交代各自现金回报、久期及股权风险；现图对象/关系均可复用，不把防御性称呼写成无条件保险。"
+    },
+    {
+      "knowledge": "相关性、胜率与对冲效果",
+      "placement": "事件与旧机制；资产走势相关未给变换，美元下跌样本条件与AI损失条件不同，回报幅度/共同计价与权重决定组合保护。"
+    },
+    {
+      "knowledge": "资本开支2026E/2027E及逆巴萨",
+      "placement": "事件保留766/1045十亿美元、90%/36%预测；逆巴萨仅由原文转引、不补造模型。"
+    }
+  ],
+  "figure_findings": [
+    "图1/2为日经/KOSPI和美元指数双轴；图3/4美元轴逆序；图7/8黄金美元轴也逆序，图形同向是价格负相关的视觉安排。",
+    "图5称资产走势相关性，截至10月8日；原文及图未给日收益/价格、频率、样本细则，不能拿-0.812直接做最优对冲权重。",
+    "图6 2026E=766、2027E=1045十亿美元，均当时预测；增速由90%降36%并非开支下降。",
+    "图9/10是美元金价与油价/名义10年美债收益率，并非TIPS实际收益率或受控因果。",
+    "图11在美元已下跌且至少14天的91段中算黄金84次上涨，未给起止识别/重叠和费用；不能读成AI下跌时92.3%获利。美债正文是收益率下行比例，不能直接替换持有总回报。"
+  ],
+  "external_reading": [
+    {
+      "url": "https://indexes.nikkei.co.jp/en/nkave/index/profile?cid=1&idx=nk225",
+      "scope": "Overview/Constituents/Periodic review/Selection rules；不采用11月16日行情。"
+    },
+    {
+      "url": "https://indexes.nikkei.co.jp/nkave/archives/file/nikkei_stock_average_guidebook_en.pdf",
+      "scope": "2026-10-01版，PDF7—11页计算、价格调整、权重上限与除数；未通读全部成分选取及附录。"
+    },
+    {
+      "url": "https://www.niftyindices.com/indices/equity/broad-based-indices/nifty--50",
+      "scope": "定义、基期、2009年切换自由流通权重；不取当前覆盖比例或行情回填。"
+    },
+    {
+      "url": "https://www.niftyindices.com/Methodology/Method_NIFTY_Equity_Indices.pdf",
+      "scope": "当前封面2026年11月，定向读PDF9、20—23页Nifty50选取、计算、复核及币种；后补定义，不回填当时成分。"
+    }
+  ],
+  "limitations": [
+    "未取得中金微信原始研报、Wind/Bloomberg底层或91区间表；-81.2%、5.46%均保留中金转载归属。",
+    "不注册AI美元或逆巴萨模型，未追核当时预期后续成败。"
+  ]
+}
