@@ -63,8 +63,9 @@
       "author_group": "兴业证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3758183",
-      "status": "drafting",
-      "agent": "/root/scale_04"
+      "status": "adopted",
+      "agent": "/root/scale_04",
+      "files": 4
     },
     {
       "sequence": 5,
@@ -77,8 +78,9 @@
       "author_group": "中金",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3783497",
-      "status": "drafting",
-      "agent": "/root/scale_05"
+      "status": "adopted",
+      "agent": "/root/scale_05",
+      "files": 4
     },
     {
       "sequence": 6,
@@ -91,8 +93,9 @@
       "author_group": "华泰证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3784266",
-      "status": "drafting",
-      "agent": "/root/scale_06"
+      "status": "adopted",
+      "agent": "/root/scale_06",
+      "files": 7
     },
     {
       "sequence": 7,
@@ -105,7 +108,8 @@
       "author_group": "华泰证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3783877",
-      "status": "queued"
+      "status": "reading",
+      "agent": "/root/scale_07"
     },
     {
       "sequence": 8,
@@ -118,7 +122,8 @@
       "author_group": "广发证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3775922",
-      "status": "queued"
+      "status": "reading",
+      "agent": "/root/scale_08"
     },
     {
       "sequence": 9,
@@ -131,7 +136,8 @@
       "author_group": "华创证券",
       "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
       "output_directory": "workspaces/wallstreetcn_scaling/articles/3753513",
-      "status": "queued"
+      "status": "reading",
+      "agent": "/root/scale_09"
     },
     {
       "sequence": 10,
@@ -627,5 +633,13 @@
     "R-TECH-12",
     "R-TGA-RESERVES",
     "R-USD-GLOBAL"
+  ],
+  "checkpoints": [
+    {
+      "batch": 1,
+      "commit": "14351ab91de07821f20c761d853502c15740dba8",
+      "accepted": 3,
+      "new_nodes": 2
+    }
   ]
 }

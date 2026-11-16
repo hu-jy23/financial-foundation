@@ -1,0 +1,47 @@
+{
+  "article_id": 3783497,
+  "title": "中金：924两年后有何变化？",
+  "read_range": "全文与24张图片；现行说明与相关旧页",
+  "proposed_files": [
+    {
+      "operation": "update",
+      "id": "C-ASIA-11",
+      "path": "10_concepts/恒生指数与恒生科技指数.md",
+      "increment": "补录2026-10-13较早快照：924以来恒科回报的盈利与估值分解、居民信用与企业信用分化如何经业务构成影响指数。保留11月2日较晚证据，避免重复业务饼图。"
+    },
+    {
+      "operation": "update",
+      "id": "R-CN-CREDIT",
+      "path": "20_mechanisms/社融结构、信用脉冲与实体需求.md",
+      "increment": "在logic-2、logic-3补企业与居民信用分化、财政投向与消费传导不一致的实例；明确作者信用脉冲与社融分组口径，5500亿元额度不自动变为居民需求。"
+    },
+    {
+      "operation": "new",
+      "id": "E-WS-3783497",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "path": "30_events/markets/924两周年的恒科回撤：居民信用、盈利与资金分化.md",
+      "increment": "保留指数错位、信用分化、科技供给、资金与发行、盈利质量、反弹与反转条件的完整分析及24图。"
+    },
+    {
+      "operation": "new",
+      "id": "S-WS-3783497",
+      "type": "source_note",
+      "entry_kind": "source",
+      "path": "40_sources/S-WS-3783497.md",
+      "increment": "登记全文24图阅读范围、材料版本和实际口径差异。"
+    }
+  ],
+  "reuse": [
+    "港股市场C-ASIA-02：宏观业务暴露与离岸定价基础已充足，不另更新",
+    "股权风险溢价ERP：文章分解结果留事件，不复刻作者专用分解模型",
+    "红利与IPO：复用第一波，本文较早流量快照留事件，不覆盖较晚旧页"
+  ],
+  "new_graph_nodes": 0,
+  "figure_notes": [
+    "图16融资柱图与正文总数不一致，分别保存不合并",
+    "2025全年与2026前9月南向数据窗口不同",
+    "图11左右轴及对数轴不同；图24胜率赔率构造不明，均不直接升级模型"
+  ],
+  "model": "inherited_unverified"
+}

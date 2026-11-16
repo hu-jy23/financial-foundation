@@ -1,0 +1,117 @@
+{
+  "article_id": 3783497,
+  "title": "中金：924两年后有何变化？",
+  "files": [
+    {
+      "path": "10_concepts/恒生指数与恒生科技指数.md",
+      "draft_path": "drafts/10_concepts/恒生指数与恒生科技指数.md",
+      "operation": "update",
+      "id": "C-ASIA-11",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "恒生指数与恒生科技指数",
+      "why": "补10月13日较早快照、盈利估值分解和实际GDP到成分资本回报的传递；保留11月2日较晚观察。"
+    },
+    {
+      "path": "20_mechanisms/社融结构、信用脉冲与实体需求.md",
+      "draft_path": "drafts/20_mechanisms/社融结构、信用脉冲与实体需求.md",
+      "operation": "update",
+      "id": "R-CN-CREDIT",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "社融结构、信用脉冲与实体需求",
+      "why": "在logic-2补企业/居民信用分化与资金用途，在logic-3补财政投向与5500亿元额度到支付的条件。",
+      "node_ids": [
+        "C-CN-TSF",
+        "C-CHINA-05",
+        "C-BOND-04"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-CN-TSF",
+            "C-CHINA-05",
+            "C-BOND-04"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-CN-TSF",
+            "C-CHINA-05"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-CN-TSF",
+            "C-BOND-04",
+            "C-CHINA-05"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3783497.md",
+      "draft_path": "drafts/40_sources/S-WS-3783497.md",
+      "operation": "new",
+      "id": "S-WS-3783497",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "中金《924两年后有何变化？》来源与阅读记录",
+      "why": "登记全文和24图的实际阅读范围、版本差异与具体未核底稿。"
+    },
+    {
+      "path": "30_events/markets/924两周年的恒科回撤：居民信用、盈利与资金分化.md",
+      "draft_path": "drafts/30_events/markets/924两周年的恒科回撤：居民信用、盈利与资金分化.md",
+      "operation": "new",
+      "id": "E-WS-3783497",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "924两周年的恒科回撤：居民信用、盈利与资金分化",
+      "why": "完整保存指数错位、居民信用、AI覆盖、资金与发行、经营回报和当时逆转条件及24张原图。"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "恒指/恒科构成、回报与盈利错位",
+      "operation": "update",
+      "path": "10_concepts/恒生指数与恒生科技指数.md#ws3783497-snapshot"
+    },
+    {
+      "knowledge": "信用脉冲与企业/居民融资分化",
+      "operation": "update",
+      "path": "20_mechanisms/社融结构、信用脉冲与实体需求.md#ws3783497-households"
+    },
+    {
+      "knowledge": "财政额度、投向与实际需求",
+      "operation": "update",
+      "path": "20_mechanisms/社融结构、信用脉冲与实体需求.md#ws3783497-fiscal"
+    },
+    {
+      "knowledge": "科技链条、AI模型图、资金配置、发行数值、盈利质量及短期反弹条件",
+      "operation": "inline",
+      "path": "30_events/markets/924两周年的恒科回撤：居民信用、盈利与资金分化.md"
+    },
+    {
+      "knowledge": "港股挂牌与经营、ERP、红利、IPO基本解释",
+      "operation": "reuse",
+      "path": "10_concepts/港股市场.md",
+      "note": "沿用既有工具和市场页，本文具体数字统一留事件；图24不另建模型。"
+    }
+  ],
+  "summary": "新增1篇完整事件分析、1篇来源记录；修改恒生指数与恒生科技指数（较早快照、盈利与资本回报传递）和社融结构、信用脉冲与实体需求（部门分化、财政投向与支出条件）。不新增图节点。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/恒生指数与恒生科技指数.md",
+    "20_mechanisms/社融结构、信用脉冲与实体需求.md",
+    "40_sources/S-WS-3783497.md",
+    "30_events/markets/924两周年的恒科回撤：居民信用、盈利与资金分化.md"
+  ]
+}

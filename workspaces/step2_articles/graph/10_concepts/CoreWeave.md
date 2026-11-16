@@ -12,11 +12,15 @@ model: inherited_unverified
 reasoning_effort: inherited_unverified
 source_ids:
 - S-WS-3784900
+- S-WS-3784266
 parent_ids:
 - C-TECH-03
 parent_relation: concrete_subject
-editor: /root
+editor: /root/scale_06
 edit_scope: 明确具体主体子概念归属及观察AI融资条件的研究用途
+editing_status: step2_draft
+editing_model: inherited_unverified
+editing_reasoning_effort: inherited_unverified
 ---
 
 # CoreWeave
@@ -59,3 +63,12 @@ CoreWeave把设备和数据中心投入、服务合同与外部融资放在同�
 ## 来源
 
 [来源记录](../40_sources/S-WS-3784900.md#coreweave-filing)区分公司2025年10-K的基础业务说明与2026年10月新闻中的市场观察；前者本次仅补读相关段落。
+
+<a id="bond-history-20261015"></a>
+## 补录2026年6月至10月15日：债券融资窗口
+
+华泰10月23日走访文章图3追踪同一只2032年到期、票息9.625%的美元债（US21873SAK42）：指示到期收益率从6月18日9.48%升至10月15日14.54%，同期股票也有明显回撤。该券YTM反映当时报价下约定现金流的收益率，其中既有基准利率，也有信用、流动性等补偿；它不是公司在10月15日新借每一笔钱的合同利率。文章另列10月5日至16日美国十年期国债收益率从5.31%降至5.09%，两个窗口起点不同，不能直接相减称为期间信用利差增幅。
+
+图4的2030年债G-spread约872bp，Alphabet参照券约42bp，支持作者关于融资条件分化的观察。比较仍须保留具体券和期限：G-spread相对期限匹配的国债曲线计算，不是CDS报价；两个发行人的流动性、偿付结构与期限未必相同。图3中9月18日可转债发行扩大至37亿美元、票息2.875%，附带转换权，其低票息不能直接与普通债14.54%的YTM比较为融资成本下降。
+
+这段历史把“扩张能否融资”具体化为投资人要求的资金条件，尚未证明后续违约或融资渠道完全关闭。它早于本页10月31日CDS记录，保留各自观察日。原图及公司指引、Gartner警告等消息标注见[走访事件](../30_events/AI投资的资金、电力与存储周期担忧：2026年10月走访.md#market)，[本篇来源](../40_sources/S-WS-3784266.md)。

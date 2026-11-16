@@ -1,0 +1,13 @@
+{
+  "sequence": 5,
+  "batch": 2,
+  "article_id": 3783497,
+  "title": "中金：924两年后有何变化？",
+  "source_markdown": "materials/wallstreetcn/SourcePost/中金：924两年后有何变化？/article.md",
+  "source_metadata": "materials/wallstreetcn/SourcePost/中金：924两年后有何变化？/metadata.json",
+  "image_occurrences": 24,
+  "author_group": "中金",
+  "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
+  "output_directory": "workspaces/wallstreetcn_scaling/articles/3783497",
+  "status": "queued"
+}

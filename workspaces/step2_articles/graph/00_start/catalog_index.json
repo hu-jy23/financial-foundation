@@ -2,17 +2,17 @@
   "counts": {
     "concepts": {
       "groups": 20,
-      "items": 174,
+      "items": 176,
       "p0": 21,
-      "complete": 157,
-      "pending": 17
+      "complete": 153,
+      "pending": 23
     },
     "mechanisms": {
       "groups": 18,
       "items": 80,
       "p0": 21,
-      "complete": 70,
-      "pending": 10
+      "complete": 69,
+      "pending": 11
     },
     "excluded_concepts": {
       "items": 186,
@@ -2046,7 +2046,7 @@
           "name": "数据中心",
           "scope": "建设、机架、选址与资源约束",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/数据中心.md",
           "catalog_anchor": "C-TECH-04",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-TECH-04",
@@ -2054,7 +2054,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/数据中心.md"
+          "planned_path": "../10_concepts/数据中心.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-TECH-05",
@@ -2076,7 +2077,7 @@
           "name": "HBM与存储芯片",
           "scope": "带宽、产能和产品周期",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/HBM与存储芯片.md",
           "catalog_anchor": "C-TECH-06",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-TECH-06",
@@ -2084,7 +2085,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/HBM与存储芯片.md"
+          "planned_path": "../10_concepts/HBM与存储芯片.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-TECH-07",
@@ -2121,7 +2123,7 @@
           "name": "半导体设备与材料",
           "scope": "资本开支链和技术约束",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/半导体设备与材料.md",
           "catalog_anchor": "C-TECH-09",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-TECH-09",
@@ -2129,7 +2131,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/半导体设备与材料.md"
+          "planned_path": "../10_concepts/半导体设备与材料.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-TECH-10",
@@ -2478,7 +2481,7 @@
           "name": "证券与资管业",
           "scope": "成交、融资和管理资产",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/证券与资管业.md",
           "catalog_anchor": "C-SECTOR-03",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-SECTOR-03",
@@ -2486,7 +2489,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/证券与资管业.md"
+          "planned_path": "../10_concepts/证券与资管业.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-SECTOR-04",
@@ -2841,6 +2845,44 @@
           "editing_status": "step2_draft",
           "parent_ids": [
             "C-FLOW-05"
+          ],
+          "parent_relation": "concrete_subject"
+        },
+        {
+          "id": "C-WS-3758183-ACTIVE-EQUITY",
+          "name": "主动权益公募基金",
+          "scope": "新增研究产品集合，区分管理公司、基金产品及份额/净值/仓位/超配/估计买入，承接连续季度观察。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/主动权益公募基金.md",
+          "planned_path": "../10_concepts/主动权益公募基金.md",
+          "catalog_anchor": "C-WS-3758183-ACTIVE-EQUITY",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3758183-ACTIVE-EQUITY",
+          "status": "pending",
+          "editing_status": "step2_draft",
+          "parent_ids": [
+            "C-SECTOR-03"
+          ],
+          "parent_relation": "thematic_collection"
+        },
+        {
+          "id": "C-WS-3784266-CXMT",
+          "name": "长鑫存储",
+          "scope": "新增存储下具体生产主体，观察中国DRAM供给进入、架构计划与出货兑现",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/长鑫存储.md",
+          "planned_path": "../10_concepts/长鑫存储.md",
+          "catalog_anchor": "C-WS-3784266-CXMT",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3784266-CXMT",
+          "status": "pending",
+          "editing_status": "step2_draft",
+          "parent_ids": [
+            "C-TECH-06"
           ],
           "parent_relation": "concrete_subject"
         }
@@ -6370,7 +6412,7 @@
             "C-CHINA-05",
             "C-BOND-04"
           ],
-          "status": "complete",
+          "status": "pending",
           "path": "../20_mechanisms/社融结构、信用脉冲与实体需求.md",
           "catalog_anchor": "R-CN-CREDIT",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-CN-CREDIT",
@@ -6419,7 +6461,8 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_draft"
         },
         {
           "id": "R-CN-PROPERTY",

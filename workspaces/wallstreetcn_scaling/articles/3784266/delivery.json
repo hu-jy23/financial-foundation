@@ -1,0 +1,118 @@
+{
+  "article_id": 3784266,
+  "title": "美国投资人在担心什么？",
+  "files": [
+    {
+      "path": "10_concepts/CoreWeave.md",
+      "draft_path": "drafts/10_concepts/CoreWeave.md",
+      "operation": "update",
+      "id": "C-S2-COREWEAVE",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "CoreWeave",
+      "why": "补同券YTM、股债时间窗口、G-spread与可转债条件，保留10月31日截止",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "10_concepts/数据中心.md",
+      "draft_path": "drafts/10_concepts/数据中心.md",
+      "operation": "update",
+      "id": "C-TECH-04",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "数据中心",
+      "why": "补电费分摊与地方许可到送电、起租及回收的链条，区分规划、地点数与有效限制"
+    },
+    {
+      "path": "10_concepts/HBM与存储芯片.md",
+      "draft_path": "drafts/10_concepts/HBM与存储芯片.md",
+      "operation": "update",
+      "id": "C-TECH-06",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "HBM与存储芯片",
+      "why": "补固定规格价格与收入组合、4F²面积到良率/出货的边界，连接长鑫观察主体"
+    },
+    {
+      "path": "10_concepts/半导体设备与材料.md",
+      "draft_path": "drafts/10_concepts/半导体设备与材料.md",
+      "operation": "update",
+      "id": "C-TECH-09",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "半导体设备与材料",
+      "why": "补WFE与全设备预测版本、单位晶圆复杂度与短缺价格的区别及扩产时滞"
+    },
+    {
+      "path": "10_concepts/长鑫存储.md",
+      "draft_path": "drafts/10_concepts/长鑫存储.md",
+      "operation": "new",
+      "id": "C-WS-3784266-CXMT",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "长鑫存储",
+      "why": "新增存储下具体生产主体，观察中国DRAM供给进入、架构计划与出货兑现",
+      "parent_ids": [
+        "C-TECH-06"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "30_events/AI投资的资金、电力与存储周期担忧：2026年10月走访.md",
+      "draft_path": "drafts/30_events/AI投资的资金、电力与存储周期担忧：2026年10月走访.md",
+      "operation": "new",
+      "id": "E-WS-3784266",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "AI投资的资金、电力与存储周期担忧：2026年10月走访",
+      "why": "以22图完整保留机构走访论证、资金电力链及存储竞争与变现预期"
+    },
+    {
+      "path": "40_sources/S-WS-3784266.md",
+      "draft_path": "drafts/40_sources/S-WS-3784266.md",
+      "operation": "new",
+      "id": "S-WS-3784266",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "华泰美国投资人走访：来源与核读范围",
+      "why": "登记转载归属、逐图实读和未独立核验的上游范围"
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "全球TAM与五集团OCF、RPO/backlog及take-or-pay",
+      "operation": "inline",
+      "path": "30_events/AI投资的资金、电力与存储周期担忧：2026年10月走访.md#funding"
+    },
+    {
+      "knowledge": "集中敞口和杠杆条件",
+      "operation": "reuse",
+      "path": "20_mechanisms/保证金驱动的流动性螺旋.md"
+    },
+    {
+      "knowledge": "社区成本和政策约束",
+      "operation": "reuse",
+      "path": "20_mechanisms/投资扩张的资源挤出与政策约束.md"
+    },
+    {
+      "knowledge": "系统技术时序与Muse变现线索",
+      "operation": "inline",
+      "path": "30_events/AI投资的资金、电力与存储周期担忧：2026年10月走访.md#monetization"
+    }
+  ],
+  "summary": "新增长鑫存储子概念、22图走访事件和来源。修改CoreWeave的6—10月股债融资历史、数据中心的电费与许可交付链、存储的价格与4F²口径、设备的预测版本和扩产时滞。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/CoreWeave.md",
+    "10_concepts/数据中心.md",
+    "10_concepts/HBM与存储芯片.md",
+    "10_concepts/半导体设备与材料.md",
+    "10_concepts/长鑫存储.md",
+    "30_events/AI投资的资金、电力与存储周期担忧：2026年10月走访.md",
+    "40_sources/S-WS-3784266.md"
+  ]
+}

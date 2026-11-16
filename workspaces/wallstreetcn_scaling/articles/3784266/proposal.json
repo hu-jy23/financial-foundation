@@ -1,0 +1,116 @@
+{
+  "article_id": 3784266,
+  "title": "美国投资人在担心什么？",
+  "read_scope": "已通读原文及逐一查看22图，对照CoreWeave、数据中心、存储、Meta等现有页；现行思想标准与形成记录原则已读。",
+  "proposed_files": [
+    {
+      "operation": "new",
+      "entry_kind": "subconcept",
+      "id": "C-WS-3784266-CXMT",
+      "title": "长鑫存储",
+      "path": "10_concepts/长鑫存储.md",
+      "parent_ids": [
+        "C-TECH-06"
+      ],
+      "parent_relation": "concrete_subject",
+      "why": "用具名DRAM制造商持续观察中国供给进入及架构升级的兑现；本篇有技术计划、收入份额和成熟厂商利润的比较，实际量产/良率与价格周期分别追踪。"
+    },
+    {
+      "operation": "update",
+      "entry_kind": "subconcept",
+      "id": "C-S2-COREWEAVE",
+      "title": "CoreWeave",
+      "path": "10_concepts/CoreWeave.md",
+      "why": "补6月至10月15日股债、YTM、G-spread和可转债窗口，区分无风险利率与信用补偿；与已有10/31历史分开，保留较晚截止。"
+    },
+    {
+      "operation": "update",
+      "entry_kind": "concept",
+      "id": "C-TECH-04",
+      "title": "数据中心",
+      "path": "10_concepts/数据中心.md",
+      "why": "把电力成本分摊、社区和许可接到送电/交付及项目经济性，说明规划GW、实际送电与起租的差别；地方规则只保留报道时点归属。"
+    },
+    {
+      "operation": "update",
+      "entry_kind": "concept",
+      "id": "C-TECH-06",
+      "title": "HBM与存储芯片",
+      "path": "10_concepts/HBM与存储芯片.md",
+      "why": "补固定规格DDR5/NAND价格倍数与同比收入/产品组合的区别，4F²面积缩小及外围电路良率边界；公司整体毛利率不等同DRAM利润率。"
+    },
+    {
+      "operation": "update",
+      "entry_kind": "concept",
+      "id": "C-TECH-09",
+      "title": "半导体设备与材料",
+      "path": "10_concepts/半导体设备与材料.md",
+      "why": "把WFE/全部设备、预测版本及复杂度增长/涨价稀缺性区分，解释价格高位到扩产兑现的时滞风险。"
+    },
+    {
+      "operation": "new",
+      "entry_kind": "event",
+      "id": "E-WS-3784266",
+      "title": "AI投资的资金、电力与存储周期担忧：2026年10月走访",
+      "path": "30_events/AI投资的资金、电力与存储周期担忧：2026年10月走访.md",
+      "why": "完整保存作者走访、22图、融资与审批、技术交付、价格周期及Muse变现线索，调查式访谈不冒充代表性统计。"
+    },
+    {
+      "operation": "new",
+      "entry_kind": "source",
+      "id": "S-WS-3784266",
+      "title": "华泰美国投资人走访：来源与核读范围",
+      "path": "40_sources/S-WS-3784266.md",
+      "why": "记录转载、原图及实际已读范围，原公告/法规/研报未另外核验者保留归属。"
+    }
+  ],
+  "important_coverage": [
+    {
+      "knowledge": "TAM与集团OCF规模对照、RPO/backlog与现金回款、take-or-pay",
+      "placement": "事件展开，复用云服务及资源挤出关系；1.33万亿美元不是已确认融资缺口"
+    },
+    {
+      "knowledge": "供电接入、州级许可与保底电费",
+      "placement": "数据中心更新及事件；不重写成当前有效法规说明"
+    },
+    {
+      "knowledge": "Situational Awareness、Archegos和集中杠杆",
+      "placement": "事件内机制比较，复用保证金/流动性螺旋；没有违约与追保证据，不新增具名基金页"
+    },
+    {
+      "knowledge": "Muse/个人Agent按任务价值变现",
+      "placement": "事件解释，与Meta关联；后续已选Muse成本专题可再判断独立产品页，不因本篇出现名称注册"
+    },
+    {
+      "knowledge": "DDR5/CXL/4F²/WFE等基础",
+      "placement": "现有存储与设备页解释；工程展品和量产实绩分开"
+    }
+  ],
+  "figure_issues": [
+    {
+      "figure": 7,
+      "issue": "全球TAM与五集团OCF范围不同，差额仅压力对照；2027起OCF为每年20%增长情景"
+    },
+    {
+      "figure": 8,
+      "issue": "四集团2026/6/30单季现金购建不含新增非现金融资租赁；Oracle订单8/31，其余6/30；backlog不是现金"
+    },
+    {
+      "figure": 11,
+      "issue": "图为预测席位/民调格局，不是中期选举结果；未用后来结果回填"
+    },
+    {
+      "figure": 12,
+      "issue": "16州包括提出暂停类议案；不能全改为已实施禁令；NY≥50MW、MA>25MW范围不同"
+    },
+    {
+      "figure": 15,
+      "issue": "DDR5期末为9.3倍、累计涨833%，不是上涨9.3倍；图示区间至2026/4，9/30是4Q预测"
+    },
+    {
+      "figure": 19,
+      "issue": "图只画三大厂商DRAM收入份额和公司整体毛利率；不能据图直接核长鑫份额，也不能将整体毛利当DRAM利润率"
+    }
+  ],
+  "new_node_decision": "长鑫是否新增请主agent判断；若认为本篇信息不足，改为存储页公司观察小节即可，不强求注册。"
+}

@@ -1,11 +1,11 @@
 {
-  "accepted_additions": 3,
-  "pending": 24,
-  "new_nodes": 2,
+  "accepted_additions": 6,
+  "pending": 21,
+  "new_nodes": 4,
   "node_types": {
-    "子概念": 1,
-    "关系": 1
+    "关系": 1,
+    "子概念": 3
   },
-  "working_nodes": 254,
-  "unique_documents": 39
+  "working_nodes": 256,
+  "unique_documents": 52
 }

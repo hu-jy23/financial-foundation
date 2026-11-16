@@ -1,15 +1,13 @@
-# 执行状态
+# 当前执行状态
 
-以run.json为机器状态，selection.json为选文。用户选择完整上下文继承，模型档位随主agent，记录inherited_unverified。每篇1agent，3并发、9组；全部27篇需完成，不在首组结束任务。
+用户要从原3篇扩至30篇：新增27篇必须全部执行；每篇1个完整继承agent，不在中间组结束任务。模型/档位继承，inherited_unverified。
 
-第1组01/02/03已审阅采用并接入唯一工作图workspaces/step2_articles/graph：新增GLD子概念及资源挤出关系，工作图254节点。对应agents scale_01/02/03已结束。drafts已删除，delivery/review保留。
+已采用新增01—06，共6/27；工作图256节点（基准252，本轮新增4：GLD、主动权益公募、长鑫3子概念＋资源挤出1关系）。原3篇加新增6篇=9/30。
 
-第2组04/05/06正在制作，agents scale_04/05/06已全继承启动，归属均批准。本组基线/tmp/scaling_wave2_base.json；先读各篇proposal/decision。
+第3组07/08/09正在核读；agents scale_07/08/09，基线/tmp/scaling_wave3_base.json。后续10—27仍queued。具体状态、选文、agent名以run.json为准。
 
-工具：integrate.py ARTICLE_ID /tmp/scaling_waveN_base.json（审阅采用后调用，禁止正式graph写入）；sync_registry.py同步待整合索引；build_report.py输出报告.html、增量清单.md。不要运行旧step2_articles/sync_catalog.py，它只支持最初三篇，会遗漏新增注册。
+主agent必须审阅每份新稿/旧页diff后用integrate.py ARTICLE /tmp/scaling_waveN_base.json接入workspaces/step2_articles/graph。正式graph只读。sync_registry.py更新全部待整合索引；build_report.py输出报告.html与增量清单.md；validate_run.py检查采用稿、节点、父项和链接。不要运行旧step2_articles/sync_catalog.py，它只支持原3篇，会漏scaling注册。
 
-每篇交付需主agent逐篇阅读（新页全文，旧页与组基线diff；预览时去掉图片路径行可省输出，保留图表本身在最终成品）。整合后删除该篇drafts/previews临时产物，避免本地链接测试把临时位置当最终位置；未整合不得删。
+每组完成后删已采用篇drafts/previews临时产物，保留delivery/review/decision/proposal/TASK；禁止删除尚未审阅稿。下一组启动前保存/tmp/scaling_waveN_base.json（当前工作图所有MD正文），每篇按RUN_GUIDE先提案、协调归属、原agent继续全文。
 
-第1组工作图validate.py已通过（1859链接；正式图知识未变，仅此前授权的3份说明修改）。首次链式验证进程被SIGTERM143，单独重跑通过。当前需要完成第1组Git检查点，随后继续处理第2组并依次完成第3—9组。
-
-每组审阅完成后生成下一组/tmp/scaling_waveN_base.json（保存当前工作图全部MD正文），继而各拉新agent。统一读RUN_GUIDE及各篇TASK，先提案、主agent归属后继续全文。涉及并发旧页改动使用基线合并；同名新对象统一ID。每组docs/STEP2_LOG只写简短实际增量。
+Git第1组检查点14351ab；当前待保存第2组检查点。按已完成组路径暂存，不能把下一组未审稿一起提交。阶段记录docs/STEP2_LOG简写实际增量。最后完成30篇报告、检查全部链接与离线浏览后交付，不整合正式graph。

@@ -1,0 +1,128 @@
+{
+  "article_id": 3758183,
+  "title": "公募基金三季报：大幅加仓科技成长，工业富联、寒武纪新晋公募前二十大重仓",
+  "files": [
+    {
+      "path": "10_concepts/主动权益公募基金.md",
+      "draft_path": "drafts/10_concepts/主动权益公募基金.md",
+      "operation": "new",
+      "id": "C-WS-3758183-ACTIVE-EQUITY",
+      "type": "concept",
+      "entry_kind": "subconcept",
+      "title": "主动权益公募基金",
+      "why": "新增研究产品集合，区分管理公司、基金产品及份额/净值/仓位/超配/估计买入，承接连续季度观察。",
+      "source_ids": [
+        "S-WS-3758183"
+      ],
+      "parent_ids": [
+        "C-SECTOR-03"
+      ],
+      "parent_relation": "thematic_collection"
+    },
+    {
+      "path": "10_concepts/证券与资管业.md",
+      "draft_path": "drafts/10_concepts/证券与资管业.md",
+      "operation": "update",
+      "id": "C-SECTOR-03",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "证券与资管业",
+      "why": "增加主动权益受托产品入口及2025Q3净赎回与规模反弹案例；保留旧作者、来源和2026-01-15截止。",
+      "source_ids": [
+        "S-C-SECTOR-03-01",
+        "S-C-SECTOR-03-02",
+        "S-C-SECTOR-03-03",
+        "S-WS-3758183"
+      ]
+    },
+    {
+      "path": "30_events/markets/主动权益基金科技集中与资金流：2025年三季度观察.md",
+      "draft_path": "drafts/30_events/markets/主动权益基金科技集中与资金流：2025年三季度观察.md",
+      "operation": "new",
+      "id": "E-WS-3758183",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "主动权益基金科技集中与资金流：2025年三季度观察",
+      "why": "新增2025Q3七部分完整事件，保留26图和关键持仓数字，逐处解释样本、价格贡献及图文差异。",
+      "source_ids": [
+        "S-WS-3758183"
+      ],
+      "node_ids": [
+        "C-WS-3758183-ACTIVE-EQUITY",
+        "C-SECTOR-03"
+      ]
+    },
+    {
+      "path": "40_sources/S-WS-3758183.md",
+      "draft_path": "drafts/40_sources/S-WS-3758183.md",
+      "operation": "new",
+      "id": "S-WS-3758183",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "兴业基金三季报研究：来源与核读范围",
+      "why": "登记来源归属、日期、实际核读范围、图号及具体差异。",
+      "source_ids": [
+        "S-WS-3758183"
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "knowledge": "主动权益基金产品及与管理公司关系",
+      "operation": "new",
+      "path": "10_concepts/主动权益公募基金.md",
+      "why": "研究集合子概念，非统一法定分类。"
+    },
+    {
+      "knowledge": "申赎与资产规模",
+      "operation": "update",
+      "path": "10_concepts/证券与资管业.md#active-equity-observation",
+      "why": "补2025Q3历史窗口，保留既有AUM解释。"
+    },
+    {
+      "knowledge": "配置、超配、样本及估计买入",
+      "operation": "inline",
+      "path": "30_events/markets/主动权益基金科技集中与资金流：2025年三季度观察.md#allocation",
+      "why": "数字、分母和图文区别。"
+    },
+    {
+      "knowledge": "科技、算力及高配置的判断",
+      "operation": "inline",
+      "path": "30_events/markets/主动权益基金科技集中与资金流：2025年三季度观察.md#technology",
+      "why": "价格贡献、作者历史类比及检验条件。"
+    },
+    {
+      "knowledge": "红利、港股、重仓集中",
+      "operation": "inline",
+      "path": "30_events/markets/主动权益基金科技集中与资金流：2025年三季度观察.md",
+      "why": "分别保存配置与股息、金额与权重、集中与退出条件。"
+    },
+    {
+      "knowledge": "工业富联、寒武纪等证券",
+      "operation": "inline",
+      "path": "30_events/markets/主动权益基金科技集中与资金流：2025年三季度观察.md#stocks",
+      "why": "只作持仓观察，未仅因前20名单注册公司。"
+    },
+    {
+      "knowledge": "压力出售反馈",
+      "operation": "reuse",
+      "path": "20_mechanisms/保证金驱动的流动性螺旋.md",
+      "why": "条件入口，未声明本篇基金已触发保证金机制。"
+    }
+  ],
+  "summary": "新增子概念“主动权益公募基金”、2025Q3事件及来源记录；修改“证券与资管业”，补受托产品入口及净赎回与规模回升并存的历史观察。",
+  "read_scope": {
+    "article": "全文、元数据、26张原图逐张核读",
+    "external": "未取得原研报、Wind数据或逐只基金报告；未新增外部核读来源"
+  },
+  "model": "inherited_unverified",
+  "reasoning_effort": "inherited_unverified",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/主动权益公募基金.md",
+    "10_concepts/证券与资管业.md",
+    "30_events/markets/主动权益基金科技集中与资金流：2025年三季度观察.md",
+    "40_sources/S-WS-3758183.md"
+  ]
+}
