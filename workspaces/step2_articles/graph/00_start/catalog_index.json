@@ -1,18 +1,18 @@
 {
   "counts": {
     "concepts": {
-      "groups": 19,
-      "items": 173,
+      "groups": 20,
+      "items": 174,
       "p0": 21,
-      "complete": 161,
-      "pending": 12
+      "complete": 157,
+      "pending": 17
     },
     "mechanisms": {
-      "groups": 17,
-      "items": 79,
+      "groups": 18,
+      "items": 80,
       "p0": 21,
-      "complete": 73,
-      "pending": 6
+      "complete": 70,
+      "pending": 10
     },
     "excluded_concepts": {
       "items": 186,
@@ -1244,7 +1244,7 @@
           "name": "黄金",
           "scope": "商品、储备与投资属性",
           "priority": "P0",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/黄金.md",
           "catalog_anchor": "C-ASSET-GOLD",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASSET-GOLD",
@@ -1252,7 +1252,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/黄金.md"
+          "planned_path": "../10_concepts/黄金.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-COMMOD-02",
@@ -1799,7 +1800,7 @@
           "name": "IPO、再融资与退市",
           "scope": "权益供求和制度事件",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/IPO、再融资与退市.md",
           "catalog_anchor": "C-ASIA-09",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-09",
@@ -1809,7 +1810,8 @@
           "selection_confirmed_on": "2026-10-25",
           "planned_path": "../10_concepts/IPO、再融资与退市.md",
           "last_source_review_on": "2026-11-03",
-          "last_source_batch": "T1_T2_20261103"
+          "last_source_batch": "T1_T2_20261103",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-ASIA-10",
@@ -1831,7 +1833,7 @@
           "name": "恒生指数与恒生科技指数",
           "scope": "成分、权重和行业敞口",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/恒生指数与恒生科技指数.md",
           "catalog_anchor": "C-ASIA-11",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-ASIA-11",
@@ -1839,7 +1841,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/恒生指数与恒生科技指数.md"
+          "planned_path": "../10_concepts/恒生指数与恒生科技指数.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-ASIA-12",
@@ -2163,7 +2166,7 @@
           "name": "NVIDIA",
           "scope": "加速器与系统公司；财务和产品版本单独记录",
           "priority": "P1",
-          "status": "complete",
+          "status": "pending",
           "path": "../10_concepts/NVIDIA.md",
           "catalog_anchor": "C-TECH-17",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-TECH-17",
@@ -2171,7 +2174,8 @@
           "selection_status": "confirmed_initial_build",
           "selection_basis": "159_item_baseline_with_user_adjustments",
           "selection_confirmed_on": "2026-10-25",
-          "planned_path": "../10_concepts/NVIDIA.md"
+          "planned_path": "../10_concepts/NVIDIA.md",
+          "editing_status": "step2_draft"
         },
         {
           "id": "C-TECH-18",
@@ -2728,12 +2732,13 @@
           "editing_status": "step2_draft",
           "parent_ids": [
             "C-DERIV-15"
-          ]
+          ],
+          "parent_relation": "instrument_specific_basis"
         },
         {
           "id": "C-S2-COREWEAVE",
           "name": "CoreWeave",
-          "scope": "具体公司需要统一积累经营与信用价格历史，避免只在upfront读数旁出现。",
+          "scope": "云服务下的具体主体子概念，积累经营、融资及信用价格历史，研究其对AI融资条件的观察意义。",
           "priority": "P1",
           "role": "domain_objects",
           "selection_status": "proposed_step2",
@@ -2743,7 +2748,11 @@
           "planned_path": "../10_concepts/CoreWeave.md",
           "catalog_anchor": "C-S2-COREWEAVE",
           "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-S2-COREWEAVE",
-          "editing_status": "step2_draft"
+          "editing_status": "step2_draft",
+          "parent_ids": [
+            "C-TECH-03"
+          ],
+          "parent_relation": "concrete_subject"
         },
         {
           "id": "C-S2-AI-CDS",
@@ -2761,12 +2770,13 @@
           "editing_status": "step2_draft",
           "parent_ids": [
             "C-S2-CDS"
-          ]
+          ],
+          "parent_relation": "thematic_collection"
         },
         {
           "id": "C-S2-SOX",
           "name": "费城半导体指数SOX",
-          "scope": "为持续研究半导体股票组合及跨市场比较建立独立对象；不与KOSPI混为同一指数。",
+          "scope": "独立指数对象；补充用SOX/KOSPI比较产业经营信息与韩国当地承接的观察链条。",
           "priority": "P1",
           "role": "domain_objects",
           "selection_status": "proposed_step2",
@@ -2810,6 +2820,31 @@
         }
       ],
       "role": "domain_objects"
+    },
+    {
+      "code": "WALLSTREET_SCALING",
+      "title": "Wallstreet Scaling待整合条目",
+      "items": [
+        {
+          "id": "C-WS-3764710-GLD",
+          "name": "SPDR黄金信托GLD",
+          "scope": "实物支持黄金信托是私人持有黄金的持续观察对象；区分份额交易、吨数、AUM、申赎及费用耗金，连接本篇821→1087吨观察。基础身份复用黄金旧页既有GLD产品来源，新闻数字保留转述归属。",
+          "priority": "P1",
+          "role": "domain_objects",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../10_concepts/SPDR黄金信托GLD.md",
+          "planned_path": "../10_concepts/SPDR黄金信托GLD.md",
+          "catalog_anchor": "C-WS-3764710-GLD",
+          "catalog_ref": "CONCEPT_IMPORT_LIST.md#C-WS-3764710-GLD",
+          "status": "pending",
+          "editing_status": "step2_draft",
+          "parent_ids": [
+            "C-FLOW-05"
+          ],
+          "parent_relation": "concrete_subject"
+        }
+      ]
     }
   ],
   "mechanisms": [
@@ -4791,7 +4826,7 @@
             "C-ASSET-GOLD",
             "C-GLOBAL-13"
           ],
-          "status": "complete",
+          "status": "pending",
           "path": "../20_mechanisms/美元信用与储备多元化.md",
           "catalog_anchor": "R-INTERNATIONAL-13",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-INTERNATIONAL-13",
@@ -4835,7 +4870,8 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_draft"
         },
         {
           "id": "R-INTERNATIONAL-14",
@@ -4984,7 +5020,7 @@
             "C-BOND-05",
             "C-ASIA-06"
           ],
-          "status": "complete",
+          "status": "pending",
           "path": "../20_mechanisms/高股息资产的债券替代效应.md",
           "catalog_anchor": "R-EQ-DIVIDEND",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-EQ-DIVIDEND",
@@ -5020,7 +5056,8 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_draft"
         },
         {
           "id": "R-EQUITY-14",
@@ -5917,7 +5954,7 @@
             "C-FX-14",
             "C-ASSET-GOLD"
           ],
-          "status": "complete",
+          "status": "pending",
           "path": "../20_mechanisms/央行购金与黄金需求结构.md",
           "catalog_anchor": "R-GOLD-03",
           "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-GOLD-03",
@@ -5952,7 +5989,8 @@
               ],
               "related_mechanism_ids": []
             }
-          ]
+          ],
+          "editing_status": "step2_draft"
         },
         {
           "id": "R-ASSET-STOCKBOND",
@@ -7189,7 +7227,7 @@
         {
           "id": "R-S2-KOSPI-BUYERS",
           "name": "KOSPI三大买盘与边际承接",
-          "scope": "将韩国市场具体三类主体的行动条件、需求变化和持续历史集中维护；不复制一般流动性定义。",
+          "scope": "集中维护三类主体承接；区分三星与SK海力士的经营观察作用和发行人回购订单作用。",
           "priority": "P1",
           "role": "mechanisms",
           "selection_status": "proposed_step2",
@@ -7224,6 +7262,77 @@
         }
       ],
       "role": "mechanisms"
+    },
+    {
+      "code": "WALLSTREET_SCALING",
+      "title": "Wallstreet Scaling待整合条目",
+      "items": [
+        {
+          "id": "R-WS-3784433-CROWDOUT",
+          "name": "投资扩张的资源挤出与政策约束",
+          "scope": "新建实物资源、融资承接和政策取舍三条逻辑，各附历史与有归属预期。",
+          "priority": "P1",
+          "role": "mechanisms",
+          "selection_status": "proposed_step2",
+          "selection_basis": "wallstreetcn_scaling_20261116",
+          "path": "../20_mechanisms/投资扩张的资源挤出与政策约束.md",
+          "planned_path": "../20_mechanisms/投资扩张的资源挤出与政策约束.md",
+          "catalog_anchor": "R-WS-3784433-CROWDOUT",
+          "catalog_ref": "MECHANISM_IMPORT_LIST.md#R-WS-3784433-CROWDOUT",
+          "status": "pending",
+          "editing_status": "step2_draft",
+          "node_ids": [
+            "C-TECH-03",
+            "C-TECH-04",
+            "C-TECH-05",
+            "C-INF-INFLATION",
+            "C-CREDIT-SPREAD",
+            "C-CREDIT-02",
+            "C-ASSET-UST",
+            "C-IR-POLICY",
+            "C-CHINA-02"
+          ],
+          "related_mechanism_ids": [
+            "R-BANKING-01",
+            "R-FISCAL-LONGYIELD"
+          ],
+          "logic_groups": [
+            {
+              "anchor": "logic-1",
+              "node_ids": [
+                "C-TECH-03",
+                "C-TECH-04",
+                "C-TECH-05",
+                "C-INF-INFLATION"
+              ],
+              "related_mechanism_ids": []
+            },
+            {
+              "anchor": "logic-2",
+              "node_ids": [
+                "C-TECH-03",
+                "C-CREDIT-SPREAD",
+                "C-CREDIT-02",
+                "C-ASSET-UST"
+              ],
+              "related_mechanism_ids": [
+                "R-BANKING-01",
+                "R-FISCAL-LONGYIELD"
+              ]
+            },
+            {
+              "anchor": "logic-3",
+              "node_ids": [
+                "C-TECH-03",
+                "C-IR-POLICY",
+                "C-INF-INFLATION",
+                "C-CHINA-02"
+              ],
+              "related_mechanism_ids": []
+            }
+          ]
+        }
+      ]
     }
   ],
   "deferred": [
@@ -7245,7 +7354,7 @@
     }
   ],
   "schema_version": 4,
-  "updated": "2026-11-13",
+  "updated": "2026-11-16",
   "notes": [
     "正式范围为163个对象、71个机制，初步建图阶段234篇正文已完成。",
     "对象、机制ID及名称以正式目录为准；普通变量保留在正文中解释。",

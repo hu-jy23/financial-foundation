@@ -4,12 +4,14 @@ type: mechanism
 title: KOSPI三大买盘与边际承接
 status: step2_draft
 workspace_reviewed_by: /root
-workspace_reviewed_on: 2026-11-13
-updated: 2026-11-13
+workspace_reviewed_on: 2026-11-16
+updated: 2026-11-16
 evidence_as_of: 2026-10-20
 draft_author: /root/produce_korea
 model: inherited_unverified
 reasoning_effort: inherited_unverified
+editor: /root/rule_korea
+editing_status: step2_draft
 source_ids: [S-WS-3784053]
 node_ids: [C-S2-KOSPI, C-LIQ-MARKET]
 related_mechanism_ids: [R-S2-LETF-REBALANCE, R-MARKET-09]
@@ -30,6 +32,13 @@ logic_groups:
 [市场流动性](../10_concepts/市场流动性.md)讨论在一定时间内成交给定数量需要多大价格让步。本关系把一般定义落实到[韩国综合股价指数KOSPI](../10_concepts/韩国综合股价指数KOSPI.md)的具体买方构成：公司按回购计划执行，外资按全球组合与资金约束交易，境内机构按各自负债、授权与风险预算行动。三者恢复购买的条件不同，估值下降并不会让它们在同一天自动增加需求。
 
 企业股票回购是发行人用资金买回本公司股票，执行时形成股票需求并改变现金与股权结构；它与货币市场中的回购融资属于不同安排。授权额度、实际执行和剩余额度要分别观察。外资与境内机构则是身份分组，内部可能包含主动、被动或对冲策略，不能据分组净额推断所有成员的动机。
+
+<a id="company-roles"></a>
+### 三星与SK海力士：经营观察与回购订单分别跟踪
+
+这两家公司在本篇有两种研究作用。作为经营主体，其产品销售、客户订单和盈利预测帮助研究相关产业的收入与利润；作为股票发行人，执行回购会直接形成对本公司股票的购买。经营预期进入估值，回购执行进入实际订单，两条联系可以在不同时间变化。
+
+因此，报道中的盈利预测上修、回购临近完成与股价下降可以同时存在：预测描述未来盈利判断，计划剩余额度和实际购股反映当下买入，成交价格还取决于其他交易者。若要借两家公司观察存储或AI需求，应另取[HBM与存储芯片](../10_concepts/HBM与存储芯片.md)所述产品及交付口径；若要研究短期承接，则跟踪各自的回购执行。图4是汇总企业购股，图7是剔除两家公司后的EPS，当前图表不足以分别验证它们的两条链。这段观察用途由本库于2026-11-16整理，没有新增公司回购或盈利事实。
 
 <a id="logic-1"></a>
 ## 核心逻辑1：计划性需求与配置需求同时减弱，卖方需要寻找新的承接

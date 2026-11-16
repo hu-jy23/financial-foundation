@@ -1,4 +1,4 @@
-> **工作副本**：本目录含本轮拟新增条目；正式仓库未变。新增与更新正文供审阅，未整合main。
+> **待整合工作图**：本目录包含三篇基准及Wallstreet Scaling采用稿，正式graph未接入。
 
 # 金融关系／机制正式目录
 
@@ -181,7 +181,7 @@
 | <a id="R-CRYPTO-04"></a>R-CRYPTO-04 | 永续合约的强平瀑布 | [加密资产杠杆与永续合约 C-CRYPTO-05](CONCEPT_IMPORT_LIST.md#C-CRYPTO-05)；[保证金与追加保证金 C-DERIV-14](../10_concepts/保证金与追加保证金.md)；[市场流动性 C-LIQ-MARKET](../10_concepts/市场流动性.md)；[比特币 C-CRYPTO-01](CONCEPT_IMPORT_LIST.md#C-CRYPTO-01) | [杠杆与去杠杆（正文术语）](CONCEPT_CONTEXT_TERMS.md#C-CREDIT-LEVERAGE) | 资金费率、保证金和深度 | P1 | [complete／正文](../20_mechanisms/永续合约的强平瀑布.md) |
 
 
-## Step2工作副本拟新增
+## Step2待整合新增条目
 
 <a id="R-S2-VENDOR-CREDIT"></a>
 ### [供应商融资的信用风险传递](../20_mechanisms/供应商融资的信用风险传递.md)
@@ -201,5 +201,10 @@
 <a id="R-S2-KOSPI-BUYERS"></a>
 ### [KOSPI三大买盘与边际承接](../20_mechanisms/KOSPI三大买盘与边际承接.md)
 
-`R-S2-KOSPI-BUYERS` · 待整合 · 将韩国市场具体三类主体的行动条件、需求变化和持续历史集中维护；不复制一般流动性定义。
+`R-S2-KOSPI-BUYERS` · 待整合 · 集中维护三类主体承接；区分三星与SK海力士的经营观察作用和发行人回购订单作用。
+
+<a id="R-WS-3784433-CROWDOUT"></a>
+### [投资扩张的资源挤出与政策约束](../20_mechanisms/投资扩张的资源挤出与政策约束.md)
+
+`R-WS-3784433-CROWDOUT` · 待整合 · 新建实物资源、融资承接和政策取舍三条逻辑，各附历史与有归属预期。
 

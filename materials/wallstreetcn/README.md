@@ -2,7 +2,7 @@
 
 本轮已保存206篇正文及770处正文插图，全部取得；图片文件769份，同篇重复引用共用文件。图片化的表格按原图保留。
 
-打开[index.html](index.html)浏览和筛选文章；[CATALOG.md](CATALOG.md)提供文字目录。[采集方案](维护/PROPOSAL.md)记录抽样、格式选择和采集标准。[制作纲领](维护/ARTICLE_AUTHORING_CHARTER.md)说明通用制作思想；[AI CDS阅读草案](维护/SOURCE_TO_GRAPH_PLAN.md)保留具体分析示例。[最新试作报告](../../workspaces/article_pipeline_tests/single_agent_20261113/%E6%8A%A5%E5%91%8A.html)汇总AI CDS、韩国股市及美债基差交易三篇成果，每篇一个继承上下文的agent，先制作基础知识再深入分析；[本轮说明](../../workspaces/article_pipeline_tests/single_agent_20261113/%E8%AF%B4%E6%98%8E/README.md)记录执行顺序。[前轮报告](../../workspaces/article_pipeline_tests/multi_agent_20261113/%E6%8A%A5%E5%91%8A.html)保留两篇各6次试作的比较。选文清单、采集脚本、检索数据库和检查记录集中放在`维护/`。
+打开[index.html](index.html)浏览和筛选文章；[CATALOG.md](CATALOG.md)提供文字目录；[按图片数量排序](按图片数量排序.md)供本轮scaling选文。[采集方案](维护/PROPOSAL.md)记录抽样、格式选择和采集标准。[制作纲领](维护/ARTICLE_AUTHORING_CHARTER.md)说明通用制作思想；[AI CDS阅读草案](维护/SOURCE_TO_GRAPH_PLAN.md)保留具体分析示例。[最新试作报告](../../workspaces/article_pipeline_tests/single_agent_20261113/%E6%8A%A5%E5%91%8A.html)汇总AI CDS、韩国股市及美债基差交易三篇成果，每篇一个继承上下文的agent，先制作基础知识再深入分析；[本轮说明](../../workspaces/article_pipeline_tests/single_agent_20261113/%E8%AF%B4%E6%98%8E/README.md)记录执行顺序。[前轮报告](../../workspaces/article_pipeline_tests/multi_agent_20261113/%E6%8A%A5%E5%91%8A.html)保留两篇各6次试作的比较。选文清单、采集脚本、检索数据库和检查记录集中放在`维护/`。
 
 [三篇成品阅读报告](../../workspaces/step2_articles/%E9%98%85%E8%AF%BB%E6%8A%A5%E5%91%8A.html)展示独立工作图中的新增、更新正文；[制作归属](../../workspaces/step2_articles/%E5%88%B6%E4%BD%9C%E8%AF%B4%E6%98%8E.md)说明各页职责，尚未整合main。
 

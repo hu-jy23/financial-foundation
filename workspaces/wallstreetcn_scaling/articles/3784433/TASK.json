@@ -1,0 +1,13 @@
+{
+  "sequence": 3,
+  "batch": 1,
+  "article_id": 3784433,
+  "title": "中金：AI从传统需求的“朋友”到“敌人”？",
+  "source_markdown": "materials/wallstreetcn/SourcePost/中金：AI从传统需求的“朋友”到“敌人”？/article.md",
+  "source_metadata": "materials/wallstreetcn/SourcePost/中金：AI从传统需求的“朋友”到“敌人”？/metadata.json",
+  "image_occurrences": 27,
+  "author_group": "中金",
+  "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
+  "output_directory": "workspaces/wallstreetcn_scaling/articles/3784433",
+  "status": "reading"
+}

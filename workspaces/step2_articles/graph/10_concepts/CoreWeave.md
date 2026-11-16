@@ -4,14 +4,19 @@ type: concept
 title: CoreWeave
 status: step2_draft
 workspace_reviewed_by: /root
-workspace_reviewed_on: 2026-11-13
-updated: '2026-11-13'
+workspace_reviewed_on: 2026-11-16
+updated: '2026-11-16'
 evidence_as_of: '2026-10-31'
 draft_author: /root/produce_ai
 model: inherited_unverified
 reasoning_effort: inherited_unverified
 source_ids:
 - S-WS-3784900
+parent_ids:
+- C-TECH-03
+parent_relation: concrete_subject
+editor: /root
+edit_scope: 明确具体主体子概念归属及观察AI融资条件的研究用途
 ---
 
 # CoreWeave
@@ -21,6 +26,12 @@ source_ids:
 ## 概念定义
 
 CoreWeave是一家面向AI工作负载提供云平台的企业。其服务把GPU计算、网络、存储与调度软件组合起来，支持模型训练和推理；其经营对象是计算服务交付，而GPU和数据中心是重要投入。公司2025年10-K的业务说明可与[GPU与AI加速器](GPU与AI加速器.md)、[数据中心](数据中心.md)、[云服务与超大规模云厂商](云服务与超大规模云厂商.md)一起阅读。[公司业务说明](../40_sources/S-WS-3784900.md#coreweave-filing)。
+
+## 子概念归属与研究用途
+
+本页作为[云服务与超大规模云厂商](云服务与超大规模云厂商.md)下的具体经营主体，复用父项中关于云服务交付、设备投入与资金回收的解释，集中积累CoreWeave自身的客户合同、融资安排和信用价格历史。[AI相关企业CDS](AI相关企业CDS.md)从信用保护专题连接本公司。
+
+CoreWeave把设备和数据中心投入、服务合同与外部融资放在同一个主体中，因而可以成为观察AI扩张融资条件的一个窗口。比较债券发行条件、CDS报价、资金可得性与合同变化，有助于研究投资者愿以什么条件承担这类扩张风险。公司自身回款、客户集中和债务结构也会改变这些读数。若相近主体的融资条件共同变化，行业层面的解释更有依据；若变化集中在本公司，应结合它的具体经营与合同判断。此处为2026-11-16整理的研究用途，实际证据与截止仍按下列历史及来源保存。
 
 ## 经营与融资为何相连
 

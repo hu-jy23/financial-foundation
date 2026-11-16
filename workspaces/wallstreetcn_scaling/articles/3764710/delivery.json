@@ -1,0 +1,268 @@
+{
+  "article_id": 3764710,
+  "title": "中金：黄金超过5500美元是一个重要分水岭",
+  "files": [
+    {
+      "path": "10_concepts/SPDR黄金信托GLD.md",
+      "operation": "new",
+      "entry_kind": "subconcept",
+      "id": "C-WS-3764710-GLD",
+      "title": "SPDR黄金信托GLD",
+      "why": "实物支持黄金信托是私人持有黄金的持续观察对象；区分份额交易、吨数、AUM、申赎及费用耗金，连接本篇821→1087吨观察。基础身份复用黄金旧页既有GLD产品来源，新闻数字保留转述归属。",
+      "draft_path": "drafts/10_concepts/SPDR黄金信托GLD.md",
+      "type": "concept",
+      "parent_ids": [
+        "C-FLOW-05"
+      ],
+      "parent_relation": "concrete_subject"
+    },
+    {
+      "path": "10_concepts/黄金.md",
+      "operation": "update",
+      "entry_kind": "concept",
+      "id": "C-ASSET-GOLD",
+      "title": "黄金",
+      "why": "新增2026年1月存量重估历史：黄金市值/美债存量比为作者比较尺度，不代表可售供给、官方储备或内在价格阈值；接GLD页。",
+      "draft_path": "drafts/10_concepts/黄金.md",
+      "type": "concept"
+    },
+    {
+      "path": "20_mechanisms/央行购金与黄金需求结构.md",
+      "operation": "update",
+      "entry_kind": "relation",
+      "id": "R-GOLD-03",
+      "title": "央行购金与黄金需求结构",
+      "why": "在既有需求结构机制内增加官方数量与私人GLD持仓不同步的2026年1月历史，避免把金价/ETF相关系数0.98当因果贡献。",
+      "draft_path": "drafts/20_mechanisms/央行购金与黄金需求结构.md",
+      "type": "mechanism",
+      "node_ids": [
+        "C-FX-14",
+        "C-ASSET-GOLD"
+      ],
+      "related_mechanism_ids": [
+        "R-INTERNATIONAL-13"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-FX-14",
+            "C-ASSET-GOLD"
+          ],
+          "related_mechanism_ids": [
+            "R-INTERNATIONAL-13"
+          ]
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-FX-14",
+            "C-ASSET-GOLD"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "20_mechanisms/美元信用与储备多元化.md",
+      "operation": "update",
+      "entry_kind": "relation",
+      "id": "R-INTERNATIONAL-13",
+      "title": "美元信用与储备多元化",
+      "why": "补跨国持仓比较的主体范围：TIC含私人+官方、保管地效应及外储分母，四象限不直接代表央行改配阵营；保留局部替代与支付体系份额的条件性判断。",
+      "draft_path": "drafts/20_mechanisms/美元信用与储备多元化.md",
+      "type": "mechanism",
+      "node_ids": [
+        "C-FX-USD",
+        "C-FX-14",
+        "C-ASSET-UST",
+        "C-ASSET-GOLD",
+        "C-GLOBAL-13"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-FX-USD",
+            "C-FX-14",
+            "C-ASSET-UST",
+            "C-GLOBAL-13"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-FX-14",
+            "C-ASSET-UST",
+            "C-ASSET-GOLD",
+            "C-GLOBAL-13"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-FX-USD",
+            "C-FX-14",
+            "C-ASSET-GOLD"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "30_events/gold/2026年1月黄金急涨回调与美元信用替代争议.md",
+      "operation": "new",
+      "entry_kind": "event",
+      "id": "E-WS-3764710",
+      "title": "2026年1月黄金急涨回调与美元信用替代争议",
+      "why": "完整保存七段论述、33图、关键数字与历史比较，解释作者如何从估值关口推进到配置与政策判断。",
+      "draft_path": "drafts/30_events/gold/2026年1月黄金急涨回调与美元信用替代争议.md",
+      "type": "analysis_note"
+    },
+    {
+      "path": "40_sources/S-WS-3764710.md",
+      "operation": "new",
+      "entry_kind": "source",
+      "id": "S-WS-3764710",
+      "title": "中金黄金5500美元分水岭：来源与核读范围",
+      "why": "原文、元数据、全图定位及实际采用范围。",
+      "draft_path": "drafts/40_sources/S-WS-3764710.md",
+      "type": "source_note"
+    }
+  ],
+  "coverage": [
+    {
+      "name": "黄金存量与资产形式",
+      "operation": "update",
+      "path": "10_concepts/黄金.md#stock-comparison-202601",
+      "why": "存量估值与可售供给、官方储备分开"
+    },
+    {
+      "name": "SPDR黄金信托GLD",
+      "operation": "new",
+      "path": "10_concepts/SPDR黄金信托GLD.md",
+      "why": "独立产品身份与私人持有观察"
+    },
+    {
+      "name": "黄金—美债存量比",
+      "operation": "inline",
+      "path": "30_events/gold/2026年1月黄金急涨回调与美元信用替代争议.md#stock-comparison",
+      "why": "具体比较尺度不注册通用估价模型"
+    },
+    {
+      "name": "实际利率与黄金机会成本",
+      "operation": "reuse",
+      "path": "20_mechanisms/黄金的机会成本机制.md",
+      "why": "保留多渠道机制，图1脱锚不等于机制消失"
+    },
+    {
+      "name": "美元及美元指数",
+      "operation": "reuse",
+      "path": "10_concepts/美元指数DXY与广义美元指数.md",
+      "why": "报价与指数范围基础复用"
+    },
+    {
+      "name": "央行购金与私人持有",
+      "operation": "update",
+      "path": "20_mechanisms/央行购金与黄金需求结构.md",
+      "why": "数量与估值、主体与价格共振分开"
+    },
+    {
+      "name": "国家美债持仓与官方储备",
+      "operation": "update",
+      "path": "20_mechanisms/美元信用与储备多元化.md#country-holder-scope",
+      "why": "新增TIC主体范围辨析"
+    },
+    {
+      "name": "储备货币份额与支付融资份额",
+      "operation": "inline",
+      "path": "30_events/gold/2026年1月黄金急涨回调与美元信用替代争议.md#dollar-functions",
+      "why": "分别保留时期和覆盖"
+    },
+    {
+      "name": "财政付息负担与信用质量",
+      "operation": "inline",
+      "path": "30_events/gold/2026年1月黄金急涨回调与美元信用替代争议.md#policy",
+      "why": "比率与表述保留作者口径，不将15%设通用触发线"
+    },
+    {
+      "name": "1974及1979历史窗口",
+      "operation": "inline",
+      "path": "30_events/gold/2026年1月黄金急涨回调与美元信用替代争议.md#history",
+      "why": "保存作者窗口和差异，不作当前固定涨幅预测"
+    },
+    {
+      "name": "QT与金价",
+      "operation": "inline",
+      "path": "30_events/gold/2026年1月黄金急涨回调与美元信用替代争议.md#policy",
+      "why": "完整窗口与共同变化，不识别单一政策效应"
+    },
+    {
+      "name": "ETF一级申赎与二级成交",
+      "operation": "reuse",
+      "path": "10_concepts/ETF申赎与二级市场交易.md",
+      "why": "GLD引用共同基础及自身信托特征"
+    },
+    {
+      "name": "四因子拟合与政策三选二",
+      "operation": "inline",
+      "path": "30_events/gold/2026年1月黄金急涨回调与美元信用替代争议.md",
+      "why": "保存机构论证及条件，未注册为通用模型"
+    }
+  ],
+  "summary": "新增GLD具体产品子概念、完整事件和来源记录；修改黄金的存量比较历史、央行购金的分主体需求观察、美元储备多元化的TIC主体范围说明。新增图谱节点1，更新已有节点3。",
+  "reading": {
+    "figures_viewed": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33
+    ],
+    "article": "完整正文与元数据",
+    "external_sources": "GLD官方概览、SSGA产品风险部分、FAQ指定页；原中金完整研报未取得"
+  },
+  "model": "inherited_unverified",
+  "reasoning_effort": "inherited_unverified",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/SPDR黄金信托GLD.md",
+    "10_concepts/黄金.md",
+    "20_mechanisms/央行购金与黄金需求结构.md",
+    "20_mechanisms/美元信用与储备多元化.md",
+    "30_events/gold/2026年1月黄金急涨回调与美元信用替代争议.md",
+    "40_sources/S-WS-3764710.md"
+  ]
+}

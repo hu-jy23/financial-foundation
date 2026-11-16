@@ -1,0 +1,13 @@
+{
+  "sequence": 1,
+  "batch": 1,
+  "article_id": 3764710,
+  "title": "中金：黄金超过5500美元是一个重要分水岭",
+  "source_markdown": "materials/wallstreetcn/SourcePost/中金：黄金超过5500美元是一个重要分水岭/article.md",
+  "source_metadata": "materials/wallstreetcn/SourcePost/中金：黄金超过5500美元是一个重要分水岭/metadata.json",
+  "image_occurrences": 33,
+  "author_group": "中金",
+  "instructions": "workspaces/wallstreetcn_scaling/RUN_GUIDE.md",
+  "output_directory": "workspaces/wallstreetcn_scaling/articles/3764710",
+  "status": "reading"
+}

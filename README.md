@@ -14,3 +14,5 @@
 本轮整理与scaling测试使用分支`step2/wallstreetcn-scaling-20261116`。[三篇成品报告](workspaces/step2_articles/阅读报告.html)包含8个新对象、4个新关系及旧页更新，仍在独立工作区，未接入`graph/`。
 
 使用Git保存版本，不再复制整份项目生成v6、v7等工作目录。需要同时打开不同分支时使用`git worktree`。
+
+[Wallstreet Scaling执行报告](workspaces/wallstreetcn_scaling/报告.html)展示从三篇扩至30篇的当前采用结果及逐篇增量。

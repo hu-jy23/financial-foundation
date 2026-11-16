@@ -11,7 +11,7 @@ for kind,typ in [('concepts','concept'),('mechanisms','mechanism')]:
   p=G/f['path'];m=yaml.safe_load(p.read_text().split('---',2)[1]);id=m['id'];path='../'+f['path']
   item=old.get(id,{'id':id,'name':m['title'],'scope':f['why'],'priority':'P1','role':'domain_objects' if typ=='concept' else 'mechanisms','selection_status':'proposed_step2','selection_basis':'three_article_working_copy_20261113'})
   item.update(name=m['title'],status='pending',path=path,planned_path=path,catalog_anchor=id,catalog_ref=('CONCEPT_IMPORT_LIST.md' if typ=='concept' else 'MECHANISM_IMPORT_LIST.md')+'#'+id,editing_status='step2_draft')
-  for key in ['parent_ids','node_ids','related_mechanism_ids','logic_groups']:
+  for key in ['parent_ids','parent_relation','node_ids','related_mechanism_ids','logic_groups']:
    if key in m or key in f:item[key]=m.get(key,f.get(key))
   if id not in old:new.append(item)
  if new:d[kind].append({'code':'STEP2_DRAFT','title':'Step2工作副本拟新增条目','items':new,'role':'domain_objects' if typ=='concept' else 'mechanisms'})

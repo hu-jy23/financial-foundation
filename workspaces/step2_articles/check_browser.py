@@ -25,7 +25,7 @@ try:
  ev("document.querySelector('.document').open=false;true");report['collapse']=ev("!document.querySelector('.document').open")
  ev("document.querySelector('.document').open=true;true");report['expand']=ev("document.querySelector('.document').open")
  call('Emulation.setDeviceMetricsOverride',{'width':390,'height':844,'deviceScaleFactor':1,'mobile':True});ev('scrollTo(0,0);true');report['mobile_overflow']=ev('document.documentElement.scrollWidth>innerWidth');b=call('Page.captureScreenshot',{'format':'png'})['data'];Path('/tmp/step2-delivery-mobile.png').write_bytes(base64.b64decode(b))
- report['js_errors']=[e for e in events if e.get('method')=='Runtime.exceptionThrown'];report['passed']=(report['documents']==24 and report['images_loaded'] and report['collapse'] and report['expand'] and not report['desktop_overflow'] and not report['mobile_overflow'] and not report['js_errors'])
+ report['js_errors']=[e for e in events if e.get('method')=='Runtime.exceptionThrown'];report['passed']=(report['documents']==len({f['path'] for k in ['ai','korea','basis'] for f in json.loads((root/'deliveries'/f'{k}.json').read_text())['files']}) and report['images_loaded'] and report['collapse'] and report['expand'] and not report['desktop_overflow'] and not report['mobile_overflow'] and not report['js_errors'])
  (root/'browser_check.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps(report,ensure_ascii=False,indent=2))
 finally:
  if ws:ws.close()

@@ -1,0 +1,82 @@
+{
+  "case": "korea",
+  "article_id": 3784053,
+  "reviewed_on": "2026-11-16",
+  "agent": "/root/rule_korea",
+  "model": "inherited_unverified",
+  "reasoning_effort": "inherited_unverified",
+  "conclusion": "有实质解释增量，新增节点0；更新3份既有工作区成品。",
+  "increments": [
+    {
+      "name": "产业信息与当地承接的观察对照",
+      "path": "10_concepts/费城半导体指数SOX.md#observation-use",
+      "what_changed": "补经营数据如何进入股票定价，以及韩国本地订单如何形成另一条观察渠道。"
+    },
+    {
+      "name": "同一公司的经营主体与股票发行人双重角色",
+      "path": "20_mechanisms/KOSPI三大买盘与边际承接.md#company-roles",
+      "what_changed": "将三星/海力士的盈利研究和回购执行分别连接到经营、估值与订单；说明不同样本的现有图不能完成验证。"
+    }
+  ],
+  "files": [
+    {
+      "path": "10_concepts/费城半导体指数SOX.md",
+      "operation": "update",
+      "before_sha256": "860479b8f46e36dc75208a658ee0c06eab71ea4781078de286644b7f1e4e6bea",
+      "after_sha256": "3704b7cc7ef99dc5c97a60b2e22a3b6f39621480ef621decd94b28b0bf79b392",
+      "id": "C-S2-SOX",
+      "type": "concept",
+      "title": "费城半导体指数SOX",
+      "entry_kind": "concept"
+    },
+    {
+      "path": "20_mechanisms/KOSPI三大买盘与边际承接.md",
+      "operation": "update",
+      "before_sha256": "0c22c5e1d756c48c1c0f9faf3bd247161eff606a1a0637d45d164f29e9df3422",
+      "after_sha256": "12003072b8b72894bf0a153af79ec06c512bd3727b1a5a8298b4db1443244ebc",
+      "id": "R-S2-KOSPI-BUYERS",
+      "type": "mechanism",
+      "title": "KOSPI三大买盘与边际承接",
+      "entry_kind": "relation"
+    },
+    {
+      "path": "30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md",
+      "operation": "update",
+      "before_sha256": "51b3489de27d1c42cc39d7d8d3f0c6878fbd70cbe2f92222f2334a63ca1e3cd0",
+      "after_sha256": "a562a10fbd2743cf117c07fbabf337b1b1e8296a9a672a68c098c10faae21b57",
+      "id": "E-WS-3784053",
+      "type": "analysis_note",
+      "title": "韩国股市低估值与买盘收缩：2026年10月分析",
+      "entry_kind": "event"
+    }
+  ],
+  "new_files": [],
+  "not_adopted": [
+    {
+      "proposal": "三星或SK海力士公司子概念",
+      "reason": "当前目录无独立公司页，但已有HBM页承载相关产品知识；这篇文章只给回购状态及有限盈利转述，不足以建立独特公司观察页。保留在关系内文，未用prior补造企业差异。"
+    },
+    {
+      "proposal": "SOX/KOSPI改成子概念",
+      "reason": "观察用途不构成分类或实例继承，两页已有独立指数职责。"
+    },
+    {
+      "proposal": "韩国杠杆ETF产品子概念",
+      "reason": "图6仅分组汇总，没有具名产品、倍数或合同；现有产品页及机制已承载。"
+    }
+  ],
+  "evidence_as_of_unchanged": true,
+  "sources_read": [
+    "article.md及metadata.json",
+    "figure_001.png至figure_008.png",
+    "本篇9份现有成品",
+    "正式HBM与存储芯片页"
+  ],
+  "formal_graph_modified": false,
+  "checks": {
+    "local_links_checked": 48,
+    "broken_links": [],
+    "new_node_count": 0
+  },
+  "increment_nature": "解释与组织增量；未新增事实、节点或外部材料。"
+}

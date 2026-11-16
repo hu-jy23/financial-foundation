@@ -17,6 +17,9 @@ def fm(p):
  return {}
 formal_now={str(p.relative_to(formal)):digest(p) for p in formal.rglob('*') if p.is_file()}
 formal_changes=[s for s in set(formal_now)|set(baseline['files']) if formal_now.get(s)!=baseline['files'].get(s)]
+allowed=baseline.get('authorized_instruction_updates',{})
+authorized_changes=[s for s in formal_changes if formal_now.get(s)==allowed.get(s,{}).get('sha256')]
+unexpected_changes=[s for s in formal_changes if s not in authorized_changes]
 changed=[]
 for p in G.rglob('*'):
  if p.is_file() and digest(p)!=baseline['files'].get(str(p.relative_to(G))):changed.append(p)
@@ -54,6 +57,6 @@ for kind in ['concepts','mechanisms']:
     if nid not in known:issues.append({'catalog_item':x['id'],'unknown_node_id':nid})
    p=(G/'00_start'/x['path']).resolve() if x.get('path') else None
    if p and (not p.exists() or fm(p).get('id')!=x['id']):issues.append({'catalog_item':x['id'],'path_id_mismatch':x.get('path')})
-result={'formal_graph_unchanged':not formal_changes,'formal_changes':formal_changes,'changed_workspace_files':len(changed),'local_links_checked':checked,'issues':issues,'passed':not issues and not formal_changes}
+result={'formal_graph_unchanged':not formal_changes,'formal_changes':formal_changes,'authorized_instruction_changes':authorized_changes,'unexpected_formal_changes':unexpected_changes,'formal_knowledge_unchanged':not unexpected_changes,'changed_workspace_files':len(changed),'local_links_checked':checked,'issues':issues,'passed':not issues and not unexpected_changes}
 (R/'validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2))
 print(json.dumps(result,ensure_ascii=False,indent=2))

@@ -330,5 +330,19 @@
     "00_start/templates/SOURCE_NOTE_TEMPLATE.md": "b2586fe533a9895152f5cf2bf1d60658416ff87fce0dea132b258698f0af7d19"
   },
   "layout_migrated_on": "2026-11-16",
-  "previous_baseline_commit": "5a4744460ac44afdbce9e9d871af769c81a2e6f7"
+  "previous_baseline_commit": "5a4744460ac44afdbce9e9d871af769c81a2e6f7",
+  "authorized_instruction_updates": {
+    "00_start/NODE_SELECTION_GUIDE.md": {
+      "sha256": "5a0854e09995e1ed502f784be7a5378e90b82a47fb4e29a9f407b72806f1275a",
+      "reason": "2026-11-16 用户补充具体主体子概念及观察用途原则"
+    },
+    "00_start/AUTHORING_STANDARD.md": {
+      "sha256": "8d159a73fa7198208d881dbe8d58bb033178d71be3569eceae69cb3f341ed9de",
+      "reason": "2026-11-16 用户补充具体主体子概念及观察用途原则"
+    },
+    "00_start/templates/CONCEPT_TEMPLATE.md": {
+      "sha256": "aebfb11ed7fa10b5088c9411b3a4d86c1f73e3acef66bf25f84b5c8a481223c1",
+      "reason": "2026-11-16 用户补充具体主体子概念及观察用途原则"
+    }
+  }
 }

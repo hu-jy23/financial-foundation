@@ -1,0 +1,155 @@
+{
+  "article_id": 3784961,
+  "title": "中金：市场如何见底？",
+  "files": [
+    {
+      "path": "10_concepts/恒生指数与恒生科技指数.md",
+      "draft_path": "drafts/10_concepts/恒生指数与恒生科技指数.md",
+      "operation": "update",
+      "id": "C-ASIA-11",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "恒生指数与恒生科技指数",
+      "why": "增加2026年10月底业务构成与指数作为需求观察对象的解释，补两轮先后拐点案例；保留已有编制方法。"
+    },
+    {
+      "path": "10_concepts/IPO、再融资与退市.md",
+      "draft_path": "drafts/10_concepts/IPO、再融资与退市.md",
+      "operation": "update",
+      "id": "C-ASIA-09",
+      "type": "concept",
+      "entry_kind": "concept",
+      "title": "IPO、再融资与退市",
+      "why": "增加港股股权供给与市场拐点的时滞观察，区分募资、滚动口径及解禁和实际卖出，并记录转载/官方统计差异。"
+    },
+    {
+      "path": "20_mechanisms/高股息资产的债券替代效应.md",
+      "draft_path": "drafts/20_mechanisms/高股息资产的债券替代效应.md",
+      "operation": "update",
+      "id": "R-EQ-DIVIDEND",
+      "type": "mechanism",
+      "entry_kind": "relation",
+      "title": "高股息资产的债券替代效应",
+      "why": "在核心逻辑1内补2024年港股现金回报支持价格企稳的案例及2026回购预算变化，区分价格底与盈利/信用底。",
+      "node_ids": [
+        "C-ASIA-05",
+        "C-BOND-05",
+        "C-ASIA-06"
+      ],
+      "related_mechanism_ids": [],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-ASIA-05",
+            "C-BOND-05"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-ASIA-05",
+            "C-BOND-05",
+            "C-ASIA-06"
+          ],
+          "related_mechanism_ids": []
+        }
+      ]
+    },
+    {
+      "path": "30_events/markets/港股价格底、信用周期与股权供求：2026年11月观察.md",
+      "draft_path": "drafts/30_events/markets/港股价格底、信用周期与股权供求：2026年11月观察.md",
+      "operation": "new",
+      "id": "E-WS-3784961",
+      "type": "analysis_note",
+      "entry_kind": "event",
+      "title": "港股价格底、信用周期与股权供求：2026年11月观察",
+      "why": "完整保存32图、2024/2026底部条件比较、机构判断、指标与发行口径差异。"
+    },
+    {
+      "path": "40_sources/S-WS-3784961.md",
+      "draft_path": "drafts/40_sources/S-WS-3784961.md",
+      "operation": "new",
+      "id": "S-WS-3784961",
+      "type": "source_note",
+      "entry_kind": "source",
+      "title": "中金市场见底研究：来源与核读范围",
+      "why": "保存来源、实际阅读范围、32图定位及正文与原图/统计版本差异。"
+    }
+  ],
+  "coverage": [
+    {
+      "name": "港股/A股与离岸资金",
+      "decision": "reuse",
+      "path": "10_concepts/港股市场.md"
+    },
+    {
+      "name": "恒生指数与恒生科技指数",
+      "decision": "update",
+      "path": "10_concepts/恒生指数与恒生科技指数.md#ws3784961-exposure"
+    },
+    {
+      "name": "ERP、前瞻PE与EPS",
+      "decision": "reuse",
+      "path": "10_concepts/股权风险溢价ERP.md"
+    },
+    {
+      "name": "居民信用脉冲与财政传导",
+      "decision": "reuse",
+      "path": "20_mechanisms/社融结构、信用脉冲与实体需求.md"
+    },
+    {
+      "name": "分红与回购的现金回报承接",
+      "decision": "update",
+      "path": "20_mechanisms/高股息资产的债券替代效应.md#ws3784961-shareholder-return"
+    },
+    {
+      "name": "股息率及高股息指数",
+      "decision": "reuse",
+      "path": "10_concepts/红利资产与高股息指数.md"
+    },
+    {
+      "name": "IPO、再融资与解禁",
+      "decision": "update",
+      "path": "10_concepts/IPO、再融资与退市.md#ws3784961-equity-supply"
+    },
+    {
+      "name": "南向与海外配置",
+      "decision": "reuse",
+      "path": "10_concepts/沪深港通与南北向资金.md"
+    },
+    {
+      "name": "腾讯回购与经营主体",
+      "decision": "reuse",
+      "path": "10_concepts/腾讯.md"
+    },
+    {
+      "name": "阿里巴巴回购",
+      "decision": "reuse",
+      "path": "10_concepts/阿里巴巴.md"
+    },
+    {
+      "name": "价格底与信用/盈利底及三年周期",
+      "decision": "inline",
+      "path": "30_events/markets/港股价格底、信用周期与股权供求：2026年11月观察.md#expectations"
+    }
+  ],
+  "summary": "新增事件分析与来源记录各1；不新增概念或关系节点。更新恒指与恒科的观察暴露、高股息机制的2024价格企稳案例及IPO页的融资/解禁时滞。",
+  "new_nodes": 0,
+  "read_scope": {
+    "article": "完整正文、元数据",
+    "figures": 32,
+    "new_external_sources": 0,
+    "old_sources": "相关旧页的来源记录已读，未全部重核其外部正文"
+  },
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "10_concepts/恒生指数与恒生科技指数.md",
+    "10_concepts/IPO、再融资与退市.md",
+    "20_mechanisms/高股息资产的债券替代效应.md",
+    "30_events/markets/港股价格底、信用周期与股权供求：2026年11月观察.md",
+    "40_sources/S-WS-3784961.md"
+  ]
+}

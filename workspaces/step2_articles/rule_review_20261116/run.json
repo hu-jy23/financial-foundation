@@ -1,0 +1,30 @@
+{
+  "date": "2026-11-16",
+  "agents": {
+    "ai": "/root/rule_ai",
+    "korea": "/root/rule_korea",
+    "basis": "/root/rule_basis"
+  },
+  "context": "full_inheritance",
+  "model": "inherited_unverified",
+  "rules": {
+    "graph/00_start/NODE_SELECTION_GUIDE.md": "5a0854e09995e1ed502f784be7a5378e90b82a47fb4e29a9f407b72806f1275a",
+    "graph/00_start/AUTHORING_STANDARD.md": "8d159a73fa7198208d881dbe8d58bb033178d71be3569eceae69cb3f341ed9de",
+    "graph/00_start/templates/CONCEPT_TEMPLATE.md": "aebfb11ed7fa10b5088c9411b3a4d86c1f73e3acef66bf25f84b5c8a481223c1",
+    "materials/wallstreetcn/维护/ARTICLE_AUTHORING_CHARTER.md": "f273ec614da0802d2c7e7056eab9f4aa73cdcfeafb01c333f828cd9b2dba79ef"
+  },
+  "prior_change_excluded": "CoreWeave已在本轮前转为云服务下具体主体子概念；不重复计入本轮增量。",
+  "status": "complete",
+  "changed_documents": [
+    "graph/10_concepts/AI相关企业CDS.md",
+    "graph/10_concepts/NVIDIA.md",
+    "graph/10_concepts/费城半导体指数SOX.md",
+    "graph/20_mechanisms/KOSPI三大买盘与边际承接.md",
+    "graph/20_mechanisms/基差交易.md",
+    "graph/30_events/AI融资扩张中的CDS价格分化：2026年10月.md",
+    "graph/40_sources/S-WS-3744871.md",
+    "graph/30_events/basis/2025年4月美债基差交易风险讨论.md",
+    "graph/30_events/markets/韩国股市低估值与买盘收缩：2026年10月分析.md"
+  ],
+  "reviewed_by": "/root"
+}

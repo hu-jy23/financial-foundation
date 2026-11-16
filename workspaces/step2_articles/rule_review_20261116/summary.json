@@ -1,0 +1,55 @@
+{
+  "date": "2026-11-16",
+  "new_nodes": 0,
+  "changed_documents": 9,
+  "rows": [
+    {
+      "case": "ai",
+      "name": "AI CDS",
+      "summary": "具名主体分别观察客户信用责任、跨工具承接与期限需求；英伟达旧页补入10月信用历史，连接设备部署与融资风险。",
+      "targets": [
+        {
+          "name": "主体观察对照",
+          "path": "10_concepts/AI相关企业CDS.md",
+          "anchor": "subject-observation"
+        },
+        {
+          "name": "英伟达补录",
+          "path": "10_concepts/NVIDIA.md",
+          "anchor": "credit-observation-202610"
+        }
+      ]
+    },
+    {
+      "case": "korea",
+      "name": "韩国股市",
+      "summary": "分开对照产业经营信息与韩国当地承接；区分三星、海力士的经营主体和回购发行人角色。",
+      "targets": [
+        {
+          "name": "产业与当地承接",
+          "path": "10_concepts/费城半导体指数SOX.md",
+          "anchor": "observation-use"
+        },
+        {
+          "name": "经营与回购双重角色",
+          "path": "20_mechanisms/KOSPI三大买盘与边际承接.md",
+          "anchor": "company-roles"
+        }
+      ]
+    },
+    {
+      "case": "basis",
+      "name": "美债基差交易",
+      "summary": "联合观察资管久期需求、基金融资持券及交易商库存与客户融资；交易商期货净头寸小仍可有大量中介活动。",
+      "targets": [
+        {
+          "name": "三类参与者的观察用途",
+          "path": "20_mechanisms/基差交易.md",
+          "anchor": "participant-observation"
+        }
+      ]
+    }
+  ],
+  "prior_change_excluded": "CoreWeave此前的子概念调整不计入本轮增量。",
+  "reviewed_by": "/root"
+}

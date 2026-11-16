@@ -1,0 +1,44 @@
+{
+  "case": "ai",
+  "article_id": 3784900,
+  "new_nodes": 0,
+  "updated_files": [
+    {
+      "path": "10_concepts/AI相关企业CDS.md",
+      "operation": "update"
+    },
+    {
+      "path": "10_concepts/NVIDIA.md",
+      "operation": "update"
+    },
+    {
+      "path": "30_events/AI融资扩张中的CDS价格分化：2026年10月.md",
+      "operation": "update"
+    }
+  ],
+  "delivery_file": "deliveries/ai.json",
+  "conclusions": [
+    "新增具名主体的观察链条对照。",
+    "NVIDIA既有页补本篇信用历史及观察用途。",
+    "CoreWeave此前已完成的调整不重复计增量。"
+  ],
+  "not_adopted": [
+    {
+      "candidate": "为十个报价名称逐一新建公司子概念",
+      "reason": "本篇对多数主体只提供报价和零散判断，缺少独立经营结构；相互比较可以在专题页承载。"
+    },
+    {
+      "candidate": "将NVIDIA迁到GPU下作为设备实例",
+      "reason": "公司与设备类型关系不成立，复用现有稳定ID，不在此批量迁移层级。"
+    },
+    {
+      "candidate": "把SPCX识别为某家企业并注册",
+      "reason": "未核参考实体法律身份；本轮只保留图示名称。"
+    }
+  ],
+  "read_scope": {
+    "article": "完整正文与9张原图",
+    "current_deliveries": "AI篇原12份成品及既有NVIDIA正文",
+    "external_recheck": "未新增外部核验；已有外部来源的已读说明沿原稿。"
+  }
+}

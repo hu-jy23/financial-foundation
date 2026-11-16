@@ -1,0 +1,108 @@
+{
+  "case": "basis",
+  "article_id": 3744871,
+  "conclusion": "有观察用途与跨主体联合判断的解释增量，无新增节点",
+  "new_nodes": 0,
+  "files": [
+    {
+      "path": "20_mechanisms/基差交易.md",
+      "operation": "update",
+      "id": "R-DERIVATIVES-02",
+      "type": "mechanism",
+      "title": "基差交易",
+      "why": "保留既有交易与融资逻辑，补三主体分工及观察中介依赖的链条、2025年4月历史、交易商跨业务占用和对冲式购债提案。",
+      "node_ids": [
+        "C-DERIV-15",
+        "C-DERIV-14",
+        "C-CREDIT-10",
+        "C-MONEY-10",
+        "C-LIQ-FUND",
+        "C-SECTOR-03",
+        "C-CREDIT-02",
+        "C-LIQ-MARKET",
+        "C-ASSET-UST",
+        "C-MONEY-CBBS",
+        "C-POL-QE"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-DERIV-15",
+            "C-MONEY-10",
+            "C-CREDIT-10",
+            "C-DERIV-14"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-DERIV-15",
+            "C-DERIV-14",
+            "C-CREDIT-10",
+            "C-MONEY-10",
+            "C-LIQ-FUND"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-SECTOR-03",
+            "C-CREDIT-02",
+            "C-LIQ-FUND",
+            "C-LIQ-MARKET",
+            "C-ASSET-UST"
+          ],
+          "related_mechanism_ids": [
+            "R-LIQ-SPIRAL"
+          ]
+        },
+        {
+          "anchor": "logic-4",
+          "node_ids": [
+            "C-MONEY-CBBS",
+            "C-POL-QE",
+            "C-ASSET-UST",
+            "C-DERIV-15",
+            "C-DERIV-14",
+            "C-LIQ-FUND"
+          ],
+          "related_mechanism_ids": []
+        }
+      ],
+      "related_mechanism_ids": [
+        "R-LIQ-SPIRAL"
+      ],
+      "entry_kind": "relation"
+    },
+    {
+      "path": "30_events/basis/2025年4月美债基差交易风险讨论.md",
+      "operation": "update",
+      "id": "E-WS-3744871",
+      "type": "analysis_note",
+      "title": "2025年4月美债基差交易风险讨论",
+      "why": "集中维护该篇共同情境、全部原图、重要历史数字、回归读数及当时判断。",
+      "entry_kind": "event"
+    },
+    {
+      "path": "40_sources/S-WS-3744871.md",
+      "operation": "update",
+      "id": "S-WS-3744871",
+      "type": "source_note",
+      "title": "华尔街见闻：基差交易与美债市场脆弱性",
+      "why": "保存出处、实际核读范围、本地原文和图表入口及关键未核范围。",
+      "entry_kind": "source"
+    }
+  ],
+  "adopted": [
+    "三类参与者的观察链条",
+    "交易商净期货头寸不涵盖全部库存与融资中介活动"
+  ],
+  "not_adopted": [
+    "三类角色单独注册为具体主体",
+    "仅凭图示名称新建FICC或CME主体页",
+    "将政策提案当作已实施制度"
+  ]
+}

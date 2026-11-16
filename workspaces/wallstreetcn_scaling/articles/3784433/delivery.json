@@ -1,0 +1,179 @@
+{
+  "article_id": 3784433,
+  "title": "中金：AI从传统需求的“朋友”到“敌人”？",
+  "files": [
+    {
+      "id": "R-WS-3784433-CROWDOUT",
+      "type": "mechanism",
+      "title": "投资扩张的资源挤出与政策约束",
+      "path": "20_mechanisms/投资扩张的资源挤出与政策约束.md",
+      "draft_path": "drafts/20_mechanisms/投资扩张的资源挤出与政策约束.md",
+      "operation": "new",
+      "entry_kind": "relation",
+      "why": "新建实物资源、融资承接和政策取舍三条逻辑，各附历史与有归属预期。",
+      "node_ids": [
+        "C-TECH-03",
+        "C-TECH-04",
+        "C-TECH-05",
+        "C-INF-INFLATION",
+        "C-CREDIT-SPREAD",
+        "C-CREDIT-02",
+        "C-ASSET-UST",
+        "C-IR-POLICY",
+        "C-CHINA-02"
+      ],
+      "logic_groups": [
+        {
+          "anchor": "logic-1",
+          "node_ids": [
+            "C-TECH-03",
+            "C-TECH-04",
+            "C-TECH-05",
+            "C-INF-INFLATION"
+          ],
+          "related_mechanism_ids": []
+        },
+        {
+          "anchor": "logic-2",
+          "node_ids": [
+            "C-TECH-03",
+            "C-CREDIT-SPREAD",
+            "C-CREDIT-02",
+            "C-ASSET-UST"
+          ],
+          "related_mechanism_ids": [
+            "R-BANKING-01",
+            "R-FISCAL-LONGYIELD"
+          ]
+        },
+        {
+          "anchor": "logic-3",
+          "node_ids": [
+            "C-TECH-03",
+            "C-IR-POLICY",
+            "C-INF-INFLATION",
+            "C-CHINA-02"
+          ],
+          "related_mechanism_ids": []
+        }
+      ],
+      "related_mechanism_ids": [
+        "R-BANKING-01",
+        "R-FISCAL-LONGYIELD"
+      ]
+    },
+    {
+      "id": "C-TECH-03",
+      "type": "concept",
+      "title": "云服务与超大规模云厂商",
+      "path": "10_concepts/云服务与超大规模云厂商.md",
+      "draft_path": "drafts/10_concepts/云服务与超大规模云厂商.md",
+      "operation": "update",
+      "entry_kind": "concept",
+      "why": "补ROIC/WACC与现金缺口解释，保存10月26日作者样本及合计/单体区别；保留旧年度表和10月31日证据。"
+    },
+    {
+      "id": "E-WS-3784433",
+      "type": "analysis_note",
+      "title": "AI投资扩张与传统需求挤出争论：2026年10月",
+      "path": "30_events/AI投资扩张与传统需求挤出争论：2026年10月.md",
+      "draft_path": "drafts/30_events/AI投资扩张与传统需求挤出争论：2026年10月.md",
+      "operation": "new",
+      "entry_kind": "event",
+      "why": "保存文章完整问题、中美差异、正负渠道、全部27图及作者临界值的条件身份。"
+    },
+    {
+      "id": "S-WS-3784433",
+      "type": "source_note",
+      "title": "华尔街见闻：AI投资扩张与传统需求挤出",
+      "path": "40_sources/S-WS-3784433.md",
+      "draft_path": "drafts/40_sources/S-WS-3784433.md",
+      "operation": "new",
+      "entry_kind": "source",
+      "why": "登记转载、27图核读范围、采用位置及未另行核读的原始数据/研究。"
+    }
+  ],
+  "coverage": [
+    {
+      "name": "ROIC与WACC",
+      "operation": "inline",
+      "path": "10_concepts/云服务与超大规模云厂商.md#investment-return-financing",
+      "why": "讲清集团回报、资本成本与边际AI项目回报，不新建财务指标。"
+    },
+    {
+      "name": "经营现金流、资本开支与自由现金流",
+      "operation": "update",
+      "path": "10_concepts/云服务与超大规模云厂商.md#investment-return-financing",
+      "why": "保留原财务口径，补合计/单体及新增融资并不等同现金缺口。"
+    },
+    {
+      "name": "作者AI生产/基建/应用/其他部门",
+      "operation": "inline",
+      "path": "30_events/AI投资扩张与传统需求挤出争论：2026年10月.md#sectors",
+      "why": "是本篇研究划分，不注册永久对象。"
+    },
+    {
+      "name": "财富效应、生产率、知识外溢与消费者剩余",
+      "operation": "inline",
+      "path": "30_events/AI投资扩张与传统需求挤出争论：2026年10月.md#benefits",
+      "why": "解释正向效应，区分图10工资响应与文中消费系数。"
+    },
+    {
+      "name": "AI实物资源挤出",
+      "operation": "new",
+      "path": "20_mechanisms/投资扩张的资源挤出与政策约束.md#logic-1",
+      "why": "解释短期供给弹性、成本承受者及供给扩张改变净效果。"
+    },
+    {
+      "name": "融资价格与数量挤出",
+      "operation": "new",
+      "path": "20_mechanisms/投资扩张的资源挤出与政策约束.md#logic-2",
+      "why": "分别解释投资者承接与银行约束；保存非科技净融资仍正的反向证据。"
+    },
+    {
+      "name": "部门分化与政策取舍",
+      "operation": "new",
+      "path": "20_mechanisms/投资扩张的资源挤出与政策约束.md#logic-3",
+      "why": "区分统一利率和定向财政信贷安排，附作者判断与本库条件推演。"
+    },
+    {
+      "name": "CoreWeave、NVIDIA等具体主体",
+      "operation": "reuse",
+      "path": "10_concepts/CoreWeave.md",
+      "why": "复用现成主体页；本篇没有足够独特公司材料另造节点。"
+    },
+    {
+      "name": "模型效率与总算力需求",
+      "operation": "reuse",
+      "path": "20_mechanisms/模型效率、推理成本与总算力需求.md",
+      "why": "复用已有技术效率解释。"
+    },
+    {
+      "name": "银行信贷资本约束",
+      "operation": "reuse",
+      "path": "20_mechanisms/银行信贷的资本约束.md",
+      "why": "保留银行创造存款与资本/风险约束，不引入固定资金池。"
+    },
+    {
+      "name": "作者利率与成本临界测算",
+      "operation": "inline",
+      "path": "30_events/AI投资扩张与传统需求挤出争论：2026年10月.md#scenarios",
+      "why": "保存当时条件与结果，未复现或登记作者专用模型。"
+    },
+    {
+      "name": "就业变化与AI替代解释",
+      "operation": "inline",
+      "path": "30_events/AI投资扩张与传统需求挤出争论：2026年10月.md#policy",
+      "why": "保存行业变化及作者解释，未把共变改成独立因果识别。"
+    }
+  ],
+  "summary": "新增1个关系条目《投资扩张的资源挤出与政策约束》，更新云服务页的资本回报、资本成本和现金缺口解释；新增1篇完整事件、1份Source。新增概念0，新增子概念0；不引入作者专用阈值模型。",
+  "review_status": "adopted",
+  "reviewed_by": "/root",
+  "integrated_files": [
+    "20_mechanisms/投资扩张的资源挤出与政策约束.md",
+    "10_concepts/云服务与超大规模云厂商.md",
+    "30_events/AI投资扩张与传统需求挤出争论：2026年10月.md",
+    "40_sources/S-WS-3784433.md"
+  ]
+}

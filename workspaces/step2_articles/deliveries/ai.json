@@ -37,8 +37,12 @@
       "id": "C-S2-COREWEAVE",
       "type": "concept",
       "title": "CoreWeave",
-      "why": "具体公司需要统一积累经营与信用价格历史，避免只在upfront读数旁出现。",
-      "entry_kind": "concept"
+      "why": "云服务下的具体主体子概念，积累经营、融资及信用价格历史，研究其对AI融资条件的观察意义。",
+      "entry_kind": "subconcept",
+      "parent_ids": [
+        "C-TECH-03"
+      ],
+      "parent_relation": "concrete_subject"
     },
     {
       "path": "10_concepts/AI相关企业CDS.md",
@@ -167,6 +171,15 @@
       "title": "云服务与超大规模云厂商",
       "why": "补供应商信用责任与AI CDS、CoreWeave入口；不重写既有经营及财务比较。",
       "entry_kind": "concept"
+    },
+    {
+      "path": "10_concepts/NVIDIA.md",
+      "operation": "update",
+      "id": "C-TECH-17",
+      "type": "concept",
+      "title": "NVIDIA",
+      "why": "复用既有公司条目，补10月CDS及基差历史，将采购部署兑现与供应商信用、保护承接联系起来。",
+      "entry_kind": "concept"
     }
   ],
   "coverage": [
@@ -234,7 +247,7 @@
       "name": "CoreWeave与新型算力租赁商",
       "decision": "new",
       "path": "10_concepts/CoreWeave.md",
-      "why": "公司经营融资及价格历史统一积累"
+      "why": "作为云服务下的具体主体子概念，保存经营与融资历史及观察AI融资条件的用途。"
     },
     {
       "name": "信用评级与投资级／高收益",
@@ -314,5 +327,14 @@
     "CDS及基差父项关系分别注明专题集合与工具细分类；没有把信用基差交易当成现券期货机制子项。",
     "事件保留全部9图与关键数字，新闻公司交易数据未全面核原合同；完整巴克莱研报未取得。",
     "外部访问首次web工具连接失败，使用可用search_service成功定向补读；不影响本地原件。"
-  ]
+  ],
+  "rule_review_20261116": {
+    "new_nodes": 0,
+    "updated_documents": [
+      "10_concepts/AI相关企业CDS.md",
+      "10_concepts/NVIDIA.md",
+      "30_events/AI融资扩张中的CDS价格分化：2026年10月.md"
+    ],
+    "preexisting_adjustment": "CoreWeave子概念及云服务父项由主agent此前完成，本轮不重复计入增量。"
+  }
 }
