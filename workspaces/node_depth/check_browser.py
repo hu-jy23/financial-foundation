@@ -25,7 +25,11 @@ try:
   if ev('[...document.images].every(x=>x.complete&&x.naturalWidth>0)'):break
   time.sleep(.1)
  report={'documents':ev("document.querySelectorAll('.document').length"),'desktop_overflow':ev('document.documentElement.scrollWidth>innerWidth'),'images':ev('document.images.length'),'images_loaded':ev('[...document.images].every(x=>x.complete&&x.naturalWidth>0)')}
+ report['diff_colors']=ev("(()=>{const add=document.querySelector('#draft-0 .draft-body .diff-add'),mod=document.querySelector('#draft-0 .diff-mod'),old=document.querySelector('#draft-0 .draft-body h1');return !!(add&&mod)&&new Set([getComputedStyle(add).color,getComputedStyle(mod).color,getComputedStyle(old).color]).size===3})()")
+ report['new_entries_marked']=ev("document.querySelectorAll('.new-entry.diff-add').length===2")
+ report['retired_default_folded']=ev("[...document.querySelectorAll('.diff-removals')].every(x=>!x.open)")
  b=call('Page.captureScreenshot',{'format':'png'})['data'];Path('/tmp/node-depth-desktop.png').write_bytes(base64.b64decode(b))
+ ev("document.querySelector('#draft-0 .draft-body h1').scrollIntoView();true");b=call('Page.captureScreenshot',{'format':'png'})['data'];Path('/tmp/node-depth-diff.png').write_bytes(base64.b64decode(b));ev('scrollTo(0,0);true')
  ev("document.querySelector('.document').open=false;true");report['collapse']=ev("!document.querySelector('.document').open")
  ev("document.querySelector('.document').open=true;true");report['expand']=ev("document.querySelector('.document').open")
  call('Emulation.setDeviceMetricsOverride',{'width':390,'height':844,'deviceScaleFactor':1,'mobile':True});ev('scrollTo(0,0);true');report['mobile_overflow']=ev('document.documentElement.scrollWidth>innerWidth');b=call('Page.captureScreenshot',{'format':'png'})['data'];Path('/tmp/node-depth-mobile.png').write_bytes(base64.b64decode(b))
@@ -33,7 +37,7 @@ try:
  ev("location.hash='draft-3--h02';true")
  time.sleep(.2)
  report['source_anchor_opens_card']=ev("document.getElementById('draft-3').open && document.getElementById('draft-3--h02').getBoundingClientRect().top>=-2 && document.getElementById('draft-3--h02').getBoundingClientRect().top<innerHeight")
- report['js_errors']=[e for e in events if e.get('method')=='Runtime.exceptionThrown'];report['passed']=(report['documents']==5 and report['source_anchor_opens_card'] and report['images_loaded'] and report['collapse'] and report['expand'] and not report['desktop_overflow'] and not report['mobile_overflow'] and not report['js_errors'])
+ report['js_errors']=[e for e in events if e.get('method')=='Runtime.exceptionThrown'];report['passed']=(report['documents']==5 and report['diff_colors'] and report['new_entries_marked'] and report['retired_default_folded'] and report['source_anchor_opens_card'] and report['images_loaded'] and report['collapse'] and report['expand'] and not report['desktop_overflow'] and not report['mobile_overflow'] and not report['js_errors'])
  (root/'browser_check.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps(report,ensure_ascii=False,indent=2))
 finally:
  if ws:ws.close()

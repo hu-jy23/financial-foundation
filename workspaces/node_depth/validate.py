@@ -6,6 +6,7 @@ from collections import Counter
 import hashlib, json, os, re, subprocess
 import yaml
 from markdown_it import MarkdownIt
+from bs4 import BeautifulSoup
 
 R=Path(__file__).resolve().parent;ROOT=R.parents[1];G=ROOT/'graph';P=R/'cds_pilot'
 md=MarkdownIt('commonmark',{'html':True}).enable('table');issues=[];links=0
@@ -79,9 +80,18 @@ for x in claims:
 for p in R.rglob('*.md'):
  scan(p,G/p.relative_to(P/'drafts') if p.is_relative_to(P/'drafts') else None)
 scan(R/'报告.html');scan(ROOT/'materials/historical/node_depth/CDS/README.md')
+report=BeautifulSoup((R/'报告.html').read_text(),'html.parser')
+for x in delivery['files']:
+ card=next(c for c in report.select('[data-diff-kind]') if c.select_one('p.file a')['href']==os.path.relpath(ROOT/x['draft_path'],R))
+ raw=(ROOT/x['draft_path']).read_text().split('---',2)[2]
+ check(card.select_one('.draft-body').get_text()==BeautifulSoup(md.render(raw),'html.parser').get_text(),{'diff_altered_draft_text':x['path']})
+check(not report.select_one('#draft-0 .draft-body h1').get('class'),'unchanged_CDS_title_marked')
+check(len(report.select('.new-entry.diff-add'))==2,'new_entries_not_marked')
+check(bool(report.select('#draft-0 .diff-mod')) and bool(report.select('#draft-1 .draft-body .diff-add')),'modified_or_added_content_not_marked')
+check(all(not x.has_attr('open') for x in report.select('.diff-removals')),'retired_content_not_folded')
 changed=git('diff','--name-only',selection['input_graph_commit'],'--','graph').splitlines()
 tracked=set(git('ls-tree','-r','--name-only',selection['input_graph_commit'],'--','graph').splitlines())
 actual={str(p.relative_to(ROOT)) for p in G.rglob('*') if p.is_file()}
 check(not changed and actual==tracked,{'formal_graph_changed':changed,'added_or_removed':sorted(actual^tracked)})
-result={'passed':not issues,'pilot_drafts':4,'adopted_sources':len(adopted),'key_claims':len(claims),'concept_tasks':15,'mechanism_tasks':5,'pending_user_review':1,'unstarted_tasks':19,'local_links_checked':links,'formal_graph_files_unchanged':len(tracked),'issues':issues}
+result={'passed':not issues,'pilot_drafts':4,'adopted_sources':len(adopted),'key_claims':len(claims),'concept_tasks':15,'mechanism_tasks':5,'pending_user_review':1,'unstarted_tasks':19,'local_links_checked':links,'diff_body_text_preserved':not any(isinstance(x,dict) and 'diff_altered_draft_text' in x for x in issues),'formal_graph_files_unchanged':len(tracked),'issues':issues}
 (R/'validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n');print(json.dumps(result,ensure_ascii=False,indent=2));raise SystemExit(bool(issues))
