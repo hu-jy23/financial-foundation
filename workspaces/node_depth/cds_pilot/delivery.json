@@ -10,30 +10,51 @@
     "existing_total": 275,
     "new_concept": 0,
     "new_mechanism": 0,
-    "modified_existing_nodes": 2,
+    "modified_existing_nodes": 3,
+    "modified_existing_events": 1,
     "new_event_collections": 1,
+    "new_analysis_notes": 1,
     "new_source_notes": 1
   },
   "base_snapshot": "workspaces/node_depth/cds_pilot/base.json",
   "files": [
     {
       "operation": "modify",
+      "id": "C-S2-AI-CDS",
+      "type": "concept",
+      "path": "10_concepts/AI相关企业CDS.md",
+      "reason": "将AI历史比较放回AI专题，由本页链接到AI事件、危机共同入口和CDS专题。",
+      "evidence_claims": [
+        "CDS-H026"
+      ],
+      "draft_path": "workspaces/node_depth/cds_pilot/drafts/10_concepts/AI相关企业CDS.md",
+      "target_path": "graph/10_concepts/AI相关企业CDS.md",
+      "draft_sha256": "1a79b1bf4d1db57a0f3020a5be4ed80c12291a9d6e99382a2b12fef24da36763",
+      "base_sha256": "88410ab1ce57abddfd15b9a8c8b9b3d130b1efbf96211dfc32c90bf2c1bfe038",
+      "baseline_author_preserved": true,
+      "original_sources_and_later_evidence_preserved": true
+    },
+    {
+      "operation": "modify",
       "id": "C-S2-CDS",
       "type": "concept",
       "path": "10_concepts/信用违约互换CDS.md",
-      "reason": "补足工具定义对结构化历史用途的范围，增加AIG现金约束、合成暴露和雷曼结算历史解释，保留AI较晚证据。",
+      "reason": "保留工具与历史增量，连接危机共同入口，并将AI比较指向AI事件。",
       "evidence_claims": [
         "CDS-H001",
         "CDS-H003",
         "CDS-H004",
         "CDS-H009",
+        "CDS-H011",
         "CDS-H018",
         "CDS-H020",
-        "CDS-H025"
+        "CDS-H023",
+        "CDS-H025",
+        "CDS-H027"
       ],
       "draft_path": "workspaces/node_depth/cds_pilot/drafts/10_concepts/信用违约互换CDS.md",
       "target_path": "graph/10_concepts/信用违约互换CDS.md",
-      "draft_sha256": "72f0060927ab2ce95289e35586b9ddf624993563826729cfe2c8c078aa5e1ff1",
+      "draft_sha256": "4097d71e19fa9a4637525652fdf4bbdb7c0227df519a29ca864bcde78c41f498",
       "base_sha256": "032db38317f93921e7c8d4c32667754852f8172aa6240166f97dee2cb5af0011",
       "baseline_author_preserved": true,
       "original_sources_and_later_evidence_preserved": true
@@ -43,7 +64,7 @@
       "id": "R-BANKING-09",
       "type": "mechanism",
       "path": "20_mechanisms/证券化中的风险转移与激励.md",
-      "reason": "逻辑3补入风险转移后依赖保护卖方履约和现金准备的AIG实例，与2026年SRT区别范围。",
+      "reason": "保留AIG历史段及与2026年SRT的适用范围区分。",
       "evidence_claims": [
         "CDS-H004",
         "CDS-H015",
@@ -51,17 +72,33 @@
       ],
       "draft_path": "workspaces/node_depth/cds_pilot/drafts/20_mechanisms/证券化中的风险转移与激励.md",
       "target_path": "graph/20_mechanisms/证券化中的风险转移与激励.md",
-      "draft_sha256": "a054837b985d65b5e33b49c356d6f0132cf5bbaf87232c3bfd7a0ccf4006a7b5",
+      "draft_sha256": "21a779d37958a4bf1436ebc75b315fb1760727a86da75731b7fca6d945acc5cb",
       "base_sha256": "f2b9a7c099aeaf4feb275b6d989fa4947db79fc9f8fb34950584c94aa529ff77",
+      "baseline_author_preserved": true,
+      "original_sources_and_later_evidence_preserved": true
+    },
+    {
+      "operation": "modify",
+      "id": "E-WS-3784900",
+      "type": "analysis_note",
+      "path": "30_events/AI融资扩张中的CDS价格分化：2026年10月.md",
+      "reason": "接入从CDS专题迁出的2008年历史比较，保留原有AI分析与时间边界。",
+      "evidence_claims": [
+        "CDS-H026"
+      ],
+      "draft_path": "workspaces/node_depth/cds_pilot/drafts/30_events/AI融资扩张中的CDS价格分化：2026年10月.md",
+      "target_path": "graph/30_events/AI融资扩张中的CDS价格分化：2026年10月.md",
+      "draft_sha256": "51e885f6b5a61a85e0e2f2f5f3762dc1f4cac0503786bb3d761f47c10bcde5a8",
+      "base_sha256": "559ab1876745474c16b7107b642b1150e77427d8e9023733b18902b3aac7e85d",
       "baseline_author_preserved": true,
       "original_sources_and_later_evidence_preserved": true
     },
     {
       "operation": "create",
       "id": "E-HIST-CDS-2007-2009",
-      "type": "event_collection",
+      "type": "analysis_note",
       "path": "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md",
-      "reason": "共同维护信用风险复制、AIG现金压力、雷曼结算、政策争议及AI类比，避免相邻节点复制危机简史。",
+      "reason": "新增CDS历史专题；补入2007年判断、追缴与付款转折；AI比较迁至AI事件，核读范围归入Source。",
       "evidence_claims": [
         "CDS-H001",
         "CDS-H002",
@@ -88,20 +125,40 @@
         "CDS-H023",
         "CDS-H024",
         "CDS-H025",
-        "CDS-H026",
         "CDS-H027",
-        "CDS-H028"
+        "CDS-H028",
+        "CDS-H029",
+        "CDS-H030",
+        "CDS-H031",
+        "CDS-H032",
+        "CDS-H033"
       ],
       "draft_path": "workspaces/node_depth/cds_pilot/drafts/30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md",
       "target_path": "graph/30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md",
-      "draft_sha256": "b08215637b8d59ea1b19b3e86e60c2633202eedf56bcd3c46bb73902f7276b57"
+      "draft_sha256": "adcb42c831c6ac2d8cf2f79cc0191b2d6bc02234ed8fd2e3d2b00cb586f72e1a"
+    },
+    {
+      "operation": "create",
+      "id": "E-HIST-FINANCIAL-CRISIS-2007-2009",
+      "type": "event_collection",
+      "path": "30_events/次贷危机与全球金融危机：2007—2009年.md",
+      "reason": "新建有实质背景与阶段的危机共同入口，CDS作为专题接入。",
+      "evidence_claims": [
+        "CDS-H034",
+        "CDS-H035",
+        "CDS-H036",
+        "CDS-H037"
+      ],
+      "draft_path": "workspaces/node_depth/cds_pilot/drafts/30_events/次贷危机与全球金融危机：2007—2009年.md",
+      "target_path": "graph/30_events/次贷危机与全球金融危机：2007—2009年.md",
+      "draft_sha256": "8ff6d8d758ada0580292d38027803b98c38a348ecc2c5fc4495e119e5457a6fd"
     },
     {
       "operation": "create",
       "id": "S-HIST-CDS-CRISIS-20261117",
       "type": "source_note",
       "path": "40_sources/S-HIST-CDS-CRISIS.md",
-      "reason": "记录9项采用原始材料及实际已读范围，区分史实、作者意见、本库解释和未读材料。",
+      "reason": "汇集14项采用原文、具体阅读范围、当时表态与后见调查的归属。",
       "evidence_claims": [
         "CDS-H001",
         "CDS-H002",
@@ -130,12 +187,32 @@
         "CDS-H025",
         "CDS-H026",
         "CDS-H027",
-        "CDS-H028"
+        "CDS-H028",
+        "CDS-H029",
+        "CDS-H030",
+        "CDS-H031",
+        "CDS-H032",
+        "CDS-H033",
+        "CDS-H034",
+        "CDS-H035",
+        "CDS-H036",
+        "CDS-H037"
       ],
       "draft_path": "workspaces/node_depth/cds_pilot/drafts/40_sources/S-HIST-CDS-CRISIS.md",
       "target_path": "graph/40_sources/S-HIST-CDS-CRISIS.md",
-      "draft_sha256": "a9af3c2dec289d79c580b53a891a922d9f3724d2e3216392f00ba164de0270c5"
+      "draft_sha256": "b33565ffb57ef08225fe5ebbae2bd7f4f5677b01042d3d6ef62faf1e7d3c700d"
     }
   ],
-  "rendering": "Draft-relative graph links are resolved against virtual graph/<path>. If a target has a corresponding drafts/<path>, show that draft; otherwise resolve to real graph/materials. No files are in formal graph yet."
+  "rendering": "Draft-relative graph links are resolved against virtual graph/<path>. If a target has a corresponding drafts/<path>, show that draft; otherwise resolve to real graph/materials. No files are in formal graph yet.",
+  "revision": {
+    "base_commit": "2bf187ecac2ac8c25982e50adb0050f5369a3697",
+    "editor": "/root",
+    "on": "2026-11-17",
+    "accepted_review_items": [
+      2,
+      3,
+      4
+    ],
+    "excluded_expansion": "不扩写AIG保护失效向买方银行资本或融资传导的研究"
+  }
 }

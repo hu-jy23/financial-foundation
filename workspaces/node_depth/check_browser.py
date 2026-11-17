@@ -26,7 +26,8 @@ try:
   time.sleep(.1)
  report={'documents':ev("document.querySelectorAll('.document').length"),'desktop_overflow':ev('document.documentElement.scrollWidth>innerWidth'),'images':ev('document.images.length'),'images_loaded':ev('[...document.images].every(x=>x.complete&&x.naturalWidth>0)')}
  report['diff_colors']=ev("(()=>{const add=document.querySelector('#draft-0 .draft-body .diff-add'),mod=document.querySelector('#draft-0 .diff-mod'),old=document.querySelector('#draft-0 .draft-body h1');return !!(add&&mod)&&new Set([getComputedStyle(add).color,getComputedStyle(mod).color,getComputedStyle(old).color]).size===3})()")
- report['new_entries_marked']=ev("document.querySelectorAll('.new-entry.diff-add').length===2")
+ report['new_entries_marked']=ev("document.querySelectorAll('[data-view=revision] .new-entry.diff-add').length===1&&document.querySelectorAll('[data-view=full] .new-entry.diff-add').length===3")
+ report['revision_default']=ev("!document.querySelector('[data-view=revision]').hidden&&document.querySelector('[data-view=full]').hidden")
  report['retired_default_folded']=ev("[...document.querySelectorAll('.diff-removals')].every(x=>!x.open)")
  b=call('Page.captureScreenshot',{'format':'png'})['data'];Path('/tmp/node-depth-desktop.png').write_bytes(base64.b64decode(b))
  ev("document.querySelector('#draft-0 .draft-body h1').scrollIntoView();true");b=call('Page.captureScreenshot',{'format':'png'})['data'];Path('/tmp/node-depth-diff.png').write_bytes(base64.b64decode(b));ev('scrollTo(0,0);true')
@@ -37,7 +38,11 @@ try:
  ev("location.hash='draft-3--h02';true")
  time.sleep(.2)
  report['source_anchor_opens_card']=ev("document.getElementById('draft-3').open && document.getElementById('draft-3--h02').getBoundingClientRect().top>=-2 && document.getElementById('draft-3--h02').getBoundingClientRect().top<innerHeight")
- report['js_errors']=[e for e in events if e.get('method')=='Runtime.exceptionThrown'];report['passed']=(report['documents']==5 and report['diff_colors'] and report['new_entries_marked'] and report['retired_default_folded'] and report['source_anchor_opens_card'] and report['images_loaded'] and report['collapse'] and report['expand'] and not report['desktop_overflow'] and not report['mobile_overflow'] and not report['js_errors'])
+ ev("document.querySelector('[data-select-view=full]').click();true");report['full_switch']=ev("document.querySelector('[data-view=revision]').hidden&&!document.querySelector('[data-view=full]').hidden")
+ ev("location.hash='full-draft-5--ai-comparison';true");time.sleep(.2);report['full_AI_link']=ev("!document.querySelector('[data-view=full]').hidden&&document.getElementById('full-draft-5').open&&document.getElementById('full-draft-5--ai-comparison').getBoundingClientRect().top<innerHeight")
+ ev("location.hash='draft-5--ai-comparison';true");time.sleep(.2);report['revision_AI_link']=ev("!document.querySelector('[data-view=revision]').hidden&&document.querySelector('[data-view=full]').hidden&&document.getElementById('draft-5').open&&document.getElementById('draft-5--ai-comparison').getBoundingClientRect().top<innerHeight")
+ ev("location.hash='draft-2--aig-judgments';true");time.sleep(.2);b=call('Page.captureScreenshot',{'format':'png'})['data'];Path('/tmp/node-depth-revision.png').write_bytes(base64.b64decode(b))
+ report['js_errors']=[e for e in events if e.get('method')=='Runtime.exceptionThrown'];expected=2*len(json.loads((root/'cds_pilot/delivery.json').read_text())['files'])+1;report['passed']=(report['documents']==expected and report['revision_default'] and report['full_switch'] and report['full_AI_link'] and report['revision_AI_link'] and report['diff_colors'] and report['new_entries_marked'] and report['retired_default_folded'] and report['source_anchor_opens_card'] and report['images_loaded'] and report['collapse'] and report['expand'] and not report['desktop_overflow'] and not report['mobile_overflow'] and not report['js_errors'])
  (root/'browser_check.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps(report,ensure_ascii=False,indent=2))
 finally:
  if ws:ws.close()

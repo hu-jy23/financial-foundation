@@ -22,15 +22,20 @@
           171,
           172,
           173,
-          174
+          174,
+          271,
+          272,
+          295,
+          296
         ],
-        "printed_pages": "140—146",
-        "sections": "The CDO Machine：AIG与Synthetic CDOs；图8.2原页目视核读",
+        "printed_pages": "140—146、243—244、267—268",
+        "sections": "The CDO Machine：AIG与Synthetic CDOs；图8.2原页目视核读；返修实读AIG追缴、估值争议与公开判断（印刷243—244、267—268）",
         "unread": "报告其余大部分章节、证人原始访谈与逐项脚注底稿未通读"
       },
       "adopted": true,
       "sha256": "1b0e34265f6f838671481dd514bd9e4ae02b0c8051d9867f26654c2f55f142fe",
-      "bytes": 5343481
+      "bytes": 5343481,
+      "additional_read_by": "/root"
     },
     {
       "id": "H02",
@@ -266,6 +271,117 @@
       "adopted": true,
       "sha256": "53a5cbea6206a2e1932382c1662e46c62406f3c6d8853dc32d82c723ede0eb75",
       "bytes": 116420
+    },
+    {
+      "id": "H10",
+      "title": "AIG Q2 2007 Earnings Call Summary and Q&A",
+      "author": "AIG管理层；Bloomberg转录，FCIC公开档案",
+      "material_date_or_version": "2007-08-09",
+      "url": "https://fcic-static.law.stanford.edu/cdn_media/fcic-docs/2007-08-09%20AIG%20Earnings%20Call%20Summary%20%2814.75%2C%2014.90%29.pdf",
+      "local_path": "materials/historical/node_depth/CDS/aig_20070809_earnings_call.pdf",
+      "text_path": "materials/historical/node_depth/CDS/aig_20070809_earnings_call.txt",
+      "language": "en",
+      "obtained_on": "2026-11-17",
+      "read_on": "2026-11-17",
+      "read_by": "/root",
+      "read_scope": {
+        "pdf_pages": [
+          13,
+          14,
+          15,
+          27
+        ],
+        "printed_pages": "13—15、27",
+        "sections": "AIGFP保护分层及压力检验说明；Cassano回答Charles Gates的损失问题",
+        "unread": "其余准备发言和问答未通读；转录未与录音逐字校核"
+      },
+      "adopted": true,
+      "sha256": "a706096a1d95fa21b7d97ad27f5e6af42a56c8697f1c1b292e872afc2b5e924b",
+      "bytes": 117483
+    },
+    {
+      "id": "H11",
+      "title": "AIG Q3 2007 Earnings Conference Call",
+      "author": "AIG管理层；FD Wire转录，FCIC公开档案",
+      "material_date_or_version": "2007-11-08（按PDF页眉；档案文件名写11月7日）",
+      "url": "https://fcic-static.law.stanford.edu/cdn_media/fcic-docs/2007-11-07%20AIG%203Q%20Earnings%20Conference%20Call.pdf",
+      "local_path": "materials/historical/node_depth/CDS/aig_20071108_earnings_call.pdf",
+      "text_path": "materials/historical/node_depth/CDS/aig_20071108_earnings_call.txt",
+      "language": "en",
+      "obtained_on": "2026-11-17",
+      "read_on": "2026-11-17",
+      "read_by": "/root",
+      "read_scope": {
+        "pdf_pages": [
+          17
+        ],
+        "printed_pages": "17",
+        "sections": "Dan Johnson追问对手估值分歧；Cassano回答抵押追缴与可用资源",
+        "unread": "其余20页未通读；没有据公开表态推定全部内部认知"
+      },
+      "adopted": true,
+      "sha256": "c4c8d543d3b3b63c5bb568e38ec56496fdaa4bbdcea8b864f1d708891dc39079",
+      "bytes": 76644
+    },
+    {
+      "id": "H12",
+      "title": "Subprime Mortgage Crisis",
+      "author": "John V. Duca；Federal Reserve History",
+      "material_date_or_version": "2013-11-22（原页Written as of）",
+      "url": "https://www.federalreservehistory.org/essays/subprime-mortgage-crisis",
+      "local_path": "materials/historical/node_depth/CDS/fed_history_subprime.html",
+      "text_path": "materials/historical/node_depth/CDS/fed_history_subprime.txt",
+      "language": "en",
+      "obtained_on": "2026-11-17",
+      "read_on": "2026-11-17",
+      "read_by": "/root",
+      "read_scope": {
+        "sections": "How and Why the Crisis Occurred与Steps to Alleviate the Crisis正文；核原页署日期",
+        "unread": "未逐篇复核参考文献，未采用未见底稿的数据分解"
+      },
+      "adopted": true,
+      "sha256": "4cf1ab7e8b8269516d9800f48408bbbbb38da448d70ddeb81a8ebf2ff06623b0",
+      "bytes": 36692
+    },
+    {
+      "id": "H13",
+      "title": "Monetary Policy Report of February 2009（Annual Report 2008所载）",
+      "author": "Board of Governors of the Federal Reserve System",
+      "material_date_or_version": "2009-02",
+      "url": "https://www.federalreserve.gov/boarddocs/rptcongress/annual08/sec1/c1.htm",
+      "local_path": "materials/historical/node_depth/CDS/fed_mpr_200902_annual08.html",
+      "text_path": "materials/historical/node_depth/CDS/fed_mpr_200902_annual08.txt",
+      "language": "en",
+      "obtained_on": "2026-11-17",
+      "read_on": "2026-11-17",
+      "read_by": "/root",
+      "read_scope": {
+        "sections": "Evolution of the Financial Turmoil开头至Wachovia收购及相邻资金期限段；Monetary Policy in 2008 and Early 2009中January 2009会议及紧随段",
+        "unread": "其余宏观分项、经济预测表与附录未完整阅读；图片未用于数值读取"
+      },
+      "adopted": true,
+      "sha256": "6b43ebce6e732199b7faff40c3e4bc3ec4e77df8db9a5ca13370e780a25e62fa",
+      "bytes": 214373
+    },
+    {
+      "id": "H14",
+      "title": "The Great Recession and Its Aftermath",
+      "author": "John Weinberg；Federal Reserve History",
+      "material_date_or_version": "2013-11-22（原页Written as of）",
+      "url": "https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath",
+      "local_path": "materials/historical/node_depth/CDS/fed_history_great_recession.html",
+      "text_path": "materials/historical/node_depth/CDS/fed_history_great_recession.txt",
+      "language": "en",
+      "obtained_on": "2026-11-17",
+      "read_on": "2026-11-17",
+      "read_by": "/root",
+      "read_scope": {
+        "sections": "开篇；Rise and Fall of the Housing Market、Effects on the Financial Sector、Effects on the Broader Economy三节正文",
+        "unread": "监管改革节与逐篇底层文献未作为本次新增事实依据；图片未作定量读取"
+      },
+      "adopted": true,
+      "sha256": "c2e71decc9ef6a5fe6b299eca78575a42326048a5068c6b9841e481c46ce369c",
+      "bytes": 45232
     }
   ],
   "failed_retrievals": [
@@ -284,5 +400,7 @@
       "path": "graph/40_sources/S-WS-3784900.md",
       "scope": "复用原已审AI事件及Source的2026年10月信息；本轮未重新取得巴克莱研报或全体公司合同。"
     }
-  ]
+  ],
+  "revision_reader": "/root",
+  "revision_read_on": "2026-11-17"
 }

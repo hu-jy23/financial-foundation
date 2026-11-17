@@ -56,7 +56,7 @@ for x in items:
 check(len(list((R/'selection/tasks').glob('*.md')))==20,'task_file_count')
 delivery=json.loads((P/'delivery.json').read_text());base=json.loads((P/'base.json').read_text())
 formal_ids={meta(p)['id'] for p in G.rglob('*.md') if p.read_text().startswith('---\n') and meta(p).get('id')}
-check(len(delivery['files'])==4,'pilot_draft_count')
+check(len(delivery['files'])==7,'pilot_draft_count')
 for x in delivery['files']:
  p=ROOT/x['draft_path'];m=meta(p);q=ROOT/x['target_path']
  check(sha(p)==x['draft_sha256'] and m['id']==x['id'] and m['type']==x['type'] and m['status']=='draft',{'draft_identity_or_hash':x['path']})
@@ -68,30 +68,36 @@ for x in delivery['files']:
   check(explicit<=anchors(p),{'lost_old_anchor':x['path']})
  else:check(m['id'] not in formal_ids,{'new_id_collision':m['id']})
 catalog=json.loads((P/'sources.json').read_text());sources=catalog['sources'];adopted=[x for x in sources if x['adopted']]
-check(len(adopted)==9,'adopted_source_count')
+check(len(adopted)==14,'adopted_source_count')
 for x in sources:
  p=ROOT/x['local_path'];check(p.exists() and sha(p)==x['sha256'],{'source_hash':x['id']})
  if p.suffix=='.pdf':check(p.read_bytes().startswith(b'%PDF-'),{'not_pdf':x['id']})
- if x.get('text_path'):check((ROOT/x['text_path']).exists(),{'missing_source_text':x['id']})
+ if x.get('text_path'):check((ROOT/x['text_path']).exists() and (ROOT/x['text_path']).stat().st_size>100,{'missing_or_empty_source_text':x['id']})
 claims=json.loads((P/'claims.json').read_text())['claims'];source_ids={x['id'] for x in adopted}|{x['id'] for x in catalog['reused_graph_evidence']}
-check(len({x['id'] for x in claims})==28,'claim_count_or_duplicates')
+check(len({x['id'] for x in claims})==37,'claim_count_or_duplicates')
 for x in claims:
  for evidence in x.get('evidence',[]):check(evidence['source_id'] in source_ids,{'unknown_claim_source':x['id']})
+ for used in x.get('used_in',[]):
+  u=urlsplit(used);target=drafts.get(G/u.path,G/u.path)
+  check(target.exists() and (not u.fragment or u.fragment in anchors(target)),{'missing_claim_destination':x['id'],'target':used})
 for p in R.rglob('*.md'):
  scan(p,G/p.relative_to(P/'drafts') if p.is_relative_to(P/'drafts') else None)
 scan(R/'报告.html');scan(ROOT/'materials/historical/node_depth/CDS/README.md')
 report=BeautifulSoup((R/'报告.html').read_text(),'html.parser')
-for x in delivery['files']:
- card=next(c for c in report.select('[data-diff-kind]') if c.select_one('p.file a')['href']==os.path.relpath(ROOT/x['draft_path'],R))
- raw=(ROOT/x['draft_path']).read_text().split('---',2)[2]
- check(card.select_one('.draft-body').get_text()==BeautifulSoup(md.render(raw),'html.parser').get_text(),{'diff_altered_draft_text':x['path']})
+for pane in report.select('.comparison-view'):
+ for x in delivery['files']:
+  card=next(c for c in pane.select('[data-diff-kind]') if c.select_one('p.file a')['href']==os.path.relpath(ROOT/x['draft_path'],R))
+  raw=(ROOT/x['draft_path']).read_text().split('---',2)[2]
+  check(card.select_one('.draft-body').get_text()==BeautifulSoup(md.render(raw),'html.parser').get_text(),{'diff_altered_draft_text':x['path'],'view':pane['data-view']})
 check(not report.select_one('#draft-0 .draft-body h1').get('class'),'unchanged_CDS_title_marked')
-check(len(report.select('.new-entry.diff-add'))==2,'new_entries_not_marked')
-check(bool(report.select('#draft-0 .diff-mod')) and bool(report.select('#draft-1 .draft-body .diff-add')),'modified_or_added_content_not_marked')
+check(len(report.select('[data-view="revision"] .new-entry.diff-add'))==1 and len(report.select('[data-view="full"] .new-entry.diff-add'))==3,'new_entries_not_marked')
+check(bool(report.select('#draft-0 .diff-mod')) and bool(report.select('#full-draft-1 .draft-body .diff-add')),'modified_or_added_content_not_marked')
+check(report.select_one('[data-view="full"]').has_attr('hidden') and not report.select_one('[data-view="revision"]').has_attr('hidden'),'wrong_default_comparison')
+check(not report.select_one('#draft-2--ai-comparison') and bool(report.select('#draft-5--ai-comparison')),'AI_comparison_not_moved')
 check(all(not x.has_attr('open') for x in report.select('.diff-removals')),'retired_content_not_folded')
 changed=git('diff','--name-only',selection['input_graph_commit'],'--','graph').splitlines()
 tracked=set(git('ls-tree','-r','--name-only',selection['input_graph_commit'],'--','graph').splitlines())
 actual={str(p.relative_to(ROOT)) for p in G.rglob('*') if p.is_file()}
 check(not changed and actual==tracked,{'formal_graph_changed':changed,'added_or_removed':sorted(actual^tracked)})
-result={'passed':not issues,'pilot_drafts':4,'adopted_sources':len(adopted),'key_claims':len(claims),'concept_tasks':15,'mechanism_tasks':5,'pending_user_review':1,'unstarted_tasks':19,'local_links_checked':links,'diff_body_text_preserved':not any(isinstance(x,dict) and 'diff_altered_draft_text' in x for x in issues),'formal_graph_files_unchanged':len(tracked),'issues':issues}
+result={'passed':not issues,'pilot_drafts':len(delivery['files']),'adopted_sources':len(adopted),'key_claims':len(claims),'concept_tasks':15,'mechanism_tasks':5,'pending_user_review':1,'unstarted_tasks':19,'local_links_checked':links,'diff_body_text_preserved':not any(isinstance(x,dict) and 'diff_altered_draft_text' in x for x in issues),'formal_graph_files_unchanged':len(tracked),'issues':issues}
 (R/'validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n');print(json.dumps(result,ensure_ascii=False,indent=2));raise SystemExit(bool(issues))

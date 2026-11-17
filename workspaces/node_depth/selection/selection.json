@@ -46,7 +46,7 @@
         "C-S2-CDX",
         "C-CREDIT-10"
       ],
-      "shared_event_responsibility": "cds_pilot负责2007—09年CDS材料集的共同入口、阶段及CDS主线；其他任务对共同段落提修改建议，由root统一合并。",
+      "shared_event_responsibility": "root维护2007—09年危机共同事件，cds_pilot维护CDS历史专题；其他任务提交自身专题与共同入口的修改建议，由root统一整合。",
       "dependencies": [],
       "priority": 0,
       "sequence": 1,
@@ -119,7 +119,7 @@
         "C-S2-CDS",
         "C-CREDIT-10"
       ],
-      "shared_event_responsibility": "2007—09年共同事件入口由01 CDS试点维护；本任务负责证券化链条与资产类别差异的模块草案。",
+      "shared_event_responsibility": "危机共同入口由root维护，01维护CDS专题；本任务负责证券化链条与资产类别差异的模块草案。",
       "dependencies": [
         "C-S2-CDS"
       ],
@@ -200,7 +200,7 @@
         "C-DERIV-14",
         "C-LIQ-FUND"
       ],
-      "shared_event_responsibility": "负责折扣条款及融资能力模块；2008共同背景交01，反馈过程交16。",
+      "shared_event_responsibility": "负责折扣条款及融资能力模块；2008共同背景交root共同入口，反馈过程交16。",
       "dependencies": [
         "C-S2-CDS"
       ],
@@ -277,7 +277,7 @@
         "C-CREDIT-15",
         "R-BANKING-05"
       ],
-      "shared_event_responsibility": "2008背景由01维护；本任务负责2008货基模块及2020货基模块，12 ETF独立维护2020 ETF模块，18美元融资维护跨境融资模块。",
+      "shared_event_responsibility": "2008共同背景由root维护；本任务负责2008货基模块及2020货基模块，12 ETF独立维护2020 ETF模块，18美元融资维护跨境融资模块。",
       "dependencies": [
         "C-S2-CDS"
       ],
@@ -349,7 +349,7 @@
         "C-S2-CDS",
         "R-LIQ-SPIRAL"
       ],
-      "shared_event_responsibility": "2008改革背景复用01；具体CCP规则与所选压力事件模块由本任务维护，涉及螺旋的通用解释交16。",
+      "shared_event_responsibility": "2008改革背景复用共同入口和01的CDS专题；具体CCP规则与所选压力事件模块由本任务维护，涉及螺旋的通用解释交16。",
       "dependencies": [
         "C-S2-CDS"
       ],
@@ -1174,7 +1174,7 @@
         "C-LIQ-FUND",
         "C-FX-17"
       ],
-      "shared_event_responsibility": "负责LTCM/共同减仓主线；已有LDI按现页维护。03负责条款证据，14负责融资币交易；2008共同叙事仍交01。",
+      "shared_event_responsibility": "负责LTCM/共同减仓主线；已有LDI按现页维护。03负责条款证据，14负责融资币交易；2008共同叙事仍交root。",
       "dependencies": [],
       "priority": 1,
       "sequence": 16,
@@ -1251,7 +1251,7 @@
         "C-CREDIT-02",
         "C-CREDIT-15"
       ],
-      "shared_event_responsibility": "本任务维护欧债时期银行—主权模块；2008全球信用危机共同背景引用01，只写爱尔兰特有承担与反馈。",
+      "shared_event_responsibility": "本任务维护欧债时期银行—主权模块；2008全球信用危机共同背景引用root维护的入口，只写爱尔兰特有承担与反馈。",
       "dependencies": [],
       "priority": 1,
       "sequence": 17,
@@ -1322,7 +1322,7 @@
         "C-FX-10",
         "R-FX-PARITY"
       ],
-      "shared_event_responsibility": "负责亚洲外币负债及跨境美元模块；10维护香港制度压力；2008共同入口交01，2020资金/ETF模块分别由04/12维护。",
+      "shared_event_responsibility": "负责亚洲外币负债及跨境美元模块；10维护香港制度压力；2008共同入口交root，2020资金/ETF模块分别由04/12维护。",
       "dependencies": [],
       "priority": 1,
       "sequence": 18,

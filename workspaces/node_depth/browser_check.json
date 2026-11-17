@@ -1,15 +1,19 @@
 {
-  "documents": 5,
+  "documents": 15,
   "desktop_overflow": false,
-  "images": 1,
+  "images": 12,
   "images_loaded": true,
   "diff_colors": true,
   "new_entries_marked": true,
+  "revision_default": true,
   "retired_default_folded": true,
   "collapse": true,
   "expand": true,
   "mobile_overflow": false,
   "source_anchor_opens_card": true,
+  "full_switch": true,
+  "full_AI_link": true,
+  "revision_AI_link": true,
   "js_errors": [],
   "passed": true
 }

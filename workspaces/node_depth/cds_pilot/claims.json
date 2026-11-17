@@ -524,7 +524,8 @@
         }
       ],
       "used_in": [
-        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#ai-comparison"
+        "30_events/AI融资扩张中的CDS价格分化：2026年10月.md#ai-comparison",
+        "10_concepts/AI相关企业CDS.md"
       ],
       "qualification": "本次对已保存证据的范围判断，不是声称现实一定没有相关结构。"
     },
@@ -570,6 +571,173 @@
         "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#arrangements"
       ],
       "qualification": "2009年变化固化既有拍卖和标准化单名合同，不是拍卖首次出现；未读具体协议全套条款。"
+    },
+    {
+      "id": "CDS-H029",
+      "kind": "historical_incentives",
+      "claim": "FCIC重建银行购买保护的资本及信用管理用途、AIG收取保费的判断，以及集团信用与声誉使对手接受承诺。",
+      "evidence": [
+        {
+          "source_id": "H01",
+          "pdf_pages": [
+            168,
+            169
+          ],
+          "printed_pages": "140—141",
+          "section": "AIG业务、监管资本与交易商访谈"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig"
+      ],
+      "qualification": "这是2011年调查对当时动机的重建，不是同期逐笔交易动机普查。"
+    },
+    {
+      "id": "CDS-H030",
+      "kind": "dated_collateral_request",
+      "claim": "2007-07-27高盛向AIG提出18亿美元抵押要求，随后降至12亿美元。",
+      "evidence": [
+        {
+          "source_id": "H01",
+          "pdf_pages": [
+            271,
+            272,
+            295
+          ],
+          "printed_pages": "243—244、267",
+          "section": "AIG collateral dispute"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig-judgments"
+      ],
+      "qualification": "请求额与实付额分开；原文1.8/1.2 billion换算为18/12亿美元。"
+    },
+    {
+      "id": "CDS-H031",
+      "kind": "contemporaneous_judgment",
+      "claim": "2007-08-09 AIG管理层以超级优先层缓冲和压力检验解释低损失判断；Cassano对合理严厉衰退情景下的最终信用损失作乐观公开表态。",
+      "evidence": [
+        {
+          "source_id": "H10",
+          "pdf_pages": [
+            13,
+            14,
+            15,
+            27
+          ],
+          "printed_pages": "13—15、27",
+          "section": "Financial Products Update；Charles Gates Q&A"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig-judgments"
+      ],
+      "qualification": "保存公司当时表态及其情景范围，不把模型输出作为真实违约概率。"
+    },
+    {
+      "id": "CDS-H032",
+      "kind": "documented_payment",
+      "claim": "FCIC记录AIG于2007-08-10先向高盛交付4.5亿美元抵押，双方仍对金额有争议。",
+      "evidence": [
+        {
+          "source_id": "H01",
+          "pdf_pages": [
+            296
+          ],
+          "printed_pages": "268",
+          "section": "Without being flippant后的付款段"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig-judgments"
+      ],
+      "qualification": "原文450 million=4.5亿美元；付款事实由2011年调查重建。"
+    },
+    {
+      "id": "CDS-H033",
+      "kind": "contemporaneous_judgment",
+      "claim": "2007-11-08 Cassano在回答Dan Johnson时承认估值分歧与追缴，仍表示流动性资源足以满足可能的抵押要求。",
+      "evidence": [
+        {
+          "source_id": "H11",
+          "pdf_pages": [
+            17
+          ],
+          "printed_pages": "17",
+          "section": "Dan Johnson与Cassano问答"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig-judgments"
+      ],
+      "qualification": "日期依据PDF页眉，档案文件名为11月7日；公开表态不等同全部内部认知。"
+    },
+    {
+      "id": "CDS-H034",
+      "kind": "historical_feedback",
+      "claim": "住房涨价支持出售与再融资偿债，价格转弱与证券资金收缩后，住房需求、信贷与价格之间形成收缩反馈。",
+      "evidence": [
+        {
+          "source_id": "H12",
+          "section": "How and Why the Crisis Occurred"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷危机与全球金融危机：2007—2009年.md"
+      ],
+      "qualification": "Duca于2013年所写的事后概述；不作为单一原因的因果份额估计。"
+    },
+    {
+      "id": "CDS-H035",
+      "kind": "documented_phases",
+      "claim": "联储2009年2月回顾记录2007年夏融资压力、2008年3月贝尔斯登、9月两房接管/雷曼破产/AIG支持及货基赎回与商业票据压力。",
+      "evidence": [
+        {
+          "source_id": "H13",
+          "section": "Evolution of the Financial Turmoil开头至Wachovia及相邻段"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷危机与全球金融危机：2007—2009年.md#stages"
+      ],
+      "qualification": "这里只作共同阶段入口，不扩写AIG保护失效向买方银行传导的研究。"
+    },
+    {
+      "id": "CDS-H036",
+      "kind": "contemporaneous_expectation",
+      "claim": "联储2009年2月报告回顾1月FOMC与会者预期当年下半年渐次恢复，同时仍认为近期前景疲弱、金融条件紧张。",
+      "evidence": [
+        {
+          "source_id": "H13",
+          "section": "Monetary Policy in 2008 and Early 2009：At the meeting in January 2009及紧随段"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷危机与全球金融危机：2007—2009年.md#judgment-200901"
+      ],
+      "qualification": "预期的主体和时点为2009年1月与会者，文献为2月回顾，后见衰退终点另列。"
+    },
+    {
+      "id": "CDS-H037",
+      "kind": "retrospective_outcome",
+      "claim": "Weinberg的2013年回顾将美国衰退终点记为2009年6月，其后恢复缓慢；Duca另述住房在2012—2013年修复。",
+      "evidence": [
+        {
+          "source_id": "H14",
+          "section": "Effects on the Broader Economy"
+        },
+        {
+          "source_id": "H12",
+          "section": "Steps to Alleviate the Crisis"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷危机与全球金融危机：2007—2009年.md#stages"
+      ],
+      "qualification": "经济周期终点与住房修复是不同对象及时间尺度。"
     }
-  ]
+  ],
+  "revision_author": "/root",
+  "revision_on": "2026-11-17"
 }

@@ -14,7 +14,7 @@ reasoning_effort: inherited_unverified
 source_ids:
 - S-WS-3784900
 - S-HIST-CDS-CRISIS-20261117
-depth_revision_author: /root/cds_depth_pilot
+depth_revision_author: /root
 depth_revision_status: draft
 depth_revision_on: '2026-11-17'
 historical_evidence_scope: 2008年披露、2009—2011年调查及2012年清算公告；AI原证据日期保留
@@ -68,6 +68,8 @@ formal_integration_batch: wallstreetcn_30_20261116
 
 ### 2007—2009年：保护责任、现金需求与净结算
 
+[次贷危机与全球金融危机](../30_events/次贷危机与全球金融危机：2007—2009年.md)提供共同阶段，下面沿CDS的合同责任进入其中。
+
 次贷危机把CDS带入多层信用责任。住房贷款先进入RMBS，再被CDO购买或通过合成CDO中的CDS引用；同一证券可以被多个合成交易反复引用，新增合约并不要求新增同额房贷。它扩大了围绕相同风险建立的合约暴露，保护买方的收益与卖方损失相对应。要判断后果，需要追踪风险集中到谁、其资本和现金能否履约，不能把总名义额当成全社会净损失。[结构与原图](../30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#structure)。
 
 AIG的典型性在于：保护卖方可能在最终信用损失确定之前，先因估值变化及自身评级下降被要求补交抵押。AIGFP部分多部门CDO保护订立时没有预交抵押，但附带后续追缴条款；2008年9月末，其超级优先信用衍生品抵押存量合计328.14亿美元，其中多部门CDO组合314.69亿美元。这里是年报特定口径的存量，既非全部CDS名义额，也非最终赔付。AIG还同时承受证券借贷现金返还压力；两条渠道要分别识别。认为某一优先层最终不太可能损失，仍不足以证明保护卖方能承受中途现金追缴。[AIG合同、存量表及独立融资链](../30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig)。
@@ -82,6 +84,6 @@ AIG的典型性在于：保护卖方可能在最终信用损失确定之前，�
 
 ## 来源
 
-本轮历史补充核读FCIC、AIG年报、ECB、SSG、SIGTARP、联储及CFTC原文；逐页范围见[历史Source笔记](../40_sources/S-HIST-CDS-CRISIS.md)。2008年教训与2026年AI保护市场的[逐项比较](../30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#ai-comparison)区分已知责任与尚未证实的卖方结构。
+本轮历史补充核读FCIC、AIG年报、ECB、SSG、SIGTARP、联储及CFTC原文；逐页范围见[历史Source笔记](../40_sources/S-HIST-CDS-CRISIS.md)。2008年教训与2026年AI保护市场的[逐项比较](../30_events/AI融资扩张中的CDS价格分化：2026年10月.md#ai-comparison)区分已知责任与尚未证实的卖方结构。
 
 工具解释复用既有[主权CDS页的合同、结算与测度讨论](主权信用风险与CDS.md)，新增固定票息说明核读[ISDA模型背景](../40_sources/S-WS-3784900.md#isda-model)。企业情境来自[本地文章](../40_sources/S-WS-3784900.md#article)；未重核每一企业的确认书或信用事件条款。

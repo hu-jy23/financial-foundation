@@ -4,23 +4,26 @@ type: source_note
 title: CDS与次贷金融危机：原始资料及实际阅读记录
 status: draft
 updated: '2026-11-17'
-material_date: 2008/2012
+material_date: 2007/2013
 read_at: '2026-11-17'
 draft_author: /root/cds_depth_pilot
 model: inherited_unverified
 reasoning_effort: inherited_unverified
+depth_revision_author: /root
+depth_revision_on: '2026-11-17'
+depth_revision_status: draft
 ---
 
 # CDS与次贷金融危机：原始资料及实际阅读记录
 
-本轮按三个问题定向阅读：合成结构怎样复制信用暴露；AIG为何在最终损失确定前缺现金；雷曼CDS结算与交易对手倒闭有什么区别。原件保留英文，PDF保留全文；文本层仅用于检索与逐页阅读。物理PDF页从封面起算为1，印刷页按页脚标注。
+本轮围绕危机共同阶段、AIG当时的判断与现金约束，以及合成暴露和雷曼结算定向阅读。原件保留英文，PDF保留全文；文本层仅用于检索与逐页阅读。物理PDF页从封面起算为1，印刷页按页脚标注。
 
 <a id="h01"></a>
 ## H01 · The Financial Crisis Inquiry Report
 
 Financial Crisis Inquiry Commission；2011-01-27。[原始网址](https://fraser.stlouisfed.org/files/docs/historical/fct/fcic_report_final_20110127.pdf) · [本地原件](<../../materials/historical/node_depth/CDS/fcic_2011_report.pdf#page=168>) · [文本检索层](<../../materials/historical/node_depth/CDS/fcic_2011_report.txt>)。2026-11-17读取。
 
-**实际已读**：PDF 168、169、170、171、172、173、174页；印刷140—146。涉及：The CDO Machine：AIG与Synthetic CDOs；图8.2原页目视核读。
+**实际已读**：PDF168—174、271—272、295—296；印刷140—146、243—244、267—268。涉及AIG与Synthetic CDOs、追缴与估值争议及2007年公开判断；图8.2原页目视核读。后两组页由/root在返修中补读。
 
 **未读／未核**：报告其余大部分章节、证人原始访谈与逐项脚注底稿未通读。
 
@@ -94,6 +97,41 @@ Bank for International Settlements，BIS Quarterly Review，2010年12月，印�
 
 **实际已读**：网页专栏全部正文，含标准票息、upfront、首期票息、决定委员会、拍卖常规化和生效日期说明；网页注明摘自2010年12月印刷65页。**未读／未核**：未取得此段对应的全部协议和修订文本；网页提及Table A但当前抽取未呈现表，本轮不采用表内未见细节。用它确认2009年标准化实际实施，并与H07的事前计划区分；不据此说明2026年所有产品合同版本。
 
+<a id="h10"></a>
+## H10 · AIG Q2 2007 Earnings Call Summary and Q&A
+
+AIG管理层；Bloomberg转录，FCIC公开档案；2007-08-09。[原始网址](https://fcic-static.law.stanford.edu/cdn_media/fcic-docs/2007-08-09%20AIG%20Earnings%20Call%20Summary%20%2814.75%2C%2014.90%29.pdf) · [本地原件](<../../materials/historical/node_depth/CDS/aig_20070809_earnings_call.pdf>) · [文本层](<../../materials/historical/node_depth/CDS/aig_20070809_earnings_call.txt>)。/root于2026-11-17读取。
+
+**实际已读**：pdf_pages: [13, 14, 15, 27]；printed_pages: 13—15、27；sections: AIGFP保护分层及压力检验说明；Cassano回答Charles Gates的损失问题。**未读／未核**：其余准备发言和问答未通读；转录未与录音逐字校核。
+
+<a id="h11"></a>
+## H11 · AIG Q3 2007 Earnings Conference Call
+
+AIG管理层；FD Wire转录，FCIC公开档案；2007-11-08（按PDF页眉；档案文件名写11月7日）。[原始网址](https://fcic-static.law.stanford.edu/cdn_media/fcic-docs/2007-11-07%20AIG%203Q%20Earnings%20Conference%20Call.pdf) · [本地原件](<../../materials/historical/node_depth/CDS/aig_20071108_earnings_call.pdf>) · [文本层](<../../materials/historical/node_depth/CDS/aig_20071108_earnings_call.txt>)。/root于2026-11-17读取。
+
+**实际已读**：pdf_pages: [17]；printed_pages: 17；sections: Dan Johnson追问对手估值分歧；Cassano回答抵押追缴与可用资源。**未读／未核**：其余20页未通读；没有据公开表态推定全部内部认知。
+
+<a id="h12"></a>
+## H12 · Subprime Mortgage Crisis
+
+John V. Duca；Federal Reserve History；2013-11-22（原页Written as of）。[原始网址](https://www.federalreservehistory.org/essays/subprime-mortgage-crisis) · [本地原件](<../../materials/historical/node_depth/CDS/fed_history_subprime.html>) · [文本层](<../../materials/historical/node_depth/CDS/fed_history_subprime.txt>)。/root于2026-11-17读取。
+
+**实际已读**：sections: How and Why the Crisis Occurred与Steps to Alleviate the Crisis正文；核原页署日期。**未读／未核**：未逐篇复核参考文献，未采用未见底稿的数据分解。
+
+<a id="h13"></a>
+## H13 · Monetary Policy Report of February 2009（Annual Report 2008所载）
+
+Board of Governors of the Federal Reserve System；2009-02。[原始网址](https://www.federalreserve.gov/boarddocs/rptcongress/annual08/sec1/c1.htm) · [本地原件](<../../materials/historical/node_depth/CDS/fed_mpr_200902_annual08.html>) · [文本层](<../../materials/historical/node_depth/CDS/fed_mpr_200902_annual08.txt>)。/root于2026-11-17读取。
+
+**实际已读**：sections: Evolution of the Financial Turmoil开头至Wachovia收购及相邻资金期限段；Monetary Policy in 2008 and Early 2009中January 2009会议及紧随段。**未读／未核**：其余宏观分项、经济预测表与附录未完整阅读；图片未用于数值读取。
+
+<a id="h14"></a>
+## H14 · The Great Recession and Its Aftermath
+
+John Weinberg；Federal Reserve History；2013-11-22（原页Written as of）。[原始网址](https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath) · [本地原件](<../../materials/historical/node_depth/CDS/fed_history_great_recession.html>) · [文本层](<../../materials/historical/node_depth/CDS/fed_history_great_recession.txt>)。/root于2026-11-17读取。
+
+**实际已读**：sections: 开篇；Rise and Fall of the Housing Market、Effects on the Financial Sector、Effects on the Broader Economy三节正文。**未读／未核**：监管改革节与逐篇底层文献未作为本次新增事实依据；图片未作定量读取。
+
 ## 核读带来的制作选择
 
 **H01的调查与参与者意见分开。** FCIC2011年报告是官方调查，相关章节同时引用交易商和研究者评价。正文用“FCIC列举”标记结构与案例，用观点归属呈现对合成交易的分歧；未把某段调查判断写成危机全部因果的定论。图8.2为印刷144／PDF172页，已导出整页并目视核读，展示Abacus 2004-1类合成结构的买保护、已出资投资者、未出资投资者与现金池，没有误标为Abacus 2007-AC1。
@@ -108,6 +146,8 @@ Bank for International Settlements，BIS Quarterly Review，2010年12月，印�
 
 **H08只支持历史覆盖范围。** 2012年公告的两个CDS类别均为非分层指数，带具体系列、期限和适用条件；不据此宣称2026年所有单名或所有结构化保护都清算。现行覆盖率与最终救助回报不在本轮证据范围。
 
+**当时公开判断与事后调查互证。** H10和H11采用2007年原始业绩会记录，分别说明最终信用损失与流动性表态；H01对邮件、追缴和付款的重建保留2011年调查归属。11月会议日期按PDF页眉记11月8日，未沿用档案文件名的11月7日。H13保存2009年初的恢复预期，H14的2009年6月衰退终点属于2013年后见回顾。
+
 ## 已下载但没有采用的材料
 
 - 纽约联储Ashcraft与Schuermann 2008年SR318 PDF：本轮仅下载和生成文本，没有精读；现有机制页原来记录的读取范围仍由原作者负责。
@@ -117,8 +157,11 @@ Bank for International Settlements，BIS Quarterly Review，2010年12月，印�
 
 ## 进入正文的位置
 
+- [危机共同入口](../30_events/次贷危机与全球金融危机：2007—2009年.md)：共同背景、阶段及2009年初判断；CDS专题单独维护。
+- [AI事件历史比较](../30_events/AI融资扩张中的CDS价格分化：2026年10月.md#ai-comparison)：承接从CDS专题迁出的现实对照，由AI专题继续更新。
+
 - [CDS对象页](../10_concepts/信用违约互换CDS.md)：扩展定义适用范围，补危机时期的保护责任与现金、结算区别；保留原作者及AI内容。
-- [危机事件材料集](../30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md)：完整历史解释、原图及与2026年AI的逐项比较。
+- [危机事件材料集](../30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md)：CDS历史解释、当时判断与原图。
 - [证券化机制逻辑3](../20_mechanisms/证券化中的风险转移与激励.md#logic-3)：只增AIG特定保护安排的历史段，不重写2026年SRT判断。
 
 实际交付仍在工作区，以上链接按拟接入后的相对位置书写。已有AI资料复用[S-WS-3784900](S-WS-3784900.md)及其已审事件，本轮未核所有企业合同与报道转引的原研报。关键事实／计算到出处的映射保存在工作区`claims.json`，来源版本、原件哈希和已读范围保存在`sources.json`。
