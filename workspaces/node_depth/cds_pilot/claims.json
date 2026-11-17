@@ -1,0 +1,575 @@
+{
+  "authored_by": "/root/cds_depth_pilot",
+  "on": "2026-11-17",
+  "claims": [
+    {
+      "id": "CDS-H001",
+      "kind": "documented_structure",
+      "claim": "合成CDO用CDS引用证券；资金安排同时包括已出资票据投资者与未出资保护卖方。",
+      "evidence": [
+        {
+          "source_id": "H01",
+          "pdf_pages": [
+            170,
+            171,
+            172
+          ],
+          "printed_pages": "142—144",
+          "section": "Synthetic CDOs；图8.2"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#structure",
+        "10_concepts/信用违约互换CDS.md"
+      ],
+      "qualification": "不是所有合成结构都没有先期资金，图8.2为Abacus 2004-1类示意。"
+    },
+    {
+      "id": "CDS-H002",
+      "kind": "documented_example",
+      "claim": "约1200万美元CMLTI 2006-NC2 M9证券被超过5000万美元合成押注引用。",
+      "evidence": [
+        {
+          "source_id": "H01",
+          "pdf_pages": [
+            173
+          ],
+          "printed_pages": "145",
+          "section": "CMLTI 2006-NC2示例段"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#structure"
+      ],
+      "qualification": "比较证券某层面额与重复引用的合成暴露；不是最终社会净损失。"
+    },
+    {
+      "id": "CDS-H003",
+      "kind": "historical_scope",
+      "claim": "AIG的信用保护包含资本缓解和多部门CDO等不同组合，不能全记为次级房贷。",
+      "evidence": [
+        {
+          "source_id": "H02",
+          "pdf_pages": [
+            133,
+            134,
+            135,
+            136,
+            137
+          ],
+          "printed_pages": "133—137",
+          "section": "Super Senior Credit Default Swap Portfolio及分组合说明"
+        },
+        {
+          "source_id": "H01",
+          "pdf_pages": [
+            168,
+            169
+          ],
+          "printed_pages": "140—141",
+          "section": "AIG"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig",
+        "10_concepts/信用违约互换CDS.md"
+      ]
+    },
+    {
+      "id": "CDS-H004",
+      "kind": "documented_contract",
+      "claim": "AIG相关保护在订立时不先交抵押，但参考资产估值下降或AIG被降级可要求补抵押。",
+      "evidence": [
+        {
+          "source_id": "H01",
+          "pdf_pages": [
+            169
+          ],
+          "printed_pages": "141",
+          "section": "AIG collateral posting paragraph"
+        },
+        {
+          "source_id": "H02",
+          "pdf_pages": [
+            144,
+            145
+          ],
+          "printed_pages": "144—145",
+          "section": "Arbitrage Portfolio—Multi-Sector CDOs"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig",
+        "10_concepts/信用违约互换CDS.md",
+        "20_mechanisms/证券化中的风险转移与激励.md#logic-3"
+      ],
+      "qualification": "限定相关组合，非所有CDS的统一CSA条款。"
+    },
+    {
+      "id": "CDS-H005",
+      "kind": "documented_contract",
+      "claim": "AIG多数多部门CDO保护的抵押敞口使用名义额与参考CDO市值差额的修改公式，阈值受AIG或参考义务评级影响。",
+      "evidence": [
+        {
+          "source_id": "H02",
+          "pdf_pages": [
+            144,
+            145
+          ],
+          "printed_pages": "144—145",
+          "section": "Arbitrage Portfolio—Multi-Sector CDOs"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig"
+      ],
+      "qualification": "同一主协议的非CDS交易可增减抵押，不能仅凭单条CDS利差换算。"
+    },
+    {
+      "id": "CDS-H006",
+      "kind": "documented_disclosure",
+      "claim": "截至2007-06-30该超级优先组合没有收到抵押追缴；此后追缴主要涉及多部门CDO、参考价值恶化与AIG评级。",
+      "evidence": [
+        {
+          "source_id": "H02",
+          "pdf_pages": [
+            145
+          ],
+          "printed_pages": "145",
+          "section": "Collateral Calls"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig"
+      ]
+    },
+    {
+      "id": "CDS-H007",
+      "kind": "number_conversion",
+      "claim": "2007-12-31抵押存量合计28.79亿美元，多部门CDO27.18亿美元。",
+      "evidence": [
+        {
+          "source_id": "H02",
+          "pdf_pages": [
+            146
+          ],
+          "printed_pages": "146",
+          "section": "collateral postings table：2,879及2,718 million"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig"
+      ],
+      "qualification": "百万美元÷100换为亿美元；抵销前存量。"
+    },
+    {
+      "id": "CDS-H008",
+      "kind": "number_conversion",
+      "claim": "2008-06-30抵押存量合计138.19亿美元，多部门CDO132.41亿美元。",
+      "evidence": [
+        {
+          "source_id": "H02",
+          "pdf_pages": [
+            146
+          ],
+          "printed_pages": "146",
+          "section": "collateral postings table：13,819及13,241 million"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig"
+      ],
+      "qualification": "百万美元÷100换为亿美元；不是期间现金流或最终损失。"
+    },
+    {
+      "id": "CDS-H009",
+      "kind": "number_conversion",
+      "claim": "2008-09-30抵押存量合计328.14亿美元，多部门CDO314.69亿美元。",
+      "evidence": [
+        {
+          "source_id": "H02",
+          "pdf_pages": [
+            145,
+            146
+          ],
+          "printed_pages": "145—146",
+          "section": "表口径prior to offsets for other transactions；32,814及31,469 million"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig",
+        "10_concepts/信用违约互换CDS.md"
+      ],
+      "qualification": "仅超级优先CDS组合，非全部AIG衍生品；同表年末列为2008-12-31，而非2009年末。"
+    },
+    {
+      "id": "CDS-H010",
+      "kind": "documented_uncertainty",
+      "claim": "AIG年报称参考资产市值是后续抵押最重要因素，危机时无法合理估计未来须补抵押金额。",
+      "evidence": [
+        {
+          "source_id": "H02",
+          "pdf_pages": [
+            146
+          ],
+          "printed_pages": "146",
+          "section": "首个正文段The amount of future collateral posting requirements"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig"
+      ]
+    },
+    {
+      "id": "CDS-H011",
+      "kind": "documented_channel",
+      "claim": "证券借贷现金抵押投资于流动性恶化的RMBS，借券人返券索回现金形成另一条流动性压力。",
+      "evidence": [
+        {
+          "source_id": "H06",
+          "section": "Role of the Board > Securities Lending Facility；The November 2008 Restructuring"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig",
+        "10_concepts/信用违约互换CDS.md"
+      ],
+      "qualification": "与AIGFP CDS现金需求分开，不能直接与某时点抵押存量相加。"
+    },
+    {
+      "id": "CDS-H012",
+      "kind": "historical_authorization",
+      "claim": "2008-09-16初始授权最高850亿美元AIG循环信贷。",
+      "evidence": [
+        {
+          "source_id": "H06",
+          "section": "Role of the Board > Revolving Credit Facility"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#intervention"
+      ],
+      "qualification": "授权借款上限，不是同日提款或CDS最终损失。"
+    },
+    {
+      "id": "CDS-H013",
+      "kind": "transaction_numbers",
+      "claim": "MLIII获纽约联储约243亿美元优先融资、AIG50亿美元次级权益。",
+      "evidence": [
+        {
+          "source_id": "H05",
+          "section": "Background to the Maiden Lane III Transaction"
+        },
+        {
+          "source_id": "H02",
+          "pdf_pages": [
+            136,
+            137
+          ],
+          "printed_pages": "136—137",
+          "section": "Maiden Lane III"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#intervention"
+      ],
+      "qualification": "交易约数与融资口径；不与先前抵押简单相加。"
+    },
+    {
+      "id": "CDS-H014",
+      "kind": "transaction_numbers",
+      "claim": "MLIII购买面额621亿美元CDO，净付对手约268亿美元；对手保留约351亿美元先前抵押并终止相关保护。",
+      "evidence": [
+        {
+          "source_id": "H05",
+          "section": "Background to the Maiden Lane III Transaction"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#intervention"
+      ],
+      "qualification": "采用该2010说明整套约数；26.8+35.1不要求等于62.1。"
+    },
+    {
+      "id": "CDS-H015",
+      "kind": "interpretation_from_contract",
+      "claim": "终止相关保护减少持续补抵押需求，转成载体持有资产及偿还融资，公共部门承担融资与资产风险。",
+      "evidence": [
+        {
+          "source_id": "H05",
+          "section": "Background to the Maiden Lane III Transaction"
+        },
+        {
+          "source_id": "H06",
+          "section": "Role of the Board > The November 2008 Restructuring"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#intervention",
+        "20_mechanisms/证券化中的风险转移与激励.md#logic-3"
+      ],
+      "qualification": "本库基于资金安排的解释；不等于最终净成本已知。"
+    },
+    {
+      "id": "CDS-H016",
+      "kind": "attributed_audit_judgment",
+      "claim": "SIGTARP认为纽约联储政策选择削弱取得交易对手让步的能力，并对谈判策略提出批评。",
+      "evidence": [
+        {
+          "source_id": "H04",
+          "pdf_pages": [
+            22,
+            23,
+            33,
+            34
+          ],
+          "printed_pages": "18—19、29—30",
+          "section": "counterparty negotiations；Conclusions"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#intervention"
+      ],
+      "qualification": "审计评价，保留归属；未证明替代政策的实际结果。"
+    },
+    {
+      "id": "CDS-H017",
+      "kind": "attributed_policy_response",
+      "claim": "纽约联储2010说明强调支持AIG、保护纳税人和相关付款披露，否认其披露编辑意在隐藏约面值补偿。",
+      "evidence": [
+        {
+          "source_id": "H05",
+          "section": "Disclosure of Par Value Payments to CDS Counterparties；Comments by FRBNY Counsel…"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#intervention"
+      ],
+      "qualification": "被审计机构的回应，非独立裁定其所有法律判断正确。"
+    },
+    {
+      "id": "CDS-H018",
+      "kind": "historical_dates_and_price",
+      "claim": "雷曼2008-09-15破产，10-10CDS拍卖最终价格为面值8.625%。",
+      "evidence": [
+        {
+          "source_id": "H03",
+          "pdf_pages": [
+            32,
+            33,
+            34
+          ],
+          "printed_pages": "31—33",
+          "section": "Box 4 Lehman Brothers"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#lehman",
+        "10_concepts/信用违约互换CDS.md"
+      ],
+      "qualification": "拍卖结算价格，不是最终破产资产回收率。"
+    },
+    {
+      "id": "CDS-H019",
+      "kind": "arithmetic",
+      "claim": "使用8.625%拍卖价现金结算，每100名义额对应91.375保护支付。",
+      "evidence": [
+        {
+          "source_id": "H03",
+          "pdf_pages": [
+            32,
+            33,
+            34
+          ],
+          "printed_pages": "31—33",
+          "section": "Box 4 Lehman Brothers"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#lehman"
+      ],
+      "qualification": "本库100−8.625计算；限定适用该价格的合格保护，不直接乘总名义额得净支付。"
+    },
+    {
+      "id": "CDS-H020",
+      "kind": "reported_settlement",
+      "claim": "约720亿美元雷曼信用衍生品总名义额对应约52亿美元净资金支付。",
+      "evidence": [
+        {
+          "source_id": "H07",
+          "pdf_pages": [
+            7
+          ],
+          "printed_pages": "3",
+          "section": "III Discussion of Key Observations：One quantifiable outcome段"
+        },
+        {
+          "source_id": "H03",
+          "pdf_pages": [
+            34
+          ],
+          "printed_pages": "33",
+          "section": "Lehman settlement discussion"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#lehman",
+        "10_concepts/信用违约互换CDS.md"
+      ],
+      "qualification": "以雷曼为参考实体的信用事件结算，不是雷曼全部交易对手损失或全危机损失。"
+    },
+    {
+      "id": "CDS-H021",
+      "kind": "sample_scope",
+      "claim": "SSG访谈12家：4交易商、4买方、3服务商和1行业协会。",
+      "evidence": [
+        {
+          "source_id": "H07",
+          "pdf_pages": [
+            5
+          ],
+          "printed_pages": "1",
+          "section": "Introduction：To gain a perspective段"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#lehman"
+      ],
+      "qualification": "样本不等于整个市场；受访者结算有序判断见印刷3/PDF7。"
+    },
+    {
+      "id": "CDS-H022",
+      "kind": "documented_arrangement",
+      "claim": "交易仓库、主协议／结算流程和CLS净额减少实际资金转移；这不自动产生CCP信用保证。",
+      "evidence": [
+        {
+          "source_id": "H07",
+          "pdf_pages": [
+            9,
+            10
+          ],
+          "printed_pages": "5—6",
+          "section": "trade information warehouse及central settlement/netting discussion"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#lehman",
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#arrangements"
+      ],
+      "qualification": "仅相应参与者、合同与法律净额范围。"
+    },
+    {
+      "id": "CDS-H023",
+      "kind": "risk_distinction",
+      "claim": "雷曼作为参考实体的CDS结算，与其作为交易对手倒闭导致终止和替换的风险不同。",
+      "evidence": [
+        {
+          "source_id": "H03",
+          "pdf_pages": [
+            34
+          ],
+          "printed_pages": "33",
+          "section": "Box 4结算后counterparty讨论"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#lehman",
+        "10_concepts/信用违约互换CDS.md"
+      ]
+    },
+    {
+      "id": "CDS-H024",
+      "kind": "historical_plan",
+      "claim": "SSG2009-03报告将拍卖写入标准定义列为计划，目标延后至2009-04初。",
+      "evidence": [
+        {
+          "source_id": "H07",
+          "pdf_pages": [
+            7
+          ],
+          "printed_pages": "3",
+          "section": "A. Hardwiring of the Auction Process into Standard Credit Derivatives Definitions"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#arrangements"
+      ],
+      "qualification": "不以这份事前计划证明后来已经完成。"
+    },
+    {
+      "id": "CDS-H025",
+      "kind": "historical_regulatory_scope",
+      "claim": "CFTC2012-11-28首批清算决定覆盖特定非分层CDX/iTraxx指数类别，并有系列、期限、参与者与豁免条件。",
+      "evidence": [
+        {
+          "source_id": "H08",
+          "section": "Classes of Swaps Required to be Cleared；North American/European Untranched CDS Indices Class tables；Implementation of the Clearing Requirement"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#arrangements",
+        "10_concepts/信用违约互换CDS.md"
+      ],
+      "qualification": "不解释为所有单名或结构化信用保护都已清算，未核2026现行覆盖。"
+    },
+    {
+      "id": "CDS-H026",
+      "kind": "current_comparison_limit",
+      "claim": "已保存2026年AI报道支持比较融资责任与保护价格／需求，未给出AIG式主要卖方集中、CSA与融资网络。",
+      "evidence": [
+        {
+          "source_id": "S-WS-3784900",
+          "graph_path": "graph/30_events/AI融资扩张中的CDS价格分化：2026年10月.md",
+          "section": "financing、basis、tests及结尾范围"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#ai-comparison"
+      ],
+      "qualification": "本次对已保存证据的范围判断，不是声称现实一定没有相关结构。"
+    },
+    {
+      "id": "CDS-H027",
+      "kind": "analytical_inference",
+      "claim": "最终损失、合约估值抵押与现金可得性需要分别评估；风险转移后仍依赖保护卖方及时履约。",
+      "evidence": [
+        {
+          "source_id": "H02",
+          "pdf_pages": [
+            143,
+            144,
+            145,
+            146
+          ],
+          "printed_pages": "143—146",
+          "section": "Credit Support Arrangements、Collateral Calls"
+        },
+        {
+          "source_id": "H06",
+          "section": "The November 2008 Restructuring"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#aig",
+        "20_mechanisms/证券化中的风险转移与激励.md#logic-3",
+        "10_concepts/信用违约互换CDS.md"
+      ],
+      "qualification": "本库解释，非论文直接估计的净因果效应。"
+    },
+    {
+      "id": "CDS-H028",
+      "kind": "historical_implementation",
+      "claim": "BIS2010Q4回顾确认2009年4月Big Bang文档变化：标准票息加upfront、决定委员会确定信用事件、拍卖写入合同等。",
+      "evidence": [
+        {
+          "source_id": "H09",
+          "section": "网页专栏全部正文（摘自2010Q4印刷65页）"
+        }
+      ],
+      "used_in": [
+        "30_events/次贷与金融危机中的CDS：风险集中、现金压力与违约结算.md#arrangements"
+      ],
+      "qualification": "2009年变化固化既有拍卖和标准化单名合同，不是拍卖首次出现；未读具体协议全套条款。"
+    }
+  ]
+}

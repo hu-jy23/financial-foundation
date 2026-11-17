@@ -50,7 +50,7 @@
 
 ## 当前进度
 
-2026-11-17建立分支`research/node-depth-20261117`。本次完成研究方向说明，正式graph保持275节点；CDS历史试点尚未开始搜集和制作。下一步先明确试点问题与材料范围。
+2026-11-17，CDS纵深试点完成制作与核读，待用户审阅：[试点报告](workspaces/node_depth/报告.html)。拟更新CDS概念和证券化机制，新增危机事件材料集及Source笔记；尚未接入正式graph，节点保持275个。[15个概念、5个机制的任务](workspaces/node_depth/selection/SELECTION.md)已备好，包含CDS；其余19项等待试点审阅后再启动。
 
 ## 项目目录与既有成果
 

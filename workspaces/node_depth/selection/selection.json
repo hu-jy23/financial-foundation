@@ -1,0 +1,1524 @@
+{
+  "schema_version": 1,
+  "prepared_on": "2026-11-17",
+  "branch": "research/node-depth-20261117",
+  "input_graph_commit": "3a3f44ee4b95a7a8077391dcfade93dc8ad492d6",
+  "scope": {
+    "existing_nodes": 275,
+    "existing_concepts_including_subconcepts": 194,
+    "existing_mechanisms": 81,
+    "selected_concepts": 15,
+    "selected_mechanisms": 5,
+    "awaiting_pilot_review": 19,
+    "completed_pending_review": 1
+  },
+  "coverage_method": "逐页扫描275个正式concept/mechanism正文中的历史/时间线、预期与来源范围；候选复读正文并核对相邻页职责。仅现有本地材料用于本次选题判断，外部历史材料方向均未作为已读证据。",
+  "items": [
+    {
+      "id": "C-S2-CDS",
+      "current_coverage": "现页解释信用保护、价差、交易责任，并接入近期AI融资和CDX；缺少围绕2007—09年CDS形成的完整历史解释。证券化、流动性和银行页已有部分危机背景，需串联现有材料。",
+      "research_questions": [
+        "房贷损失如何进入现金证券与合成敞口，谁实际承担信用风险，谁另外承担保护卖方风险？",
+        "AIG补抵押、信用事件结算及融资撤回分别改变什么，哪些流行数量比较混淆名义本金、净结算、损失与现金要求？",
+        "后续合同、清算和监管改变哪些传播条件，今天AI CDS与当年在具体安排上有哪些可比较与不可直接比较之处？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "FCIC最终报告及相关调查、AIG和相关机构披露；优先复用正在制作的CDS试点实际核读材料。",
+          "reading_status": "initial_direction_see_pilot_sources_for_actual_reading"
+        },
+        {
+          "direction": "ISDA信用事件拍卖与净额结算资料、监管机构对清算及保证金改革的原始文件。",
+          "reading_status": "initial_direction_see_pilot_sources_for_actual_reading"
+        }
+      ],
+      "expected_update_targets": [
+        "CDS现页的工具用途、历史入口与对手方解释；2007—09年CDS事件材料集及来源记录。",
+        "证券化等邻接页只提交与本次证据直接相关的修改建议，保留各自作者与现有来源。"
+      ],
+      "acceptance_checks": [
+        "能把房贷信用损失、信用保护责任、估值变化与即时付款要求分开讲清。",
+        "区分调查后重建与当时公开信息；2026 AI类比有具体合同及主体依据。"
+      ],
+      "neighbor_ids": [
+        "C-CREDIT-13",
+        "R-BANKING-09",
+        "C-S2-CDX",
+        "C-CREDIT-10"
+      ],
+      "shared_event_responsibility": "cds_pilot负责2007—09年CDS材料集的共同入口、阶段及CDS主线；其他任务对共同段落提修改建议，由root统一合并。",
+      "dependencies": [],
+      "priority": 0,
+      "sequence": 1,
+      "title": "信用违约互换CDS",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/信用违约互换CDS.md",
+      "input_sha256": "032db38317f93921e7c8d4c32667754852f8172aa6240166f97dee2cb5af0011",
+      "evidence_as_of_in_current_page": "2026-11-13",
+      "existing_source_ids": [
+        "S-WS-3784900"
+      ],
+      "current_history_sections": [
+        "## 历史与关系入口"
+      ],
+      "status": "completed_pending_review",
+      "task_file": "tasks/01_C-S2-CDS.md",
+      "delivery_directory": "workspaces/node_depth/cds_pilot",
+      "neighbors": [
+        {
+          "id": "C-CREDIT-13",
+          "title": "证券化与资产支持证券",
+          "path": "graph/10_concepts/证券化与资产支持证券.md"
+        },
+        {
+          "id": "R-BANKING-09",
+          "title": "证券化中的风险转移与激励",
+          "path": "graph/20_mechanisms/证券化中的风险转移与激励.md"
+        },
+        {
+          "id": "C-S2-CDX",
+          "title": "CDX信用衍生品指数",
+          "path": "graph/10_concepts/CDX信用衍生品指数.md"
+        },
+        {
+          "id": "C-CREDIT-10",
+          "title": "抵押品与折扣率haircut",
+          "path": "graph/10_concepts/抵押品与折扣率haircut.md"
+        }
+      ],
+      "pilot_reading_record": "workspaces/node_depth/cds_pilot/sources.json"
+    },
+    {
+      "id": "C-CREDIT-13",
+      "current_coverage": "已讲现金证券化、分层、现金与合成结构、ABCP；已有2007—10年非机构RMBS发行收缩与汽车ABS恢复、2014风险保留及2024—26欧盟材料。旧页并非没有次贷历史。",
+      "research_questions": [
+        "从贷款发起、仓储融资、发行到再证券化，风险在何处转移，何处以承诺、保留份额或流动性支持留在原机构？",
+        "为什么房贷证券化的历史不能直接代表汽车ABS等资产池；哪些贷款质量、提前偿付与分层相关性证据改变了原先的判断？",
+        "发行萎缩究竟反映预期损失、估值不透明、融资断裂还是制度限制，现页哪些泛化表述应据证据收窄？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先重读本页已列Fed 2010年风险保留报告及其发行表、现有T2证券化段落。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：FCIC房贷发起与证券化章节、SEC相关发行披露、银行仓储或ABCP承诺披露；材料范围与CDS试点协调。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "修改对象页证券化链条、风险保留与不同资产类别的历史解释；保留已核发行与制度段落。",
+        "向CDS共同事件提出证券化阶段及示意图的补充片段，另列确有独立价值的机制页修改建议。"
+      ],
+      "acceptance_checks": [
+        "一笔贷款风险的经济归属与法律转移、银行融资承诺能对上具体主体。",
+        "对比的资产类别具有相同数量口径，不将发行消失直接当成全部存量损失。"
+      ],
+      "neighbor_ids": [
+        "R-BANKING-09",
+        "C-S2-CDS",
+        "C-CREDIT-10"
+      ],
+      "shared_event_responsibility": "2007—09年共同事件入口由01 CDS试点维护；本任务负责证券化链条与资产类别差异的模块草案。",
+      "dependencies": [
+        "C-S2-CDS"
+      ],
+      "priority": 1,
+      "sequence": 2,
+      "title": "证券化与资产支持证券",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/证券化与资产支持证券.md",
+      "input_sha256": "74a18cadf37525f2abec88d8fcab3cf24d451fee12ba6fbc0ec1f7b7d2780073",
+      "evidence_as_of_in_current_page": "2026-10-21",
+      "existing_source_ids": [
+        "S-C-CREDIT-13-01",
+        "S-C-CREDIT-13-02",
+        "S-C-CREDIT-13-03",
+        "S-C-CREDIT-13-04",
+        "S-C-CREDIT-13-05",
+        "S-C-CREDIT-13-06",
+        "S-C-CREDIT-13-07",
+        "S-C-CREDIT-13-08",
+        "S-C-CREDIT-13-09"
+      ],
+      "current_history_sections": [
+        "## 本对象的历史与带归属判断",
+        "### 2007—2010：融资市场收缩与资产类别分化",
+        "### 2014：风险保留进入规则，分层模型风险仍被强调",
+        "### 2024—2026年欧洲发行：外售与总量给出不同信号",
+        "### 2025—2026：欧洲振兴议程及其信息边界"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/02_C-CREDIT-13.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/02_C-CREDIT-13",
+      "neighbors": [
+        {
+          "id": "R-BANKING-09",
+          "title": "证券化中的风险转移与激励",
+          "path": "graph/20_mechanisms/证券化中的风险转移与激励.md"
+        },
+        {
+          "id": "C-S2-CDS",
+          "title": "信用违约互换CDS",
+          "path": "graph/10_concepts/信用违约互换CDS.md"
+        },
+        {
+          "id": "C-CREDIT-10",
+          "title": "抵押品与折扣率haircut",
+          "path": "graph/10_concepts/抵押品与折扣率haircut.md"
+        }
+      ]
+    },
+    {
+      "id": "C-CREDIT-10",
+      "current_coverage": "现页精确区分市值分母haircut与现金分母initial margin，已有价格下跌与提高折扣的算例；历史包括2022 Form PF零或负折扣、2023静态2%反事实、2024—25政策讨论及2026央行抵押品安排。",
+      "research_questions": [
+        "2007—09年哪些市场的折扣实际上调，哪些通过缩短期限、拒绝续作或取消合格抵押品收紧？",
+        "同样的资产价格下跌，在双边回购、三方回购与央行融资中为何会产生不同补款要求？",
+        "将危机中的特定抵押品经验用于当前国债融资，须保留哪些合约、对手方和期限条件？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先核现页ICMA定义、Form PF及相关现有来源，再检索本地材料中的回购章节。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：纽约联储2007—09年三方回购研究、FSB证券融资折扣框架及机构实际融资披露；经验研究应核其抵押品和样本。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "对象页增补融资条款演变及历史对比，必要时修订现有杠杆例子的适用范围。",
+        "对保证金螺旋页提供合约证据片段，不重写全篇反馈机制。"
+      ],
+      "acceptance_checks": [
+        "所有历史百分数能识别分母、资产、市场、期限与观测来源。",
+        "能识别融资撤回与折扣上调的不同路径，不能用价格波动证明haircut必升。"
+      ],
+      "neighbor_ids": [
+        "R-LIQ-SPIRAL",
+        "C-DERIV-14",
+        "C-LIQ-FUND"
+      ],
+      "shared_event_responsibility": "负责折扣条款及融资能力模块；2008共同背景交01，反馈过程交16。",
+      "dependencies": [
+        "C-S2-CDS"
+      ],
+      "priority": 1,
+      "sequence": 3,
+      "title": "抵押品与折扣率haircut",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/抵押品与折扣率haircut.md",
+      "input_sha256": "d1c5ced5403d770aa35b06557d3066dec35d23449bebbbbaa6934e10a9bb8906",
+      "evidence_as_of_in_current_page": "2026-06-11",
+      "existing_source_ids": [
+        "S-C-CREDIT-10-01",
+        "S-C-CREDIT-10-02",
+        "S-C-CREDIT-10-03",
+        "S-C-CREDIT-10-04",
+        "S-C-CREDIT-10-05",
+        "S-C-CREDIT-10-06",
+        "S-C-CREDIT-10-07"
+      ],
+      "current_history_sections": [
+        "## 本对象的历史与判断",
+        "### 2022年末数据、2023年研究：低折扣与集中融资",
+        "### 2024—2025：从单笔折扣转向完整风险安排",
+        "### 2026年英国央行：合格性与折扣表分别调整"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/03_C-CREDIT-10.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/03_C-CREDIT-10",
+      "neighbors": [
+        {
+          "id": "R-LIQ-SPIRAL",
+          "title": "保证金驱动的流动性螺旋",
+          "path": "graph/20_mechanisms/保证金驱动的流动性螺旋.md"
+        },
+        {
+          "id": "C-DERIV-14",
+          "title": "保证金与追加保证金",
+          "path": "graph/10_concepts/保证金与追加保证金.md"
+        },
+        {
+          "id": "C-LIQ-FUND",
+          "title": "融资流动性",
+          "path": "graph/10_concepts/融资流动性.md"
+        }
+      ]
+    },
+    {
+      "id": "C-MONEY-19",
+      "current_coverage": "现页已按政府型、prime、零售与机构分型，已有2020年3月prime赎回和政府型流入、2023改革及2024实施、2023—25 ON RRP和中欧制度；尚未具体展开2008破净与支持安排如何改变承诺。",
+      "research_questions": [
+        "2008 Reserve Primary的资产损失如何变成持有人先赎优势，又如何影响商业票据融资？",
+        "2008临时保证及流动性安排各支持谁、用什么资产、承担什么责任；与2020支持及赎回限制争议有何连续和变化？",
+        "改革如何改变净值、费用与流动性管理激励，为什么prime的历史不能用于所有政府型或中国货币基金？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先重读现页2020与2023改革来源、相邻ON RRP配置页。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：SEC Reserve Primary档案及2010/2014改革文件、财政部2008临时保证文件、美联储AMLF/CPFF/MMLF说明；复用CDS试点的2008共同背景。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "对象页形成破净、挤兑激励及制度演变的连贯解释，保留2020与近年配置历史。",
+        "2008货币基金模块交共同事件负责人；2020货币基金模块由本任务维护并提供共同入口建议。"
+      ],
+      "acceptance_checks": [
+        "净值损失、赎回规模、承诺覆盖和最终公共损失分别可定位。",
+        "比较2008与2020时说明基金类别、规则版本与工具准入，改革效果有证据或明确保留解释争议。"
+      ],
+      "neighbor_ids": [
+        "C-CREDIT-15",
+        "R-BANKING-05"
+      ],
+      "shared_event_responsibility": "2008背景由01维护；本任务负责2008货基模块及2020货基模块，12 ETF独立维护2020 ETF模块，18美元融资维护跨境融资模块。",
+      "dependencies": [
+        "C-S2-CDS"
+      ],
+      "priority": 1,
+      "sequence": 4,
+      "title": "货币市场基金",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/货币市场基金.md",
+      "input_sha256": "c84fdab35713dff3ae035b0cec265c8f6fad18ef6b7a64fc4d32114e01a37988",
+      "evidence_as_of_in_current_page": "2026-05-11",
+      "existing_source_ids": [
+        "S-C-MONEY-19-01",
+        "S-C-MONEY-19-02",
+        "S-C-MONEY-19-03",
+        "S-C-MONEY-19-04",
+        "S-C-MONEY-19-05",
+        "S-C-MONEY-19-06"
+      ],
+      "current_history_sections": [
+        "## 本对象的历史与判断",
+        "### 2020年：同为货币基金，流量方向可以相反",
+        "### 2023制定、2024分步合规：改变赎回成本的承担方式",
+        "### 2023—2025：工具余额减少与基金增加短券持仓"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/04_C-MONEY-19.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/04_C-MONEY-19",
+      "neighbors": [
+        {
+          "id": "C-CREDIT-15",
+          "title": "挤兑与存款迁移",
+          "path": "graph/10_concepts/挤兑与存款迁移.md"
+        },
+        {
+          "id": "R-BANKING-05",
+          "title": "流动性错配下的挤兑机制",
+          "path": "graph/20_mechanisms/流动性错配下的挤兑机制.md"
+        }
+      ]
+    },
+    {
+      "id": "C-DERIV-CCP",
+      "current_coverage": "当前来源主要为T2第六版第9章，解释中央对手方、净额结算与违约资源等组织逻辑；未形成具体CCP历史压力事件和原始规则版本的核读。",
+      "research_questions": [
+        "2008之后把哪些风险从双边安排转入清算机构，会员、客户和CCP各自的付款或损失吸收责任怎样改变？",
+        "从实际压力事件看，净额结算减少敞口为何仍可能伴随集中现金需求或清算中断？",
+        "违约资源、评估追加、客户隔离及恢复措施在选定市场如何运行，哪些现页概括需要按产品和辖区改写？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "重读本页T2第9章，并寻找现有保证金和交易对手材料。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：CPMI-IOSCO原则及压力期保证金评估、选定CCP历史规则与违约处置披露；可从2020市场压力或2022 LME镍事件筛选有解释收益的一例，尚未决定采用。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "对象页补制度演变、具体资源使用和会员客户责任；以实际证据修订普遍化的安全叙述。",
+        "若选LME等独立事件，提出事件稿及与保证金螺旋的联系；不强制新增事件页。"
+      ],
+      "acceptance_checks": [
+        "所述违约瀑布能对应一家清算机构、具体规则版本和产品，不能假定全球顺序相同。",
+        "能分别解释减少双边信用风险与集中流动性要求，并评估至少一个由证据支持的失效或缓冲条件。"
+      ],
+      "neighbor_ids": [
+        "C-DERIV-14",
+        "C-S2-CDS",
+        "R-LIQ-SPIRAL"
+      ],
+      "shared_event_responsibility": "2008改革背景复用01；具体CCP规则与所选压力事件模块由本任务维护，涉及螺旋的通用解释交16。",
+      "dependencies": [
+        "C-S2-CDS"
+      ],
+      "priority": 2,
+      "sequence": 5,
+      "title": "中央对手方与集中清算",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/中央对手方与集中清算.md",
+      "input_sha256": "3ca5a2722425fd882d4eff24d5358c52204d56bdff14c02ffbf81b4c45082a80",
+      "evidence_as_of_in_current_page": "None",
+      "existing_source_ids": [
+        "S-T2-6E-CH9-CCP"
+      ],
+      "current_history_sections": [],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/05_C-DERIV-CCP.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/05_C-DERIV-CCP",
+      "neighbors": [
+        {
+          "id": "C-DERIV-14",
+          "title": "保证金与追加保证金",
+          "path": "graph/10_concepts/保证金与追加保证金.md"
+        },
+        {
+          "id": "C-S2-CDS",
+          "title": "信用违约互换CDS",
+          "path": "graph/10_concepts/信用违约互换CDS.md"
+        },
+        {
+          "id": "R-LIQ-SPIRAL",
+          "title": "保证金驱动的流动性螺旋",
+          "path": "graph/20_mechanisms/保证金驱动的流动性螺旋.md"
+        }
+      ]
+    },
+    {
+      "id": "C-POL-CREDIBILITY",
+      "current_coverage": "已覆盖2012目标、2020 FAIT、2021—24预测误差及政策转向、家庭与专业预期差异和2025框架调整；现页明确未重建1970年代实时预期。",
+      "research_questions": [
+        "美国1960年代后期到1982年的政策反复中，市场与家庭依据什么更新对央行的判断？",
+        "1979年操作程序变化、持续紧缩及通胀回落的顺序，如何区分政策承诺、经济闲置、能源变化与可信度作用？",
+        "把这段历史用于解释2021之后的预期锚定，哪些制度、调查和价格指标已变，什么观察会削弱可信度这一归因？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先读现页2020—25框架与预期材料及工资—价格反馈页现有1970年代比较。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：美联储历史、1979—82 FOMC会议记录及当时调查/预测档案；竞争解释可查学术研究，需区分回看论文与当时材料。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "对象页补从行为与预期辨认可信度的历史过程；已有近年段落作比较并保留原时点。",
+        "为07通胀任务维护的“大通胀”共同事件提交政策、操作程序与实时判断模块。"
+      ],
+      "acceptance_checks": [
+        "当时调查、市场隐含量和事后解释不混作同一预期序列。",
+        "不凭后来通胀下降证明此前所有人已信任央行；成本、替代解释和政策反复须能解释。"
+      ],
+      "neighbor_ids": [
+        "C-INF-INFLATION",
+        "R-GROWTH-04",
+        "C-IR-POLICY"
+      ],
+      "shared_event_responsibility": "07维护大通胀共同入口；本任务负责央行政策和可信度模块，20负责实物石油冲击模块。",
+      "dependencies": [
+        "C-INF-INFLATION"
+      ],
+      "priority": 1,
+      "sequence": 6,
+      "title": "央行可信度",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/央行可信度.md",
+      "input_sha256": "68b518d84e905a2463b164543ce82bab46f80a9e809e08cbe756116159f0d551",
+      "evidence_as_of_in_current_page": "2025-08-22",
+      "existing_source_ids": [
+        "S-C-POL-CREDIBILITY-01",
+        "S-C-POL-CREDIBILITY-02",
+        "S-C-POL-CREDIBILITY-03",
+        "S-C-POL-CREDIBILITY-04",
+        "S-C-POL-CREDIBILITY-05"
+      ],
+      "current_history_sections": [
+        "## 本对象的历史与有归属的判断",
+        "### 2012—2020：从公开目标到低通胀下的补偿策略",
+        "### 2021—2024：预测失误、政策纠正与群体分化",
+        "### 2025年8月：调整框架，不改变长期数值目标"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/06_C-POL-CREDIBILITY.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/06_C-POL-CREDIBILITY",
+      "neighbors": [
+        {
+          "id": "C-INF-INFLATION",
+          "title": "通货膨胀",
+          "path": "graph/10_concepts/通货膨胀.md"
+        },
+        {
+          "id": "R-GROWTH-04",
+          "title": "工资—价格反馈",
+          "path": "graph/20_mechanisms/工资—价格反馈.md"
+        },
+        {
+          "id": "C-IR-POLICY",
+          "title": "政策利率与目标区间",
+          "path": "graph/10_concepts/政策利率与目标区间.md"
+        }
+      ]
+    },
+    {
+      "id": "C-INF-INFLATION",
+      "current_coverage": "现页已有价格与指数辨析、1999 CPI方法材料、2021—23冲击与通胀状态解释、2024—25读数以及2026柴油预测的具体入口。未系统组织1965—82大通胀的结构和前后判断。",
+      "research_questions": [
+        "哪些变化将相对价格冲击变成持续广泛通胀，需求、能源、工资制度与政策反应各有哪些实际证据？",
+        "1970年代与2021—23年的共同点和差别落在哪些市场与制度；哪些流行类比会忽略冲击前的环境？",
+        "去通胀过程中价格增速、价格水平、实际收入与劳动市场如何错开，怎样保存当时的解释和后来修正？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先核现页CPI方法、Bernanke—Blanchard及BIS研究的实际读取范围。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：BLS历史指数与版本说明、Fed/政府实时经济报告、原始工资与能源资料；学术分解只作为有假设的解释，不采用教材专有toy模型。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "对象页补一条能解释持续性与退潮的历史主线，保留统计定义和近年具体入口。",
+        "维护大通胀共同事件入口，协调政策与油流模块；历史是否分期拆页据阅读决定。"
+      ],
+      "acceptance_checks": [
+        "区分CPI/PCE、总体/核心、同比/价格水平与当时/修订数据。",
+        "能说明至少一项证据如何改变原有因果解释，不能仅排列年度通胀数字。"
+      ],
+      "neighbor_ids": [
+        "C-POL-CREDIBILITY",
+        "R-OIL-SHOCK",
+        "R-DEBT-DEFLATION"
+      ],
+      "shared_event_responsibility": "负责1965—82大通胀共同入口、价格和广度主线；06提交政策模块，20提交供给与需求模块，08提交黄金制度关联。",
+      "dependencies": [],
+      "priority": 1,
+      "sequence": 7,
+      "title": "通货膨胀",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/通货膨胀.md",
+      "input_sha256": "3ee84a37a277f9a378040354ea1b971e3a4543838e633df05b6e8d4e457d2f90",
+      "evidence_as_of_in_current_page": "2026-10-19",
+      "existing_source_ids": [
+        "S-C-INF-INFLATION-01",
+        "S-C-INF-INFLATION-02",
+        "S-C-INF-INFLATION-03",
+        "S-C-INF-INFLATION-04",
+        "S-C-INF-INFLATION-05",
+        "S-C-INF-INFLATION-06",
+        "S-C-INF-INFLATION-07",
+        "S-C-INF-INFLATION-08",
+        "S-WS-3783904"
+      ],
+      "current_history_sections": [
+        "## 本对象的历史与解释演变",
+        "### 2021—2023：供需错配、价格冲击与持久性问题",
+        "### 2024—2025年初：去通胀并非每月直线下降",
+        "### 2026年10月：直接分项与间接成本要用不同证据"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/07_C-INF-INFLATION.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/07_C-INF-INFLATION",
+      "neighbors": [
+        {
+          "id": "C-POL-CREDIBILITY",
+          "title": "央行可信度",
+          "path": "graph/10_concepts/央行可信度.md"
+        },
+        {
+          "id": "R-OIL-SHOCK",
+          "title": "原油供给冲击的宏观传导",
+          "path": "graph/20_mechanisms/原油供给冲击的宏观传导.md"
+        },
+        {
+          "id": "R-DEBT-DEFLATION",
+          "title": "债务通缩",
+          "path": "graph/20_mechanisms/债务通缩.md"
+        }
+      ]
+    },
+    {
+      "id": "C-ASSET-GOLD",
+      "current_coverage": "现页已有1971关闭美元兑金窗口、2004 GLD与2016上海金、2024—26供需、统计修订、储备市值及AI风险配置争论；1971已有起点，并非空白。",
+      "research_questions": [
+        "此前的兑换责任、美元持有人选择与官方黄金安排如何产生压力，1971之后哪些承诺与市场制度先后改变？",
+        "从官方定价/兑换到私人投资与市场基准的演变，如何改变“黄金是货币、商品、储备和避险资产”的实际含义？",
+        "选定1970—80年代或1990年代储备处置的历史材料，判断哪些驱动可用于解释现今购金，哪些经验须按制度分开？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先重读本页已列Fed 1971制度回顾、LBMA账户和WGC统计，及黄金机会成本页。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：美联储/美国财政部黄金兑换档案、BIS国际货币体系研究、IMF黄金制度材料与1999央行黄金协议；按研究问题筛选，不要求全收。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "扩充已有1971小节前因后果及权利变化，保留近年吨数、版本与渠道数据。",
+        "具体黄金制度事件由本任务维护，宏观通胀和政策背景链接07/06；不另写一篇笼统大通胀史。"
+      ],
+      "acceptance_checks": [
+        "能区分官方兑换资格、私人持有与市场报价的不同制度阶段。",
+        "黄金上涨/购金不能独立证明某种货币信用解释；必须比较实际买家或制度证据。"
+      ],
+      "neighbor_ids": [
+        "R-GOLD-REALRATES",
+        "C-FX-USD",
+        "C-INF-INFLATION"
+      ],
+      "shared_event_responsibility": "负责黄金兑换与市场制度演变模块；宏观通胀入口交07，避免重复06政策史。",
+      "dependencies": [
+        "C-INF-INFLATION"
+      ],
+      "priority": 2,
+      "sequence": 8,
+      "title": "黄金",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/黄金.md",
+      "input_sha256": "d4b5aadb293ad93114dd4628fb9583c1737a07606f92af39a36c6f2ea0ca8d9d",
+      "evidence_as_of_in_current_page": "2026-11-03",
+      "existing_source_ids": [
+        "S-CP-GOLD-01",
+        "S-CP-GOLD-02",
+        "S-CP-GOLD-03",
+        "S-CP-GOLD-04",
+        "S-CP-GOLD-05",
+        "S-CP-GOLD-06",
+        "S-CP-GOLD-07",
+        "S-CP-GOLD-08",
+        "S-CP-GOLD-09",
+        "S-CP-GOLD-10",
+        "S-CP-GOLD-11",
+        "S-CP-GOLD-12",
+        "S-CP-GOLD-13",
+        "S-CP-GOLD-14",
+        "S-CP-GOLD-15",
+        "S-CP-GOLD-16",
+        "S-WS-3764710",
+        "S-WS-3784163",
+        "S-WS-3785076"
+      ],
+      "current_history_sections": [
+        "## 本对象的历史",
+        "### 2004—2016：投资和报价渠道扩展",
+        "### 2024全年数据于2025年初发布：买家结构需要拆开看",
+        "### 2026年1月：存量市值接近带来的配置争论",
+        "### 2026年二季度：价格、数量与统计修订分别变化",
+        "### 2026年10月：黄金用于AI风险对冲的条件",
+        "### 2026年11月：投资渠道分化与全年预期下修"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/08_C-ASSET-GOLD.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/08_C-ASSET-GOLD",
+      "neighbors": [
+        {
+          "id": "R-GOLD-REALRATES",
+          "title": "黄金的机会成本机制",
+          "path": "graph/20_mechanisms/黄金的机会成本机制.md"
+        },
+        {
+          "id": "C-FX-USD",
+          "title": "美元",
+          "path": "graph/10_concepts/美元.md"
+        },
+        {
+          "id": "C-INF-INFLATION",
+          "title": "通货膨胀",
+          "path": "graph/10_concepts/通货膨胀.md"
+        }
+      ]
+    },
+    {
+      "id": "C-COMMOD-03",
+      "current_coverage": "现页已有2020负WTI的交割与库容解释、2023纳入WTI Midland及2024评价、2025过剩与2026运输受限的不同预测窗口。",
+      "research_questions": [
+        "原油从哪些定价和交易安排演变到Brent/WTI基准，参与者为何需要一个可交割、可对冲的参照？",
+        "2011年前后Brent—WTI价差与后续管线、出口规则及美国油流变化，能否揭示品质、地点和贸易限制各自作用？",
+        "这些演变怎样帮助阅读2023 Midland调整与2020负价；现有历史哪些应保留，哪些需要补实际合约和物流证据？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "重读现页ICE、Platts、CME与EIA已列来源；优先查已有油价资料原件。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：EIA 2010年代库欣库存与运输研究、美国原油出口限制变化原文、ICE/CME/Platts历史方法文件。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "对象页以报价基准、可交付性和跨区贸易演变为主补历史，必要时细化既有价差解释。",
+        "向20提交商品条件片段；宏观通胀与货币反应仍由20维护。"
+      ],
+      "acceptance_checks": [
+        "每项价格能对应基准、地点、月份、交货或评估规则，价差两端口径匹配。",
+        "能把管线/出口约束的证据接到价格差异，不能将一般时间相关当成全部归因。"
+      ],
+      "neighbor_ids": [
+        "R-OIL-SHOCK",
+        "R-COMMODITY-03",
+        "C-COMMOD-13"
+      ],
+      "shared_event_responsibility": "负责商品制度、Brent/WTI报价与物流历史；20负责供需冲击分解及宏观后果，双方不各写一篇1970年代油危机简史。",
+      "dependencies": [],
+      "priority": 2,
+      "sequence": 9,
+      "title": "原油与Brent/WTI",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/原油与Brent／WTI.md",
+      "input_sha256": "26dbac6783a0922182449498be9c4a39c2a9fd1112d69d5f25bf9bea979ffbcf",
+      "evidence_as_of_in_current_page": "2026-10-06",
+      "existing_source_ids": [
+        "S-C-COMMOD-03-01",
+        "S-C-COMMOD-03-02",
+        "S-C-COMMOD-03-03",
+        "S-C-COMMOD-03-04",
+        "S-C-COMMOD-03-05",
+        "S-C-COMMOD-03-06",
+        "S-C-COMMOD-03-07",
+        "S-C-COMMOD-03-08"
+      ],
+      "current_history_sections": [
+        "## 本对象的历史与预期",
+        "### 2020年负WTI：特定合约与交割约束",
+        "### 2023—2024年：美国原油进入Brent的定价基础",
+        "### 2025年与2026年：先保存各自信息集"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/09_C-COMMOD-03.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/09_C-COMMOD-03",
+      "neighbors": [
+        {
+          "id": "R-OIL-SHOCK",
+          "title": "原油供给冲击的宏观传导",
+          "path": "graph/20_mechanisms/原油供给冲击的宏观传导.md"
+        },
+        {
+          "id": "R-COMMODITY-03",
+          "title": "库存与便利收益、期货曲线",
+          "path": "graph/20_mechanisms/库存与便利收益、期货曲线.md"
+        },
+        {
+          "id": "C-COMMOD-13",
+          "title": "OPEC与闲置产能",
+          "path": "graph/10_concepts/OPEC与闲置产能.md"
+        }
+      ]
+    },
+    {
+      "id": "C-FX-05",
+      "current_coverage": "已有1983制度起点及2005强弱方保证的精确调整，2025先强后弱操作、总结余和HIBOR条件解释；未展开1997—98市场压力与随后操作机制演变。",
+      "research_questions": [
+        "1997—98年对港元及香港资产的压力怎样通过结算余额、同业利率、股票与期货市场相连，哪些双重交易说法有证据？",
+        "当时货币发行局运行、流动性支持与后来优化各改变了什么；为什么2005的7.75—7.85不能倒写到1998？",
+        "外汇防卫、市场干预及银行流动性之间存在何种取舍，今天总结余变化可以从此历史获得什么有条件的理解？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先重读现页HKMA 1983/2005制度材料及港元—HIBOR机制页。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：金管局1997—99年报、1998年市场操作及技术措施原始公报、立法会材料；中文原版优先保留。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "对象页补1997—98制度与交易约束的历史段落，保留2025操作窗口。",
+        "港元历史事件模块由本任务维护，给HIBOR关系提交必要修改建议。"
+      ],
+      "acceptance_checks": [
+        "利率、余额与操作日期区分交易日、公告日和结算日，制度参数按当年版本。",
+        "解释所选措施如何改现金或激励，并同时处理政策方叙述与有材料的争议。"
+      ],
+      "neighbor_ids": [
+        "R-INTERNATIONAL-14",
+        "C-FX-USD",
+        "C-FX-02"
+      ],
+      "shared_event_responsibility": "负责香港1997—98及联系汇率操作演变；18负责其他亚洲经济体外币负债模块，共同外部环境以链接接合。",
+      "dependencies": [],
+      "priority": 2,
+      "sequence": 10,
+      "title": "港元联系汇率",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/港元联系汇率.md",
+      "input_sha256": "4d3c1db1cc5c9026aee2b3e44eb86b38eb87e1cab10b76cc64abdb3561e4afa1",
+      "evidence_as_of_in_current_page": "2025-10-22",
+      "existing_source_ids": [
+        "S-C-FX-05-01",
+        "S-C-FX-05-02",
+        "S-C-FX-05-03",
+        "S-C-FX-05-04",
+        "S-C-FX-05-05",
+        "S-C-FX-05-06",
+        "S-C-FX-05-07"
+      ],
+      "current_history_sections": [
+        "## 本对象的历史",
+        "### 2025年：先注入港元，再出现弱方操作"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/10_C-FX-05.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/10_C-FX-05",
+      "neighbors": [
+        {
+          "id": "R-INTERNATIONAL-14",
+          "title": "港元联系汇率与HIBOR传导",
+          "path": "graph/20_mechanisms/港元联系汇率与HIBOR传导.md"
+        },
+        {
+          "id": "C-FX-USD",
+          "title": "美元",
+          "path": "graph/10_concepts/美元.md"
+        },
+        {
+          "id": "C-FX-02",
+          "title": "人民币与离岸人民币",
+          "path": "graph/10_concepts/人民币与离岸人民币.md"
+        }
+      ]
+    },
+    {
+      "id": "C-FX-02",
+      "current_coverage": "已有2013 CNH期货、2014在岸波幅、经RBA回顾的2015—17流动性压力、2025—26 RBF/PLP，另有2026年3月贸易与11月结汇/政策判断；现页明确未取得2015—16原始日序。",
+      "research_questions": [
+        "2015年中间价改革具体改变哪道定价程序，市场如何从公告与实际操作形成新的预期？",
+        "2015—16 CNY/CNH价差、离岸资金利率与跨境通道约束怎样相互作用，极端利率对应谁的借款和到期责任？",
+        "离岸设施后来如何缓和期限或用途问题，不能从额度直接推断哪些价格结果？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先核现页RBA回顾与港金管局设施公告的范围。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：中国人民银行2015年中间价改革公告及后续说明、香港财资市场公会CNH HIBOR历史、HKMA离岸资金资料；需核访问权限与数据时点。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "扩充现有2015—17小节为可读的制度—定价—现金路径，保留全部2026补录及既有较晚截止。",
+        "2015—16人民币市场事件由本任务维护，人民币国际化机制只按证据提修订建议。"
+      ],
+      "acceptance_checks": [
+        "报价方向、CNY/CNH、定盘/成交和隔夜年化利率不混用。",
+        "不能用2026回顾冒充2015已知信息；对无法获得的逐日原始证据不填造峰值日期。"
+      ],
+      "neighbor_ids": [
+        "C-FX-05",
+        "R-RMB-INTERNATIONALIZATION",
+        "C-FX-17"
+      ],
+      "shared_event_responsibility": "负责2015—16人民币市场模块；与10联系汇率、18美元融资分别说明制度差异，不合写“亚洲货币危机”模板。",
+      "dependencies": [],
+      "priority": 2,
+      "sequence": 11,
+      "title": "人民币与离岸人民币",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/人民币与离岸人民币.md",
+      "input_sha256": "2cdffdaba739d7e05a04975802cd40dce8877a66c447cbbcfa15aa6a354b45de",
+      "evidence_as_of_in_current_page": "2026-11-04",
+      "existing_source_ids": [
+        "S-C-FX-02-01",
+        "S-C-FX-02-02",
+        "S-C-FX-02-03",
+        "S-C-FX-02-04",
+        "S-C-FX-02-05",
+        "S-WS-3785129",
+        "S-WS-3767144"
+      ],
+      "current_history_sections": [
+        "## 本对象的历史与预期",
+        "## 2026年3月补录：出口强与结汇支持的不同环节",
+        "## 2026年11月补录：升值中的政策与结汇选择"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/11_C-FX-02.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/11_C-FX-02",
+      "neighbors": [
+        {
+          "id": "C-FX-05",
+          "title": "港元联系汇率",
+          "path": "graph/10_concepts/港元联系汇率.md"
+        },
+        {
+          "id": "R-RMB-INTERNATIONALIZATION",
+          "title": "人民币国际化",
+          "path": "graph/20_mechanisms/人民币国际化.md"
+        },
+        {
+          "id": "C-FX-17",
+          "title": "套息交易",
+          "path": "graph/10_concepts/套息交易.md"
+        }
+      ]
+    },
+    {
+      "id": "C-FLOW-05",
+      "current_coverage": "现页完整区分一级申赎、二级交易、份额与AUM，已有2019 Rule 6c-11、2023—24统计与韩国杠杆ETF入口；缺少压力期价格形成与实际申赎通道的纵深比较。",
+      "research_questions": [
+        "2015年8月股票ETF或2020年3月债券ETF的折溢价，在何种条件下反映篮子难交易、报价滞后或套利受限？",
+        "授权参与人、做市商与基金各有什么义务，实际申赎篮子和现金替代如何改变成交与融资？",
+        "压力期ETF市价可能提供什么信息；怎样区分净值陈旧、价格发现与真实赎回困难？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先读现页SEC/ICI来源及ETF申赎套利关系，保持与杠杆再平衡关系分工。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：SEC 2015年8月24日市场报告、Fed/SEC/FSB对2020债券基金研究、具体基金压力日篮子/产品披露；先筛选最能回答问题的市场。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "对象页补申赎权利与压力期市场表现，向ETF套利关系提交有证据的适用条件修订。",
+        "维护2020 ETF模块（或阅读后选定的其他压力事件模块），与04货基的共同2020入口接合。"
+      ],
+      "acceptance_checks": [
+        "所选价格与NAV的估值时间、底层债券报价及产品范围可以对齐。",
+        "不能由折价直接判套利失灵，也不能由二级成交放大推基金净申购；杠杆ETF机械买卖另有维护者。"
+      ],
+      "neighbor_ids": [
+        "R-MARKET-04",
+        "R-MARKET-05",
+        "C-S2-LEVERAGED-ETF"
+      ],
+      "shared_event_responsibility": "本任务唯一维护所选ETF压力事件模块；04维护货基模块。2020可共享入口并各有子模块，无须把所有市场塞入单篇长事件。",
+      "dependencies": [],
+      "priority": 2,
+      "sequence": 12,
+      "title": "ETF申赎与二级市场交易",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/ETF申赎与二级市场交易.md",
+      "input_sha256": "8892517f74cc336cb37e2faceda1df6911169a48d0912c0e573299a900cef78e",
+      "evidence_as_of_in_current_page": "2026-10-20",
+      "existing_source_ids": [
+        "S-C-FLOW-05-01",
+        "S-C-FLOW-05-02",
+        "S-C-FLOW-05-03",
+        "S-C-FLOW-05-04",
+        "S-C-FLOW-05-05",
+        "S-WS-3784053"
+      ],
+      "current_history_sections": [
+        "## 本对象的历史与判断",
+        "### 2019年：美国申赎制度从逐案豁免走向统一规则",
+        "### 2023—2024：交易活跃和净发行是两条不同历史"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/12_C-FLOW-05.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/12_C-FLOW-05",
+      "neighbors": [
+        {
+          "id": "R-MARKET-04",
+          "title": "ETF申赎套利",
+          "path": "graph/20_mechanisms/ETF申赎套利.md"
+        },
+        {
+          "id": "R-MARKET-05",
+          "title": "指数调整的被动资金效应",
+          "path": "graph/20_mechanisms/指数调整的被动资金效应.md"
+        },
+        {
+          "id": "C-S2-LEVERAGED-ETF",
+          "title": "杠杆ETF",
+          "path": "graph/10_concepts/杠杆ETF.md"
+        }
+      ]
+    },
+    {
+      "id": "C-CRYPTO-03",
+      "current_coverage": "现页已有详细USDC/SVB 2023脱锚、Circle资本承诺和恢复赎回、Dai传播；已比较2025年末储备及2026合约版本。基础并不薄，增量需要结构对比。",
+      "research_questions": [
+        "2022 Terra/UST的兑换承诺如何在现实压力下改变代币供给和承接能力，与USDC的外部储备/银行通道风险有何不同？",
+        "算法、抵押和混合标签是否遮蔽了实际损失承担，哪些储备支持、交易安排或机构行为改变了失效顺序？",
+        "将两段历史用于今天稳定币分析，可以提出哪些有观察依据的锚定条件，而无需把所有币归为同一挤兑？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先重读本页2023事件、USDC/USDT条款和储备鉴证范围。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：Terra历史机制文件及可追溯版本、2022危机调查/司法披露、BIS或Fed对稳定币结构差异的研究；事后诉讼材料与当时承诺分别标时点。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "对象页补2022 UST与现有2023储备型案例的结构比较，可按材料修订“锚定方式决定谁损失”的表述。",
+        "维护2022 UST模块；2023已有链条优先复用，只有实质新证据才扩写。"
+      ],
+      "acceptance_checks": [
+        "能画出实际兑换、增发、出售与损失承担路径，分清市场报价、规则与履行。",
+        "不将2026现行条款倒用于2022/2023；不靠“算法币一定失败”口号代替解释。"
+      ],
+      "neighbor_ids": [
+        "R-CRYPTO-02",
+        "C-MONEY-19",
+        "C-CREDIT-15"
+      ],
+      "shared_event_responsibility": "负责稳定币结构反例与2022 UST模块；银行历史或2020货基只链接，不重写他人共同背景。",
+      "dependencies": [],
+      "priority": 3,
+      "sequence": 13,
+      "title": "稳定币",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/稳定币.md",
+      "input_sha256": "fc4894c2b82e507aa90e7effd9105214b87c59e6a138f2991256db731827f0dc",
+      "evidence_as_of_in_current_page": "2026-10-15",
+      "existing_source_ids": [
+        "S-C-CRYPTO-03-01",
+        "S-C-CRYPTO-03-02",
+        "S-C-CRYPTO-03-03",
+        "S-C-CRYPTO-03-04",
+        "S-C-CRYPTO-03-05",
+        "S-C-CRYPTO-03-06",
+        "S-C-CRYPTO-03-07"
+      ],
+      "current_history_sections": [
+        "## 历史、当时承诺与后来观察"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/13_C-CRYPTO-03.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/13_C-CRYPTO-03",
+      "neighbors": [
+        {
+          "id": "R-CRYPTO-02",
+          "title": "稳定币发行赎回对短券需求的影响",
+          "path": "graph/20_mechanisms/稳定币发行赎回对短券需求的影响.md"
+        },
+        {
+          "id": "C-MONEY-19",
+          "title": "货币市场基金",
+          "path": "graph/10_concepts/货币市场基金.md"
+        },
+        {
+          "id": "C-CREDIT-15",
+          "title": "挤兑与存款迁移",
+          "path": "graph/10_concepts/挤兑与存款迁移.md"
+        }
+      ]
+    },
+    {
+      "id": "C-FX-17",
+      "current_coverage": "已有2007后CIP偏离、2021—24融资增长的用途边界、2024年7—8月套息平仓及之后回稳、BIS规模估算与反事实条件。2024案例和统计已经较充分。",
+      "research_questions": [
+        "更早日元融资与平仓历史（优先调查1998）中，利差、融资币汇率、期限和杠杆分别贡献什么？",
+        "与2024相比，融资工具、投资者、对冲比例及承接能力怎样改变集中平仓的可能性？",
+        "哪些公开头寸与资金数据能够支持套息解释，哪些只能提供局部代理，如何避免把全部日元贷款归为投机？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先重读现页BIS Bulletin 90与头寸统计说明，联读日元套息平仓反馈。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：BIS 1998—99市场回顾、日银历史报告、当时交易或风险披露；若1998证据不能支撑净套息解释，允许改选有清楚交易证据的历史或放弃增量。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "对象页在既有2024完整案例之上补更早交易结构与识别方法的比较。",
+        "通用保证金反馈交16；不因时间相邻把LTCM全部资产称作日元套息。"
+      ],
+      "acceptance_checks": [
+        "未对冲套息、汇率对冲后的投资和覆盖利率平价有清楚现金流区别。",
+        "历史规模的银行贷款、名义本金、期货与净头寸不简单相加；能够解释至少一项现有推断的识别边界。"
+      ],
+      "neighbor_ids": [
+        "R-JPY-CARRY",
+        "R-FX-PARITY",
+        "R-LIQ-SPIRAL"
+      ],
+      "shared_event_responsibility": "负责所选日元融资交易模块；若涉及1998 LTCM，机构处置与共同减仓主线由16维护，本任务仅提交融资币和头寸证据。",
+      "dependencies": [
+        "R-LIQ-SPIRAL"
+      ],
+      "priority": 3,
+      "sequence": 14,
+      "title": "套息交易",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/套息交易.md",
+      "input_sha256": "d94a8fbd8cf591b405c6666c8352a35581dd62bf646a8dbde047e1ac3bdecef5",
+      "evidence_as_of_in_current_page": "2025-06",
+      "existing_source_ids": [
+        "S-C-FX-17-01",
+        "S-C-FX-17-02",
+        "S-C-FX-17-03",
+        "S-C-FX-17-04"
+      ],
+      "current_history_sections": [
+        "## 本对象的历史与带归属的预期"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/14_C-FX-17.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/14_C-FX-17",
+      "neighbors": [
+        {
+          "id": "R-JPY-CARRY",
+          "title": "日元套息交易的平仓反馈",
+          "path": "graph/20_mechanisms/日元套息交易的平仓反馈.md"
+        },
+        {
+          "id": "R-FX-PARITY",
+          "title": "利率平价",
+          "path": "graph/20_mechanisms/利率平价.md"
+        },
+        {
+          "id": "R-LIQ-SPIRAL",
+          "title": "保证金驱动的流动性螺旋",
+          "path": "graph/20_mechanisms/保证金驱动的流动性螺旋.md"
+        }
+      ]
+    },
+    {
+      "id": "C-WS-3784306-NDX",
+      "current_coverage": "该页说明Nasdaq-100定义、修正市值权重与重组方法，联接2026年10月科技股—美债相关性窗口；明确未恢复当时成分权重或总回报，尚无科技资本周期历史。",
+      "research_questions": [
+        "1998—2002年互联网繁荣与回落中，指数成分、盈利/融资预期和集中度如何变化，指数到底代表了谁？",
+        "从当年成分与融资条件理解回撤，哪些变化来自估值、盈利与幸存者替换，不能用今天的巨头反推？",
+        "这段经历怎样帮助今天用NDX观察AI资本周期，哪些比较需要公司现金流、资本支出与权重证据支持？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先核现页Nasdaq 2026方法书的阅读范围，以及SOX和标普500的对象边界。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：Nasdaq历史方法/成分与价格及总回报说明、SEC当年企业披露、BIS/Fed对互联网投资周期的研究；历史数据不可得时不编造组合归因。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "对象页增补科技资本周期与指数代表性演变，保留2026年相关性例子的有限解释。",
+        "若需要互联网周期事件独立维护，由本任务交草案；不默认新增每一家公司的子概念。"
+      ],
+      "acceptance_checks": [
+        "指数版本、价格/总回报、日期及当时成分能追溯，不能混同纳指综合指数。",
+        "现实AI类比指出融资和盈利结构的可比位置与关键变化；指数价格本身不被当作盈利或需求的直接证据。"
+      ],
+      "neighbor_ids": [
+        "C-S2-SOX",
+        "C-EQ-ERP",
+        "R-MARKET-05"
+      ],
+      "shared_event_responsibility": "负责互联网科技资本周期与NDX代表性模块；与近期AI事件仅建立具体比较入口，避免另造泛化AI泡沫主题。",
+      "dependencies": [],
+      "priority": 2,
+      "sequence": 15,
+      "title": "纳斯达克100指数",
+      "type": "concept",
+      "formal_path": "graph/10_concepts/纳斯达克100指数.md",
+      "input_sha256": "b348241e7cc8de4d026477685d13d29555d52cda839965227840ffb3c4a2dfa0",
+      "evidence_as_of_in_current_page": "2026-11-16",
+      "existing_source_ids": [
+        "S-WS-3784306"
+      ],
+      "current_history_sections": [],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/15_C-WS-3784306-NDX.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/15_C-WS-3784306-NDX",
+      "neighbors": [
+        {
+          "id": "C-S2-SOX",
+          "title": "费城半导体指数SOX",
+          "path": "graph/10_concepts/费城半导体指数SOX.md"
+        },
+        {
+          "id": "C-EQ-ERP",
+          "title": "股权风险溢价ERP",
+          "path": "graph/10_concepts/股权风险溢价ERP.md"
+        },
+        {
+          "id": "R-MARKET-05",
+          "title": "指数调整的被动资金效应",
+          "path": "graph/20_mechanisms/指数调整的被动资金效应.md"
+        }
+      ]
+    },
+    {
+      "id": "R-LIQ-SPIRAL",
+      "current_coverage": "已充分解释损失与保证金螺旋、IM/VM/haircut区别，已有2022英国LDI的700亿英镑要求、出售和干预、2024 SWES；2025美债压力未见大规模基差拆仓作为边界，另有2026杠杆状态。",
+      "research_questions": [
+        "从1998 LTCM等更早事件，能否取得头寸损失、融资收紧、共同出售与市场承接之间的实际顺序，补足现有主要依靠LDI的经验？",
+        "跨机构净经济风险与逐账户即时现金为何分离，损失、保证金调高与融资撤回各扮演什么角色？",
+        "将早期案例与既有LDI、2025未成螺旋反例并置，哪些条件决定反馈被放大、转移或阻断？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先重读现页BoE LDI、SWES和Perli讲话原有核读范围。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：总统金融市场工作组1999 LTCM报告、纽约联储相关档案、当事机构披露和对照研究；若实际证据更适合其他事件可改选。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "机制页以更早历史和既有反例校正逻辑适用条件，保留LDI及2025未见特定拆仓的限定。",
+        "维护LTCM/共同减仓事件模块，03提供haircut合同片段，14提供日元融资片段。"
+      ],
+      "acceptance_checks": [
+        "能追踪至少一段真实付款/融资/出售顺序，不凭高杠杆与下跌判定螺旋。",
+        "算例、汇总估计、实际现金要求与最终损失分开，干预如何改变约束可读。"
+      ],
+      "neighbor_ids": [
+        "C-DERIV-14",
+        "C-CREDIT-10",
+        "C-LIQ-FUND",
+        "C-FX-17"
+      ],
+      "shared_event_responsibility": "负责LTCM/共同减仓主线；已有LDI按现页维护。03负责条款证据，14负责融资币交易；2008共同叙事仍交01。",
+      "dependencies": [],
+      "priority": 1,
+      "sequence": 16,
+      "title": "保证金驱动的流动性螺旋",
+      "type": "mechanism",
+      "formal_path": "graph/20_mechanisms/保证金驱动的流动性螺旋.md",
+      "input_sha256": "20be8f5f75ace64ee4031a319cc3f0f2aee902b8a3c116895dfa59b75db29576",
+      "evidence_as_of_in_current_page": "2026-05-28",
+      "existing_source_ids": [
+        "S-R-LIQ-SPIRAL-01",
+        "S-R-LIQ-SPIRAL-02",
+        "S-R-LIQ-SPIRAL-03",
+        "S-R-LIQ-SPIRAL-04",
+        "S-R-LIQ-SPIRAL-05"
+      ],
+      "current_history_sections": [
+        "### 该逻辑的时间线",
+        "### 该逻辑的时间线"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/16_R-LIQ-SPIRAL.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/16_R-LIQ-SPIRAL",
+      "neighbors": [
+        {
+          "id": "C-DERIV-14",
+          "title": "保证金与追加保证金",
+          "path": "graph/10_concepts/保证金与追加保证金.md"
+        },
+        {
+          "id": "C-CREDIT-10",
+          "title": "抵押品与折扣率haircut",
+          "path": "graph/10_concepts/抵押品与折扣率haircut.md"
+        },
+        {
+          "id": "C-LIQ-FUND",
+          "title": "融资流动性",
+          "path": "graph/10_concepts/融资流动性.md"
+        },
+        {
+          "id": "C-FX-17",
+          "title": "套息交易",
+          "path": "graph/10_concepts/套息交易.md"
+        }
+      ]
+    },
+    {
+      "id": "R-FISCAL-11",
+      "current_coverage": "已讲持债资本/抵押渠道及担保财政反馈；有2008—10爱尔兰、2014—25持仓/CET1变化、2025 FSR与2026制度讨论。已有欧债历史，尚缺不同起点的实证对照和对官方解释的交叉核读。",
+      "research_questions": [
+        "爱尔兰从银行损失进入主权，与2010—12另一个欧元区国家从主权或债券重估进入银行，起点、负担分配和资金顺序如何不同？",
+        "持债估值、抵押品可用性、批发融资与担保义务能否各自找到证据，银行/主权CDS共振还可由什么解释？",
+        "央行流动性、债权减记、注资与共同处置安排分别切断哪段反馈；哪些成本及争议被现有单一官方回顾省略？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "重读现页ECB Irish letters的实际阅读范围与近期Buch演讲，不能假定原信件已读。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：爱尔兰调查委员会/财政与审计披露、IMF欧元区或相关国家评估、ECB当时抵押品和流动性公告；对照国根据材料决定。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "机制页深化并交叉核验既有爱尔兰小节，加入足以辨认不同起点的对照解释。",
+        "负责欧债时期银行—主权反馈模块；邻接主权信用及银行资本页提交直接相关改写建议。"
+      ],
+      "acceptance_checks": [
+        "担保额度、央行贷款余额、注资额与最终财政净成本不互换，证据日期分明。",
+        "比较制度和损失承担时不将欧元区特征写成所有主权货币国家的统一参数。"
+      ],
+      "neighbor_ids": [
+        "C-FISCAL-14",
+        "C-CREDIT-02",
+        "C-CREDIT-15"
+      ],
+      "shared_event_responsibility": "本任务维护欧债时期银行—主权模块；2008全球信用危机共同背景引用01，只写爱尔兰特有承担与反馈。",
+      "dependencies": [],
+      "priority": 1,
+      "sequence": 17,
+      "title": "主权信用与银行资产负债表反馈",
+      "type": "mechanism",
+      "formal_path": "graph/20_mechanisms/主权信用与银行资产负债表反馈.md",
+      "input_sha256": "7c51a0dc353b8d12e396277fc455962b91fa2c3fcf63712e567630f63a453a9f",
+      "evidence_as_of_in_current_page": "2026-05-19",
+      "existing_source_ids": [
+        "S-R-FISCAL-11-01",
+        "S-R-FISCAL-11-02",
+        "S-R-FISCAL-11-03"
+      ],
+      "current_history_sections": [
+        "### 该逻辑的时间线",
+        "### 该逻辑的时间线"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/17_R-FISCAL-11.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/17_R-FISCAL-11",
+      "neighbors": [
+        {
+          "id": "C-FISCAL-14",
+          "title": "主权信用风险与CDS",
+          "path": "graph/10_concepts/主权信用风险与CDS.md"
+        },
+        {
+          "id": "C-CREDIT-02",
+          "title": "银行资本与杠杆率",
+          "path": "graph/10_concepts/银行资本与杠杆率.md"
+        },
+        {
+          "id": "C-CREDIT-15",
+          "title": "挤兑与存款迁移",
+          "path": "graph/10_concepts/挤兑与存款迁移.md"
+        }
+      ]
+    },
+    {
+      "id": "R-USD-GLOBAL",
+      "current_coverage": "已有美元债务错配、掉期展期、风险承担三条逻辑；覆盖2008—09与2020互换峰值、2013/2021常设安排、2022/2024掉期规模和2025美元走弱但未见融资紧张的反例。",
+      "research_questions": [
+        "1997—98亚洲某个具体经济体中，银行/企业外币负债、储备可用性和短期展期如何把汇率变化转成实际偿付压力？",
+        "选择币种错配或跨境银行融资的实际路径，与现有2008/2020掉期现金压力有何不同，哪些解释不能由美元升值独立识别？",
+        "当时政策支持、资本流动安排或外债展期在哪个环节奏效，官方工具的资格与最终美元到达谁手中？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先读现页2008/2020工具及2025反例来源，邻接跨币种基差和美元对象页。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：IMF独立评估办公室亚洲危机评估、BIS当年国际银行统计/回顾、所选国家央行和当时外债展期材料；可优先韩国以便辨认短期外币债务，不预定结论。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "机制页以更早真实借款和付款路径深化币种/期限错配逻辑，保留现有危机工具和反例。",
+        "负责亚洲危机所选经济体的美元负债模块；若补2020，只维护跨境美元模块并与04/12共同入口协调。"
+      ],
+      "acceptance_checks": [
+        "到期短债、总外债、可用储备和名义掉期额各有范围，净/总与流量/余额可辨。",
+        "不将外债总额当立即美元缺口；能说明政策资金实际准入及传递限制。"
+      ],
+      "neighbor_ids": [
+        "C-FX-USD",
+        "C-LIQ-FUND",
+        "C-FX-10",
+        "R-FX-PARITY"
+      ],
+      "shared_event_responsibility": "负责亚洲外币负债及跨境美元模块；10维护香港制度压力；2008共同入口交01，2020资金/ETF模块分别由04/12维护。",
+      "dependencies": [],
+      "priority": 1,
+      "sequence": 18,
+      "title": "美元融资依赖的传导机制",
+      "type": "mechanism",
+      "formal_path": "graph/20_mechanisms/美元融资依赖的传导机制.md",
+      "input_sha256": "fb52d78b4541d2769eba2df71f738853951c9fe732cbb348359f88dbaf0b926a",
+      "evidence_as_of_in_current_page": "2025-12",
+      "existing_source_ids": [
+        "S-R-USD-GLOBAL-01",
+        "S-R-USD-GLOBAL-02",
+        "S-R-USD-GLOBAL-03",
+        "S-R-USD-GLOBAL-04",
+        "S-R-USD-GLOBAL-05"
+      ],
+      "current_history_sections": [
+        "### 该逻辑的时间线",
+        "### 该逻辑的时间线",
+        "### 该逻辑的时间线"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/18_R-USD-GLOBAL.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/18_R-USD-GLOBAL",
+      "neighbors": [
+        {
+          "id": "C-FX-USD",
+          "title": "美元",
+          "path": "graph/10_concepts/美元.md"
+        },
+        {
+          "id": "C-LIQ-FUND",
+          "title": "融资流动性",
+          "path": "graph/10_concepts/融资流动性.md"
+        },
+        {
+          "id": "C-FX-10",
+          "title": "跨币种基差",
+          "path": "graph/10_concepts/跨币种基差.md"
+        },
+        {
+          "id": "R-FX-PARITY",
+          "title": "利率平价",
+          "path": "graph/20_mechanisms/利率平价.md"
+        }
+      ]
+    },
+    {
+      "id": "R-DEBT-DEFLATION",
+      "current_coverage": "现页已有债务/收入/价格算例、BIS 140年跨国研究的反例、日本资产价格先跌而CPI通缩后至的先后辨析，及2026年IMF/中国当局对2025的分歧。日本并非缺席。",
+      "research_questions": [
+        "1930年代美国的名义收入、债务清偿、银行失灵与价格变化如何相互作用，Fisher解释得到哪些史料支持，哪些仍有竞争解释？",
+        "日本1990年代之后的资产负债表修复中，坏账确认、银行资本、借款人支出与温和CPI通缩的时序，怎样深化现有先后辨析？",
+        "哪些价格下降伴随收入增长而未形成债务反馈；债务重组、损失承认和流动性支持分别作用于哪个约束？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先重读BIS 2015长期研究Box 2及现有IMF中国报告，保留双方当时立场。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：Fisher 1933原文、Fed大萧条资料与竞争性研究、日银/日本金融监管坏账和银行重整历史；只选能推进机制辨析的部分。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "机制页增补债务反馈的历史起点、竞争解释及日本实际修复过程；保留现有中国条件判断的信息边界。",
+        "维护1930年代美国/日本修复的必要事件模块，金融周期页仅提交增量建议。"
+      ],
+      "acceptance_checks": [
+        "商品价格、资产价格、企业收入和本息支出分清，时序不能倒置。",
+        "说明实际偿付约束与宏观支出反馈的证据，保留生产率型价格下降的反例意义。"
+      ],
+      "neighbor_ids": [
+        "C-INF-INFLATION",
+        "C-CREDIT-16",
+        "C-CREDIT-10"
+      ],
+      "shared_event_responsibility": "负责债务通缩经典历史及修复模块；通胀统计基础引用07，保证金共同出售机制引用16。",
+      "dependencies": [],
+      "priority": 2,
+      "sequence": 19,
+      "title": "债务通缩",
+      "type": "mechanism",
+      "formal_path": "graph/20_mechanisms/债务通缩.md",
+      "input_sha256": "4465114c3f3958855b0817cc07914f2e582765e2d6edaf4231ee0f3755509e59",
+      "evidence_as_of_in_current_page": "2026-02-17",
+      "existing_source_ids": [
+        "S-R-DEBT-DEFLATION-01",
+        "S-R-DEBT-DEFLATION-02"
+      ],
+      "current_history_sections": [
+        "### 该逻辑的时间线",
+        "### 该逻辑的时间线"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/19_R-DEBT-DEFLATION.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/19_R-DEBT-DEFLATION",
+      "neighbors": [
+        {
+          "id": "C-INF-INFLATION",
+          "title": "通货膨胀",
+          "path": "graph/10_concepts/通货膨胀.md"
+        },
+        {
+          "id": "C-CREDIT-16",
+          "title": "金融周期",
+          "path": "graph/10_concepts/金融周期.md"
+        },
+        {
+          "id": "C-CREDIT-10",
+          "title": "抵押品与折扣率haircut",
+          "path": "graph/10_concepts/抵押品与折扣率haircut.md"
+        }
+      ]
+    },
+    {
+      "id": "R-OIL-SHOCK",
+      "current_coverage": "已有2023世界银行中断情景、2025—26运输/库存状态、2026柴油传导与情景，且明确引用ECB对2011与2022不同宏观环境的事后比较。旧页有历史对照，但缺经典油冲击的实物流与竞争归因。",
+      "research_questions": [
+        "1973/1979等选定冲击中，实际减产、贸易改道、库存、需求变化和报价制度各怎样影响价格及活动？",
+        "与1986或其他有证据的需求/供给反例比较，为什么相同方向油价变动不对应同一种宏观后果？",
+        "能源涨价经权重、企业成本、工资和货币反应变成何种通胀路径；既有2011/2022比较能支持哪些条件判断？"
+      ],
+      "candidate_historical_materials": [
+        {
+          "direction": "先重读现页世界银行2023情景及Lane对2011/2022的说明，并读09原油对象任务边界。",
+          "reading_status": "candidate_not_read"
+        },
+        {
+          "direction": "候选：EIA/IEA历史油流和库存、当年能源与货币政策材料、Kilian等供给/总需求/预防性需求分解研究；研究模型用于解释争议，不能当原始事实或统一弹性。",
+          "reading_status": "candidate_not_read"
+        }
+      ],
+      "expected_update_targets": [
+        "机制页以实际冲击与反例重写历史及适用条件，保留近年柴油/运输情景的各自信息窗口。",
+        "负责经典石油冲击的实物流与宏观传播模块，向07大通胀共同入口供稿；09负责商品制度与报价演变。"
+      ],
+      "acceptance_checks": [
+        "减产公告、实际产量、可达供给和需求不同，价格单独变化不被用作供给冲击识别。",
+        "经济活动和政策反应按国家与时点解释，不机械套用统一滞后或把1970年代全部归因于石油。"
+      ],
+      "neighbor_ids": [
+        "C-COMMOD-03",
+        "C-COMMOD-13",
+        "C-INF-INFLATION",
+        "C-POL-CREDIBILITY"
+      ],
+      "shared_event_responsibility": "维护油冲击实物流及宏观模块，与07共同入口衔接；09只维护报价/交割/贸易制度，双方互提修订片段。",
+      "dependencies": [
+        "C-COMMOD-03",
+        "C-INF-INFLATION"
+      ],
+      "priority": 1,
+      "sequence": 20,
+      "title": "原油供给冲击的宏观传导",
+      "type": "mechanism",
+      "formal_path": "graph/20_mechanisms/原油供给冲击的宏观传导.md",
+      "input_sha256": "f337dcca231cc8c177d65037c50c1f493e6136eda9757248eaa90d1cc9371fb4",
+      "evidence_as_of_in_current_page": "2026-10-19",
+      "existing_source_ids": [
+        "S-R-OIL-SHOCK-01",
+        "S-R-OIL-SHOCK-02",
+        "S-R-OIL-SHOCK-03",
+        "S-R-OIL-SHOCK-04",
+        "S-WS-3749421",
+        "S-WS-3783904"
+      ],
+      "current_history_sections": [
+        "### 该逻辑的时间线",
+        "### 该逻辑的时间线"
+      ],
+      "status": "awaiting_pilot_review",
+      "task_file": "tasks/20_R-OIL-SHOCK.md",
+      "delivery_directory": "workspaces/node_depth/deliveries/20_R-OIL-SHOCK",
+      "neighbors": [
+        {
+          "id": "C-COMMOD-03",
+          "title": "原油与Brent/WTI",
+          "path": "graph/10_concepts/原油与Brent／WTI.md"
+        },
+        {
+          "id": "C-COMMOD-13",
+          "title": "OPEC与闲置产能",
+          "path": "graph/10_concepts/OPEC与闲置产能.md"
+        },
+        {
+          "id": "C-INF-INFLATION",
+          "title": "通货膨胀",
+          "path": "graph/10_concepts/通货膨胀.md"
+        },
+        {
+          "id": "C-POL-CREDIBILITY",
+          "title": "央行可信度",
+          "path": "graph/10_concepts/央行可信度.md"
+        }
+      ]
+    }
+  ]
+}
